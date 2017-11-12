@@ -1,0 +1,28 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(fantastic-5, quality-3)
+cop(fantastic-5, is-4)
+root(ROOT-0, fantastic-5)
+det(price-8, the-7)
+nsubj(reasonable-14, price-8)
+det(camera-11, the-10)
+prep_of(price-8, camera-11)
+cop(reasonable-14, is-12)
+advmod(reasonable-14, very-13)
+conj_and(fantastic-5, reasonable-14)
+
+=========
+
+root(ROOT-0, Love-1)
+dobj(Love-1, it-2)
+

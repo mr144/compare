@@ -1,0 +1,85 @@
+=========
+
+det(phone-2, this-1)
+nsubj(freezes-3, phone-2)
+root(ROOT-0, freezes-3)
+advmod(using-5, when-4)
+advcl(freezes-3, using-5)
+det(camera-7, the-6)
+dobj(using-5, camera-7)
+advcl(freezes-3, adding-9)
+conj_or(using-5, adding-9)
+dobj(adding-9, pictures-10)
+det(message-13, a-12)
+prep_to(adding-9, message-13)
+
+=========
+
+advmod(unresponsive-6, also-1)
+det(button-4, the-2)
+nn(button-4, power\/unlock-3)
+nsubj(unresponsive-6, button-4)
+dep(unresponsive-6, gets-5)
+root(ROOT-0, unresponsive-6)
+advmod(have-10, sometimes-8)
+nsubj(have-10, i-9)
+xsubj(press-12, i-9)
+parataxis(unresponsive-6, have-10)
+aux(press-12, to-11)
+xcomp(have-10, press-12)
+iobj(press-12, it-13)
+num(times-15, 3-4-14)
+dobj(press-12, times-15)
+advmod(unlocking-17, when-16)
+advcl(press-12, unlocking-17)
+nn(screen-19, teh-18)
+dobj(unlocking-17, screen-19)
+
+=========
+
+nsubjpass(sold-4, I-1)
+aux(sold-4, have-2)
+auxpass(sold-4, been-3)
+root(ROOT-0, sold-4)
+det(lemon-6, a-5)
+dobj(sold-4, lemon-6)
+
+=========
+
+nsubj(bought-3, I-1)
+aux(bought-3, have-2)
+root(ROOT-0, bought-3)
+amod(phones-6, other-4)
+amod(phones-6, used\/refurbished-5)
+dobj(bought-3, phones-6)
+det(past-9, the-8)
+prep_in(phones-6, past-9)
+nsubj(worked-13, they-11)
+aux(worked-13, have-12)
+conj_and(bought-3, worked-13)
+prep_like(worked-13, new-15)
+
+=========
+
+det(phone-2, this-1)
+nsubj(compare-5, phone-2)
+aux(compare-5, does-3)
+neg(compare-5, not-4)
+ccomp(awfull-10, compare-5)
+poss(experience-8, my-7)
+nsubj(awfull-10, experience-8)
+cop(awfull-10, is-9)
+root(ROOT-0, awfull-10)
+
+=========
+
+nsubj(form-5, I-1)
+aux(form-5, will-2)
+neg(form-5, never-3)
+advmod(form-5, by-4)
+root(ROOT-0, form-5)
+det(seller-7, this-6)
+dobj(form-5, seller-7)
+advmod(form-5, ever-8)
+advmod(form-5, again-9)
+

@@ -1,0 +1,96 @@
+=========
+
+dep(own-6, First-1)
+prep_of(own-6, all-3)
+nsubj(own-6, I-5)
+root(ROOT-0, own-6)
+det(Iphone-8, an-7)
+dobj(own-6, Iphone-8)
+num(Iphone-8, 4-9)
+det(Torch-13, this-11)
+nn(Torch-13, Blackberry-12)
+dobj(own-6, Torch-13)
+conj_and(Iphone-8, Torch-13)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(say-4, I-1)
+root(ROOT-0, have-2)
+aux(say-4, to-3)
+xcomp(have-2, say-4)
+complm(business-10, that-5)
+det(Blackberry-7, this-6)
+nsubj(business-10, Blackberry-7)
+cop(business-10, is-8)
+det(business-10, all-9)
+ccomp(say-4, business-10)
+
+=========
+
+det(OS-3, The-1)
+amod(OS-3, new-2)
+nsubj(streamlined-6, OS-3)
+nsubj(nice-8, OS-3)
+cop(streamlined-6, is-4)
+advmod(streamlined-6, very-5)
+root(ROOT-0, streamlined-6)
+conj_and(streamlined-6, nice-8)
+nsubj(tell-13, you-10)
+aux(tell-13, can-11)
+advmod(tell-13, really-12)
+conj_but(streamlined-6, tell-13)
+complm(tool-18, that-14)
+nsubj(tool-18, it-15)
+cop(tool-18, is-16)
+det(tool-18, a-17)
+ccomp(tell-13, tool-18)
+partmod(tool-18, built-19)
+prep_for(built-19, business-21)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+mark(all-5, Whereas-1)
+poss(Iphone-3, my-2)
+nsubj(all-5, Iphone-3)
+cop(all-5, is-4)
+csubj(amy-6, all-5)
+root(ROOT-0, amy-6)
+dobj(amy-6, life-7)
+
+=========
+
+nsubj(nice-3, which-1)
+cop(nice-3, is-2)
+root(ROOT-0, nice-3)
+
+=========
+
+det(torch-2, This-1)
+nsubj(sleek-5, torch-2)
+advmod(sleek-5, though-3)
+cop(sleek-5, is-4)
+root(ROOT-0, sleek-5)
+conj_and(sleek-5, streamlined-7)
+conj_and(sleek-5, shiek-9)
+conj_and(sleek-5, nouvo-12)
+prepc_without(sleek-5, losing-14)
+complm(feel-20, that-15)
+det(business-18, all-17)
+nsubj(feel-20, business-18)
+ccomp(losing-14, feel-20)
+prep_to(feel-20, it-22)
+
+=========
+
+nsubj(carry-2, I-1)
+root(ROOT-0, carry-2)
+dobj(carry-2, both-3)
+nsubj(love-6, I-5)
+conj_and(carry-2, love-6)
+dep(love-6, both-7)
+amod(reasons-10, different-9)
+prep_for(love-6, reasons-10)
+

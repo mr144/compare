@@ -1,0 +1,35 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+dobj(have-2, a-3)
+dep(a-3, had-4)
+prep_since(had-4, dec-6)
+num(dec-6, 2012-7)
+nsubj(works-10, it-9)
+dep(a-3, works-10)
+conj_and(had-4, works-10)
+acomp(works-10, great-11)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+complm(got-5, that-3)
+nsubj(got-5, I-4)
+ccomp(like-2, got-5)
+det(version-7, this-6)
+dobj(got-5, version-7)
+amod(TV-10, smart-9)
+prep_with(got-5, TV-10)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+dobj(use-2, it-3)
+amod(prime-8, netfllx-5)
+nn(prime-8, adn-6)
+nn(prime-8, amazon-7)
+prep_for(use-2, prime-8)
+

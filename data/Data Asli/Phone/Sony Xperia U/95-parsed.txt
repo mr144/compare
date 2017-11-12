@@ -1,0 +1,111 @@
+=========
+
+nsubj(looks-2, Phone-1)
+root(ROOT-0, looks-2)
+acomp(looks-2, beautiful-3)
+det(OS-7, the-5)
+amod(OS-7, android-6)
+nsubj(amazing-9, OS-7)
+cop(amazing-9, is-8)
+conj_and(looks-2, amazing-9)
+
+=========
+
+cc(ability-11, But-1)
+det(purpose-5, the-3)
+amod(purpose-5, main-4)
+nsubj(ability-11, purpose-5)
+det(smartphone-8, the-7)
+prep_of(purpose-5, smartphone-8)
+cop(ability-11, is-9)
+det(ability-11, the-10)
+root(ROOT-0, ability-11)
+aux(use-13, to-12)
+infmod(ability-11, use-13)
+det(internet-15, the-14)
+dobj(use-13, internet-15)
+det(phone-18, the-17)
+prep_from(use-13, phone-18)
+
+=========
+
+cc(comes-3, And-1)
+expl(comes-3, there-2)
+root(ROOT-0, comes-3)
+det(problem-5, the-4)
+dobj(comes-3, problem-5)
+nsubj(comes-3, problem-5)
+
+=========
+
+nn(NOT-3, Wifi-1)
+nn(NOT-3, DOES-2)
+nsubj(WORK-4, NOT-3)
+root(ROOT-0, WORK-4)
+
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+det(ways-5, all-3)
+amod(ways-5, possible-4)
+dobj(tried-2, ways-5)
+prepc_including(ways-5, spending-7)
+nn(hrs-9, couple-8)
+dobj(spending-7, hrs-9)
+aux(update-11, to-10)
+xcomp(spending-7, update-11)
+det(OS-14, the-12)
+nn(OS-14, Android-13)
+dobj(update-11, OS-14)
+
+=========
+
+nsubj(heard-2, I-1)
+root(ROOT-0, heard-2)
+nsubj(problem-7, it-3)
+cop(problem-7, is-4)
+det(problem-7, a-5)
+amod(problem-7, common-6)
+ccomp(heard-2, problem-7)
+det(model-10, this-9)
+prep_in(problem-7, model-10)
+
+=========
+
+cc(sure-5, but-1)
+nsubj(sure-5, I-2)
+cop(sure-5, am-3)
+neg(sure-5, not-4)
+root(ROOT-0, sure-5)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+quantmod(5-5, some-3)
+quantmod(5-5, many-4)
+num(ratings-7, 5-5)
+nn(ratings-7, star-6)
+nsubj(are-2, ratings-7)
+mark(guess-10, so-8)
+nsubj(guess-10, I-9)
+advcl(are-2, guess-10)
+nsubj(got-12, I-11)
+ccomp(guess-10, got-12)
+det(lemon-14, a-13)
+dobj(got-12, lemon-14)
+
+=========
+
+dep(had-3, So-1)
+nsubj(had-3, I-2)
+root(ROOT-0, had-3)
+det(choice-5, no-4)
+dobj(had-3, choice-5)
+aux(return-8, to-7)
+dobj(had-3, return-8)
+conj_but(choice-5, return-8)
+infmod(choice-5, return-8)
+dobj(return-8, it-9)
+

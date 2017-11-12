@@ -1,0 +1,2 @@
+This_DT is_VBZ a_DT GREAT_JJ phone_NN ,_, BUT_NNP it_PRP is_VBZ running_VBG a_DT single_JJ core_NN 1Ghz_NNP CPU_NNP NOT_NNP I_PRP repeat_VBP NOT_RB a_DT dual_JJ core_NN 1.5_CD ghz_NN CPU_NNP ._.
+this_DT is_VBZ NOT_RB cool_JJ !!_NN

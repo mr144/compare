@@ -1,0 +1,55 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(tv-4, this-3)
+nsubj(!!-5, tv-4)
+ccomp(love-2, !!-5)
+nsubj(bought-7, I-6)
+ccomp(!!-5, bought-7)
+dobj(bought-7, something-8)
+poss(apartment-11, my-10)
+prep_for(bought-7, apartment-11)
+poss(bedroom-14, my-13)
+prep_in(bought-7, bedroom-14)
+nsubj(knew-17, I-16)
+parataxis(love-2, knew-17)
+nsubj(big-23, it-18)
+aux(big-23, could-19)
+neg(big-23, not-20)
+cop(big-23, be-21)
+advmod(big-23, too-22)
+ccomp(knew-17, big-23)
+
+=========
+
+nsubj(right-4, This-1)
+cop(right-4, was-2)
+advmod(right-4, also-3)
+root(ROOT-0, right-4)
+poss(range-8, my-6)
+nn(range-8, price-7)
+prep_in(right-4, range-8)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(hook-3, to-2)
+xcomp(Easy-1, hook-3)
+prt(hook-3, up-4)
+advmod(use-8, easy-6)
+aux(use-8, to-7)
+conj_and(Easy-1, use-8)
+
+=========
+
+root(ROOT-0, Simple-1)
+amod(Simple-1, functional-3)
+conj_and(Simple-1, functional-3)
+advmod(what-7, exactly-6)
+dobj(needed-9, what-7)
+rel(needed-9, what-7)
+nsubj(needed-9, I-8)
+conj_and(Simple-1, needed-9)
+rcmod(Simple-1, needed-9)
+

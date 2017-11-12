@@ -1,0 +1,4 @@
+I_PRP have_VBP been_VBN watching_VBG this_DT product_NN for_IN a_DT long_JJ time_NN ._.
+I_PRP got_VBD a_DT great_JJ deal_NN here_RB when_WRB I_PRP decided_VBD to_TO buy_VB ._.
+Shipping_VBG was_VBD quick_JJ and_CC the_DT product_NN arived_VBD in_IN perfect_JJ condition_NN ._.
+Worked_VBD right_RB out_IN of_IN the_DT box_NN ._.

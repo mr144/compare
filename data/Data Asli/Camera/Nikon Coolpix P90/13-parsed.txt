@@ -1,0 +1,131 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+advmod(new-11, especially-7)
+dep(new-11, if-8)
+nsubj(new-11, you-9)
+cop(new-11, are-10)
+dep(camera-5, new-11)
+prep_to(new-11, photography-13)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(camera-4, this-3)
+dobj(got-2, camera-4)
+advmod(got-2, just-5)
+prep_for(got-2, fun-7)
+nsubj(know-11, you-10)
+conj_and(got-2, know-11)
+dobj(love-15, what-12)
+nsubj(love-15, I-14)
+ccomp(know-11, love-15)
+dobj(love-15, it-16)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(takes-4, it-3)
+ccomp(think-2, takes-4)
+dobj(takes-4, pictures-5)
+advmod(takes-4, just-6)
+det(DSLR-9, a-8)
+prep_as(takes-4, DSLR-9)
+prep(DSLR-9, but-10)
+poss(quicker-14, its-11)
+advmod(quicker-14, so-12)
+advmod(quicker-14, much-13)
+dep(but-10, quicker-14)
+mark(point-19, since-15)
+nsubj(point-19, it-16)
+cop(point-19, is-17)
+det(point-19, a-18)
+ccomp(quicker-14, point-19)
+ccomp(quicker-14, shoot-21)
+conj_and(point-19, shoot-21)
+
+=========
+
+nsubj(is-2, Which-1)
+dep(point-12, is-2)
+dep(need-6, exactly-3)
+dep(exactly-3, what-4)
+nsubj(need-6, I-5)
+ccomp(is-2, need-6)
+nsubj(point-12, I-8)
+nsubj(shoot-14, I-8)
+advmod(point-12, really-9)
+aux(point-12, do-10)
+advmod(point-12, just-11)
+root(ROOT-0, point-12)
+conj_and(point-12, shoot-14)
+
+=========
+
+nsubj(take-3, It-1)
+aux(take-3, does-2)
+root(ROOT-0, take-3)
+det(bit-6, a-4)
+amod(bit-6, little-5)
+dobj(take-3, bit-6)
+auxpass(used-9, getting-8)
+prepc_of(bit-6, used-9)
+xcomp(used-9, to-10)
+mark(read-15, if-13)
+nsubj(read-15, you-14)
+advcl(easy-28, read-15)
+det(guide-17, the-16)
+nsubj(quick-19, guide-17)
+advmod(quick-19, real-18)
+xcomp(read-15, quick-19)
+det(modes-23, the-21)
+amod(modes-23, different-22)
+prep_for(quick-19, modes-23)
+nsubj(easy-28, it-25)
+xsubj(use-30, it-25)
+cop(easy-28, is-26)
+advmod(easy-28, real-27)
+conj_but(take-3, easy-28)
+aux(use-30, to-29)
+xcomp(easy-28, use-30)
+
+=========
+
+nsubj(come-4, I-1)
+aux(come-4, have-2)
+advmod(come-4, really-3)
+root(ROOT-0, come-4)
+det(ways-7, a-5)
+amod(ways-7, long-6)
+dobj(come-4, ways-7)
+poss(photography-10, my-9)
+prep_in(ways-7, photography-10)
+
+=========
+
+nsubj(13-4, I-1)
+cop(13-4, am-2)
+quantmod(13-4, only-3)
+root(ROOT-0, 13-4)
+nsubj(camera-11, this-7)
+cop(camera-11, is-8)
+det(camera-11, a-9)
+amod(camera-11, great-10)
+conj_and(13-4, camera-11)
+prep_for(camera-11, me-13)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+

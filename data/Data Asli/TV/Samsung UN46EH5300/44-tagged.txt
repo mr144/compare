@@ -1,0 +1,2 @@
+Great_NNP TV_NNP -_: worked_VBD straight_RB out_IN of_IN the_DT box_NN with_IN various_JJ players_NNS etc._FW ._.
+During_IN normal_JJ use_NN it_PRP always_RB selects_VBZ the_DT device_NN I_PRP want_VBP to_TO use_VB -_: its_PRP$ smarter_RBR than_IN me_PRP !!_SYM

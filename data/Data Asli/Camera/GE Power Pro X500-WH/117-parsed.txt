@@ -1,0 +1,74 @@
+=========
+
+det(nice-3, A-1)
+advmod(nice-3, really-2)
+nsubj(point-4, nice-3)
+nsubj(shoot-6, nice-3)
+root(ROOT-0, point-4)
+conj_and(point-4, shoot-6)
+
+=========
+
+partmod(fantastic-16, Has-1)
+amod(features-3, more-2)
+dobj(Has-1, features-3)
+mark(need-10, than-4)
+det(Joe-7, the-5)
+amod(Joe-7, average-6)
+nsubj(need-10, Joe-7)
+aux(need-10, will-8)
+advmod(need-10, ever-9)
+advcl(Has-1, need-10)
+amod(zoom-14, plus-12)
+det(zoom-14, the-13)
+nsubj(fantastic-16, zoom-14)
+cop(fantastic-16, is-15)
+root(ROOT-0, fantastic-16)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+det(gift-6, a-5)
+prep_as(bought-2, gift-6)
+poss(girlfriend-9, my-8)
+prep_for(bought-2, girlfriend-9)
+nsubj(LOVED-12, she-11)
+conj_and(bought-2, LOVED-12)
+dobj(LOVED-12, it-13)
+
+=========
+
+nsubj(have-5, Several-1)
+poss(friends-4, our-3)
+prep_of(Several-1, friends-4)
+root(ROOT-0, have-5)
+det(cameras-10, the-6)
+amod(cameras-10, super-7)
+amod(cameras-10, expensive-8)
+nn(cameras-10, DSLR-9)
+dobj(have-5, cameras-10)
+nsubj(get-14, they-12)
+advmod(get-14, usually-13)
+conj_and(have-5, get-14)
+dobj(get-14, jealous-15)
+prep_of(jealous-15, hers-17)
+mark(lightweight-23, because-19)
+nsubj(lightweight-23, it-20)
+nsubj(simple-25, it-20)
+xsubj(use-27, it-20)
+cop(lightweight-23, is-21)
+advmod(lightweight-23, so-22)
+advcl(get-14, lightweight-23)
+advcl(get-14, simple-25)
+conj_and(lightweight-23, simple-25)
+aux(use-27, to-26)
+xcomp(lightweight-23, use-27)
+
+=========
+
+nn(!!!-3, HIGHLY-1)
+nn(!!!-3, RECOMMENDED-2)
+root(ROOT-0, !!!-3)
+

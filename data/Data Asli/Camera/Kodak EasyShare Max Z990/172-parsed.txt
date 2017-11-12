@@ -1,0 +1,49 @@
+=========
+
+nsubj(had-4, I-1)
+aux(had-4, have-2)
+neg(had-4, not-3)
+root(ROOT-0, had-4)
+dobj(had-4, any-5)
+det(others-9, the-7)
+nn(others-9, problems-8)
+prep_of(any-5, others-9)
+partmod(others-9, had-10)
+
+=========
+
+nsubj(find-2, I-1)
+root(ROOT-0, find-2)
+det(color-9, this-3)
+amod(color-9, easy-4)
+prep_to(easy-4, use-6)
+conj_and(easy-4, great-8)
+amod(color-9, great-8)
+dobj(find-2, color-9)
+
+=========
+
+nsubj(going-3, Will-1)
+aux(going-3, be-2)
+root(ROOT-0, going-3)
+det(desert-6, the-5)
+prep_to(going-3, desert-6)
+det(weeks-10, a-8)
+amod(weeks-10, few-9)
+prep_in(desert-6, weeks-10)
+nn(pictures-13, sake-12)
+prep_to(going-3, pictures-13)
+det(flowers-16, the-15)
+prep_of(pictures-13, flowers-16)
+nsubj(wait-21, I-18)
+xsubj(see-23, I-18)
+aux(wait-21, can-19)
+neg(wait-21, not-20)
+conj_and(going-3, wait-21)
+aux(see-23, to-22)
+xcomp(wait-21, see-23)
+advmod(turn-26, how-24)
+nsubj(turn-26, they-25)
+ccomp(see-23, turn-26)
+prt(turn-26, out-27)
+

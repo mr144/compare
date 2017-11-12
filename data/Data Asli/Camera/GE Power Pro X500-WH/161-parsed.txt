@@ -1,0 +1,72 @@
+=========
+
+nsubjpass(lost-4, I-1)
+auxpass(lost-4, was-2)
+advmod(lost-4, totally-3)
+root(ROOT-0, lost-4)
+mark(wanted-10, as-5)
+det(time-8, the-7)
+prep_at(wanted-10, time-8)
+nsubj(wanted-10, i-9)
+xsubj(buy-12, i-9)
+advcl(lost-4, wanted-10)
+aux(buy-12, to-11)
+xcomp(wanted-10, buy-12)
+det(camera-14, a-13)
+dobj(buy-12, camera-14)
+nsubj(leave-18, camera-14)
+aux(leave-18, will-16)
+neg(leave-18, not-17)
+rcmod(camera-14, leave-18)
+det(hole-20, a-19)
+dobj(leave-18, hole-20)
+poss(pocket-23, my-22)
+prep_in(hole-20, pocket-23)
+
+=========
+
+nsubj(took-5, I-1)
+advmod(took-5, more-2)
+conj_or(more-2, less-4)
+advmod(took-5, less-4)
+dep(back-19, took-5)
+det(gamble-7, a-6)
+dobj(took-5, gamble-7)
+det(one-10, this-9)
+prep_on(took-5, one-10)
+nsubj(happy-14, I-12)
+cop(happy-14, am-13)
+conj_and(took-5, happy-14)
+dep(back-19, happy-14)
+nsubj(back-19, i-16)
+aux(back-19, did-17)
+neg(back-19, not-18)
+root(ROOT-0, back-19)
+det(horse-22, the-20)
+amod(horse-22, wrong-21)
+dobj(back-19, horse-22)
+
+=========
+
+root(ROOT-0, Good-1)
+dep(Good-1, pictures-2)
+
+=========
+
+nsubj(look-2, Bystanders-1)
+root(ROOT-0, look-2)
+nsubj(thinking-7, it-4)
+prep_with(thinking-7, admiration-6)
+prepc_at(look-2, thinking-7)
+nsubj(camera-14, it-8)
+cop(camera-14, is-9)
+det(camera-14, a-10)
+advmod(hi-tech-12, very-11)
+amod(camera-14, hi-tech-12)
+amod(camera-14, professional-13)
+ccomp(thinking-7, camera-14)
+
+=========
+
+root(ROOT-0, LOL-1)
+

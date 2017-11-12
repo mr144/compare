@@ -1,0 +1,30 @@
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(item-4, this-3)
+dobj(recommend-2, item-4)
+det(people-7, all-6)
+prep_for(item-4, people-7)
+nsubj(wants-9, people-7)
+rcmod(people-7, wants-9)
+det(phone-14, a-10)
+amod(phone-14, nice-11)
+conj_and(nice-11, excellent-13)
+amod(phone-14, excellent-13)
+dobj(wants-9, phone-14)
+
+=========
+
+dep(excellent-2, Perfect-1)
+root(ROOT-0, excellent-2)
+
+=========
+
+advmod(want-6, Really-1)
+det(y-5, the-2)
+amod(y-5, exactly-3)
+nn(y-5, item-4)
+nsubj(want-6, y-5)
+root(ROOT-0, want-6)
+

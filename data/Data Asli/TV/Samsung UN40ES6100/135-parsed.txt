@@ -1,0 +1,29 @@
+=========
+
+advmod(make-2, Just-1)
+root(ROOT-0, make-2)
+acomp(make-2, sure-3)
+nsubj(update-6, you-4)
+advmod(update-6, manually-5)
+ccomp(sure-3, update-6)
+det(firmware-8, the-7)
+nsubj(working-18, firmware-8)
+det(TV-11, the-10)
+prep_on(firmware-8, TV-11)
+prep_via(TV-11, USB-13)
+prep_via(TV-11, everything-15)
+conj_and(USB-13, everything-15)
+aux(working-18, will-16)
+aux(working-18, be-17)
+ccomp(update-6, working-18)
+advmod(working-18, smoothly-19)
+
+=========
+
+amod(I-3, Best-1)
+nn(I-3, TV-2)
+nsubj(owned-6, I-3)
+aux(owned-6, have-4)
+advmod(owned-6, ever-5)
+root(ROOT-0, owned-6)
+

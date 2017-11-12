@@ -1,0 +1,22 @@
+=========
+
+nsubj(display-3, You-1)
+aux(display-3, should-2)
+root(ROOT-0, display-3)
+complm(jail-8, that-4)
+det(phone-6, the-5)
+nsubj(jail-8, phone-6)
+cop(jail-8, is-7)
+ccomp(display-3, jail-8)
+partmod(jail-8, broken-9)
+nsubjpass(displayed-15, it-11)
+aux(displayed-15, should-12)
+neg(displayed-15, not-13)
+auxpass(displayed-15, be-14)
+rcmod(jail-8, displayed-15)
+complm(unlocked-19, that-16)
+nsubjpass(unlocked-19, it-17)
+auxpass(unlocked-19, is-18)
+ccomp(displayed-15, unlocked-19)
+agent(unlocked-19, Apple-21)
+

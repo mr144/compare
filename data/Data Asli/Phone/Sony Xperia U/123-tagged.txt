@@ -1,0 +1,4 @@
+I_PRP liked_VBD the_DT phone_NN design_NN and_CC the_DT android_NN functionality_NN ._.
+But_CC the_DT GPS_NNP never_RB seemed_VBD to_TO get_VB my_PRP$ location_NN even_RB in_IN an_DT open_JJ space_NN ._.
+Hence_RB I_PRP returned_VBD the_DT phone_NN ._.
+This_DT seems_VBZ to_TO common_JJ problem_NN with_IN this_DT phone_NN since_IN there_RB a_DT lot_NN of_IN forum_NN posts_NNS with_IN this_DT issue_NN ._.

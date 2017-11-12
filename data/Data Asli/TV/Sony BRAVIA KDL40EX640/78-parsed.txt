@@ -1,0 +1,112 @@
+=========
+
+nsubjpass(orchestrated-4, Delivery-1)
+auxpass(orchestrated-4, was-2)
+advmod(orchestrated-4, well-3)
+root(ROOT-0, orchestrated-4)
+nsubj(arrived-7, product-6)
+conj_and(orchestrated-4, arrived-7)
+prep_on(arrived-7, time-9)
+amod(service-12, excellent-11)
+prep_with(time-9, service-12)
+mark(changed-15, as-13)
+nsubj(changed-15, I-14)
+advcl(arrived-7, changed-15)
+det(location-18, the-16)
+nn(location-18, delivery-17)
+dobj(changed-15, location-18)
+det(provider-22, the-20)
+nn(provider-22, service-21)
+prep_with(changed-15, provider-22)
+det(minute-26, the-24)
+amod(minute-26, last-25)
+prep_at(changed-15, minute-26)
+
+=========
+
+det(picture-3, The-1)
+nn(picture-3, TV-2)
+nsubj(beautiful-5, picture-3)
+cop(beautiful-5, is-4)
+root(ROOT-0, beautiful-5)
+advmod(beautiful-5, even-6)
+det(room-9, a-8)
+prep_in(beautiful-5, room-9)
+det(lot-12, a-11)
+prep_with(room-9, lot-12)
+prep_of(lot-12, sunlight-14)
+
+=========
+
+det(Netflix-2, The-1)
+nsubj(superb-7, Netflix-2)
+partmod(Netflix-2, built-3)
+prep_in(built-3, client-5)
+cop(superb-7, is-6)
+root(ROOT-0, superb-7)
+advmod(better-10, much-9)
+dep(superb-7, better-10)
+prepc_than(superb-7, connecting-12)
+det(cable-15, the-13)
+nn(cable-15, HDMI-14)
+dobj(connecting-12, cable-15)
+det(time-18, every-17)
+prep_up(connecting-12, time-18)
+dobj(want-20, time-18)
+nsubj(want-20, we-19)
+xsubj(watch-22, we-19)
+rcmod(time-18, want-20)
+aux(watch-22, to-21)
+xcomp(want-20, watch-22)
+det(show-24, a-23)
+dobj(watch-22, show-24)
+
+=========
+
+nsubj(hooked-2, We-1)
+root(ROOT-0, hooked-2)
+dobj(hooked-2, it-3)
+advmod(hooked-2, up-4)
+prep_to(up-4, DirecTV-6)
+amod(results-9, great-8)
+prep_with(hooked-2, results-9)
+
+=========
+
+root(ROOT-0, Skip-1)
+det(3D-3, the-2)
+dep(Skip-1, 3D-3)
+poss(experience-12, its-5)
+neg(experience-12, not-6)
+advmod(experience-12, even-7)
+det(theater-11, the-10)
+prep_close_to(experience-12, theater-11)
+prep_as(3D-3, experience-12)
+
+=========
+
+advmod(complaint-2, Only-1)
+nsubj(system-6, complaint-2)
+cop(system-6, is-3)
+det(system-6, the-4)
+nn(system-6, speaker-5)
+root(ROOT-0, system-6)
+cop(weak-8, is-7)
+rcmod(system-6, weak-8)
+aux(improved-12, could-10)
+auxpass(improved-12, be-11)
+rcmod(system-6, improved-12)
+conj_and(weak-8, improved-12)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+xcomp(recommend-2, getting-3)
+dobj(getting-3, one-4)
+det(systems-10, those-6)
+amod(systems-10, inexpensive-7)
+amod(systems-10, surround-8)
+nn(systems-10, sound-9)
+prep_of(one-4, systems-10)
+

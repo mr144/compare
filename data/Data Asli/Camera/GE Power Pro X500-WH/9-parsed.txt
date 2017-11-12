@@ -1,0 +1,55 @@
+=========
+
+nsubj(happy-5, I-1)
+xsubj(take-16, I-1)
+aux(happy-5, have-2)
+cop(happy-5, been-3)
+advmod(happy-5, very-4)
+root(ROOT-0, happy-5)
+det(quality-8, the-7)
+prep_with(happy-5, quality-8)
+det(shots-11, the-10)
+prep_of(quality-8, shots-11)
+det(ability-14, the-13)
+prep_of(quality-8, ability-14)
+conj_and(shots-11, ability-14)
+aux(take-16, to-15)
+xcomp(happy-5, take-16)
+det(series-18, a-17)
+dobj(take-16, series-18)
+prep_of(series-18, shots-20)
+
+=========
+
+nsubj(took-2, We-1)
+nsubj(set-10, We-1)
+root(ROOT-0, took-2)
+dobj(took-2, it-3)
+det(show-8, a-5)
+nn(show-8, monster-6)
+nn(show-8, truck-7)
+prep_to(took-2, show-8)
+conj_and(took-2, set-10)
+dobj(set-10, it-11)
+num(shots-14, 3-13)
+prep_on(set-10, shots-14)
+
+=========
+
+nsubj(stopped-2, It-1)
+root(ROOT-0, stopped-2)
+det(action-4, the-3)
+dobj(stopped-2, action-4)
+det(trucks-7, the-6)
+prep_with(stopped-2, trucks-7)
+det(air-10, the-9)
+prep_in(stopped-2, air-10)
+
+=========
+
+nsubj(shots-6, They-1)
+cop(shots-6, were-2)
+amod(clean-5, clear-3)
+amod(shots-6, clean-5)
+root(ROOT-0, shots-6)
+

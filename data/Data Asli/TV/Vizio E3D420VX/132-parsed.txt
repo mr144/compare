@@ -1,0 +1,98 @@
+=========
+
+det(TV-4, This-1)
+nn(TV-4, Vizio-2)
+num(TV-4, 3D-3)
+nsubj(works-5, TV-4)
+root(ROOT-0, works-5)
+amod(picture-9, great-6)
+amod(picture-9, great-8)
+dobj(works-5, picture-9)
+num(viewing-12, 3D-11)
+dobj(works-5, viewing-12)
+conj_and(picture-9, viewing-12)
+
+=========
+
+npadvmod(current-2, I-1)
+dep(use-3, current-2)
+root(ROOT-0, use-3)
+dobj(use-3, it-4)
+prep_with(use-3, satellite-6)
+num(channels-8, 3D-7)
+nsubj(use-3, channels-8)
+nn(material-12, You-Tube-10)
+num(material-12, 3D-11)
+nsubj(use-3, material-12)
+conj_and(channels-8, material-12)
+partmod(material-12, using-13)
+det(app-16, the-14)
+amod(app-16, internet-15)
+dobj(using-13, app-16)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(outstanding-5, quality-3)
+cop(outstanding-5, is-4)
+root(ROOT-0, outstanding-5)
+preconj(formats-11, both-7)
+nn(formats-11, 2D-8)
+conj_and(2D-8, 3D-10)
+nn(formats-11, 3D-10)
+prep_in(outstanding-5, formats-11)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(pair-4, a-3)
+dobj(purchased-2, pair-4)
+num(glasses-8, 3D-6)
+amod(glasses-8, clip-on-7)
+prep_of(pair-4, glasses-8)
+nsubj(work-11, glasses-8)
+advmod(work-11, also-10)
+rcmod(glasses-8, work-11)
+acomp(work-11, great-12)
+det(TV-15, this-14)
+prep_with(work-11, TV-15)
+
+=========
+
+det(fault-3, The-1)
+num(fault-3, one-2)
+dobj(found-5, fault-3)
+nsubj(is-6, fault-3)
+nsubj(found-5, I-4)
+rcmod(fault-3, found-5)
+root(ROOT-0, is-6)
+nsubj(provide-10, it-7)
+aux(provide-10, does-8)
+neg(provide-10, not-9)
+ccomp(is-6, provide-10)
+det(simulation-15, any-11)
+number(3D-14, 2D-12)
+dep(3D-14, to-13)
+num(simulation-15, 3D-14)
+dobj(provide-10, simulation-15)
+amod(material-18, non-3D-17)
+prep_for(simulation-15, material-18)
+
+=========
+
+cc(TV-10, But-1)
+det(price-4, the-3)
+prep_for(TV-10, price-4)
+nsubj(TV-10, this-6)
+cop(TV-10, is-7)
+det(TV-10, a-8)
+amod(TV-10, excellent-9)
+root(ROOT-0, TV-10)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

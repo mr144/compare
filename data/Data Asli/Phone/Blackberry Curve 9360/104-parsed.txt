@@ -1,0 +1,57 @@
+=========
+
+det(phone-2, The-1)
+nsubj(unlocked-6, phone-2)
+cop(unlocked-6, is-3)
+advmod(unlocked-6, clearly-4)
+neg(unlocked-6, not-5)
+root(ROOT-0, unlocked-6)
+ccomp(unlocked-6, tried-7)
+det(sim-10, a-8)
+nn(sim-10, caribbean-9)
+dobj(tried-7, sim-10)
+advmod(am-13, where-11)
+nsubj(am-13, i-12)
+advcl(tried-7, am-13)
+prep(am-13, from-14)
+aux(needed-31, had-16)
+aux(have-18, to-17)
+xcomp(needed-31, have-18)
+nsubj(unlocked-20, it-19)
+ccomp(have-18, unlocked-20)
+amod(trouble-24, online-21)
+advmod(much-23, too-22)
+amod(trouble-24, much-23)
+dobj(unlocked-20, trouble-24)
+aux(send-26, to-25)
+xcomp(unlocked-20, send-26)
+prt(send-26, back-27)
+prep_because(send-26, i-29)
+advmod(needed-31, really-30)
+ccomp(unlocked-6, needed-31)
+conj_and(tried-7, needed-31)
+det(phone-33, a-32)
+dobj(needed-31, phone-33)
+
+=========
+
+amod(phone-2, Beware-1)
+nsubj(unlocked-5, phone-2)
+cop(unlocked-5, is-3)
+neg(unlocked-5, not-4)
+root(ROOT-0, unlocked-5)
+
+=========
+
+amod(site-2, recommended-1)
+root(ROOT-0, site-2)
+
+=========
+
+amod(service-2, great-1)
+nsubj(like-6, service-2)
+det(csr-5, no-3)
+amod(csr-5, rude-4)
+dep(service-2, csr-5)
+root(ROOT-0, like-6)
+

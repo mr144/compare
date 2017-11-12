@@ -1,0 +1,51 @@
+=========
+
+amod(smartphone-2, Amazing-1)
+nsubj(!!!-3, smartphone-2)
+root(ROOT-0, !!!-3)
+nsubj(suggest-5, I-4)
+ccomp(!!!-3, suggest-5)
+nsubj(upgrade-7, you-6)
+ccomp(suggest-5, upgrade-7)
+dobj(upgrade-7, it-8)
+nn(4.0-11, Android-10)
+prep_to(upgrade-7, 4.0-11)
+
+=========
+
+dep(touchscreen-5, Good-1)
+dep(Good-1, sound-2)
+amod(touchscreen-5, good-4)
+root(ROOT-0, touchscreen-5)
+
+=========
+
+amod(camera-2, Nice-1)
+root(ROOT-0, camera-2)
+dep(camera-2, with-4)
+amod(options-6, many-5)
+pobj(with-4, options-6)
+
+=========
+
+npadvmod(fast-2, Recharges-1)
+advmod(have-16, fast-2)
+mark(runs-7, though-4)
+det(battery-6, the-5)
+nsubj(runs-7, battery-6)
+advcl(have-16, runs-7)
+xcomp(runs-7, dry-8)
+det(bit-11, a-9)
+amod(bit-11, little-10)
+dobj(dry-8, bit-11)
+advmod(fast-13, too-12)
+advmod(dry-8, fast-13)
+nsubj(have-16, I-15)
+xsubj(recharge-18, I-15)
+root(ROOT-0, have-16)
+aux(recharge-18, to-17)
+xcomp(have-16, recharge-18)
+dobj(recharge-18, it-19)
+det(night-21, every-20)
+tmod(recharge-18, night-21)
+

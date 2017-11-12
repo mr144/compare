@@ -1,0 +1,23 @@
+=========
+
+det(smartphone-2, This-1)
+nsubj(better-4, smartphone-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, curve-6)
+appos(curve-6, galaxy-8)
+nn(optimus-11, LG-10)
+appos(curve-6, optimus-11)
+dep(curve-6, etc.-13)
+
+=========
+
+nsubj(picked-5, I-1)
+aux(picked-5, could-2)
+neg(picked-5, not-3)
+aux(picked-5, have-4)
+root(ROOT-0, picked-5)
+det(phone-8, a-6)
+amod(phone-8, better-7)
+dobj(picked-5, phone-8)
+

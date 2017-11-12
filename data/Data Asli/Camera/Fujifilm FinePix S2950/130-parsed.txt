@@ -1,0 +1,57 @@
+=========
+
+det(Camera-8, The-1)
+nn(Camera-8, Fujifilm-2)
+nn(Camera-8, FinePix-3)
+nn(Camera-8, S2950-4)
+num(Camera-8, 14-5)
+nn(Camera-8, MP-6)
+nn(Camera-8, Digital-7)
+nsubj(has-20, Camera-8)
+nn(Lens-16, Fujinon-10)
+nn(Lens-16, 18x-11)
+nn(Lens-16, Wide-12)
+nn(Lens-16, Angle-13)
+nn(Lens-16, Optical-14)
+nn(Lens-16, Zoom-15)
+prep_with(Camera-8, Lens-16)
+amod(LCD-19, 3-Inch-18)
+prep_with(Camera-8, LCD-19)
+conj_and(Lens-16, LCD-19)
+root(ROOT-0, has-20)
+advmod(pretty-22, really-21)
+amod(design-23, pretty-22)
+dobj(has-20, design-23)
+amod(construction-26, solid-25)
+appos(design-23, construction-26)
+
+=========
+
+csubj(great-16, Has-1)
+det(lot-3, a-2)
+dobj(Has-1, lot-3)
+prep_of(lot-3, features-5)
+det(quality-8, the-7)
+dobj(Has-1, quality-8)
+conj_and(lot-3, quality-8)
+det(pictures-11, the-10)
+prep_of(quality-8, pictures-11)
+prep_of(quality-8, videos-13)
+conj_and(pictures-11, videos-13)
+cop(great-16, are-14)
+advmod(great-16, really-15)
+root(ROOT-0, great-16)
+det(price-19, the-18)
+prep_for(great-16, price-19)
+
+=========
+
+dep(deal-3, Really-1)
+amod(deal-3, good-2)
+root(ROOT-0, deal-3)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, You-2)
+

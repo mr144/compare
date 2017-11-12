@@ -1,0 +1,44 @@
+=========
+
+root(ROOT-0, Hi-1)
+
+=========
+
+nsubj(like-3, I-1)
+xsubj(know-5, I-1)
+aux(like-3, would-2)
+root(ROOT-0, like-3)
+aux(know-5, to-4)
+xcomp(like-3, know-5)
+mark(have-8, if-6)
+nsubj(have-8, you-7)
+advcl(know-5, have-8)
+dobj(have-8, availability-9)
+det(Version-13, the-11)
+nn(Version-13, AT&T-12)
+prep_for(availability-9, Version-13)
+det(phone-16, the-15)
+prep_of(Version-13, phone-16)
+
+=========
+
+nsubj(live-2, I-1)
+root(ROOT-0, live-2)
+prep_in(live-2, Venezuela-4)
+nsubj(use-7, I-6)
+conj_and(live-2, use-7)
+det(network-9, a-8)
+nsubj(compatible-10, network-9)
+xcomp(use-7, compatible-10)
+det(version-14, this-12)
+nn(version-14, phone-13)
+prep_with(compatible-10, version-14)
+
+=========
+
+root(ROOT-0, Thanks-1)
+
+=========
+
+root(ROOT-0, Lucy-1)
+

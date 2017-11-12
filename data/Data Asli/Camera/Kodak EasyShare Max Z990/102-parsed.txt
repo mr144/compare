@@ -1,0 +1,116 @@
+=========
+
+det(camera-2, This-1)
+nsubj(gave-3, camera-2)
+root(ROOT-0, gave-3)
+amod(results-5, excellent-4)
+dobj(gave-3, results-5)
+det(concert-10, an-7)
+amod(concert-10, indoor-8)
+nn(concert-10, rock-9)
+prep_at(gave-3, concert-10)
+
+=========
+
+det(optical-3, The-1)
+amod(optical-3, 30x-2)
+nsubj(was-9, optical-3)
+det(ability-8, the-5)
+amod(ability-8, high-6)
+nn(ability-8, ISO-7)
+conj_and(optical-3, ability-8)
+nsubj(was-9, ability-8)
+root(ROOT-0, was-9)
+advmod(was-9, well-10)
+dobj(expect-16, what-12)
+nsubj(expect-16, you-13)
+aux(expect-16, could-14)
+advmod(expect-16, normally-15)
+prepc_beyond(well-10, expect-16)
+det(price-19, this-18)
+prep_for(expect-16, price-19)
+
+=========
+
+nsubj(considering-4, I-1)
+aux(considering-4, am-2)
+advmod(considering-4, seriously-3)
+root(ROOT-0, considering-4)
+xcomp(considering-4, getting-5)
+det(spare-7, a-6)
+dobj(getting-5, spare-7)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(one-5, a-3)
+amod(one-5, used-4)
+dobj(bought-2, one-5)
+prep_on(bought-2, eBay-7)
+advmod(bought-2, recently-8)
+
+=========
+
+det(images-2, The-1)
+nsubj(crisp-4, images-2)
+aux(crisp-4, are-3)
+root(ROOT-0, crisp-4)
+prep_as(crisp-4, heck-6)
+
+=========
+
+nsubj(see-2, I-1)
+root(ROOT-0, see-2)
+det(tendency-4, some-3)
+nsubj(over-expose-6, tendency-4)
+aux(over-expose-6, to-5)
+xcomp(see-2, over-expose-6)
+nsubj(find-10, I-9)
+conj_and(see-2, find-10)
+nsubj(feels-14, the-11)
+dep(feels-14, build-12)
+acomp(feels-14, quality-13)
+ccomp(find-10, feels-14)
+nsubj(is-18, but-16)
+advmod(is-18, actually-17)
+parataxis(feels-14, is-18)
+neg(is-18, not-19)
+advmod(feels-14, cheap-21)
+
+=========
+
+nsubj(powerhouse-8, Other-1)
+prep_than(Other-1, that-3)
+appos(that-3, this-5)
+cop(powerhouse-8, is-6)
+det(powerhouse-8, a-7)
+root(ROOT-0, powerhouse-8)
+det(tag-13, a-10)
+amod(tag-13, low-11)
+nn(tag-13, price-12)
+prep_with(powerhouse-8, tag-13)
+
+=========
+
+root(ROOT-0, Fool-1)
+poss(friends-4, your-2)
+amod(friends-4, Canon-snob-3)
+dobj(Fool-1, friends-4)
+
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, becomes-2)
+poss(camera-5, my-3)
+amod(camera-5, go-everywhere-4)
+root(ROOT-0, camera-5)
+
+=========
+
+det(DSL-2, The-1)
+nsubj(resting-4, DSL-2)
+aux(resting-4, is-3)
+root(ROOT-0, resting-4)
+advmod(resting-4, comfortably-5)
+

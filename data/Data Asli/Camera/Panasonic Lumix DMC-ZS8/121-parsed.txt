@@ -1,0 +1,38 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+mark(broke-8, because-5)
+poss(TZ3-7, my-6)
+nsubj(broke-8, TZ3-7)
+advcl(bought-2, broke-8)
+prt(broke-8, down-9)
+num(years-12, 3-11)
+prep_after(broke-8, years-12)
+prep_of(years-12, use-14)
+
+=========
+
+advmod(have-5, So-1)
+advmod(So-1, far-2)
+nsubj(have-5, I-3)
+xsubj(discover-7, I-3)
+advmod(have-5, still-4)
+root(ROOT-0, have-5)
+aux(discover-7, to-6)
+xcomp(have-5, discover-7)
+dobj(discover-7, it-8)
+nsubj(am-11, I-10)
+conj_but(have-5, am-11)
+advmod(am-11, quitehappy-12)
+prep_with(am-11, it-14)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(magnificent-4, zoom-2)
+cop(magnificent-4, is-3)
+root(ROOT-0, magnificent-4)
+

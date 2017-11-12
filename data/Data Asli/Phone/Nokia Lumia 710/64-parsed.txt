@@ -1,0 +1,152 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+det(weeks-7, a-5)
+amod(weeks-7, couple-6)
+npadvmod(ago-8, weeks-7)
+advmod(bought-2, ago-8)
+nsubj(love-11, I-10)
+conj_and(bought-2, love-11)
+dobj(love-11, it-12)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(features-6, the-3)
+amod(features-6, exact-4)
+amod(features-6, same-5)
+dobj(has-2, features-6)
+det(lumia-9, the-8)
+prep_as(features-6, lumia-9)
+num(lumia-9, 800-10)
+nsubj(cost-13, it-12)
+conj_and(has-2, cost-13)
+num(dollars-15, 200-14)
+dobj(cost-13, dollars-15)
+advmod(so-17, less-16)
+advmod(cost-13, so-17)
+det(difference-21, The-19)
+amod(difference-21, only-20)
+nsubj(design-24, difference-21)
+cop(design-24, is-22)
+det(design-24, the-23)
+conj_and(has-2, design-24)
+parataxis(has-2, design-24)
+nsubj(care-29, I-26)
+aux(care-29, do-27)
+neg(care-29, not-28)
+conj_and(has-2, care-29)
+det(looks-32, the-31)
+prep_about(care-29, looks-32)
+
+=========
+
+mark(upgraded-3, If-1)
+auxpass(upgraded-3, get-2)
+advcl(going-8, upgraded-3)
+prep_to(upgraded-3, win8-5)
+nsubj(going-8, it-6)
+xsubj(phone-13, it-6)
+aux(going-8, is-7)
+root(ROOT-0, going-8)
+aux(phone-13, to-9)
+cop(phone-13, be-10)
+det(phone-13, the-11)
+amod(phone-13, perfect-12)
+xcomp(going-8, phone-13)
+
+=========
+
+cc(...-2, But-1)
+
+=========
+
+mark(use-3, if-1)
+nsubj(use-3, you-2)
+advcl(do-10, use-3)
+det(feature-6, the-4)
+amod(feature-6, videocall-5)
+dobj(use-3, feature-6)
+nsubj(do-10, you-7)
+aux(do-10, can-8)
+neg(do-10, not-9)
+root(ROOT-0, do-10)
+dobj(do-10, it-11)
+det(phone-14, this-13)
+prep_with(do-10, phone-14)
+mark(have-19, because-15)
+nsubj(have-19, it-16)
+aux(have-19, does-17)
+neg(have-19, not-18)
+advcl(do-10, have-19)
+det(camera-22, a-20)
+amod(camera-22, frontal-21)
+dobj(have-19, camera-22)
+
+=========
+
+nsubj(used-4, I-1)
+aux(used-4, have-2)
+neg(used-4, never-3)
+root(ROOT-0, used-4)
+dobj(used-4, it-5)
+mark(ok-9, so-6)
+nsubjpass(ok-9, I-7)
+auxpass(ok-9, am-8)
+advcl(used-4, ok-9)
+prep_with(ok-9, it-11)
+
+=========
+
+nn(phone-2, Windows-1)
+nsubj(great-5, phone-2)
+num(phone-2, 7-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+
+=========
+
+dep(fast-2, Super-1)
+advmod(live-16, fast-2)
+amod(integration-5, perfct-4)
+nsubj(live-16, integration-5)
+amod(networks-8, social-7)
+prep_with(integration-5, networks-8)
+amod(experiencia-12, great-10)
+nn(experiencia-12, gaming-11)
+appos(networks-8, experiencia-12)
+prep_thanks_to(live-16, xbox-15)
+root(ROOT-0, live-16)
+
+=========
+
+nn(upgrade-3, tango-2)
+prep_with(enabled-10, upgrade-3)
+det(feature-7, the-4)
+amod(feature-7, internet-5)
+nn(feature-7, sharing-6)
+nsubjpass(enabled-10, feature-7)
+aux(enabled-10, will-8)
+auxpass(enabled-10, be-9)
+root(ROOT-0, enabled-10)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+amod(integration-4, skydrive-3)
+dobj(love-2, integration-4)
+
+=========
+
+root(ROOT-0, Perfect-1)
+dep(Perfect-1, phone-2)
+det(price-6, a-4)
+amod(price-6, great-5)
+dep(Perfect-1, price-6)
+conj_and(phone-2, price-6)
+

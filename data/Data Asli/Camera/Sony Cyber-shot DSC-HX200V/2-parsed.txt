@@ -1,0 +1,42 @@
+=========
+
+nsubj(happy-3, I-1)
+cop(happy-3, am-2)
+root(ROOT-0, happy-3)
+det(camera-6, the-5)
+prep_with(happy-3, camera-6)
+
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+rcmod(camera-5, especially-7)
+dep(especially-7, for-8)
+det(price-10, the-9)
+pobj(for-8, price-10)
+
+=========
+
+nsubj(heavy-5, It-1)
+cop(heavy-5, is-2)
+neg(heavy-5, not-3)
+advmod(heavy-5, too-4)
+root(ROOT-0, heavy-5)
+ccomp(heavy-5, has-7)
+nn(lens-9, quality-8)
+dobj(has-7, lens-9)
+amod(workmenship-13, good-12)
+dobj(has-7, workmenship-13)
+conj_and(lens-9, workmenship-13)
+
+=========
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+det(spirit-5, the-4)
+prep_in(is-2, spirit-5)
+prep_of(spirit-5, Minelta-7)
+

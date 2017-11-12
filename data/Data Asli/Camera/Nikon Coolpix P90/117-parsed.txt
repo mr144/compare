@@ -1,0 +1,146 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+amod(cameras-7, many-4)
+amod(cameras-7, Nikon-5)
+amod(cameras-7, digital-6)
+dobj(had-3, cameras-7)
+amod(cameras-7, happy-9)
+prep_with(happy-9, all-11)
+prep_of(all-11, them-13)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(P90-4, the-3)
+dobj(purchased-2, P90-4)
+aux(replace-6, to-5)
+infmod(P90-4, replace-6)
+poss(wife-8, my-7)
+poss(P80-11, wife-8)
+amod(P80-11, stolen-10)
+dobj(replace-6, P80-11)
+
+=========
+
+nsubj(happy-4, We-1)
+nsubj(figured-9, We-1)
+cop(happy-4, were-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(P80-7, the-6)
+prep_with(happy-4, P80-7)
+conj_and(happy-4, figured-9)
+nsubj(upgrade-13, I-10)
+aux(upgrade-13, would-11)
+advmod(upgrade-13, just-12)
+ccomp(figured-9, upgrade-13)
+det(model-17, the-15)
+amod(model-17, new-16)
+prep_to(upgrade-13, model-17)
+
+=========
+
+amod(quality-3, Overall-1)
+nn(quality-3, picture-2)
+nsubj(poor-5, quality-3)
+cop(poor-5, was-4)
+ccomp(life-13, poor-5)
+nsubj(life-13, coloring-7)
+cop(life-13, was-8)
+advmod(life-13, no-9)
+advmod(near-11, where-10)
+pobj(no-9, near-11)
+amod(life-13, areal-12)
+root(ROOT-0, life-13)
+advmod(yellow-18, mostly-16)
+advmod(yellow-18, very-17)
+amod(life-13, yellow-18)
+
+=========
+
+csubj(get-7, Playing-1)
+det(settings-5, the-3)
+amod(settings-5, limited-4)
+prep_with(Playing-1, settings-5)
+aux(get-7, might-6)
+root(ROOT-0, get-7)
+det(picture-10, a-8)
+amod(picture-10, decent-9)
+dobj(get-7, picture-10)
+dep(soon-13, but-11)
+advmod(soon-13, as-12)
+dep(get-7, soon-13)
+mark(changed-17, as-14)
+det(lighting-16, the-15)
+nsubj(changed-17, lighting-16)
+advcl(get-7, changed-17)
+nsubj(was-19, it-18)
+ccomp(changed-17, was-19)
+advmod(was-19, back-20)
+amod(color-23, poor-22)
+prep_to(was-19, color-23)
+
+=========
+
+nsubj(returned-2, I-1)
+nsubj(replaced-11, I-1)
+root(ROOT-0, returned-2)
+dobj(returned-2, it-3)
+quantmod(1-6, only-5)
+prep_after(returned-2, 1-6)
+tmod(returned-2, week-7)
+aux(replaced-11, had-9)
+dobj(replaced-11, it-10)
+conj_and(returned-2, replaced-11)
+det(P90-14, another-13)
+prep_with(replaced-11, P90-14)
+xcomp(replaced-11, thinking-16)
+nsubj(defective-20, it-17)
+cop(defective-20, was-18)
+advmod(defective-20, obviously-19)
+ccomp(thinking-16, defective-20)
+
+=========
+
+nsubj(used-2, We-1)
+root(ROOT-0, used-2)
+det(replacement-4, this-3)
+dobj(used-2, replacement-4)
+quantmod(3-7, about-6)
+num(weeks-8, 3-7)
+prep_for(used-2, weeks-8)
+amod(results-13, only-10)
+advmod(better-12, slightly-11)
+amod(results-13, better-12)
+prep_with(weeks-8, results-13)
+advmod(unacceptable-18, still-16)
+advmod(unacceptable-18, totally-17)
+prep_for(used-2, unacceptable-18)
+conj_but(weeks-8, unacceptable-18)
+
+=========
+
+det(P90-3, The-1)
+amod(P90-3, second-2)
+nsubj(returned-6, P90-3)
+aux(returned-6, was-4)
+advmod(returned-6, also-5)
+root(ROOT-0, returned-6)
+det(time-9, this-8)
+dobj(returned-6, time-9)
+det(refund-12, a-11)
+prep_for(time-9, refund-12)
+
+=========
+
+nn(UN-recommended-2, Highly-1)
+root(ROOT-0, UN-recommended-2)
+
+=========
+
+root(ROOT-0, Duane-1)
+

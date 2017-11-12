@@ -1,0 +1,165 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(unlocked-4, this-3)
+ccomp(love-2, unlocked-4)
+acomp(unlocked-4, android-5)
+
+=========
+
+csubj(weeks-9, learning-1)
+dobj(learning-1, curve-2)
+poss(features-5, its-4)
+prep_on(learning-1, features-5)
+cop(weeks-9, is-6)
+quantmod(2-8, about-7)
+num(weeks-9, 2-8)
+root(ROOT-0, weeks-9)
+prep_for(weeks-9, me-11)
+det(novice-14, a-13)
+prep_as(weeks-9, novice-14)
+poss(features-18, its-16)
+amod(features-18, touch\/swype-17)
+prep_to(novice-14, features-18)
+
+=========
+
+advmod(easy-5, Otherwiwe-1)
+nsubj(easy-5, it-2)
+xsubj(navigate-7, it-2)
+cop(easy-5, is-3)
+advmod(easy-5, quite-4)
+root(ROOT-0, easy-5)
+aux(navigate-7, to-6)
+xcomp(easy-5, navigate-7)
+
+=========
+
+nsubj(great-4, wireless-1)
+nsubj(resort-29, wireless-1)
+advmod(great-4, connectivity-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+prep_in(great-4, US-6)
+advmod(going-9, when-8)
+advcl(resort-29, going-9)
+amod(countries-12, other-11)
+prep_to(going-9, countries-12)
+dep(going-9, updating-14)
+poss(networking-17, your-15)
+amod(networking-17, social-16)
+dobj(updating-14, networking-17)
+nsubj(problematic-22, emails-19)
+aux(problematic-22, may-20)
+cop(problematic-22, be-21)
+conj_and(going-9, problematic-22)
+advcl(resort-29, problematic-22)
+det(case-26, which-25)
+prep_in(problematic-22, case-26)
+advmod(resort-29, just-28)
+conj_but(great-4, resort-29)
+amod(networks-32, wired-31)
+prep_to(resort-29, networks-32)
+
+=========
+
+dep(versatile-9, all-2)
+prep_in(versatile-9, all-4)
+nsubj(versatile-9, it-6)
+nsubj(powerful-11, it-6)
+nsubj(portable-13, it-6)
+cop(versatile-9, is-7)
+advmod(versatile-9, quite-8)
+root(ROOT-0, versatile-9)
+conj_but(versatile-9, powerful-11)
+conj_and(versatile-9, portable-13)
+prep_for(portable-13, documents-15)
+det(go-18, the-17)
+prep_on(versatile-9, go-18)
+prep_including(go-18, presentations-20)
+
+=========
+
+det(apps-2, The-1)
+nsubj(cheap-4, apps-2)
+cop(cheap-4, are-3)
+root(ROOT-0, cheap-4)
+advmod(cheap-4, too-5)
+neg(apps-9, not-7)
+det(apps-9, all-8)
+nsubj(install-10, apps-9)
+conj_but(cheap-4, install-10)
+advmod(install-10, easily-11)
+
+=========
+
+nsubj(feature-2, Synch-1)
+root(ROOT-0, feature-2)
+prep_with(feature-2, PC-4)
+dep(feature-2, not-6)
+dep(not-6, so-7)
+npadvmod(friendly-9, user-8)
+dep(not-6, friendly-9)
+
+=========
+
+ccomp(able-8, Wired-1)
+conj_or(Wired-1, wireless-3)
+ccomp(able-8, wireless-3)
+nsubj(able-8, one-5)
+aux(able-8, must-6)
+cop(able-8, be-7)
+root(ROOT-0, able-8)
+aux(manage-10, to-9)
+xcomp(able-8, manage-10)
+det(apps-13, the-11)
+amod(apps-13, android-12)
+dobj(manage-10, apps-13)
+det(celfon-16, the-15)
+prep_from(manage-10, celfon-16)
+advmod(connected-18, when-17)
+advcl(able-8, connected-18)
+det(PC-21, a-20)
+prep_to(connected-18, PC-21)
+
+=========
+
+nsubj(synchs-3, It-1)
+advmod(synchs-3, only-2)
+root(ROOT-0, synchs-3)
+prep_with(synchs-3, data-5)
+
+=========
+
+neg(concern-4, Not-1)
+det(concern-4, a-2)
+amod(concern-4, big-3)
+nsubj(access-13, concern-4)
+prep_for(concern-4, me-6)
+advmod(access-13, though-7)
+advmod(though-7, as-8)
+advmod(as-10, long-9)
+advmod(access-13, as-10)
+nsubj(access-13, I-11)
+aux(access-13, can-12)
+root(ROOT-0, access-13)
+poss(networks-16, my-14)
+amod(networks-16, social-15)
+dobj(access-13, networks-16)
+amod(connection-19, wired-18)
+prep_via(networks-16, connection-19)
+
+=========
+
+amod(phone-2, Unlocked-1)
+nsubj(expensive-4, phone-2)
+cop(expensive-4, is-3)
+root(ROOT-0, expensive-4)
+conj_but(expensive-4, worth-6)
+dep(travel-10, it-7)
+mark(travel-10, if-8)
+nsubj(travel-10, you-9)
+dep(expensive-4, travel-10)
+advmod(travel-10, abroad-11)
+

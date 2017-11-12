@@ -1,0 +1,27 @@
+=========
+
+det(phone-2, This-1)
+nsubj(exceeded-4, phone-2)
+advmod(exceeded-4, really-3)
+root(ROOT-0, exceeded-4)
+poss(expectations-6, my-5)
+dobj(exceeded-4, expectations-6)
+
+=========
+
+det(screen-2, The-1)
+nsubj(sharp-5, screen-2)
+cop(sharp-5, is-3)
+advmod(sharp-5, really-4)
+ccomp(fast-11, sharp-5)
+det(processor-8, the-7)
+nsubjpass(fast-11, processor-8)
+auxpass(fast-11, is-9)
+cop(fast-11, is-9)
+advmod(fast-11, really-10)
+root(ROOT-0, fast-11)
+advmod(fast-11, Im-13)
+conj_and(fast-11, Im-13)
+advmod(satisfied-15, really-14)
+dep(fast-11, satisfied-15)
+

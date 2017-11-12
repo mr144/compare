@@ -1,0 +1,116 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(5mp-6, an-3)
+nn(5mp-6, OLD-4)
+nn(5mp-6, Nikon-5)
+dobj(have-2, 5mp-6)
+nsubj(takes-8, 5mp-6)
+rcmod(5mp-6, takes-8)
+amod(pics-10, clearer-9)
+dobj(takes-8, pics-10)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(time-5, a-3)
+amod(time-5, hard-4)
+dobj(have-2, time-5)
+partmod(time-5, getting-6)
+det(shots-9, any-7)
+amod(shots-9, good-8)
+dobj(getting-6, shots-9)
+det(GE-12, the-11)
+prep_with(getting-6, GE-12)
+
+=========
+
+nsubj(photograph-2, I-1)
+root(ROOT-0, photograph-2)
+poss(2x-6, my-3)
+num(2x-6, 6-4)
+nn(2x-6, children-5)
+nsubj(year-9, 2x-6)
+cop(year-9, 's-7)
+det(year-9, a-8)
+ccomp(photograph-2, year-9)
+
+=========
+
+advmod(nightmare-6, Then-1)
+nsubj(nightmare-6, menu-2)
+cop(nightmare-6, is-3)
+det(nightmare-6, a-4)
+amod(nightmare-6, jumbled-5)
+root(ROOT-0, nightmare-6)
+nsubj(geek-13, I-8)
+cop(geek-13, am-9)
+det(geek-13, a-10)
+amod(geek-13, huge-11)
+nn(geek-13, tech-12)
+conj_and(nightmare-6, geek-13)
+
+=========
+
+mark(has-4, If-1)
+poss(subject-3, your-2)
+nsubj(has-4, subject-3)
+advcl(is-14, has-4)
+tmod(has-4, days-5)
+aux(get-7, to-6)
+infmod(days-5, get-7)
+num(pic-10, one-8)
+amod(pic-10, good-9)
+dobj(get-7, pic-10)
+advmod(get-7, then-11)
+det(cam-13, this-12)
+nsubj(is-14, cam-13)
+root(ROOT-0, is-14)
+prep_for(is-14, you-16)
+
+=========
+
+det(life-3, The-1)
+nn(life-3, battery-2)
+nsubj(good-5, life-3)
+cop(good-5, is-4)
+root(ROOT-0, good-5)
+nn(duracells-8, reg-7)
+prep_on(good-5, duracells-8)
+
+=========
+
+det(cover-3, the-1)
+nn(cover-3, lens-2)
+nsubj(pops-4, cover-3)
+root(ROOT-0, pops-4)
+prt(pops-4, off-5)
+advmod(extends-8, when-6)
+nsubj(extends-8, lens-7)
+advcl(pops-4, extends-8)
+
+=========
+
+nsubj(trying-3, I-1)
+xsubj(mention-5, I-1)
+aux(trying-3, am-2)
+root(ROOT-0, trying-3)
+aux(mention-5, to-4)
+xcomp(trying-3, mention-5)
+amod(things-7, good-6)
+dobj(mention-5, things-7)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+poss(kids-4, my-3)
+nsubj(enjoy-6, kids-4)
+aux(enjoy-6, will-5)
+ccomp(think-2, enjoy-6)
+xcomp(enjoy-6, playing-7)
+det(one-10, this-9)
+prep_with(playing-7, one-10)
+

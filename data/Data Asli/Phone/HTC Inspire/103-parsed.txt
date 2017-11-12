@@ -1,0 +1,51 @@
+=========
+
+neg(phone-5, Not-1)
+det(phone-5, a-2)
+amod(phone-5, good-3)
+nn(phone-5, cell-4)
+root(ROOT-0, phone-5)
+
+=========
+
+dep(guess-7, Built-1)
+amod(one-4, last-3)
+prep_to(Built-1, one-4)
+tmod(Built-1, year-5)
+nsubj(guess-7, I-6)
+root(ROOT-0, guess-7)
+
+=========
+
+nsubj(text-4, Mine-1)
+aux(text-4, will-2)
+advmod(text-4, only-3)
+root(ROOT-0, text-4)
+prt(text-4, on-5)
+det(keys-9, the-7)
+nn(keys-9, center-8)
+prep_with(text-4, keys-9)
+mark(spell-14, so-10)
+aux(spell-14, can-11)
+neg(spell-14, not-12)
+advmod(spell-14, correctly-13)
+advcl(text-4, spell-14)
+dobj(spell-14, words-15)
+
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+det(one-5, this-4)
+dobj(buy-3, one-5)
+
+=========
+
+det(phone-2, This-1)
+nsubj(rip-5, phone-2)
+cop(rip-5, is-3)
+det(rip-5, a-4)
+root(ROOT-0, rip-5)
+dep(rip-5, off-6)
+

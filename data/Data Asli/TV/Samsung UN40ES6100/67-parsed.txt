@@ -1,0 +1,67 @@
+=========
+
+poss(tv-2, My-1)
+nsubj(broke-3, tv-2)
+root(ROOT-0, broke-3)
+num(weeks-5, 5-4)
+tmod(broke-3, weeks-5)
+prep_after(broke-3, purchase-7)
+
+=========
+
+nsubj(took-2, It-1)
+xsubj(bring-11, It-1)
+root(ROOT-0, took-2)
+num(days-4, 21-3)
+tmod(took-2, days-4)
+det(guy-8, the-6)
+nn(guy-8, Samsung-7)
+prep_for(took-2, guy-8)
+aux(bring-11, to-9)
+advmod(bring-11, finally-10)
+xcomp(took-2, bring-11)
+det(parts-14, the-12)
+amod(parts-14, correct-13)
+dobj(bring-11, parts-14)
+
+=========
+
+det(man-3, The-1)
+nn(man-3, repair-2)
+nsubj(said-4, man-3)
+root(ROOT-0, said-4)
+complm(uses-7, that-5)
+nsubj(uses-7, Samsung-6)
+ccomp(said-4, uses-7)
+amod(parts-9, refurbished-8)
+dobj(uses-7, parts-9)
+nn(work-12, warranty-11)
+prep_for(parts-9, work-12)
+
+=========
+
+dep(used-15, So-1)
+advmod(tv-4, now-2)
+poss(tv-4, my-3)
+nsubj(used-15, tv-4)
+complm(paid-7, that-5)
+nsubj(paid-7, I-6)
+dep(tv-4, paid-7)
+det(price-11, the-8)
+nn(price-11, brand-9)
+amod(price-11, new-10)
+dobj(paid-7, price-11)
+prep(paid-7, for-12)
+aux(used-15, has-13)
+advmod(used-15, all-14)
+root(ROOT-0, used-15)
+dobj(used-15, parts-16)
+prep_in(parts-16, it-18)
+
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, Samsung-4)
+

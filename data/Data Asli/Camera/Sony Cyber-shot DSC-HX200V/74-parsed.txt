@@ -1,0 +1,30 @@
+=========
+
+dep(I-6, Excelent-1)
+nn(Camera-4, Sony-2)
+amod(Camera-4, digital-3)
+dobj(Excelent-1, Camera-4)
+root(ROOT-0, I-6)
+rcmod(I-6, love-7)
+dobj(love-7, it-8)
+
+=========
+
+nsubj(good-6, Zoom-1)
+conj_and(Zoom-1, MP-3)
+nsubj(good-6, MP-3)
+cop(good-6, are-4)
+advmod(good-6, very-5)
+root(ROOT-0, good-6)
+
+=========
+
+nsubj(works-2, Lens-1)
+ccomp(perfect-9, works-2)
+acomp(works-2, OK-3)
+nn(Definition-7, Full-5)
+nn(Definition-7, High-6)
+nsubj(perfect-9, Definition-7)
+cop(perfect-9, is-8)
+root(ROOT-0, perfect-9)
+

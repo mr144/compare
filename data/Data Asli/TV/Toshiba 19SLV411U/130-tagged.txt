@@ -1,0 +1,2 @@
+Easy_NNP set_VBD up_RP ,_, good_JJ reception_NN with_IN an_DT accessory_JJ digital_JJ antenna_NN ,_, beautiful_JJ picture_NN ,_, but_CC the_DT sonic_JJ quality_NN is_VBZ not_RB wonderful_JJ ._.
+Still_RB ,_, a_DT nice_JJ second_JJ TV_NN and_CC a_DT decent_JJ value_NN ._.

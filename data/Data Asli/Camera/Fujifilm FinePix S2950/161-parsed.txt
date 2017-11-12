@@ -1,0 +1,31 @@
+=========
+
+advmod(drawback-2, Only-1)
+nsubj(using-4, drawback-2)
+aux(using-4, is-3)
+root(ROOT-0, using-4)
+dobj(using-4, panaroma-5)
+neg(instructions-9, not-7)
+amod(instructions-9, enough-8)
+dep(panaroma-5, instructions-9)
+prepc_on(instructions-9, framing-11)
+det(picture-13, the-12)
+dobj(framing-11, picture-13)
+
+=========
+
+csubj(improvement-12, Having-1)
+det(viewfinder-3, a-2)
+nsubj(screen-7, viewfinder-3)
+prep_in(viewfinder-3, addition-5)
+aux(screen-7, to-6)
+ccomp(Having-1, screen-7)
+xcomp(Having-1, screen-7)
+dobj(screen-7, display-8)
+cop(improvement-12, is-9)
+det(improvement-12, a-10)
+amod(improvement-12, terrific-11)
+root(ROOT-0, improvement-12)
+amod(sunlight-15, bright-14)
+prep_in(improvement-12, sunlight-15)
+

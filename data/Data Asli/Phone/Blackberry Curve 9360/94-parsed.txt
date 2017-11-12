@@ -1,0 +1,23 @@
+=========
+
+det(Cellphone-2, This-1)
+nsubjpass(unlocked-4, Cellphone-2)
+auxpass(unlocked-4, is-3)
+root(ROOT-0, unlocked-4)
+det(ecuador-9, The-6)
+amod(ecuador-9, worldwide-7)
+prep_for(unlocked-4, ecuador-9)
+
+=========
+
+nsubj(Buy-3, I-1)
+aux(Buy-3, Will-2)
+root(ROOT-0, Buy-3)
+det(phone-5, The-4)
+dobj(Buy-3, phone-5)
+mark(is-7, if-6)
+advcl(Buy-3, is-7)
+nsubj(unlocked-9, it-8)
+ccomp(is-7, unlocked-9)
+prep_for(unlocked-9, worldwideThanks-11)
+

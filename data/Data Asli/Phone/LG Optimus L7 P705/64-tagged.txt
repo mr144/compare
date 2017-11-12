@@ -1,0 +1,8 @@
+I_PRP did_VBD not_RB find_VB options_NNS to_TO use_VB 3G_NNP ._.
+It_PRP only_RB gives_VBZ option_NN to_TO use_VB either_DT 2G_NN only_RB ._.
+which_WDT are_VBP WCDMA_NNP or_CC GSM_NNP ._.
+So_IN the_DT internet_NN is_VBZ very_RB slow_JJ when_WRB wifi_NN is_VBZ not_RB available_JJ ._.
+Other_JJ than_IN this_DT -_: the_DT screen_NN is_VBZ good_JJ ._.
+camera_NN is_VBZ ok_JJ ._.
+A_DT little_JJ bit_NN slow_JJ ._.
+Anyway_RB $_$ 200_CD should_MD be_VB good_JJ deal_NN ._.

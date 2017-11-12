@@ -1,0 +1,21 @@
+I_PRP purchased_VBD this_DT phone_NN directly_RB from_IN Google_NNP last_JJ year_NN ._.
+Pros_NNS :1_CD ._.
+Android_NNP is_VBZ great_JJ and_CC being_JJ and_CC google_JJ developer_NN phone_NN you_PRP get_VBP the_DT new_JJ release_NN directly_RB from_IN Google_NNP .2_CD ._.
+Most_JJS of_IN your_PRP$ data_NNS is_VBZ stored_VBN in_IN the_DT cloud_NN -LRB-_-LRB- except_IN for_IN sms_NNS and_CC some_DT other_JJ data_NNS -RRB-_-RRB- ,_, so_RB when_WRB you_PRP decide_VBP to_TO update_VB to_TO another_DT android_NN phone_NN all_DT you_PRP need_VBP to_TO do_VB is_VBZ login_NN and_CC you_PRP data_NNS will_MD be_VB restored_VBN to_TO the_DT new_JJ phone_NN .3_CD ._.
+Fantastic_JJ apps_NNS like_IN maps_NNS ,_, navigation_NN ,_, google_NN goggles_NNS ,_, gmail_NN ,_, gvoice_NN ..._: 4_CD ._.
+Battery_NNP life_NN has_VBZ improved_VBN with_IN the_DT 2.3.4_CD update_VBP which_WDT is_VBZ the_DT current_JJ version_NN as_IN of_IN this_DT date_NN ._.
+etc._FW ._. ._.
+I_PRP can_MD go_VB on_IN and_CC on_IN about_IN the_DT pros_NNS ,_, but_CC many_JJ reviews_NNS have_VBP already_RB covered_VBN them_PRP ._.
+Cons_NNS :1_CD ._.
+If_IN you_PRP are_VBP like_IN me_PRP and_CC do_VBP not_RB use_VB a_DT protective_JJ cover_NN around_IN your_PRP$ phone_NN ,_, dust_NN can_MD easily_RB get_VB inside_IN .2_CD ._.
+You_PRP need_VBP to_TO press_VB slightly_RB above_IN the_DT 4_CD buttons_NNS for_IN the_DT touch_NN to_TO register_VB .3_CD ._.
+When_WRB the_DT phone_NN gets_VBZ hot_JJ -LRB-_-LRB- from_IN using_VBG navigation_NN for_IN a_DT while_NN -RRB-_-RRB- ,_, the_DT touch_NN screen_NN wont_NN register_VB your_PRP$ impressions_NNS correctly_RB ._.
+The_DT easy_JJ fix_NN is_VBZ to_TO turn_VB the_DT screen_NN off_RB and_CC on_RB by_IN pressing_VBG the_DT lock_JJ button_NN twice_RB .4_CD ._.
+The_DT camera_NN zoom_NN spring_NN is_VBZ noisy_JJ and_CC makes_VBZ a_DT sound_NN if_IN you_PRP shake_VBP the_DT phone_NN hard_RB ._.
+Main_NNP issues_NNS resolved_VBN with_IN android_NN updates1_CD ._.
+Battery_NNP life_NN was_VBD a_DT problem_NN ,_, but_CC the_DT battery_NN life_NN has_VBZ been_VBN great_JJ with_IN 2.3.4_CD release_NN .2_CD ._.
+Sometimes_RB it_PRP does_VBZ not_RB automatically_RB connect_VB to_TO your_PRP$ saved_VBN wifi_NN ._.
+You_PRP will_MD have_VB to_TO manually_RB connect_VB ._.
+Overall_RB a_DT great_JJ phone_NN ._.
+One_CD advise_VBP I_PRP have_VBP for_IN people_NNS who_WP travel_VBP a_DT lot_NN is_VBZ the_DT store_NN their_PRP$ contacts_NNS numbers_NNS starting_VBG with_IN +_NN along_IN with_IN the_DT international_JJ code_NN ._.
+It_PRP makes_VBZ life_NN a_DT lot_NN easier_JJR when_WRB you_PRP travel_VBP and_CC use_VBP a_DT local_JJ sim_NN ._.

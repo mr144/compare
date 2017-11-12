@@ -1,0 +1,135 @@
+=========
+
+nsubj(came-2, Camera-1)
+root(ROOT-0, came-2)
+prep_on(came-2, time-4)
+amod(condition-7, perfect-6)
+prep_in(came-2, condition-7)
+
+=========
+
+nsubj(gift-5, It-1)
+cop(gift-5, was-2)
+det(gift-5, a-3)
+nn(gift-5, Christmas-4)
+root(ROOT-0, gift-5)
+poss(wife-8, my-7)
+prep_for(gift-5, wife-8)
+nsubj(gave-11, I-10)
+conj_but(gift-5, gave-11)
+dobj(gave-11, it-12)
+poss(early-15, her-14)
+prep_to(gave-11, early-15)
+mark(use-19, so-16)
+nsubj(use-19, she-17)
+aux(use-19, could-18)
+advcl(gave-11, use-19)
+dobj(use-19, it-20)
+det(holidays-23, the-22)
+prep_during(use-19, holidays-23)
+
+=========
+
+nsubj(went-2, She-1)
+root(ROOT-0, went-2)
+acomp(went-2, crazy-3)
+prep_with(went-2, it-5)
+
+=========
+
+nsubj(live-2, We-1)
+root(ROOT-0, live-2)
+det(island-6, a-4)
+amod(island-6, tropical-5)
+prep_on(live-2, island-6)
+mark(going-11, so-7)
+nsubj(going-11, she-8)
+xsubj(take-20, she-8)
+aux(going-11, was-9)
+advmod(going-11, always-10)
+advcl(live-2, going-11)
+det(beach-14, the-13)
+prep_to(going-11, beach-14)
+det(forest-18, the-16)
+nn(forest-18, rain-17)
+prep_to(going-11, forest-18)
+conj_and(beach-14, forest-18)
+aux(take-20, to-19)
+xcomp(going-11, take-20)
+dobj(take-20, photos-21)
+
+=========
+
+det(quality-2, The-1)
+nsubj(amazing-10, quality-2)
+det(photos-5, the-4)
+prep_of(quality-2, photos-5)
+det(zoom-8, the-7)
+prep_of(quality-2, zoom-8)
+conj_and(photos-5, zoom-8)
+cop(amazing-10, were-9)
+root(ROOT-0, amazing-10)
+
+=========
+
+nsubj(features-2, Great-1)
+root(ROOT-0, features-2)
+advmod(features-2, especially-3)
+det(price-6, the-5)
+prep_for(features-2, price-6)
+
+=========
+
+aux(cause-3, Would-1)
+nsubj(cause-3, think-2)
+root(ROOT-0, cause-3)
+nsubj(uses-5, it-4)
+dep(cause-3, uses-5)
+num(batteries-7, 4-6)
+dobj(uses-5, batteries-7)
+nsubj(wste-10, it-8)
+aux(wste-10, would-9)
+rcmod(batteries-7, wste-10)
+dobj(wste-10, alot-11)
+prep_of(alot-11, power-13)
+nsubj(does-16, it-15)
+dep(cause-3, does-16)
+conj_but(uses-5, does-16)
+neg(does-16, not-17)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(Batteries-6, some-3)
+nn(Batteries-6, Walgreens-4)
+nn(Batteries-6, Alkaline-5)
+dobj(bought-2, Batteries-6)
+nsubj(were-8, Batteries-6)
+rcmod(Batteries-6, were-8)
+prep_on(were-8, sale-10)
+nsubj(used-13, I-12)
+conj_and(bought-2, used-13)
+det(babies-15, those-14)
+dobj(used-13, babies-15)
+advmod(week-19, almost-17)
+det(week-19, a-18)
+prep_for(used-13, week-19)
+amod(sessions-23, non-stop-21)
+nn(sessions-23, photo-22)
+prep_of(week-19, sessions-23)
+
+=========
+
+det(cons-2, No-1)
+root(ROOT-0, cons-2)
+dep(cons-2, yet-3)
+
+=========
+
+nsubj(buy-5, It-1)
+cop(buy-5, 's-2)
+det(buy-5, a-3)
+amod(buy-5, great-4)
+root(ROOT-0, buy-5)
+

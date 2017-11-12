@@ -1,0 +1,89 @@
+=========
+
+root(ROOT-0, Great-1)
+amod(camera-4, little-2)
+nn(camera-4, pocket-3)
+dep(Great-1, camera-4)
+
+=========
+
+nsubj(have-2, I-1)
+nsubj(used-9, I-1)
+root(ROOT-0, have-2)
+det(lx2-7, a-3)
+number(old-6, 5-4)
+dep(old-6, year-5)
+amod(lx2-7, old-6)
+dobj(have-2, lx2-7)
+conj_and(have-2, used-9)
+det(card-13, the-10)
+amod(card-13, same-11)
+nn(card-13, sd-12)
+dobj(used-9, card-13)
+det(pictures-16, the-15)
+nsubj(identical-23, pictures-16)
+partmod(pictures-16, taken-17)
+det(dmc-zs8-20, the-19)
+prep_with(taken-17, dmc-zs8-20)
+cop(identical-23, are-21)
+advmod(identical-23, virtually-22)
+conj_and(have-2, identical-23)
+
+=========
+
+det(difference-3, The-1)
+amod(difference-3, real-2)
+nsubj(is-4, difference-3)
+root(ROOT-0, is-4)
+complm(superior-14, that-5)
+det(monitor-8, the-6)
+nn(monitor-8, display-7)
+nsubj(superior-14, monitor-8)
+det(zs8-11, the-10)
+prep_of(monitor-8, zs8-11)
+cop(superior-14, is-12)
+advmod(superior-14, oustandingly-13)
+ccomp(is-4, superior-14)
+
+=========
+
+root(ROOT-0, There-1)
+dep(There-1, in-2)
+pcomp(in-2, nothig-3)
+acomp(nothig-3, wrong-4)
+det(lx2-7, the-6)
+prep_with(nothig-3, lx2-7)
+det(zx8-10, the-9)
+nsubj(easyer-12, zx8-10)
+nsubj(simpler-15, zx8-10)
+xsubj(use-17, zx8-10)
+cop(easyer-12, is-11)
+conj_but(There-1, easyer-12)
+advmod(simpler-15, much-14)
+conj_but(There-1, simpler-15)
+conj_and(easyer-12, simpler-15)
+aux(use-17, to-16)
+xcomp(easyer-12, use-17)
+
+=========
+
+cc(miss-3, But-1)
+nsubj(miss-3, I-2)
+root(ROOT-0, miss-3)
+det(feature-6, the-4)
+nn(feature-6, RAW-5)
+dobj(miss-3, feature-6)
+det(lx2-9, the-8)
+prep_of(feature-6, lx2-9)
+
+=========
+
+nsubj(REALLY-2, YOU-1)
+root(ROOT-0, REALLY-2)
+nn(GET-4, DO-3)
+dobj(REALLY-2, GET-4)
+rel(PAY-7, WHAT-5)
+nsubj(PAY-7, YOU-6)
+rcmod(GET-4, PAY-7)
+prep(PAY-7, FOR-8)
+

@@ -1,0 +1,95 @@
+=========
+
+root(ROOT-0, Purchased-1)
+det(phone-3, the-2)
+dobj(Purchased-1, phone-3)
+poss(husband-6, my-5)
+prep_for(phone-3, husband-6)
+
+=========
+
+nsubj(keep-2, Calls-1)
+root(ROOT-0, keep-2)
+xcomp(keep-2, dropping-3)
+det(calls-6, the-5)
+nsubj(go-9, calls-6)
+aux(go-9, do-7)
+neg(go-9, not-8)
+conj_or(keep-2, go-9)
+prt(go-9, through-10)
+
+=========
+
+nsubj(has-2, One-1)
+xsubj(restart-5, One-1)
+xsubj(go-12, One-1)
+root(ROOT-0, has-2)
+aux(restart-5, to-3)
+advmod(restart-5, consistently-4)
+xcomp(has-2, restart-5)
+det(phone-7, the-6)
+dobj(restart-5, phone-7)
+det(calls-10, the-9)
+prep_for(phone-7, calls-10)
+aux(go-12, to-11)
+xcomp(has-2, go-12)
+nsubj(annoying-17, which-14)
+cop(annoying-17, was-15)
+advmod(annoying-17, very-16)
+prepc_through(go-12, annoying-17)
+
+=========
+
+nn(and-3, Contacted-1)
+nn(and-3, Sony-2)
+nsubjpass(given-5, and-3)
+nsubjpass(having-14, and-3)
+auxpass(given-5, was-4)
+root(ROOT-0, given-5)
+dobj(given-5, suggestions-6)
+aux(do-8, to-7)
+xcomp(given-5, do-8)
+dobj(do-8, updates-9)
+prep_for(updates-9, software-11)
+advmod(having-14, still-13)
+conj_but(given-5, having-14)
+det(issue-17, the-15)
+amod(issue-17, same-16)
+dobj(having-14, issue-17)
+
+=========
+
+csubj(sucks-6, Slick-1)
+xcomp(Slick-1, looking-2)
+dobj(looking-2, phone-3)
+conj_but(Slick-1, functioning-5)
+csubj(sucks-6, functioning-5)
+root(ROOT-0, sucks-6)
+
+=========
+
+root(ROOT-0, Not-1)
+det(problem-3, a-2)
+dep(Not-1, problem-3)
+det(carrier-6, the-5)
+prep_with(problem-3, carrier-6)
+
+=========
+
+attr(is-2, What-1)
+root(ROOT-0, is-2)
+det(point-4, the-3)
+nsubj(is-2, point-4)
+prepc_of(point-4, getting-6)
+det(phone-8, a-7)
+dobj(getting-6, phone-8)
+advmod(get-14, where-9)
+det(calls-11, the-10)
+nsubj(get-14, calls-11)
+aux(get-14, do-12)
+neg(get-14, not-13)
+rcmod(phone-8, get-14)
+nn(Very-17, ??-16)
+prep_through(get-14, Very-17)
+partmod(Very-17, disappointed-18)
+

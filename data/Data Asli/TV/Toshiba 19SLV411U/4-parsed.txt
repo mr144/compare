@@ -1,0 +1,39 @@
+=========
+
+nsubj(terrible-3, Audio-1)
+cop(terrible-3, is-2)
+ccomp(decent-7, terrible-3)
+nsubj(decent-7, picture-5)
+cop(decent-7, is-6)
+root(ROOT-0, decent-7)
+dep(decent-7, easy-9)
+prep_to(easy-9, set-up-11)
+
+=========
+
+neg(dose-9, Never-1)
+dep(dose-9, tried-2)
+det(player-5, the-3)
+nn(player-5, DVD-4)
+nsubj(untill-6, player-5)
+xcomp(tried-2, untill-6)
+advmod(untill-6, recently-7)
+root(ROOT-0, dose-9)
+neg(dose-9, not-10)
+dep(dose-9, work-11)
+
+=========
+
+dep(longer-2, No-1)
+advmod(covered-3, longer-2)
+root(ROOT-0, covered-3)
+prep_by(covered-3, warranty-5)
+poss(mistake-8, my-7)
+appos(warranty-5, mistake-8)
+
+=========
+
+aux(recommend-3, Do-1)
+neg(recommend-3, not-2)
+root(ROOT-0, recommend-3)
+

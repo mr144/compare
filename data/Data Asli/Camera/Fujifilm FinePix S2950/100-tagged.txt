@@ -1,0 +1,2 @@
+If_IN we_PRP will_MD compare_VB with_IN a_DT price_NN which_WDT is_VBZ I_PRP payed_VBD for_IN this_DT camera_NN ,_, I_PRP wish_VBP to_TO say_VB that_IN it_PRP is_VBZ perfect_JJ camera_NN ._.
+Light_NNP ,_, lot_NN of_IN settings_NNS and_CC operations_NNS ,_, easy_JJ to_TO operate_VB ._.

@@ -1,0 +1,168 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(camera-4, this-3)
+dobj(purchased-2, camera-4)
+det(size-9, the-7)
+nn(size-9, megapix-8)
+prep_because_of(camera-4, size-9)
+appos(size-9, 14mp-11)
+poss(compactness-15, its-14)
+prep_because_of(camera-4, compactness-15)
+conj_and(size-9, compactness-15)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(SLR-8, a-3)
+advmod(more-5, much-4)
+advmod(complicated-6, more-5)
+amod(SLR-8, complicated-6)
+nn(SLR-8, Digital-7)
+dobj(have-2, SLR-8)
+advmod(have-2, however-10)
+nsubj(bulky-15, it-11)
+xsubj(take-17, it-11)
+cop(bulky-15, is-12)
+advmod(bulky-15, just-13)
+advmod(bulky-15, too-14)
+ccomp(have-2, bulky-15)
+aux(take-17, to-16)
+xcomp(bulky-15, take-17)
+advmod(take-17, everywhere-18)
+
+=========
+
+det(Fiji-2, This-1)
+nsubj(graeat-4, Fiji-2)
+cop(graeat-4, is-3)
+root(ROOT-0, graeat-4)
+prep_for(graeat-4, outings-6)
+nn(trips-9, weekend-8)
+appos(outings-6, trips-9)
+dep(outings-6, etc.-11)
+
+=========
+
+det(viewfinder-3, The-1)
+amod(viewfinder-3, electronic-2)
+nsubj(great-5, viewfinder-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+
+=========
+
+nsubj(like-4, I-1)
+aux(like-4, do-2)
+neg(like-4, not-3)
+root(ROOT-0, like-4)
+det(fact-6, the-5)
+dobj(like-4, fact-6)
+complm(have-17, that-7)
+advmod(many-9, so-8)
+amod(cameras-15, many-9)
+det(generation-13, the-11)
+amod(generation-13, newer-12)
+prep_of(many-9, generation-13)
+amod(cameras-15, digital-14)
+nsubj(have-17, cameras-15)
+advmod(have-17, only-16)
+ccomp(like-4, have-17)
+det(screen-20, an-18)
+nn(screen-20, LCD-19)
+dobj(have-17, screen-20)
+
+=========
+
+nsubj(am-2, I-1)
+root(ROOT-0, am-2)
+det(photography-8, the-4)
+amod(photography-8, old-5)
+nn(photography-8, school-6)
+num(photography-8, 35mm-7)
+prep_from(am-2, photography-8)
+nsubj(insist-11, I-10)
+conj_and(am-2, insist-11)
+det(viewfinder-14, a-13)
+prep_on(insist-11, viewfinder-14)
+
+=========
+
+nsubj(using-4, I-1)
+aux(using-4, have-2)
+aux(using-4, been-3)
+root(ROOT-0, using-4)
+num(cameras-7, 35mm-5)
+nn(cameras-7, film-6)
+dobj(using-4, cameras-7)
+prep(using-4, for-8)
+pcomp(for-8, over-9)
+amod(years-11, forty-10)
+prep_over(for-8, years-11)
+
+=========
+
+det(screen-4, The-1)
+amod(screen-4, 3in-2)
+nn(screen-4, LCD-3)
+nsubj(nice-7, screen-4)
+xsubj(view-9, screen-4)
+cop(nice-7, is-5)
+advmod(nice-7, quite-6)
+root(ROOT-0, nice-7)
+aux(view-9, to-8)
+xcomp(nice-7, view-9)
+poss(shots-11, your-10)
+dobj(view-9, shots-11)
+
+=========
+
+det(variety-3, The-1)
+amod(variety-3, wide-2)
+nsubj(impressive-8, variety-3)
+nsubj(suits-10, variety-3)
+nn(settings-6, exposure-5)
+prep_of(variety-3, settings-6)
+cop(impressive-8, is-7)
+root(ROOT-0, impressive-8)
+conj_and(impressive-8, suits-10)
+det(condition-12, any-11)
+dobj(suits-10, condition-12)
+complm(encountered-15, that-13)
+nsubj(encountered-15, I-14)
+ccomp(suits-10, encountered-15)
+advmod(far-17, thus-16)
+advmod(encountered-15, far-17)
+
+=========
+
+nsubj(had-5, I-1)
+aux(had-5, have-2)
+aux(had-5, had-3)
+neg(had-5, not-4)
+root(ROOT-0, had-5)
+det(S2950-7, the-6)
+dobj(had-5, S2950-7)
+amod(S2950-7, long-8)
+advmod(long-8, enough-9)
+aux(express-11, to-10)
+xcomp(long-8, express-11)
+det(cons-13, any-12)
+dobj(express-11, cons-13)
+advmod(express-11, just-14)
+advmod(express-11, yet-15)
+
+=========
+
+advmod(pleased-7, So-1)
+advmod(So-1, far-2)
+nsubj(pleased-7, I-3)
+aux(pleased-7, have-4)
+cop(pleased-7, been-5)
+advmod(pleased-7, very-6)
+root(ROOT-0, pleased-7)
+det(results-10, the-9)
+prep_with(pleased-7, results-10)
+

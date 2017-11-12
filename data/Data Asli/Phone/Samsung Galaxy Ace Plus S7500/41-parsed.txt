@@ -1,0 +1,99 @@
+=========
+
+dep(device-11, Compare-1)
+det(price-4, the-3)
+prep_to(Compare-1, price-4)
+det(device-6, the-5)
+nsubj(device-11, device-6)
+cop(device-11, is-7)
+det(device-11, a-8)
+amod(device-11, perfect-9)
+amod(device-11, android-10)
+root(ROOT-0, device-11)
+
+=========
+
+nsubj(let-3, It-1)
+aux(let-3, does-2)
+root(ROOT-0, let-3)
+nsubj(do-5, you-4)
+ccomp(let-3, do-5)
+dobj(do-5, everything-6)
+nsubj(like-9, you-7)
+xsubj(do-11, you-7)
+aux(like-9, would-8)
+dep(do-5, like-9)
+aux(do-11, to-10)
+xcomp(like-9, do-11)
+det(phone-15, a-13)
+amod(phone-15, smart-14)
+prep_in(do-11, phone-15)
+
+=========
+
+cc(fast-5, And-1)
+det(droid-3, the-2)
+nsubj(fast-5, droid-3)
+cop(fast-5, is-4)
+root(ROOT-0, fast-5)
+advmod(fast-5, enough-6)
+aux(make-8, to-7)
+xcomp(fast-5, make-8)
+nsubj(happy-10, you-9)
+xcomp(make-8, happy-10)
+
+=========
+
+mark(was-3, If-1)
+expl(was-3, there-2)
+advcl(magical-12, was-3)
+det(front-5, a-4)
+nsubj(was-3, front-5)
+partmod(front-5, facing-6)
+dobj(facing-6, camera-7)
+nsubj(magical-12, it-8)
+nsubj(look-14, it-8)
+aux(magical-12, would-9)
+aux(magical-12, have-10)
+cop(magical-12, been-11)
+root(ROOT-0, magical-12)
+conj_but(magical-12, look-14)
+det(price-17, the-16)
+prep_at(look-14, price-17)
+
+=========
+
+nsubj(allow-4, It-1)
+aux(allow-4, will-2)
+neg(allow-4, not-3)
+root(ROOT-0, allow-4)
+nsubj(get-7, you-5)
+aux(get-7, to-6)
+xcomp(allow-4, get-7)
+dobj(get-7, one-8)
+det(price-11, the-10)
+prep_with(get-7, price-11)
+advmod(price-11, at-12)
+pobj(at-12, least-13)
+neg(today-15, not-14)
+dep(price-11, today-15)
+
+=========
+
+nsubj(great-6, Quality-1)
+det(product-4, the-3)
+prep_of(Quality-1, product-4)
+cop(great-6, is-5)
+root(ROOT-0, great-6)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(device-5, the-4)
+dobj(recommend-3, device-5)
+amod(users-9, smart-7)
+nn(users-9, phone-8)
+prep_for(device-5, users-9)
+

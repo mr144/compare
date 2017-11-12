@@ -1,0 +1,64 @@
+=========
+
+amod(quality-5, Great-1)
+nn(quality-5, picture-2)
+amod(quality-5, sound-4)
+nsubj(amazing-7, quality-5)
+cop(amazing-7, is-6)
+ccomp(efficient-15, amazing-7)
+amod(control-10, remote-9)
+nsubj(efficient-15, control-10)
+cop(efficient-15, is-11)
+neg(efficient-15, not-12)
+det(efficient-15, that-13)
+advmod(efficient-15, ergonomically-14)
+root(ROOT-0, efficient-15)
+nn(TV-19, SMART-18)
+conj_and(efficient-15, TV-19)
+dep(efficient-15, not-21)
+advmod(much-23, so-22)
+dep(not-21, much-23)
+
+=========
+
+nsubj(have-2, i-1)
+root(ROOT-0, have-2)
+amod(devices-4, several-3)
+dobj(have-2, devices-4)
+nsubjpass(connected-7, devices-4)
+auxpass(connected-7, are-6)
+rcmod(devices-4, connected-7)
+advmod(connected-7, wirelessly-8)
+det(TV-12, the-11)
+nsubj(connect-14, TV-12)
+aux(connect-14, will-13)
+conj_yet(have-2, connect-14)
+advmod(connect-14, then-15)
+num(minutes-17, 3-16)
+npadvmod(later-18, minutes-17)
+advmod(connect-14, later-18)
+dep(connect-14, disconnect-19)
+
+=========
+
+poss(buddy-3, My-1)
+amod(buddy-3, techy-2)
+nsubj(figure-7, buddy-3)
+aux(figure-7, could-4)
+neg(figure-7, not-5)
+advmod(figure-7, even-6)
+root(ROOT-0, figure-7)
+dobj(figure-7, it-8)
+prt(figure-7, out-9)
+
+=========
+
+advmod(connected-4, when-1)
+nsubjpass(connected-4, it-2)
+auxpass(connected-4, is-3)
+advcl(difficult-10, connected-4)
+nsubj(difficult-10, typing-7)
+cop(difficult-10, is-9)
+root(ROOT-0, difficult-10)
+prep_at(difficult-10, best-12)
+

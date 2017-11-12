@@ -1,0 +1,26 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(camera-4, this-3)
+nsubj(much-6, camera-4)
+advmod(much-6, very-5)
+xcomp(like-2, much-6)
+complm(difficult-11, that-8)
+nsubj(difficult-11, it-9)
+cop(difficult-11, seems-10)
+prepc_except(much-6, difficult-11)
+aux(learn-13, to-12)
+xcomp(difficult-11, learn-13)
+det(interface-16, the-14)
+nn(interface-16, user-15)
+dobj(learn-13, interface-16)
+
+=========
+
+det(manual-2, The-1)
+nsubj(inadequate-5, manual-2)
+cop(inadequate-5, is-3)
+advmod(inadequate-5, really-4)
+root(ROOT-0, inadequate-5)
+

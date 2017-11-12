@@ -1,0 +1,3 @@
+The_DT equipament_NN has_VBZ a_DT problem_NN ._.
+Is_VBZ in_IN Canon_NNP to_TO fix_VB &#34;_CD Err_NNP 06_CD &#34;_CD ._.
+Two_CD weeks_NNS of_IN use_NN and_CC the_DT problem_NN ocurred_VBD ._.

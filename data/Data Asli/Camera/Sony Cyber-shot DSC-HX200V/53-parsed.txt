@@ -1,0 +1,91 @@
+=========
+
+nsubj(given-3, This-1)
+aux(given-3, has-2)
+root(ROOT-0, given-3)
+iobj(given-3, me-4)
+amod(results-6, mixed-5)
+dobj(given-3, results-6)
+
+=========
+
+nn(mode-3, Auto-2)
+prep_on(pictures-12, mode-3)
+advmod(good-7, sometimes-5)
+advmod(good-7, very-6)
+amod(quality-11, good-7)
+dep(good-7, bright-9)
+nsubj(pictures-12, quality-11)
+root(ROOT-0, pictures-12)
+dep(images-16, &-13)
+advmod(images-16, sometimes-14)
+amod(images-16, shaky-15)
+dep(pictures-12, images-16)
+
+=========
+
+nsubj(like-2, Looks-1)
+ccomp(perfect-11, like-2)
+det(stabilization-6, the-4)
+nn(stabilization-6, image-5)
+nsubj(perfect-11, stabilization-6)
+cop(perfect-11, is-7)
+advmod(perfect-11, still-8)
+neg(perfect-11, not-9)
+advmod(perfect-11, that-10)
+root(ROOT-0, perfect-11)
+
+=========
+
+nsubj(gives-2, It-1)
+root(ROOT-0, gives-2)
+dep(gives-2, blur-3)
+advmod(moves-8, even-4)
+dep(moves-8, if-5)
+det(object-7, the-6)
+nsubj(moves-8, object-7)
+ccomp(blur-3, moves-8)
+acomp(moves-8, little-9)
+
+=========
+
+det(thing-3, Another-1)
+amod(thing-3, bad-2)
+dobj(observed-5, thing-3)
+nsubj(is-6, thing-3)
+nsubj(observed-5, I-4)
+rcmod(thing-3, observed-5)
+root(ROOT-0, is-6)
+det(photos-9, the-8)
+nsubj(show-10, photos-9)
+ccomp(is-6, show-10)
+dobj(show-10, distortion-11)
+advmod(upload-14, when-12)
+nsubj(upload-14, I-13)
+advcl(show-10, upload-14)
+det(photos-16, the-15)
+nsubj(facebook-18, photos-16)
+aux(facebook-18, to-17)
+xcomp(upload-14, facebook-18)
+
+=========
+
+advmod(have-3, Probably-1)
+nsubj(have-3, I-2)
+xsubj(compress-5, I-2)
+root(ROOT-0, have-3)
+aux(compress-5, to-4)
+xcomp(have-3, compress-5)
+det(size-8, the-6)
+nn(size-8, file-7)
+dobj(compress-5, size-8)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(try-4, I-1)
+root(ROOT-0, have-2)
+aux(try-4, to-3)
+xcomp(have-2, try-4)
+dobj(try-4, that-5)
+

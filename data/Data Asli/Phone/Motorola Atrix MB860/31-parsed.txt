@@ -1,0 +1,92 @@
+=========
+
+poss(contract-2, My-1)
+nsubj(ends-3, contract-2)
+root(ROOT-0, ends-3)
+dobj(ends-3, tomarrow-4)
+
+=========
+
+nsubj(owned-3, I-1)
+aux(owned-3, have-2)
+root(ROOT-0, owned-3)
+dobj(owned-3, two-4)
+det(phones-8, these-6)
+num(phones-8, MB860-7)
+prep_of(two-4, phones-8)
+num(years-11, two-10)
+prep_in(owned-3, years-11)
+
+=========
+
+det(months-4, a-2)
+amod(months-4, few-3)
+prep_after(went-8, months-4)
+poss(screen-7, my-5)
+nn(screen-7, phone-6)
+nsubj(went-8, screen-7)
+root(ROOT-0, went-8)
+det(blitz-11, the-10)
+prep_on(went-8, blitz-11)
+det(phone-14, the-13)
+nsubj(function-17, phone-14)
+aux(function-17, would-15)
+neg(function-17, not-16)
+conj_and(went-8, function-17)
+
+=========
+
+nsubj(replaced-2, AT&T-1)
+root(ROOT-0, replaced-2)
+poss(phone-4, my-3)
+dobj(replaced-2, phone-4)
+prep_under(replaced-2, warranty-6)
+det(model-10, the-8)
+amod(model-10, same-9)
+prep_with(replaced-2, model-10)
+prep_of(model-10, phone-12)
+
+=========
+
+det(phone-3, this-1)
+amod(phone-3, new-2)
+nsubj(worked-5, phone-3)
+nsubj(went-11, phone-3)
+advmod(worked-5, also-4)
+root(ROOT-0, worked-5)
+det(months-9, a-7)
+amod(months-9, few-8)
+prep_for(worked-5, months-9)
+conj_and(worked-5, went-11)
+det(blitz-14, the-13)
+prep_on(went-11, blitz-14)
+
+=========
+
+det(life-3, the-2)
+prep_over(get-10, life-3)
+det(phone-6, this-5)
+prep_of(life-3, phone-6)
+nsubj(get-10, I-7)
+nsubj(glad-18, I-7)
+aux(get-10, did-8)
+neg(get-10, not-9)
+root(ROOT-0, get-10)
+poss(money-12, my-11)
+poss(worth-14, money-12)
+dobj(get-10, worth-14)
+aux(glad-18, will-16)
+cop(glad-18, be-17)
+conj_and(get-10, glad-18)
+aux(free-21, to-19)
+cop(free-21, be-20)
+xcomp(glad-18, free-21)
+prep_of(free-21, it-23)
+
+=========
+
+nsubj(lemon-4, This-1)
+cop(lemon-4, was-2)
+det(lemon-4, a-3)
+root(ROOT-0, lemon-4)
+

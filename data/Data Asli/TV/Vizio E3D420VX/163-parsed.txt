@@ -1,0 +1,31 @@
+=========
+
+root(ROOT-0, Excellent-1)
+dobj(Excellent-1, picture-2)
+dobj(Excellent-1, sound-4)
+conj_and(picture-2, sound-4)
+
+=========
+
+root(ROOT-0, Ordered-1)
+poss(nephew-4, my-3)
+prep_for(Ordered-1, nephew-4)
+nsubj(loves-6, nephew-4)
+rcmod(nephew-4, loves-6)
+dobj(loves-6, it-7)
+
+=========
+
+advmod(sure-2, Make-1)
+amod(room-3, sure-2)
+nsubj(large-5, room-3)
+cop(large-5, is-4)
+root(ROOT-0, large-5)
+advmod(large-5, enough-6)
+mark(right-11, so-7)
+nsubj(right-11, you-8)
+cop(right-11, are-9)
+neg(right-11, not-10)
+ccomp(large-5, right-11)
+prep_on_top_of(right-11, it-15)
+

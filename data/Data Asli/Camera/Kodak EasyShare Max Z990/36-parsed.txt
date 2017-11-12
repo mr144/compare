@@ -1,0 +1,52 @@
+=========
+
+nsubj(looked-4, I-1)
+xsubj(capture-12, I-1)
+aux(looked-4, have-2)
+advmod(looked-4, always-3)
+root(ROOT-0, looked-4)
+det(camera-10, a-6)
+amod(camera-10, good-8)
+prep_for(looked-4, camera-10)
+aux(capture-12, to-11)
+xcomp(looked-4, capture-12)
+amod(pics-14, great-13)
+dobj(capture-12, pics-14)
+poss(trips-17, my-16)
+prep_on(capture-12, trips-17)
+nn(gatherings-20, family-19)
+prep_on(capture-12, gatherings-20)
+conj_and(trips-17, gatherings-20)
+
+=========
+
+det(deal-3, the-2)
+prep_with(got-5, deal-3)
+nsubj(got-5, I-4)
+ccomp(go-13, got-5)
+det(camera-8, this-7)
+prep_on(got-5, camera-8)
+nsubj(go-13, I-10)
+aux(go-13, could-11)
+neg(go-13, not-12)
+root(ROOT-0, go-13)
+acomp(go-13, wrong-14)
+
+=========
+
+nsubj(features-2, Great-1)
+root(ROOT-0, features-2)
+dep(of-5, many-4)
+dep(have-8, of-5)
+pobj(of-5, which-6)
+nsubj(have-8, I-7)
+xsubj(learn-10, I-7)
+dep(features-2, have-8)
+aux(learn-10, to-9)
+xcomp(have-8, learn-10)
+xcomp(have-8, master-12)
+conj_and(learn-10, master-12)
+dep(quality-16, excellent-15)
+dep(features-2, quality-16)
+conj_and(have-8, quality-16)
+

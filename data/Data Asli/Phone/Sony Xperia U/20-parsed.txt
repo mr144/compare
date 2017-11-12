@@ -1,0 +1,61 @@
+=========
+
+nsubj(recomend-3, I-1)
+advmod(recomend-3, really-2)
+root(ROOT-0, recomend-3)
+det(cellphone-5, this-4)
+dobj(recomend-3, cellphone-5)
+
+=========
+
+nsubj(works-2, I-1)
+ccomp(is-5, works-2)
+acomp(works-2, great-3)
+root(ROOT-0, is-5)
+nsubj(is-5, friendly-6)
+amod(camera-10, good-8)
+nn(camera-10, resolution-9)
+appos(friendly-6, camera-10)
+amod(conection-14, fast-12)
+nn(conection-14, wifi-13)
+appos(camera-10, conection-14)
+
+=========
+
+det(screem-3, The-1)
+nn(screem-3, touch-2)
+nsubj(soft-5, screem-3)
+cop(soft-5, is-4)
+ccomp(have-22, soft-5)
+nsubj(whe-9, ad-7)
+advmod(whe-9, even-8)
+conj_and(soft-5, whe-9)
+ccomp(have-22, whe-9)
+nsubj(has-11, it-10)
+ccomp(whe-9, has-11)
+det(screem-14, a-12)
+amod(screem-14, small-13)
+dobj(has-11, screem-14)
+poss(hands-17, my-16)
+nsubj(big-19, hands-17)
+cop(big-19, are-18)
+conj_and(soft-5, big-19)
+ccomp(have-22, big-19)
+nsubj(have-22, i-21)
+root(ROOT-0, have-22)
+det(problems-24, no-23)
+dobj(have-22, problems-24)
+prep_with(have-22, it-26)
+
+=========
+
+predet(apps-3, All-1)
+det(apps-3, the-2)
+nsubj(runs-4, apps-3)
+root(ROOT-0, runs-4)
+advmod(get-9, fast-5)
+aux(get-9, do-7)
+neg(get-9, not-8)
+ccomp(runs-4, get-9)
+dobj(get-9, stok-10)
+

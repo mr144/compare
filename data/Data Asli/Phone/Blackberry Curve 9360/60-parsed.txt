@@ -1,0 +1,145 @@
+=========
+
+det(thinking-3, a-2)
+prep_after(decided-7, thinking-3)
+prep_for(thinking-3, awhile-5)
+nsubj(decided-7, I-6)
+root(ROOT-0, decided-7)
+prep_by(decided-7, 9360-9)
+xcomp(decided-7, considering-11)
+nn(\/-13, price-12)
+dep(ratio-17, \/-13)
+poss(ratio-17, performance-15)
+dep(considering-11, ratio-17)
+
+=========
+
+advmod(ok-7, well-1)
+det(phone-4, the-3)
+nsubj(ok-7, phone-4)
+advmod(phone-4, itself-5)
+cop(ok-7, is-6)
+root(ROOT-0, ok-7)
+dep(ok-7, works-9)
+advmod(fast-17, well-10)
+dep(fast-17, no-12)
+dep(no-12, hang-13)
+dobj(hang-13, ups-14)
+advmod(fast-17, pretty-16)
+acomp(works-9, fast-17)
+nsubj(understand-23, I-19)
+aux(understand-23, do-20)
+neg(understand-23, not-21)
+advmod(understand-23, really-22)
+ccomp(fast-17, understand-23)
+det(need-26, the-24)
+dobj(understand-23, need-26)
+num(processors-31, 4-29)
+amod(processors-31, cores-30)
+prep_for(need-26, processors-31)
+nn(phones-34, cell-33)
+prep_for(processors-31, phones-34)
+aux(do-37, to-36)
+parataxis(works-9, do-37)
+dobj(do-37, what-38)
+
+=========
+
+nsubj(phone-6, it-1)
+cop(phone-6, is-2)
+advmod(phone-6, just-3)
+det(phone-6, a-4)
+nn(phone-6, cell-5)
+root(ROOT-0, phone-6)
+prep_after(phone-6, all-8)
+
+=========
+
+dep(maybe-5, smart-1)
+dep(smart-1, well-3)
+root(ROOT-0, maybe-5)
+
+=========
+
+aux(need-4, do-1)
+nsubj(need-4, you-2)
+advmod(need-4, really-3)
+root(ROOT-0, need-4)
+det(processor-8, a-5)
+number(Core-7, 4-6)
+num(processor-8, Core-7)
+dobj(need-4, processor-8)
+prep_for(processor-8, chat-10)
+nn(email-13, checking-12)
+appos(processor-8, email-13)
+aux(open-16, to-15)
+appos(processor-8, open-16)
+conj_or(email-13, open-16)
+infmod(email-13, open-16)
+det(pages-19, some-17)
+nn(pages-19, web-18)
+dobj(open-16, pages-19)
+
+=========
+
+nsubj(think-4, I-1)
+aux(think-4, do-2)
+neg(think-4, not-3)
+root(ROOT-0, think-4)
+advmod(think-4, so-5)
+
+=========
+
+nn(processors-3, speed-2)
+prep_higher(flash-31, processors-3)
+partmod(processors-3, mean-5)
+amod(consumption-8, higher-6)
+nn(consumption-8, power-7)
+dobj(mean-5, consumption-8)
+dep(battery-11, shorter-10)
+amod(life-12, battery-11)
+appos(consumption-8, life-12)
+advmod(nice-17, really-16)
+nsubj(flash-31, nice-17)
+amod(design-21, slick-19)
+nn(design-21, case-20)
+conj_and(nice-17, design-21)
+nsubj(flash-31, design-21)
+advmod(built-24, well-23)
+partmod(nice-17, built-24)
+advmod(good-27, pretty-26)
+amod(camera-29, good-27)
+nn(camera-29, quality-28)
+appos(nice-17, camera-29)
+root(ROOT-0, flash-31)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+dep(consider-3, which-1)
+nsubj(acceptable-5, which-1)
+nsubj(consider-3, I-2)
+dep(better-12, consider-3)
+cop(acceptable-5, is-4)
+ccomp(consider-3, acceptable-5)
+ccomp(better-12, although-7)
+aux(better-12, could-9)
+cop(better-12, be-10)
+advmod(better-12, much-11)
+root(ROOT-0, better-12)
+dep(better-12, 8900-14)
+nsubj(had-17, I-16)
+parataxis(lasted-20, had-17)
+advmod(had-17, before-18)
+rcmod(8900-14, lasted-20)
+quantmod(long-24, as-21)
+quantmod(long-24, twice-22)
+quantmod(long-24, as-23)
+dobj(lasted-20, long-24)
+det(conditions-29, the-27)
+amod(conditions-29, same-28)
+prep_under(lasted-20, conditions-29)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

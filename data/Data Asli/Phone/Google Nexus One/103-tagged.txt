@@ -1,0 +1,8 @@
+I_PRP purchased_VBD and_CC received_VBD the_DT G1_NNP -LRB-_-LRB- Google_NNP Nexus_NNP One_CD -RRB-_-RRB- last_JJ Thursday_NNP ._.
+It_PRP 's_VBZ the_DT good_JJ phone_NN with_IN all_PDT the_DT stuffs_NNS built_VBN in_IN -LRB-_-LRB- Wifi_NNP ,_, Gmail_NNP ,_, etc._FW ._. -RRB-_-RRB-
+,_, however_RB ,_, the_DT phone_NN has_VBZ the_DT issue_NN of_IN sending_VBG &_CC receiving_VBG International_NNP SM_NNP message_NN ._.
+I_PRP have_VBP attempted_VBN to_TO send_VB several_JJ messages_NNS to_TO my_PRP$ friends_NNS in_IN Vietnam_NNP ,_, but_CC none_NN of_IN messages_NNS reached_VBD them_PRP ._.
+In_IN facts_NNS ,_, I_PRP am_VBP not_RB aware_JJ of_IN the_DT issue_NN till_IN start_NN reading_VBG all_DT complains_VBZ from_IN previous_JJ G1_NNP users_NNS ._.
+I_PRP heard_VBD that_IN Google_NNP have_VBP tried_VBN to_TO fix_VB the_DT problem_NN but_CC they_PRP gave_VBD up_RP ._.
+It_PRP is_VBZ the_DT good_JJ phone_NN and_CC I_PRP like_VBP to_TO keep_VB ,_, however_RB ,_, I_PRP am_VBP in_IN process_NN of_IN returning_VBG the_DT phone_NN today_NN and_CC looking_VBG for_IN anothet_NN phone_NN -LRB-_-LRB- not_RB Google_NNP phone_NN any_DT more_RBR -RRB-_-RRB- ._.
+Someone_NN said_VBD ,_, that_WDT coud_VBD be_VB T-mobile_JJ network_NN that_IN I_PRP have_VBP now_RB ,_, however_RB ,_, my_PRP$ Nokia_NNP E-71_NNP is_VBZ sending_VBG &_CC receiving_VBG SMS_NNP message_NN just_RB fine_JJ ._.

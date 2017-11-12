@@ -1,0 +1,99 @@
+=========
+
+aux(do-3, Do-1)
+neg(do-3, not-2)
+root(ROOT-0, do-3)
+dobj(do-3, it-4)
+
+=========
+
+aux(get-3, Do-1)
+neg(get-3, not-2)
+root(ROOT-0, get-3)
+det(phone-5, this-4)
+dobj(get-3, phone-5)
+
+=========
+
+dep(flash-2, No-1)
+root(ROOT-0, flash-2)
+
+=========
+
+nsubj(freezes-2, Mine-1)
+root(ROOT-0, freezes-2)
+predet(time-5, all-3)
+det(time-5, the-4)
+dobj(freezes-2, time-5)
+advmod(when-8, especially-7)
+advmod(texting-11, when-8)
+nsubj(texting-11, I-9)
+aux(texting-11, am-10)
+advcl(horrible-16, texting-11)
+det(browser-14, the-13)
+nsubj(horrible-16, browser-14)
+cop(horrible-16, is-15)
+ccomp(freezes-2, horrible-16)
+nsubj(has-19, it-18)
+ccomp(freezes-2, has-19)
+det(glitch-22, this-20)
+amod(glitch-22, crazy-21)
+dobj(has-19, glitch-22)
+det(time-25, the-24)
+prep_with(glitch-22, time-25)
+det(camera-28, the-27)
+nsubj(buggy-30, camera-28)
+cop(buggy-30, is-29)
+dep(freezes-2, buggy-30)
+nsubj(go-34, I-32)
+nsubj(freeze-49, I-32)
+aux(go-34, could-33)
+parataxis(freezes-2, go-34)
+prt(go-34, on-35)
+dep(on-35, and-36)
+dep(on-35, on-37)
+predet(things-41, all-39)
+det(things-41, the-40)
+prep_with(go-34, things-41)
+nsubj(wonky-44, that-42)
+cop(wonky-44, are-43)
+ccomp(things-41, wonky-44)
+advmod(wonky-44, buggy-46)
+parataxis(freezes-2, freeze-49)
+conj_or(go-34, freeze-49)
+det(phone-52, this-51)
+prep_on(freeze-49, phone-52)
+
+=========
+
+root(ROOT-0, Resist-1)
+
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, it-4)
+dep(buy-3, get-6)
+dobj(get-6, something-7)
+nsubj(works-10, something-7)
+advmod(works-10, actually-9)
+rcmod(something-7, works-10)
+
+=========
+
+nsubj(caused-3, Mine-1)
+aux(caused-3, has-2)
+root(ROOT-0, caused-3)
+dobj(caused-3, me-4)
+amod(stress-6, more-5)
+dep(able-12, stress-6)
+dep(able-12, that-7)
+det(phone-9, a-8)
+nsubj(able-12, phone-9)
+aux(able-12, should-10)
+cop(able-12, be-11)
+dep(caused-3, able-12)
+aux(create-14, to-13)
+xcomp(able-12, create-14)
+

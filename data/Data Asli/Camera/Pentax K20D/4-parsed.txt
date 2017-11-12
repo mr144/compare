@@ -1,0 +1,136 @@
+=========
+
+det(quality-2, The-1)
+nsubj(great-10, quality-2)
+prep_of(quality-2, photos-4)
+prep_of(quality-2, ease-6)
+conj_and(photos-4, ease-6)
+prep_of(quality-2, use-8)
+cop(great-10, is-9)
+root(ROOT-0, great-10)
+
+=========
+
+root(ROOT-0, BUT-1)
+
+=========
+
+nsubj(consider-5, I-1)
+advmod(consider-5, usually-2)
+aux(consider-5, do-3)
+neg(consider-5, not-4)
+root(ROOT-0, consider-5)
+predet(factor-8, this-6)
+det(factor-8, a-7)
+dobj(consider-5, factor-8)
+prepc_in(consider-5, buying-10)
+det(camera-12, a-11)
+dobj(buying-10, camera-12)
+nsubj(will-15, I-14)
+conj_but(consider-5, will-15)
+prep(will-15, from-16)
+advmod(on-18, now-17)
+pcomp(from-16, on-18)
+poss(camera-21, my-20)
+nsubj(broke-22, camera-21)
+conj_but(consider-5, broke-22)
+parataxis(consider-5, broke-22)
+det(way-26, the-24)
+amod(way-26, only-25)
+nsubj(is-31, way-26)
+xsubj(have-33, way-26)
+aux(get-28, to-27)
+infmod(way-26, get-28)
+nsubj(fixed-30, it-29)
+dep(get-28, fixed-30)
+conj_and(consider-5, is-31)
+aux(have-33, to-32)
+xcomp(is-31, have-33)
+nsubj(shipped-35, it-34)
+ccomp(have-33, shipped-35)
+det(facility-39, the-37)
+nn(facility-39, Pentax-38)
+prep_to(shipped-35, facility-39)
+prep_in(shipped-35, Arizona-41)
+
+=========
+
+det(I-3, The-1)
+nn(I-3, downtime-2)
+nsubj(found-4, I-3)
+xsubj(detrimental-8, I-3)
+root(ROOT-0, found-4)
+aux(detrimental-8, to-5)
+cop(detrimental-8, be-6)
+advmod(detrimental-8, highly-7)
+xcomp(found-4, detrimental-8)
+prepc_to(detrimental-8, enjoying-10)
+det(purchase-12, this-11)
+dobj(enjoying-10, purchase-12)
+
+=========
+
+nsubj(come-4, Annoying-1)
+aux(come-4, does-2)
+neg(come-4, not-3)
+root(ROOT-0, come-4)
+prepc_close_to(come-4, describing-7)
+det(feeling-9, the-8)
+dobj(describing-7, feeling-9)
+
+=========
+
+det(factor-2, This-1)
+nsubj(made-3, factor-2)
+root(ROOT-0, made-3)
+nsubj(competitive-6, it-4)
+advmod(competitive-6, less-5)
+xcomp(made-3, competitive-6)
+amod(brands-9, comparable-8)
+prep_to(competitive-6, brands-9)
+
+=========
+
+csubj(made-13, Living-1)
+det(city-4, a-3)
+prep_in(Living-1, city-4)
+det(variety-8, a-6)
+amod(variety-8, large-7)
+prep_with(city-4, variety-8)
+nn(shops-12, camera-10)
+nn(shops-12, repair-11)
+prep_of(variety-8, shops-12)
+root(ROOT-0, made-13)
+nsubj(frustrating-17, this-14)
+advmod(frustrating-17, even-15)
+advmod(frustrating-17, more-16)
+xcomp(made-13, frustrating-17)
+
+=========
+
+nsubjpass(authorized-5, None-1)
+xsubj(handle-7, None-1)
+prep_of(None-1, them-3)
+auxpass(authorized-5, are-4)
+root(ROOT-0, authorized-5)
+aux(handle-7, to-6)
+xcomp(authorized-5, handle-7)
+det(camera-9, this-8)
+dobj(handle-7, camera-9)
+
+=========
+
+mark(change-3, Unless-1)
+nsubj(change-3, they-2)
+advcl(buy-10, change-3)
+det(policy-5, this-4)
+dobj(change-3, policy-5)
+nsubj(buy-10, I-7)
+aux(buy-10, will-8)
+neg(buy-10, never-9)
+root(ROOT-0, buy-10)
+det(Pentax-12, another-11)
+dobj(buy-10, Pentax-12)
+det(reason-15, this-14)
+prep_for(Pentax-12, reason-15)
+

@@ -1,0 +1,56 @@
+=========
+
+csubj(created-6, Ordering-1)
+det(camera-3, this-2)
+dobj(Ordering-1, camera-3)
+aux(created-6, has-4)
+advmod(created-6, just-5)
+root(ROOT-0, created-6)
+dobj(created-6, work-7)
+prep_for(work-7, me-9)
+mark(sent-20, because-11)
+det(cord-14, the-12)
+amod(cord-14, USB-13)
+nsubjpass(sent-20, cord-14)
+amod(photos-17, uploading-16)
+prep_for(cord-14, photos-17)
+auxpass(sent-20, was-18)
+neg(sent-20, not-19)
+advcl(created-6, sent-20)
+det(camera-23, the-22)
+prep_with(sent-20, camera-23)
+
+=========
+
+prep_in(blank-14, addition-2)
+det(CD-5, the-4)
+nsubj(has-7, CD-5)
+nsubj(blank-14, CD-5)
+rcmod(CD-5, has-7)
+dep(instructions-12, presumably-9)
+amod(instructions-12, complete-11)
+dobj(has-7, instructions-12)
+cop(blank-14, is-13)
+root(ROOT-0, blank-14)
+
+=========
+
+dobj(see-3, All-1)
+nsubj(data-7, All-1)
+nsubj(see-3, you-2)
+rcmod(All-1, see-3)
+cop(data-7, is-4)
+det(data-7, No-6)
+root(ROOT-0, data-7)
+prep_on(data-7, disk-9)
+
+=========
+
+nsubj(is-3, This-2)
+root(ROOT-0, is-3)
+prep_beyond(is-3, carelessness-5)
+nsubj(unacceptable-10, it-7)
+cop(unacceptable-10, is-8)
+advmod(unacceptable-10, just-9)
+parataxis(is-3, unacceptable-10)
+

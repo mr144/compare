@@ -1,0 +1,2 @@
+Excellent_JJ cell_NN phone_NN ,_, the_DT only_JJ thing_NN bad_JJ is_VBZ the_DT battery_NN life_NN that_IN worse_JJR than_IN Motorola_NNP Atrix_NNP 4G_NNP ._.
+otherwise_RB it_PRP is_VBZ super_JJ quick_JJ and_CC easy_JJ to_TO handle_VB ..._: It_PRP is_VBZ better_JJR than_IN Iphone_NNP ,_, Blackberry_NNP or_CC Samsung_NNP ._.

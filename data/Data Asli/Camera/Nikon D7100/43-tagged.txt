@@ -1,0 +1,4 @@
+This_DT was_VBD a_DT definite_JJ upgrade_NN from_IN the_DT D90_NNP -LRB-_-LRB- 12_CD MP_NNP -RRB-_-RRB- ._.
+The_DT built-in_JJ technological_JJ features_NNS are_VBP numerous_JJ ._.
+There_EX are_VBP more_JJR options_NNS than_IN the_DT average_JJ person_NN will_MD ever_RB use_VB ._.
+This_DT camera_NN should_MD be_VB good_JJ for_IN a_DT minimum_NN of_IN 5_CD or_CC 6_CD years_NNS of_IN regular_JJ use_NN ._.

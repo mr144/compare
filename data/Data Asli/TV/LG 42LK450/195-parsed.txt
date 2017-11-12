@@ -1,0 +1,72 @@
+=========
+
+det(TV-6, The-1)
+amod(TV-6, first-2)
+poss(TV-6, LG-3)
+num(LG-3, 32-4)
+dobj(received-8, TV-6)
+nsubj(work-11, TV-6)
+nsubj(received-8, we-7)
+rcmod(TV-6, received-8)
+aux(work-11, did-9)
+neg(work-11, not-10)
+root(ROOT-0, work-11)
+
+=========
+
+expl(was-2, There-1)
+root(ROOT-0, was-2)
+det(type-4, some-3)
+nsubj(was-2, type-4)
+prep_of(type-4, issue-6)
+partmod(issue-6, preventing-7)
+dobj(preventing-7, us-8)
+prepc_from(preventing-7, getting-10)
+det(start-13, the-12)
+prep_through(getting-10, start-13)
+prep_up(getting-10, sequence-15)
+
+=========
+
+nsubj(replaced-2, Amazon-1)
+root(ROOT-0, replaced-2)
+dobj(replaced-2, it-3)
+advmod(quickly-5, very-4)
+advmod(replaced-2, quickly-5)
+
+=========
+
+det(TV-3, The-1)
+nn(TV-3, replacement-2)
+nsubj(great-5, TV-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+
+=========
+
+root(ROOT-0, Very-1)
+amod(picture-3, good-2)
+dobj(Very-1, picture-3)
+dobj(Very-1, sound-5)
+conj_and(picture-3, sound-5)
+
+=========
+
+det(connection-4, The-1)
+amod(connection-4, third-2)
+nn(connection-4, HDMI-3)
+nsubj(great-6, connection-4)
+cop(great-6, is-5)
+root(ROOT-0, great-6)
+prep(great-6, allowing-8)
+pcomp(allowing-8, for-9)
+det(cable-11, the-10)
+prep_for(allowing-8, cable-11)
+det(player-15, the-13)
+nn(player-15, DVD-14)
+prep_for(allowing-8, player-15)
+conj_and(cable-11, player-15)
+det(Roku-18, the-17)
+prep_for(allowing-8, Roku-18)
+conj_and(cable-11, Roku-18)
+

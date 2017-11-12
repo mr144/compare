@@ -1,0 +1,27 @@
+=========
+
+nsubj(exceeded-4, It-1)
+aux(exceeded-4, has-2)
+advmod(exceeded-4, far-3)
+root(ROOT-0, exceeded-4)
+poss(expectation-6, my-5)
+dobj(exceeded-4, expectation-6)
+det(camera-11, a-8)
+nn(camera-11, beginnner-9)
+nn(camera-11, DSLR-10)
+prep_from(exceeded-4, camera-11)
+
+=========
+
+nsubj(right-3, It-1)
+cop(right-3, is-2)
+root(ROOT-0, right-3)
+det(price-6, the-5)
+prep_for(right-3, price-6)
+prep_of(price-6, it-8)
+nsubj(regret-12, you-9)
+aux(regret-12, will-10)
+neg(regret-12, not-11)
+ccomp(right-3, regret-12)
+dobj(regret-12, it-13)
+

@@ -1,0 +1,1 @@
+impressed_JJ ,_, very_RB good_JJ buy_NN does_VBZ not_RB have_VB any_DT configuration_NN problem_NN ,_, it_PRP worked_VBD immediately_RB with_IN the_DT local_JJ telephone_NN company_NN and_CC the_DT truth_NN is_VBZ very_RB complete_JJ and_CC robust_JJ for_IN the_DT price_NN 100_CD %_NN recommended_VBD very_RB happy_JJ ,_, I_PRP want_VBP to_TO buy_VB one_CD for_IN my_PRP$ wife_NN

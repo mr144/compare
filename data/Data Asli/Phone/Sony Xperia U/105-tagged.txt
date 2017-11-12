@@ -1,0 +1,2 @@
+I_PRP liked_VBD the_DT size_NN and_CC features_NNS ._.
+But_CC too_RB many_JJ lost_VBN of_IN service_NN problems_NNS that_WDT required_VBD reboots_NNS of_IN the_DT phone_NN to_TO make_VB calls_NNS ._.

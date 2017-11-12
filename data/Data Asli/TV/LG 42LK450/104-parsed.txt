@@ -1,0 +1,136 @@
+=========
+
+nsubj(television-6, This-1)
+cop(television-6, is-2)
+poss(television-6, our-3)
+amod(television-6, second-4)
+nn(television-6, LG-5)
+root(ROOT-0, television-6)
+
+=========
+
+det(one-3, The-1)
+amod(one-3, first-2)
+nsubj(television-12, one-3)
+det(plasma-6, a-5)
+dep(one-3, plasma-6)
+aux(television-12, has-8)
+cop(television-12, been-9)
+det(television-12, a-10)
+amod(television-12, terrific-11)
+root(ROOT-0, television-12)
+
+=========
+
+nsubj(works-2, It-1)
+nsubj(has-5, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+conj_and(works-2, has-5)
+det(picture-8, a-6)
+amod(picture-8, beautiful-7)
+dobj(has-5, picture-8)
+
+=========
+
+advmod(needed-3, When-1)
+nsubj(needed-3, we-2)
+xsubj(replace-5, we-2)
+advcl(wanted-15, needed-3)
+aux(replace-5, to-4)
+xcomp(needed-3, replace-5)
+det(television-11, an-6)
+dep(heavy-8, older-7)
+amod(television-11, heavy-8)
+amod(television-11, traditional-9)
+nn(television-11, type-10)
+dobj(replace-5, television-11)
+nsubj(wanted-15, we-13)
+advmod(wanted-15, definitely-14)
+root(ROOT-0, wanted-15)
+det(LG-17, another-16)
+dobj(wanted-15, LG-17)
+
+=========
+
+nsubjpass(limited-3, We-1)
+auxpass(limited-3, were-2)
+root(ROOT-0, limited-3)
+det(size-7, a-5)
+amod(size-7, smaller-6)
+prep_to(limited-3, size-7)
+nsubj(offered-10, LG-9)
+conj_and(limited-3, offered-10)
+dep(needed-14, exactly-11)
+dep(exactly-11, what-12)
+nsubj(needed-14, we-13)
+ccomp(offered-10, needed-14)
+
+=========
+
+nsubj(had-2, We-1)
+root(ROOT-0, had-2)
+det(concerns-4, some-3)
+dobj(had-2, concerns-4)
+mark(LCD-10, since-5)
+det(one-7, this-6)
+nsubj(LCD-10, one-7)
+cop(LCD-10, is-8)
+det(LCD-10, an-9)
+advcl(had-2, LCD-10)
+advcl(had-2, not-12)
+conj_and(LCD-10, not-12)
+neg(LCD-10, not-12)
+det(plasma-14, a-13)
+dep(LCD-10, plasma-14)
+nsubj(need-20, we-17)
+xsubj(worry-22, we-17)
+aux(need-20, did-18)
+neg(need-20, not-19)
+conj_but(had-2, need-20)
+aux(worry-22, to-21)
+xcomp(need-20, worry-22)
+
+=========
+
+det(LG-3, This-1)
+amod(LG-3, new-2)
+nsubj(has-5, LG-3)
+advmod(has-5, also-4)
+root(ROOT-0, has-5)
+det(picture-8, a-6)
+amod(picture-8, beautiful-7)
+dobj(has-5, picture-8)
+
+=========
+
+nsubj(happy-4, We-1)
+cop(happy-4, are-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+prep_with(happy-4, it-6)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, LG-4)
+
+=========
+
+nsubj(fast-6, Delivery-1)
+nsubj(free-8, Delivery-1)
+prep_from(Delivery-1, Amazon-3)
+cop(fast-6, was-4)
+advmod(fast-6, very-5)
+root(ROOT-0, fast-6)
+conj_and(fast-6, free-8)
+
+=========
+
+nsubj(arrived-2, It-1)
+root(ROOT-0, arrived-2)
+amod(shape-5, great-4)
+prep_in(arrived-2, shape-5)
+

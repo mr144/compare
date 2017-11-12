@@ -1,0 +1,40 @@
+=========
+
+nsubj(read-2, I-1)
+root(ROOT-0, read-2)
+prep_about(read-2, it-4)
+
+=========
+
+nsubj(says-2, Rockwell-1)
+root(ROOT-0, says-2)
+nsubj(DSLR-8, it-3)
+cop(DSLR-8, is-4)
+det(DSLR-8, the-5)
+amod(DSLR-8, best-6)
+nn(DSLR-8, DX-7)
+ccomp(says-2, DSLR-8)
+advmod(DSLR-8, ever-9)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+
+=========
+
+nsubj(used-2, I-1)
+root(ROOT-0, used-2)
+dobj(used-2, it-3)
+
+=========
+
+root(ROOT-0, Priceless-1)
+
+=========
+
+nsubj(eat-3, Let-1)
+possessive(Let-1, 's-2)
+root(ROOT-0, eat-3)
+

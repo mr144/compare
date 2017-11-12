@@ -1,0 +1,8 @@
+It_PRP does_VBZ not_RB seem_VB like_IN this_DT phone_NN is_VBZ origional_JJ ._.
+Seems_VBZ like_IN a_DT high_JJ quality_NN replica_NN that_WDT is_VBZ made_VBN in_IN China_NNP ._.
+I_PRP worked_VBD for_IN Motorola_NNP Solustions_NNPS not_RB mobility_NN and_CC none_NN of_IN the_DT phones_NNS we_PRP were_VBD ever_RB issued_VBN said_VBD made_VBN in_IN china_NN ._.
+The_DT phone_NN does_VBZ not_RB have_VB a_DT fingerprint_NN reader_NN like_IN advertised_JJ ._.
+The_DT phone_NN locks_VBZ up_RP every_DT 10_CD seconds_NNS and_CC the_DT touch_NN screen_NN stops_NNS working_VBG ._.
+I_PRP have_VBP to_TO lock_VB then_RB unlock_VB the_DT screen_NN to_TO continue_VB ._.
+ENsure_VB you_PRP can_MD connect_VB to_TO wifi_VB ._.
+You_PRP cant_VBP use_VB the_DT phone_NN until_IN it_PRP is_VBZ registered_VBN with_IN Motoblur_NNP ._.

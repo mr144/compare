@@ -1,0 +1,34 @@
+=========
+
+det(camera-2, The-1)
+nsubj(fantastic-4, camera-2)
+cop(fantastic-4, is-3)
+root(ROOT-0, fantastic-4)
+
+=========
+
+advmod(glad-2, Very-1)
+dep(bought-4, glad-2)
+nsubj(bought-4, I-3)
+root(ROOT-0, bought-4)
+dobj(bought-4, it-5)
+
+=========
+
+aux(recommend-2, Would-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, it-3)
+prep_to(recommend-2, anyone-5)
+partmod(anyone-5, wanting-6)
+det(camera-9, a-7)
+amod(camera-9, digital-8)
+dobj(wanting-6, camera-9)
+
+=========
+
+det(mode-3, The-1)
+nn(mode-3, auto-2)
+nsubj(works-4, mode-3)
+root(ROOT-0, works-4)
+acomp(works-4, great-5)
+

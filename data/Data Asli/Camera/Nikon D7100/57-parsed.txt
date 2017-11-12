@@ -1,0 +1,36 @@
+=========
+
+aux(gone-3, Have-1)
+neg(gone-3, not-2)
+root(ROOT-0, gone-3)
+det(features-6, all-5)
+prep_through(gone-3, features-6)
+advmod(gone-3, yet-7)
+aux(shot-10, have-9)
+conj_but(gone-3, shot-10)
+xcomp(shot-10, lots-11)
+prep_of(lots-11, pics-13)
+dep(impressive-17, all-15)
+advmod(impressive-17, very-16)
+dep(shot-10, impressive-17)
+
+=========
+
+nsubj(easy-2, Controls-1)
+nsubj(set-6, Controls-1)
+root(ROOT-0, easy-2)
+prep_to(easy-2, access-4)
+conj_and(easy-2, set-6)
+det(fly-9, the-8)
+prep_on(set-6, fly-9)
+
+=========
+
+root(ROOT-0, upgraded-1)
+prep_from(upgraded-1, d3100-3)
+
+=========
+
+det(regrets-2, no-1)
+root(ROOT-0, regrets-2)
+

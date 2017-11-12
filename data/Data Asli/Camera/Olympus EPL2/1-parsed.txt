@@ -1,0 +1,142 @@
+=========
+
+nsubj(used-2, I-1)
+root(ROOT-0, used-2)
+poss(camera-4, my-3)
+dobj(used-2, camera-4)
+aux(take-6, to-5)
+infmod(camera-4, take-6)
+dobj(take-6, pictures-7)
+prep_at(take-6, meetings-9)
+
+=========
+
+nsubj(had-2, It-1)
+root(ROOT-0, had-2)
+det(life-5, a-3)
+amod(life-5, boring-4)
+dobj(had-2, life-5)
+det(one-11, a-8)
+advmod(short-10, remarkably-9)
+amod(one-11, short-10)
+dobj(had-2, one-11)
+conj_and(life-5, one-11)
+advmod(had-2, too-13)
+
+=========
+
+advmod(dislodged-9, When-1)
+det(ring-4, a-2)
+amod(ring-4, plastic-3)
+nsubj(dislodged-9, ring-4)
+det(lens-7, the-6)
+prep_in(ring-4, lens-7)
+dep(dislodged-9, got-8)
+advcl(sent-18, dislodged-9)
+xcomp(dislodged-9, making-11)
+nsubj(impossible-13, it-12)
+xcomp(making-11, impossible-13)
+aux(extend-15, to-14)
+xcomp(impossible-13, extend-15)
+nsubj(sent-18, I-17)
+root(ROOT-0, sent-18)
+dobj(sent-18, it-19)
+prep_to(sent-18, Olympus-21)
+det(repair-24, a-23)
+prep_for(sent-18, repair-24)
+
+=========
+
+nsubj(found-2, They-1)
+nsubj(said-11, They-1)
+root(ROOT-0, found-2)
+num(evidence-4, &#34;-3)
+iobj(found-2, evidence-4)
+amod(damage-8, extensive-6)
+nn(damage-8, impact-7)
+prep_of(evidence-4, damage-8)
+dobj(found-2, &#34;-9)
+conj_and(found-2, said-11)
+nsubj(practical-16, it-12)
+cop(practical-16, was-13)
+neg(practical-16, not-14)
+advmod(practical-16, economically-15)
+ccomp(said-11, practical-16)
+aux(repair-18, to-17)
+xcomp(practical-16, repair-18)
+det(item-20, the-19)
+dobj(repair-18, item-20)
+
+=========
+
+nsubj(owned-3, I-1)
+aux(owned-3, had-2)
+root(ROOT-0, owned-3)
+det(camera-5, the-4)
+dobj(owned-3, camera-5)
+advmod(than-8, much-6)
+advmod(than-8, less-7)
+advmod(owned-3, than-8)
+det(year-10, a-9)
+tmod(owned-3, year-10)
+
+=========
+
+cc(offered-3, But-1)
+nsubj(offered-3, they-2)
+root(ROOT-0, offered-3)
+num(%-5, 20-4)
+dobj(offered-3, %-5)
+det(lens-10, a-7)
+amod(lens-10, new-8)
+nn(lens-10, Olympus-9)
+prep_off(offered-3, lens-10)
+
+=========
+
+dep(thank-3, No-1)
+root(ROOT-0, thank-3)
+nsubj(much-6, you-4)
+advmod(much-6, very-5)
+xcomp(thank-3, much-6)
+
+=========
+
+mark(going-4, If-1)
+nsubj(going-4, I-2)
+xsubj(ripped-7, I-2)
+aux(going-4, am-3)
+advcl(give-13, going-4)
+aux(ripped-7, to-5)
+auxpass(ripped-7, get-6)
+xcomp(going-4, ripped-7)
+prt(ripped-7, off-8)
+advmod(ripped-7, again-9)
+nsubj(give-13, I-11)
+aux(give-13, 'll-12)
+root(ROOT-0, give-13)
+det(company-16, a-14)
+amod(company-16, different-15)
+iobj(give-13, company-16)
+det(crack-18, a-17)
+dobj(give-13, crack-18)
+prep_at(crack-18, me-20)
+
+=========
+
+cc(Olympus-4, But-1)
+neg(Olympus-4, never-2)
+nsubj(Olympus-4, another-3)
+root(ROOT-0, Olympus-4)
+advmod(Olympus-4, ever-5)
+advmod(Olympus-4, again-6)
+
+=========
+
+nsubjpass(disappointed-4, I-1)
+auxpass(disappointed-4, am-2)
+advmod(disappointed-4, so-3)
+root(ROOT-0, disappointed-4)
+det(company-7, this-6)
+prep_in(disappointed-4, company-7)
+

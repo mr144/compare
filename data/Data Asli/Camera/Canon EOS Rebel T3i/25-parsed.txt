@@ -1,0 +1,55 @@
+=========
+
+nsubj(looking-4, I-1)
+aux(looking-4, have-2)
+aux(looking-4, been-3)
+root(ROOT-0, looking-4)
+det(camera-7, this-6)
+prep_at(looking-4, camera-7)
+prep_for(camera-7, months-9)
+advmod(looking-4, now-10)
+nsubj(bought-14, I-12)
+advmod(bought-14, eventually-13)
+conj_and(looking-4, bought-14)
+dobj(bought-14, it-15)
+
+=========
+
+cop(newbie-3, Being-1)
+det(newbie-3, a-2)
+partmod(has-9, newbie-3)
+amod(cameras-6, DSLR-5)
+prep_to(newbie-3, cameras-6)
+nsubj(has-9, it-8)
+root(ROOT-0, has-9)
+det(curve-13, an-10)
+amod(curve-13, easy-11)
+nn(curve-13, learning-12)
+dobj(has-9, curve-13)
+
+=========
+
+root(ROOT-0, Quality-1)
+prep_of(Quality-1, pictures-3)
+dep(Quality-1, with-4)
+det(lens-7, the-5)
+amod(lens-7, 18-55mm-6)
+pobj(with-4, lens-7)
+amod(lens-10, 50mm-9)
+pobj(with-4, lens-10)
+conj_and(lens-7, lens-10)
+cop(great-12, are-11)
+rcmod(lens-7, great-12)
+
+=========
+
+nn(quality-2, Video-1)
+nsubj(excellent-4, quality-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+poss(lens-9, my-6)
+num(lens-9, 50-7)
+nn(lens-9, mm-8)
+prep_with(excellent-4, lens-9)
+prep_on(excellent-4, it-11)
+

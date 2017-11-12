@@ -1,0 +1,2 @@
+it_PRP is_VBZ the_DT best_JJS phone_NN I_PRP have_VBP bought_VBN so_RB far_RB ,_, I_PRP have_VBP tried_VBN Blackberry_NNP Bold_NNP 9700_CD ,_, Sony_NNP Ericsson_NNP P1i_NNP ,_, Nokia_NNP N900_NNP ,_, iPhone_NNP 3G_NNP ..._: and_CC I_PRP can_MD say_VB with_IN certainty_NN that_IN this_DT is_VBZ the_DT most_RBS comprehensive_JJ smart_JJ phone_NN ,_, fast_JJ and_CC long_JJ battery_NN life_NN have_VBP ever_RB tasted_VBN ._.
+I_PRP recommend_VBP it_PRP 101_CD %_NN ,_, in_IN Venezuela_NNP works_VBZ perfectly_RB ._.

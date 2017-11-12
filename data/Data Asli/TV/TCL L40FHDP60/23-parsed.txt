@@ -1,0 +1,34 @@
+=========
+
+nsubj(purchased-3, I-1)
+aux(purchased-3, would-2)
+root(ROOT-0, purchased-3)
+det(product-5, this-4)
+dobj(purchased-3, product-5)
+advmod(purchased-3, again-6)
+
+=========
+
+root(ROOT-0, loving-1)
+det(part-3, the-2)
+dobj(loving-1, part-3)
+det(warranty-8, the-5)
+num(warranty-8, 2-6)
+nn(warranty-8, year-7)
+prep_about(loving-1, warranty-8)
+
+=========
+
+amod(quality-3, good-1)
+nn(quality-3, picture-2)
+root(ROOT-0, quality-3)
+neg(excited-6, not-4)
+advmod(excited-6, too-5)
+dep(quality-3, excited-6)
+det(glass-9, the-8)
+prep_about(excited-6, glass-9)
+auxpass(attached-11, being-10)
+partmod(glass-9, attached-11)
+det(television-14, the-13)
+prep_to(attached-11, television-14)
+

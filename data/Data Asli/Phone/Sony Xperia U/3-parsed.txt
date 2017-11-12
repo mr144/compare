@@ -1,0 +1,76 @@
+=========
+
+det(beginning-3, the-2)
+prep_in(fast-7, beginning-3)
+nsubj(fast-7, it-5)
+nsubj(responsive-9, it-5)
+cop(fast-7, was-6)
+root(ROOT-0, fast-7)
+conj_and(fast-7, responsive-9)
+
+=========
+
+nsubj(reacted-2, Everything-1)
+root(ROOT-0, reacted-2)
+advmod(fast-4, very-3)
+acomp(reacted-2, fast-4)
+
+=========
+
+cc(slow-13, But-1)
+mark(upgraded-4, after-2)
+nsubj(upgraded-4, I-3)
+advcl(slow-13, upgraded-4)
+dobj(upgraded-4, it-5)
+prep_with(upgraded-4, ICS-7)
+det(phone-10, the-9)
+nsubj(slow-13, phone-10)
+cop(slow-13, became-11)
+advmod(slow-13, very-12)
+root(ROOT-0, slow-13)
+
+=========
+
+nn(functions-2, Basic-1)
+nsubj(needs-13, functions-2)
+xsubj(wait-15, functions-2)
+amod(dialing-5, open-4)
+appos(functions-2, dialing-5)
+nn(album-11, contacts-7)
+dep(album-11, camera-9)
+dep(dialing-5, album-11)
+root(ROOT-0, needs-13)
+aux(wait-15, to-14)
+xcomp(needs-13, wait-15)
+number(~-18, 3-17)
+prep_for(wait-15, ~-18)
+npadvmod(second-20, 5-19)
+advmod(wait-15, second-20)
+
+=========
+
+advmod(crashes-4, Sometimes-1)
+det(camera-3, the-2)
+nsubj(crashes-4, camera-3)
+root(ROOT-0, crashes-4)
+acomp(crashes-4, due-5)
+nn(problem-8, memory-7)
+prep_to(due-5, problem-8)
+
+=========
+
+nsubj(regret-2, I-1)
+root(ROOT-0, regret-2)
+xcomp(regret-2, upgrading-3)
+dobj(upgrading-3, OS-4)
+prep_to(upgrading-3, ICS-6)
+
+=========
+
+advmod(enough-5, Maybe-1)
+nsubj(enough-5, RAM-2)
+cop(enough-5, is-3)
+neg(enough-5, not-4)
+root(ROOT-0, enough-5)
+prep_for(enough-5, ICS-7)
+

@@ -1,0 +1,35 @@
+=========
+
+root(ROOT-0, Gave-1)
+conj_and(Gave-1, Gave-1')
+dobj(Gave-1, this-2)
+det(gift-5, a-4)
+prep_as(Gave-1, gift-5)
+prep_to(Gave-1', parents-8)
+
+=========
+
+nsubjpass(supprised-3, I-1)
+auxpass(supprised-3, was-2)
+root(ROOT-0, supprised-3)
+complm(good-10, that-4)
+det(quality-7, the-5)
+nn(quality-7, picture-6)
+nsubj(good-10, quality-7)
+cop(good-10, is-8)
+advmod(good-10, as-9)
+ccomp(supprised-3, good-10)
+mark(is-13, as-11)
+nsubj(is-13, it-12)
+advcl(good-10, is-13)
+det(TV-18, a-15)
+num(TV-18, 720P-16)
+nn(TV-18, LCD-17)
+prep_for(is-13, TV-18)
+
+=========
+
+nsubj(happy-3, Everyone-1)
+cop(happy-3, is-2)
+root(ROOT-0, happy-3)
+

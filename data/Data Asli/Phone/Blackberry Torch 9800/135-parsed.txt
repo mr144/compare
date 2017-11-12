@@ -1,0 +1,44 @@
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, perfect-3)
+
+=========
+
+det(combination-2, The-1)
+nsubj(make-15, combination-2)
+det(camera-5, the-4)
+prep_of(combination-2, camera-5)
+det(display-8, the-7)
+prep_of(combination-2, display-8)
+conj_and(camera-5, display-8)
+det(look-13, the-10)
+amod(look-13, sleek-11)
+amod(look-13, new-12)
+prep_of(combination-2, look-13)
+conj_and(camera-5, look-13)
+aux(make-15, will-14)
+root(ROOT-0, make-15)
+det(phone-17, this-16)
+nsubj(love-19, phone-17)
+det(love-19, the-18)
+xcomp(make-15, love-19)
+poss(life-22, your-21)
+prep_of(love-19, life-22)
+
+=========
+
+det(screen-4, The-1)
+amod(screen-4, captivating-2)
+nn(screen-4, touch-3)
+nsubj(one-6, screen-4)
+cop(one-6, is-5)
+root(ROOT-0, one-6)
+det(features-10, the-8)
+amod(features-10, best-9)
+prep_of(one-6, features-10)
+complm(experienced-13, that-11)
+nsubj(experienced-13, I-12)
+ccomp(one-6, experienced-13)
+

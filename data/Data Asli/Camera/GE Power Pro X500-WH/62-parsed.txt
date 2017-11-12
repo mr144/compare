@@ -1,0 +1,45 @@
+=========
+
+det(price-3, the-2)
+prep_for(excellent-10, price-3)
+det(camera-6, this-5)
+prep_of(price-3, camera-6)
+nsubj(excellent-10, it-8)
+cop(excellent-10, is-9)
+root(ROOT-0, excellent-10)
+
+=========
+
+nsubj(tries-2, It-1)
+nsubj(falls-10, It-1)
+root(ROOT-0, tries-2)
+nsubj(hard-4, VERY-3)
+xcomp(tries-2, hard-4)
+aux(DSLR-8, to-5)
+cop(DSLR-8, be-6)
+det(DSLR-8, a-7)
+xcomp(hard-4, DSLR-8)
+conj_but(tries-2, falls-10)
+advmod(short-12, just-11)
+acomp(falls-10, short-12)
+
+=========
+
+nsubj(get-8, Play-1)
+det(settings-4, the-3)
+prep_with(Play-1, settings-4)
+det(little-6, a-5)
+dep(settings-4, little-6)
+aux(get-8, to-7)
+root(ROOT-0, get-8)
+det(look-10, the-9)
+dobj(get-8, look-10)
+dobj(want-12, look-10)
+nsubj(want-12, you-11)
+rcmod(look-10, want-12)
+det(camera-15, this-14)
+nsubj(great-18, camera-15)
+aux(great-18, can-16)
+cop(great-18, be-17)
+conj_and(get-8, great-18)
+

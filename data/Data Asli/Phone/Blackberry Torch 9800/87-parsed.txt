@@ -1,0 +1,23 @@
+=========
+
+root(ROOT-0, Love-1)
+det(ontil-3, this-2)
+dobj(Love-1, ontil-3)
+dobj(love-7, ontil-3)
+poss(mom-5, my-4)
+nsubj(love-7, mom-5)
+advmod(love-7, even-6)
+rcmod(ontil-3, love-7)
+nsubj(give-11, it-8)
+dep(give-11, more-9)
+nsubj(give-11, I-10)
+xcomp(love-7, give-11)
+iobj(give-11, her-12)
+dobj(give-11, it-13)
+conj_and(Love-1, order-15)
+prt(order-15, back-16)
+num(Works-18, one-17)
+dobj(order-15, Works-18)
+amod(Works-18, great-19)
+prep_for(great-19, me-21)
+

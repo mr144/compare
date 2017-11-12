@@ -1,0 +1,72 @@
+=========
+
+ccomp(loved-6, Took-1)
+dobj(Took-1, it-2)
+prep_to(Took-1, Vegas-4)
+root(ROOT-0, loved-6)
+det(clarity-8, the-7)
+nsubj(loved-6, clarity-8)
+
+=========
+
+amod(speed-2, Amazing-1)
+root(ROOT-0, speed-2)
+dep(looking-8, just-4)
+dep(just-4, what-5)
+nsubj(looking-8, I-6)
+aux(looking-8, was-7)
+dep(speed-2, looking-8)
+prep(looking-8, for-9)
+
+=========
+
+det(issues-2, No-1)
+root(ROOT-0, issues-2)
+prep_with(issues-2, speed-4)
+conj_or(issues-2, anything-7)
+dep(issues-2, it-8)
+det(it-8, all-9)
+
+=========
+
+det(mode-4, an-2)
+nn(mode-4, auto-3)
+prep_in(point-8, mode-4)
+nsubj(point-8, it-6)
+cop(point-8, was-7)
+root(ROOT-0, point-8)
+conj_and(point-8, shoot-10)
+prepc_with(point-8, AMAZING-12)
+dobj(AMAZING-12, results-13)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, strongly-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+prep_to(recommend-3, all-6)
+
+=========
+
+nsubj(did-2, I-1)
+nsubj(surpassed-16, I-1)
+root(ROOT-0, did-2)
+det(lot-4, a-3)
+dobj(did-2, lot-4)
+prep_of(lot-4, research-6)
+prep_of(lot-4, trial-8)
+conj_and(research-6, trial-8)
+prep_with(did-2, Canon-10)
+advmod(did-2, too-11)
+dep(far-15, this-14)
+advmod(surpassed-16, far-15)
+conj_but(did-2, surpassed-16)
+dobj(surpassed-16, it-17)
+
+=========
+
+nsubj(amazing-3, Zoom-1)
+cop(amazing-3, was-2)
+root(ROOT-0, amazing-3)
+

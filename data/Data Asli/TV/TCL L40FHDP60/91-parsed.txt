@@ -1,0 +1,44 @@
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, was-2)
+det(TV-5, a-3)
+amod(TV-5, beautiful-4)
+root(ROOT-0, TV-5)
+det(reason-10, some-9)
+prep_for(capable-15, reason-10)
+nsubj(capable-15, it-12)
+cop(capable-15, was-13)
+neg(capable-15, not-14)
+conj_but(TV-5, capable-15)
+det(set-up-19, the-17)
+nn(set-up-19, Comast-18)
+prep_with(capable-15, set-up-19)
+poss(home-22, my-21)
+prep_in(set-up-19, home-22)
+
+=========
+
+root(ROOT-0, Gave-1)
+dobj(Gave-1, it-2)
+poss(son-5, my-4)
+prep_to(Gave-1, son-5)
+nsubj(shows-8, it-7)
+conj_and(Gave-1, shows-8)
+advmod(shows-8, beautifully-9)
+
+=========
+
+nsubj(!!!!!!!!!!!!!!!!!!!!!!!-2, Go-figure-1)
+root(ROOT-0, !!!!!!!!!!!!!!!!!!!!!!!-2)
+nsubj(did-5, I-4)
+dep(!!!!!!!!!!!!!!!!!!!!!!!-2, did-5)
+amod(system-8, re-order-6)
+det(system-8, another-7)
+dobj(did-5, system-8)
+nsubj(working-12, it-10)
+aux(working-12, is-11)
+dep(!!!!!!!!!!!!!!!!!!!!!!!-2, working-12)
+conj_and(did-5, working-12)
+acomp(working-12, fine-13)
+

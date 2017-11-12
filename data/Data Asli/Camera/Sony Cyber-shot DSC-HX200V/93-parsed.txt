@@ -1,0 +1,33 @@
+=========
+
+dep(quality-7, Easy-1)
+prep_to(Easy-1, use-3)
+amod(quality-7, good-5)
+nn(quality-7, picture-6)
+root(ROOT-0, quality-7)
+
+=========
+
+nsubj(starts-2, It-1)
+nsubj(focuses-5, It-1)
+nsubj(have-10, It-1)
+nsubj(easy-15, It-1)
+root(ROOT-0, starts-2)
+advmod(starts-2, fast-3)
+conj_and(starts-2, focuses-5)
+advmod(focuses-5, quickly-6)
+aux(have-10, does-8)
+neg(have-10, not-9)
+conj_and(starts-2, have-10)
+nn(lag-12, shutter-11)
+dobj(have-10, lag-12)
+cop(easy-15, is-14)
+conj_and(starts-2, easy-15)
+aux(handle-17, to-16)
+xcomp(easy-15, handle-17)
+conj_and(starts-2, has-19)
+conj_and(easy-15, has-19)
+dobj(has-19, tons-20)
+nn(!!!!!!!!!!!!!!!!!!-23, functions-22)
+prep_of(tons-20, !!!!!!!!!!!!!!!!!!-23)
+

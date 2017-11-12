@@ -1,0 +1,3 @@
+I_PRP bought_VBD this_DT TV_NN after_IN returning_VBG Sony_NNP 55_CD '_POS NX_NNP 720_CD ,_, this_DT is_VBZ way_RB better_JJR in_IN picture_NN clarity_NN and_CC color_NN ._.
+Extremely_RB satisfied_VBN with_IN this_DT purchase_NN ,_, critic_NN reviews_NNS from_IN CNET_NNP ,_, PCMAg_NNP are_VBP mixed_JJ but_CC user_NN reviews_NNS are_VBP all_DT round_NN excellent_JJ for_IN this_DT TV_NN ._.
+So_RB I_PRP went_VBD with_IN the_DT user_NN reviews_NNS and_CC I_PRP am_VBP very_RB happy_JJ with_IN it_PRP ._.

@@ -1,0 +1,26 @@
+=========
+
+root(ROOT-0, Pricey-1)
+prep(Pricey-1, but-2)
+det(best-4, the-3)
+dep(but-2, best-4)
+det(marketplace-7, the-6)
+prep_in(best-4, marketplace-7)
+
+=========
+
+det(little-2, A-1)
+npadvmod(bit-3, little-2)
+advmod(disppointed-4, bit-3)
+root(ROOT-0, disppointed-4)
+mark(did-12, because-5)
+det(price-9, the-6)
+amod(price-9, daily-7)
+amod(price-9, decreasing-8)
+nsubj(did-12, price-9)
+prep_since(price-9, I-11)
+advcl(disppointed-4, did-12)
+dobj(did-12, place-13)
+det(order-15, the-14)
+nsubj(disppointed-4, order-15)
+

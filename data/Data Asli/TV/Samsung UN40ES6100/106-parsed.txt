@@ -1,0 +1,40 @@
+=========
+
+nsubj(own-4, I-1)
+aux(own-4, will-2)
+neg(own-4, never-3)
+root(ROOT-0, own-4)
+det(TV-7, any-5)
+amod(TV-7, other-6)
+dobj(own-4, TV-7)
+det(Smsung-10, a-9)
+prep_than(own-4, Smsung-10)
+
+=========
+
+dep(costs-3, Yes-1)
+nsubj(costs-3, it-2)
+root(ROOT-0, costs-3)
+det(little-5, a-4)
+npadvmod(more-6, little-5)
+acomp(costs-3, more-6)
+det(quality-10, the-9)
+nsubj(is-11, quality-10)
+conj_but(costs-3, is-11)
+advmod(is-11, there-12)
+
+=========
+
+nsubj(loved-2, We-1)
+nsubj(saved-5, We-1)
+root(ROOT-0, loved-2)
+dobj(loved-2, it-3)
+conj_and(loved-2, saved-5)
+conj_and(loved-2, Saved-7)
+conj_and(saved-5, Saved-7)
+npadvmod(Saved-7, $-8)
+num($-8, 200.00-9)
+prepc_by(Saved-7, buying-11)
+dobj(buying-11, this-12)
+prep_from(buying-11, Amazon-14)
+

@@ -1,0 +1,74 @@
+=========
+
+nn(ANNOUNCEMENT-5, IS-1)
+nn(ANNOUNCEMENT-5, NOT-2)
+nn(ANNOUNCEMENT-5, CLEAR-3)
+nn(ANNOUNCEMENT-5, THE-4)
+root(ROOT-0, ANNOUNCEMENT-5)
+
+=========
+
+nn(NOTICE-5, IS-1)
+nn(NOTICE-5, NOT-2)
+nn(NOTICE-5, CLEAR-3)
+nn(NOTICE-5, THE-4)
+root(ROOT-0, NOTICE-5)
+
+=========
+
+prep_in(APPEARS-7, ONE-2)
+det(THAT-6, THE-4)
+nn(THAT-6, PICTURES-5)
+prep_of(ONE-2, THAT-6)
+root(ROOT-0, APPEARS-7)
+nn(T-MOBILE-12, IS-8)
+nn(T-MOBILE-12, NOT-9)
+nn(T-MOBILE-12, OTHER-10)
+nn(T-MOBILE-12, IF-11)
+nsubj(APPEARS-7, T-MOBILE-12)
+
+=========
+
+nsubj(PROBLEM-4, THIS-1)
+cop(PROBLEM-4, IS-2)
+det(PROBLEM-4, THE-3)
+ccomp(TITLE-15, PROBLEM-4)
+nn(DETAILS-10, THAT-7)
+nn(DETAILS-10, THE-8)
+nn(DETAILS-10, TECHNICAL-9)
+conj_and(PROBLEM-4, DETAILS-10)
+ccomp(TITLE-15, DETAILS-10)
+nsubj(TITLE-15, OR-12)
+cop(TITLE-15, IS-13)
+det(TITLE-15, THE-14)
+root(ROOT-0, TITLE-15)
+det(band-26, THE-17)
+nn(band-26, BANDS-18)
+nn(band-26, LISTED-19)
+nn(band-26, PRODUCT-20)
+nn(band-26, HANDLING-21)
+nn(band-26, EQUIPMENT-22)
+nn(band-26, IF-23)
+nn(band-26, THIS-24)
+amod(band-26, 1900MHz-25)
+prep_of(TITLE-15, band-26)
+nn(ETC.-30, 1700-28)
+nn(ETC.-30, MHZ-29)
+appos(TITLE-15, ETC.-30)
+
+=========
+
+root(ROOT-0, DIFFERENT-1)
+nn(COUNTRY-4, EACH-3)
+prep_in(DIFFERENT-1, COUNTRY-4)
+aux(RAISE-6, TO-5)
+infmod(DIFFERENT-1, RAISE-6)
+det(CELL-12, THE-7)
+nn(CELL-12, BAND-8)
+nn(CELL-12, 3G-9)
+nn(CELL-12, NESESRIA-10)
+nn(CELL-12, OR-11)
+dobj(RAISE-6, CELL-12)
+partmod(CELL-12, functioning-13)
+advmod(functioning-13, properly-14)
+

@@ -1,0 +1,105 @@
+=========
+
+prepc_after(stopped-12, having-2)
+det(phone-4, this-3)
+dobj(having-2, phone-4)
+advmod(month-9, just-6)
+amod(month-9, over-7)
+det(month-9, a-8)
+prep_for(phone-4, month-9)
+nsubj(stopped-12, it-10)
+advmod(stopped-12, just-11)
+root(ROOT-0, stopped-12)
+xcomp(stopped-12, working-13)
+
+=========
+
+det(screen-3, The-1)
+amod(screen-3, whole-2)
+nsubj(blank-5, screen-3)
+cop(blank-5, is-4)
+root(ROOT-0, blank-5)
+nsubj(responding-10, it-7)
+aux(responding-10, is-8)
+neg(responding-10, not-9)
+conj_and(blank-5, responding-10)
+det(input-13, any-12)
+prep_to(responding-10, input-13)
+
+=========
+
+nsubjpass(charged-4, It-1)
+auxpass(charged-4, was-2)
+advmod(charged-4, fully-3)
+root(ROOT-0, charged-4)
+dep(charged-4, so-6)
+nsubj(issue-11, that-7)
+cop(issue-11, is-8)
+neg(issue-11, not-9)
+det(issue-11, the-10)
+ccomp(charged-4, issue-11)
+
+=========
+
+advmod(tried-8, Just-1)
+advcl(tried-8, for-2)
+det(sake-4, the-3)
+prep_for(tried-8, sake-4)
+prep_of(sake-4, it-6)
+nsubj(tried-8, I-7)
+root(ROOT-0, tried-8)
+xcomp(tried-8, charging-9)
+cc(lighting-27, but-10)
+det(light-14, the-11)
+amod(light-14, little-12)
+amod(light-14, orange-13)
+nsubj(comes-16, light-14)
+nsubj(lighting-27, light-14)
+rcmod(light-14, comes-16)
+prt(comes-16, on-17)
+aux(indicate-19, to-18)
+xcomp(comes-16, indicate-19)
+complm(charging-23, that-20)
+nsubj(charging-23, it-21)
+aux(charging-23, is-22)
+ccomp(indicate-19, charging-23)
+aux(lighting-27, is-24)
+neg(lighting-27, not-25)
+advmod(lighting-27, even-26)
+ccomp(charging-9, lighting-27)
+
+=========
+
+amod(people-2, Other-1)
+poss(reviews-4, people-2)
+nsubj(suggest-5, reviews-4)
+root(ROOT-0, suggest-5)
+nsubj(case-11, this-6)
+cop(case-11, is-7)
+neg(case-11, not-8)
+det(case-11, an-9)
+amod(case-11, isolated-10)
+ccomp(suggest-5, case-11)
+det(model-14, this-13)
+prep_with(case-11, model-14)
+
+=========
+
+nsubj(liked-4, I-1)
+aux(liked-4, had-2)
+advmod(liked-4, actually-3)
+root(ROOT-0, liked-4)
+det(phone-6, the-5)
+dobj(liked-4, phone-6)
+det(point-9, this-8)
+prep_until(liked-4, point-9)
+
+=========
+
+nsubj(considering-4, I-1)
+aux(considering-4, am-2)
+advmod(considering-4, strongly-3)
+root(ROOT-0, considering-4)
+xcomp(considering-4, returning-5)
+dobj(returning-5, it-6)
+

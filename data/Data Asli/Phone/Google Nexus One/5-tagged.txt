@@ -1,0 +1,6 @@
+It_PRP arrived_VBD in_IN a_DT tiny_JJ HTC_NNP box_NN ._.
+Parts_NNS include_VBP phone_NN ,_, Li_NNP Battery_NNP and_CC Wall_NNP Charger_NNP ._.
+No_DT user_NN manual_NN nor_CC computer_NN cable_NN ._.
+Phone_NN shows_VBZ some_DT kind_NN of_IN cosmetic_JJ defect_NN -_: IT_PRP IS_VBZ NOT_NNP NEW_NNP !_.
+Beware_VB before_IN buying_VBG !_.
+-LRB-_-LRB- Bought_NNP from_IN Ross_NNP Cellular_NNP but_CC this_DT might_MD be_VB an_DT across_IN the_DT board_NN problem_NN -RRB-_-RRB-

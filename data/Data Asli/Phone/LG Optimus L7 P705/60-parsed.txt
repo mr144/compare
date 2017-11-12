@@ -1,0 +1,38 @@
+=========
+
+nsubj(easy-3, phone-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+prep_to(easy-3, use-5)
+amod(screen-9, beautiful-7)
+amod(screen-9, wide-8)
+appos(use-5, screen-9)
+
+=========
+
+advmod(light-2, very-1)
+root(ROOT-0, light-2)
+conj_and(light-2, comfortable-4)
+aux(use-6, to-5)
+dep(light-2, use-6)
+
+=========
+
+amod(sound-2, great-1)
+root(ROOT-0, sound-2)
+dep(sound-2, quality-3)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(color-5, the-3)
+amod(color-5, white-4)
+dobj(love-2, color-5)
+advmod(love-2, more-6)
+
+=========
+
+advmod(amazing-2, simply-1)
+root(ROOT-0, amazing-2)
+

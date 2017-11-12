@@ -1,0 +1,51 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(iphone-4, this-3)
+dobj(bought-2, iphone-4)
+advmod(need-8, just-5)
+dep(need-8, because-6)
+nsubj(need-8, I-7)
+dep(bought-2, need-8)
+det(phone-10, a-9)
+dobj(need-8, phone-10)
+nsubjpass(used-14, phone-10)
+nsubj(support-18, phone-10)
+aux(used-14, can-12)
+auxpass(used-14, be-13)
+rcmod(phone-10, used-14)
+prep_in(used-14, US-16)
+rcmod(phone-10, support-18)
+conj_and(used-14, support-18)
+amod(language-20, foreign-19)
+dobj(support-18, language-20)
+
+=========
+
+nsubj(satisfied-3, It-1)
+advmod(satisfied-3, just-2)
+root(ROOT-0, satisfied-3)
+poss(needs-5, my-4)
+dobj(satisfied-3, needs-5)
+
+=========
+
+advmod(slow-6, However-1)
+nsubj(slow-6, it-3)
+nsubj(have-8, it-3)
+cop(slow-6, is-4)
+advmod(slow-6, very-5)
+root(ROOT-0, slow-6)
+conj_and(slow-6, have-8)
+amod(definition-10, low-9)
+dobj(have-8, definition-10)
+rcmod(definition-10, compare-11)
+det(iPhone5-14, the-13)
+prep_to(compare-11, iPhone5-14)
+dobj(using-17, iPhone5-14)
+nsubj(using-17, I-15)
+aux(using-17, am-16)
+rcmod(iPhone5-14, using-17)
+advmod(using-17, now-18)
+

@@ -1,0 +1,39 @@
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+advmod(fine-4, just-3)
+acomp(works-2, fine-4)
+
+=========
+
+dep(wanted-4, Just-1)
+dep(Just-1, what-2)
+nsubj(wanted-4, I-3)
+root(ROOT-0, wanted-4)
+
+=========
+
+nsubj(have-4, I-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+det(complaints-6, any-5)
+dobj(have-4, complaints-6)
+det(camera-9, this-8)
+prep_about(complaints-6, camera-9)
+
+=========
+
+advmod(need-4, Now-1)
+nsubj(need-4, I-2)
+xsubj(get-6, I-2)
+advmod(need-4, just-3)
+root(ROOT-0, need-4)
+aux(get-6, to-5)
+xcomp(need-4, get-6)
+prt(get-6, out-7)
+xcomp(need-4, use-9)
+conj_and(get-6, use-9)
+dobj(use-9, it-10)
+

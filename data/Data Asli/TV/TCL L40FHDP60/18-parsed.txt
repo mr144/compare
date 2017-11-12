@@ -1,0 +1,30 @@
+=========
+
+nsubj(TV-6, This-1)
+cop(TV-6, is-2)
+det(TV-6, a-3)
+advmod(good-5, very-4)
+amod(TV-6, good-5)
+root(ROOT-0, TV-6)
+
+=========
+
+nsubj(bought-2, We-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+prep_for(bought-2, ourselves-5)
+det(present-9, a-7)
+nn(present-9, Christmas-8)
+prep_for(bought-2, present-9)
+poss(bedroom-12, our-11)
+prep_for(present-9, bedroom-12)
+
+=========
+
+dep(picture-5, Good-1)
+dep(Good-1, quality-2)
+amod(picture-5, nice-4)
+root(ROOT-0, picture-5)
+amod(sound-8, good-7)
+amod(picture-5, sound-8)
+

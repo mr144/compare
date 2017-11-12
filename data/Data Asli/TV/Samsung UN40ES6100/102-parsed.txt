@@ -1,0 +1,29 @@
+=========
+
+amod(TV-3, great-1)
+amod(TV-3, smart-2)
+nsubj(built-8, TV-3)
+prep_with(TV-3, Pandora-5)
+prep_with(TV-3, Netflix-7)
+conj_and(Pandora-5, Netflix-7)
+root(ROOT-0, built-8)
+prt(built-8, in-9)
+advmod(thin-12, super-11)
+acomp(built-8, thin-12)
+acomp(built-8, easy-15)
+conj_and(thin-12, easy-15)
+aux(use-17, to-16)
+xcomp(easy-15, use-17)
+dobj(use-17, all-18)
+det(functions-22, the-20)
+amod(functions-22, great-21)
+prep_of(all-18, functions-22)
+
+=========
+
+nsubj(buy-3, I-1)
+aux(buy-3, would-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, this-4)
+advmod(buy-3, again-5)
+

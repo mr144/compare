@@ -1,0 +1,3 @@
+I_PRP like_VBP this_DT camera_NN ,_, I_PRP really_RB do_VBP ..._: it_PRP is_VBZ just_RB more_JJR than_IN I_PRP need_VBP ._.
+My_PRP$ profession_NN requires_VBZ me_PRP to_TO take_VB quality_NN photos_NNS of_IN properties_NNS and_CC this_DT definitely_RB delivers_VBZ ._.
+But_CC for_IN the_DT price_NN I_PRP paid_VBD ,_, it_PRP offers_VBZ way_RB more_JJR features_NNS than_IN I_PRP 'll_MD ever_RB use_VB ._.

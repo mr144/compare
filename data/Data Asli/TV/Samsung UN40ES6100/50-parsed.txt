@@ -1,0 +1,36 @@
+=========
+
+det(Tops-2, The-1)
+nsubj(have-8, Tops-2)
+det(line-5, the-4)
+prep_of(Tops-2, line-5)
+appos(line-5, Samsung-7)
+root(ROOT-0, have-8)
+det(TV-10, A-9)
+dobj(have-8, TV-10)
+det(body-13, every-12)
+prep_for(TV-10, body-13)
+
+=========
+
+predet(App-3, All-1)
+det(App-3, the-2)
+nsubj(want-7, App-3)
+nn(I-6, bells-5)
+conj_and(App-3, I-6)
+nsubj(want-7, I-6)
+root(ROOT-0, want-7)
+dep(want-7, check-9)
+dobj(want-7, Samsung-10)
+advmod(Samsung-10, first-11)
+nsubj(have-13, they-12)
+rcmod(Samsung-10, have-13)
+nn(Quality-15, the-14)
+dobj(have-13, Quality-15)
+dobj(have-13, Value-17)
+conj_and(Quality-15, Value-17)
+nsubj(love-20, you-18)
+aux(love-20, will-19)
+rcmod(Quality-15, love-20)
+dobj(love-20, IT-21)
+

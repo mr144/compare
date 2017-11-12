@@ -1,0 +1,19 @@
+When_WRB I_PRP received_VBD this_DT Blackberry_NNP Torch_NNP 9800_CD I_PRP loved_VBD this_DT product_NN ._.
+It_PRP is_VBZ a_DT big_JJ improvement_NN over_IN traditional_JJ blackberry_NN 's_POS since_IN it_PRP incorporates_VBZ many_JJ of_IN the_DT iphone_NN features_NNS such_JJ as_IN touch_NN screen_NN ,_, picture_NN sliding_VBG and_CC so_RB on_IN ,_, while_IN retaining_VBG the_DT best_JJS features_NNS of_IN the_DT blackberry_NN :_: the_DT physical_JJ keyboard_NN and_CC the_DT trackball_NN ._.
+It_PRP 's_VBZ the_DT best_JJS of_IN both_DT worlds_NNS ._.
+The_DT screen_NN is_VBZ larger_JJR than_IN a_DT traditional_JJ blackberry_NN and_CC the_DT design_NN is_VBZ modern_JJ and_CC functional_JJ ._.
+The_DT pictures_NNS taken_VBN with_IN it_PRP is_VBZ camera_NN are_VBP quite_RB good_JJ ._.
+It_PRP was_VBD easy_JJ to_TO set_VB it_PRP up_RP since_IN it_PRP is_VBZ basically_RB done_VBN in_IN the_DT same_JJ way_NN as_IN other_JJ traditional_JJ blackberry_NN 's_POS ._.
+The_DT only_JJ feature_NN I_PRP missed_VBD is_VBZ 4G_CD capabilities_NNS ,_, but_CC I_PRP had_VBD read_VBN horrible_JJ reviews_NNS on_IN the_DT 9810_CD model_NN -LRB-_-LRB- which_WDT features_VBZ 4G_NNP -RRB-_-RRB- ,_, the_DT most_RBS common_JJ complaints_NNS being_VBG that_IN it_PRP freezes_VBZ all_PDT the_DT time_NN and_CC the_DT battery_NN lasts_VBZ very_RB little_JJ time_NN -LRB-_-LRB- sometimes_RB only_RB 5_CD hours_NNS -RRB-_-RRB- ._.
+So_RB ,_, I_PRP did_VBD not_RB regret_VB getting_VBG this_DT 9800_CD model_NN ,_, which_WDT enjoyed_VBD far_RB better_JJR reviews_NNS ._.
+I_PRP bought_VBD an_DT international_JJ unlocked_VBN version_NN and_CC I_PRP inserted_VBD a_DT foreign_JJ SIM_NNP card_NN and_CC used_VBD it_PRP on_IN wifi_NN mode_NN only_RB while_IN traveling_VBG abroad_RB to_TO avoid_VB roaming_NN charges_NNS ._.
+However_RB ,_, the_DT moment_NN I_PRP returned_VBD to_TO the_DT U.S._NNP and_CC inserted_VBD an_DT AT&T_NNP card_NN and_CC activated_VBD a_DT data_NN plan_NN from_IN them_PRP ,_, the_DT wifi_JJ radio_NN was_VBD immediately_RB blocked_VBN and_CC never_RB worked_VBD again_RB ._.
+Even_RB though_IN it_PRP would_MD connect_VB to_TO my_PRP$ home_NN network_NN and_CC other_JJ hotspots_NNS ,_, it_PRP would_MD not_RB let_VB me_PRP browse_VB nor_CC download_VB email_NN via_IN wifi_NNS ._.
+Consistently_RB a_DT `_`` can_MD not_RB connect_VB message_NN '_'' would_MD come_VB up_RP ._.
+It_PRP drove_VBD me_PRP crazy_JJ ._.
+I_PRP spent_VBD two_CD days_NNS trying_VBG to_TO fix_VB the_DT problem_NN and_CC blogged_VBD for_IN two_CD days_NNS on_IN the_DT blackberry_NN forum_NN ,_, but_CC it_PRP was_VBD impossible_JJ to_TO come_VB up_RP with_IN a_DT solution_NN ._.
+From_IN my_PRP$ research_NN ,_, I_PRP learned_VBD that_IN many_JJ Torch_NNP 9800_CD owners_NNS were_VBD experiencing_VBG exactly_RB the_DT same_JJ problem_NN :_: wifi_NNS would_MD not_RB work_VB ._.
+I_PRP even_RB called_VBD AT&T_NNP and_CC went_VBD to_TO one_CD of_IN their_PRP$ stores_NNS to_TO see_VB if_IN they_PRP could_MD help_VB me_PRP ,_, and_CC they_PRP were_VBD absolutely_RB useless_JJ ._.
+My_PRP$ frustation_NN reached_VBD a_DT point_NN were_VBD I_PRP decided_VBD to_TO return_VB the_DT product_NN to_TO my_PRP$ vendor_NN ,_, since_IN I_PRP was_VBD still_RB within_IN the_DT 30_CD day_NN return_NN window_NN ._.
+I_PRP got_VBD a_DT full_JJ refund_NN for_IN it_PRP ._.
+End_NN of_IN story_NN ._.

@@ -1,0 +1,6 @@
+I_PRP did_VBD buy_VB 2_CD of_IN this_DT and_CC inmediately_RB upgrade_VB them_PRP to_TO ICS_NNP ._.
+After_IN a_DT week_NN using_VBG them_PRP -LRB-_-LRB- husband_NN and_CC I_PRP -RRB-_-RRB- think_VBP they_PRP are_VBP great_JJ ._.
+Battery_NNP life_NN is_VBZ good_JJ ._.
+Plenty_NN of_IN customization_NN options_NNS ._.
+Camera_NN is_VBZ pretty_RB good_JJ considering_VBG it_PRP is_VBZ only_RB 5_CD megapixels_NNS ._.
+Have_VB them_PRP with_IN ATT_NNP prepaid_JJ plans_NNS -LRB-_-LRB- voice_NN and_CC data_NNS -RRB-_-RRB- and_CC they_PRP work_VBP just_RB great_JJ ._.

@@ -1,0 +1,89 @@
+=========
+
+amod(years-3, many-2)
+prep_after(decided-14, years-3)
+prepc_with(years-3, D80-5)
+prepc_with(years-3, skipping-8)
+conj_and(D80-5, skipping-8)
+det(D90-10, the-9)
+dobj(skipping-8, D90-10)
+dobj(skipping-8, D7000-12)
+conj_and(D90-10, D7000-12)
+nsubj(decided-14, I-13)
+xsubj(upgrade-16, I-13)
+root(ROOT-0, decided-14)
+aux(upgrade-16, to-15)
+xcomp(decided-14, upgrade-16)
+
+=========
+
+det(D7100-2, The-1)
+nsubj(pixels-7, D7100-2)
+cop(pixels-7, is-3)
+mwe(than-5, more-4)
+quantmod(the-6, than-5)
+num(pixels-7, the-6)
+root(ROOT-0, pixels-7)
+
+=========
+
+det(ISO-2, The-1)
+nsubj(step-5, ISO-2)
+cop(step-5, is-3)
+amod(step-5, big-4)
+root(ROOT-0, step-5)
+advmod(step-5, forward-6)
+
+=========
+
+nsubj(shoot-3, I-1)
+nsubj(get-8, I-1)
+aux(shoot-3, can-2)
+root(ROOT-0, shoot-3)
+advmod(shoot-3, indoors-4)
+prep_without(shoot-3, flash-6)
+conj_and(shoot-3, get-8)
+amod(results-10, nice-9)
+dobj(get-8, results-10)
+poss(lens-15, my-12)
+number(.8-14, 40\/2-13)
+num(lens-15, .8-14)
+prep_with(get-8, lens-15)
+
+=========
+
+det(camera-2, The-1)
+nsubj(feels-3, camera-2)
+root(ROOT-0, feels-3)
+det(camera-8, a-5)
+amod(camera-8, pro-6)
+nn(camera-8, level-7)
+prep_like(feels-3, camera-8)
+det(photos-11, the-10)
+nsubj(step-14, photos-11)
+cop(step-14, are-12)
+amod(step-14, big-13)
+conj_and(feels-3, step-14)
+advmod(step-14, up-15)
+prep_from(up-15, D80-17)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(upgrade-7, the-6)
+prep_with(happy-4, upgrade-7)
+dep(with-10, and-9)
+dep(happy-4, with-10)
+det(fact-12, the-11)
+pobj(with-10, fact-12)
+complm(compromise-17, that-13)
+nsubj(compromise-17, I-14)
+aux(compromise-17, did-15)
+neg(compromise-17, not-16)
+ccomp(happy-4, compromise-17)
+det(D5200-20, the-19)
+prep_for(compromise-17, D5200-20)
+

@@ -1,0 +1,109 @@
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+dobj(use-2, this-3)
+prep_for(this-3, work-5)
+det(inspector-9, a-7)
+nn(inspector-9, property-8)
+prep_as(use-2, inspector-9)
+
+=========
+
+det(zoom-3, The-1)
+amod(zoom-3, optical-2)
+nsubj(allows-4, zoom-3)
+root(ROOT-0, allows-4)
+nsubj(get-7, me-5)
+aux(get-7, to-6)
+xcomp(allows-4, get-7)
+amod(shots-9, great-8)
+dobj(get-7, shots-9)
+det(distance-12, a-11)
+prep_from(get-7, distance-12)
+advmod(having-15, necessarily-14)
+prepc_without(get-7, having-15)
+aux(get-17, to-16)
+xcomp(having-15, get-17)
+advmod(up-19, right-18)
+advmod(get-17, up-19)
+det(subject-22, the-21)
+prep_on(get-17, subject-22)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+nsubj(set-4, it-3)
+ccomp(have-2, set-4)
+prt(set-4, up-5)
+mark(needed-7, as-6)
+advcl(set-4, needed-7)
+aux(used-11, have-9)
+neg(used-11, not-10)
+advcl(set-4, used-11)
+conj_and(needed-7, used-11)
+dobj(used-11, many-12)
+det(features-16, the-14)
+amod(features-16, other-15)
+prep_of(many-12, features-16)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, just-3)
+root(ROOT-0, happy-4)
+aux(able-7, to-5)
+cop(able-7, be-6)
+xcomp(happy-4, able-7)
+aux(get-9, to-8)
+xcomp(able-7, get-9)
+det(zoom-13, a-10)
+amod(zoom-13, 16x-11)
+amod(zoom-13, optical-12)
+dobj(get-9, zoom-13)
+predet(price-18, such-15)
+det(price-18, a-16)
+amod(price-18, great-17)
+prep_at(get-9, price-18)
+
+=========
+
+nsubj(replacement-4, This-1)
+cop(replacement-4, was-2)
+det(replacement-4, a-3)
+root(ROOT-0, replacement-4)
+nsubj(took-10, replacement-4)
+det(DMC-TZ1-8, a-6)
+nn(DMC-TZ1-8, Panasonic-7)
+prep_for(replacement-4, DMC-TZ1-8)
+rcmod(replacement-4, took-10)
+num(pictures-13, 10,000-12)
+prep_over(took-10, pictures-13)
+prepc_before(took-10, starting-15)
+aux(wear-17, to-16)
+xcomp(starting-15, wear-17)
+prt(wear-17, out-18)
+dobj(wear-17, mechanically-19)
+
+=========
+
+root(ROOT-0, Took-1)
+det(beating-4, a-2)
+amod(beating-4, real-3)
+dobj(Took-1, beating-4)
+advmod(Took-1, out-5)
+det(field-8, the-7)
+prep_in(Took-1, field-8)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+det(one-4, this-3)
+nsubj(lasts-5, one-4)
+ccomp(hope-2, lasts-5)
+advmod(long-7, as-6)
+advmod(lasts-5, long-7)
+

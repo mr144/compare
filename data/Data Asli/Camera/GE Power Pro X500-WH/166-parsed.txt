@@ -1,0 +1,36 @@
+=========
+
+nsubj(photographer-4, I-1)
+nsubj(looking-7, I-1)
+cop(photographer-4, am-2)
+det(photographer-4, a-3)
+root(ROOT-0, photographer-4)
+aux(looking-7, was-6)
+conj_and(photographer-4, looking-7)
+det(camera-11, a-9)
+amod(camera-11, small-10)
+prep_for(looking-7, camera-11)
+det(zoom-15, a-13)
+amod(zoom-15, big-14)
+prep_with(camera-11, zoom-15)
+
+=========
+
+advmod(got-3, Well-1)
+nsubj(got-3, I-2)
+nsubj(sent-6, I-2)
+root(ROOT-0, got-3)
+dobj(got-3, it-4)
+conj_and(got-3, sent-6)
+dobj(sent-6, it-7)
+advmod(sent-6, back-8)
+det(day-11, the-9)
+amod(day-11, same-10)
+pobj(back-8, day-11)
+
+=========
+
+nsubj(horrible-3, Pictures-1)
+cop(horrible-3, were-2)
+root(ROOT-0, horrible-3)
+

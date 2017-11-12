@@ -1,0 +1,23 @@
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+xcomp(Easy-1, use-3)
+advmod(nice-5, vvery-4)
+amod(price-7, nice-5)
+amod(price-7, good-6)
+dobj(use-3, price-7)
+xcomp(Easy-1, benefit-9)
+conj_and(use-3, benefit-9)
+amod(manual-11, good-10)
+dobj(benefit-9, manual-11)
+det(model-13, every-12)
+nsubj(good-16, model-13)
+cop(good-16, is-14)
+advmod(good-16, better-15)
+rcmod(manual-11, good-16)
+ccomp(good-16, buy-17)
+amod(ok-20, verynice-18)
+nn(ok-20, ok-19)
+dobj(buy-17, ok-20)
+

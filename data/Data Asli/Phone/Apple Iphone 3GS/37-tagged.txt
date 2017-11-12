@@ -1,0 +1,8 @@
+The_DT iphone_NN 3GS_NNP works_VBZ perfectly_RB with_IN one_CD exception_NN ._.
+I_PRP purchased_VBD this_DT product_NN in_IN like_JJ new_JJ condition_NN ._.
+There_EX were_VBD no_DT scratches_NNS or_CC blemishes_NNS at_IN all_DT ._.
+All_PDT the_DT programming_NN works_VBZ great_JJ ._.
+My_PRP$ one_CD complaint_NN is_VBZ the_DT menu_NN button_NN at_IN the_DT bottom_NN ._.
+It_PRP does_VBZ not_RB `_`` click_VB '_'' crisp_JJ at_IN all_DT ._.
+When_WRB you_PRP press_VBP it_PRP it_PRP feels_VBZ like_IN there_EX is_VBZ something_NN jammed_VBN in_IN it_PRP below_IN the_DT surface_NN ._.
+it_PRP is_VBZ not_RB bad_JJ enough_RB to_TO return_VB ,_, but_CC does_VBZ not_RB earn_VB 5_CD stars_NNS either_RB ._.

@@ -1,0 +1,39 @@
+=========
+
+root(ROOT-0, delivered-1)
+num(days-4, two-3)
+prep_in(delivered-1, days-4)
+
+=========
+
+csubj(went-3, set-1)
+prt(set-1, up-2)
+root(ROOT-0, went-3)
+advmod(went-3, well-4)
+
+=========
+
+nsubj(excellent-3, Picture-1)
+cop(excellent-3, is-2)
+root(ROOT-0, excellent-3)
+
+=========
+
+det(problems-2, No-1)
+root(ROOT-0, problems-2)
+amod(month-5, first-4)
+prep_in(problems-2, month-5)
+
+=========
+
+nsubj(believe-2, I-1)
+root(ROOT-0, believe-2)
+nn(tv-5, LG-3)
+nn(tv-5, hd-4)
+nsubj(good-9, tv-5)
+cop(good-9, is-6)
+dep(good-9, about-7)
+advmod(good-9, as-8)
+ccomp(believe-2, good-9)
+prep_as(good-9, Samsung-11)
+

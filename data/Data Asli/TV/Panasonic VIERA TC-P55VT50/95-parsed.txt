@@ -1,0 +1,137 @@
+=========
+
+det(tv-2, This-1)
+nsubj(television-6, tv-2)
+cop(television-6, is-3)
+det(television-6, a-4)
+amod(television-6, great-5)
+root(ROOT-0, television-6)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(30-4, the-3)
+dobj(have-2, 30-4)
+det(room-7, another-6)
+prep_in(30-4, room-7)
+det(house-10, the-9)
+prep_in(room-7, house-10)
+
+=========
+
+dep(different-2, Worlds-1)
+root(ROOT-0, different-2)
+
+=========
+
+det(one-2, This-1)
+nsubj(close-5, one-2)
+cop(close-5, is-3)
+advmod(close-5, actually-4)
+root(ROOT-0, close-5)
+poss(kuro-8, my-7)
+prep_to(close-5, kuro-8)
+
+=========
+
+advmod(close-8, Still-1)
+neg(kuro-5, not-2)
+predet(kuro-5, quite-3)
+det(kuro-5, a-4)
+nsubj(close-8, kuro-5)
+advmod(very-7, but-6)
+advmod(close-8, very-7)
+root(ROOT-0, close-8)
+
+=========
+
+nsubj(say-4, I-1)
+aux(say-4, can-2)
+neg(say-4, not-3)
+root(ROOT-0, say-4)
+dobj(say-4, enough-5)
+det(tv-8, this-7)
+prep_about(say-4, tv-8)
+
+=========
+
+amod(contrast-2, Great-1)
+nsubj(great-10, contrast-2)
+amod(contrast-2, fantastic-4)
+amod(levels-6, black-5)
+dep(fantastic-4, levels-6)
+appos(levels-6, color-8)
+cop(great-10, is-9)
+root(ROOT-0, great-10)
+
+=========
+
+nsubj(make-3, Calibration-1)
+aux(make-3, did-2)
+root(ROOT-0, make-3)
+det(difference-5, some-4)
+dobj(make-3, difference-5)
+conj_but(make-3, not-7)
+neg(make-3, not-7)
+advmod(much-9, as-8)
+dep(make-3, much-9)
+det(30-12, the-11)
+prep_as(much-9, 30-12)
+
+=========
+
+det(tv-2, This-1)
+nsubj(good-5, tv-2)
+cop(good-5, is-3)
+advmod(good-5, pretty-4)
+root(ROOT-0, good-5)
+advmod(good-5, right-6)
+det(box-10, the-9)
+prep_out_of(good-5, box-10)
+
+=========
+
+nsubj(sit-3, I-1)
+nsubj(spout-6, I-1)
+aux(sit-3, can-2)
+root(ROOT-0, sit-3)
+advmod(sit-3, here-4)
+conj_and(sit-3, spout-6)
+det(lot-8, a-7)
+dobj(spout-6, lot-8)
+amod(jargon-11, technical-10)
+prep_of(lot-8, jargon-11)
+det(line-15, the-13)
+amod(line-15, bottom-14)
+nsubj(is-16, line-15)
+conj_but(sit-3, is-16)
+complm(television-22, that-17)
+nsubj(television-22, this-18)
+cop(television-22, is-19)
+det(television-22, an-20)
+amod(television-22, awesome-21)
+ccomp(is-16, television-22)
+advmod(worth-25, well-24)
+amod(price-27, worth-25)
+det(price-27, the-26)
+ccomp(is-16, price-27)
+conj_and(television-22, price-27)
+
+=========
+
+mark(control-4, If-1)
+nsubj(control-4, you-2)
+aux(control-4, can-3)
+advcl(consider-11, control-4)
+amod(light-6, ambient-5)
+dobj(control-4, light-6)
+aux(consider-11, do-8)
+neg(consider-11, not-9)
+advmod(consider-11, even-10)
+root(ROOT-0, consider-11)
+det(LCD-13, an-12)
+dobj(consider-11, LCD-13)
+dobj(consider-11, LED-15)
+conj_or(LCD-13, LED-15)
+

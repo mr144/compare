@@ -1,0 +1,30 @@
+=========
+
+amod(camera-2, Excellent-1)
+nsubj(range-7, camera-2)
+det(telephoto-6, a-4)
+amod(telephoto-6, great-5)
+prep_with(camera-2, telephoto-6)
+root(ROOT-0, range-7)
+
+=========
+
+advmod(versatile-2, Very-1)
+root(ROOT-0, versatile-2)
+advmod(easy-5, relatively-4)
+conj_and(versatile-2, easy-5)
+aux(use-7, to-6)
+dep(versatile-2, use-7)
+
+=========
+
+det(lens-4, A-1)
+advmod(good-3, very-2)
+amod(lens-4, good-3)
+nsubj(sharp-8, lens-4)
+nsubj(clean-10, lens-4)
+advmod(sharp-8, photos-6)
+cop(sharp-8, are-7)
+root(ROOT-0, sharp-8)
+conj_and(sharp-8, clean-10)
+

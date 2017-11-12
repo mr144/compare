@@ -1,0 +1,51 @@
+=========
+
+aux(had-2, have-1)
+ccomp(had-15, had-2)
+dobj(had-2, it-3)
+advmod(month-7, about-5)
+det(month-7, a-6)
+prep_for(had-2, month-7)
+advmod(month-7, now-8)
+amod(i-12, greatest-10)
+nn(i-12, tv-11)
+nsubj(had-15, i-12)
+aux(had-15, have-13)
+advmod(had-15, ever-14)
+root(ROOT-0, had-15)
+
+=========
+
+amod(picture-2, beautifull-1)
+nsubj(cream-13, picture-2)
+advmod(styling-6, very-4)
+amod(styling-6, sharp-5)
+conj_and(picture-2, styling-6)
+nsubj(cream-13, styling-6)
+det(apps-10, the-8)
+amod(apps-10, wifi-9)
+conj_and(picture-2, apps-10)
+nsubj(cream-13, apps-10)
+cop(cream-13, are-11)
+det(cream-13, the-12)
+root(ROOT-0, cream-13)
+partmod(cream-13, topping-14)
+
+=========
+
+advmod(better-2, even-1)
+root(ROOT-0, better-2)
+advmod(better-2, then-3)
+dep(better-2, having-4)
+advmod(go-6, too-5)
+dep(having-4, go-6)
+det(theater-10, a-8)
+amod(theater-10, crowded-9)
+prep_to(go-6, theater-10)
+dep(having-4, putting-12)
+conj_and(go-6, putting-12)
+prt(putting-12, up-13)
+amod(brats-15, w\/someones-14)
+dobj(putting-12, brats-15)
+advmod(putting-12, !!!-16)
+

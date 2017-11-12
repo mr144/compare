@@ -1,0 +1,3 @@
+It_PRP is_VBZ a_DT very_RB good_JJ product_NN ._.
+right_JJ price_NN ,_, size_NN ,_, weigth_NN and_CC cost_NN ._.
+I_PRP am_VBP very_RB happy_JJ and_CC I_PRP want_VBP to_TO invite_VB all_DT of_IN you_PRP to_TO experience_VB the_DT new_JJ RIM_NNP BB_NNP Curve_NNP 9360_CD

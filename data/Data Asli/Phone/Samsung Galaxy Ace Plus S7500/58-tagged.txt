@@ -1,0 +1,12 @@
+Package_NN included_VBD :_: Samsung_NNP Galaxy_NNP Ace_NNP Plus_NNP Cell_NNP Phone_NNP -LRB-_-LRB- International_NNP Version_NNP -_: Unlocked_VBN -RRB-_-RRB- ,_, White_NNP Earphones_NNPS ,_, Mini-USB_JJ to_TO USB_NNP Cable_NNP and_CC Quick_NNP Start_NNP Guides_NNP -LRB-_-LRB- English_NNP &_CC Spanish_NNP -RRB-_-RRB- ._.
+This_DT is_VBZ my_PRP$ second_JJ smartphone_NN -LRB-_-LRB- also_RB bought_VBN in_IN Amazon_NNP -RRB-_-RRB- and_CC it_PRP is_VBZ working_VBG fine_JJ with_IN Movistar_NNP 's_POS network_NN EDGE\/3G_NNP -LRB-_-LRB- Ecuador_NNP ,_, South_NNP America_NNP -RRB-_-RRB- ._.
+Definitely_RB ,_, Android_NNP is_VBZ an_DT upgrade_NN over_IN the_DT Blackberry_NNP OS_NNP ._.
+PROS_NNS :_: I_PRP am_VBP pleased_VBN so_RB far_RB with_IN :_: Android_NNP OS_NNP ,_, 1Ghz_NNP Processor_NNP ,_, 3GB_NNP Internal_NNP Storage_NNP ,_, 5.0_CD MP_NNP Camera_NNP and_CC Google_NNP Play_NNP Store_NNP ._.
+I_PRP am_VBP really_RB satisfied_JJ with_IN the_DT Google_NNP 's_POS sync_NN capabilities_NNS ._.
+I_PRP use_VBP a_DT couple_NN gmail_NN accounts_NNS and_CC I_PRP browse_VBP with_IN Google_NNP Chrome_NNP in_IN my_PRP$ PC_NN ,_, so_IN I_PRP can_MD sync_NN everything_NN on_IN the_DT cloud_NN -LRB-_-LRB- e-mail_NN ,_, calendar_NN ,_, contacts_NNS ,_, documents_NNS ,_, maps_NNS ,_, etc_FW -RRB-_-RRB- ._.
+In_IN other_JJ words_NNS ,_, I_PRP can_MD access_VB my_PRP$ info_NN anywhere_RB and_CC anytime_RB ._.
+CONS_NNS :_: I_PRP think_VBP the_DT antenna_NN signal_NN could_MD have_VB a_DT better_JJR reception_NN ._.
+maybe_RB it_PRP is_VBZ the_DT 3G_NNP network_NN ..._: Samsung_NNP 's_POS accesories_NNS build_VBP quality_NN feel_NN kind_NN of_IN cheap_NN compared_VBN to_TO Blackberry_NNP accesories_NNS ._.
+Also_RB ,_, I_PRP could_MD not_RB find_VB enough_JJ accesories_NNS in_IN Ecuador_NNP ,_, you_PRP better_RBR buy_VB those_DT in_IN Amazon_NNP ._.
+I_PRP fully_RB recommend_VBP this_DT seller_NN -LRB-_-LRB- BLUTEKUSA_NNP -RRB-_-RRB- ._.
+They_PRP delivered_VBD it_PRP as_IN advertised_JJ and_CC fast_JJ ;_: -RRB-_-RRB-

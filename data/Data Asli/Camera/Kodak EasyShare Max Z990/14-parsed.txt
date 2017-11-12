@@ -1,0 +1,49 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, great-3)
+dobj(takes-2, pictures-4)
+
+=========
+
+nsubj(photographer-4, I-1)
+cop(photographer-4, am-2)
+advmod(photographer-4, no-3)
+root(ROOT-0, photographer-4)
+det(camera-8, this-7)
+prep_with(makes-11, camera-8)
+nsubj(makes-11, it-10)
+conj_but(photographer-4, makes-11)
+nsubj(feel-13, me-12)
+ccomp(makes-11, feel-13)
+prep_like(feel-13, one-15)
+det(quality-19, the-17)
+nn(quality-19, picture-18)
+nsubj(great-21, quality-19)
+cop(great-21, is-20)
+conj_and(photographer-4, great-21)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+

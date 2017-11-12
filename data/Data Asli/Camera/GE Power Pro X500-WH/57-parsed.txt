@@ -1,0 +1,49 @@
+=========
+
+det(camera-2, This-1)
+nsubj(amazing-4, camera-2)
+cop(amazing-4, is-3)
+ccomp(does-7, amazing-4)
+nsubj(does-7, it-6)
+root(ROOT-0, does-7)
+advmod(much-9, so-8)
+advmod(does-7, much-9)
+dep(does-7, as-11)
+amod(eye-14, red-13)
+prep_in(does-7, eye-14)
+prep_in(does-7, focus-16)
+conj_and(eye-14, focus-16)
+amod(features-21, many-19)
+amod(features-21, other-20)
+prep_in(does-7, features-21)
+conj_and(eye-14, features-21)
+
+=========
+
+det(price-2, The-1)
+nsubj(perfect-4, price-2)
+cop(perfect-4, was-3)
+root(ROOT-0, perfect-4)
+poss(budget-7, my-6)
+prep_for(perfect-4, budget-7)
+det(photos-10, the-9)
+appos(budget-7, photos-10)
+dobj(comes-12, photos-10)
+nsubj(comes-12, itself-11)
+rcmod(photos-10, comes-12)
+dep(clear-15, out-13)
+advmod(clear-15, so-14)
+acomp(comes-12, clear-15)
+nsubj(plan-18, I-17)
+parataxis(perfect-4, plan-18)
+prepc_on(plan-18, ordering-20)
+det(one-22, another-21)
+dobj(ordering-20, one-22)
+det(gift-25, a-24)
+prep_for(one-22, gift-25)
+
+=========
+
+root(ROOT-0, thank-1)
+dobj(thank-1, you-2)
+

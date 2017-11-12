@@ -1,0 +1,60 @@
+=========
+
+det(t3i-4, The-1)
+nn(t3i-4, Canon-2)
+nn(t3i-4, rebel-3)
+nsubj(camera-9, t3i-4)
+cop(camera-9, is-5)
+det(camera-9, a-6)
+amod(camera-9, great-7)
+nn(camera-9, SLR-8)
+root(ROOT-0, camera-9)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+amod(features-4, many-3)
+dobj(has-2, features-4)
+nsubj(allow-6, features-4)
+rcmod(features-4, allow-6)
+amod(photography-9, professional-8)
+prep_for(allow-6, photography-9)
+
+=========
+
+det(mode-3, The-1)
+amod(mode-3, manual-2)
+nsubj(easy-5, mode-3)
+cop(easy-5, is-4)
+root(ROOT-0, easy-5)
+aux(use-7, to-6)
+xcomp(easy-5, use-7)
+xcomp(easy-5, change-9)
+conj_and(use-7, change-9)
+det(speed-12, the-10)
+amod(speed-12, aperture-11)
+dobj(use-7, speed-12)
+nn(speed-15, shutter-14)
+appos(speed-12, speed-15)
+appos(speed-15, exposure-17)
+dep(speed-15, etc.-19)
+
+=========
+
+num(thing-2, One-1)
+dobj(say-5, thing-2)
+nsubj(weak-14, thing-2)
+nsubj(say-5, I-3)
+aux(say-5, would-4)
+rcmod(thing-2, say-5)
+mark(flash-9, though-6)
+cop(flash-9, is-7)
+det(flash-9, the-8)
+advcl(say-5, flash-9)
+cop(weak-14, is-10)
+dep(weak-14, a-11)
+advmod(weak-14, little-12)
+dep(weak-14, bit-13)
+root(ROOT-0, weak-14)
+

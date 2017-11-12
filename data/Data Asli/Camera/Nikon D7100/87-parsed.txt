@@ -1,0 +1,53 @@
+=========
+
+det(camera-2, The-1)
+nsubj(arrived-3, camera-2)
+dep(taken-22, arrived-3)
+num(days-6, two-5)
+prep_in(arrived-3, days-6)
+det(seller-9, the-8)
+prep_from(arrived-3, seller-9)
+nsubj(blown-12, I-11)
+conj_and(arrived-3, blown-12)
+dep(taken-22, blown-12)
+prt(blown-12, away-13)
+det(quality-16, the-15)
+prep_with(blown-12, quality-16)
+det(photos-19, the-18)
+prep_of(quality-16, photos-19)
+nsubj(taken-22, I-20)
+aux(taken-22, have-21)
+root(ROOT-0, taken-22)
+
+=========
+
+nsubj(added-2, I-1)
+root(ROOT-0, added-2)
+det(lens-8, a-3)
+amod(lens-8, 50mm-4)
+nn(lens-8, Nikon-5)
+num(lens-8, 1.4-6)
+nn(lens-8, g-7)
+dobj(added-2, lens-8)
+amod(ups-11, close-10)
+prep_for(lens-8, ups-11)
+prep_for(lens-8, portraits-13)
+conj_and(ups-11, portraits-13)
+nsubj(able-19, I-15)
+aux(able-19, have-16)
+neg(able-19, not-17)
+cop(able-19, been-18)
+conj_and(added-2, able-19)
+aux(put-21, to-20)
+xcomp(able-19, put-21)
+det(camera-23, the-22)
+dobj(put-21, camera-23)
+prt(put-21, down-24)
+
+=========
+
+nsubj(did-2, Nikon-1)
+root(ROOT-0, did-2)
+dobj(did-2, it-3)
+advmod(did-2, again-4)
+

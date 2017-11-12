@@ -1,0 +1,30 @@
+=========
+
+nsubj(heats-4, Awesome-1)
+nsubj(resets-6, Awesome-1)
+nsubj(turns-8, Awesome-1)
+advmod(heats-4, sometimes-3)
+root(ROOT-0, heats-4)
+conj_and(heats-4, resets-6)
+conj_or(heats-4, turns-8)
+prt(turns-8, off-9)
+
+=========
+
+dep(read-7, Trying-1)
+aux(figure-3, to-2)
+xcomp(Trying-1, figure-3)
+prt(figure-3, out-4)
+dep(figure-3, why-5)
+root(ROOT-0, read-7)
+det(reviews-10, some-9)
+prep_in(read-7, reviews-10)
+nsubj(due-14, reviews-10)
+cop(due-14, is-12)
+amod(due-14, common-13)
+rcmod(reviews-10, due-14)
+det(processor-19, the-16)
+amod(processor-19, dual-17)
+nn(processor-19, core-18)
+prep_to(due-14, processor-19)
+

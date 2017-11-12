@@ -1,0 +1,33 @@
+=========
+
+poss(faher-2, My-1)
+nsubj(owns-3, faher-2)
+dep(got-10, owns-3)
+det(telivision-5, this-4)
+dobj(owns-3, telivision-5)
+det(deal-8, the-7)
+dobj(owns-3, deal-8)
+conj_and(telivision-5, deal-8)
+nsubj(got-10, he-9)
+root(ROOT-0, got-10)
+cop(awesome-12, was-11)
+ccomp(got-10, awesome-12)
+
+=========
+
+nsubj(says-2, He-1)
+root(ROOT-0, says-2)
+complm(trade-13, that-3)
+csubj(trade-13, watching-4)
+dobj(watching-4, football-5)
+nsubj(incredible-9, it-7)
+nsubj(wouldnt-12, it-7)
+cop(incredible-9, is-8)
+prepc_on(watching-4, incredible-9)
+dep(wouldnt-12, he-11)
+prepc_on(watching-4, wouldnt-12)
+conj_and(incredible-9, wouldnt-12)
+ccomp(says-2, trade-13)
+dobj(trade-13, it-14)
+prep_for(trade-13, anything-16)
+

@@ -1,0 +1,35 @@
+=========
+
+nn(TV-2, Great-1)
+root(ROOT-0, TV-2)
+
+=========
+
+amod(picture-2, Wonderful-1)
+root(ROOT-0, picture-2)
+conj_and(picture-2, sound-4)
+amod(inputs-7, many-6)
+appos(picture-2, inputs-7)
+
+=========
+
+advmod(love-2, Just-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+dep(price-3, Also-1)
+amod(price-3, amazing-2)
+root(ROOT-0, price-3)
+
+=========
+
+nsubj(place-5, Amazon-1)
+cop(place-5, is-2)
+det(place-5, a-3)
+amod(place-5, great-4)
+root(ROOT-0, place-5)
+aux(shop-7, to-6)
+infmod(place-5, shop-7)
+

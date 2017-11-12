@@ -1,0 +1,42 @@
+=========
+
+root(ROOT-0, One-1)
+det(devices-5, the-3)
+amod(devices-5, best-4)
+prep_of(One-1, devices-5)
+prep_from(devices-5, RIM-7)
+amod(camera-10, Great-9)
+dep(One-1, camera-10)
+amod(features-13, great-12)
+dep(One-1, features-13)
+conj_and(camera-10, features-13)
+amod(body-17, ultra-15)
+amod(body-17, slim-16)
+dep(One-1, body-17)
+conj_and(camera-10, body-17)
+advmod(processor-21, really-19)
+amod(processor-21, fast-20)
+dep(One-1, processor-21)
+conj_and(camera-10, processor-21)
+
+=========
+
+nsubj(loved-2, I-1)
+root(ROOT-0, loved-2)
+det(phone-4, this-3)
+dobj(loved-2, phone-4)
+det(day-8, the-6)
+amod(day-8, first-7)
+prep_from(loved-2, day-8)
+nsubj(had-10, I-9)
+rcmod(day-8, had-10)
+dobj(had-10, it-11)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+nsubj(%-5, it-3)
+number(%-5, 100-4)
+xcomp(recommend-2, %-5)
+

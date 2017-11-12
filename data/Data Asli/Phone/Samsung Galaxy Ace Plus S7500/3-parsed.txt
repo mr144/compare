@@ -1,0 +1,28 @@
+=========
+
+dep(doing-8, So-1)
+advmod(so-3, far-2)
+dep(So-1, so-3)
+dep(So-1, good-4)
+nsubj(doing-8, device-6)
+aux(doing-8, is-7)
+root(ROOT-0, doing-8)
+dobj(doing-8, ok-9)
+prep_as_of(ok-9, today-12)
+
+=========
+
+nsubj(android-6, It-1)
+cop(android-6, is-2)
+neg(android-6, not-3)
+det(android-6, an-4)
+amod(android-6, amazing-5)
+root(ROOT-0, android-6)
+partmod(android-6, based-7)
+acomp(based-7, dellphone-8)
+nsubj(get-11, you-10)
+parataxis(android-6, get-11)
+dobj(pay-14, what-12)
+nsubj(pay-14, you-13)
+ccomp(get-11, pay-14)
+

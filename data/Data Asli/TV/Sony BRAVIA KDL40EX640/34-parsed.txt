@@ -1,0 +1,79 @@
+=========
+
+nsubj(looks-2, Tv-1)
+root(ROOT-0, looks-2)
+acomp(looks-2, fantastic-3)
+
+=========
+
+csubj(noticed-11, Had-1)
+det(Samsung-3, a-2)
+dobj(Had-1, Samsung-3)
+conj_and(Had-1, traded-5)
+csubj(noticed-11, traded-5)
+dobj(traded-5, it-6)
+prep(traded-5, in-7)
+pcomp(in-7, for-8)
+det(becauseI-10, this-9)
+prep_for(in-7, becauseI-10)
+root(ROOT-0, noticed-11)
+det(color-13, the-12)
+nsubj(movies-20, color-13)
+cop(movies-20, was-14)
+advmod(on-16, off-15)
+advmod(movies-20, on-16)
+dep(on-16, all-17)
+poss(movies-20, my-18)
+amod(movies-20, favorite-19)
+ccomp(noticed-11, movies-20)
+det(wasafter-23, this-22)
+appos(movies-20, wasafter-23)
+dep(wasafter-23, adjusting-24)
+dobj(adjusting-24, EVERYTHING-25)
+nsubjpass(adjusted-29, EVERYTHING-25)
+aux(adjusted-29, could-27)
+auxpass(adjusted-29, be-28)
+rcmod(EVERYTHING-25, adjusted-29)
+
+=========
+
+nsubj(loved-3, I-1)
+advmod(loved-3, always-2)
+root(ROOT-0, loved-3)
+poss(parents-5, my-4)
+poss(Sony-7, parents-5)
+dobj(loved-3, Sony-7)
+advmod(know-12, now-10)
+nsubj(know-12, I-11)
+conj_and(loved-3, know-12)
+dep(know-12, why-13)
+
+=========
+
+root(ROOT-0, MUCH-1)
+amod(picture-3, better-2)
+dobj(MUCH-1, picture-3)
+num(BILLION-6, 1-5)
+npadvmod(more-7, BILLION-6)
+dobj(MUCH-1, more-7)
+advmod(picture-3, more-7)
+conj_and(picture-3, more-7)
+dobj(MUCH-1, colors-8)
+conj_and(picture-3, colors-8)
+prep_than(colors-8, Samsung-10)
+
+=========
+
+dep(me-3, Trust-2)
+nsubj(tell-7, me-3)
+dep(me-3, you-5)
+aux(tell-7, can-6)
+root(ROOT-0, tell-7)
+
+=========
+
+nn(HAPPY-2, VERY-1)
+root(ROOT-0, HAPPY-2)
+poss(Sony-5, my-4)
+prep_with(HAPPY-2, Sony-5)
+

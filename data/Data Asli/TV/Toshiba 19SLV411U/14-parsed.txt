@@ -1,0 +1,87 @@
+=========
+
+det(product-2, The-1)
+nsubj(works-3, product-2)
+root(ROOT-0, works-3)
+advmod(works-3, well-4)
+dobj(works-3, most-5)
+det(time-8, the-7)
+prep_of(most-5, time-8)
+
+=========
+
+nsubj(GETTING-3, It-1)
+aux(GETTING-3, 's-2)
+root(ROOT-0, GETTING-3)
+nsubj(WORK-6, IT-4)
+aux(WORK-6, TO-5)
+xcomp(GETTING-3, WORK-6)
+complm(problem-11, that-7)
+cop(problem-11, is-8)
+advmod(problem-11, sometimes-9)
+det(problem-11, a-10)
+ccomp(WORK-6, problem-11)
+
+=========
+
+advmod(turned-5, When-1)
+nsubjpass(turned-5, it-2)
+auxpass(turned-5, is-3)
+advmod(turned-5, first-4)
+advcl(shows-9, turned-5)
+prt(turned-5, on-6)
+nsubj(shows-9, it-8)
+nsubj(makes-15, it-8)
+root(ROOT-0, shows-9)
+det(picture-11, the-10)
+dobj(shows-9, picture-11)
+advmod(makes-15, sometimes-14)
+conj_but(shows-9, makes-15)
+det(sound-19, a-16)
+amod(sound-19, VERY-17)
+amod(sound-19, strange-18)
+dobj(makes-15, sound-19)
+
+=========
+
+nsubj(think-11, Almost-1)
+prep_like(Almost-1, crackling-3)
+dep(all-8, well-6)
+dep(crackling-3, all-8)
+prep_like(Almost-1, I-9)
+conj_or(crackling-3, I-9)
+aux(think-11, can-10)
+root(ROOT-0, think-11)
+cop(2-14, is-13)
+prepc_of(think-11, 2-14)
+det(kind-17, some-16)
+prep_of(2-14, kind-17)
+prep_of(kind-17, metal-19)
+partmod(metal-19, rubbing-20)
+det(other-23, each-22)
+prep_against(rubbing-20, other-23)
+
+=========
+
+advmod(turn-3, When-1)
+nsubj(turn-3, I-2)
+advcl(fine-13, turn-3)
+dobj(turn-3, it-4)
+prt(turn-3, off-5)
+conj_and(turn-3, then-7)
+advcl(fine-13, then-7)
+prep(then-7, on-8)
+pcomp(on-8, again-9)
+nsubj(fine-13, it-11)
+cop(fine-13, is-12)
+root(ROOT-0, fine-13)
+
+=========
+
+advmod(like-4, Otherwise-1)
+nsubj(like-4, I-3)
+root(ROOT-0, like-4)
+nsubj(fine-7, it-5)
+advmod(fine-7, just-6)
+xcomp(like-4, fine-7)
+

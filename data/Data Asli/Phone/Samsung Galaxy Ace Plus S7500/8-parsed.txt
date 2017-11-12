@@ -1,0 +1,43 @@
+=========
+
+dep(buy-2, Good-1)
+root(ROOT-0, buy-2)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+num(person-6, one-5)
+prep_for(this-3, person-6)
+nsubjpass(satisfied-10, person-6)
+auxpass(satisfied-10, is-8)
+advmod(satisfied-10, very-9)
+rcmod(person-6, satisfied-10)
+
+=========
+
+det(phone-2, The-1)
+nsubj(does-3, phone-2)
+root(ROOT-0, does-3)
+dobj(does-3, everything-4)
+nsubjpass(supposed-7, it-5)
+xsubj(do-9, it-5)
+auxpass(supposed-7, is-6)
+rcmod(everything-4, supposed-7)
+aux(do-9, to-8)
+xcomp(supposed-7, do-9)
+
+=========
+
+det(thing-4, The-1)
+amod(thing-4, only-2)
+amod(thing-4, bad-3)
+nsubj(battery-7, thing-4)
+cop(battery-7, is-5)
+det(battery-7, the-6)
+root(ROOT-0, battery-7)
+rcmod(battery-7, drains-8)
+advmod(fast-10, very-9)
+acomp(drains-8, fast-10)
+

@@ -1,0 +1,30 @@
+=========
+
+nsubj(amazon-6, This-1)
+cop(amazon-6, is-2)
+det(amazon-6, the-3)
+amod(amazon-6, worst-4)
+nn(amazon-6, product-5)
+root(ROOT-0, amazon-6)
+partmod(amazon-6, provided-7)
+dobj(provided-7, me-8)
+
+=========
+
+det(phone-2, This-1)
+nsubj(stops-3, phone-2)
+root(ROOT-0, stops-3)
+ccomp(stops-3, working-4)
+prep(working-4, for-5)
+pobj(for-5, sometime-6)
+mark(doing-10, while-7)
+nsubj(doing-10, you-8)
+aux(doing-10, are-9)
+advcl(working-4, doing-10)
+dobj(doing-10, something-11)
+prepc_like(doing-10, making-13)
+dobj(making-13, notes-14)
+ccomp(stops-3, using-16)
+conj_or(working-4, using-16)
+dobj(using-16, internet-17)
+

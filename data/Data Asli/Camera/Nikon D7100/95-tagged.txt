@@ -1,0 +1,4 @@
+I_PRP think_VBP Nikon_NNP nailed_VBD it_PRP with_IN this_DT DSLR_NNP ._.
+I_PRP got_VBD this_DT camera_NN with_IN the_DT 85mm_JJ F\/1_NNP .8_CD lens_NN and_CC extremely_RB impressed_JJ by_IN the_DT quality_NN of_IN the_DT images_NNS -LRB-_-LRB- sharpness_NN ,_, color_NN -RRB-_-RRB- ._.
+I_PRP compared_VBD it_PRP with_IN the_DT D600_NNP -LRB-_-LRB- Which_WDT is_VBZ a_DT Full_NNP Frame_NNP -RRB-_-RRB- and_CC the_DT quality_NN difference_NN is_VBZ minimal_JJ atleast_NN to_TO me_PRP ;_: plus_CC not_RB worth_JJ more_JJR than_IN 1G_CD !_.
+I_PRP would_MD recommend_VB this_DT to_TO all_DT semi-pro_JJ users_NNS !_.

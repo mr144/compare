@@ -1,0 +1,31 @@
+=========
+
+nsubj(easy-4, Installation-1)
+cop(easy-4, was-2)
+advmod(easy-4, very-3)
+root(ROOT-0, easy-4)
+det(hook-up-11, the-9)
+nn(hook-up-11, Internet-10)
+conj_and(easy-4, hook-up-11)
+
+=========
+
+nsubj(works-2, Everything-1)
+root(ROOT-0, works-2)
+mark(described-4, as-3)
+advcl(works-2, described-4)
+
+=========
+
+nn(TV-2, Great-1)
+root(ROOT-0, TV-2)
+
+=========
+
+det(value-3, The-1)
+amod(value-3, best-2)
+nsubj(find-6, value-3)
+nsubj(find-6, you-4)
+aux(find-6, 'll-5)
+root(ROOT-0, find-6)
+

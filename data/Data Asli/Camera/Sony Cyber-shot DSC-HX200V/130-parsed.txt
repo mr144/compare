@@ -1,0 +1,37 @@
+=========
+
+det(camera-2, The-1)
+nsubj(everything-4, camera-2)
+cop(everything-4, is-3)
+root(ROOT-0, everything-4)
+rcmod(everything-4, advertised-5)
+cc(more-7, and-6)
+dobj(advertised-5, more-7)
+
+=========
+
+det(side-4, The-1)
+amod(side-4, only-2)
+amod(side-4, down-3)
+nsubj(lack-7, side-4)
+cop(lack-7, is-5)
+det(lack-7, the-6)
+root(ROOT-0, lack-7)
+det(manual-11, a-9)
+amod(manual-11, complete-10)
+prep_of(lack-7, manual-11)
+
+=========
+
+nsubj(point-5, This-1)
+aux(point-5, may-2)
+cop(point-5, be-3)
+dep(point-5, mute-4)
+root(ROOT-0, point-5)
+mark(used-10, once-6)
+det(camera-8, the-7)
+nsubjpass(used-10, camera-8)
+auxpass(used-10, is-9)
+ccomp(point-5, used-10)
+advmod(used-10, more-11)
+

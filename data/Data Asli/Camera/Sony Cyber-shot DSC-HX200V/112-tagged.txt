@@ -1,0 +1,3 @@
+I_PRP love_VBP my_PRP$ Sony_NNP ._.
+I_PRP have_VBP a_DT Canaon_NNP Eos_NNP Rebel_NN 1st_CD Generation_NNP and_CC this_DT has_VBZ all_DT but_CC replaced_VBD that_DT ._.
+I_PRP use_VBP it_PRP as_IN my_PRP$ main_JJ camera_NN and_CC the_DT Rebel_NN as_IN my_PRP$ backup_NN

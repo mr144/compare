@@ -1,0 +1,4 @@
+Excellent_JJ device_NN ._.
+Feels_NNS awesome_JJ in_IN hand_NN ._.
+Light_NN weight_NN and_CC dimensions_NNS fit_VBP perfectly_RB in_IN hand_NN ._.
+SIM_NNP unlock_VBP of_IN the_DT device_NN takes_VBZ close_RB to_TO 2_CD days_NNS online_NN :_: -LRB-_-LRB- and_CC boot_NN loader_NN is_VBZ locked_VBN :_: -LRB-_-LRB- The_DT software_NN needs_VBZ improvement_NN ,_, expecting_VBG with_IN Gingerbread_NNP update_VBP the_DT software_NN should_MD get_VB better_JJR

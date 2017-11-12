@@ -1,0 +1,23 @@
+=========
+
+nsubj(service-2, Excellent-1)
+root(ROOT-0, service-2)
+prep(service-2, from-3)
+dep(extra-6, wireless-5)
+parataxis(service-2, extra-6)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+nsubj(took-11, problems-3)
+det(battery-6, the-5)
+prep_with(problems-3, battery-6)
+prep(battery-6, but-7)
+nn(Extra-9, Wireless-8)
+dep(but-7, Extra-9)
+ccomp(had-2, took-11)
+dobj(took-11, care-12)
+det(thing-15, every-14)
+prep_of(care-12, thing-15)
+

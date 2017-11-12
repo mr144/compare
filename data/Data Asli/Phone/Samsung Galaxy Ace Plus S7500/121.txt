@@ -1,0 +1,1 @@
+Check with vendor the 3G/HSPA frequency. I understand vendors import from various countries. The unit I received was GT-i8160L, which seems to be designed for Latin America. Tech specifications available online indicate 900/2100 MHz for 3G (not 850/2100 MHz as Amazon states) so may not work with some operators in US.

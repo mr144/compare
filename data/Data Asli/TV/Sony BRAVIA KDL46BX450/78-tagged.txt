@@ -1,0 +1,4 @@
+First_NNP Bravia_NNP lasted_VBD less_JJR than_IN a_DT year_NN ,_, so_IN Sony_NNP shipped_VBD me_PRP a_DT new_JJ one_CD two_CD years_NNS ago_RB ._.
+It_PRP just_RB went_VBD and_CC needs_VBZ a_DT new_JJ motherboard_NN -LRB-_-LRB- of_IN course_NN -RRB-_-RRB- ._.
+Price_NN of_IN a_DT new_JJ motherboard_NN =_SYM $_$ 750_CD !!!_NNP Repairman_NNP said_VBD Samsung_NNP 's_POS are_VBP same_JJ quality_NN and_CC a_DT motherboard_NN would_MD be_VB about_IN half_PDT the_DT price_NN of_IN Sony_NNP 's_POS ._.
+Goodbye_NNP Sony_NNP !!_NN

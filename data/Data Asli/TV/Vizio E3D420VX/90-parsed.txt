@@ -1,0 +1,30 @@
+=========
+
+nsubj(bought-2, i-1)
+root(ROOT-0, bought-2)
+det(vizio-4, a-3)
+dobj(bought-2, vizio-4)
+neg(knowing-7, not-6)
+prepc_without(bought-2, knowing-7)
+dobj(knowing-7, much-8)
+det(brand-11, the-10)
+prep_about(knowing-7, brand-11)
+
+=========
+
+nsubj(pleased-4, i-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(quality-7, the-6)
+prep_with(pleased-4, quality-7)
+prep_on(quality-7, HD-9)
+det(speedyness-12, the-11)
+prep_with(pleased-4, speedyness-12)
+conj_and(quality-7, speedyness-12)
+prep_of(speedyness-12, delivery-14)
+
+=========
+
+root(ROOT-0, wow-1)
+

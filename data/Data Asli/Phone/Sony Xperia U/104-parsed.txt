@@ -1,0 +1,83 @@
+=========
+
+nsubj(had-2, I-1)
+nsubj(love-11, I-1)
+dep(!!!-13, had-2)
+det(shot-4, a-3)
+dobj(had-2, shot-4)
+det(phone-7, this-6)
+prep_to(shot-4, phone-7)
+advmod(love-11, just-10)
+conj_and(had-2, love-11)
+dep(!!!-13, love-11)
+dobj(love-11, it-12)
+root(ROOT-0, !!!-13)
+nsubj(works-16, it-14)
+cop(works-16, is-15)
+ccomp(!!!-13, works-16)
+advmod(smooth-19, just-17)
+advmod(smooth-19, so-18)
+amod(works-16, smooth-19)
+dep(smooth-19, fast-21)
+amod(screen-24, nice-23)
+nsubj(!!!-13, screen-24)
+appos(screen-24, speakers-26)
+appos(speakers-26, cameras-28)
+
+=========
+
+nsubj(unlocked-2, Really-1)
+root(ROOT-0, unlocked-2)
+
+=========
+
+aux(upgrade-3, Could-1)
+neg(upgrade-3, not-2)
+root(ROOT-0, upgrade-3)
+aux(android-5, to-4)
+xcomp(upgrade-3, android-5)
+dobj(android-5, 4-6)
+advmod(android-5, though-7)
+
+=========
+
+dep(trying-7, Getting-1)
+iobj(Getting-1, error-2)
+det(time-4, each-3)
+dobj(Getting-1, time-4)
+nsubj(trying-7, i-5)
+aux(trying-7, am-6)
+root(ROOT-0, trying-7)
+prep(trying-7, to-8)
+nsubj(works-12, 2.3-11)
+conj_but(trying-7, works-12)
+advmod(fine-14, just-13)
+acomp(works-12, fine-14)
+prep_for(fine-14, me-16)
+advmod(works-12, too-17)
+
+=========
+
+nsubj(looks-2, Plastic-1)
+root(ROOT-0, looks-2)
+acomp(looks-2, cheap-3)
+mark(prefer-14, though-4)
+mark(Nokia-7, after-5)
+nsubj(Nokia-7, mine-6)
+advcl(prefer-14, Nokia-7)
+cc(ok-11, but-8)
+nsubj(ok-11, it-9)
+cop(ok-11, is-10)
+ccomp(Nokia-7, ok-11)
+nsubj(prefer-14, i-13)
+advcl(looks-2, prefer-14)
+amod(work-16, good-15)
+dobj(prefer-14, work-16)
+
+=========
+
+amod(phone-2, Good-1)
+root(ROOT-0, phone-2)
+det(price-5, this-4)
+prep_for(phone-2, price-5)
+

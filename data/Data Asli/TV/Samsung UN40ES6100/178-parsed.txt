@@ -1,0 +1,29 @@
+=========
+
+det(tv-2, this-1)
+nsubj(tv-6, tv-2)
+cop(tv-6, is-3)
+det(tv-6, the-4)
+amod(tv-6, greatest-5)
+root(ROOT-0, tv-6)
+dobj(purchased-11, tv-6)
+complm(purchased-11, that-7)
+nsubj(purchased-11, i-8)
+aux(purchased-11, have-9)
+advmod(purchased-11, ever-10)
+dep(tv-6, purchased-11)
+
+=========
+
+nsubj(samsung-6, it-1)
+nsubj(last-11, it-1)
+cop(samsung-6, is-2)
+neg(samsung-6, not-3)
+poss(samsung-6, my-4)
+amod(samsung-6, first-5)
+root(ROOT-0, samsung-6)
+advmod(last-11, certainly-8)
+neg(last-11, not-9)
+poss(last-11, my-10)
+conj_and(samsung-6, last-11)
+

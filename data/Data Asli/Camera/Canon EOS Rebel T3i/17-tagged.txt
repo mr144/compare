@@ -1,0 +1,4 @@
+I_PRP really_RB love_VBP it_PRP ._.
+The_DT quality_NN image_NN is_VBZ 18_CD pixels_NNS as_IN promised_VBN ._.
+The_DT EOS_NNP rebel_NN T3i_NNP 18_CD MP_NNP CMOS_NNP Digital_NNP SLR_NNP Camara_NNP is_VBZ superb_JJ ._.
+This_DT camera_NN is_VBZ better_JJR than_IN kodak_NN ,_, pentax_NN ,_, fujifilm_NN ,_, GE_NNP or_CC coolpix_NN ._.

@@ -1,0 +1,94 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(version-5, the-3)
+nn(version-5, ATT-4)
+dobj(have-2, version-5)
+dep(have-2, for-6)
+num(years-9, 3-8)
+prep_over(have-2, years-9)
+prep_since(years-9, 2009-11)
+
+=========
+
+nsubj(bee-3, It-1)
+aux(bee-3, has-2)
+root(ROOT-0, bee-3)
+xcomp(bee-3, going-4)
+amod(issues-8, strong-5)
+conj_and(strong-5, no-7)
+amod(issues-8, no-7)
+dobj(going-4, issues-8)
+
+=========
+
+nsubj(upgraded-3, I-1)
+aux(upgraded-3, have-2)
+root(ROOT-0, upgraded-3)
+prep_to(upgraded-3, version-5)
+dep(version-5, iOS-6)
+num(iOS-6, 6.1-7)
+prep_as_of(version-5, Nov-10)
+num(Nov-10, 2012-11)
+
+=========
+
+nsubj(painpoint-4, iTunes-1)
+cop(painpoint-4, is-2)
+det(painpoint-4, the-3)
+root(ROOT-0, painpoint-4)
+prep_with(painpoint-4, tough-7)
+aux(use-9, to-8)
+xcomp(tough-7, use-9)
+
+=========
+
+agent(supposed-8, early-2)
+dep(early-2, Dec-3)
+num(Dec-3, 2012-4)
+nsubjpass(supposed-8, Apple-6)
+xsubj(come-10, Apple-6)
+auxpass(supposed-8, is-7)
+root(ROOT-0, supposed-8)
+aux(come-10, to-9)
+xcomp(supposed-8, come-10)
+prt(come-10, out-11)
+det(version-15, a-13)
+amod(version-15, new-14)
+prep_with(come-10, version-15)
+prep_of(version-15, iTunes-17)
+amod(interface-21, easy-19)
+nn(interface-21, user-20)
+prep_with(come-10, interface-21)
+
+=========
+
+expl(are-2, There-1)
+ccomp(was-12, are-2)
+amod(reviews-4, ample-3)
+nsubj(are-2, reviews-4)
+det(phones-7, these-6)
+prep_of(reviews-4, phones-7)
+poss(point-10, my-9)
+nsubj(was-12, point-10)
+advmod(was-12, here-11)
+root(ROOT-0, was-12)
+prep_about(was-12, reliability-14)
+det(product-17, the-16)
+prep_of(reliability-14, product-17)
+
+=========
+
+nsubj(come-3, It-1)
+aux(come-3, has-2)
+root(ROOT-0, come-3)
+advmod(come-3, handy-4)
+det(times-7, all-6)
+prep_at(come-3, times-7)
+det(reboot-12, no-10)
+amod(reboot-12, major-11)
+prep_with(come-3, reboot-12)
+partmod(reboot-12, issues\/hanging-13)
+dobj(issues\/hanging-13, etc.-14)
+

@@ -1,0 +1,2 @@
+The_DT picture_NN quality_NN is_VBZ not_RB as_RB sharp_JJ or_CC as_RB rich_JJ as_IN my_PRP$ Samsung_NNP 60_NNP '_POS ,_, but_CC it_PRP also_RB cost_VBD half_PDT the_DT price_NN as_IN my_PRP$ 5_CD year_NN old_JJ Samsung_NNP ._.
+I_PRP did_VBD say_VB that_DT makes_VBZ it_PRP a_DT better_JJR deal_NN ._.

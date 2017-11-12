@@ -1,0 +1,42 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+det(event-7, an-6)
+prep_for(bought-2, event-7)
+
+=========
+
+det(quality-2, The-1)
+nsubj(amazing-4, quality-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+poss(pictures-2, My-1)
+nsubj(look-3, pictures-2)
+root(ROOT-0, look-3)
+dobj(look-3, terrific-4)
+
+=========
+
+advmod(make-2, Just-1)
+root(ROOT-0, make-2)
+acomp(make-2, sure-3)
+nsubj(buy-5, you-4)
+ccomp(sure-3, buy-5)
+det(card-9, a-6)
+amod(card-9, 8g-7)
+nn(card-9, memory-8)
+dobj(buy-5, card-9)
+det(day-12, that-10)
+amod(day-12, same-11)
+dep(make-2, day-12)
+nsubj(order-14, you-13)
+rcmod(day-12, order-14)
+det(camera-16, the-15)
+dobj(order-14, camera-16)
+

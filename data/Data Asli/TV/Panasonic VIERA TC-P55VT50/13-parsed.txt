@@ -1,0 +1,30 @@
+=========
+
+amod(picture-2, Great-1)
+nsubj(liking-21, picture-2)
+amod(set-5, easy-4)
+npadvmod(up-6, set-5)
+advmod(liking-21, up-6)
+nsubj(liking-21, plenty-8)
+prep_of(plenty-8, adjustments-10)
+aux(fine-12, to-11)
+infmod(adjustments-10, fine-12)
+iobj(fine-12, tune-13)
+det(picture-15, the-14)
+dobj(fine-12, picture-15)
+infmod(adjustments-10, sound-17)
+conj_and(fine-12, sound-17)
+prep_to(sound-17, one-19)
+aux(liking-21, 's-20)
+root(ROOT-0, liking-21)
+
+=========
+
+nsubj(plasma-2, Slight-1)
+root(ROOT-0, plasma-2)
+dep(noticeable-6, sound-3)
+acomp(plasma-2, not-5)
+conj_but(noticeable-6, not-5)
+neg(noticeable-6, not-5)
+acomp(plasma-2, noticeable-6)
+

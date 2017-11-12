@@ -1,0 +1,27 @@
+=========
+
+det(combo-3, This-1)
+nn(combo-3, product-2)
+nsubj(has-4, combo-3)
+root(ROOT-0, has-4)
+det(price-7, a-5)
+amod(price-7, better-6)
+dobj(has-4, price-7)
+det(camera-10, the-9)
+prep_than(price-7, camera-10)
+advmod(has-4, alone-11)
+
+=========
+
+det(offer-4, A-1)
+advmod(great-3, really-2)
+amod(offer-4, great-3)
+root(ROOT-0, offer-4)
+
+=========
+
+nsubj(arrived-2, It-1)
+root(ROOT-0, arrived-2)
+amod(condition-5, perfect-4)
+prep_in(arrived-2, condition-5)
+

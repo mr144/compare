@@ -1,0 +1,49 @@
+=========
+
+nsubj(love-2, We-1)
+root(ROOT-0, love-2)
+dobj(love-2, everything-3)
+det(TV-6, this-5)
+prep_about(love-2, TV-6)
+det(delivery-9, the-8)
+prep_including(TV-6, delivery-9)
+
+=========
+
+poss(husband-2, My-1)
+nsubj(speechless-4, husband-2)
+cop(speechless-4, was-3)
+root(ROOT-0, speechless-4)
+dobj(make-12, speechless-4)
+det(gift-8, this-6)
+nn(gift-8, Christmas-7)
+prep_with(speechless-4, gift-8)
+det(quality-11, the-9)
+nn(quality-11, picture-10)
+nsubj(make-12, quality-11)
+rcmod(speechless-4, make-12)
+nsubj(hard-14, it-13)
+xcomp(make-12, hard-14)
+aux(watch-16, to-15)
+xcomp(hard-14, watch-16)
+dobj(watch-16, tv-17)
+advmod(else-19, anywhere-18)
+advmod(watch-16, else-19)
+
+=========
+
+nsubj(way-4, Samsung-1)
+cop(way-4, is-2)
+det(way-4, the-3)
+root(ROOT-0, way-4)
+aux(go-6, to-5)
+infmod(way-4, go-6)
+nsubj(makes-9, Amazon-8)
+conj_and(way-4, makes-9)
+predet(gift-13, this-10)
+det(gift-13, the-11)
+amod(gift-13, perfect-12)
+dobj(makes-9, gift-13)
+det(hassle-16, any-15)
+prep_without(makes-9, hassle-16)
+

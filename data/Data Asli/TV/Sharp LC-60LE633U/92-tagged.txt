@@ -1,0 +1,3 @@
+it_PRP is_VBZ simply_RB amaziing_VBG and_CC the_DT entire_JJ family_NN are_VBP happy_JJ with_IN it_PRP ._.
+Its_PRP$ network_NN set_VBN up_RP should_MD have_VB more_JJR advance_NN features_NNS such_JJ as_IN VPN_NNP to_TO allow_VB for_IN more_JJR internet_NN features_NNS ._.
+I_PRP did_VBD not_RB test_VB the_DT sound_JJ quality_NN as_IN I_PRP have_VBP a_DT bose_JJ V35_NNP sound_NN system_NN but_CC I_PRP trust_VBP that_IN it_PRP would_MD be_VB nice_JJ ._.

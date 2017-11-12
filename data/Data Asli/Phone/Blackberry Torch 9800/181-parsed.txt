@@ -1,0 +1,32 @@
+=========
+
+nsubjpass(impressed-3, I-1)
+auxpass(impressed-3, was-2)
+root(ROOT-0, impressed-3)
+det(quality-6, the-5)
+prep_with(impressed-3, quality-6)
+det(phone-9, the-8)
+prep_of(quality-6, phone-9)
+
+=========
+
+det(scratch-2, The-1)
+nsubj(minimal-5, scratch-2)
+cop(minimal-5, was-3)
+advmod(minimal-5, so-4)
+root(ROOT-0, minimal-5)
+nsubjpass(ignored-10, it-6)
+aux(ignored-10, could-7)
+advmod(ignored-10, easily-8)
+auxpass(ignored-10, be-9)
+ccomp(minimal-5, ignored-10)
+
+=========
+
+nsubj(buy-3, Will-1)
+advmod(buy-3, definitely-2)
+root(ROOT-0, buy-3)
+det(supplier-6, this-5)
+prep_from(buy-3, supplier-6)
+advmod(supplier-6, again-7)
+

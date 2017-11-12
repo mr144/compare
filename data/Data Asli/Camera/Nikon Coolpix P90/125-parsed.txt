@@ -1,0 +1,52 @@
+=========
+
+root(ROOT-0, Nice-1)
+dobj(Nice-1, unit-2)
+
+=========
+
+root(ROOT-0, Love-1)
+det(LCD-4, the-2)
+nn(LCD-4, tilt-3)
+dep(Love-1, LCD-4)
+nsubj(has-7, that-6)
+rcmod(Love-1, has-7)
+amod(utility-9, definite-8)
+dobj(has-7, utility-9)
+
+=========
+
+advmod(pleased-5, Overall-1)
+nsubjpass(pleased-5, I-3)
+auxpass(pleased-5, am-4)
+root(ROOT-0, pleased-5)
+det(camera-8, the-7)
+poss(performance-10, camera-8)
+prep_with(pleased-5, performance-10)
+
+=========
+
+nsubj(own-2, I-1)
+root(ROOT-0, own-2)
+det(D40X-5, a-3)
+nn(D40X-5, Nikon-4)
+dobj(own-2, D40X-5)
+advmod(well-7, as-6)
+mwe(well-7, as-6)
+advmod(own-2, well-7)
+det(P90-10, the-9)
+nsubj(camera-15, P90-10)
+cop(camera-15, is-11)
+det(camera-15, a-12)
+amod(camera-15, fine-13)
+amod(camera-15, backup-14)
+conj_and(own-2, camera-15)
+
+=========
+
+det(money-3, the-2)
+prep_for(recommend-6, money-3)
+nsubj(recommend-6, I-5)
+root(ROOT-0, recommend-6)
+dobj(recommend-6, it-7)
+

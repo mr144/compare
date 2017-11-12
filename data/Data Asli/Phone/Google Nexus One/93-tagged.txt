@@ -1,0 +1,13 @@
+This_DT is_VBZ my_PRP$ first_JJ review_NN on_IN Amazon_NNP ,_, because_IN other_JJ purchases_NNS before_RB are_VBP pretty_RB good_JJ to_TO me_PRP ._.
+And_CC it_PRP is_VBZ just_RB a_DT reminder_NN to_TO someone_NN interested_JJ in_IN this_DT product_NN ,_, maybe_RB not_RB each_DT one_NN looks_VBZ like_IN this_DT ._.
+I_PRP do_VBP not_RB have_VB this_DT brand_NN of_IN cell_NN phone_NN before_IN ,_, so_IN I_PRP am_VBP not_RB sure_JJ if_IN it_PRP is_VBZ true_JJ ._.
+First_RB ,_, it_PRP came_VBD without_IN plastic_JJ seal_NN `_`` and_CC had_VBD some_DT black_JJ or_CC gray_JJ trace_VBP on_IN the_DT out_JJ packing_NN both_DT front_NN and_CC back_RB -LRB-_-LRB- not_RB the_DT AMAZON_NNP delivery_NN package_NN but_CC the_DT cell_NN box_NN -RRB-_-RRB- ._.
+Second_JJ ,_, I_PRP notice_VBP the_DT version_NN of_IN Android_NNP is_VBZ 2.2_CD but_CC with_IN the_DT app2sd_JJ application_NN ,_, which_WDT I_PRP believe_VBP is_VBZ not_RB belong_VB to_TO the_DT original_JJ android_NN system_NN ._.
+Also_RB it_PRP can_MD not_RB update_VB to_TO 2.3.4_CD through_IN OTA_NNP ,_, just_RB said_VBD something_NN like_IN your_PRP$ system_NN is_VBZ up_IN to_TO the_DT latest_JJS version_NN while_IN 2.3.4_CD came_VBD out_RP like_IN a_DT month_NN ago_RB ..._: Later_RB ,_, I_PRP tried_VBD so_RB hard_JJ to_TO manually_RB update_VB the_DT system_NN to_TO 2.3.4_CD -LRB-_-LRB- after_IN I_PRP refresh_VBP the_DT 2.2_CD Rom_NN from_IN Google_NNP mirror_NN image_NN -RRB-_-RRB- and_CC some_DT applications_NNS like_IN Amazon_NNP mp3_CD finally_RB showed_VBD up_RP ._.
+So_RB whether_IN it_PRP is_VBZ not_RB brand_NN new_JJ or_CC just_RB not_RB the_DT US_NNP version_NN ,_, I_PRP do_VBP not_RB know_VB which_WDT one_NN is_VBZ the_DT truth_NN ._.
+Besides_IN that_DT everything_NN seems_VBZ fine_JJ ,_, so_IN I_PRP decide_VBP to_TO keep_VB it_PRP until_IN some_DT other_JJ problems_NNS showed_VBD up_RP ._.
+Update_NNP :_: call_VB HTC_NNP with_IN IMEI_NNP ,_, Canadian_JJ version_NN confirmed_VBD ._.
+Update_NNP on_IN 06\/30\/2011_CD :_: call_VB HTC_NNP for_IN warranty_NN ._.
+Since_IN it_PRP is_VBZ a_DT Canadian_JJ version_NN ,_, no_DT US_NNP warranty_NN from_IN HTC_NNP ._.
+If_IN something_NN happened_VBD ,_, should_MD contact_VB Canadian_JJ distributors_NNS ._.
+Tragedy_NN ..._: I_PRP also_RB want_VBP to_TO know_VB the_DT seller_NN claimed_VBD US_NNP warranty_NN ,_, where_WRB it_PRP came_VBD from_IN ..._:

@@ -1,0 +1,33 @@
+=========
+
+nsubj(liked-2, I-1)
+root(ROOT-0, liked-2)
+nsubj(much-6, it-3)
+advmod(much-6, very-4)
+advmod(much-6, very-5)
+xcomp(liked-2, much-6)
+
+=========
+
+num(t-2, &#304;-1)
+nsubj(small-4, t-2)
+cop(small-4, is-3)
+root(ROOT-0, small-4)
+advmod(small-4, enough-5)
+nsubj(take-9, you-7)
+aux(take-9, can-8)
+conj_and(small-4, take-9)
+advmod(good-12, very-10)
+advmod(good-12, very-11)
+amod(photos-13, good-12)
+dobj(take-9, photos-13)
+
+=========
+
+nsubj(advise-2, I-1)
+root(ROOT-0, advise-2)
+det(lens-5, a-3)
+amod(lens-5, zoom-4)
+dobj(advise-2, lens-5)
+prep_with(advise-2, it-7)
+

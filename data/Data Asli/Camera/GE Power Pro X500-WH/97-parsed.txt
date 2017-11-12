@@ -1,0 +1,98 @@
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, just-2)
+ccomp(Adore-9, love-3)
+poss(Camera-5, my-4)
+dobj(love-3, Camera-5)
+nsubj(Adore-9, i-7)
+advmod(Adore-9, just-8)
+root(ROOT-0, Adore-9)
+det(way-11, the-10)
+dobj(Adore-9, way-11)
+dobj(looks-13, way-11)
+nsubj(looks-13, it-12)
+rcmod(way-11, looks-13)
+
+=========
+
+nsubj(know-5, I-1)
+advmod(know-5, still-2)
+aux(know-5, do-3)
+neg(know-5, not-4)
+root(ROOT-0, know-5)
+advmod(use-8, how-6)
+aux(use-8, to-7)
+ccomp(know-5, use-8)
+xcomp(know-5, use-8)
+dobj(use-8, it-9)
+advmod(well-11, very-10)
+advmod(use-8, well-11)
+det(ive-16, the-14)
+nn(ive-16, pictures-15)
+nsubj(made-17, ive-16)
+conj_but(know-5, made-17)
+cop(great-20, are-19)
+dep(made-17, great-20)
+
+=========
+
+root(ROOT-0, Im-1)
+advmod(Im-1, still-2)
+xcomp(Im-1, learning-3)
+det(lot-5, a-4)
+dobj(learning-3, lot-5)
+prep_about(learning-3, it-7)
+poss(beautiful-10, its-9)
+prep_about(learning-3, beautiful-10)
+conj_and(it-7, beautiful-10)
+
+=========
+
+nsubj(size-2, Perfect-1)
+root(ROOT-0, size-2)
+neg(big-6, not-4)
+advmod(big-6, as-5)
+dep(size-2, big-6)
+amod(cams-9, other-8)
+prep_as(big-6, cams-9)
+neg(small-13, not-11)
+advmod(small-13, as-12)
+dep(size-2, small-13)
+conj_and(big-6, small-13)
+det(point-17, a-15)
+amod(point-17, simple-16)
+prep_as(small-13, point-17)
+dep(size-2, shoot-19)
+conj_and(big-6, shoot-19)
+dep(size-2, perfect-22)
+dobj(perfect-22, weight-23)
+
+=========
+
+nsubj(find-3, I-1)
+advmod(find-3, just-2)
+root(ROOT-0, find-3)
+acomp(find-3, difficult-4)
+aux(find-6, to-5)
+xcomp(difficult-4, find-6)
+det(case-9, the-7)
+amod(case-9, perfect-8)
+dobj(find-6, case-9)
+prep_for(case-9, it-11)
+prep_instead_of(case-9, that-15)
+nsubj(happy-19, Im-17)
+advmod(happy-19, totally-18)
+xcomp(find-6, happy-19)
+
+=========
+
+root(ROOT-0, PS-1)
+advmod(fall-10, GO-3)
+det(white-6, the-5)
+prep_for(fall-10, white-6)
+nsubj(fall-10, you-8)
+aux(fall-10, will-9)
+dep(PS-1, fall-10)
+prep_in(fall-10, love-12)
+

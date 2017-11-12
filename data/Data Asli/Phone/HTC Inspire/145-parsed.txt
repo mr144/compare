@@ -1,0 +1,131 @@
+=========
+
+nsubj(bought-3, I-1)
+advmod(bought-3, recently-2)
+root(ROOT-0, bought-3)
+det(phone-5, the-4)
+nsubj(using-9, phone-5)
+conj_and(phone-5, i-7)
+nsubj(using-9, i-7)
+aux(using-9, am-8)
+ccomp(bought-3, using-9)
+dobj(using-9, it-10)
+amod(one-13, last-12)
+prep_from(using-9, one-13)
+tmod(using-9, month-14)
+
+=========
+
+det(phone-2, The-1)
+nsubj(great-4, phone-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+advmod(well-4, quite-3)
+advmod(works-2, well-4)
+
+=========
+
+prepc_after(afraid-7, reading-2)
+det(reviews-4, some-3)
+dobj(reading-2, reviews-4)
+nsubj(afraid-7, i-5)
+cop(afraid-7, was-6)
+root(ROOT-0, afraid-7)
+aux(buy-9, to-8)
+xcomp(afraid-7, buy-9)
+dobj(buy-9, it-10)
+
+=========
+
+cc(happy-5, but-1)
+advmod(happy-5, now-2)
+nsubj(happy-5, i-3)
+cop(happy-5, am-4)
+root(ROOT-0, happy-5)
+aux(have-7, to-6)
+xcomp(happy-5, have-7)
+dobj(have-7, it-8)
+
+=========
+
+nsubj(concern-6, Battery-1)
+cop(concern-6, is-2)
+amod(people-4, most-3)
+poss(concern-6, people-4)
+root(ROOT-0, concern-6)
+poss(applications-18, its-8)
+advmod(true-10, somewhat-9)
+amod(applications-18, true-10)
+det(user-13, a-12)
+prep_for(true-10, user-13)
+nsubj(uses-16, user-13)
+advmod(uses-16, simultaneously-15)
+rcmod(user-13, uses-16)
+acomp(uses-16, many-17)
+conj_and(concern-6, applications-18)
+
+=========
+
+cc(lasts-7, But-1)
+amod(use-4, normal-3)
+prep_for(lasts-7, use-4)
+poss(battery-6, its-5)
+nsubj(lasts-7, battery-6)
+root(ROOT-0, lasts-7)
+det(day-11, a-9)
+amod(day-11, single-10)
+prep_for(lasts-7, day-11)
+
+=========
+
+amod(concern-2, Second-1)
+nsubj(phone-6, concern-2)
+cop(phone-6, was-3)
+poss(phone-6, its-4)
+nn(phone-6, AT&T-5)
+root(ROOT-0, phone-6)
+mark(wont-9, so-7)
+nsubj(wont-9, it-8)
+advcl(phone-6, wont-9)
+dobj(wont-9, work-10)
+prep_on(work-10, TMobile-12)
+
+=========
+
+dep(working-3, But-1)
+poss(working-3, its-2)
+root(ROOT-0, working-3)
+advmod(good-5, quite-4)
+amod(working-3, good-5)
+prep_on(working-3, TMobile-7)
+
+=========
+
+poss(phone-3, Its-1)
+amod(phone-3, great-2)
+root(ROOT-0, phone-3)
+prep_for(phone-3, someone-5)
+nsubj(want-9, someone-5)
+aux(want-9, do-7)
+neg(want-9, not-8)
+rcmod(someone-5, want-9)
+aux(shell-11, to-10)
+xcomp(want-9, shell-11)
+prt(shell-11, out-12)
+amod(money-14, more-13)
+dobj(shell-11, money-14)
+xcomp(want-9, get-16)
+conj_and(shell-11, get-16)
+det(experience-18, the-17)
+dobj(get-16, experience-18)
+prepc_of(experience-18, using-20)
+det(phone-24, a-21)
+nn(phone-24, touch-22)
+nn(phone-24, screen-23)
+dobj(using-20, phone-24)
+

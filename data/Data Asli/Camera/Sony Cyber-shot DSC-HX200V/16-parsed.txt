@@ -1,0 +1,37 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(camera-5, my-3)
+amod(camera-5, new-4)
+dobj(love-2, camera-5)
+
+=========
+
+nsubj(great-4, It-1)
+advmod(great-4, really-2)
+dep(great-4, does-3)
+root(ROOT-0, great-4)
+amod(light-7, low-6)
+prep_in(great-4, light-7)
+det(zoom-10, the-9)
+nsubj(best-13, zoom-10)
+cop(best-13, is-11)
+det(best-13, the-12)
+conj_and(great-4, best-13)
+
+=========
+
+root(ROOT-0, Takes-1)
+advmod(good-3, very-2)
+amod(pictures-4, good-3)
+dobj(Takes-1, pictures-4)
+
+=========
+
+nsubj(camera-5, It-1)
+cop(camera-5, is-2)
+det(camera-5, the-3)
+amod(camera-5, best-4)
+root(ROOT-0, camera-5)
+

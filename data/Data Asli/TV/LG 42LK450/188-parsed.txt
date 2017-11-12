@@ -1,0 +1,30 @@
+=========
+
+root(ROOT-0, Bought-1)
+det(tv-3, this-2)
+dobj(Bought-1, tv-3)
+poss(bedroom-6, our-5)
+prep_for(tv-3, bedroom-6)
+
+=========
+
+nsubj(has-2, It-1)
+nsubj(easy-9, It-1)
+root(ROOT-0, has-2)
+det(picture-5, a-3)
+amod(picture-5, great-4)
+dobj(has-2, picture-5)
+cop(easy-9, was-7)
+advmod(easy-9, very-8)
+conj_and(has-2, easy-9)
+aux(set-11, to-10)
+xcomp(easy-9, set-11)
+prt(set-11, up-12)
+
+=========
+
+amod(tv-2, Great-1)
+root(ROOT-0, tv-2)
+det(price-5, the-4)
+prep_for(tv-2, price-5)
+

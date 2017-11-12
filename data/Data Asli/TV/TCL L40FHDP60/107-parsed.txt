@@ -1,0 +1,47 @@
+=========
+
+aux(bother-3, Do-1)
+neg(bother-3, not-2)
+root(ROOT-0, bother-3)
+xcomp(bother-3, buying-4)
+det(TV-6, this-5)
+dobj(buying-4, TV-6)
+mark(have-9, if-7)
+nsubj(have-9, you-8)
+advcl(bother-3, have-9)
+dobj(have-9, cable-10)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(code-4, no-3)
+nsubj(is-2, code-4)
+partmod(code-4, listed-5)
+det(TV-8, this-7)
+prep_for(listed-5, TV-8)
+det(cable-11, the-10)
+prep_on(TV-8, cable-11)
+amod(cable-11, remote-12)
+mark(have-16, so-13)
+nsubj(have-16, you-14)
+xsubj(use-18, you-14)
+aux(have-16, will-15)
+advcl(listed-5, have-16)
+aux(use-18, to-17)
+xcomp(have-16, use-18)
+num(remotes-20, two-19)
+dobj(use-18, remotes-20)
+aux(get-22, to-21)
+xcomp(use-18, get-22)
+nsubj(work-25, it-23)
+aux(work-25, to-24)
+xcomp(get-22, work-25)
+
+=========
+
+dep(!!!-4, What-1)
+det(!!!-4, a-2)
+nn(!!!-4, pain-3)
+root(ROOT-0, !!!-4)
+

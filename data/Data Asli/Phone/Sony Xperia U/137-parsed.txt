@@ -1,0 +1,84 @@
+=========
+
+det(beast-3, This-1)
+amod(beast-3, little-2)
+nsubj(gives-4, beast-3)
+root(ROOT-0, gives-4)
+iobj(gives-4, you-5)
+advmod(everything-7, almost-6)
+dobj(gives-4, everything-7)
+rel(desire-10, what-8)
+nsubj(desire-10, you-9)
+xsubj(achieve-12, you-9)
+rcmod(everything-7, desire-10)
+aux(achieve-12, to-11)
+xcomp(desire-10, achieve-12)
+det(smartphone-16, a-14)
+amod(smartphone-16, perfect-15)
+prep_from(achieve-12, smartphone-16)
+
+=========
+
+nn(Display-2, Great-1)
+nsubj(Upgradable-9, Display-2)
+amod(contrast-5, great-4)
+appos(Display-2, contrast-5)
+appos(contrast-5, speedy-7)
+root(ROOT-0, Upgradable-9)
+prep_to(Upgradable-9, ICS-11)
+amod(more-14, many-13)
+prep_to(Upgradable-9, more-14)
+conj_and(ICS-11, more-14)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(issue-8, memory-3)
+cop(issue-8, is-4)
+neg(issue-8, not-5)
+det(issue-8, that-6)
+amod(issue-8, much-7)
+ccomp(think-2, issue-8)
+
+=========
+
+cc(are-3, But-1)
+expl(are-3, there-2)
+root(ROOT-0, are-3)
+det(bugs-6, a-4)
+amod(bugs-6, few-5)
+nsubj(are-3, bugs-6)
+dobj(fixed-12, bugs-6)
+rel(fixed-12, which-7)
+nsubjpass(fixed-12, i-8)
+advmod(fixed-12, thick-9)
+aux(fixed-12, will-10)
+auxpass(fixed-12, be-11)
+rcmod(bugs-6, fixed-12)
+amod(roll-out-16, new-14)
+nn(roll-out-16, updates-15)
+prep_as(fixed-12, roll-out-16)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+poss(camera-4, my-3)
+dobj(got-2, camera-4)
+partmod(camera-4, dedicated-5)
+amod(non-functional-7, key-6)
+dobj(dedicated-5, non-functional-7)
+aux(error-13, might-9)
+cop(error-13, be-10)
+det(error-13, a-11)
+nn(error-13, software-12)
+parataxis(dedicated-5, error-13)
+
+=========
+
+advmod(waiting-2, so-1)
+root(ROOT-0, waiting-2)
+det(fix-5, a-4)
+prep_for(waiting-2, fix-5)
+

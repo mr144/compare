@@ -1,0 +1,23 @@
+=========
+
+advmod(good-2, Very-1)
+amod(phone-3, good-2)
+nsubj(does-21, phone-3)
+dep(phone-3, comes-5)
+mark(works-13, with-6)
+det(accessories-8, all-7)
+nsubj(works-13, accessories-8)
+det(new-11, all-10)
+appos(accessories-8, new-11)
+advcl(comes-5, works-13)
+prep_in(works-13, Venezuela-15)
+prep_with(works-13, Movilnet-17)
+prep_with(works-13, Movistar-19)
+conj_and(Movilnet-17, Movistar-19)
+root(ROOT-0, does-21)
+det(3G-23, the-22)
+nsubj(perfectly-24, 3G-23)
+xcomp(does-21, perfectly-24)
+det(operators-27, both-26)
+prep_with(perfectly-24, operators-27)
+

@@ -1,0 +1,156 @@
+=========
+
+amod(use-3, careful-2)
+prep_with(give-7, use-3)
+det(camera-5, this-4)
+nsubj(give-7, camera-5)
+aux(give-7, can-6)
+root(ROOT-0, give-7)
+advmod(sharp-9, very-8)
+amod(photographs-10, sharp-9)
+dobj(give-7, photographs-10)
+advmod(give-7, only-13)
+conj_but(give-7, only-13)
+mark(watch-16, if-14)
+nsubj(watch-16, you-15)
+advcl(give-7, watch-16)
+conj_but(give-7, watch-16)
+dobj(doing-20, what-17)
+nsubj(doing-20, you-18)
+aux(doing-20, are-19)
+ccomp(watch-16, doing-20)
+
+=========
+
+nsubj(true-4, This-1)
+cop(true-4, is-2)
+advmod(true-4, especially-3)
+root(ROOT-0, true-4)
+det(extremes-7, the-6)
+prep_at(true-4, extremes-7)
+poss(range-12, camera-9)
+amod(range-12, operating-11)
+prep_of(extremes-7, range-12)
+
+=========
+
+nn(photography-2, Telephoto-1)
+nsubj(requires-3, photography-2)
+root(ROOT-0, requires-3)
+advmod(tripod-6, either-4)
+det(tripod-6, a-5)
+nn(exposures-10, tripod-6)
+advmod(short-9, very-8)
+conj_or(tripod-6, short-9)
+nn(exposures-10, short-9)
+dobj(requires-3, exposures-10)
+
+=========
+
+prep_for(required-12, example-2)
+det(tripod-5, a-4)
+prep_without(example-2, tripod-5)
+det(speed-8, a-6)
+nn(speed-8, shutter-7)
+nsubjpass(required-12, speed-8)
+nsubj(1\/500th-17, speed-8)
+prep_of(speed-8, 1\/250th-10)
+auxpass(required-12, is-11)
+root(ROOT-0, required-12)
+prep_at(required-12, 9X-14)
+conj_and(required-12, 1\/500th-17)
+prep_at(1\/500th-17, 18X-19)
+
+=========
+
+nn(photography-2, Macro-1)
+nsubj(results-3, photography-2)
+root(ROOT-0, results-3)
+det(depth-8, a-5)
+advmod(limited-7, very-6)
+amod(depth-8, limited-7)
+prep_in(results-3, depth-8)
+prep_of(depth-8, field-10)
+parataxis(results-3, i.e.-12)
+det(distance-14, the-13)
+dobj(i.e.-12, distance-14)
+complm(object-18, that-15)
+det(3D-17, a-16)
+nsubj(object-18, 3D-17)
+ccomp(i.e.-12, object-18)
+dobj(object-18, remainds-19)
+prep_in(remainds-19, focus-21)
+
+=========
+
+det(pitfall-2, Another-1)
+nsubj(motion-8, pitfall-2)
+nn(photography-5, macro-4)
+prep_of(pitfall-2, photography-5)
+cop(motion-8, is-6)
+det(motion-8, the-7)
+root(ROOT-0, motion-8)
+preconj(object-12, either-10)
+det(object-12, the-11)
+prep_of(motion-8, object-12)
+det(camera-15, the-14)
+prep_of(motion-8, camera-15)
+conj_or(object-12, camera-15)
+
+=========
+
+det(tripod-2, A-1)
+nsubjpass(required-9, tripod-2)
+det(hand-7, a-4)
+advmod(steady-6, very-5)
+amod(hand-7, steady-6)
+conj_or(tripod-2, hand-7)
+nsubjpass(required-9, hand-7)
+auxpass(required-9, is-8)
+root(ROOT-0, required-9)
+
+=========
+
+csubj(help-13, Using-1)
+det(viewfinder-4, the-2)
+amod(viewfinder-4, electronic-3)
+dobj(Using-1, viewfinder-4)
+conj_and(Using-1, balance-6)
+csubj(help-13, balance-6)
+poss(elbows-8, your-7)
+dobj(balance-6, elbows-8)
+poss(torso-11, your-10)
+prep_against(balance-6, torso-11)
+aux(help-13, will-12)
+root(ROOT-0, help-13)
+amod(camera-16, steady-14)
+det(camera-16, the-15)
+dobj(help-13, camera-16)
+
+=========
+
+root(ROOT-0, Pray-1)
+dep(is-4, that-2)
+expl(is-4, there-3)
+dep(Pray-1, is-4)
+det(wind-6, no-5)
+nsubj(is-4, wind-6)
+aux(move-8, to-7)
+infmod(wind-6, move-8)
+det(object-10, the-9)
+dobj(move-8, object-10)
+
+=========
+
+prep_in(take-7, summary-2)
+det(camera-5, this-3)
+amod(camera-5, excellent-4)
+nsubj(take-7, camera-5)
+aux(take-7, will-6)
+root(ROOT-0, take-7)
+amod(photos-9, excellent-8)
+dobj(take-7, photos-9)
+mark(used-11, if-10)
+advcl(take-7, used-11)
+advmod(used-11, carefully-12)
+

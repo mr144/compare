@@ -1,0 +1,206 @@
+=========
+
+root(ROOT-0, Disclaimer-1)
+advmod(Disclaimer-1, first-2)
+nsubj(amateur-7, I-4)
+cop(amateur-7, am-5)
+det(amateur-7, an-6)
+dep(Disclaimer-1, amateur-7)
+det(camera-10, a-9)
+prep_with(amateur-7, camera-10)
+neg(camera-10, not-12)
+det(pro-14, a-13)
+dep(camera-10, pro-14)
+
+=========
+
+aux(said-2, Having-1)
+root(ROOT-0, said-2)
+det(camera-6, that-3)
+amod(camera-6, Awesome-5)
+dobj(said-2, camera-6)
+det(price-9, the-8)
+prep_for(said-2, price-9)
+
+=========
+
+nsubj(features-2, Great-1)
+root(ROOT-0, features-2)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(good-5, quality-2)
+cop(good-5, is-3)
+advmod(good-5, pretty-4)
+root(ROOT-0, good-5)
+
+=========
+
+nsubj(got-2, I-1)
+ccomp(guess-28, got-2)
+dobj(got-2, it-3)
+advmod(got-2, mostly-4)
+det(speed-7, the-6)
+prep_for(got-2, speed-7)
+partmod(speed-7, shooting-8)
+advmod(take-13, so-9)
+dep(take-13, that-10)
+nsubj(take-13, I-11)
+aux(take-13, could-12)
+advcl(shooting-8, take-13)
+ccomp(shooting-8, take-13)
+dobj(take-13, pictures-14)
+poss(volleyball-19, my-16)
+nn(volleyball-19, daughter-17)
+nn(volleyball-19, playing-18)
+prep_of(pictures-14, volleyball-19)
+poss(team-23, her-22)
+prep_of(pictures-14, team-23)
+conj_and(volleyball-19, team-23)
+prep_of(pictures-14, too-25)
+advmod(volleyball-19, too-25)
+conj_and(volleyball-19, too-25)
+nsubj(guess-28, I-27)
+root(ROOT-0, guess-28)
+
+=========
+
+nsubj(have-2, You-1)
+root(ROOT-0, have-2)
+advmod(experiment-5, really-4)
+prep_to(have-2, experiment-5)
+det(setting-8, the-7)
+prep_with(experiment-5, setting-8)
+dobj(have-2, some-9)
+aux(get-11, to-10)
+infmod(some-9, get-11)
+dobj(get-11, it-12)
+advmod(right-14, just-13)
+advmod(get-11, right-14)
+nsubj(works-18, it-17)
+conj_but(have-2, works-18)
+advmod(works-18, really-19)
+advmod(works-18, well-20)
+
+=========
+
+aux(settle-3, Do-1)
+neg(settle-3, not-2)
+root(ROOT-0, settle-3)
+advmod(presets-7, just-5)
+det(presets-7, the-6)
+prep_for(settle-3, presets-7)
+advmod(programed-9, already-8)
+partmod(presets-7, programed-9)
+prep(programed-9, in-10)
+
+=========
+
+nsubj(looked-2, I-1)
+root(ROOT-0, looked-2)
+det(lot-5, a-4)
+prep_at(looked-2, lot-5)
+prep_of(lot-5, cameras-7)
+prepc_before(looked-2, settling-9)
+det(one-12, this-11)
+prep_on(settling-9, one-12)
+
+=========
+
+nsubj(sure-3, I-1)
+cop(sure-3, am-2)
+root(ROOT-0, sure-3)
+nsubj(find-6, you-4)
+aux(find-6, can-5)
+ccomp(sure-3, find-6)
+det(camera-9, a-7)
+amod(camera-9, better-8)
+dobj(find-6, camera-9)
+dep(at-13, but-11)
+dep(at-13, probably-12)
+dep(find-6, at-13)
+det(price-17, a-14)
+advmod(higher-16, much-15)
+amod(price-17, higher-16)
+pobj(at-13, price-17)
+
+=========
+
+det(battery-2, The-1)
+nsubj(comes-3, battery-2)
+root(ROOT-0, comes-3)
+det(charger-6, a-5)
+prep_with(comes-3, charger-6)
+nsubj(buy-12, you-9)
+aux(buy-12, can-10)
+advmod(buy-12, always-11)
+conj_and(comes-3, buy-12)
+det(spare-14, a-13)
+dobj(buy-12, spare-14)
+
+=========
+
+nsubj(take-3, It-1)
+aux(take-3, will-2)
+root(ROOT-0, take-3)
+num(photos-7, 120-150-5)
+amod(photos-7, normal-6)
+prep_about(take-3, photos-7)
+det(charge-10, a-9)
+prep_on(photos-7, charge-10)
+
+=========
+
+nsubj(take-4, It-1)
+aux(take-4, will-2)
+advmod(take-4, actually-3)
+root(ROOT-0, take-4)
+quantmod(+-7, about-5)
+number(+-7, 1500-6)
+dobj(take-4, +-7)
+det(charge-10, a-9)
+prep_on(take-4, charge-10)
+xcomp(take-4, using-11)
+nn(mode-13, sports-12)
+dobj(using-11, mode-13)
+nsubj('s-17, that-16)
+conj_but(take-4, 's-17)
+advmod('s-17, probably-18)
+nsubj(zipping-22, it-20)
+advmod(zipping-22, just-21)
+prepc_because('s-17, zipping-22)
+prt(zipping-22, away-23)
+nsubj(take-27, you-26)
+conj_but(take-4, take-27)
+conj_and('s-17, take-27)
+num(photos-29, 20-30-28)
+dobj(take-27, photos-29)
+det(amount-33, the-31)
+amod(amount-33, same-32)
+prep_in(photos-29, amount-33)
+prep_of(amount-33, time-35)
+nsubj(take-37, you-36)
+rcmod(photos-29, take-37)
+advmod(one-39, just-38)
+dobj(take-37, one-39)
+amod(circumstances-42, normal-41)
+prep_under(one-39, circumstances-42)
+
+=========
+
+root(ROOT-0, Get-1)
+det(bag-4, a-2)
+nn(bag-4, camera-3)
+dobj(Get-1, bag-4)
+conj_and(Get-1, tripod-6)
+amod(legs-9, grippy-8)
+prep_with(tripod-6, legs-9)
+
+=========
+
+nsubj(come-3, They-1)
+dep(come-3, both-2)
+root(ROOT-0, come-3)
+prep_in(come-3, handy-5)
+

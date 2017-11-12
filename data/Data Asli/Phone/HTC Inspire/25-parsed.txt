@@ -1,0 +1,131 @@
+=========
+
+advmod(received-3, When-1)
+nsubj(received-3, i-2)
+advcl(noticed-8, received-3)
+det(phone-5, this-4)
+dobj(received-3, phone-5)
+nsubj(noticed-8, I-7)
+root(ROOT-0, noticed-8)
+advmod(away-10, right-9)
+advmod(noticed-8, away-10)
+complm(coming-15, that-11)
+det(screen-13, the-12)
+nsubj(coming-15, screen-13)
+aux(coming-15, was-14)
+ccomp(noticed-8, coming-15)
+prt(coming-15, off-16)
+
+=========
+
+nsubjpass(refurbished-4, I-1)
+auxpass(refurbished-4, was-2)
+advmod(refurbished-4, poorly-3)
+root(ROOT-0, refurbished-4)
+mark(at-6, if-5)
+advcl(refurbished-4, at-6)
+pobj(at-6, all-7)
+
+=========
+
+det(months-4, a-2)
+nn(months-4, couple-3)
+prep_in(gone-7, months-4)
+nsubj(gone-7, things-5)
+aux(gone-7, have-6)
+root(ROOT-0, gone-7)
+acomp(gone-7, wrong-8)
+
+=========
+
+det(Microphone-2, The-1)
+nsubj(work-5, Microphone-2)
+aux(work-5, does-3)
+neg(work-5, not-4)
+root(ROOT-0, work-5)
+advmod(find-12, also-7)
+det(GPS-9, the-8)
+nsubj(find-12, GPS-9)
+aux(find-12, can-10)
+neg(find-12, not-11)
+conj_and(work-5, find-12)
+det(signal-14, a-13)
+dobj(find-12, signal-14)
+
+=========
+
+nsubj(sent-3, I-1)
+aux(sent-3, have-2)
+root(ROOT-0, sent-3)
+dobj(sent-3, it-4)
+det(service-8, a-6)
+nn(service-8, repair-7)
+prep_to(sent-3, service-8)
+prep_in(service-8, Texas-10)
+nsubj(worked-13, they-12)
+conj_and(sent-3, worked-13)
+prep_on(worked-13, it-15)
+num(days-18, 4-17)
+prep_for(worked-13, days-18)
+
+=========
+
+nsubj(came-2, They-1)
+root(ROOT-0, came-2)
+det(conclusion-5, the-4)
+prep_to(came-2, conclusion-5)
+complm(has-10, that-6)
+det(board-9, the-7)
+nn(board-9, mother-8)
+nsubj(has-10, board-9)
+ccomp(came-2, has-10)
+det(defect-12, a-11)
+dobj(has-10, defect-12)
+nsubj(return-16, i-14)
+aux(return-16, should-15)
+conj_and(came-2, return-16)
+dobj(return-16, it-17)
+
+=========
+
+nsubj(problem-4, This-1)
+cop(problem-4, is-2)
+det(problem-4, a-3)
+root(ROOT-0, problem-4)
+mark(Days-10, because-5)
+nsubj(Days-10, it-6)
+cop(Days-10, is-7)
+amod(Days-10, past-8)
+num(Days-10, 30-9)
+advcl(problem-4, Days-10)
+
+=========
+
+nsubj(hate-2, I-1)
+root(ROOT-0, hate-2)
+amod(practice-5, bad-3)
+nn(practice-5, business-4)
+nsubj(example-11, practice-5)
+conj_and(practice-5, this-7)
+nsubj(example-11, this-7)
+cop(example-11, is-8)
+det(example-11, a-9)
+amod(example-11, perfect-10)
+ccomp(hate-2, example-11)
+
+=========
+
+det(point-3, no-2)
+prep_at(refurbished-11, point-3)
+rcmod(point-3, was-4)
+nsubj(believe-7, I-5)
+aux(believe-7, to-6)
+xcomp(was-4, believe-7)
+det(phone-9, this-8)
+nsubjpass(refurbished-11, phone-9)
+auxpass(refurbished-11, was-10)
+root(ROOT-0, refurbished-11)
+det(place-15, the-13)
+amod(place-15, first-14)
+prep_in(refurbished-11, place-15)
+

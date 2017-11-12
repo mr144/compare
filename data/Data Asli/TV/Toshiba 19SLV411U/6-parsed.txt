@@ -1,0 +1,62 @@
+=========
+
+det(product-2, This-1)
+nsubj(gift-5, product-2)
+cop(gift-5, was-3)
+det(gift-5, a-4)
+root(ROOT-0, gift-5)
+poss(daughter-8, my-7)
+prep_for(gift-5, daughter-8)
+prep_for(daughter-8, christmas-10)
+
+=========
+
+amod(week-2, Last-1)
+tmod(stopped-5, week-2)
+det(unit-4, the-3)
+nsubj(stopped-5, unit-4)
+root(ROOT-0, stopped-5)
+xcomp(stopped-5, working-6)
+nsubj(wrote-8, I-7)
+nsubj(asked-12, I-7)
+ccomp(working-6, wrote-8)
+det(seller-10, the-9)
+dobj(wrote-8, seller-10)
+ccomp(working-6, asked-12)
+conj_and(wrote-8, asked-12)
+prep_for(asked-12, help-14)
+
+=========
+
+nsubj(apologized-2, They-1)
+nsubj(said-4, They-1)
+root(ROOT-0, apologized-2)
+conj_and(apologized-2, said-4)
+det(unit-6, the-5)
+nsubj(was-7, unit-6)
+ccomp(said-4, was-7)
+prep_out_of(was-7, warranty-10)
+
+=========
+
+det(period-5, a-2)
+num(period-5, four-3)
+nn(period-5, month-4)
+dobj(will-8, period-5)
+prep_after(offers-15, period-5)
+det(unit-7, the-6)
+nsubj(will-8, unit-7)
+rcmod(period-5, will-8)
+neg(will-8, not-9)
+nsubj(offers-15, power-10)
+dep(power-10, up-11)
+det(seller-14, the-13)
+conj_and(power-10, seller-14)
+nsubj(offers-15, seller-14)
+root(ROOT-0, offers-15)
+det(solution-18, no-16)
+amod(solution-18, real-17)
+dobj(offers-15, solution-18)
+det(problem-21, the-20)
+prep_to(offers-15, problem-21)
+

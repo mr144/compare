@@ -1,0 +1,5 @@
+this_DT cell_NN is_VBZ great_JJ ._.
+easy_JJ to_TO use_VB and_CC to_TO understand_VB ._.
+and_CC to_TO such_PDT a_DT price_NN ,_, thats_VBZ very_RB good_JJ ._.
+and_CC the_DT battery_NN time_NN is_VBZ 4-7_CD days_NNS if_IN you_PRP do_VBP not_RB leave_VB everything_NN on_IN which_WDT is_VBZ a_DT very_RB good_JJ thing_NN when_WRB it_PRP comes_VBZ to_TO smart_JJ phones_NNS -LRB-_-LRB- the_DT only_RB one_CD I_PRP think_VBP -RRB-_-RRB- ._.
+so_RB far_RB so_RB good_JJ

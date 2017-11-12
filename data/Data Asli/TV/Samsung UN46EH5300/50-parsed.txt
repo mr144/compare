@@ -1,0 +1,101 @@
+=========
+
+nsubj(easy-3, Set-up-1)
+cop(easy-3, was-2)
+root(ROOT-0, easy-3)
+
+=========
+
+nsubj(great-3, Picture-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+
+=========
+
+aux(care-4, Do-1)
+neg(care-4, not-2)
+advmod(care-4, much-3)
+root(ROOT-0, care-4)
+det(screen-9, the-6)
+num(screen-9, &#34;-7)
+amod(screen-9, smart-8)
+prep_for(care-4, screen-9)
+nsubj(care-4, &#34;-10)
+predet(icons-15, all-12)
+det(icons-15, the-13)
+amod(icons-15, pre-configured-14)
+prep_with(&#34;-10, icons-15)
+nsubj(imagine-19, I-18)
+conj_but(care-4, imagine-19)
+nsubj(change-22, I-20)
+aux(change-22, could-21)
+ccomp(imagine-19, change-22)
+complm(want-27, that-23)
+dep(want-27, if-24)
+nsubj(want-27, I-25)
+advmod(want-27, really-26)
+ccomp(change-22, want-27)
+prep(want-27, to-28)
+
+=========
+
+mark(use-4, Since-1)
+nsubj(use-4, I-2)
+neg(use-4, never-3)
+advcl(access-19, use-4)
+dobj(use-4, any-5)
+det(apps-8, the-7)
+prep_of(any-5, apps-8)
+amod(apps-8, other-9)
+prep_than(apps-8, Netflix-11)
+nsubj(access-19, it-13)
+cop(access-19, is-14)
+neg(access-19, not-15)
+det(access-19, a-16)
+nn(access-19, screen-17)
+nn(access-19, I-18)
+root(ROOT-0, access-19)
+advmod(access-19, often-20)
+
+=========
+
+nsubj(nice-4, Wi-fi-1)
+cop(nice-4, is-2)
+advmod(nice-4, really-3)
+root(ROOT-0, nice-4)
+dep(Roku-8, no-6)
+advmod(Roku-8, more-7)
+dep(nice-4, Roku-8)
+dep(nice-4, box-9)
+
+=========
+
+nsubj(good-3, Sound-1)
+cop(good-3, is-2)
+root(ROOT-0, good-3)
+
+=========
+
+nsubj(easy-3, Menus-1)
+cop(easy-3, are-2)
+root(ROOT-0, easy-3)
+aux(understand-5, to-4)
+xcomp(easy-3, understand-5)
+nsubj(easy-9, settings-7)
+cop(easy-9, are-8)
+conj_and(easy-3, easy-9)
+aux(adjust-11, to-10)
+xcomp(easy-9, adjust-11)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(value-7, it-3)
+cop(value-7, is-4)
+det(value-7, a-5)
+amod(value-7, great-6)
+ccomp(think-2, value-7)
+det(price-10, the-9)
+prep_for(value-7, price-10)
+

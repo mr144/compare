@@ -1,0 +1,5 @@
+Nikon_NNP D7100_NNP has_VBZ the_DT best_JJS image_NN ._.
+Nikon_NNP D7100_NNP is_VBZ the_DT best_JJS shot_NN ._.
+Nikon_NNP D7100_NNP has_VBZ the_DT best_JJS quality_NN ._.
+Nikon_NNP D7100_NNP is_VBZ the_DT best_JJS camera_NN ._.
+It_PRP is_VBZ better_JJR than_IN Canon_NNP ,_, Fujifilm_NNP ,_, GE_NNP ,_, Kodak_NNP ,_, Olympus_NNP ,_, Panasonic_NNP ,_, Pentax_NNP or_CC Sony_NNP ._.

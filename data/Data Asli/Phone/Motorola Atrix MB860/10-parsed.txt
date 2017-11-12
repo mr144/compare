@@ -1,0 +1,27 @@
+=========
+
+nsubj(satisfied-4, I-1)
+cop(satisfied-4, am-2)
+advmod(satisfied-4, very-3)
+root(ROOT-0, satisfied-4)
+det(product-7, the-6)
+prep_with(satisfied-4, product-7)
+ccomp(satisfied-4, is-9)
+dobj(needed-12, what-10)
+nsubj(needed-12, I-11)
+ccomp(is-9, needed-12)
+nsubj(good-16, performance-14)
+cop(good-16, is-15)
+conj_and(satisfied-4, good-16)
+
+=========
+
+root(ROOT-0, recommended-1)
+poss(acquisition-3, its-2)
+dobj(recommended-1, acquisition-3)
+
+=========
+
+dep(ok-2, is-1)
+root(ROOT-0, ok-2)
+

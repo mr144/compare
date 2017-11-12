@@ -1,0 +1,41 @@
+=========
+
+amod(box-2, Phone-1)
+nsubj(look-5, box-2)
+aux(look-5, did-3)
+neg(look-5, not-4)
+root(ROOT-0, look-5)
+dobj(look-5, new-6)
+
+=========
+
+dep(sealed-3, Definitely-1)
+neg(sealed-3, not-2)
+root(ROOT-0, sealed-3)
+
+=========
+
+nsubjpass(sealed-4, Battery-1)
+auxpass(sealed-4, was-2)
+neg(sealed-4, not-3)
+root(ROOT-0, sealed-4)
+advmod(!!!-7, well-6)
+prepc_as(sealed-4, !!!-7)
+det(phone-9, The-8)
+dobj(!!!-7, phone-9)
+nsubj(OK-12, itself-10)
+cop(OK-12, is-11)
+rcmod(phone-9, OK-12)
+nsubj(reason-18, that-15)
+cop(reason-18, 's-16)
+det(reason-18, the-17)
+conj_and(sealed-4, reason-18)
+nsubj(give-22, I-19)
+aux(give-22, did-20)
+neg(give-22, not-21)
+rcmod(reason-18, give-22)
+iobj(give-22, it-23)
+det(rating-26, a-24)
+amod(rating-26, 1-star-25)
+dobj(give-22, rating-26)
+

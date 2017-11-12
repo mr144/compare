@@ -1,0 +1,47 @@
+=========
+
+nsubj(THIS-2, GOT-1)
+root(ROOT-0, THIS-2)
+nn(WIFE-5, MY-4)
+prep_for(THIS-2, WIFE-5)
+prep_for(WIFE-5, CHRISTMAS-7)
+
+=========
+
+nn(ONE-3, SHE-1)
+nn(ONE-3, WANTED-2)
+nsubj(LIKE-4, ONE-3)
+root(ROOT-0, LIKE-4)
+nn(MOMS-6, HER-5)
+nsubj(PRICE-18, MOMS-6)
+nn(GOT-9, I-8)
+conj_and(MOMS-6, GOT-9)
+nsubj(PRICE-18, GOT-9)
+det(PRICE-18, THE-10)
+nn(PRICE-18, EXACT-11)
+nn(PRICE-18, SAME-12)
+nn(PRICE-18, ONE-13)
+nn(PRICE-18, AT-14)
+nn(PRICE-18, LITERALLY-15)
+nn(PRICE-18, HALF-16)
+nn(PRICE-18, THE-17)
+xcomp(LIKE-4, PRICE-18)
+
+=========
+
+nsubj(FATHER-5, I-1)
+cop(FATHER-5, WAS-2)
+nn(FATHER-5, HAPPY-3)
+nn(FATHER-5, MY-4)
+dep(WAS-8, FATHER-5)
+prep_in(FATHER-5, LAW-7)
+root(ROOT-0, WAS-8)
+nn(RETAIL-16, NOT-9)
+nn(RETAIL-16, HE-10)
+nn(RETAIL-16, BOUGHT-11)
+nn(RETAIL-16, HER-12)
+nn(RETAIL-16, MOMS-13)
+nn(RETAIL-16, AT-14)
+nn(RETAIL-16, FULL-15)
+nsubj(WAS-8, RETAIL-16)
+

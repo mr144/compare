@@ -1,0 +1,71 @@
+=========
+
+nsubj(purchase-2, Excellent-1)
+root(ROOT-0, purchase-2)
+
+=========
+
+det(LCD-2, This-1)
+nsubj(replacement-5, LCD-2)
+cop(replacement-5, was-3)
+det(replacement-5, a-4)
+root(ROOT-0, replacement-5)
+det(LCD-10, a-7)
+num(LCD-10, 40-8)
+prep_for(replacement-5, LCD-10)
+complm(moved-13, that-11)
+nsubj(moved-13, I-12)
+ccomp(replacement-5, moved-13)
+det(room-16, another-15)
+prep_to(moved-13, room-16)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(excellent-5, quality-3)
+cop(excellent-5, was-4)
+root(ROOT-0, excellent-5)
+expl(are-8, there-7)
+conj_and(excellent-5, are-8)
+nsubj(are-8, plenty-9)
+amod(options-12, input\/output-11)
+prep_of(plenty-9, options-12)
+aux(satisfy-14, to-13)
+infmod(plenty-9, satisfy-14)
+dobj(satisfy-14, all-15)
+poss(needs-18, my-17)
+prep_of(all-15, needs-18)
+
+=========
+
+nsubj(arrived-2, Product-1)
+root(ROOT-0, arrived-2)
+dep(arrived-2, on-time-3)
+dep(arrived-2, in-5)
+conj_and(on-time-3, in-5)
+amod(shape-7, perfect-6)
+pobj(in-5, shape-7)
+
+=========
+
+nsubj(easy-7, Tracking-1)
+nsubj(helpful-9, Tracking-1)
+nn(status-4, shipping-3)
+prep_of(Tracking-1, status-4)
+cop(easy-7, was-5)
+advmod(easy-7, very-6)
+root(ROOT-0, easy-7)
+conj_and(easy-7, helpful-9)
+nsubj(worked-12, UPS-11)
+parataxis(easy-7, worked-12)
+poss(schedule-15, my-14)
+prep_around(worked-12, schedule-15)
+det(delivery-18, the-17)
+prep_for(schedule-15, delivery-18)
+mark(required-21, because-19)
+nsubj(required-21, it-20)
+advcl(worked-12, required-21)
+det(signature-23, a-22)
+dobj(required-21, signature-23)
+

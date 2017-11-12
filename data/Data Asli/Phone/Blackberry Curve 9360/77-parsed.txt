@@ -1,0 +1,107 @@
+=========
+
+nn(AFTERNOON-2, GOOD-1)
+root(ROOT-0, AFTERNOON-2)
+appos(AFTERNOON-2, GREETINGS-4)
+
+=========
+
+nsubj(HAVE-2, I-1)
+root(ROOT-0, HAVE-2)
+det(CONSULTATION-4, A-3)
+nsubj(YOU-6, CONSULTATION-4)
+aux(YOU-6, TO-5)
+ccomp(HAVE-2, YOU-6)
+xcomp(HAVE-2, YOU-6)
+
+=========
+
+nn(CARACAS-4, WRITE-1)
+dep(CARACAS-4, YOU-2)
+nn(CARACAS-4, FROM-3)
+root(ROOT-0, CARACAS-4)
+appos(CARACAS-4, VENEZUELA-6)
+
+=========
+
+nsubj(PURCHASE-3, I-1)
+aux(PURCHASE-3, WILL-2)
+root(ROOT-0, PURCHASE-3)
+det(9360-10, A-5)
+nn(9360-10, MODEL-6)
+nn(9360-10, BLACKBERRY-7)
+nn(9360-10, MOBILE-8)
+nn(9360-10, PHONE-9)
+prep_of(PURCHASE-3, 9360-10)
+
+=========
+
+nn(TO-3, ORDER-2)
+prep_in(USE-4, TO-3)
+root(ROOT-0, USE-4)
+det(SERVICES-6, THE-5)
+dobj(USE-4, SERVICES-6)
+det(ME-15, THE-8)
+nn(ME-15, BANDS-9)
+num(ME-15, 3G-10)
+nn(ME-15, MOBILE-11)
+nn(ME-15, OPERATOR-12)
+nn(ME-15, MY-13)
+nn(ME-15, CALLS-14)
+prep_of(SERVICES-6, ME-15)
+det(BANDS-17, THE-16)
+nsubj(USE-4, BANDS-17)
+num(BANDS-17, 1.2,5-18)
+nsubj(USE-4, 6-20)
+conj_and(BANDS-17, 6-20)
+nn(MOVISTAR-25, PARA-22)
+nn(MOVISTAR-25, MOVILNET-23)
+nn(MOVISTAR-25, Y-24)
+abbrev(BANDS-17, MOVISTAR-25)
+
+=========
+
+nsubj(AVAILABLE-3, CONSULTATION-1)
+cop(AVAILABLE-3, IS-2)
+root(ROOT-0, AVAILABLE-3)
+mark(HAVE-6, IF-4)
+nsubj(HAVE-6, YOU-5)
+ccomp(AVAILABLE-3, HAVE-6)
+nn(MODEL-10, SALE-8)
+nn(MODEL-10, PHONE-9)
+prep_for(HAVE-6, MODEL-10)
+nn(DISCHARGED-16, THOSE-12)
+nn(DISCHARGED-16, INDICATED-13)
+nn(DISCHARGED-16, THAT-14)
+nn(DISCHARGED-16, BAND-15)
+prep_with(HAVE-6, DISCHARGED-16)
+
+=========
+
+nn(TO-8, THANK-1)
+nn(TO-8, YOUR-2)
+nn(TO-8, ANSWER-3)
+nn(TO-8, AS-4)
+nn(TO-8, SOON-5)
+nn(TO-8, AS-6)
+nn(TO-8, POSSIBLE-7)
+nsubj(PROCESS-9, TO-8)
+root(ROOT-0, PROCESS-9)
+nn(PURCHASE-11, THE-10)
+nsubj(QUALIFY-16, PURCHASE-11)
+nn(IT-14, POSITIVELY-13)
+conj_and(PURCHASE-11, IT-14)
+nsubj(QUALIFY-16, IT-14)
+aux(QUALIFY-16, TO-15)
+xcomp(PROCESS-9, QUALIFY-16)
+
+=========
+
+nn(VENEZUELA-3, GREETINGS-1)
+nn(VENEZUELA-3, FROM-2)
+root(ROOT-0, VENEZUELA-3)
+
+=========
+
+root(ROOT-0, THANKS-1)
+

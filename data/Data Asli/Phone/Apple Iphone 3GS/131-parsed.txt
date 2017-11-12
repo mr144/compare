@@ -1,0 +1,40 @@
+=========
+
+root(ROOT-0, Love-1)
+det(phone-3, this-2)
+dobj(Love-1, phone-3)
+poss(Iphone-8, my-6)
+amod(Iphone-8, first-7)
+prep_as(tool-13, Iphone-8)
+nsubj(tool-13, it-9)
+cop(tool-13, is-10)
+det(tool-13, a-11)
+amod(tool-13, great-12)
+conj_and(Love-1, tool-13)
+
+=========
+
+cc(downlaod-4, But-1)
+aux(downlaod-4, would-2)
+neg(downlaod-4, not-3)
+root(ROOT-0, downlaod-4)
+dobj(downlaod-4, Skype-5)
+nn(Apps-9, Faebook-7)
+nn(Apps-9, etc-8)
+appos(Skype-5, Apps-9)
+nsubj(disappointing-13, Apps-9)
+cop(disappointing-13, was-11)
+advmod(disappointing-13, very-12)
+rcmod(Apps-9, disappointing-13)
+
+=========
+
+cc(inspired-2, But-1)
+root(ROOT-0, inspired-2)
+nsubj(try-5, me-3)
+aux(try-5, to-4)
+xcomp(inspired-2, try-5)
+det(4S-7, the-6)
+dobj(try-5, 4S-7)
+advmod(try-5, instead-8)
+

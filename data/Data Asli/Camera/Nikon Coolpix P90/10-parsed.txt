@@ -1,0 +1,73 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, an-3)
+amod(camera-5, awesome-4)
+root(ROOT-0, camera-5)
+
+=========
+
+nsubj(complain-3, People-1)
+nsubj(look-11, People-1)
+nsubj(see-14, People-1)
+rcmod(People-1, complain-3)
+complm(SLR-9, that-4)
+nsubj(SLR-9, it-5)
+cop(SLR-9, is-6)
+neg(SLR-9, not-7)
+det(SLR-9, a-8)
+ccomp(complain-3, SLR-9)
+aux(look-11, should-10)
+root(ROOT-0, look-11)
+acomp(look-11, hard-12)
+conj_and(look-11, see-14)
+nsubj(SLR-20, IT-15)
+nn(SLR-20, NEVER-16)
+nn(SLR-20, SAYS-17)
+nn(SLR-20, ITS-18)
+nn(SLR-20, AN-19)
+xcomp(see-14, SLR-20)
+
+=========
+
+prep(camera-9, Given-1)
+dep(Given-1, this-2)
+nsubj(camera-9, it-3)
+advmod(camera-9, still-4)
+cop(camera-9, is-5)
+det(camera-9, a-6)
+advmod(amazing-8, pretty-7)
+amod(camera-9, amazing-8)
+root(ROOT-0, camera-9)
+
+=========
+
+nsubj(got-2, I-1)
+nsubj(love-11, I-1)
+root(ROOT-0, got-2)
+dobj(got-2, it-3)
+prep_for(got-2, $-5)
+num($-5, 99.00-6)
+prep_at(got-2, Target-8)
+advmod(love-11, absolutely-10)
+conj_and(got-2, love-11)
+det(camera-13, this-12)
+dobj(love-11, camera-13)
+
+=========
+
+det(thing-3, No-1)
+amod(thing-3, such-2)
+root(ROOT-0, thing-3)
+det(picture-7, a-5)
+amod(picture-7, bad-6)
+prep_as(thing-3, picture-7)
+det(camera-10, this-9)
+prep_with(thing-3, camera-10)
+
+=========
+
+amod(camera-2, Awesome-1)
+root(ROOT-0, camera-2)
+

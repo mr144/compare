@@ -1,0 +1,2 @@
+the_DT phone_NN is_VBZ very_RB beautiful_JJ ,_, i_FW like_IN it_PRP very_RB much_RB ._.
+i_FW use_VBP it_PRP for_IN few_JJ days_NNS ,_, so_RB i_FW have_VBP no_DT idea_NN about_IN the_DT quality_NN ,_, hope_VBP it_PRP will_MD not_RB let_VB me_PRP down_RP

@@ -1,0 +1,66 @@
+=========
+
+det(product-2, This-1)
+nsubj(surprised-3, product-2)
+root(ROOT-0, surprised-3)
+iobj(surprised-3, me-4)
+det(lot-6, a-5)
+dobj(surprised-3, lot-6)
+
+=========
+
+nsubj(camera-6, It-1)
+cop(camera-6, is-2)
+neg(camera-6, not-3)
+det(camera-6, a-4)
+amod(camera-6, compactible-5)
+root(ROOT-0, camera-6)
+dep(do-12, it-9)
+nsubj(do-12, it-10)
+advmod(do-12, easy-11)
+conj_but(camera-6, do-12)
+dobj(do-12, use-13)
+det(lot-16, a-15)
+prep_with(do-12, lot-16)
+prep_of(lot-16, functions-18)
+
+=========
+
+det(price-2, The-1)
+nsubj(good-4, price-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+
+=========
+
+nsubj(looking-3, I-1)
+aux(looking-3, was-2)
+root(ROOT-0, looking-3)
+det(camera-6, a-5)
+prep_for(looking-3, camera-6)
+nsubj(expensive-20, camera-6)
+det(camera-12, the-8)
+amod(camera-12, regular-9)
+amod(camera-12, commercial-10)
+amod(camera-12, amateur-11)
+prep_between(camera-6, camera-12)
+det(one-16, the-14)
+amod(one-16, professional-15)
+prep_between(camera-6, one-16)
+conj_and(camera-12, one-16)
+cop(expensive-20, is-18)
+advmod(expensive-20, too-19)
+rcmod(camera-6, expensive-20)
+
+=========
+
+nsubj(found-2, I-1)
+root(ROOT-0, found-2)
+det(one-4, this-3)
+nsubj(happy-9, one-4)
+conj_and(one-4, i-6)
+nsubj(happy-9, i-6)
+cop(happy-9, am-7)
+advmod(happy-9, very-8)
+ccomp(found-2, happy-9)
+

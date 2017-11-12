@@ -1,0 +1,74 @@
+=========
+
+nsubj(replacement-4, This-1)
+cop(replacement-4, was-2)
+det(replacement-4, a-3)
+root(ROOT-0, replacement-4)
+poss(wife-7, my-6)
+poss(camera-12, wife-7)
+amod(camera-12, older-9)
+nn(camera-12, Kodak-10)
+amod(camera-12, digital-11)
+prep_for(replacement-4, camera-12)
+
+=========
+
+nsubj(enjoys-3, She-1)
+advmod(enjoys-3, really-2)
+root(ROOT-0, enjoys-3)
+det(one-5, this-4)
+dobj(enjoys-3, one-5)
+
+=========
+
+nsubj(takes-2, She-1)
+root(ROOT-0, takes-2)
+det(lot-4, a-3)
+dobj(takes-2, lot-4)
+amod(pictures-7, outdoor-6)
+prep_of(lot-4, pictures-7)
+det(wildlife-10, the-9)
+prep_of(pictures-7, wildlife-10)
+nsubj(hangs-12, wildlife-10)
+rcmod(wildlife-10, hangs-12)
+det(pond-15, the-14)
+prep_around(hangs-12, pond-15)
+poss(apartment-20, our-19)
+prep_in_front_of(pond-15, apartment-20)
+
+=========
+
+det(pictures-2, The-1)
+nsubj(crisp-5, pictures-2)
+nsubj(clear-7, pictures-2)
+cop(crisp-5, are-3)
+advmod(crisp-5, very-4)
+root(ROOT-0, crisp-5)
+conj_and(crisp-5, clear-7)
+
+=========
+
+nsubj(taken-3, It-1)
+aux(taken-3, has-2)
+root(ROOT-0, taken-3)
+dobj(taken-3, her-4)
+iobj(taken-3, her-4)
+det(bit-6, a-5)
+dobj(taken-3, bit-6)
+dep(her-4, bit-6)
+aux(used-9, to-7)
+auxpass(used-9, get-8)
+xcomp(taken-3, used-9)
+det(system-14, the-11)
+amod(system-14, new-12)
+nn(system-14, menu-13)
+prep_to(used-9, system-14)
+det(camera-17, this-16)
+prep_on(system-14, camera-17)
+advmod(taken-3, now-19)
+conj_but(taken-3, now-19)
+nsubj(loves-21, she-20)
+ccomp(taken-3, loves-21)
+conj_but(taken-3, loves-21)
+dobj(loves-21, it-22)
+

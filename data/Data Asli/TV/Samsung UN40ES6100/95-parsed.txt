@@ -1,0 +1,136 @@
+=========
+
+det(tv-2, This-1)
+nsubj(great-4, tv-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+advmod(viewing-6, when-5)
+advcl(great-4, viewing-6)
+nsubj(content-8, HD-7)
+xcomp(viewing-6, content-8)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(set-5, to-4)
+xcomp(easy-3, set-5)
+prt(set-5, up-6)
+det(function-13, the-8)
+num(function-13, &#34;-9)
+num(function-13, Smart-10)
+nn(function-13, Hub-11)
+num(function-13, &#34;-12)
+nsubj(is-14, function-13)
+conj_and(easy-3, is-14)
+advmod(thought-16, well-15)
+dep(is-14, thought-16)
+prt(thought-16, out-17)
+dep(is-14, easy-19)
+conj_and(thought-16, easy-19)
+aux(navigate-21, to-20)
+xcomp(easy-19, navigate-21)
+
+=========
+
+csubj(plus-9, Having-1)
+det(keyboard-4, a-2)
+amod(keyboard-4, full-3)
+dobj(Having-1, keyboard-4)
+aux(plus-9, would-5)
+aux(plus-9, have-6)
+cop(plus-9, been-7)
+det(plus-9, a-8)
+root(ROOT-0, plus-9)
+
+=========
+
+det(side-5, The-1)
+num(side-5, one-2)
+amod(side-5, major-3)
+nn(side-5, down-4)
+nsubj(is-6, side-5)
+root(ROOT-0, is-6)
+complm(poor-13, that-7)
+amod(channels-11, viewing-8)
+nn(channels-11, non-9)
+nn(channels-11, HD-10)
+nsubj(poor-13, channels-11)
+cop(poor-13, is-12)
+ccomp(is-6, poor-13)
+
+=========
+
+det(picture-2, The-1)
+nsubj(blurred-4, picture-2)
+cop(blurred-4, is-3)
+root(ROOT-0, blurred-4)
+
+=========
+
+nsubj(tried-2, I-1)
+xsubj(change-4, I-1)
+root(ROOT-0, tried-2)
+aux(change-4, to-3)
+xcomp(tried-2, change-4)
+det(setting-6, the-5)
+dobj(change-4, setting-6)
+nsubj(helped-11, that-8)
+aux(helped-11, has-9)
+neg(helped-11, not-10)
+conj_but(tried-2, helped-11)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(compaison-4, no-3)
+nsubj(is-2, compaison-4)
+poss(Quattron-10, my-6)
+amod(Quattron-10, 46-7)
+nn(Quattron-10, inch-8)
+nn(Quattron-10, Sharp-9)
+prep_to(compaison-4, Quattron-10)
+
+=========
+
+det(picture-2, The-1)
+nsubj(awesome-7, picture-2)
+det(tv-5, this-4)
+prep_on(picture-2, tv-5)
+cop(awesome-7, is-6)
+root(ROOT-0, awesome-7)
+
+=========
+
+amod(line-2, Bottom-1)
+nsubj(keep-32, line-2)
+mark(choice-17, if-4)
+csubj(choice-17, using-5)
+det(tv-7, this-6)
+dobj(using-5, tv-7)
+prep_for(tv-7, HD-9)
+partmod(HD-9, viewing-10)
+advmod(viewing-10, then-11)
+dobj(viewing-10, it-12)
+cop(choice-17, is-13)
+neg(choice-17, not-14)
+det(choice-17, a-15)
+amod(choice-17, bad-16)
+dep(line-2, choice-17)
+mark(want-21, if-19)
+nsubj(want-21, you-20)
+xsubj(watch-23, you-20)
+advcl(choice-17, want-21)
+aux(watch-23, to-22)
+xcomp(want-21, watch-23)
+det(mix-25, a-24)
+dobj(watch-23, mix-25)
+prep_of(mix-25, HD-27)
+amod(definition-30, regular-29)
+prep_of(mix-25, definition-30)
+conj_and(HD-27, definition-30)
+root(ROOT-0, keep-32)
+xcomp(keep-32, looking-33)
+

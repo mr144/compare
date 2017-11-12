@@ -1,0 +1,3 @@
+This_DT is_VBZ a_DT unlocked_VBN cell_NN phone_NN ,_, work_NN with_IN any_DT gsm_NN carrier_NN ._.
+So_RB far_RB so_RB good_JJ ._.
+I_PRP think_VBP this_DT the_DT best_JJS Blackberry_NN model_NN ._.

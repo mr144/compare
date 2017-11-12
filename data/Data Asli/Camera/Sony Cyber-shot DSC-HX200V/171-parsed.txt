@@ -1,0 +1,35 @@
+=========
+
+advmod(easy-2, Very-1)
+root(ROOT-0, easy-2)
+aux(use-4, to-3)
+dep(easy-2, use-4)
+dep(easy-2, takes-6)
+conj_and(use-4, takes-6)
+amod(pictures-8, beautiful-7)
+dobj(takes-6, pictures-8)
+
+=========
+
+advmod(neat-2, Really-1)
+root(ROOT-0, neat-2)
+dep(neat-2, features-3)
+det(point-6, a-5)
+prep_for(features-3, point-6)
+prep_for(features-3, shoot-8)
+conj_and(point-6, shoot-8)
+
+=========
+
+nsubj(know-2, I-1)
+root(ROOT-0, know-2)
+num(families-5, two-3)
+amod(families-5, other-4)
+dobj(know-2, families-5)
+det(camera-9, this-7)
+amod(camera-9, same-8)
+prep_with(know-2, camera-9)
+advmod(well-11, as-10)
+mwe(well-11, as-10)
+advmod(know-2, well-11)
+

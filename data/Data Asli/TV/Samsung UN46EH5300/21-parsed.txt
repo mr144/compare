@@ -1,0 +1,33 @@
+=========
+
+advmod(put-2, Simply-1)
+dep(AWESOME-7, put-2)
+det(TV-5, this-4)
+nsubj(AWESOME-7, TV-5)
+cop(AWESOME-7, is-6)
+root(ROOT-0, AWESOME-7)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+nsubj(stand-11, thing-3)
+nsubj(wish-5, I-4)
+rcmod(thing-3, wish-5)
+auxpass(had-7, is-6)
+ccomp(wish-5, had-7)
+cop(stand-11, is-8)
+det(stand-11, a-9)
+amod(stand-11, swivel-10)
+root(ROOT-0, stand-11)
+complm(used-17, that-12)
+det(TV-15, the-13)
+nn(TV-15, Samsung-14)
+nsubjpass(used-17, TV-15)
+xsubj(come-19, TV-15)
+auxpass(used-17, 's-16)
+ccomp(stand-11, used-17)
+aux(come-19, to-18)
+xcomp(used-17, come-19)
+prep(come-19, with-20)
+

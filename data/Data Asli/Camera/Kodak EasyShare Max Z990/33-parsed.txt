@@ -1,0 +1,31 @@
+=========
+
+nsubj(like-7, Love-1)
+det(camera-3, the-2)
+npadvmod(but-4, camera-3)
+advmod(like-7, but-4)
+aux(like-7, do-5)
+neg(like-7, not-6)
+root(ROOT-0, like-7)
+det(fact-9, that-8)
+dobj(like-7, fact-9)
+complm(slow-13, that-10)
+nsubj(slow-13, it-11)
+cop(slow-13, is-12)
+ccomp(like-7, slow-13)
+
+=========
+
+nsubj(have-3, Would-1)
+advmod(have-3, rather-2)
+root(ROOT-0, have-3)
+det(camera-5, a-4)
+dobj(have-3, camera-5)
+advmod(keep-9, where-6)
+nsubj(keep-9, you-7)
+aux(keep-9, can-8)
+rcmod(camera-5, keep-9)
+xcomp(keep-9, taking-10)
+dobj(taking-10, pictures-11)
+prepc_without(taking-10, waiting-13)
+

@@ -1,0 +1,4 @@
+I_PRP order_VBP this_DT phone_NN for_IN my_PRP$ son_NN ,_, he_PRP want_VBP use_NN nothing_NN but_CC ._.
+A_DT Nokia_NNP ._.
+He_PRP ,_, s_VBZ very_RB happy_JJ with_IN the_DT graphics_NNS and_CC the_DT specifics_NNS of_IN the_DT phone_NN ._.
+I_PRP have_VBP not_RB heard_VBN anything_NN bad_RB yet_RB

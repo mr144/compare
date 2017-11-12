@@ -1,0 +1,23 @@
+=========
+
+nsubj(have-2, i-1)
+root(ROOT-0, have-2)
+det(complaint-4, no-3)
+dobj(have-2, complaint-4)
+det(tv-7, this-6)
+prep_for(complaint-4, tv-7)
+nsubj(failed-12, it-9)
+aux(failed-12, has-10)
+neg(failed-12, not-11)
+conj_and(have-2, failed-12)
+det(picture-15, the-14)
+nsubj(great-17, picture-15)
+cop(great-17, is-16)
+conj_and(have-2, great-17)
+det(audio-20, the-19)
+nsubj(good-23, audio-20)
+cop(good-23, is-21)
+advmod(good-23, very-22)
+conj_and(have-2, good-23)
+conj_and(great-17, good-23)
+

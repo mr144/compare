@@ -1,0 +1,52 @@
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+root(ROOT-0, TV-5)
+
+=========
+
+dobj(able-5, Everything-1)
+nsubj(exceeded-13, Everything-1)
+nsubj(able-5, I-2)
+aux(able-5, have-3)
+cop(able-5, been-4)
+rcmod(Everything-1, able-5)
+aux(do-7, to-6)
+xcomp(able-5, do-7)
+prep_with(do-7, it-9)
+advmod(far-11, so-10)
+advmod(exceeded-13, far-11)
+aux(exceeded-13, has-12)
+root(ROOT-0, exceeded-13)
+poss(expectations-15, my-14)
+dobj(exceeded-13, expectations-15)
+
+=========
+
+nsubj(figureded-5, I-1)
+aux(figureded-5, have-2)
+neg(figureded-5, not-3)
+advmod(figureded-5, yet-4)
+root(ROOT-0, figureded-5)
+prt(figureded-5, out-6)
+predet(things-9, all-7)
+det(things-9, the-8)
+dobj(figureded-5, things-9)
+dobj(do-12, things-9)
+nsubj(do-12, you-10)
+aux(do-12, can-11)
+rcmod(things-9, do-12)
+prep_with(do-12, it-14)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+advmod(possibilities-6, almost-3)
+advmod(possibilities-6, too-4)
+amod(possibilities-6, many-5)
+nsubj(are-2, possibilities-6)
+

@@ -1,0 +1,303 @@
+=========
+
+nsubj(ordered-2, I-1)
+root(ROOT-0, ordered-2)
+poss(BB-4, my-3)
+dobj(ordered-2, BB-4)
+prep_on(ordered-2, Christmas-6)
+tmod(ordered-2, night-7)
+
+=========
+
+det(Christmas-3, the-2)
+poss(holidays-8, Christmas-3)
+nn(Year-6, New-5)
+conj_and(Christmas-3, Year-6)
+poss(holidays-8, Year-6)
+prep_through(came-13, holidays-8)
+det(order-11, the-10)
+nsubj(came-13, order-11)
+advmod(came-13, still-12)
+root(ROOT-0, came-13)
+prep_on(came-13, time-15)
+
+=========
+
+root(ROOT-0, Amazing-1)
+
+=========
+
+nsubj(missing-3, Nothing-1)
+cop(missing-3, was-2)
+root(ROOT-0, missing-3)
+
+=========
+
+nsubj(working-3, Everything-1)
+aux(working-3, was-2)
+root(ROOT-0, working-3)
+advmod(working-3, perfectly-4)
+
+=========
+
+advmod(gift-7, Unfortunately-1)
+det(phone-4, this-3)
+nsubj(gift-7, phone-4)
+cop(gift-7, is-5)
+det(gift-7, a-6)
+root(ROOT-0, gift-7)
+neg(gift-7, not-9)
+conj_and(gift-7, for-10)
+prep_for(gift-7, myself-11)
+advmod(wish-15, now-13)
+nsubj(wish-15, I-14)
+xsubj(keep-17, I-14)
+parataxis(gift-7, wish-15)
+aux(keep-17, to-16)
+xcomp(wish-15, keep-17)
+dobj(keep-17, it-18)
+
+=========
+
+det(phone-2, This-1)
+nsubj(has-3, phone-2)
+root(ROOT-0, has-3)
+advmod(everything-5, absolutely-4)
+dobj(has-3, everything-5)
+
+=========
+
+nsubj(better-3, It-1)
+cop(better-3, 's-2)
+root(ROOT-0, better-3)
+det(iphone-6, an-5)
+prep_than(better-3, iphone-6)
+
+=========
+
+nsubj(looks-2, It-1)
+root(ROOT-0, looks-2)
+advmod(professional-4, so-3)
+dobj(looks-2, professional-4)
+dobj(looks-2, sleek-6)
+conj_and(professional-4, sleek-6)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+nsubj(is-4, thing-3)
+root(ROOT-0, is-4)
+det(charger-7, the-6)
+nsubj(fit-14, charger-7)
+det(plug-11, the-9)
+nn(plug-11, charger-10)
+dep(charger-7, plug-11)
+aux(fit-14, does-12)
+neg(fit-14, not-13)
+parataxis(is-4, fit-14)
+poss(outlets-17, my-16)
+prep_into(fit-14, outlets-17)
+poss(walls-20, my-19)
+prep_in(fit-14, walls-20)
+
+=========
+
+det(deal-3, No-1)
+amod(deal-3, big-2)
+nsubjpass(designed-8, deal-3)
+xsubj(fit-10, deal-3)
+det(charger-6, the-5)
+appos(deal-3, charger-6)
+auxpass(designed-8, is-7)
+root(ROOT-0, designed-8)
+aux(fit-10, to-9)
+xcomp(designed-8, fit-10)
+det(outlet-13, a-11)
+amod(outlet-13, European-12)
+dobj(fit-10, outlet-13)
+dobj(fit-10, not-15)
+conj_and(outlet-13, not-15)
+neg(outlet-13, not-15)
+det(outlet-18, an-16)
+amod(outlet-18, American-17)
+dep(outlet-13, outlet-18)
+
+=========
+
+cc(fix-5, But-1)
+nsubj(fix-5, I-2)
+aux(fix-5, can-3)
+advmod(fix-5, easily-4)
+root(ROOT-0, fix-5)
+dobj(fix-5, this-6)
+mark(connected-16, because-7)
+det(wire-10, the-8)
+nn(wire-10, charger-9)
+nsubj(connected-16, wire-10)
+nn(hookup-13, charger-12)
+conj_and(wire-10, hookup-13)
+nsubj(connected-16, hookup-13)
+cop(connected-16, is-14)
+neg(connected-16, not-15)
+advcl(fix-5, connected-16)
+mark(buy-22, so-18)
+nsubj(buy-22, I-19)
+aux(buy-22, can-20)
+advmod(buy-22, simply-21)
+advcl(connected-16, buy-22)
+dobj(buy-22, one-23)
+aux(fit-25, to-24)
+xcomp(buy-22, fit-25)
+det(outlet-29, a-26)
+amod(outlet-29, regular-27)
+amod(outlet-29, American-28)
+dobj(fit-25, outlet-29)
+advmod(fit-25, instead-30)
+
+=========
+
+root(ROOT-0, Not-1)
+det(problem-3, a-2)
+dep(Not-1, problem-3)
+prep_at(problem-3, all-5)
+
+=========
+
+prep_in(makes-5, fact-2)
+nsubj(makes-5, this-4)
+root(ROOT-0, makes-5)
+det(phone-7, this-6)
+nsubj(fit-8, phone-7)
+ccomp(makes-5, fit-8)
+det(plug-10, any-9)
+dobj(fit-8, plug-10)
+det(wire-13, the-12)
+prep_because(fit-8, wire-13)
+nsubj(connects-15, wire-13)
+rcmod(wire-13, connects-15)
+det(phone-17, the-16)
+nsubj(is-18, phone-17)
+ccomp(connects-15, is-18)
+prep_by(is-18, itself-20)
+parataxis(makes-5, giving-22)
+xcomp(makes-5, giving-22)
+complm(has-26, that-23)
+det(wire-25, the-24)
+nsubj(has-26, wire-25)
+ccomp(giving-22, has-26)
+det(ability-28, the-27)
+dobj(has-26, ability-28)
+aux(have-30, to-29)
+infmod(ability-28, have-30)
+amod(connections-35, different-31)
+nn(connections-35, type-32)
+nn(connections-35, charger-33)
+nn(connections-35, plug-34)
+dobj(have-30, connections-35)
+det(end-39, the-37)
+amod(end-39, other-38)
+prep_on(connections-35, end-39)
+det(wire-42, the-41)
+prep_of(end-39, wire-42)
+dep(connections-35, opposite-44)
+prep_of(opposite-44, wire-46)
+partmod(wire-46, connecting-47)
+dobj(connecting-47, BB-48)
+prepc_depending_on(have-30, on-51)
+det(country-53, what-52)
+dep(is-56, country-53)
+det(buyer-55, a-54)
+nsubj(is-56, buyer-55)
+pcomp(have-30, is-56)
+prep(is-56, in-57)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+dobj(hope-2, this-3)
+rcmod(this-3, makes-4)
+dobj(makes-4, sense-5)
+nsubj(sure-10, I-8)
+cop(sure-10, am-9)
+parataxis(hope-2, sure-10)
+dep(sure-10, reading-11)
+det(details-13, the-12)
+nsubj(explain-19, details-13)
+det(phone-16, the-15)
+prep_of(details-13, phone-16)
+aux(explain-19, would-17)
+advmod(explain-19, also-18)
+ccomp(reading-11, explain-19)
+dobj(explain-19, it-20)
+
+=========
+
+det(phone-2, This-1)
+nsubj(small-6, phone-2)
+advmod(small-6, also-3)
+cop(small-6, is-4)
+advmod(small-6, so-5)
+root(ROOT-0, small-6)
+
+=========
+
+cc(big-6, But-1)
+det(buttons-3, the-2)
+nsubj(big-6, buttons-3)
+cop(big-6, are-4)
+advmod(big-6, still-5)
+root(ROOT-0, big-6)
+advmod(big-6, enough-7)
+aux(press-9, to-8)
+xcomp(big-6, press-9)
+
+=========
+
+nsubj(sleek-4, It-1)
+cop(sleek-4, 's-2)
+advmod(sleek-4, so-3)
+root(ROOT-0, sleek-4)
+
+=========
+
+root(ROOT-0, fits-1)
+advmod(fits-1, perfectly-2)
+det(pocket-5, the-4)
+prep_in(fits-1, pocket-5)
+advmod(put-10, anywhere-8)
+nsubj(put-10, you-9)
+conj_or(fits-1, put-10)
+dobj(put-10, it-11)
+
+=========
+
+nsubj(durable-3, It-1)
+cop(durable-3, 's-2)
+root(ROOT-0, durable-3)
+advmod(durable-3, too-4)
+nsubj(mean-10, that-7)
+aux(mean-10, does-8)
+neg(mean-10, not-9)
+conj_but(durable-3, mean-10)
+nsubj(drop-13, you-11)
+aux(drop-13, should-12)
+ccomp(mean-10, drop-13)
+dobj(drop-13, it-14)
+
+=========
+
+root(ROOT-0, Treat-1)
+dobj(Treat-1, it-2)
+prep_like(Treat-1, treasure-4)
+
+=========
+
+det(phone-2, This-1)
+nsubj(good-5, phone-2)
+cop(good-5, is-3)
+advmod(good-5, as-4)
+root(ROOT-0, good-5)
+prep_as(good-5, gold-7)
+

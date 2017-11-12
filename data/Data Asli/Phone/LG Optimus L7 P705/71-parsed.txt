@@ -1,0 +1,88 @@
+=========
+
+amod(specifications-2, Item-1)
+nsubj(wrong-4, specifications-2)
+cop(wrong-4, are-3)
+root(ROOT-0, wrong-4)
+
+=========
+
+nsubj(says-2, It-1)
+root(ROOT-0, says-2)
+amod(core-4, didual-3)
+dobj(says-2, core-4)
+nsubj(true-9, it-6)
+cop(true-9, is-7)
+neg(true-9, not-8)
+rcmod(core-4, true-9)
+
+=========
+
+det(phone-2, The-1)
+nsubj(slow-5, phone-2)
+cop(slow-5, is-3)
+advmod(slow-5, very-4)
+root(ROOT-0, slow-5)
+
+=========
+
+nsubj(download-4, It-1)
+aux(download-4, will-2)
+neg(download-4, not-3)
+ccomp(frozen-11, download-4)
+num(apps-6, two-5)
+dobj(download-4, apps-6)
+advmod(download-4, simultaneously-7)
+nsubj(frozen-11, it-9)
+dep(frozen-11, gets-10)
+root(ROOT-0, frozen-11)
+
+=========
+
+dep(matter-2, No-1)
+root(ROOT-0, matter-2)
+det(app-5, the-3)
+nn(app-5, kind-4)
+dobj(matter-2, app-5)
+
+=========
+
+nsubj(turned-2, I-1)
+root(ROOT-0, turned-2)
+dobj(turned-2, it-3)
+advmod(turned-2, back-4)
+det(day-7, a-6)
+prep_after(turned-2, day-7)
+
+=========
+
+nsubj(decided-2, I-1)
+xsubj(get-4, I-1)
+root(ROOT-0, decided-2)
+aux(get-4, to-3)
+xcomp(decided-2, get-4)
+det(Chinese-6, a-5)
+nsubj(brand-8, Chinese-6)
+det(brand-8, no-7)
+xcomp(get-4, brand-8)
+
+=========
+
+nsubj(faster-3, It-1)
+cop(faster-3, was-2)
+root(ROOT-0, faster-3)
+nsubj(broke-7, it-6)
+conj_but(faster-3, broke-7)
+num(days-10, 4-9)
+prep_after(lost-16, days-10)
+prep_of(days-10, use-12)
+det(screen-15, the-14)
+nsubj(lost-16, screen-15)
+ccomp(broke-7, lost-16)
+number(%-18, 80-17)
+amod(quality-19, %-18)
+dobj(lost-16, quality-19)
+
+=========
+
+

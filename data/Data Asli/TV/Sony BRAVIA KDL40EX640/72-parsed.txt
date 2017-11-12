@@ -1,0 +1,82 @@
+=========
+
+dep(difference-5, Wow-1)
+dep(difference-5, what-3)
+det(difference-5, a-4)
+root(ROOT-0, difference-5)
+dobj(on-9, difference-5)
+det(picture-7, the-6)
+nsubj(on-9, picture-7)
+aux(on-9, has-8)
+rcmod(difference-5, on-9)
+det(tv-11, this-10)
+pobj(on-9, tv-11)
+
+=========
+
+det(people-2, The-1)
+nsubj(walk-5, people-2)
+aux(walk-5, could-3)
+advmod(walk-5, just-4)
+root(ROOT-0, walk-5)
+advmod(walk-5, right-6)
+det(set-10, the-9)
+prep_out_of(walk-5, set-10)
+prep_at(set-10, you-12)
+
+=========
+
+nsubj(Sony-5, This-1)
+cop(Sony-5, is-2)
+poss(Sony-5, our-3)
+amod(Sony-5, third-4)
+root(ROOT-0, Sony-5)
+det(one-8, this-7)
+nsubj(LED-12, one-8)
+cop(LED-12, is-9)
+poss(LED-12, our-10)
+amod(LED-12, first-11)
+conj_and(Sony-5, LED-12)
+
+=========
+
+amod(difference-2, Big-1)
+root(ROOT-0, difference-2)
+det(LCD-5, the-4)
+prep_from(difference-2, LCD-5)
+
+=========
+
+nsubj(buy-2, Great-1)
+nsubj(set-5, Great-1)
+root(ROOT-0, buy-2)
+advmod(set-5, easy-4)
+conj_and(buy-2, set-5)
+prt(set-5, up-6)
+
+=========
+
+det(negeative-3, The-1)
+amod(negeative-3, only-2)
+nsubj(is-4, negeative-3)
+root(ROOT-0, is-4)
+nsubj(blurrs-6, it-5)
+ccomp(is-4, blurrs-6)
+det(scenes-8, some-7)
+dobj(blurrs-6, scenes-8)
+amod(motion-11, fast-10)
+prep_in(scenes-8, motion-11)
+
+=========
+
+cc(tv-11, But-1)
+prep(tv-11, not-2)
+det(scene-4, every-3)
+pobj(not-2, scene-4)
+advmod(tv-11, still-6)
+nsubj(tv-11, it-7)
+cop(tv-11, is-8)
+det(tv-11, a-9)
+amod(tv-11, great-10)
+root(ROOT-0, tv-11)
+

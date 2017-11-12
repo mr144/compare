@@ -1,0 +1,97 @@
+=========
+
+aux(worry-3, do-1)
+neg(worry-3, not-2)
+csubj(add-29, worry-3)
+det(HDMI-11, the-5)
+amod(HDMI-11, limited-6)
+amod(HDMI-11, only-8)
+num(HDMI-11, 2-9)
+prep_about(worry-3, HDMI-11)
+complm(mentioned-16, that-12)
+det(reviewers-14, some-13)
+nsubj(mentioned-16, reviewers-14)
+aux(mentioned-16, have-15)
+dep(HDMI-11, mentioned-16)
+nsubj(get-21, You-18)
+aux(get-21, can-19)
+advmod(get-21, easily-20)
+parataxis(mentioned-16, get-21)
+appos(HDMI-11, Amazon-23)
+num(stars-27, 4-25)
+nn(stars-27, +-26)
+dep(Amazon-23, stars-27)
+root(ROOT-0, add-29)
+nn(boxes-32, switch-31)
+prep_on(add-29, boxes-32)
+prep_for(boxes-32, HDMI-34)
+prep(add-29, for-35)
+pcomp(for-35, from-36)
+prep_from(for-35, $-37)
+num($-37, 10-38)
+
+=========
+
+root(ROOT-0, to-1)
+pobj(to-1, $-2)
+num($-2, 40-3)
+
+=========
+
+dep(controlled-3, for-1)
+nsubj(controlled-3, aremote-2)
+root(ROOT-0, controlled-3)
+det(lazy-8, the-6)
+amod(lazy-8, super-7)
+prep_for(controlled-3, lazy-8)
+
+=========
+
+prepc_as_for(had-14, for-2)
+poss(opinion-4, my-3)
+pobj(had-14, opinion-4)
+det(40-7, the-6)
+poss(Sony-9, 40-7)
+prep_of(opinion-4, Sony-9)
+nsubj(had-14, I-11)
+aux(had-14, have-12)
+advmod(had-14, only-13)
+root(ROOT-0, had-14)
+det(days-17, a-15)
+amod(days-17, few-16)
+tmod(had-14, days-17)
+
+=========
+
+root(ROOT-0, excellent-1)
+advmod(far-3, so-2)
+dep(excellent-1, far-3)
+
+=========
+
+mark(durable-4, if-1)
+nsubj(durable-4, it-2)
+cop(durable-4, is-3)
+advcl(satisfied-9, durable-4)
+nsubj(satisfied-9, I-6)
+cop(satisfied-9, am-7)
+advmod(satisfied-9, totally-8)
+root(ROOT-0, satisfied-9)
+det(price-13, the-12)
+prep_for(satisfied-9, price-13)
+nsubj(knew-15, I-14)
+rcmod(price-13, knew-15)
+nsubj(getting-19, I-16)
+aux(getting-19, was-17)
+neg(getting-19, not-18)
+ccomp(knew-15, getting-19)
+det(model-23, a-20)
+amod(model-23, top-21)
+nn(model-23, line-22)
+dobj(getting-19, model-23)
+predet(bells-27, all-25)
+det(bells-27, the-26)
+prep_with(getting-19, bells-27)
+prep_with(getting-19, whistles-29)
+conj_and(bells-27, whistles-29)
+

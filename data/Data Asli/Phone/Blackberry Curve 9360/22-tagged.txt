@@ -1,0 +1,3 @@
+too_RB bad_JJ the_DT product_NN ,_, the_DT battery_NN lasts_VBZ very_RB little_JJ ._.
+the_DT antenna_NN is_VBZ underpowered_JJ ._.
+not_RB recommend_VB it_PRP ,_, pass_VBP bad_JJ times_NNS with_IN this_DT phone_NN

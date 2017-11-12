@@ -1,0 +1,62 @@
+=========
+
+prep_for(steal-8, $-2)
+num($-2, 500-3)
+nsubj(steal-8, this-5)
+cop(steal-8, is-6)
+det(steal-8, a-7)
+root(ROOT-0, steal-8)
+
+=========
+
+det(mode-4, The-1)
+nn(mode-4, HD-2)
+nn(mode-4, video-3)
+nsubj(start-8, mode-4)
+cop(start-8, is-5)
+det(start-8, a-6)
+amod(start-8, great-7)
+root(ROOT-0, start-8)
+prep_for(start-8, videography-10)
+mark(use-13, if-11)
+nsubj(use-13, you-12)
+nsubj(have-17, you-12)
+advcl(start-8, use-13)
+nsubj(right-15, it-14)
+xcomp(use-13, right-15)
+advcl(start-8, have-17)
+conj_and(use-13, have-17)
+det(lenses-20, the-18)
+amod(lenses-20, right-19)
+dobj(have-17, lenses-20)
+amod(recorder-23, audio-22)
+dobj(have-17, recorder-23)
+conj_and(lenses-20, recorder-23)
+
+=========
+
+det(pictures-2, The-1)
+nsubj(come-3, pictures-2)
+root(ROOT-0, come-3)
+prt(come-3, out-4)
+acomp(come-3, great-5)
+advmod(come-3, too-6)
+
+=========
+
+root(ROOT-0, Make-1)
+acomp(Make-1, sure-2)
+nsubj(get-4, you-3)
+ccomp(sure-2, get-4)
+det(right-6, the-5)
+dobj(get-4, right-6)
+amod(lenses-10, high-8)
+nn(lenses-10, quality-9)
+appos(right-6, lenses-10)
+mark(make-13, because-11)
+nsubj(make-13, those-12)
+dep(lenses-10, make-13)
+det(difference-16, a-14)
+amod(difference-16, huge-15)
+dobj(make-13, difference-16)
+

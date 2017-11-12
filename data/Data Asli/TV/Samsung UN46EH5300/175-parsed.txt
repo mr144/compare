@@ -1,0 +1,27 @@
+=========
+
+nsubj(went-2, She-1)
+root(ROOT-0, went-2)
+det(CRT-7, a-4)
+num(CRT-7, 25-5)
+nn(CRT-7, inch-6)
+prep_from(went-2, CRT-7)
+det(one-10, this-9)
+prep_to(went-2, one-10)
+
+=========
+
+nn(HD-2, Got-1)
+root(ROOT-0, HD-2)
+nn(cable-5, Charter-4)
+prep_with(HD-2, cable-5)
+
+=========
+
+nsubj(cant-2, I-1)
+root(ROOT-0, cant-2)
+dep(cant-2, pull-3)
+nsubj(!!-6, her-4)
+advmod(!!-6, away-5)
+xcomp(pull-3, !!-6)
+

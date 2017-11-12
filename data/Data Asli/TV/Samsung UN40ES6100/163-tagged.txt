@@ -1,0 +1,15 @@
+If_IN you_PRP are_VBP wall_NN mounting_VBG the_DT tv_NN ,_, make_VBP sure_JJ your_PRP$ mount_VBP can_MD clear_VB the_DT power_NN cord_NN housing_NN ,_, I_PRP do_VBP not_RB know_VB why_WRB Samsung_NNP did_VBD not_RB move_VB the_DT plug_NN ,_, such_JJ a_DT simple_JJ thing_NN to_TO overlook_VB ._.
+Out_IN of_IN the_DT box_NN ,_, the_DT picture_NN is_VBZ definitely_RB un-natural_JJ ,_, so_IN tweaking_NN is_VBZ required_VBN ._.
+Before_IN that_DT ,_, I_PRP ran_VBD the_DT software_NN update_VBP ;_: it_PRP seemed_VBD to_TO go_VB through_IN ,_, but_CC I_PRP had_VBD to_TO AC_NNP cycle_NN the_DT TV_NN before_IN the_DT update_VBP took_VBD effect_NN ._.
+I_PRP plan_VBP to_TO use_VB tv_NN for_IN Amazon_NNP Instant_NNP Video_NNP streaming_VBG ,_, and_CC that_IN set_VBN up_RP took_VBD time_NN ._.
+All_PDT the_DT other_JJ apps_NNS just_RB worked_VBD as_RB soon_RB as_IN network_NN cable_NN was_VBD attached_VBN ,_, but_CC the_DT Amazon_NNP app_NN failed_VBD to_TO load_VB ,_, or_CC quit_VB without_IN any_DT message_NN -LRB-_-LRB- I_PRP still_RB have_VBP not_RB figured_VBN out_RP why_WRB -RRB-_-RRB- ._.
+Amazon_NNP customer_NN service_NN could_MD only_RB suggest_VB attempting_VBG to_TO re-install_VB the_DT firmware_NN ,_, but_CC the_DT TV_NN would_MD not_RB let_VB me_PRP as_IN it_PRP was_VBD already_RB running_VBG the_DT latest_JJS ._.
+The_DT Amazon_NNP Instant_NNP Video_NNP app_NN is_VBZ baked_JJ in_IN ,_, and_CC can_MD not_RB be_VB removed_VBN ._.
+Eventually_RB ,_, I_PRP set_VBD the_DT DNS_NNP server_NN to_TO 8.8.8.8_CD -LRB-_-LRB- Google_NNP 's_POS public_JJ ones_NNS -RRB-_-RRB- ,_, and_CC finally_RB the_DT Amazon_NNP app_NN would_MD run_VB ._.
+Once_RB I_PRP registered_VBD the_DT TV_NN ,_, my_PRP$ watchlist_NN was_VBD transferred_VBN ,_, and_CC I_PRP was_VBD streaming_VBG in_IN HD_NNP ;_: the_DT quality_NN is_VBZ great_JJ ._.
+The_DT best_JJS part_NN of_IN this_DT TV_NN however_RB is_VBZ the_DT ability_NN to_TO stream_NN from_IN any_DT device_NN connected_VBN to_TO the_DT network_NN ._.
+I_PRP do_VBP not_RB know_VB if_IN the_DT other_JJ series_NN have_VBP this_DT feature_NN ,_, or_CC just_RB the_DT `_`` smart_JJ '_'' ones_NNS ,_, but_CC definitely_RB worth_JJ the_DT extra_JJ money_NN ._.
+The_DT TV_NN automagically_RB saw_VBD my_PRP$ Windows_NNP shares_NNS ,_, and_CC found_VBD the_DT media_NNS ;_: it_PRP seems_VBZ to_TO be_VB able_JJ to_TO handle_VB Xvid_NNP and_CC MPEG4_NNP files_NNS -LRB-_-LRB- I_PRP did_VBD not_RB have_VB any_DT success_NN with_IN h._NN 264_CD encoded_JJ files_NNS -RRB-_-RRB- ._.
+The_DT TV_NN is_VBZ limited_VBN to_TO MP4_CD files_NNS less_JJR than_IN 4GB_CD -LRB-_-LRB- or_CC maybe_RB slightly_RB smaller_JJR -RRB-_-RRB- ._.
+The_DT sound_NN is_VBZ better_JJR than_IN I_PRP was_VBD expecting_VBG from_IN such_JJ a_DT thin_JJ TV_NN ,_, and_CC is_VBZ more_JJR than_IN adequate_JJ for_IN daily_JJ viewing_NN ._.
+I_PRP like_VBP how_WRB the_DT Youtube_NNP app_NN lets_VBZ you_PRP filter_NN results_NNS for_IN HD_NNP and_CC SD_NNP files_NNS ,_, my_PRP$ Sony_NNP blu-ray_NN player_NN can_MD not_RB do_VB this_DT ._.

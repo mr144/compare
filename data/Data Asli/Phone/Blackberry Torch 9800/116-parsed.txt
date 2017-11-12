@@ -1,0 +1,38 @@
+=========
+
+nsubjpass(satisfied-3, I-1)
+auxpass(satisfied-3, am-2)
+root(ROOT-0, satisfied-3)
+poss(purchase-6, my-5)
+prep_with(satisfied-3, purchase-6)
+
+=========
+
+det(item-2, The-1)
+nsubj(arrived-3, item-2)
+nsubj(was-8, item-2)
+root(ROOT-0, arrived-3)
+prep_on(arrived-3, time-5)
+conj_and(arrived-3, was-8)
+advmod(was-8, just-9)
+prepc_like(was-8, shown-11)
+det(site-15, the-13)
+nn(site-15, web-14)
+prep_in(shown-11, site-15)
+
+=========
+
+det(company-2, The-1)
+nsubj(answered-3, company-2)
+root(ROOT-0, answered-3)
+poss(e-mail-5, my-4)
+dobj(answered-3, e-mail-5)
+mwe(than-8, less-7)
+quantmod(24h-9, than-8)
+prep_after(answered-3, 24h-9)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+

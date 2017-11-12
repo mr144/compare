@@ -1,0 +1,62 @@
+=========
+
+dep(Satisfied-2, Very-1)
+root(ROOT-0, Satisfied-2)
+
+=========
+
+nsubj(beat-5, You-1)
+advmod(beat-5, just-2)
+aux(beat-5, can-3)
+neg(beat-5, not-4)
+root(ROOT-0, beat-5)
+det(price-7, the-6)
+dobj(beat-5, price-7)
+det(yr-14, this-9)
+nn(yr-14, tv-10)
+nn(yr-14, w-11)
+nn(yr-14, \/-12)
+num(yr-14, 2-13)
+prep_of(price-7, yr-14)
+
+=========
+
+nsubj(amazing-4, warranty-1)
+cop(amazing-4, is-2)
+advmod(amazing-4, just-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+root(ROOT-0, Fast-1)
+dobj(Fast-1, shipping-2)
+amod(picture-6, good-4)
+nn(picture-6, quality-5)
+appos(shipping-2, picture-6)
+det(worries-9, no-8)
+appos(shipping-2, worries-9)
+conj_and(picture-6, worries-9)
+mark(set-13, after-11)
+nsubj(set-13, we-12)
+advcl(Fast-1, set-13)
+parataxis(Fast-1, set-13)
+dobj(set-13, it-14)
+prep_up(set-13, &-16)
+partmod(&-16, seen-17)
+det(deal-20, the-18)
+amod(deal-20, great-19)
+dobj(seen-17, deal-20)
+nsubj(got-22, we-21)
+rcmod(deal-20, got-22)
+nsubj(bought-26, I-24)
+advmod(bought-26, just-25)
+ccomp(got-22, bought-26)
+det(TCL-30, another-27)
+number(&#34;-29, 32-28)
+num(TCL-30, &#34;-29)
+dobj(bought-26, TCL-30)
+prep_through(bought-26, Amazon-32)
+det(!!!-35, this-33)
+nn(!!!-35, weekend-34)
+nsubj(Fast-1, !!!-35)
+

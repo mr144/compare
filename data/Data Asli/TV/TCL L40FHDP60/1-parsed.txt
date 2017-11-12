@@ -1,0 +1,78 @@
+=========
+
+advmod(bought-3, When-1)
+nsubj(bought-3, I-2)
+advcl(spent-7, bought-3)
+det(tv-5, the-4)
+dobj(bought-3, tv-5)
+nsubj(spent-7, I-6)
+root(ROOT-0, spent-7)
+quantmod($-9, about-8)
+dobj(spent-7, $-9)
+nsubj(includes-13, $-9)
+number($-9, 190-10)
+rcmod($-9, includes-13)
+det(warranty-16, a-14)
+amod(warranty-16, two-year-15)
+dobj(includes-13, warranty-16)
+
+=========
+
+nsubj(solid-3, HD-1)
+cop(solid-3, is-2)
+root(ROOT-0, solid-3)
+det(sound-6, the-5)
+nsubj(clear-8, sound-6)
+cop(clear-8, is-7)
+conj_and(solid-3, clear-8)
+
+=========
+
+nsubj(easy-3, Menu-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(navigate-5, to-4)
+xcomp(easy-3, navigate-5)
+
+=========
+
+nsubj(enjoy-2, I-1)
+root(ROOT-0, enjoy-2)
+xcomp(enjoy-2, watching-3)
+dobj(watching-3, tv-4)
+nsubj(watch-7, I-6)
+conj_and(enjoy-2, watch-7)
+det(lot-9, a-8)
+dobj(watch-7, lot-9)
+prep_of(lot-9, it-11)
+
+=========
+
+nsubj(hot-4, It-1)
+advmod(hot-4, rarely-2)
+dep(hot-4, gets-3)
+root(ROOT-0, hot-4)
+
+=========
+
+nn(problem-2, ONLY-1)
+nsubj(setting-4, problem-2)
+aux(setting-4, was-3)
+root(ROOT-0, setting-4)
+prt(setting-4, up-5)
+det(stand-8, the-6)
+nn(stand-8, tv-7)
+dobj(setting-4, stand-8)
+
+=========
+
+nsubj(save-4, Other-1)
+nsubj(buy-8, Other-1)
+prep_than(Other-1, that-3)
+root(ROOT-0, save-4)
+det(money-6, some-5)
+dobj(save-4, money-6)
+conj_and(save-4, buy-8)
+det(tv-10, this-9)
+dobj(buy-8, tv-10)
+

@@ -1,0 +1,34 @@
+=========
+
+dep(impressed-3, Not-1)
+advmod(impressed-3, really-2)
+dep(using-9, impressed-3)
+prep_with(impressed-3, it-5)
+nsubj(using-9, I-7)
+aux(using-9, was-8)
+root(ROOT-0, using-9)
+nn(b4-11, sensation-10)
+dobj(using-9, b4-11)
+nsubj(had-13, it-12)
+rcmod(b4-11, had-13)
+det(fault-15, a-14)
+dobj(had-13, fault-15)
+nsubj(is-19, dis-17)
+partmod(dis-17, inspired-18)
+conj_but(using-9, is-19)
+dep(have-24, not-20)
+nsubj(have-24, it-21)
+aux(have-24, does-22)
+neg(have-24, not-23)
+ccomp(is-19, have-24)
+num(facility-26, 3G-25)
+dobj(have-24, facility-26)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, Sensation-3)
+dep(more-5, the-4)
+advmod(love-2, more-5)
+

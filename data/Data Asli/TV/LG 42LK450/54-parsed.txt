@@ -1,0 +1,62 @@
+=========
+
+advmod(review-3, Only-1)
+amod(review-3, bad-2)
+dobj(read-5, review-3)
+nsubj(was-6, review-3)
+nsubj(read-5, I-4)
+rcmod(review-3, read-5)
+root(ROOT-0, was-6)
+complm(black-14, that-7)
+det(TV-9, this-8)
+nsubj(black-14, TV-9)
+aux(black-14, does-10)
+neg(black-14, not-11)
+dep(black-14, have-12)
+advmod(black-14, enough-13)
+ccomp(was-6, black-14)
+mark(picture-18, in-15)
+nsubj(picture-18, it-16)
+cop(picture-18, is-17)
+ccomp(black-14, picture-18)
+
+=========
+
+advmod(nonsense-3, just-1)
+amod(nonsense-3, ridiculous-2)
+nsubj(is-10, nonsense-3)
+advmod(is-10, maybe-5)
+det(microscope-8, a-7)
+prep_under(is-10, microscope-8)
+nsubj(is-10, it-9)
+root(ROOT-0, is-10)
+
+=========
+
+partmod(affordable-13, Any-1)
+dobj(Any-1, who-2)
+amod(detail-5, beautiful-4)
+nsubj(affordable-13, detail-5)
+det(price-8, the-7)
+conj_and(detail-5, price-8)
+nsubj(affordable-13, price-8)
+cop(affordable-13, is-9)
+advmod(affordable-13, very-10)
+advmod(affordable-13, very-12)
+root(ROOT-0, affordable-13)
+
+=========
+
+root(ROOT-0, After-1)
+pcomp(After-1, searching-2)
+prep_for(searching-2, TVs-4)
+prep_for(TVs-4, weeks-6)
+nsubj(deal-11, this-7)
+cop(deal-11, is-8)
+det(deal-11, the-9)
+amod(deal-11, best-10)
+rcmod(weeks-6, deal-11)
+quantmod($-14, under-13)
+prep_for(deal-11, $-14)
+number($-14, 500-15)
+

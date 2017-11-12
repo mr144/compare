@@ -1,0 +1,50 @@
+=========
+
+nsubj(sure-4, I-1)
+cop(sure-4, was-2)
+neg(sure-4, not-3)
+root(ROOT-0, sure-4)
+complm(buy-7, whether-5)
+aux(buy-7, to-6)
+ccomp(sure-4, buy-7)
+det(tv-10, this-8)
+nn(tv-10, TCL-9)
+dep(buy-7, tv-10)
+dep(tv-10, or-11)
+neg(tv-10, not-12)
+mark(decided-19, after-15)
+csubj(decided-19, reading-16)
+det(reviews-18, the-17)
+dobj(reading-16, reviews-18)
+ccomp(sure-4, decided-19)
+conj_but(buy-7, decided-19)
+aux(take-21, to-20)
+xcomp(decided-19, take-21)
+det(chance-23, a-22)
+dobj(take-21, chance-23)
+
+=========
+
+det(money-3, the-2)
+prep_for(excellent-6, money-3)
+nsubj(excellent-6, it-4)
+cop(excellent-6, is-5)
+root(ROOT-0, excellent-6)
+
+=========
+
+nsubjpass(used-3, It-1)
+auxpass(used-3, is-2)
+root(ROOT-0, used-3)
+det(tv-7, a-5)
+nn(tv-7, bedroom-6)
+prep_as(used-3, tv-7)
+nsubj(love-10, we-9)
+conj_and(used-3, love-10)
+dobj(love-10, it-11)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+

@@ -1,0 +1,64 @@
+=========
+
+nsubjpass(thrilled-3, I-1)
+nsubj(happy-12, I-1)
+auxpass(thrilled-3, am-2)
+root(ROOT-0, thrilled-3)
+poss(P90-9, my-5)
+amod(P90-9, new-6)
+nn(P90-9, Nikon-7)
+nn(P90-9, Coolpix-8)
+prep_with(thrilled-3, P90-9)
+advmod(happy-12, very-11)
+conj_and(thrilled-3, happy-12)
+det(service-15, the-14)
+prep_with(happy-12, service-15)
+prep_through(happy-12, Amazon.com-17)
+
+=========
+
+nsubj(customer-5, I-1)
+nsubj(ordered-8, I-1)
+cop(customer-5, am-2)
+det(customer-5, a-3)
+amod(customer-5, satisifed-4)
+root(ROOT-0, customer-5)
+aux(ordered-8, have-7)
+conj_and(customer-5, ordered-8)
+amod(things-10, several-9)
+dobj(ordered-8, things-10)
+prep_through(ordered-8, Amazon.com-12)
+
+=========
+
+nsubj(prompt-3, Delivery-1)
+cop(prompt-3, was-2)
+root(ROOT-0, prompt-3)
+
+=========
+
+det(price-2, The-1)
+nsubj(better-4, price-2)
+cop(better-4, was-3)
+root(ROOT-0, better-4)
+amod(places-7, other-6)
+prep_than(better-4, places-7)
+dobj(looked-10, places-7)
+nsubj(looked-10, I-8)
+aux(looked-10, had-9)
+rcmod(places-7, looked-10)
+
+=========
+
+nsubj(researched-3, I-1)
+nsubjpass(satisfied-12, I-1)
+aux(researched-3, had-2)
+root(ROOT-0, researched-3)
+det(item-5, this-4)
+dobj(researched-3, item-5)
+prepc_before(researched-3, buying-7)
+dobj(buying-7, it-8)
+auxpass(satisfied-12, am-10)
+advmod(satisfied-12, highly-11)
+conj_and(researched-3, satisfied-12)
+

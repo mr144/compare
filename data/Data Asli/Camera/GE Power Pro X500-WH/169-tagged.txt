@@ -1,0 +1,1 @@
+this_DT GE_NNP camera_NN shoots_VBZ very_RB good_JJ A_DT +_JJ quality_NN still-photos_NNS ..._: better_JJR than_IN my_PRP$ other_JJ cameras_NNS say_VBP ,_, the_DT sony_NN cybershot_NN ..._: let_VB 's_POS award_NN 5_CD stars_NNS to_TO GE_NNP ._.

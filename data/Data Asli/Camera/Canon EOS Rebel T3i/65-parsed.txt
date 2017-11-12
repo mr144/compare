@@ -1,0 +1,52 @@
+=========
+
+nsubj(wanting-3, I-1)
+xsubj(get-5, I-1)
+aux(wanting-3, was-2)
+root(ROOT-0, wanting-3)
+aux(get-5, to-4)
+xcomp(wanting-3, get-5)
+det(camera-8, a-6)
+amod(camera-8, nice-7)
+dobj(get-5, camera-8)
+prep_for(camera-8, vacations-10)
+nsubj(one-15, this-12)
+cop(one-15, is-13)
+det(one-15, the-14)
+conj_and(wanting-3, one-15)
+complm(seen-18, that-16)
+nsubj(seen-18, I-17)
+ccomp(one-15, seen-18)
+dep(seen-18, recommended-19)
+
+=========
+
+root(ROOT-0, Got-1)
+dobj(Got-1, it-2)
+advmod(Got-1, here-3)
+det(price-7, a-5)
+amod(price-7, great-6)
+prep_for(Got-1, price-7)
+
+=========
+
+nsubj(works-2, Camera-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, kodak-6)
+prep_than(better-4, pentax-8)
+conj_or(kodak-6, pentax-8)
+prep_than(better-4, fujifilm-10)
+conj_or(kodak-6, fujifilm-10)
+prep_than(better-4, GE-12)
+conj_or(kodak-6, GE-12)
+prep_than(better-4, coolpix-14)
+conj_or(kodak-6, coolpix-14)
+

@@ -1,0 +1,28 @@
+=========
+
+nsubj(included-2, No-1)
+root(ROOT-0, included-2)
+det(battery-5, the-3)
+nn(battery-5, lithium-4)
+dobj(included-2, battery-5)
+det(Box-8, the-7)
+prep_in(included-2, Box-8)
+
+=========
+
+nsubj(Need-2, You-1)
+root(ROOT-0, Need-2)
+xcomp(Need-2, Check-3)
+det(package-5, the-4)
+dobj(Check-3, package-5)
+
+=========
+
+num(Phone-3, one-1)
+amod(Phone-3, cellular-2)
+nsubj(work-6, Phone-3)
+aux(work-6, do-4)
+neg(work-6, not-5)
+root(ROOT-0, work-6)
+prep_without(work-6, Battery-8)
+

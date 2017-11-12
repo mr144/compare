@@ -1,0 +1,48 @@
+=========
+
+amod(pictures-2, great-1)
+nsubj(snap-7, pictures-2)
+conj_and(pictures-2, it-4)
+nsubj(snap-7, it-4)
+cop(snap-7, is-5)
+det(snap-7, a-6)
+ccomp(need-14, snap-7)
+aux(operate-9, to-8)
+infmod(snap-7, operate-9)
+nsubj(need-14, you-11)
+xsubj(genius-18, you-11)
+aux(need-14, do-12)
+neg(need-14, not-13)
+root(ROOT-0, need-14)
+aux(genius-18, to-15)
+cop(genius-18, be-16)
+det(genius-18, a-17)
+xcomp(need-14, genius-18)
+
+=========
+
+det(pictures-2, the-1)
+nsubj(quality-4, pictures-2)
+cop(quality-4, are-3)
+root(ROOT-0, quality-4)
+
+=========
+
+nsubj(upgraded-2, i-1)
+root(ROOT-0, upgraded-2)
+det(share-7, the-4)
+amod(share-7, kodak-5)
+amod(share-7, easy-6)
+prep_from(upgraded-2, share-7)
+det(one-10, this-9)
+prep_to(upgraded-2, one-10)
+dep(did-14, glad-12)
+nsubj(did-14, i-13)
+dep(upgraded-2, did-14)
+
+=========
+
+nsubj(pictures-3, much-1)
+advmod(pictures-3, better-2)
+root(ROOT-0, pictures-3)
+

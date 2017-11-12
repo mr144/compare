@@ -1,0 +1,144 @@
+=========
+
+det(tv-2, This-1)
+nsubj(best-5, tv-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+dobj(find-8, best-5)
+nsubj(find-8, I-6)
+aux(find-8, could-7)
+rcmod(best-5, find-8)
+
+=========
+
+det(picture-2, The-1)
+nsubj(is-3, picture-2)
+root(ROOT-0, is-3)
+ccomp(is-3, lie-4)
+nsubj(are-6, you-5)
+ccomp(lie-4, are-6)
+advmod(is-9, where-7)
+nsubj(is-9, it-8)
+advcl(are-6, is-9)
+
+=========
+
+csubj(walk-5, set-1)
+prt(set-1, up-2)
+cop(walk-5, was-3)
+det(walk-5, a-4)
+root(ROOT-0, walk-5)
+det(park-8, the-7)
+prep_in(walk-5, park-8)
+advmod(walk-5, easy-9)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+dobj(say-6, thing-3)
+nsubj(text-9, thing-3)
+nsubj(say-6, I-4)
+aux(say-6, will-5)
+rcmod(thing-3, say-6)
+cop(text-9, is-7)
+det(text-9, the-8)
+root(ROOT-0, text-9)
+det(manual-12, the-11)
+prep_in(text-9, manual-12)
+rcmod(manual-12, is-13)
+amod(eyes-18, darn-15)
+amod(eyes-18, small-16)
+amod(eyes-18, fro-17)
+prep_to(is-13, eyes-18)
+prep_like(eyes-18, these-20)
+
+=========
+
+root(ROOT-0, Make-1)
+nsubj(bigger-3, it-2)
+xcomp(Make-1, bigger-3)
+
+=========
+
+nsubj(used-2, I-1)
+root(ROOT-0, used-2)
+det(support-7, the-3)
+nn(support-7, web-4)
+nn(support-7, site-5)
+nn(support-7, sony-6)
+nsubj(help-12, support-7)
+conj_and(support-7, that-9)
+nsubj(help-12, that-9)
+cop(help-12, was-10)
+amod(help-12, great-11)
+ccomp(used-2, help-12)
+
+=========
+
+nn(thig-2, Bad-1)
+nsubjpass(took-4, thig-2)
+xsubj(read-7, thig-2)
+auxpass(took-4, was-3)
+root(ROOT-0, took-4)
+advmod(took-4, longer-5)
+aux(read-7, to-6)
+xcomp(took-4, read-7)
+dobj(read-7, it-8)
+dep(read-7, all-9)
+
+=========
+
+nsubj(used-19, Theres-1)
+det(site-3, a-2)
+nsubj(listens-10, site-3)
+dep(tube-6, you-5)
+prep_on(site-3, tube-6)
+partmod(tube-6, called-7)
+cop(listens-10, s-8)
+nn(listens-10, Sony-9)
+rcmod(Theres-1, listens-10)
+nsubj(has-12, listens-10)
+rcmod(listens-10, has-12)
+det(ton-14, a-13)
+dobj(has-12, ton-14)
+prep_of(ton-14, info-16)
+prep_on(info-16, it-18)
+root(ROOT-0, used-19)
+dobj(used-19, that-20)
+det(lot-22, a-21)
+dep(that-20, lot-22)
+
+=========
+
+nsubj(use-4, I-1)
+aux(use-4, may-2)
+neg(use-4, never-3)
+root(ROOT-0, use-4)
+dobj(use-4, all-5)
+complm(does-9, that-6)
+det(TV-8, this-7)
+nsubj(does-9, TV-8)
+ccomp(use-4, does-9)
+cc(have-13, but-10)
+nsubj(have-13, it-11)
+aux(have-13, does-12)
+ccomp(does-9, have-13)
+dobj(have-13, it-14)
+mark(learn-18, if-15)
+nsubj(learn-18, I-16)
+aux(learn-18, can-17)
+advcl(have-13, learn-18)
+advmod(use-21, how-19)
+aux(use-21, to-20)
+ccomp(learn-18, use-21)
+xcomp(learn-18, use-21)
+dobj(use-21, it-22)
+
+=========
+
+root(ROOT-0, Maybe-1)
+dep(Maybe-1, someday-2)
+dep(Maybe-1, Lee-3)
+

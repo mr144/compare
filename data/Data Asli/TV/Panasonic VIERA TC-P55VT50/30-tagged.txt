@@ -1,0 +1,5 @@
+I_PRP went_VBD from_IN a_DT 27_CD &#34;_CD CRT_NNP to_TO this_DT and_CC WOW_NNP !_.
+I_PRP am_VBP so_RB happy_JJ with_IN this_DT TV_NN ._.
+It_PRP works_VBZ great_JJ with_IN my_PRP$ Marantz_NNP home_NN theater_NN receiver_NN ._.
+I_PRP have_VBP yet_RB to_TO find_VB a_DT review_NN that_WDT says_VBZ this_DT was_VBD not_RB the_DT best_JJS TV_NN of_IN 2012_CD ._.
+I_PRP am_VBP happy_JJ to_TO echo_VB those_DT sentiments_NNS ._.

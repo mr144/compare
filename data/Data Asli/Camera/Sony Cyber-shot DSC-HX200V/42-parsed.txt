@@ -1,0 +1,38 @@
+=========
+
+nsubj(am-3, I-1)
+dep(looking-8, am-3)
+neg(am-3, not-4)
+det(photographer-6, a-5)
+nsubj(looking-8, photographer-6)
+xsubj(purchase-10, photographer-6)
+aux(looking-8, was-7)
+root(ROOT-0, looking-8)
+aux(purchase-10, to-9)
+xcomp(looking-8, purchase-10)
+det(camera-12, a-11)
+dobj(purchase-10, camera-12)
+nsubj(friendly-16, camera-12)
+nsubj(took-18, camera-12)
+cop(friendly-16, was-14)
+advmod(friendly-16, user-15)
+rcmod(camera-12, friendly-16)
+rcmod(camera-12, took-18)
+conj_and(friendly-16, took-18)
+amod(pictures-20, good-19)
+dobj(took-18, pictures-20)
+
+=========
+
+nsubj(please-5, I-1)
+cop(please-5, am-3)
+advmod(please-5, very-4)
+root(ROOT-0, please-5)
+mark(consider-10, with-6)
+det(camera-8, this-7)
+nsubj(consider-10, camera-8)
+aux(consider-10, would-9)
+ccomp(please-5, consider-10)
+dobj(consider-10, it-11)
+prep_for(consider-10, anybodyThanks-13)
+

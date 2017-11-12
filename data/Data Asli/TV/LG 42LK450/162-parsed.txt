@@ -1,0 +1,31 @@
+=========
+
+det(42LK450-3, The-1)
+nn(42LK450-3, LG-2)
+poss(HDTV-8, 42LK450-3)
+num(42LK450-3, 42-4)
+nn(HDTV-8, 1080p-6)
+nn(HDTV-8, LCD-7)
+nsubj(sold-10, HDTV-8)
+advmod(sold-10, just-9)
+root(ROOT-0, sold-10)
+det(day-13, all-11)
+amod(day-13, long-12)
+tmod(sold-10, day-13)
+amod(Buy-16, Best-15)
+prep_at(sold-10, Buy-16)
+dep(tax-22, $-18)
+dep($-18, $-19)
+number($-19, 188-20)
+number($-19, +-21)
+prep_for(sold-10, tax-22)
+
+=========
+
+num(models-3, 60-1)
+nn(models-3, Hz-2)
+nsubj(going-5, models-3)
+aux(going-5, are-4)
+root(ROOT-0, going-5)
+advmod(going-5, fast-6)
+

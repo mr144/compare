@@ -1,0 +1,68 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+poss(husband-2, My-1)
+nsubj(has-3, husband-2)
+root(ROOT-0, has-3)
+det(D5000-8, a-4)
+advmod(expensive-6, very-5)
+amod(D5000-8, expensive-6)
+nn(D5000-8, Nikon-7)
+dobj(has-3, D5000-8)
+dobj(tried-11, D5000-8)
+rel(tried-11, which-9)
+nsubj(tried-11, I-10)
+rcmod(D5000-8, tried-11)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, good-3)
+dobj(takes-2, pictures-4)
+nsubj(need-7, you-6)
+conj_but(takes-2, need-7)
+advmod(expensive-9, very-8)
+amod(lenses-10, expensive-9)
+dobj(need-7, lenses-10)
+prep_for(lenses-10, it-12)
+
+=========
+
+nsubj(artist-4, I-1)
+nsubj(wanted-6, I-1)
+xsubj(able-9, I-1)
+cop(artist-4, am-2)
+det(artist-4, an-3)
+ccomp(etc.-15, artist-4)
+conj_and(artist-4, wanted-6)
+ccomp(etc.-15, wanted-6)
+aux(able-9, to-7)
+cop(able-9, be-8)
+xcomp(wanted-6, able-9)
+aux(paint-11, to-10)
+xcomp(able-9, paint-11)
+dobj(paint-11, birds-12)
+nsubj(etc.-15, flowers-14)
+root(ROOT-0, etc.-15)
+det(camera-17, The-16)
+nsubj(light-19, camera-17)
+nsubj(easy-21, camera-17)
+nsubj(takes-26, camera-17)
+cop(light-19, is-18)
+ccomp(etc.-15, light-19)
+ccomp(etc.-15, easy-21)
+conj_and(light-19, easy-21)
+aux(hold-23, to-22)
+xcomp(easy-21, hold-23)
+ccomp(etc.-15, takes-26)
+conj_and(light-19, takes-26)
+amod(photos-28, great-27)
+dobj(takes-26, photos-28)
+

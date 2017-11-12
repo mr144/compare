@@ -1,0 +1,314 @@
+=========
+
+nsubj(looking-4, I-1)
+aux(looking-4, have-2)
+aux(looking-4, been-3)
+root(ROOT-0, looking-4)
+nn(TV-7, LED-6)
+prep_at(looking-4, TV-7)
+possessive(TV-7, 's-8)
+quantmod(one-11, about-10)
+prep_for(TV-7, one-11)
+tmod(looking-4, year-12)
+
+=========
+
+nsubj(read-3, I-1)
+nsubj(went-10, I-1)
+xsubj(see-14, I-1)
+aux(read-3, have-2)
+root(ROOT-0, read-3)
+det(ton-5, a-4)
+dobj(read-3, ton-5)
+prep_of(ton-5, reviews-7)
+conj_and(read-3, went-10)
+prep_to(went-10, stores-12)
+aux(see-14, to-13)
+xcomp(went-10, see-14)
+dobj(see-14, some-15)
+prep_in(some-15, person-17)
+
+=========
+
+poss(son-2, My-1)
+nsubj(has-3, son-2)
+root(ROOT-0, has-3)
+det(Samsung-5, a-4)
+dobj(has-3, Samsung-5)
+num(Samsung-5, 55-6)
+nsubj(fantastic-10, that-8)
+cop(fantastic-10, is-9)
+rcmod(Samsung-5, fantastic-10)
+
+=========
+
+nsubj(wanted-2, I-1)
+xsubj(replace-8, I-1)
+root(ROOT-0, wanted-2)
+prep(wanted-2, just-3)
+det(little-5, a-4)
+npadvmod(bigger-6, little-5)
+pobj(just-3, bigger-6)
+aux(replace-8, to-7)
+xcomp(wanted-2, replace-8)
+poss(57-10, my-9)
+poss(DLP-12, 57-10)
+dobj(replace-8, DLP-12)
+
+=========
+
+det(60-2, This-1)
+nsubj(filled-5, 60-2)
+advmod(filled-5, really-4)
+root(ROOT-0, filled-5)
+det(bill-7, the-6)
+dobj(filled-5, bill-7)
+
+=========
+
+nsubj(picture-2, Unbelievable-1)
+root(ROOT-0, picture-2)
+
+=========
+
+mark(running-2, While-1)
+advcl(know-9, running-2)
+amod(movies-4, Blu-Ray-3)
+dobj(running-2, movies-4)
+nsubj(know-9, I-5)
+advmod(know-9, just-6)
+aux(know-9, do-7)
+neg(know-9, not-8)
+root(ROOT-0, know-9)
+advmod(get-13, how-10)
+nsubj(get-13, it-11)
+aux(get-13, could-12)
+ccomp(know-9, get-13)
+dep(better-15, any-14)
+advmod(get-13, better-15)
+prepc_without(get-13, being-17)
+advmod(being-17, there-18)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+advmod(problem-5, only-3)
+num(problem-5, one-4)
+nsubj(is-2, problem-5)
+complm(ran-9, that-6)
+nsubj(ran-9, I-7)
+aux(ran-9, have-8)
+ccomp(is-2, ran-9)
+prt(ran-9, in-10)
+prep(ran-9, to-11)
+
+=========
+
+det(3D-2, The-1)
+nsubj(requires-3, 3D-2)
+root(ROOT-0, requires-3)
+complm(be-6, that-4)
+nsubj(be-6, you-5)
+ccomp(requires-3, be-6)
+num(feet-9, 7.2-8)
+prep_within(be-6, feet-9)
+
+=========
+
+num(feet-2, 6-1)
+nsubj(better-4, feet-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+
+=========
+
+nsubj(close-4, That-1)
+cop(close-4, 's-2)
+advmod(close-4, very-3)
+root(ROOT-0, close-4)
+
+=========
+
+nsubj(read-4, I-1)
+aux(read-4, did-2)
+neg(read-4, not-3)
+root(ROOT-0, read-4)
+dobj(read-4, anything-5)
+prep_about(read-4, that-7)
+mark(bought-10, before-8)
+nsubj(bought-10, I-9)
+advcl(read-4, bought-10)
+dobj(bought-10, it-11)
+
+=========
+
+advmod(tried-4, When-1)
+nsubj(tried-4, I-2)
+advmod(tried-4, first-3)
+advcl(sat-7, tried-4)
+dobj(tried-4, 3D-5)
+nsubj(sat-7, I-6)
+root(ROOT-0, sat-7)
+poss(spot-11, my-9)
+amod(spot-11, usual-10)
+prep_in(sat-7, spot-11)
+prep(sat-7, about-12)
+num(feet-14, 10-11-13)
+npadvmod(away-15, feet-14)
+pcomp(about-12, away-15)
+
+=========
+
+nsubj(thought-2, I-1)
+root(ROOT-0, thought-2)
+det(3D-4, the-3)
+nsubj(working-7, 3D-4)
+aux(working-7, was-5)
+neg(working-7, not-6)
+ccomp(thought-2, working-7)
+
+=========
+
+advmod(started-3, Then-1)
+nsubj(started-3, I-2)
+nsubj(found-9, I-2)
+root(ROOT-0, started-3)
+xcomp(started-3, reading-4)
+det(manual-6, the-5)
+dobj(reading-4, manual-6)
+conj_and(started-3, found-9)
+nsubj(closer-13, I-10)
+aux(closer-13, should-11)
+cop(closer-13, be-12)
+ccomp(found-9, closer-13)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+
+=========
+
+root(ROOT-0, Wow-1)
+appos(Wow-1, what-3)
+det(picture-5, a-4)
+dep(what-3, picture-5)
+
+=========
+
+cc(have-4, But-1)
+nsubj(have-4, you-2)
+xsubj(close-7, you-2)
+aux(have-4, do-3)
+root(ROOT-0, have-4)
+aux(close-7, to-5)
+cop(close-7, be-6)
+xcomp(have-4, close-7)
+aux(get-9, to-8)
+xcomp(close-7, get-9)
+nsubj(right-11, it-10)
+xcomp(get-9, right-11)
+
+=========
+
+det(TV-2, The-1)
+nsubj(sends-3, TV-2)
+root(ROOT-0, sends-3)
+prt(sends-3, out-4)
+det(signal-6, a-5)
+dobj(sends-3, signal-6)
+poss(glasses-9, your-8)
+prep_to(sends-3, glasses-9)
+
+=========
+
+nsubj(guess-2, I-1)
+root(ROOT-0, guess-2)
+det(signal-4, the-3)
+nsubj(strong-7, signal-4)
+cop(strong-7, is-5)
+neg(strong-7, not-6)
+ccomp(guess-2, strong-7)
+advmod(strong-7, enough-8)
+aux(reach-10, to-9)
+xcomp(strong-7, reach-10)
+num(feet-12, 11-11)
+dobj(reach-10, feet-12)
+
+=========
+
+cc(watch-4, But-1)
+nsubj(watch-4, I-2)
+advmod(watch-4, only-3)
+root(ROOT-0, watch-4)
+det(movies-6, some-5)
+dobj(watch-4, movies-6)
+prep_in(watch-4, 3D-8)
+mark(guess-11, so-9)
+nsubj(guess-11, I-10)
+advcl(watch-4, guess-11)
+nsubj(have-14, it-12)
+xsubj(do-16, it-12)
+aux(have-14, will-13)
+ccomp(guess-11, have-14)
+aux(do-16, to-15)
+xcomp(have-14, do-16)
+
+=========
+
+nsubj(think-4, I-1)
+aux(think-4, do-2)
+neg(think-4, not-3)
+root(ROOT-0, think-4)
+nsubj(get-7, you-5)
+aux(get-7, could-6)
+ccomp(think-4, get-7)
+det(set-11, a-8)
+dep(looking-10, better-9)
+amod(set-11, looking-10)
+dobj(get-7, set-11)
+det(money-14, the-13)
+prep_for(set-11, money-14)
+
+=========
+
+root(ROOT-0, Speakers-1)
+
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, this-4)
+det(thinking-9, any-6)
+amod(thinking-9, other-7)
+nn(thinking-9, LED-8)
+dobj(buy-3, thinking-9)
+conj_or(this-4, thinking-9)
+complm(need-14, that-10)
+nsubj(need-14, you-11)
+aux(need-14, will-12)
+neg(need-14, not-13)
+ccomp(buy-3, need-14)
+dobj(need-14, speakers-15)
+mark(will-19, because-17)
+nsubj(will-19, you-18)
+advcl(buy-3, will-19)
+
+=========
+
+nsubj(have-3, You-1)
+xsubj(watch-5, You-1)
+advmod(have-3, just-2)
+root(ROOT-0, have-3)
+aux(watch-5, to-4)
+xcomp(have-3, watch-5)
+det(game-9, a-6)
+amod(game-9, live-7)
+nn(game-9, baseball-8)
+dobj(watch-5, game-9)
+nn(WOW-12, HD-11)
+prep_in(watch-5, WOW-12)
+

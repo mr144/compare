@@ -1,0 +1,156 @@
+=========
+
+advmod(LCD-13, Finally-1)
+det(camera-4, a-2)
+num(camera-4, 4\/3-3)
+nsubj(LCD-13, camera-4)
+amod(tones-8, great-6)
+nn(tones-8, skin-7)
+prep_with(camera-4, tones-8)
+det(definition-12, a-10)
+amod(definition-12, high-11)
+prep_with(camera-4, definition-12)
+conj_and(tones-8, definition-12)
+root(ROOT-0, LCD-13)
+
+=========
+
+det(viewfinder-5, the-2)
+num(viewfinder-5, 1.4-3)
+nn(viewfinder-5, meg-4)
+prep_with(have-8, viewfinder-5)
+nsubj(have-8, you-7)
+root(ROOT-0, have-8)
+det(package-11, the-9)
+amod(package-11, complete-10)
+dobj(have-8, package-11)
+
+=========
+
+nsubj(took-2, We-1)
+root(ROOT-0, took-2)
+det(pictures-4, some-3)
+dobj(took-2, pictures-4)
+det(camera-7, this-6)
+prep_with(took-2, camera-7)
+prep_at(took-2, CES-9)
+det(results-12, the-11)
+nsubj(great-14, results-12)
+cop(great-14, were-13)
+conj_and(took-2, great-14)
+
+=========
+
+advmod(better-2, Much-1)
+nsubj(cause-6, better-2)
+det(EPL1-5, the-4)
+prep_than(better-2, EPL1-5)
+root(ROOT-0, cause-6)
+poss(screen-8, its-7)
+nsubj(allows-9, screen-8)
+ccomp(cause-6, allows-9)
+nsubj(evaluate-12, you-10)
+aux(evaluate-12, to-11)
+xcomp(allows-9, evaluate-12)
+mark(is-16, if-13)
+det(picture-15, the-14)
+nsubj(is-16, picture-15)
+advcl(evaluate-12, is-16)
+prep_in(is-16, focus-18)
+appos(focus-18, etc.-20)
+
+=========
+
+cc(are-5, And-1)
+det(tones-4, the-2)
+nn(tones-4, skin-3)
+nsubj(are-5, tones-4)
+root(ROOT-0, are-5)
+prep_from(are-5, Olympus-7)
+mark(great-11, so-8)
+nsubj(great-11, they-9)
+cop(great-11, are-10)
+advcl(are-5, great-11)
+det(tones-18, the-14)
+amod(tones-18, Panasonic-15)
+amod(tones-18, inferior-16)
+nn(tones-18, skin-17)
+prep_unlike(great-26, tones-18)
+conj_and(tones-18, jpegs-20)
+prep_unlike(great-26, jpegs-20)
+det(engine-24, the-22)
+nn(engine-24, Oly-23)
+nsubj(great-26, engine-24)
+cop(great-26, is-25)
+ccomp(are-5, great-26)
+prep_for(great-26, jpegs-28)
+
+=========
+
+dobj(took-3, Pictures-1)
+nsubj(indoors-7, Pictures-1)
+nsubj(took-3, I-2)
+rcmod(Pictures-1, took-3)
+cop(indoors-7, were-4)
+nn(indoors-7, hi-5)
+nn(indoors-7, ISO-6)
+root(ROOT-0, indoors-7)
+det(flash-10, no-9)
+prep_with(indoors-7, flash-10)
+nsubj(came-13, they-12)
+conj_and(indoors-7, came-13)
+acomp(came-13, great-14)
+
+=========
+
+advmod(camera-7, Also-1)
+det(EPL2-3, the-2)
+nsubj(camera-7, EPL2-3)
+cop(camera-7, is-4)
+det(camera-7, a-5)
+amod(camera-7, handsome-6)
+root(ROOT-0, camera-7)
+mark(was-12, whereas-9)
+det(EPL1-11, the-10)
+nsubj(was-12, EPL1-11)
+advcl(camera-7, was-12)
+neg(was-12, not-13)
+
+=========
+
+nsubj(liked-2, I-1)
+root(ROOT-0, liked-2)
+det(model-5, the-3)
+amod(model-5, black-4)
+dobj(liked-2, model-5)
+det(model-9, the-7)
+amod(model-9, silver-8)
+dobj(liked-2, model-9)
+conj_and(model-5, model-9)
+det(same-11, the-10)
+dep(model-9, same-11)
+
+=========
+
+det(lens-4, The-1)
+amod(lens-4, new-2)
+nn(lens-4, kit-3)
+nsubj(compact-6, lens-4)
+cop(compact-6, is-5)
+root(ROOT-0, compact-6)
+
+=========
+
+det(winner-3, A-1)
+amod(winner-3, real-2)
+root(ROOT-0, winner-3)
+
+=========
+
+dep(great-2, Works-1)
+root(ROOT-0, great-2)
+det(lens-7, the-4)
+nn(lens-7, Panasonic-5)
+amod(lens-7, 20mm-6)
+prep_with(great-2, lens-7)
+

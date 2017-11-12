@@ -1,0 +1,35 @@
+=========
+
+nsubj(given-4, i-1)
+aux(given-4, would-2)
+aux(given-4, have-3)
+root(ROOT-0, given-4)
+iobj(given-4, it-5)
+num(stars-7, 5-6)
+dobj(given-4, stars-7)
+det(speakers-10, the-9)
+nsubj(better-13, speakers-10)
+nsubj(louder-15, speakers-10)
+aux(better-13, could-11)
+cop(better-13, be-12)
+conj_but(given-4, better-13)
+conj_but(given-4, louder-15)
+conj_and(better-13, louder-15)
+
+=========
+
+det(speakers-2, the-1)
+nsubj(face-3, speakers-2)
+root(ROOT-0, face-3)
+advmod(almost-5, down-4)
+advmod(face-3, almost-5)
+det(t.v.i-8, the-7)
+prep_underneath(face-3, t.v.i-8)
+partmod(t.v.i-8, bought-9)
+det(zvox-11, a-10)
+dobj(bought-9, zvox-11)
+aux(go-13, to-12)
+infmod(zvox-11, go-13)
+det(t.v.-16, the-15)
+prep_with(go-13, t.v.-16)
+

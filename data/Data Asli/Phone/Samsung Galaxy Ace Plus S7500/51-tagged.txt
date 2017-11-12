@@ -1,0 +1,4 @@
+Just_RB got_VBD this_DT international_JJ phone_NN and_CC I_PRP live_VBP in_IN dallas_NNP TX_NNP ,_, and_CC it_PRP works_VBZ fine_JJ on_IN solavei\/t-mobile_JJ service_NN ._.
+From_IN what_WP I_PRP gather_VBP is_VBZ ,_, however_RB ,_, being_VBG an_DT international_JJ version_NN ,_, it_PRP is_VBZ not_RB compatible_JJ with_IN 3G\/4G_CD networks_NNS in_IN the_DT US_NNP ._.
+So_IN it_PRP is_VBZ simply_RB a_DT 2G_JJ phone_NN ._.
+But_CC when_WRB I_PRP have_VBP the_DT wifi_NNS -LRB-_-LRB- at_IN home_NN ,_, work_NN and_CC other_JJ places_NNS that_WDT provide_VBP wifi_NNS -RRB-_-RRB- turned_VBD on_IN it_PRP is_VBZ slower_JJR than_IN my_PRP$ blackberry_NN curve_NN ._.

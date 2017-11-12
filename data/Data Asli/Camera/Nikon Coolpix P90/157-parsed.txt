@@ -1,0 +1,151 @@
+=========
+
+nsubj(owned-3, I-1)
+nsubj(considering-10, I-1)
+aux(owned-3, have-2)
+root(ROOT-0, owned-3)
+amod(Cameras-7, several-4)
+nn(Cameras-7, Nikon-5)
+nn(Cameras-7, Digital-6)
+dobj(owned-3, Cameras-7)
+aux(considering-10, was-9)
+conj_and(owned-3, considering-10)
+det(SLR-12, an-11)
+dobj(considering-10, SLR-12)
+tmod(read-15, SLR-12)
+advmod(read-15, when-13)
+nsubj(read-15, I-14)
+dep(SLR-12, read-15)
+det(reviews-17, the-16)
+dobj(read-15, reviews-17)
+det(camera-20, this-19)
+prep_on(read-15, camera-20)
+
+=========
+
+nsubj(everything-3, It-1)
+cop(everything-3, is-2)
+root(ROOT-0, everything-3)
+mwe(than-6, more-5)
+quantmod(promised-7, than-6)
+conj_and(everything-3, promised-7)
+
+=========
+
+nsubj(returned-3, I-1)
+advmod(returned-3, just-2)
+root(ROOT-0, returned-3)
+det(trip-6, a-5)
+prep_from(returned-3, trip-6)
+prep_to(returned-3, Italy-8)
+det(pictures-11, the-10)
+nsubj(best-14, pictures-11)
+cop(best-14, are-12)
+det(best-14, the-13)
+conj_and(returned-3, best-14)
+dobj(taken-18, best-14)
+nsubj(taken-18, I-15)
+aux(taken-18, have-16)
+advmod(taken-18, ever-17)
+rcmod(best-14, taken-18)
+
+=========
+
+det(angle-3, The-1)
+amod(angle-3, wide-2)
+nsubj(wide-8, angle-3)
+nsubj(sufficient-25, angle-3)
+cop(wide-8, is-4)
+neg(wide-8, not-5)
+advmod(wide-8, quite-6)
+advmod(wide-8, as-7)
+root(ROOT-0, wide-8)
+poss(5000-13, my-10)
+amod(5000-13, old-11)
+nn(5000-13, Nikon-12)
+prep_as(wide-8, 5000-13)
+det(lense-18, a-15)
+amod(lense-18, wide-16)
+nn(lense-18, angle-17)
+prep_with(5000-13, lense-18)
+prep_with(5000-13, adaptor-20)
+conj_and(lense-18, adaptor-20)
+advmod(than-24, more-23)
+advmod(sufficient-25, than-24)
+conj_but(wide-8, sufficient-25)
+
+=========
+
+prep_in(able-5, Paris-2)
+nsubj(able-5, I-3)
+cop(able-5, was-4)
+root(ROOT-0, able-5)
+aux(photograph-7, to-6)
+xcomp(able-5, photograph-7)
+det(facade-10, the-8)
+amod(facade-10, entire-9)
+dobj(photograph-7, facade-10)
+nn(Cour-13, Sacre-12)
+prep_of(facade-10, Cour-13)
+partmod(Cour-13, standing-14)
+prep_in_front_of(standing-14, it-18)
+
+=========
+
+det(feature-3, The-1)
+nn(feature-3, sports-2)
+nsubj(incredible-5, feature-3)
+cop(incredible-5, is-4)
+root(ROOT-0, incredible-5)
+
+=========
+
+nsubj(used-2, I-1)
+root(ROOT-0, used-2)
+nsubj(take-5, it-3)
+aux(take-5, to-4)
+xcomp(used-2, take-5)
+dobj(take-5, pictures-6)
+poss(daughters-10, my-8)
+amod(daughters-10, grand-9)
+nn(game-13, daughters-10)
+amod(game-13, little-11)
+nn(game-13, league-12)
+prep_of(pictures-6, game-13)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(step-4, every-3)
+dobj(got-2, step-4)
+poss(swing-8, her-6)
+nn(swing-8, bat-7)
+prep_of(step-4, swing-8)
+det(picture-11, each-10)
+nsubj(clear-13, picture-11)
+cop(clear-13, was-12)
+conj_and(got-2, clear-13)
+conj_and(got-2, in-15)
+conj_and(clear-13, in-15)
+prep_in(clear-13, focus-16)
+
+=========
+
+nsubj(took-2, It-1)
+root(ROOT-0, took-2)
+num(pictures-4, 15-3)
+dobj(took-2, pictures-4)
+mwe(than-7, less-6)
+quantmod(a-8, than-7)
+num(minute-9, a-8)
+prep_in(pictures-4, minute-9)
+
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+

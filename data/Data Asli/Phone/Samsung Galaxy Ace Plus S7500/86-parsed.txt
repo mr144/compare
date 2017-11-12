@@ -1,0 +1,39 @@
+=========
+
+nsubj(phone-7, It-1)
+cop(phone-7, is-2)
+neg(phone-7, not-3)
+det(phone-7, a-4)
+nn(phone-7, US-5)
+nn(phone-7, version-6)
+root(ROOT-0, phone-7)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(come-5, it-3)
+aux(come-5, may-4)
+ccomp(think-2, come-5)
+prep_from(come-5, UK-7)
+
+=========
+
+cc(like-3, But-1)
+nsubj(like-3, I-2)
+root(ROOT-0, like-3)
+dobj(like-3, it-4)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(upgrades-6, a-3)
+amod(upgrades-6, few-4)
+nn(upgrades-6, hardware-5)
+dobj(has-2, upgrades-6)
+partmod(upgrades-6, comparing-7)
+nn(Ace-11, Samsung-9)
+nn(Ace-11, Galaxy-10)
+prep_with(comparing-7, Ace-11)
+

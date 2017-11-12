@@ -1,0 +1,33 @@
+=========
+
+det(package-2, The-1)
+nsubj(came-3, package-2)
+root(ROOT-0, came-3)
+prep_without(came-3, delay-5)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, was-2)
+ccomp(light-12, easy-3)
+aux(put-5, to-4)
+xcomp(easy-3, put-5)
+advmod(put-5, together-6)
+det(unit-10, the-8)
+nn(unit-10, TV-9)
+nsubj(light-12, unit-10)
+nsubj(easy-14, unit-10)
+cop(light-12, is-11)
+root(ROOT-0, light-12)
+conj_and(light-12, easy-14)
+aux(move-16, to-15)
+xcomp(light-12, move-16)
+
+=========
+
+amod(unit-2, Good-1)
+root(ROOT-0, unit-2)
+prepc_for(unit-2, using-4)
+det(DVD-6, the-5)
+dobj(using-4, DVD-6)
+

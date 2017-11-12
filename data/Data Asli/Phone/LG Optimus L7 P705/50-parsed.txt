@@ -1,0 +1,107 @@
+=========
+
+root(ROOT-0, Superb-1)
+dobj(Superb-1, product-2)
+
+=========
+
+amod(screen-2, Large-1)
+root(ROOT-0, screen-2)
+
+=========
+
+nn(version-2, OS-1)
+nsubj(version-8, version-2)
+cop(version-8, is-3)
+det(version-8, the-4)
+amod(version-8, latest-5)
+conj_and(latest-5, fastest-7)
+amod(version-8, fastest-7)
+root(ROOT-0, version-8)
+
+=========
+
+nn(MP-3, Camera-1)
+num(MP-3, 5-2)
+root(ROOT-0, MP-3)
+appos(MP-3, ok-5)
+
+=========
+
+det(types-2, All-1)
+nsubjpass(played-6, types-2)
+prep_of(types-2, videos-4)
+auxpass(played-6, are-5)
+root(ROOT-0, played-6)
+
+=========
+
+nsubj(give-2, Headphones-1)
+root(ROOT-0, give-2)
+amod(effect-4, superb-3)
+dobj(give-2, effect-4)
+det(songs-7, the-6)
+prep_of(effect-4, songs-7)
+
+=========
+
+cc(comes-4, But-1)
+det(mobile-3, the-2)
+nsubj(comes-4, mobile-3)
+root(ROOT-0, comes-4)
+prep_with(comes-4, lots-6)
+nn(apps-11, chinese-8)
+conj_or(chinese-8, korean-10)
+nn(apps-11, korean-10)
+prep_of(lots-6, apps-11)
+
+=========
+
+cc(know-14, And-1)
+prep_at(know-14, first-3)
+nsubj(is-5, it-4)
+rcmod(first-3, is-5)
+nn(language-10, chinese-7)
+conj_or(chinese-7, korean-9)
+nn(language-10, korean-9)
+prep_in(is-5, language-10)
+aux(know-14, did-12)
+neg(know-14, not-13)
+root(ROOT-0, know-14)
+nsubj(do-17, what-15)
+aux(do-17, to-16)
+ccomp(know-14, do-17)
+xcomp(know-14, do-17)
+
+=========
+
+advmod(guide-4, Even-1)
+det(guide-4, the-2)
+nn(guide-4, User-3)
+nsubj(is-5, guide-4)
+root(ROOT-0, is-5)
+det(language-8, that-7)
+prep_in(is-5, language-8)
+
+=========
+
+advmod(changed-7, So-1)
+prep_by(changed-7, trial-3)
+conj_or(trial-3, error-5)
+prep_by(changed-7, error-5)
+nsubj(changed-7, method-6)
+nsubj(got-11, method-6)
+root(ROOT-0, changed-7)
+det(language-9, the-8)
+dobj(changed-7, language-9)
+conj_and(changed-7, got-11)
+poss(breath-13, my-12)
+dobj(got-11, breath-13)
+
+=========
+
+cc(phone-4, But-1)
+amod(super-3, overall-2)
+nsubj(phone-4, super-3)
+root(ROOT-0, phone-4)
+

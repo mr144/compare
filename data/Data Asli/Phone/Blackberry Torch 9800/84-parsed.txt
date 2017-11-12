@@ -1,0 +1,31 @@
+=========
+
+det(screen-2, The-1)
+nsubj(sensitive-5, screen-2)
+cop(sensitive-5, is-3)
+advmod(sensitive-5, too-4)
+root(ROOT-0, sensitive-5)
+advmod(well-7, as-6)
+mwe(well-7, as-6)
+advmod(sensitive-5, well-7)
+poss(difficult-11, its-9)
+advmod(difficult-11, very-10)
+prep_as(well-7, difficult-11)
+aux(handle-13, to-12)
+xcomp(difficult-11, handle-13)
+
+=========
+
+advmod(am-4, However-1)
+advmod(am-4, when-2)
+nsubj(am-4, I-3)
+dep(feels-10, am-4)
+det(call-7, a-6)
+prep_on(am-4, call-7)
+det(phone-9, the-8)
+nsubj(feels-10, phone-9)
+root(ROOT-0, feels-10)
+acomp(feels-10, cute-11)
+poss(ears-14, my-13)
+prep_at(cute-11, ears-14)
+

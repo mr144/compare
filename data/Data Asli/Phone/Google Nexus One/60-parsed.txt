@@ -1,0 +1,34 @@
+=========
+
+root(ROOT-0, Soooperrrrrrrrrr-1)
+dep(more-4, what-3)
+dep(can-6, more-4)
+nsubj(can-6, you-5)
+dep(Soooperrrrrrrrrr-1, can-6)
+prep_about(can-6, this-8)
+
+=========
+
+advmod(expected-4, just-1)
+npadvmod(as-3, works-2)
+advmod(expected-4, as-3)
+root(ROOT-0, expected-4)
+
+=========
+
+nsubj(awesome-3, response-1)
+cop(awesome-3, is-2)
+root(ROOT-0, awesome-3)
+
+=========
+
+nsubj(good-3, battery-1)
+cop(good-3, is-2)
+root(ROOT-0, good-3)
+
+=========
+
+dep(buy-3, well-1)
+amod(buy-3, worth-2)
+root(ROOT-0, buy-3)
+

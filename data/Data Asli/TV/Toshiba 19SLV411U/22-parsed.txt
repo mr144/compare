@@ -1,0 +1,85 @@
+=========
+
+root(ROOT-0, Bought-1)
+dobj(Bought-1, this-2)
+poss(wife-5, my-4)
+prep_for(this-2, wife-5)
+det(present-9, a-7)
+nn(present-9, Christmas-8)
+prep_as(wife-5, present-9)
+
+=========
+
+dobj(received-4, First-1)
+nsubj(dead-6, First-1)
+num(First-1, one-2)
+nsubj(received-4, I-3)
+rcmod(First-1, received-4)
+cop(dead-6, was-5)
+root(ROOT-0, dead-6)
+prep_on(dead-6, arrival-8)
+
+=========
+
+root(ROOT-0, Returned-1)
+prep_to(Returned-1, Amazon-3)
+
+=========
+
+amod(unit-2, Replacement-1)
+nsubj(stopped-3, unit-2)
+root(ROOT-0, stopped-3)
+xcomp(stopped-3, working-4)
+num(days-7, 30-6)
+prep_after(working-4, days-7)
+
+=========
+
+auxpass(prepared-2, Be-1)
+root(ROOT-0, prepared-2)
+aux(spend-4, to-3)
+xcomp(prepared-2, spend-4)
+dobj(spend-4, lots-5)
+prep_of(lots-5, time-7)
+prep_on(spend-4, hold-9)
+prep_with(spend-4, Toshiba-11)
+
+=========
+
+advmod(working-2, Still-1)
+csubj(expired-18, working-2)
+prepc_on(working-2, returning-4)
+amod(unit-6, 2nd-5)
+dobj(returning-4, unit-6)
+prep_to(returning-4, them-8)
+mark(failed-11, as-9)
+nsubj(failed-11, it-10)
+advcl(returning-4, failed-11)
+advmod(failed-11, just-12)
+nn(window-15, return-14)
+prep_after(failed-11, window-15)
+prep_at(failed-11, Amazon-17)
+root(ROOT-0, expired-18)
+
+=========
+
+root(ROOT-0, Avoid-1)
+det(TV-3, this-2)
+dobj(Avoid-1, TV-3)
+
+=========
+
+nsubj(headaches-4, It-1)
+cop(headaches-4, is-2)
+amod(headaches-4, only-3)
+root(ROOT-0, headaches-4)
+
+=========
+
+nn(I-2, Wish-1)
+nsubj(bought-4, I-2)
+aux(bought-4, had-3)
+root(ROOT-0, bought-4)
+nsubj(else-6, something-5)
+xcomp(bought-4, else-6)
+

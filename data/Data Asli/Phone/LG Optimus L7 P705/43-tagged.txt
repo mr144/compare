@@ -1,0 +1,6 @@
+The_DT phone_NN looks_VBZ beautiful_JJ and_CC cute_JJ but_CC it_PRP is_VBZ very_RB frustrating_JJ using_VBG it_PRP ._.
+It_PRP freezes_VBZ on_IN me_PRP ,_, very_RB very_RB very_RB slow_JJ ._.
+When_WRB you_PRP give_VBP it_PRP a_DT command_NN ,_, it_PRP takes_VBZ forever_RB to_TO execute_VB the_DT command_NN ._.
+Am_NNP disappointed_VBD with_IN its_PRP$ usage_NN and_CC am_VBP not_RB enjoying_VBG it_PRP ._.
+If_IN there_EX is_VBZ any_DT suggestion_NN to_TO enhance_VB its_PRP$ performance_NN ,_, i_FW will_MD welcome_VB it_PRP ._.
+thanks_NNS ._.

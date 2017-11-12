@@ -1,0 +1,7 @@
+In_IN the_DT beginning_NN ,_, it_PRP was_VBD fast_JJ and_CC responsive_JJ ._.
+Everything_NNP reacted_VBD very_RB fast_RB ._.
+But_CC after_IN I_PRP upgraded_VBD it_PRP with_IN ICS_NNP ,_, the_DT phone_NN became_VBD very_RB slow_JJ ._.
+Basic_JJ functions_NNS -LRB-_-LRB- open_JJ dialing_NN ,_, contacts_NNS ,_, camera_NN ,_, album_NN -RRB-_-RRB- needs_VBZ to_TO wait_VB for_IN 3_CD ~_CD 5_CD second_JJ ._.
+Sometimes_RB the_DT camera_NN crashes_NNS due_JJ to_TO memory_NN problem_NN ._.
+I_PRP regret_VBP upgrading_VBG OS_NNP to_TO ICS_NNP ._.
+Maybe_RB RAM_NNP is_VBZ not_RB enough_RB for_IN ICS_NNP ._.

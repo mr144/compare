@@ -1,0 +1,48 @@
+=========
+
+nsubj(received-2, I-1)
+root(ROOT-0, received-2)
+dobj(received-2, it-3)
+det(days-6, a-4)
+amod(days-6, few-5)
+npadvmod(ago-7, days-6)
+advmod(received-2, ago-7)
+
+=========
+
+csubj(!!-3, Loving-1)
+dobj(Loving-1, it-2)
+root(ROOT-0, !!-3)
+nsubj(live-5, I-4)
+ccomp(!!-3, live-5)
+nn(Paulo-8, Sao-7)
+prep_in(live-5, Paulo-8)
+appos(Paulo-8, Brazil-10)
+det(phone-14, the-13)
+nsubj(works-15, phone-14)
+conj_and(!!-3, works-15)
+acomp(works-15, great-16)
+poss(GSM-20, TIM-18)
+prep_in(great-16, GSM-20)
+prep_in(great-16, 3G-22)
+conj_and(GSM-20, 3G-22)
+
+=========
+
+advmod(wants-4, Now-1)
+poss(wife-3, my-2)
+nsubj(wants-4, wife-3)
+root(ROOT-0, wants-4)
+dobj(wants-4, one-5)
+advmod(wants-4, too-7)
+
+=========
+
+root(ROOT-0, By-1)
+pobj(By-1, Breno-2)
+neg(shown-7, not-4)
+dep(as-6, Luis-5)
+advmod(shown-7, as-6)
+dep(Breno-2, shown-7)
+prep(shown-7, above-8)
+

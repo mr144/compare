@@ -1,0 +1,113 @@
+=========
+
+poss(DMC-ZS8-4, My-1)
+nn(DMC-ZS8-4, Panasonic-2)
+nn(DMC-ZS8-4, Lumix-3)
+nsubj(comes-5, DMC-ZS8-4)
+root(ROOT-0, comes-5)
+prt(comes-5, through-6)
+prepc_with(comes-5, flying-8)
+dobj(flying-8, colors-9)
+prep_on(flying-8, clarity-11)
+prep_on(flying-8, color-13)
+conj_and(clarity-11, color-13)
+det(variety-18, a-16)
+amod(variety-18, vast-17)
+prep_on(flying-8, variety-18)
+conj_and(clarity-11, variety-18)
+amod(modes-21, shooting-20)
+prep_of(variety-18, modes-21)
+
+=========
+
+root(ROOT-0, Not-1)
+advmod(sure-3, too-2)
+dep(Not-1, sure-3)
+det(settings-9, the-5)
+nn(settings-9, shutter-6)
+conj_and(shutter-6, aperture-8)
+nn(settings-9, aperture-8)
+prep_about(sure-3, settings-9)
+prep(sure-3, as-10)
+pcomp(as-10, yet-11)
+
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+csubj(came-16, photographing-3)
+advmod(slow-6, very-5)
+amod(speeds-8, slow-6)
+nn(speeds-8, shutter-7)
+prep_at(photographing-3, speeds-8)
+dep(setting-12, the-10)
+det(setting-12, A-11)
+prep_on(photographing-3, setting-12)
+det(pics-15, the-14)
+prep_on(photographing-3, pics-15)
+conj_and(setting-12, pics-15)
+ccomp(tried-2, came-16)
+prt(came-16, out-17)
+dobj(came-16, way-18)
+partmod(way-18, overexposed-19)
+
+=========
+
+det(exposure-2, The-1)
+nsubjpass(set-6, exposure-2)
+aux(set-6, should-3)
+auxpass(set-6, be-4)
+advmod(set-6, automatically-5)
+root(ROOT-0, set-6)
+det(setting-9, that-8)
+prep_at(set-6, setting-9)
+
+=========
+
+advmod(upload-6, Also-1)
+nsubj(upload-6, you-3)
+aux(upload-6, can-4)
+advmod(upload-6, only-5)
+root(ROOT-0, upload-6)
+det(photos-8, the-7)
+dobj(upload-6, photos-8)
+det(computer-11, the-10)
+prep_to(upload-6, computer-11)
+nsubj(slow-19, computer-11)
+det(camera-14, the-13)
+prep_via(computer-11, camera-14)
+advmod(camera-14, itself-15)
+cop(slow-19, is-18)
+rcmod(computer-11, slow-19)
+
+=========
+
+csubj(work-11, Trying-1)
+dobj(Trying-1, it-2)
+poss(device-8, my-4)
+amod(device-8, fast-5)
+nn(device-8, memory-6)
+nn(device-8, reader-7)
+prep_with(Trying-1, device-8)
+aux(work-11, did-9)
+neg(work-11, not-10)
+root(ROOT-0, work-11)
+advmod(work-11, at-12)
+pobj(at-12, all-13)
+
+=========
+
+ccomp(sailing-8, Other-1)
+prep_than(Other-1, that-3)
+nsubj(sailing-8, it-5)
+cop(sailing-8, is-6)
+amod(sailing-8, smooth-7)
+root(ROOT-0, sailing-8)
+nsubj(love-12, I-11)
+conj_and(sailing-8, love-12)
+det(option-17, that-13)
+num(option-17, 16:9-14)
+nn(option-17, aspect-15)
+nn(option-17, ratio-16)
+dobj(love-12, option-17)
+

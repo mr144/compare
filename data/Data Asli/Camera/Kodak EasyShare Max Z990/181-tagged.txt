@@ -1,0 +1,7 @@
+I_PRP just_RB got_VBD a_DT Kodak_NNP Z990_NNP digital_JJ camera_NN ,_, and_CC found_VBD instructions_NNS on_IN the_DT Kodak_NNP site_NN to_TO upgrade_VB the_DT firmware_NN to_TO the_DT latest_JJS version_NN ._.
+I_PRP have_VBP a_DT memory_NN card_NN which_WDT I_PRP used_VBD ,_, following_VBG instructions_NNS at_IN Kodak_NNP ._.
+I_PRP followed_VBD the_DT instructions_NNS but_CC the_DT camera_NN never_RB did_VBD indicate_VB how_WRB to_TO update_VB the_DT new_JJ firmware_NN ._.
+I_PRP tried_VBD twice_RB ,_, erasing_VBG between_IN times_NNS ._.
+The_DT camera_NN does_VBZ not_RB come_VB up_RP with_IN installation_NN instructions_NNS ._.
+So_IN HOW_NNP do_VBP I_PRP get_VB it_PRP off_IN the_DT memory_NN card_NN and_CC into_IN the_DT camera_NN ?_.
+Please_VB ?_.

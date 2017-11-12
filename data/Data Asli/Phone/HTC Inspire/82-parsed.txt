@@ -1,0 +1,27 @@
+=========
+
+det(product-2, The-1)
+nsubj(was-3, product-2)
+root(ROOT-0, was-3)
+amod(conditions-6, perfect-5)
+prep_in(was-3, conditions-6)
+nsubj(right-10, everything-8)
+cop(right-10, was-9)
+conj_and(was-3, right-10)
+
+=========
+
+det(cell-3, A-1)
+amod(cell-3, fantastic-2)
+nsubj(phone-4, cell-3)
+root(ROOT-0, phone-4)
+
+=========
+
+nsubjpass(sent-3, It-1)
+auxpass(sent-3, was-2)
+root(ROOT-0, sent-3)
+prepc_according_to(sent-3, to-5)
+nn(conditions-7, shipment-6)
+pobj(sent-3, conditions-7)
+

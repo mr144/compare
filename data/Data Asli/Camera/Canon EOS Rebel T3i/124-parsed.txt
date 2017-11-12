@@ -1,0 +1,32 @@
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, is-2)
+ccomp(takes-7, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+root(ROOT-0, takes-7)
+amod(pictures-9, great-8)
+nsubj(takes-7, pictures-9)
+det(monitor-14, the-11)
+amod(monitor-14, flip-12)
+nn(monitor-14, out-13)
+nsubj(takes-7, monitor-14)
+conj_and(pictures-9, monitor-14)
+cop(touch-18, is-15)
+det(touch-18, a-16)
+amod(touch-18, nice-17)
+rcmod(monitor-14, touch-18)
+
+=========
+
+nsubj(take-3, You-1)
+aux(take-3, can-2)
+root(ROOT-0, take-3)
+amod(pictures-7, great-4)
+nn(pictures-7, night-5)
+nn(pictures-7, time-6)
+tmod(take-3, pictures-7)
+det(camera-10, this-9)
+prep_with(take-3, camera-10)
+

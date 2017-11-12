@@ -1,0 +1,94 @@
+=========
+
+nsubj(fan-5, I-1)
+cop(fan-5, am-2)
+det(fan-5, no-3)
+amod(fan-5, photo-4)
+root(ROOT-0, fan-5)
+
+=========
+
+nsubj(wanted-3, I-1)
+xsubj(own-5, I-1)
+advmod(wanted-3, just-2)
+ccomp(places-21, wanted-3)
+aux(own-5, to-4)
+xcomp(wanted-3, own-5)
+det(camera-15, a-6)
+amod(camera-15, powerful-7)
+dep(powerful-7, easy-9)
+prep_to(easy-9, use-11)
+amod(camera-15, high-13)
+nn(camera-15, quality-14)
+dobj(own-5, camera-15)
+aux(shoot-17, to-16)
+xcomp(own-5, shoot-17)
+nn(portraits-19, family-18)
+dobj(shoot-17, portraits-19)
+root(ROOT-0, places-21)
+nsubj(visit-23, I-22)
+ccomp(places-21, visit-23)
+det(engineering-27, some-26)
+nsubj(projects-28, engineering-27)
+conj_and(places-21, projects-28)
+nsubj(managing-31, I-29)
+aux(managing-31, am-30)
+ccomp(projects-28, managing-31)
+
+=========
+
+poss(succesfully-5, My-1)
+nn(succesfully-5, Nikon-2)
+nn(succesfully-5, Coolpix-3)
+nn(succesfully-5, P90-4)
+nsubj(fulfilled-6, succesfully-5)
+root(ROOT-0, fulfilled-6)
+dobj(fulfilled-6, all-7)
+dobj(needed-9, all-7)
+nsubj(needed-9, I-8)
+rcmod(all-7, needed-9)
+
+=========
+
+prepc_after(became-8, playing-2)
+det(camera-5, the-4)
+prep_with(playing-2, camera-5)
+nsubj(became-8, it-7)
+root(ROOT-0, became-8)
+amod(tu-10, natural-9)
+nsubj(use-11, tu-10)
+ccomp(became-8, use-11)
+dobj(use-11, it-12)
+
+=========
+
+nsubj(shooted-2, I-1)
+root(ROOT-0, shooted-2)
+det(photos-5, some-3)
+amod(photos-5, great-4)
+dobj(shooted-2, photos-5)
+
+=========
+
+nsubj(plan-2, I-1)
+xsubj(learn-4, I-1)
+root(ROOT-0, plan-2)
+aux(learn-4, to-3)
+xcomp(plan-2, learn-4)
+dobj(learn-4, more-5)
+prep_about(learn-4, it-7)
+mark(take-11, so-8)
+nsubj(take-11, I-9)
+aux(take-11, can-10)
+advcl(learn-4, take-11)
+amod(advantege-13, full-12)
+dobj(take-11, advantege-13)
+poss(options-17, its-15)
+amod(options-17, multiple-16)
+prep_of(advantege-13, options-17)
+
+=========
+
+nn(Koweindl-2, Alejandro-1)
+root(ROOT-0, Koweindl-2)
+

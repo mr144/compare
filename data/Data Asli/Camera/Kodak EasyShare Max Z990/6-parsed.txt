@@ -1,0 +1,50 @@
+=========
+
+nsubj(owned-3, I-1)
+aux(owned-3, have-2)
+root(ROOT-0, owned-3)
+det(Z990-5, the-4)
+dobj(owned-3, Z990-5)
+det(couple-8, a-7)
+prep_for(Z990-5, couple-8)
+prep_of(couple-8, years-10)
+dep(gift-16, so-12)
+nsubj(gift-16, this-13)
+cop(gift-16, was-14)
+det(gift-16, a-15)
+parataxis(owned-3, gift-16)
+poss(sister-19, my-18)
+prep_for(gift-16, sister-19)
+
+=========
+
+det(camera-3, A-1)
+amod(camera-3, great-2)
+root(ROOT-0, camera-3)
+amod(photos-13, more-5)
+amod(zoom-8, adequate-7)
+prep_than(more-5, zoom-8)
+advmod(clear-11, very-10)
+conj_and(more-5, clear-11)
+amod(photos-13, clear-11)
+nn(photos-13, quality-12)
+prep_with(camera-3, photos-13)
+
+=========
+
+det(digital-3, a-2)
+prep_for(great-9, digital-3)
+det(life-7, the-5)
+nn(life-7, battery-6)
+nsubj(great-9, life-7)
+cop(great-9, is-8)
+root(ROOT-0, great-9)
+det(ease-12, the-11)
+nsubj(made-15, ease-12)
+prep_of(ease-12, operation-14)
+conj_and(great-9, made-15)
+predet(gift-19, this-16)
+det(gift-19, the-17)
+amod(gift-19, perfect-18)
+dobj(made-15, gift-19)
+

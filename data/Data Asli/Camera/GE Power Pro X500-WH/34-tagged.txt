@@ -1,0 +1,3 @@
+It_PRP 's_VBZ compact_JJ ,_, sporty-looking_JJ ,_, and_CC easy_JJ to_TO use_VB ._.
+A_DT good_JJ choice_NN ._.
+I_PRP am_VBP sure_JJ I_PRP will_MD use_VB it_PRP for_IN a_DT long_JJ time_NN ._.

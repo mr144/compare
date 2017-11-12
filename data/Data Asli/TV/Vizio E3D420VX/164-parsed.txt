@@ -1,0 +1,128 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(deal-5, a-3)
+amod(deal-5, fantastic-4)
+dobj(got-2, deal-5)
+det(television-8, this-7)
+prep_on(got-2, television-8)
+prep_through(got-2, amazon-10)
+
+=========
+
+det(picture-2, The-1)
+nsubj(amazing-4, picture-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+nn(satellite-4, HD-3)
+dobj(have-2, satellite-4)
+det(picture-7, the-6)
+nsubj(clear-10, picture-7)
+nsubj(crisp-12, picture-7)
+cop(clear-10, is-8)
+advmod(clear-10, so-9)
+conj_and(have-2, clear-10)
+conj_and(have-2, crisp-12)
+conj_and(clear-10, crisp-12)
+nsubj(feel-14, I-13)
+ccomp(clear-10, feel-14)
+advmod(reach-19, as-15)
+dep(reach-19, if-16)
+nsubj(reach-19, I-17)
+nsubj(touch-22, I-17)
+aux(reach-19, could-18)
+ccomp(feel-14, reach-19)
+prt(reach-19, out-20)
+ccomp(feel-14, touch-22)
+conj_and(reach-19, touch-22)
+det(characters-24, the-23)
+dobj(touch-22, characters-24)
+det(screen-27, the-26)
+prep_on(touch-22, screen-27)
+
+=========
+
+det(internet-2, The-1)
+nsubj(apps-3, internet-2)
+root(ROOT-0, apps-3)
+complm(Netflix-9, that-4)
+amod(use-6, i-5)
+nsubj(Netflix-9, use-6)
+cop(Netflix-9, are-7)
+det(Netflix-9, the-8)
+ccomp(apps-3, Netflix-9)
+det(video-14, the-11)
+nn(video-14, Amazon-12)
+amod(video-14, instant-13)
+ccomp(apps-3, video-14)
+conj_and(Netflix-9, video-14)
+
+=========
+
+nsubj(work-2, Both-1)
+nsubj(remote-6, Both-1)
+root(ROOT-0, work-2)
+advmod(work-2, well-3)
+det(remote-6, the-5)
+conj_and(work-2, remote-6)
+amod(buttons-10, quick-8)
+nn(buttons-10, start-9)
+prep_as(remote-6, buttons-10)
+prep_for(buttons-10, them-12)
+
+=========
+
+det(sound-2, The-1)
+nsubj(leaves-3, sound-2)
+root(ROOT-0, leaves-3)
+det(lot-5, a-4)
+dobj(leaves-3, lot-5)
+aux(desired-8, to-6)
+cop(desired-8, be-7)
+infmod(lot-5, desired-8)
+nsubj(think-11, I-10)
+conj_but(leaves-3, think-11)
+advmod(screens-14, most-12)
+amod(screens-14, big-13)
+nsubj(do-15, screens-14)
+ccomp(think-11, do-15)
+
+=========
+
+number(360-2, Xbox-1)
+num(games-3, 360-2)
+nsubj(look-4, games-3)
+root(ROOT-0, look-4)
+acomp(look-4, fantastic-5)
+det(screen-8, the-7)
+prep_on(look-4, screen-8)
+
+=========
+
+nsubj(Vizio-5, This-1)
+cop(Vizio-5, is-2)
+poss(Vizio-5, my-3)
+amod(Vizio-5, second-4)
+root(ROOT-0, Vizio-5)
+nsubj(purchasing-10, I-7)
+aux(purchasing-10, will-8)
+aux(purchasing-10, be-9)
+conj_and(Vizio-5, purchasing-10)
+dobj(purchasing-10, another-11)
+det(office-14, the-13)
+prep_for(another-11, office-14)
+
+=========
+
+aux(recommend-2, Would-1)
+root(ROOT-0, recommend-2)
+det(television-4, this-3)
+dobj(recommend-2, television-4)
+prep_to(recommend-2, anyone-6)
+

@@ -1,0 +1,64 @@
+=========
+
+nsubj(deal-6, This-1)
+cop(deal-6, was-2)
+advmod(deal-6, probably-3)
+det(deal-6, a-4)
+amod(deal-6, fantastic-5)
+root(ROOT-0, deal-6)
+mark(seen-11, as-7)
+nsubj(seen-11, I-8)
+aux(seen-11, have-9)
+neg(seen-11, not-10)
+advcl(deal-6, seen-11)
+det(price-13, any-12)
+nsubj(beat-16, price-13)
+advmod(else-15, anywhere-14)
+advmod(beat-16, else-15)
+ccomp(seen-11, beat-16)
+dobj(beat-16, it-17)
+
+=========
+
+nsubj(realize-5, I-1)
+advmod(realize-5, just-2)
+aux(realize-5, did-3)
+neg(realize-5, not-4)
+root(ROOT-0, realize-5)
+complm(distorted-16, that-6)
+det(picture-8, the-7)
+nsubjpass(distorted-16, picture-8)
+det(TV-13, any-10)
+amod(TV-13, large-11)
+nn(TV-13, screen-12)
+prep_on(picture-8, TV-13)
+aux(distorted-16, can-14)
+auxpass(distorted-16, be-15)
+ccomp(realize-5, distorted-16)
+dobj(distorted-16, b\/c-17)
+det(size-21, the-19)
+amod(size-21, increased-20)
+prep_of(b\/c-17, size-21)
+prep(distorted-16, depending-22)
+pcomp(depending-22, upon-23)
+advmod(projecting-29, how-24)
+det(channels-27, the-25)
+amod(channels-27, individual-26)
+nsubj(projecting-29, channels-27)
+aux(projecting-29, are-28)
+prepc_upon(depending-22, projecting-29)
+
+=========
+
+advmod(deal-8, Overall-1)
+advmod(deal-8, though-3)
+det(good-7, a-5)
+advmod(good-7, very-6)
+nsubj(deal-8, good-7)
+root(ROOT-0, deal-8)
+
+=========
+
+nn(TV-2, Nice-1)
+root(ROOT-0, TV-2)
+

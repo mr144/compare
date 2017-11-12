@@ -1,0 +1,31 @@
+=========
+
+root(ROOT-0, Love-1)
+det(camera-3, this-2)
+dep(Love-1, camera-3)
+
+=========
+
+root(ROOT-0, Took-1)
+amod(pictures-3, great-2)
+dobj(Took-1, pictures-3)
+det(trip-9, a-5)
+amod(trip-9, long-6)
+conj_and(long-6, extensive-8)
+amod(trip-9, extensive-8)
+prep_through(Took-1, trip-9)
+prep_through(trip-9, China-11)
+aux(enjoyed-14, have-13)
+conj_and(Took-1, enjoyed-14)
+det(photos-16, the-15)
+dobj(enjoyed-14, photos-16)
+advmod(enjoyed-14, enormously-17)
+advmod(since-19, ever-18)
+dep(enjoyed-14, since-19)
+mark(have-22, as-21)
+dep(since-19, have-22)
+amod(friends-24, numerous-23)
+dobj(have-22, friends-24)
+dobj(have-22, acquaintances-26)
+conj_and(friends-24, acquaintances-26)
+

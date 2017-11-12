@@ -1,0 +1,3 @@
+For_IN TVs_NNS I_PRP only_RB go_VBP with_IN the_DT 3_NNP S_NNP 's_POS ,_, Samsung_NNP ,_, Sony_NNP and_CC Sharp_NNP ._.
+This_DT TV_NN offers_VBZ lifelike_JJ clarity_NN for_IN an_DT extremely_RB low_JJ price_NN considering_VBG what_WP all_DT you_PRP are_VBP getting_VBG ._.
+The_DT Sony_NNP BRAVIA_NNP brand_NN is_VBZ second_JJ to_TO none_NN ,_, and_CC getting_VBG a_DT 40_CD +_NN inch_NN one_CD for_IN this_DT price_NN should_MD be_VB illegal_JJ ._.

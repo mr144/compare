@@ -1,0 +1,16 @@
+=========
+
+det(deleted-4, hello-1)
+poss(deleted-4, my-2)
+nn(deleted-4, son-3)
+dep(help-9, deleted-4)
+det(firmware-6, the-5)
+dep(deleted-4, firmware-6)
+aux(help-9, can-7)
+nsubj(help-9, you-8)
+root(ROOT-0, help-9)
+nsubj(restore-12, me-10)
+aux(restore-12, to-11)
+xcomp(help-9, restore-12)
+dobj(restore-12, it-13)
+

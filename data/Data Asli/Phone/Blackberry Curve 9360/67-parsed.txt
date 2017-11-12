@@ -1,0 +1,44 @@
+=========
+
+det(phone-2, The-1)
+nsubj(good-4, phone-2)
+cop(good-4, was-3)
+root(ROOT-0, good-4)
+det(part-8, the-6)
+amod(part-8, most-7)
+prep_for(good-4, part-8)
+
+=========
+
+det(battery-2, The-1)
+nsubj(seemed-3, battery-2)
+root(ROOT-0, seemed-3)
+det(bit-5, a-4)
+nsubj(used-6, bit-5)
+ccomp(seemed-3, used-6)
+dep(scratches-10, just-8)
+amod(scratches-10, minor-9)
+dep(used-6, scratches-10)
+
+=========
+
+det(housing-2, The-1)
+nsubj(was-3, housing-2)
+root(ROOT-0, was-3)
+advmod(tad-6, just-4)
+det(tad-6, a-5)
+npadvmod(bit-7, tad-6)
+advmod(was-3, bit-7)
+advmod(bit-7, loose-8)
+det(bottom-11, the-10)
+prep_on(was-3, bottom-11)
+
+=========
+
+nsubj(excellent-7, Other-1)
+predet(phone-5, those-3)
+det(phone-5, the-4)
+prep_than(Other-1, phone-5)
+cop(excellent-7, is-6)
+root(ROOT-0, excellent-7)
+

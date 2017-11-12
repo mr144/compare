@@ -1,0 +1,30 @@
+=========
+
+nn(Camera-2, Great-1)
+root(ROOT-0, Camera-2)
+
+=========
+
+advmod(nice-2, Really-1)
+amod(pictures-3, nice-2)
+root(ROOT-0, pictures-3)
+conj_and(pictures-3, video-5)
+
+=========
+
+advmod(going-5, Though-1)
+nsubj(going-5, it-3)
+aux(going-5, is-4)
+root(ROOT-0, going-5)
+quantmod(274-8, around-7)
+prep_for(going-5, 274-8)
+prep_at(going-5, BestBuy-10)
+
+=========
+
+det(price-2, This-1)
+nsubj(is-3, price-2)
+root(ROOT-0, is-3)
+dep(is-3, way-4)
+prep_out_of(is-3, range-7)
+

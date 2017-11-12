@@ -1,0 +1,26 @@
+=========
+
+nsubjpass(worried-4, We-1)
+auxpass(worried-4, were-2)
+advmod(worried-4, initially-3)
+root(ROOT-0, worried-4)
+mark(heard-9, since-5)
+nsubj(heard-9, we-6)
+aux(heard-9, had-7)
+neg(heard-9, never-8)
+advcl(worried-4, heard-9)
+nn(cameras-12, GE-11)
+prep_of(heard-9, cameras-12)
+nsubj(camera-19, this-15)
+cop(camera-19, is-16)
+det(camera-19, a-17)
+amod(camera-19, great-18)
+conj_but(worried-4, camera-19)
+
+=========
+
+advmod(worth-2, Well-1)
+root(ROOT-0, worth-2)
+det(price-4, the-3)
+pobj(worth-2, price-4)
+

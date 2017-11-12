@@ -1,0 +1,172 @@
+=========
+
+nsubj(bought-2, We-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+mark(wanted-7, because-5)
+nsubj(wanted-7, we-6)
+advcl(bought-2, wanted-7)
+dobj(wanted-7, one-8)
+aux(take-10, to-9)
+xcomp(wanted-7, take-10)
+dep(quality-12, higher-11)
+amod(photos-13, quality-12)
+dobj(take-10, photos-13)
+dobj(take-10, videos-15)
+conj_and(photos-13, videos-15)
+
+=========
+
+det(pictures-2, The-1)
+dobj(taken-5, pictures-2)
+nsubj(good-8, pictures-2)
+nsubj(taken-5, we-3)
+aux(taken-5, have-4)
+rcmod(pictures-2, taken-5)
+aux(good-8, have-6)
+cop(good-8, been-7)
+root(ROOT-0, good-8)
+
+=========
+
+cc(BAD-6, But-1)
+det(video-3, the-2)
+nsubj(BAD-6, video-3)
+cop(BAD-6, is-4)
+nn(BAD-6, REALLY-5)
+root(ROOT-0, BAD-6)
+
+=========
+
+nsubj(used-2, We-1)
+root(ROOT-0, used-2)
+det(camera-4, this-3)
+dobj(used-2, camera-4)
+aux(film-6, to-5)
+infmod(camera-4, film-6)
+poss(granddaughters-8, my-7)
+poss(recital-11, granddaughters-8)
+nn(recital-11, dance-10)
+dobj(film-6, recital-11)
+
+=========
+
+det(videos-2, The-1)
+nsubj(worthless-4, videos-2)
+cop(worthless-4, are-3)
+root(ROOT-0, worthless-4)
+
+=========
+
+nsubj(thought-2, I-1)
+root(ROOT-0, thought-2)
+complm(have-8, that-3)
+advmod(have-8, maybe-4)
+nsubj(have-8, we-5)
+aux(have-8, did-6)
+neg(have-8, not-7)
+ccomp(thought-2, have-8)
+det(right-11, the-9)
+amod(right-11, settings-10)
+dobj(have-8, right-11)
+
+=========
+
+cc(saw-13, But-1)
+poss(son-3, my-2)
+nsubj(photographer-9, son-3)
+nsubj(saw-13, son-3)
+cop(photographer-9, is-6)
+det(photographer-9, a-7)
+amod(photographer-9, professional-8)
+rcmod(son-3, photographer-9)
+rcmod(son-3, videographer-11)
+conj_and(photographer-9, videographer-11)
+root(ROOT-0, saw-13)
+dep(wrong-15, nothing-14)
+acomp(saw-13, wrong-15)
+det(settings-18, the-17)
+prep_with(saw-13, settings-18)
+
+=========
+
+nsubj(suppose-2, I-1)
+root(ROOT-0, suppose-2)
+nsubj(use-5, we-3)
+aux(use-5, will-4)
+ccomp(suppose-2, use-5)
+det(camera-7, this-6)
+dobj(use-5, camera-7)
+prep_for(camera-7, stills-9)
+advmod(use-5, only-10)
+
+=========
+
+det(thing-2, Another-1)
+nsubj(fact-9, thing-2)
+amod(fault-5, my-4)
+appos(thing-2, fault-5)
+cop(fact-9, is-7)
+det(fact-9, the-8)
+root(ROOT-0, fact-9)
+complm(uses-13, that-10)
+det(camera-12, the-11)
+nsubj(uses-13, camera-12)
+ccomp(fact-9, uses-13)
+num(batteries-16, 4-14)
+nn(batteries-16, AA-15)
+dobj(uses-13, batteries-16)
+nsubj(last-19, batteries-16)
+rcmod(batteries-16, last-19)
+num(day-22, one-21)
+prep_about(last-19, day-22)
+
+=========
+
+nsubj(have-2, We-1)
+root(ROOT-0, have-2)
+det(camera-5, another-3)
+nn(camera-5, Finepix-4)
+dobj(have-2, camera-5)
+nsubj(has-7, camera-5)
+rcmod(camera-5, has-7)
+det(base-10, a-8)
+nn(base-10, charging-9)
+dobj(has-7, base-10)
+nsubj(assumed-14, I-13)
+conj_and(have-2, assumed-14)
+det(one-16, this-15)
+nsubj(have-18, one-16)
+aux(have-18, would-17)
+ccomp(assumed-14, have-18)
+dobj(have-18, one-19)
+advmod(have-18, too-21)
+
+=========
+
+advmod(fault-6, Again-1)
+nsubj(fault-6, this-3)
+cop(fault-6, was-4)
+poss(fault-6, my-5)
+root(ROOT-0, fault-6)
+
+=========
+
+nsubj(purchased-5, We-1)
+aux(purchased-5, would-2)
+neg(purchased-5, never-3)
+aux(purchased-5, have-4)
+dep(poor-16, purchased-5)
+det(camera-7, this-6)
+nsubj(had-8, camera-7)
+ccomp(purchased-5, had-8)
+nsubj(known-10, we-9)
+xcomp(had-8, known-10)
+det(video-12, the-11)
+nsubj(poor-16, video-12)
+aux(poor-16, would-13)
+cop(poor-16, be-14)
+advmod(poor-16, so-15)
+root(ROOT-0, poor-16)
+

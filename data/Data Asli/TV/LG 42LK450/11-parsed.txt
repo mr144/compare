@@ -1,0 +1,45 @@
+=========
+
+nsubj(purchase-2, I-1)
+root(ROOT-0, purchase-2)
+det(TV-4, this-3)
+dobj(purchase-2, TV-4)
+prep_on(TV-4, Amazon-6)
+prepc_after(purchase-2, being-8)
+advmod(Buy-11, Best-10)
+prepc_at(being-8, Buy-11)
+prepc_at(being-8, seeing-13)
+conj_and(Buy-11, seeing-13)
+dobj(Buy-11, it-14)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, 's-2)
+root(ROOT-0, easy-3)
+aux(put-5, to-4)
+xcomp(easy-3, put-5)
+advmod(put-5, together-6)
+nsubj(needed-9, I-8)
+xsubj(come-17, I-8)
+conj_but(easy-3, needed-9)
+det(Squad-12, the-10)
+nn(Squad-12, Geek-11)
+dobj(needed-9, Squad-12)
+amod(Buy-15, Best-14)
+prep_from(needed-9, Buy-15)
+aux(come-17, to-16)
+xcomp(needed-9, come-17)
+prt(come-17, out-18)
+xcomp(needed-9, connect-20)
+conj_and(come-17, connect-20)
+predet(components-23, all-21)
+poss(components-23, my-22)
+dobj(connect-20, components-23)
+prep_to(connect-20, it-25)
+
+=========
+
+root(ROOT-0, Love-1)
+dobj(Love-1, it-2)
+

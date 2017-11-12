@@ -1,0 +1,5 @@
+PROS_NNS :_: -_: Great_JJ optics_NNS for_IN the_DT price_NN -_: Great_JJ zoom_NN ._.
+A_DT little_JJ -LRB-_-LRB- 1_CD or_CC 2_CD steps_NNS -RRB-_-RRB- digital_JJ zoom_NN helps_VBZ ,_, too_RB much_RB will_MD ruin_VB your_PRP$ pics_NNS ._.
+-_: Fast_NNP Saving_NNP &_CC processing_NN in_IN shot-to-shot_NN ._.
+-_: Impressive_NNP HD_NNP burst_NN mode_NN ,_, very_RB fast_RB ._.
+You_PRP can_MD have_VB some_DT fun_NN with_IN this_DT ._.

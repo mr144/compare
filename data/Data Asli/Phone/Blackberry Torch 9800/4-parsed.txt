@@ -1,0 +1,43 @@
+=========
+
+root(ROOT-0, Thanks-1)
+
+=========
+
+advmod(good-2, very-1)
+amod(everything-3, good-2)
+nsubj(ok-4, everything-3)
+root(ROOT-0, ok-4)
+
+=========
+
+nn(functions-2, Perfect-1)
+nsubj(congratulations-3, functions-2)
+root(ROOT-0, congratulations-3)
+nsubj(love-5, i-4)
+ccomp(congratulations-3, love-5)
+dobj(love-5, it-6)
+
+=========
+
+root(ROOT-0, thank-1)
+nsubj(much-4, you-2)
+advmod(much-4, very-3)
+xcomp(thank-1, much-4)
+
+=========
+
+root(ROOT-0, Recommended-1)
+det(phone-3, this-2)
+dobj(Recommended-1, phone-3)
+prep_for(phone-3, latinamerica-5)
+
+=========
+
+root(ROOT-0, Ok-1)
+
+=========
+
+nn(bless-2, God-1)
+root(ROOT-0, bless-2)
+

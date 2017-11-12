@@ -1,0 +1,43 @@
+=========
+
+amod(pieza-2, excelente-1)
+root(ROOT-0, pieza-2)
+amod(precio-6, calidad-4)
+nn(precio-6, y-5)
+appos(pieza-2, precio-6)
+number(%-9, 100-8)
+amod(todos-12, %-9)
+nn(todos-12, recomendado-10)
+nn(todos-12, para-11)
+appos(precio-6, todos-12)
+
+=========
+
+nn(y-3, los-1)
+nn(y-3, detalles-2)
+nsubj(es-21, y-3)
+prep(y-3, la-4)
+pobj(la-4, innovaci&oacute;n-5)
+nn(X500-BK-10, GE-7)
+nn(X500-BK-10, Power-8)
+nn(X500-BK-10, Pro-9)
+appos(y-3, X500-BK-10)
+num(MP-12, 16-11)
+npadvmod(con-13, MP-12)
+advmod(y-3, con-13)
+nn(&oacute;ptico-15, Zoom-14)
+dep(y-3, &oacute;ptico-15)
+num(&oacute;ptico-15, 15-16)
+nn(Digital-19, x-17)
+nn(Digital-19, C&aacute;mara-18)
+dep(&oacute;ptico-15, Digital-19)
+root(ROOT-0, es-21)
+amod(producto-24, un-22)
+nn(producto-24, gran-23)
+dobj(es-21, producto-24)
+
+=========
+
+amod(adquisici&oacute;n-2, buena-1)
+root(ROOT-0, adquisici&oacute;n-2)
+

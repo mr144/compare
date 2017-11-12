@@ -1,0 +1,11 @@
+I_PRP bought_VBD the_DT Torch_NNP with_IN high_JJ expectations_NNS and_CC assumed_VBD that_IN RIM_NNP had_VBD finally_RB got_VBN its_PRP$ act_NN together_RB and_CC created_VBD a_DT slick_JJ product_NN ._.
+Unfortunately_RB while_IN the_DT Torch_NNP has_VBZ a_DT fairly_RB nice_JJ screen_NN ,_, OS_NNP 6_CD is_VBZ disappointing_JJ and_CC the_DT phone_NN has_VBZ plenty_NN of_IN fatal_JJ flaws_NNS ._.
+Some_DT examples_NNS :_: -_: Search_NNP finds_VBZ hits_NNS but_CC does_VBZ not_RB display_VB the_DT results_NNS !_.
+-_: Touch_NN on_IN a_DT message_NN ,_, but_CC the_DT one_NN below_RB opens_VBZ ._.
+-_: Easy_JJ to_TO hit_VB the_DT wrong_JJ key_NN ,_, as_IN a_DT result_NN I_PRP have_VBP plenty_NN of_IN accidental_JJ deletions_NNS -_: No_DT easy_JJ shortcuts_NNS -_: Long_JJ menus_NNS that_WDT take_VBP a_DT long_JJ time_NN to_TO navigate_VB ._.
+Way_NNP too_RB many_JJ clicks_NNS to_TO get_VB anywhere_RB ._.
+-_: Options_NNS and_CC settings_NNS are_VBP frustrating_VBG to_TO use_VB -LRB-_-LRB- even_RB for_IN a_DT tech_JJ geek_NN like_IN me_PRP -RRB-_-RRB- -_: Browser_NNP is_VBZ still_RB pathetic_JJ compared_VBN with_IN the_DT competition_NN -_: Ludicrously_RB sensitive_JJ and_CC inaccurate_JJ screen_NN ._.
+Screen_NN lock_NN disengages_VBZ in_IN my_PRP$ pocket_NN far_RB too_RB easily_RB -_: No_DT orientation_NN lock_NN and_CC orientation_NN sensor_NN is_VBZ not_RB as_RB good_JJ as_IN the_DT iPhoneI_NNP am_VBP a_DT business_NN user_NN and_CC many_JJ of_IN the_DT features_NNS are_VBP blocked_VBN ,_, but_CC even_RB then_RB the_DT basics_NNS are_VBP not_RB great_JJ ._.
+The_DT simplest_JJS solution_NN is_VBZ to_TO buy_VB an_DT iPhone_NN ._.
+Iphone_NNP 3GS_NNP is_VBZ nicer_JJR than_IN Torch_NNP ._.
+Even_RB the_DT first_JJ version_NN of_IN the_DT iPhone_NNP software_NN beat_NN OS_VBZ 6_CD ._.

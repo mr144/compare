@@ -1,0 +1,3 @@
+Great_NNP Value_NNP !!!_NNP Had_VBD this_DT TV_NN for_IN 3_CD full_JJ months_NNS and_CC it_PRP is_VBZ simply_RB great_JJ ._.
+Great_JJ picture_NN quality_NN ,_, good_JJ price_NN ,_, ..._: ._. ._.
+if_IN you_PRP want_VBP a_DT smart_JJ tv_NN ,_, hook_NN up_RP your_PRP$ computer_NN to_TO this_DT TV_NN ._.

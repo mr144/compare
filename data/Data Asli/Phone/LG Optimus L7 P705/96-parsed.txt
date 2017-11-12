@@ -1,0 +1,43 @@
+=========
+
+nsubj(expecting-3, i-1)
+aux(expecting-3, was-2)
+root(ROOT-0, expecting-3)
+det(thing-5, another-4)
+dobj(expecting-3, thing-5)
+det(phone-8, this-7)
+prep_about(thing-5, phone-8)
+
+=========
+
+nsubj(like-4, i-1)
+aux(like-4, do-2)
+neg(like-4, not-3)
+root(ROOT-0, like-4)
+complm(i-12, that-5)
+advmod(it-7, much-6)
+nsubj(i-12, it-7)
+cop(i-12, is-8)
+dep(faster-10, no-9)
+advmod(i-12, faster-10)
+det(i-12, that-11)
+ccomp(like-4, i-12)
+partmod(i-12, thinking-13)
+dep(thinking-13, about-14)
+
+=========
+
+poss(sometimes-4, its-1)
+advmod(slow-3, very-2)
+amod(sometimes-4, slow-3)
+nsubj(need-7, sometimes-4)
+xsubj(reset-9, sometimes-4)
+conj_and(sometimes-4, i-6)
+nsubj(need-7, i-6)
+xsubj(reset-9, i-6)
+root(ROOT-0, need-7)
+aux(reset-9, to-8)
+xcomp(need-7, reset-9)
+nsubj(everytime-11, it-10)
+xcomp(reset-9, everytime-11)
+

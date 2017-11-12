@@ -1,0 +1,5 @@
+I_PRP bought_VBD a_DT Vizio_NNP TV_NN about_IN 3_CD years_NNS ago_RB ._.
+About_IN a_DT year_NN ago_RB ,_, they_PRP changed_VBD the_DT VIA_NNP apps_NNS ,_, forcing_VBG some_DT apps_NNS -LRB-_-LRB- which_WDT I_PRP do_VBP not_RB use_VB -RRB-_-RRB- to_TO be_VB docked_VBN on_IN the_DT app_NN bar_NN ._.
+Tech_NNP Support_NN explained_VBD that_IN this_DT was_VBD done_VBN because_IN newer_JJR TVs_NNS worked_VBD differently_RB ,_, and_CC those_DT apps_NNS had_VBD to_TO be_VB there_RB in_IN order_NN to_TO make_VB them_PRP work_VB right_RB ._.
+They_PRP refused_VBD to_TO do_VB anything_NN to_TO correct_VB the_DT problem_NN ._.
+So_RB long-time_JJ customers_NNS with_IN older_JJR TVs_NNS are_VBP not_RB considered_VBN worth_IN supporting_VBG by_IN Vizio_NNP ._.

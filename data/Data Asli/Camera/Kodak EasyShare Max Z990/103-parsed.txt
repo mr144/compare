@@ -1,0 +1,58 @@
+=========
+
+nsubj(Point-5, This-1)
+cop(Point-5, is-2)
+det(Point-5, the-3)
+amod(Point-5, best-4)
+root(ROOT-0, Point-5)
+dobj(owned-11, Point-5)
+nn(camera-8, Shoot-7)
+conj_and(Point-5, camera-8)
+dobj(owned-11, camera-8)
+nsubj(owned-11, I-9)
+aux(owned-11, have-10)
+rcmod(Point-5, owned-11)
+
+=========
+
+nsubj(great-3, It-1)
+dep(great-3, does-2)
+root(ROOT-0, great-3)
+amod(areas-7, low-5)
+nn(areas-7, lighting-6)
+prep_in(great-3, areas-7)
+nsubj(has-10, it-9)
+conj_and(great-3, has-10)
+advmod(many-12, so-11)
+amod(features-13, many-12)
+dobj(has-10, features-13)
+nsubj(make-15, features-13)
+rcmod(features-13, make-15)
+xcomp(make-15, switching-16)
+poss(camera-18, your-17)
+dobj(switching-16, camera-18)
+prep_from(switching-16, indoor-20)
+amod(pictures-23, outdoor-22)
+prep_to(switching-16, pictures-23)
+advmod(easy-25, real-24)
+amod(pictures-23, easy-25)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, highly-3)
+root(ROOT-0, recommend-4)
+det(camera-6, this-5)
+dobj(recommend-4, camera-6)
+
+=========
+
+det(money-3, the-2)
+prep_for(is-7, money-3)
+det(camera-6, this-5)
+nsubj(is-7, camera-6)
+root(ROOT-0, is-7)
+det(penny-10, every-9)
+prep_worth(is-7, penny-10)
+

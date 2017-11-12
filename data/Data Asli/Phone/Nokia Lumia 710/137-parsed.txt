@@ -1,0 +1,66 @@
+=========
+
+det(phone-3, An-1)
+amod(phone-3, excellent-2)
+root(ROOT-0, phone-3)
+
+=========
+
+det(perfect-2, The-1)
+root(ROOT-0, perfect-2)
+amod(smartphone-5, first-4)
+dep(perfect-2, smartphone-5)
+
+=========
+
+nn(marketplace-2, Windows-1)
+nsubj(good-4, marketplace-2)
+nsubj(growing-6, marketplace-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+conj_and(good-4, growing-6)
+
+=========
+
+nn(quality-2, Voice-1)
+nsubj(good-5, quality-2)
+cop(good-5, is-3)
+advmod(good-5, very-4)
+root(ROOT-0, good-5)
+
+=========
+
+det(integration-3, the-1)
+amod(integration-3, Facebook-2)
+root(ROOT-0, integration-3)
+
+=========
+
+nsubj(pull-3, I-1)
+aux(pull-3, can-2)
+root(ROOT-0, pull-3)
+prt(pull-3, up-4)
+poss(galleries-8, my-5)
+nn(galleries-8, Facebook-6)
+nn(galleries-8, photo-7)
+dobj(pull-3, galleries-8)
+
+=========
+
+nsubj('s-2, It-1)
+root(ROOT-0, 's-2)
+det(page-6, the-4)
+amod(page-6, main-5)
+prep_on('s-2, page-6)
+poss(phone-9, my-8)
+prep_of(page-6, phone-9)
+
+=========
+
+nsubj(integrate-3, I-1)
+aux(integrate-3, can-2)
+root(ROOT-0, integrate-3)
+det(account-6, any-4)
+amod(account-6, email-5)
+dobj(integrate-3, account-6)
+

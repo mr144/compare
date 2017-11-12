@@ -1,0 +1,53 @@
+=========
+
+det(TV-2, The-1)
+nsubjpass(described-5, TV-2)
+auxpass(described-5, was-3)
+advmod(described-5, as-4)
+root(ROOT-0, described-5)
+
+=========
+
+nsubj(easy-3, It-1)
+nsubj(has-8, It-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(set-5, to-4)
+xcomp(easy-3, set-5)
+prt(set-5, up-6)
+conj_and(easy-3, has-8)
+amod(quality-10, good-9)
+dobj(has-8, quality-10)
+
+=========
+
+det(feature-3, The-1)
+nn(feature-3, Smart-2)
+nsubj(difficult-7, feature-3)
+xsubj(maneuver-9, feature-3)
+cop(difficult-7, was-4)
+det(bit-6, a-5)
+npadvmod(difficult-7, bit-6)
+root(ROOT-0, difficult-7)
+aux(maneuver-9, to-8)
+xcomp(difficult-7, maneuver-9)
+prt(maneuver-9, through-10)
+prep_on(maneuver-9, screen-12)
+
+=========
+
+nsubj(purchased-2, We-1)
+root(ROOT-0, purchased-2)
+det(keyboard-5, a-3)
+amod(keyboard-5, wireless-4)
+dobj(purchased-2, keyboard-5)
+aux(use-7, to-6)
+xcomp(purchased-2, use-7)
+det(TV-10, the-9)
+prep_with(use-7, TV-10)
+nsubj(help-15, TV-10)
+cop(help-15, was-12)
+det(help-15, a-13)
+amod(help-15, great-14)
+rcmod(TV-10, help-15)
+

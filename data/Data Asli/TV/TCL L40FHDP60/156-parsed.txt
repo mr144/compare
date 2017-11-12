@@ -1,0 +1,50 @@
+=========
+
+det(sound-2, The-1)
+nsubj(good-5, sound-2)
+cop(good-5, is-3)
+advmod(good-5, pretty-4)
+root(ROOT-0, good-5)
+nn(speakers-8, buying-7)
+nsubj(helps-9, speakers-8)
+conj_but(good-5, helps-9)
+det(lot-11, a-10)
+dobj(helps-9, lot-11)
+
+=========
+
+det(picture-2, The-1)
+nsubj(best-6, picture-2)
+cop(best-6, is-3)
+neg(best-6, not-4)
+det(best-6, the-5)
+root(ROOT-0, best-6)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(resolution-5, a-3)
+amod(resolution-5, 1080p-4)
+dobj(has-2, resolution-5)
+nsubj(good-8, resolution-5)
+cop(good-8, is-7)
+rcmod(resolution-5, good-8)
+nsubj(has-12, it-10)
+advmod(has-12, only-11)
+conj_but(has-2, has-12)
+det(rate-16, a-13)
+amod(rate-16, 60hz-14)
+nn(rate-16, refresh-15)
+dobj(has-12, rate-16)
+nsubj(makes-18, rate-16)
+rcmod(rate-16, makes-18)
+det(picture-20, the-19)
+nsubj(clear-24, picture-20)
+det(lot-22, a-21)
+dep(clear-24, lot-22)
+advmod(clear-24, less-23)
+xcomp(makes-18, clear-24)
+nn(scenes-27, action-26)
+prep_in(clear-24, scenes-27)
+

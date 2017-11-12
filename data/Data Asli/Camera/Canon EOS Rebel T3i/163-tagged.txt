@@ -1,0 +1,4 @@
+The_DT Canon_NNP rebel_NN t3i_CD is_VBZ a_DT great_JJ SLR_NNP camera_NN ._.
+It_PRP has_VBZ many_JJ features_NNS that_WDT allow_VBP for_IN professional_JJ photography_NN ._.
+The_DT manual_JJ mode_NN is_VBZ easy_JJ to_TO use_VB and_CC change_VB the_DT aperture_NN speed_NN ,_, shutter_NN speed_NN ,_, exposure_NN ,_, etc._FW ._.
+One_CD thing_NN I_PRP would_MD say_VB though_IN is_VBZ the_DT flash_NN is_VBZ a_DT little_JJ bit_NN weak_JJ ._.

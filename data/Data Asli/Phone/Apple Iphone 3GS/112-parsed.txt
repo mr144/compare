@@ -1,0 +1,48 @@
+=========
+
+nsubj(mean-2, I-1)
+ccomp(people-9, mean-2)
+nsubj(people-9, it-4)
+cop(people-9, is-5)
+det(people-9, an-6)
+amod(people-9, iphone-7)
+num(people-9, 3-8)
+root(ROOT-0, people-9)
+
+=========
+
+nsubj(okay-3, It-1)
+cop(okay-3, was-2)
+root(ROOT-0, okay-3)
+det(bit-6, a-5)
+npadvmod(slow-7, bit-6)
+dep(okay-3, slow-7)
+prep_with(slow-7, actions-9)
+advmod(okay-3, here-10)
+advmod(okay-3, there-12)
+conj_and(here-10, there-12)
+
+=========
+
+cc(screen-15, And-1)
+num(day-3, one-2)
+tmod(screen-15, day-3)
+det(bubble-7, a-5)
+amod(bubble-7, huge-6)
+nsubj(screen-15, bubble-7)
+cop(screen-15, appeared-8)
+det(screen-11, the-10)
+prep_under(screen-15, screen-11)
+amod(screen-15, disabling-12)
+det(screen-15, the-13)
+nn(screen-15, touch-14)
+root(ROOT-0, screen-15)
+
+=========
+
+nsubj(went-2, That-1)
+root(ROOT-0, went-2)
+advmod(but-4, away-3)
+advmod(went-2, but-4)
+advmod(went-2, still-5)
+

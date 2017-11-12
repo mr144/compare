@@ -1,0 +1,83 @@
+=========
+
+nsubj(used-3, I-1)
+neg(used-3, never-2)
+root(ROOT-0, used-3)
+dobj(used-3, it-4)
+poss(wife-7, my-6)
+nsubj(loves-8, wife-7)
+conj_but(used-3, loves-8)
+dobj(loves-8, it-9)
+
+=========
+
+nsubj(keep-4, she-1)
+aux(keep-4, can-2)
+neg(keep-4, not-3)
+root(ROOT-0, keep-4)
+poss(face-6, her-5)
+dobj(keep-4, face-6)
+prep_out_of(keep-4, it-9)
+
+=========
+
+cc(must-3, But-1)
+nsubj(must-3, I-2)
+root(ROOT-0, must-3)
+det(optimus-5, the-4)
+ccomp(must-3, optimus-5)
+nsubj(is-7, l7-6)
+rcmod(optimus-5, is-7)
+det(user-12, the-9)
+amod(user-12, average-10)
+amod(user-12, android-11)
+prep_for(is-7, user-12)
+poss(house-18, its-14)
+neg(a-16, not-15)
+amod(house-18, a-16)
+nn(house-18, power-17)
+dobj(optimus-5, house-18)
+
+=========
+
+amod(web-2, occasional-1)
+nsubj(good-12, web-2)
+partmod(web-2, browsing-3)
+xcomp(browsing-3, pushing-4)
+dobj(pushing-4, emails-5)
+amod(gaming-8, modern-7)
+dobj(pushing-4, gaming-8)
+conj_and(emails-5, gaming-8)
+cop(good-12, is-9)
+advmod(good-12, pretty-10)
+advmod(good-12, much-11)
+root(ROOT-0, good-12)
+det(phone-14, this-13)
+nsubj(good-16, phone-14)
+cop(good-16, is-15)
+ccomp(good-12, good-16)
+prep(good-16, for-17)
+
+=========
+
+det(sensor-2, the-1)
+nsubj(strong-8, sensor-2)
+det(phone-5, the-4)
+prep_in(sensor-2, phone-5)
+cop(strong-8, is-6)
+advmod(strong-8, really-7)
+root(ROOT-0, strong-8)
+nsubj(has-10, she-9)
+ccomp(strong-8, has-10)
+det(signal-13, a-11)
+nn(signal-13, ok-12)
+dobj(has-10, signal-13)
+dobj(goes-16, signal-13)
+advmod(signal-13, everywhere-14)
+nsubj(goes-16, she-15)
+rcmod(signal-13, goes-16)
+advmod(out-18, even-17)
+advmod(goes-16, out-18)
+nn(areas-21, Royal-20)
+prep_in(goes-16, areas-21)
+

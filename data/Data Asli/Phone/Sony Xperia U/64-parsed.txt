@@ -1,0 +1,62 @@
+=========
+
+det(phone-2, This-1)
+nsubj(gift-6, phone-2)
+cop(gift-6, was-3)
+det(gift-6, a-4)
+nn(gift-6, Christmas-5)
+root(ROOT-0, gift-6)
+poss(sister-9, my-8)
+prep_for(gift-6, sister-9)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+det(phone-4, this-3)
+nsubj(excellent-6, phone-4)
+cop(excellent-6, is-5)
+ccomp(think-2, excellent-6)
+det(women-9, a-8)
+prep_for(excellent-6, women-9)
+nsubj(has-12, it-11)
+conj_and(think-2, has-12)
+amod(weight-14, light-13)
+dobj(has-12, weight-14)
+nsubj(big-20, it-16)
+nsubj(has-25, it-16)
+cop(big-20, is-17)
+neg(big-20, not-18)
+advmod(big-20, too-19)
+conj_and(think-2, big-20)
+prep_on(big-20, size-22)
+advmod(has-25, also-24)
+conj_and(think-2, has-25)
+conj_and(big-20, has-25)
+amod(screen-28, great-26)
+nn(screen-28, quality-27)
+dobj(has-25, screen-28)
+
+=========
+
+det(smartphone-2, This-1)
+nsubj(better-4, smartphone-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, curve-6)
+appos(curve-6, galaxy-8)
+nn(optimus-11, LG-10)
+appos(curve-6, optimus-11)
+dep(curve-6, etc.-13)
+
+=========
+
+nsubj(picked-5, I-1)
+aux(picked-5, could-2)
+neg(picked-5, not-3)
+aux(picked-5, have-4)
+root(ROOT-0, picked-5)
+det(phone-8, a-6)
+amod(phone-8, better-7)
+dobj(picked-5, phone-8)
+

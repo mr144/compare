@@ -1,0 +1,28 @@
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, it-4)
+
+=========
+
+num(month-3, one-2)
+prep_after(tubes-8, month-3)
+nsubj(tubes-8, it-4)
+cop(tubes-8, is-5)
+advmod(tubes-8, down-6)
+det(tubes-8, the-7)
+root(ROOT-0, tubes-8)
+
+=========
+
+nsubj(missed-3, I-1)
+advmod(missed-3, just-2)
+root(ROOT-0, missed-3)
+det(window-6, the-4)
+nn(window-6, return-5)
+dobj(missed-3, window-6)
+num(days-9, 4-8)
+prep_by(missed-3, days-9)
+

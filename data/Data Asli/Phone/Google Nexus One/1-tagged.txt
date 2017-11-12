@@ -1,0 +1,3 @@
+I_PRP purchased_VBD this_DT phone_NN and_CC has_VBZ problems_NNS with_IN it_PRP almost_RB from_IN the_DT start_NN ._.
+First_RB the_DT camera_NN stopped_VBD working_VBG ,_, then_RB the_DT power_NN button_NN had_VBD issues_NNS ,_, until_IN the_DT on\/off_JJ switch_NN finally_RB stopped_VBD working_VBG completely_RB ._.
+Now_RB I_PRP can_MD not_RB turn_VB on_IN the_DT phone_NN at_IN all_DT --_: totally_RB useless_JJ ._.

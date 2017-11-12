@@ -1,0 +1,121 @@
+=========
+
+nsubj(purchased-2, i-1)
+root(ROOT-0, purchased-2)
+det(3g-5, the-3)
+amod(3g-5, iphone-4)
+dobj(purchased-2, 3g-5)
+dobj(purchased-2, 3g-5')
+conj_and(3g-5, 3g-5')
+partmod(3g-5, used-6)
+prep_like(3g-5, new-9)
+poss(surprise-13, my-12)
+prep_to(3g-5', surprise-13)
+det(phone-15, the-14)
+nsubj(looked-16, phone-15)
+nsubj(came-19, phone-15)
+rcmod(surprise-13, looked-16)
+dobj(looked-16, new-17)
+rcmod(surprise-13, came-19)
+conj_and(looked-16, came-19)
+poss(box-23, its-21)
+amod(box-23, original-22)
+prep_in(came-19, box-23)
+prep_in(came-19, charger-25)
+conj_and(box-23, charger-25)
+
+=========
+
+nsubj(used-2, i-1)
+nsubj(had-6, i-1)
+root(ROOT-0, used-2)
+dobj(used-2, it-3)
+advmod(used-2, immediately-4)
+conj_and(used-2, had-6)
+det(trouble-8, no-7)
+dobj(had-6, trouble-8)
+prep_with(trouble-8, it-10)
+
+=========
+
+dep(maybe-3, well-1)
+root(ROOT-0, maybe-3)
+advmod(one-5, just-4)
+pobj(maybe-3, one-5)
+
+=========
+
+nsubj(know-4, i-1)
+aux(know-4, did-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+advmod(put-7, how-5)
+nsubj(put-7, you-6)
+ccomp(know-4, put-7)
+poss(card-10, your-8)
+nn(card-10, sim-9)
+dobj(put-7, card-10)
+prep(put-7, in-11)
+
+=========
+
+advmod(called-4, but-1)
+nsubj(called-4, i-3)
+root(ROOT-0, called-4)
+poss(nephew-6, my-5)
+dobj(called-4, nephew-6)
+nsubj(explained-9, he-8)
+conj_and(called-4, explained-9)
+mark(had-13, since-10)
+nsubj(had-13, he-12)
+advcl(explained-9, had-13)
+npadvmod(prior-15, one-14)
+advmod(had-13, prior-15)
+
+=========
+
+dep(card-6, so-1)
+amod(card-6, easy-3)
+prep_after(easy-3, sim-5)
+root(ROOT-0, card-6)
+prep(card-6, in-7)
+
+=========
+
+aux(have-3, did-1)
+neg(have-3, not-2)
+root(ROOT-0, have-3)
+aux(call-5, to-4)
+xcomp(have-3, call-5)
+poss(carrier-8, my-6)
+nn(carrier-8, phone-7)
+dobj(call-5, carrier-8)
+dobj(call-5, anything-10)
+conj_or(carrier-8, anything-10)
+aux(make-12, to-11)
+xcomp(call-5, make-12)
+det(changes-14, any-13)
+dobj(make-12, changes-14)
+
+=========
+
+nsubj(pleased-4, i-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+poss(purchase-7, my-6)
+prep_with(pleased-4, purchase-7)
+
+=========
+
+cc(got-4, and-1)
+det(sellers-3, the-2)
+nsubj(got-4, sellers-3)
+root(ROOT-0, got-4)
+dobj(got-4, it-5)
+prep_to(got-4, me-7)
+det(days-12, a-9)
+amod(days-12, short-10)
+amod(days-12, few-11)
+prep_in(got-4, days-12)
+

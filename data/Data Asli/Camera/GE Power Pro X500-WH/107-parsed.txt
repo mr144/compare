@@ -1,0 +1,25 @@
+=========
+
+root(ROOT-0, Takes-1)
+amod(pictures-3, great-2)
+dobj(Takes-1, pictures-3)
+
+=========
+
+det(screen-2, The-1)
+nsubj(blurry-6, screen-2)
+cop(blurry-6, is-3)
+det(bit-5, a-4)
+npadvmod(blurry-6, bit-5)
+root(ROOT-0, blurry-6)
+advmod(load-10, when-8)
+nsubj(load-10, you-9)
+advcl(fabulous-18, load-10)
+det(pics-12, the-11)
+dobj(load-10, pics-12)
+det(computer-15, the-14)
+prep_to(load-10, computer-15)
+nsubj(fabulous-18, they-16)
+cop(fabulous-18, are-17)
+conj_but(blurry-6, fabulous-18)
+

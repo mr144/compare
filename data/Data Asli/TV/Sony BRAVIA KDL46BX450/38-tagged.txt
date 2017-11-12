@@ -1,0 +1,1 @@
+-_: TV_NN was_VBD delivered_VBN on_IN time_NN and_CC in_IN perfect_JJ condition_NN -_: Easy_JJ to_TO set_VB up_RP -_: We_PRP set_VBD Color_NNP Temperature_NNP to_TO Warm_JJ 1_CD -_: Using_VBG Roku_NNP streaming_VBG

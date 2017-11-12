@@ -1,0 +1,145 @@
+=========
+
+nsubj(had-2, I-1)
+xsubj(return-4, I-1)
+root(ROOT-0, had-2)
+aux(return-4, to-3)
+xcomp(had-2, return-4)
+det(phone-6, this-5)
+dobj(return-4, phone-6)
+
+=========
+
+nsubj(stand-4, I-1)
+aux(stand-4, could-2)
+neg(stand-4, not-3)
+root(ROOT-0, stand-4)
+dobj(stand-4, it-5)
+
+=========
+
+nsubj(expected-2, I-1)
+root(ROOT-0, expected-2)
+nsubj(step-7, it-3)
+aux(step-7, to-4)
+cop(step-7, be-5)
+det(step-7, a-6)
+xcomp(expected-2, step-7)
+dobj(had-14, step-7)
+advmod(step-7, up-8)
+det(8520-11, the-10)
+prep_from(up-8, 8520-11)
+nsubj(had-14, I-12)
+aux(had-14, have-13)
+rcmod(step-7, had-14)
+det(couple-17, a-16)
+prep_for(had-14, couple-17)
+prep_of(couple-17, years-19)
+nsubj(was-23, it-22)
+conj_and(expected-2, was-23)
+neg(was-23, not-24)
+
+=========
+
+amod(life-3, Ridiculous-1)
+nn(life-3, battery-2)
+nsubj(had-5, life-3)
+xsubj(plug-7, life-3)
+root(ROOT-0, had-5)
+aux(plug-7, to-6)
+xcomp(had-5, plug-7)
+dobj(plug-7, it-8)
+quantmod(times-11, several-10)
+prep_in(plug-7, times-11)
+det(day-13, a-12)
+dep(times-11, day-13)
+advmod(plug-7, even-15)
+det(use-19, that-17)
+amod(use-19, much-18)
+prep_without(plug-7, use-19)
+
+=========
+
+dep(quality-3, Lousy-1)
+nn(quality-3, phone-2)
+root(ROOT-0, quality-3)
+
+=========
+
+advmod(difficult-2, Very-1)
+root(ROOT-0, difficult-2)
+aux(browse-4, to-3)
+dep(difficult-2, browse-4)
+
+=========
+
+root(ROOT-0, Freezes-1)
+prt(Freezes-1, up-2)
+
+=========
+
+dep(pretty-4, Yes-1)
+nsubj(pretty-4, it-2)
+cop(pretty-4, was-3)
+root(ROOT-0, pretty-4)
+nsubj(feature-12, that-7)
+cop(feature-12, 's-8)
+poss(feature-12, its-9)
+advmod(feature-12, only-10)
+amod(feature-12, redeeming-11)
+conj_but(pretty-4, feature-12)
+
+=========
+
+dobj(do-4, Things-1)
+nsubj(take-11, Things-1)
+nsubj(do-4, you-2)
+aux(do-4, can-3)
+rcmod(Things-1, do-4)
+det(clicks-10, the-6)
+num(clicks-10, 8520-7)
+amod(clicks-10, in-8)
+num(clicks-10, 2-9)
+prep_on(do-4, clicks-10)
+root(ROOT-0, take-11)
+num(clicks-13, 5-12)
+dobj(take-11, clicks-13)
+det(9360-16, the-15)
+prep_on(clicks-13, 9360-16)
+
+=========
+
+num(weeks-3, 2-2)
+prep_after(threw-7, weeks-3)
+prep_of(weeks-3, frustration-5)
+nsubj(threw-7, I-6)
+root(ROOT-0, threw-7)
+det(towel-10, the-9)
+prep_in(threw-7, towel-10)
+
+=========
+
+det(smartphone-2, This-1)
+nsubj(worse-4, smartphone-2)
+cop(worse-4, is-3)
+root(ROOT-0, worse-4)
+nn(motorola-18, torch-6)
+dep(motorola-18, xperia-8)
+dep(motorola-18, nexus-10)
+dep(motorola-18, iphone-12)
+dep(motorola-18, lumia-14)
+dep(motorola-18, htc-16)
+prep_than(worse-4, motorola-18)
+
+=========
+
+nsubj(product-5, This-1)
+cop(product-5, is-2)
+det(product-5, the-3)
+amod(product-5, worst-4)
+root(ROOT-0, product-5)
+dobj(purchase-8, product-5)
+nsubj(purchase-8, i-6)
+advmod(purchase-8, ever-7)
+rcmod(product-5, purchase-8)
+

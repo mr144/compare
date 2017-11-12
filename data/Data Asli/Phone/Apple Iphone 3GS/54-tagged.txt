@@ -1,0 +1,4 @@
+First_RB off_IN i_FW put_VBN in_IN my_PRP$ sim_NN card_NN and_CC it_PRP would_MD not_RB read_VB it_PRP for_IN like_IN a_DT whole_JJ night_NN ._.
+it_PRP kept_VBD saying_VBG searching_VBG but_CC would_MD not_RB read_VB it_PRP ._.
+When_WRB it_PRP finally_RB read_VBD it_PRP the_DT problem_NN was_VBD it_PRP kept_VBD turning_VBG off_RP randomly_RB even_RB though_IN i_FW was_VBD at_IN 70_CD %_NN ._.
+Waste_NNP of_IN $_$ 190_CD

@@ -1,0 +1,2 @@
+I_PRP like_VBP that_DT fact_NN that_IN I_PRP have_VBP two_CD input_NN possibilities_NNS :_: a_DT Qwerty_NNP keyboard_NN and_CC the_DT touch_NN screen_NN ._.
+For_IN some_DT functionalities_NNS the_DT touch_NN screen_NN is_VBZ faster_JJR and_CC for_IN some_DT others_NNS the_DT qwerty_JJ keyboard_NN is_VBZ preferrable_JJ ._.

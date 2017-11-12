@@ -1,0 +1,217 @@
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+poss(camera-6, my-3)
+amod(camera-6, first-4)
+amod(camera-6, digital-5)
+root(ROOT-0, camera-6)
+mark(old-14, so-7)
+det(lot-9, a-8)
+nsubj(old-14, lot-9)
+prep_of(lot-9, this-11)
+aux(old-14, might-12)
+cop(old-14, be-13)
+advcl(camera-6, old-14)
+prep_to(old-14, you-16)
+nsubj(impressed-22, I-19)
+cop(impressed-22, am-20)
+advmod(impressed-22, very-21)
+conj_but(camera-6, impressed-22)
+predet(features-26, all-24)
+det(features-26, the-25)
+prep_by(impressed-22, features-26)
+
+=========
+
+dep(mode-5, For-1)
+pobj(For-1, example-2)
+nn(mode-5, baby-4)
+root(ROOT-0, mode-5)
+
+=========
+
+det(camera-2, This-1)
+nsubj(recognize-4, camera-2)
+nsubj(allow-8, camera-2)
+aux(recognize-4, can-3)
+root(ROOT-0, recognize-4)
+det(baby-6, a-5)
+dobj(recognize-4, baby-6)
+conj_and(recognize-4, allow-8)
+nn(input-10, text-9)
+dobj(allow-8, input-10)
+nn(date-13, birth-12)
+prep_of(input-10, date-13)
+advmod(disply-19, so-14)
+dep(disply-19, that-15)
+amod(photos-17, subsequent-16)
+nsubj(disply-19, photos-17)
+advmod(disply-19, automatically-18)
+advcl(allow-8, disply-19)
+det(ages-22, the-20)
+amod(ages-22, new-21)
+dobj(disply-19, ages-22)
+num(week-25, 1-24)
+dep(ages-22, week-25)
+num(month-28, 1-27)
+appos(week-25, month-28)
+num(months-31, 6-30)
+appos(week-25, months-31)
+dep(week-25, etc.-33)
+
+=========
+
+root(ROOT-0, Incredible-1)
+
+=========
+
+prep_in(identified-7, fact-2)
+nsubjpass(identified-7, anyone-4)
+aux(identified-7, can-5)
+auxpass(identified-7, be-6)
+root(ROOT-0, identified-7)
+det(system-12, a-9)
+amod(system-12, facial-10)
+nn(system-12, recognition-11)
+agent(identified-7, system-12)
+mark(named-16, after-13)
+nsubjpass(named-16, they-14)
+auxpass(named-16, are-15)
+advcl(identified-7, named-16)
+advmod(named-16, once-17)
+det(camera-20, the-19)
+prep_on(named-16, camera-20)
+
+=========
+
+dep(tried-6, Well-1)
+nsubj(tried-6, I-3)
+aux(tried-6, have-4)
+neg(tried-6, not-5)
+root(ROOT-0, tried-6)
+complm(unbelievable-11, that-7)
+cc(unbelievable-11, but-8)
+nsubj(unbelievable-11, it-9)
+cop(unbelievable-11, seems-10)
+dep(tried-6, unbelievable-11)
+
+=========
+
+amod(stablization-2, Image-1)
+nsubj(optional-4, stablization-2)
+cop(optional-4, is-3)
+root(ROOT-0, optional-4)
+
+=========
+
+advmod(many-2, Too-1)
+nsubj(features-3, many-2)
+xsubj(name-5, many-2)
+root(ROOT-0, features-3)
+aux(name-5, to-4)
+xcomp(features-3, name-5)
+advmod(name-5, here-6)
+
+=========
+
+det(factor-3, The-1)
+amod(factor-3, zoom-2)
+nsubj(amazing-5, factor-3)
+cop(amazing-5, is-4)
+root(ROOT-0, amazing-5)
+advmod(amazing-5, too-6)
+
+=========
+
+nsubj(zoomed-2, I-1)
+nsubj(filled-11, I-1)
+root(ROOT-0, zoomed-2)
+dep(zoomed-2, in-3)
+det(can-7, a-5)
+nn(can-7, soup-6)
+prep_on(zoomed-2, can-7)
+prep_from(can-7, 20ft-9)
+conj_and(zoomed-2, filled-11)
+det(image-13, the-12)
+dobj(filled-11, image-13)
+det(name-16, the-15)
+prep_with(filled-11, name-16)
+det(label-19, the-18)
+prep_on(name-16, label-19)
+
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, do-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+nsubj(good-11, that-7)
+advmod(good-11, just-8)
+cop(good-11, seems-9)
+advmod(good-11, really-10)
+conj_but(know-4, good-11)
+prep_to(good-11, me-13)
+
+=========
+
+det(recording-3, The-1)
+amod(recording-3, video-2)
+nsubj(works-4, recording-3)
+root(ROOT-0, works-4)
+acomp(works-4, good-5)
+
+=========
+
+nsubj(records-2, Audio-1)
+root(ROOT-0, records-2)
+prep_in(records-2, mono-4)
+advmod(mono-4, only-5)
+
+=========
+
+nsubj(need-2, You-1)
+xsubj(buy-4, You-1)
+root(ROOT-0, need-2)
+aux(buy-4, to-3)
+xcomp(need-2, buy-4)
+det(card-7, a-5)
+nn(card-7, memory-6)
+dobj(buy-4, card-7)
+nn(videos-10, record-9)
+prep_to(buy-4, videos-10)
+neg(cards-14, not-12)
+det(cards-14, all-13)
+nsubj(compatable-16, cards-14)
+cop(compatable-16, are-15)
+conj_but(need-2, compatable-16)
+
+=========
+
+advmod(feels-4, Also-1)
+nsubj(feels-4, it-3)
+root(ROOT-0, feels-4)
+acomp(feels-4, solid-5)
+acomp(feels-4, heavier-7)
+conj_and(solid-5, heavier-7)
+mark(looks-10, than-8)
+nsubj(looks-10, it-9)
+ccomp(solid-5, looks-10)
+
+=========
+
+nn(screen-2, LCD-1)
+nsubj(clear-4, screen-2)
+nsubj(hard-8, screen-2)
+xsubj(see-10, screen-2)
+cop(clear-4, is-3)
+root(ROOT-0, clear-4)
+det(little-7, a-6)
+npadvmod(hard-8, little-7)
+conj_but(clear-4, hard-8)
+aux(see-10, to-9)
+xcomp(clear-4, see-10)
+prep_in(see-10, sunlight-12)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

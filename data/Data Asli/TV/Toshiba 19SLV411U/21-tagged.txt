@@ -1,0 +1,5 @@
+We_PRP have_VBP it_PRP as_IN a_DT kitchen_NN TV_NN ._.
+Nice_JJ size_NN ._.
+Sound_NN is_VBZ sufficient_JJ ,_, picture_NN is_VBZ clear_JJ on_IN HDMI_NNP ,_, and_CC the_DT DVD\/CD_NNP works_VBZ well_RB ._.
+Has_VBZ standard_JJ mounting_VBG holes_NNS on_IN the_DT back_NN so_RB easy_JJ to_TO mount_VB on_IN wall_NN mount_VBP ._.
+Not_RB very_RB heavy_JJ ,_, I_PRP was_VBD able_JJ to_TO hang_VB it_PRP by_IN myself_PRP while_IN on_IN a_DT ladder_NN ._.

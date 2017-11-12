@@ -1,0 +1,66 @@
+=========
+
+det(cellphone-3, A-1)
+amod(cellphone-3, great-2)
+nsubj(unlocked-4, cellphone-3)
+root(ROOT-0, unlocked-4)
+det(carrier-8, any-6)
+nn(carrier-8, GSM-7)
+prep_for(unlocked-4, carrier-8)
+
+=========
+
+amod(response-2, Fast-1)
+root(ROOT-0, response-2)
+amod(resolution-7, lightweight-4)
+amod(resolution-7, great-6)
+appos(response-2, resolution-7)
+amod(space-10, huge-9)
+appos(resolution-7, space-10)
+
+=========
+
+root(ROOT-0, Came-1)
+prep_with(Came-1, Gingerbread-3)
+
+=========
+
+det(downside-2, The-1)
+root(ROOT-0, downside-2)
+nsubjpass(locked-6, tethering-4)
+auxpass(locked-6, is-5)
+dep(downside-2, locked-6)
+agent(locked-6, AT&T-8)
+dep(locked-6, so-10)
+nsubj(need-13, you-11)
+xsubj(root-15, you-11)
+aux(need-13, will-12)
+dep(locked-6, need-13)
+aux(root-15, to-14)
+xcomp(need-13, root-15)
+dobj(root-15, it-16)
+nn(tether-19, unlock-18)
+prep_to(root-15, tether-19)
+
+=========
+
+det(way-3, The-1)
+amod(way-3, best-2)
+nsubj(Editor-13, way-3)
+aux(do-5, to-4)
+infmod(way-3, do-5)
+dobj(do-5, it-6)
+poss(opinion-9, my-8)
+prep_in(do-5, opinion-9)
+cop(Editor-13, is-10)
+nn(Editor-13, throught-11)
+nn(Editor-13, SQLite-12)
+root(ROOT-0, Editor-13)
+advmod(undo-20, so-15)
+advmod(undo-20, after-16)
+dep(undo-20, that-17)
+nsubj(undo-20, you-18)
+aux(undo-20, can-19)
+advcl(Editor-13, undo-20)
+dobj(undo-20, root-21)
+

@@ -1,0 +1,56 @@
+=========
+
+det(tv-2, The-1)
+nsubj(works-3, tv-2)
+root(ROOT-0, works-3)
+advmod(so-6, very-4)
+advmod(so-6, well-5)
+advmod(works-3, so-6)
+prep(works-3, for-7)
+dep(works-3, had-9)
+dobj(had-9, it-10)
+quantmod(two-13, about-12)
+num(months-14, two-13)
+prep_for(had-9, months-14)
+
+=========
+
+nsubj(fits-2, It-1)
+root(ROOT-0, fits-2)
+advmod(fits-2, perfectly-3)
+poss(center-7, our-5)
+nn(center-7, entertainment-6)
+prep_in(fits-2, center-7)
+
+=========
+
+nsubj(have-3, We-1)
+advmod(have-3, only-2)
+root(ROOT-0, have-3)
+advmod(have-3, about-4)
+pobj(about-4, 37-5)
+mark(large-11, so-7)
+nsubj(large-11, this-8)
+cop(large-11, was-9)
+advmod(large-11, as-10)
+advcl(have-3, large-11)
+mark(go-15, as-12)
+nsubj(go-15, we-13)
+aux(go-15, could-14)
+advcl(large-11, go-15)
+
+=========
+
+neg(plus-12, Not-1)
+csubj(plus-12, having-2)
+aux(pay-4, to-3)
+xcomp(having-2, pay-4)
+dobj(pay-4, taxes-5)
+det(tv-8, the-7)
+prep_on(pay-4, tv-8)
+cop(plus-12, was-9)
+det(plus-12, a-10)
+amod(plus-12, big-11)
+root(ROOT-0, plus-12)
+advmod(plus-12, also-13)
+

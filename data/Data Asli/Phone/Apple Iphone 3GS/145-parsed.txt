@@ -1,0 +1,34 @@
+=========
+
+det(screen-3, The-1)
+amod(screen-3, front-2)
+nsubj(leaning-6, screen-3)
+aux(leaning-6, is-4)
+advmod(leaning-6, slightly-5)
+root(ROOT-0, leaning-6)
+advmod(leaning-6, forward-7)
+det(phone-10, the-9)
+prep_off(leaning-6, phone-10)
+det(button-16, the-13)
+amod(button-16, lock-14)
+nn(button-16, screen-15)
+nsubj(presses-18, button-16)
+advmod(presses-18, hardly-17)
+conj_and(leaning-6, presses-18)
+cc(does-21, but-19)
+nsubj(does-21, it-20)
+ccomp(presses-18, does-21)
+dobj(does-21, work-22)
+
+=========
+
+nsubj(satisfied-6, I-1)
+cop(satisfied-6, am-2)
+neg(satisfied-6, not-3)
+num(%-5, 100-4)
+npadvmod(satisfied-6, %-5)
+root(ROOT-0, satisfied-6)
+nsubj(ok-11, it-9)
+cop(ok-11, is-10)
+conj_but(satisfied-6, ok-11)
+

@@ -1,0 +1,50 @@
+=========
+
+advmod(pleased-2, very-1)
+root(ROOT-0, pleased-2)
+det(quality-6, the-4)
+nn(quality-6, picture-5)
+prep_with(pleased-2, quality-6)
+det(ease-9, the-8)
+prep_with(pleased-2, ease-9)
+conj_and(quality-6, ease-9)
+prep_of(ease-9, use-11)
+
+=========
+
+det(menu-2, The-1)
+nsubj(easy-5, menu-2)
+xsubj(understand-7, menu-2)
+cop(easy-5, is-3)
+advmod(easy-5, very-4)
+root(ROOT-0, easy-5)
+aux(understand-7, to-6)
+xcomp(easy-5, understand-7)
+
+=========
+
+advmod(turned-4, When-1)
+nsubj(turned-4, I-2)
+advmod(turned-4, first-3)
+advcl(took-8, turned-4)
+csubj(took-8, turned-4)
+dobj(turned-4, it-5)
+prep_on(turned-4, it-7)
+root(ROOT-0, took-8)
+dobj(took-8, me-9)
+prep(took-8, through-10)
+det(set-12, the-11)
+npadvmod(up-13, set-12)
+pcomp(through-10, up-13)
+nsubj(simple-18, it-15)
+cop(simple-18, was-16)
+advmod(simple-18, very-17)
+conj_and(took-8, simple-18)
+nsubj(enjoyed-22, we-20)
+aux(enjoyed-22, have-21)
+conj_and(took-8, enjoyed-22)
+conj_and(simple-18, enjoyed-22)
+dobj(enjoyed-22, it-23)
+prep_since(enjoyed-22, day-25)
+num(day-25, 1-26)
+

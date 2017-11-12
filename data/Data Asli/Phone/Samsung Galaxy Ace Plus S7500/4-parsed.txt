@@ -1,0 +1,53 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+dobj(have-2, some-3)
+prep_of(some-3, smartphone-5)
+advmod(smartphone-5, before-6)
+dep(have-2, Iphone-8)
+dep(have-2, HTC-10)
+conj_and(Iphone-8, HTC-10)
+
+=========
+
+det(phone-2, This-1)
+nsubj(smartphone-5, phone-2)
+cop(smartphone-5, is-3)
+amod(smartphone-5, good-4)
+root(ROOT-0, smartphone-5)
+
+=========
+
+det(prize-4, the-2)
+amod(prize-4, low-3)
+prep_with(got-7, prize-4)
+nsubj(got-7, you-6)
+root(ROOT-0, got-7)
+amod(performance-9, exellent-8)
+dobj(got-7, performance-9)
+dobj(got-7, design-11)
+conj_and(performance-9, design-11)
+
+=========
+
+cc(sorry-4, but-1)
+advmod(sorry-4, overall-2)
+root(ROOT-0, sorry-4)
+complm(have-7, that-5)
+nsubj(have-7, i-6)
+xsubj(say-9, i-6)
+ccomp(sorry-4, have-7)
+aux(say-9, to-8)
+xcomp(have-7, say-9)
+complm(worse-15, that-10)
+det(smartphone-12, this-11)
+nsubj(worse-15, smartphone-12)
+cop(worse-15, is-13)
+advmod(worse-15, still-14)
+ccomp(say-9, worse-15)
+poss(iphone-18, my-17)
+prep_than(worse-15, iphone-18)
+prep_than(worse-15, HTC-20)
+conj_or(iphone-18, HTC-20)
+

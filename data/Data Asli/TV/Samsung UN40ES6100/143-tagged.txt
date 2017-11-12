@@ -1,0 +1,3 @@
+This_DT is_VBZ a_DT wonderful_JJ wide_JJ screen_NN HDTV_NN for_IN an_DT apartment_NN or_CC smaller_JJR family_NN room_NN ._.
+Big_JJ enough_RB to_TO be_VB &#34;_CD big_JJ screen_NN &#34;_CD but_CC not_RB overwhelming_JJ ._.
+Smart_NNP TV_NNP gets_VBZ &#34;_CD apps_NNS ,_, &#34;_CD YouTube_NNP ,_, Netflix_NNP ,_, and_CC several_JJ others_NNS ._.

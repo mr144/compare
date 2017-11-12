@@ -1,0 +1,198 @@
+=========
+
+nsubj(chose-2, I-1)
+nsubj(believe-14, I-1)
+ccomp(did-18, chose-2)
+det(TV-4, this-3)
+dobj(chose-2, TV-4)
+partmod(TV-4, based-5)
+prt(based-5, on-6)
+predet(ratings-11, all-7)
+det(ratings-11, the-8)
+amod(ratings-11, 3rd-9)
+nn(ratings-11, party-10)
+dobj(based-5, ratings-11)
+conj_and(chose-2, believe-14)
+ccomp(did-18, believe-14)
+dobj(believe-14, me-15)
+nsubj(did-18, I-17)
+root(ROOT-0, did-18)
+poss(homework-20, my-19)
+dobj(did-18, homework-20)
+det(purchase-23, this-22)
+prep_on(did-18, purchase-23)
+
+=========
+
+nsubj(right-3, They-1)
+cop(right-3, were-2)
+root(ROOT-0, right-3)
+
+=========
+
+nsubj(TV-5, It-1)
+cop(TV-5, 's-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+root(ROOT-0, TV-5)
+
+=========
+
+amod(colors-2, Amazing-1)
+root(ROOT-0, colors-2)
+conj_and(colors-2, clarity-4)
+
+=========
+
+nsubj(great-3, Packaging-1)
+nsubj(protected-5, Packaging-1)
+cop(great-3, was-2)
+root(ROOT-0, great-3)
+conj_and(great-3, protected-5)
+det(TV-7, the-6)
+dobj(protected-5, TV-7)
+prep_during(protected-5, shipping\/handling-9)
+
+=========
+
+quantmod(2-2, Only-1)
+num(issues-3, 2-2)
+nsubj(advertisements-9, issues-3)
+prep_to(issues-3, mention-5)
+cop(advertisements-9, is-6)
+det(advertisements-9, the-7)
+num(advertisements-9, &#34;-8)
+root(ROOT-0, advertisements-9)
+npadvmod(advertisements-9, &#34;-10)
+det(bottom-13, the-12)
+prep_on(advertisements-9, bottom-13)
+det(screen-16, the-15)
+prep_on(bottom-13, screen-16)
+tmod(boots-20, screen-16)
+advmod(boots-20, when-17)
+det(TV-19, the-18)
+nsubj(boots-20, TV-19)
+dep(screen-16, boots-20)
+prt(boots-20, up-21)
+
+=========
+
+nsubj(disappear-2, They-1)
+root(ROOT-0, disappear-2)
+advmod(disappear-2, quickly-3)
+nsubj(want-8, I-5)
+aux(want-8, do-6)
+neg(want-8, not-7)
+conj_but(disappear-2, want-8)
+dobj(want-8, them-9)
+advmod(at-11, there-10)
+advmod(want-8, at-11)
+pobj(at-11, all-12)
+
+=========
+
+dep(setting-3, Probably-1)
+det(setting-3, a-2)
+dep(change-6, setting-3)
+nsubj(change-6, I-4)
+xsubj(rid-9, I-4)
+aux(change-6, can-5)
+dep(swivel-19, change-6)
+aux(rid-9, to-7)
+dep(rid-9, get-8)
+xcomp(change-6, rid-9)
+nsubj(??-12, them-11)
+prepc_of(rid-9, ??-12)
+advmod(??-12, Also-13)
+det(TV-16, the-15)
+nsubj(swivel-19, TV-16)
+aux(swivel-19, does-17)
+neg(swivel-19, not-18)
+root(ROOT-0, swivel-19)
+det(stand-22, the-21)
+prep_on(swivel-19, stand-22)
+
+=========
+
+nsubj(minor-4, Both-1)
+cop(minor-4, are-2)
+advmod(minor-4, very-3)
+root(ROOT-0, minor-4)
+
+=========
+
+advmod(do-12, Again-1)
+mark(considering-6, if-3)
+nsubj(considering-6, you-4)
+aux(considering-6, are-5)
+csubj(do-12, considering-6)
+xcomp(considering-6, purchasing-7)
+det(TV-9, this-8)
+dobj(purchasing-7, TV-9)
+dep(considering-6, just-11)
+root(ROOT-0, do-12)
+dobj(do-12, it-13)
+
+=========
+
+nsubj(love-3, You-1)
+aux(love-3, 'll-2)
+root(ROOT-0, love-3)
+dobj(love-3, it-4)
+
+=========
+
+det(TV-2, This-1)
+nsubj(best-5, TV-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+
+=========
+
+det(TV-2, This-1)
+nsubj(best-5, TV-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+
+=========
+
+det(TV-2, This-1)
+nsubj(best-5, TV-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+
+=========
+
+det(TV-2, This-1)
+nsubj(best-5, TV-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+
+=========
+
+det(TV-2, This-1)
+nsubj(best-5, TV-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+
+=========
+
+det(TV-2, This-1)
+nsubj(best-5, TV-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+
+=========
+
+det(TV-2, This-1)
+nsubj(best-5, TV-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+

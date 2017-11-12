@@ -1,0 +1,4 @@
+Camera_NN is_VBZ an_DT upgrade_NN from_IN a_DT Kodak_NNP point_NN and_CC shoot_NN ._.
+Good_JJ zoom_NN ._.
+Some_DT pix_NN seem_VBP to_TO be_VB good_JJ quality_NN ,_, some_DT mediocre_JJ ._.
+Still_RB learning_VBG the_DT many_JJ options_NNS ,_, maybe_RB too_RB many_JJ to_TO be_VB honest_JJ -_: would_MD rather_RB have_VB a_DT higher_JJR quality_NN LCD_NNP ._.

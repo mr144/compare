@@ -1,0 +1,3 @@
+I_PRP would_MD never_RB get_VB another_DT motorola_NN product_NN ._.
+Got_VBD the_DT ATRIX_NNP 4G_NNP last_JJ year_NN and_CC was_VBD promised_VBN an_DT upgrade_NN to_TO ICECREAM_NNP ._.
+A_DT month_NN before_IN the_DT upgrade_NN was_VBD due_JJ Motorola_NNP quietly_RB dropped_VBD support_NN of_IN the_DT phone_NN ._.

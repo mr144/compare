@@ -1,0 +1,2 @@
+it_PRP is_VBZ a_DT Good_JJ phone_NN ,_, the_DT performance_NN is_VBZ Fast_NNP and_CC Great_NNP ,_, only_RB that_IN the_DT battery_NN life_NN is_VBZ bad_JJ ,_, I_PRP recommend_VBP having_VBG an_DT extra_JJ battery_NN ._.
+But_CC ,_, overall_RB ,_, i_FW think_VBP it_PRP is_VBZ better_JJR than_IN Galaxy_NNP Ace_NNP that_WDT release_VBP together_RB ._.

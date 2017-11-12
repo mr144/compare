@@ -1,0 +1,23 @@
+=========
+
+root(ROOT-0, Buena-1)
+nn(ya-3, TV-2)
+nsubj(he-4, ya-3)
+xcomp(Buena-1, he-4)
+nn(imagen-9, comprado-5)
+nn(imagen-9, dos-6)
+dep(imagen-9, buena-8)
+nsubj(Buena-1, imagen-9)
+nn(precio-22, sonido-11)
+nn(precio-22, y-12)
+nn(precio-22, apariencia-13)
+nn(precio-22, lo-14)
+nn(precio-22, compre-15)
+nn(precio-22, en-16)
+nn(precio-22, 299.99-17)
+nn(precio-22, y-18)
+nn(precio-22, ahora-19)
+nn(precio-22, subio-20)
+nn(precio-22, el-21)
+appos(imagen-9, precio-22)
+

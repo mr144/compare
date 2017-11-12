@@ -1,0 +1,48 @@
+=========
+
+nsubj(one-5, This-1)
+cop(one-5, is-2)
+poss(one-5, my-3)
+amod(one-5, second-4)
+root(ROOT-0, one-5)
+det(other-8, the-7)
+nsubjpass(stolen-10, other-8)
+auxpass(stolen-10, was-9)
+dep(one-5, stolen-10)
+prep_en(stolen-10, Venezuela-12)
+prep_at(stolen-10, gunpoint-14)
+nsubj(love-19, I-18)
+conj_and(one-5, love-19)
+dobj(love-19, it-20)
+
+=========
+
+nsubj(need-12, Works-1)
+amod(Works-1, great-2)
+prep(great-2, on-3)
+det(network-5, the-4)
+npadvmod(here-6, network-5)
+pcomp(on-3, here-6)
+pobj(on-3, here-6)
+cop(i-11, is-9)
+advmod(i-11, all-10)
+amod(Works-1, i-11)
+conj_and(great-2, i-11)
+root(ROOT-0, need-12)
+det(phone-15, a-14)
+prep_in(need-12, phone-15)
+
+=========
+
+nsubj(smartphone-5, This-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, greatest-4)
+root(ROOT-0, smartphone-5)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, it-3)
+

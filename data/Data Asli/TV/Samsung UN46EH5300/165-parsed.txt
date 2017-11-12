@@ -1,0 +1,39 @@
+=========
+
+det(product-2, The-1)
+nsubj(advertised-9, product-2)
+nsubj(excellent-5, itself-3)
+cop(excellent-5, is-4)
+rcmod(product-2, excellent-5)
+advmod(as-8, exactly-7)
+rcmod(product-2, as-8)
+conj_and(excellent-5, as-8)
+root(ROOT-0, advertised-9)
+
+=========
+
+nsubj(pleased-4, I-1)
+nsubj(am-6, I-1)
+cop(pleased-4, remain-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+conj_and(pleased-4, am-6)
+advmod(am-6, now-7)
+det(convert-9, a-8)
+pobj(now-7, convert-9)
+prepc_to(now-7, using-11)
+det(net-13, the-12)
+dobj(using-11, net-13)
+amod(purchases-16, similar-15)
+prep_for(net-13, purchases-16)
+
+=========
+
+det(Buy-4, No-1)
+nn(Buy-4, wonder-2)
+nn(Buy-4, Best-3)
+nsubj(going-6, Buy-4)
+aux(going-6, is-5)
+root(ROOT-0, going-6)
+prep(going-6, under-7)
+

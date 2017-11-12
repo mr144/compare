@@ -1,0 +1,43 @@
+=========
+
+nn(TV-2, Excellent-1)
+root(ROOT-0, TV-2)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+complm(plays-5, that-3)
+nsubj(plays-5, it-4)
+ccomp(love-2, plays-5)
+amod(video-7, most-6)
+nsubj(file-8, video-7)
+ccomp(plays-5, file-8)
+dobj(file-8, types-9)
+det(drive-13, a-11)
+nn(drive-13, flash-12)
+prep_via(types-9, drive-13)
+
+=========
+
+advmod(convenient-2, Very-1)
+root(ROOT-0, convenient-2)
+
+=========
+
+det(tv-2, The-1)
+nsubjpass(shipped-5, tv-2)
+nsubjpass(packaged-9, tv-2)
+auxpass(shipped-5, was-3)
+advmod(shipped-5, also-4)
+root(ROOT-0, shipped-5)
+advmod(shipped-5, quickly-6)
+auxpass(packaged-9, was-8)
+conj_and(shipped-5, packaged-9)
+advmod(packaged-9, securely-10)
+

@@ -1,0 +1,20 @@
+=========
+
+advmod(satisfied-2, completely-1)
+amod(orders-6, satisfied-2)
+det(product-5, this-4)
+prep_with(satisfied-2, product-5)
+nsubj(arrived-7, orders-6)
+root(ROOT-0, arrived-7)
+det(day-9, the-8)
+nsubj(agree-12, day-9)
+partmod(day-9, stipulated-10)
+ccomp(arrived-7, agree-12)
+det(request-15, the-14)
+prep_with(agree-12, request-15)
+mark(advise-20, if-16)
+det(provider-18, this-17)
+nsubj(advise-20, provider-18)
+aux(advise-20, would-19)
+advcl(agree-12, advise-20)
+

@@ -1,0 +1,76 @@
+=========
+
+det(TV-2, The-1)
+nsubj(works-3, TV-2)
+root(ROOT-0, works-3)
+acomp(works-3, great-4)
+det(stand-7, the-6)
+nsubj(makes-11, stand-7)
+partmod(stand-7, provided-8)
+agent(provided-8, Samsung-10)
+conj_but(works-3, makes-11)
+det(TV-13, the-12)
+nsubj(tilt-14, TV-13)
+ccomp(makes-11, tilt-14)
+advmod(tilt-14, downward-15)
+det(right-18, the-17)
+prep_to(tilt-14, right-18)
+
+=========
+
+mark(level-6, Since-1)
+det(TV-3, the-2)
+nsubj(level-6, TV-3)
+cop(level-6, is-4)
+neg(level-6, not-5)
+advcl(look-12, level-6)
+det(picture-9, the-8)
+nsubj(look-12, picture-9)
+aux(look-12, does-10)
+neg(look-12, not-11)
+root(ROOT-0, look-12)
+dobj(look-12, level-13)
+advmod(look-12, either-14)
+
+=========
+
+det(stand-2, The-1)
+nsubjpass(flawed-8, stand-2)
+det(TV-5, this-4)
+prep_for(stand-2, TV-5)
+auxpass(flawed-8, is-6)
+advmod(flawed-8, seriously-7)
+root(ROOT-0, flawed-8)
+prep_in(flawed-8, design-10)
+
+=========
+
+nsubj(had-2, I-1)
+xsubj(place-4, I-1)
+xsubj(make-16, I-1)
+root(ROOT-0, had-2)
+aux(place-4, to-3)
+xcomp(had-2, place-4)
+det(box-6, a-5)
+dobj(place-4, box-6)
+det(corner-11, the-8)
+amod(corner-11, bottom-9)
+nn(corner-11, right-10)
+prep_at(place-4, corner-11)
+det(TV-14, the-13)
+prep_of(corner-11, TV-14)
+aux(make-16, to-15)
+xcomp(had-2, make-16)
+det(TV-18, the-17)
+dobj(make-16, TV-18)
+det(level-22, the-20)
+nn(level-22, picture-21)
+dobj(make-16, level-22)
+conj_and(TV-18, level-22)
+
+=========
+
+nsubj(incredible-3, This-1)
+cop(incredible-3, is-2)
+root(ROOT-0, incredible-3)
+

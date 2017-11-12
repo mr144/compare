@@ -1,0 +1,136 @@
+=========
+
+nsubj(nervous-3, I-1)
+cop(nervous-3, was-2)
+root(ROOT-0, nervous-3)
+det(TV-6, this-5)
+prep_about(nervous-3, TV-6)
+det(comments-11, some-9)
+nn(comments-11, clouding-10)
+prep_because_of(TV-6, comments-11)
+partmod(TV-6, made-12)
+det(forum-16, the-14)
+nn(forum-16, AVS-15)
+prep_at(made-12, forum-16)
+
+=========
+
+root(ROOT-0, None-1)
+aux(seen-4, to-2)
+auxpass(seen-4, be-3)
+dep(None-1, seen-4)
+poss(end-7, my-6)
+prep_on(seen-4, end-7)
+
+=========
+
+det(picture-2, The-1)
+nsubj(breathtaking-5, picture-2)
+cop(breathtaking-5, is-3)
+advmod(breathtaking-5, just-4)
+root(ROOT-0, breathtaking-5)
+
+=========
+
+nsubj(receive-2, We-1)
+root(ROOT-0, receive-2)
+det(lot-4, a-3)
+dobj(receive-2, lot-4)
+prep_of(lot-4, WOW-6)
+possessive(WOW-6, 's-7)
+prep_from(receive-2, friends-9)
+
+=========
+
+det(price-2, The-1)
+nsubj(cheaper-6, price-2)
+advmod(cheaper-6, here-3)
+cop(cheaper-6, is-4)
+advmod(cheaper-6, much-5)
+root(ROOT-0, cheaper-6)
+prep_than(cheaper-6, Bestbuy-8)
+
+=========
+
+advmod(bummer-2, Only-1)
+nsubj(glasses-5, bummer-2)
+cop(glasses-5, is-3)
+det(glasses-5, no-4)
+root(ROOT-0, glasses-5)
+nsubj(pricey-8, glasses-5)
+cop(pricey-8, are-7)
+rcmod(glasses-5, pricey-8)
+
+=========
+
+det(negative-3, The-1)
+amod(negative-3, only-2)
+nsubj(is-13, negative-3)
+det(TV-6, this-5)
+prep_to(negative-3, TV-6)
+dobj(knew-10, TV-6)
+rel(knew-10, which-8)
+nsubj(knew-10, I-9)
+rcmod(TV-6, knew-10)
+xcomp(knew-10, going-11)
+prt(going-11, in-12)
+root(ROOT-0, is-13)
+complm(STINKS-17, that-14)
+det(sound-16, the-15)
+nsubj(STINKS-17, sound-16)
+ccomp(is-13, STINKS-17)
+advmod(STINKS-17, badly-18)
+num(months-21, 2-20)
+advmod(STINKS-17, months-21)
+conj_and(badly-18, months-21)
+det(TV-24, the-23)
+prep_into(months-21, TV-24)
+nsubj(blew-28, we-25)
+nsubj(have-33, we-25)
+xsubj(get-35, we-25)
+advmod(blew-28, just-26)
+advmod(blew-28, partially-27)
+rcmod(TV-24, blew-28)
+det(speaker-30, the-29)
+dobj(blew-28, speaker-30)
+rcmod(TV-24, now-32)
+advmod(blew-28, now-32)
+conj_and(blew-28, now-32)
+rcmod(TV-24, have-33)
+conj_and(blew-28, have-33)
+aux(get-35, to-34)
+xcomp(have-33, get-35)
+complm(replaced-37, that-36)
+ccomp(get-35, replaced-37)
+
+=========
+
+det(bar-4, a-2)
+amod(bar-4, sound-3)
+prep_without(pleased-13, bar-4)
+det(system-8, a-6)
+amod(system-8, dedicated-7)
+conj_or(bar-4, system-8)
+prep_without(pleased-13, system-8)
+nsubj(pleased-13, you-9)
+aux(pleased-13, will-10)
+neg(pleased-13, not-11)
+cop(pleased-13, be-12)
+root(ROOT-0, pleased-13)
+amod(TV-16, most-15)
+nsubj(share-20, TV-16)
+cop(share-20, 's-17)
+det(share-20, this-18)
+amod(share-20, thin-19)
+conj_but(pleased-13, share-20)
+prep_that(share-20, problem-22)
+
+=========
+
+prep_in(AWESOME-7, summary-2)
+det(picture-5, this-3)
+nn(picture-5, TV-4)
+nsubj(AWESOME-7, picture-5)
+cop(AWESOME-7, is-6)
+root(ROOT-0, AWESOME-7)
+

@@ -1,0 +1,7 @@
+Product_NN was_VBD as_RB described_VBN ._.
+Information_NNP was_VBD on_IN disk_NN :_: Have_NNP NEVER_NNP BEEN_NNP ABLE_NNP TO_TO GET_VB THE_DT DISK_NN TO_TO LOAD_NNP !_.
+CAMERA_NN SITS_VBZ HERE_RB UNABLE_JJ TO_TO UMDERSTAND_NNP HOW_NNP TO_TO USE_NNP !_.
+Use_NN to_TO love_VB GE_NNP products_NNS No_RB More_JJR ._.
+There_EX are_VBP still_RB some_DT of_IN us_PRP that_WDT prefer_VBP printed_VBN information_NN ._.
+At_IN my_PRP$ age_NN 73_CD its_PRP$ easier_JJR for_IN me_PRP ._.
+At_IN least_JJS should_MD have_VB been_VBN given_VBN option_NN to_TO get_VB it_PRP in_IN order_NN to_TO use_VB the_DT camera_NN ._.

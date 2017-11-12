@@ -1,0 +1,26 @@
+=========
+
+det(accessories-2, The-1)
+nsubj(work-5, accessories-2)
+aux(work-5, did-3)
+neg(work-5, not-4)
+ccomp(ought-15, work-5)
+dep(work-5, hand-7)
+amod(hand-7, free-8)
+det(charger-11, the-10)
+appos(hand-7, charger-11)
+nsubj(ought-15, I-14)
+xsubj(replace-17, I-14)
+root(ROOT-0, ought-15)
+aux(replace-17, to-16)
+xcomp(ought-15, replace-17)
+amod(items-19, new-18)
+dobj(replace-17, items-19)
+
+=========
+
+nsubj(angry-3, I-1)
+cop(angry-3, am-2)
+root(ROOT-0, angry-3)
+prep_about(angry-3, that-5)
+

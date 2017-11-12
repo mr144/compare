@@ -1,0 +1,68 @@
+=========
+
+det(Atrix-3, The-1)
+nn(Atrix-3, Motorola-2)
+nsubj(good-5, Atrix-3)
+cop(good-5, was-4)
+root(ROOT-0, good-5)
+
+=========
+
+amod(design-2, Good-1)
+nsubj(etc.-7, design-2)
+advmod(fast-5, pretty-4)
+amod(design-2, fast-5)
+root(ROOT-0, etc.-7)
+
+=========
+
+mark(activated-5, As-1)
+advmod(activated-5, soon-2)
+prep_as(soon-2, i-4)
+advcl(reboot-10, activated-5)
+dobj(activated-5, it-6)
+nsubj(reboot-10, it-8)
+aux(reboot-10, would-9)
+root(ROOT-0, reboot-10)
+det(cellphone-12, the-11)
+dobj(reboot-10, cellphone-12)
+
+=========
+
+advmod(is-13, Also-1)
+advmod(way-6, now-3)
+det(way-6, the-4)
+amod(way-6, only-5)
+dobj(speak-9, way-6)
+nsubj(is-13, way-6)
+nsubj(speak-9, i-7)
+aux(speak-9, can-8)
+rcmod(way-6, speak-9)
+det(phone-12, the-11)
+prep_through(speak-9, phone-12)
+root(ROOT-0, is-13)
+det(speaker-16, the-15)
+prep_with(is-13, speaker-16)
+
+=========
+
+det(cellphone-2, The-1)
+nsubj(good-5, cellphone-2)
+nsubj(due-7, cellphone-2)
+cop(good-5, is-3)
+advmod(good-5, pretty-4)
+ccomp(say-15, good-5)
+conj_but(good-5, due-7)
+ccomp(say-15, due-7)
+det(errors-10, those-9)
+prep_to(good-5, errors-10)
+nsubj(say-15, i-12)
+advmod(say-15, just-13)
+aux(say-15, can-14)
+root(ROOT-0, say-15)
+complm(wasted-18, that-16)
+nsubj(wasted-18, i-17)
+ccomp(say-15, wasted-18)
+poss(money-20, my-19)
+dobj(wasted-18, money-20)
+

@@ -1,0 +1,70 @@
+=========
+
+nsubj(HAVE-2, I-1)
+root(ROOT-0, HAVE-2)
+dobj(HAVE-2, FALLEN-3)
+prep_in(FALLEN-3, LOVE-5)
+nn(PHOTOS-14, THIS-7)
+nn(PHOTOS-14, CAMERA-8)
+nn(PHOTOS-14, IT-9)
+nn(PHOTOS-14, MAKES-10)
+nn(PHOTOS-14, ABSOLUTELY-11)
+nn(PHOTOS-14, THE-12)
+nn(PHOTOS-14, LARGEST-13)
+prep_with(HAVE-2, PHOTOS-14)
+nn(GRAININESS-20, POSTERS-16)
+nn(GRAININESS-20, WITHOUT-17)
+nn(GRAININESS-20, THE-18)
+nn(GRAININESS-20, USUAL-19)
+prep_for(PHOTOS-14, GRAININESS-20)
+
+=========
+
+nn(PHOTOS-2, MY-1)
+nsubj(ALWAYS-3, PHOTOS-2)
+root(ROOT-0, ALWAYS-3)
+nn(REAL-6, LOOK-4)
+nn(REAL-6, AS-5)
+dobj(ALWAYS-3, REAL-6)
+iobj(ALWAYS-3, REAL-6)
+amod(REAL-6, AS-7)
+det(THEM-12, THE-8)
+nn(THEM-12, TIME-9)
+nn(THEM-12, I-10)
+nn(THEM-12, TOOK-11)
+dep(REAL-6, THEM-12)
+
+=========
+
+nn(LITTLE-4, TOOK-1)
+nn(LITTLE-4, ME-2)
+nn(LITTLE-4, A-3)
+nsubj(WHILE-5, LITTLE-4)
+xsubj(GET-7, LITTLE-4)
+root(ROOT-0, WHILE-5)
+aux(GET-7, TO-6)
+xcomp(WHILE-5, GET-7)
+nsubj(ALL-10, USE-8)
+aux(ALL-10, TO-9)
+xcomp(GET-7, ALL-10)
+det(FEATURES-13, THE-11)
+nn(FEATURES-13, COOL-12)
+dobj(ALL-10, FEATURES-13)
+
+=========
+
+nn(AM-7, BUT-1)
+nn(AM-7, WHAT-2)
+nn(AM-7, CAN-3)
+nn(AM-7, I-4)
+nn(AM-7, SAY-5)
+nn(AM-7, I-6)
+nsubj(ALMOST-8, AM-7)
+root(ROOT-0, ALMOST-8)
+num(YEARS-10, 60-9)
+tmod(ALMOST-8, YEARS-10)
+advmod(ALMOST-8, OLD-11)
+
+=========
+
+

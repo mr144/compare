@@ -1,0 +1,30 @@
+=========
+
+det(model-2, This-1)
+nsubj(s7500t-4, model-2)
+cop(s7500t-4, is-3)
+root(ROOT-0, s7500t-4)
+conj_and(s7500t-4, not-6)
+neg(s7500t-4, not-6)
+cop(band-8, is-7)
+dep(s7500t-4, band-8)
+num(band-8, 1900-9)
+amod(band-8, \/-10)
+dep(\/-10, 2100-11)
+
+=========
+
+det(band-2, The-1)
+nsubj(2100-6, band-2)
+cop(2100-6, is-3)
+number(\/-5, 850-4)
+num(2100-6, \/-5)
+root(ROOT-0, 2100-6)
+
+=========
+
+root(ROOT-0, Please-1)
+xcomp(Please-1, change-2)
+det(specifications-4, the-3)
+dobj(change-2, specifications-4)
+

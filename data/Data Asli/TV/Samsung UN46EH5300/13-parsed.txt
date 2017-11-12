@@ -1,0 +1,27 @@
+=========
+
+nsubj(everything-3, it-1)
+cop(everything-3, was-2)
+root(ROOT-0, everything-3)
+nsubjpass(supposed-6, it-4)
+xsubj(be-8, it-4)
+auxpass(supposed-6, was-5)
+rcmod(everything-3, supposed-6)
+aux(be-8, to-7)
+xcomp(supposed-6, be-8)
+amod(picture-11, good-10)
+dep(controls-13, picture-11)
+parataxis(everything-3, controls-13)
+amod(internet-16, wireless-15)
+parataxis(everything-3, internet-16)
+conj_and(controls-13, internet-16)
+
+=========
+
+cc(has-3, And-1)
+nsubj(has-3, Samsung-2)
+root(ROOT-0, has-3)
+amod(line-6, great-4)
+nn(line-6, help-5)
+dobj(has-3, line-6)
+

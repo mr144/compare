@@ -1,0 +1,34 @@
+=========
+
+root(ROOT-0, Fast-1)
+conj_and(Fast-1, Cute-3)
+
+=========
+
+amod(camera-2, Good-1)
+ccomp(size-10, camera-2)
+advmod(easy-5, very-4)
+conj_and(camera-2, easy-5)
+ccomp(size-10, easy-5)
+aux(manage-7, to-6)
+xcomp(easy-5, manage-7)
+nsubj(size-10, medium-9)
+root(ROOT-0, size-10)
+mark(nice-14, so-11)
+nsubj(nice-14, it-12)
+cop(nice-14, is-13)
+advcl(size-10, nice-14)
+det(hand-17, the-16)
+prep_for(nice-14, hand-17)
+
+=========
+
+nsubj(link-2, Super-1)
+root(ROOT-0, link-2)
+dobj(link-2, conection-3)
+det(accounts-8, all-5)
+predet(accounts-8, all-5)
+poss(accounts-8, your-6)
+amod(accounts-8, personal-7)
+prep_with(link-2, accounts-8)
+

@@ -1,0 +1,46 @@
+=========
+
+det(camera-2, This-1)
+nsubj(okay-4, camera-2)
+cop(okay-4, is-3)
+root(ROOT-0, okay-4)
+
+=========
+
+nsubj(great-3, It-1)
+cop(great-3, 's-2)
+root(ROOT-0, great-3)
+mark(youre-5, if-4)
+dep(great-3, youre-5)
+advmod(getting-7, just-6)
+xcomp(great-3, getting-7)
+prep_into(getting-7, photography-9)
+det(price-14, the-13)
+prep_for(getting-18, price-14)
+nsubj(getting-18, you-15)
+aux(getting-18, could-16)
+aux(getting-18, be-17)
+conj_but(great-3, getting-18)
+det(Dslr-21, a-19)
+amod(Dslr-21, decent-20)
+dobj(getting-18, Dslr-21)
+
+=========
+
+nsubj(returned-3, i-1)
+nsubj(bought-11, i-1)
+advmod(returned-3, quickly-2)
+root(ROOT-0, returned-3)
+dobj(returned-3, this-4)
+neg(satisfied-8, not-6)
+cop(satisfied-8, being-7)
+prepc_after(returned-3, satisfied-8)
+advmod(bought-11, then-10)
+conj_and(returned-3, bought-11)
+det(D3000-14, a-12)
+nn(D3000-14, Nikon-13)
+dobj(bought-11, D3000-14)
+poss(superb-17, its-16)
+dobj(bought-11, superb-17)
+conj_and(D3000-14, superb-17)
+

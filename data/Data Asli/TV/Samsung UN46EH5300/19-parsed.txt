@@ -1,0 +1,98 @@
+=========
+
+nsubj(looking-3, I-1)
+aux(looking-3, was-2)
+root(ROOT-0, looking-3)
+det(TV-6, a-5)
+prep_for(looking-3, TV-6)
+det(bedroom-9, the-8)
+prep_for(TV-6, bedroom-9)
+
+=========
+
+prepc_after(decided-16, spending-2)
+det(lot-4, a-3)
+dobj(spending-2, lot-4)
+prep_of(lot-4, time-6)
+partmod(time-6, comparing-7)
+dobj(comparing-7, sizes-8)
+nn(quality-11, picture-10)
+dobj(comparing-7, quality-11)
+conj_and(sizes-8, quality-11)
+dobj(comparing-7, features-14)
+conj_and(sizes-8, features-14)
+nsubj(decided-16, I-15)
+root(ROOT-0, decided-16)
+det(one-19, this-18)
+prep_on(decided-16, one-19)
+advmod(decided-16, mainly-20)
+det(wifi-24, the-22)
+amod(wifi-24, built-in-23)
+prep_for(decided-16, wifi-24)
+det(price-28, a-26)
+amod(price-28, good-27)
+prep_at(wifi-24, price-28)
+
+=========
+
+nsubj(good-5, Picture-1)
+cop(good-5, is-2)
+advmod(good-5, just-3)
+advmod(good-5, as-4)
+root(ROOT-0, good-5)
+poss(Viera-9, my-7)
+amod(Viera-9, older-8)
+prep_as(good-5, Viera-9)
+dobj(love-13, which-11)
+nsubj(love-13, I-12)
+dep(Viera-9, love-13)
+
+=========
+
+advmod(ended-4, So-1)
+pobj(So-1, glad-2)
+nsubj(ended-4, I-3)
+root(ROOT-0, ended-4)
+prt(ended-4, up-5)
+det(wifi-9, the-7)
+amod(wifi-9, built-in-8)
+prep_with(ended-4, wifi-9)
+det($-13, an-11)
+amod($-13, extra-12)
+prep_for(wifi-9, $-13)
+num($-13, 50-14)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+det(app-5, the-3)
+nn(app-5, Netflix-4)
+dobj(use-2, app-5)
+advmod(use-2, more-6)
+det(TV-9, this-8)
+prep_on(use-2, TV-9)
+prep_than(TV-9, anything-11)
+
+=========
+
+det(picture-2, The-1)
+nsubj(good-6, picture-2)
+nsubj(cheaper-13, picture-2)
+cop(good-6, is-3)
+advmod(good-6, almost-4)
+advmod(good-6, as-5)
+root(ROOT-0, good-6)
+det(Bravia-9, a-8)
+prep_as(good-6, Bravia-9)
+det(lot-12, a-11)
+npadvmod(cheaper-13, lot-12)
+conj_and(good-6, cheaper-13)
+advmod(for-17, at-15)
+pobj(at-15, least-16)
+dep(cheaper-13, for-17)
+det(model-21, the-18)
+number(&#34;-20, 32-19)
+num(model-21, &#34;-20)
+pobj(for-17, model-21)
+

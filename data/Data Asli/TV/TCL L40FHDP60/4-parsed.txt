@@ -1,0 +1,105 @@
+=========
+
+nsubj(product-5, This-1)
+cop(product-5, is-2)
+det(product-5, a-3)
+amod(product-5, horrible-4)
+root(ROOT-0, product-5)
+
+=========
+
+det(start-3, the-2)
+prep_from(had-6, start-3)
+nsubj(had-6, we-4)
+aux(had-6, have-5)
+root(ROOT-0, had-6)
+dobj(had-6, issues-7)
+xcomp(had-6, turning-8)
+det(TV-11, the-10)
+prep_on(turning-8, TV-11)
+
+=========
+
+nsubj(thought-3, We-1)
+advmod(thought-3, initially-2)
+root(ROOT-0, thought-3)
+nsubj(provider-8, it-4)
+cop(provider-8, was-5)
+det(provider-8, the-6)
+nn(provider-8, cable-7)
+ccomp(thought-3, provider-8)
+nsubj(was-12, it-11)
+conj_but(thought-3, was-12)
+neg(was-12, not-13)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+prt(takes-2, up-3)
+det(hour-6, an-5)
+prep_to(takes-2, hour-6)
+det(TV-9, the-8)
+prep_for(hour-6, TV-9)
+aux(start-11, to-10)
+infmod(TV-9, start-11)
+xcomp(start-11, working-12)
+mark(turned-16, once-13)
+nsubjpass(turned-16, it-14)
+auxpass(turned-16, is-15)
+advcl(working-12, turned-16)
+prt(turned-16, on-17)
+
+=========
+
+nsubj(talked-3, We-1)
+aux(talked-3, have-2)
+root(ROOT-0, talked-3)
+nn(times-7, Amazon-5)
+amod(times-7, several-6)
+prep_to(talked-3, times-7)
+xsubj(return-10, times-7)
+partmod(times-7, trying-8)
+aux(return-10, to-9)
+xcomp(trying-8, return-10)
+det(TV-12, the-11)
+dobj(return-10, TV-12)
+dep(times-7, of-14)
+pobj(of-14, course-15)
+dobj(expired-32, course-15)
+det(time-18, the-17)
+prep_by(expired-32, time-18)
+nsubj(figured-20, we-19)
+rcmod(time-18, figured-20)
+prt(figured-20, out-21)
+complm(faulty-26, that-22)
+det(TV-24, the-23)
+nsubj(faulty-26, TV-24)
+cop(faulty-26, was-25)
+ccomp(figured-20, faulty-26)
+det(period-30, the-28)
+nn(period-30, return-29)
+nsubj(expired-32, period-30)
+aux(expired-32, had-31)
+rcmod(course-15, expired-32)
+
+=========
+
+nsubj(received-4, We-1)
+aux(received-4, have-2)
+neg(received-4, not-3)
+root(ROOT-0, received-4)
+det(satisfaction-6, any-5)
+dobj(received-4, satisfaction-6)
+poss(complaints-9, our-8)
+prep_regarding(satisfaction-6, complaints-9)
+
+=========
+
+aux(purchase-3, Do-1)
+neg(purchase-3, not-2)
+root(ROOT-0, purchase-3)
+poss(!!-6, his-4)
+nn(!!-6, TV-5)
+dobj(purchase-3, !!-6)
+

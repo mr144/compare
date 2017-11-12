@@ -1,0 +1,29 @@
+=========
+
+det(camera-2, The-1)
+nsubj(works-3, camera-2)
+root(ROOT-0, works-3)
+acomp(works-3, great-4)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(quality-7, the-6)
+prep_with(happy-4, quality-7)
+det(camera-10, the-9)
+prep_of(quality-7, camera-10)
+
+=========
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+dep(looking-7, exactly-3)
+dep(exactly-3, what-4)
+nsubj(looking-7, I-5)
+aux(looking-7, was-6)
+ccomp(was-2, looking-7)
+prep(looking-7, for-8)
+

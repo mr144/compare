@@ -1,0 +1,72 @@
+=========
+
+root(ROOT-0, Received-1)
+det(item-3, an-2)
+dobj(Received-1, item-3)
+amod(maner-6, timely-5)
+prep_in(item-3, maner-6)
+
+=========
+
+nsubj(came-2, It-1)
+root(ROOT-0, came-2)
+det(box-5, a-4)
+prep_in(came-2, box-5)
+amod(version-9, older-8)
+prep_with(came-2, version-9)
+prep_of(version-9, headphones-11)
+neg(headphones-11, not-13)
+amod(one-15, newer-14)
+dep(headphones-11, one-15)
+
+=========
+
+advmod(receive-5, Also-1)
+nsubj(receive-5, I-2)
+aux(receive-5, did-3)
+neg(receive-5, not-4)
+root(ROOT-0, receive-5)
+nn(card-7, memory-6)
+dobj(receive-5, card-7)
+
+=========
+
+root(ROOT-0, Bought-1)
+det(phone-3, the-2)
+dobj(Bought-1, phone-3)
+poss(girlfriend-6, my-5)
+prep_for(phone-3, girlfriend-6)
+nsubj(loves-9, she-8)
+conj_and(Bought-1, loves-9)
+dobj(loves-9, it-10)
+
+=========
+
+nsubj(working-3, Phone-1)
+aux(working-3, is-2)
+root(ROOT-0, working-3)
+acomp(working-3, fine-4)
+det(month-7, a-6)
+prep_after(fine-4, month-7)
+prep_of(month-7, use-9)
+
+=========
+
+nsubj(give-3, I-1)
+aux(give-3, would-2)
+root(ROOT-0, give-3)
+iobj(give-3, it-4)
+num(stars-6, 5-5)
+dobj(give-3, stars-6)
+amod(card-9, b\/c-7)
+nn(card-9, headphone\/mem-8)
+dep(stars-6, card-9)
+dep(card-9, issue-10)
+dobj(issue-10, 4-11)
+
+=========
+
+amod(deal-2, good-1)
+root(ROOT-0, deal-2)
+dep(deal-2, definitely-3)
+

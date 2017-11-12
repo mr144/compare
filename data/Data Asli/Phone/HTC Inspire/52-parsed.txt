@@ -1,0 +1,78 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(plays-2, It-1)
+root(ROOT-0, plays-2)
+det(games-4, all-3)
+dobj(plays-2, games-4)
+
+=========
+
+det(GPS-2, The-1)
+nsubj(betterThe-5, GPS-2)
+aux(betterThe-5, could-3)
+cop(betterThe-5, be-4)
+root(ROOT-0, betterThe-5)
+nn(quality-7, call-6)
+nsubj(seems-8, quality-7)
+ccomp(betterThe-5, seems-8)
+aux(deteriorating-11, to-9)
+aux(deteriorating-11, be-10)
+xcomp(seems-8, deteriorating-11)
+det(little-13, a-12)
+dobj(deteriorating-11, little-13)
+
+=========
+
+nsubj(bet-2, I-1)
+root(ROOT-0, bet-2)
+det(speaker-4, the-3)
+nsubj(dirty-7, speaker-4)
+cop(dirty-7, is-5)
+advmod(dirty-7, really-6)
+ccomp(bet-2, dirty-7)
+
+=========
+
+nn(decent-2, Takes-1)
+nsubj(pics-3, decent-2)
+root(ROOT-0, pics-3)
+neg(at-6, not-5)
+dep(your-17, at-6)
+pobj(at-6, night-7)
+mark(looking-11, If-9)
+nsubj(looking-11, your-10)
+advcl(your-17, looking-11)
+prep_at(looking-11, one-13)
+nsubj(your-17, chances-15)
+cop(your-17, are-16)
+dep(pics-3, your-17)
+det(budget-20, a-19)
+prep_on(your-17, budget-20)
+nsubj(fine-24, That-22)
+cop(fine-24, 's-23)
+parataxis(your-17, fine-24)
+
+=========
+
+det(phone-2, This-1)
+nsubj(serve-4, phone-2)
+aux(serve-4, will-3)
+root(ROOT-0, serve-4)
+dobj(serve-4, you-5)
+advmod(serve-4, well-6)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+advmod(make-2, Just-1)
+root(ROOT-0, make-2)
+acomp(make-2, sure-3)
+nsubj(get-5, you-4)
+ccomp(sure-3, get-5)
+det(price-8, a-6)
+amod(price-8, good-7)
+dobj(get-5, price-8)
+

@@ -1,0 +1,13 @@
+first_RB the_DT battery_NN did_VBD not_RB hold_VB charge_NN ._.
+second_JJ screen_NN had_VBD small_JJ ding_NN ._.
+the_DT battery_NN was_VBD fully_RB charged_VBN ._.
+turned_VBD off_RP phone_NN ._.
+one_CD week_NN later_RB when_WRB turned_VBN on_IN battery_NN was_VBD dead_JJ ._.
+the_DT phone_NN comes_VBZ with_IN screen_NN cover_NN ._.
+i_FW noticed_VBD a_DT small_JJ ding_NN in_IN cover_NN which_WDT i_FW thought_NN was_VBD in_IN the_DT cover_NN only_RB which_WDT is_VBZ soft_JJ clear_JJ material_NN ._.
+however_RB the_DT ding_NN was_VBD in_IN glass_NN ._.
+amazon_NN allowed_VBD for_IN the_DT return_NN without_IN problem_NN but_CC because_IN of_IN price_NN -LRB-_-LRB- under_IN $_$ 200_CD -RRB-_-RRB- replacement_NN was_VBD not_RB available_JJ so_RB had_VBD to_TO accept_VB refund_NN ._.
+i_FW must_MD say_VB the_DT phone_NN was_VBD from_IN T_NNP Moble_NNP and_CC said_VBD &#34;_CD new_JJ &#34;_CD on_IN box_NN ._.
+nokia_NN was_VBD super_JJ great_JJ when_WRB called_VBN about_IN battery_NN and_CC offered_VBD to_TO replace_VB but_CC i_FW had_VBD to_TO pay_VB shipping_NN to_TO them_PRP ._.
+i_FW never_RB used_VBN sim_NN card_NN so_RB can_MD not_RB comment_VB on_IN that_DT function_NN but_CC did_VBD use_NN wireless_NN -LRB-_-LRB- WiFi_NNP -RRB-_-RRB- which_WDT worked_VBD fine_JJ ._.
+the_DT screen_NN was_VBD quite_RB small_JJ and_CC typing_VBG on_IN screen_NN proved_VBD difficult_JJ for_IN me_PRP ._.

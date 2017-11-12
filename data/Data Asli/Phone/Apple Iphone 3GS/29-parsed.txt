@@ -1,0 +1,23 @@
+=========
+
+poss(iphone-2, my-1)
+nsubj(working-4, iphone-2)
+aux(working-4, is-3)
+root(ROOT-0, working-4)
+acomp(working-4, good-5)
+det(button-9, the-7)
+nn(button-9, power-8)
+nsubj(acting-11, button-9)
+aux(acting-11, is-10)
+conj_but(working-4, acting-11)
+prt(acting-11, up-12)
+nsubj(working-17, everything-14)
+advmod(everything-14, else-15)
+aux(working-17, is-16)
+conj_but(working-4, working-17)
+advmod(working-17, right-18)
+ccomp(working-17, thank-19)
+dobj(thank-19, you-20)
+det(iphone-23, the-22)
+prep_for(thank-19, iphone-23)
+

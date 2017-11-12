@@ -1,0 +1,41 @@
+=========
+
+nsubj(was-2, Camera-1)
+root(ROOT-0, was-2)
+ccomp(was-2, give-3)
+prep_to(give-3, someone-5)
+nsubj(asked-7, someone-5)
+rcmod(someone-5, asked-7)
+det(camera-12, an-9)
+amod(camera-12, inexpensive-10)
+amod(camera-12, digital-11)
+prep_for(asked-7, camera-12)
+
+=========
+
+nsubjpass(pleased-4, Person-1)
+nsubjpass(surprised-7, Person-1)
+auxpass(pleased-4, is-2)
+cop(pleased-4, is-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+advmod(surprised-7, quite-6)
+conj_and(pleased-4, surprised-7)
+det(ease-10, the-9)
+prep_at(surprised-7, ease-10)
+prep_of(ease-10, setup-12)
+prep_of(ease-10, operation-14)
+conj_and(setup-12, operation-14)
+det(product-17, the-16)
+prep_of(setup-12, product-17)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(sharp-4, clear-2)
+amod(pictures-5, sharp-4)
+dobj(Takes-1, pictures-5)
+conj_and(Takes-1, has-7)
+amod(functions-9, many-8)
+dobj(has-7, functions-9)
+

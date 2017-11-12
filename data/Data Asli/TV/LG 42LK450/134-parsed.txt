@@ -1,0 +1,32 @@
+=========
+
+det(TV-2, This-1)
+nsubj(offers-3, TV-2)
+root(ROOT-0, offers-3)
+amod(value-5, great-4)
+nsubj(wonderful-10, value-5)
+det(picture-8, the-7)
+conj_and(value-5, picture-8)
+nsubj(wonderful-10, picture-8)
+cop(wonderful-10, is-9)
+ccomp(offers-3, wonderful-10)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+xcomp(like-2, watching-3)
+dobj(watching-3, movies-4)
+prep_with(watching-3, it-6)
+poss(friends-10, my-8)
+nn(friends-10, guy-9)
+nsubj(comment-12, friends-10)
+advmod(comment-12, always-11)
+conj_and(like-2, comment-12)
+det(quality-16, the-14)
+nn(quality-16, picture-15)
+prep_on(comment-12, quality-16)
+advmod(watching-18, when-17)
+advcl(comment-12, watching-18)
+dobj(watching-18, sports-19)
+

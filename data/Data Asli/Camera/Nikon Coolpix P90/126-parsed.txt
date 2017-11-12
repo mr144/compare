@@ -1,0 +1,30 @@
+=========
+
+nn(Camera-2, Excellent-1)
+root(ROOT-0, Camera-2)
+
+=========
+
+advmod(control-3, Too-1)
+amod(control-3, many-2)
+root(ROOT-0, control-3)
+partmod(control-3, setting-4)
+
+=========
+
+nsubj(keep-2, I-1)
+root(ROOT-0, keep-2)
+prep_on(keep-2, Auto-4)
+amod(part-7, most-6)
+prep_for(Auto-4, part-7)
+prepc_of(Auto-4, taking-9)
+dobj(taking-9, pictures-10)
+
+=========
+
+det(camera-2, This-1)
+nsubj(worst-5, camera-2)
+cop(worst-5, is-3)
+det(worst-5, the-4)
+root(ROOT-0, worst-5)
+

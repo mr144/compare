@@ -1,0 +1,34 @@
+=========
+
+det(limitation-2, The-1)
+nsubj(shape-7, limitation-2)
+prep_of(limitation-2, nokia-4)
+cop(shape-7, is-5)
+det(shape-7, the-6)
+root(ROOT-0, shape-7)
+
+=========
+
+nsubj(stands-2, Nokia-1)
+root(ROOT-0, stands-2)
+prt(stands-2, out-3)
+nn(hardware-6, quality-5)
+prep_in(stands-2, hardware-6)
+cop(failure-11, is-9)
+det(failure-11, a-10)
+conj_but(stands-2, failure-11)
+prep_in(failure-11, aesthetics-13)
+prep_for(aesthetics-13, me-15)
+
+=========
+
+cc(buy-10, But-1)
+nsubj(buy-10, lumia-2)
+num(lumia-2, 900-3)
+det(price-6, this-5)
+prep_for(lumia-2, price-6)
+cop(buy-10, is-7)
+det(buy-10, a-8)
+amod(buy-10, good-9)
+root(ROOT-0, buy-10)
+

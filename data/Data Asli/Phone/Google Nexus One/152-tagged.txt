@@ -1,0 +1,12 @@
+Slick_JJ phone_NN but_CC the_DT first_JJ one_CD I_PRP got_VBD had_VBD issues_NNS ._.
+The_DT issues_NNS were_VBD all_DT minor_JJ but_CC taken_VBN as_IN a_DT whole_NN ,_, the_DT phone_NN was_VBD `_`` bad_JJ '_'' .1_CD ._.
+The_DT phone_NN was_VBD not_RB configured_VBN properly_RB -LRB-_-LRB- network_NN settings_NNS ,_, affecting_VBG all_DT txt_NN &_CC picture_NN messaging_NN -RRB-_-RRB- 2_CD ._.
+It_PRP had_VBD touchscreen_JJ issues_NNS ,_, freezing_NN often_RB along_IN certain_JJ areas_NNS -LRB-_-LRB- edges_NNS -RRB-_-RRB- or_CC on_IN certain_JJ functions_NNS ,_, or_CC randomly_RB selected_VBN the_DT wrong_JJ thing_NN on_IN a_DT completely_RB different_JJ area_NN of_IN the_DT touchpad_NN .3_CD ._.
+Unwanted_JJ apps_NNS would_MD open_VB ._.
+-LRB-_-LRB- Google_NNP voice_NN -RRB-_-RRB- Eventually_RB I_PRP called_VBD HTC_NNP ._.
+They_PRP sent_VBD a_DT new_JJ phone_NN and_CC after_IN a_DT triple-fail_JJ delivery_NN by_IN FedEx_NNP and_CC two_CD trips_NNS by_IN me_PRP to_TO their_PRP$ warehouse_NN ,_, I_PRP am_VBP seriously_RB disappointed_VBN with_IN FedEx_NNP but_CC happy_JJ with_IN my_PRP$ new_JJ ,_, properly_RB working_VBG Nexus_NNP One_CD ._.
+This_DT phone_NN is_VBZ markedly_RB better_JJR than_IN the_DT last_JJ one_CD ,_, it_PRP was_VBD configured_VBN out_IN of_IN the_DT box_NN ,_, it_PRP does_VBZ not_RB freeze_VB up_RP when_WRB I_PRP enter_VBP a_DT message_NN thread_NN ,_, and_CC the_DT screen_NN just_RB seems_VBZ more_RBR quick_JJ and_CC responsive_JJ ._.
+A_DT good_JJ all_DT around_IN phone_NN and_CC handheld_JJ platform_NN ,_, but_CC thoroughly_RB test_VB the_DT phone_NN you_PRP purchase_VBP before_IN your_PRP$ 30_CD day_NN return_NN period_NN is_VBZ up_IN ._.
+Otherwise_RB ,_, you_PRP are_VBP screwed_VBN and_CC a_DT replacement_NN will_MD cost_VB you_PRP the_DT full_JJ $_$ 529_CD or_CC whatever_WDT it_PRP is_VBZ ._.
+Also_RB ,_, if_IN troubleshooting_NN ,_, do_VBP not_RB push_VB the_DT little_JJ hole_NN on_IN the_DT back_JJ interior_NN that_WDT says_VBZ `_`` VOID_NN '_'' at_IN the_DT bottom_NN ._.
+I_PRP thought_VBD it_PRP was_VBD a_DT reset_JJ button_NN but_CC it_PRP may_MD void_VB your_PRP$ warranty_NN as_IN it_PRP covers_VBZ a_DT tiny_JJ screw_NN ._.

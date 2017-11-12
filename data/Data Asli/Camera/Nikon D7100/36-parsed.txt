@@ -1,0 +1,31 @@
+=========
+
+nsubj(detailed-4, Pictures-1)
+nsubj(nice-6, Pictures-1)
+cop(detailed-4, are-2)
+advmod(detailed-4, very-3)
+root(ROOT-0, detailed-4)
+conj_and(detailed-4, nice-6)
+amod(range-10, large-8)
+amod(range-10, dynamic-9)
+attr(detailed-4, range-10)
+
+=========
+
+root(ROOT-0, Noticeable-1)
+dobj(Noticeable-1, difference-2)
+det(level-7, the-4)
+amod(level-7, lower-5)
+nn(level-7, noise-6)
+prep_in(Noticeable-1, level-7)
+amod(ISO-10, higher-9)
+prep_at(level-7, ISO-10)
+prep_than(ISO-10, D7000-12)
+
+=========
+
+amod(!!-5, Recommended-1)
+nn(photos-4, bird-3)
+prep_for(Recommended-1, photos-4)
+root(ROOT-0, !!-5)
+

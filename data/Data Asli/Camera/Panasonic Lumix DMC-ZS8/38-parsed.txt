@@ -1,0 +1,34 @@
+=========
+
+det(telephoto-2, The-1)
+nsubj(super-4, telephoto-2)
+cop(super-4, is-3)
+ccomp(turn-8, super-4)
+det(movies-7, the-6)
+nsubj(turn-8, movies-7)
+root(ROOT-0, turn-8)
+prt(turn-8, out-9)
+advmod(too-11, well-10)
+advmod(turn-8, too-11)
+
+=========
+
+nsubj(learned-2, I-1)
+xsubj(turn-5, I-1)
+root(ROOT-0, learned-2)
+neg(turn-5, not-3)
+aux(turn-5, to-4)
+xcomp(learned-2, turn-5)
+det(camera-7, the-6)
+dobj(turn-5, camera-7)
+advmod(turn-5, sideways-8)
+advmod(taking-10, when-9)
+advcl(turn-5, taking-10)
+det(movie-12, a-11)
+dobj(taking-10, movie-12)
+det(sidways-17, the-14)
+nn(sidways-17, waterfall-15)
+nn(sidways-17, flows-16)
+dobj(taking-10, sidways-17)
+conj_or(movie-12, sidways-17)
+

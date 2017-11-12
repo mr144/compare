@@ -1,0 +1,37 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(camera-4, this-3)
+dobj(purchased-2, camera-4)
+poss(wife-7, my-6)
+poss(trip-10, wife-7)
+amod(trip-10, recent-9)
+prep_for(purchased-2, trip-10)
+nn(York-13, New-12)
+prep_to(purchased-2, York-13)
+
+=========
+
+nsubj(camera-5, It-1)
+cop(camera-5, is-2)
+det(camera-5, an-3)
+amod(camera-5, outstanding-4)
+root(ROOT-0, camera-5)
+partmod(camera-5, operated-7)
+advmod(easy-9, very-8)
+acomp(operated-7, easy-9)
+nsubj(takes-12, and-11)
+conj_and(camera-5, takes-12)
+amod(pictures-14, wonderful-13)
+dobj(takes-12, pictures-14)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+prep_to(recommend-3, everyone-7)
+

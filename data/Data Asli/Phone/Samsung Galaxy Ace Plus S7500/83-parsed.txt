@@ -1,0 +1,34 @@
+=========
+
+root(ROOT-0, excelent-1)
+dobj(excelent-1, phone-2)
+
+=========
+
+nsubj(want-2, I-1)
+root(ROOT-0, want-2)
+prep(want-2, to-3)
+pobj(to-3, now-4)
+mark(have-7, if-5)
+nsubj(have-7, you-6)
+advcl(want-2, have-7)
+det(model-10, the-8)
+nn(model-10, GT-I8160L-9)
+dobj(have-7, model-10)
+
+=========
+
+mark(data-6, because-1)
+poss(operator-3, my-2)
+nsubj(data-6, operator-3)
+cop(data-6, 's-4)
+num(data-6, 3G-5)
+root(ROOT-0, data-6)
+prep(data-6, service-7)
+poss(movistar-9, its-8)
+dep(service-7, movistar-9)
+nsubj(work-12, it-11)
+conj_and(data-6, work-12)
+num(MHz-14, 1900-13)
+dobj(work-12, MHz-14)
+

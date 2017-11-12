@@ -1,0 +1,54 @@
+=========
+
+partmod(am-7, hello-1)
+advmod(you-4, how-2)
+cop(you-4, are-3)
+ccomp(hello-1, you-4)
+nsubj(am-7, I-6)
+root(ROOT-0, am-7)
+prep_from(am-7, Venezuela-9)
+nsubj(buy-13, I-11)
+aux(buy-13, would-12)
+conj_and(am-7, buy-13)
+det(phone-15, this-14)
+dobj(buy-13, phone-15)
+
+=========
+
+nsubj(been-3, I-1)
+aux(been-3, have-2)
+root(ROOT-0, been-3)
+nn(forums-6, Internet-5)
+prep_in(been-3, forums-6)
+nsubj(say-9, many-8)
+conj_and(been-3, say-9)
+nsubjpass(placed-14, they-10)
+nsubjpass(having-19, they-10)
+aux(placed-14, can-11)
+neg(placed-14, not-12)
+auxpass(placed-14, be-13)
+dep(say-9, placed-14)
+prep_in(placed-14, Spanish-16)
+dep(say-9, also-18)
+advmod(placed-14, also-18)
+conj_and(placed-14, also-18)
+dep(say-9, having-19)
+conj_and(placed-14, having-19)
+dobj(having-19, problems-20)
+num(internet-23, 3G-22)
+prep_with(having-19, internet-23)
+prep_with(having-19, H-25)
+conj_and(internet-23, H-25)
+
+=========
+
+aux(help-2, could-1)
+root(ROOT-0, help-2)
+dobj(help-2, me-3)
+prep_on(help-2, this-5)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, you-2)
+

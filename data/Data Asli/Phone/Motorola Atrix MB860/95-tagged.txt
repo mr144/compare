@@ -1,0 +1,5 @@
+It_PRP is_VBZ the_DT first_JJ tegra2_CD duo_NN core_NN phone_NN with_IN a_DT very_RB nice_JJ quality_NN !_.
+And_CC the_DT screen_NN resolution_NN is_VBZ even_RB better_JJR than_IN galaxyS2_NNP ._.
+This_DT is_VBZ better_JJR than_IN what_WP I_PRP had_VBD expected_VBN ._.
+But_CC the_DT GPS_NNP does_VBZ not_RB work_VB very_RB well_RB ,_, I_PRP do_VBP not_RB know_VB why_WRB ._.
+HAPPY_JJ PURCHASE_NN ._.

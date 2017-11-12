@@ -1,0 +1,349 @@
+=========
+
+root(ROOT-0, Wow-1)
+
+=========
+
+advmod(start-4, Where-1)
+aux(start-4, do-2)
+nsubj(start-4, I-3)
+root(ROOT-0, start-4)
+
+=========
+
+root(ROOT-0, Picture-1)
+prep_with(equate-6, What-3)
+aux(equate-6, can-4)
+nsubj(equate-6, I-5)
+parataxis(Picture-1, equate-6)
+dobj(equate-6, this-7)
+
+=========
+
+aux(seen-4, Have-1)
+nsubj(seen-4, you-2)
+advmod(seen-4, ever-3)
+root(ROOT-0, seen-4)
+det(opera-7, a-5)
+nn(opera-7, soap-6)
+dobj(seen-4, opera-7)
+
+=========
+
+root(ROOT-0, Do-1)
+nsubj(remember-3, you-2)
+ccomp(Do-1, remember-3)
+advmod(looked-8, how-4)
+nn(picture-7, life-5)
+nn(picture-7, likethe-6)
+nsubj(looked-8, picture-7)
+ccomp(remember-3, looked-8)
+
+=========
+
+dobj(looks-5, Thats-1)
+nsubj(like-6, Thats-1)
+rel(looks-5, what-2)
+det(picture-4, this-3)
+nsubj(looks-5, picture-4)
+rcmod(Thats-1, looks-5)
+root(ROOT-0, like-6)
+nn(DEFINITION-9, STANDARD-8)
+prep_with(like-6, DEFINITION-9)
+nn(DEFINITION-14, HD-11)
+nn(DEFINITION-14, BUT-12)
+nn(DEFINITION-14, STANDARD-13)
+prep_with(like-6, DEFINITION-14)
+conj_negcc(DEFINITION-9, DEFINITION-14)
+
+=========
+
+root(ROOT-0, Do-1)
+nsubj(remember-3, you-2)
+ccomp(Do-1, remember-3)
+det(TV-5, the-4)
+nsubj(show-6, TV-5)
+ccomp(remember-3, show-6)
+iobj(show-6, &#34;-7)
+det(Rifleman-9, The-8)
+dobj(show-6, Rifleman-9)
+num(Rifleman-9, &#34;-10)
+
+=========
+
+nsubjpass(watchin-3, i-1)
+auxpass(watchin-3, was-2)
+root(ROOT-0, watchin-3)
+dobj(watchin-3, it-4)
+advmod(got-8, when-5)
+nsubj(got-8, I-6)
+advmod(got-8, first-7)
+advcl(watchin-3, got-8)
+det(TV-10, the-9)
+dobj(got-8, TV-10)
+
+=========
+
+nsubj(looked-4, It-1)
+aux(looked-4, has-2)
+neg(looked-4, never-3)
+root(ROOT-0, looked-4)
+det(great-6, this-5)
+dobj(looked-4, great-6)
+
+=========
+
+dep(old-11, Keep-1)
+prep_in(Keep-1, mind-3)
+det(show-6, this-4)
+nn(show-6, TV-5)
+nsubj(old-11, show-6)
+cop(old-11, is-7)
+advmod(old-11, over-8)
+num(yrs-10, 40-9)
+pobj(over-8, yrs-10)
+root(ROOT-0, old-11)
+
+=========
+
+advmod(switch-3, When-1)
+nsubj(switch-3, you-2)
+advcl(have-12, switch-3)
+det(channel-7, an-5)
+nn(channel-7, HD-6)
+prep_to(switch-3, channel-7)
+det(subject-10, the-9)
+nsubj(have-12, subject-10)
+advmod(have-12, better-11)
+root(ROOT-0, have-12)
+det(complextion-15, a-13)
+amod(complextion-15, clear-14)
+dobj(have-12, complextion-15)
+dobj(see-19, complextion-15)
+mark(see-19, because-16)
+nsubj(see-19, you-17)
+aux(see-19, will-18)
+dep(complextion-15, see-19)
+det(blemish-21, every-20)
+nsubj(hot-31, blemish-21)
+conj_and(blemish-21, crack-23)
+nsubj(hot-31, crack-23)
+conj_and(blemish-21, crater-25)
+nsubj(hot-31, crater-25)
+poss(face.3D-This-28, their-27)
+prep_on(blemish-21, face.3D-This-28)
+cop(hot-31, is-29)
+advmod(hot-31, so-30)
+ccomp(see-19, hot-31)
+
+=========
+
+nsubj(looked-4, TV-1)
+aux(looked-4, has-2)
+neg(looked-4, never-3)
+root(ROOT-0, looked-4)
+dep(looked-4, better-5)
+
+=========
+
+nsubj(surround-4, 3D-1)
+prep(3D-1, plus-2)
+dep(plus-2, 7.1-3)
+root(ROOT-0, surround-4)
+amod(!!!-6, sound-5)
+nsubj(Need-7, !!!-6)
+ccomp(surround-4, Need-7)
+nsubj(say-9, I-8)
+ccomp(Need-7, say-9)
+advmod(say-9, more-10)
+
+=========
+
+advmod(waiting-4, Now-1)
+nsubj(waiting-4, I-2)
+xsubj(get-11, I-2)
+aux(waiting-4, am-3)
+root(ROOT-0, waiting-4)
+poss(Ray-9, my-6)
+nn(Ray-9, 3D-7)
+nn(Ray-9, Blu-8)
+prep_for(waiting-4, Ray-9)
+aux(get-11, to-10)
+xcomp(waiting-4, get-11)
+advmod(get-11, here-12)
+poss(system-15, my-14)
+nsubj(copmplete-18, system-15)
+aux(copmplete-18, will-16)
+cop(copmplete-18, be-17)
+conj_and(waiting-4, copmplete-18)
+
+=========
+
+num(thing-2, One-1)
+nsubj(need-18, thing-2)
+mark(have-6, if-4)
+nsubj(have-6, you-5)
+dep(need-18, have-6)
+det(set-11, an-7)
+amod(set-11, older-8)
+amod(set-11, surround-9)
+nn(set-11, sound-10)
+dobj(have-6, set-11)
+dep(need-18, like-13)
+dobj(like-13, me-14)
+nsubj(need-18, you-16)
+aux(need-18, will-17)
+root(ROOT-0, need-18)
+det(cable-21, an-19)
+amod(cable-21, optical-20)
+dobj(need-18, cable-21)
+abbrev(cable-21, SPDIF-23)
+
+=========
+
+nsubj(run-2, They-1)
+root(ROOT-0, run-2)
+quantmod($-4, about-3)
+num(bucks-6, $-4)
+number($-4, 10-15-5)
+dobj(run-2, bucks-6)
+
+=========
+
+root(ROOT-0, Sound-1)
+amod(screens-6, many-4)
+amod(screens-6, flat-5)
+prep_with(sucks-10, screens-6)
+det(sound-9, the-8)
+nsubj(sucks-10, sound-9)
+dep(Sound-1, sucks-10)
+
+=========
+
+nsubj(tinny-4, It-1)
+cop(tinny-4, is-2)
+advmod(tinny-4, so-3)
+ccomp(need-7, tinny-4)
+nsubj(need-7, you-6)
+xsubj(get-9, you-6)
+root(ROOT-0, need-7)
+aux(get-9, to-8)
+xcomp(need-7, get-9)
+det(bar-12, a-10)
+amod(bar-12, sound-11)
+dobj(get-9, bar-12)
+
+=========
+
+root(ROOT-0, Not-1)
+dep(Not-1, here-2)
+
+=========
+
+det(sound-2, The-1)
+nsubj(awesome-4, sound-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+advmod(awesome-4, too-5)
+
+=========
+
+nsubj(has-3, It-1)
+advmod(has-3, even-2)
+root(ROOT-0, has-3)
+det(equalizer-5, an-4)
+dobj(has-3, equalizer-5)
+nsubj(choose-9, you-7)
+aux(choose-9, can-8)
+conj_or(has-3, choose-9)
+amod(fields-12, different-10)
+nn(fields-12, sound-11)
+dobj(choose-9, fields-12)
+
+=========
+
+nn(Fi-Connection-2, Wi-1)
+nsubj(breeze-5, Fi-Connection-2)
+cop(breeze-5, is-3)
+det(breeze-5, a-4)
+root(ROOT-0, breeze-5)
+
+=========
+
+nsubj(scans-2, It-1)
+root(ROOT-0, scans-2)
+amod(wifi-5, available-4)
+prep_for(scans-2, wifi-5)
+
+=========
+
+nsubj(pick-2, You-1)
+root(ROOT-0, pick-2)
+dep(enter-5, yours-3)
+ccomp(pick-2, enter-5)
+poss(password-7, your-6)
+dobj(enter-5, password-7)
+dobj(enter-5, Voila-9)
+conj_and(password-7, Voila-9)
+
+=========
+
+nsubj(are-2, you-1)
+root(ROOT-0, are-2)
+prep(are-2, in-3)
+
+=========
+
+root(ROOT-0, Loads-1)
+prep_of(Loads-1, apps-3)
+advmod(Loads-1, too-4)
+
+=========
+
+nn(Amazon-3, Vudu-1)
+root(ROOT-0, Amazon-3)
+dep(Amazon-3, da-5)
+dep(da-5, bomb-6)
+
+=========
+
+dep(tube-5, hulu-2)
+nsubj(tube-5, you-4)
+root(ROOT-0, tube-5)
+dobj(tube-5, netfilix-7)
+dobj(tube-5, pandora-9)
+conj_and(netfilix-7, pandora-9)
+dobj(tube-5, others-11)
+conj_and(netfilix-7, others-11)
+
+=========
+
+root(ROOT-0, Price-1)
+predet(this-4, All-3)
+nsubj(Are-10, this-4)
+num(???-9, $-6)
+number($-6, 500-7)
+number($-6, bucks-8)
+prep_for(this-4, ???-9)
+dep(Price-1, Are-10)
+nsubj(kidding-12, you-11)
+dep(Are-10, kidding-12)
+nsubj(???-14, me-13)
+ccomp(kidding-12, ???-14)
+nsubj(said-16, I-15)
+dep(???-14, said-16)
+dobj(said-16, it-17)
+advmod(said-16, before-18)
+poss(l-22, I-20)
+nsubj(say-23, l-22)
+dep(???-14, say-23)
+conj_and(said-16, say-23)
+dobj(say-23, it-24)
+advmod(say-23, again-25)
+dep(???-14, love-27)
+dobj(love-27, it-28)
+dep(???-14, love-30)
+dobj(love-30, it-31)
+dep(???-14, love-33)
+dobj(love-33, it-34)
+

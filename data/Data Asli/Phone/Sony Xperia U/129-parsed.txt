@@ -1,0 +1,46 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(phone-4, this-3)
+dobj(love-2, phone-4)
+
+=========
+
+nsubj(great-2, Works-1)
+nsubj(fast-8, Works-1)
+root(ROOT-0, great-2)
+prep_with(great-2, Tmobile-4)
+cop(fast-8, is-6)
+advmod(fast-8, plenty-7)
+conj_and(great-2, fast-8)
+
+=========
+
+num(downside-2, One-1)
+nsubj(card-7, downside-2)
+aux(card-7, would-3)
+cop(card-7, be-4)
+det(card-7, no-5)
+nn(card-7, SD-6)
+root(ROOT-0, card-7)
+dep(card-7, so-9)
+mark(thats-11, if-10)
+advcl(buy-17, thats-11)
+det(necessity-13, a-12)
+dobj(thats-11, necessity-13)
+prep_for(necessity-13, you-15)
+ccomp(card-7, buy-17)
+det(model-20, the-18)
+amod(model-20, next-19)
+dobj(buy-17, model-20)
+advmod(buy-17, up-21)
+
+=========
+
+advmod(cool-2, Very-1)
+root(ROOT-0, cool-2)
+dobj(cool-2, phone-3)
+det(money-6, the-5)
+prep_for(cool-2, money-6)
+

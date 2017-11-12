@@ -1,0 +1,115 @@
+=========
+
+nsubj(ordered-2, I-1)
+nsubj(received-6, I-1)
+root(ROOT-0, ordered-2)
+poss(Z990-4, my-3)
+dobj(ordered-2, Z990-4)
+conj_and(ordered-2, received-6)
+dobj(received-6, it-7)
+num(days-10, two-9)
+prep_within(received-6, days-10)
+
+=========
+
+nsubj(advertised-4, Everything-1)
+cop(advertised-4, was-2)
+advmod(advertised-4, as-3)
+root(ROOT-0, advertised-4)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+prep_in(got-2, touch-4)
+det(representative-7, a-6)
+prep_with(touch-4, representative-7)
+mark(play-13, because-8)
+poss(video-10, my-9)
+nsubj(play-13, video-10)
+aux(play-13, would-11)
+neg(play-13, not-12)
+advcl(got-2, play-13)
+
+=========
+
+nsubj(helpful-3, He-1)
+cop(helpful-3, was-2)
+root(ROOT-0, helpful-3)
+mark(turned-7, as-5)
+nsubj(turned-7, it-6)
+advcl(camera-14, turned-7)
+prt(turned-7, out-8)
+nsubj(camera-14, it-10)
+cop(camera-14, was-11)
+neg(camera-14, NOT-12)
+det(camera-14, the-13)
+conj_and(helpful-3, camera-14)
+prep(camera-14, but-15)
+det(computer-17, the-16)
+dep(but-15, computer-17)
+
+=========
+
+nsubj(deal-6, This-1)
+cop(deal-6, was-2)
+det(deal-6, a-3)
+advmod(good-5, really-4)
+amod(deal-6, good-5)
+root(ROOT-0, deal-6)
+det(camera-11, a-8)
+advmod(good-10, really-9)
+amod(camera-11, good-10)
+prep_on(deal-6, camera-11)
+
+=========
+
+nsubj(more-5, It-1)
+dep(more-5, has-2)
+det(lot-4, a-3)
+npadvmod(more-5, lot-4)
+root(ROOT-0, more-5)
+mark(need-8, than-6)
+nsubj(need-8, I-7)
+ccomp(more-5, need-8)
+nsubj(learning-13, I-11)
+aux(learning-13, am-12)
+conj_but(more-5, learning-13)
+mark(go-16, as-14)
+nsubj(go-16, I-15)
+advcl(learning-13, go-16)
+
+=========
+
+nsubj(VERY-3, It-1)
+cop(VERY-3, is-2)
+root(ROOT-0, VERY-3)
+advmod(VERY-3, easy-4)
+aux(use-6, to-5)
+xcomp(VERY-3, use-6)
+mark(know-13, in-7)
+nsubj(know-13, it-8)
+aux(know-13, is-9)
+aux(know-13, Do-11)
+neg(know-13, not-12)
+advcl(use-6, know-13)
+dobj(know-13, much-14)
+poss(setting-18, cameras-16)
+prep_about(know-13, setting-18)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, highly-3)
+root(ROOT-0, recommend-4)
+predet(camera-7, both-5)
+det(camera-7, the-6)
+dobj(recommend-4, camera-7)
+det(company-10, the-9)
+dobj(recommend-4, company-10)
+conj_and(camera-7, company-10)
+nn(Trading-14, Otter-12)
+nn(Trading-14, Creek-13)
+appos(company-10, Trading-14)
+

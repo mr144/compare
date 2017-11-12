@@ -1,0 +1,29 @@
+=========
+
+nsubj(good-5, It-1)
+cop(good-5, was-2)
+advmod(good-5, very-3)
+advmod(good-5, very-4)
+root(ROOT-0, good-5)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, you-2)
+nn(SLR-11, Nikon-4)
+nn(SLR-11, D7100-5)
+nn(SLR-11, 24.1-6)
+nn(SLR-11, MP-7)
+nn(SLR-11, DX-Format-8)
+nn(SLR-11, CMOS-9)
+nn(SLR-11, Digital-10)
+prep_for(Thank-1, SLR-11)
+nn(Only-14, Body-13)
+appos(SLR-11, Only-14)
+

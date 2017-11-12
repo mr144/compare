@@ -1,0 +1,40 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(believe-2, I-1)
+root(ROOT-0, believe-2)
+cc(want-7, or-4)
+nsubj(want-7, I-5)
+xsubj(believe-9, I-5)
+advmod(want-7, really-6)
+parataxis(believe-2, want-7)
+aux(believe-9, to-8)
+xcomp(want-7, believe-9)
+complm(made-13, that-11)
+nsubj(made-13, Amazon-12)
+ccomp(believe-2, made-13)
+det(mistake-16, an-14)
+amod(mistake-16, honest-15)
+dobj(made-13, mistake-16)
+expl(marketing-19, there-18)
+prepc_with(made-13, marketing-19)
+advmod(just-22, so-21)
+advmod(clear-25, just-22)
+aux(clear-25, to-23)
+cop(clear-25, be-24)
+parataxis(believe-2, clear-25)
+nsubj(HDTV-31, this-26)
+cop(HDTV-31, is-27)
+det(HDTV-31, a-28)
+amod(HDTV-31, 120hz-29)
+nn(HDTV-31, LED-30)
+ccomp(clear-25, HDTV-31)
+prep(HDTV-31, not-32)
+det(HDTV-36, a-33)
+amod(HDTV-36, 240hz-34)
+nn(HDTV-36, LED-35)
+pobj(not-32, HDTV-36)
+

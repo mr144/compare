@@ -1,0 +1,24 @@
+=========
+
+nsubj(great-3, it-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+ccomp(great-3, looks-4)
+dep(new-6, brand-5)
+acomp(looks-4, new-6)
+nsubj(freezes-9, it-8)
+conj_but(great-3, freezes-9)
+advmod(freezes-9, sometimes-10)
+nsubj(charge-13, wont-12)
+conj_and(great-3, charge-13)
+dep(is-16, but-14)
+nsubj(is-16, that-15)
+dep(charge-13, is-16)
+aux(expected-19, to-17)
+auxpass(expected-19, be-18)
+xcomp(is-16, expected-19)
+
+=========
+
+root(ROOT-0, great-1)
+

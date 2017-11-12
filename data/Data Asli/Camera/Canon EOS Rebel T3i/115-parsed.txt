@@ -1,0 +1,26 @@
+=========
+
+nsubj(like-2, I-1)
+nsubj(disappointed-8, I-1)
+dep(packaged-15, like-2)
+det(item-4, the-3)
+dobj(like-2, item-4)
+cop(disappointed-8, was-6)
+advmod(disappointed-8, very-7)
+conj_but(like-2, disappointed-8)
+dep(packaged-15, disappointed-8)
+det(way-11, the-10)
+prep_by(disappointed-8, way-11)
+det(item-13, the-12)
+nsubjpass(packaged-15, item-13)
+auxpass(packaged-15, was-14)
+root(ROOT-0, packaged-15)
+
+=========
+
+nsubj(needed-2, Camera-1)
+root(ROOT-0, needed-2)
+det(lot-4, a-3)
+dobj(needed-2, lot-4)
+prep_of(lot-4, cleaning-6)
+

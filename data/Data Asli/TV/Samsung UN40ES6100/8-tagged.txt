@@ -1,0 +1,3 @@
+Great_JJ picture_NN but_CC hard_JJ to_TO get_VB colors_NNS right_RB ._.
+Loses_VBZ color_NN and_CC intensity_NN when_WRB not_RB viewed_VBN from_IN exact_JJ front_NN ._.
+Plasma_NN does_VBZ not_RB do_VB this_DT ._.

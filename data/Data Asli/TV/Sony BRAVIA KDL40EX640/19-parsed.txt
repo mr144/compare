@@ -1,0 +1,47 @@
+=========
+
+det(remot-2, The-1)
+nsubj(cheap-4, remot-2)
+cop(cheap-4, is-3)
+root(ROOT-0, cheap-4)
+
+=========
+
+det(sound-2, The-1)
+nsubj(average-4, sound-2)
+cop(average-4, is-3)
+root(ROOT-0, average-4)
+prep_at(average-4, best-6)
+
+=========
+
+nsubj(incomplete-3, Documentation-1)
+cop(incomplete-3, is-2)
+root(ROOT-0, incomplete-3)
+
+=========
+
+det(finish-4, The-1)
+nn(finish-4, glare-2)
+nn(finish-4, control-3)
+nsubj(good-11, finish-4)
+det(screen-7, the-6)
+prep_on(finish-4, screen-7)
+cop(good-11, is-8)
+neg(good-11, not-9)
+advmod(good-11, as-10)
+root(ROOT-0, good-11)
+mark(expected-14, as-12)
+nsubj(expected-14, I-13)
+advcl(good-11, expected-14)
+
+=========
+
+poss(Samsung-3, My-1)
+amod(Samsung-3, old-2)
+nsubj(better-6, Samsung-3)
+cop(better-6, was-4)
+advmod(better-6, much-5)
+root(ROOT-0, better-6)
+prep_over(better-6, all-8)
+

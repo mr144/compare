@@ -1,0 +1,39 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(product-4, this-3)
+nsubj(like-10, product-4)
+det(y-8, the-6)
+nn(y-8, brand-7)
+conj_and(product-4, y-8)
+nsubj(like-10, y-8)
+advmod(like-10, very-9)
+xcomp(like-2, like-10)
+
+=========
+
+nsubj(used-2, I-1)
+nsubj(nice-9, I-1)
+root(ROOT-0, used-2)
+det(times-5, this-3)
+amod(times-5, many-4)
+dobj(used-2, times-5)
+cop(nice-9, is-7)
+advmod(nice-9, very-8)
+conj_and(used-2, nice-9)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+dobj(like-2, it-3)
+
+=========
+
+nsubj(smartphone-5, It-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, best-4)
+root(ROOT-0, smartphone-5)
+

@@ -1,0 +1,35 @@
+=========
+
+nsubj(phone-5, This-1)
+cop(phone-5, is-2)
+det(phone-5, a-3)
+amod(phone-5, GREAT-4)
+ccomp(BUT-7, phone-5)
+root(ROOT-0, BUT-7)
+nsubj(running-10, it-8)
+aux(running-10, is-9)
+ccomp(BUT-7, running-10)
+det(core-13, a-11)
+amod(core-13, single-12)
+dobj(running-10, core-13)
+num(repeat-18, 1Ghz-14)
+nn(repeat-18, CPU-15)
+nn(repeat-18, NOT-16)
+nn(repeat-18, I-17)
+nsubj(NOT-19, repeat-18)
+rcmod(core-13, NOT-19)
+det(core-22, a-20)
+amod(core-22, dual-21)
+dobj(NOT-19, core-22)
+num(CPU-25, 1.5-23)
+nn(CPU-25, ghz-24)
+nsubj(BUT-7, CPU-25)
+
+=========
+
+nsubj(!!-5, this-1)
+cop(!!-5, is-2)
+nn(!!-5, NOT-3)
+amod(!!-5, cool-4)
+root(ROOT-0, !!-5)
+

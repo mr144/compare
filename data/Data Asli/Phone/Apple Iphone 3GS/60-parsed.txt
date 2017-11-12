@@ -1,0 +1,65 @@
+=========
+
+root(ROOT-0, horrible-1)
+
+=========
+
+nsubj(work-5, it-1)
+aux(work-5, does-2)
+neg(work-5, not-3)
+advmod(work-5, even-4)
+root(ROOT-0, work-5)
+
+=========
+
+det(description-5, no-1)
+nn(description-5, charger-2)
+conj_and(charger-2, little-4)
+nn(description-5, little-4)
+nsubj(is-8, description-5)
+prep_about(description-5, what-7)
+root(ROOT-0, is-8)
+det(box-11, the-10)
+prep_in(is-8, box-11)
+poss(package-14, my-13)
+prep_of(box-11, package-14)
+
+=========
+
+det(user-2, the-1)
+nsubj(took-4, user-2)
+advmod(took-4, only-3)
+root(ROOT-0, took-4)
+det(picture-6, a-5)
+dobj(took-4, picture-6)
+det(back-9, the-8)
+prep_on(took-4, back-9)
+det(screen-13, the-12)
+prep_instead_of(back-9, screen-13)
+
+=========
+
+nsubj(knew-2, i-1)
+root(ROOT-0, knew-2)
+nsubj(was-4, something-3)
+ccomp(knew-2, was-4)
+advmod(was-4, fishy-5)
+
+=========
+
+aux(know-4, do-1)
+neg(know-4, not-2)
+advmod(know-4, even-3)
+root(ROOT-0, know-4)
+advmod(return-7, how-5)
+aux(return-7, to-6)
+ccomp(know-4, return-7)
+xcomp(know-4, return-7)
+nsubj(get-10, it-8)
+aux(get-10, to-9)
+xcomp(return-7, get-10)
+poss(money-12, my-11)
+dobj(get-10, money-12)
+advmod(get-10, back-13)
+nsubj(know-4, !!!-14)
+

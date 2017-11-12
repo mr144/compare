@@ -1,0 +1,5 @@
+A_DT great_JJ cellphone_NN unlocked_VBN for_IN any_DT GSM_NNP carrier_NN ._.
+Fast_NN response_NN ,_, lightweight_JJ ,_, great_JJ resolution_NN ,_, huge_JJ space_NN ._.
+Came_NNP with_IN Gingerbread_NNP ._.
+The_DT downside_NN :_: tethering_VBG is_VBZ locked_VBN by_IN AT&T_NNP ,_, so_IN you_PRP will_MD need_VB to_TO root_VB it_PRP to_TO unlock_VB tether_NN ._.
+The_DT best_JJS way_NN to_TO do_VB it_PRP in_IN my_PRP$ opinion_NN is_VBZ throught_JJ SQLite_NNP Editor_NNP ,_, so_RB after_IN that_IN you_PRP can_MD undo_VB root_NN ._.

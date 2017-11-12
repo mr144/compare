@@ -1,0 +1,3 @@
+I_PRP got_VBD just_RB what_WP I_PRP ask_VBP for_IN ,_, and_CC it_PRP took_VBD lest_IN time_NN than_IN expected_VBN ._.
+The_DT cellphone_NN is_VBZ just_RB fine_JJ ._.
+Do_VBP not_RB know_VB yet_RB if_IN is_VBZ the_DT network_NN where_WRB I_PRP live_VBP ,_, but_CC the_DT navigation_NN should_MD be_VB faster_RBR ._.

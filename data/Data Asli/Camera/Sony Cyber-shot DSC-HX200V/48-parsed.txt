@@ -1,0 +1,135 @@
+=========
+
+det(LCD-2, The-1)
+nsubj(light-5, LCD-2)
+aux(light-5, would-3)
+neg(light-5, not-4)
+root(ROOT-0, light-5)
+prt(light-5, up-6)
+prep_to(light-5, levels-8)
+partmod(levels-8, expected-9)
+
+=========
+
+nsubj(called-2, I-1)
+root(ROOT-0, called-2)
+nsubj(attempted-6, Sony-3)
+xsubj(correct-8, Sony-3)
+conj_and(Sony-3, they-5)
+nsubj(attempted-6, they-5)
+xsubj(correct-8, they-5)
+ccomp(called-2, attempted-6)
+aux(correct-8, to-7)
+xcomp(attempted-6, correct-8)
+dobj(correct-8, it-9)
+det(phone-12, the-11)
+prep_over(correct-8, phone-12)
+
+=========
+
+nsubj(unable-3, They-1)
+nsubj(suggested-6, They-1)
+cop(unable-3, were-2)
+ccomp(received-20, unable-3)
+prep(unable-3, to-4)
+conj_and(unable-3, suggested-6)
+ccomp(received-20, suggested-6)
+nsubj(try-8, I-7)
+ccomp(suggested-6, try-8)
+poss(site-11, their-9)
+nn(site-11, web-10)
+dobj(try-8, site-11)
+amod(charger-14, sony.com\/repair.Battery-13)
+nsubjpass(received-20, charger-14)
+conj_and(charger-14, battery-16)
+nsubjpass(received-20, battery-16)
+prep_for(charger-14, HX200V-18)
+auxpass(received-20, was-19)
+root(ROOT-0, received-20)
+prep_from(received-20, DM-22)
+
+=========
+
+nsubj(incorrect-3, Charger-1)
+cop(incorrect-3, was-2)
+root(ROOT-0, incorrect-3)
+conj_and(incorrect-3, under-5)
+prep_under(incorrect-3, capacity-6)
+
+=========
+
+det(results-2, The-1)
+nsubj(unfruitful-15, results-2)
+poss(suggestion-6, Sony-4)
+prep_of(results-2, suggestion-6)
+aux(go-8, to-7)
+infmod(suggestion-6, go-8)
+poss(site-12, their-10)
+nn(site-12, repair-11)
+prep_to(go-8, site-12)
+cop(unfruitful-15, was-13)
+advmod(unfruitful-15, also-14)
+root(ROOT-0, unfruitful-15)
+
+=========
+
+nsubj(listed-2, It-1)
+root(ROOT-0, listed-2)
+advmod(find-6, where-3)
+nsubj(find-6, I-4)
+aux(find-6, might-5)
+advcl(listed-2, find-6)
+amod(companies-9, commercial-7)
+nn(companies-9, repair-8)
+dobj(find-6, companies-9)
+
+=========
+
+nsubj(happenned-2, What-1)
+root(ROOT-0, happenned-2)
+poss(garantee-5, my-4)
+prep_to(happenned-2, garantee-5)
+
+=========
+
+det(camera-2, The-1)
+nsubj(old-7, camera-2)
+cop(old-7, is-3)
+advmod(old-7, only-4)
+det(week-6, a-5)
+npadvmod(old-7, week-6)
+root(ROOT-0, old-7)
+
+=========
+
+nn(experience-3, m-1)
+poss(experience-3, My-2)
+nsubj(nightmare-15, experience-3)
+prep_with(experience-3, Amazon-5)
+poss(orders-11, their-7)
+amod(orders-11, third-8)
+nn(orders-11, party-9)
+nn(orders-11, placement-10)
+prep_with(experience-3, orders-11)
+conj_and(Amazon-5, orders-11)
+aux(nightmare-15, has-12)
+cop(nightmare-15, been-13)
+det(nightmare-15, a-14)
+root(ROOT-0, nightmare-15)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(lot-4, a-3)
+nsubj(is-2, lot-4)
+aux(said-7, to-5)
+auxpass(said-7, be-6)
+infmod(lot-4, said-7)
+prepc_for(said-7, shopping-9)
+advmod(shopping-9, locally-10)
+
+=========
+
+root(ROOT-0, ALG-1)
+

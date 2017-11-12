@@ -1,0 +1,1 @@
+This_DT is_VBZ a_DT great_JJ product_NN basic_JJ camera_NN but_CC really_RB good_JJ ..._: ..._:

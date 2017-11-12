@@ -1,0 +1,98 @@
+=========
+
+nsubj(got-3, I-1)
+nsubj(found-11, I-1)
+xsubj(upgrade-18, I-1)
+advmod(got-3, just-2)
+root(ROOT-0, got-3)
+det(camera-8, a-4)
+nn(camera-8, Kodak-5)
+nn(camera-8, Z990-6)
+amod(camera-8, digital-7)
+dobj(got-3, camera-8)
+conj_and(got-3, found-11)
+dobj(found-11, instructions-12)
+det(site-16, the-14)
+nn(site-16, Kodak-15)
+prep_on(found-11, site-16)
+aux(upgrade-18, to-17)
+xcomp(found-11, upgrade-18)
+det(firmware-20, the-19)
+dobj(upgrade-18, firmware-20)
+det(version-24, the-22)
+amod(version-24, latest-23)
+prep_to(upgrade-18, version-24)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(card-5, a-3)
+nn(card-5, memory-4)
+dobj(have-2, card-5)
+dobj(used-8, card-5)
+rel(used-8, which-6)
+nsubj(used-8, I-7)
+rcmod(card-5, used-8)
+prep_following(have-2, instructions-11)
+prep_at(instructions-11, Kodak-13)
+
+=========
+
+nsubj(followed-2, I-1)
+root(ROOT-0, followed-2)
+det(instructions-4, the-3)
+dobj(followed-2, instructions-4)
+det(camera-7, the-6)
+nsubj(did-9, camera-7)
+neg(did-9, never-8)
+conj_but(followed-2, did-9)
+ccomp(did-9, indicate-10)
+advmod(update-13, how-11)
+aux(update-13, to-12)
+ccomp(indicate-10, update-13)
+xcomp(indicate-10, update-13)
+det(firmware-16, the-14)
+amod(firmware-16, new-15)
+dobj(update-13, firmware-16)
+
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+advmod(tried-2, twice-3)
+xcomp(tried-2, erasing-5)
+prep_between(erasing-5, times-7)
+
+=========
+
+det(camera-2, The-1)
+nsubj(come-5, camera-2)
+aux(come-5, does-3)
+neg(come-5, not-4)
+root(ROOT-0, come-5)
+prt(come-5, up-6)
+nn(instructions-9, installation-8)
+prep_with(come-5, instructions-9)
+
+=========
+
+dep(do-3, So-1)
+nsubj(do-3, HOW-2)
+root(ROOT-0, do-3)
+nsubj(get-5, I-4)
+nsubj(get-5', I-4)
+ccomp(do-3, get-5)
+ccomp(do-3, get-5')
+conj_and(get-5, get-5')
+dobj(get-5, it-6)
+det(card-10, the-8)
+nn(card-10, memory-9)
+prep_off(get-5, card-10)
+det(camera-14, the-13)
+prep_into(get-5', camera-14)
+
+=========
+
+root(ROOT-0, Please-1)
+

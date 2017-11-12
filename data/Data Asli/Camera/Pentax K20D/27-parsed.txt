@@ -1,0 +1,81 @@
+=========
+
+nsubj(had-3, I-1)
+nsubj(shot-11, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+poss(K20D-5, my-4)
+dobj(had-3, K20D-5)
+prep_since(had-3, December-7)
+num(December-7, 2008-8)
+aux(shot-11, have-10)
+conj_and(had-3, shot-11)
+num(images-14, 3000-13)
+prep_about(shot-11, images-14)
+
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, wonderful-4)
+root(ROOT-0, camera-5)
+nsubj(build-8, solid-7)
+nsubj(set-10, solid-7)
+nsubj(adjustments-13, solid-7)
+parataxis(camera-5, build-8)
+parataxis(camera-5, set-10)
+conj_and(build-8, set-10)
+prt(set-10, up-11)
+parataxis(camera-5, adjustments-13)
+conj_and(build-8, adjustments-13)
+acomp(adjustments-13, easy-14)
+aux(do-16, to-15)
+xcomp(easy-14, do-16)
+det(fly-19, the-18)
+prep_on(do-16, fly-19)
+det(controls-25, the-22)
+amod(controls-25, quick-23)
+nn(controls-25, access-24)
+prep_thanks_to(adjustments-13, controls-25)
+
+=========
+
+nsubj(impressed-5, I-1)
+cop(impressed-5, am-2)
+advmod(impressed-5, also-3)
+advmod(impressed-5, particularly-4)
+root(ROOT-0, impressed-5)
+det(images-10, the-7)
+nn(images-10, night-8)
+nn(images-10, time-9)
+prep_with(impressed-5, images-10)
+dobj(takes-12, images-10)
+nsubj(takes-12, it-11)
+rcmod(images-10, takes-12)
+
+=========
+
+det(life-3, The-1)
+nn(life-3, battery-2)
+nsubj(outstanding-5, life-3)
+cop(outstanding-5, is-4)
+root(ROOT-0, outstanding-5)
+prep(outstanding-5, as-6)
+pcomp(as-6, well-7)
+
+=========
+
+det(charge-4, a-2)
+amod(charge-4, single-3)
+prep_from(do-8, charge-4)
+nsubj(do-8, I-6)
+aux(do-8, can-7)
+root(ROOT-0, do-8)
+det(card-12, a-9)
+amod(card-12, full-10)
+num(card-12, 8GB-11)
+dobj(do-8, card-12)
+prep_at(do-8, 14MP-14)
+prep_per(14MP-14, image-16)
+

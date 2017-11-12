@@ -1,0 +1,30 @@
+=========
+
+root(ROOT-0, Reminds-1)
+dep(Reminds-1, me-2)
+poss(AE-Program-6, my-4)
+nn(AE-Program-6, Canon-5)
+prep_of(me-2, AE-Program-6)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(pictures-3, great-2)
+dobj(Takes-1, pictures-3)
+
+=========
+
+root(ROOT-0, Love-1)
+det(lens-5, the-2)
+amod(lens-5, 55-250-3)
+amod(lens-5, zoom-4)
+dobj(Love-1, lens-5)
+
+=========
+
+mwe(than-2, More-1)
+quantmod(happy-3, than-2)
+root(ROOT-0, happy-3)
+det(purchase-6, the-5)
+prep_with(happy-3, purchase-6)
+

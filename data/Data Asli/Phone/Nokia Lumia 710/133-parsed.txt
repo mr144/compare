@@ -1,0 +1,37 @@
+=========
+
+root(ROOT-0, Love-1)
+det(os-3, the-2)
+dobj(Love-1, os-3)
+
+=========
+
+root(ROOT-0, Connect-1)
+aux(Facebook-3, to-2)
+xcomp(Connect-1, Facebook-3)
+xcomp(Connect-1, Twitter-5)
+conj_and(Facebook-3, Twitter-5)
+nn(Mail-10, Hotmail-7)
+conj_and(Hotmail-7, Yahoo-9)
+nn(Mail-10, Yahoo-9)
+xcomp(Connect-1, Mail-10)
+conj_and(Facebook-3, Mail-10)
+conj_and(Facebook-3, LinkedIn-12)
+conj_and(Mail-10, LinkedIn-12)
+advmod(Facebook-3, perfectly-13)
+
+=========
+
+amod(performance-2, Great-1)
+root(ROOT-0, performance-2)
+
+=========
+
+nn(life-2, Battery-1)
+nsubj(enough-6, life-2)
+cop(enough-6, is-3)
+neg(enough-6, not-4)
+advmod(enough-6, long-5)
+root(ROOT-0, enough-6)
+advmod(enough-6, though-8)
+

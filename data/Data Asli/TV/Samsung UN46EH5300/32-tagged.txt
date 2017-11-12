@@ -1,0 +1,9 @@
+Buyer_NNP beware_NN !_.
+Though_IN this_DT TV_NN is_VBZ listed_VBN as_IN being_VBG 120Hz_NNP ,_, it_PRP is_VBZ actually_RB 60Hz_JJ ._.
+Samsung_NNP has_VBZ labeled_VBN it_PRP as_IN '_POS 120_CD Clear_NNP Motion_NNP Rate_NNP -LRB-_-LRB- CMR_NNP -RRB-_-RRB- '_'' ,_, which_WDT is_VBZ probably_RB the_DT source_NN of_IN the_DT confusion_NN ._.
+I_PRP purchased_VBD this_DT TV_NN looking_VBG for_IN a_DT good_JJ deal_NN on_IN a_DT Samsung_NNP ,_, seeing_VBG as_IN they_PRP typically_RB have_VBP great_JJ panels_NNS ._.
+After_IN receiving_VBG the_DT set_NN and_CC setting_VBG it_PRP up_RP ,_, I_PRP quickly_RB noticed_VBD that_IN the_DT motion_NN was_VBD not_RB as_RB smooth_JJ as_IN my_PRP$ Vizio_NNP 120Hz_NNP set_NN ._.
+A_DT little_JJ bit_NN of_IN internet_NN research_NN -LRB-_-LRB- along_IN with_IN the_DT fact_NN that_IN the_DT TV_NN does_VBZ not_RB say_VB 120Hz_NNP anywhere_RB on_IN the_DT box_NN ,_, or_CC on_IN Samsung_NNP 's_POS website_NN -RRB-_-RRB- led_VBD me_PRP to_TO the_DT knowledge_NN that_IN Amazon_NNP has_VBZ this_DT TV_NN mislabeled_VBD ._.
+I_PRP returned_VBD the_DT TV_NN ,_, and_CC requested_VBD that_IN the_DT labeling_VBG be_VB fixed_VBN ._.
+The_DT picture_NN quality_NN is_VBZ great_JJ otherwise_RB ,_, but_CC it_PRP is_VBZ frustrating_VBG having_VBG to_TO return_VB an_DT otherwise_RB great_JJ product_NN due_JJ to_TO a_DT labeling_VBG error_NN ._.
+Bad_JJ form_NN Amazon_NNP ..._:

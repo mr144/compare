@@ -1,0 +1,52 @@
+=========
+
+amod(price-2, Great-1)
+nsubj(good-29, price-2)
+amod(TV-5, great-4)
+conj_and(price-2, TV-5)
+nsubj(good-29, TV-5)
+nsubj(had-8, we-6)
+aux(had-8, have-7)
+rcmod(price-2, had-8)
+dobj(had-8, it-9)
+det(months-15, a-11)
+amod(months-15, little-12)
+quantmod(2-14, over-13)
+num(months-15, 2-14)
+prep_for(had-8, months-15)
+aux(had-18, have-17)
+ccomp(great-25, had-18)
+det(issues-20, no-19)
+dobj(had-18, issues-20)
+det(quality-23, the-22)
+nsubj(great-25, quality-23)
+nsubj(sound-27, quality-23)
+cop(great-25, is-24)
+rcmod(price-2, great-25)
+conj_and(had-8, great-25)
+conj_and(had-8, sound-27)
+conj_and(great-25, sound-27)
+cop(good-29, is-28)
+root(ROOT-0, good-29)
+advmod(good-29, also-30)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(purchase-7, the-6)
+prep_with(happy-4, purchase-7)
+
+=========
+
+aux(update-2, will-1)
+root(ROOT-0, update-2)
+advmod(update-2, later-3)
+mark(are-6, if-4)
+expl(are-6, there-5)
+advcl(update-2, are-6)
+det(issues-8, any-7)
+nsubj(are-6, issues-8)
+

@@ -1,0 +1,2 @@
+This_DT cellphone_NN does_VBZ not_RB work_VB whit_JJ networks_NNS WCDMA_NNP just_RB whit_VBD networks_NNS GSM_NNP ._.
+It_PRP 's_VBZ terrible_JJ because_IN the_DT internet_NN is_VBZ very_RB slow_JJ ,_, does_VBZ not_RB work_VB in_IN 3G_NNP just_RB whit_VBD Edge_NNP ._.

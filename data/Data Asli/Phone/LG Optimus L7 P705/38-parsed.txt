@@ -1,0 +1,26 @@
+=========
+
+nsubj(im-7, Needs-1)
+det(card-4, a-2)
+amod(card-4, sims-3)
+dep(Needs-1, card-4)
+dep(Needs-1, yeah-6)
+conj_but(card-4, yeah-6)
+root(ROOT-0, im-7)
+acomp(im-7, happy-8)
+prep_with(im-7, it-10)
+
+=========
+
+amod(light-2, Very-1)
+nsubj(does-9, light-2)
+det(screen-6, a-4)
+amod(screen-6, big-5)
+prep_with(light-2, screen-6)
+prep_with(light-2, it-8)
+conj_and(screen-6, it-8)
+root(ROOT-0, does-9)
+dobj(should-12, what-10)
+nsubj(should-12, it-11)
+ccomp(does-9, should-12)
+

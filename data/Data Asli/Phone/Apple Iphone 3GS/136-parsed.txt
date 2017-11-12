@@ -1,0 +1,51 @@
+=========
+
+nsubj(choose-2, i-1)
+root(ROOT-0, choose-2)
+poss(rating-4, my-3)
+dobj(choose-2, rating-4)
+mark(pos-10, because-5)
+nsubj(pos-10, it-6)
+cop(pos-10, is-7)
+det(pos-10, a-8)
+amod(pos-10, TOTAL-9)
+advcl(choose-2, pos-10)
+partmod(pos-10, !!-11)
+nsubj(carry-14, it-12)
+dep(carry-14, wont-13)
+xcomp(!!-11, carry-14)
+det(!!-17, a-15)
+nn(!!-17, signal-16)
+dobj(carry-14, !!-17)
+nsubj(searches-19, it-18)
+dep(carry-14, searches-19)
+acomp(searches-19, wile-20)
+det(phone-23, the-21)
+amod(phone-23, other-22)
+nsubj(are-25, phone-23)
+nsubj(have-30, phone-23)
+rcmod(phone-23, are-25)
+det(service-29, the-27)
+amod(service-29, same-28)
+prep_on(are-25, service-29)
+ccomp(wile-20, have-30)
+amod(bars-32, full-31)
+dobj(have-30, bars-32)
+
+=========
+
+nn(!!!!!!!!!!-2, JUNK-1)
+nsubj(hope-3, !!!!!!!!!!-2)
+root(ROOT-0, hope-3)
+nsubj(help-5, this-4)
+ccomp(hope-3, help-5)
+dobj(help-5, you-6)
+
+=========
+
+nsubj(broke-2, jail-1)
+root(ROOT-0, broke-2)
+det(ios-6, a-4)
+num(ios-6, 4.2.1-5)
+prep_to(broke-2, ios-6)
+

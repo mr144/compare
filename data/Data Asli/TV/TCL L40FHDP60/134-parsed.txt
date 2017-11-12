@@ -1,0 +1,35 @@
+=========
+
+det(TV-4, A-1)
+advmod(TV-4, very-2)
+amod(TV-4, good-3)
+root(ROOT-0, TV-4)
+det(money-7, the-6)
+prep_for(TV-4, money-7)
+
+=========
+
+nsubj(GREATLY-5, Performance-1)
+prep_for(Performance-1, me-3)
+cop(GREATLY-5, was-4)
+root(ROOT-0, GREATLY-5)
+partmod(GREATLY-5, enhanced-6)
+det(cable-10, an-8)
+amod(cable-10, hdmi-9)
+prep_with(enhanced-6, cable-10)
+
+=========
+
+aux(recommend-2, Would-1)
+root(ROOT-0, recommend-2)
+prep_for(recommend-2, anyone-4)
+xcomp(recommend-2, needing-5)
+det(TV-9, a-6)
+amod(TV-9, mid-7)
+nn(TV-9, size-8)
+dobj(needing-5, TV-9)
+det(price-14, a-11)
+advmod(reasonable-13, very-12)
+amod(price-14, reasonable-13)
+prep_at(needing-5, price-14)
+

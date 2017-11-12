@@ -1,0 +1,120 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(Captivate-5, a-3)
+nn(Captivate-5, Samsung-4)
+dobj(had-2, Captivate-5)
+advmod(had-2, before-6)
+
+=========
+
+neg(phone-4, Not-1)
+det(phone-4, a-2)
+amod(phone-4, bad-3)
+root(ROOT-0, phone-4)
+amod(screen-7, great-6)
+appos(phone-4, screen-7)
+cc(slow-12, but-8)
+cop(slow-12, was-9)
+det(little-11, a-10)
+npadvmod(slow-12, little-11)
+dep(screen-7, slow-12)
+
+=========
+
+dep(got-3, So-1)
+nsubj(got-3, I-2)
+root(ROOT-0, got-3)
+det(atrix-5, the-4)
+dobj(got-3, atrix-5)
+dobj(got-3, one-7)
+conj_and(atrix-5, one-7)
+prep_for(one-7, me-9)
+dobj(got-3, one-11)
+conj_and(atrix-5, one-11)
+det(wife-14, the-13)
+prep_for(one-11, wife-14)
+
+=========
+
+det(phone-2, This-1)
+nsubj(gem-6, phone-2)
+cop(gem-6, is-3)
+det(gem-6, a-4)
+amod(gem-6, hidden-5)
+root(ROOT-0, gem-6)
+amod(phone-10, fast-7)
+amod(phone-10, dual-8)
+nn(phone-10, core-9)
+dep(gem-6, phone-10)
+advmod(size-15, just-12)
+det(size-15, the-13)
+amod(size-15, right-14)
+conj_and(gem-6, size-15)
+det(hand-18, the-17)
+prep_for(size-15, hand-18)
+
+=========
+
+nsubj(believe-5, You-1)
+advmod(believe-5, almost-2)
+aux(believe-5, can-3)
+neg(believe-5, not-4)
+root(ROOT-0, believe-5)
+complm(has-9, that-6)
+det(phone-8, the-7)
+nsubj(has-9, phone-8)
+ccomp(believe-5, has-9)
+det(screen-12, a-10)
+num(screen-12, 4-11)
+dobj(has-9, screen-12)
+dep(screen-12, larger-14)
+det(iPhone-17, the-16)
+prep_than(larger-14, iPhone-17)
+num(iPhone-17, 4-18)
+num(screen-21, 4S-20)
+prep_than(larger-14, screen-21)
+conj_and(iPhone-17, screen-21)
+
+=========
+
+nsubj(happen-2, I-1)
+xsubj(have-4, I-1)
+root(ROOT-0, happen-2)
+aux(have-4, to-3)
+xcomp(happen-2, have-4)
+det(iPhone-6, a-5)
+dobj(have-4, iPhone-6)
+num(iPhone-6, 4-7)
+
+=========
+
+det(phones-2, The-1)
+nsubjpass(delivered-4, phones-2)
+nsubjpass(delivered-4', phones-2)
+auxpass(delivered-4, were-3)
+root(ROOT-0, delivered-4)
+conj_and(delivered-4, delivered-4')
+prep_on(delivered-4, time-6)
+prep(delivered-4, in-8)
+det(condition-12, the-10)
+amod(condition-12, new-11)
+prep_in(delivered-4', condition-12)
+partmod(condition-12, expected-13)
+
+=========
+
+nsubj(stuff-2, Good-1)
+root(ROOT-0, stuff-2)
+dobj(stuff-2, I-3)
+prep_like(stuff-2, it-5)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+prep_to(recommend-3, anyone-6)
+

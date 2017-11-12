@@ -1,0 +1,38 @@
+=========
+
+root(ROOT-0, Hi-1)
+
+=========
+
+poss(opinion-3, my-2)
+prep_in(choice-8, opinion-3)
+nsubj(choice-8, it-4)
+cop(choice-8, is-5)
+det(choice-8, a-6)
+amod(choice-8, good-7)
+root(ROOT-0, choice-8)
+det(phone-13, a-10)
+amod(phone-13, mid-11)
+nn(phone-13, level-12)
+prep_for(choice-8, phone-13)
+advmod(nice-16, very-15)
+amod(size-17, nice-16)
+dep(choice-8, size-17)
+amod(speed-20, good-19)
+appos(size-17, speed-20)
+
+=========
+
+nsubj(gift-4, It-1)
+cop(gift-4, was-2)
+det(gift-4, a-3)
+root(ROOT-0, gift-4)
+det(relative-7, a-6)
+prep_for(gift-4, relative-7)
+advmod(far-10, so-9)
+advmod(happy-14, far-10)
+nsubj(happy-14, she-12)
+cop(happy-14, is-13)
+conj_and(gift-4, happy-14)
+prep_with(happy-14, it-16)
+

@@ -1,0 +1,3 @@
+I_PRP received_VBD samsung_VBG charger_NN with_IN this_DT device_NN ._.
+I_PRP do_VBP not_RB expect_VB wrong_JJ accessory_JJ ._.
+I_PRP do_VBP not_RB want_VB to_TO spend_VB money_NN on_IN buying_VBG Motorolla_NNP charger_NN ._.

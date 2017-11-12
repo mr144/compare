@@ -1,0 +1,12 @@
+Bought_VB this_DT phone_NN almost_RB a_DT year_NN ago_RB with_IN US_NNP warranty_NN version_NN ._.
+It_PRP was_VBD working_VBG fine_RB a_DT few_JJ months_NNS and_CC then_RB started_VBD to_TO notice_VB the_DT touchscreen_JJ issue_NN ._.
+When_WRB tapping_VBG on_IN the_DT app_NN or_CC icon_NN ,_, the_DT wrong_JJ app_NN will_MD open_VB or_CC navigatin_JJ softkey_NN was_VBD selected_VBN ._.
+Typing_VBG text_NN has_VBZ become_VBN a_DT big_JJ issue_NN since_IN the_DT wrong_JJ characters_NNS were_VBD selected_VBN ._.
+After_IN extensive_JJ search_NN and_CC found_VBD out_RP that_IN the_DT touchscreen_JJ issue_NN is_VBZ the_DT major_JJ problem_NN for_IN the_DT nexus_NN one_CD ._.
+HTC_NNP and_CC Google_NNP did_VBD not_RB have_VB any_DT solution_NN for_IN it_PRP since_IN this_DT is_VBZ the_DT hardware_NN flaw_NN on_IN the_DT touchscreen_NN itself_PRP ._.
+Only_RB way_NN to_TO remedy_VB the_DT situation_NN is_VBZ to_TO turn_VB off_RP the_DT screen_NN for_IN a_DT second_JJ and_CC turn_VB on_RP again_RB ._.
+The_DT screen_NN will_MD recalibrated_VB and_CC allow_VB the_DT selection_NN to_TO be_VB made_VBN correctly_RB after_IN that_DT ._.
+However_RB ,_, after_IN a_DT period_NN of_IN usage_NN ,_, the_DT issue_NN will_MD present_VB itself_PRP again_RB ._.
+If_IN I_PRP would_MD have_VB known_VBN that_IN this_DT the_DT main_JJ issue_NN of_IN the_DT handset_NN ,_, I_PRP would_MD have_VB return_NN it_PRP right_RB away_RB ._.
+Warranty_NN would_MD not_RB help_VB either_CC since_IN there_EX is_VBZ no_DT fix_NN for_IN this_DT issue_NN and_CC it_PRP will_MD happen_VB on_IN every_DT nexus_NN one_CD ._.
+Same_JJ issue_NN also_RB found_VBD on_IN the_DT Nexus_NNP S._NNP They_PRP should_MD have_VB recall_VB the_DT product_NN instead_RB of_IN keep_VB selling_VBG the_DT defective_JJ unit_NN ._.

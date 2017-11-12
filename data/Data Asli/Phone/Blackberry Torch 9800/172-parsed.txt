@@ -1,0 +1,143 @@
+=========
+
+nsubj(using-3, I-1)
+aux(using-3, was-2)
+root(ROOT-0, using-3)
+det(Bold-5, a-4)
+dobj(using-3, Bold-5)
+mark(switched-8, before-6)
+nsubj(switched-8, I-7)
+advcl(using-3, switched-8)
+prep_to(switched-8, Torch-10)
+
+=========
+
+nsubj(disappointment-5, Torch-1)
+cop(disappointment-5, is-2)
+det(disappointment-5, a-3)
+amod(disappointment-5, real-4)
+root(ROOT-0, disappointment-5)
+
+=========
+
+det(cons-2, The-1)
+root(ROOT-0, cons-2)
+dep(cons-2, :1-3)
+
+=========
+
+root(ROOT-0, Hangs-1)
+dep(now-3, every-2)
+dep(Hangs-1, now-3)
+dep(Hangs-1, then2-5)
+conj_and(now-3, then2-5)
+
+=========
+
+nsubj(esp-4, Responds-1)
+advmod(slowly-3, very-2)
+advmod(esp-4, slowly-3)
+root(ROOT-0, esp-4)
+mark(slide-7, after-5)
+nsubj(slide-7, you-6)
+advcl(esp-4, slide-7)
+det(out3-11, the-8)
+nn(out3-11, touch-9)
+nn(out3-11, screen-10)
+dobj(slide-7, out3-11)
+
+=========
+
+nsubj(drains-2, Battery-1)
+root(ROOT-0, drains-2)
+advmod(drains-2, faster-3)
+amod(BBs4-6, other-5)
+prep_than(drains-2, BBs4-6)
+
+=========
+
+amod(apps-2, Many-1)
+nsubj(available-12, apps-2)
+amod(apps-2, available-3)
+amod(BBs-8, Bold-5)
+conj_and(Bold-5, other-7)
+amod(BBs-8, other-7)
+prep_for(available-3, BBs-8)
+cop(available-12, are-9)
+advmod(available-12, still-10)
+neg(available-12, not-11)
+root(ROOT-0, available-12)
+prep_for(available-12, Torch5-14)
+
+=========
+
+advmod(dials-2, Sometimes-1)
+root(ROOT-0, dials-2)
+prt(dials-2, out-3)
+ccomp(dials-2, going-4)
+dobj(going-4, calls-5)
+det(background-8, the-7)
+prep_in(calls-5, background-8)
+nsubj(nightmare-13, this-10)
+cop(nightmare-13, is-11)
+det(nightmare-13, a-12)
+parataxis(going-4, nightmare-13)
+
+=========
+
+nsubj(pros-4, Are-1)
+advmod(any-3, there-2)
+advmod(pros-4, any-3)
+root(ROOT-0, pros-4)
+dobj(pros-4, :1-5)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(screenAll-5, a-3)
+nn(screenAll-5, touch-4)
+dobj(has-2, screenAll-5)
+prep_in(screenAll-5, all-7)
+dep(has-2, avoid-9)
+xcomp(avoid-9, changing-10)
+poss(phone-13, your-11)
+nn(phone-13, cell-12)
+dobj(changing-10, phone-13)
+det(BB-17, some-15)
+amod(BB-17, other-16)
+prep_from(changing-10, BB-17)
+det(matter-20, no-19)
+dobj(avoid-9, matter-20)
+dobj(using-26, matter-20)
+rel(BB-23, which-21)
+nsubj(BB-23, other-22)
+rcmod(matter-20, BB-23)
+nsubj(using-26, you-24)
+aux(using-26, are-25)
+ccomp(BB-23, using-26)
+
+=========
+
+mark(using-5, If-1)
+nsubj(using-5, you-2)
+aux(using-5, are-3)
+neg(using-5, not-4)
+csubj(switch-9, using-5)
+det(BB-7, any-6)
+dobj(using-5, BB-7)
+advmod(using-5, then-8)
+root(ROOT-0, switch-9)
+aux(Bold-11, to-10)
+xcomp(switch-9, Bold-11)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+nsubj(found-4, you-3)
+ccomp(hope-2, found-4)
+det(review-6, the-5)
+nsubj(helpful-7, review-6)
+xcomp(found-4, helpful-7)
+

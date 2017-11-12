@@ -1,0 +1,56 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(cellphone-4, the-3)
+dobj(got-2, cellphone-4)
+amod(conditions-7, excellent-6)
+prep_in(got-2, conditions-7)
+
+=========
+
+nsubj(regrets-4, I-1)
+aux(regrets-4, have-2)
+neg(regrets-4, not-3)
+root(ROOT-0, regrets-4)
+prep_about(regrets-4, it-6)
+
+=========
+
+advmod(details-3, Only-1)
+det(details-3, the-2)
+nsubj(change-9, details-3)
+det(phone-6, the-5)
+prep_about(details-3, phone-6)
+aux(change-9, should-7)
+cop(change-9, be-8)
+root(ROOT-0, change-9)
+mark(says-13, because-11)
+nsubj(says-13, it-12)
+advcl(change-9, says-13)
+complm(was-17, that-14)
+det(phone-16, the-15)
+nsubj(was-17, phone-16)
+nsubjpass(made-22, phone-16)
+ccomp(says-13, was-17)
+prep_from(was-17, german-19)
+auxpass(made-22, is-21)
+ccomp(says-13, made-22)
+conj_but(was-17, made-22)
+prep_in(made-22, china-24)
+
+=========
+
+root(ROOT-0, Beside-1)
+complm(working-6, that-2)
+det(cellphone-4, the-3)
+nsubj(working-6, cellphone-4)
+aux(working-6, is-5)
+ccomp(Beside-1, working-6)
+acomp(working-6, great-7)
+
+=========
+
+root(ROOT-0, excellent-1)
+dep(excellent-1, bought-2)
+

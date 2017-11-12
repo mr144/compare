@@ -1,0 +1,62 @@
+=========
+
+prepc_after(decided-12, reading-2)
+amod(descriptions-5, enough-3)
+nn(descriptions-5, camera-4)
+dobj(reading-2, descriptions-5)
+aux(blurr-7, to-6)
+xcomp(reading-2, blurr-7)
+poss(vision-9, my-8)
+dobj(blurr-7, vision-9)
+nsubj(decided-12, I-11)
+root(ROOT-0, decided-12)
+det(Panasonic-15, this-14)
+prep_on(decided-12, Panasonic-15)
+
+=========
+
+det(size-2, The-1)
+nsubj(isperfect-3, size-2)
+xsubj(fit-5, size-2)
+root(ROOT-0, isperfect-3)
+aux(fit-5, to-4)
+xcomp(isperfect-3, fit-5)
+poss(purse-8, my-7)
+prep_in(fit-5, purse-8)
+dep(isperfect-3, so-10)
+nsubj(have-14, I-11)
+aux(have-14, will-12)
+advmod(have-14, always-13)
+ccomp(isperfect-3, have-14)
+det(camera-16, a-15)
+dobj(have-14, camera-16)
+tmod(&#34;-24, camera-16)
+advmod(&#34;-24, when-17)
+dep(when-17, all-18)
+prep_of(all-18, &#34;-20)
+det(shots-23, those-21)
+amod(shots-23, great-22)
+nsubj(&#34;-24, shots-23)
+dep(camera-16, &#34;-24)
+complm(present-27, that-25)
+nsubj(present-27, grandkids-26)
+ccomp(&#34;-24, present-27)
+
+=========
+
+det(pictures-2, The-1)
+nsubj(are-3, pictures-2)
+root(ROOT-0, are-3)
+amod(qualityalso-6, good-5)
+prep_of(are-3, qualityalso-6)
+
+=========
+
+dep(say-5, What-1)
+advmod(What-1, else-2)
+aux(say-5, could-3)
+nsubj(say-5, I-4)
+root(ROOT-0, say-5)
+amod(choice-8, great-7)
+dobj(say-5, choice-8)
+

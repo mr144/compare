@@ -1,0 +1,3 @@
+Upon_IN receiving_VBG item_NN ,_, I_PRP immediately_RB activated_VBD it_PRP but_CC to_TO find_VB out_RP it_PRP can_MD only_RB be_VB used_VBN on_IN speaker_NN phone_NN ._.
+The_DT internal_JJ handset_NN audio_NN would_MD not_RB work_VB ._.
+Had_VBD to_TO return_VB it_PRP to_TO the_DT seller_NN

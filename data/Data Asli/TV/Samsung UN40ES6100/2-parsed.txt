@@ -1,0 +1,79 @@
+=========
+
+det(TV-2, The-1)
+nsubj(arrived-3, TV-2)
+root(ROOT-0, arrived-3)
+poss(box-6, its-5)
+prep_inside(arrived-3, box-6)
+det(box-9, another-8)
+prep_inside(arrived-3, box-9)
+
+=========
+
+dep(delivered-12, Packed-1)
+advmod(well-3, very-2)
+advmod(Packed-1, well-3)
+prep_for(Packed-1, shipping-5)
+dep(delivered-12, arrived-7)
+det(damage-10, no-9)
+prep_with(arrived-7, damage-10)
+root(ROOT-0, delivered-12)
+advmod(delivered-12, right-13)
+poss(room-17, my-15)
+nn(room-17, living-16)
+prep_into(delivered-12, room-17)
+
+=========
+
+csubj(up-11, Unpacked-1)
+csubj(running-13, Unpacked-1)
+conj_and(Unpacked-1, plugged-3)
+conj_and(Unpacked-1, plugged-3')
+conj_and(plugged-3, plugged-3')
+csubj(up-11, plugged-3)
+dobj(plugged-3, it-4)
+det(hour-9, an-8)
+prep_in(plugged-3, hour-9)
+prep_within(plugged-3', hour-9)
+cop(up-11, was-10)
+root(ROOT-0, up-11)
+conj_and(up-11, running-13)
+
+=========
+
+nsubj(connected-3, I-1)
+aux(connected-3, have-2)
+root(ROOT-0, connected-3)
+det(keyboard-8, an-4)
+amod(keyboard-8, old-5)
+amod(keyboard-8, Logitec-6)
+nn(keyboard-8, wireless-7)
+dobj(connected-3, keyboard-8)
+dobj(connected-3, mouse-10)
+conj_and(keyboard-8, mouse-10)
+complm(had-13, that-11)
+nsubj(had-13, I-12)
+ccomp(connected-3, had-13)
+det(TV-16, the-15)
+nsubj(recognized-17, TV-16)
+conj_and(connected-3, recognized-17)
+dobj(recognized-17, both-18)
+nsubj(able-22, we-20)
+cop(able-22, were-21)
+conj_and(connected-3, able-22)
+aux(surf-24, to-23)
+xcomp(able-22, surf-24)
+det(web-26, the-25)
+dobj(surf-24, web-26)
+advmod(surf-24, easily-27)
+det(browser-32, the-29)
+amod(browser-32, built-30)
+dep(built-30, in-31)
+prep_with(surf-24, browser-32)
+
+=========
+
+root(ROOT-0, Love-1)
+det(TV-3, this-2)
+nsubj(Love-1, TV-3)
+

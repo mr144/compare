@@ -1,0 +1,1 @@
+I_PRP give_VBP this_DT rating_NN that_IN the_DT product_NN complies_VBZ with_IN all_PDT the_DT features_NNS that_WDT are_VBP placed_VBN in_IN advertising_NN ,_, I_PRP recommend_VBP this_DT seller_NN and_CC this_DT product_NN to_TO the_DT general_JJ public_NN

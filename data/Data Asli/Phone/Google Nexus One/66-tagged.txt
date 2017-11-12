@@ -1,0 +1,1 @@
+The_DT Nexus_NNP One_CD phone_NN has_VBZ a_DT great_JJ screen_NN and_CC a_DT lot_NN of_IN resources_NNS with_IN the_DT Android_NNP 's_POS guaranteed_VBN update_VBP by_IN Google_NNP ._.

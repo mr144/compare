@@ -1,0 +1,26 @@
+=========
+
+nsubjpass(bought-3, This-1)
+auxpass(bought-3, was-2)
+root(ROOT-0, bought-3)
+poss(daughter-6, my-5)
+prep_for(bought-3, daughter-6)
+nsubj(loves-9, she-8)
+conj_and(bought-3, loves-9)
+dobj(loves-9, it-10)
+
+=========
+
+det(color-2, The-1)
+nsubj(awesome-4, color-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+amod(movies-7, old-6)
+nsubj(look-8, movies-7)
+conj_and(awesome-4, look-8)
+acomp(look-8, great-9)
+prep(great-9, with-10)
+pcomp(with-10, out-11)
+det(graininess-13, any-12)
+prep_out(with-10, graininess-13)
+

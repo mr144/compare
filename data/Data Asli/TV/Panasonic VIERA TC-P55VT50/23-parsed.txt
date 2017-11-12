@@ -1,0 +1,128 @@
+=========
+
+advmod(buy-6, Just-1)
+dep(buy-6, like-2)
+nsubj(buy-6, I-3)
+aux(buy-6, will-4)
+advmod(buy-6, only-5)
+advcl(buy-15, buy-6)
+nn(equipment-10, pioneer-7)
+nn(equipment-10, elite-8)
+nn(equipment-10, AV-9)
+dobj(buy-6, equipment-10)
+nsubj(buy-15, I-12)
+aux(buy-15, will-13)
+advmod(buy-15, only-14)
+root(ROOT-0, buy-15)
+nn(plasmas-17, Panasonic-16)
+dobj(buy-15, plasmas-17)
+
+=========
+
+det(plasma-2, This-1)
+nsubj(handsome-6, plasma-2)
+cop(handsome-6, is-3)
+neg(handsome-6, not-4)
+advmod(handsome-6, only-5)
+root(ROOT-0, handsome-6)
+nsubj(had-9, it-8)
+conj_but(handsome-6, had-9)
+det(picture-12, a-10)
+amod(picture-12, fantastic-11)
+dobj(had-9, picture-12)
+
+=========
+
+nsubj(go-4, You-1)
+aux(go-4, can-2)
+neg(go-4, not-3)
+root(ROOT-0, go-4)
+acomp(go-4, wrong-5)
+det(plasma-8, this-7)
+prep_with(go-4, plasma-8)
+
+=========
+
+advmod(far-2, As-1)
+advmod(has-9, far-2)
+mark(concerned-6, as-3)
+nsubj(concerned-6, I-4)
+cop(concerned-6, am-5)
+ccomp(far-2, concerned-6)
+nsubj(has-9, panasonic-8)
+root(ROOT-0, has-9)
+det(quality-13, the-10)
+amod(quality-13, best-11)
+nn(quality-13, picture-12)
+dobj(has-9, quality-13)
+advmod(up-20, out-14)
+advmod(up-20, there-15)
+poss(line-19, their-17)
+nn(line-19, plasma-18)
+prep_on(up-20, line-19)
+advmod(has-9, up-20)
+
+=========
+
+aux(happier-4, Could-1)
+neg(happier-4, not-2)
+cop(happier-4, be-3)
+root(ROOT-0, happier-4)
+nsubj(picky-10, I-7)
+cop(picky-10, am-8)
+advmod(picky-10, very-9)
+conj_and(happier-4, picky-10)
+poss(audio-13, my-12)
+prep_about(picky-10, audio-13)
+prep_about(picky-10, video-15)
+conj_and(audio-13, video-15)
+
+=========
+
+det(picture-2, The-1)
+nsubj(fantastic-4, picture-2)
+cop(fantastic-4, is-3)
+root(ROOT-0, fantastic-4)
+advmod(fantastic-4, even-5)
+advmod(lit-8, well-7)
+amod(rooms-9, lit-8)
+prep_in(fantastic-4, rooms-9)
+
+=========
+
+nsubj(set-2, I-1)
+root(ROOT-0, set-2)
+dobj(set-2, it-3)
+nn(THX-6, cinema-5)
+prep_on(set-2, THX-6)
+nsubj(excellent-10, it-8)
+cop(excellent-10, is-9)
+conj_and(set-2, excellent-10)
+
+=========
+
+amod(plasma-3, Bought-1)
+det(plasma-3, this-2)
+nsubj(buy-11, plasma-3)
+det(products-8, all-5)
+predet(products-8, all-5)
+poss(products-8, my-6)
+amod(products-8, elite-7)
+conj_and(plasma-3, products-8)
+nsubj(buy-11, products-8)
+advmod(buy-11, at-9)
+pobj(at-9, best-10)
+root(ROOT-0, buy-11)
+mark(honor-16, so-12)
+det(manufacturers-14, the-13)
+nsubj(honor-16, manufacturers-14)
+aux(honor-16, will-15)
+advcl(buy-11, honor-16)
+det(warranty-18, the-17)
+dobj(honor-16, warranty-18)
+nsubj(purchased-24, I-21)
+aux(purchased-24, would-22)
+aux(purchased-24, have-23)
+conj_or(buy-11, purchased-24)
+prep_through(purchased-24, Amazon-26)
+

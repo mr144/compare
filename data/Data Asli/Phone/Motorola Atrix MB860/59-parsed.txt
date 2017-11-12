@@ -1,0 +1,148 @@
+=========
+
+det(phone-2, This-1)
+nsubj(nothing-4, phone-2)
+cop(nothing-4, is-3)
+root(ROOT-0, nothing-4)
+amod(nothing-4, special-5)
+
+=========
+
+nsubj(phone-7, It-1)
+cop(phone-7, is-2)
+poss(phone-7, your-3)
+amod(phone-7, average-4)
+nn(phone-7, entry-5)
+nn(phone-7, level-6)
+root(ROOT-0, phone-7)
+det(price-10, the-9)
+prep_for(phone-7, price-10)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+dobj(got-2, this-3)
+det(replacement-7, a-5)
+amod(replacement-7, cheap-6)
+prep_as(got-2, replacement-7)
+advmod(broke-10, when-8)
+nsubj(broke-10, I-9)
+advcl(got-2, broke-10)
+poss(SII-13, my-11)
+nn(SII-13, Galaxy-12)
+dobj(broke-10, SII-13)
+
+=========
+
+advmod(say-5, Overall-1)
+nsubj(say-5, I-3)
+aux(say-5, would-4)
+root(ROOT-0, say-5)
+nsubj(phone-11, it-6)
+nsubj(have-15, it-6)
+cop(phone-11, is-7)
+det(phone-11, a-8)
+amod(phone-11, solid-9)
+amod(phone-11, little-10)
+ccomp(say-5, phone-11)
+aux(have-15, does-13)
+neg(have-15, not-14)
+ccomp(say-5, have-15)
+conj_but(phone-11, have-15)
+det(sort-17, any-16)
+dobj(have-15, sort-17)
+nn(factor-20, wow-19)
+prep_of(sort-17, factor-20)
+prep_for(factor-20, it-22)
+
+=========
+
+nsubj(better-3, it-1)
+cop(better-3, is-2)
+root(ROOT-0, better-3)
+prep_than(better-3, nokia-5)
+prep_than(better-3, samsung-7)
+conj_or(nokia-5, samsung-7)
+prep_than(better-3, blackberry-9)
+conj_or(nokia-5, blackberry-9)
+prep_than(better-3, iphone-11)
+conj_or(nokia-5, iphone-11)
+prep_than(better-3, nexus-13)
+conj_or(nokia-5, nexus-13)
+prep_than(better-3, htc-15)
+conj_or(nokia-5, htc-15)
+prep_than(better-3, sony-17)
+conj_or(nokia-5, sony-17)
+prep_than(better-3, LG-19)
+conj_or(nokia-5, LG-19)
+
+=========
+
+advmod(feels-3, Sometimes-1)
+nsubj(feels-3, it-2)
+nsubj(crashes-6, it-2)
+root(ROOT-0, feels-3)
+acomp(feels-3, sluggish-4)
+conj_and(feels-3, crashes-6)
+
+=========
+
+advmod(buy-6, Overall-1)
+nsubj(buy-6, I-3)
+aux(buy-6, would-4)
+neg(buy-6, not-5)
+root(ROOT-0, buy-6)
+det(product-8, this-7)
+dobj(buy-6, product-8)
+advmod(buy-6, again-9)
+nsubj(fantastic-14, it-12)
+cop(fantastic-14, is-13)
+conj_but(buy-6, fantastic-14)
+aux(have-16, to-15)
+xcomp(fantastic-14, have-16)
+det(backup-19, a-18)
+prep_as(have-16, backup-19)
+
+=========
+
+root(ROOT-0, UPDATE-1)
+num(year-4, One-3)
+dep(UPDATE-1, year-4)
+dobj(going-10, year-4)
+advmod(screen-8, later-5)
+det(screen-8, the-6)
+nn(screen-8, touch-7)
+nsubj(going-10, screen-8)
+aux(going-10, is-9)
+rcmod(year-4, going-10)
+acomp(going-10, crazy-11)
+
+=========
+
+nsubj(registering-3, It-1)
+aux(registering-3, is-2)
+root(ROOT-0, registering-3)
+amod(touches-5, nonexistent-4)
+dobj(registering-3, touches-5)
+nsubj(makes-7, touches-5)
+rcmod(touches-5, makes-7)
+dobj(makes-7, texting-8)
+dobj(makes-7, use-10)
+conj_and(texting-8, use-10)
+advmod(impossible-12, nearly-11)
+amod(texting-8, impossible-12)
+
+=========
+
+partmod(recommend-10, Dropped-1)
+num(stars-4, two-3)
+prep_to(Dropped-1, stars-4)
+nsubj(recommend-10, I-6)
+advmod(recommend-10, still-7)
+aux(recommend-10, would-8)
+neg(recommend-10, not-9)
+root(ROOT-0, recommend-10)
+det(product-12, this-11)
+dobj(recommend-10, product-12)
+

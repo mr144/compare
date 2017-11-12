@@ -1,0 +1,45 @@
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+det(camera-6, a-3)
+amod(camera-6, great-4)
+amod(camera-6, little-5)
+root(ROOT-0, camera-6)
+
+=========
+
+nsubj(fit-3, It-1)
+aux(fit-3, will-2)
+root(ROOT-0, fit-3)
+poss(pocket-6, your-5)
+prep_in(fit-3, pocket-6)
+prep_in(fit-3, purse-8)
+conj_or(pocket-6, purse-8)
+
+=========
+
+nsubj(takes-2, Lumix-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, excellent-3)
+dobj(takes-2, pictures-4)
+det(DMC-ZS8-8, the-7)
+nsubj(has-9, DMC-ZS8-8)
+conj_and(takes-2, has-9)
+det(zoom-12, a-10)
+amod(zoom-12, great-11)
+dobj(has-9, zoom-12)
+
+=========
+
+poss(opinion-3, my-2)
+prep_in(is-6, opinion-3)
+expl(is-6, there-5)
+root(ROOT-0, is-6)
+det(point-9, no-7)
+amod(point-9, better-8)
+nsubj(is-6, point-9)
+nn(camera-12, shoot-11)
+nsubj(is-6, camera-12)
+conj_and(point-9, camera-12)
+

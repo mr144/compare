@@ -1,0 +1,28 @@
+=========
+
+nsubj(hate-2, I-1)
+root(ROOT-0, hate-2)
+det(box-6, that-3)
+amod(box-6, little-4)
+amod(box-6, black-5)
+nsubj(keeps-14, box-6)
+det(center-9, the-8)
+prep_in(box-6, center-9)
+det(screen-12, the-11)
+prep_of(center-9, screen-12)
+ccomp(hate-2, keeps-14)
+prepc_on(keeps-14, popping-16)
+prt(popping-16, up-17)
+det(time-21, the-19)
+amod(time-21, wrong-20)
+prep_at(popping-16, time-21)
+
+=========
+
+root(ROOT-0, Other-1)
+dep(like-6, than-2)
+dep(like-6, that-3)
+nsubj(like-6, I-5)
+dep(Other-1, like-6)
+dobj(like-6, it-7)
+

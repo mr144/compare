@@ -1,0 +1,44 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+dep(ask-6, just-3)
+dep(just-3, what-4)
+nsubj(ask-6, I-5)
+ccomp(got-2, ask-6)
+prep(ask-6, for-7)
+nsubj(took-11, it-10)
+conj_and(got-2, took-11)
+mark(expected-15, lest-12)
+nsubj(expected-15, time-13)
+advmod(expected-15, than-14)
+advcl(took-11, expected-15)
+
+=========
+
+det(cellphone-2, The-1)
+nsubj(fine-5, cellphone-2)
+cop(fine-5, is-3)
+advmod(fine-5, just-4)
+root(ROOT-0, fine-5)
+
+=========
+
+aux(know-3, Do-1)
+neg(know-3, not-2)
+root(ROOT-0, know-3)
+advmod(know-3, yet-4)
+mark(network-8, if-5)
+cop(network-8, is-6)
+det(network-8, the-7)
+advcl(know-3, network-8)
+advmod(live-11, where-9)
+nsubj(live-11, I-10)
+rcmod(network-8, live-11)
+det(navigation-15, the-14)
+nsubj(faster-18, navigation-15)
+aux(faster-18, should-16)
+cop(faster-18, be-17)
+rcmod(network-8, faster-18)
+conj_but(live-11, faster-18)
+

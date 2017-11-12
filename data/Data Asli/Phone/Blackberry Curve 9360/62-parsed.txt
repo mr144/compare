@@ -1,0 +1,96 @@
+=========
+
+nsubj(ordered-2, I-1)
+root(ROOT-0, ordered-2)
+det(Unlocked-7, the-3)
+nn(Unlocked-7, Blackberry-4)
+nn(Unlocked-7, Curve-5)
+num(Unlocked-7, 9360-6)
+dobj(ordered-2, Unlocked-7)
+nsubj(love-11, I-9)
+advmod(love-11, absolutely-10)
+conj_and(ordered-2, love-11)
+dobj(love-11, it-12)
+
+=========
+
+nsubj(everything-3, It-1)
+cop(everything-3, is-2)
+root(ROOT-0, everything-3)
+dobj(says-5, everything-3)
+nsubj(says-5, it-4)
+nsubj(claims-7, it-4)
+xsubj(be-9, it-4)
+rcmod(everything-3, says-5)
+rcmod(everything-3, claims-7)
+conj_or(says-5, claims-7)
+aux(be-9, to-8)
+xcomp(claims-7, be-9)
+nsubj(love-12, I-11)
+parataxis(everything-3, love-12)
+det(phone-15, a-13)
+amod(phone-15, blackberry-14)
+dobj(love-12, phone-15)
+
+=========
+
+nsubj(switched-2, I-1)
+root(ROOT-0, switched-2)
+det(Android-5, an-4)
+prep_from(switched-2, Android-5)
+
+=========
+
+nsubj(enjoyed-2, I-1)
+root(ROOT-0, enjoyed-2)
+complm(kept-15, that-3)
+nsubj(kept-15, phone-4)
+amod(phone-4, alot-5)
+advmod(alot-5, too-6)
+mark(screen-11, because-7)
+nsubj(screen-11, it-8)
+cop(screen-11, was-9)
+nn(screen-11, touch-10)
+ccomp(alot-5, screen-11)
+prep(screen-11, but-13)
+dep(but-13, Motorola-14)
+ccomp(enjoyed-2, kept-15)
+dobj(kept-15, me-16)
+prepc_from(kept-15, enjoying-18)
+dobj(enjoying-18, it-19)
+
+=========
+
+det(feature-3, The-1)
+amod(feature-3, Moto-Blur-2)
+nsubj(glitch-9, feature-3)
+det(phone-7, that-5)
+nn(phone-7, Android-6)
+prep_on(feature-3, phone-7)
+advmod(glitch-9, always-8)
+root(ROOT-0, glitch-9)
+complm(annoying-13, that-10)
+cop(annoying-13, was-11)
+advmod(annoying-13, very-12)
+ccomp(glitch-9, annoying-13)
+ccomp(glitch-9, irritating-15)
+conj_and(annoying-13, irritating-15)
+aux(say-17, to-16)
+xcomp(irritating-15, say-17)
+det(least-19, the-18)
+dobj(say-17, least-19)
+
+=========
+
+advmod(thank-2, So-1)
+root(ROOT-0, thank-2)
+nsubj(It-10, goodness-3)
+poss(_-9, my-5)
+nn(_-9, Blackberry-6)
+nn(_-9, Curve-7)
+num(_-9, 9360-8)
+prep_for(goodness-3, _-9)
+xcomp(thank-2, It-10)
+nn(!!!-12, rocks-11)
+nsubj(thank-2, !!!-12)
+

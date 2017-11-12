@@ -1,0 +1,35 @@
+=========
+
+nsubjpass(disappointed-3, I-1)
+auxpass(disappointed-3, was-2)
+root(ROOT-0, disappointed-3)
+prep_with(disappointed-3, cellphone-5)
+
+=========
+
+nsubj(looks-2, It-1)
+nsubj(works-5, It-1)
+root(ROOT-0, looks-2)
+acomp(looks-2, good-3)
+conj_but(looks-2, works-5)
+advmod(works-5, horribly-6)
+
+=========
+
+nsubjpass(having-3, I-1)
+nsubjpass(strained-10, I-1)
+auxpass(having-3, was-2)
+root(ROOT-0, having-3)
+amod(time-5, hard-4)
+dobj(having-3, time-5)
+xcomp(having-3, sending-6)
+nn(message-8, text-7)
+dobj(sending-6, message-8)
+conj_and(having-3, strained-10)
+poss(eyes-12, my-11)
+dobj(strained-10, eyes-12)
+xcomp(strained-10, reading-13)
+dobj(reading-13, texts-14)
+partmod(texts-14, sent-15)
+prep_to(sent-15, me-17)
+

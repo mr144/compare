@@ -1,0 +1,45 @@
+=========
+
+dep(Purposes-3, For-1)
+nsubj(Purposes-3, Informastional-2)
+root(ROOT-0, Purposes-3)
+mark(buying-7, if-4)
+nsubj(buying-7, you-5)
+aux(buying-7, are-6)
+advcl(Purposes-3, buying-7)
+det(product-9, this-8)
+dobj(buying-7, product-9)
+num(product-9, .1-10)
+
+=========
+
+det(phone-2, The-1)
+dobj(recieved-4, phone-2)
+nsubj(phone-9, phone-2)
+nsubj(recieved-4, I-3)
+rcmod(phone-2, recieved-4)
+cop(phone-9, was-5)
+det(phone-9, a-6)
+amod(phone-9, T-Mobile-7)
+amod(phone-9, branded-8)
+ccomp(hlocked-13, phone-9)
+nsubjpass(hlocked-13, it-11)
+auxpass(hlocked-13, was-12)
+root(ROOT-0, hlocked-13)
+dobj(hlocked-13, .2-14)
+
+=========
+
+det(package-2, The-1)
+nsubj(contain-5, package-2)
+aux(contain-5, did-3)
+neg(contain-5, not-4)
+root(ROOT-0, contain-5)
+det(card-8, the-6)
+amod(card-8, microSD-7)
+dobj(contain-5, card-8)
+mark(marked-10, as-9)
+advcl(contain-5, marked-10)
+det(box-13, the-12)
+prep_on(marked-10, box-13)
+

@@ -1,0 +1,40 @@
+=========
+
+prepc_upon(used-17, receiving-2)
+dobj(receiving-2, item-3)
+nsubjpass(used-17, I-5)
+advmod(activated-7, immediately-6)
+partmod(I-5, activated-7)
+dobj(activated-7, it-8)
+aux(find-11, to-10)
+dobj(activated-7, find-11)
+conj_but(it-8, find-11)
+infmod(it-8, find-11)
+prt(find-11, out-12)
+dobj(find-11, it-13)
+aux(used-17, can-14)
+advmod(used-17, only-15)
+auxpass(used-17, be-16)
+root(ROOT-0, used-17)
+nn(phone-20, speaker-19)
+prep_on(used-17, phone-20)
+
+=========
+
+det(audio-4, The-1)
+amod(audio-4, internal-2)
+nn(audio-4, handset-3)
+nsubj(work-7, audio-4)
+aux(work-7, would-5)
+neg(work-7, not-6)
+root(ROOT-0, work-7)
+
+=========
+
+root(ROOT-0, Had-1)
+aux(return-3, to-2)
+xcomp(Had-1, return-3)
+nsubj(Had-1, it-4)
+det(seller-7, the-6)
+prep_to(Had-1, seller-7)
+

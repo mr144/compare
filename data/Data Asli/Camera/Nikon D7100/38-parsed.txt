@@ -1,0 +1,30 @@
+=========
+
+det(camera-2, The-1)
+nsubj(great-5, camera-2)
+advmod(great-5, itself-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+advmod(received-10, when-8)
+nsubj(received-10, we-9)
+advcl(work-16, received-10)
+det(item-12, the-11)
+dobj(received-10, item-12)
+nsubj(work-16, it-13)
+aux(work-16, did-14)
+neg(work-16, not-15)
+conj_but(great-5, work-16)
+advmod(work-16, properly-17)
+
+=========
+
+nn(service-2, Customer-1)
+nsubj(great-4, service-2)
+nsubj(sent-6, service-2)
+cop(great-4, was-3)
+root(ROOT-0, great-4)
+conj_and(great-4, sent-6)
+dobj(sent-6, us-7)
+prep_out(sent-6, another-9)
+advmod(sent-6, immediately-10)
+

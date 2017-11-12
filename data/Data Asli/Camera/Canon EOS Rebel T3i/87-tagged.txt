@@ -1,0 +1,4 @@
+It_PRP 's_VBZ a_DT good_JJ camera_NN for_IN begginers_NNS ._.
+The_DT problem_NN is_VBZ that_IN the_DT camera_NN have_VBP a_DT dead_JJ pixel_NN !_.
+But_CC all_PDT the_DT others_NNS things_NNS are_VBP ok_JJ !_.
+This_DT camera_NN is_VBZ better_JJR than_IN kodak_NN ,_, pentax_NN ,_, fujifilm_NN ,_, GE_NNP or_CC coolpix_NN ._.

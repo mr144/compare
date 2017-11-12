@@ -1,0 +1,50 @@
+=========
+
+nsubj(got-2, Phone-1)
+root(ROOT-0, got-2)
+advmod(got-2, here-3)
+prep_in(got-2, way-5)
+prep(way-5, less-6)
+dep(less-6, time-7)
+mark(supposed-11, than-8)
+nsubjpass(supposed-11, it-9)
+xsubj(to-12, it-9)
+auxpass(supposed-11, was-10)
+advcl(got-2, supposed-11)
+xcomp(supposed-11, to-12)
+
+=========
+
+nsubj(unlocked-11, Works-1)
+amod(Works-1, great-2)
+det(network-6, the-4)
+nn(network-6, TMobile-5)
+prep_on(great-2, network-6)
+cop(TRULY-10, is-9)
+amod(Works-1, TRULY-10)
+conj_and(great-2, TRULY-10)
+root(ROOT-0, unlocked-11)
+
+=========
+
+amod(salesman-2, Good-1)
+root(ROOT-0, salesman-2)
+dep(salesman-2, too-3)
+
+=========
+
+dep(came-7, Called-1)
+aux(make-3, to-2)
+xcomp(Called-1, make-3)
+acomp(make-3, sure-4)
+poss(product-6, my-5)
+nsubj(came-7, product-6)
+nsubj(was-10, product-6)
+root(ROOT-0, came-7)
+prt(came-7, in-8)
+conj_and(came-7, was-10)
+dep(needed-14, exactly-11)
+dep(exactly-11, what-12)
+nsubj(needed-14, I-13)
+ccomp(came-7, needed-14)
+

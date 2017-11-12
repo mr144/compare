@@ -1,0 +1,67 @@
+=========
+
+nsubj(liked-2, i-1)
+nsubj(ordered-6, i-1)
+nsubj(hard-10, i-1)
+root(ROOT-0, liked-2)
+det(deal-4, the-3)
+dobj(liked-2, deal-4)
+conj_and(liked-2, ordered-6)
+dep(hard-10, its-9)
+conj_and(liked-2, hard-10)
+aux(find-12, to-11)
+xcomp(hard-10, find-12)
+dobj(find-12, someone-13)
+nsubj(willing-16, someone-13)
+cop(willing-16, is-15)
+rcmod(someone-13, willing-16)
+aux(ship-18, to-17)
+xcomp(willing-16, ship-18)
+acomp(ship-18, international-19)
+
+=========
+
+csubj(decided-17, recieved-1)
+det(package-3, the-2)
+dobj(recieved-1, package-3)
+num(days-6, 8-5)
+prep_in(package-3, days-6)
+num(%-8, .100-7)
+npadvmod(new-9, %-8)
+amod(package-3, new-9)
+partmod(package-3, sealed-10)
+prep_in(sealed-10, box-12)
+amod(i-16, good-14)
+amod(i-16, packingand-15)
+prep_with(sealed-10, i-16)
+root(ROOT-0, decided-17)
+aux(order-19, to-18)
+xcomp(decided-17, order-19)
+advmod(order-19, again-20)
+
+=========
+
+root(ROOT-0, waiting-1)
+poss(phone-5, my-3)
+amod(phone-5, second-4)
+prep_for(waiting-1, phone-5)
+aux(write-7, to-6)
+xcomp(waiting-1, write-7)
+det(review-9, another-8)
+dobj(write-7, review-9)
+
+=========
+
+amod(sellerwould-2, great-1)
+nsubj(buy-3, sellerwould-2)
+root(ROOT-0, buy-3)
+prep_from(buy-3, him-5)
+advmod(&-7, again-6)
+rcmod(him-5, &-7)
+advmod(buy-3, again-8)
+
+=========
+
+root(ROOT-0, Regards-1)
+appos(Regards-1, albudaiwi-3)
+

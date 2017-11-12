@@ -1,0 +1,21 @@
+=========
+
+root(ROOT-0, Got-1)
+det(camera-3, this-2)
+dobj(Got-1, camera-3)
+det(gift-6, a-5)
+prep_as(Got-1, gift-6)
+poss(mother-9, my-8)
+prep_for(Got-1, mother-9)
+nsubj(loves-12, she-11)
+conj_and(Got-1, loves-12)
+dobj(loves-12, it-13)
+
+=========
+
+det(quality-2, The-1)
+nsubj(speaks-5, quality-2)
+prep_of(quality-2, GE-4)
+root(ROOT-0, speaks-5)
+prep_for(speaks-5, itself-7)
+

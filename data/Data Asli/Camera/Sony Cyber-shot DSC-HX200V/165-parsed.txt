@@ -1,0 +1,128 @@
+=========
+
+nsubj(LOVE-3, I-1)
+advmod(LOVE-3, absolutely-2)
+ccomp(got-9, LOVE-3)
+det(camera-5, this-4)
+dobj(LOVE-3, camera-5)
+nsubj(got-9, I-7)
+nsubj(paid-16, I-7)
+advmod(got-9, just-8)
+root(ROOT-0, got-9)
+det(today-11, this-10)
+tmod(got-9, today-11)
+amod(Buy-14, Best-13)
+prep_from(got-9, Buy-14)
+conj_and(got-9, paid-16)
+prt(paid-16, over-17)
+dobj(paid-16, $-18)
+num($-18, 500-19)
+prep_for($-18, it-21)
+
+=========
+
+nsubj(amazing-3, It-1)
+cop(amazing-3, 's-2)
+root(ROOT-0, amazing-3)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(zoom-5, the-3)
+amod(zoom-5, manual-4)
+dobj(love-2, zoom-5)
+amod(setting-8, optional-7)
+appos(zoom-5, setting-8)
+
+=========
+
+nsubj(photos-8, It-1)
+cop(photos-8, 's-2)
+advmod(photos-8, just-3)
+dep(takings-6, amazing-4)
+amod(photos-8, takings-6)
+amod(photos-8, great-7)
+root(ROOT-0, photos-8)
+
+=========
+
+nsubj(camera-6, It-1)
+cop(camera-6, 's-2)
+poss(camera-6, my-3)
+amod(camera-6, first-4)
+amod(camera-6, good-5)
+root(ROOT-0, camera-6)
+nsubj(love-10, I-9)
+conj_and(camera-6, love-10)
+dobj(love-10, it-11)
+
+=========
+
+root(ROOT-0, Deff-1)
+
+=========
+
+root(ROOT-0, going-1)
+aux(hang-3, to-2)
+xcomp(going-1, hang-3)
+prep_onto(hang-3, this-5)
+prep_for(this-5, awhile-7)
+
+=========
+
+nsubjpass(fascinated-3, I-1)
+nsubjpass(spent-8, I-1)
+auxpass(fascinated-3, am-2)
+root(ROOT-0, fascinated-3)
+prep_with(fascinated-3, it-5)
+conj_and(fascinated-3, spent-8)
+dobj(spent-8, hours-9)
+advmod(spent-8, just-10)
+xcomp(spent-8, taking-11)
+amod(pictures-13, silly-12)
+dobj(taking-11, pictures-13)
+poss(playing-17, my-15)
+nn(playing-17, cat-16)
+prep_of(pictures-13, playing-17)
+det(settings-20, the-19)
+prep_with(taking-11, settings-20)
+
+=========
+
+nsubj(camera-5, It-1)
+cop(camera-5, 's-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+appos(camera-5, plenty-7)
+prep_of(plenty-7, scenes-9)
+prep_of(plenty-7, settings-11)
+conj_and(scenes-9, settings-11)
+
+=========
+
+nsubj(bright-3, Flash-1)
+cop(bright-3, is-2)
+root(ROOT-0, bright-3)
+
+=========
+
+nsubj(good-3, It-1)
+cop(good-3, 's-2)
+root(ROOT-0, good-3)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, really-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+
+=========
+
+nsubj(amazing-3, It-1)
+cop(amazing-3, 's-2)
+root(ROOT-0, amazing-3)
+

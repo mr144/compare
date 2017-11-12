@@ -1,0 +1,4 @@
+Check_VB with_IN vendor_NN the_DT 3G\/HSPA_NNP frequency_NN ._.
+I_PRP understand_VBP vendors_NNS import_VBP from_IN various_JJ countries_NNS ._.
+The_DT unit_NN I_PRP received_VBD was_VBD GT-i8160L_NNP ,_, which_WDT seems_VBZ to_TO be_VB designed_VBN for_IN Latin_NNP America_NNP ._.
+Tech_NNP specifications_NNS available_JJ online_NN indicate_VBP 900\/2100_CD MHz_NNP for_IN 3G_NNP -LRB-_-LRB- not_RB 850\/2100_CD MHz_NNP as_IN Amazon_NNP states_NNS -RRB-_-RRB- so_RB may_MD not_RB work_VB with_IN some_DT operators_NNS in_IN US_NNP ._.

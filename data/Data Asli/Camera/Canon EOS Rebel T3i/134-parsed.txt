@@ -1,0 +1,39 @@
+=========
+
+det(price-2, The-1)
+nsubj(Way-6, price-2)
+cop(Way-6, was-3)
+amod(Way-6, great-4)
+amod(Way-6, !!!-5)
+root(ROOT-0, Way-6)
+amod(Way-6, cheaper-7)
+dep(cheaper-7, than-8)
+advmod(else-10, anywhere-9)
+dep(cheaper-7, else-10)
+
+=========
+
+nsubj(came-2, It-1)
+root(ROOT-0, came-2)
+dep(came-2, packaged-3)
+prt(packaged-3, up-4)
+prep_like(packaged-3, new-6)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+nsubj(buy-4, you-3)
+ccomp(recommend-2, buy-4)
+poss(product-6, your-5)
+dobj(buy-4, product-6)
+prep(buy-4, from-7)
+pobj(from-7, here-8)
+
+=========
+
+root(ROOT-0, Awesome-1)
+predet(way-4, all-2)
+det(way-4, the-3)
+dobj(Awesome-1, way-4)
+

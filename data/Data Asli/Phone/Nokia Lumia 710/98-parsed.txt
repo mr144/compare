@@ -1,0 +1,38 @@
+=========
+
+nn(Fast-2, Very-1)
+nsubj(works-4, Fast-2)
+root(ROOT-0, works-4)
+acomp(works-4, fantastic-5)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(camera-5, an-3)
+amod(camera-5, OK-4)
+dobj(has-2, camera-5)
+cop(phone-12, is-8)
+det(phone-12, a-9)
+advmod(nice-11, very-10)
+amod(phone-12, nice-11)
+conj_but(has-2, phone-12)
+
+=========
+
+advmod(damaging-7, Maybe-1)
+det(buttons-3, the-2)
+nsubj(damaging-7, buttons-3)
+cop(damaging-7, are-4)
+det(bit-6, a-5)
+npadvmod(damaging-7, bit-6)
+root(ROOT-0, damaging-7)
+det(design-10, the-9)
+prep_to(damaging-7, design-10)
+det(OS-14, the-13)
+nsubj(works-15, OS-14)
+conj_but(damaging-7, works-15)
+advmod(works-15, perfectly-16)
+det(device-19, the-18)
+prep_with(works-15, device-19)
+

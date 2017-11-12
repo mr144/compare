@@ -1,0 +1,61 @@
+=========
+
+dep(satisfied-8, Well-1)
+advmod(satisfied-8, until-3)
+advmod(until-3, now-4)
+nsubjpass(satisfied-8, I-5)
+aux(satisfied-8, have-6)
+auxpass(satisfied-8, been-7)
+root(ROOT-0, satisfied-8)
+det(product-11, the-10)
+prep_with(satisfied-8, product-11)
+
+=========
+
+det(custom-3, The-1)
+nn(custom-3, seller-2)
+nsubj(package-4, custom-3)
+root(ROOT-0, package-4)
+dobj(package-4, it-5)
+advmod(so-8, very-6)
+advmod(so-8, well-7)
+advmod(package-4, so-8)
+dep(worked-19, that-9)
+det(harm-11, no-10)
+conj_and(harm-11, harm-11')
+nsubj(worked-19, harm-11)
+nsubj(worked-19, harm-11')
+prep_during(harm-11, transport-13)
+prep_until(harm-11', now-16)
+dep(harm-11, it-17)
+aux(worked-19, has-18)
+ccomp(so-8, worked-19)
+advmod(worked-19, correctly-20)
+
+=========
+
+det(article-2, The-1)
+nsubjpass(sent-4, article-2)
+auxpass(sent-4, was-3)
+ccomp(were-14, sent-4)
+prep_to(sent-4, me-6)
+nsubj(appeared-8, me-6)
+rcmod(me-6, appeared-8)
+det(publication-11, the-10)
+prep_in(appeared-8, publication-11)
+expl(were-14, there-13)
+root(ROOT-0, were-14)
+det(problems-16, no-15)
+nsubj(were-14, problems-16)
+det(kind-19, any-18)
+prep_of(problems-16, kind-19)
+
+=========
+
+amod(product-2, Excellent-1)
+root(ROOT-0, product-2)
+
+=========
+
+root(ROOT-0, Greetings-1)
+

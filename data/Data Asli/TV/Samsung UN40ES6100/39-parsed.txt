@@ -1,0 +1,48 @@
+=========
+
+root(ROOT-0, Loved-1)
+xcomp(Loved-1, watching-2)
+nn(Video-6, Netflix-3)
+conj_and(Netflix-3, Amazon-5)
+nn(Video-6, Amazon-5)
+dobj(watching-2, Video-6)
+det(one-9, this-8)
+prep_on(Video-6, one-9)
+
+=========
+
+nsubj(have-3, I-1)
+xsubj(tweak-5, I-1)
+advmod(have-3, still-2)
+root(ROOT-0, have-3)
+aux(tweak-5, to-4)
+xcomp(have-3, tweak-5)
+det(setting-7, the-6)
+dobj(tweak-5, setting-7)
+aux(find-9, to-8)
+infmod(setting-7, find-9)
+det(configuration-13, the-10)
+amod(configuration-13, optimal-11)
+nn(configuration-13, display-12)
+dobj(find-9, configuration-13)
+det(settings-17, the-15)
+nn(settings-17, factory-16)
+nsubj(ok-19, settings-17)
+cop(ok-19, are-18)
+conj_but(have-3, ok-19)
+
+=========
+
+nsubj(able-3, I-1)
+cop(able-3, was-2)
+root(ROOT-0, able-3)
+nn(video-6, stream-5)
+prep_to(able-3, video-6)
+partmod(video-6, using-7)
+poss(hotspot-11, my-8)
+nn(hotspot-11, ATT-9)
+nn(hotspot-11, MiFi-10)
+dobj(using-7, hotspot-11)
+nn(!!!!!-14, Sweeeeet-13)
+appos(hotspot-11, !!!!!-14)
+

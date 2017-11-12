@@ -1,0 +1,33 @@
+=========
+
+det(TV-2, This-1)
+nsubj(does-3, TV-2)
+root(ROOT-0, does-3)
+dobj(does-3, everything-4)
+complm(needed-7, that-5)
+nsubj(needed-7, I-6)
+ccomp(does-3, needed-7)
+
+=========
+
+det(picture-2, The-1)
+nsubj(excellent-4, picture-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+
+=========
+
+det(sound-2, The-1)
+nsubj(better-5, sound-2)
+aux(better-5, could-3)
+cop(better-5, be-4)
+root(ROOT-0, better-5)
+mark(need-9, as-6)
+nsubj(need-9, I-7)
+advmod(need-9, still-8)
+ccomp(better-5, need-9)
+aux(use-11, to-10)
+xcomp(need-9, use-11)
+det(soundbar-13, a-12)
+dobj(use-11, soundbar-13)
+

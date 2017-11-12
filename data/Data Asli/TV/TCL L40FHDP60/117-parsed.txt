@@ -1,0 +1,27 @@
+=========
+
+nsubj(buy-5, This-1)
+cop(buy-5, was-2)
+det(buy-5, a-3)
+amod(buy-5, great-4)
+root(ROOT-0, buy-5)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+dobj(got-2, it-3)
+quantmod(300-6, around-5)
+prep_for(got-2, 300-6)
+det(size-9, the-8)
+prep_for(got-2, size-9)
+nn(P-12, 1080-11)
+prep_for(got-2, P-12)
+conj_and(size-9, P-12)
+nsubj(wont-14, you-13)
+rcmod(P-12, wont-14)
+xcomp(wont-14, find-15)
+det(deal-18, a-16)
+amod(deal-18, better-17)
+dobj(find-15, deal-18)
+

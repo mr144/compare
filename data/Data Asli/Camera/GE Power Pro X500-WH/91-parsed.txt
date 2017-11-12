@@ -1,0 +1,31 @@
+=========
+
+root(ROOT-0, Arrive-1)
+prep_at(Arrive-1, time-3)
+
+=========
+
+det(pictures-2, The-1)
+nsubj(greats-4, pictures-2)
+cop(greats-4, are-3)
+root(ROOT-0, greats-4)
+
+=========
+
+root(ROOT-0, Muy-1)
+nsubj(enjoyed-5, husband-2)
+conj_and(husband-2, I-4)
+nsubj(enjoyed-5, I-4)
+dep(Muy-1, enjoyed-5)
+det(time-7, the-6)
+dobj(enjoyed-5, time-7)
+advmod(take-12, now-9)
+nsubj(take-12, we-10)
+aux(take-12, can-11)
+dep(Muy-1, take-12)
+conj_and(enjoyed-5, take-12)
+nn(pictures-16, pictures-13)
+amod(pictures-16, beautiful-15)
+dobj(take-12, pictures-16)
+advmod(take-12, !!!!-17)
+

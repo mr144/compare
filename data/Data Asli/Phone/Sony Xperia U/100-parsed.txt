@@ -1,0 +1,21 @@
+=========
+
+det(phone-2, this-1)
+nsubj(good-5, phone-2)
+cop(good-5, is-3)
+advmod(good-5, realy-4)
+root(ROOT-0, good-5)
+det(price-8, the-7)
+prep_for(good-5, price-8)
+amod(works-11, evriting-10)
+appos(price-8, works-11)
+mark(phone-19, like-12)
+nsubj(phone-19, i-13)
+cop(phone-19, was-14)
+amod(nice-18, specting-15)
+advmod(nice-18, very-17)
+amod(phone-19, nice-18)
+advcl(good-5, phone-19)
+amod(phone-19, good-20)
+prep_for(good-20, sony-22)
+

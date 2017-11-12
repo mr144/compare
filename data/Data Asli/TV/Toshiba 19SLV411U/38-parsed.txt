@@ -1,0 +1,37 @@
+=========
+
+root(ROOT-0, Great-1)
+amod(TV-3, little-2)
+dep(Great-1, TV-3)
+
+=========
+
+root(ROOT-0, Purchasd-1)
+dobj(Purchasd-1, it-2)
+poss(kitchen-5, our-4)
+prep_for(Purchasd-1, kitchen-5)
+nsubj(works-8, it-7)
+conj_and(Purchasd-1, works-8)
+acomp(works-8, great-9)
+
+=========
+
+nsubj(loves-2, Wife-1)
+root(ROOT-0, loves-2)
+dobj(loves-2, it-3)
+nsubj(happier-9, we-5)
+aux(happier-9, could-6)
+neg(happier-9, not-7)
+cop(happier-9, be-8)
+conj_and(loves-2, happier-9)
+
+=========
+
+nsubj(recomend-2, Would-1)
+root(ROOT-0, recomend-2)
+prep_to(recomend-2, anyone-4)
+xcomp(recomend-2, needing-5)
+det(TV-8, a-6)
+amod(TV-8, small-7)
+dobj(needing-5, TV-8)
+

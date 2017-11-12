@@ -1,0 +1,6 @@
+Seriously_RB ..._: I_PRP do_VBP not_RB know_VB who_WP is_VBZ to_TO blame_VB ,_, Amazon_NNP ,_, TCL_NNP ,_, or_CC UPS_NNP but_CC I_PRP ordered_VBD this_DT TV_NN ,_, it_PRP arrived_VBD all_DT beat_NN up_IN and_CC the_DT screen_NN was_VBD cracked_VBN ._.
+Returned_VBN it_PRP ._.
+Amazon_NNP tried_VBD to_TO ship_VB the_DT replacement_NN UPS_NNP ground_NN -LRB-_-LRB- I_PRP have_VBP prime_JJ -RRB-_-RRB- instead_RB of_IN 2-day_JJ ,_, so_IN I_PRP had_VBD to_TO fight_VB with_IN them_PRP about_IN that_DT --_: then_RB #_# 2_CD arrived_VBN and_CC will_MD not_RB power_NN on_IN ._.
+100_CD %_NN DOA_NNP ._.
+Lesson_NN learned_VBD ._.
+Buy_VB TV_NNP 's_POS locally_RB and_CC get_VB them_PRP to_TO price_NN match_NN Amazon_NNP ._.

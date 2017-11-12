@@ -1,0 +1,4 @@
+The_DT Toshiba_NNP has_VBZ a_DT great_JJ picture_NN ._.
+It_PRP 's_VBZ simple_JJ to_TO use_VB ._.
+The_DT built-in_JJ DVD_NNP player_NN makes_VBZ it_PRP compact_JJ ._.
+I_PRP chose_VBD to_TO use_VB the_DT stand_NN and_CC installation_NN was_VBD quick_JJ and_CC easy_JJ ._.

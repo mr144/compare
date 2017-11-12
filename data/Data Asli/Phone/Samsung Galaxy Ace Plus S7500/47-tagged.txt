@@ -1,0 +1,3 @@
+I_PRP bought_VBD it_PRP for_IN my_PRP$ father_NN ._.
+He_PRP likes_VBZ it_PRP very_RB much_RB ._.
+The_DT phone_NN is_VBZ functioning_VBG perfectly_RB well_RB without_IN any_DT glitches_NNS

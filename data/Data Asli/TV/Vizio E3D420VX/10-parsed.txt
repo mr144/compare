@@ -1,0 +1,44 @@
+=========
+
+det(TV-2, This-1)
+nsubjpass(given-4, TV-2)
+auxpass(given-4, was-3)
+root(ROOT-0, given-4)
+prep_to(given-4, someone-6)
+det(gift-9, a-8)
+prep_as(given-4, gift-9)
+
+=========
+
+det(picture-2, The-1)
+nsubj(vivid-5, picture-2)
+cop(vivid-5, is-3)
+advmod(vivid-5, flawlessly-4)
+root(ROOT-0, vivid-5)
+
+=========
+
+det(number-2, The-1)
+nsubj(vast-14, number-2)
+conj_and(number-2, variety-4)
+nsubj(vast-14, variety-4)
+prep_of(number-2, settings-6)
+det(ability-9, the-8)
+prep_of(number-2, ability-9)
+conj_and(settings-6, ability-9)
+aux(customize-11, to-10)
+infmod(ability-9, customize-11)
+cop(vast-14, are-12)
+advmod(vast-14, very-13)
+root(ROOT-0, vast-14)
+
+=========
+
+prep_as(produced-5, usual-2)
+nsubj(produced-5, Vizio-4)
+root(ROOT-0, produced-5)
+det(product-9, a-6)
+amod(product-9, superior-7)
+nn(product-9, quality-8)
+dobj(produced-5, product-9)
+

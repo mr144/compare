@@ -1,0 +1,111 @@
+=========
+
+nsubj(having-3, I-1)
+aux(having-3, am-2)
+root(ROOT-0, having-3)
+advmod(experience-8, almost-4)
+det(experience-8, the-5)
+amod(experience-8, exact-6)
+amod(experience-8, same-7)
+dobj(having-3, experience-8)
+prep_as(experience-8, Clay-10)
+
+=========
+
+det(TV-2, The-1)
+nsubj(worked-3, TV-2)
+root(ROOT-0, worked-3)
+det(Aug\/Sept-8, a-5)
+nn(Aug\/Sept-8, couple-6)
+nn(Aug\/Sept-8, months-7)
+prep_for(worked-3, Aug\/Sept-8)
+
+=========
+
+aux(turn-3, Wo-1)
+neg(turn-3, not-2)
+dep(Very-8, turn-3)
+prt(turn-3, on-4)
+prep_in(turn-3, Oct-6)
+root(ROOT-0, Very-8)
+dep(Very-8, hard-9)
+aux(get-11, to-10)
+xcomp(hard-9, get-11)
+nn(line-15, customer-13)
+nn(line-15, service-14)
+prep_to(get-11, line-15)
+
+=========
+
+amod(attempts-3, many-2)
+prep_after(got-10, attempts-3)
+amod(time-7, much-5)
+amod(time-7, wasted-6)
+conj_and(attempts-3, time-7)
+prep_after(got-10, time-7)
+nsubj(got-10, I-9)
+root(ROOT-0, got-10)
+prt(got-10, through-11)
+nn(service-14, customer-13)
+prep_to(got-10, service-14)
+
+=========
+
+amod(attempts-4, many-2)
+amod(attempts-4, more-3)
+prep_after(received-6, attempts-4)
+root(ROOT-0, received-6)
+poss(parts-8, my-7)
+dobj(received-6, parts-8)
+prep_in(received-6, Nov.-10)
+
+=========
+
+csubj(told-4, Called-1)
+conj_and(Called-1, was-3)
+csubj(told-4, was-3)
+root(ROOT-0, told-4)
+nsubj(get-7, I-5)
+aux(get-7, would-6)
+ccomp(told-4, get-7)
+det(call-10, a-8)
+nn(call-10, return-9)
+dobj(get-7, call-10)
+prep_for(get-7, service-12)
+det(one-16, no-15)
+nsubj(called-19, one-16)
+aux(called-19, has-17)
+advmod(called-19, ever-18)
+conj_but(told-4, called-19)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+num(minutes-4, 20-45-3)
+dobj(takes-2, minutes-4)
+aux(get-6, to-5)
+xcomp(takes-2, get-6)
+aux(talk-8, to-7)
+xcomp(get-6, talk-8)
+prep_to(talk-8, someone-10)
+det(phone-13, the-12)
+prep_on(someone-10, phone-13)
+mark(disconnected-18, if-14)
+nsubjpass(disconnected-18, you-15)
+auxpass(disconnected-18, are-16)
+neg(disconnected-18, not-17)
+advcl(talk-8, disconnected-18)
+prepc_after(disconnected-18, waiting-20)
+advmod(frustrating-23, very-22)
+dep(talk-8, frustrating-23)
+
+=========
+
+nsubj(drop-3, Amazon-1)
+aux(drop-3, should-2)
+root(ROOT-0, drop-3)
+det(manufacturer-5, this-4)
+poss(products-7, manufacturer-5)
+dobj(drop-3, products-7)
+

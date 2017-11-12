@@ -1,0 +1,60 @@
+=========
+
+nsubj(ordered-2, I-1)
+nsubj(had-7, I-1)
+xsubj(send-9, I-1)
+nsubj(turn-18, I-1)
+root(ROOT-0, ordered-2)
+dobj(ordered-2, two-3)
+prep_of(two-3, these-5)
+conj_and(ordered-2, had-7)
+aux(send-9, to-8)
+xcomp(had-7, send-9)
+nsubj(back-12, them-10)
+dep(back-12, both-11)
+ccomp(send-9, back-12)
+prep_with(back-12, problems-14)
+aux(turn-18, would-16)
+neg(turn-18, not-17)
+conj_and(ordered-2, turn-18)
+prt(turn-18, off-19)
+
+=========
+
+nsubj(problem-7, Return-1)
+num(days-4, thirty-3)
+prep_within(Return-1, days-4)
+cop(problem-7, was-5)
+det(problem-7, no-6)
+root(ROOT-0, problem-7)
+advmod(problem-7, however-8)
+predet(replacements-12, both-10)
+poss(replacements-12, my-11)
+nsubj(working-14, replacements-12)
+aux(working-14, are-13)
+conj_and(problem-7, working-14)
+acomp(working-14, great-15)
+advmod(far-18, so-17)
+dep(great-15, far-18)
+
+=========
+
+nsubj(advise-3, I-1)
+advmod(advise-3, highly-2)
+root(ROOT-0, advise-3)
+det(warrantee-7, a-4)
+amod(warrantee-7, square-5)
+nn(warrantee-7, trade-6)
+dobj(advise-3, warrantee-7)
+prep_for(warrantee-7, this-9)
+
+=========
+
+advmod(do-6, Something-1)
+nsubj(do-6, I-2)
+aux(do-6, do-3)
+neg(do-6, not-4)
+advmod(do-6, usually-5)
+root(ROOT-0, do-6)
+prep_for(do-6, electronics-8)
+

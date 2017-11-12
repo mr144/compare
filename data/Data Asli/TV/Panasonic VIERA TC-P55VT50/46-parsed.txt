@@ -1,0 +1,99 @@
+=========
+
+nsubj(looks-2, It-1)
+nsubj(easy-6, It-1)
+root(ROOT-0, looks-2)
+acomp(looks-2, great-3)
+cop(easy-6, is-5)
+conj_and(looks-2, easy-6)
+aux(operate-8, to-7)
+xcomp(easy-6, operate-8)
+
+=========
+
+det(picture-2, The-1)
+nsubj(hard-7, picture-2)
+aux(hard-7, can-3)
+cop(hard-7, be-4)
+det(little-6, a-5)
+npadvmod(hard-7, little-6)
+root(ROOT-0, hard-7)
+aux(see-9, to-8)
+xcomp(hard-7, see-9)
+det(room-13, a-11)
+amod(room-13, bright-12)
+prep_in(see-9, room-13)
+
+=========
+
+det(complaint-3, The-1)
+amod(complaint-3, only-2)
+nsubj(do-9, complaint-3)
+nsubj(has-6, I-4)
+aux(has-6, have-5)
+rcmod(complaint-3, has-6)
+dobj(has-6, nothing-7)
+prep(has-6, to-8)
+root(ROOT-0, do-9)
+det(television-12, the-11)
+prep_with(do-9, television-12)
+dobj(do-9, itself-13)
+
+=========
+
+det(company-3, The-1)
+nn(company-3, shipping-2)
+nsubj(deliver-6, company-3)
+aux(deliver-6, did-4)
+neg(deliver-6, not-5)
+root(ROOT-0, deliver-6)
+det(television-8, the-7)
+dobj(deliver-6, television-8)
+advmod(said-11, when-9)
+nsubj(said-11, Amazon-10)
+advcl(deliver-6, said-11)
+nsubj(arrive-14, it-12)
+aux(arrive-14, would-13)
+ccomp(said-11, arrive-14)
+
+=========
+
+nsubj(bring-4, They-1)
+nsubj(take-10, They-1)
+aux(bring-4, did-2)
+neg(bring-4, not-3)
+root(ROOT-0, bring-4)
+dobj(bring-4, it-5)
+det(room-8, the-7)
+prep_into(bring-4, room-8)
+conj_and(bring-4, take-10)
+dobj(take-10, it-11)
+det(box-15, the-14)
+prep_out_of(take-10, box-15)
+
+=========
+
+mark(important-4, If-1)
+nsubj(important-4, this-2)
+cop(important-4, is-3)
+advcl(note-10, important-4)
+prep_to(important-4, you-6)
+dep(take-9, please-8)
+csubj(note-10, take-9)
+root(ROOT-0, note-10)
+
+=========
+
+det(side-5, the-3)
+amod(side-5, flip-4)
+prep_on(arrived-9, side-5)
+det(television-8, the-7)
+nsubj(arrived-9, television-8)
+root(ROOT-0, arrived-9)
+det(damage-12, no-11)
+prep_with(arrived-9, damage-12)
+nsubj(pleased-17, I-14)
+cop(pleased-17, am-15)
+advmod(pleased-17, very-16)
+conj_and(arrived-9, pleased-17)
+

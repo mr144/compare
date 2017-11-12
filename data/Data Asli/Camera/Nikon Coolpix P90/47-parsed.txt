@@ -1,0 +1,25 @@
+=========
+
+nn(focusing-2, Slow-1)
+nsubj(buy-9, focusing-2)
+amod(quality-5, bad-4)
+appos(focusing-2, quality-5)
+aux(buy-9, do-7)
+neg(buy-9, not-8)
+root(ROOT-0, buy-9)
+det(camera-11, this-10)
+dobj(buy-9, camera-11)
+
+=========
+
+nsubj(love-2, I-1)
+ccomp(needs-7, love-2)
+dobj(love-2, Nikon-3)
+det(one-6, this-5)
+nsubj(needs-7, one-6)
+xsubj(redone-10, one-6)
+root(ROOT-0, needs-7)
+aux(redone-10, to-8)
+aux(redone-10, be-9)
+xcomp(needs-7, redone-10)
+

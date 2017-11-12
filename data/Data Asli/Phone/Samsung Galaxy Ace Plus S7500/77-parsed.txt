@@ -1,0 +1,37 @@
+=========
+
+nsubj(phone-6, This-1)
+cop(phone-6, is-2)
+det(phone-6, a-3)
+amod(phone-6, perfect-4)
+nn(phone-6, size-5)
+root(ROOT-0, phone-6)
+complm(bought-10, that-8)
+nsubj(bought-10, I-9)
+ccomp(phone-6, bought-10)
+poss(mom-13, my-12)
+prep_for(bought-10, mom-13)
+
+=========
+
+nsubj(unlocked-3, It-1)
+nsubj(work-6, It-1)
+cop(unlocked-3, is-2)
+root(ROOT-0, unlocked-3)
+aux(work-6, can-5)
+conj_and(unlocked-3, work-6)
+amod(counties-9, other-8)
+prep_in(work-6, counties-9)
+advmod(well-11, as-10)
+mwe(well-11, as-10)
+advmod(work-6, well-11)
+
+=========
+
+det(price-2, The-1)
+nsubj(perfect-6, price-2)
+conj_and(price-2, quality-4)
+nsubj(perfect-6, quality-4)
+cop(perfect-6, are-5)
+root(ROOT-0, perfect-6)
+

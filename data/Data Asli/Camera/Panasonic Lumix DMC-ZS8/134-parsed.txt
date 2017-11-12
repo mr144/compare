@@ -1,0 +1,161 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+amod(camaras-5, several-4)
+dobj(had-3, camaras-5)
+xcomp(had-3, dating-6)
+prt(dating-6, back-7)
+det('s-11, the-9)
+num('s-11, 60-10)
+prep_to(dating-6, 's-11)
+
+=========
+
+poss(camara-3, My-1)
+amod(camara-3, last-2)
+nsubj(Canon-6, camara-3)
+cop(Canon-6, was-4)
+det(Canon-6, a-5)
+root(ROOT-0, Canon-6)
+amod(Canon-6, sureshot-7)
+num(pixels-9, 3.5-8)
+dep(sureshot-7, pixels-9)
+
+=========
+
+advmod(except-4, Actually-1)
+advmod(modern-3, quite-2)
+nsubj(except-4, modern-3)
+root(ROOT-0, except-4)
+det(pixels-8, the-6)
+num(pixels-8, 3.5-7)
+prep_for(except-4, pixels-8)
+
+=========
+
+aux(update-2, To-1)
+csubj(did-4, update-2)
+csubj(settled-15, update-2)
+dobj(update-2, I-3)
+root(ROOT-0, did-4)
+det(lot-6, a-5)
+dobj(did-4, lot-6)
+prep_of(lot-6, research-8)
+prep_based_on(research-8, reviews-12)
+conj_and(did-4, settled-15)
+det(Z-s8-19, the-17)
+nn(Z-s8-19, Lumix-18)
+prep_on(settled-15, Z-s8-19)
+
+=========
+
+nsubj(super-3, It-1)
+cop(super-3, is-2)
+root(ROOT-0, super-3)
+
+=========
+
+root(ROOT-0, Better-1)
+det(Canon-4, the-3)
+prep_than(Better-1, Canon-4)
+prep_for(Better-1, videos-6)
+prep_for(Better-1, simplicity-8)
+conj_and(videos-6, simplicity-8)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+amod(hands-4, large-3)
+dobj(have-2, hands-4)
+det(Canon-7, the-6)
+nsubj(little-13, Canon-7)
+aux(little-13, can-8)
+cop(little-13, be-9)
+det(little-11, a-10)
+dep(little-13, little-11)
+advmod(little-13, too-12)
+conj_and(have-2, little-13)
+prep_for(little-13, me-15)
+
+=========
+
+mark(have-3, If-1)
+nsubj(have-3, I-2)
+advcl(this-8, have-3)
+num(compaint-5, one-4)
+dobj(have-3, compaint-5)
+nsubj(this-8, it-6)
+cop(this-8, is-7)
+root(ROOT-0, this-8)
+
+=========
+
+det(screen-3, The-1)
+amod(screen-3, viewing-2)
+nsubj(big-6, screen-3)
+nsubj(perfect-8, screen-3)
+cop(big-6, is-4)
+advmod(big-6, so-5)
+root(ROOT-0, big-6)
+conj_and(big-6, perfect-8)
+complm(beat-14, that-9)
+nsubjpass(beat-14, it-10)
+nsubjpass(beat-14', it-10)
+aux(beat-14, can-11)
+neg(beat-14, not-12)
+auxpass(beat-14, be-13)
+ccomp(big-6, beat-14)
+ccomp(big-6, beat-14')
+conj_or(beat-14, beat-14')
+prep_at(beat-14, night-16)
+det(shade-20, the-19)
+prep_in(beat-14', shade-20)
+
+=========
+
+cc(see-9, But-1)
+amod(daylight-4, broad-3)
+prep_in(see-9, daylight-4)
+nsubj(see-9, I-6)
+aux(see-9, can-7)
+neg(see-9, not-8)
+root(ROOT-0, see-9)
+dep(aiming-13, what-10)
+nsubj(aiming-13, I-11)
+aux(aiming-13, am-12)
+ccomp(see-9, aiming-13)
+prep(aiming-13, at-14)
+
+=========
+
+advmod(solution-10, Probably-1)
+det(reflex-5, a-2)
+amod(reflex-5, single-3)
+nn(reflex-5, lens-4)
+nsubj(solution-10, reflex-5)
+aux(solution-10, would-6)
+cop(solution-10, be-7)
+det(solution-10, the-8)
+amod(solution-10, only-9)
+root(ROOT-0, solution-10)
+prep_to(solution-10, that-12)
+advmod(viewer-18, maybe-14)
+det(viewer-18, a-15)
+amod(viewer-18, little-16)
+amod(viewer-18, direct-17)
+conj_or(solution-10, viewer-18)
+det(screen-22, the-21)
+prep_next_to(viewer-18, screen-22)
+
+=========
+
+prep_aside_from(it-5, that-3)
+root(ROOT-0, it-5)
+det(camara-9, a-6)
+amod(camara-9, perfect-7)
+amod(camara-9, little-8)
+dep(it-5, camara-9)
+

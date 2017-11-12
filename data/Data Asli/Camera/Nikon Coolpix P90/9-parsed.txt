@@ -1,0 +1,92 @@
+=========
+
+advmod(pleased-5, Unfortunately-1)
+nsubjpass(pleased-5, I-2)
+auxpass(pleased-5, was-3)
+neg(pleased-5, not-4)
+root(ROOT-0, pleased-5)
+det(camera-8, this-7)
+prep_with(pleased-5, camera-8)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+nn(phones-5, camera-4)
+dobj(had-3, phones-5)
+dep(had-3, take-6)
+amod(pictures-9, better-7)
+nn(pictures-9, quality-8)
+dobj(take-6, pictures-9)
+
+=========
+
+nsubj(an-6, This-1)
+cop(an-6, is-2)
+advmod(an-6, nothing-3)
+mwe(than-5, more-4)
+quantmod(an-6, than-5)
+root(ROOT-0, an-6)
+amod(point-9, sized-8)
+prep_over(an-6, point-9)
+nn(camera-12, shoot-11)
+prep_over(an-6, camera-12)
+conj_and(point-9, camera-12)
+
+=========
+
+advmod(cut-23, Even-1)
+advcl(cut-23, after-2)
+prepc_after(cut-23, adjusting-3)
+det(settings-5, the-4)
+nsubj(go-7, settings-5)
+aux(go-7, to-6)
+xcomp(adjusting-3, go-7)
+det(lighting-11, the-9)
+nn(lighting-11, room-10)
+prep_with(go-7, lighting-11)
+dep(indoors-14, whether-13)
+parataxis(cut-23, indoors-14)
+conj_or(indoors-14, outdoors-16)
+parataxis(cut-23, outdoors-16)
+det(camera-19, this-18)
+nsubj(cut-23, camera-19)
+advmod(cut-23, just-20)
+aux(cut-23, did-21)
+neg(cut-23, not-22)
+root(ROOT-0, cut-23)
+dobj(cut-23, it-24)
+prep_for(cut-23, me-26)
+
+=========
+
+nsubj(upgraded-3, I-1)
+advmod(upgraded-3, eventually-2)
+root(ROOT-0, upgraded-3)
+det(D5000-7, a-5)
+nn(D5000-7, Nikon-6)
+prep_to(upgraded-3, D5000-7)
+
+=========
+
+nsubj(camera-7, This-1)
+cop(camera-7, is-2)
+det(camera-7, the-3)
+nn(camera-7, entry-4)
+nn(camera-7, level-5)
+nn(camera-7, DSLR-6)
+root(ROOT-0, camera-7)
+
+=========
+
+amod(ones-3, Other-1)
+amod(ones-3, good-2)
+nsubj(D3000-6, ones-3)
+cop(D3000-6, are-4)
+nn(D3000-6, Nikon-5)
+root(ROOT-0, D3000-6)
+conj_and(D3000-6, D3100-8)
+conj_and(D3000-6, D40-10)
+conj_and(D3000-6, D60-13)
+

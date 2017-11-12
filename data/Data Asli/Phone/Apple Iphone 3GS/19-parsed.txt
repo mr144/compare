@@ -1,0 +1,36 @@
+=========
+
+nsubj(was-2, iphone-1)
+root(ROOT-0, was-2)
+det(condition-7, a-4)
+amod(condition-7, vary-5)
+amod(condition-7, good-6)
+prep_in(was-2, condition-7)
+
+=========
+
+expl(vere-2, there-1)
+root(ROOT-0, vere-2)
+det(scratches-4, no-3)
+dobj(vere-2, scratches-4)
+nsubj(vere-2, scratches-4)
+
+=========
+
+nsubjpass(included-3, everything-1)
+auxpass(included-3, was-2)
+root(ROOT-0, included-3)
+mark(discribed-7, as-4)
+nsubjpass(discribed-7, it-5)
+auxpass(discribed-7, was-6)
+advcl(included-3, discribed-7)
+
+=========
+
+nsubj(setisfied-4, i-1)
+cop(setisfied-4, am-2)
+advmod(setisfied-4, very-3)
+root(ROOT-0, setisfied-4)
+poss(purchase-7, my-6)
+prep_with(setisfied-4, purchase-7)
+

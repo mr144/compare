@@ -1,0 +1,34 @@
+=========
+
+prep_for(camera-17, semi-pro-2)
+nsubj(camera-17, it-3)
+cop(camera-17, is-4)
+amod(camera-17, excellent-5)
+poss(bridge-9, its-7)
+det(bridge-9, a-8)
+dep(excellent-5, bridge-9)
+amod(shooters-12, Ocassional-11)
+dep(bridge-9, shooters-12)
+nn(pro-15, non-14)
+dep(bridge-9, pro-15)
+conj_or(shooters-12, pro-15)
+root(ROOT-0, camera-17)
+
+=========
+
+nsubj(has-2, It-1)
+nsubj(perfect-8, It-1)
+root(ROOT-0, has-2)
+amod(pictures-4, rich-3)
+dobj(has-2, pictures-4)
+cop(perfect-8, is-7)
+conj_and(has-2, perfect-8)
+prep_for(perfect-8, beginers-10)
+prep_for(perfect-8, people-12)
+conj_and(beginers-10, people-12)
+dep(people-12, that-13)
+advmod(perfect-8, now-14)
+det(principals-17, the-16)
+prep_about(perfect-8, principals-17)
+prep_about(principals-17, photography-19)
+

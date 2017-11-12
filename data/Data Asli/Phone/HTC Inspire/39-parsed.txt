@@ -1,0 +1,30 @@
+=========
+
+poss(love-6, its-1)
+det(phone-4, a-2)
+amod(phone-4, good-3)
+npadvmod(i-5, phone-4)
+amod(love-6, i-5)
+nsubj(love-7, love-6)
+root(ROOT-0, love-7)
+det(camera-10, the-8)
+nn(camera-10, phone-9)
+dobj(love-7, camera-10)
+iobj(love-7, camera-10)
+poss(nice-12, its-11)
+dobj(love-7, nice-12)
+dep(camera-10, nice-12)
+
+=========
+
+root(ROOT-0, love-1)
+det(gps-3, the-2)
+dobj(love-1, gps-3)
+poss(its-8, its-5)
+advmod(fast-7, so-6)
+advmod(its-8, fast-7)
+dobj(love-1, its-8)
+conj_and(gps-3, its-8)
+advmod(good-10, so-9)
+amod(its-8, good-10)
+

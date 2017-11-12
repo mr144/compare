@@ -1,0 +1,88 @@
+=========
+
+advmod(working-2, When-1)
+advcl(phone-9, working-2)
+nsubj(phone-9, this-4)
+cop(phone-9, is-5)
+det(phone-9, a-6)
+advmod(good-8, very-7)
+amod(phone-9, good-8)
+root(ROOT-0, phone-9)
+
+=========
+
+advmod(seems-7, Unfortunately-1)
+poss(phone-6, my-3)
+nn(phone-6, Google-4)
+nn(phone-6, Nexus-5)
+nsubj(seems-7, phone-6)
+xsubj(work-9, phone-6)
+nsubj(need-12, phone-6)
+root(ROOT-0, seems-7)
+aux(work-9, to-8)
+xcomp(seems-7, work-9)
+advmod(need-12, then-11)
+conj_and(seems-7, need-12)
+dobj(need-12, repairs-13)
+
+=========
+
+advmod(takes-6, Even-1)
+advcl(takes-6, without-2)
+prep_without(takes-6, problems-3)
+nsubj(takes-6, it-5)
+root(ROOT-0, takes-6)
+dep(minute-9, about-7)
+dep(minute-9, a-8)
+acomp(takes-6, minute-9)
+prep_to(minute-9, power-11)
+prep(minute-9, on-12)
+
+=========
+
+det(problem-2, The-1)
+nsubj(is-3, problem-2)
+root(ROOT-0, is-3)
+complm(power-13, that-4)
+det(months-7, every-5)
+amod(months-7, few-6)
+nsubj(power-13, months-7)
+det(phone-10, the-9)
+appos(months-7, phone-10)
+aux(power-13, will-11)
+neg(power-13, not-12)
+ccomp(is-3, power-13)
+prep(power-13, on-14)
+
+=========
+
+det(time-4, the-2)
+amod(time-4, 4th-3)
+prep_for(occured-10, time-4)
+num(years-7, 3-6)
+prep_in(time-4, years-7)
+nsubj(occured-10, this-8)
+aux(occured-10, has-9)
+root(ROOT-0, occured-10)
+
+=========
+
+det(time-2, This-1)
+nsubj(refuse-4, time-2)
+xsubj(pay-6, time-2)
+nsubj(refuse-4, I-3)
+xsubj(pay-6, I-3)
+root(ROOT-0, refuse-4)
+aux(pay-6, to-5)
+xcomp(refuse-4, pay-6)
+aux(get-8, to-7)
+xcomp(pay-6, get-8)
+nsubj(reapired-10, it-9)
+xcomp(get-8, reapired-10)
+
+=========
+
+root(ROOT-0, RIP-1)
+nn(Nexus-4, Google-3)
+appos(RIP-1, Nexus-4)
+

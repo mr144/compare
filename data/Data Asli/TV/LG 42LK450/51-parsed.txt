@@ -1,0 +1,137 @@
+=========
+
+root(ROOT-0, Nice-1)
+dobj(Nice-1, picture-2)
+dobj(Nice-1, great-5)
+conj_negcc(picture-2, great-5)
+
+=========
+
+det(difference-2, No-1)
+root(ROOT-0, difference-2)
+prep_in(difference-2, clarity-4)
+prep_in(difference-2, sharpness-6)
+conj_or(clarity-4, sharpness-6)
+partmod(difference-2, moving-7)
+prep_from(moving-7, regular-9)
+prep_to(regular-9, HiDef-11)
+
+=========
+
+root(ROOT-0, Went-1)
+advmod(Went-1, back-2)
+advmod(Went-1, forth-4)
+conj_and(back-2, forth-4)
+prep_with(Went-1, Verizon-6)
+nn(service-9, LG-8)
+prep_with(Went-1, service-9)
+conj_and(Verizon-6, service-9)
+
+=========
+
+nsubj(say-3, They-1)
+dep(say-3, both-2)
+root(ROOT-0, say-3)
+poss(guy-7, its-4)
+amod(guy-7, the-5)
+amod(guy-7, other-6)
+dobj(say-3, guy-7)
+
+=========
+
+amod(cables-2, Changed-1)
+nsubj(checked-3, cables-2)
+root(ROOT-0, checked-3)
+nn(strength-5, signal-4)
+dobj(checked-3, strength-5)
+dep(checked-3, both-6)
+prep_at(checked-3, optimum-8)
+
+=========
+
+nn(documentation-3, Beach-1)
+nn(documentation-3, Camera-2)
+nsubj(says-4, documentation-3)
+root(ROOT-0, says-4)
+nsubj(take-8, they-5)
+aux(take-8, will-6)
+neg(take-8, not-7)
+ccomp(says-4, take-8)
+nn(returns-10, TV-9)
+dobj(take-8, returns-10)
+prepc_after(said-18, taking-13)
+det(agent-16, an-15)
+prep_to(taking-13, agent-16)
+nsubj(said-18, he-17)
+conj_but(says-4, said-18)
+poss(32-22, its-20)
+quantmod(32-22, only-21)
+prep_since(said-18, 32-22)
+nsubj(take-26, they-24)
+aux(take-26, 'll-25)
+ccomp(said-18, take-26)
+dobj(take-26, it-27)
+advmod(take-26, back-28)
+
+=========
+
+nn(service-2, LG-1)
+nsubj(reps-3, service-2)
+root(ROOT-0, reps-3)
+det(disappointment-6, a-4)
+amod(disappointment-6, big-5)
+dobj(reps-3, disappointment-6)
+
+=========
+
+root(ROOT-0, Not-1)
+amod(communicators-3, good-2)
+dep(Not-1, communicators-3)
+neg(impressed-6, not-5)
+amod(communicators-3, impressed-6)
+poss(knowledge-9, their-8)
+prep_with(impressed-6, knowledge-9)
+
+=========
+
+nsubj(quick-3, They-1)
+cop(quick-3, were-2)
+root(ROOT-0, quick-3)
+aux(put-5, to-4)
+xcomp(quick-3, put-5)
+det(blame-7, the-6)
+dobj(put-5, blame-7)
+advmod(put-5, elsewhere-8)
+
+=========
+
+neg(interested-3, Not-1)
+advmod(interested-3, really-2)
+root(ROOT-0, interested-3)
+prepc_in(interested-3, solving-5)
+poss(problem-7, my-6)
+dobj(solving-5, problem-7)
+
+=========
+
+root(ROOT-0, Bought-1)
+det(model-3, this-2)
+dobj(Bought-1, model-3)
+det(rating-8, a-5)
+nn(rating-8, Consumer-6)
+nn(rating-8, Reports-7)
+prep_on(Bought-1, rating-8)
+
+=========
+
+nsubj(go-4, I-1)
+aux(go-4, will-2)
+neg(go-4, not-3)
+root(ROOT-0, go-4)
+det(product-8, an-6)
+nn(product-8, LG-7)
+prep_for(go-4, product-8)
+det(future-12, the-10)
+amod(future-12, near-11)
+prep_in(go-4, future-12)
+

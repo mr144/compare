@@ -1,0 +1,1 @@
+the_DT product_NN Nokia_NNP Lumia_NNP 710_CD 5MP_NNP Camera_NNP ,_, 3G_CD ,_, 8GB_CD Memory_NN ,_, 1.4_CD GHz_NNP Processor_NNP ,_, 7.5_CD Mango_NNP ,_, Wi-Fi_NNP ,_, Micro_NNP SIM_NNP ,_, Factory_NNP Unlocked_NNP World_NNP Mobile_NNP Smartphone_NNP -_: Unlocked_NNP Phone_NNP -_: No_NNP Warranty_NNP -_: Black_NNP like_IN my_PRP$ soo_NN much_RB

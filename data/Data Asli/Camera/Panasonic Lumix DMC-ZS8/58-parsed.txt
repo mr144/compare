@@ -1,0 +1,36 @@
+=========
+
+amod(i-3, best-1)
+nn(i-3, camera-2)
+nsubj(have-5, i-3)
+advmod(have-5, ever-4)
+root(ROOT-0, have-5)
+nsubj(bought-12, I-7)
+nsubj(went-16, I-7)
+advmod(bought-12, already-8)
+aux(bought-12, had-9)
+dep(once-11, this-10)
+advmod(bought-12, once-11)
+ccomp(have-5, bought-12)
+advmod(bought-12, sony-13)
+prep(bought-12, after-14)
+ccomp(have-5, went-16)
+conj_and(bought-12, went-16)
+prt(went-16, back-17)
+prep_to(went-16, lumix-19)
+nsubj(takes-22, it-21)
+ccomp(have-5, takes-22)
+predet(shots-25, all-23)
+poss(shots-25, your-24)
+nsubj(great-26, shots-25)
+xcomp(takes-22, great-26)
+
+=========
+
+advmod(best-7, Overall-1)
+det(camera-4, this-3)
+nsubj(best-7, camera-4)
+cop(best-7, is-5)
+det(best-7, the-6)
+root(ROOT-0, best-7)
+

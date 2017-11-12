@@ -1,0 +1,44 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+dobj(got-2, this-3)
+prep_for(this-3, Christmas-5)
+nsubj(love-8, I-7)
+conj_and(got-2, love-8)
+dobj(love-8, it-9)
+
+=========
+
+root(ROOT-0, Great-1)
+det(price-4, the-3)
+prep_for(Great-1, price-4)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+nn(pictures-5, fool-3)
+nn(pictures-5, proof-4)
+dobj(takes-2, pictures-5)
+cop(weight-9, is-7)
+amod(weight-9, lite-8)
+conj_and(takes-2, weight-9)
+
+=========
+
+aux(had-2, Have-1)
+root(ROOT-0, had-2)
+dobj(had-2, this-3)
+det(year-5, a-4)
+npadvmod(now-6, year-5)
+advmod(had-2, now-6)
+advmod(like-9, still-8)
+conj_and(had-2, like-9)
+dobj(like-9, it-10)
+
+=========
+
+root(ROOT-0, works-1)
+acomp(works-1, great-2)
+

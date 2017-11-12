@@ -1,0 +1,39 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(tv-4, this-3)
+dobj(bought-2, tv-4)
+num(months-8, 1year-6)
+num(months-8, 6-7)
+npadvmod(ago-9, months-8)
+advmod(tv-4, ago-9)
+pcomp(tv-4, ago-9)
+det(pictures-11, the-10)
+prep_about(tv-4, pictures-11)
+advmod(good-13, so-12)
+amod(pictures-11, good-13)
+complm(walk-16, that-14)
+nsubj(walk-16, people-15)
+ccomp(bought-2, walk-16)
+poss(house-19, my-18)
+prep_in(walk-16, house-19)
+prep_in(walk-16, stare-21)
+conj_and(house-19, stare-21)
+prep_at(walk-16, it-23)
+
+=========
+
+root(ROOT-0, So-1)
+dep(So-1, smooth-2)
+dep(So-1, real-4)
+conj_and(smooth-2, real-4)
+
+=========
+
+root(ROOT-0, The-1)
+num(workers-3, 3D-2)
+npadvmod(great-4, workers-3)
+dep(The-1, great-4)
+dep(The-1, also-5)
+

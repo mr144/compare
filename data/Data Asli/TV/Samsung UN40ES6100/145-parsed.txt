@@ -1,0 +1,73 @@
+=========
+
+nn(quality-2, Picture-1)
+nsubj(amazing-4, quality-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+ccomp(amazing-4, n-5)
+acomp(n-5, sharp-6)
+
+=========
+
+nsubj(disappointing-5, Size-1)
+cop(disappointing-5, is-2)
+det(little-4, a-3)
+npadvmod(disappointing-5, little-4)
+root(ROOT-0, disappointing-5)
+mark(thought-8, because-6)
+nsubj(thought-8, I-7)
+advcl(disappointing-5, thought-8)
+nsubj(bigger-12, it-9)
+aux(bigger-12, did-10)
+cop(bigger-12, be-11)
+ccomp(thought-8, bigger-12)
+
+=========
+
+root(ROOT-0, Love-1)
+det(function-5, the-2)
+amod(function-5, smart-3)
+nn(function-5, tv-4)
+dobj(Love-1, function-5)
+
+=========
+
+nsubj(gave-3, Amazon-1)
+advmod(gave-3, also-2)
+root(ROOT-0, gave-3)
+iobj(gave-3, me-4)
+det(refund-6, a-5)
+dobj(gave-3, refund-6)
+mark(went-10, because-7)
+det(price-9, the-8)
+nsubj(went-10, price-9)
+advcl(gave-3, went-10)
+advmod(went-10, down-11)
+num(days-13, two-12)
+pobj(down-11, days-13)
+mark(purchased-16, after-14)
+nsubj(purchased-16, I-15)
+advcl(went-10, purchased-16)
+dobj(purchased-16, it-17)
+
+=========
+
+nsubj(awesome-3, That-1)
+cop(awesome-3, 's-2)
+root(ROOT-0, awesome-3)
+
+=========
+
+root(ROOT-0, Worth-1)
+partmod(Worth-1, buying-2)
+mark(mind-7, if-3)
+nsubj(mind-7, you-4)
+aux(mind-7, do-5)
+neg(mind-7, not-6)
+advcl(buying-2, mind-7)
+dobj(mind-7, it-8)
+neg(size-12, not-9)
+cop(size-12, being-10)
+nn(size-12, theater-11)
+xcomp(mind-7, size-12)
+

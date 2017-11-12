@@ -1,0 +1,29 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(product-4, this-3)
+dobj(like-2, product-4)
+det(lot-6, a-5)
+dep(product-4, lot-6)
+nsubj(has-9, one-8)
+xsubj(buy-11, one-8)
+conj_but(like-2, has-9)
+aux(buy-11, to-10)
+xcomp(has-9, buy-11)
+dobj(buy-11, some-12)
+
+=========
+
+root(ROOT-0, of-1)
+det(apps-4, the-2)
+amod(apps-4, basic-3)
+pobj(of-1, apps-4)
+
+=========
+
+root(ROOT-0, before-1)
+pcomp(before-1, using-2)
+amod(recording-5, video-4)
+prep_like(using-2, recording-5)
+

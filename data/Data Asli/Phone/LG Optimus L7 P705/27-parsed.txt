@@ -1,0 +1,34 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+dobj(like-2, everything-3)
+det(smartphone-6, this-5)
+prep_from(like-2, smartphone-6)
+
+=========
+
+poss(screen-2, Its-1)
+nsubj(performance-7, screen-2)
+cop(performance-7, is-3)
+amod(performance-7, big-4)
+amod(performance-7, nice-6)
+root(ROOT-0, performance-7)
+amod(design-10, cute-9)
+appos(performance-7, design-10)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(phone-7, this-3)
+cop(phone-7, is-4)
+det(phone-7, the-5)
+amod(phone-7, best-6)
+ccomp(think-2, phone-7)
+dobj(had-11, phone-7)
+complm(had-11, that-8)
+nsubj(had-11, i-9)
+advmod(had-11, ever-10)
+dep(phone-7, had-11)
+

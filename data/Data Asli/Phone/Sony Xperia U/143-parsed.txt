@@ -1,0 +1,197 @@
+=========
+
+nsubj(nice-3, it-1)
+nsubj(affordable-5, it-1)
+cop(nice-3, is-2)
+root(ROOT-0, nice-3)
+conj_and(nice-3, affordable-5)
+
+=========
+
+det(tag-3, The-1)
+nn(tag-3, price-2)
+nsubj(reason-8, tag-3)
+cop(reason-8, was-4)
+det(reason-8, the-5)
+nn(reason-8, number-6)
+num(reason-8, one-7)
+root(ROOT-0, reason-8)
+complm(got-11, that-9)
+nsubj(got-11, I-10)
+ccomp(reason-8, got-11)
+det(phone-13, this-12)
+dobj(got-11, phone-13)
+
+=========
+
+nsubj(thought-2, I-1)
+root(ROOT-0, thought-2)
+nsubj(deal-7, it-3)
+cop(deal-7, was-4)
+det(deal-7, a-5)
+amod(deal-7, great-6)
+ccomp(thought-2, deal-7)
+prepc_compared_to(deal-7, to-9)
+amod(phones-11, other-10)
+pobj(deal-7, phones-11)
+amod(specs-14, similar-13)
+prep_with(phones-11, specs-14)
+
+=========
+
+det(software-2, The-1)
+nsubj(runs-3, software-2)
+root(ROOT-0, runs-3)
+advmod(runs-3, smoothly-4)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(remember-4, I-1)
+root(ROOT-0, have-2)
+aux(remember-4, to-3)
+xcomp(have-2, remember-4)
+prep_to(remember-4, type-6)
+poss(tips-10, my-8)
+nn(tips-10, finger-9)
+prep_with(remember-4, tips-10)
+neg(nails-14, not-12)
+poss(nails-14, my-13)
+xcomp(have-2, nails-14)
+conj_and(remember-4, nails-14)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+nsubj(hurry-5, Sony-3)
+aux(hurry-5, would-4)
+ccomp(wish-2, hurry-5)
+det(update-9, the-7)
+nn(update-9, Android-8)
+prep_with(hurry-5, update-9)
+prep_to(hurry-5, 4.0-11)
+
+=========
+
+det(battery-2, The-1)
+nsubj(last-3, battery-2)
+root(ROOT-0, last-3)
+det(day-5, a-4)
+dobj(last-3, day-5)
+prep_for(day-5, me-7)
+det(Joys-10, the-9)
+dep(me-7, Joys-10)
+det(smartphone-13, a-12)
+prep_of(Joys-10, smartphone-13)
+
+=========
+
+nsubj(believe-2, I-1)
+root(ROOT-0, believe-2)
+det(memory-5, the-3)
+amod(memory-5, internal-4)
+nsubj(adequate-7, memory-5)
+cop(adequate-7, is-6)
+ccomp(believe-2, adequate-7)
+prep_for(adequate-7, me-9)
+mark(transfer-15, since-10)
+nsubj(transfer-15, I-12)
+aux(transfer-15, can-13)
+advmod(transfer-15, always-14)
+advcl(adequate-7, transfer-15)
+dobj(transfer-15, files-16)
+poss(Tab-20, my-18)
+nn(Tab-20, Galaxy-19)
+prep_to(transfer-15, Tab-20)
+prep_for(Tab-20, storage-22)
+
+=========
+
+nsubj(using-4, I-1)
+aux(using-4, have-2)
+aux(using-4, been-3)
+root(ROOT-0, using-4)
+dobj(using-4, it-5)
+num(days-8, 10-7)
+prep_for(using-4, days-8)
+nsubj(love-11, I-10)
+conj_and(using-4, love-11)
+dobj(love-11, it-12)
+
+=========
+
+nsubj(stopped-2, UPDATEI-1)
+root(ROOT-0, stopped-2)
+xcomp(stopped-2, using-3)
+det(phone-5, this-4)
+dobj(using-3, phone-5)
+prep_in(using-3, Jan-7)
+num(Jan-7, 2013-8)
+
+=========
+
+num(night-2, One-1)
+dep(decided-4, night-2)
+nsubj(decided-4, it-3)
+xsubj(charge-7, it-3)
+root(ROOT-0, decided-4)
+neg(charge-7, not-5)
+aux(charge-7, to-6)
+xcomp(decided-4, charge-7)
+det(phone-10, the-9)
+nsubj(turn-13, phone-10)
+aux(turn-13, would-11)
+neg(turn-13, not-12)
+conj_and(decided-4, turn-13)
+prt(turn-13, on-14)
+
+=========
+
+advmod(becoming-8, Then-1)
+amod(areas-3, certain-2)
+nsubj(becoming-8, areas-3)
+det(screen-6, the-5)
+prep_of(areas-3, screen-6)
+aux(becoming-8, were-7)
+root(ROOT-0, becoming-8)
+acomp(becoming-8, unresponsive-9)
+nsubj(decided-12, I-11)
+conj_and(becoming-8, decided-12)
+nsubj(time-15, it-13)
+xsubj(rid-18, it-13)
+aux(time-15, was-14)
+ccomp(decided-12, time-15)
+aux(rid-18, to-16)
+dep(rid-18, get-17)
+xcomp(time-15, rid-18)
+prep_of(rid-18, it-20)
+xcomp(time-15, get-22)
+conj_and(rid-18, get-22)
+det(S3-25, a-23)
+nn(S3-25, Samsung-24)
+dobj(get-22, S3-25)
+
+=========
+
+nsubj(Sony-5, This-1)
+cop(Sony-5, was-2)
+poss(Sony-5, my-3)
+amod(Sony-5, first-4)
+root(ROOT-0, Sony-5)
+nsubj(phone-11, it-7)
+cop(phone-11, was-8)
+det(phone-11, a-9)
+amod(phone-11, cute-10)
+dep(Sony-5, phone-11)
+nsubj(think-16, I-13)
+aux(think-16, do-14)
+neg(think-16, not-15)
+conj_but(Sony-5, think-16)
+nsubj(buy-19, I-17)
+aux(buy-19, would-18)
+ccomp(think-16, buy-19)
+det(Sony-21, another-20)
+dobj(buy-19, Sony-21)
+advmod(buy-19, again-22)
+

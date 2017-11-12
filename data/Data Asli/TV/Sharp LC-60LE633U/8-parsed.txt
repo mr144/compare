@@ -1,0 +1,45 @@
+=========
+
+det(TV-2, This-1)
+nsubj(awesome-4, TV-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(sound-5, a-3)
+amod(sound-5, great-4)
+dobj(has-2, sound-5)
+nn(quality-8, picture-7)
+dobj(has-2, quality-8)
+conj_and(sound-5, quality-8)
+nsubj(had-12, I-10)
+aux(had-12, have-11)
+conj_and(has-2, had-12)
+advmod(no-14, absolutely-13)
+amod(problems-15, no-14)
+dobj(had-12, problems-15)
+prep_with(problems-15, it-17)
+
+=========
+
+nsubj(has-2, It-1)
+nsubj(easy-8, It-1)
+root(ROOT-0, has-2)
+det(design-5, a-3)
+amod(design-5, slim-4)
+dobj(has-2, design-5)
+cop(easy-8, is-7)
+conj_and(has-2, easy-8)
+aux(use-10, to-9)
+xcomp(easy-8, use-10)
+
+=========
+
+det(regrets-2, No-1)
+root(ROOT-0, regrets-2)
+det(purchase-5, this-4)
+prep_with(regrets-2, purchase-5)
+

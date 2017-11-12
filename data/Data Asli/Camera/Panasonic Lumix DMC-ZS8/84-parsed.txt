@@ -1,0 +1,68 @@
+=========
+
+nsubj(POINT-2, Best-1)
+nsubj(SHOOT-4, Best-1)
+root(ROOT-0, POINT-2)
+conj_and(POINT-2, SHOOT-4)
+dobj(POINT-2, camera-5)
+dobj(used-9, camera-5)
+nsubj(used-9, I-6)
+aux(used-9, have-7)
+advmod(used-9, ever-8)
+rcmod(camera-5, used-9)
+
+=========
+
+root(ROOT-0, PERIOD-1)
+
+=========
+
+nsubj(photographer-6, I-1)
+aux(photographer-6, have-2)
+cop(photographer-6, been-3)
+det(photographer-6, a-4)
+nn(photographer-6, Professional-5)
+root(ROOT-0, photographer-6)
+prep_since(photographer-6, 1972-8)
+
+=========
+
+det(camera-2, This-1)
+nsubj(takes-3, camera-2)
+root(ROOT-0, takes-3)
+det(little-5, a-4)
+dobj(takes-3, little-5)
+partmod(little-5, getting-6)
+dep(getting-6, used-7)
+prep(used-7, to-8)
+
+=========
+
+mark(do-3, Once-1)
+nsubj(do-3, you-2)
+advcl(be-6, do-3)
+nsubj(be-6, you-4)
+aux(be-6, will-5)
+root(ROOT-0, be-6)
+prep_in(be-6, LOVE-8)
+
+=========
+
+nsubj(need-3, YOU-1)
+aux(need-3, will-2)
+root(ROOT-0, need-3)
+nsubj(keep-6, Chapstick-4)
+aux(keep-6, to-5)
+xcomp(need-3, keep-6)
+poss(lips-8, your-7)
+dobj(keep-6, lips-8)
+prepc_from(keep-6, chapping-10)
+det(kissing-15, the-13)
+amod(kissing-15, excessive-14)
+prep_because_of(chapping-10, kissing-15)
+det(camera-18, the-17)
+prep_of(kissing-15, camera-18)
+nn(LOVE-22, PURE-21)
+prep_out_of(camera-18, LOVE-22)
+prep_for(LOVE-22, it-24)
+

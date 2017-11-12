@@ -1,0 +1,6 @@
+T.V._NNP works_VBZ fine_JJ ._.
+Picture_NNP is_VBZ good_JJ and_CC sound_NN is_VBZ ok_JJ considering_VBG speaker_NN size_NN ._.
+We_PRP mounted_VBD it_PRP to_TO the_DT wall_NN in_IN our_PRP$ granddaughters_NNS room_NN ._.
+It_PRP 's_VBZ size_NN and_CC weight_NN made_VBD it_PRP easy_JJ ._.
+This_DT TV_NN is_VBZ the_DT worst_JJS ._.
+This_DT TV_NN is_VBZ the_DT worst_JJS ._.

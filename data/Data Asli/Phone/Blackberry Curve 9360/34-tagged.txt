@@ -1,0 +1,2 @@
+after_IN phone_NN was_VBD set_VBN up_RP it_PRP freezes_VBZ every_DT once_RB in_IN a_DT while_NN ._.
+with_IN a_DT new_JJ phone_NN you_PRP would_MD expect_VB to_TO avoid_VB these_DT issues_NNS ._.

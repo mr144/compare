@@ -1,0 +1,32 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(TV-4, this-3)
+dobj(love-2, TV-4)
+det(features-7, the-6)
+nsubj(amazing-12, features-7)
+nn(quality-10, picture-9)
+conj_and(features-7, quality-10)
+nsubj(amazing-12, quality-10)
+cop(amazing-12, are-11)
+parataxis(love-2, amazing-12)
+
+=========
+
+nn(products-2, LG-1)
+nsubj(brands-6, products-2)
+cop(brands-6, are-3)
+poss(brands-6, my-4)
+amod(brands-6, favorite-5)
+ccomp(recommend-9, brands-6)
+nsubj(recommend-9, I-8)
+root(ROOT-0, recommend-9)
+poss(products-11, their-10)
+dobj(recommend-9, products-11)
+nsubj(love-14, I-13)
+parataxis(recommend-9, love-14)
+poss(!!-17, my-15)
+nn(!!-17, TV-16)
+dobj(love-14, !!-17)
+

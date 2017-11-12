@@ -1,0 +1,28 @@
+=========
+
+ccomp(get-23, Bought-1)
+det(phone-5, this-2)
+amod(phone-5, unloced-3)
+nn(phone-5, cell-4)
+dobj(Bought-1, phone-5)
+prep_for(Bought-1, use-7)
+prep_in(use-7, Africa-9)
+advmod(weeks-13, first-11)
+num(weeks-13, 2-12)
+nsubj(get-23, weeks-13)
+partmod(weeks-13, worked-14)
+acomp(worked-14, great-15)
+nsubj(went-18, phone-17)
+parataxis(get-23, went-18)
+acomp(went-18, blank\/dead-19)
+aux(get-23, can-21)
+neg(get-23, not-22)
+root(ROOT-0, get-23)
+nsubj(restored-25, it-24)
+dep(get-23, restored-25)
+
+=========
+
+root(ROOT-0, waste-1)
+prep_of(waste-1, money-3)
+

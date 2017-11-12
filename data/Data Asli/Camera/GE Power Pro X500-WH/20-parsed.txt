@@ -1,0 +1,212 @@
+=========
+
+nsubj(say-5, I-1)
+advmod(say-5, really-2)
+aux(say-5, can-3)
+neg(say-5, not-4)
+root(ROOT-0, say-5)
+advmod(bad-7, much-6)
+acomp(say-5, bad-7)
+det(camera-10, this-9)
+prep_about(say-5, camera-10)
+
+=========
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+mark(described-4, as-3)
+advcl(is-2, described-4)
+
+=========
+
+amod(weight-2, Light-1)
+root(ROOT-0, weight-2)
+amod(pictures-10, easy-4)
+aux(handle-6, to-5)
+xcomp(easy-4, handle-6)
+xcomp(easy-4, takes-8)
+conj_and(handle-6, takes-8)
+amod(pictures-10, great-9)
+appos(weight-2, pictures-10)
+dep(pictures-10, EXCEPT....close-ups-11)
+
+=========
+
+nsubj(mean-2, I-1)
+root(ROOT-0, mean-2)
+advmod(mean-2, really-3)
+advmod(up-5, close-4)
+advmod(mean-2, up-5)
+
+=========
+
+nsubjpass(disappointed-5, I-1)
+auxpass(disappointed-5, am-2)
+det(little-4, a-3)
+dep(disappointed-5, little-4)
+root(ROOT-0, disappointed-5)
+poss(pictures-9, my-7)
+nn(pictures-9, close-up-8)
+prep_in(disappointed-5, pictures-9)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(Samsung-5, a-3)
+amod(Samsung-5, small-4)
+dobj(have-2, Samsung-5)
+nsubj(has-7, Samsung-5)
+rcmod(Samsung-5, has-7)
+det(zoom-10, a-8)
+num(zoom-10, 5X-9)
+dobj(has-7, zoom-10)
+nsubj(use-14, I-12)
+aux(use-14, can-13)
+conj_and(have-2, use-14)
+dobj(use-14, it-15)
+advmod(close-18, really-17)
+amod(close-ups-19, close-18)
+prep_for(use-14, close-ups-19)
+nsubj(hoping-23, I-21)
+aux(hoping-23, was-22)
+conj_but(have-2, hoping-23)
+nsubj(have-27, I-24)
+xsubj(carry-29, I-24)
+aux(have-27, would-25)
+neg(have-27, not-26)
+ccomp(hoping-23, have-27)
+aux(carry-29, to-28)
+xcomp(have-27, carry-29)
+num(cameras-31, two-30)
+dobj(carry-29, cameras-31)
+
+=========
+
+det(pictures-3, All-1)
+amod(pictures-3, other-2)
+nsubj(wonderful-5, pictures-3)
+cop(wonderful-5, are-4)
+root(ROOT-0, wonderful-5)
+det(camera-8, this-7)
+prep_with(wonderful-5, camera-8)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(finder-5, the-3)
+nn(finder-5, view-4)
+dobj(love-2, finder-5)
+nsubj(one-9, that-7)
+cop(one-9, is-8)
+conj_and(love-2, one-9)
+det(reasons-13, the-11)
+amod(reasons-13, main-12)
+prep_of(one-9, reasons-13)
+nsubj(bought-15, I-14)
+rcmod(reasons-13, bought-15)
+dobj(bought-15, it-16)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+num(Nikon-5, 15X-3)
+nn(Nikon-5, zoom-4)
+dobj(have-2, Nikon-5)
+nsubj(works-7, Nikon-5)
+rcmod(Nikon-5, works-7)
+acomp(works-7, great-8)
+nsubj(have-13, it-10)
+aux(have-13, does-11)
+neg(have-13, not-12)
+conj_but(have-2, have-13)
+det(finder-16, a-14)
+nn(finder-16, view-15)
+dobj(have-13, finder-16)
+nsubj(find-19, I-18)
+conj_and(have-2, find-19)
+nsubj(necessary-22, it-20)
+cop(necessary-22, is-21)
+ccomp(find-19, necessary-22)
+det(sun-26, the-24)
+amod(sun-26, bright-25)
+prep_in(necessary-22, sun-26)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+mark(appeared-7, because-5)
+nsubj(appeared-7, it-6)
+xsubj(have-9, it-6)
+advcl(bought-2, appeared-7)
+aux(have-9, to-8)
+xcomp(appeared-7, have-9)
+dobj(have-9, everything-10)
+dobj(had-13, everything-10)
+poss(Nikon-12, my-11)
+nsubj(had-13, Nikon-12)
+rcmod(everything-10, had-13)
+det(addition-16, the-15)
+prep_with(had-13, addition-16)
+det(finder-20, the-18)
+nn(finder-20, view-19)
+prep_of(addition-16, finder-20)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+nsubj(good-6, pictures-3)
+advmod(good-6, just-4)
+advmod(good-6, as-5)
+xcomp(takes-2, good-6)
+poss(Nikon-9, my-8)
+prep_as(good-6, Nikon-9)
+nsubj(paid-12, I-11)
+conj_and(takes-2, paid-12)
+dobj(paid-12, 1\/3-13)
+dobj(paid-17, what-15)
+nsubj(paid-17, I-16)
+prepc_of(1\/3-13, paid-17)
+poss(Nikon-20, my-19)
+prep_for(paid-17, Nikon-20)
+
+=========
+
+nsubj(camera-6, It-1)
+cop(camera-6, is-2)
+det(camera-6, a-3)
+advmod(great-5, really-4)
+amod(camera-6, great-5)
+root(ROOT-0, camera-6)
+det(price-9, the-8)
+prep_for(camera-6, price-9)
+
+=========
+
+det(problem-3, The-1)
+nn(problem-3, close-up-2)
+nsubj(breaker-8, problem-3)
+cop(breaker-8, is-4)
+neg(breaker-8, not-5)
+det(breaker-8, a-6)
+nn(breaker-8, deal-7)
+root(ROOT-0, breaker-8)
+prep_for(breaker-8, me-10)
+
+=========
+
+nsubj(love-2, I-1)
+nsubj(keep-7, I-1)
+root(ROOT-0, love-2)
+det(camera-4, the-3)
+dobj(love-2, camera-4)
+aux(keep-7, will-6)
+conj_and(love-2, keep-7)
+dobj(keep-7, it-8)
+

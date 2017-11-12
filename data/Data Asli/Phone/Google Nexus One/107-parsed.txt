@@ -1,0 +1,31 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(phone-6, a-3)
+amod(phone-6, nokia-4)
+amod(phone-6, c6-5)
+dobj(had-2, phone-6)
+dobj(lost-9, phone-6)
+rel(lost-9, which-7)
+nsubj(lost-9, i-8)
+rcmod(phone-6, lost-9)
+dobj(lost-9, it-10)
+amod(month-12, last-11)
+tmod(lost-9, month-12)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+amod(phone-6, google-3)
+nn(phone-6, nexus-4)
+nn(phone-6, one-5)
+nsubj(love-12, phone-6)
+det(replacement-9, a-8)
+prep_as(phone-6, replacement-9)
+prep_as(phone-6, i-11)
+conj_and(replacement-9, i-11)
+ccomp(got-2, love-12)
+dobj(love-12, it-13)
+

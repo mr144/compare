@@ -1,0 +1,45 @@
+=========
+
+root(ROOT-0, Got-1)
+dobj(Got-1, this-2)
+poss(office-5, our-4)
+prep_for(this-2, office-5)
+aux(had-8, having-7)
+prepc_after(Got-1, had-8)
+det(version-11, an-9)
+amod(version-11, earlier-10)
+dobj(had-8, version-11)
+prep_at(had-8, home-13)
+prep_for(had-8, years-15)
+
+=========
+
+nsubj(believe-4, I-1)
+aux(believe-4, can-2)
+neg(believe-4, not-3)
+root(ROOT-0, believe-4)
+advmod(quickly-6, how-5)
+advmod(takes-9, quickly-6)
+det(camera-8, this-7)
+nsubj(takes-9, camera-8)
+ccomp(believe-4, takes-9)
+dobj(takes-9, pics-10)
+tmod(push-13, pics-10)
+advmod(push-13, when-11)
+nsubj(push-13, you-12)
+dep(pics-10, push-13)
+det(button-15, the-14)
+dobj(push-13, button-15)
+
+=========
+
+nsubj(would-5, Wonder-1)
+poss(boss-4, my-3)
+prep_if(Wonder-1, boss-4)
+root(ROOT-0, would-5)
+punct(switched-9, notice-6)
+mark(switched-9, if-7)
+nsubj(switched-9, I-8)
+parataxis(would-5, switched-9)
+dobj(switched-9, them-10)
+

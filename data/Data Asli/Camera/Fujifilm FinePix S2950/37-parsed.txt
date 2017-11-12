@@ -1,0 +1,37 @@
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(purchase-7, the-6)
+prep_with(pleased-4, purchase-7)
+det(product-10, this-9)
+prep_of(purchase-7, product-10)
+
+=========
+
+det(camera-3, This-1)
+amod(camera-3, digital-2)
+nsubj(good-6, camera-3)
+nsubj(comfortable-8, camera-3)
+xsubj(use-10, camera-3)
+cop(good-6, is-4)
+advmod(good-6, very-5)
+root(ROOT-0, good-6)
+conj_and(good-6, comfortable-8)
+aux(use-10, to-9)
+xcomp(good-6, use-10)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(seller-4, this-3)
+dobj(recommend-2, seller-4)
+
+=========
+
+root(ROOT-0, Greetings-1)
+prep_from(Greetings-1, Ecuador-3)
+

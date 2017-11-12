@@ -1,0 +1,34 @@
+=========
+
+nsubjpass(satisfied-4, We-1)
+auxpass(satisfied-4, are-2)
+advmod(satisfied-4, very-3)
+root(ROOT-0, satisfied-4)
+det(TV-9, this-6)
+nn(TV-9, Sharp-7)
+num(TV-9, 3D-8)
+prep_with(satisfied-4, TV-9)
+
+=========
+
+nsubj(kept-3, It-1)
+nsubj(given-10, It-1)
+aux(kept-3, has-2)
+root(ROOT-0, kept-3)
+dobj(kept-3, us-4)
+prt(kept-3, up-5)
+det(internet-8, the-7)
+prep_with(kept-3, internet-8)
+conj_and(kept-3, given-10)
+iobj(given-10, us-11)
+det(picture-14, the-12)
+amod(picture-14, clearest-13)
+dobj(given-10, picture-14)
+
+=========
+
+nsubj(love-2, We-1)
+root(ROOT-0, love-2)
+nsubj(!!-4, it-3)
+xcomp(love-2, !!-4)
+

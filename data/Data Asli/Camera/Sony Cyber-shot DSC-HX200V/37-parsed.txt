@@ -1,0 +1,60 @@
+=========
+
+nsubj(new-3, I-1)
+nsubj(decided-7, I-1)
+xsubj(buy-9, I-1)
+cop(new-3, am-2)
+root(ROOT-0, new-3)
+prep_to(new-3, photography-5)
+conj_and(new-3, decided-7)
+aux(buy-9, to-8)
+xcomp(decided-7, buy-9)
+det(camera-11, this-10)
+dobj(buy-9, camera-11)
+prepc_based_on(buy-9, on-13)
+det(reviews-15, the-14)
+pobj(buy-9, reviews-15)
+
+=========
+
+nsubj(disappointed-5, I-1)
+aux(disappointed-5, have-2)
+neg(disappointed-5, not-3)
+cop(disappointed-5, been-4)
+root(ROOT-0, disappointed-5)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(fold-4, the-3)
+dobj(love-2, fold-4)
+nn(screen-7, LCD-6)
+prep_out(love-2, screen-7)
+det(options-12, the-9)
+amod(options-12, enormous-10)
+nn(options-12, setting-11)
+appos(screen-7, options-12)
+dep(screen-7, etc.-14)
+
+=========
+
+nsubj(learning-4, I-1)
+nsubj(loving-16, I-1)
+aux(learning-4, am-2)
+advmod(learning-4, still-3)
+root(ROOT-0, learning-4)
+predet(options-8, all-5)
+det(options-8, the-6)
+amod(options-8, many-7)
+dobj(learning-4, options-8)
+aux(use-10, to-9)
+xcomp(learning-4, use-10)
+det(camera-13, the-12)
+prep_on(use-10, camera-13)
+aux(loving-16, am-15)
+conj_and(learning-4, loving-16)
+det(minute-18, every-17)
+dobj(loving-16, minute-18)
+prep_of(minute-18, it-20)
+

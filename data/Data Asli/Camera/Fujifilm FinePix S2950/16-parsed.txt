@@ -1,0 +1,44 @@
+=========
+
+nn(camera-4, FinePix-1)
+nn(camera-4, 2950-2)
+amod(camera-4, good-3)
+root(ROOT-0, camera-4)
+dep(camera-4, love-6)
+det(features-8, the-7)
+dobj(love-6, features-8)
+nsubj(has-10, it-9)
+dep(love-6, has-10)
+amod(light-weight-13, nice-12)
+nsubj(feel-14, light-weight-13)
+dep(camera-4, feel-14)
+conj_and(love-6, feel-14)
+prep_to(feel-14, it-16)
+
+=========
+
+nn(zoom-2, Great-1)
+root(ROOT-0, zoom-2)
+nn(pictures-5, close-up-4)
+prep_for(zoom-2, pictures-5)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+prep_to(recommend-2, friends-4)
+mark(looking-6, if-5)
+advcl(recommend-2, looking-6)
+amod(point-10, small-8)
+amod(point-10, lightweight-9)
+prep_for(looking-6, point-10)
+prep_for(looking-6, shoot-12)
+conj_and(point-10, shoot-12)
+
+=========
+
+root(ROOT-0, Suits-1)
+poss(needs-3, my-2)
+dobj(Suits-1, needs-3)
+advmod(Suits-1, perfectly-4)
+

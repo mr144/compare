@@ -1,0 +1,1 @@
+As android user, the cell did not fullfill the expectations, specially the fingerprint reader which is the main difference to other android 2.2.1 phones. The reader is not even good for a 1:1 verification on a local database. Still, the rest of the hardware achieved Motorola's goal to keep the company with an average high-end device, but it does not belong to the top 5 club.

@@ -1,0 +1,38 @@
+=========
+
+nsubj(unlocked-3, it-1)
+xsubj(go-7, it-1)
+cop(unlocked-3, is-2)
+root(ROOT-0, unlocked-3)
+dep(unlocked-3, ready-5)
+aux(go-7, to-6)
+xcomp(unlocked-3, go-7)
+advmod(soon-9, as-8)
+advmod(go-7, soon-9)
+mark(get-12, as-10)
+nsubj(get-12, u-11)
+ccomp(soon-9, get-12)
+det(item-14, the-13)
+dobj(get-12, item-14)
+amod(deal-17, great-16)
+dobj(get-12, deal-17)
+conj_and(item-14, deal-17)
+amod(price-20, great-19)
+dobj(get-12, price-20)
+conj_and(item-14, price-20)
+
+=========
+
+advmod(one-2, just-1)
+nsubj(point-3, one-2)
+xsubj(keep-5, one-2)
+root(ROOT-0, point-3)
+aux(keep-5, to-4)
+xcomp(point-3, keep-5)
+prep_in(keep-5, mind-7)
+nn(life-10, battery-9)
+nsubj(great-13, life-10)
+cop(great-13, is-11)
+neg(great-13, not-12)
+parataxis(point-3, great-13)
+

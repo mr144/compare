@@ -1,0 +1,5 @@
+Pretty_NNP clear_JJ color_NN ._.
+Good_JJ value_NN ._.
+either_CC on_IN cable_NN or_CC antenna_NN clear_JJ picture_NN ._.
+Easy_JJ to_TO set_VB up_RP and_CC operate_VB ._.
+fast_JJ ship_NN and_CC deliveryModel_NNP TCL_NNP was_VBD new_JJ to_TO me_PRP but_CC good_JJ purchase_NN

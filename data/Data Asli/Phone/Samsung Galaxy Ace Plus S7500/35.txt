@@ -1,0 +1,1 @@
+This model is s7500t and not is band 1900 /2100. The band is 850 / 2100. Please change the specifications

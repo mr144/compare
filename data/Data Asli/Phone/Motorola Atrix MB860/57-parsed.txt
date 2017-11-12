@@ -1,0 +1,22 @@
+=========
+
+amod(phone-2, Excellent-1)
+nsubj(recommend-13, phone-2)
+nsubj(compiles-5, it-4)
+parataxis(recommend-13, compiles-5)
+predet(expectations-9, all-7)
+poss(expectations-9, my-8)
+prep_with(compiles-5, expectations-9)
+nsubj(recommend-13, I-11)
+advmod(recommend-13, really-12)
+root(ROOT-0, recommend-13)
+det(product-15, the-14)
+dobj(recommend-13, product-15)
+amod(price-17, good-16)
+dep(product-15, price-17)
+amod(technology-21, good-20)
+dobj(recommend-13, technology-21)
+conj_and(product-15, technology-21)
+amod(deal-24, fair-23)
+appos(technology-21, deal-24)
+

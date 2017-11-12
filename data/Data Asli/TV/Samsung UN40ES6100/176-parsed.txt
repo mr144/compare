@@ -1,0 +1,41 @@
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, was-2)
+root(ROOT-0, easy-3)
+aux(set-5, to-4)
+xcomp(easy-3, set-5)
+preconj(physically-7, both-6)
+dobj(set-5, physically-7)
+dobj(set-5, programming-9)
+conj_and(physically-7, programming-9)
+
+=========
+
+nsubj(see-3, You-1)
+aux(see-3, can-2)
+root(ROOT-0, see-3)
+det(picture-6, a-4)
+amod(picture-6, great-5)
+dobj(see-3, picture-6)
+det(animal-9, any-8)
+prep_from(see-3, animal-9)
+
+=========
+
+cc(great-5, And-1)
+nn(support-3, Samsung-2)
+nsubj(great-5, support-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+attr(great-5, Americans-7)
+prep_in(Americans-7, America-9)
+appos(America-9, Utah-11)
+partmod(America-9, answering-13)
+poss(questions-15, your-14)
+dobj(answering-13, questions-15)
+dobj(answering-13, walking-17)
+conj_and(questions-15, walking-17)
+dobj(walking-17, you-18)
+prep(walking-17, through-19)
+

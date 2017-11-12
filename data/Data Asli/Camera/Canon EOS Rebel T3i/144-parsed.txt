@@ -1,0 +1,42 @@
+=========
+
+root(ROOT-0, All-1)
+amod(conditions-4, perfect-3)
+prep_in(All-1, conditions-4)
+
+=========
+
+root(ROOT-0, Perfect-1)
+dep(Perfect-1, timing-2)
+dep(Perfect-1, procut-4)
+conj_and(timing-2, procut-4)
+
+=========
+
+root(ROOT-0, Thanks-1)
+
+=========
+
+nsubj(have-4, I-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+det(memory-6, a-5)
+dobj(have-4, memory-6)
+prep_with(memory-6, me-8)
+mark(test-13, so-9)
+nsubj(test-13, i-10)
+aux(test-13, can-11)
+neg(test-13, not-12)
+advcl(have-4, test-13)
+iobj(test-13, it-14)
+det(way-17, the-15)
+amod(way-17, right-16)
+dobj(test-13, way-17)
+advmod(way-17, yet-18)
+nsubj(seems-22, it-21)
+conj_but(have-4, seems-22)
+nsubj(perfect-25, it-23)
+cop(perfect-25, is-24)
+ccomp(seems-22, perfect-25)
+

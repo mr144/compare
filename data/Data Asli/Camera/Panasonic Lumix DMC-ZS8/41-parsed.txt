@@ -1,0 +1,53 @@
+=========
+
+nsubj(bought-2, I-1)
+nsubj(loved-10, I-1)
+root(ROOT-0, bought-2)
+det(version-5, an-3)
+amod(version-5, older-4)
+dobj(bought-2, version-5)
+num(yrs-7, 7-6)
+npadvmod(ago-8, yrs-7)
+advmod(bought-2, ago-8)
+conj_and(bought-2, loved-10)
+advmod(worked-13, how-11)
+nsubj(worked-13, it-12)
+dep(loved-10, worked-13)
+advmod(lasted-17, how-15)
+nsubj(lasted-17, it-16)
+dep(loved-10, lasted-17)
+conj_and(worked-13, lasted-17)
+advmod(much-19, so-18)
+advmod(lasted-17, much-19)
+nsubj(bought-21, I-20)
+ccomp(lasted-17, bought-21)
+dobj(bought-21, this-22)
+poss(parents-25, my-24)
+prep_for(bought-21, parents-25)
+prep_for(bought-21, Christmas-27)
+
+=========
+
+nsubj(takes-2, It-1)
+nsubj(easy-8, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, great-3)
+dobj(takes-2, pictures-4)
+cop(easy-8, is-6)
+advmod(easy-8, very-7)
+conj_and(takes-2, easy-8)
+aux(use-10, to-9)
+xcomp(easy-8, use-10)
+
+=========
+
+det(battery-2, The-1)
+nsubj(lasts-3, battery-2)
+nsubj(charges-6, battery-2)
+root(ROOT-0, lasts-3)
+advmod(lasts-3, forever-4)
+conj_and(lasts-3, charges-6)
+advmod(when-8, quickly-7)
+advmod(needed-9, when-8)
+advcl(charges-6, needed-9)
+

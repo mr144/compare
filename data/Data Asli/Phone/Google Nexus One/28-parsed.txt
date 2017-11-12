@@ -1,0 +1,100 @@
+=========
+
+nn(AWAY-2, Stay-1)
+root(ROOT-0, AWAY-2)
+prep_from(AWAY-2, NEXUS-4)
+num(NEXUS-4, ONE-5)
+
+=========
+
+poss(button-4, Phone-1)
+nn(button-4, power-3)
+nsubj(stopped-5, button-4)
+root(ROOT-0, stopped-5)
+xcomp(stopped-5, working-6)
+advmod(working-6, just-7)
+quantmod(4-10, around-9)
+num(months-11, 4-10)
+prep_after(working-6, months-11)
+prep_of(months-11, use-13)
+
+=========
+
+nsubj(paid-2, I-1)
+root(ROOT-0, paid-2)
+amod(100-4, additional-3)
+iobj(paid-2, 100-4)
+dobj(paid-2, $-5)
+quantmod(the-7, for-6)
+num($-5, the-7)
+dep(paid-2, repair-8)
+cc(is-11, but-9)
+nsubj(is-11, it-10)
+ccomp(repair-8, is-11)
+neg(is-11, not-12)
+prep_of(is-11, use-14)
+
+=========
+
+nsubj(cause-2, It-1)
+root(ROOT-0, cause-2)
+amod(pressure-4, mental-3)
+dobj(cause-2, pressure-4)
+dobj(cause-2, loss-6)
+conj_and(pressure-4, loss-6)
+prep_of(loss-6, contacts-8)
+dobj(cause-2, time-10)
+conj_and(pressure-4, time-10)
+dobj(cause-2, money-13)
+conj_and(pressure-4, money-13)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(mobile-4, the-3)
+dobj(purchased-2, mobile-4)
+prep_on(purchased-2, Amazon-6)
+prep_through(purchased-2, UnlockedCellPhoneKings-8)
+nsubj(claimed-10, UnlockedCellPhoneKings-8)
+rcmod(UnlockedCellPhoneKings-8, claimed-10)
+complm(is-13, that-11)
+nsubj(is-13, mobile-12)
+ccomp(claimed-10, is-13)
+advmod(is-13, still-14)
+poss(warranty-18, manufacture-16)
+prep_under(is-13, warranty-18)
+
+=========
+
+cc(expired-4, But-1)
+nsubj(expired-4, warranty-3)
+root(ROOT-0, expired-4)
+advmod(expired-4, just-5)
+num(months-8, 3-7)
+prep_after(expired-4, months-8)
+poss(purchase-11, my-10)
+prep_of(months-8, purchase-11)
+
+=========
+
+nsubj(give-2, I-1)
+nsubj(UnlockedCellPhoneKings-10, I-1)
+root(ROOT-0, give-2)
+num(rating-4, 1-3)
+dobj(give-2, rating-4)
+det(Nexus-7, both-6)
+prep_to(give-2, Nexus-7)
+num(Nexus-7, One-8)
+conj_and(give-2, UnlockedCellPhoneKings-10)
+
+=========
+
+advmod(give-6, Sorry-1)
+nsubj(give-6, I-3)
+aux(give-6, could-4)
+neg(give-6, not-5)
+root(ROOT-0, give-6)
+dobj(give-6, lesser-7)
+prep_than(give-6, this-9)
+

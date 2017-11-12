@@ -1,0 +1,35 @@
+=========
+
+nsubj(fan-6, I-1)
+cop(fan-6, am-2)
+det(fan-6, a-3)
+nn(fan-6, Sony-4)
+nn(fan-6, Camera-5)
+root(ROOT-0, fan-6)
+
+=========
+
+poss(products-2, Their-1)
+nsubj(have-3, products-2)
+root(ROOT-0, have-3)
+det(pattern-6, a-4)
+amod(pattern-6, familiar-5)
+dobj(have-3, pattern-6)
+prep_to(have-3, them-8)
+
+=========
+
+mark(operate-4, If-1)
+nsubj(operate-4, you-2)
+aux(operate-4, can-3)
+advcl(use-11, operate-4)
+det(camera-7, a-5)
+nn(camera-7, Sony-6)
+dobj(operate-4, camera-7)
+nsubj(use-11, you-8)
+aux(use-11, can-9)
+advmod(use-11, usually-10)
+root(ROOT-0, use-11)
+dep(use-11, any-12)
+prep_of(any-12, them-14)
+

@@ -1,0 +1,174 @@
+=========
+
+nsubj(adopter-6, I-1)
+cop(adopter-6, was-2)
+det(adopter-6, an-3)
+amod(adopter-6, early-4)
+nn(adopter-6, plasma-5)
+root(ROOT-0, adopter-6)
+
+=========
+
+root(ROOT-0, Got-1)
+det(&#34;-5, a-2)
+nn(&#34;-5, Pioneer-3)
+num(&#34;-5, 43-4)
+dobj(Got-1, &#34;-5)
+nsubj(expensive-11, &#34;-5)
+cop(expensive-11, was-7)
+advmod(expensive-11, very-8)
+advmod(expensive-11, very-10)
+rcmod(&#34;-5, expensive-11)
+det(time-14, the-13)
+prep_at(expensive-11, time-14)
+
+=========
+
+cc(want-5, But-1)
+nsubj(want-5, I-2)
+xsubj(spend-7, I-2)
+aux(want-5, did-3)
+neg(want-5, not-4)
+root(ROOT-0, want-5)
+aux(spend-7, to-6)
+xcomp(want-5, spend-7)
+dobj(spend-7, less-8)
+xcomp(want-5, risk-10)
+conj_and(spend-7, risk-10)
+cop(unhappy-12, being-11)
+xcomp(risk-10, unhappy-12)
+
+=========
+
+nsubj(TV-4, That-1)
+cop(TV-4, was-2)
+amod(TV-4, great-3)
+root(ROOT-0, TV-4)
+nsubj(wanted-8, I-6)
+advmod(wanted-8, eventually-7)
+conj_but(TV-4, wanted-8)
+dobj(wanted-8, bigger-9)
+prep_with(wanted-8, 3D-11)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+dobj(did-2, months-3)
+prep_of(months-3, research-5)
+advmod(did-2, mostly-6)
+det(Forum-10, the-8)
+nn(Forum-10, AVS-9)
+prep_on(did-2, Forum-10)
+
+=========
+
+nsubj(useful-4, It-1)
+cop(useful-4, was-2)
+advmod(useful-4, definitely-3)
+root(ROOT-0, useful-4)
+det(guys-8, those-7)
+nsubj(crazy-10, guys-8)
+cop(crazy-10, are-9)
+conj_but(useful-4, crazy-10)
+prep_into(crazy-10, it-12)
+
+=========
+
+nsubj(ran-2, I-1)
+nsubj(contacted-10, I-1)
+root(ROOT-0, ran-2)
+det(slideshow-5, a-3)
+nn(slideshow-5, prep-4)
+dobj(ran-2, slideshow-5)
+det(set-8, the-7)
+prep_on(ran-2, set-8)
+conj_and(ran-2, contacted-10)
+det(calibrator-13, a-11)
+amod(calibrator-13, professional-12)
+dobj(contacted-10, calibrator-13)
+
+=========
+
+cc(see-11, But-1)
+det(couple-4, a-3)
+prep_after(see-11, couple-4)
+prep_of(couple-4, weeks-6)
+nsubj(see-11, I-8)
+aux(see-11, could-9)
+neg(see-11, not-10)
+root(ROOT-0, see-11)
+advmod(make-17, how-12)
+det(calibrator-15, a-13)
+amod(calibrator-15, pro-14)
+nsubj(make-17, calibrator-15)
+aux(make-17, could-16)
+ccomp(see-11, make-17)
+det(picture-19, the-18)
+dobj(make-17, picture-19)
+dep(better-21, any-20)
+advmod(make-17, better-21)
+
+=========
+
+det(setting-4, The-1)
+nn(setting-4, THX-2)
+nn(setting-4, Cinema-3)
+nsubj(sweet-6, setting-4)
+cop(sweet-6, is-5)
+root(ROOT-0, sweet-6)
+
+=========
+
+det(blacks-2, The-1)
+nsubj(deeper-5, blacks-2)
+cop(deeper-5, are-3)
+advmod(deeper-5, much-4)
+root(ROOT-0, deeper-5)
+mark(were-8, than-6)
+nsubj(were-8, they-7)
+ccomp(deeper-5, were-8)
+det(Pioneer-11, the-10)
+prep_on(were-8, Pioneer-11)
+
+=========
+
+advmod(happier-6, Overall-1)
+aux(happier-6, could-3)
+neg(happier-6, not-4)
+cop(happier-6, be-5)
+root(ROOT-0, happier-6)
+
+=========
+
+poss(wife-2, My-1)
+nsubj(enthusiastic-7, wife-2)
+cop(enthusiastic-7, was-3)
+neg(enthusiastic-7, not-4)
+advmod(enthusiastic-7, at-5)
+pobj(at-5, all-6)
+root(ROOT-0, enthusiastic-7)
+det(3D-10, the-9)
+prep_about(enthusiastic-7, 3D-10)
+
+=========
+
+cc(get-4, But-1)
+advmod(get-4, now-2)
+nsubj(get-4, I-3)
+root(ROOT-0, get-4)
+nsubj(What-7, &#34;-6)
+xcomp(get-4, What-7)
+
+=========
+
+det(movie-3, No-1)
+num(movie-3, 3D-2)
+root(ROOT-0, movie-3)
+det(weekend-5, this-4)
+dep(movie-3, weekend-5)
+
+=========
+
+root(ROOT-0, &#34;-1)
+

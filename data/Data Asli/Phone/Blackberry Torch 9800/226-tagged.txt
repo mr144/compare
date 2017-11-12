@@ -1,0 +1,2 @@
+Do_VBP you_PRP put_VB the_DT receipt_NN inside_IN the_DT package_NN or_CC stick_VB it_PRP outside_IN the_DT package_NN ?_.
+Is_VBZ it_PRP possible_JJ if_IN you_PRP only_RB write_VB the_DT address_NN in_IN the_DT package_NN and_CC put_VBD the_DT receipt_NN inside_NN ?_.

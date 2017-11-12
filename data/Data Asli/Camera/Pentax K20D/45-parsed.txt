@@ -1,0 +1,67 @@
+=========
+
+det(camera-2, This-1)
+nsubj(do-4, camera-2)
+aux(do-4, will-3)
+root(ROOT-0, do-4)
+dobj(do-4, everything-5)
+dobj(need-7, everything-5)
+nsubj(need-7, you-6)
+rcmod(everything-5, need-7)
+
+=========
+
+nsubj(start-3, You-1)
+nsubj(use-10, You-1)
+aux(start-3, can-2)
+root(ROOT-0, start-3)
+prt(start-3, out-4)
+amod(everything-8, simple-6)
+nn(everything-8, auto-7)
+prep_with(start-3, everything-8)
+conj_and(start-3, use-10)
+det(features-12, the-11)
+dobj(use-10, features-12)
+nsubj(make-14, features-12)
+rcmod(features-12, make-14)
+nsubj(photographer-22, it-15)
+dep(photographer-22, great-16)
+mark(photographer-22, as-17)
+nsubj(photographer-22, you-18)
+cop(photographer-22, become-19)
+det(photographer-22, a-20)
+amod(photographer-22, better-21)
+xcomp(make-14, photographer-22)
+
+=========
+
+nsubj(had-3, I-1)
+nsubj(have-10, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, mine-4)
+det(year-7, a-6)
+prep_for(mine-4, year-7)
+advmod(year-7, now-8)
+conj_and(had-3, have-10)
+det(desire-12, no-11)
+dobj(have-10, desire-12)
+aux(upgrade-14, to-13)
+infmod(desire-12, upgrade-14)
+
+=========
+
+nsubj(t-3, Don-1)
+ccomp(deal-15, t-3)
+dep(t-3, let-4)
+det(price-7, the-5)
+amod(price-7, low-6)
+nsubj(fool-8, price-7)
+ccomp(let-4, fool-8)
+dobj(fool-8, you-9)
+nsubj(deal-15, this-11)
+cop(deal-15, is-12)
+det(deal-15, the-13)
+amod(deal-15, real-14)
+root(ROOT-0, deal-15)
+

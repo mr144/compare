@@ -1,0 +1,164 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+poss(phone-7, my-3)
+amod(phone-7, first-4)
+nn(phone-7, Nexus-5)
+nn(phone-7, Google-6)
+dobj(bought-2, phone-7)
+quantmod($-10, over-9)
+prep_for(bought-2, $-10)
+number($-10, 300-11)
+prep_in(bought-2, Nov-13)
+num(Nov-13, 2011-14)
+
+=========
+
+cc(worked-3, and-1)
+nsubj(worked-3, it-2)
+root(ROOT-0, worked-3)
+advmod(fine-5, just-4)
+acomp(worked-3, fine-5)
+
+=========
+
+nsubj(loved-2, I-1)
+root(ROOT-0, loved-2)
+dobj(loved-2, it-3)
+
+=========
+
+nsubj(dropped-2, I-1)
+root(ROOT-0, dropped-2)
+dobj(dropped-2, it-3)
+prep_on(dropped-2, cement-5)
+prep_in(dropped-2, March-7)
+num(March-7, 2013-8)
+det(face-12, the-11)
+nsubj(shattered-15, face-12)
+prep_of(face-12, it-14)
+conj_and(dropped-2, shattered-15)
+
+=========
+
+nsubj(pleased-3, I-1)
+cop(pleased-3, was-2)
+root(ROOT-0, pleased-3)
+aux(see-5, to-4)
+xcomp(pleased-3, see-5)
+nsubj(purchase-8, I-6)
+aux(purchase-8, could-7)
+ccomp(see-5, purchase-8)
+det(one-11, a-9)
+amod(one-11, new-10)
+dobj(purchase-8, one-11)
+prep_on(one-11, Amazon-13)
+quantmod($-16, only-15)
+prep_for(purchase-8, $-16)
+number($-16, 155-17)
+mark(did-20, so-18)
+nsubj(did-20, i-19)
+advcl(purchase-8, did-20)
+
+=========
+
+advmod(arrived-3, When-1)
+nsubj(arrived-3, it-2)
+advcl(worked-10, arrived-3)
+nsubj(set-6, I-5)
+conj_and(arrived-3, set-6)
+advcl(worked-10, set-6)
+dobj(set-6, it-7)
+prt(set-6, up-8)
+nsubj(worked-10, it-9)
+root(ROOT-0, worked-10)
+acomp(worked-10, fine-11)
+
+=========
+
+prep_on(language-18, day-2)
+num(day-2, 3-3)
+nsubj(touched-8, me-6)
+aux(touched-8, having-7)
+prepc_without(language-18, touched-8)
+det(settings-10, any-9)
+dobj(touched-8, settings-10)
+det(language-14, the-12)
+nn(language-14, screen-13)
+nsubj(language-18, language-14)
+cop(language-18, was-15)
+det(language-18, a-16)
+amod(language-18, foreign-17)
+root(ROOT-0, language-18)
+dobj(read-22, language-18)
+nsubj(read-22, I-19)
+aux(read-22, could-20)
+neg(read-22, not-21)
+rcmod(language-18, read-22)
+
+=========
+
+nsubj(went-2, I-1)
+nsubj(able-9, I-1)
+root(ROOT-0, went-2)
+dep(went-2, online-3)
+poss(laptop-6, my-5)
+prep_on(went-2, laptop-6)
+cop(able-9, was-8)
+conj_and(went-2, able-9)
+aux(figure-11, to-10)
+xcomp(able-9, figure-11)
+prt(figure-11, out-12)
+advmod(reset-15, how-13)
+aux(reset-15, to-14)
+ccomp(figure-11, reset-15)
+xcomp(figure-11, reset-15)
+dobj(reset-15, it-16)
+det(language-20, the-18)
+amod(language-20, original-19)
+prep_to(reset-15, language-20)
+nsubj(snowballed-24, problems-23)
+conj_but(went-2, snowballed-24)
+prep(snowballed-24, from-25)
+pobj(from-25, there-26)
+
+=========
+
+nsubj(kept-2, I-1)
+root(ROOT-0, kept-2)
+xcomp(kept-2, getting-3)
+det(message-6, a-4)
+nn(message-6, popup-5)
+dobj(getting-3, message-6)
+nsubj(prevented-8, message-6)
+rcmod(message-6, prevented-8)
+dobj(prevented-8, me-9)
+prepc_from(prevented-8, using-11)
+dobj(using-11, text-12)
+dobj(using-11, email-14)
+conj_or(text-12, email-14)
+det(phone-17, the-16)
+dobj(using-11, phone-17)
+conj_or(text-12, phone-17)
+
+=========
+
+det(experience-2, This-1)
+nsubj(disaster-6, experience-2)
+cop(disaster-6, was-3)
+det(disaster-6, a-4)
+amod(disaster-6, complete-5)
+root(ROOT-0, disaster-6)
+
+=========
+
+nsubj(buy-5, I-1)
+aux(buy-5, will-2)
+neg(buy-5, never-3)
+advmod(buy-5, ever-4)
+root(ROOT-0, buy-5)
+det(phone-8, another-6)
+nn(phone-8, Nexus-7)
+dobj(buy-5, phone-8)
+

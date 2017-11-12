@@ -1,0 +1,45 @@
+=========
+
+amod(day-2, Good-1)
+tmod(writing-6, day-2)
+xsubj(notify-8, day-2)
+nsubj(writing-6, I-4)
+xsubj(notify-8, I-4)
+aux(writing-6, am-5)
+root(ROOT-0, writing-6)
+aux(notify-8, to-7)
+xcomp(writing-6, notify-8)
+dobj(notify-8, you-9)
+complm(start-20, that-10)
+det(camera-12, the-11)
+nsubj(start-20, camera-12)
+partmod(camera-12, purchased-13)
+advmod(damaged-16, recivi-15)
+amod(camera-12, damaged-16)
+aux(start-20, will-18)
+neg(start-20, not-19)
+ccomp(notify-8, start-20)
+det(battery-23, the-22)
+nsubj(hot-25, battery-23)
+dep(hot-25, gets-24)
+ccomp(notify-8, hot-25)
+conj_and(start-20, hot-25)
+
+=========
+
+nsubj(am-2, I-1)
+ccomp(received-6, am-2)
+prep_from(am-2, Venezuela-4)
+root(ROOT-0, received-6)
+det(goods-8, the-7)
+nsubj(received-6, goods-8)
+advmod(late-10, so-9)
+amod(goods-8, late-10)
+
+=========
+
+root(ROOT-0, bought-1)
+det(mailbox-5, a-3)
+nn(mailbox-5, delivery-4)
+prep_by(bought-1, mailbox-5)
+

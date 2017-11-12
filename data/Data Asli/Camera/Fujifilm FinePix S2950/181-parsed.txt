@@ -1,0 +1,74 @@
+=========
+
+poss(husband-2, My-1)
+nsubj(bought-3, husband-2)
+root(ROOT-0, bought-3)
+det(camera-5, this-4)
+dobj(bought-3, camera-5)
+prep_for(bought-3, me-7)
+det(present-12, an-9)
+amod(present-12, early-10)
+nn(present-12, birthday-11)
+prep_as(bought-3, present-12)
+
+=========
+
+nsubj(using-3, I-1)
+aux(using-3, was-2)
+root(ROOT-0, using-3)
+advmod(camera-9, just-4)
+det(camera-9, a-5)
+amod(camera-9, standard-6)
+amod(camera-9, Nikon-7)
+amod(camera-9, digital-8)
+dobj(using-3, camera-9)
+csubj(is-14, using-11)
+det(one-13, this-12)
+dobj(using-11, one-13)
+conj_but(using-3, is-14)
+det(realm-19, a-16)
+amod(realm-19, whole-17)
+amod(realm-19, new-18)
+prep_like(is-14, realm-19)
+prep_of(realm-19, amazing-21)
+
+=========
+
+nsubj(enjoy-2, I-1)
+root(ROOT-0, enjoy-2)
+dobj(enjoy-2, everything-3)
+det(camera-6, this-5)
+prep_about(everything-3, camera-6)
+
+=========
+
+nsubj(read-2, I-1)
+root(ROOT-0, read-2)
+det(manual-4, the-3)
+dobj(read-2, manual-4)
+nsubj(came-6, manual-4)
+rcmod(manual-4, came-6)
+prep_with(came-6, it-8)
+nsubj(simple-13, it-10)
+xsubj(use-15, it-10)
+cop(simple-13, is-11)
+advmod(simple-13, fairly-12)
+conj_and(read-2, simple-13)
+aux(use-15, to-14)
+xcomp(simple-13, use-15)
+
+=========
+
+nsubj(live-2, We-1)
+root(ROOT-0, live-2)
+det(desert-5, the-4)
+prep_in(live-2, desert-5)
+nsubj(find-10, you-7)
+aux(find-10, will-8)
+neg(find-10, not-9)
+conj_and(live-2, find-10)
+det(camera-12, this-11)
+dobj(find-10, camera-12)
+prep_far_from(find-10, me-15)
+advmod(find-10, ever-17)
+

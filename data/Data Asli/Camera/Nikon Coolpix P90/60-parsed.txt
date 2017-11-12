@@ -1,0 +1,22 @@
+=========
+
+cop(more-3, Was-1)
+advmod(more-3, much-2)
+csubj(said-11, more-3)
+mark(expected-6, than-4)
+nsubj(expected-6, I-5)
+nsubj(arrived-8, I-5)
+ccomp(more-3, expected-6)
+ccomp(more-3, arrived-8)
+conj_and(expected-6, arrived-8)
+advmod(as-10, just-9)
+advmod(arrived-8, as-10)
+root(ROOT-0, said-11)
+nsubj(would-13, it-12)
+ccomp(said-11, would-13)
+
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+

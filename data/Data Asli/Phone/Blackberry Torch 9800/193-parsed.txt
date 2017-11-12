@@ -1,0 +1,69 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+poss(friend-7, my-6)
+prep_for(bought-2, friend-7)
+
+=========
+
+nsubj(came-2, It-1)
+root(ROOT-0, came-2)
+det(box-6, a-4)
+amod(box-6, open-5)
+prep_with(came-2, box-6)
+advmod(untouched-13, even-7)
+dep(untouched-13, though-8)
+det(bags-11, all-9)
+amod(bags-11, inside-10)
+nsubjpass(untouched-13, bags-11)
+auxpass(untouched-13, are-12)
+ccomp(came-2, untouched-13)
+
+=========
+
+det(sticker-3, The-1)
+amod(sticker-3, sealing-2)
+nsubj(seal-6, sticker-3)
+aux(seal-6, can-4)
+neg(seal-6, not-5)
+root(ROOT-0, seal-6)
+det(box-8, the-7)
+dobj(seal-6, box-8)
+
+=========
+
+nsubj(sticky-4, It-1)
+cop(sticky-4, 's-2)
+neg(sticky-4, not-3)
+root(ROOT-0, sticky-4)
+dep(more-6, any-5)
+advmod(sticky-4, more-6)
+
+=========
+
+advmod(opened\/sealed-5, Seems-1)
+det(box-3, this-2)
+nsubjpass(opened\/sealed-5, box-3)
+auxpass(opened\/sealed-5, was-4)
+root(ROOT-0, opened\/sealed-5)
+amod(times-7, many-6)
+dobj(opened\/sealed-5, times-7)
+
+=========
+
+nsubj(made-2, It-1)
+root(ROOT-0, made-2)
+nsubj(looks-7, me-3)
+dep(looks-7, uncomfortable-4)
+mark(looks-7, as-5)
+nsubj(looks-7, it-6)
+xcomp(made-2, looks-7)
+dep(looks-7, used-8)
+nsubj(is-11, it-10)
+conj_and(made-2, is-11)
+poss(friend-14, my-13)
+prep_for(is-11, friend-14)
+

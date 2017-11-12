@@ -1,0 +1,36 @@
+=========
+
+det(picture-2, The-1)
+nsubj(excellent-4, picture-2)
+cop(excellent-4, is-3)
+ccomp(works-9, excellent-4)
+det(tv-8, the-6)
+amod(tv-8, smart-7)
+nsubj(works-9, tv-8)
+root(ROOT-0, works-9)
+dep(needs-14, well-10)
+det(audio-13, the-12)
+nsubj(needs-14, audio-13)
+ccomp(works-9, needs-14)
+dobj(needs-14, improvement-15)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+nsubj(hooked-4, it-3)
+ccomp(have-2, hooked-4)
+prep(hooked-4, in-5)
+pcomp(in-5, with-6)
+poss(radio-9, my-7)
+amod(radio-9, BOSE-8)
+prep_with(in-5, radio-9)
+dep(have-2, so-11)
+nsubj(helps-13, that-12)
+xsubj(improve-15, that-12)
+ccomp(have-2, helps-13)
+aux(improve-15, to-14)
+xcomp(helps-13, improve-15)
+det(sound-17, the-16)
+dobj(improve-15, sound-17)
+

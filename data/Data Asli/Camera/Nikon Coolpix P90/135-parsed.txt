@@ -1,0 +1,38 @@
+=========
+
+det(camera-2, The-1)
+nsubj(has-3, camera-2)
+root(ROOT-0, has-3)
+det(quantity-6, a-4)
+amod(quantity-6, excellent-5)
+dobj(has-3, quantity-6)
+prep_of(quantity-6, options-8)
+det(colors-12, the-11)
+nsubj(pallid-20, colors-12)
+advmod(pallid-20, even-13)
+predet(adjust-17, all-15)
+det(adjust-17, the-16)
+prep_with(even-13, adjust-17)
+cop(pallid-20, are-18)
+advmod(pallid-20, too-19)
+conj_but(has-3, pallid-20)
+det(results-23, the-22)
+nsubj(horrible-28, results-23)
+nn(pictures-26, night-25)
+prep_of(results-23, pictures-26)
+cop(horrible-28, are-27)
+conj_but(has-3, horrible-28)
+conj_and(pallid-20, horrible-28)
+amod(field-31, open-30)
+prep_in(horrible-28, field-31)
+det(lights-34, some-33)
+prep_with(field-31, lights-34)
+
+=========
+
+nsubj(buy-4, I-1)
+aux(buy-4, would-2)
+neg(buy-4, not-3)
+root(ROOT-0, buy-4)
+advmod(buy-4, again-5)
+

@@ -1,0 +1,69 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+nn(cameras-4, kodak-3)
+nsubj(had-6, cameras-4)
+advmod(had-6, always-5)
+ccomp(like-2, had-6)
+amod(luck-8, good-7)
+dobj(had-6, luck-8)
+prep_with(luck-8, them-10)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+prepc_based_on(bought-2, on-5)
+det(zoom-9, the-6)
+num(zoom-9, 30X-7)
+amod(zoom-9, optical-8)
+pobj(bought-2, zoom-9)
+
+=========
+
+nsubj(disappointed-4, I-1)
+cop(disappointed-4, was-2)
+advmod(disappointed-4, very-3)
+root(ROOT-0, disappointed-4)
+det(aspect-7, that-6)
+prep_with(disappointed-4, aspect-7)
+advmod(returned-9, so-8)
+partmod(aspect-7, returned-9)
+dep(returned-9, it-10)
+
+=========
+
+nsubj(had-2, This-1)
+root(ROOT-0, had-2)
+det(zoom-5, no-3)
+amod(zoom-5, digital-4)
+dobj(had-2, zoom-5)
+advmod(had-2, at-6)
+pobj(at-6, all-7)
+
+=========
+
+nsubj(please-4, I-1)
+cop(please-4, am-2)
+advmod(please-4, more-3)
+root(ROOT-0, please-4)
+mark(takes-12, with-5)
+poss(optical-8, my-6)
+num(optical-8, 15X-7)
+nsubj(takes-12, optical-8)
+num(digital-11, 50X-10)
+conj_and(optical-8, digital-11)
+nsubj(takes-12, digital-11)
+ccomp(please-4, takes-12)
+amod(pictures-14, better-13)
+dobj(takes-12, pictures-14)
+advmod(using-16, even-15)
+partmod(pictures-14, using-16)
+det(part-19, the-17)
+amod(part-19, digital-18)
+dobj(using-16, part-19)
+det(zoom-22, the-21)
+prep_of(part-19, zoom-22)
+

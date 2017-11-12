@@ -1,0 +1,36 @@
+A_DT Better_NNP Panasonic_NNP Lumix_NNP Digital_NNP Camera_NNP !_.
+The_DT Panasonic_NNP Lumix_NNP DMC-ZS8_NNP is_VBZ a_DT very_RB good_JJ camera_NN ._.
+The_DT new_JJ camera_NN has_VBZ great_JJ new_JJ features_NNS ._.
+This_DT new_JJ features_NNS can_MD help_VB you_PRP take_VB better_JJR pictures_NNS !_.
+This_DT year_NN new_JJ features_NNS are_VBP fantastic_JJ ._.
+The_DT DMC-z58_NN is_VBZ packed_VBN with_IN new_JJ features_NNS ._.
+The_DT new_JJ model_NN DMC-ZS8_NN features_VBZ a_DT powerful_JJ 16x_JJ optical_JJ zoom_NN lens_NN ._.
+This_DT lens_NN has_VBZ been_VBN redesigned_VBN ._.
+The_DT new_JJ high-quality_NN LEICA_NNP DC_NNP VARIO-ELMAR_NNP lens_NN system_NN is_VBZ even_RB more_RBR versatile_JJ with_IN 24mm_FW ultra_FW wide-angle_JJ \*_NN to_TO powerful_JJ 16x_JJ optical_JJ zoom_NN ._.
+The_DT new_JJ and_CC Powerful_JJ 16x_JJ Optical_NNP Zoom_NNP ._.
+This_DT optical_JJ zooom_NN gives_VBZ you_PRP highly_RB natural_JJ expressions_NNS from_IN people_NNS and_CC animals_NNS that_IN you_PRP can_MD not_RB get_VB close_RB to_TO ._.
+The_DT camera_NN can_MD be_VB used_VBN to_TO film_NN movies_NNS ._.
+It_PRP is_VBZ designed_VBN to_TO suppress_VB noise_NN while_IN zooming_VBG ._.
+The_DT camera_NN features_VBZ a_DT 3.0-inch_JJ ,_, 230,000-dot_JJ High-resolution_NN LCD_NNP ._.
+The_DT DMC-ZS8_NN is_VBZ equipped_VBN with_IN a_DT 3.0-inch_JJ LCD_NNP ._.
+The_DT big_JJ screen_NN reflects_VBZ fine_JJ details_NNS ,_, making_VBG it_PRP easy_JJ to_TO check_VB the_DT focus_NN before_IN shooting_NN ._.
+It_PRP also_RB serves_VBZ as_IN a_DT photo_NN and_CC video_NN viewer_NN ,_, allowing_VBG you_PRP and_CC friends_NNS to_TO enjoy_VB viewing_VBG the_DT still_RB and_CC motion_NN images_NNS together_RB ._.
+The_DT high-performance_JJ Venus_NNP Engine_NNP VI_NNP is_VBZ incorporated_VBN in_IN the_DT DMC-ZS8_NN ._.
+it_PRP enables_VBZ the_DT recording_NN of_IN beautiful_JJ images_NNS ._.
+An_DT advanced_JJ noise_NN reduction_NN system_NN in_IN the_DT Venus_NNP Engine_NNP VI_NNP applies_VBZ noise_NN reduction_NN ._.
+Beautiful_JJ images_NNS with_IN minimal_JJ noise_NN can_MD be_VB reproduced_VBN for_IN beautiful_JJ night_NN shots_NNS or_CC dimly_RB lit_VBD indoor_JJ shots_NNS ._.
+AF_NNP Tracking_NNP Subject_NNP Detection_NNP ._.
+Once_RB you_PRP focus_VBP on_IN your_PRP$ subject_NN ,_, the_DT AF_NNP Tracking_NNP automatically_RB tracks_VBZ it_PRP until_IN you_PRP press_VBP the_DT shutter_NN ._.
+When_WRB you_PRP are_VBP taking_VBG images_NNS of_IN an_DT active_JJ subject_NN ,_, like_IN children_NNS or_CC pets_NNS ,_, this_DT function_NN eliminates_VBZ the_DT need_NN to_TO press_VB the_DT shutter_NN button_NN halfway_NN down_RB repeatedly_RB to_TO readjust_VB the_DT focus_NN ._.
+The_DT AF_NNP Tracking_NNP makes_VBZ sure_JJ you_PRP do_VBP not_RB miss_VB those_DT once-in-a-lifetime_JJ shooting_NN opportunitieThis_NNP camera_NN is_VBZ portable_JJ ._.
+The_DT camera_NN Product_NN Dimensions_NNS are_VBP 1.3_CD x_SYM 4.1_CD x_SYM 2.3_CD inches_NNS ._.
+You_PRP can_MD travel_VB with_IN this_DT camera_NN ._.
+It_PRP is_VBZ a_DT very_RB light_JJ camera_NN ._.
+It_PRP only_RB weights_NNS 7.4_CD ounces_NNS ._.
+The_DT Lumix_NNP ZS8_NNP digital_JJ camera_NN comes_VBZ with_IN many_JJ items_NNS ._.
+It_PRP has_VBZ Battery_NNP Charger_NNP and_CC Battery_NNP Pack_NNP ._.
+It_PRP comes_VBZ with_IN AV_NNP Cable_NNP ,_, USB_NNP Cable_NNP ._.
+It_PRP comes_VBZ with_IN a_DT Hand_NNP Strap_NNP ._.
+It_PRP includes_VBZ a_DT CD-ROM_NN ._.
+Everything_NN you_PRP need_VBP is_VBZ included_VBN ._.
+You_PRP will_MD not_RB be_VB disappointed_VBN !_.

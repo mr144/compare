@@ -1,0 +1,48 @@
+=========
+
+nn(Cellular-2, Ross-1)
+nsubj(sell-3, Cellular-2)
+root(ROOT-0, sell-3)
+nn(Cellulars-5, refurbished-4)
+dobj(sell-3, Cellulars-5)
+
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+det(store-6, this-5)
+prep_at(buy-3, store-6)
+
+=========
+
+nsubj(promise-2, They-1)
+root(ROOT-0, promise-2)
+det(9800-7, a-3)
+amod(9800-7, new-4)
+nn(9800-7, Blackberry-5)
+nn(9800-7, Torch-6)
+dobj(promise-2, 9800-7)
+det(box-11, the-10)
+nsubj(original-14, box-11)
+cop(original-14, is-12)
+neg(original-14, not-13)
+conj_but(promise-2, original-14)
+
+=========
+
+det(Tag-2, The-1)
+nsubj(cover-8, Tag-2)
+det(battery-5, the-4)
+prep_behind(Tag-2, battery-5)
+nsubj(cover-8, it-6)
+aux(cover-8, was-7)
+root(ROOT-0, cover-8)
+det(Stick-12, a-10)
+nn(Stick-12, White-11)
+prep_by(cover-8, Stick-12)
+nsubjpass(used-17, Battery-14)
+dep(Battery-14, it-15)
+auxpass(used-17, was-16)
+parataxis(cover-8, used-17)
+

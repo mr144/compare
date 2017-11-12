@@ -1,0 +1,41 @@
+=========
+
+nsubj(met-2, Camera-1)
+root(ROOT-0, met-2)
+poss(needs-4, my-3)
+dobj(met-2, needs-4)
+
+=========
+
+nn(camera-4, Left-1)
+nn(camera-4, Sony-2)
+num(camera-4, two-3)
+nsubj(happy-9, camera-4)
+advmod(happy-9, ago-5)
+cc(ago-5, but-6)
+cop(happy-9, was-7)
+neg(happy-9, not-8)
+root(ROOT-0, happy-9)
+poss(performance-12, their-11)
+prep_with(happy-9, performance-12)
+
+=========
+
+root(ROOT-0, Decided-1)
+aux(purchase-3, to-2)
+xcomp(Decided-1, purchase-3)
+det(camera-5, this-4)
+dobj(purchase-3, camera-5)
+nsubj(glad-9, I-7)
+cop(glad-9, am-8)
+conj_and(Decided-1, glad-9)
+aux(be-11, to-10)
+xcomp(glad-9, be-11)
+advmod(be-11, back-12)
+det(quality-15, the-14)
+prep_with(back-12, quality-15)
+dobj(provides-18, quality-15)
+det(Sony-17, This-16)
+nsubj(provides-18, Sony-17)
+rcmod(quality-15, provides-18)
+

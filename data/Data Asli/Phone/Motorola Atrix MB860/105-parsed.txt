@@ -1,0 +1,77 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(phone-4, this-3)
+dobj(love-2, phone-4)
+
+=========
+
+det(i-4, the-2)
+nn(i-4, price-3)
+prep_at(superbuy-10, i-4)
+partmod(i-4, paid-5)
+nsubj(superbuy-10, it-7)
+cop(superbuy-10, is-8)
+det(superbuy-10, a-9)
+root(ROOT-0, superbuy-10)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+
+=========
+
+advmod(clear-7, sometimes-1)
+det(speaker-3, the-2)
+nsubj(clear-7, speaker-3)
+cop(clear-7, is-4)
+neg(clear-7, not-5)
+advmod(clear-7, very-6)
+root(ROOT-0, clear-7)
+
+=========
+
+advmod(phone-7, otherwise-1)
+nsubj(phone-7, it-3)
+cop(phone-7, is-4)
+det(phone-7, a-5)
+amod(phone-7, great-6)
+root(ROOT-0, phone-7)
+
+=========
+
+nsubj(work-14, Bluetooth-1)
+appos(Bluetooth-1, wi-fi-3)
+appos(Bluetooth-1, camera-5)
+appos(Bluetooth-1, sharing-7)
+appos(Bluetooth-1, all-9)
+det(bells-11, the-10)
+dep(all-9, bells-11)
+dep(all-9, whistles-13)
+conj_and(bells-11, whistles-13)
+root(ROOT-0, work-14)
+acomp(work-14, great-15)
+
+=========
+
+cc(excellent-8, and-1)
+nsubj(excellent-8, yes-2)
+det(processor-6, the-4)
+amod(processor-6, android-5)
+nsubj(excellent-8, processor-6)
+cop(excellent-8, is-7)
+root(ROOT-0, excellent-8)
+advmod(excellent-8, too-9)
+
+=========
+
+nsubj(recommend-3, i-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(phone-5, this-4)
+dobj(recommend-3, phone-5)
+prep_to(recommend-3, anyone-7)
+

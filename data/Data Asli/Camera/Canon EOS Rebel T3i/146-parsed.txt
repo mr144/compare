@@ -1,0 +1,23 @@
+=========
+
+csubj(shake-5, great-1)
+prepc_at(great-1, reducing-3)
+dobj(reducing-3, camera-4)
+root(ROOT-0, shake-5)
+det(speeds-10, a-6)
+advmod(slow-8, very-7)
+amod(speeds-10, slow-8)
+nn(speeds-10, shutter-9)
+dobj(shake-5, speeds-10)
+
+=========
+
+root(ROOT-0, creates-1)
+amod(pictures-3, amazing-2)
+dobj(creates-1, pictures-3)
+amod(control-6, excellent-5)
+prep_with(creates-1, control-6)
+det(depth-9, the-8)
+prep_of(control-6, depth-9)
+prep_of(depth-9, fields-11)
+

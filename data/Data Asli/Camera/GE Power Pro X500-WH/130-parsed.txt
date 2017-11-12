@@ -1,0 +1,30 @@
+=========
+
+amod(camera-2, Amazing-1)
+root(ROOT-0, camera-2)
+det(price-5, the-4)
+prep_for(camera-2, price-5)
+
+=========
+
+amod(batteries-2, Eats-1)
+nsubj(bought-5, batteries-2)
+advmod(bought-5, so-3)
+nsubj(bought-5, I-4)
+root(ROOT-0, bought-5)
+det(ones-8, some-6)
+amod(ones-8, rechargable-7)
+dobj(bought-5, ones-8)
+
+=========
+
+nsubj(took-2, I-1)
+root(ROOT-0, took-2)
+num(pics-5, 5,000-4)
+prep_over(took-2, pics-5)
+num(weeks-8, 2-7)
+prep_in(took-2, weeks-8)
+nsubj(worked-11, it-10)
+conj_and(took-2, worked-11)
+dobj(worked-11, amazingly-12)
+

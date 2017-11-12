@@ -1,0 +1,31 @@
+=========
+
+det(good-3, A-1)
+advmod(good-3, really-2)
+nsubj(cellphone-4, good-3)
+root(ROOT-0, cellphone-4)
+
+=========
+
+nsubj(do-3, You-1)
+aux(do-3, can-2)
+root(ROOT-0, do-3)
+dobj(want-6, whatever-4)
+nsubj(want-6, you-5)
+ccomp(do-3, want-6)
+det(kind-9, this-8)
+prep_with(want-6, kind-9)
+prep_of(kind-9, cellphone-11)
+
+=========
+
+nsubj(OS-5, Android-1)
+cop(OS-5, is-2)
+det(OS-5, the-3)
+amod(OS-5, best-4)
+root(ROOT-0, OS-5)
+conj_but(OS-5, Samsung-7)
+det(brand-10, the-8)
+amod(brand-10, worst-9)
+dep(OS-5, brand-10)
+

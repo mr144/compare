@@ -1,0 +1,2 @@
+Ordered_VBD my_PRP$ 42_CD inch_NN LG_NNP LCD_NNP tv_NN from_IN Amazon_NNP ,_, TV_NN was_VBD supplied_VBN by_IN another_DT company_NN in_IN Calif._NNP ,_, I_PRP was_VBD a_DT little_RB cautious_JJ ._. ._.
+but_CC it_PRP was_VBD a_DT smooth_JJ transaction_NN ,_, got_VBD TV_NN when_WRB they_PRP say_VBP they_PRP would_MD ,_, Packaging_NN was_VBD perfect_JJ and_CC what_WP a_DT price_NN !!_NN TV_NN has_VBZ great_JJ picture_NN

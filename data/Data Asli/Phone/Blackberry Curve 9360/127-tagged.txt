@@ -1,0 +1,2 @@
+Blackberry_NNP Curve_NNP 9360_CD Unlocked_VBN ._.
+I_PRP need_VBP a_DT Unlocked_NNP Quad-Band_NNP GSM_NNP cell_NN phone_NN compatible_JJ with_IN 850\/900\/1800_CD GSM_NNP and_CC 2100\/1900\/850_CD \/_NN 800_CD MHz_NNP 3G_NNP frequencies_NNPS plus_CC GPRS\/EDGE_NNP capabilities_NNS

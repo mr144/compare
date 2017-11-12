@@ -1,0 +1,103 @@
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+det(camera-6, a-3)
+amod(camera-6, good-4)
+nn(camera-6, quality-5)
+dobj(wanted-2, camera-6)
+det(tag-11, the-8)
+amod(tag-11, huge-9)
+nn(tag-11, price-10)
+prep_without(wanted-2, tag-11)
+
+=========
+
+nsubj(amateur-4, I-1)
+cop(amateur-4, am-2)
+det(amateur-4, a-3)
+root(ROOT-0, amateur-4)
+tmod(comes-7, amateur-4)
+advmod(comes-7, when-5)
+nsubj(comes-7, it-6)
+dep(amateur-4, comes-7)
+prepc_to(comes-7, taking-9)
+dobj(taking-9, pictures-10)
+prepc_after(become-22, taking-13)
+dobj(taking-13, it-14)
+det(photographer-18, a-16)
+amod(photographer-18, local-17)
+prep_to(taking-13, photographer-18)
+nsubj(become-22, I-20)
+aux(become-22, have-21)
+conj_but(amateur-4, become-22)
+tmod(comes-7, become-22)
+advmod(comfortable-24, more-23)
+acomp(become-22, comfortable-24)
+xcomp(become-22, using-25)
+det(camera-27, this-26)
+dobj(using-25, camera-27)
+
+=========
+
+cc(love-3, Plus-1)
+nsubj(love-3, I-2)
+root(ROOT-0, love-3)
+det(capability-6, the-4)
+amod(capability-6, zoom-5)
+dobj(love-3, capability-6)
+det(baby-9, this-8)
+prep_on(capability-6, baby-9)
+
+=========
+
+nsubj(get-3, I-1)
+aux(get-3, can-2)
+root(ROOT-0, get-3)
+dobj(get-3, shots-4)
+poss(darling-8, my-6)
+amod(darling-8, little-7)
+prep_of(shots-4, darling-8)
+advmod(performing-12, when-9)
+nsubj(performing-12, she-10)
+aux(performing-12, is-11)
+advcl(get-3, performing-12)
+prep_on(performing-12, stage-14)
+nsubj(have-19, I-16)
+xsubj(&#34;-22, I-16)
+aux(have-19, do-17)
+neg(have-19, not-18)
+conj_and(get-3, have-19)
+aux(&#34;-22, to-20)
+cop(&#34;-22, be-21)
+xcomp(have-19, &#34;-22)
+complm(walking-26, that-23)
+num(person-25, &#34;-24)
+nsubj(walking-26, person-25)
+ccomp(&#34;-22, walking-26)
+prt(walking-26, down-27)
+prep_in_front_of(walking-26, everyone-31)
+
+=========
+
+root(ROOT-0, Awesome-1)
+
+=========
+
+aux(happier-4, Could-1)
+neg(happier-4, not-2)
+cop(happier-4, be-3)
+root(ROOT-0, happier-4)
+
+=========
+
+root(ROOT-0, Ecstatic-1)
+det(purchase-4, this-3)
+prep_about(Ecstatic-1, purchase-4)
+
+=========
+
+aux(recommend-3, Would-1)
+nsubj(recommend-3, definitely-2)
+root(ROOT-0, recommend-3)
+

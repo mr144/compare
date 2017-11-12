@@ -1,0 +1,26 @@
+=========
+
+nsubj(watch-4, I-1)
+nsubj(turns-15, I-1)
+aux(watch-4, can-2)
+neg(watch-4, not-3)
+root(ROOT-0, watch-4)
+dobj(watch-4, tv-5)
+advmod(tv-5, only-6)
+num(months-9, 4-8)
+prep_after(watch-4, months-9)
+mark(possessed-13, because-10)
+nsubjpass(possessed-13, it-11)
+auxpass(possessed-13, is-12)
+advcl(watch-4, possessed-13)
+conj_and(watch-4, turns-15)
+prt(turns-15, on-16)
+dep(on-16, and-17)
+dep(on-16, off-18)
+prep_by(turns-15, itself-20)
+
+=========
+
+root(ROOT-0, replace-1)
+dobj(replace-1, it-2)
+

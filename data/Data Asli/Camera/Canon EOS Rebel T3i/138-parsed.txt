@@ -1,0 +1,61 @@
+=========
+
+det(surprise-2, a-1)
+nsubj(christmas-3, surprise-2)
+root(ROOT-0, christmas-3)
+dobj(christmas-3, presnt-4)
+poss(husband-7, my-6)
+prep_from(christmas-3, husband-7)
+det(lense-13, the-10)
+amod(lense-13, super-11)
+amod(lense-13, zoom-12)
+prep_along_with(husband-7, lense-13)
+det(i-18, the-15)
+amod(i-18, zoom-16)
+nn(i-18, lense-17)
+nsubj(using-20, i-18)
+aux(using-20, am-19)
+parataxis(christmas-3, using-20)
+dobj(using-20, alot-21)
+
+=========
+
+nsubj(finding-3, i-1)
+aux(finding-3, am-2)
+root(ROOT-0, finding-3)
+det(camera-5, the-4)
+nsubj(easy-6, camera-5)
+xcomp(finding-3, easy-6)
+aux(use-8, to-7)
+xcomp(easy-6, use-8)
+det(fire-12, the-10)
+amod(fire-12, rapid-11)
+nsubj(fun-15, fire-12)
+cop(fun-15, is-13)
+advmod(fun-15, really-14)
+parataxis(finding-3, fun-15)
+
+=========
+
+advmod(recommend-12, also-1)
+amod(slr-3, received-2)
+nsubj(recommend-12, slr-3)
+prep_for(slr-3, dummies-5)
+amod(camera-9, with-7)
+det(camera-9, the-8)
+prep_along(dummies-5, camera-9)
+dep(camera-9, i-10)
+aux(recommend-12, would-11)
+root(ROOT-0, recommend-12)
+nsubj(like-18, this-13)
+aux(like-18, to-14)
+det(beginner-17, a-16)
+prep_for(like-18, beginner-17)
+xcomp(recommend-12, like-18)
+dobj(like-18, me-19)
+
+=========
+
+advmod(happy-2, very-1)
+root(ROOT-0, happy-2)
+

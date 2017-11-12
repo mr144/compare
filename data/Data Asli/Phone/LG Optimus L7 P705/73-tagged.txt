@@ -1,0 +1,2 @@
+the_DT screen_NN is_VBZ big_JJ and_CC very_RB bright_JJ ,_, great_JJ speed_NN ._.
+the_DT phone_NN is_VBZ just_RB amazing_JJ and_CC is_VBZ all_DT and_CC more_JJR that_IN the_DT info_NN say_VBP ._.

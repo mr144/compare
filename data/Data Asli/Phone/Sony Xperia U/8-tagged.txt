@@ -1,0 +1,4 @@
+I_PRP really_RB liked_VBD the_DT slim_JJ look_NN ._.
+I_PRP liked_VBD how_WRB it_PRP was_VBD small_JJ but_CC powerful_JJ ._.
+The_DT camera_NN was_VBD nice_JJ also_RB ._.
+Unfortunately_RB I_PRP had_VBD to_TO return_VB it_PRP because_IN it_PRP did_VBD not_RB work_VB with_IN my_PRP$ Verizon_NNP sim_NN card_NN ._.

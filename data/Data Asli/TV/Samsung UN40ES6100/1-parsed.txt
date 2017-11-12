@@ -1,0 +1,41 @@
+=========
+
+nsubj(owned-3, We-1)
+aux(owned-3, have-2)
+root(ROOT-0, owned-3)
+det(set-5, this-4)
+dobj(owned-3, set-5)
+prep(owned-3, for-6)
+pcomp(for-6, over-7)
+det(month-9, a-8)
+prep_over(for-6, month-9)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(picture-5, a-3)
+amod(picture-5, awesome-4)
+dobj(has-2, picture-5)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(size-4, the-3)
+dobj(like-2, size-4)
+prep_in(size-4, comparison-6)
+poss(inch-10, my-8)
+num(inch-10, 52-9)
+prep_to(like-2, inch-10)
+
+=========
+
+nsubj(comfortable-3, I-1)
+cop(comfortable-3, was-2)
+root(ROOT-0, comfortable-3)
+dep(comfortable-3, purchasing-4)
+det(TV-7, another-5)
+nn(TV-7, Samsung-6)
+dobj(purchasing-4, TV-7)
+

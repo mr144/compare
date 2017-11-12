@@ -1,0 +1,56 @@
+=========
+
+nsubj(received-2, We-1)
+root(ROOT-0, received-2)
+det(television-4, the-3)
+dobj(received-2, television-4)
+det(day-7, the-6)
+dobj(received-2, day-7)
+rel(projected-12, that-9)
+nsubjpass(projected-12, it-10)
+xsubj(be-14, it-10)
+auxpass(projected-12, was-11)
+rcmod(day-7, projected-12)
+aux(be-14, to-13)
+xcomp(projected-12, be-14)
+advmod(be-14, there-15)
+
+=========
+
+nsubj(arrived-2, It-1)
+root(ROOT-0, arrived-2)
+acomp(arrived-2, undamaged-3)
+det(tv-6, the-5)
+nsubj(works-7, tv-6)
+conj_and(arrived-2, works-7)
+acomp(works-7, great-8)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+dobj(had-2, instructions-3)
+aux(work-5, to-4)
+infmod(instructions-3, work-5)
+prt(work-5, out-6)
+nn(issues-8, installation-7)
+dobj(work-5, issues-8)
+advmod(had-2, so-10)
+
+=========
+
+nsubj(happy-3, we-1)
+cop(happy-3, are-2)
+root(ROOT-0, happy-3)
+
+=========
+
+det(tv-2, The-1)
+nsubj(looks-3, tv-2)
+root(ROOT-0, looks-3)
+acomp(looks-3, great-4)
+det(picture-7, the-6)
+nsubj(good-9, picture-7)
+cop(good-9, is-8)
+conj_and(looks-3, good-9)
+

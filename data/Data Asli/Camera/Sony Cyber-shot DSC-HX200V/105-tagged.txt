@@ -1,0 +1,4 @@
+Great_NNP Camera_NNP ._.
+Really_RB nice_JJ pictures_NNS and_CC video_NN ._.
+Though_IN ,_, it_PRP is_VBZ going_VBG for_IN around_IN 274_CD at_IN BestBuy_NNP ._.
+This_DT price_NN is_VBZ way_NN out_IN of_IN range_NN ._.

@@ -1,0 +1,21 @@
+=========
+
+nsubj(gift-4, It-1)
+cop(gift-4, was-2)
+det(gift-4, a-3)
+root(ROOT-0, gift-4)
+poss(girlfriend-7, my-6)
+prep_for(gift-4, girlfriend-7)
+
+=========
+
+nsubj(happy-4, She-1)
+cop(happy-4, is-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+mark(happy-9, so-5)
+nsubj(happy-9, I-6)
+cop(happy-9, am-7)
+advmod(happy-9, very-8)
+advcl(happy-4, happy-9)
+

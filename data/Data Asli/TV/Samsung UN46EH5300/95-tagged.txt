@@ -1,0 +1,4 @@
+Picture_NNP is_VBZ great_JJ ._.
+Features_NNS -LRB-_-LRB- smart_JJ tv_NN -RRB-_-RRB- are_VBP great_JJ ._.
+The_DT one_NN drawbackis_VBZ that_IN ,_, for_IN an_DT LED_NNP screen_NN ,_, it_PRP is_VBZ much_RB more_RBR reflective_JJ of_IN light_NN than_IN my_PRP$ SonyBravia_NNP ._.
+People_NNS sitting_VBG at_IN angles_NNS are_VBP bothered_VBN by_IN light_NN reflected_VBN from_IN windows_NNS and_CC lights_NNS

@@ -1,0 +1,56 @@
+=========
+
+nn(Interface-2, User-1)
+nsubj(great-4, Interface-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+advmod(friendly-7, very-6)
+dep(love-13, friendly-7)
+ccomp(love-13, easy-9)
+aux(navigate-11, to-10)
+xcomp(easy-9, navigate-11)
+parataxis(great-4, love-13)
+complm(accessed-20, that-14)
+predet(accounts-17, all-15)
+poss(accounts-17, my-16)
+nsubjpass(accessed-20, accounts-17)
+aux(accessed-20, can-18)
+auxpass(accessed-20, be-19)
+ccomp(love-13, accessed-20)
+num(place-23, one-22)
+prep_from(accessed-20, place-23)
+
+=========
+
+det(eco-mode-2, The-1)
+nsubj(realizes-3, eco-mode-2)
+nsubj(reduces-9, eco-mode-2)
+root(ROOT-0, realizes-3)
+det(room-5, the-4)
+nsubj(dark-7, room-5)
+cop(dark-7, is-6)
+ccomp(realizes-3, dark-7)
+conj_and(realizes-3, reduces-9)
+nn(brightness-11, screen-10)
+dobj(reduces-9, brightness-11)
+dep(brightness-11, awesome-13)
+
+=========
+
+advmod(happy-2, Very-1)
+root(ROOT-0, happy-2)
+det(purchase-5, this-4)
+prep_with(happy-2, purchase-5)
+
+=========
+
+aux(use-3, Would-1)
+advmod(use-3, definitely-2)
+root(ROOT-0, use-3)
+det(brand-5, this-4)
+dobj(use-3, brand-5)
+advmod(use-3, again-6)
+amod(purchases-10, future-8)
+nn(purchases-10, TV-9)
+prep_for(use-3, purchases-10)
+

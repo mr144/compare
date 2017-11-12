@@ -1,0 +1,25 @@
+=========
+
+amod(service-2, Excellant-1)
+nsubj(working-7, service-2)
+det(product-5, the-4)
+conj_and(service-2, product-5)
+nsubj(working-7, product-5)
+aux(working-7, is-6)
+root(ROOT-0, working-7)
+advmod(fine-9, just-8)
+acomp(working-7, fine-9)
+
+=========
+
+nsubj(hestate-4, I-1)
+aux(hestate-4, will-2)
+neg(hestate-4, not-3)
+root(ROOT-0, hestate-4)
+det(future-7, the-6)
+prep_in(hestate-4, future-7)
+aux(order-9, to-8)
+infmod(future-7, order-9)
+det(product-11, another-10)
+dobj(order-9, product-11)
+

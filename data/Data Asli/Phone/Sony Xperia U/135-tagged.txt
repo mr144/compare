@@ -1,0 +1,4 @@
+I_PRP had_VBD a_DT Nokia_NNP 5800_CD ,_, it_PRP was_VBD a_DT good_JJ phone_NN but_CC I_PRP was_VBD looking_VBG for_IN an_DT Android_NNP Phone_NNP and_CC for_IN the_DT price_NN this_DT is_VBZ the_DT best_JJS you_PRP can_MD get_VB ._.
+This_DT phone_NN is_VBZ amazing_JJ ,_, beatutiful_JJ ,_, fast_JJ ,_, excellent_JJ screen_NN resolution_NN ,_, very_RB good_JJ camera_NN ,_, it_PRP has_VBZ all_DT that_IN you_PRP will_MD need_VB ._.
+with_IN a_DT larger_JJR battery_NN it_PRP would_MD be_VB perfect_JJ ,_, I_PRP do_VBP not_RB '_'' need_VB more_JJR memory_NN ,_, it_PRP is_VBZ a_DT cell_NN phone_NN not_RB a_DT tab_NN ._.
+I_PRP have_VBP mine_NN with_IN Claro_NNP in_IN Dominican_NNP Republic_NNP ,_, it_PRP works_VBZ flawless_JJ ,_, very_RB fast_JJ and_CC stable_JJ ._.

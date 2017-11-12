@@ -1,0 +1,36 @@
+=========
+
+neg(camera-4, not-1)
+det(camera-4, an-2)
+amod(camera-4, easy-3)
+root(ROOT-0, camera-4)
+aux(take-6, to-5)
+dep(camera-4, take-6)
+amod(pictures-8, good-7)
+dobj(take-6, pictures-8)
+det(effort-11, some-10)
+prep_without(take-6, effort-11)
+
+=========
+
+nsubj(have-3, It-1)
+nsubj(has-12, It-1)
+nsubj(difficult-21, It-1)
+aux(have-3, does-2)
+root(ROOT-0, have-3)
+det(ability-5, the-4)
+dobj(have-3, ability-5)
+det(lot-8, a-7)
+prep_for(ability-5, lot-8)
+prep_of(lot-8, adjustments-10)
+conj_but(have-3, has-12)
+det(lens-15, a-13)
+amod(lens-15, great-14)
+dobj(has-12, lens-15)
+advmod(have-3, overall-18)
+conj_but(have-3, overall-18)
+cop(difficult-21, seems-20)
+conj_but(have-3, difficult-21)
+aux(use-23, to-22)
+xcomp(difficult-21, use-23)
+

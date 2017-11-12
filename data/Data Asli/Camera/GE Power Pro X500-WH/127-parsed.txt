@@ -1,0 +1,118 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+det(beginner-8, a-7)
+prep_for(camera-5, beginner-8)
+prep_like(beginner-8, me-10)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+xcomp(Easy-1, use-3)
+advmod(understand-7, easy-5)
+aux(understand-7, to-6)
+conj_and(Easy-1, understand-7)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, wonderful-3)
+nsubj(great-9, pictures-4)
+det(price-7, the-6)
+conj_and(pictures-4, price-7)
+nsubj(great-9, price-7)
+cop(great-9, is-8)
+ccomp(takes-2, great-9)
+advmod(great-9, too-10)
+
+=========
+
+nsubj(settings-3, It-1)
+aux(settings-3, has-2)
+root(ROOT-0, settings-3)
+prep_for(settings-3, tons-5)
+prep_of(tons-5, applications-7)
+amod(light-17, nighttime-9)
+amod(light-17, portrait-11)
+amod(light-17, panorama-13)
+advmod(light-17, too-15)
+advmod(light-17, much-16)
+amod(light-21, light-17)
+advmod(little-20, too-19)
+amod(light-21, little-20)
+prep_like(applications-7, light-21)
+dep(applications-7, etc.-23)
+
+=========
+
+det(list-2, The-1)
+nsubj(goes-3, list-2)
+root(ROOT-0, goes-3)
+prt(goes-3, on-4)
+dep(on-4, and-5)
+dep(on-4, on-6)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+dobj(like-7, thing-3)
+nsubj(manual-10, thing-3)
+nsubj(like-7, I-4)
+aux(like-7, do-5)
+neg(like-7, not-6)
+rcmod(thing-3, like-7)
+cop(manual-10, is-8)
+det(manual-10, the-9)
+root(ROOT-0, manual-10)
+nsubj(is-12, manual-10)
+rcmod(manual-10, is-12)
+det(disc-15, a-14)
+prep_on(is-12, disc-15)
+aux(view-17, to-16)
+infmod(disc-15, view-17)
+poss(etc.-21, your-19)
+nn(etc.-21, computer-20)
+prep_on(view-17, etc.-21)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+nn(books-5, paper-3)
+nn(books-5, manual-4)
+dobj(like-2, books-5)
+advmod(like-2, personally-6)
+
+=========
+
+dep(found-3, So-1)
+nsubj(found-3, I-2)
+root(ROOT-0, found-3)
+dobj(found-3, myself-4)
+xcomp(found-3, printing-5)
+prt(printing-5, out-6)
+det(pages-8, the-7)
+dobj(printing-5, pages-8)
+dobj(needed-10, pages-8)
+nsubj(needed-10, I-9)
+xsubj(study-12, I-9)
+rcmod(pages-8, needed-10)
+aux(study-12, to-11)
+xcomp(needed-10, study-12)
+advmod(study-12, better-13)
+
+=========
+
+root(ROOT-0, Overall-1)
+mark(camera-5, though-2)
+det(fantastic-4, a-3)
+nsubj(camera-5, fantastic-4)
+dep(Overall-1, camera-5)
+

@@ -1,0 +1,158 @@
+=========
+
+nsubj(purchase-2, Worst-1)
+root(ROOT-0, purchase-2)
+advmod(purchase-2, ever-3)
+
+=========
+
+nsubj(worked-2, TV-1)
+root(ROOT-0, worked-2)
+acomp(worked-2, great-3)
+num(days-6, five-5)
+prep_for(worked-2, days-6)
+advmod(slow-9, then-8)
+acomp(worked-2, slow-9)
+prep_to(slow-9, power-11)
+advmod(worked-2, up-12)
+
+=========
+
+advmod(worse-2, Got-1)
+amod(dailey-3, worse-2)
+nsubj(start-7, dailey-3)
+advmod(start-7, until-4)
+aux(start-7, would-5)
+neg(start-7, not-6)
+root(ROOT-0, start-7)
+advmod(start-7, at-8)
+pobj(at-8, all-9)
+
+=========
+
+amod(calls-4, MANY-2)
+nn(calls-4, phone-3)
+prep_after(sents-11, calls-4)
+nn(center-7, warranty-6)
+prep_to(calls-4, center-7)
+nsubj(sents-11, they-9)
+advmod(sents-11, finally-10)
+root(ROOT-0, sents-11)
+dobj(sents-11, parts-12)
+
+=========
+
+neg(did-2, Never-1)
+root(ROOT-0, did-2)
+dobj(did-2, schedule-3)
+det(repairman-5, a-4)
+nsubj(did-2, repairman-5)
+aux(come-7, to-6)
+infmod(repairman-5, come-7)
+mark(said-10, as-8)
+nsubj(said-10, they-9)
+advcl(come-7, said-10)
+
+=========
+
+nsubj(replaced-2, I-1)
+root(ROOT-0, replaced-2)
+det(boards-5, the-3)
+num(boards-5, two-4)
+dobj(replaced-2, boards-5)
+nsubj(receive-17, myself-6)
+partmod(myself-6, worked-8)
+acomp(worked-8, fine-9)
+num(days-12, four-11)
+prep_for(worked-8, days-12)
+advmod(receive-17, now-14)
+aux(receive-17, will-15)
+neg(receive-17, not-16)
+rcmod(boards-5, receive-17)
+det(signal-19, a-18)
+dobj(receive-17, signal-19)
+
+=========
+
+nsubj(ready-3, I-1)
+cop(ready-3, am-2)
+root(ROOT-0, ready-3)
+aux(take-5, to-4)
+xcomp(ready-3, take-5)
+dobj(take-5, it-6)
+prt(take-5, out-7)
+det(desert-10, the-9)
+prep_in(take-5, desert-10)
+xcomp(ready-3, use-12)
+conj_and(take-5, use-12)
+dobj(use-12, it-13)
+nn(practice-16, target-15)
+prep_for(use-12, practice-16)
+nsubj(want-22, I-19)
+xsubj(clean-24, I-19)
+aux(want-22, do-20)
+neg(want-22, not-21)
+conj_but(ready-3, want-22)
+aux(clean-24, to-23)
+xcomp(want-22, clean-24)
+prt(clean-24, up-25)
+det(mess-27, the-26)
+dobj(clean-24, mess-27)
+
+=========
+
+csubjpass(made-5, Found-1)
+prep_out(Found-1, TCL-3)
+auxpass(made-5, is-4)
+root(ROOT-0, made-5)
+agent(made-5, Vizio-7)
+
+=========
+
+nsubj(refuse-2, I-1)
+xsubj(buy-4, I-1)
+root(ROOT-0, refuse-2)
+aux(buy-4, to-3)
+xcomp(refuse-2, buy-4)
+dobj(buy-4, either-5)
+det(brands-8, these-7)
+prep_of(either-5, brands-8)
+advmod(again-10, ever-9)
+advmod(buy-4, again-10)
+
+=========
+
+prep_over(wasted-4, three-2)
+nsubj(wasted-4, months-3)
+root(ROOT-0, wasted-4)
+prep_on(wasted-4, this-6)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, enough-4)
+
+=========
+
+root(ROOT-0, Spend-1)
+det(little-3, a-2)
+npadvmod(more-4, little-3)
+advmod(Spend-1, more-4)
+conj_and(Spend-1, buy-6)
+det(brand-10, a-7)
+amod(brand-10, reputable-8)
+nn(brand-10, name-9)
+dobj(buy-6, brand-10)
+
+=========
+
+nsubj(believe-2, Inow-1)
+root(ROOT-0, believe-2)
+nsubj(stands-4, TCL-3)
+ccomp(believe-2, stands-4)
+amod(Load-9, Total-7)
+amod(Load-9, Crap-8)
+prep_for(stands-4, Load-9)
+

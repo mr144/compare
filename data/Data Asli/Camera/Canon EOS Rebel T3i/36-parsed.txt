@@ -1,0 +1,21 @@
+=========
+
+amod(Canon-3, Did-1)
+nn(Canon-3, everything-2)
+nsubj(claimed-4, Canon-3)
+root(ROOT-0, claimed-4)
+nsubj(would-6, it-5)
+ccomp(claimed-4, would-6)
+dep(like-12, more-9)
+nsubj(like-12, I-10)
+advmod(like-12, really-11)
+conj_and(claimed-4, like-12)
+dobj(like-12, everything-13)
+nsubj(Met-16, it-15)
+prepc_about(like-12, Met-16)
+predet(expectations-19, all-17)
+poss(expectations-19, my-18)
+dobj(Met-16, expectations-19)
+det(fullest-22, the-21)
+prep_to(Met-16, fullest-22)
+

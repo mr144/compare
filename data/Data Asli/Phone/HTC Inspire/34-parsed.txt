@@ -1,0 +1,78 @@
+=========
+
+det(phone-2, This-1)
+nsubj(work-5, phone-2)
+aux(work-5, does-3)
+neg(work-5, not-4)
+root(ROOT-0, work-5)
+advmod(well-7, that-6)
+advmod(work-5, well-7)
+prep_for(work-5, tmobile-9)
+
+=========
+
+nsubj(gets-3, It-1)
+advmod(gets-3, barely-2)
+root(ROOT-0, gets-3)
+nsubj(send-9, signal-4)
+nn(cant-7, i-6)
+conj_and(signal-4, cant-7)
+nsubj(send-9, cant-7)
+advmod(send-9, even-8)
+ccomp(gets-3, send-9)
+nsubj(!!-11, pictures-10)
+ccomp(send-9, !!-11)
+nsubj(cant-13, I-12)
+ccomp(!!-11, cant-13)
+advmod(cant-13, even-14)
+dep(cant-13, make-15)
+nn(calls-17, phone-16)
+dobj(make-15, calls-17)
+prep_on(make-15, wifi-19)
+tmod(have-22, wifi-19)
+advmod(have-22, when-20)
+nsubj(have-22, I-21)
+dep(wifi-19, have-22)
+det(signal-24, no-23)
+dobj(have-22, signal-24)
+
+=========
+
+nsubj(choice-5, It-1)
+cop(choice-5, was-2)
+det(choice-5, a-3)
+amod(choice-5, bad-4)
+root(ROOT-0, choice-5)
+
+=========
+
+nsubj(hope-3, I-1)
+advmod(hope-3, really-2)
+root(ROOT-0, hope-3)
+nsubj(exchange-6, I-4)
+aux(exchange-6, can-5)
+ccomp(hope-3, exchange-6)
+dobj(exchange-6, it-7)
+mark(use-12, because-8)
+nsubj(use-12, i-9)
+aux(use-12, can-10)
+neg(use-12, not-11)
+advcl(exchange-6, use-12)
+det(phone-14, this-13)
+dobj(use-12, phone-14)
+mark(get-18, if-15)
+nsubj(get-18, I-16)
+neg(get-18, never-17)
+advcl(use-12, get-18)
+dobj(get-18, service-19)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+neg(recommend-4, not-3)
+root(ROOT-0, recommend-4)
+dobj(recommend-4, it-5)
+amod(users-8, tmobile-7)
+prep_for(recommend-4, users-8)
+

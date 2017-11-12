@@ -1,0 +1,142 @@
+=========
+
+nn(pentax-2, Old-1)
+nsubj(slr-4, pentax-2)
+num(pentax-2, 35mm-3)
+root(ROOT-0, slr-4)
+nn(user-6, workhorse-5)
+dobj(slr-4, user-6)
+advmod(slr-4, here-7)
+
+=========
+
+dep(was-24, with-2)
+det(ton-4, a-3)
+pobj(with-2, ton-4)
+prep_of(ton-4, glass-6)
+advmod(started-10, When-8)
+nsubj(started-10, digital-9)
+advcl(was-24, started-10)
+nsubj(had-12, I-11)
+ccomp(started-10, had-12)
+det(state-15, the-13)
+dobj(had-12, state-15)
+det(art-18, the-17)
+poss(P&S-22, art-18)
+nn(P&S-22, Nikon-20)
+nn(P&S-22, coolpix-21)
+prep_of(state-15, P&S-22)
+nsubj(was-24, that-23)
+dep(snapshots-29, was-24)
+advmod(snapshots-29, well-26)
+nsubj(snapshots-29, quick-28)
+root(ROOT-0, snapshots-29)
+
+=========
+
+root(ROOT-0, Graduated-1)
+det(c8080-5, an-3)
+nn(c8080-5, Olympus-4)
+prep_to(Graduated-1, c8080-5)
+nsubj(decent-9, that-7)
+cop(decent-9, was-8)
+conj_and(Graduated-1, decent-9)
+
+=========
+
+advmod(\*-2, Then-1)
+root(ROOT-0, \*-2)
+advmod(\*-2, finally-3)
+dep(came-6, \*-4)
+nsubj(came-6, Pentax-5)
+dep(finally-3, came-6)
+advmod(came-6, back-7)
+det(scene-10, the-9)
+prep_on(came-6, scene-10)
+
+=========
+
+advmod(get-2, Finally-1)
+root(ROOT-0, get-2)
+det(chance-4, a-3)
+dobj(get-2, chance-4)
+aux(get-6, to-5)
+infmod(chance-4, get-6)
+det(lenses-9, the-7)
+amod(lenses-9, old-8)
+dobj(get-6, lenses-9)
+prep_out_of(get-6, storage-12)
+
+=========
+
+dep(Pentax-2, And-1)
+root(ROOT-0, Pentax-2)
+nn(rocks-4, glass-3)
+dobj(Pentax-2, rocks-4)
+
+=========
+
+num(tho-3, One-1)
+amod(tho-3, gripe-2)
+nsubj(had-5, tho-3)
+xsubj(drill-7, tho-3)
+root(ROOT-0, had-5)
+aux(drill-7, to-6)
+xcomp(had-5, drill-7)
+det(hole-9, a-8)
+nsubj(cap-12, hole-9)
+det(cap-12, the-10)
+nn(cap-12, lens-11)
+xcomp(drill-7, cap-12)
+xcomp(had-5, attach-14)
+conj_and(drill-7, attach-14)
+det(line-17, some-15)
+nn(line-17, fishing-16)
+dobj(attach-14, line-17)
+mark(take-22, so-18)
+nsubj(take-22, I-19)
+nsubj(let-26, I-19)
+aux(take-22, could-20)
+advmod(take-22, just-21)
+advcl(attach-14, take-22)
+dobj(take-22, it-23)
+prt(take-22, off-24)
+advcl(attach-14, let-26)
+conj_and(take-22, let-26)
+nsubj(hang-28, it-27)
+ccomp(let-26, hang-28)
+
+=========
+
+nsubj(pain-2, Royal-1)
+xsubj(have-4, Royal-1)
+root(ROOT-0, pain-2)
+aux(have-4, to-3)
+xcomp(pain-2, have-4)
+aux(figure-6, to-5)
+xcomp(have-4, figure-6)
+prt(figure-6, out-7)
+nsubj(do-10, what-8)
+aux(do-10, to-9)
+ccomp(figure-6, do-10)
+xcomp(figure-6, do-10)
+prep_with(do-10, it-12)
+advmod(want-15, when-13)
+nsubj(want-15, you-14)
+xsubj(take-17, you-14)
+advcl(do-10, want-15)
+aux(take-17, to-16)
+xcomp(want-15, take-17)
+det(shot-20, a-18)
+amod(shot-20, quick-19)
+dobj(take-17, shot-20)
+
+=========
+
+nsubj(Pentax-4, Shame-1)
+prep_on(Shame-1, you-3)
+root(ROOT-0, Pentax-4)
+
+=========
+
+

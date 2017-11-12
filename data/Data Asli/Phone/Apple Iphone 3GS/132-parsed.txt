@@ -1,0 +1,53 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(bc-5, this-3)
+amod(bc-5, iphone-4)
+dobj(bought-2, bc-5)
+nsubj(advertised-7, they-6)
+rcmod(bc-5, advertised-7)
+mark(unlocked-11, as-8)
+num(company-10, &#34;-9)
+nsubj(unlocked-11, company-10)
+advcl(advertised-7, unlocked-11)
+dobj(unlocked-11, &#34;-12)
+
+=========
+
+det(iPhone-2, This-1)
+nsubj(jailbroken-5, iPhone-2)
+cop(jailbroken-5, is-3)
+amod(jailbroken-5, illegal-4)
+root(ROOT-0, jailbroken-5)
+
+=========
+
+neg(upgrade-2, Never-1)
+root(ROOT-0, upgrade-2)
+nsubj(impossible-5, it-3)
+nsubj(internet-12, it-3)
+advmod(impossible-5, !!!!!!!!!!!!-4)
+xcomp(upgrade-2, impossible-5)
+aux(install-7, to-6)
+xcomp(impossible-5, install-7)
+dobj(install-7, skype-8)
+npadvmod(internet-12, share-11)
+xcomp(upgrade-2, internet-12)
+conj_or(impossible-5, internet-12)
+mark(4-17, since-13)
+det(iOs-15, the-14)
+nsubj(4-17, iOs-15)
+cop(4-17, is-16)
+dep(internet-12, 4-17)
+nsubj(need-20, you-19)
+dep(internet-12, need-20)
+conj_and(4-17, need-20)
+quantmod(5-23, at-21)
+mwe(at-21, least-22)
+pobj(at-21, least-22)
+dobj(need-20, 5-23)
+prep_for(5-23, most-25)
+det(applications-28, the-27)
+prep_of(most-25, applications-28)
+

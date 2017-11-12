@@ -1,0 +1,148 @@
+=========
+
+advmod(unlock-7, Unhappy-1)
+det(phone-4, This-3)
+nsubj(unlock-7, phone-4)
+cop(unlock-7, is-5)
+neg(unlock-7, not-6)
+root(ROOT-0, unlock-7)
+poss(sim-card-11, My-9)
+amod(sim-card-11, T-mobile-10)
+nsubj(allow-14, sim-card-11)
+aux(allow-14, does-12)
+neg(allow-14, not-13)
+dep(unlock-7, allow-14)
+dobj(allow-14, internet-15)
+poss(cell-18, my-17)
+prep_in(allow-14, cell-18)
+
+=========
+
+amod(works-2, Wi-fi-1)
+nsubj(work-8, works-2)
+amod(works-2, great-3)
+amod(works-2, internet-5)
+conj_but(great-3, internet-5)
+aux(work-8, does-6)
+neg(work-8, not-7)
+root(ROOT-0, work-8)
+advmod(making-11, all-10)
+prepc_at(work-8, making-11)
+acomp(making-11, impossible-12)
+aux(receive-14, to-13)
+xcomp(impossible-12, receive-14)
+nn(messages-16, picture-15)
+dobj(receive-14, messages-16)
+
+=========
+
+nsubj(have-4, also-1)
+aux(have-4, does-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+det(camera-7, a-5)
+amod(camera-7, front-6)
+dobj(have-4, camera-7)
+
+=========
+
+det(video-5, no-1)
+amod(video-5, good-2)
+aux(make-4, to-3)
+xcomp(good-2, make-4)
+nsubj(calls-6, video-5)
+root(ROOT-0, calls-6)
+
+=========
+
+nsubj(contacted-2, UPDATEI-1)
+root(ROOT-0, contacted-2)
+det(seller-4, the-3)
+dobj(contacted-2, seller-4)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+nsubj(is-4, thing-3)
+root(ROOT-0, is-4)
+nsubj(make-9, I-5)
+advmod(make-9, still-6)
+aux(make-9, can-7)
+neg(make-9, not-8)
+ccomp(is-4, make-9)
+amod(calls-11, video-10)
+dobj(make-9, calls-11)
+mark(have-16, because-12)
+nsubj(have-16, it-13)
+aux(have-16, does-14)
+neg(have-16, not-15)
+advcl(make-9, have-16)
+det(cameraUPDATETmobile-19, a-17)
+amod(cameraUPDATETmobile-19, front-18)
+nsubj(solve-20, cameraUPDATETmobile-19)
+ccomp(have-16, solve-20)
+det(signal-28, the-21)
+amod(signal-28, isue-22)
+dep(still-24, but-23)
+dep(isue-22, still-24)
+dep(still-24, sometimes-25)
+nn(signal-28, i-26)
+nn(signal-28, loose-27)
+dobj(solve-20, signal-28)
+prep_in(signal-28, places-30)
+advmod(had-34, where-31)
+nsubj(had-34, i-32)
+advmod(had-34, always-33)
+advcl(have-16, had-34)
+dobj(had-34, reception-35)
+advmod(reception-35, before-36)
+det(phone-40, a-38)
+amod(phone-40, tmobile-39)
+prep_with(reception-35, phone-40)
+
+=========
+
+nsubj(drains-2, It-1)
+root(ROOT-0, drains-2)
+det(battery-4, the-3)
+nsubj(quick-6, battery-4)
+advmod(quick-6, really-5)
+xcomp(drains-2, quick-6)
+
+=========
+
+amod(night-2, Last-1)
+dep(charge-5, night-2)
+nsubj(charge-5, i-3)
+advmod(charge-5, fully-4)
+root(ROOT-0, charge-5)
+dobj(charge-5, it-6)
+poss(day-10, my-8)
+amod(day-10, mid-9)
+nsubjpass(use-18, day-10)
+det(battery-12, the-11)
+dep(day-10, battery-12)
+auxpass(use-18, was-13)
+advmod(use-18, almost-14)
+amod(withouth-16, dead-15)
+pobj(almost-14, withouth-16)
+cop(use-18, been-17)
+conj_and(charge-5, use-18)
+advmod(use-18, at-19)
+pobj(at-19, all-20)
+
+=========
+
+root(ROOT-0, Unhappy-1)
+nsubj(trying-5, I-3)
+xsubj(get-7, I-3)
+aux(trying-5, am-4)
+dep(Unhappy-1, trying-5)
+aux(get-7, to-6)
+xcomp(trying-5, get-7)
+det(refund-9, a-8)
+dobj(get-7, refund-9)
+

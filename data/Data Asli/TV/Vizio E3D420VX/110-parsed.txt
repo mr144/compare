@@ -1,0 +1,45 @@
+=========
+
+root(ROOT-0, Love-1)
+det(TV-3, this-2)
+dobj(Love-1, TV-3)
+
+=========
+
+nsubj(had-2, We-1)
+root(ROOT-0, had-2)
+det(idea-4, no-3)
+dobj(had-2, idea-4)
+advmod(be-10, how-5)
+amod(picture-8, sharp-6)
+det(picture-8, a-7)
+nsubj(be-10, picture-8)
+aux(be-10, could-9)
+dep(idea-4, be-10)
+
+=========
+
+advmod(sharp-2, Very-1)
+root(ROOT-0, sharp-2)
+
+=========
+
+det(Internet-3, the-2)
+prep_like(wish-6, Internet-3)
+nsubj(wish-6, apps-4)
+advmod(wish-6, however-5)
+root(ROOT-0, wish-6)
+expl(was-8, there-7)
+ccomp(wish-6, was-8)
+det(keyboard-11, an-9)
+nn(keyboard-11, exterior-10)
+nsubj(was-8, keyboard-11)
+
+=========
+
+amod(key-2, Remote-1)
+nsubj(pain-5, key-2)
+cop(pain-5, is-3)
+det(pain-5, a-4)
+root(ROOT-0, pain-5)
+

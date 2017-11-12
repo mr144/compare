@@ -1,0 +1,5 @@
+This_DT TV_NN is_VBZ even_RB better_RBR than_IN I_PRP expect_VBP ._.
+The_DT shipping_NN was_VBD fast_RB ._.
+I_PRP am_VBP watching_VBG so_RB many_JJ things_NNS on_IN this_DT TV_NN that_IN I_PRP did_VBD not_RB know_VB was_VBD possible_JJ ._.
+^_FW __FW ^_FW ._.
+The_DT quality_NN is_VBZ nice_JJ and_CC the_DT sound_NN is_VBZ clear_JJ ._.

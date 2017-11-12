@@ -1,0 +1,37 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+nsubj(take-5, this-3)
+aux(take-5, to-4)
+xcomp(bought-2, take-5)
+nn(photos-7, reference-6)
+dobj(take-5, photos-7)
+prep_for(take-5, painting-9)
+
+=========
+
+nsubj(photographer-4, I-1)
+cop(photographer-4, am-2)
+advmod(photographer-4, no-3)
+root(ROOT-0, photographer-4)
+
+=========
+
+poss(purposes-3, my-2)
+prep_for(works-6, purposes-3)
+det(camera-5, this-4)
+nsubj(works-6, camera-5)
+root(ROOT-0, works-6)
+advmod(works-6, well-7)
+
+=========
+
+nsubj(light-3, It-1)
+nsubj(easy-5, It-1)
+cop(light-3, is-2)
+root(ROOT-0, light-3)
+conj_and(light-3, easy-5)
+aux(learn-7, to-6)
+xcomp(light-3, learn-7)
+

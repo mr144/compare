@@ -1,0 +1,2 @@
+this_DT is_VBZ very_RB nice_JJ phone_NN ..._: and_CC the_DT delivery_NN time_NN was_VBD really_RB good_JJ ._.
+Only_RB probelm_NN was_VBD ,_, it_PRP was_VBD not_RB fully_RB unlocked_VBN ,_, I_PRP was_VBD required_VBN to_TO unlock_VB it_PRP purchasing_VBG codes_NNS ._.

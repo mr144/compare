@@ -1,0 +1,29 @@
+=========
+
+nsubj(pleasure-5, It-1)
+cop(pleasure-5, is-2)
+advmod(pleasure-5, always-3)
+det(pleasure-5, a-4)
+root(ROOT-0, pleasure-5)
+partmod(pleasure-5, dealing-6)
+prep_with(dealing-6, Amazon.com-8)
+
+=========
+
+nsubj(ordered-2, items-1)
+root(ROOT-0, ordered-2)
+dep(ordered-2, are-3)
+amod(condition-6, great-5)
+prep_in(are-3, condition-6)
+partmod(condition-6, come-8)
+prt(come-8, on-9)
+mark(promised-14, before-11)
+det(time-13, the-12)
+nsubj(promised-14, time-13)
+dep(ordered-2, promised-14)
+conj_or(are-3, promised-14)
+
+=========
+
+root(ROOT-0, Thanks-1)
+

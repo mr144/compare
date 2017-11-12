@@ -1,0 +1,298 @@
+=========
+
+advmod(off-2, First-1)
+advmod(Bravia-12, off-2)
+amod(picture-5, GREAT-4)
+nsubj(Bravia-12, picture-5)
+appos(picture-5, better-7)
+poss(brother-10, my-9)
+prep_than(better-7, brother-10)
+cop(Bravia-12, 's-11)
+root(ROOT-0, Bravia-12)
+nsubj(has-15, Bravia-12)
+rcmod(Bravia-12, has-15)
+amod(control-18, back-lighting-16)
+nn(control-18, picture-17)
+dobj(has-15, control-18)
+
+=========
+
+cc(praise-3, But-1)
+nsubj(praise-3, enough-2)
+root(ROOT-0, praise-3)
+amod(money-8, WAY-5)
+advmod(much-7, too-6)
+amod(money-8, much-7)
+dobj(praise-3, money-8)
+iobj(praise-3, money-8)
+det(television-11, a-10)
+prep_for(money-8, television-11)
+mark(one-18, although-13)
+nsubj(one-18, it-14)
+cop(one-18, is-15)
+det(one-18, a-16)
+amod(one-18, beautiful-17)
+dep(television-11, one-18)
+advmod(far-20, as-19)
+advmod(one-18, far-20)
+mark(go-23, as-21)
+nsubj(go-23, looks-22)
+ccomp(far-20, go-23)
+dep(thinking-30, especially-26)
+mark(thinking-30, if-27)
+nsubj(thinking-30, you-28)
+aux(thinking-30, are-29)
+dep(money-8, thinking-30)
+num(Wow-33, &#34;-32)
+dep(money-8, Wow-33)
+
+=========
+
+nsubj(sit-3, I-1)
+nsubj(surf-8, I-1)
+aux(sit-3, can-2)
+root(ROOT-0, sit-3)
+det(Barcalounger-6, the-5)
+prep_in(sit-3, Barcalounger-6)
+conj_and(sit-3, surf-8)
+det(net-11, the-9)
+dobj(surf-8, net-11)
+
+=========
+
+root(ROOT-0, &#34;-1)
+advmod(&#34;-1, Wrong-2)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+mark(known-5, Once-1)
+poss(pattern-3, your-2)
+nsubjpass(known-5, pattern-3)
+auxpass(known-5, is-4)
+advcl(lock-12, known-5)
+poss(browser-10, Panasonic-7)
+amod(browser-10, proprietary-9)
+nsubj(lock-12, browser-10)
+aux(lock-12, will-11)
+root(ROOT-0, lock-12)
+dobj(lock-12, you-13)
+prt(lock-12, out-14)
+
+=========
+
+cc(modem-8, Or-1)
+nsubj(modem-8, it-2)
+aux(modem-8, could-3)
+cop(modem-8, be-4)
+poss(cable-provider-6, your-5)
+poss(modem-8, cable-provider-6)
+root(ROOT-0, modem-8)
+
+=========
+
+dep(router-3, Or-1)
+poss(router-3, your-2)
+root(ROOT-0, router-3)
+dobj(Belkin-6, router-3)
+nsubj(Belkin-6, beware-5)
+rcmod(router-3, Belkin-6)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+det(computer-3, a-2)
+prep_with(use-7, computer-3)
+nsubj(use-7, you-5)
+nsubj(toss-12, you-5)
+aux(use-7, can-6)
+root(ROOT-0, use-7)
+det(keyboard-10, a-8)
+amod(keyboard-10, wireless-9)
+dobj(use-7, keyboard-10)
+conj_and(use-7, toss-12)
+det(remote-14, the-13)
+dobj(toss-12, remote-14)
+
+=========
+
+root(ROOT-0, Let-1)
+nsubj(clear-4, 's-2)
+nsubj(re-sell-25, 's-2)
+nsubj(re-sell-28, 's-2)
+cop(clear-4, be-3)
+ccomp(Let-1, clear-4)
+num(thing-7, one-6)
+prep_about(clear-4, thing-7)
+det(media-creators-10, the-9)
+nsubj(getting-13, media-creators-10)
+aux(getting-13, are-11)
+neg(getting-13, not-12)
+rcmod(thing-7, getting-13)
+amod(money-15, more-14)
+dobj(getting-13, money-15)
+advmod(people-19, just-17)
+det(people-19, the-18)
+appos(money-15, people-19)
+nsubj(sell-21, people-19)
+rcmod(people-19, sell-21)
+dobj(sell-21, it-22)
+ccomp(Let-1, re-sell-25)
+conj_and(clear-4, re-sell-25)
+dobj(re-sell-25, it-26)
+ccomp(Let-1, re-sell-28)
+conj_and(clear-4, re-sell-28)
+dobj(re-sell-28, it-29)
+
+=========
+
+nsubj(know-2, I-1)
+ccomp(musician-7, know-2)
+nsubj(musician-7, I-4)
+cop(musician-7, was-5)
+det(musician-7, a-6)
+root(ROOT-0, musician-7)
+
+=========
+
+poss(checks-3, My-1)
+nn(checks-3, royalty-2)
+nsubj(ending-13, checks-3)
+aux(ending-13, are-4)
+quantmod($-6, about-5)
+npadvmod(once-8, $-6)
+number($-6, 12.98-7)
+advmod(ending-13, once-8)
+det(month-11, each-10)
+prep_in(once-8, month-11)
+neg(month-11, not-12)
+root(ROOT-0, ending-13)
+det(b-17, a-15)
+num(b-17, &#34;-16)
+prep_in(ending-13, b-17)
+num(b-17, &#34;-18)
+
+=========
+
+nsubj(are-2, Providers-1)
+root(ROOT-0, are-2)
+neg(are-2, not-3)
+advmod(are-2, only-4)
+ccomp(are-2, stealing-5)
+nn(Internet-7, OUR-6)
+dobj(stealing-5, Internet-7)
+amod(DefenseAdvanceResearchProjectAdministration-13, tax-payers-9)
+nn(DefenseAdvanceResearchProjectAdministration-13, +-10)
+nn(DefenseAdvanceResearchProjectAdministration-13, DoD-11)
+nn(DefenseAdvanceResearchProjectAdministration-13, =-12)
+abbrev(Internet-7, DefenseAdvanceResearchProjectAdministration-13)
+nn(Net-20, D-15)
+nn(Net-20, =-16)
+nn(Net-20, ARPA-17)
+nn(Net-20, =-18)
+nn(Net-20, ARPA-19)
+dep(DefenseAdvanceResearchProjectAdministration-13, Net-20)
+dep(Internet-22, =-21)
+rcmod(Net-20, Internet-22)
+ccomp(are-2, denying-25)
+conj_but(stealing-5, denying-25)
+det(open-sharing-27, the-26)
+dobj(denying-25, open-sharing-27)
+amod(networks-30, peer-to-peer-29)
+prep_on(denying-25, networks-30)
+nsubj(payment-38, networks-30)
+cop(payment-38, is-33)
+det(payment-38, the-34)
+amod(payment-38, only-35)
+amod(payment-38, true-36)
+dep(true-36, &#34;-37)
+rcmod(networks-30, payment-38)
+dep(payment-38, &#34;-39)
+nsubj(make-43, &#34;-39)
+prep_for(&#34;-39, those-41)
+rcmod(payment-38, make-43)
+rcmod(&#34;-39, make-43)
+dobj(make-43, stuff-44)
+dobj(want-46, stuff-44)
+nsubj(want-46, they-45)
+rcmod(stuff-44, want-46)
+nsubj(see-49, others-47)
+aux(see-49, to-48)
+xcomp(want-46, see-49)
+
+=========
+
+det(reason-2, The-1)
+nsubj(TV-8, reason-2)
+det(TV-4, this-3)
+dep(reason-2, TV-4)
+cop(TV-8, is-5)
+advmod(TV-8, just-6)
+det(TV-8, a-7)
+root(ROOT-0, TV-8)
+neg(That-12, Not-10)
+predet(That-12, All-11)
+conj_and(TV-8, That-12)
+
+=========
+
+root(ROOT-0, Money-1)
+
+=========
+
+nsubj(share-4, Cable\/cellphones\/computer-1)
+aux(share-4, will-2)
+neg(share-4, not-3)
+root(ROOT-0, share-4)
+det(other-7, each-6)
+prep_with(share-4, other-7)
+advmod(share-4, either-9)
+
+=========
+
+nn(Brother-2, Big-1)
+nsubj(is-3, Brother-2)
+root(ROOT-0, is-3)
+advmod(is-3, officially-4)
+advmod(is-3, here-5)
+nsubj(data-14, YOU-7)
+cop(data-14, are-8)
+num(data-14, one-9)
+amod(data-14, big-10)
+nn(data-14, mass-11)
+nn(data-14, o-12)
+parataxis(is-3, data-14)
+predet(habits-18, all-16)
+poss(habits-18, your-17)
+nsubjpass(tracked-21, habits-18)
+aux(tracked-21, are-19)
+auxpass(tracked-21, being-20)
+parataxis(is-3, tracked-21)
+det(click-24, every-23)
+prep_with(tracked-21, click-24)
+
+=========
+
+mark(is-6, If-1)
+dobj(doing-5, what-2)
+nsubj(doing-5, you-3)
+aux(doing-5, are-4)
+csubj(is-6, doing-5)
+advcl(shut-16, is-6)
+neg(is-6, not-7)
+poss(liking-11, Someone-9)
+prep_to(is-6, liking-11)
+nsubjpass(shut-16, you-13)
+aux(shut-16, will-14)
+auxpass(shut-16, be-15)
+root(ROOT-0, shut-16)
+prt(shut-16, down-17)
+
+=========
+
+amod(TV-2, Happy-1)
+root(ROOT-0, TV-2)
+partmod(TV-2, viewing-3)
+

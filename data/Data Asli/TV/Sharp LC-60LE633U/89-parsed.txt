@@ -1,0 +1,111 @@
+=========
+
+nsubj(bought-2, We-1)
+nsubj(impressed-12, We-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+npadvmod(ago-8, TV-4)
+det(week-7, a-6)
+conj_and(TV-4, week-7)
+npadvmod(ago-8, week-7)
+advmod(bought-2, ago-8)
+cop(impressed-12, are-10)
+advmod(impressed-12, very-11)
+conj_and(bought-2, impressed-12)
+
+=========
+
+det(TV-2, This-1)
+nsubj(blow-4, TV-2)
+aux(blow-4, will-3)
+root(ROOT-0, blow-4)
+dobj(blow-4, you-5)
+prt(blow-4, away-6)
+det(clarity-9, the-8)
+prep_with(blow-4, clarity-9)
+det(options-13, the-11)
+amod(options-13, different-12)
+prep_with(blow-4, options-13)
+conj_and(clarity-9, options-13)
+
+=========
+
+det(TV-2, The-1)
+nsubj(dropped-3, TV-2)
+root(ROOT-0, dropped-3)
+prep_in(dropped-3, price-5)
+quantmod(75-8, almost-7)
+num(dollars-9, 75-8)
+prep_by(dropped-3, dollars-9)
+mark(bought-12, after-10)
+nsubj(bought-12, we-11)
+advcl(dropped-3, bought-12)
+nsubj(credited-16, it-13)
+conj_and(it-13, AMAZON-15)
+nsubj(credited-16, AMAZON-15)
+ccomp(bought-12, credited-16)
+poss(card-19, my-17)
+nn(card-19, credit-18)
+nsubj(difference-21, card-19)
+det(difference-21, the-20)
+xcomp(credited-16, difference-21)
+
+=========
+
+dep(tax-4, The-1)
+det(tax-4, no-2)
+nn(tax-4, sales-3)
+nsubj(awesome-9, tax-4)
+amod(delivery-7, free-6)
+conj_and(tax-4, delivery-7)
+nsubj(awesome-9, delivery-7)
+cop(awesome-9, were-8)
+root(ROOT-0, awesome-9)
+
+=========
+
+det(company-3, The-1)
+nn(company-3, delivery-2)
+nsubj(professional-6, company-3)
+cop(professional-6, was-4)
+advmod(professional-6, very-5)
+root(ROOT-0, professional-6)
+
+=========
+
+nsubj(unpacked-2, They-1)
+nsubj(helped-5, They-1)
+root(ROOT-0, unpacked-2)
+dobj(unpacked-2, it-3)
+conj_and(unpacked-2, helped-5)
+xcomp(helped-5, set-6)
+dobj(set-6, it-7)
+prt(set-6, up-8)
+
+=========
+
+nsubj(purchased-3, I-1)
+advmod(purchased-3, also-2)
+root(ROOT-0, purchased-3)
+det(warranty-7, the-4)
+num(warranty-7, 4-5)
+nn(warranty-7, year-6)
+dobj(purchased-3, warranty-7)
+det(TV-10, the-9)
+prep_for(warranty-7, TV-10)
+
+=========
+
+nsubj(half-4, It-1)
+cop(half-4, was-2)
+quantmod(half-4, almost-3)
+root(ROOT-0, half-4)
+dep(wold-8, what-6)
+nsubj(paid-10, what-6)
+nsubj(wold-8, I-7)
+prepc_of(half-4, wold-8)
+aux(paid-10, have-9)
+ccomp(wold-8, paid-10)
+amod(Buy-13, Best-12)
+prep_at(paid-10, Buy-13)
+

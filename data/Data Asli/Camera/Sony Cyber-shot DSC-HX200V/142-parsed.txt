@@ -1,0 +1,36 @@
+=========
+
+nsubj(received-3, I-1)
+advmod(received-3, recently-2)
+root(ROOT-0, received-3)
+det(camera-8, a-4)
+nn(camera-8, Sony-5)
+nn(camera-8, HX-6)
+num(camera-8, 200-7)
+dobj(received-3, camera-8)
+prep_for(received-3, Christmas-10)
+
+=========
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+advmod(camera-7, far-4)
+det(camera-7, the-5)
+amod(camera-7, best-6)
+prep_by(is-2, camera-7)
+det(market-10, the-9)
+prep_on(camera-7, market-10)
+poss(price-13, its-12)
+prep_for(market-10, price-13)
+prep_for(market-10, features-15)
+conj_and(price-13, features-15)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(thanks-5, this-3)
+nn(thanks-5, camera-4)
+nsubj(Sony-6, thanks-5)
+xcomp(love-2, Sony-6)
+

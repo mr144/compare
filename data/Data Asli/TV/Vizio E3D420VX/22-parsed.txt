@@ -1,0 +1,26 @@
+=========
+
+nsubj(used-10, This-1)
+cop(used-10, is-2)
+det(room-6, a-4)
+nn(room-6, guest-5)
+prep_in(used-10, room-6)
+advmod(used-10, consequently-8)
+neg(used-10, not-9)
+root(ROOT-0, used-10)
+advmod(often-12, very-11)
+advmod(used-10, often-12)
+
+=========
+
+nsubj(great-5, Picture-1)
+conj_and(Picture-1, sound-3)
+nsubj(great-5, sound-3)
+cop(great-5, are-4)
+root(ROOT-0, great-5)
+ccomp(great-5, use-7)
+parataxis(great-5, use-7)
+dobj(use-7, it-8)
+nn(Headphones-11, Sensenhauser-10)
+prep_with(use-7, Headphones-11)
+

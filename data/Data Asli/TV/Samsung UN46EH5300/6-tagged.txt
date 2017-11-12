@@ -1,0 +1,4 @@
+User_NNP Interface_NNP is_VBZ great_JJ -_: very_RB friendly_JJ ,_, easy_JJ to_TO navigate_VB ,_, love_VBP that_IN all_PDT my_PRP$ accounts_NNS can_MD be_VB accessed_VBN from_IN one_CD place_NN ._.
+The_DT eco-mode_NN realizes_VBZ the_DT room_NN is_VBZ dark_JJ and_CC reduces_VBZ screen_NN brightness_NN -LRB-_-LRB- awesome_JJ !_. -RRB-_-RRB-
+Very_RB happy_JJ with_IN this_DT purchase_NN ._.
+Would_MD definitely_RB use_VB this_DT brand_NN again_RB for_IN future_JJ TV_NN purchases_NNS ._.

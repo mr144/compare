@@ -1,0 +1,31 @@
+=========
+
+amod(product-2, Excellent-1)
+nsubj(think-23, product-2)
+cop(fast-9, is-4)
+advmod(fast-9, super-5)
+amod(fast-9, full-6)
+advmod(fast-9, very-8)
+ccomp(think-23, fast-9)
+nsubj(love-12, I-11)
+dep(fast-9, love-12)
+det(phone-14, the-13)
+dobj(love-12, phone-14)
+nsubj(product-20, it-16)
+cop(product-20, is-17)
+advmod(good-19, very-18)
+amod(product-20, good-19)
+ccomp(fast-9, product-20)
+nsubj(think-23, I-22)
+root(ROOT-0, think-23)
+nsubj(addictive-26, it-24)
+cop(addictive-26, is-25)
+ccomp(think-23, addictive-26)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+

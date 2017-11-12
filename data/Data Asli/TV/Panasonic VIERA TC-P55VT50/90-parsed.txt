@@ -1,0 +1,101 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+aux(replace-6, to-5)
+infmod(TV-4, replace-6)
+det(plasma-12, a-7)
+number(old-10, 7-8)
+dep(old-10, year-9)
+amod(plasma-12, old-10)
+amod(plasma-12, panasonic-11)
+dobj(replace-6, plasma-12)
+complm(loved-16, that-13)
+nsubj(loved-16, I-14)
+advmod(loved-16, absolutely-15)
+ccomp(replace-6, loved-16)
+
+=========
+
+nsubj(struggled-2, I-1)
+xsubj(decide-4, I-1)
+root(ROOT-0, struggled-2)
+aux(decide-4, to-3)
+xcomp(struggled-2, decide-4)
+prep_between(decide-4, this-6)
+det(LCD-11, a-8)
+nn(LCD-11, Sony-9)
+nn(LCD-11, LED-10)
+prep_between(decide-4, LCD-11)
+conj_and(this-6, LCD-11)
+
+=========
+
+det(end-3, the-2)
+prep_in(bought-5, end-3)
+nsubj(bought-5, I-4)
+nsubj(happy-10, I-4)
+root(ROOT-0, bought-5)
+dobj(bought-5, this-6)
+cop(happy-10, am-8)
+advmod(happy-10, very-9)
+conj_and(bought-5, happy-10)
+
+=========
+
+det(TV-2, The-1)
+nsubj(looks-3, TV-2)
+root(ROOT-0, looks-3)
+acomp(looks-3, great-4)
+det(wall-7, the-6)
+prep_on(great-4, wall-7)
+det(picture-10, the-9)
+nsubj(fantastic-12, picture-10)
+cop(fantastic-12, is-11)
+conj_and(looks-3, fantastic-12)
+
+=========
+
+nsubj(sub-par-3, Sound-1)
+nsubj(tolerable-5, Sound-1)
+cop(sub-par-3, is-2)
+root(ROOT-0, sub-par-3)
+conj_but(sub-par-3, tolerable-5)
+
+=========
+
+det(TV-2, The-1)
+poss(presets-4, TV-2)
+nsubj(good-7, presets-4)
+cop(good-7, are-5)
+advmod(good-7, very-6)
+root(ROOT-0, good-7)
+amod(tweeking-10, little-9)
+prep_with(good-7, tweeking-10)
+xsubj(get-13, tweeking-10)
+partmod(tweeking-10, needed-11)
+aux(get-13, to-12)
+xcomp(needed-11, get-13)
+det(picture-16, a-14)
+amod(picture-16, great-15)
+dobj(get-13, picture-16)
+
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+root(ROOT-0, TV-5)
+cop(deal-10, is-7)
+det(deal-10, a-8)
+amod(deal-10, good-9)
+conj_and(TV-5, deal-10)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

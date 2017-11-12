@@ -1,0 +1,4 @@
+We_PRP got_VBD this_DT for_IN our_PRP$ 15_CD year_NN old_JJ for_IN Christmas_NNP --_: his_PRP$ first_JJ phone_NN ._.
+He_PRP 's_VBZ as_RB happy_JJ as_IN a_DT clam_NN and_CC so_RB are_VBP we_PRP ._.
+My_PRP$ only_JJ complaint_NN against_IN the_DT iPhone_NN is_VBZ that_IN the_DT battery_NN can_MD not_RB be_VB replaced_VBN by_IN ordinary_JJ humans_NNS ._.
+But_CC it_PRP does_VBZ good_JJ stuff_NN and_CC it_PRP always_RB works_VBZ ._.

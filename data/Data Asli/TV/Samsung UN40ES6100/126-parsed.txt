@@ -1,0 +1,139 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(TV-5, this-4)
+dobj(had-3, TV-5)
+quantmod(three-8, about-7)
+num(weeks-9, three-8)
+prep_for(TV-5, weeks-9)
+
+=========
+
+nsubj(has-2, It-1)
+xsubj(work-5, It-1)
+root(ROOT-0, has-2)
+advmod(has-2, yet-3)
+aux(work-5, to-4)
+xcomp(has-2, work-5)
+advmod(work-5, properly-6)
+
+=========
+
+nn(Hub-2, Smart-1)
+nsubj(slow-5, Hub-2)
+xsubj(load-7, Hub-2)
+cop(slow-5, is-3)
+advmod(slow-5, extremely-4)
+root(ROOT-0, slow-5)
+aux(load-7, to-6)
+xcomp(slow-5, load-7)
+
+=========
+
+poss(apps-2, My-1)
+nsubj(disappear-4, apps-2)
+advmod(disappear-4, mysteriously-3)
+root(ROOT-0, disappear-4)
+nn(connection-7, network-6)
+nsubj(fail-8, connection-7)
+dep(disappear-4, fail-8)
+advmod(fail-8, periodically-9)
+nsubj(stream-15, I-12)
+aux(stream-15, can-13)
+neg(stream-15, not-14)
+conj_and(disappear-4, stream-15)
+nsubj(direct-21, video-16)
+prep_via(video-16, router-18)
+prep_via(video-16, wi-fi-20)
+conj_or(router-18, wi-fi-20)
+xcomp(stream-15, direct-21)
+
+=========
+
+nsubj(tried-3, I-1)
+xsubj(get-5, I-1)
+aux(tried-3, have-2)
+root(ROOT-0, tried-3)
+aux(get-5, to-4)
+xcomp(tried-3, get-5)
+dobj(get-5, help-6)
+prep_from(get-5, Samsung-8)
+nsubj(have-14, they-11)
+aux(have-14, do-12)
+neg(have-14, not-13)
+conj_but(tried-3, have-14)
+dobj(have-14, techs-15)
+partmod(techs-15, working-16)
+prep_on(working-16, Saturday-18)
+prep_on(working-16, Sunday-20)
+conj_or(Saturday-18, Sunday-20)
+
+=========
+
+nsubj(keep-2, They-1)
+root(ROOT-0, keep-2)
+xcomp(keep-2, claiming-3)
+expl(is-5, there-4)
+ccomp(claiming-3, is-5)
+det(issue-8, a-6)
+nn(issue-8, server-7)
+nsubj(is-5, issue-8)
+poss(end-11, their-10)
+prep_on(issue-8, end-11)
+nsubjpass(affected-18, I-14)
+aux(affected-18, should-15)
+neg(affected-18, not-16)
+auxpass(affected-18, be-17)
+conj_but(keep-2, affected-18)
+det(server-21, a-20)
+agent(affected-18, server-21)
+mark(streaming-25, if-22)
+nsubj(streaming-25, I-23)
+aux(streaming-25, am-24)
+advcl(affected-18, streaming-25)
+advmod(streaming-25, directly-26)
+poss(phone-29, my-28)
+prep_from(streaming-25, phone-29)
+det(TV-32, the-31)
+prep_to(phone-29, TV-32)
+advmod(streaming-25, anyway-33)
+
+=========
+
+nn(III-3, My-1)
+nn(III-3, GS-2)
+nsubj(streaming-5, III-3)
+aux(streaming-5, is-4)
+root(ROOT-0, streaming-5)
+dobj(streaming-5, fine-6)
+det(network-10, the-8)
+amod(network-10, same-9)
+prep_over(fine-6, network-10)
+advmod(streaming-5, anyway-11)
+
+=========
+
+nsubj(trying-3, I-1)
+xsubj(return-5, I-1)
+aux(trying-3, am-2)
+root(ROOT-0, trying-3)
+aux(return-5, to-4)
+xcomp(trying-3, return-5)
+det(TV-7, the-6)
+dobj(return-5, TV-7)
+det(one-11, a-9)
+amod(one-11, new-10)
+prep_for(TV-7, one-11)
+advmod(return-5, now-12)
+
+=========
+
+nsubj(see-3, Let-1)
+possessive(Let-1, 's-2)
+root(ROOT-0, see-3)
+advmod(goes-6, how-4)
+nsubj(goes-6, that-5)
+ccomp(see-3, goes-6)
+

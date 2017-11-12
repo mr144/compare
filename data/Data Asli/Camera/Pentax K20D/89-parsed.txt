@@ -1,0 +1,41 @@
+=========
+
+nsubj(DSLR-5, This-1)
+cop(DSLR-5, is-2)
+poss(DSLR-5, my-3)
+amod(DSLR-5, first-4)
+root(ROOT-0, DSLR-5)
+mark(compare-11, so-6)
+nsubj(compare-11, I-7)
+advmod(compare-11, really-8)
+aux(compare-11, can-9)
+neg(compare-11, not-10)
+advcl(DSLR-5, compare-11)
+prep_from(compare-11, experience-13)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+det(lot-4, a-3)
+dobj(did-2, lot-4)
+prep_of(lot-4, research-6)
+prep_in(did-2, advance-8)
+nsubj(happy-12, I-10)
+cop(happy-12, am-11)
+conj_and(did-2, happy-12)
+aux(say-14, to-13)
+xcomp(happy-12, say-14)
+complm(got-17, that-15)
+nsubj(got-17, I-16)
+ccomp(say-14, got-17)
+dobj(expected-20, what-18)
+nsubj(expected-20, I-19)
+ccomp(got-17, expected-20)
+
+=========
+
+root(ROOT-0, Love-1)
+det(camera-3, this-2)
+dep(Love-1, camera-3)
+

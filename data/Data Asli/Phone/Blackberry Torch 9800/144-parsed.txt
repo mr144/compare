@@ -1,0 +1,26 @@
+=========
+
+root(ROOT-0, Phone-1)
+amod(quality-4, poor-3)
+prep_of(Phone-1, quality-4)
+
+=========
+
+nsubjpass(rebuilt-3, It-1)
+auxpass(rebuilt-3, was-2)
+root(ROOT-0, rebuilt-3)
+neg(complied-8, not-7)
+prepc_along_with(rebuilt-3, complied-8)
+det(specifications-11, the-10)
+prep_with(complied-8, specifications-11)
+det(Blackberry-16, an-13)
+amod(Blackberry-16, original-14)
+nn(Blackberry-16, article-15)
+prep_of(specifications-11, Blackberry-16)
+
+=========
+
+neg(recommend-2, Not-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, them-3)
+

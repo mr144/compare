@@ -1,0 +1,43 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+nsubj(saw-12, camera-4)
+poss(son-7, my-6)
+prep_for(camera-4, son-7)
+poss(son-11, my-9)
+amod(son-11, older-10)
+prep_for(camera-4, son-11)
+conj_and(son-7, son-11)
+ccomp(bought-2, saw-12)
+det(features-15, the-13)
+amod(features-15, great-14)
+dobj(saw-12, features-15)
+mark(bought-18, so-16)
+nsubj(bought-18, I-17)
+advcl(saw-12, bought-18)
+advmod(one-22, exactly-19)
+det(one-22, the-20)
+amod(one-22, same-21)
+dobj(bought-18, one-22)
+advmod(bought-18, again-23)
+
+=========
+
+root(ROOT-0, Great-1)
+dep(Great-1, features-2)
+amod(price-5, great-4)
+dep(Great-1, price-5)
+conj_and(features-2, price-5)
+
+=========
+
+advmod(happy-2, very-1)
+root(ROOT-0, happy-2)
+det(camera-5, this-4)
+prep_with(happy-2, camera-5)
+aux(recommend-9, would-7)
+advmod(recommend-9, highly-8)
+conj_and(happy-2, recommend-9)
+

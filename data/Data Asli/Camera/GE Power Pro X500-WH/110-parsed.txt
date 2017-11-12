@@ -1,0 +1,28 @@
+=========
+
+root(ROOT-0, takes-1)
+amod(pics-4, wonderful-2)
+amod(pics-4, outdoor-3)
+dobj(takes-1, pics-4)
+det(ones-8, the-6)
+amod(ones-8, indoor-7)
+nsubj(terrible-10, ones-8)
+cop(terrible-10, are-9)
+parataxis(takes-1, terrible-10)
+
+=========
+
+nsubj(bright-4, Flash-1)
+cop(bright-4, is-2)
+advmod(bright-4, too-3)
+root(ROOT-0, bright-4)
+det(flash-8, the-7)
+prep_without(yellow-12, flash-8)
+nsubj(yellow-12, everything-9)
+cop(yellow-12, is-10)
+advmod(yellow-12, really-11)
+parataxis(bright-4, yellow-12)
+dep(yellow-12, looking-13)
+dep(yellow-12, dull-15)
+conj_and(looking-13, dull-15)
+

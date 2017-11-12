@@ -1,0 +1,69 @@
+=========
+
+nsubj(bought-2, We-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+prepc_after(bought-2, having-6)
+poss(42-8, our-7)
+poss(TV-15, 42-8)
+amod(TV-15, $-10)
+number($-10, $-11)
+dep(TV-15, $-12)
+dep($-12, $-13)
+number($-13, Samsung-14)
+dobj(having-6, TV-15)
+det(year-18, a-17)
+prep_for(TV-15, year-18)
+
+=========
+
+nsubj(embarrassed-4, I-1)
+cop(embarrassed-4, am-2)
+advmod(embarrassed-4, almost-3)
+root(ROOT-0, embarrassed-4)
+prepc_for(embarrassed-4, paying-6)
+advmod(much-8, as-7)
+advmod(paying-6, much-8)
+mark(did-11, as-9)
+nsubj(did-11, I-10)
+advcl(paying-6, did-11)
+det(Samsung-14, the-13)
+prep_for(did-11, Samsung-14)
+mark(is-19, because-16)
+det(TV-18, this-17)
+nsubj(is-19, TV-18)
+advcl(did-11, is-19)
+prep_on(is-19, par-21)
+det(Samsung-24, the-23)
+prep_with(par-21, Samsung-24)
+
+=========
+
+nsubj(nice-3, 1080p-1)
+nsubj(crisp-5, 1080p-1)
+cop(nice-3, is-2)
+root(ROOT-0, nice-3)
+conj_and(nice-3, crisp-5)
+
+=========
+
+det(sound-2, The-1)
+nsubj(better-5, sound-2)
+aux(better-5, could-3)
+cop(better-5, be-4)
+root(ROOT-0, better-5)
+nsubj(bad-10, it-7)
+cop(bad-10, is-8)
+neg(bad-10, not-9)
+conj_but(better-5, bad-10)
+advmod(bad-10, at-11)
+pobj(at-11, all-12)
+
+=========
+
+advmod(worth-2, Well-1)
+root(ROOT-0, worth-2)
+det(money-4, the-3)
+pobj(worth-2, money-4)
+

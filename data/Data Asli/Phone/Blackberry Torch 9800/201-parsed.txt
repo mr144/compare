@@ -1,0 +1,40 @@
+=========
+
+advmod(experience-14, Really-1)
+det(weeks-5, the-2)
+amod(weeks-5, first-3)
+num(weeks-5, 2-4)
+nsubj(experience-14, weeks-5)
+partmod(weeks-5, using-6)
+det(phone-8, the-7)
+dobj(using-6, phone-8)
+aux(experience-14, has-9)
+cop(experience-14, been-10)
+det(experience-14, a-11)
+advmod(nice-13, very-12)
+amod(experience-14, nice-13)
+root(ROOT-0, experience-14)
+
+=========
+
+amod(users-4, formers-2)
+nn(users-4, iphone-3)
+prep_for(delight-14, users-4)
+mark(am-8, as-6)
+nsubj(am-8, I-7)
+dep(delight-14, am-8)
+det(device-11, this-10)
+nsubj(delight-14, device-11)
+nsubj(easy-17, device-11)
+cop(delight-14, is-12)
+det(delight-14, a-13)
+root(ROOT-0, delight-14)
+advmod(easy-17, very-16)
+conj_and(delight-14, easy-17)
+prep_to(easy-17, use-19)
+
+=========
+
+advmod(recommended-2, Very-1)
+root(ROOT-0, recommended-2)
+

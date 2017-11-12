@@ -1,0 +1,74 @@
+=========
+
+det(camera-2, This-1)
+nsubj(does-3, camera-2)
+root(ROOT-0, does-3)
+dobj(does-3, everything-4)
+nsubj(want-6, you-5)
+rcmod(everything-4, want-6)
+cc(more-8, and-7)
+dobj(want-6, more-8)
+
+=========
+
+root(ROOT-0, Lots-1)
+prep_of(Lots-1, presets-3)
+
+=========
+
+nsubj(use-3, I-1)
+nsubj(use-3, you-2)
+root(ROOT-0, use-3)
+nsubj(workwith-11, this-4)
+det($-7, a-6)
+prep_for(this-4, $-7)
+dep($-7, $-8)
+number($-8, shoot-9)
+advmod(workwith-11, then-10)
+ccomp(use-3, workwith-11)
+dobj(workwith-11, it-12)
+advmod(workwith-11, first-13)
+
+=========
+
+nsubj(have-4, You-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+dobj(have-4, time-5)
+prep_to(time-5, fiddle-7)
+det(event-10, an-9)
+prep_during(have-4, event-10)
+
+=========
+
+root(ROOT-0, Experiment-1)
+prt(Experiment-1, over-2)
+dep(over-2, and-3)
+dep(over-2, over-4)
+
+=========
+
+nsubj(make-5, You-1)
+advmod(make-5, really-2)
+aux(make-5, can-3)
+neg(make-5, not-4)
+root(ROOT-0, make-5)
+det(exposure-8, a-6)
+amod(exposure-8, bad-7)
+dobj(make-5, exposure-8)
+
+=========
+
+mark(do-3, If-1)
+nsubj(do-3, you-2)
+advcl(provided-7, do-3)
+det(software-6, the-5)
+nsubj(provided-7, software-6)
+root(ROOT-0, provided-7)
+aux(teach-9, will-8)
+ccomp(provided-7, teach-9)
+nsubj(fix-12, you-10)
+aux(fix-12, to-11)
+xcomp(teach-9, fix-12)
+

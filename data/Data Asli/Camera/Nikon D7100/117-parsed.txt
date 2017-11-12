@@ -1,0 +1,306 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+nsubj(replace-5, this-3)
+aux(replace-5, to-4)
+xcomp(purchased-2, replace-5)
+poss(7D-8, my-6)
+nn(7D-8, Canon-7)
+dobj(replace-5, 7D-8)
+
+=========
+
+prep_considering(expected-12, this-2)
+cop(newer-4, is-3)
+rcmod(this-2, newer-4)
+rcmod(this-2, has-6)
+conj_and(newer-4, has-6)
+det(OLPF-8, the-7)
+dobj(has-6, OLPF-8)
+partmod(OLPF-8, removed-9)
+nsubj(expected-12, I-11)
+root(ROOT-0, expected-12)
+amod(quality-14, better-13)
+dobj(expected-12, quality-14)
+
+=========
+
+dobj(got-3, What-1)
+nsubj(got-3, I-2)
+csubj(camera-9, got-3)
+advmod(got-3, instead-4)
+cop(camera-9, was-5)
+det(camera-9, a-6)
+amod(camera-9, generic-7)
+nn(camera-9, DSLR-8)
+root(ROOT-0, camera-9)
+
+=========
+
+advmod(shoots-3, Yes-1)
+nsubj(shoots-3, it-2)
+nsubj(do-8, it-2)
+root(ROOT-0, shoots-3)
+amod(photos-5, nice-4)
+dobj(shoots-3, photos-5)
+advmod(shoots-3, so-7)
+conj_but(shoots-3, so-7)
+conj_but(shoots-3, do-8)
+amod(DSLRs-11, $-9)
+number($-9, 500-10)
+dobj(do-8, DSLRs-11)
+xcomp(do-8, littering-12)
+det(market-14, the-13)
+dobj(littering-12, market-14)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(idea-4, no-3)
+dobj(have-2, idea-4)
+advmod(hyped-10, why-5)
+det(camera-7, this-6)
+nsubjpass(hyped-10, camera-7)
+aux(hyped-10, has-8)
+auxpass(hyped-10, been-9)
+rcmod(idea-4, hyped-10)
+det(max-13, the-12)
+prep_to(hyped-10, max-13)
+
+=========
+
+poss(photos-7, My-1)
+num(photos-7, 7D-2)
+nn(photos-7, shot-3)
+amod(photos-7, incredible-4)
+nn(photos-7, magazine-5)
+nn(photos-7, quality-6)
+root(ROOT-0, photos-7)
+amod(out-10, straight-9)
+appos(photos-7, out-10)
+det(box-13, the-12)
+prep_of(out-10, box-13)
+amod(auto-17, full-16)
+prep_on(photos-7, auto-17)
+
+=========
+
+det(camera-2, This-1)
+nsubj(match-6, camera-2)
+aux(match-6, can-3)
+neg(match-6, not-4)
+advmod(match-6, even-5)
+root(ROOT-0, match-6)
+det(quality-8, the-7)
+dobj(match-6, quality-8)
+det(7D-11, the-10)
+prep_of(quality-8, 7D-11)
+dep(match-6, forget-13)
+prepc_about(forget-13, surpassing-15)
+dobj(surpassing-15, it-16)
+
+=========
+
+nsubj(wanted-3, I-1)
+xsubj(switch-5, I-1)
+advmod(wanted-3, really-2)
+root(ROOT-0, wanted-3)
+aux(switch-5, to-4)
+xcomp(wanted-3, switch-5)
+prt(switch-5, over-6)
+prep_to(switch-5, Nikon-8)
+predet(counts-12, all-10)
+det(counts-12, that-11)
+nsubj(quality-16, counts-12)
+advmod(quality-16, ultimately-13)
+cop(quality-16, is-14)
+nn(quality-16, image-15)
+conj_but(wanted-3, quality-16)
+det(camera-19, this-18)
+nsubj(one-23, camera-19)
+cop(one-23, is-20)
+advmod(one-23, just-21)
+det(one-23, another-22)
+conj_and(wanted-3, one-23)
+det(bunch-26, the-25)
+prep_in(one-23, bunch-26)
+
+=========
+
+nsubj(stands-2, Nothing-1)
+root(ROOT-0, stands-2)
+prt(stands-2, out-3)
+
+=========
+
+nsubj(see-3, You-1)
+aux(see-3, can-2)
+root(ROOT-0, see-3)
+det(images-6, some-4)
+nn(images-6, sample-5)
+dobj(see-3, images-6)
+dobj(uploaded-8, images-6)
+nsubj(uploaded-8, I-7)
+rcmod(images-6, uploaded-8)
+
+=========
+
+nsubj(jpg-6, They-1)
+cop(jpg-6, are-2)
+nn(jpg-6, point-3)
+conj_and(point-3, shoot-5)
+nn(jpg-6, shoot-5)
+root(ROOT-0, jpg-6)
+rcmod(jpg-6, 's-7)
+det(processing-10, any-9)
+prep_without('s-7, processing-10)
+prep_without('s-7, filters-12)
+conj_or(processing-10, filters-12)
+
+=========
+
+nsubj(see-3, You-1)
+aux(see-3, can-2)
+root(ROOT-0, see-3)
+complm(camera-10, that-4)
+nsubj(camera-10, it-5)
+cop(camera-10, is-6)
+det(camera-10, a-7)
+amod(camera-10, basic-8)
+nn(camera-10, DSLR-9)
+ccomp(see-3, camera-10)
+
+=========
+
+advmod(cost-4, Why-1)
+aux(cost-4, does-2)
+nsubj(cost-4, it-3)
+root(ROOT-0, cost-4)
+advmod(much-6, so-5)
+advmod(cost-4, much-6)
+
+=========
+
+amod(price-2, Unjustified-1)
+root(ROOT-0, price-2)
+det(level-5, this-4)
+prep_for(price-2, level-5)
+prep_of(price-2, performance-7)
+
+=========
+
+root(ROOT-0, Lame-1)
+
+=========
+
+nsubj(gave-2, I-1)
+root(ROOT-0, gave-2)
+iobj(gave-2, it-3)
+num(stars-5, two-4)
+dobj(gave-2, stars-5)
+prep_instead_of(stars-5, one-8)
+mark(have-12, because-9)
+nsubj(have-12, it-10)
+nsubj(does-31, it-10)
+aux(have-12, does-11)
+dep(stars-5, have-12)
+det(wows-16, some-13)
+amod(wows-16, technical-14)
+dobj(have-12, wows-16)
+amod(count-21, megapixel-20)
+prep_such_as(wows-16, count-21)
+appos(count-21, shots-23)
+prep_per(shots-23, second-25)
+nn(etc.-28, etc.-27)
+appos(second-25, etc.-28)
+advmod(does-31, why-30)
+dep(stars-5, does-31)
+conj_but(have-12, does-31)
+det(matter-33, that-32)
+advmod(does-31, matter-33)
+advmod(quality-40, when-34)
+det(picture-36, the-35)
+dep(when-34, picture-36)
+nsubj(quality-40, itself-37)
+cop(quality-40, is-38)
+amod(quality-40, generic-39)
+dep(matter-33, quality-40)
+dobj(get-43, quality-40)
+nsubj(get-43, you-41)
+aux(get-43, can-42)
+rcmod(quality-40, get-43)
+det(DSLR-47, a-45)
+amod(DSLR-47, cheap-46)
+prep_in(get-43, DSLR-47)
+
+=========
+
+advmod(look-3, When-1)
+nsubj(look-3, you-2)
+advcl(do-8, look-3)
+det(picture-6, a-5)
+prep_at(look-3, picture-6)
+root(ROOT-0, do-8)
+nsubj(ask-10, you-9)
+ccomp(do-8, ask-10)
+dep(ask-10, Wow-12)
+
+=========
+
+nsubj(wonder-2, I-1)
+root(ROOT-0, wonder-2)
+advmod(many-4, how-3)
+amod(shots-5, many-4)
+nsubjpass(used-9, shots-5)
+prep_per(shots-5, second-7)
+auxpass(used-9, were-8)
+dobj(wonder-2, used-9)
+det(f-stop-13, the-11)
+amod(f-stop-13, exact-12)
+dobj(wonder-2, f-stop-13)
+conj_or(used-9, f-stop-13)
+xsubj(capture-16, f-stop-13)
+partmod(f-stop-13, setting-14)
+aux(capture-16, to-15)
+xcomp(setting-14, capture-16)
+det(image-18, this-17)
+dobj(capture-16, image-18)
+
+=========
+
+root(ROOT-0, No.-1)
+
+=========
+
+nsubj(like-3, You-1)
+advmod(like-3, either-2)
+root(ROOT-0, like-3)
+det(photo-5, the-4)
+dobj(like-3, photo-5)
+nsubj(do-8, you-7)
+conj_or(like-3, do-8)
+neg(do-8, not-9)
+
+=========
+
+nsubj(like-4, I-1)
+aux(like-4, do-2)
+neg(like-4, not-3)
+root(ROOT-0, like-4)
+dobj(see-7, what-5)
+nsubj(see-7, I-6)
+ccomp(like-4, see-7)
+det(images-10, the-9)
+prep_from(see-7, images-10)
+det(camera-13, this-12)
+prep_from(see-7, camera-13)
+
+=========
+
+root(ROOT-0, Not-1)
+dep(Not-1, at-2)
+det(price-4, this-3)
+pobj(at-2, price-4)
+

@@ -1,0 +1,3 @@
+product_NN was_VBD blocked_VBN ,_, the_DT serial_JJ number_NN of_IN the_DT box_NN does_VBZ not_RB match_VB with_IN serial_JJ number_NN of_IN thephone_NN ,_, the_DT ear-phone_NN was_VBD not_RB original_JJ ._.
+The_DT product_NN was_VBD manufactured_VBN in_IN 2010_CD ._.
+The_DT product_NN was_VBD returned_VBN and_CC already_RB refunded_VBN

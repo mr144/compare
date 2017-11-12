@@ -1,0 +1,2 @@
+I_PRP own_VBP 4_CD TV_NN 's_POS ..._: 1_CD vizio_NN ,_, 1_CD westinghouse_NN ,_, 1_CD sharp_JJ and_CC the_DT LG_NNP 42-inch_JJ ._.
+The_DT picture_NN is_VBZ amazing_JJ and_CC the_DT featues_NNS are_VBP superb_JJ ..._: I_PRP would_MD from_IN now_RB on_IN buy_NN LG_NNP TV_NNP 's_POS

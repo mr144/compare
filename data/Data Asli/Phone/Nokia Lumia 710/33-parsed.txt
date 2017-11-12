@@ -1,0 +1,21 @@
+=========
+
+advmod(purchased-3, When-1)
+nsubj(purchased-3, I-2)
+root(ROOT-0, purchased-3)
+dobj(purchased-3, it-4)
+nsubj(afraid-7, I-5)
+cop(afraid-7, was-6)
+dep(purchased-3, afraid-7)
+mark(used-11, because-8)
+nsubjpass(used-11, it-9)
+auxpass(used-11, was-10)
+advcl(afraid-7, used-11)
+nsubj(arrived-15, it-14)
+conj_but(purchased-3, arrived-15)
+amod(conditions-18, exceellent-17)
+prep_in(arrived-15, conditions-18)
+mwe(than-21, better-20)
+quantmod(advertised-22, than-21)
+dep(conditions-18, advertised-22)
+

@@ -1,0 +1,33 @@
+=========
+
+nsubjpass(told-11, Phone-1)
+neg(charged-3, never-2)
+dep(Phone-1, charged-3)
+dep(Phone-1, took-5)
+conj_and(charged-3, took-5)
+nsubjpass(repaired-9, it-6)
+aux(repaired-9, to-7)
+auxpass(repaired-9, be-8)
+xcomp(took-5, repaired-9)
+auxpass(told-11, was-10)
+root(ROOT-0, told-11)
+nsubj(cost-14, it-12)
+aux(cost-14, would-13)
+ccomp(told-11, cost-14)
+dobj(cost-14, more-15)
+aux(repair-17, to-16)
+xcomp(cost-14, repair-17)
+mark(worth-21, than-18)
+nsubj(worth-21, it-19)
+cop(worth-21, was-20)
+advcl(repair-17, worth-21)
+
+=========
+
+nsubj(money-3, It-1)
+cop(money-3, was-2)
+root(ROOT-0, money-3)
+advmod(money-3, down-4)
+det(drain-6, the-5)
+pobj(down-4, drain-6)
+

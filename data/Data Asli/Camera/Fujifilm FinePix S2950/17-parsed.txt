@@ -1,0 +1,28 @@
+=========
+
+det(comprado-6, No-1)
+npadvmod(arrepiento-3, me-2)
+amod(comprado-6, arrepiento-3)
+nn(comprado-6, de-4)
+nn(comprado-6, haber-5)
+nsubj(entregada-16, comprado-6)
+nn(camara-8, esta-7)
+dep(comprado-6, camara-8)
+nn(funcional-14, es-10)
+nn(funcional-14, bien-11)
+nn(funcional-14, compacta-12)
+nn(funcional-14, y-13)
+appos(comprado-6, funcional-14)
+root(ROOT-0, entregada-16)
+det(inconveniente-22, a-17)
+amod(inconveniente-22, tiempo-18)
+nn(inconveniente-22, y-19)
+nn(inconveniente-22, sin-20)
+nn(inconveniente-22, ning&uacute;n-21)
+dobj(entregada-16, inconveniente-22)
+
+=========
+
+nn(recomendada-2, Totalmente-1)
+root(ROOT-0, recomendada-2)
+

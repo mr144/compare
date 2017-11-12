@@ -1,0 +1,20 @@
+This_DT is_VBZ a_DT decent_JJ phone_NN ._.
+I_PRP got_VBD the_DT white_JJ one_CD ._.
+Some_DT high_JJ lights_NNS :_: Pros_NNS :_: -_: Screen_NNP size_NN is_VBZ 3.8_CD '_'' ._.
+It_PRP has_VBZ multi-touch_JJ and_CC screen_NN detailing_VBG is_VBZ crisp_JJ ._.
+Phone_NN has_VBZ a_DT compact_JJ size_NN ._.
+-_: Run_NNP smoothly_RB on_IN decent_JJ specs_NNS with_IN dual_JJ core_NN 800_CD MHz_NNP processor_NN and_CC 4_CD Gigs_NNS of_IN internal_JJ memory_NN ._.
+-LRB-_-LRB- a_DT bit_NN below_IN the_DT 1GHz_NNP on_IN some_DT high_JJ end_NN phones_NNS with_IN this_DT same_JJ processor_NN so_IN this_DT phone_NN is_VBZ probably_RB underclocked_VBN for_IN better_JJR battery_NN life_NN -RRB-_-RRB- ._.
+-_: The_DT phone_NN has_VBZ 768MB_NNP of_IN RAM_NNP ._.
+-LRB-_-LRB- a_DT bit_NN below_IN the_DT 1GB_NNP on_IN some_DT high_JJ end_NN phones_NNS -RRB-_-RRB- ._.
+-_: Front-facing_JJ camera_NN for_IN video_NN conferencing_NN !!_VBD This_DT gives_VBZ the_DT ability_NN to_TO skype_NN or_CC video-gtalk_NN ._.
+Also_RB gives_VBZ the_DT ability_NN to_TO add_VB a_DT face_NN unlock_VB app_NN which_WDT is_VBZ really_RB nice_JJ ._.
+-_: Mobile_NNP Hotstop_NNP for_IN tethering_VBG ;_: WiFi_NNP Direct_NNP ._.
+-_: 1500_CD mAh_NNP battery_NN with_IN very_RB good_JJ life_NN ._.
+The_DT phone_NN will_MD easily_RB take_VB you_PRP through_IN the_DT day_NN with_IN average_JJ use_NN -_: I_PRP get_VBP 30_CD to_TO 40_CD hours_NNS on_IN a_DT single_JJ charge_NN ._.
+-_: microSDHC_NN up_IN to_TO 32_CD GBCons_NNS :_: -_: Gingerbread_NNP 2.3.6_CD -LRB-_-LRB- Would_MD have_VB liked_VBN to_TO see_VB ICS_NNP 4.0_CD x_SYM on_IN the_DT newer_JJR phones_NNS coming_VBG out_RP this_DT year_NN ,_, I_PRP have_VBP seen_VBN only_RB one_CD reference_NN to_TO possible_JJ Android_NNP Ice_NNP Cream_NNP Sandwich_NNP 4.0_CD x_SYM upgrade_NN -RRB-_-RRB- -_: Maybe_RB the_DT price_NN is_VBZ a_DT tad_RB high_JJ @_IN $_$ 290_CD and_CC a_DT lower_JJR price_NN of_IN $_$ 250_CD would_MD be_VB more_RBR competitive_JJ ._.
+-_: Camera_NN could_MD be_VB snappier_JJR ._.
+Hopefully_RB an_DT update_VBP would_MD take_VB care_NN of_IN this.Net_NNP work_NN :_: Update_NNP 12\/04\/2012_CD -_: 2G_NNP Network_NNP GSM_NNP 850_CD \/_IN 900_CD \/_FW 1800_FW \/_FW 1900_CD -_: 3G_NNP Network_NNP :_: GT_NNP I8160_NNP -_: 900\/2100_CD MHz_NNP BandsGT_NNP I8160L_NNP -_: 850\/1900_CD MHz_NNP BandsNote_NNP :_: Amazon_NNP list_NN the_DT phone_NN as_IN GT-I8160_NN but_CC there_EX are_VBP actually_RB two_CD models_NNS of_IN this_DT phone_NN which_WDT have_VBP different_JJ 3g_JJ bands_NNS ._.
+I_PRP ordered_VBD the_DT GT_NNP I8160_NNP from_IN Open_NNP Group_NNP Wireless_NNP ._.
+Check_VB with_IN the_DT vendor_NN for_IN the_DT model_NN number_NN before_IN you_PRP order_VBP ._.
+Overall_JJ :_: This_DT is_VBZ a_DT nice_JJ phone_NN with_IN internal_JJ specs_NNS just_RB below_IN some_DT of_IN the_DT high_JJ end_NN phones_NNS ._.

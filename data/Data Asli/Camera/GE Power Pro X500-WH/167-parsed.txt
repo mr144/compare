@@ -1,0 +1,80 @@
+=========
+
+advmod(so-2, Ok-1)
+advmod(looked-9, so-2)
+mark(purchased-5, before-3)
+nsubj(purchased-5, I-4)
+dep(so-2, purchased-5)
+det(camera-7, this-6)
+dobj(purchased-5, camera-7)
+nsubj(looked-9, I-8)
+root(ROOT-0, looked-9)
+prep_at(looked-9, reviews-11)
+
+=========
+
+amod(people-2, Most-1)
+nsubj(said-3, people-2)
+root(ROOT-0, said-3)
+complm(loved-6, that-4)
+nsubj(loved-6, they-5)
+ccomp(said-3, loved-6)
+dobj(loved-6, it-7)
+
+=========
+
+mark(looking-4, If-1)
+nsubj(looking-4, you-2)
+aux(looking-4, are-3)
+advcl(is-14, looking-4)
+det(camera-7, a-6)
+prep_for(looking-4, camera-7)
+amod(pictures-11, high-9)
+nn(pictures-11, resolution-10)
+prep_with(camera-7, pictures-11)
+advmod(looking-4, then-12)
+nsubj(is-14, this-13)
+root(ROOT-0, is-14)
+neg(is-14, not-15)
+prep_for(is-14, you-17)
+
+=========
+
+advmod(importing-2, When-1)
+advcl(be-15, importing-2)
+det(pics-4, the-3)
+dobj(importing-2, pics-4)
+det(camera-7, the-6)
+prep_from(importing-2, camera-7)
+dep(importing-2, unto-8)
+det(computer-10, a-9)
+dep(unto-8, computer-10)
+det(resolution-13, the-12)
+nsubj(be-15, resolution-13)
+aux(be-15, will-14)
+root(ROOT-0, be-15)
+prep_at(be-15, 72-17)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+advmod(is-2, nothing-3)
+acomp(is-2, pro-5)
+prep_about(is-2, that-8)
+
+=========
+
+dep(cut-5, So-1)
+nsubj(cut-5, that-2)
+aux(cut-5, did-3)
+neg(cut-5, not-4)
+root(ROOT-0, cut-5)
+dobj(cut-5, it-6)
+prep_for(cut-5, me-8)
+mark(returned-11, so-9)
+nsubj(returned-11, I-10)
+advcl(cut-5, returned-11)
+det(camera-13, the-12)
+dobj(returned-11, camera-13)
+

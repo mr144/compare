@@ -1,0 +1,27 @@
+=========
+
+nsubj(come-2, I-1)
+root(ROOT-0, come-2)
+advmod(come-2, back-3)
+prep_for(come-2, you-5)
+
+=========
+
+nsubj(have-2, you-1)
+ccomp(have-7, have-2)
+det(life-5, a-3)
+amod(life-5, nice-4)
+dobj(have-2, life-5)
+root(ROOT-0, have-7)
+det(time-10, a-8)
+amod(time-10, good-9)
+dobj(have-7, time-10)
+prep_with(time-10, wife-12)
+prep_with(time-10, kids-14)
+conj_and(wife-12, kids-14)
+
+=========
+
+amod(business-2, excellent-1)
+root(ROOT-0, business-2)
+

@@ -1,0 +1,227 @@
+=========
+
+amod(video-2, Tried-1)
+root(ROOT-0, video-2)
+conj_and(video-2, pics-4)
+det(mall-8, the-6)
+nn(mall-8, grapevine-7)
+poss(aquarium-10, mall-8)
+prep_at(video-2, aquarium-10)
+
+=========
+
+root(ROOT-0, Lousy-1)
+
+=========
+
+poss(friend-3, My-2)
+poss(camera-7, friend-3)
+nn(camera-7, cell-5)
+nn(camera-7, phone-6)
+nsubj(took-8, camera-7)
+root(ROOT-0, took-8)
+amod(shots-10, better-9)
+dobj(took-8, shots-10)
+
+=========
+
+dep(video-3, And-1)
+dep(video-3, better-2)
+dep(got-7, video-3)
+advmod(video-3, too-4)
+nsubj(got-7, I-6)
+root(ROOT-0, got-7)
+dobj(got-7, lots-8)
+amod(videos-11, grainy-10)
+prep_of(lots-8, videos-11)
+prep_of(lots-8, pics-13)
+conj_and(videos-11, pics-13)
+
+=========
+
+det(camera-2, The-1)
+nsubj(mater-9, camera-2)
+aux(mater-9, could-3)
+neg(mater-9, not-4)
+cop(mater-9, stay-5)
+prep_in(mater-9, focus-7)
+det(mater-9, no-8)
+root(ROOT-0, mater-9)
+dobj(did-12, mater-9)
+rel(did-12, what-10)
+nsubj(did-12, I-11)
+rcmod(mater-9, did-12)
+
+=========
+
+nsubj(have-2, We-1)
+root(ROOT-0, have-2)
+dobj(have-2, two-3)
+det(type-6, these-5)
+prep_of(two-3, type-6)
+prep_of(type-6, camera-8)
+det(mine-11, both-10)
+nsubj(had-16, mine-11)
+poss(camera-15, my-13)
+nn(camera-15, s.o.-14)
+conj_and(mine-11, camera-15)
+nsubj(had-16, camera-15)
+conj_and(have-2, had-16)
+det(issues-19, the-17)
+amod(issues-19, same-18)
+dobj(had-16, issues-19)
+
+=========
+
+nsubj(were-11, Grainy-1)
+nn(shots-5, focus-4)
+prep_out_of(Grainy-1, shots-5)
+poss(cameras-10, our-7)
+nn(cameras-10, cell-8)
+nn(cameras-10, phone-9)
+prep_out_of(Grainy-1, cameras-10)
+conj_and(shots-5, cameras-10)
+root(ROOT-0, were-11)
+advmod(better-13, way-12)
+dep(were-11, better-13)
+
+=========
+
+nsubj(know-2, I-1)
+nsubj(believe-5, I-1)
+dep(garbage-10, know-2)
+dobj(know-2, cameras-3)
+conj_and(know-2, believe-5)
+dep(garbage-10, believe-5)
+dobj(believe-5, me-6)
+det(thing-8, this-7)
+nsubj(garbage-10, thing-8)
+cop(garbage-10, is-9)
+root(ROOT-0, garbage-10)
+
+=========
+
+nsubj(rid-5, I-1)
+aux(rid-5, will-2)
+aux(rid-5, be-3)
+dep(rid-5, getting-4)
+root(ROOT-0, rid-5)
+nn(ASAP-8, ours-7)
+prep_of(rid-5, ASAP-8)
+
+=========
+
+amod(light-2, low-1)
+root(ROOT-0, light-2)
+
+=========
+
+root(ROOT-0, Forget-1)
+dobj(Forget-1, it-2)
+
+=========
+
+det(camera-2, This-1)
+nsubj(is-3, camera-2)
+root(ROOT-0, is-3)
+neg(is-3, not-4)
+prep_for(is-3, anyone-6)
+nsubj(serious-9, anyone-6)
+cop(serious-9, is-8)
+rcmod(anyone-6, serious-9)
+amod(video-12, qaulity-11)
+prep_about(serious-9, video-12)
+prep_about(serious-9, stills-14)
+conj_or(video-12, stills-14)
+
+=========
+
+cc(think-5, And-1)
+advmod(think-5, quite-2)
+advmod(think-5, frankly-3)
+nsubj(think-5, I-4)
+root(ROOT-0, think-5)
+poss(camera-14, its-6)
+amod(camera-14, closer-7)
+det(aisle-12, a-9)
+nn(aisle-12, toy-11)
+prep_to(closer-7, aisle-12)
+dobj(think-5, camera-14)
+det(thing-18, the-16)
+amod(thing-18, real-17)
+prep_than(camera-14, thing-18)
+
+=========
+
+det(camera-2, This-1)
+nsubj(day-7, camera-2)
+nsubj(worthless-17, camera-2)
+cop(day-7, is-3)
+det(day-7, a-4)
+amod(day-7, sunny-6)
+root(ROOT-0, day-7)
+amod(exposure-10, good-9)
+poss(kind-12, exposure-10)
+dep(day-7, kind-12)
+prep_of(kind-12, camera-14)
+cop(worthless-17, is-16)
+conj_and(day-7, worthless-17)
+prepc_for(worthless-17, documenting-19)
+dobj(documenting-19, experiences-20)
+advmod(prevalent-26, where-21)
+amod(conditions-24, low-22)
+nn(conditions-24, light-23)
+nsubj(prevalent-26, conditions-24)
+cop(prevalent-26, are-25)
+rcmod(experiences-20, prevalent-26)
+
+=========
+
+nsubj(suppose-2, I-1)
+root(ROOT-0, suppose-2)
+det(camera-4, this-3)
+nsubj(good-7, camera-4)
+aux(good-7, would-5)
+cop(good-7, be-6)
+ccomp(suppose-2, good-7)
+prep_for(good-7, people-9)
+nsubj(want-11, people-9)
+rcmod(people-9, want-11)
+aux(take-13, to-12)
+xcomp(want-11, take-13)
+det(hour-15, an-14)
+dobj(take-13, hour-15)
+aux(set-17, to-16)
+infmod(hour-15, set-17)
+prt(set-17, up-18)
+det(shot-20, the-19)
+dobj(set-17, shot-20)
+
+=========
+
+cc(work-16, But-1)
+amod(photos-3, random-2)
+nsubj(work-16, photos-3)
+conj_and(photos-3, conditions-5)
+nsubj(work-16, conditions-5)
+amod(lighting-9, ideal-8)
+prep_outside_of(work-16, lighting-9)
+conj_and(lighting-9, movement-11)
+prep_outside_of(work-16, movement-11)
+conj_and(lighting-9, weather-13)
+prep_outside_of(work-16, weather-13)
+aux(work-16, do-14)
+neg(work-16, not-15)
+root(ROOT-0, work-16)
+advmod(work-16, well-17)
+det(piece-20, this-19)
+prep_for(work-16, piece-20)
+prep_of(piece-20, crap-22)
+nsubj(huyundai-28, It-24)
+cop(huyundai-28, is-25)
+det(huyundai-28, the-26)
+num(huyundai-28, 1980s-27)
+parataxis(work-16, huyundai-28)
+amod(cameras-31, digital-30)
+prep_of(huyundai-28, cameras-31)
+

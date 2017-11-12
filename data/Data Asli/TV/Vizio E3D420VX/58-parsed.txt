@@ -1,0 +1,135 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(TV-5, this-4)
+dobj(had-3, TV-5)
+det(years-12, a-7)
+amod(years-12, little-8)
+mwe(than-10, less-9)
+quantmod(3-11, than-10)
+num(years-12, 3-11)
+prep_for(TV-5, years-12)
+
+=========
+
+det(week-3, This-1)
+amod(week-3, past-2)
+tmod(kept-6, week-3)
+poss(picture-5, my-4)
+nsubj(kept-6, picture-5)
+root(ROOT-0, kept-6)
+xcomp(kept-6, going-7)
+prt(going-7, in-8)
+dep(in-8, and-9)
+dep(in-8, out-10)
+
+=========
+
+nsubj(called-2, Its-1)
+root(ROOT-0, called-2)
+det(screen-6, the-3)
+amod(screen-6, Vizio-5)
+dobj(called-2, screen-6)
+prep_of(screen-6, death-8)
+
+=========
+
+dep(Im-3, No-1)
+root(ROOT-0, Im-3)
+neg(kidding-5, not-4)
+acomp(Im-3, kidding-5)
+
+=========
+
+nsubj(happens-3, This-1)
+advmod(happens-3, apparently-2)
+root(ROOT-0, happens-3)
+det(lot-5, a-4)
+dobj(happens-3, lot-5)
+prep_with(lot-5, Vizios-7)
+
+=========
+
+nsubj(called-2, I-1)
+root(ROOT-0, called-2)
+det(repair-6, a-3)
+amod(repair-6, few-4)
+nn(repair-6, TV-5)
+nsubj(places-7, repair-6)
+ccomp(called-2, places-7)
+nsubj(knew-11, they-9)
+advmod(knew-11, all-10)
+conj_and(called-2, knew-11)
+dep(talking-15, what-12)
+nsubj(talking-15, I-13)
+aux(talking-15, was-14)
+dep(knew-11, talking-15)
+dep(talking-15, about-16)
+nsubj(told-19, they-18)
+dep(knew-11, told-19)
+conj_and(talking-15, told-19)
+nsubj(fixing-24, me-20)
+poss(fixing-24, its-21)
+neg(worth-23, not-22)
+amod(fixing-24, worth-23)
+xcomp(told-19, fixing-24)
+
+=========
+
+nsubj(loved-2, I-1)
+root(ROOT-0, loved-2)
+det(TV-4, this-3)
+dobj(loved-2, TV-4)
+det(beginning-7, the-6)
+prep_in(loved-2, beginning-7)
+nsubj(last-12, it-9)
+aux(last-12, did-10)
+neg(last-12, not-11)
+conj_but(loved-2, last-12)
+advmod(last-12, long-13)
+expl(are-16, there-15)
+conj_and(loved-2, are-16)
+nsubj(are-16, hundreds-17)
+amod(people-20, other-19)
+prep_of(hundreds-17, people-20)
+advmod(are-16, out-21)
+advmod(out-21, there-22)
+det(problem-26, the-24)
+amod(problem-26, same-25)
+prep_with(are-16, problem-26)
+
+=========
+
+nsubj(suggest-2, I-1)
+root(ROOT-0, suggest-2)
+det(samsung-4, a-3)
+dobj(suggest-2, samsung-4)
+
+=========
+
+nsubj(seems-2, Vizio-1)
+root(ROOT-0, seems-2)
+det(deal-6, a-4)
+amod(deal-6, great-5)
+prep_like(seems-2, deal-6)
+det(components-9, the-8)
+prep_for(deal-6, components-9)
+prep_for(deal-6, price-11)
+conj_and(components-9, price-11)
+prep(components-9, but-12)
+poss(not-14, its-13)
+dep(but-12, not-14)
+
+=========
+
+nsubj(make-2, Dont-1)
+root(ROOT-0, make-2)
+det(mistake-5, the-3)
+amod(mistake-5, same-4)
+dobj(make-2, mistake-5)
+dobj(did-7, mistake-5)
+nsubj(did-7, I-6)
+rcmod(mistake-5, did-7)
+

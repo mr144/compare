@@ -1,0 +1,52 @@
+=========
+
+nsubj(looked-3, I-1)
+aux(looked-3, had-2)
+root(ROOT-0, looked-3)
+amod(brands-6, several-5)
+prep_at(looked-3, brands-6)
+prep_at(looked-3, models-8)
+conj_and(brands-6, models-8)
+prepc_before(looked-3, deciding-10)
+det(one-13, this-12)
+prep_on(deciding-10, one-13)
+
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+advmod(camera-6, absolutely-3)
+det(camera-6, the-4)
+amod(camera-6, best-5)
+root(ROOT-0, camera-6)
+det(money-9, the-8)
+prep_for(camera-6, money-9)
+
+=========
+
+nsubj(has-2, It-1)
+nsubj(easy-13, It-1)
+root(ROOT-0, has-2)
+dobj(has-2, features-3)
+prep_for(features-3, everything-5)
+det(zoom-9, an-7)
+amod(zoom-9, incredible-8)
+appos(everything-5, zoom-9)
+advmod(easy-13, very-12)
+conj_and(has-2, easy-13)
+prep_to(easy-13, use-15)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+nsubj(does-9, camera-5)
+prep_for(camera-5, anyone-7)
+rcmod(camera-5, does-9)
+det(variety-11, a-10)
+dobj(does-9, variety-11)
+prep_of(variety-11, shooting-13)
+

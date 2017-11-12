@@ -1,0 +1,96 @@
+=========
+
+root(ROOT-0, Bought-1)
+det(TV-3, this-2)
+dobj(Bought-1, TV-3)
+nn(1st-7, Amazon-5)
+nn(1st-7, March-6)
+prep_from(Bought-1, 1st-7)
+num(1st-7, 2012-8)
+
+=========
+
+nsubj(wonderful-7, dilvery-1)
+conj_and(dilvery-1, packaging-3)
+nsubj(wonderful-7, packaging-3)
+prep_from(dilvery-1, Amazon-5)
+cop(wonderful-7, was-6)
+root(ROOT-0, wonderful-7)
+
+=========
+
+nsubj(ran-2, Tv-1)
+root(ROOT-0, ran-2)
+acomp(ran-2, great-3)
+num(days-6, 410-5)
+prep_for(ran-2, days-6)
+advmod(quit-8, then-7)
+partmod(days-6, quit-8)
+
+=========
+
+nn(board-2, Control-1)
+nsubj(burned-3, board-2)
+root(ROOT-0, burned-3)
+prt(burned-3, out-4)
+
+=========
+
+nn(Sony-2, Call-1)
+nsubj(TV-7, Sony-2)
+advmod(TV-7, then-3)
+advmod(TV-7, there-4)
+nsubj(TV-7, answer-5)
+cop(TV-7, was-6)
+root(ROOT-0, TV-7)
+rcmod(TV-7, is-8)
+dep(is-8, under-9)
+pobj(under-9, warranty-10)
+amod(days-13, 365-12)
+prep_for(warranty-10, days-13)
+advmod(longer-16, no-15)
+dep(is-8, longer-16)
+conj_and(under-9, longer-16)
+
+=========
+
+nsubj(think-3, I-1)
+aux(think-3, would-2)
+root(ROOT-0, think-3)
+det(company-5, a-4)
+dobj(think-3, company-5)
+mark(try-9, like-6)
+nsubj(try-9, Sony-7)
+nsubj(treat-11, Sony-7)
+aux(try-9, would-8)
+advcl(think-3, try-9)
+advcl(think-3, treat-11)
+conj_and(try-9, treat-11)
+expl(customers-13, there-12)
+nsubj(customers-13, there-12)
+xcomp(treat-11, customers-13)
+det(little-15, a-14)
+npadvmod(better-16, little-15)
+amod(customers-13, better-16)
+conj_and(try-9, be-18)
+conj_and(treat-11, be-18)
+det(help-21, some-20)
+prep_on(be-18, help-21)
+
+=========
+
+nsubj(like-2, Looks-1)
+ccomp(buy-16, like-2)
+nsubj(want-6, they-3)
+aux(want-6, do-4)
+neg(want-6, not-5)
+ccomp(like-2, want-6)
+nn(customers-8, retun-7)
+dobj(want-6, customers-8)
+amod(I-13, Last-11)
+nn(I-13, Sony-12)
+nsubj(buy-16, I-13)
+aux(buy-16, will-14)
+advmod(buy-16, ever-15)
+root(ROOT-0, buy-16)
+

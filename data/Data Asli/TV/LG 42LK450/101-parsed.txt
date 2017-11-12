@@ -1,0 +1,21 @@
+=========
+
+nsubj(breeze-4, It-1)
+cop(breeze-4, was-2)
+det(breeze-4, a-3)
+root(ROOT-0, breeze-4)
+aux(set-6, to-5)
+infmod(breeze-4, set-6)
+prt(set-6, up-7)
+det(feature-10, the-9)
+nsubj(adjusts-12, feature-10)
+nsubj(incredible-20, feature-10)
+rcmod(feature-10, adjusts-12)
+nn(brightness-14, screen-13)
+dobj(adjusts-12, brightness-14)
+prepc_according_to(adjusts-12, to-16)
+nn(lighting-18, room-17)
+pobj(adjusts-12, lighting-18)
+cop(incredible-20, is-19)
+conj_and(breeze-4, incredible-20)
+

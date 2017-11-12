@@ -1,0 +1,45 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(TV-5, the-3)
+amod(TV-5, same-4)
+dobj(have-2, TV-5)
+prep_in(TV-5, NY-7)
+mark(model-14, except-8)
+nsubj(model-14, it-9)
+cop(model-14, is-10)
+det(model-14, a-11)
+num(model-14, 55-12)
+nn(model-14, inch-13)
+advcl(have-2, model-14)
+
+=========
+
+poss(room-3, My-1)
+nn(room-3, TV-2)
+nsubj(big-7, room-3)
+advmod(big-7, here-4)
+cop(big-7, is-5)
+neg(big-7, not-6)
+root(ROOT-0, big-7)
+advmod(big-7, enough-8)
+det(55-11, the-10)
+prep_for(big-7, 55-11)
+prep(big-7, in-12)
+
+=========
+
+dep(got-3, so-1)
+nsubj(got-3, I-2)
+root(ROOT-0, got-3)
+det(50-5, the-4)
+dobj(got-3, 50-5)
+prep(got-3, in-6)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+

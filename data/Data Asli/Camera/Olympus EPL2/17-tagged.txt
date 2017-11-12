@@ -1,0 +1,7 @@
+Everything_NN I_PRP expected_VBD !_.
+Shipped_VBN in_IN a_DT very_RB timely_JJ manner_NN ._.
+Works_NNP great_JJ ._.
+New_JJ low_JJ price_NN was_VBD wonderful_JJ ._.
+Purchased_VBN with_IN $_$ 100_CD gift_NN card_NN ._.
+Only_RB ninety_CD bucks_NNS out_IN of_IN pocket_NN ._.
+Using_VBG it_PRP with_IN 50mm_CD 1.8_CD canon_NN fd_NN lens_NN ._.

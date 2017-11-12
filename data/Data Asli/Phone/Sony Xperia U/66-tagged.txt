@@ -1,0 +1,1 @@
+When_WRB I_PRP received_VBD my_PRP$ cellphone_NN it_PRP was_VBD not_RB the_DT color_NN I_PRP expected_VBD ,_, clearly_RB yhe_NN advertisement_NN says_VBZ ,_, BLACK_NNP \/_VBD PINK_NNP COLOR_NNP and_CC I_PRP got_VBD a_DT BLACK_NNP \/_NN BLACK_NNP COLOR_NNP this_DT was_VBD really_RB disappointing_JJ because_IN I_PRP bought_VBD it_PRP as_IN a_DT GIFT_NN ._.

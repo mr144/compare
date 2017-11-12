@@ -1,0 +1,30 @@
+=========
+
+nn(TV-2, Great-1)
+nsubj(watch-5, TV-2)
+advmod(watch-5, just-4)
+root(ROOT-0, watch-5)
+advmod(order-8, how-6)
+nsubj(order-8, you-7)
+ccomp(watch-5, order-8)
+dobj(order-8, it-9)
+
+=========
+
+mark(says-3, If-1)
+nsubj(says-3, it-2)
+advcl(works-9, says-3)
+amod(glasses-5, free-4)
+dobj(says-3, glasses-5)
+nsubj(works-9, that-7)
+advmod(works-9, only-8)
+root(ROOT-0, works-9)
+mark(buy-12, if-10)
+nsubj(buy-12, you-11)
+advcl(works-9, buy-12)
+dobj(buy-12, it-13)
+poss(TV-19, Amazon-15)
+conj_negcc(Amazon-15, Jason-17)
+poss(TV-19, Jason-17)
+prep_from(buy-12, TV-19)
+

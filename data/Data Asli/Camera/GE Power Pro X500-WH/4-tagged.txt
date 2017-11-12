@@ -1,0 +1,4 @@
+I_PRP do_VBP love_VB my_PRP$ camera_NN !_.
+It_PRP takes_VBZ beautiful_JJ pictures_NNS ._.
+But_CC I_PRP have_VBP noticed_VBN that_IN it_PRP eats_VBZ batteries_NNS ;_: I_PRP have_VBP to_TO change_VB them_PRP quite_RB often_RB ._.
+Other_JJ than_IN that_DT ,_, this_DT camera_NN is_VBZ a_DT win-win_JJ !_.

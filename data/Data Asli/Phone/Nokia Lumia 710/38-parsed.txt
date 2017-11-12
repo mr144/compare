@@ -1,0 +1,47 @@
+=========
+
+nsubj(go-4, You-1)
+aux(go-4, can-2)
+neg(go-4, not-3)
+ccomp(phone-18, go-4)
+acomp(go-4, wrong-5)
+prep_with(wrong-5, NOKIA-7)
+ccomp(go-4, build-8)
+dobj(build-8, quality-9)
+det(phone-12, this-11)
+nsubj(phone-18, phone-12)
+cop(phone-18, is-13)
+det(phone-18, the-14)
+amod(phone-18, best-15)
+amod(phone-18, mid-16)
+nn(phone-18, range-17)
+root(ROOT-0, phone-18)
+dobj(get-21, phone-18)
+nsubj(get-21, you-19)
+aux(get-21, can-20)
+rcmod(phone-18, get-21)
+det(price-24, this-23)
+prep_for(get-21, price-24)
+
+=========
+
+nn(Phone-2, Windows-1)
+nsubj(FAST-4, Phone-2)
+nsubj(beautiful-6, Phone-2)
+cop(FAST-4, is-3)
+root(ROOT-0, FAST-4)
+conj_and(FAST-4, beautiful-6)
+dep(by-12, plus-8)
+dep(by-12, all-9)
+det(apps-11, the-10)
+pobj(all-9, apps-11)
+dep(FAST-4, by-12)
+pobj(by-12, Nokia-13)
+cop(awesome-15, are-14)
+rcmod(Nokia-13, awesome-15)
+
+=========
+
+root(ROOT-0, Love-1)
+dobj(Love-1, it-2)
+

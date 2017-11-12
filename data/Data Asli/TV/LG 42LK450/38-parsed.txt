@@ -1,0 +1,48 @@
+=========
+
+nsubj(value-6, This-1)
+cop(value-6, is-2)
+det(value-6, a-3)
+amod(value-6, great-4)
+amod(value-6, end-of-product-cycle-5)
+root(ROOT-0, value-6)
+
+=========
+
+det(plethora-2, A-1)
+nsubj(has-11, plethora-2)
+prep_of(plethora-2, connections-4)
+number(HDMI-7, 3-6)
+dep(connections-4, HDMI-7)
+cc(even-10, and-9)
+advmod(connections-4, even-10)
+root(ROOT-0, has-11)
+det(headphonesjack-13, a-12)
+dobj(has-11, headphonesjack-13)
+dobj(need-16, headphonesjack-13)
+rel(need-16, which-14)
+nsubj(need-16, we-15)
+rcmod(headphonesjack-13, need-16)
+
+=========
+
+nsubj(picture-2, Beautiful-1)
+root(ROOT-0, picture-2)
+
+=========
+
+nsubj(sound-2, Great-1)
+root(ROOT-0, sound-2)
+dobj(sound-2, quality-3)
+
+=========
+
+advmod(!!-3, Love-1)
+nsubj(!!-3, it-2)
+root(ROOT-0, !!-3)
+det(TV-5, This-4)
+nsubj(best-8, TV-5)
+cop(best-8, is-6)
+det(best-8, the-7)
+ccomp(!!-3, best-8)
+

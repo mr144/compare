@@ -1,0 +1,51 @@
+=========
+
+nsubj(Had-3, I-1)
+aux(Had-3, have-2)
+root(ROOT-0, Had-3)
+amod(Phones-6, Many-4)
+amod(Phones-6, Different-5)
+dobj(Had-3, Phones-6)
+det(One-10, This-9)
+nsubj(Best-13, One-10)
+cop(Best-13, Was-11)
+det(Best-13, The-12)
+conj_but(Had-3, Best-13)
+
+=========
+
+nsubj(LOVE-2, I-1)
+root(ROOT-0, LOVE-2)
+nn(PHONE-4, MY-3)
+nsubj(Buy-12, PHONE-4)
+dep(Buy-12, !!!!-5)
+mark(Buy-12, If-6)
+poss(Lookin-8, Your-7)
+nsubj(Buy-12, Lookin-8)
+det(Phone-11, This-10)
+prep_for(Lookin-8, Phone-11)
+xcomp(LOVE-2, Buy-12)
+dobj(Buy-12, It-13)
+
+=========
+
+nsubj(Froze-2, It-1)
+root(ROOT-0, Froze-2)
+dep(Time-6, On-3)
+pobj(On-3, Me-4)
+num(Time-6, One-5)
+dep(Froze-2, Time-6)
+mark(Moving-10, Because-7)
+nsubj(Moving-10, I-8)
+aux(Moving-10, Was-9)
+dep(Time-6, Moving-10)
+dobj(Moving-10, It-11)
+prep_to(Moving-10, Fast-13)
+
+=========
+
+nn(Phone-4, Would-1)
+nn(Phone-4, Recommend-2)
+nn(Phone-4, This-3)
+root(ROOT-0, Phone-4)
+

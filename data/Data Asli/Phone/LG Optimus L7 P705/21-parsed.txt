@@ -1,0 +1,80 @@
+=========
+
+neg(only-2, Not-1)
+dep(great-6, only-2)
+cop(great-6, is-3)
+det(phone-5, the-4)
+nsubj(great-6, phone-5)
+parataxis(fantastic-14, great-6)
+det(service-9, the-8)
+nsubj(fantastic-14, service-9)
+prep_from(service-9, Hasslefreecell-11)
+cop(fantastic-14, was-12)
+advmod(fantastic-14, absolutely-13)
+root(ROOT-0, fantastic-14)
+
+=========
+
+nsubj(unable-4, I-1)
+aux(unable-4, have-2)
+cop(unable-4, been-3)
+root(ROOT-0, unable-4)
+aux(connect-6, to-5)
+xcomp(unable-4, connect-6)
+det(plan-10, the-8)
+nn(plan-10, data-9)
+prep_to(connect-6, plan-10)
+nn(Cellular-13, Consumer-12)
+dep(plan-10, Cellular-13)
+nsubj(piggybacks-15, Cellular-13)
+rcmod(Cellular-13, piggybacks-15)
+prep_on(piggybacks-15, AT&T-17)
+
+=========
+
+det(representatives-2, The-1)
+nsubj(worked-5, representatives-2)
+prep_at(representatives-2, Hasslefreecell-4)
+root(ROOT-0, worked-5)
+prep_with(worked-5, me-7)
+mark(DID-10, until-8)
+nsubj(DID-10, it-9)
+advcl(worked-5, DID-10)
+dobj(DID-10, work-11)
+
+=========
+
+nsubj(like-3, I-1)
+nsubj(appreciate-19, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+dobj(like-3, all-4)
+det(features-7, the-6)
+prep_of(all-4, features-7)
+det(phone-11, this-9)
+nn(phone-11, Android-10)
+prep_of(features-7, phone-11)
+appos(phone-11, 4.0-13)
+dep(4.0-13, ICS-15)
+advmod(appreciate-19, certainly-18)
+conj_and(like-3, appreciate-19)
+dobj(appreciate-19, all-20)
+det(efforts-23, the-22)
+prep_of(all-20, efforts-23)
+prep_of(all-20, patience-25)
+conj_and(efforts-23, patience-25)
+prep_from(efforts-23, Hasslefreecell-27)
+
+=========
+
+nsubj(recommend-3, I-1)
+nsubj(recommend-9, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(phone-5, the-4)
+dobj(recommend-3, phone-5)
+advmod(recommend-9, especially-8)
+conj_and(recommend-3, recommend-9)
+det(vendor-11, the-10)
+dobj(recommend-9, vendor-11)
+

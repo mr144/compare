@@ -1,0 +1,52 @@
+=========
+
+nsubj(tv-6, This-1)
+cop(tv-6, is-2)
+det(tv-6, the-3)
+amod(tv-6, first-4)
+nn(tv-6, LCD-5)
+root(ROOT-0, tv-6)
+complm(bought-9, that-7)
+nsubj(bought-9, I-8)
+ccomp(tv-6, bought-9)
+nsubj(happier-15, I-11)
+aux(happier-15, could-12)
+neg(happier-15, not-13)
+cop(happier-15, be-14)
+conj_and(tv-6, happier-15)
+det(seller-18, the-17)
+nsubj(responsive-21, seller-18)
+cop(responsive-21, is-19)
+advmod(responsive-21, very-20)
+conj_and(tv-6, responsive-21)
+det(tv-24, the-23)
+nsubj(awesome-26, tv-24)
+cop(awesome-26, is-25)
+conj_and(tv-6, awesome-26)
+
+=========
+
+det(deal-2, The-1)
+dobj(got-4, deal-2)
+nsubj(unbelievable-9, deal-2)
+nsubj(got-4, I-3)
+rcmod(deal-2, got-4)
+det(TV-7, this-6)
+prep_on(got-4, TV-7)
+cop(unbelievable-9, is-8)
+root(ROOT-0, unbelievable-9)
+nsubj(came-12, it-11)
+conj_and(unbelievable-9, came-12)
+num(days-15, 4-14)
+prep_within(came-12, days-15)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, you-2)
+conj_and(Thank-1, keep-4)
+prt(keep-4, up-5)
+det(work-8, the-6)
+amod(work-8, good-7)
+dobj(keep-4, work-8)
+

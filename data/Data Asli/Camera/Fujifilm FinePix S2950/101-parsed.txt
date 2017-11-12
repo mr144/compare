@@ -1,0 +1,80 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+dobj(purchased-2, this-3)
+poss(daughter-6, my-5)
+prep_for(this-3, daughter-6)
+nsubj(taking-10, daughter-6)
+aux(taking-10, is-9)
+rcmod(daughter-6, taking-10)
+dobj(taking-10, photography-11)
+amod(school-14, high-13)
+prep_in(photography-11, school-14)
+
+=========
+
+advmod(soon-2, As-1)
+advmod(creamed-9, soon-2)
+mark(opened-5, as-3)
+nsubj(opened-5, she-4)
+ccomp(soon-2, opened-5)
+dobj(opened-5, it-6)
+nsubj(creamed-9, she-8)
+root(ROOT-0, creamed-9)
+xcomp(creamed-9, Camera-11)
+dobj(Camera-11, 4-12)
+
+=========
+
+nsubj(one-3, This-1)
+cop(one-3, is-2)
+root(ROOT-0, one-3)
+det(cameras-6, the-5)
+prep_of(one-3, cameras-6)
+dobj(use-8, cameras-6)
+nsubj(use-8, they-7)
+rcmod(cameras-6, use-8)
+prep_in(use-8, class-10)
+advmod(favorite-18, apparently-13)
+nsubj(favorite-18, this-14)
+cop(favorite-18, is-15)
+det(favorite-18, the-16)
+nn(favorite-18, class-17)
+conj_and(one-3, favorite-18)
+
+=========
+
+nsubj(rush-2, They-1)
+xsubj(get-6, They-1)
+root(ROOT-0, rush-2)
+prep_to(rush-2, class-4)
+aux(get-6, to-5)
+xcomp(rush-2, get-6)
+det(one-8, this-7)
+dobj(get-6, one-8)
+
+=========
+
+advmod(enough-2, So-1)
+advmod(said-3, enough-2)
+dep(hero-8, said-3)
+nsubj(hero-8, I-5)
+cop(hero-8, am-6)
+poss(hero-8, her-7)
+root(ROOT-0, hero-8)
+prepc_for(hero-8, getting-10)
+det(camera-12, this-11)
+dobj(getting-10, camera-12)
+
+=========
+
+nsubj(using-4, She-1)
+aux(using-4, has-2)
+aux(using-4, been-3)
+root(ROOT-0, using-4)
+dobj(using-4, it-5)
+advmod(using-4, constantly-6)
+dep(since-8, every-7)
+advmod(using-4, since-8)
+

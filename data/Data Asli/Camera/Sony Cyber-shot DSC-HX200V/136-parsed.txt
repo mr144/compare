@@ -1,0 +1,36 @@
+=========
+
+root(ROOT-0, Simple-1)
+aux(use-3, to-2)
+xcomp(Simple-1, use-3)
+
+=========
+
+nsubj(results-2, Excellent-1)
+root(ROOT-0, results-2)
+
+=========
+
+root(ROOT-0, Recommended-1)
+poss(friends-4, my-3)
+prep_to(Recommended-1, friends-4)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+csubj(go-10, want-3)
+det(camera-6, a-4)
+amod(camera-6, simple-5)
+dobj(want-3, camera-6)
+amod(results-9, excellent-8)
+prep_with(want-3, results-9)
+root(ROOT-0, go-10)
+mark(happy-17, for-11)
+nsubj(happy-17, it-12)
+conj_and(it-12, you-14)
+nsubj(happy-17, you-14)
+aux(happy-17, will-15)
+cop(happy-17, be-16)
+advcl(go-10, happy-17)
+

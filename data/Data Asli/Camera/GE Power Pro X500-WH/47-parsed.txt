@@ -1,0 +1,33 @@
+=========
+
+nsubj(taken-3, I-1)
+aux(taken-3, have-2)
+root(ROOT-0, taken-3)
+amod(pictures-5, several-4)
+dobj(taken-3, pictures-5)
+det(cameral-9, this-7)
+amod(cameral-9, digital-8)
+nsubj(great-12, cameral-9)
+cop(great-12, is-10)
+advmod(great-12, absolutely-11)
+conj_and(taken-3, great-12)
+det(price-15, the-14)
+prep_for(great-12, price-15)
+
+=========
+
+nsubj(satified-4, I-1)
+nsubj(buy-8, I-1)
+cop(satified-4, am-2)
+advmod(satified-4, very-3)
+root(ROOT-0, satified-4)
+aux(buy-8, will-6)
+advmod(buy-8, probably-7)
+conj_and(satified-4, buy-8)
+amod(products-10, other-9)
+dobj(buy-8, products-10)
+partmod(products-10, related-11)
+prep_to(related-11, GE-13)
+poss(company-16, your-15)
+prep_from(related-11, company-16)
+

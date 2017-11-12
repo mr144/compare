@@ -1,0 +1,42 @@
+=========
+
+det(sensor-3, The-1)
+nn(sensor-3, IR-2)
+nsubj(stopped-4, sensor-3)
+root(ROOT-0, stopped-4)
+xcomp(stopped-4, working-5)
+num(months-7, 3-6)
+dep(was-11, months-7)
+dep(was-11, after-8)
+nn(warranty-10, manufacturer-9)
+nsubj(was-11, warranty-10)
+ccomp(working-5, was-11)
+advmod(was-11, up-12)
+
+=========
+
+nsubj(told-3, Vizio-1)
+advmod(told-3, basically-2)
+root(ROOT-0, told-3)
+dobj(told-3, me-4)
+nsubj(SOL-7, I-5)
+cop(SOL-7, was-6)
+dep(told-3, SOL-7)
+
+=========
+
+nsubj(told-2, I-1)
+ccomp(okay-14, told-2)
+dobj(told-2, them-3)
+nsubj(buying-7, I-4)
+aux(buying-7, was-5)
+neg(buying-7, never-6)
+dep(told-2, buying-7)
+det(vizio-9, a-8)
+dobj(buying-7, vizio-9)
+advmod(buying-7, again-10)
+nsubj(okay-14, they-12)
+cop(okay-14, seemed-13)
+root(ROOT-0, okay-14)
+prep_with(okay-14, that-16)
+

@@ -1,0 +1,278 @@
+=========
+
+nsubj(phone-5, This-1)
+cop(phone-5, is-2)
+det(phone-5, a-3)
+amod(phone-5, decent-4)
+root(ROOT-0, phone-5)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(one-5, the-3)
+amod(one-5, white-4)
+dobj(got-2, one-5)
+
+=========
+
+det(lights-3, Some-1)
+amod(lights-3, high-2)
+nsubj(3.8-11, lights-3)
+dep(lights-3, Pros-5)
+nn(size-9, Screen-8)
+nsubj(3.8-11, size-9)
+cop(3.8-11, is-10)
+root(ROOT-0, 3.8-11)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+nn(detailing-6, multi-touch-3)
+conj_and(multi-touch-3, screen-5)
+nn(detailing-6, screen-5)
+dobj(has-2, detailing-6)
+cop(crisp-8, is-7)
+rcmod(detailing-6, crisp-8)
+
+=========
+
+nsubj(has-2, Phone-1)
+root(ROOT-0, has-2)
+det(size-5, a-3)
+amod(size-5, compact-4)
+dobj(has-2, size-5)
+
+=========
+
+root(ROOT-0, Run-2)
+advmod(Run-2, smoothly-3)
+amod(specs-6, decent-5)
+prep_on(Run-2, specs-6)
+amod(processor-12, dual-8)
+amod(processor-12, core-9)
+num(processor-12, 800-10)
+nn(processor-12, MHz-11)
+prep_with(specs-6, processor-12)
+num(Gigs-15, 4-14)
+prep_on(Run-2, Gigs-15)
+conj_and(specs-6, Gigs-15)
+amod(memory-18, internal-17)
+prep_of(Gigs-15, memory-18)
+
+=========
+
+det(bit-3, a-2)
+nsubjpass(underclocked-21, bit-3)
+det(1GHz-6, the-5)
+prep_below(bit-3, 1GHz-6)
+det(phones-11, some-8)
+amod(phones-11, high-9)
+nn(phones-11, end-10)
+prep_on(1GHz-6, phones-11)
+det(processor-15, this-13)
+amod(processor-15, same-14)
+prep_with(phones-11, processor-15)
+advmod(processor-15, so-16)
+det(phone-18, this-17)
+pobj(so-16, phone-18)
+auxpass(underclocked-21, is-19)
+advmod(underclocked-21, probably-20)
+root(ROOT-0, underclocked-21)
+amod(life-25, better-23)
+nn(life-25, battery-24)
+prep_for(underclocked-21, life-25)
+
+=========
+
+det(phone-3, The-2)
+nsubj(has-4, phone-3)
+root(ROOT-0, has-4)
+dobj(has-4, 768MB-5)
+prep_of(768MB-5, RAM-7)
+
+=========
+
+det(bit-3, a-2)
+nsubj(phones-11, bit-3)
+det(1GB-6, the-5)
+prep_below(bit-3, 1GB-6)
+det(end-10, some-8)
+amod(end-10, high-9)
+prep_on(1GB-6, end-10)
+root(ROOT-0, phones-11)
+
+=========
+
+amod(camera-3, Front-facing-2)
+nsubj(!!-7, camera-3)
+amod(conferencing-6, video-5)
+prep_for(camera-3, conferencing-6)
+root(ROOT-0, !!-7)
+nsubj(gives-9, This-8)
+ccomp(!!-7, gives-9)
+det(ability-11, the-10)
+dobj(gives-9, ability-11)
+aux(skype-13, to-12)
+infmod(ability-11, skype-13)
+infmod(ability-11, video-gtalk-15)
+conj_or(skype-13, video-gtalk-15)
+
+=========
+
+advmod(gives-2, Also-1)
+root(ROOT-0, gives-2)
+det(ability-4, the-3)
+nsubj(gives-2, ability-4)
+aux(add-6, to-5)
+infmod(ability-4, add-6)
+det(app-10, a-7)
+nn(app-10, face-8)
+nn(app-10, unlock-9)
+dobj(add-6, app-10)
+nsubj(nice-14, app-10)
+cop(nice-14, is-12)
+advmod(nice-14, really-13)
+rcmod(app-10, nice-14)
+
+=========
+
+nn(Hotstop-3, Mobile-2)
+root(ROOT-0, Hotstop-3)
+prep_for(Hotstop-3, tethering-5)
+nn(Direct-8, WiFi-7)
+dep(tethering-5, Direct-8)
+
+=========
+
+num(battery-4, 1500-2)
+nn(battery-4, mAh-3)
+root(ROOT-0, battery-4)
+advmod(good-7, very-6)
+amod(life-8, good-7)
+prep_with(battery-4, life-8)
+
+=========
+
+det(phone-2, The-1)
+nsubj(take-5, phone-2)
+aux(take-5, will-3)
+advmod(take-5, easily-4)
+root(ROOT-0, take-5)
+dobj(take-5, you-6)
+det(day-9, the-8)
+prep_through(take-5, day-9)
+amod(use-12, average-11)
+prep_with(day-9, use-12)
+nsubj(get-15, I-14)
+parataxis(take-5, get-15)
+number(40-18, 30-16)
+dep(40-18, to-17)
+num(hours-19, 40-18)
+dobj(get-15, hours-19)
+det(charge-23, a-21)
+amod(charge-23, single-22)
+prep_on(hours-19, charge-23)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(snappier-5, Camera-2)
+aux(snappier-5, could-3)
+cop(snappier-5, be-4)
+root(ROOT-0, snappier-5)
+
+=========
+
+advmod(take-5, Hopefully-1)
+det(update-3, an-2)
+nsubj(take-5, update-3)
+aux(take-5, would-4)
+root(ROOT-0, take-5)
+dobj(take-5, care-6)
+amod(work-9, this.Net-8)
+prep_of(care-6, work-9)
+dep(care-6, Update-11)
+num(Update-11, 12\/04\/2012-12)
+num(1900-23, 2G-14)
+nn(1900-23, Network-15)
+nn(1900-23, GSM-16)
+num(1900-23, 850-17)
+nn(1900-23, \/-18)
+num(1900-23, 900-19)
+nn(1900-23, \/-20)
+num(1900-23, 1800-21)
+nn(1900-23, \/-22)
+dep(care-6, 1900-23)
+nn(Network-26, 3G-25)
+dep(care-6, Network-26)
+nn(I8160-29, GT-28)
+dep(care-6, I8160-29)
+num(I8160L-34, 900\/2100-31)
+nn(I8160L-34, MHz-32)
+nn(I8160L-34, BandsGT-33)
+dep(care-6, I8160L-34)
+num(BandsNote-38, 850\/1900-36)
+nn(BandsNote-38, MHz-37)
+dep(care-6, BandsNote-38)
+nn(list-41, Amazon-40)
+dep(care-6, list-41)
+det(phone-43, the-42)
+dep(list-41, phone-43)
+prep_as(take-5, GT-I8160-45)
+expl(are-48, there-47)
+conj_but(take-5, are-48)
+advmod(are-48, actually-49)
+num(models-51, two-50)
+nsubj(are-48, models-51)
+det(phone-54, this-53)
+prep_of(models-51, phone-54)
+nsubj(have-56, phone-54)
+rcmod(phone-54, have-56)
+amod(bands-59, different-57)
+amod(bands-59, 3g-58)
+dobj(have-56, bands-59)
+
+=========
+
+nsubj(ordered-2, I-1)
+root(ROOT-0, ordered-2)
+det(I8160-5, the-3)
+nn(I8160-5, GT-4)
+dobj(ordered-2, I8160-5)
+nn(Wireless-9, Open-7)
+nn(Wireless-9, Group-8)
+prep_from(ordered-2, Wireless-9)
+
+=========
+
+root(ROOT-0, Check-1)
+det(vendor-4, the-3)
+prep_with(Check-1, vendor-4)
+det(number-8, the-6)
+nn(number-8, model-7)
+prep_for(vendor-4, number-8)
+mark(order-11, before-9)
+nsubj(order-11, you-10)
+advcl(Check-1, order-11)
+
+=========
+
+advmod(phone-7, Overall-1)
+nsubj(phone-7, This-3)
+cop(phone-7, is-4)
+det(phone-7, a-5)
+amod(phone-7, nice-6)
+root(ROOT-0, phone-7)
+amod(specs-10, internal-9)
+prep_with(phone-7, specs-10)
+advmod(phone-7, just-11)
+advmod(phone-7, below-12)
+dep(phone-7, some-13)
+det(phones-18, the-15)
+amod(phones-18, high-16)
+nn(phones-18, end-17)
+prep_of(some-13, phones-18)
+

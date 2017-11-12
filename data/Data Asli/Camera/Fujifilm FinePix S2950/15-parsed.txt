@@ -1,0 +1,29 @@
+=========
+
+nn(Product-2, Good-1)
+nsubj(explain-4, Product-2)
+aux(explain-4, Do-3)
+root(ROOT-0, explain-4)
+advmod(liked-7, why-5)
+nsubj(liked-7, you-6)
+nsubj(disliked-9, you-6)
+advcl(explain-4, liked-7)
+advcl(explain-4, disliked-9)
+conj_or(liked-7, disliked-9)
+det(product-11, this-10)
+dobj(disliked-9, product-11)
+
+=========
+
+nn(y-4, y-1)
+nn(y-4, y-2)
+nn(y-4, y-3)
+dep(y-5, y-4)
+root(ROOT-0, y-5)
+nn(y-7, y-6)
+dobj(y-5, y-7)
+num(y-11, y-8)
+nn(y-11, y-9)
+nn(y-11, y-10)
+nsubj(y-5, y-11)
+

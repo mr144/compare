@@ -1,0 +1,90 @@
+=========
+
+nsubj(killing-4, Samsung-1)
+aux(killing-4, is-2)
+advmod(killing-4, really-3)
+root(ROOT-0, killing-4)
+det(competition-6, the-5)
+dobj(killing-4, competition-6)
+advmod(killing-4, now-7)
+det(products-11, these-9)
+nn(products-11, quality-10)
+prep_with(killing-4, products-11)
+
+=========
+
+det(TV-2, This-1)
+nsubj(easy-5, TV-2)
+xsubj(set-7, TV-2)
+cop(easy-5, is-3)
+advmod(easy-5, so-4)
+root(ROOT-0, easy-5)
+aux(set-7, to-6)
+xcomp(easy-5, set-7)
+prt(set-7, up-8)
+xcomp(easy-5, use-10)
+conj_and(set-7, use-10)
+
+=========
+
+det(picture-2, The-1)
+nsubj(fantastic-4, picture-2)
+cop(fantastic-4, is-3)
+root(ROOT-0, fantastic-4)
+amod(color-8, deep-6)
+amod(color-8, black-7)
+prep_with(fantastic-4, color-8)
+
+=========
+
+root(ROOT-0, Not-1)
+advmod(hint-4, even-2)
+det(hint-4, a-3)
+dep(Not-1, hint-4)
+prep_of(hint-4, gray-6)
+
+=========
+
+nsubj(fast-3, Streaming-1)
+nsubj(has-6, Streaming-1)
+cop(fast-3, is-2)
+root(ROOT-0, fast-3)
+advmod(has-6, rarely-5)
+conj_and(fast-3, has-6)
+det(hiccups-8, any-7)
+dobj(has-6, hiccups-8)
+
+=========
+
+advmod(satisfied-2, Very-1)
+root(ROOT-0, satisfied-2)
+
+=========
+
+det(one-2, This-1)
+nsubj(have-5, one-2)
+aux(have-5, does-3)
+neg(have-5, not-4)
+root(ROOT-0, have-5)
+det(gesture-8, the-6)
+nn(gesture-8, hand-7)
+dobj(have-5, gesture-8)
+rcmod(gesture-8, commands-9)
+advmod(commands-9, however-10)
+mark(has-14, because-12)
+nsubj(has-14, it-13)
+advcl(commands-9, has-14)
+det(camara-16, no-15)
+dobj(has-14, camara-16)
+
+=========
+
+nsubj(have-2, You-1)
+xsubj(pay-4, You-1)
+root(ROOT-0, have-2)
+aux(pay-4, to-3)
+xcomp(have-2, pay-4)
+dobj(pay-4, more-5)
+det(feature-8, that-7)
+prep_for(pay-4, feature-8)
+

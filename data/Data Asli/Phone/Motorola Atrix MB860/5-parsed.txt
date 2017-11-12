@@ -1,0 +1,80 @@
+=========
+
+det(phone-2, The-1)
+nsubj(good-4, phone-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+predet(features-8, all-6)
+det(features-8, the-7)
+prep_with(good-4, features-8)
+prep(features-8, but-10)
+poss(sturdy-13, its-11)
+neg(sturdy-13, not-12)
+dep(but-10, sturdy-13)
+
+=========
+
+nsubj(works-2, It-1)
+nsubj(start-12, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, fine-3)
+det(year-7, the-5)
+amod(year-7, first-6)
+prep_for(works-2, year-7)
+advmod(start-12, so-9)
+conj_and(so-9, then-11)
+advmod(start-12, then-11)
+conj_or(works-2, start-12)
+xcomp(start-12, having-13)
+dobj(having-13, issues-14)
+
+=========
+
+nsubj(having-4, I-1)
+aux(having-4, have-2)
+aux(having-4, been-3)
+root(ROOT-0, having-4)
+dobj(having-4, problem-5)
+dobj(worked-11, problem-5)
+det(Wifi-8, the-7)
+prep_with(problem-5, Wifi-8)
+rel(worked-11, which-9)
+nsubj(worked-11, hasnt-10)
+rcmod(problem-5, worked-11)
+amod(1-14, past-13)
+prep_for(worked-11, 1-14)
+tmod(worked-11, year-15)
+advmod(seem-24, now-18)
+det(screen-21, the-19)
+nn(screen-21, touch-20)
+nsubj(seem-24, screen-21)
+xsubj(respond-26, screen-21)
+aux(seem-24, does-22)
+neg(seem-24, not-23)
+conj_and(having-4, seem-24)
+aux(respond-26, to-25)
+xcomp(seem-24, respond-26)
+
+=========
+
+root(ROOT-0, Need-1)
+aux(restart-3, to-2)
+xcomp(Need-1, restart-3)
+det(min-6, every-4)
+amod(min-6, other-5)
+dobj(restart-3, min-6)
+advmod(Need-1, so-8)
+conj_or(Need-1, so-8)
+
+=========
+
+root(ROOT-0, Not-1)
+dep(Not-1, worth-2)
+det(price-4, the-3)
+dep(worth-2, price-4)
+
+=========
+
+advmod(disappointed-2, Very-1)
+root(ROOT-0, disappointed-2)
+

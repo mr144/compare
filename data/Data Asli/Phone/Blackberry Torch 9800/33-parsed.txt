@@ -1,0 +1,35 @@
+=========
+
+poss(screen-2, Its-1)
+nsubj(smaller-4, screen-2)
+cop(smaller-4, is-3)
+root(ROOT-0, smaller-4)
+poss(curve-9, my-6)
+amod(curve-9, old-7)
+amod(curve-9, blacberry-8)
+prep_than(smaller-4, curve-9)
+
+=========
+
+det(phone-2, the-1)
+root(ROOT-0, phone-2)
+
+=========
+
+cop(cheaper-4, s-1)
+npadvmod(cheaper-4, performance-2)
+advmod(performance-2, also-3)
+root(ROOT-0, cheaper-4)
+prep_than(cheaper-4, curve-6)
+
+=========
+
+dep(think-3, So-1)
+nsubj(think-3, I-2)
+root(ROOT-0, think-3)
+det(phone-5, this-4)
+dobj(think-3, phone-5)
+advmod(think-3, still-6)
+advmod(think-3, better-7)
+prep_than(better-7, curve-9)
+

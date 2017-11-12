@@ -1,0 +1,25 @@
+=========
+
+nsubj(choose-2, I-1)
+root(ROOT-0, choose-2)
+det(Xperia-4, this-3)
+dobj(choose-2, Xperia-4)
+mark(wanted-7, because-5)
+nsubj(wanted-7, I-6)
+advcl(choose-2, wanted-7)
+det(phone-10, an-8)
+nn(phone-10, Android-9)
+dobj(wanted-7, phone-10)
+prep(wanted-7, not-11)
+advmod(expensive-13, so-12)
+pobj(not-11, expensive-13)
+
+=========
+
+det(phone-2, This-1)
+nsubj(fits-3, phone-2)
+root(ROOT-0, fits-3)
+advmod(fits-3, perfectly-4)
+poss(needs-7, my-6)
+prep_to(fits-3, needs-7)
+

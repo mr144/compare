@@ -1,0 +1,51 @@
+=========
+
+nsubj(love-2, I-1)
+nsubj(looking-11, I-1)
+root(ROOT-0, love-2)
+det(easy-4, the-3)
+dobj(love-2, easy-4)
+aux(use-6, to-5)
+xcomp(love-2, use-6)
+amod(guidelines-8, basic-7)
+dobj(use-6, guidelines-8)
+aux(looking-11, am-10)
+conj_and(love-2, looking-11)
+advmod(looking-11, forward-12)
+prepc_to(looking-11, educating-14)
+dobj(educating-14, myself-15)
+dep(attributes-20, to-16)
+nsubj(attributes-20, it-17)
+cop(attributes-20, is-18)
+amod(attributes-20, further-19)
+dep(educating-14, attributes-20)
+
+=========
+
+amod(prints-2, Wonderful-1)
+root(ROOT-0, prints-2)
+amod(visit-5, recent-4)
+prep_from(prints-2, visit-5)
+amod(gardens-8, botanical-7)
+prep_to(prints-2, gardens-8)
+
+=========
+
+nsubj(easy-3, Lens-1)
+cop(easy-3, are-2)
+root(ROOT-0, easy-3)
+aux(change-5, to-4)
+xcomp(easy-3, change-5)
+dep(change-5, love-7)
+predet(features-11, all-8)
+det(features-11, the-9)
+amod(features-11, automatic-10)
+dobj(love-7, features-11)
+
+=========
+
+nn(RELIABILTY-4, GOOD-1)
+nn(RELIABILTY-4, OLD-2)
+nn(RELIABILTY-4, CANON-3)
+root(ROOT-0, RELIABILTY-4)
+

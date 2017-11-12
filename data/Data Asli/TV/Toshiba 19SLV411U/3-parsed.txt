@@ -1,0 +1,37 @@
+=========
+
+dep(ready-2, get-1)
+root(ROOT-0, ready-2)
+aux(turn-4, to-3)
+xcomp(ready-2, turn-4)
+dobj(turn-4, this-5)
+prt(turn-4, up-6)
+prep_to(turn-4, 99-8)
+aux(hear-10, to-9)
+xcomp(turn-4, hear-10)
+dobj(hear-10, it-11)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(bar-5, a-3)
+amod(bar-5, sound-4)
+dobj(bought-2, bar-5)
+nsubj(play-11, i-7)
+dep(play-11, will-8)
+neg(play-11, not-9)
+advmod(play-11, even-10)
+conj_but(bought-2, play-11)
+dep(play-11, though-12)
+dobj(play-11, it-13)
+
+=========
+
+advmod(good-2, very-1)
+dep(picture-3, good-2)
+root(ROOT-0, picture-3)
+advmod(picture-3, just-4)
+det(sound-6, no-5)
+nsubj(picture-3, sound-6)
+

@@ -1,0 +1,113 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(9800-7, an-3)
+nn(9800-7, unlocked-4)
+nn(9800-7, Blackberry-5)
+nn(9800-7, Torch-6)
+dobj(bought-2, 9800-7)
+det(warranty-11, an-9)
+amod(warranty-11, international-10)
+prep_with(bought-2, warranty-11)
+
+=========
+
+nsubj(year-7, It-1)
+aux(year-7, has-2)
+neg(year-7, not-3)
+advmod(year-7, even-4)
+cop(year-7, been-5)
+num(year-7, one-6)
+root(ROOT-0, year-7)
+predet(phone-11, the-9)
+det(phone-11, the-10)
+nsubjpass(broken-13, phone-11)
+auxpass(broken-13, is-12)
+conj_and(year-7, broken-13)
+
+=========
+
+det(screen-2, The-1)
+nsubj(work-5, screen-2)
+aux(work-5, does-3)
+neg(work-5, not-4)
+ccomp(blank-10, work-5)
+nsubj(blank-10, it-7)
+cop(blank-10, is-8)
+advmod(blank-10, completely-9)
+root(ROOT-0, blank-10)
+
+=========
+
+root(ROOT-0, Not-1)
+aux(mention-3, to-2)
+dep(Not-1, mention-3)
+det(screen-5, the-4)
+dobj(mention-3, screen-5)
+xsubj(freeze-8, screen-5)
+partmod(screen-5, used-6)
+aux(freeze-8, to-7)
+xcomp(used-6, freeze-8)
+advmod(freeze-8, occasionally-9)
+advmod(working-15, when-10)
+det(phone-12, the-11)
+nsubj(working-15, phone-12)
+aux(working-15, was-13)
+advmod(working-15, actually-14)
+advcl(freeze-8, working-15)
+
+=========
+
+mark(unlocked-5, Since-1)
+poss(phone-3, my-2)
+nsubj(unlocked-5, phone-3)
+aux(unlocked-5, is-4)
+csubj(refuses-8, unlocked-5)
+poss(carrier-7, my-6)
+dobj(unlocked-5, carrier-7)
+root(ROOT-0, refuses-8)
+aux(repair-10, to-9)
+xcomp(refuses-8, repair-10)
+xcomp(refuses-8, replace-12)
+conj_or(repair-10, replace-12)
+dobj(repair-10, it-13)
+
+=========
+
+nsubj(called-2, I-1)
+root(ROOT-0, called-2)
+poss(service-6, Blackberry-3)
+nn(service-6, customer-5)
+dobj(called-2, service-6)
+advmod(honor-12, apparently-8)
+nsubj(honor-12, they-9)
+aux(honor-12, will-10)
+neg(honor-12, not-11)
+conj_and(called-2, honor-12)
+poss(warranty-14, my-13)
+dobj(honor-12, warranty-14)
+advmod(honor-12, either-15)
+
+=========
+
+root(ROOT-0, Horrible-1)
+nn(service-3, customer-2)
+dobj(Horrible-1, service-3)
+
+=========
+
+nn(PRODUCTS-5, DO-1)
+nn(PRODUCTS-5, NOT-2)
+nn(PRODUCTS-5, BUY-3)
+nn(PRODUCTS-5, BLACKBERRY-4)
+root(ROOT-0, PRODUCTS-5)
+mark(WANT-8, IF-6)
+nsubj(WANT-8, YOU-7)
+xsubj(SAVE-10, YOU-7)
+dep(PRODUCTS-5, WANT-8)
+aux(SAVE-10, TO-9)
+xcomp(WANT-8, SAVE-10)
+nn(!!-12, MONEY-11)
+dobj(SAVE-10, !!-12)
+

@@ -1,0 +1,1 @@
+You_PRP should_MD display_VB that_IN the_DT phone_NN is_VBZ jail_NN broken_JJ ,_, it_PRP should_MD not_RB be_VB displayed_VBN that_IN it_PRP is_VBZ unlocked_VBN by_IN Apple_NNP

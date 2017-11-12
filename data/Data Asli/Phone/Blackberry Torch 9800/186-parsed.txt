@@ -1,0 +1,45 @@
+=========
+
+nsubj(instrument-5, It-1)
+cop(instrument-5, is-2)
+det(instrument-5, a-3)
+amod(instrument-5, lovely-4)
+root(ROOT-0, instrument-5)
+neg(difficult-8, not-7)
+amod(instrument-5, difficult-8)
+aux(familiar-11, to-9)
+dep(familiar-11, get-10)
+infmod(instrument-5, familiar-11)
+prep(familiar-11, with-12)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+num(cards-6, 2-3)
+amod(cards-6, different-4)
+nn(cards-6, SIM-5)
+dobj(use-2, cards-6)
+prep_with(use-2, it-8)
+partmod(use-2, pending-10)
+xcomp(use-2, pending-10)
+advmod(going-14, where-11)
+nsubj(going-14, I-12)
+aux(going-14, am-13)
+advcl(pending-10, going-14)
+
+=========
+
+nsubj(arrived-2, It-1)
+root(ROOT-0, arrived-2)
+advmod(when-4, exactly-3)
+advmod(said-6, when-4)
+nsubj(said-6, Amazon-5)
+advcl(arrived-2, said-6)
+nsubjpass(supposed-9, it-7)
+xsubj(arrive-11, it-7)
+auxpass(supposed-9, is-8)
+ccomp(said-6, supposed-9)
+aux(arrive-11, to-10)
+xcomp(supposed-9, arrive-11)
+

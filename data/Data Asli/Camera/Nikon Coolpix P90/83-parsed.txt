@@ -1,0 +1,42 @@
+=========
+
+root(ROOT-0, Love-1)
+det(camera-5, this-2)
+nn(camera-5, Nicon-3)
+nn(camera-5, P90-4)
+dep(Love-1, camera-5)
+
+=========
+
+nsubjpass(loaded-3, It-1)
+auxpass(loaded-3, 's-2)
+root(ROOT-0, loaded-3)
+prep_with(loaded-3, features-5)
+advmod(found-7, only-6)
+partmod(features-5, found-7)
+advmod(expensive-10, more-9)
+prep_in(found-7, expensive-10)
+ccomp(expensive-10, camerasand-11)
+det(need-13, no-12)
+dobj(camerasand-11, need-13)
+aux(change-15, to-14)
+infmod(need-13, change-15)
+dobj(change-15, lenses-16)
+det(26mm-20, the-19)
+prep_because_of(lenses-16, 26mm-20)
+amod(zoom-24, 624mm-22)
+nn(zoom-24, equivalent-23)
+prep_to(change-15, zoom-24)
+det(camera-29, a-26)
+num(camera-29, 35mm-27)
+nn(camera-29, film-28)
+prep_of(zoom-24, camera-29)
+
+=========
+
+det(screen-3, The-1)
+nn(screen-3, tilt-2)
+nsubj(works-4, screen-3)
+root(ROOT-0, works-4)
+acomp(works-4, great-5)
+

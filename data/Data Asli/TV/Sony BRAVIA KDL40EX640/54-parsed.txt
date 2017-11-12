@@ -1,0 +1,25 @@
+=========
+
+det(order-2, The-1)
+nsubj(came-3, order-2)
+root(ROOT-0, came-3)
+advmod(came-3, faster-4)
+mark(imagined-9, than-5)
+nsubj(imagined-9, I-6)
+aux(imagined-9, could-7)
+aux(imagined-9, have-8)
+dep(came-3, imagined-9)
+dep(came-3, in-11)
+conj_and(imagined-9, in-11)
+amod(order-14, good-12)
+amod(order-14, working-13)
+pobj(in-11, order-14)
+
+=========
+
+nsubj(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+det(TV-6, a-4)
+amod(TV-6, great-5)
+conj_and(pleased-2, TV-6)
+

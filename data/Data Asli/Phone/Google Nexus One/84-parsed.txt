@@ -1,0 +1,62 @@
+=========
+
+nsubj(copy-5, This-1)
+cop(copy-5, is-2)
+poss(copy-5, my-3)
+amod(copy-5, second-4)
+root(ROOT-0, copy-5)
+det(phone-8, this-7)
+prep_of(copy-5, phone-8)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+dobj(purchased-2, one-3)
+prep_from(purchased-2, google-5)
+advmod(year-12, now-7)
+det(one-10, this-8)
+amod(one-10, second-9)
+dep(year-12, one-10)
+det(year-12, a-11)
+conj_and(purchased-2, year-12)
+advmod(year-12, later-13)
+
+=========
+
+nsubj(gave-2, I-1)
+root(ROOT-0, gave-2)
+dobj(gave-2, this-3)
+det(gift-6, a-5)
+prep_as(gave-2, gift-6)
+
+=========
+
+nsubj(praise-4, I-1)
+aux(praise-4, can-2)
+advmod(praise-4, only-3)
+root(ROOT-0, praise-4)
+dobj(praise-4, it-5)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+iobj(use-2, it-3)
+dobj(use-2, everyday-4)
+nsubj(use-8, I-6)
+advmod(use-8, also-7)
+conj_and(use-2, use-8)
+dobj(use-8, it-9)
+prepc_for(use-8, developing-11)
+amod(apps-13, android-12)
+dobj(developing-11, apps-13)
+
+=========
+
+nsubj(product-5, It-1)
+cop(product-5, is-2)
+det(product-5, a-3)
+amod(product-5, greatest-4)
+root(ROOT-0, product-5)
+

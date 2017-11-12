@@ -1,0 +1,180 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+prep_through(bought-2, abe-123-5)
+
+=========
+
+expl(was-2, There-1)
+root(ROOT-0, was-2)
+det(update-5, the-3)
+nn(update-5, OS-4)
+nsubj(was-2, update-5)
+det(right-9, the-7)
+nn(right-9, maker-8)
+prep_of(update-5, right-9)
+mark(came-13, after-10)
+det(product-12, a-11)
+nsubj(came-13, product-12)
+advcl(was-2, came-13)
+prep_to(came-13, me-15)
+
+=========
+
+det(result-3, a-2)
+prep_as(occurred-9, result-3)
+prep_of(result-3, update-5)
+det(problem-8, a-7)
+nsubj(occurred-9, problem-8)
+root(ROOT-0, occurred-9)
+complm(not-13, that-10)
+det(phone-12, the-11)
+nsubj(not-13, phone-12)
+xsubj(start-15, phone-12)
+ccomp(occurred-9, not-13)
+aux(start-15, to-14)
+xcomp(not-13, start-15)
+det(function-17, any-16)
+dobj(start-15, function-17)
+
+=========
+
+det(reset-3, The-1)
+nn(reset-3, factory-2)
+nsubj(act-6, reset-3)
+aux(act-6, did-4)
+neg(act-6, not-5)
+root(ROOT-0, act-6)
+advmod(act-6, too-8)
+
+=========
+
+nsubj(decided-2, I-1)
+xsubj(ask-4, I-1)
+root(ROOT-0, decided-2)
+aux(ask-4, to-3)
+xcomp(decided-2, ask-4)
+dobj(ask-4, Motorola-5)
+nn(repair-8, guarantee-7)
+prep_for(Motorola-5, repair-8)
+
+=========
+
+advmod(complicated-6, However-1)
+det(procedure-4, the-3)
+nsubjpass(complicated-6, procedure-4)
+auxpass(complicated-6, was-5)
+root(ROOT-0, complicated-6)
+mark(live-9, because-7)
+nsubj(live-9, I-8)
+advcl(complicated-6, live-9)
+prep_in(live-9, JAPAN-11)
+
+=========
+
+nn(Motorola-2, Japanese-1)
+nsubj(accept-5, Motorola-2)
+aux(accept-5, did-3)
+neg(accept-5, not-4)
+root(ROOT-0, accept-5)
+dobj(accept-5, repair-6)
+nsubj(necessary-11, it-9)
+cop(necessary-11, was-10)
+conj_and(accept-5, necessary-11)
+aux(send-13, to-12)
+xcomp(necessary-11, send-13)
+dobj(send-13, it-14)
+nn(Motorola-17, American-16)
+prep_to(send-13, Motorola-17)
+
+=========
+
+nn(problem-2, New-1)
+nsubj(send-8, problem-2)
+nn(Motorola-5, American-4)
+nsubj(send-8, Motorola-5)
+aux(send-8, do-6)
+neg(send-8, not-7)
+root(ROOT-0, send-8)
+prt(send-8, out-9)
+det(article-13, a-10)
+nn(article-13, repair-11)
+nn(article-13, completion-12)
+dobj(send-8, article-13)
+prep_to(send-8, Japan-15)
+
+=========
+
+advmod(got-3, Therefore-1)
+nsubj(got-3, I-2)
+root(ROOT-0, got-3)
+det(assistance-5, the-4)
+dobj(got-3, assistance-5)
+aux(store-7, to-6)
+infmod(assistance-5, store-7)
+acomp(store-7, abe-123-8)
+
+=========
+
+prep_at(asked-4, first-2)
+nsubj(asked-4, I-3)
+nsubj(had-15, I-3)
+root(ROOT-0, asked-4)
+nsubj(send-7, Motorola-5)
+aux(send-7, to-6)
+xcomp(asked-4, send-7)
+det(product-10, a-8)
+nn(product-10, repair-9)
+dobj(send-7, product-10)
+det(store-13, the-12)
+prep_to(send-7, store-13)
+conj_and(asked-4, had-15)
+det(store-17, the-16)
+nsubj(send-18, store-17)
+ccomp(had-15, send-18)
+dobj(send-18, it-19)
+prep_to(send-18, Japan-21)
+amod(Japan-21, next-22)
+
+=========
+
+nsubj(took-2, It-1)
+nsubj(able-19, It-1)
+root(ROOT-0, took-2)
+quantmod(two-4, approximately-3)
+num(months-5, two-4)
+dobj(took-2, months-5)
+prep_for(months-5, me-7)
+nn(outbreak-10, trouble-9)
+prep_from(took-2, outbreak-10)
+det(cooperation-13, the-12)
+prep_by(took-2, cooperation-13)
+det(store-16, this-15)
+prep_of(cooperation-13, store-16)
+cop(able-19, was-18)
+conj_and(took-2, able-19)
+aux(complete-21, to-20)
+xcomp(able-19, complete-21)
+dobj(complete-21, repair-22)
+
+=========
+
+nsubjpass(satisfied-3, I-1)
+auxpass(satisfied-3, am-2)
+root(ROOT-0, satisfied-3)
+dep(satisfied-3, all-4)
+predet(product-8, both-6)
+det(product-8, this-7)
+prep_with(satisfied-3, product-8)
+det(care-12, the-10)
+nn(care-12, customer-11)
+prep_with(satisfied-3, care-12)
+conj_and(product-8, care-12)
+det(abe-123-16, this-14)
+nn(abe-123-16, store-15)
+prep_of(care-12, abe-123-16)
+advmod(much-18, very-17)
+advmod(satisfied-3, much-18)
+

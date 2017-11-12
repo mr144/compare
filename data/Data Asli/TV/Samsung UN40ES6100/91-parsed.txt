@@ -1,0 +1,46 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+dobj(purchased-2, this-3)
+det(month-6, a-5)
+prep_about(purchased-2, month-6)
+amod(month-6, ago-7)
+
+=========
+
+advmod(set-7, So-1)
+advmod(So-1, far-2)
+nsubj(set-7, it-3)
+cop(set-7, was-4)
+det(set-7, an-5)
+amod(set-7, easy-6)
+root(ROOT-0, set-7)
+dep(set-7, up-8)
+det(picture-11, the-10)
+nsubj(clear-13, picture-11)
+cop(clear-13, is-12)
+conj_and(set-7, clear-13)
+poss(husband-16, my-15)
+nsubj(loves-17, husband-16)
+conj_and(set-7, loves-17)
+det(picture-20, the-18)
+nn(picture-20, sports-19)
+dobj(loves-17, picture-20)
+partmod(picture-20, set-21)
+prt(set-21, up-22)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+nn(access-7, Netflix-3)
+conj_and(Netflix-3, Hulu-5)
+nn(access-7, Hulu-5)
+nn(access-7, Plus-6)
+dobj(has-2, access-7)
+prep_to(access-7, stream-9)
+advmod(has-2, directly-10)
+advmod(has-2, no-12)
+pobj(no-12, complaints-13)
+

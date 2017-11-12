@@ -1,0 +1,60 @@
+=========
+
+nsubj(have-2, We-1)
+root(ROOT-0, have-2)
+dobj(have-2, it-3)
+det(TV-7, a-5)
+nn(TV-7, kitchen-6)
+prep_as(have-2, TV-7)
+
+=========
+
+root(ROOT-0, Nice-1)
+dobj(Nice-1, size-2)
+
+=========
+
+nsubj(sufficient-3, Sound-1)
+cop(sufficient-3, is-2)
+root(ROOT-0, sufficient-3)
+nsubj(clear-7, picture-5)
+cop(clear-7, is-6)
+dep(sufficient-3, clear-7)
+prep_on(clear-7, HDMI-9)
+det(DVD\/CD-13, the-12)
+nsubj(works-14, DVD\/CD-13)
+conj_and(sufficient-3, works-14)
+advmod(works-14, well-15)
+
+=========
+
+amod(holes-4, Has-1)
+amod(holes-4, standard-2)
+amod(holes-4, mounting-3)
+nsubj(mount-14, holes-4)
+det(wall-13, the-6)
+advmod(easy-9, back-7)
+advmod(easy-9, so-8)
+amod(wall-13, easy-9)
+aux(mount-11, to-10)
+xcomp(easy-9, mount-11)
+prt(mount-11, on-12)
+prep_on(holes-4, wall-13)
+root(ROOT-0, mount-14)
+
+=========
+
+dep(able-7, Not-1)
+advmod(heavy-3, very-2)
+dep(Not-1, heavy-3)
+nsubj(able-7, I-5)
+cop(able-7, was-6)
+root(ROOT-0, able-7)
+aux(hang-9, to-8)
+xcomp(able-7, hang-9)
+dobj(hang-9, it-10)
+prep_by(hang-9, myself-12)
+dobj(hang-9, while-13)
+det(ladder-16, a-15)
+prep_on(able-7, ladder-16)
+

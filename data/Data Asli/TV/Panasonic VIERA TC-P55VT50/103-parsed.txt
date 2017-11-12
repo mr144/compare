@@ -1,0 +1,62 @@
+=========
+
+root(ROOT-0, Wow-1)
+advmod(wow-4, just-3)
+dep(Wow-1, wow-4)
+
+=========
+
+det(picture-2, The-1)
+nsubj(clear-8, picture-2)
+det(set-5, this-4)
+prep_on(picture-2, set-5)
+cop(clear-8, is-6)
+advmod(clear-8, crystal-7)
+root(ROOT-0, clear-8)
+prep_with(clear-8, blacks-11)
+advmod(deep-13, so-12)
+acomp(clear-8, deep-13)
+nsubj(feel-16, you-14)
+aux(feel-16, 'll-15)
+ccomp(deep-13, feel-16)
+mark(sucked-21, like-17)
+nsubjpass(sucked-21, you-18)
+aux(sucked-21, are-19)
+auxpass(sucked-21, being-20)
+advcl(feel-16, sucked-21)
+prep(sucked-21, in-22)
+pcomp(in-22, to-23)
+prep_to(in-22, them-24)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+nsubj(are-2, tons-3)
+amod(features-7, great-5)
+nn(features-7, Internet-6)
+prep_of(tons-3, features-7)
+advmod(well-9, as-8)
+mwe(well-9, as-8)
+advmod(are-2, well-9)
+det(movies-14, the-12)
+num(movies-14, 3D-13)
+dobj(seen-17, movies-14)
+nsubj(had-20, movies-14)
+nsubj(seen-17, we-15)
+aux(seen-17, have-16)
+rcmod(movies-14, seen-17)
+prep_on(seen-17, it-19)
+conj_and(are-2, had-20)
+amod(pictures-23, great-21)
+num(pictures-23, 3D-22)
+dobj(had-20, pictures-23)
+
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, absolutely-2)
+root(ROOT-0, love-3)
+det(TV-5, this-4)
+dobj(love-3, TV-5)
+

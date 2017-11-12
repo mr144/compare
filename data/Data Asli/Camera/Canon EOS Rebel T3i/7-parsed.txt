@@ -1,0 +1,55 @@
+=========
+
+nsubj(bought-3, I-1)
+advmod(bought-3, also-2)
+root(ROOT-0, bought-3)
+det(lens-8, a-4)
+num(lens-8, 55-250-5)
+nn(lens-8, mm-6)
+nn(lens-8, ISII-7)
+dobj(bought-3, lens-8)
+aux(go-10, to-9)
+xcomp(bought-3, go-10)
+prep_with(go-10, it-12)
+
+=========
+
+nsubj(made-2, They-1)
+root(ROOT-0, made-2)
+det(pair-5, a-3)
+amod(pair-5, wonderful-4)
+dobj(made-2, pair-5)
+advmod(made-2, together-6)
+
+=========
+
+det(quality-2, The-1)
+nsubj(astounding-11, quality-2)
+conj_and(quality-2, sharpness-4)
+nsubj(astounding-11, sharpness-4)
+conj_and(quality-2, vivacity-6)
+nsubj(astounding-11, vivacity-6)
+det(colors-9, the-8)
+prep_of(quality-2, colors-9)
+cop(astounding-11, were-10)
+root(ROOT-0, astounding-11)
+
+=========
+
+nsubj(photographer-5, I-1)
+cop(photographer-5, am-2)
+det(photographer-5, an-3)
+amod(photographer-5, amateur-4)
+root(ROOT-0, photographer-5)
+nsubj(enjoy-9, I-7)
+nsubj(ease-16, I-7)
+advmod(enjoy-9, thoroughly-8)
+conj_and(photographer-5, enjoy-9)
+det(camera-11, this-10)
+dobj(enjoy-9, camera-11)
+poss(features-14, its-13)
+prep_for(camera-11, features-14)
+conj_and(photographer-5, ease-16)
+conj_and(enjoy-9, ease-16)
+prep_of(ease-16, use-18)
+

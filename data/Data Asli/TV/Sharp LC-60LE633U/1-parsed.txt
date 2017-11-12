@@ -1,0 +1,107 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(TV-4, this-3)
+npadvmod(purchased-2, TV-4)
+det(player-11, a-7)
+amod(player-11, Sharp-8)
+amod(player-11, 3d-9)
+nn(player-11, dvd-10)
+prep_along_with(purchased-2, player-11)
+num(glasses-16, 2-14)
+amod(glasses-16, sharp-15)
+prep_along_with(purchased-2, glasses-16)
+conj_and(player-11, glasses-16)
+prep_from(glasses-16, Brandsmart-18)
+prep_for(purchased-2, $-20)
+num($-20, 1100-21)
+nn(deal-23, package-22)
+dobj(purchased-2, deal-23)
+prep_on(deal-23, sale-25)
+
+=========
+
+det(tv-2, The-1)
+nsubj(has-3, tv-2)
+root(ROOT-0, has-3)
+det(quality-9, a-4)
+amod(quality-9, beautiful-5)
+amod(quality-9, picuture-6)
+conj_and(picuture-6, great-8)
+amod(quality-9, great-8)
+dobj(has-3, quality-9)
+amod(3d-12, great-11)
+prep_with(quality-9, 3d-12)
+
+=========
+
+nsubj(used-4, I-1)
+aux(used-4, have-2)
+advmod(used-4, also-3)
+root(ROOT-0, used-4)
+poss(conversion-6, its-5)
+dobj(used-4, conversion-6)
+aux(play-8, to-7)
+infmod(conversion-6, play-8)
+nn(games-10, XBOX-9)
+dobj(play-8, games-10)
+prep_in(play-8, 3d-12)
+nsubj(amazing-16, it-14)
+cop(amazing-16, is-15)
+conj_and(used-4, amazing-16)
+
+=========
+
+det(downside-3, The-1)
+amod(downside-3, only-2)
+nsubj(quality-10, downside-3)
+det(tv-6, this-5)
+prep_to(downside-3, tv-6)
+cop(quality-10, is-7)
+det(quality-10, the-8)
+amod(quality-10, sound-9)
+root(ROOT-0, quality-10)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(Cinemate-5, the-3)
+nn(Cinemate-5, Bose-4)
+nsubj(accompany-7, Cinemate-5)
+aux(accompany-7, to-6)
+xcomp(purchased-2, accompany-7)
+det(tv-9, the-8)
+dobj(accompany-7, tv-9)
+
+=========
+
+det(speakers-2, The-1)
+nsubj(sound-3, speakers-2)
+nsubj(seems-11, speakers-2)
+xsubj(echo-13, speakers-2)
+root(ROOT-0, sound-3)
+advmod(tinny-5, very-4)
+acomp(sound-3, tinny-5)
+dep(tinny-5, not-7)
+dep(not-7, tiny-8)
+conj_and(sound-3, seems-11)
+aux(echo-13, to-12)
+xcomp(seems-11, echo-13)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, definitely-2)
+root(ROOT-0, recommend-3)
+det(TV-5, this-4)
+dobj(recommend-3, TV-5)
+prep_for(TV-5, those-7)
+nsubj(love-9, those-7)
+rcmod(those-7, love-9)
+det(cinema-12, a-10)
+amod(cinema-12, good-11)
+dobj(love-9, cinema-12)
+tmod(love-9, night-13)
+

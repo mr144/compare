@@ -1,0 +1,91 @@
+=========
+
+root(ROOT-0, Gentlemen-1)
+
+=========
+
+nsubj(arrived-3, I-1)
+nsubj(put-10, I-1)
+nsubj(does-21, I-1)
+advmod(arrived-3, just-2)
+root(ROOT-0, arrived-3)
+nn(Aires-6, Buenos-5)
+prep_in(arrived-3, Aires-6)
+appos(Aires-6, Argentina-8)
+conj_and(arrived-3, put-10)
+poss(card-14, my-11)
+amod(card-14, local-12)
+nn(card-14, SIM-13)
+dobj(put-10, card-14)
+det(8GB-19, the-16)
+amod(8GB-19, IPhone-17)
+number(8GB-19, 3G-18)
+prep_in(put-10, 8GB-19)
+conj_and(arrived-3, does-21)
+dep(work-23, not-22)
+dep(does-21, work-23)
+nsubj(repeat-27, I-26)
+ccomp(work-23, repeat-27)
+parataxis(work-23, repeat-27)
+aux(work-30, does-28)
+neg(work-30, not-29)
+dobj(repeat-27, work-30)
+
+=========
+
+nsubj(sold-2, you-1)
+root(ROOT-0, sold-2)
+dobj(sold-2, it-3)
+nsubj(UNLOCKED-6, me-5)
+prepc_to(sold-2, UNLOCKED-6)
+nsubj(read-11, equipment-8)
+aux(read-11, does-9)
+neg(read-11, not-10)
+prepc_to(sold-2, read-11)
+conj_and(UNLOCKED-6, read-11)
+det(card-14, the-12)
+nn(card-14, SIM-13)
+dobj(read-11, card-14)
+
+=========
+
+dep(check-2, Please-1)
+root(ROOT-0, check-2)
+poss(files-4, your-3)
+nsubj(sent-7, files-4)
+dep(sent-7, andyou-5)
+advmod(sent-7, probably-6)
+xcomp(check-2, sent-7)
+dobj(sent-7, me-8)
+det(Iphone-10, a-9)
+nsubj(sent-7, Iphone-10)
+nsubj(unlocked-14, that-11)
+cop(unlocked-14, is-12)
+nn(unlocked-14, NOY-13)
+ccomp(Iphone-10, unlocked-14)
+
+=========
+
+dobj(DO-4, WHAT-1)
+aux(DO-4, SHOULD-2)
+nsubj(DO-4, I-3)
+root(ROOT-0, DO-4)
+advmod(DO-4, NOW-5)
+
+=========
+
+root(ROOT-0, being-1)
+advmod(being-1, so-2)
+advmod(being-1, far-3)
+prep_away_from(being-1, USA-6)
+
+=========
+
+root(ROOT-0, Please-1)
+xcomp(Please-1, need-2)
+poss(solution-5, your-3)
+nn(solution-5, kind-4)
+dobj(need-2, solution-5)
+det(subject-8, this-7)
+prep_to(need-2, subject-8)
+

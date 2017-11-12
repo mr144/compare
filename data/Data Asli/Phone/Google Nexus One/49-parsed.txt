@@ -1,0 +1,42 @@
+=========
+
+det(machine-2, The-1)
+nsubj(failed-5, machine-2)
+aux(failed-5, has-3)
+neg(failed-5, not-4)
+ccomp(think-18, failed-5)
+dobj(failed-5, me-6)
+det(way-10, the-9)
+prep_by(looking-13, way-10)
+nsubj(looking-13, things-11)
+aux(looking-13, are-12)
+conj_and(failed-5, looking-13)
+ccomp(think-18, looking-13)
+nsubj(think-18, I-15)
+aux(think-18, do-16)
+neg(think-18, not-17)
+root(ROOT-0, think-18)
+nsubj(will-20, it-19)
+ccomp(think-18, will-20)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+poss(supposed-5, its-4)
+prep_like(works-2, supposed-5)
+
+=========
+
+nsubj(found-2, I-1)
+root(ROOT-0, found-2)
+nsubj(intact-6, everything-3)
+prep_on(everything-3, it-5)
+xcomp(found-2, intact-6)
+
+=========
+
+nsubj(satisfied-3, I-1)
+cop(satisfied-3, am-2)
+root(ROOT-0, satisfied-3)
+

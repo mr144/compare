@@ -1,0 +1,29 @@
+=========
+
+nsubj(recomend-3, i-1)
+aux(recomend-3, would-2)
+root(ROOT-0, recomend-3)
+dobj(recomend-3, it-4)
+
+=========
+
+nsubj(camera-5, it-1)
+cop(camera-5, is-2)
+det(camera-5, an-3)
+amod(camera-5, excelent-4)
+root(ROOT-0, camera-5)
+poss(sister-7, my-6)
+nsubj(loves-8, sister-7)
+rcmod(camera-5, loves-8)
+dobj(loves-8, it-9)
+
+=========
+
+nsubj(takes-2, it-1)
+root(ROOT-0, takes-2)
+amod(photos-4, perfect-3)
+dobj(takes-2, photos-4)
+advmod(takes-2, just-6)
+det(professional-9, a-8)
+prep_like(takes-2, professional-9)
+

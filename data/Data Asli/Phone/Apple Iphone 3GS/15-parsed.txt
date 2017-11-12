@@ -1,0 +1,23 @@
+=========
+
+amod(everything-2, excellent-1)
+nsubj(recommend-8, everything-2)
+partmod(everything-2, arrived-3)
+prep_on(arrived-3, time-5)
+prep_without(arrived-3, inconvenienceI-7)
+root(ROOT-0, recommend-8)
+dobj(recommend-8, it-9)
+
+=========
+
+root(ROOT-0, thanks-1)
+nn(safety-4, product-3)
+prep_for(thanks-1, safety-4)
+
+=========
+
+root(ROOT-0, from-1)
+nn(bye-4, venezuela-2)
+nn(bye-4, thanksbye-3)
+pobj(from-1, bye-4)
+

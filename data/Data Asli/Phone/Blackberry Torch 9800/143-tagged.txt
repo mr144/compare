@@ -1,0 +1,7 @@
+Blackberry_NNP 9800_CD Torch_NNP ,_, very_RB bad_JJ presentation_NN ._.
+no_DT cd_NN ._.
+no_DT manual_NN ._.
+unlike_IN ._.
+no_DT recomendation_NN ._.
+for_IN everyone_NN want_VBP tu_RB buy_VB whith_NN this_DT company_NN ._.
+I_PRP wil_VBP thing_NN in_IN returned_VBN this_DT phone_NN ._.

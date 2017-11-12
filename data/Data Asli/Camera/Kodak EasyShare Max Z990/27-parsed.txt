@@ -1,0 +1,112 @@
+=========
+
+root(ROOT-0, Owned-1)
+det(year-4, a-3)
+prep_over(Owned-1, year-4)
+
+=========
+
+det(little-2, A-1)
+npadvmod(sluggish-3, little-2)
+root(ROOT-0, sluggish-3)
+mark(take-5, after-4)
+dep(sluggish-3, take-5)
+dobj(take-5, picture-6)
+dep(apply-10, but-7)
+mark(apply-10, if-8)
+nsubj(apply-10, you-9)
+parataxis(take-5, apply-10)
+amod(pressure-12, light-11)
+dobj(apply-10, pressure-12)
+det(button-15, the-14)
+prep_on(apply-10, button-15)
+poss(shot-19, your-17)
+amod(shot-19, next-18)
+prep_for(button-15, shot-19)
+poss(ready-22, its-21)
+appos(shot-19, ready-22)
+aux(go-24, to-23)
+xcomp(take-5, go-24)
+
+=========
+
+nsubj(looks-5, Macro-1)
+nn(Macro-4, Super-3)
+conj_and(Macro-1, Macro-4)
+nsubj(looks-5, Macro-4)
+root(ROOT-0, looks-5)
+acomp(looks-5, great-6)
+prep_on(great-6, eBay-8)
+
+=========
+
+nsubj(went-2, I-1)
+root(ROOT-0, went-2)
+det(charger-7, a-4)
+nn(charger-7, Sony-5)
+nn(charger-7, battery-6)
+prep_to(went-2, charger-7)
+mark(charge-14, because-8)
+det(charger-10, this-9)
+nsubj(charge-14, charger-10)
+cop(charge-14, was-11)
+det(charge-14, an-12)
+amod(charge-14, overnight-13)
+advcl(went-2, charge-14)
+nsubj(convenient-18, charge-14)
+aux(convenient-18, may-16)
+cop(convenient-18, be-17)
+rcmod(charge-14, convenient-18)
+amod(people-21, most-20)
+prep_for(convenient-18, people-21)
+prep_for(convenient-18, me-25)
+conj_negcc(people-21, me-25)
+
+=========
+
+nsubj(hold-3, Batteries-1)
+aux(hold-3, can-2)
+root(ROOT-0, hold-3)
+det(charge-5, a-4)
+dobj(hold-3, charge-5)
+amod(weeks-8, several-7)
+prep_for(hold-3, weeks-8)
+advmod(months-11, even-10)
+prep_for(hold-3, months-11)
+conj_or(weeks-8, months-11)
+mark(used-16, if-12)
+nsubjpass(used-16, camera-13)
+nsubj(gives-18, camera-13)
+auxpass(used-16, is-14)
+advmod(used-16, seldom-15)
+advcl(hold-3, used-16)
+advcl(hold-3, gives-18)
+conj_and(used-16, gives-18)
+iobj(gives-18, you-19)
+amod(shots-22, several-20)
+num(shots-22, hundred-21)
+dobj(gives-18, shots-22)
+
+=========
+
+nsubj(nice-3, Which-1)
+cop(nice-3, is-2)
+root(ROOT-0, nice-3)
+mark(ready-8, because-4)
+nsubj(ready-8, it-5)
+cop(ready-8, is-6)
+advmod(ready-8, always-7)
+advcl(nice-3, ready-8)
+det(use-12, the-10)
+amod(use-12, unexpected-11)
+prep_for(ready-8, use-12)
+
+=========
+
+root(ROOT-0, All-1)
+det(camera-5, all-3)
+amod(camera-5, nice-4)
+prep_in(All-1, camera-5)
+det(money-8, the-7)
+prep_for(All-1, money-8)
+

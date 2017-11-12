@@ -1,0 +1,20 @@
+I_PRP bought_VBD this_DT TV_NN for_IN 300_CD and_CC it_PRP has_VBZ met_VBN or_CC exceeded_VBN all_DT expectations_NNS so_RB far_RB ._.
+I_PRP use_VBP it_PRP only_RB as_IN a_DT second_JJ 1080p_JJ monitor_NN for_IN my_PRP$ desktop_NN computer_NN for_IN watching_VBG movies_NNS and_CC playing_VBG PC_NN games_NNS ._.
+The_DT TV_NN arrived_VBD quickly_RB with_IN Amazon_NNP Prime_NNP two-day_JJ shipping_NN in_IN solid_JJ packaging_NN with_IN ample_JJ Styrofoam_NNP ._.
+The_DT TV_NN itself_PRP looks_VBZ very_RB nice_JJ with_IN a_DT sturdy_JJ glass_NN base_NN ._.
+Upon_IN my_PRP$ initial_JJ inspection_NN of_IN the_DT LCD_NNP ,_, I_PRP found_VBD a_DT stuck_JJ red_JJ pixel_NN in_IN the_DT bottom_JJ left_NN ._.
+Stuck_JJ pixels_NNS are_VBP usually_RB fixable_JJ ,_, and_CC through_IN a_DT few_JJ uses_NNS ,_, the_DT pixel_NN fixed_VBD itself_PRP ._.
+Unless_IN you_PRP have_VBP dead_JJ pixels_NNS -LRB-_-LRB- black_JJ -RRB-_-RRB- or_CC many_JJ stuck_JJ pixels_NNS ,_, I_PRP would_MD recommend_VB trying_VBG to_TO fix_VB a_DT stuck_JJ pixel_NN yourself_PRP first_JJ before_IN returning_VBG it_PRP -LRB-_-LRB- many_JJ solutions_NNS on_IN Google_NNP -RRB-_-RRB- ._.
+In_IN my_PRP$ case_NN ,_, a_DT single_JJ stuck_JJ pixel_NN was_VBD hardly_RB anything_NN to_TO stress_VB over_RP ._.
+As_IN for_IN the_DT quality_NN of_IN the_DT display_NN ,_, I_PRP am_VBP quite_RB pleased_JJ ._.
+I_PRP plugged_VBD an_DT HDMI_NNP into_IN the_DT top_JJ input_NN -LRB-_-LRB- designated_VBN for_IN computers_NNS -RRB-_-RRB- and_CC my_PRP$ Windows_NNS 7_CD PC_NN recognized_VBD it_PRP ._.
+For_IN the_DT best_JJS quality_NN and_CC clarity_NN ,_, avoid_VB using_VBG VGA_NNP for_IN computer_NN input_NN ._.
+It_PRP is_VBZ dated_JJ technology_NN that_WDT will_MD not_RB take_VB advantage_NN of_IN this_DT -LRB-_-LRB- or_CC any_DT HDTV_NN 's_POS -RRB-_-RRB- HD_NNP display_NN ._.
+Before_IN getting_VBG a_DT crisp_JJ display_NN of_IN my_PRP$ desktop_NN ,_, I_PRP had_VBD to_TO make_VB a_DT few_JJ adjustments_NNS in_IN my_PRP$ computer_NN and_CC TV_NN settings_NNS ._.
+I_PRP have_VBP an_DT ATI_NNP graphics_NNS card_NN so_IN I_PRP used_VBD Catalyst_NNP Control_NNP Center_NNP to_TO change_VB the_DT default_NN overscan_NN from_IN 15_CD back_RB to_TO 0_CD ._.
+Additionally_RB ,_, I_PRP had_VBD to_TO turn_VB off_RP overscan_NN on_IN the_DT TV_NN by_IN hitting_VBG `_`` Zoom_NNP -_: '_'' on_IN the_DT remote_JJ -LRB-_-LRB- the_DT left_NN arrow_NN -RRB-_-RRB- ._.
+After_IN this_DT step_NN ,_, which_WDT is_VBZ pretty_RB crucial_JJ for_IN using_VBG any_DT HDTV_NN as_IN a_DT monitor_NN ,_, the_DT TV_NN looked_VBD crisp_JJ displaying_VBG my_PRP$ desktop_NN .1080_CD p_NN movies_NNS and_CC games_NNS look_VBP fantastic_JJ on_IN this_DT TV_NN ._.
+Colors_NNS are_VBP vibrant_JJ and_CC there_EX are_VBP plenty_NN of_IN settings_NNS to_TO change_VB as_RB well_RB as_IN useful_JJ presets_NNS ._.
+As_IN for_IN games_NNS ,_, I_PRP use_VBP this_DT TV_NN for_IN controller-based_JJ games_NNS like_IN sports_NNS games_NNS or_CC third-person_JJ shooters_NNS ;_: there_EX is_VBZ no_DT stuttering_NN and_CC motion_NN looks_VBZ great_JJ ._.
+I_PRP have_VBP only_RB run_VBN into_IN am_VBP issue_NN in_IN Prototype_NNP 2_CD where_WRB the_DT game_NN does_VBZ not_RB take_VB up_RP the_DT entire_JJ screen_NN and_CC the_DT framerate_NN is_VBZ capped_VBN at_IN 24_CD ,_, but_CC this_DT is_VBZ an_DT isolated_JJ issue_NN ._.
+Overall_RB ,_, this_DT TV_NN was_VBD a_DT great_JJ investment_NN ,_, especially_RB with_IN a_DT 2-year_JJ limited_JJ warranty_NN ._.

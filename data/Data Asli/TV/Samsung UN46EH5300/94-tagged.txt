@@ -1,0 +1,6 @@
+I_PRP researched_VBD this_DT TV_NN with_IN Consumer_NNP Reports_NNP and_CC three_CD other_JJ sites_NNS ._.
+I_PRP looked_VBD at_IN pricing_NN with_IN the_DT military_NN ,_, Best-Buy_NNP ,_, Crutchfield_NNP and_CC Walmart_NNP ._.
+Amazon_NNP had_VBD the_DT right_JJ price_NN ._.
+The_DT best_JJS advantage_NN is_VBZ that_IN its_PRP$ can_MD tie_VB into_IN your_PRP$ wifi_NN system_NN -_: few_JJ others_NNS can_MD ._.
+Samsung_NNP makes_VBZ great_JJ products_NNS ._.
+Would_MD I_PRP buy_VB it_PRP again_RB -_: MOST_JJS definitely_RB ._.

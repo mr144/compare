@@ -1,0 +1,18 @@
+=========
+
+advmod(satisfied-2, very-1)
+root(ROOT-0, satisfied-2)
+det(delivery-5, the-4)
+prep_with(satisfied-2, delivery-5)
+advmod(satisfied-2, also-7)
+advmod(good-10, very-9)
+amod(condition-11, good-10)
+prep_in(satisfied-2, condition-11)
+conj_and(satisfied-2, works-13)
+advmod(well-15, very-14)
+advmod(works-13, well-15)
+det(system-20, the-17)
+amod(system-20, android-18)
+nn(system-20, operating-19)
+prep_with(works-13, system-20)
+

@@ -1,0 +1,6 @@
+I_PRP use_VBP this_DT in_IN a_DT small_JJ meeting_NN area_NN instead_RB of_IN a_DT projector_NN ,_, and_CC it_PRP works_VBZ perfectly_RB ._.
+The_DT channel_NN auto-configuration_NN for_IN our_PRP$ cable_NN connection_NN worked_VBD a_DT bit_NN haphazardly_RB ,_, but_CC as_IN that_DT was_VBD not_RB the_DT primary_JJ reason_NN for_IN getting_VBG the_DT device_NN it_PRP was_VBD a_DT minor_JJ detraction_NN ._.
+Picture_NNP is_VBZ sharp_JJ ,_, configuration_NN was_VBD simple_JJ ._.
+Works_NNP great_JJ with_IN my_PRP$ Nyrius_NNP ARIES_NNP Pro_FW Digital_NNP Wireless_NNP HDMI_NNP Transmitter_NNP and_CC Receiver_NNP System_NNP ._.
+Has_VBZ a_DT little_JJ oversaturation_NN issue_NN with_IN screens_NNS with_IN a_DT lot_NN of_IN red_NN in_IN them_PRP ,_, but_CC that_DT 's_VBZ not_RB unusual_JJ in_IN a_DT lot_NN of_IN devices_NNS ._.
+I_PRP would_MD get_VB another_DT one_NN without_IN hesitation_NN ._.

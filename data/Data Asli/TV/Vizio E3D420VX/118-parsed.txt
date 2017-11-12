@@ -1,0 +1,48 @@
+=========
+
+root(ROOT-0, Such-1)
+det(tv-4, a-2)
+amod(tv-4, great-3)
+dobj(Such-1, tv-4)
+advmod(useful-6, very-5)
+amod(tv-4, useful-6)
+conj_and(Such-1, save-8)
+dobj(save-8, energy-9)
+det(time-13, the-11)
+amod(time-13, same-12)
+prep_at(save-8, time-13)
+
+=========
+
+nsubj(excellent-3, It-1)
+cop(excellent-3, is-2)
+root(ROOT-0, excellent-3)
+det(price-8, a-5)
+advmod(affordable-7, very-6)
+amod(price-8, affordable-7)
+prep_for(excellent-3, price-8)
+
+=========
+
+det(control-2, The-1)
+nsubj(useful-5, control-2)
+cop(useful-5, is-3)
+advmod(useful-5, very-4)
+root(ROOT-0, useful-5)
+det(keyboard-8, the-7)
+prep_with(useful-5, keyboard-8)
+det(back-11, the-10)
+prep_on(keyboard-8, back-11)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+nsubj(have-4, you-3)
+ccomp(hope-2, have-4)
+det(range-6, a-5)
+dobj(have-4, range-6)
+prep_of(range-6, spares-8)
+det(accident-11, any-10)
+prep_for(spares-8, accident-11)
+

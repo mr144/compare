@@ -1,0 +1,81 @@
+=========
+
+csubj(short-16, Had-1)
+det(trouble-4, a-2)
+amod(trouble-4, little-3)
+dobj(Had-1, trouble-4)
+partmod(trouble-4, attaching-5)
+det(stand-7, the-6)
+dobj(attaching-5, stand-7)
+prep_to(attaching-5, this-9)
+mark(included-13, as-10)
+det(screws-12, the-11)
+nsubj(included-13, screws-12)
+advcl(attaching-5, included-13)
+cop(short-16, were-14)
+advmod(short-16, too-15)
+root(ROOT-0, short-16)
+
+=========
+
+det(trip-3, a-2)
+prep_after(able-14, trip-3)
+det(store-7, the-5)
+nn(store-7, hardware-6)
+prep_to(trip-3, store-7)
+conj_and(trip-3, purchasing-9)
+prep_after(able-14, purchasing-9)
+det(screws-11, some-10)
+dep(purchasing-9, screws-11)
+nsubj(able-14, I-12)
+cop(able-14, was-13)
+root(ROOT-0, able-14)
+aux(attach-16, to-15)
+xcomp(able-14, attach-16)
+det(TV-18, the-17)
+dobj(attach-16, TV-18)
+det(stand-21, the-20)
+prep_to(attach-16, stand-21)
+
+=========
+
+det(TV-2, The-1)
+nsubj(works-3, TV-2)
+root(ROOT-0, works-3)
+acomp(works-3, great-4)
+advmod(far-6, so-5)
+advmod(great-4, far-6)
+advmod(great-4, no-8)
+advmod(pixels-10, dead-9)
+dep(great-4, pixels-10)
+det(trouble-14, no-13)
+dep(itself-19, trouble-14)
+det(TV-18, the-16)
+amod(TV-18, actual-17)
+prep_with(trouble-14, TV-18)
+conj_and(works-3, itself-19)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+advmod(works-2, well-3)
+auxpass(hooked-5, being-4)
+dep(works-2, hooked-5)
+prt(hooked-5, up-6)
+det(device-10, a-8)
+nn(device-10, Roku-9)
+prep_to(hooked-5, device-10)
+prep_to(hooked-5, Playstation-12)
+conj_and(device-10, Playstation-12)
+num(Playstation-12, 3-13)
+
+=========
+
+det(remote-2, The-1)
+nsubj(nice-4, remote-2)
+cop(nice-4, is-3)
+root(ROOT-0, nice-4)
+prep(nice-4, as-5)
+pcomp(as-5, well-6)
+

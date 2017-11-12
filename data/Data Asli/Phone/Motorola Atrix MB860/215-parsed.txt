@@ -1,0 +1,98 @@
+=========
+
+det(phone-3, This-1)
+nn(phone-3, cell-2)
+nsubj(one-5, phone-3)
+cop(one-5, is-4)
+root(ROOT-0, one-5)
+det(best-8, the-7)
+prep_of(one-5, best-8)
+dobj(had-11, best-8)
+nsubj(had-11, I-9)
+advmod(had-11, ever-10)
+rcmod(best-8, had-11)
+
+=========
+
+amod(screen-2, Touch-1)
+nsubj(works-3, screen-2)
+root(ROOT-0, works-3)
+acomp(works-3, awsome-4)
+
+=========
+
+nsubj(read-3, I-1)
+aux(read-3, can-2)
+ccomp(works-8, read-3)
+poss(emails-5, my-4)
+dobj(read-3, emails-5)
+nsubj(works-8, gps-7)
+root(ROOT-0, works-8)
+amod(wireless-11, fine-9)
+nsubj(works-15, wireless-11)
+amod(functions-14, other-13)
+conj_and(wireless-11, functions-14)
+nsubj(works-15, functions-14)
+ccomp(works-8, works-15)
+acomp(works-15, great-16)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+dobj(like-8, thing-3)
+nsubj(duration-11, thing-3)
+complm(like-8, that-4)
+nsubj(like-8, I-5)
+aux(like-8, do-6)
+neg(like-8, not-7)
+dep(thing-3, like-8)
+cop(duration-11, is-9)
+nn(duration-11, battery-10)
+root(ROOT-0, duration-11)
+prep_for(duration-11, work-13)
+det(cell-17, this-16)
+prep_before(had-19, cell-17)
+nsubj(had-19, I-18)
+parataxis(duration-11, had-19)
+dobj(had-19, BB-20)
+det(battery-23, the-22)
+nsubj(has-24, battery-23)
+parataxis(duration-11, has-24)
+conj_and(had-19, has-24)
+amod(time-26, more-25)
+dobj(has-24, time-26)
+aux(work-28, to-27)
+infmod(time-26, work-28)
+
+=========
+
+nsubj(need-2, I-1)
+xsubj(carry-4, I-1)
+root(ROOT-0, need-2)
+aux(carry-4, to-3)
+xcomp(need-2, carry-4)
+poss(charger-7, my-5)
+nn(charger-7, car-6)
+dep(carry-4, charger-7)
+predet(time-10, all-8)
+det(time-10, the-9)
+dobj(carry-4, time-10)
+prep_for(carry-4, work-12)
+det(day-14, all-13)
+dep(work-12, day-14)
+prep_without(carry-4, gettin-16)
+advmod(gettin-16, off-17)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, really-2)
+ccomp(has-8, recommend-3)
+dobj(recommend-3, this-4)
+nn(Motorola-7, definitevely-6)
+nsubj(has-8, Motorola-7)
+root(ROOT-0, has-8)
+amod(products-10, great-9)
+dobj(has-8, products-10)
+

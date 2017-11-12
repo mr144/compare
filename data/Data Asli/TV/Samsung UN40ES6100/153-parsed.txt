@@ -1,0 +1,48 @@
+=========
+
+nn(THIS-7, LOOK-1)
+nn(THIS-7, AT-2)
+nn(THIS-7, CHEAPER-3)
+nn(THIS-7, T.V-4)
+nn(THIS-7, S-5)
+nn(THIS-7, BUT-6)
+nsubj(BEST-10, THIS-7)
+cop(BEST-10, WAS-8)
+det(BEST-10, THE-9)
+root(ROOT-0, BEST-10)
+
+=========
+
+nn(THE-4, IAM-1)
+nn(THE-4, NOT-2)
+nn(THE-4, INTO-3)
+nsubj(INTERNET-5, THE-4)
+xsubj(MUCH-7, THE-4)
+root(ROOT-0, INTERNET-5)
+aux(MUCH-7, TO-6)
+xcomp(INTERNET-5, MUCH-7)
+nn(SIDE-14, SO-8)
+nn(SIDE-14, CANT-9)
+nn(SIDE-14, SAY-10)
+nn(SIDE-14, ANYTHING-11)
+nn(SIDE-14, ABOUT-12)
+nn(SIDE-14, SMART-13)
+dobj(MUCH-7, SIDE-14)
+
+=========
+
+nsubj(DO-2, I-1)
+root(ROOT-0, DO-2)
+nn(GREAT-6, STREAM-3)
+conj_and(STREAM-3, THATS-5)
+nn(GREAT-6, THATS-5)
+dobj(DO-2, GREAT-6)
+
+=========
+
+nsubj(SUPER-5, PICTURE-1)
+conj_and(PICTURE-1, SOUND-3)
+nsubj(SUPER-5, SOUND-3)
+cop(SUPER-5, ARE-4)
+root(ROOT-0, SUPER-5)
+

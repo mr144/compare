@@ -1,0 +1,29 @@
+=========
+
+nsubj(says-2, discription-1)
+root(ROOT-0, says-2)
+det(phone-4, the-3)
+nsubj(new-6, phone-4)
+cop(new-6, was-5)
+ccomp(says-2, new-6)
+nsubj(come-11, it-8)
+nsubj(come-11', it-8)
+aux(come-11, did-9)
+neg(come-11, not-10)
+conj_but(says-2, come-11)
+conj_but(says-2, come-11')
+conj_and(come-11, come-11')
+det(box-14, a-13)
+prep_in(come-11, box-14)
+det(manual-18, no-17)
+prep_with(come-11', manual-18)
+
+=========
+
+root(ROOT-0, works-1)
+acomp(works-1, great-2)
+aux(look-6, did-4)
+neg(look-6, not-5)
+conj_but(works-1, look-6)
+dobj(look-6, new-7)
+

@@ -1,0 +1,135 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(55-4, a-3)
+poss(TV-7, 55-4)
+nn(TV-7, Plasma-6)
+dobj(bought-2, TV-7)
+nn(VT50-10, Viera-9)
+abbrev(TV-7, VT50-10)
+dep(VT50-10, series-11)
+prep_in(bought-2, April-14)
+num(April-14, 2013-15)
+prep_from(bought-2, Panasonic-17)
+advmod(bought-2, directly-18)
+nsubj(has-22, it-20)
+advmod(has-22, already-21)
+conj_and(bought-2, has-22)
+det(image-25, a-23)
+amod(image-25, burnt-24)
+dobj(has-22, image-25)
+det(side-32, the-27)
+amod(side-32, top-28)
+amod(side-32, left-29)
+amod(side-32, thru-30)
+nn(side-32, right-31)
+prep_on(image-25, side-32)
+det(screen-35, the-34)
+prep_of(side-32, screen-35)
+
+=========
+
+nsubj(is-2, This-1)
+root(ROOT-0, is-2)
+prep_after(is-2, standard\/normal-4)
+amod(standard\/normal-4, viewing-5)
+det(couple-8, a-7)
+prep_for(standard\/normal-4, couple-8)
+prep_of(couple-8, hours-10)
+det(day-12, a-11)
+dep(hours-10, day-12)
+
+=========
+
+dep(console-2, No-1)
+root(ROOT-0, console-2)
+dobj(console-2, games-3)
+det(images-7, any-5)
+amod(images-7, funky-6)
+dobj(console-2, images-7)
+conj_or(games-3, images-7)
+
+=========
+
+nsubjpass(left-4, TV-1)
+auxpass(left-4, was-2)
+neg(left-4, NOT-3)
+root(ROOT-0, left-4)
+prt(left-4, ON-5)
+advmod(left-4, overnight-6)
+det(image-9, any-8)
+prep_on(left-4, image-9)
+
+=========
+
+det(image-3, The-1)
+amod(image-3, burnt-2)
+nsubj(is-4, image-3)
+root(ROOT-0, is-4)
+prep_of(is-4, digits\/numbers-6)
+dep(digits\/numbers-6, 01423-8)
+dep(01423-8, etc.-9)
+
+=========
+
+dep(error-8, so-1)
+advmod(error-8, obviously-2)
+nsubj(error-8, it-3)
+cop(error-8, is-4)
+det(error-8, a-5)
+nn(error-8, Panasonic-6)
+nn(error-8, manufacturing-7)
+root(ROOT-0, error-8)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, the-3)
+dobj(bought-2, TV-4)
+quantmod($-7, over-6)
+prep_for(bought-2, $-7)
+number($-7, 2K-8)
+
+=========
+
+root(ROOT-0, Called-1)
+nn(service-3, customer-2)
+dobj(Called-1, service-3)
+nsubj(said-6, they-5)
+conj_and(Called-1, said-6)
+neg(covered-8, not-7)
+csubj(buy-14, covered-8)
+nn(??-11, warranty-10)
+prep_under(covered-8, ??-11)
+aux(buy-14, Do-12)
+neg(buy-14, not-13)
+ccomp(said-6, buy-14)
+amod(TVs-17, Panasonic-15)
+nn(TVs-17, plasma-16)
+dobj(buy-14, TVs-17)
+
+=========
+
+det(fact-3, The-1)
+amod(fact-3, very-2)
+nsubj(tells-14, fact-3)
+nsubj(cover-7, they-4)
+aux(cover-7, do-5)
+neg(cover-7, not-6)
+parataxis(tells-14, cover-7)
+det(image-10, the-8)
+amod(image-10, burnt-9)
+dobj(cover-7, image-10)
+prep_under(cover-7, warranty-12)
+root(ROOT-0, tells-14)
+dobj(tells-14, me-15)
+nsubj(problem-20, it-16)
+cop(problem-20, is-17)
+det(problem-20, a-18)
+amod(problem-20, common-19)
+dep(tells-14, problem-20)
+poss(TVs-23, their-22)
+prep_with(problem-20, TVs-23)
+

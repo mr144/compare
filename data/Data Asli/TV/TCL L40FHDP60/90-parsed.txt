@@ -1,0 +1,188 @@
+=========
+
+nsubj(stars-2, 4-1)
+root(ROOT-0, stars-2)
+prepc_for(stars-2, meeting-4)
+poss(expectations-6, my-5)
+dobj(meeting-4, expectations-6)
+conj_but(stars-2, not-9)
+neg(stars-2, not-9)
+dep(stars-2, exceed-10)
+dobj(exceed-10, them-11)
+
+=========
+
+amod(reviews-3, other-2)
+prep_unlike(have-21, reviews-3)
+nsubj(had-6, I-5)
+parataxis(have-21, had-6)
+det(problem-8, no-7)
+dobj(had-6, problem-8)
+poss(cable-11, my-10)
+prep_with(problem-8, cable-11)
+amod(cable-11, remote-12)
+partmod(cable-11, working-13)
+det(TV-16, the-15)
+prep_with(working-13, TV-16)
+nsubj(have-21, I-18)
+xsubj(do-23, I-18)
+aux(have-21, did-19)
+neg(have-21, not-20)
+root(ROOT-0, have-21)
+aux(do-23, to-22)
+xcomp(have-21, do-23)
+det(programming-25, any-24)
+dobj(do-23, programming-25)
+
+=========
+
+nsubj(smart-4, I-1)
+cop(smart-4, was-2)
+neg(smart-4, not-3)
+ccomp(fine-27, smart-4)
+advmod(smart-4, enough-5)
+aux(buy-7, to-6)
+xcomp(smart-4, buy-7)
+det(cable-10, an-8)
+nn(cable-10, HDMI-9)
+dobj(buy-7, cable-10)
+mark(review-15, so-11)
+nsubj(review-15, I-12)
+aux(review-15, can-13)
+neg(review-15, not-14)
+advcl(buy-7, review-15)
+det(HD-17, the-16)
+dobj(review-15, HD-17)
+dep(as-21, but-18)
+advmod(far-20, as-19)
+dep(as-21, far-20)
+dep(review-15, as-21)
+amod(viewing-23, standard-22)
+pobj(as-21, viewing-23)
+nsubj(fine-27, this-25)
+cop(fine-27, is-26)
+root(ROOT-0, fine-27)
+
+=========
+
+det(sound-2, The-1)
+nsubj(great-4, sound-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+dep(:1-9, So-1)
+advmod(:1-9, far-2)
+det(issues-5, the-3)
+amod(issues-5, only-4)
+pobj(far-2, issues-5)
+nsubj(:1-9, I-6)
+aux(:1-9, have-7)
+cop(:1-9, are-8)
+root(ROOT-0, :1-9)
+
+=========
+
+det(VERY-2, A-1)
+nsubj(fit-4, VERY-2)
+advmod(fit-4, tight-3)
+root(ROOT-0, fit-4)
+det(coax-8, the-6)
+nn(coax-8, cable-7)
+prep_on(fit-4, coax-8)
+
+=========
+
+nsubj(hard-3, It-1)
+cop(hard-3, 's-2)
+root(ROOT-0, hard-3)
+aux(work-5, to-4)
+xcomp(hard-3, work-5)
+dobj(work-5, it-6)
+dep(awkward-10, such-8)
+dep(awkward-10, an-9)
+prep_in(work-5, awkward-10)
+amod(area-13, small-12)
+prep_in(work-5, area-13)
+conj_and(awkward-10, area-13)
+dobj(work-5, .2-14)
+
+=========
+
+det(remote-2, The-1)
+nsubjpass(pointed-5, remote-2)
+aux(pointed-5, must-3)
+auxpass(pointed-5, be-4)
+root(ROOT-0, pointed-5)
+advmod(pointed-5, directly-6)
+det(sensor-9, the-8)
+prep_at(pointed-5, sensor-9)
+neg(aimed-13, not-11)
+advmod(aimed-13, just-12)
+parataxis(pointed-5, aimed-13)
+det(TV-16, the-15)
+prep_at(aimed-13, TV-16)
+num(TV-16, .3-17)
+
+=========
+
+det(buttons-3, The-1)
+nn(buttons-3, function-2)
+nsubj(irritating-9, buttons-3)
+det(TV-6, the-5)
+prep_on(buttons-3, TV-6)
+nsubj(irritating-9, itself-7)
+aux(irritating-9, are-8)
+root(ROOT-0, irritating-9)
+
+=========
+
+nsubj(seem-4, They-1)
+xsubj(turn-6, They-1)
+aux(seem-4, do-2)
+neg(seem-4, not-3)
+root(ROOT-0, seem-4)
+aux(turn-6, to-5)
+xcomp(seem-4, turn-6)
+amod(tv-9, on\/off-7)
+det(tv-9, the-8)
+dobj(turn-6, tv-9)
+xcomp(seem-4, do-11)
+conj_or(turn-6, do-11)
+nn(up\/down-13, channel-12)
+dobj(do-11, up\/down-13)
+
+=========
+
+nsubj(adjust-3, It-1)
+aux(adjust-3, does-2)
+root(ROOT-0, adjust-3)
+det(volume-5, the-4)
+dobj(adjust-3, volume-5)
+advmod(adjust-3, though-6)
+
+=========
+
+nsubj(Luck-2, Good-1)
+root(ROOT-0, Luck-2)
+mark(lose-5, if-3)
+nsubj(lose-5, you-4)
+advcl(Luck-2, lose-5)
+det(remote-7, the-6)
+dobj(lose-5, remote-7)
+
+=========
+
+advmod(surpassed-6, Otherwise-1)
+det(value-4, the-3)
+nsubj(surpassed-6, value-4)
+advmod(surpassed-6, far-5)
+root(ROOT-0, surpassed-6)
+det(issues-9, any-7)
+amod(issues-9, minor-8)
+dobj(surpassed-6, issues-9)
+dobj(have-11, issues-9)
+nsubj(have-11, I-10)
+rcmod(issues-9, have-11)
+

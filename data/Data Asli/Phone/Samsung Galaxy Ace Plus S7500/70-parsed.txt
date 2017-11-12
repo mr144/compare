@@ -1,0 +1,95 @@
+=========
+
+root(ROOT-0, Got-1)
+det(one-4, the-2)
+amod(one-4, black-3)
+dobj(Got-1, one-4)
+
+=========
+
+nsubj(device-5, This-1)
+cop(device-5, is-2)
+det(device-5, an-3)
+amod(device-5, excellent-4)
+root(ROOT-0, device-5)
+nn(Phone-7, !!!-6)
+nsubj(great-10, Phone-7)
+cop(great-10, is-8)
+advmod(great-10, really-9)
+rcmod(device-5, great-10)
+
+=========
+
+nsubj(fast-4, It-1)
+cop(fast-4, 's-2)
+advmod(fast-4, very-3)
+root(ROOT-0, fast-4)
+det(sreen-7, the-6)
+nsubj(awesome-9, sreen-7)
+cop(awesome-9, is-8)
+conj_and(fast-4, awesome-9)
+
+=========
+
+nsubj(extraordinary-6, Graphics-1)
+nn(video-4, HD-3)
+prep_on(Graphics-1, video-4)
+cop(extraordinary-6, are-5)
+root(ROOT-0, extraordinary-6)
+
+=========
+
+nsubj(works-2, Apps-1)
+root(ROOT-0, works-2)
+advmod(good-4, really-3)
+acomp(works-2, good-4)
+nsubj(has-7, it-6)
+conj_and(works-2, has-7)
+nn(Office-9, Polaris-8)
+dobj(has-7, Office-9)
+dep(works-2, so-11)
+nsubj(read-14, you-12)
+nsubj(Edit-16, you-12)
+aux(read-14, can-13)
+ccomp(works-2, read-14)
+ccomp(works-2, Edit-16)
+conj_and(read-14, Edit-16)
+poss(documents-18, your-17)
+dobj(read-14, documents-18)
+dep(documents-18, Word-20)
+appos(Word-20, Excel-22)
+nn(point-25, Power-24)
+appos(Word-20, point-25)
+dep(Word-20, etc-27)
+
+=========
+
+nsubj(works-2, Ethernet-1)
+root(ROOT-0, works-2)
+advmod(fast-4, very-3)
+acomp(works-2, fast-4)
+amod(\/-7, 3g-900-6)
+nsubj(2100-8, \/-7)
+dep(works-2, 2100-8)
+dobj(2100-8, Digitel-9)
+prep_in(Digitel-9, Venezuela-11)
+nsubj(shape\/size-15, phone-14)
+conj_and(works-2, shape\/size-15)
+nsubj(perfect-18, it-16)
+aux(perfect-18, is-17)
+ccomp(shape\/size-15, perfect-18)
+nn(Definitly-20, !!!-19)
+dobj(perfect-18, Definitly-20)
+det(phone-23, the-21)
+amod(phone-23, perfect-22)
+nsubj(!!!-28, phone-23)
+det(price-27, the-25)
+amod(price-27, best-26)
+prep_for(phone-23, price-27)
+rcmod(Definitly-20, !!!-28)
+nsubj(regret-32, You-29)
+aux(regret-32, will-30)
+neg(regret-32, not-31)
+ccomp(!!!-28, regret-32)
+dobj(regret-32, it-33)
+

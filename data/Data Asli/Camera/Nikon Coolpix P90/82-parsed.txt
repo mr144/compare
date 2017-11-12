@@ -1,0 +1,48 @@
+=========
+
+nsubj(bought-4, I-1)
+aux(bought-4, would-2)
+aux(bought-4, have-3)
+root(ROOT-0, bought-4)
+det(camera-6, this-5)
+dobj(bought-4, camera-6)
+conj_but(bought-4, for-9)
+poss(limitation-13, its-10)
+amod(limitation-13, rechargeable-11)
+nn(limitation-13, battery-12)
+pobj(for-9, limitation-13)
+
+=========
+
+root(ROOT-0, Went-1)
+det(Olympus-4, the-3)
+prep_for(Went-1, Olympus-4)
+advmod(Went-1, instead-5)
+
+=========
+
+nn(batteries-2, AA-1)
+nsubj(easy-4, batteries-2)
+nsubj(replace-8, batteries-2)
+nsubj(require-12, batteries-2)
+cop(easy-4, are-3)
+root(ROOT-0, easy-4)
+aux(find-6, to-5)
+xcomp(easy-4, find-6)
+conj_and(easy-4, replace-8)
+aux(require-12, do-10)
+neg(require-12, not-11)
+conj_and(easy-4, require-12)
+nsubj(remember-15, you-13)
+xsubj(charge-17, you-13)
+aux(remember-15, to-14)
+xcomp(require-12, remember-15)
+aux(charge-17, to-16)
+xcomp(remember-15, charge-17)
+amod(Cads-21, multiple-18)
+nn(Cads-21, EN-EL5-19)
+nn(Cads-21, Ni-20)
+dobj(charge-17, Cads-21)
+det(night-23, every-22)
+tmod(charge-17, night-23)
+

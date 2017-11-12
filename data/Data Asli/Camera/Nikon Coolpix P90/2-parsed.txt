@@ -1,0 +1,30 @@
+=========
+
+nsubj(amazing-13, Simple-1)
+amod(pictures-11, easy-3)
+prep_to(easy-3, use-5)
+prep_to(easy-3, best-7)
+conj_and(use-5, best-7)
+predet(the-10, all-9)
+prep_of(best-7, the-10)
+conj_and(Simple-1, pictures-11)
+nsubj(amazing-13, pictures-11)
+cop(amazing-13, are-12)
+root(ROOT-0, amazing-13)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+
+=========
+
+det(videos-2, The-1)
+nsubj(are-3, videos-2)
+root(ROOT-0, are-3)
+amod(quality-6, superior-5)
+prep_of(are-3, quality-6)
+advmod(well-8, as-7)
+mwe(well-8, as-7)
+advmod(are-3, well-8)
+

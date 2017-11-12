@@ -1,0 +1,38 @@
+=========
+
+root(ROOT-0, Had-1)
+det(iphone-3, the-2)
+dobj(Had-1, iphone-3)
+nsubj(issues\/junk-6, software-5)
+parataxis(Had-1, issues\/junk-6)
+
+=========
+
+det(phone-2, This-1)
+nsubj(dual-core-4, phone-2)
+nsubj(NOT-6, phone-2)
+cop(dual-core-4, is-3)
+root(ROOT-0, dual-core-4)
+conj_and(dual-core-4, NOT-6)
+det(toy-8, a-7)
+dobj(NOT-6, toy-8)
+
+=========
+
+advmod(functional-2, Very-1)
+root(ROOT-0, functional-2)
+det(feature-7, the-4)
+amod(feature-7, best-5)
+nn(feature-7, pix\/video-6)
+prep_with(functional-2, feature-7)
+
+=========
+
+root(ROOT-0, Forget-1)
+det(fad-3, the-2)
+dobj(Forget-1, fad-3)
+dep(Forget-1, get-5)
+det(phone-8, a-6)
+nn(phone-8, REAL-7)
+dobj(get-5, phone-8)
+

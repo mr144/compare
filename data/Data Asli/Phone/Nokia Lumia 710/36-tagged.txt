@@ -1,0 +1,2 @@
+discription_NN says_VBZ the_DT phone_NN was_VBD new_JJ but_CC it_PRP did_VBD not_RB come_VB in_IN a_DT box_NN and_CC with_IN no_DT manual_NN ._.
+works_VBZ great_JJ but_CC did_VBD not_RB look_VB new_JJ ._.

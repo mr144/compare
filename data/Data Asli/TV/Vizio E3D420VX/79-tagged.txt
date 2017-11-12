@@ -1,0 +1,4 @@
+Beautiful_JJ TV_NN ,_, with_IN great_JJ 3d_NN ,_, and_CC usable_JJ apps_NNS ._.
+But_CC it_PRP is_VBZ plagued_VBN with_IN capacitor_NN problems_NNS and_CC shuts_VBZ off_RP after_IN a_DT variable_JJ amount_NN of_IN time_NN ,_, if_IN it_PRP turns_VBZ on_RP at_IN all_DT ._.
+I_PRP have_VBP found_VBN some_DT workarounds_NNS to_TO get_VB it_PRP to_TO usually_RB work_VB for_IN a_DT while_NN ,_, but_CC even_RB after_IN getting_VBG the_DT power_NN board_NN replaced_VBD it_PRP started_VBD doing_VBG it_PRP again_RB ._.
+I_PRP am_VBP going_VBG to_TO think_VB twice_RB about_IN Vizio_NNP in_IN the_DT future_NN ,_, my_PRP$ experience_NN has_VBZ been_VBN very_RB frustrating_JJ ._.

@@ -1,0 +1,21 @@
+=========
+
+det(product-2, The-1)
+nsubj(shipped-3, product-2)
+nsubj(works-9, product-2)
+nsubj(provides-16, product-2)
+root(ROOT-0, shipped-3)
+det(fashion-7, a-5)
+amod(fashion-7, timely-6)
+prep_in(shipped-3, fashion-7)
+conj_and(shipped-3, works-9)
+advmod(works-9, well-10)
+amod(peripherals-14, other-12)
+nn(peripherals-14, media-13)
+prep_with(works-9, peripherals-14)
+conj_and(shipped-3, provides-16)
+amod(visuals-18, superior-17)
+dobj(provides-16, visuals-18)
+poss(price-21, its-20)
+prep_for(provides-16, price-21)
+

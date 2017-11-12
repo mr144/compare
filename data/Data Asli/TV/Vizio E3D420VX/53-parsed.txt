@@ -1,0 +1,26 @@
+=========
+
+nsubj(enjoyed-3, I-1)
+aux(enjoyed-3, have-2)
+root(ROOT-0, enjoyed-3)
+det(tv-5, this-4)
+dobj(enjoyed-3, tv-5)
+advmod(enjoyed-3, thoroughly-6)
+
+=========
+
+det(isnt-3, The-1)
+amod(isnt-3, 3d-2)
+nsubj(seen-8, isnt-3)
+det(best-5, the-4)
+dep(isnt-3, best-5)
+nsubj(seen-8, I-6)
+aux(seen-8, have-7)
+root(ROOT-0, seen-8)
+det(price-13, the-12)
+prep_for(amazing-18, price-13)
+nsubj(amazing-18, it-15)
+cop(amazing-18, is-16)
+advmod(amazing-18, pretty-17)
+conj_but(seen-8, amazing-18)
+

@@ -1,0 +1,49 @@
+=========
+
+nn(picture-2, Great-1)
+nsubj(love-5, picture-2)
+conj_and(picture-2, sound-4)
+nsubj(love-5, sound-4)
+root(ROOT-0, love-5)
+dobj(love-5, it-6)
+
+=========
+
+root(ROOT-0, After-1)
+det(year-4, the-2)
+amod(year-4, new-3)
+pobj(After-1, year-4)
+xsubj(get-7, year-4)
+partmod(year-4, going-5)
+aux(get-7, to-6)
+xcomp(going-5, get-7)
+det(one-9, another-8)
+dobj(get-7, one-9)
+
+=========
+
+det(reviews-2, Some-1)
+nsubj(said-3, reviews-2)
+root(ROOT-0, said-3)
+nsubj(good-7, sound-4)
+cop(good-7, was-5)
+neg(good-7, not-6)
+ccomp(said-3, good-7)
+nsubj(see-12, I-9)
+nsubj(hear-14, I-9)
+aux(see-12, do-10)
+neg(see-12, not-11)
+conj_but(said-3, see-12)
+conj_but(said-3, hear-14)
+conj_or(see-12, hear-14)
+dobj(see-12, that-15)
+det(set-18, this-17)
+prep_on(that-15, set-18)
+
+=========
+
+nsubj(good-4, picture-1)
+cop(good-4, is-2)
+advmod(good-4, very-3)
+root(ROOT-0, good-4)
+

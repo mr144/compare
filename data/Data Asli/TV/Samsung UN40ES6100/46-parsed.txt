@@ -1,0 +1,29 @@
+=========
+
+det(TV-2, This-1)
+nsubj(everything-4, TV-2)
+cop(everything-4, is-3)
+root(ROOT-0, everything-4)
+nsubj(say-6, they-5)
+rcmod(everything-4, say-6)
+nsubj(is-8, it-7)
+ccomp(say-6, is-8)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+amod(sound-4, great-3)
+dobj(picture-2, sound-4)
+
+=========
+
+nsubj(like-2, Feels-1)
+root(ROOT-0, like-2)
+nsubj(watching-5, you-3)
+aux(watching-5, are-4)
+ccomp(like-2, watching-5)
+det(performance-8, a-6)
+amod(performance-8, live-7)
+dobj(watching-5, performance-8)
+

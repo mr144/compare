@@ -1,0 +1,28 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(phone-4, this-3)
+dobj(love-2, phone-4)
+
+=========
+
+nsubj(used-4, I-1)
+aux(used-4, have-2)
+advmod(used-4, only-3)
+root(ROOT-0, used-4)
+dobj(used-4, it-5)
+det(couple-8, a-7)
+prep_for(used-4, couple-8)
+prep_of(couple-8, weeks-10)
+advmod(used-4, now-11)
+nsubj(find-15, I-14)
+conj_but(used-4, find-15)
+det(features-17, the-16)
+nsubj(great-22, features-17)
+det(interface-21, the-19)
+nn(interface-21, user-20)
+conj_and(features-17, interface-21)
+nsubj(great-22, interface-21)
+xcomp(find-15, great-22)
+

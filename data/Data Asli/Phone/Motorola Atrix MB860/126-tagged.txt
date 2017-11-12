@@ -1,0 +1,3 @@
+The_DT screen_NN display_NN was_VBD a_DT bit_RB broken_JJ ,_, it_PRP has_VBZ a_DT region_NN more_RBR light_JJ ._.
+Like_IN some_DT white_JJ points_NNS in_IN the_DT screen_NN ._.
+The_DT telephone_NN box_NN was_VBD not_RB the_DT original_JJ ,_, it_PRP seems_VBZ refurbiched_VBN ._.

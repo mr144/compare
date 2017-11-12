@@ -1,0 +1,52 @@
+=========
+
+root(ROOT-0, Love-1)
+det(camera-3, this-2)
+dobj(Love-1, camera-3)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(flip-4, the-3)
+dobj(like-2, flip-4)
+prep_out(like-2, screen-6)
+
+=========
+
+nsubj(miss-2, I-1)
+root(ROOT-0, miss-2)
+poss(selection-5, my-3)
+amod(selection-5, rotating-4)
+dobj(miss-2, selection-5)
+det(body-8, the-7)
+prep_on(miss-2, body-8)
+advmod(miss-2, though-9)
+mark(annoying-17, so-11)
+csubj(annoying-17, clicking-12)
+det(photo-15, each-14)
+prep_through(clicking-12, photo-15)
+cop(annoying-17, is-16)
+advcl(miss-2, annoying-17)
+nsubj(glad-22, I-20)
+cop(glad-22, am-21)
+conj_but(miss-2, glad-22)
+nsubj(shoots-24, it-23)
+nsubj(has-28, it-23)
+ccomp(glad-22, shoots-24)
+nn(video-26, HD-25)
+dobj(shoots-24, video-26)
+ccomp(glad-22, has-28)
+conj_and(shoots-24, has-28)
+det(screen-32, a-29)
+amod(screen-32, flip-30)
+nn(screen-32, out-31)
+dobj(has-28, screen-32)
+
+=========
+
+nsubj(helpful-4, That-1)
+cop(helpful-4, 's-2)
+advmod(helpful-4, really-3)
+root(ROOT-0, helpful-4)
+

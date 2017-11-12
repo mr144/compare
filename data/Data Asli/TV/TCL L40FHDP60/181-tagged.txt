@@ -1,0 +1,3 @@
+From_IN the_DT manufacturer_NN description_NN says_VBZ `_`` This_DT LCD_NNP HDTV_NN has_VBZ output_NN options_NNS for_IN headphones_NNS ,_, analog_NN audio_NN output_NN ,_, and_CC coaxial_JJ digital_JJ audio_JJ output_NN ._. '_''
+but_CC the_DT only_JJ output_NN there_EX is_VBZ is_VBZ for_IN headphones_NNS ._.
+Picture_NNP seems_VBZ decent_JJ enough_RB for_IN a_DT $_$ 300_CD dollar_NN tv_NN ,_, now_RB to_TO see_VB how_WRB long_JJ it_PRP lasts_VBZ ._.

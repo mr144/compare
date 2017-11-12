@@ -1,0 +1,22 @@
+=========
+
+nsubj(phone-2, Excellent-1)
+root(ROOT-0, phone-2)
+advmod(fast-4, as-3)
+acomp(phone-2, fast-4)
+acomp(phone-2, light-6)
+conj_and(fast-4, light-6)
+poss(performance-9, its-8)
+nsubj(similar-12, performance-9)
+cop(similar-12, is-10)
+advmod(similar-12, very-11)
+conj_and(phone-2, similar-12)
+det(advance-17, the-14)
+nn(advance-17, Samsung-15)
+nn(advance-17, Galaxy-16)
+prep_to(similar-12, advance-17)
+cop(cheaper-20, is-19)
+ccomp(recommend-23, cheaper-20)
+nsubj(recommend-23, I-22)
+conj_and(phone-2, recommend-23)
+

@@ -1,0 +1,21 @@
+=========
+
+det(tv-2, This-1)
+nsubj(awesome-4, tv-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+advmod(awesome-4, apparently-6)
+det(tv-8, every-7)
+nsubj(has-13, tv-8)
+det(range-12, this-10)
+nn(range-12, price-11)
+prep_in(tv-8, range-12)
+ccomp(awesome-4, has-13)
+det(problem-15, a-14)
+dobj(has-13, problem-15)
+amod(sound-18, poor-17)
+prep_with(problem-15, sound-18)
+det(one-22, this-21)
+dobj(has-13, one-22)
+conj_negcc(problem-15, one-22)
+

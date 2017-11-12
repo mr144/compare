@@ -1,0 +1,2 @@
+I_PRP love_VBP my_PRP$ tv_NN for_IN the_DT price_NN this_DT is_VBZ a_DT great_JJ TV_NN ._. ._.
+I_PRP love_VBP the_DT picture_NN and_CC sound_JJ quality_NN of_IN my_PRP$ tv_NN ._. ._.

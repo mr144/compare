@@ -1,0 +1,64 @@
+=========
+
+nn(P90-2, Nikon-1)
+nsubjpass(made-10, P90-2)
+nn(Z980-5, Kodak-4)
+conj_and(P90-2, Z980-5)
+nsubjpass(made-10, Z980-5)
+nn(X70-8, Pentax-7)
+conj_and(P90-2, X70-8)
+nsubjpass(made-10, X70-8)
+auxpass(made-10, is-9)
+root(ROOT-0, made-10)
+det(company-15, the-12)
+amod(company-15, same-13)
+amod(company-15, Chinese-14)
+agent(made-10, company-15)
+
+=========
+
+partmod(identical-11, Sold-1)
+amod(brands-4, different-3)
+prep_under(Sold-1, brands-4)
+det(cameras-8, all-6)
+num(cameras-8, three-7)
+nsubj(identical-11, cameras-8)
+cop(identical-11, are-9)
+advmod(identical-11, almost-10)
+root(ROOT-0, identical-11)
+dep(identical-11, with-13)
+amod(differences-15, minor-14)
+pobj(with-13, differences-15)
+mark(has-19, like-17)
+nsubj(has-19, Kodak-18)
+dep(differences-15, has-19)
+amod(shoe-21, hot-20)
+dobj(has-19, shoe-21)
+appos(shoe-21, etc-23)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+xsubj(buy-5, you-2)
+advcl(buy-8, want-3)
+aux(buy-5, to-4)
+xcomp(want-3, buy-5)
+dobj(buy-5, this-6)
+root(ROOT-0, buy-8)
+det(one-10, the-9)
+dobj(buy-8, one-10)
+complm(find-14, that-11)
+nsubj(find-14, you-12)
+aux(find-14, can-13)
+ccomp(buy-8, find-14)
+acomp(find-14, cheapest-15)
+
+=========
+
+prep_in(better-7, general-2)
+nn(SX10-5, Canon-4)
+nsubj(better-7, SX10-5)
+cop(better-7, is-6)
+root(ROOT-0, better-7)
+

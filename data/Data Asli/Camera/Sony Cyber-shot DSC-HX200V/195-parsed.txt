@@ -1,0 +1,31 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, three-4)
+dobj(keep-10, three-4)
+nsubj(keep-10, Sony-5)
+possessive(Sony-5, 's-6)
+conj_and(Sony-5, they-8)
+nsubj(keep-10, they-8)
+advmod(keep-10, just-9)
+rcmod(three-4, keep-10)
+dep(keep-10, getting-11)
+advmod(getting-11, better-12)
+
+=========
+
+nsubj(shoot-4, I-1)
+aux(shoot-4, would-2)
+advmod(shoot-4, rather-3)
+root(ROOT-0, shoot-4)
+poss(Sony-7, my-5)
+amod(Sony-7, small-6)
+dobj(shoot-4, Sony-7)
+poss(mm-13, my-9)
+amod(mm-13, expensive-10)
+nn(mm-13, Canon-11)
+num(mm-13, 35-12)
+prep_than(shoot-4, mm-13)
+

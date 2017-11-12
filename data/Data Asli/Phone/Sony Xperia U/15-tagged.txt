@@ -1,0 +1,7 @@
+Battery_NNP time_NN is_VBZ only_RB a_DT few_JJ hours_NNS ._.
+I_PRP am_VBP the_DT sort_NN of_IN person_NN who_WP does_VBZ not_RB use_VB phone_NN very_RB frequqntly_RB or_CC listen_VB to_TO music_NN ,_, watch_NN videos_NNS or_CC surf_NN internet_NN over_IN the_DT phone_NN ._.
+Still_RB by_IN the_DT team_NN I_PRP return_VBP home_NN from_IN work_NN ,_, the_DT battery_NN is_VBZ already_RB dead_JJ ._.
+The_DT processor_NN is_VBZ also_RB really_RB slow_JJ ._.
+I_PRP bought_VBD it_PRP during_IN a_DT promotion_NN and_CC it_PRP sat_VBD around_RP for_IN a_DT few_JJ months_NNS before_IN I_PRP started_VBD using_VBG it_PRP ._.
+Now_RB I_PRP am_VBP just_RB past_IN the_DT date_NN that_IN I_PRP could_MD have_VB returned_VBN it_PRP ._.
+Do_VBP not_RB buy_VB this_DT phone_NN !_.

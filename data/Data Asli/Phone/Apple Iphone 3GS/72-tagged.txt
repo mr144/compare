@@ -1,0 +1,3 @@
+I_PRP have_VBP some_DT first_JJ smartphone_NN ._.
+but_CC I_PRP think_VBP ,_, it_PRP is_VBZ the_DT best_JJS smartphone_NN ._.
+This_DT smartphone_NN is_VBZ much_RB better_JJR than_IN the_DT LG_NNP ,_, Blackberry_NNP ,_, xperia_NN or_CC samsung_NN produk_NN ._.

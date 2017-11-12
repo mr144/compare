@@ -1,0 +1,4 @@
+I_PRP am_VBP satisfied_JJ with_IN my_PRP$ purchase_NN ._.
+The_DT item_NN arrived_VBD on_IN time_NN ,_, and_CC was_VBD just_RB like_IN shown_VBN in_IN the_DT web_NN site_NN ._.
+The_DT company_NN answered_VBD my_PRP$ e-mail_NN after_IN less_JJR than_IN 24h_CD ._.
+I_PRP recommend_VBP ._.

@@ -1,0 +1,100 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+nsubj(works-14, phone-4)
+aux(use-6, to-5)
+infmod(phone-4, use-6)
+poss(plan-11, my-8)
+amod(plan-11, straight-9)
+nn(plan-11, talk-10)
+prep_with(use-6, plan-11)
+prep_with(use-6, it-13)
+conj_and(plan-11, it-13)
+ccomp(bought-2, works-14)
+acomp(works-14, great-15)
+
+=========
+
+mark(find-4, Although-1)
+nsubj(find-4, you-2)
+aux(find-4, will-3)
+advcl(throttled-9, find-4)
+dobj(find-4, that-5)
+det(4G-7, the-6)
+nsubjpass(throttled-9, 4G-7)
+auxpass(throttled-9, is-8)
+root(ROOT-0, throttled-9)
+prt(throttled-9, down-10)
+
+=========
+
+amod(1m-3, 3m-1)
+nn(1m-3, download-2)
+nsubj(upload-4, 1m-3)
+root(ROOT-0, upload-4)
+dobj(upload-4, Max-5)
+
+=========
+
+advmod(use-5, Also-1)
+nsubj(use-5, you-2)
+aux(use-5, can-3)
+neg(use-5, not-4)
+root(ROOT-0, use-5)
+amod(browsers-7, different-6)
+dobj(use-5, browsers-7)
+prep_such_as(browsers-7, Firefox-10)
+prep_such_as(browsers-7, Opera-12)
+conj_or(Firefox-10, Opera-12)
+prep_on(use-5, it-14)
+
+=========
+
+root(ROOT-0, Had-1)
+aux(restore-3, to-2)
+xcomp(Had-1, restore-3)
+nn(settings-5, factory-4)
+dobj(restore-3, settings-5)
+mark(installed-8, after-6)
+nsubj(installed-8, I-7)
+advcl(restore-3, installed-8)
+dobj(installed-8, these-9)
+
+=========
+
+amod(works-3, Fingerprint-1)
+nn(works-3, scanner-2)
+nsubj(ok-4, works-3)
+root(ROOT-0, ok-4)
+advmod(ok-4, sometime-6)
+ccomp(ok-4, take-7)
+amod(swipes-10, many-9)
+prep_to(take-7, swipes-10)
+aux(read-12, to-11)
+xcomp(take-7, read-12)
+
+=========
+
+root(ROOT-0, Lots-1)
+prep_of(Lots-1, apps-3)
+prep_with(Lots-1, Google-5)
+
+=========
+
+root(ROOT-0, Over-1)
+predet(phone-5, all-2)
+det(phone-5, a-3)
+amod(phone-5, good-4)
+dobj(Over-1, phone-5)
+det(price-8, the-7)
+prep_for(Over-1, price-8)
+nsubj(tied-12, your-10)
+neg(tied-12, not-11)
+conj_and(Over-1, tied-12)
+det(contract-17, a-14)
+num(contract-17, 2-15)
+nn(contract-17, year-16)
+prep_to(tied-12, contract-17)
+

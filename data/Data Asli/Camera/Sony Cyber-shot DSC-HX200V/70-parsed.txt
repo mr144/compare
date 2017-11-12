@@ -1,0 +1,41 @@
+=========
+
+dep(camera-3, Very-1)
+amod(camera-3, good-2)
+root(ROOT-0, camera-3)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+predet(features-5, all-3)
+det(features-5, the-4)
+dobj(has-2, features-5)
+dobj(wanted-7, features-5)
+nsubj(wanted-7, I-6)
+rcmod(features-5, wanted-7)
+
+=========
+
+det(construction-2, The-1)
+nsubj(good-10, construction-2)
+det(body-5, the-4)
+prep_of(construction-2, body-5)
+dep(body-5, it-6)
+cop(good-10, is-7)
+neg(good-10, not-8)
+advmod(good-10, very-9)
+root(ROOT-0, good-10)
+
+=========
+
+cc(worse-5, And-1)
+det(camera-3, this-2)
+nsubj(worse-5, camera-3)
+cop(worse-5, is-4)
+root(ROOT-0, worse-5)
+prep_than(worse-5, d7100-7)
+nn(product-10, olympus-9)
+prep_than(worse-5, product-10)
+conj_or(d7100-7, product-10)
+

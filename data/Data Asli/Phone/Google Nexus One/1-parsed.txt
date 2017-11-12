@@ -1,0 +1,51 @@
+=========
+
+nsubj(purchased-2, I-1)
+nsubj(has-6, I-1)
+root(ROOT-0, purchased-2)
+det(phone-4, this-3)
+dobj(purchased-2, phone-4)
+conj_and(purchased-2, has-6)
+dobj(has-6, problems-7)
+prep_with(problems-7, it-9)
+advmod(it-9, almost-10)
+det(start-13, the-12)
+prep_from(almost-10, start-13)
+
+=========
+
+dep(stopped-4, First-1)
+det(camera-3, the-2)
+nsubj(stopped-4, camera-3)
+root(ROOT-0, stopped-4)
+xcomp(stopped-4, working-5)
+advmod(stopped-4, then-7)
+det(button-10, the-8)
+nn(button-10, power-9)
+nsubj(had-11, button-10)
+ccomp(stopped-4, had-11)
+dobj(had-11, issues-12)
+mark(stopped-19, until-14)
+det(switch-17, the-15)
+nn(switch-17, on\/off-16)
+nsubj(stopped-19, switch-17)
+advmod(stopped-19, finally-18)
+advcl(had-11, stopped-19)
+xcomp(stopped-19, working-20)
+advmod(working-20, completely-21)
+
+=========
+
+advmod(turn-5, Now-1)
+nsubj(turn-5, I-2)
+aux(turn-5, can-3)
+neg(turn-5, not-4)
+root(ROOT-0, turn-5)
+prt(turn-5, on-6)
+det(phone-8, the-7)
+dobj(turn-5, phone-8)
+advmod(turn-5, at-9)
+pobj(at-9, all-10)
+advmod(useless-13, totally-12)
+dep(turn-5, useless-13)
+

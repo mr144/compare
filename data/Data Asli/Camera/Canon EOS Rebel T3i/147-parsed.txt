@@ -1,0 +1,37 @@
+=========
+
+root(ROOT-0, awsome-1)
+dobj(awsome-1, camera-2)
+
+=========
+
+amod($-3, worth-1)
+dep(worth-1, every-2)
+nsubj(got-5, $-3)
+num($-3, I-4)
+root(ROOT-0, got-5)
+det(deal-8, an-6)
+amod(deal-8, amazing-7)
+dobj(got-5, deal-8)
+
+=========
+
+nsubj(came-3, everything-1)
+nsubj(great-8, everything-1)
+rcmod(everything-1, came-3)
+det(camera-6, this-5)
+prep_with(came-3, camera-6)
+cop(great-8, was-7)
+root(ROOT-0, great-8)
+
+=========
+
+mark(want-3, if-1)
+nsubj(want-3, you-2)
+root(ROOT-0, want-3)
+amod(camera-5, nice-4)
+nsubj(go-6, camera-5)
+ccomp(want-3, go-6)
+det(one-9, this-8)
+prep_with(go-6, one-9)
+

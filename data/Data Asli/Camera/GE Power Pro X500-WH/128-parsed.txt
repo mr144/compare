@@ -1,0 +1,29 @@
+=========
+
+nsubj(love-3, i-1)
+advmod(love-3, just-2)
+root(ROOT-0, love-3)
+dobj(love-3, it-4)
+
+=========
+
+nsubj(takes-17, its-1)
+advmod(camera-16, really-2)
+prep_for(really-2, me-4)
+prep(me-4, and-5)
+dep(and-5, exellnet-6)
+prep_for(exellnet-6, price-8)
+poss(camera-16, its-12)
+det(camera-16, a-13)
+amod(lovely-15, small-14)
+amod(camera-16, lovely-15)
+rcmod(its-1, camera-16)
+root(ROOT-0, takes-17)
+amod(photos-19, beautiful-18)
+dobj(takes-17, photos-19)
+dep(wanted-25, i-21)
+advmod(what-23, exactly-22)
+dobj(wanted-25, what-23)
+nsubj(wanted-25, i-24)
+parataxis(takes-17, wanted-25)
+

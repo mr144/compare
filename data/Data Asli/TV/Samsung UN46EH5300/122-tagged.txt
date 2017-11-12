@@ -1,0 +1,2 @@
+Wish_NNP it_PRP had_VBD a_DT HDMI_NNP ARC_NNP connection_NN but_CC otherwise_RB great_JJ image_NN quality_NN ._.
+It_PRP is_VBZ quite_RB easy_JJ to_TO set_VB up_RP and_CC use_NN ._.

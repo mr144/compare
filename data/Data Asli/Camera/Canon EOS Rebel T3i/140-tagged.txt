@@ -1,0 +1,3 @@
+I_PRP did_VBD my_PRP$ own_JJ research_NN of_IN course_NN and_CC this_DT is_VBZ a_DT great_JJ value_NN for_IN the_DT type_NN of_IN camera_NN ._.
+The_DT photos_NNS are_VBP brilliant_JJ and_CC the_DT smart_JJ mode_NN makes_VBZ picture_NN taking_VBG for_IN novices_NNS very_RB easy_JJ ._.
+Videos_NNS are_VBP pretty_RB good_JJ as_IN well_RB ._.

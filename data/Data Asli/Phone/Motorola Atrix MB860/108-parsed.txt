@@ -1,0 +1,21 @@
+=========
+
+amod(phone-2, Cell-1)
+nsubj(graphics-17, phone-2)
+cop(graphics-17, is-3)
+det(graphics-17, an-4)
+amod(graphics-17, excellent-5)
+advmod(fast-8, very-7)
+amod(graphics-17, fast-8)
+npadvmod(excellent-16, works-10)
+advmod(well-12, very-11)
+advmod(works-10, well-12)
+nn(Venezuela-15, movistar-14)
+prep_with(well-12, Venezuela-15)
+conj_and(fast-8, excellent-16)
+amod(graphics-17, excellent-16)
+root(ROOT-0, graphics-17)
+amod(works-20, android-19)
+conj_and(graphics-17, works-20)
+advmod(graphics-17, great-21)
+

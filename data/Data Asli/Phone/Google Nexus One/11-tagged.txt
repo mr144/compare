@@ -1,0 +1,7 @@
+When_WRB working_VBG ,_, this_DT is_VBZ a_DT very_RB good_JJ phone_NN ._.
+Unfortunately_RB ,_, my_PRP$ Google_NNP Nexus_NNP phone_NN seems_VBZ to_TO work_VB and_CC then_RB need_VB repairs_NNS ._.
+Even_RB without_IN problems_NNS ,_, it_PRP takes_VBZ about_IN a_DT minute_NN to_TO power_NN on_IN ._.
+The_DT problem_NN is_VBZ that_IN every_DT few_JJ months_NNS ,_, the_DT phone_NN will_MD not_RB power_NN on_IN ._.
+For_IN the_DT 4th_JJ time_NN in_IN 3_CD years_NNS this_DT has_VBZ occured_VBN ._.
+This_DT time_NN I_PRP refuse_VBP to_TO pay_VB to_TO get_VB it_PRP reapired_JJ ._.
+RIP_NNP ,_, Google_NNP Nexus_NNP ._.

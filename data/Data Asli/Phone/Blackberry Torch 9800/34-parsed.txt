@@ -1,0 +1,38 @@
+=========
+
+nsubj(love-2, I-1)
+ccomp(is-10, love-2)
+poss(phone-5, my-3)
+nn(phone-5, cell-4)
+dobj(love-2, phone-5)
+det(thing-9, the-7)
+amod(thing-9, only-8)
+nsubj(is-10, thing-9)
+root(ROOT-0, is-10)
+complm(wish-13, that-11)
+nsubj(wish-13, I-12)
+ccomp(is-10, wish-13)
+nsubj(had-15, it-14)
+ccomp(wish-13, had-15)
+det(sim-18, a-16)
+amod(sim-18, dual-17)
+dobj(had-15, sim-18)
+advmod(had-15, capabiliy-19)
+
+=========
+
+nsubj(considering-4, I-1)
+aux(considering-4, am-2)
+advmod(considering-4, now-3)
+root(ROOT-0, considering-4)
+xcomp(considering-4, purchasing-5)
+det(phone-8, a-6)
+nn(phone-8, cell-7)
+dobj(purchasing-5, phone-8)
+nsubj(accomodate-11, phone-8)
+aux(accomodate-11, can-10)
+rcmod(phone-8, accomodate-11)
+num(cards-14, two-12)
+nn(cards-14, sim-13)
+dobj(accomodate-11, cards-14)
+

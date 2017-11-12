@@ -1,0 +1,4 @@
+It_PRP 's_VBZ a_DT TV_NN !!!_NN It_PRP is_VBZ over_RB priced_VBN and_CC under_IN performing_VBG ._.
+The_DT color_NN is_VBZ off_RP a_DT bit_NN and_CC the_DT specs_NNS are_VBP really_RB low_JJ for_IN the_DT price_NN ._.
+You_PRP can_MD find_VB an_DT better_JJR TV_NN for_IN this_DT price_NN ._.
+This_DT TV_NN is_VBZ worse_JJR than_IN sony_JJ ,_, panasonic_JJ ,_, samsung_JJ ,_, sharp_JJ ,_, sony_NN ,_, tcl_NN or_CC vizio_NN ._.

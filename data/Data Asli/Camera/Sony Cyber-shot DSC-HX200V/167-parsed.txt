@@ -1,0 +1,29 @@
+=========
+
+nsubj(hade-2, I-1)
+root(ROOT-0, hade-2)
+num(years-4, 2-3)
+dobj(hade-2, years-4)
+iobj(hade-2, years-4)
+det(Model-7, the-5)
+nn(Model-7, HX-100-6)
+dobj(hade-2, Model-7)
+dep(years-4, Model-7)
+num(months-11, 2-10)
+npadvmod(ago-12, months-11)
+advmod(upgraded-14, ago-12)
+nsubj(upgraded-14, I-13)
+conj_and(hade-2, upgraded-14)
+dobj(upgraded-14, it-15)
+det(one-20, the-17)
+amod(one-20, new-18)
+nn(one-20, HX-200-19)
+prep_to(upgraded-14, one-20)
+
+=========
+
+root(ROOT-0, Doing-1)
+poss(jobe-3, its-2)
+nsubj(fantastic-4, jobe-3)
+xcomp(Doing-1, fantastic-4)
+

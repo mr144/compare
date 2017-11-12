@@ -1,0 +1,28 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(value-9, the-3)
+amod(value-9, Sharp-4)
+num(835u-6, 60-5)
+npadvmod(great-7, 835u-6)
+amod(value-9, great-7)
+nn(value-9, buybest-8)
+nsubj(buckwould-12, value-9)
+prep_for(value-9, you-11)
+ccomp(love-2, buckwould-12)
+csubj(looks-16, recommend-13)
+prep_to(recommend-13, others3d-15)
+ccomp(buckwould-12, looks-16)
+acomp(looks-16, good-17)
+
+=========
+
+advmod(come-5, however-1)
+nsubj(come-5, it-2)
+aux(come-5, does-3)
+neg(come-5, not-4)
+root(ROOT-0, come-5)
+amod(glasses-8, 3d-7)
+prep_with(come-5, glasses-8)
+

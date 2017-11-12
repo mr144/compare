@@ -1,0 +1,3 @@
+I_PRP wanted_VBD a_DT bigger_JJR and_CC better_JJR tv_NN for_IN a_DT low_JJ price_NN ._.
+this_DT fit_NN the_DT bill_NN ._.
+worth_IN the_DT money_NN -LRB-_-LRB- more_JJR words_NNS -RRB-_-RRB-

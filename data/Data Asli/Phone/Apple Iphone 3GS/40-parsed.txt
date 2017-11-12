@@ -1,0 +1,23 @@
+=========
+
+advmod(as-2, Exactly-1)
+root(ROOT-0, as-2)
+nsubj(expected-4, I-3)
+dep(as-2, expected-4)
+
+=========
+
+det(surprises-2, No-1)
+nsubj(used-9, surprises-2)
+conj_and(surprises-2, works\/functions-4)
+nsubj(used-9, works\/functions-4)
+det(minimally-8, an-6)
+amod(minimally-8, excellent-7)
+prep_like(surprises-2, minimally-8)
+root(ROOT-0, used-9)
+amod(cheaper-11, mac-buttons-10)
+dobj(used-9, cheaper-11)
+det(one-15, a-13)
+amod(one-15, new-14)
+prep_than(used-9, one-15)
+

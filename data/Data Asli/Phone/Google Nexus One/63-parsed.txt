@@ -1,0 +1,56 @@
+=========
+
+root(ROOT-0, 1-1)
+
+=========
+
+amod(product-2, Great-1)
+root(ROOT-0, product-2)
+prep_with(product-2, features-4)
+amod(product-2, on-par-5)
+dep(on-par-5, if-6)
+neg(better-8, not-7)
+dep(on-par-5, better-8)
+num(.2-11, iphone3g-10)
+prep_than(better-8, .2-11)
+
+=========
+
+root(ROOT-0, Low-1)
+nn(life-4, battery-3)
+prep_on(Low-1, life-4)
+
+=========
+
+root(ROOT-0, Get-1)
+number(1-3, ~-2)
+num(life-5, 1-3)
+nn(life-5, day-4)
+npadvmod(even-6, life-5)
+advmod(Get-1, even-6)
+prepc_without(Get-1, using-8)
+amod(service-11, edge\/3g-9)
+nn(service-11, data-10)
+dobj(using-8, service-11)
+advmod(turning-14, occasionally-13)
+prepc_without(Get-1, turning-14)
+conj_and(using-8, turning-14)
+dobj(turning-14, WiFi-15)
+prep_on(WiFi-15, .3-17)
+
+=========
+
+nn(transmission-3, Poor-1)
+nn(transmission-3, call-2)
+nsubj(due-9, transmission-3)
+conj_and(transmission-3, reception-5)
+nsubj(due-9, reception-5)
+aux(due-9, might-7)
+cop(due-9, be-8)
+root(ROOT-0, due-9)
+amod(coverage-13, poor-11)
+amod(coverage-13, T-mobile-12)
+prep_to(due-9, coverage-13)
+poss(location-16, my-15)
+prep_in(coverage-13, location-16)
+

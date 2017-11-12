@@ -1,0 +1,33 @@
+=========
+
+nsubj(execelente-5, It-1)
+cop(execelente-5, is-2)
+det(execelente-5, a-3)
+nn(execelente-5, product-4)
+root(ROOT-0, execelente-5)
+
+=========
+
+nsubj(use-4, I-1)
+aux(use-4, could-2)
+neg(use-4, not-3)
+dep(stolen-13, use-4)
+nn(week-7, loo-5)
+amod(week-7, long-6)
+dobj(use-4, week-7)
+prep_of(week-7, llagar-9)
+det(country-11, the-10)
+nsubjpass(stolen-13, country-11)
+auxpass(stolen-13, was-12)
+root(ROOT-0, stolen-13)
+
+=========
+
+root(ROOT-0, Thanks-1)
+dobj(Thanks-1, you-2)
+
+=========
+
+amod(work-2, good-1)
+root(ROOT-0, work-2)
+

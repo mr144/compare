@@ -1,0 +1,1 @@
+The description says HSDPA 850/1900 is not so in reality it is 850/2100 in my country Venezuela no operator works with that frequency for 3g!

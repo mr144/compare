@@ -1,0 +1,278 @@
+=========
+
+dep(love-4, So-1)
+advmod(a-3, far-2)
+nsubj(love-4, a-3)
+root(ROOT-0, love-4)
+det(TV-6, this-5)
+dobj(love-4, TV-6)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+
+=========
+
+nsubj(easy-3, Setup-1)
+cop(easy-3, was-2)
+root(ROOT-0, easy-3)
+
+=========
+
+det(apps-3, The-1)
+nn(apps-3, internet-2)
+nsubj(easy-5, apps-3)
+cop(easy-5, are-4)
+root(ROOT-0, easy-5)
+aux(use-7, to-6)
+xcomp(easy-5, use-7)
+
+=========
+
+nn(setup-2, Wireless-1)
+nsubj(snap-5, setup-2)
+cop(snap-5, was-3)
+det(snap-5, a-4)
+root(ROOT-0, snap-5)
+
+=========
+
+nsubj(Amazon-3, I-1)
+nsubj(had-7, I-1)
+nsubj(watching-12, I-1)
+aux(Amazon-3, am-2)
+root(ROOT-0, Amazon-3)
+amod(member-5, prime-4)
+dobj(Amazon-3, member-5)
+conj_and(Amazon-3, had-7)
+det(tv-9, the-8)
+dobj(had-7, tv-9)
+partmod(tv-9, connected-10)
+conj_and(Amazon-3, watching-12)
+nn(videos-14, streaming-13)
+dobj(watching-12, videos-14)
+det(minutes-18, a-16)
+amod(minutes-18, few-17)
+prep_within(watching-12, minutes-18)
+
+=========
+
+nsubj(HD-3, Videos-1)
+cop(HD-3, were-2)
+root(ROOT-0, HD-3)
+nsubj(tell-8, I-5)
+aux(tell-8, could-6)
+neg(tell-8, not-7)
+conj_and(HD-3, tell-8)
+det(difference-10, the-9)
+dobj(tell-8, difference-10)
+prepc_from(tell-8, watching-12)
+det(DVD-14, a-13)
+dobj(watching-12, DVD-14)
+
+=========
+
+nsubj(have-4, I-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+dobj(have-4, cable-5)
+partmod(cable-5, hooked-6)
+prt(hooked-6, up-7)
+det(TV-10, this-9)
+prep_to(hooked-6, TV-10)
+nsubj(using-15, I-12)
+aux(using-15, am-13)
+advmod(using-15, just-14)
+conj_and(have-4, using-15)
+det(connection-19, the-17)
+amod(connection-19, wireless-18)
+prep_via(using-15, connection-19)
+
+=========
+
+root(ROOT-0, Works-1)
+advmod(Works-1, great-2)
+
+=========
+
+det(help-2, The-1)
+nsubj(match-6, help-2)
+advmod(match-6, though-3)
+aux(match-6, does-4)
+neg(match-6, not-5)
+root(ROOT-0, match-6)
+det(steps-9, the-7)
+amod(steps-9, actual-8)
+nsubj(available-10, steps-9)
+xcomp(match-6, available-10)
+det(TV-13, the-12)
+prep_on(available-10, TV-13)
+
+=========
+
+det(book-2, The-1)
+nsubj(match-7, book-2)
+amod(help-5, interactive-4)
+conj_and(book-2, help-5)
+nsubj(match-7, help-5)
+aux(match-7, do-6)
+root(ROOT-0, match-7)
+det(apps-10, the-8)
+amod(apps-10, updated-9)
+dobj(match-7, apps-10)
+
+=========
+
+prep_for(says-5, example-2)
+det(help-4, the-3)
+nsubj(says-5, help-4)
+root(ROOT-0, says-5)
+expl(app-10, there-6)
+aux(app-10, should-7)
+cop(app-10, be-8)
+det(app-10, an-9)
+ccomp(says-5, app-10)
+partmod(app-10, called-11)
+nn(gallery-13, widget-12)
+dobj(called-11, gallery-13)
+aux(let-15, to-14)
+xcomp(called-11, let-15)
+nsubj(manage-17, you-16)
+ccomp(let-15, manage-17)
+det(widgets-19, the-18)
+dobj(manage-17, widgets-19)
+det(screen-22, the-21)
+prep_on(manage-17, screen-22)
+nsubj(looks-25, it-24)
+conj_but(says-5, looks-25)
+mark(replaced-29, like-26)
+nsubjpass(replaced-29, that-27)
+auxpass(replaced-29, was-28)
+advcl(looks-25, replaced-29)
+nn(store-34, Yahoo-31)
+amod(store-34, connected-32)
+nn(store-34, TV-33)
+agent(replaced-29, store-34)
+
+=========
+
+nsubj(find-4, I-1)
+nsubj(assume-8, I-1)
+aux(find-4, did-2)
+neg(find-4, not-3)
+root(ROOT-0, find-4)
+nsubj(obvious-6, that-5)
+xcomp(find-4, obvious-6)
+conj_and(find-4, assume-8)
+nsubj(result-12, it-9)
+cop(result-12, is-10)
+det(result-12, a-11)
+ccomp(assume-8, result-12)
+det(update-15, an-14)
+prep_of(result-12, update-15)
+
+=========
+
+det(apps-2, The-1)
+nsubj(updated-4, apps-2)
+advmod(updated-4, all-3)
+root(ROOT-0, updated-4)
+advmod(updated-4, immediately-5)
+prepc_upon(updated-4, connecting-7)
+det(wireless-9, the-8)
+dobj(connecting-7, wireless-9)
+
+=========
+
+root(ROOT-0, Unfortunately-1)
+mark(clunky-8, though-2)
+det(app-6, the-3)
+nn(app-6, Amazon-4)
+nn(app-6, internet-5)
+nsubj(clunky-8, app-6)
+cop(clunky-8, is-7)
+dep(Unfortunately-1, clunky-8)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(way-4, no-3)
+nsubj(is-2, way-4)
+aux(search-6, to-5)
+infmod(way-4, search-6)
+det(videos-11, the-7)
+nn(videos-11, Amazon-8)
+nn(videos-11, Prime-9)
+nn(videos-11, streaming-10)
+dobj(search-6, videos-11)
+nsubj(have-15, you-13)
+xsubj(keep-17, you-13)
+advmod(have-15, just-14)
+conj_and(is-2, have-15)
+aux(keep-17, to-16)
+xcomp(have-15, keep-17)
+dobj(keep-17, paging-18)
+prep_through(keep-17, them-20)
+mark(find-23, until-21)
+nsubj(find-23, you-22)
+advcl(keep-17, find-23)
+dobj(find-23, something-24)
+dobj(like-26, something-24)
+nsubj(like-26, you-25)
+rcmod(something-24, like-26)
+
+=========
+
+nsubj(has-2, Amazon-1)
+root(ROOT-0, has-2)
+det(list-5, the-3)
+nn(list-5, watch-4)
+dobj(has-2, list-5)
+advmod(add-10, now-6)
+dep(add-10, that-7)
+nsubj(add-10, you-8)
+aux(add-10, can-9)
+dep(list-5, add-10)
+dobj(add-10, movies-11)
+prep(add-10, to-12)
+advmod(find-17, so-13)
+dep(find-17, that-14)
+nsubj(find-17, you-15)
+aux(find-17, can-16)
+advcl(add-10, find-17)
+nsubj(easier-19, them-18)
+xcomp(find-17, easier-19)
+dep(is-23, that-21)
+nsubj(is-23, function-22)
+dep(list-5, is-23)
+conj_but(add-10, is-23)
+neg(is-23, not-24)
+det(app-28, the-26)
+amod(app-28, internet-27)
+prep_on(is-23, app-28)
+det(TV-31, the-30)
+prep_on(app-28, TV-31)
+dep(TV-31, or-33)
+dep(or-33, on-34)
+poss(blu-ray-36, my-35)
+pobj(on-34, blu-ray-36)
+
+=========
+
+nsubj(problem-6, This-1)
+cop(problem-6, is-2)
+neg(problem-6, not-3)
+advmod(problem-6, really-4)
+det(problem-6, a-5)
+root(ROOT-0, problem-6)
+det(TV-9, the-8)
+prep_with(problem-6, TV-9)
+det(app-15, the-12)
+nn(app-15, Amazon-13)
+nn(app-15, internet-14)
+prep_with(problem-6, app-15)
+conj_but(TV-9, app-15)
+

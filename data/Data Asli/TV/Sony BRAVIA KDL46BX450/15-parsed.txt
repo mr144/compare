@@ -1,0 +1,44 @@
+=========
+
+nsubj(bought-2, We-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+prepc_based_on(bought-2, on-5)
+nn(purchases-9, price-6)
+conj_and(price-6, previous-8)
+nn(purchases-9, previous-8)
+pobj(bought-2, purchases-9)
+
+=========
+
+nsubj(does-2, It-1)
+root(ROOT-0, does-2)
+det(job-5, an-3)
+amod(job-5, adequate-4)
+dobj(does-2, job-5)
+
+=========
+
+nsubj(do-4, We-1)
+aux(do-4, do-2)
+neg(do-4, not-3)
+root(ROOT-0, do-4)
+nn(complex-6, anything-5)
+dobj(do-4, complex-6)
+
+=========
+
+nsubj(had-3, We-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+amod(luck-5, good-4)
+dobj(had-3, luck-5)
+nn(brand-8, Sony-7)
+prep_with(had-3, brand-8)
+det(price-12, the-11)
+nsubj(fair-14, price-12)
+cop(fair-14, was-13)
+conj_and(had-3, fair-14)
+det(time-17, the-16)
+prep_at(fair-14, time-17)
+

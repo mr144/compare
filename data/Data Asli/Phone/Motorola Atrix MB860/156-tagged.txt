@@ -1,0 +1,3 @@
+Pleased_JJ with_IN my_PRP$ Motorola_NNP Atrix_NNP phone_NN ._.
+The_DT Android_NNP software_NN works_VBZ very_RB well_RB ,_, Amazon_NNP has_VBZ lots_NNS of_IN apps_NNS for_IN Android_NNP phone_NN ._.
+Labdock_NN work_NN to_TO ._.

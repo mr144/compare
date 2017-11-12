@@ -1,0 +1,33 @@
+=========
+
+det(product-2, This-1)
+nsubj(good-5, product-2)
+cop(good-5, is-3)
+advmod(good-5, very-4)
+root(ROOT-0, good-5)
+nsubj(is-9, it-8)
+conj_and(good-5, is-9)
+dep(like-12, what-10)
+nsubj(like-12, I-11)
+xsubj(buy-14, I-11)
+ccomp(is-9, like-12)
+aux(buy-14, to-13)
+xcomp(like-12, buy-14)
+dobj(buy-14, it-15)
+nsubj(deal-23, it-18)
+cop(deal-23, is-19)
+det(deal-23, a-20)
+advmod(good-22, very-21)
+amod(deal-23, good-22)
+conj_and(good-5, deal-23)
+conj_and(is-9, deal-23)
+
+=========
+
+det(i-4, The-1)
+amod(i-4, best-2)
+amod(i-4, smartphone-3)
+nsubj(seen-6, i-4)
+advmod(seen-6, ever-5)
+root(ROOT-0, seen-6)
+

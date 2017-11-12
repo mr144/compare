@@ -1,0 +1,3 @@
+Todo_NNP llego_VBD a_DT tiempo_NN y_NN sin_NN ning&uacute;n_JJ problema_NN !_.
+Que_JJ bueno_NN contar_NN con_NN alguien_FW confiable_FW y_FW bueno_FW !_.
+100_CD %_NN recomendado_NN :_: D_NNP

@@ -1,0 +1,25 @@
+=========
+
+amod(features-2, Best-1)
+nsubj(currently-6, features-2)
+nsubj(seems-11, features-2)
+xsubj(do-13, features-2)
+det(SuperZoom-5, any-4)
+prep_of(features-2, SuperZoom-5)
+root(ROOT-0, currently-6)
+det(market-9, the-8)
+prep_on(currently-6, market-9)
+conj_and(currently-6, seems-11)
+aux(do-13, to-12)
+xcomp(seems-11, do-13)
+dobj(do-13, each-14)
+advmod(do-13, well-15)
+
+=========
+
+root(ROOT-0, Like-1)
+nn(features-5, panorama-2)
+conj_and(panorama-2, HDR-4)
+nn(features-5, HDR-4)
+pobj(Like-1, features-5)
+

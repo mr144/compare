@@ -1,0 +1,30 @@
+=========
+
+nn(Good-4, Perfect-1)
+nn(Good-4, size-2)
+nn(Good-4, !!-3)
+nsubj(smartphone-5, Good-4)
+root(ROOT-0, smartphone-5)
+det(price-9, a-7)
+amod(price-9, good-8)
+prep_for(smartphone-5, price-9)
+
+=========
+
+root(ROOT-0, Nice-1)
+dobj(Nice-1, design-2)
+
+=========
+
+det(software-2, The-1)
+nsubj(buggy-7, software-2)
+aux(buggy-7, can-3)
+cop(buggy-7, be-4)
+det(bit-6, a-5)
+npadvmod(buggy-7, bit-6)
+root(ROOT-0, buggy-7)
+advmod(buggy-7, sometimes-8)
+advmod(problems-12, generally-10)
+det(problems-12, no-11)
+conj_but(buggy-7, problems-12)
+

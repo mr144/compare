@@ -1,0 +1,83 @@
+=========
+
+det(TV-2, The-1)
+nsubj(arrived-3, TV-2)
+root(ROOT-0, arrived-3)
+prep_on(arrived-3, time-5)
+
+=========
+
+prepc_after(tried-19, taking-2)
+prt(taking-2, out-3)
+det(tv-6, the-4)
+amod(tv-6, old-5)
+dobj(taking-2, tv-6)
+conj_and(taking-2, hooking-8)
+prepc_after(tried-19, hooking-8)
+prt(hooking-8, up-9)
+predet(gear-12, all-10)
+det(gear-12, the-11)
+dobj(hooking-8, gear-12)
+det(one-16, the-14)
+amod(one-16, new-15)
+prep_to(hooking-8, one-16)
+nsubj(tried-19, I-18)
+xsubj(turn-21, I-18)
+root(ROOT-0, tried-19)
+aux(turn-21, to-20)
+xcomp(tried-19, turn-21)
+dobj(turn-21, it-22)
+prt(turn-21, on-23)
+nsubj(happened-26, nothing-25)
+conj_and(tried-19, happened-26)
+
+=========
+
+nsubj(had-2, I-1)
+xsubj(call-4, I-1)
+root(ROOT-0, had-2)
+aux(call-4, to-3)
+xcomp(had-2, call-4)
+dobj(call-4, Sony-5)
+prepc_after(help-16, talking-9)
+det(fellow-12, the-11)
+prep_to(talking-9, fellow-12)
+nsubj(help-16, he-13)
+aux(help-16, could-14)
+neg(help-16, not-15)
+conj_and(had-2, help-16)
+dobj(help-16, me-17)
+
+=========
+
+nsubj(put-2, He-1)
+root(ROOT-0, put-2)
+det(order-6, a-4)
+nn(order-6, service-5)
+prep_in(put-2, order-6)
+
+=========
+
+poss(christmas-3, Our-1)
+nn(christmas-3, TV-2)
+nsubjpass(repaired-8, christmas-3)
+advmod(repaired-8, present-4)
+aux(repaired-8, did-5)
+neg(repaired-8, not-6)
+auxpass(repaired-8, get-7)
+root(ROOT-0, repaired-8)
+det(day-11, the-10)
+prep_until(repaired-8, day-11)
+prep_after(repaired-8, Christmas-13)
+
+=========
+
+nsubj(wont-2, I-1)
+dep('s-7, wont-2)
+aux(ordering-4, be-3)
+dep(wont-2, ordering-4)
+advmod(ordering-4, anymore-5)
+nsubj('s-7, tv-6)
+root(ROOT-0, 's-7)
+prep_on('s-7, line-9)
+

@@ -1,0 +1,2 @@
+The_DT TV_NN is_VBZ good_JJ ,_, but_CC the_DT dimensions_NNS listed_VBN are_VBP incorrect_JJ ._.
+It_PRP is_VBZ closer_JJR to_TO 2.25_CD x_SYM 18.2_CD x_SYM 11.2_CD inches_NNS ..._:

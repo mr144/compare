@@ -1,0 +1,35 @@
+=========
+
+dep(cell-4, amazing-1)
+conj_and(amazing-1, fast-3)
+dep(cell-4, fast-3)
+root(ROOT-0, cell-4)
+
+=========
+
+amod(size-2, nice-1)
+nsubj(like-6, size-2)
+neg(small-5, not-4)
+amod(size-2, small-5)
+root(ROOT-0, like-6)
+acomp(like-6, iphone-7)
+neg(big-11, not-9)
+advmod(big-11, too-10)
+acomp(like-6, big-11)
+conj_and(iphone-7, big-11)
+prep_like(like-6, S2-13)
+
+=========
+
+advmod(internet-2, fast-1)
+root(ROOT-0, internet-2)
+
+=========
+
+det(i-4, the-1)
+amod(i-4, best-2)
+nn(i-4, cell-3)
+nsubj(seen-6, i-4)
+advmod(seen-6, ever-5)
+root(ROOT-0, seen-6)
+

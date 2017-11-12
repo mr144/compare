@@ -1,0 +1,103 @@
+=========
+
+nsubj(agree-2, I-1)
+root(ROOT-0, agree-2)
+det(comment-7, every-4)
+num(comment-7, one-5)
+nn(comment-7, star-6)
+prep_with(agree-2, comment-7)
+partmod(comment-7, made-8)
+
+=========
+
+nsubj(using-4, I-1)
+aux(using-4, have-2)
+aux(using-4, been-3)
+root(ROOT-0, using-4)
+dobj(using-4, Nikons-5)
+prep_since(using-4, 1968-7)
+nn(FTN-10, Nikon-9)
+abbrev(1968-7, FTN-10)
+nsubj(use-14, I-12)
+advmod(use-14, currently-13)
+dep(using-4, use-14)
+det(D300-17, a-15)
+nn(D300-17, Nikon-16)
+dobj(use-14, D300-17)
+det(D200-20, a-19)
+dobj(use-14, D200-20)
+conj_and(D300-17, D200-20)
+det(range-23, a-22)
+dobj(use-14, range-23)
+conj_and(D300-17, range-23)
+nn(Lens-26, Nikon-25)
+prep_of(range-23, Lens-26)
+
+=========
+
+nsubj(is-2, This-1)
+root(ROOT-0, is-2)
+amod(doubt-5, witout-4)
+dep(is-2, doubt-5)
+det(camera-9, the-7)
+amod(camera-9, worst-8)
+appos(doubt-5, camera-9)
+dobj(used-13, camera-9)
+nsubj(used-13, I-10)
+aux(used-13, have-11)
+advmod(used-13, ever-12)
+rcmod(camera-9, used-13)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+poss(wife-6, my-5)
+prep_for(this-3, wife-6)
+nsubj(use-9, I-8)
+conj_and(bought-2, use-9)
+dobj(use-9, it-10)
+advmod(climb-13, when-11)
+nsubj(climb-13, I-12)
+advcl(use-9, climb-13)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, biggest-2)
+nsubj(is-4, problem-3)
+root(ROOT-0, is-4)
+nsubj(focus-8, it-5)
+aux(focus-8, will-6)
+neg(focus-8, not-7)
+ccomp(is-4, focus-8)
+nsubj(one-13, this-10)
+cop(one-13, is-11)
+quantmod(one-13, only-12)
+conj_and(is-4, one-13)
+det(problems-17, the-15)
+amod(problems-17, many-16)
+prep_of(one-13, problems-17)
+advmod(mentioned-19, already-18)
+partmod(problems-17, mentioned-19)
+
+=========
+
+mark(give-5, If-1)
+nn(trys-3, somebody-2)
+nsubj(give-5, trys-3)
+aux(give-5, to-4)
+csubj(refuse-8, give-5)
+iobj(give-5, you-6)
+dobj(give-5, one-7)
+root(ROOT-0, refuse-8)
+dobj(refuse-8, it-9)
+
+=========
+
+nsubj(bad-4, It-1)
+cop(bad-4, 's-2)
+advmod(bad-4, that-3)
+root(ROOT-0, bad-4)
+

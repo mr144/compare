@@ -1,0 +1,111 @@
+=========
+
+nsubj(doing-4, i-1)
+aux(doing-4, have-2)
+aux(doing-4, been-3)
+root(ROOT-0, doing-4)
+dobj(doing-4, photography-5)
+amod(years-8, more-7)
+prep_for(photography-5, years-8)
+mark(want-11, than-9)
+nsubj(want-11, i-10)
+xsubj(admit-13, i-10)
+advcl(doing-4, want-11)
+aux(admit-13, to-12)
+xcomp(want-11, admit-13)
+
+=========
+
+poss(digital-3, my-1)
+amod(digital-3, first-2)
+nsubj(fuji-6, digital-3)
+cop(fuji-6, was-4)
+det(fuji-6, a-5)
+root(ROOT-0, fuji-6)
+nsubj(loved-9, i-8)
+conj_and(fuji-6, loved-9)
+dobj(loved-9, it-10)
+
+=========
+
+det(camera-2, this-1)
+nsubj(has-3, camera-2)
+root(ROOT-0, has-3)
+advmod(poor-5, very-4)
+amod(focus-7, poor-5)
+nn(focus-7, quality-6)
+dobj(has-3, focus-7)
+advmod(has-3, even-9)
+det(shot-13, a-11)
+amod(shot-13, still-12)
+prep_with(even-9, shot-13)
+
+=========
+
+nsubj(manual-3, it-1)
+cop(manual-3, is-2)
+root(ROOT-0, manual-3)
+amod(settings-6, automatic-5)
+nsubj(poor-8, settings-6)
+cop(poor-8, are-7)
+conj_and(manual-3, poor-8)
+prep_at(poor-8, best-10)
+
+=========
+
+nsubj(tried-2, i-1)
+nsubj(gave-6, i-1)
+nsubj(sending-9, i-1)
+root(ROOT-0, tried-2)
+prep_for(tried-2, days-4)
+conj_and(tried-2, gave-6)
+prt(gave-6, up-7)
+conj_and(tried-2, sending-9)
+xcomp(tried-2, sending-9)
+dobj(sending-9, it-10)
+advmod(sending-9, back-11)
+
+=========
+
+nsubj(ended-2, i-1)
+root(ROOT-0, ended-2)
+prt(ended-2, up-3)
+det(sony-6, a-5)
+prep_with(ended-2, sony-6)
+nsubj(gold-9, sony-6)
+cop(gold-9, is-8)
+rcmod(sony-6, gold-9)
+
+=========
+
+nsubj(give-4, i-1)
+aux(give-4, can-2)
+neg(give-4, not-3)
+dep(requires-15, give-4)
+iobj(give-4, it-5)
+det(rating-7, any-6)
+dobj(give-4, rating-7)
+nsubj(bad-12, it-9)
+nsubj(amazon-14, it-9)
+cop(bad-12, is-10)
+dep(bad-12, that-11)
+dep(give-4, bad-12)
+dep(give-4, amazon-14)
+conj_but(bad-12, amazon-14)
+root(ROOT-0, requires-15)
+det(star-17, a-16)
+nsubj(requires-15, star-17)
+
+=========
+
+aux(fooled-4, do-1)
+neg(fooled-4, not-2)
+auxpass(fooled-4, be-3)
+ccomp(gives-8, fooled-4)
+det(review-7, this-6)
+nsubj(gives-8, review-7)
+root(ROOT-0, gives-8)
+iobj(gives-8, it-9)
+det(ZIP-11, a-10)
+dobj(gives-8, ZIP-11)
+

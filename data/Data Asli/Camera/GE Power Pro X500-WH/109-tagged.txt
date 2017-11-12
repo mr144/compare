@@ -1,0 +1,4 @@
+Great_JJ item_NN &_CC price_NN ._.
+Love_NNP the_DT powerful_JJ zoom_NN ._.
+Camera_NN had_VBD in_IN the_DT past_NN only_RB zoomed_VBD in_RP to_TO a_DT 4_CD or_CC 5X_CD ._.
+This_DT new_JJ one_CD is_VBZ 15_CD !!_NN

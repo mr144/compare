@@ -1,0 +1,28 @@
+=========
+
+det(screen-2, the-1)
+nsubj(speed-10, screen-2)
+cop(speed-10, is-3)
+amod(speed-10, big-4)
+advmod(bright-7, very-6)
+conj_and(big-4, bright-7)
+amod(speed-10, bright-7)
+amod(speed-10, great-9)
+root(ROOT-0, speed-10)
+
+=========
+
+det(phone-2, the-1)
+nsubj(amazing-5, phone-2)
+cop(amazing-5, is-3)
+advmod(amazing-5, just-4)
+root(ROOT-0, amazing-5)
+cop(all-8, is-7)
+conj_and(amazing-5, all-8)
+conj_and(amazing-5, more-10)
+conj_and(all-8, more-10)
+dep(say-14, that-11)
+det(info-13, the-12)
+nsubj(say-14, info-13)
+ccomp(amazing-5, say-14)
+

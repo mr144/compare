@@ -1,0 +1,2 @@
+I_PRP want_VBP to_TO now_RB if_IN the_DT Atrix_NNP came_VBD with_IN 850_CD band_NN wcdma_NN ?_.
+Im_NN from_IN Costa_NNP Rica_NNP and_CC that_DT band_NN is_VBZ need_NN for_IN 3G_NNP

@@ -1,0 +1,37 @@
+=========
+
+mark(afford-5, As-1)
+nsubj(afford-5, I-2)
+aux(afford-5, could-3)
+neg(afford-5, not-4)
+advcl(think-13, afford-5)
+det(phone-10, a-6)
+advmod(priced-8, high-7)
+amod(phone-10, priced-8)
+amod(phone-10, smart-9)
+dobj(afford-5, phone-10)
+nsubj(think-13, I-12)
+root(ROOT-0, think-13)
+nsubj(made-16, I-14)
+aux(made-16, have-15)
+ccomp(think-13, made-16)
+det(decision-19, a-17)
+amod(decision-19, wise-18)
+dobj(made-16, decision-19)
+
+=========
+
+nsubj(using-4, I-1)
+aux(using-4, have-2)
+aux(using-4, been-3)
+ccomp(like-11, using-4)
+dobj(using-4, this-5)
+det(month-8, a-7)
+prep_for(this-5, month-8)
+nsubj(like-11, I-10)
+root(ROOT-0, like-11)
+nsubj(much-14, it-12)
+advmod(much-14, very-13)
+xcomp(like-11, much-14)
+prep_in(much-14, general-16)
+

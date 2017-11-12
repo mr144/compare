@@ -1,0 +1,28 @@
+=========
+
+det(product-2, The-1)
+nsubj(ok-4, product-2)
+cop(ok-4, is-3)
+root(ROOT-0, ok-4)
+
+=========
+
+det(system-3, The-1)
+nn(system-3, touch-2)
+nsubj(work-6, system-3)
+aux(work-6, does-4)
+neg(work-6, not-5)
+root(ROOT-0, work-6)
+amod(devices-9, other-8)
+prep_as(work-6, devices-9)
+amod(brands-12, other-11)
+prep_from(work-6, brands-12)
+
+=========
+
+det(things-3, The-1)
+amod(things-3, other-2)
+nsubj(work-4, things-3)
+root(ROOT-0, work-4)
+acomp(work-4, perfect-5)
+

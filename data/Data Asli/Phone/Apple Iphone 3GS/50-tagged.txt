@@ -1,0 +1,4 @@
+i_FW want_VBP to_TO know_VB if_IN this_DT phone_NN is_VBZ AT&T_NNP -RRB-_-RRB- -RRB-_-RRB- i_FW want_VBP to_TO bay_NN it_PRP ._.
+please_VB understand_VB ._.
+I_PRP think_VBP ,_, it_PRP is_VBZ the_DT best_JJS smartphone_NN ._.
+thnx_FW thnx_FW thnx_FW thnx_FW thnx_FW

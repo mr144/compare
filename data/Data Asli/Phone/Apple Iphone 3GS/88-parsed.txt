@@ -1,0 +1,29 @@
+=========
+
+det(phone-2, This-1)
+nsubj(broke-3, phone-2)
+root(ROOT-0, broke-3)
+num(days-6, 2-5)
+prep_after(broke-3, days-6)
+prep_of(days-6, use-8)
+
+=========
+
+det(button-3, The-1)
+nn(button-3, home-2)
+nsubj(stopped-4, button-3)
+root(ROOT-0, stopped-4)
+xcomp(stopped-4, working-5)
+amod(cut-7, sound-6)
+dobj(working-5, cut-7)
+prt(working-5, off-8)
+det(speakers-11, the-10)
+nsubj(stopped-12, speakers-11)
+conj_and(stopped-4, stopped-12)
+xcomp(stopped-12, working-13)
+
+=========
+
+nsubj(buy-2, Terrible-1)
+root(ROOT-0, buy-2)
+

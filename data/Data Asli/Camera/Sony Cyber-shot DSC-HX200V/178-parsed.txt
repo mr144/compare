@@ -1,0 +1,61 @@
+=========
+
+nsubj(have-2, I-1)
+xsubj(concur-4, I-1)
+root(ROOT-0, have-2)
+aux(concur-4, to-3)
+xcomp(have-2, concur-4)
+nn(guy-8, tech-7)
+prep_with(concur-4, guy-8)
+
+=========
+
+poss(review-2, His-1)
+nsubj(good-5, review-2)
+cop(good-5, is-3)
+advmod(good-5, as-4)
+root(ROOT-0, good-5)
+det(camera-8, the-7)
+prep_as(good-5, camera-8)
+
+=========
+
+nsubj(impressed-4, I-1)
+cop(impressed-4, am-2)
+advmod(impressed-4, very-3)
+root(ROOT-0, impressed-4)
+det(quality-8, the-6)
+amod(quality-8, high-7)
+prep_with(impressed-4, quality-8)
+det(lens-12, the-10)
+nn(lens-12, Zeiss-11)
+prep_of(quality-8, lens-12)
+det(range-16, the-14)
+amod(range-16, fantastic-15)
+prep_with(impressed-4, range-16)
+conj_and(quality-8, range-16)
+
+=========
+
+det(stabilization-3, The-1)
+nn(stabilization-3, image-2)
+nsubj(better-6, stabilization-3)
+cop(better-6, is-4)
+advmod(better-6, much-5)
+root(ROOT-0, better-6)
+mark(anticipate-10, than-7)
+nsubj(anticipate-10, one-8)
+aux(anticipate-10, would-9)
+advcl(better-6, anticipate-10)
+
+=========
+
+nsubj(a-4, This-1)
+cop(a-4, is-2)
+advmod(a-4, truly-3)
+root(ROOT-0, a-4)
+rcmod(a-4, carry-5)
+nsubj(camera-8, it-6)
+advmod(camera-8, anywhere-7)
+xcomp(carry-5, camera-8)
+

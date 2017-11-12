@@ -1,0 +1,40 @@
+=========
+
+advmod(good-3, Very-1)
+advmod(good-3, very-2)
+amod(TV-5, good-3)
+amod(TV-5, smart-4)
+nsubj(recommended-10, TV-5)
+appos(TV-5, I-7)
+advmod(highly-9, highly-8)
+amod(I-7, highly-9)
+root(ROOT-0, recommended-10)
+
+=========
+
+mark(looking-4, If-1)
+nsubj(looking-4, you-2)
+aux(looking-4, are-3)
+advcl(option-13, looking-4)
+amod(tv-7, smart-6)
+prep_for(looking-4, tv-7)
+nsubj(option-13, this-9)
+cop(option-13, is-10)
+poss(option-13, your-11)
+amod(option-13, best-12)
+root(ROOT-0, option-13)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+prep_before(bought-2, one-5)
+tmod(bought-2, month-6)
+advmod(are-11, until-8)
+advmod(until-8, now-9)
+expl(are-11, there-10)
+conj_and(bought-2, are-11)
+det(issues-13, no-12)
+nsubj(are-11, issues-13)
+

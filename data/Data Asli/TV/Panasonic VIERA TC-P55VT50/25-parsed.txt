@@ -1,0 +1,53 @@
+=========
+
+det(TV-2, This-1)
+nsubj(everything-4, TV-2)
+cop(everything-4, is-3)
+root(ROOT-0, everything-4)
+dobj(expected-6, everything-4)
+nsubj(expected-6, I-5)
+rcmod(everything-4, expected-6)
+
+=========
+
+nsubj(delivered-2, Amazon-1)
+root(ROOT-0, delivered-2)
+dobj(delivered-2, it-3)
+num(days-5, 3-4)
+tmod(delivered-2, days-5)
+mark(bought-8, after-6)
+nsubj(bought-8, I-7)
+advcl(delivered-2, bought-8)
+dobj(bought-8, it-9)
+det(charge-12, no-11)
+prep_at(bought-8, charge-12)
+
+=========
+
+nsubj(asked-5, I-1)
+aux(asked-5, could-2)
+neg(asked-5, not-3)
+aux(asked-5, have-4)
+root(ROOT-0, asked-5)
+det(experience-9, a-7)
+amod(experience-9, better-8)
+prep_for(asked-5, experience-9)
+
+=========
+
+nn(Plasma-2, Best-1)
+nsubj(range-9, Plasma-2)
+det(market-5, the-4)
+prep_on(Plasma-2, market-5)
+det(price-8, this-7)
+prep_in(market-5, price-8)
+root(ROOT-0, range-9)
+
+=========
+
+nsubj(TV-5, It-1)
+cop(TV-5, is-2)
+det(TV-5, the-3)
+amod(TV-5, best-4)
+root(ROOT-0, TV-5)
+

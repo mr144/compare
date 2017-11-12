@@ -1,0 +1,26 @@
+=========
+
+det(lens-4, The-1)
+amod(lens-4, carl-2)
+nn(lens-4, zeiss-3)
+nsubj(incredible-6, lens-4)
+cop(incredible-6, is-5)
+root(ROOT-0, incredible-6)
+
+=========
+
+nsubj(easy-3, Features-1)
+cop(easy-3, are-2)
+root(ROOT-0, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+det(blow-9, the-7)
+nn(blow-9, photos-8)
+nsubj(look-15, blow-9)
+advmod(look-15, up-10)
+number(x-13, 20-12)
+num(30-14, x-13)
+prep_to(up-10, 30-14)
+conj_and(easy-3, look-15)
+acomp(look-15, clear-16)
+

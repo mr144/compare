@@ -1,0 +1,142 @@
+=========
+
+nsubj(bought-2, I-1)
+nsubj(thought-15, I-1)
+root(ROOT-0, bought-2)
+det(model-5, the-3)
+amod(model-5, LK520-4)
+dobj(bought-2, model-5)
+poss(1080p-9, 32-7)
+appos(model-5, 1080p-9)
+det(store-13, another-12)
+prep_from(bought-2, store-13)
+conj_and(bought-2, thought-15)
+nsubj(post-18, I-16)
+aux(post-18, did-17)
+ccomp(thought-15, post-18)
+det(review-21, a-19)
+amod(review-21, helpful-20)
+dobj(post-18, review-21)
+
+=========
+
+root(ROOT-0, Pros-1)
+nn(quality-6, Very-3)
+amod(quality-6, good-4)
+nn(quality-6, image-5)
+dep(Pros-1, quality-6)
+
+=========
+
+amod(amount-2, Good-1)
+root(ROOT-0, amount-2)
+conj_and(amount-2, variety-4)
+prep_of(amount-2, conections-6)
+
+=========
+
+nsubj(base-2, Sturdy-1)
+root(ROOT-0, base-2)
+prep_with(base-2, swivel-4)
+
+=========
+
+advmod(lightweight-2, pretty-1)
+root(ROOT-0, lightweight-2)
+advmod(wallmountable-5, easily-4)
+conj_and(lightweight-2, wallmountable-5)
+
+=========
+
+amod(tweaking-3, Great-1)
+nn(tweaking-3, image-2)
+nsubj(feature-4, tweaking-3)
+root(ROOT-0, feature-4)
+
+=========
+
+root(ROOT-0, Cons-1)
+nn(ratio-4, Contrast-3)
+nsubj(be-6, ratio-4)
+aux(be-6, could-5)
+dep(Cons-1, be-6)
+det(little-8, a-7)
+npadvmod(higher-9, little-8)
+advmod(be-6, higher-9)
+cc(see-15, but-10)
+advmod(see-15, honestly-11)
+nsubj(see-15, I-12)
+aux(see-15, do-13)
+neg(see-15, not-14)
+dep(higher-9, see-15)
+dobj(see-15, much-16)
+det(difference-19, a-18)
+prep_of(much-16, difference-19)
+poss(choices-24, my-21)
+amod(choices-24, other-22)
+nn(choices-24, tv-23)
+prep_from(see-15, choices-24)
+
+=========
+
+advmod(bad-2, Too-1)
+advmod(thinner-9, bad-2)
+nsubj(thinner-9, it-3)
+nsubj(thick-14, it-3)
+cop(thinner-9, is-4)
+neg(thinner-9, not-5)
+det(bit-8, a-6)
+amod(bit-8, little-7)
+npadvmod(thinner-9, bit-8)
+root(ROOT-0, thinner-9)
+npadvmod(thick-14, its-11)
+neg(that-13, not-12)
+amod(its-11, that-13)
+conj_but(thinner-9, thick-14)
+advmod(thinner-9, at-15)
+pobj(at-15, all-16)
+
+=========
+
+dep(buttons-13, I-2)
+dep(I-2, love-3)
+det(tvs-8, those-4)
+amod(tvs-8, super-5)
+amod(tvs-8, thin-6)
+nn(tvs-8, LED-7)
+pobj(love-3, tvs-8)
+det(actual-12, No-11)
+nsubj(buttons-13, actual-12)
+dep(use-21, buttons-13)
+det(TV-16, the-15)
+prep_on(buttons-13, TV-16)
+dobj(buttons-13, itself-17)
+nsubj(use-21, you-19)
+aux(use-21, must-20)
+root(ROOT-0, use-21)
+det(remote-23, a-22)
+dobj(use-21, remote-23)
+
+=========
+
+nsubj(ft-17, Sucks-2)
+mark(lose-5, if-3)
+nsubj(lose-5, you-4)
+nsubj(have-9, you-4)
+xsubj(buy-11, you-4)
+dep(Sucks-2, lose-5)
+det(remote-7, the-6)
+dobj(lose-5, remote-7)
+dep(Sucks-2, have-9)
+conj_and(lose-5, have-9)
+aux(buy-11, to-10)
+xcomp(have-9, buy-11)
+det(Stay-14, another-12)
+dep(buy-11, Stay-14)
+prep_about(buy-11, 3-4-16)
+root(ROOT-0, ft-17)
+prt(ft-17, away-18)
+det(image-22, the-20)
+amod(image-22, best-21)
+prep_for(ft-17, image-22)
+

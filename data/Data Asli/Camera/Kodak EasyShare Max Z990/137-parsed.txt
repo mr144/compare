@@ -1,0 +1,318 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(camera-5, this-4)
+dobj(had-3, camera-5)
+quantmod(2-7, about-6)
+num(weeks-8, 2-7)
+npadvmod(now-9, weeks-8)
+advmod(had-3, now-9)
+
+=========
+
+det(time-3, that-2)
+prep_in(put-7, time-3)
+nsubj(put-7, I-4)
+nsubj(went-14, I-4)
+aux(put-7, have-5)
+neg(put-7, not-6)
+root(ROOT-0, put-7)
+det(camera-9, the-8)
+dobj(put-7, camera-9)
+advmod(once-11, down-10)
+advmod(put-7, once-11)
+aux(went-14, have-13)
+conj_and(put-7, went-14)
+det(setting-18, every-16)
+amod(setting-18, single-17)
+prep_through(went-14, setting-18)
+prep_through(went-14, menu-20)
+conj_and(setting-18, menu-20)
+mark(knew-23, until-21)
+nsubj(knew-23, I-22)
+advcl(went-14, knew-23)
+det(camera-25, the-24)
+dobj(knew-23, camera-25)
+det(back-28, the-27)
+prep_like(knew-23, back-28)
+poss(hand-31, my-30)
+prep_of(back-28, hand-31)
+
+=========
+
+nsubj(review-8, That-1)
+auxpass(said-3, being-2)
+partmod(That-1, said-3)
+advmod(said-3, here-5)
+cop(review-8, is-6)
+poss(review-8, my-7)
+root(ROOT-0, review-8)
+
+=========
+
+poss(use-3, My-1)
+amod(use-3, first-2)
+nsubj(was-7, use-3)
+det(camera-6, this-5)
+prep_of(use-3, camera-6)
+root(ROOT-0, was-7)
+det(trip-12, a-9)
+nn(trip-12, beach-10)
+nn(trip-12, vacation-11)
+prep_on(was-7, trip-12)
+
+=========
+
+cc(provides-25, And-1)
+dep(learned-5, what-2)
+dobj(is-9, what-2)
+nsubj(learned-5, I-3)
+advmod(learned-5, first-4)
+dep(provides-25, learned-5)
+advmod(camera-8, about-6)
+det(camera-8, this-7)
+nsubj(is-9, camera-8)
+ccomp(learned-5, is-9)
+complm(takes-12, that-10)
+nsubj(takes-12, it-11)
+ccomp(is-9, takes-12)
+advmod(decent-14, really-13)
+amod(pictures-15, decent-14)
+dobj(takes-12, pictures-15)
+amod(light-18, high-17)
+prep_in(pictures-15, light-18)
+dobj(takes-12, all-20)
+conj_and(pictures-15, all-20)
+det(modes-23, the-22)
+prep_of(all-20, modes-23)
+nsubj(provides-25, it-24)
+root(ROOT-0, provides-25)
+
+=========
+
+cc(lets-15, And-1)
+det(options-4, the-3)
+prep_with(lets-15, options-4)
+nsubj(gives-6, it-5)
+rcmod(options-4, gives-6)
+dobj(gives-6, you-7)
+poss(mode-11, amanual-9)
+prep_in(gives-6, mode-11)
+nsubj(lets-15, it-13)
+advmod(lets-15, really-14)
+root(ROOT-0, lets-15)
+nsubj(want-20, you-16)
+dep(want-20, customize-17)
+advmod(want-20, how-18)
+nsubj(want-20, you-19)
+xcomp(lets-15, want-20)
+nsubj(photo-22, you-21)
+xcomp(want-20, photo-22)
+
+=========
+
+det(hand-4, the-2)
+amod(hand-4, other-3)
+prep_on(boasts-8, hand-4)
+det(camera-7, this-6)
+nsubj(boasts-8, camera-7)
+root(ROOT-0, boasts-8)
+det(iso-12, a-9)
+amod(iso-12, top-10)
+num(iso-12, 6400-11)
+dobj(boasts-8, iso-12)
+
+=========
+
+nsubj(tricky-3, Iso-1)
+cop(tricky-3, is-2)
+root(ROOT-0, tricky-3)
+det(camera-6, any-5)
+prep_on(tricky-3, camera-6)
+det(one-9, this-8)
+nsubj(useless-12, one-9)
+cop(useless-12, is-10)
+advmod(useless-12, practically-11)
+conj_but(tricky-3, useless-12)
+num(iso-15, 400-14)
+prep_after(useless-12, iso-15)
+
+=========
+
+det(images-2, The-1)
+nsubj(horrible-5, images-2)
+cop(horrible-5, are-3)
+advmod(horrible-5, just-4)
+root(ROOT-0, horrible-5)
+
+=========
+
+advmod(auto-focus-4, Now-1)
+advmod(auto-focus-4, about-2)
+det(auto-focus-4, the-3)
+root(ROOT-0, auto-focus-4)
+
+=========
+
+advmod(much-2, As-1)
+root(ROOT-0, much-2)
+mark(like-6, as-3)
+nsubj(like-6, I-4)
+dep(much-2, like-6)
+det(camera-9, this-8)
+dobj(like-6, camera-9)
+
+=========
+
+det(AF-3, This-1)
+amod(AF-3, continuous-2)
+nsubj(driven-5, AF-3)
+aux(driven-5, has-4)
+root(ROOT-0, driven-5)
+dobj(driven-5, me-6)
+advmod(driven-5, up-7)
+det(wall-9, the-8)
+pobj(up-7, wall-9)
+
+=========
+
+dep(likely-4, So-1)
+nsubj(likely-4, it-2)
+cop(likely-4, is-3)
+root(ROOT-0, likely-4)
+nsubj(want-7, you-5)
+xsubj(use-9, you-5)
+aux(want-7, 'll-6)
+ccomp(likely-4, want-7)
+aux(use-9, to-8)
+xcomp(want-7, use-9)
+det(AF-12, the-10)
+amod(AF-12, single-11)
+dobj(use-9, AF-12)
+
+=========
+
+nsubj(is-5, Video-1)
+det(camera-4, this-3)
+prep_on(Video-1, camera-4)
+root(ROOT-0, is-5)
+prep_on(is-5, par-7)
+det(quality-10, the-9)
+prep_with(par-7, quality-10)
+prep_of(quality-10, photos-12)
+
+=========
+
+neg(best-3, Not-1)
+det(best-3, the-2)
+nsubj(1080p-8, best-3)
+nsubj(smooth-12, best-3)
+prep(best-3, but-4)
+dep(but-4, it-5)
+cop(1080p-8, is-6)
+advmod(1080p-8, still-7)
+root(ROOT-0, 1080p-8)
+cop(smooth-12, is-10)
+advmod(smooth-12, relatively-11)
+conj_and(1080p-8, smooth-12)
+mark(is-15, if-13)
+nsubj(is-15, it-14)
+ccomp(smooth-12, is-15)
+det(tripod-18, a-17)
+prep_on(is-15, tripod-18)
+
+=========
+
+nsubj(exceptional-3, Zoom-1)
+cop(exceptional-3, is-2)
+root(ROOT-0, exceptional-3)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(camera-4, this-3)
+dobj(like-2, camera-4)
+
+=========
+
+cc(staying-6, but-1)
+nsubj(staying-6, it-2)
+aux(staying-6, will-3)
+neg(staying-6, not-4)
+aux(staying-6, be-5)
+root(ROOT-0, staying-6)
+prt(staying-6, around-7)
+advmod(long-10, very-9)
+prep_for(staying-6, long-10)
+
+=========
+
+nsubj(driven-4, It-1)
+aux(driven-4, has-2)
+advmod(driven-4, literally-3)
+root(ROOT-0, driven-4)
+nsubj(take-7, me-5)
+aux(take-7, to-6)
+xcomp(driven-4, take-7)
+det(step-9, the-8)
+dobj(take-7, step-9)
+aux(get-11, to-10)
+infmod(step-9, get-11)
+det(DSLR-15, a-12)
+nn(DSLR-15, entry-13)
+nn(DSLR-15, level-14)
+dobj(get-11, DSLR-15)
+
+=========
+
+nsubj(learned-3, I-1)
+xsubj(know-11, I-1)
+aux(learned-3, have-2)
+root(ROOT-0, learned-3)
+advmod(learned-3, enough-4)
+det(amanual-7, the-6)
+poss(mode-9, amanual-7)
+prep_in(enough-4, mode-9)
+aux(know-11, to-10)
+xcomp(learned-3, know-11)
+dep(need-14, what-12)
+nsubj(need-14, I-13)
+xsubj(know-16, I-13)
+ccomp(know-11, need-14)
+aux(know-16, to-15)
+xcomp(need-14, know-16)
+aux(handle-18, to-17)
+xcomp(know-16, handle-18)
+poss(DSLR-21, my-19)
+amod(DSLR-21, first-20)
+dobj(handle-18, DSLR-21)
+
+=========
+
+mark(like-4, If-1)
+nsubj(like-4, you-2)
+xsubj(see-6, you-2)
+aux(like-4, would-3)
+advcl(visit-17, like-4)
+aux(see-6, to-5)
+xcomp(like-4, see-6)
+det(photos-10, some-7)
+amod(photos-10, real-8)
+nn(photos-10, life-9)
+dobj(see-6, photos-10)
+partmod(photos-10, taken-11)
+det(camera-14, this-13)
+agent(taken-11, camera-14)
+nsubj(visit-17, you-15)
+aux(visit-17, can-16)
+root(ROOT-0, visit-17)
+poss(gallery-20, my-18)
+nn(gallery-20, photo-19)
+dobj(visit-17, gallery-20)
+
+=========
+
+

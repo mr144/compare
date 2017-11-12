@@ -1,0 +1,5 @@
+Love_NNP this_DT camera_NN ._.
+It_PRP takes_VBZ great_JJ pictures_NNS ,_, zoom_NN works_VBZ great_JJ and_CC has_VBZ numberous_JJ settings_NNS to_TO work_VB with_IN ._.
+Battery_NNP takes_VBZ a_DT good_JJ charge_NN and_CC lasts_VBZ ._.
+The_DT only_JJ down_JJ side_NN is_VBZ it_PRP is_VBZ tough_JJ to_TO take_VB multiple_JJ shots_NNS ._.
+Takes_VBZ a_DT few_JJ seconds_NNS in_IN between_IN shots_NNS to_TO reset_VB ._.

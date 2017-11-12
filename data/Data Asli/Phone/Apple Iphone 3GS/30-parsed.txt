@@ -1,0 +1,34 @@
+=========
+
+nsubj(unlocked-2, Ordered-1)
+root(ROOT-0, unlocked-2)
+nsubjpass(locked-6, it-4)
+auxpass(locked-6, is-5)
+conj_and(unlocked-2, locked-6)
+det(carrier-10, a-8)
+amod(carrier-10, French-9)
+agent(locked-6, carrier-10)
+nsubj(has-13, it-12)
+conj_and(unlocked-2, has-13)
+det(spot-16, a-14)
+nn(spot-16, water-15)
+dobj(has-13, spot-16)
+det(screen-19, the-18)
+prep_under(spot-16, screen-19)
+
+=========
+
+aux(believe-3, can-1)
+neg(believe-3, not-2)
+csubj(fell-5, believe-3)
+dobj(believe-3, I-4)
+root(ROOT-0, fell-5)
+prep_for(fell-5, this-7)
+
+=========
+
+aux(do-3, Do-1)
+neg(do-3, not-2)
+root(ROOT-0, do-3)
+dobj(do-3, it-4)
+

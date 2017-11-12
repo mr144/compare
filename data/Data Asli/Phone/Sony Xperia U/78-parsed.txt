@@ -1,0 +1,33 @@
+=========
+
+nsubj(works-2, Phone-1)
+nsubj(happy-7, Phone-1)
+root(ROOT-0, works-2)
+advmod(good-4, really-3)
+acomp(works-2, good-4)
+cop(happy-7, is-6)
+conj_and(works-2, happy-7)
+prep_about(happy-7, it-9)
+
+=========
+
+advmod(Android-4, Even-1)
+nsubj(Android-4, it-2)
+cop(Android-4, is-3)
+dep(runs-8, Android-4)
+num(Android-4, 2.3-5)
+advmod(runs-8, still-7)
+root(ROOT-0, runs-8)
+advmod(good-10, pretty-9)
+acomp(runs-8, good-10)
+
+=========
+
+nsubj(utube-2, Play-1)
+root(ROOT-0, utube-2)
+advmod(utube-2, smoothly-3)
+det(audio-6, the-5)
+nsubj(nice-8, audio-6)
+cop(nice-8, is-7)
+conj_and(utube-2, nice-8)
+

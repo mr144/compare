@@ -1,0 +1,71 @@
+=========
+
+aux(used-2, Have-1)
+root(ROOT-0, used-2)
+quantmod(2-5, about-4)
+num(months-6, 2-5)
+prep_for(used-2, months-6)
+advmod(learning-9, still-8)
+xcomp(used-2, learning-9)
+det(options-11, the-10)
+dobj(learning-9, options-11)
+
+=========
+
+aux(had-2, Have-1)
+root(ROOT-0, had-2)
+amod(digitals-4, multiple-3)
+dobj(had-2, digitals-4)
+num(years-7, ten-6)
+prep_over(digitals-4, years-7)
+advmod(edit-12, usually-10)
+nn(edit-12, photo-11)
+dobj(had-2, edit-12)
+conj_and(digitals-4, edit-12)
+advmod(pix-14, most-13)
+amod(edit-12, pix-14)
+
+=========
+
+nsubj(clean-8, Pix-1)
+prep_from(Pix-1, this-3)
+cop(clean-8, are-4)
+advmod(always-6, most-5)
+advmod(clean-8, always-6)
+advmod(clean-8, so-7)
+root(ROOT-0, clean-8)
+aux(require-12, do-10)
+neg(require-12, not-11)
+ccomp(clean-8, require-12)
+det(touch-up-14, any-13)
+dobj(require-12, touch-up-14)
+
+=========
+
+advmod(complaint-2, Only-1)
+root(ROOT-0, complaint-2)
+advmod(shoot-8, When-4)
+amod(camera-6, holding-5)
+nsubj(shoot-8, camera-6)
+aux(shoot-8, to-7)
+dep(tendency-16, shoot-8)
+num(hand-11, one-10)
+prep_with(shoot-8, hand-11)
+appos(hand-11, right-13)
+dep(complaint-2, tendency-16)
+aux(hit-18, to-17)
+infmod(tendency-16, hit-18)
+det(button-22, the-19)
+nn(button-22, flash-20)
+nn(button-22, on\/auto-21)
+dobj(hit-18, button-22)
+prep_with(hit-18, thumb-24)
+
+=========
+
+amod(wise-2, Other-1)
+nsubj(love-5, wise-2)
+nsubj(love-5, I-4)
+root(ROOT-0, love-5)
+dobj(love-5, it-6)
+

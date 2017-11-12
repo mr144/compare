@@ -1,0 +1,137 @@
+=========
+
+nsubj(put-4, I-1)
+aux(put-4, would-2)
+aux(put-4, have-3)
+root(ROOT-0, put-4)
+dobj(put-4, it-5)
+num(stars-8, 5-7)
+prep_at(put-4, stars-8)
+conj_but(put-4, today-11)
+quantmod(18-14, only-13)
+num(days-15, 18-14)
+prep_after(today-11, days-15)
+prep_of(days-15, use-17)
+det(picture-20, the-19)
+nsubj(disappeared-22, picture-20)
+aux(disappeared-22, has-21)
+parataxis(put-4, disappeared-22)
+
+=========
+
+nsubj(called-2, I-1)
+root(ROOT-0, called-2)
+amod(dept.-5, VIZIO-3)
+nn(dept.-5, service-4)
+dobj(called-2, dept.-5)
+nsubj(ordering-9, they-7)
+aux(ordering-9, are-8)
+conj_and(called-2, ordering-9)
+dobj(ordering-9, parts-10)
+aux(replaced-13, to-11)
+auxpass(replaced-13, be-12)
+xcomp(ordering-9, replaced-13)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(wait-4, I-1)
+root(ROOT-0, have-2)
+aux(wait-4, to-3)
+xcomp(have-2, wait-4)
+quantmod(5-6, about-5)
+num(days-8, 5-6)
+nn(days-8, business-7)
+tmod(wait-4, days-8)
+nsubj(see-12, we-10)
+aux(see-12, shall-11)
+parataxis(have-2, see-12)
+
+=========
+
+det(days-4, The-1)
+amod(days-4, first-2)
+num(days-4, 18-3)
+nsubj(wonderful-6, days-4)
+cop(wonderful-6, were-5)
+root(ROOT-0, wonderful-6)
+det(picture-9, the-8)
+nsubj(gorgeous-11, picture-9)
+nsubj(crisp-13, picture-9)
+nsubj(clear-15, picture-9)
+cop(gorgeous-11, is-10)
+parataxis(wonderful-6, gorgeous-11)
+parataxis(wonderful-6, crisp-13)
+conj_and(gorgeous-11, crisp-13)
+parataxis(wonderful-6, clear-15)
+conj_and(gorgeous-11, clear-15)
+
+=========
+
+nn(videos-3, Watching-1)
+nn(videos-3, Amazon-2)
+nsubj(easy-5, videos-3)
+cop(easy-5, is-4)
+root(ROOT-0, easy-5)
+
+=========
+
+nsubj(looks-2, 3D-1)
+root(ROOT-0, looks-2)
+advmod(good-4, very-3)
+acomp(looks-2, good-4)
+
+=========
+
+det(price-3, the-2)
+prep_for(continue-12, price-3)
+nsubj(happy-8, I-5)
+cop(happy-8, am-6)
+advmod(happy-8, very-7)
+parataxis(continue-12, happy-8)
+advmod(continue-12, hopefully-10)
+aux(continue-12, will-11)
+root(ROOT-0, continue-12)
+advmod(happy-14, very-13)
+acomp(continue-12, happy-14)
+mark(serviced-18, after-15)
+nsubj(serviced-18, it-16)
+dep(serviced-18, gets-17)
+advcl(continue-12, serviced-18)
+
+=========
+
+root(ROOT-0, UPDATE-1)
+nsubj(know-6, I-3)
+aux(know-6, do-4)
+neg(know-6, not-5)
+dep(UPDATE-1, know-6)
+dobj(was-10, what-7)
+det(problem-9, the-8)
+nsubj(was-10, problem-9)
+ccomp(know-6, was-10)
+tmod(works-16, today-13)
+det(TV-15, the-14)
+nsubj(works-16, TV-15)
+dep(UPDATE-1, works-16)
+conj_but(know-6, works-16)
+advmod(fine-18, just-17)
+acomp(works-16, fine-18)
+det(service-21, no-20)
+prep_with(fine-18, service-21)
+partmod(service-21, required-22)
+
+=========
+
+nsubj(changed-2, I-1)
+root(ROOT-0, changed-2)
+num(stars-5, 5-4)
+prep_to(changed-2, stars-5)
+
+=========
+
+nsubj(do-2, I-1)
+root(ROOT-0, do-2)
+nn(IT-4, LOVE-3)
+dobj(do-2, IT-4)
+

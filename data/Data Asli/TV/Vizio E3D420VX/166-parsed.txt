@@ -1,0 +1,46 @@
+=========
+
+nsubj(used-2, I-1)
+root(ROOT-0, used-2)
+det(monitor-4, the-3)
+dobj(used-2, monitor-4)
+poss(monitor-8, my-6)
+amod(monitor-8, main-7)
+prep_as(used-2, monitor-8)
+amod(gaming-11, 3d-10)
+prep_for(used-2, gaming-11)
+nsubj(works-14, it-13)
+conj_and(used-2, works-14)
+advmod(works-14, flawlessly-15)
+nn(software-18, tridef-17)
+prep_with(works-14, software-18)
+amod(games-21, supported-20)
+prep_in(software-18, games-21)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(bit-4, a-3)
+nsubj(is-2, bit-4)
+det(lag-7, a-6)
+prep_of(bit-4, lag-7)
+amod(windows-10, main-9)
+prep_in(lag-7, windows-10)
+nsubj(noticed-15, I-12)
+aux(noticed-15, did-13)
+neg(noticed-15, not-14)
+conj_but(is-2, noticed-15)
+dobj(noticed-15, it-16)
+prep_during(noticed-15, gaming-18)
+
+=========
+
+amod(perception-3, Great-1)
+nn(perception-3, depth-2)
+root(ROOT-0, perception-3)
+det(games-6, both-5)
+prep_in(perception-3, games-6)
+prep_in(perception-3, video-8)
+conj_and(games-6, video-8)
+

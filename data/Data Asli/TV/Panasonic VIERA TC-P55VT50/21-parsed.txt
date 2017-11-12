@@ -1,0 +1,173 @@
+=========
+
+root(ROOT-0, Keeping-1)
+nsubj(simple-3, it-2)
+xcomp(Keeping-1, simple-3)
+
+=========
+
+root(ROOT-0, Replaces-1)
+poss(TH-42PX60U-6, my-2)
+amod(TH-42PX60U-6, older-3)
+number(&#34;-5, 42-4)
+num(TH-42PX60U-6, &#34;-5)
+dobj(Replaces-1, TH-42PX60U-6)
+nsubj(had-9, TH-42PX60U-6)
+rcmod(TH-42PX60U-6, had-9)
+amod(quality-12, excellent-10)
+nn(quality-12, picture-11)
+dobj(had-9, quality-12)
+det(TV-16, a-14)
+amod(TV-16, 720P\/1080i-15)
+prep_for(quality-12, TV-16)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(excellent-4, quality-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+
+=========
+
+nn(programming-6, Movies-1)
+dep(programming-6, Sports-3)
+dep(programming-6, Nightly-5)
+nsubj(display-14, programming-6)
+conj_and(programming-6, Cartoons-8)
+nsubj(display-14, Cartoons-8)
+advmod(channels-12, even-10)
+amod(channels-12, non-HD-11)
+conj_and(programming-6, channels-12)
+nsubj(display-14, channels-12)
+advmod(display-14, all-13)
+root(ROOT-0, display-14)
+advmod(display-14, nicely-15)
+
+=========
+
+advmod(TV-3, Much-1)
+amod(TV-3, better-2)
+nsubj(ST30-9, TV-3)
+det(year-7, the-5)
+amod(year-7, previous-6)
+prep_than(TV-3, year-7)
+cop(ST30-9, 's-8)
+root(ROOT-0, ST30-9)
+nsubjpass(used-13, ST30-9)
+auxpass(used-13, is-12)
+rcmod(ST30-9, used-13)
+poss(basement-16, our-15)
+prep_in(used-13, basement-16)
+det(kid-19, the-18)
+poss(room-21, kid-19)
+prep_in(basement-16, room-21)
+nsubj(disappointed-27, I-24)
+cop(disappointed-27, am-25)
+neg(disappointed-27, not-26)
+conj_and(ST30-9, disappointed-27)
+nsubjpass(used-13, disappointed-27)
+det(TV-30, that-29)
+prep_with(disappointed-27, TV-30)
+advmod(disappointed-27, either-31)
+
+=========
+
+nsubj(used-4, We-1)
+aux(used-4, have-2)
+neg(used-4, not-3)
+root(ROOT-0, used-4)
+det(capabilities-7, the-5)
+num(capabilities-7, 3D-6)
+dobj(used-4, capabilities-7)
+det(VT50-10, the-9)
+prep_on(capabilities-7, VT50-10)
+mark(setup-17, as-12)
+nsubj(setup-17, we-13)
+aux(setup-17, have-14)
+advmod(setup-17, already-15)
+cop(setup-17, been-16)
+advcl(used-4, setup-17)
+det(glasses-20, the-19)
+prep_with(setup-17, glasses-20)
+det(ST30-23, the-22)
+prep_on(setup-17, ST30-23)
+nsubj(interchangeable-29, they-26)
+cop(interchangeable-29, are-27)
+neg(interchangeable-29, not-28)
+conj_and(used-4, interchangeable-29)
+npadvmod(excellent-32, 3D-31)
+dep(interchangeable-29, excellent-32)
+det(ST30-35, the-34)
+prep_on(excellent-32, ST30-35)
+
+=========
+
+nsubjpass(located-3, TV-1)
+auxpass(located-3, is-2)
+root(ROOT-0, located-3)
+det(room-8, a-5)
+advmod(bright-7, fairly-6)
+amod(room-8, bright-7)
+prep_in(located-3, room-8)
+prep(room-8, with-9)
+pobj(with-9, plenty-10)
+prep_of(plenty-10, windows-12)
+det(issues-16, no-15)
+pobj(with-9, issues-16)
+conj_and(plenty-10, issues-16)
+det(result-19, a-18)
+prep_as(located-3, result-19)
+
+=========
+
+nsubj(used-2, I-1)
+root(ROOT-0, used-2)
+det(settings-6, the-3)
+amod(settings-6, CNET-4)
+nn(settings-6, picture-5)
+dobj(used-2, settings-6)
+det(settings-11, the-8)
+nn(settings-11, THS-9)
+nn(settings-11, built-in-10)
+prep_over(used-2, settings-11)
+nsubj(provide-15, both-14)
+conj_but(used-2, provide-15)
+amod(quality-18, excellent-16)
+nn(quality-18, picture-17)
+dobj(provide-15, quality-18)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(regrets-4, no-3)
+dobj(have-2, regrets-4)
+prepc_after(have-2, purchasing-6)
+det(TV-8, this-7)
+dobj(purchasing-6, TV-8)
+
+=========
+
+nsubj(TV-5, It-1)
+cop(TV-5, is-2)
+det(TV-5, the-3)
+amod(TV-5, best-4)
+root(ROOT-0, TV-5)
+
+=========
+
+nsubj(TV-5, It-1)
+cop(TV-5, is-2)
+det(TV-5, the-3)
+amod(TV-5, best-4)
+root(ROOT-0, TV-5)
+
+=========
+
+nsubj(TV-5, It-1)
+cop(TV-5, is-2)
+det(TV-5, the-3)
+amod(TV-5, best-4)
+root(ROOT-0, TV-5)
+

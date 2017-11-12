@@ -1,0 +1,39 @@
+=========
+
+root(ROOT-0, Im-1)
+advmod(happy-3, very-2)
+acomp(Im-1, happy-3)
+det(LG-6, the-5)
+prep_with(happy-3, LG-6)
+num(LG-6, 42LK450-7)
+
+=========
+
+csubj(minutes-9, From-1)
+det(box-3, the-2)
+pobj(From-1, box-3)
+prepc_to(box-3, watching-5)
+cop(minutes-9, was-6)
+quantmod(20-8, about-7)
+num(minutes-9, 20-8)
+root(ROOT-0, minutes-9)
+
+=========
+
+nsubj(fabulous-3, Picture-1)
+cop(fabulous-3, is-2)
+root(ROOT-0, fabulous-3)
+
+=========
+
+nsubj(easy-3, Remote-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(navigate-5, to-4)
+xcomp(easy-3, navigate-5)
+
+=========
+
+nsubj(bargain-2, Great-1)
+root(ROOT-0, bargain-2)
+

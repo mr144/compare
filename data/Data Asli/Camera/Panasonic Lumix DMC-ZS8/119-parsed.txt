@@ -1,0 +1,141 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+det(upgrade-7, an-6)
+prep_as(bought-2, upgrade-7)
+poss(ZS-3-11, my-9)
+nn(ZS-3-11, Lumix-10)
+prep_to(bought-2, ZS-3-11)
+
+=========
+
+nsubj(believed-2, I-1)
+root(ROOT-0, believed-2)
+dobj(believed-2, that-3)
+det(upgrade-6, the-5)
+prep_with(believed-2, upgrade-6)
+nsubj(get-10, I-8)
+aux(get-10, would-9)
+parataxis(believed-2, get-10)
+amod(pictures-12, better-11)
+dobj(get-10, pictures-12)
+partmod(pictures-12, using-13)
+det(zoom-15, the-14)
+dobj(using-13, zoom-15)
+det(improvement-19, an-18)
+dobj(get-10, improvement-19)
+conj_and(pictures-12, improvement-19)
+amod(situations-22, low-light-21)
+prep_in(improvement-19, situations-22)
+
+=========
+
+nsubj(believe-2, I-1)
+root(ROOT-0, believe-2)
+complm(same-9, that-3)
+det(quality-6, the-4)
+nn(quality-6, photo-5)
+nsubj(same-9, quality-6)
+cop(same-9, is-7)
+det(same-9, the-8)
+ccomp(believe-2, same-9)
+poss(camera-13, my-11)
+amod(camera-13, old-12)
+prep_as(same-9, camera-13)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(causes-11, zoom-2)
+amod(situations-6, lower-4)
+nn(situations-6, light-5)
+prep_in(zoom-2, situations-6)
+amod(days-10, i.e.-8)
+nn(days-10, cloudy-9)
+appos(situations-6, days-10)
+root(ROOT-0, causes-11)
+det(pictures-13, the-12)
+nsubj(grainy-17, pictures-13)
+aux(grainy-17, to-14)
+cop(grainy-17, appear-15)
+xcomp(causes-11, grainy-17)
+nsubj(end-20, I-19)
+ccomp(grainy-17, end-20)
+prt(end-20, up-21)
+xcomp(end-20, deleting-22)
+dobj(deleting-22, those-23)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(poor-8, zoom-2)
+poss(ZS-8-6, my-4)
+amod(ZS-8-6, new-5)
+prep_on(zoom-2, ZS-8-6)
+cop(poor-8, is-7)
+root(ROOT-0, poor-8)
+prep_in(poor-8, quality-10)
+advmod(in-13, even-12)
+dep(quality-10, in-13)
+amod(lighting-15, good-14)
+pobj(in-13, lighting-15)
+mark(stabilized-19, while-18)
+dep(quality-10, stabilized-19)
+conj_and(in-13, stabilized-19)
+parataxis(poor-8, sitting-21)
+det(table-26, a-25)
+prep_on_top_of(sitting-21, table-26)
+
+=========
+
+nsubj(have-3, I-1)
+aux(have-3, may-2)
+root(ROOT-0, have-3)
+det(camera-6, a-4)
+amod(camera-6, defective-5)
+dobj(have-3, camera-6)
+nsubj(have-10, I-9)
+conj_and(have-3, have-10)
+det(way-12, no-11)
+dobj(have-10, way-12)
+prepc_of(way-12, knowing-14)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+prep_from(bought-2, one-5)
+poss(merchants-9, Amazon-7)
+prep_of(one-5, merchants-9)
+advmod(far-13, so-11)
+advmod(far-13, as-12)
+advmod(one-5, far-13)
+mark(go-16, as-14)
+nsubj(go-16, returns-15)
+ccomp(far-13, go-16)
+nsubj(cause-20, it-18)
+aux(cause-20, may-19)
+parataxis(bought-2, cause-20)
+dobj(cause-20, me-21)
+advmod(cause-20, more-22)
+det(headache-25, a-24)
+prep_of(cause-20, headache-25)
+prep_than(headache-25, anything-27)
+advmod(anything-27, else-28)
+
+=========
+
+nsubj(bought-4, I-1)
+aux(bought-4, should-2)
+aux(bought-4, have-3)
+root(ROOT-0, bought-4)
+advmod(bought-4, directly-5)
+prep_from(bought-4, Amazon-7)
+
+=========
+
+

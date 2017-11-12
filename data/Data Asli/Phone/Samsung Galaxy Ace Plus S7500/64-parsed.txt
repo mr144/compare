@@ -1,0 +1,41 @@
+=========
+
+nsubj(like-5, I-1)
+advmod(like-5, really-2)
+aux(like-5, do-3)
+neg(like-5, not-4)
+root(ROOT-0, like-5)
+det(smartphone-7, this-6)
+dobj(like-5, smartphone-7)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(performance-5, a-3)
+amod(performance-5, worse-4)
+dobj(has-2, performance-5)
+poss(blackberry-9, its-7)
+nn(blackberry-9, compatriot-8)
+prep_than(performance-5, blackberry-9)
+rcmod(performance-5, curve-10)
+dobj(curve-10, 9360-11)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(worse-6, it-3)
+cop(worse-6, is-4)
+advmod(worse-6, also-5)
+ccomp(think-2, worse-6)
+prep_than(worse-6, torch-8)
+
+=========
+
+advmod(excellent-6, Overall-1)
+det(smartphone-4, this-3)
+nsubj(excellent-6, smartphone-4)
+cop(excellent-6, is-5)
+root(ROOT-0, excellent-6)
+

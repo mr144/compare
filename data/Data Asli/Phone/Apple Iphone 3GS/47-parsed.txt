@@ -1,0 +1,38 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(problem-4, any-3)
+dobj(had-2, problem-4)
+det(order-7, this-6)
+prep_with(problem-4, order-7)
+nsubj(works-10, Phone-9)
+parataxis(had-2, works-10)
+mark(be-14, as-11)
+nsubj(be-14, it-12)
+aux(be-14, should-13)
+advcl(works-10, be-14)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(order-4, this-3)
+dobj(recommend-2, order-4)
+
+=========
+
+nsubj(afraid-3, I-1)
+cop(afraid-3, was-2)
+root(ROOT-0, afraid-3)
+advmod(say-8, now-5)
+nsubj(say-8, I-6)
+nsubj(buy-12, I-6)
+aux(say-8, can-7)
+ccomp(afraid-3, say-8)
+ccomp(say-8, go-9)
+advmod(go-9, ahead-10)
+ccomp(afraid-3, buy-12)
+conj_and(say-8, buy-12)
+dobj(buy-12, it-13)
+

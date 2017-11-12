@@ -1,0 +1,27 @@
+=========
+
+poss(daughter-2, My-1)
+nsubj(happy-5, daughter-2)
+cop(happy-5, was-3)
+advmod(happy-5, very-4)
+root(ROOT-0, happy-5)
+
+=========
+
+nsubj(worked-10, Item-1)
+nn(time-4, listedOn-3)
+prep_as(Item-1, time-4)
+nsubj(described-8, item-6)
+advmod(item-6, as-7)
+parataxis(worked-10, described-8)
+root(ROOT-0, worked-10)
+advmod(worked-10, well-11)
+dep(worked-10, charged-13)
+det(hour-16, an-15)
+prep_within(charged-13, hour-16)
+
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+

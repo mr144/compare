@@ -1,0 +1,32 @@
+=========
+
+amod(camera-2, beatyful-1)
+nsubj(looks-4, camera-2)
+root(ROOT-0, looks-4)
+acomp(looks-4, awsome-5)
+
+=========
+
+advmod(use-6, just-1)
+neg(im-5, not-2)
+det(im-5, the-3)
+nn(im-5, camera-4)
+nsubj(use-6, im-5)
+root(ROOT-0, use-6)
+prep(use-6, to-7)
+cc(eather-14, but-9)
+neg(money-13, not-10)
+det(money-13, the-11)
+amod(money-13, same-12)
+nsubj(eather-14, money-13)
+dep(to-7, eather-14)
+
+=========
+
+advmod(in-2, all-1)
+root(ROOT-0, in-2)
+predet(camera.-6, all-3)
+det(camera.-6, a-4)
+amod(camera.-6, good-5)
+pobj(in-2, camera.-6)
+

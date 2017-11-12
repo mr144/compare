@@ -1,0 +1,47 @@
+=========
+
+advmod(led-6, Possibly-1)
+nsubj(led-6, one-2)
+det(worst-5, the-4)
+prep_of(one-2, worst-5)
+root(ROOT-0, led-6)
+dobj(led-6, tv-7)
+prt(led-6, out-8)
+advmod(led-6, there-9)
+
+=========
+
+advmod(back-3, So-1)
+advmod(back-3, much-2)
+dep(bleeding-5, back-3)
+amod(bleeding-5, light-4)
+root(ROOT-0, bleeding-5)
+
+=========
+
+amod(scenes-3, dark-2)
+prep_in(horrible-7, scenes-3)
+amod(light-5, back-4)
+nsubj(horrible-7, light-5)
+cop(horrible-7, is-6)
+root(ROOT-0, horrible-7)
+
+=========
+
+nsubj(returned-3, I-1)
+aux(returned-3, have-2)
+root(ROOT-0, returned-3)
+dobj(returned-3, mine-4)
+advmod(returned-3, already-5)
+
+=========
+
+dep(read-2, Please-1)
+root(ROOT-0, read-2)
+dobj(read-2, reviews-3)
+amod(sites-6, other-5)
+prep_in(reviews-3, sites-6)
+prepc_before(read-2, buying-8)
+det(TV-10, this-9)
+dobj(buying-8, TV-10)
+

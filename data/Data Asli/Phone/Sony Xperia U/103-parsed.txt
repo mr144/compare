@@ -1,0 +1,21 @@
+=========
+
+root(ROOT-0, love-1)
+det(phone-3, the-2)
+nsubj(dislike-8, phone-3)
+nsubj(dislike-8, I-5)
+aux(dislike-8, do-6)
+neg(dislike-8, not-7)
+parataxis(love-1, dislike-8)
+dobj(dislike-8, it-9)
+dep(dislike-8, hhahahahahahahah-11)
+nsubj(love-1, I-14)
+dep(servist-18, the-16)
+poss(servist-18, your-17)
+prep_like(love-1, servist-18)
+det(transportation-21, the-20)
+prep_like(love-1, transportation-21)
+conj_and(servist-18, transportation-21)
+det(produt-24, the-23)
+prep_of(transportation-21, produt-24)
+

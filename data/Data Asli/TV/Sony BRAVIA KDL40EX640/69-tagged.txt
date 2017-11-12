@@ -1,0 +1,5 @@
+As_IN you_PRP read_VBP all_PDT the_DT reviews_NNS here_RB be_VB aware_JJ that_IN they_PRP are_VBP for_IN 3_CD different_JJ Sony_NNP products_NNS ._.
+40-inch_JJ ,_, 46-inch_JJ and_CC 55-inch_JJ Sony_NNP Televisions_NNPS ._.
+Obviously_RB they_PRP are_VBP different_JJ products_NNS and_CC should_MD not_RB be_VB all_DT gathered_VBN here_RB ._.
+Each_DT shows_VBZ the_DT product_NN being_VBG reviewed_VBN in_IN small_JJ boldface_NN at_IN the_DT top_NN of_IN the_DT review_NN ._.
+Hope_NNP this_DT helps_VBZ ._.

@@ -1,0 +1,57 @@
+=========
+
+nsubj(owned-8, One-1)
+det(cameras-5, the-3)
+amod(cameras-5, best-4)
+prep_of(One-1, cameras-5)
+nsubj(owned-8, I-6)
+aux(owned-8, have-7)
+root(ROOT-0, owned-8)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(photos-3, fabulous-2)
+dobj(Takes-1, photos-3)
+complm(in-5, whether-4)
+dep(Takes-1, in-5)
+pobj(in-5, standard-6)
+conj_or(Takes-1, zoom-8)
+
+=========
+
+nsubj(purchased-3, I-1)
+advmod(purchased-3, only-2)
+root(ROOT-0, purchased-3)
+det(body-6, the-4)
+nn(body-6, camera-5)
+dobj(purchased-3, body-6)
+mark(had-10, as-7)
+nsubj(had-10, I-8)
+advmod(had-10, already-9)
+advcl(purchased-3, had-10)
+det(lens-12, a-11)
+dobj(had-10, lens-12)
+prep_from(lens-12, another-14)
+
+=========
+
+nsubj(recommend-3, I-1)
+nsubj(purchase-7, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+advmod(recommend-3, also-6)
+conj_and(recommend-3, also-6)
+conj_and(recommend-3, purchase-7)
+amod(Express-11, 6th-9)
+nn(Express-11, Ave.-10)
+prep_from(purchase-7, Express-11)
+
+=========
+
+root(ROOT-0, Thanks-1)
+det(buy-5, a-3)
+amod(buy-5, great-4)
+prep_for(Thanks-1, buy-5)
+

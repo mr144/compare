@@ -1,0 +1,37 @@
+=========
+
+nsubj(upset-4, I-1)
+cop(upset-4, am-2)
+advmod(upset-4, very-3)
+root(ROOT-0, upset-4)
+nsubj(working-8, phone-5)
+aux(working-8, is-6)
+neg(working-8, not-7)
+ccomp(upset-4, working-8)
+
+=========
+
+nsubj(upset-4, I-1)
+cop(upset-4, am-2)
+advmod(upset-4, very-3)
+root(ROOT-0, upset-4)
+nsubj(working-8, phone-5)
+aux(working-8, is-6)
+neg(working-8, not-7)
+ccomp(upset-4, working-8)
+
+=========
+
+nsubj(hurt-2, I-1)
+root(ROOT-0, hurt-2)
+
+=========
+
+nsubj(hurt-2, I-1)
+root(ROOT-0, hurt-2)
+
+=========
+
+nsubj(hurt-2, I-1)
+root(ROOT-0, hurt-2)
+

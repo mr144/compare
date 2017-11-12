@@ -1,0 +1,3 @@
+As_IN a_DT world_NN traveler_NN I_PRP wanted_VBD a_DT weatherproof_JJ ,_, dust_NN resistant_NN Primary_JJ DSLR_NNP for_IN a_DT reasonable_JJ price_NN ._.
+This_DT is_VBZ a_DT discontinued_JJ model_NN which_WDT received_VBD rave_VB reviews_NNS and_CC cost_NN 1\/3_VBP the_DT price_NN of_IN cameras_NNS with_IN similar_JJ features_NNS ._.
+The_DT shake_NN reduction_NN works_VBZ so_RB well_RB that_IN I_PRP can_MD take_VB hand_NN held_VBD pictures_NNS with_IN a_DT 300mm_JJ telephoto_NN ._.

@@ -1,0 +1,105 @@
+=========
+
+advmod(love-5, So-1)
+advmod(So-1, far-2)
+nsubj(love-5, I-3)
+advmod(love-5, really-4)
+root(ROOT-0, love-5)
+poss(camera-8, my-6)
+nn(camera-8, GE-7)
+dobj(love-5, camera-8)
+
+=========
+
+aux(had-2, Have-1)
+root(ROOT-0, had-2)
+dobj(had-2, it-3)
+quantmod(6-6, about-5)
+num(weeks-7, 6-6)
+prep_for(had-2, weeks-7)
+
+=========
+
+nsubj(taking-3, It-1)
+aux(taking-3, is-2)
+root(ROOT-0, taking-3)
+advmod(good-5, very-4)
+acomp(taking-3, good-5)
+ccomp(good-5, picturesand-6)
+det(videos-8, the-7)
+nsubj(quality-10, videos-8)
+cop(quality-10, are-9)
+ccomp(picturesand-6, quality-10)
+advmod(quality-10, also-11)
+
+=========
+
+nn(life-2, Battery-1)
+nsubj(good-5, life-2)
+nsubj(like-8, life-2)
+xsubj(have-10, life-2)
+cop(good-5, seems-3)
+advmod(good-5, pretty-4)
+root(ROOT-0, good-5)
+advmod(like-8, always-7)
+conj_but(good-5, like-8)
+aux(have-10, to-9)
+xcomp(like-8, have-10)
+det(back-ups-12, some-11)
+dobj(have-10, back-ups-12)
+prep_with(back-ups-12, me-14)
+
+=========
+
+advmod(justused-5, So-1)
+advmod(So-1, far-2)
+nsubj(justused-5, I-3)
+nsubj(gone-11, I-3)
+aux(justused-5, have-4)
+root(ROOT-0, justused-5)
+amod(batteries-7, new-6)
+dobj(justused-5, batteries-7)
+aux(gone-11, have-9)
+neg(gone-11, not-10)
+conj_and(justused-5, gone-11)
+amod(ones-14, rechargeable-13)
+prep_to(gone-11, ones-14)
+
+=========
+
+nsubj(enjoyed-3, I-1)
+aux(enjoyed-3, have-2)
+root(ROOT-0, enjoyed-3)
+det(process-5, the-4)
+dobj(enjoyed-3, process-5)
+prepc_of(process-5, getting-7)
+ccomp(getting-7, toknow-8)
+poss(camera-11, my-9)
+amod(camera-11, new-10)
+dobj(toknow-8, camera-11)
+advmod(have-14, still-13)
+ccomp(getting-7, have-14)
+conj_but(toknow-8, have-14)
+dobj(have-14, more-15)
+aux(learn-17, to-16)
+xcomp(getting-7, learn-17)
+
+=========
+
+nsubj(had-3, I-1)
+nsubj(thisseems-11, I-1)
+xsubj(offer-13, I-1)
+advmod(had-3, just-2)
+root(ROOT-0, had-3)
+det(point-5, a-4)
+dobj(had-3, point-5)
+dobj(had-3, shoot-7)
+conj_and(point-5, shoot-7)
+prep_before(point-5, this-9)
+conj_but(had-3, thisseems-11)
+aux(offer-13, to-12)
+xcomp(thisseems-11, offer-13)
+advmod(more-16, so-14)
+advmod(more-16, much-15)
+dobj(offer-13, more-16)
+

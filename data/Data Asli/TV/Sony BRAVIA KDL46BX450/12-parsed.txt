@@ -1,0 +1,30 @@
+=========
+
+advmod(set-2, Just-1)
+root(ROOT-0, set-2)
+prt(set-2, up-3)
+poss(tv-9, my-4)
+amod(tv-9, new-5)
+poss(tv-9, Sony-6)
+num(Sony-6, 46-7)
+dobj(set-2, tv-9)
+nsubj(has-12, it-11)
+conj_and(set-2, has-12)
+det(picture-15, a-13)
+amod(picture-15, great-14)
+dobj(has-12, picture-15)
+dobj(has-12, sound-17)
+conj_and(picture-15, sound-17)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+prep_on(bought-2, Amazon-5)
+nsubj(happy-10, I-7)
+cop(happy-10, am-8)
+advmod(happy-10, so-9)
+conj_and(bought-2, happy-10)
+prep_with(happy-10, it-12)
+

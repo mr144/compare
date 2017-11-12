@@ -1,0 +1,3 @@
+I_PRP am_VBP very_RB happy_JJ with_IN this_DT TCL_NNP ._.
+Had_VBD not_RB heard_VBN of_IN the_DT TCL_NNP brand_NN ._.
+But_CC the_DT TV_NN is_VBZ great_JJ ,_, especially_RB for_IN $_$ 359.00_CD FAST_NNP delivery_NN ._.

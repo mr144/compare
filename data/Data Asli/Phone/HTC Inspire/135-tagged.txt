@@ -1,0 +1,5 @@
+The_DT phone_NN is_VBZ great_JJ ,_, as_RB usually_RB for_IN HTC_NNP phones_NNS ._.
+But_CC it_PRP is_VBZ NOT_RB TRULY_RB UNLOCKED_VBN as_IN advertised_JJ ._.
+It_PRP only_RB works_VBZ fully_RB with_IN an_DT AT&T_NNP provider_NN ,_, otherwise_RB you_PRP can_MD not_RB use_VB all_PDT the_DT apps_NNS or_CC functions_NNS ._.
+For_IN example_NN you_PRP can_MD not_RB have_VB access_NN to_TO 4G_NNP or_CC 3G_NNP ,_, but_CC have_VBP only_RB access_NN to_TO edge_VB ._.
+So_RB if_IN you_PRP are_VBP looking_VBG for_IN an_DT unlocked_VBN phone_NN ,_, buy_VB it_PRP from_IN someone_NN else_RB !_.

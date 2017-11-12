@@ -1,0 +1,1 @@
+I_PRP have_VBP not_RB received_VBN the_DT GE_NNP Power_NNP Pro_FW X500-BK_NNP 16_CD MP_NNP camera_NN yet_RB nor_CC have_VBP I_PRP received_VBD responses_NNS to_TO the_DT 2_CD emails_NNS sent_VBD asking_VBG about_IN status_NN ._.

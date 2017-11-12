@@ -1,0 +1,25 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(megapixels-4, the-3)
+dobj(love-2, megapixels-4)
+advmod(easier-11, also-7)
+det(storage-9, the-8)
+nsubj(easier-11, storage-9)
+cop(easier-11, is-10)
+conj_but(love-2, easier-11)
+
+=========
+
+det(reason-3, The-1)
+amod(reason-3, real-2)
+nsubj(lenses-10, reason-3)
+aux(do-5, to-4)
+infmod(reason-3, do-5)
+dobj(do-5, Nikon-6)
+advmod(lenses-10, though-7)
+cop(lenses-10, are-8)
+det(lenses-10, the-9)
+root(ROOT-0, lenses-10)
+

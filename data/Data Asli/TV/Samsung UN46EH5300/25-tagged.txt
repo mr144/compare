@@ -1,0 +1,2 @@
+I_PRP can_MD not_RB watch_VB tv_NN only_RB after_IN 4_CD months_NNS because_IN it_PRP is_VBZ possessed_VBN and_CC turns_VBZ on_RB and_CC off_RB by_IN itself_PRP ._.
+replace_VB it_PRP ._.

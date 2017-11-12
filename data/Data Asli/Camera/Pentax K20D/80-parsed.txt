@@ -1,0 +1,83 @@
+=========
+
+cop(all-2, Is-1)
+dobj(say-5, all-2)
+csubj(WOW-7, all-2)
+nsubj(say-5, I-3)
+aux(say-5, can-4)
+rcmod(all-2, say-5)
+cop(WOW-7, is-6)
+root(ROOT-0, WOW-7)
+dep(BINGO-14, WOW-9)
+dep(WOW-9, BOUGHTAAA-11)
+parataxis(WOW-7, BINGO-14)
+
+=========
+
+root(ROOT-0, Thank-1)
+nsubj(PENTAX-3, You-2)
+ccomp(Thank-1, PENTAX-3)
+nsubj(Purcahse-10, this-4)
+cop(Purcahse-10, is-5)
+advmod(Purcahse-10, really-6)
+det(Purcahse-10, a-7)
+amod(Purcahse-10, nice-8)
+dep(PENTAX-3, Purcahse-10)
+nsubj(happy-16, I-13)
+cop(happy-16, am-14)
+advmod(happy-16, very-15)
+dep(PENTAX-3, happy-16)
+conj_and(Purcahse-10, happy-16)
+det(camera-19, this-18)
+prep_with(happy-16, camera-19)
+
+=========
+
+advmod(more-4, Once-1)
+nsubj(more-4, I-2)
+nsubj(familiar-7, I-2)
+dep(more-4, get-3)
+root(ROOT-0, more-4)
+advmod(familiar-7, more-6)
+conj_and(more-4, familiar-7)
+nn(DO-14, ALL-10)
+nn(DO-14, THIS-11)
+nn(DO-14, CAMERA-12)
+nn(DO-14, CAN-13)
+prep_with(more-4, DO-14)
+dep(ease-19, and-17)
+det(ease-19, the-18)
+dep(more-4, ease-19)
+poss(way-22, its-21)
+prep_of(ease-19, way-22)
+
+=========
+
+root(ROOT-0, watch-1)
+prt(watch-1, out-2)
+
+=========
+
+ccomp(RIGHT-6, K-20D-1)
+det(Price-4, The-3)
+nsubj(RIGHT-6, Price-4)
+cop(RIGHT-6, is-5)
+root(ROOT-0, RIGHT-6)
+conj_and(RIGHT-6, K-20D-8)
+
+=========
+
+nsubj(TIGHT-2, YOUR-1)
+root(ROOT-0, TIGHT-2)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, you-2)
+
+=========
+
+nn(R-2, Michael-1)
+nsubj(jones-3, R-2)
+root(ROOT-0, jones-3)
+

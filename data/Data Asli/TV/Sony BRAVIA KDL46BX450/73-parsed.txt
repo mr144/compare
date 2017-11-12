@@ -1,0 +1,85 @@
+=========
+
+dep(paid-3, So-1)
+nsubj(paid-3, I-2)
+nsubjpass(disappointed-23, I-2)
+root(ROOT-0, paid-3)
+det(thinking-7, a-4)
+amod(thinking-7, little-5)
+amod(thinking-7, extra-6)
+dobj(paid-3, thinking-7)
+nsubj(TV-13, this-8)
+aux(TV-13, would-9)
+cop(TV-13, be-10)
+det(TV-13, a-11)
+amod(TV-13, great-12)
+dep(paid-3, TV-13)
+mark(Sony-18, because-14)
+nsubj(Sony-18, it-15)
+cop(Sony-18, was-16)
+det(Sony-18, a-17)
+advcl(TV-13, Sony-18)
+auxpass(disappointed-23, was-20)
+det(little-22, a-21)
+dep(disappointed-23, little-22)
+conj_and(paid-3, disappointed-23)
+det(TV-26, the-25)
+prep_with(disappointed-23, TV-26)
+
+=========
+
+nsubj(do-5, It-1)
+advmod(do-5, really-2)
+aux(do-5, does-3)
+neg(do-5, not-4)
+root(ROOT-0, do-5)
+dobj(do-5, anything-6)
+amod(anything-6, special-7)
+complm(do-12, that-8)
+advmod(tvs-11, most-9)
+amod(tvs-11, other-10)
+nsubj(do-12, tvs-11)
+ccomp(do-5, do-12)
+
+=========
+
+nsubj(goes-2, Just-1)
+xsubj(show-4, Just-1)
+root(ROOT-0, goes-2)
+aux(show-4, to-3)
+xcomp(goes-2, show-4)
+complm(change-10, that-5)
+det(reputation-8, a-6)
+nn(reputation-8, companies-7)
+nsubj(change-10, reputation-8)
+aux(change-10, can-9)
+ccomp(show-4, change-10)
+
+=========
+
+aux(buy-3, Would-1)
+nsubj(buy-3, I-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, it-4)
+advmod(buy-3, again-5)
+advmod(buy-3, Maybe-6)
+
+=========
+
+nn(works-2, TV-1)
+nsubj(floored-7, works-2)
+amod(works-2, fine-3)
+amod(works-2, Im-5)
+conj_but(fine-3, Im-5)
+neg(floored-7, not-6)
+root(ROOT-0, floored-7)
+prep_about(floored-7, it-9)
+
+=========
+
+nsubj(better-3, KDL40EX640-1)
+cop(better-3, is-2)
+root(ROOT-0, better-3)
+det(TV-6, this-5)
+prep_than(better-3, TV-6)
+

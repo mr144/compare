@@ -1,0 +1,66 @@
+=========
+
+poss(downstairs-5, My-1)
+amod(downstairs-5, larger-2)
+amod(downstairs-5, Samsung-3)
+nn(downstairs-5, TV-4)
+nsubj(have-17, downstairs-5)
+rcmod(downstairs-5, has-6)
+det(difficulties-8, some-7)
+dobj(has-6, difficulties-8)
+amod(features-11, smart-10)
+prep_with(difficulties-8, features-11)
+dep(I-16, or-13)
+dep(I-16, at-14)
+pobj(at-14, least-15)
+dep(features-11, I-16)
+root(ROOT-0, have-17)
+dobj(have-17, difficulties-18)
+
+=========
+
+det(blu-rays-3, The-1)
+num(blu-rays-3, two-2)
+nsubj(have-7, blu-rays-3)
+appos(blu-rays-3, Samsung-5)
+root(ROOT-0, have-7)
+dobj(have-7, difficulties-8)
+partmod(difficulties-8, connecting-9)
+prep_with(connecting-9, Netflix-11)
+
+=========
+
+nsubj(simple-4, This-1)
+nsubj(streams-6, This-1)
+advmod(simple-4, however-2)
+cop(simple-4, is-3)
+root(ROOT-0, simple-4)
+conj_and(simple-4, streams-6)
+advmod(streams-6, effortlessly-7)
+
+=========
+
+advmod(get-4, Now-1)
+nsubj(get-4, I-2)
+aux(get-4, can-3)
+root(ROOT-0, get-4)
+poss(wife-6, my-5)
+dobj(get-4, wife-6)
+aux(start-8, to-7)
+infmod(wife-6, start-8)
+xcomp(start-8, watching-9)
+xcomp(watching-9, Breaking-10)
+acomp(Breaking-10, Bad-11)
+
+=========
+
+amod(year-2, Oh-1)
+tmod(pixelating-9, year-2)
+det(screen-4, the-3)
+nsubj(pixelating-9, screen-4)
+aux(pixelating-9, is-5)
+amod(quality-7, high-6)
+npadvmod(no-8, quality-7)
+advmod(pixelating-9, no-8)
+root(ROOT-0, pixelating-9)
+

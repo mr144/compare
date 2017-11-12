@@ -1,0 +1,51 @@
+=========
+
+advmod(came-4, Unfortunately-1)
+det(phone-3, the-2)
+nsubj(came-4, phone-3)
+root(ROOT-0, came-4)
+det(battery-8, a-6)
+amod(battery-8, damaged-7)
+prep_with(came-4, battery-8)
+nsubj(had-11, I-10)
+xsubj(buy-13, I-10)
+xsubj(use-20, I-10)
+conj_and(came-4, had-11)
+aux(buy-13, to-12)
+xcomp(had-11, buy-13)
+det(one-16, a-14)
+amod(one-16, new-15)
+dobj(buy-13, one-16)
+prep_in(buy-13, order-18)
+aux(use-20, to-19)
+xcomp(had-11, use-20)
+det(phone-22, the-21)
+dobj(use-20, phone-22)
+
+=========
+
+nsubj(diappointed-2, Very-1)
+root(ROOT-0, diappointed-2)
+
+=========
+
+nsubj(worse-3, It-1)
+cop(worse-3, is-2)
+root(ROOT-0, worse-3)
+prep_than(worse-3, iphone-5)
+prep_than(worse-3, motorola-7)
+conj_or(iphone-5, motorola-7)
+prep_than(worse-3, htc-9)
+conj_or(iphone-5, htc-9)
+prep_than(worse-3, iphone-11)
+conj_or(iphone-5, iphone-11)
+prep_than(worse-3, nokia-13)
+conj_or(iphone-5, nokia-13)
+prep_than(worse-3, even-15)
+advmod(iphone-5, even-15)
+conj_or(iphone-5, even-15)
+det(phone-19, a-16)
+amod(phone-19, google-17)
+nn(phone-19, nexus-18)
+dep(iphone-5, phone-19)
+

@@ -1,0 +1,68 @@
+=========
+
+nsubj(less-4, It-1)
+cop(less-4, is-2)
+advmod(less-4, now-3)
+root(ROOT-0, less-4)
+mark(have-10, than-5)
+det(month-7, a-6)
+nsubj(have-10, month-7)
+prep_since(month-7, i-9)
+advcl(less-4, have-10)
+det(phone-12, this-11)
+dobj(have-10, phone-12)
+nsubj(stopped-16, it-14)
+aux(stopped-16, has-15)
+advcl(less-4, stopped-16)
+conj_and(have-10, stopped-16)
+xcomp(stopped-16, working-17)
+
+=========
+
+prepc_after(told-13, having-2)
+nsubj(checked-4, it-3)
+ccomp(having-2, checked-4)
+num(persons-7, three-6)
+prep_by(checked-4, persons-7)
+appos(persons-7, technicians-9)
+nsubjpass(told-13, I-11)
+auxpass(told-13, was-12)
+root(ROOT-0, told-13)
+complm(blackberry-23, that-14)
+det(phone-16, the-15)
+nsubj(blackberry-23, phone-16)
+nsubj(sent-18, they-17)
+rcmod(phone-16, sent-18)
+dobj(sent-18, me-19)
+cop(blackberry-23, was-20)
+det(blackberry-23, a-21)
+amod(blackberry-23, refurbished-22)
+ccomp(told-13, blackberry-23)
+
+=========
+
+nsubjpass(disappointed-4, I-1)
+auxpass(disappointed-4, am-2)
+advmod(disappointed-4, totally-3)
+root(ROOT-0, disappointed-4)
+prep_in(disappointed-4, this-6)
+advmod(paid-10, especially-7)
+dep(paid-10, since-8)
+nsubj(paid-10, I-9)
+ccomp(disappointed-4, paid-10)
+det(price-12, the-11)
+dobj(paid-10, price-12)
+det(phone-16, a-14)
+amod(phone-16, NEW-15)
+prep_for(paid-10, phone-16)
+
+=========
+
+nsubj(unethical-4, This-1)
+nsubj(unfair-6, This-1)
+cop(unethical-4, is-2)
+advmod(unethical-4, totally-3)
+root(ROOT-0, unethical-4)
+conj_and(unethical-4, unfair-6)
+prep_to(unethical-4, me-8)
+

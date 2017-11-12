@@ -1,0 +1,3 @@
+Do_VBP not_RB buy_VB it_PRP ._.
+After_IN one_CD month_NN it_PRP is_VBZ down_IN the_DT tubes_NNS ._.
+I_PRP just_RB missed_VBD the_DT return_NN window_NN by_IN 4_CD days_NNS ..._: ._.

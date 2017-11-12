@@ -1,0 +1,62 @@
+=========
+
+nsubj(arrived-2, It-1)
+root(ROOT-0, arrived-2)
+det(box-7, a-4)
+amod(box-7, tiny-5)
+nn(box-7, HTC-6)
+prep_in(arrived-2, box-7)
+
+=========
+
+nsubj(include-2, Parts-1)
+root(ROOT-0, include-2)
+dobj(include-2, phone-3)
+nn(Battery-6, Li-5)
+dobj(include-2, Battery-6)
+conj_and(phone-3, Battery-6)
+nn(Charger-9, Wall-8)
+dobj(include-2, Charger-9)
+conj_and(phone-3, Charger-9)
+
+=========
+
+det(user-2, No-1)
+root(ROOT-0, user-2)
+dep(user-2, manual-3)
+nn(cable-6, computer-5)
+dep(user-2, cable-6)
+conj_nor(manual-3, cable-6)
+
+=========
+
+nsubj(shows-2, Phone-1)
+root(ROOT-0, shows-2)
+det(kind-4, some-3)
+dobj(shows-2, kind-4)
+amod(defect-7, cosmetic-6)
+prep_of(kind-4, defect-7)
+nsubj(NEW-12, IT-9)
+cop(NEW-12, IS-10)
+nn(NEW-12, NOT-11)
+parataxis(shows-2, NEW-12)
+
+=========
+
+root(ROOT-0, Beware-1)
+prep_before(Beware-1, buying-3)
+
+=========
+
+root(ROOT-0, Bought-2)
+nn(Cellular-5, Ross-4)
+prep_from(Bought-2, Cellular-5)
+cc(an-10, but-6)
+nsubj(an-10, this-7)
+aux(an-10, might-8)
+cop(an-10, be-9)
+ccomp(Bought-2, an-10)
+det(problem-14, the-12)
+nn(problem-14, board-13)
+prep_across(an-10, problem-14)
+

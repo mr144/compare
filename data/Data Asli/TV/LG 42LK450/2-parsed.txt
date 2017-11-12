@@ -1,0 +1,17 @@
+=========
+
+dep(im-3, Now-1)
+root(ROOT-0, im-3)
+det(expert-6, no-4)
+nn(expert-6, TV-5)
+dobj(im-3, expert-6)
+cc(satisfied-11, but-7)
+nsubjpass(satisfied-11, I-8)
+auxpass(satisfied-11, am-9)
+advmod(satisfied-11, pretty-10)
+dep(im-3, satisfied-11)
+poss(purchase-14, my-13)
+prep_with(satisfied-11, purchase-14)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

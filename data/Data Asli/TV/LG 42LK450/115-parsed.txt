@@ -1,0 +1,29 @@
+=========
+
+nsubj(I-5, It-1)
+cop(I-5, was-2)
+advmod(I-5, faster-3)
+advmod(I-5, then-4)
+ccomp(great-11, I-5)
+partmod(I-5, expected-6)
+det(product-9, the-8)
+nsubj(great-11, product-9)
+cop(great-11, is-10)
+root(ROOT-0, great-11)
+
+=========
+
+advmod(iv-5, Probably-1)
+det(iv-5, the-2)
+amod(iv-5, best-3)
+nn(iv-5, service-4)
+nsubj(got-8, iv-5)
+amod(iv-5, e-7)
+root(ROOT-0, got-8)
+
+=========
+
+npadvmod(very-2, Thanks-1)
+dep(MuchDovi-3, very-2)
+root(ROOT-0, MuchDovi-3)
+

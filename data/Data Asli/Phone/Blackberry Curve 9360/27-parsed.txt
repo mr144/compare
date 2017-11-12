@@ -1,0 +1,23 @@
+=========
+
+det(product-2, The-1)
+nsubj(arrived-3, product-2)
+root(ROOT-0, arrived-3)
+det(fashion-7, a-5)
+amod(fashion-7, timely-6)
+prep_in(arrived-3, fashion-7)
+
+=========
+
+num(%-2, 100-1)
+nsubj(satisfied-3, %-2)
+nsubj(recommend-6, %-2)
+root(ROOT-0, satisfied-3)
+aux(recommend-6, will-5)
+conj_and(satisfied-3, recommend-6)
+
+=========
+
+root(ROOT-0, Thanks-1)
+nsubj(Thanks-1, you-2)
+

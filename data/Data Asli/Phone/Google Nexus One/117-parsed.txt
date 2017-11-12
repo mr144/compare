@@ -1,0 +1,103 @@
+=========
+
+aux(using-2, Been-1)
+root(ROOT-0, using-2)
+det(phone-4, the-3)
+dobj(using-2, phone-4)
+quantmod(3-8, just-6)
+quantmod(3-8, about-7)
+num(days-9, 3-8)
+prep_for(phone-4, days-9)
+advmod(good-14, so-11)
+advmod(good-14, far-12)
+advmod(good-14, so-13)
+conj_and(using-2, good-14)
+
+=========
+
+root(ROOT-0, LOVE-1)
+dobj(LOVE-1, it-2)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+dobj(has-2, everything-3)
+dobj(want-6, everything-3)
+nsubj(want-6, you-4)
+aux(want-6, could-5)
+rcmod(everything-3, want-6)
+det(phone-9, a-8)
+prep_in(want-6, phone-9)
+
+=========
+
+nsubj(size-2, Small-1)
+root(ROOT-0, size-2)
+dobj(size-2, hundred-3)
+amod(apps-6, android-5)
+prep_of(hundred-3, apps-6)
+prep_for(size-2, free-8)
+conj_and(size-2, ease-10)
+prep_of(ease-10, use-12)
+
+=========
+
+poss(phone-3, My-1)
+amod(phone-3, previous-2)
+nsubj(n900-7, phone-3)
+cop(n900-7, was-4)
+det(n900-7, the-5)
+nn(n900-7, Nokia-6)
+root(ROOT-0, n900-7)
+dobj(loved-11, n900-7)
+rel(loved-11, which-9)
+nsubj(loved-11, I-10)
+rcmod(n900-7, loved-11)
+
+=========
+
+nsubj(set-3, I-1)
+nsubj(needed-10, I-1)
+advmod(set-3, recently-2)
+root(ROOT-0, set-3)
+prt(set-3, up-4)
+poss(account-8, my-5)
+amod(account-8, google-6)
+nn(account-8, voice-7)
+dobj(set-3, account-8)
+conj_and(set-3, needed-10)
+det(phone-14, a-11)
+amod(phone-14, reliable-12)
+amod(phone-14, android-13)
+dobj(needed-10, phone-14)
+aux(utilize-17, to-15)
+advmod(utilize-17, fully-16)
+xcomp(needed-10, utilize-17)
+amod(voice-19, google-18)
+dobj(utilize-17, voice-19)
+
+=========
+
+det(phone-2, This-1)
+nsubj(does-3, phone-2)
+root(ROOT-0, does-3)
+advmod(does-3, that-4)
+advmod(does-3, so-6)
+conj_and(that-4, so-6)
+advmod(more-8, much-7)
+advmod(does-3, more-8)
+
+=========
+
+det(price-3, the-2)
+prep_for(go-11, price-3)
+det(phone-7, this-5)
+amod(phone-7, unlocked-6)
+prep_of(price-3, phone-7)
+nsubj(go-11, you-8)
+aux(go-11, can-9)
+neg(go-11, not-10)
+root(ROOT-0, go-11)
+acomp(go-11, wrong-12)
+

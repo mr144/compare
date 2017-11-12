@@ -1,0 +1,48 @@
+=========
+
+root(ROOT-0, Did-1)
+det(deal-4, a-2)
+amod(deal-4, good-3)
+dobj(Did-1, deal-4)
+prep_of(deal-4, research-6)
+poss(purchase-10, my-9)
+prep_prior_to(Did-1, purchase-10)
+
+=========
+
+nn(brands-2, SAMSUNG-1)
+nsubj(seem-4, brands-2)
+xsubj(have-6, brands-2)
+advmod(seem-4, always-3)
+root(ROOT-0, seem-4)
+aux(have-6, to-5)
+xcomp(seem-4, have-6)
+det(picture-9, a-7)
+amod(picture-9, great-8)
+dobj(have-6, picture-9)
+
+=========
+
+advmod(happy-2, Very-1)
+root(ROOT-0, happy-2)
+poss(selection-5, my-4)
+prep_with(happy-2, selection-5)
+
+=========
+
+amod(setup-2, easy-1)
+nsubj(fantastic-7, setup-2)
+det(internet-5, the-4)
+conj_and(setup-2, internet-5)
+nsubj(fantastic-7, internet-5)
+cop(fantastic-7, is-6)
+root(ROOT-0, fantastic-7)
+
+=========
+
+amod(purchase-2, Recommend-1)
+root(ROOT-0, purchase-2)
+det(keyboard-5, a-3)
+amod(keyboard-5, wireless-4)
+dep(purchase-2, keyboard-5)
+

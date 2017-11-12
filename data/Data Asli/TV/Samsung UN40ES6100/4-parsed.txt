@@ -1,0 +1,57 @@
+=========
+
+nsubj(purchased-2, I-1)
+nsubj(happier-13, I-1)
+root(ROOT-0, purchased-2)
+det(TV-5, this-3)
+nn(TV-5, Smart-4)
+dobj(purchased-2, TV-5)
+amod(months-7, several-6)
+npadvmod(ago-8, months-7)
+advmod(purchased-2, ago-8)
+aux(happier-13, could-10)
+neg(happier-13, not-11)
+cop(happier-13, be-12)
+conj_and(purchased-2, happier-13)
+
+=========
+
+nsubj(simple-3, It-1)
+cop(simple-3, was-2)
+root(ROOT-0, simple-3)
+aux(set-5, to-4)
+xcomp(simple-3, set-5)
+prt(set-5, up-6)
+det(functions-11, the-8)
+nn(functions-11, Smart-9)
+nn(functions-11, TV-10)
+nsubj(reliable-13, functions-11)
+nsubj(easy-15, functions-11)
+cop(reliable-13, are-12)
+conj_and(simple-3, reliable-13)
+conj_and(simple-3, easy-15)
+conj_and(reliable-13, easy-15)
+aux(use-17, to-16)
+xcomp(reliable-13, use-17)
+
+=========
+
+det(picture-2, The-1)
+nsubj(good-8, picture-2)
+amod(picture-2, quality-3)
+amod(picture-2, sound-5)
+conj_and(quality-3, sound-5)
+cop(good-8, are-6)
+advmod(good-8, very-7)
+root(ROOT-0, good-8)
+advmod(well-10, as-9)
+mwe(well-10, as-9)
+advmod(good-8, well-10)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(product-4, this-3)
+dobj(recommend-2, product-4)
+

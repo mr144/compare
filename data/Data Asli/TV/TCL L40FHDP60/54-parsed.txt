@@ -1,0 +1,37 @@
+=========
+
+root(ROOT-0, Replaced-1)
+det(Samsung-3, a-2)
+dobj(Replaced-1, Samsung-3)
+prep_with(Replaced-1, this-5)
+conj_and(Replaced-1, see-7)
+det(downgrade-9, no-8)
+dobj(see-7, downgrade-9)
+prep_in(downgrade-9, quality-11)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(assemble-3, to-2)
+dep(Easy-1, assemble-3)
+
+=========
+
+root(ROOT-0, Takes-1)
+det(time-4, a-2)
+amod(time-4, little-3)
+dobj(Takes-1, time-4)
+aux(turn-6, to-5)
+infmod(time-4, turn-6)
+prt(turn-6, on-7)
+nsubj(weak-12, remote-10)
+nsubj(overall-17, remote-10)
+cop(weak-12, is-11)
+conj_and(Takes-1, weak-12)
+prep_at(weak-12, times-14)
+conj_and(Takes-1, overall-17)
+conj_but(weak-12, overall-17)
+det(deal-20, a-18)
+amod(deal-20, good-19)
+dep(weak-12, deal-20)
+

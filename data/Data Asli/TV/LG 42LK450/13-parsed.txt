@@ -1,0 +1,43 @@
+=========
+
+advmod(satisfied-2, Completely-1)
+root(ROOT-0, satisfied-2)
+det(TV-5, the-4)
+prep_with(satisfied-2, TV-5)
+
+=========
+
+nsubj(mounted-2, Wall-1)
+root(ROOT-0, mounted-2)
+det(bedroom-5, the-4)
+prep_in(mounted-2, bedroom-5)
+nsubj(size-11, it-7)
+cop(size-11, is-8)
+det(size-11, the-9)
+amod(size-11, perfect-10)
+conj_and(mounted-2, size-11)
+amod(picture-14, beautiful-13)
+conj_and(mounted-2, picture-14)
+conj_and(size-11, picture-14)
+
+=========
+
+det(price-3, the-2)
+prep_for(find-7, price-3)
+nsubj(find-7, I-4)
+aux(find-7, could-5)
+neg(find-7, not-6)
+root(ROOT-0, find-7)
+dobj(find-7, anything-8)
+advmod(good-10, as-9)
+amod(anything-8, good-10)
+det(TV-13, this-12)
+prep_as(find-7, TV-13)
+
+=========
+
+advmod(satisfied-2, Completely-1)
+root(ROOT-0, satisfied-2)
+poss(purchase-5, my-4)
+prep_with(satisfied-2, purchase-5)
+

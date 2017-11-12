@@ -1,0 +1,70 @@
+=========
+
+advmod(dropped-6, Just-1)
+advcl(dropped-6, before-2)
+prep_before(dropped-6, Christmas-3)
+det(price-5, the-4)
+nsubj(dropped-6, price-5)
+root(ROOT-0, dropped-6)
+nsubj(took-9, I-8)
+conj_and(dropped-6, took-9)
+det(plunge-11, the-10)
+dobj(took-9, plunge-11)
+prep_into(took-9, 3D-13)
+
+=========
+
+det(I-4, The-1)
+amod(I-4, main-2)
+nn(I-4, reason-3)
+nsubj(bought-5, I-4)
+root(ROOT-0, bought-5)
+nsubj(was-7, this-6)
+ccomp(bought-5, was-7)
+det(size-13, the-10)
+num(size-13, 60-11)
+nn(size-13, inch-12)
+prep_because_of(was-7, size-13)
+det(reputation-17, the-15)
+amod(reputation-17, Sharp-16)
+prep_because_of(was-7, reputation-17)
+conj_and(size-13, reputation-17)
+
+=========
+
+det(LED-3, The-1)
+amod(LED-3, quad-2)
+nsubj(amazing-10, LED-3)
+prep_with(LED-3, LCD-5)
+num(Hz-8, 240-7)
+prep_at(LCD-5, Hz-8)
+cop(amazing-10, is-9)
+root(ROOT-0, amazing-10)
+
+=========
+
+nsubj(comes-4, Nothing-1)
+advmod(there-3, out-2)
+advmod(comes-4, there-3)
+root(ROOT-0, comes-4)
+acomp(comes-4, close-5)
+
+=========
+
+nsubj(set-2, Easy-1)
+root(ROOT-0, set-2)
+prt(set-2, up-3)
+
+=========
+
+nsubj(enjoying-3, I-1)
+aux(enjoying-3, was-2)
+root(ROOT-0, enjoying-3)
+det(movie-5, a-4)
+dobj(enjoying-3, movie-5)
+num(minutes-8, 30-7)
+prep_within(enjoying-3, minutes-8)
+prepc_of(minutes-8, opening-10)
+det(box-12, the-11)
+dobj(opening-10, box-12)
+

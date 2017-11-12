@@ -1,0 +1,3 @@
+this_DT tv_NN is_VBZ a_DT good_JJ size_NN ._.
+excellent_JJ picture_NN ,_, great_JJ colors_NNS ,_, minimal_JJ glare_NN from_IN lights_NNS and_CC windows_NNS ._.
+i_FW love_NN that_IN it_PRP has_VBZ built_VBN in_IN wifi_NNS and_CC apps_NNS ,_, we_PRP can_MD stream_NN netflix_NN right_RB from_IN the_DT tv_NN w\/out_NN needing_VBG to_TO connect_VB our_PRP$ computer_NN

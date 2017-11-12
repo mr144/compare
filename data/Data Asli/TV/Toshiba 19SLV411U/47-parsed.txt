@@ -1,0 +1,50 @@
+=========
+
+det(TV-2, This-1)
+nsubj(good-4, TV-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+det(kitchen-7, a-6)
+prep_for(good-4, kitchen-7)
+
+=========
+
+det(sound-2, The-1)
+nsubj(best-6, sound-2)
+nsubj(works-8, sound-2)
+cop(best-6, is-3)
+neg(best-6, not-4)
+det(best-6, the-5)
+root(ROOT-0, best-6)
+conj_but(best-6, works-8)
+det(area-12, a-10)
+amod(area-12, small-11)
+prep_for(works-8, area-12)
+
+=========
+
+det(channels-2, Some-1)
+nsubj(dark-5, channels-2)
+cop(dark-5, were-3)
+advmod(dark-5, very-4)
+root(ROOT-0, dark-5)
+nn(settings-8, color-7)
+nsubj(needed-9, settings-8)
+xsubj(adjusted-12, settings-8)
+conj_and(dark-5, needed-9)
+aux(adjusted-12, to-10)
+auxpass(adjusted-12, be-11)
+xcomp(needed-9, adjusted-12)
+advmod(adjusted-12, manually-13)
+
+=========
+
+cc(addition-6, But-1)
+nsubj(addition-6, overall-2)
+cop(addition-6, is-3)
+det(addition-6, a-4)
+amod(addition-6, nice-5)
+root(ROOT-0, addition-6)
+poss(kitchen-9, my-8)
+prep_to(addition-6, kitchen-9)
+

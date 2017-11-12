@@ -1,0 +1,106 @@
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, was-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(product\/service-7, the-6)
+prep_with(pleased-4, product\/service-7)
+
+=========
+
+nsubj(ordered-2, I-1)
+root(ROOT-0, ordered-2)
+det(phone-5, an-3)
+nn(phone-5, HTC-4)
+dobj(ordered-2, phone-5)
+nsubj(came-8, it-7)
+conj_and(ordered-2, came-8)
+advmod(fast-10, super-9)
+advmod(came-8, fast-10)
+
+=========
+
+advmod(day-4, about-2)
+det(day-4, a-3)
+prep_after(noticed-10, day-4)
+prepc_of(day-4, using-6)
+dobj(using-6, it-7)
+nsubj(noticed-10, i-9)
+root(ROOT-0, noticed-10)
+complm(charging-17, that-11)
+predet(battery-14, the-12)
+det(battery-14, the-13)
+nsubj(charging-17, battery-14)
+aux(charging-17, was-15)
+neg(charging-17, not-16)
+ccomp(noticed-10, charging-17)
+predet(way-20, all-18)
+det(way-20, the-19)
+dobj(charging-17, way-20)
+advmod(charge-24, when-21)
+nsubj(charge-24, i-22)
+aux(charge-24, would-23)
+advcl(charging-17, charge-24)
+dobj(charge-24, it-25)
+advmod(charge-24, overnight-26)
+
+=========
+
+advmod(contacted-3, When-1)
+nsubj(contacted-3, i-2)
+root(ROOT-0, contacted-3)
+nsubj(it-5, Recell-4)
+xcomp(contacted-3, it-5)
+
+=========
+
+nsubj(friendly-4, They-1)
+nsubj(helpful-6, They-1)
+cop(friendly-4, were-2)
+advmod(friendly-4, super-3)
+root(ROOT-0, friendly-4)
+conj_and(friendly-4, helpful-6)
+parataxis(friendly-4, offered-8)
+iobj(offered-8, me-9)
+det(refund-12, a-10)
+amod(refund-12, partial-11)
+dobj(offered-8, refund-12)
+advmod(get-17, so-13)
+dep(get-17, that-14)
+nsubj(get-17, i-15)
+aux(get-17, could-16)
+advcl(offered-8, get-17)
+det(charger-20, a-18)
+amod(charger-20, new-19)
+dobj(get-17, charger-20)
+
+=========
+
+nsubj(super-3, I-1)
+aux(super-3, am-2)
+root(ROOT-0, super-3)
+amod(service-13, pleased-4)
+det(delivery-8, the-6)
+amod(delivery-8, fast-7)
+prep_at(pleased-4, delivery-8)
+advmod(prompt-11, very-10)
+conj_and(pleased-4, prompt-11)
+amod(service-13, prompt-11)
+nn(service-13, customer-12)
+dobj(super-3, service-13)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+ccomp(know-8, recommend-3)
+det(seller-5, this-4)
+dobj(recommend-3, seller-5)
+nsubj(know-8, they-7)
+root(ROOT-0, know-8)
+dobj(doing-12, what-9)
+nsubj(doing-12, they-10)
+aux(doing-12, are-11)
+ccomp(know-8, doing-12)
+

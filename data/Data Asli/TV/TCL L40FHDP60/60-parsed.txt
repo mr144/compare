@@ -1,0 +1,107 @@
+=========
+
+advmod(got-3, When-1)
+nsubj(got-3, I-2)
+advcl(was-7, got-3)
+det(TV-5, the-4)
+dobj(got-3, TV-5)
+expl(was-7, there-6)
+root(ROOT-0, was-7)
+det(pixel-10, a-8)
+amod(pixel-10, dead-9)
+nsubj(was-7, pixel-10)
+det(middle-13, the-12)
+prep_in(pixel-10, middle-13)
+
+=========
+
+nsubj(apprehensive-3, I-1)
+cop(apprehensive-3, was-2)
+root(ROOT-0, apprehensive-3)
+prepc_about(apprehensive-3, dealing-5)
+det(process-9, the-7)
+nn(process-9, return-8)
+prep_with(dealing-5, process-9)
+nsubj(amazing-14, Amazon-12)
+cop(amazing-14, was-13)
+conj_but(apprehensive-3, amazing-14)
+
+=========
+
+nsubj(sent-2, They-1)
+nsubj(gave-8, They-1)
+root(ROOT-0, sent-2)
+iobj(sent-2, us-3)
+det(TV-6, a-4)
+amod(TV-6, new-5)
+dobj(sent-2, TV-6)
+conj_and(sent-2, gave-8)
+iobj(gave-8, me-9)
+det(window-13, a-10)
+num(window-13, 30-11)
+nn(window-13, day-12)
+dobj(gave-8, window-13)
+prep_in(window-13, which-15)
+aux(send-17, to-16)
+xcomp(gave-8, send-17)
+prt(send-17, back-18)
+det(one-21, the-19)
+amod(one-21, defective-20)
+dobj(send-17, one-21)
+
+=========
+
+det(TV-2, This-1)
+nsubj(great-4, TV-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+det(price-7, the-6)
+prep_for(great-4, price-7)
+amod(picture-11, good-9)
+nn(picture-11, quality-10)
+appos(price-7, picture-11)
+det(blacks-14, the-13)
+nsubj(black-17, blacks-14)
+cop(black-17, are-15)
+advmod(black-17, pretty-16)
+parataxis(great-4, black-17)
+mark(is-21, although-19)
+expl(is-21, there-20)
+advcl(great-4, is-21)
+det(tones-24, some-22)
+amod(tones-24, variation\/gray-23)
+nsubj(is-21, tones-24)
+
+=========
+
+cc(great-9, But-1)
+advmod(great-9, really-2)
+det(price-6, the-5)
+prep_for(great-9, price-6)
+nsubj(great-9, this-7)
+cop(great-9, is-8)
+root(ROOT-0, great-9)
+
+=========
+
+nsubj(slim-4, It-1)
+cop(slim-4, 's-2)
+advmod(slim-4, super-3)
+root(ROOT-0, slim-4)
+det(base-7, the-6)
+nsubj(attractive-10, base-7)
+cop(attractive-10, is-8)
+advmod(attractive-10, very-9)
+conj_and(slim-4, attractive-10)
+
+=========
+
+nsubj(hooked-2, We-1)
+root(ROOT-0, hooked-2)
+dobj(hooked-2, it-3)
+prt(hooked-2, up-4)
+nn(Center-8, Windows-6)
+nn(Center-8, Media-7)
+prep_to(hooked-2, Center-8)
+prep_without(Center-8, issue-10)
+

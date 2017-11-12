@@ -1,0 +1,69 @@
+=========
+
+prep_at(thought-4, first-2)
+nsubj(thought-4, I-3)
+root(ROOT-0, thought-4)
+nsubj(did-6, what-5)
+ccomp(thought-4, did-6)
+nsubj(buy-8, I-7)
+ccomp(did-6, buy-8)
+advmod(think-18, how-10)
+dep(how-10, horrible-11)
+cc(horrible-11, but-12)
+det(adjustments-16, a-14)
+amod(adjustments-16, few-15)
+prep_after(horrible-11, adjustments-16)
+nsubj(think-18, I-17)
+ccomp(buy-8, think-18)
+parataxis(buy-8, think-18)
+det(TV-20, the-19)
+nsubj(great-22, TV-20)
+cop(great-22, is-21)
+ccomp(think-18, great-22)
+
+=========
+
+nsubj(hated-2, I-1)
+root(ROOT-0, hated-2)
+det(effect-5, the-3)
+amod(effect-5, dimming-4)
+dobj(hated-2, effect-5)
+amod(days-8, dark-7)
+prep_on(effect-5, days-8)
+
+=========
+
+nsubj(made-2, It-1)
+root(ROOT-0, made-2)
+det(look-7, the-3)
+nn(look-7, room-4)
+conj_and(room-4, picture-6)
+nn(look-7, picture-6)
+dobj(made-2, look-7)
+amod(look-7, dreary-8)
+amod(look-7, dull-10)
+conj_and(dreary-8, dull-10)
+
+=========
+
+nsubj(turned-2, I-1)
+nsubj(enjoy-6, I-1)
+root(ROOT-0, turned-2)
+dobj(turned-2, that-3)
+prt(turned-2, off-4)
+conj_and(turned-2, enjoy-6)
+dobj(enjoy-6, it-7)
+advmod(enjoy-6, now-8)
+
+=========
+
+nsubj(Amazon-2, Thanks-1)
+root(ROOT-0, Amazon-2)
+prepc_for(Amazon-2, offering-4)
+det(TV-7, this-5)
+amod(TV-7, great-6)
+dobj(offering-4, TV-7)
+det(price-11, a-9)
+amod(price-11, great-10)
+prep_at(offering-4, price-11)
+

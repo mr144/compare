@@ -1,0 +1,182 @@
+=========
+
+amod(pictures-3, Takes-1)
+amod(pictures-3, great-2)
+root(ROOT-0, pictures-3)
+det(while-6, a-5)
+prep_for(pictures-3, while-6)
+dep(pictures-3, Bought-8)
+det(camera-10, this-9)
+dep(Bought-8, camera-10)
+prep_in(camera-10, December-12)
+appos(December-12, 2011-14)
+
+=========
+
+ccomp(fell-9, Took-1)
+det(pictures-5, a-2)
+amod(pictures-5, few-3)
+amod(pictures-5, good-4)
+dobj(Took-1, pictures-5)
+advmod(fell-9, then-7)
+nsubj(fell-9, it-8)
+root(ROOT-0, fell-9)
+poss(problem-21, victim-10)
+det(Error-16, the-12)
+amod(Error-16, dreaded-13)
+nn(Error-16, System-15)
+prep_to(victim-10, Error-16)
+appos(Error-16, Focus-18)
+dobj(fell-9, problem-21)
+
+=========
+
+dep(paid-16, Seems-1)
+mark(found-7, like-2)
+nsubj(found-7, plenty-3)
+amod(customers-6, other-5)
+prep_of(plenty-3, customers-6)
+dep(Seems-1, found-7)
+det(problem-10, the-8)
+amod(problem-10, same-9)
+dobj(found-7, problem-10)
+nsubj(paid-16, I-15)
+xsubj(use-21, I-15)
+root(ROOT-0, paid-16)
+prep_around(paid-16, $-18)
+num($-18, 150-19)
+aux(use-21, to-20)
+xcomp(paid-16, use-21)
+det(camera-23, a-22)
+dobj(use-21, camera-23)
+quantmod(6-26, about-25)
+num(months-27, 6-26)
+prep_for(camera-23, months-27)
+
+=========
+
+mark(buy-3, If-1)
+nsubj(buy-3, you-2)
+advcl(luck-7, buy-3)
+dobj(buy-3, one-4)
+nsubj(luck-7, good-6)
+root(ROOT-0, luck-7)
+
+=========
+
+root(ROOT-0, UPDATE-1)
+det(months-6, a-4)
+amod(months-6, few-5)
+npadvmod(later-7, months-6)
+dep(Panasonic-9, later-7)
+dep(UPDATE-1, Panasonic-9)
+partmod(Panasonic-9, lived-10)
+prt(lived-10, up-11)
+poss(warranty-14, their-13)
+prep_to(lived-10, warranty-14)
+det(camera-17, this-16)
+prep_on(lived-10, camera-17)
+
+=========
+
+poss(wife-2, My-1)
+nsubj(took-3, wife-2)
+root(ROOT-0, took-3)
+det(time-5, the-4)
+dobj(took-3, time-5)
+aux(send-7, to-6)
+infmod(time-5, send-7)
+dobj(send-7, it-8)
+dep(send-7, in-9)
+prep_for(send-7, repair-11)
+prep_in(repair-11, June-13)
+appos(June-13, 2012-15)
+
+=========
+
+nsubj(optimistic-4, I-1)
+cop(optimistic-4, was-2)
+neg(optimistic-4, not-3)
+root(ROOT-0, optimistic-4)
+
+=========
+
+advmod(shipped-10, However-1)
+prep_in(shipped-10, August-4)
+nsubjpass(shipped-10, 2012-6)
+nsubjpass(working-20, 2012-6)
+det(camera-8, the-7)
+dep(2012-6, camera-8)
+auxpass(shipped-10, was-9)
+root(ROOT-0, shipped-10)
+nsubj(following-13, us-12)
+prepc_to(shipped-10, following-13)
+poss(repair-15, its-14)
+dobj(following-13, repair-15)
+aux(working-20, is-18)
+advmod(working-20, currently-19)
+conj_and(shipped-10, working-20)
+
+=========
+
+det(time-3, the-2)
+prep_during(was-5, time-3)
+nsubj(was-5, it-4)
+dep(called-15, was-5)
+det(hands-8, the-7)
+prep_in(was-5, hands-8)
+poss(facility-12, their-10)
+nn(facility-12, repair-11)
+prep_of(hands-8, facility-12)
+nsubjpass(called-15, we-13)
+auxpass(called-15, were-14)
+root(ROOT-0, called-15)
+amod(times-17, several-16)
+dobj(called-15, times-17)
+prep_with(called-15, updates-19)
+
+=========
+
+nsubj(have-4, We-1)
+xsubj(call-6, We-1)
+aux(have-4, did-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+aux(call-6, to-5)
+xcomp(have-4, call-6)
+dobj(call-6, them-7)
+
+=========
+
+dep(kudos-3, So-1)
+root(ROOT-0, kudos-3)
+prep_to(kudos-3, Panasonic-5)
+det(service-9, the-7)
+nn(service-9, customer-8)
+prep_on(Panasonic-5, service-9)
+
+=========
+
+advmod(again-2, Once-1)
+advmod(taking-4, again-2)
+root(ROOT-0, taking-4)
+acomp(taking-4, great-5)
+dep(taking-4, pictures-6)
+
+=========
+
+nsubj(see-3, We-1)
+aux(see-3, 'll-2)
+root(ROOT-0, see-3)
+advmod(long-5, how-4)
+advmod(continues-7, long-5)
+nsubj(continues-7, this-6)
+ccomp(see-3, continues-7)
+
+=========
+
+root(ROOT-0, Hopefully-1)
+dep(Hopefully-1, for-3)
+det(while-5, a-4)
+pobj(for-3, while-5)
+

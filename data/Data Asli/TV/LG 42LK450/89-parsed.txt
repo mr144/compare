@@ -1,0 +1,152 @@
+=========
+
+nsubj(purchased-3, I-1)
+advmod(purchased-3, recently-2)
+root(ROOT-0, purchased-3)
+det(lcd-8, an-4)
+nn(lcd-8, Insignia-5)
+num(lcd-8, 37-6)
+nn(lcd-8, inch-7)
+dobj(purchased-3, lcd-8)
+prep_from(lcd-8, BESTBUY-10)
+det(price-14, a-12)
+amod(price-14, super-13)
+prep_for(purchased-3, price-14)
+prep_of(price-14, $-16)
+num($-16, 299-17)
+
+=========
+
+nsubj(returned-2, I-1)
+root(ROOT-0, returned-2)
+dobj(returned-2, it-3)
+mark(adjust-8, because-4)
+nsubj(adjust-8, i-5)
+aux(adjust-8, could-6)
+neg(adjust-8, not-7)
+advcl(returned-2, adjust-8)
+dobj(adjust-8, it-9)
+poss(liking-12, my-11)
+prep_to(adjust-8, liking-12)
+
+=========
+
+dep(was-4, Either-1)
+det(picture-3, the-2)
+nsubj(was-4, picture-3)
+root(ROOT-0, was-4)
+prep_to(was-4, bright-6)
+det(scenes-10, the-8)
+amod(scenes-10, dark-9)
+prep_to(was-4, scenes-10)
+conj_or(bright-6, scenes-10)
+prep_to(was-4, dark-12)
+
+=========
+
+nsubj(returned-2, I-1)
+nsubj(picked-5, I-1)
+root(ROOT-0, returned-2)
+dobj(returned-2, it-3)
+conj_and(returned-2, picked-5)
+prt(picked-5, up-6)
+det(set-8, this-7)
+dobj(picked-5, set-8)
+predet(reviews-14, all-11)
+det(reviews-14, the-12)
+amod(reviews-14, stellar-13)
+prep_because_of(set-8, reviews-14)
+
+=========
+
+prep_at(disappointed-6, first-2)
+nsubj(disappointed-6, i-3)
+cop(disappointed-6, was-4)
+advmod(disappointed-6, very-5)
+root(ROOT-0, disappointed-6)
+prep_with(disappointed-6, this-8)
+partmod(this-8, set-9)
+advmod(set-9, also-10)
+
+=========
+
+det(settings-2, The-1)
+nsubj(had-7, settings-2)
+nsubj(washed-12, settings-2)
+det(box-6, the-5)
+prep_out_of(settings-2, box-6)
+root(ROOT-0, had-7)
+dobj(had-7, everything-8)
+advmod(muted-10, very-9)
+amod(everything-8, muted-10)
+conj_and(had-7, washed-12)
+prt(washed-12, out-13)
+
+=========
+
+npadvmod(more-4, $-2)
+num($-2, 100-3)
+prepc_for(thought-6, more-4)
+nsubj(thought-6, i-5)
+root(ROOT-0, thought-6)
+nsubj(made-8, i-7)
+ccomp(thought-6, made-8)
+det(mistake-11, a-9)
+nn(mistake-11, BIG-10)
+dobj(made-8, mistake-11)
+nn(ALL-15, tweaking-14)
+prep_after(found-19, ALL-15)
+det(i-18, the-16)
+amod(i-18, settings-17)
+nsubj(found-19, i-18)
+conj_but(thought-6, found-19)
+det(spot-22, the-20)
+amod(spot-22, sweet-21)
+dobj(found-19, spot-22)
+
+=========
+
+advmod(content-5, Now-1)
+nsubj(content-5, i-2)
+cop(content-5, am-3)
+advmod(content-5, very-4)
+root(ROOT-0, content-5)
+det(i-9, the-7)
+nn(i-9, choice-8)
+prep_with(content-5, i-9)
+partmod(i-9, made-10)
+
+=========
+
+det(set-2, This-1)
+nsubj(has-3, set-2)
+root(ROOT-0, has-3)
+det(PICTURE-6, an-4)
+nn(PICTURE-6, AWESOME-5)
+nsubj(realize-11, PICTURE-6)
+advmod(long-8, as-7)
+dep(realize-11, long-8)
+mark(realize-11, as-9)
+nsubj(realize-11, you-10)
+xcomp(has-3, realize-11)
+nsubj(have-14, you-12)
+xsubj(make-16, you-12)
+aux(have-14, will-13)
+ccomp(realize-11, have-14)
+aux(make-16, to-15)
+xcomp(have-14, make-16)
+dobj(make-16, adjustments-17)
+
+=========
+
+aux(forget-3, Do-1)
+neg(forget-3, not-2)
+root(ROOT-0, forget-3)
+aux(protect-5, to-4)
+xcomp(forget-3, protect-5)
+poss(investment-7, your-6)
+dobj(protect-5, investment-7)
+det(WARRANTY-11, a-9)
+nn(WARRANTY-11, SQUARETRADE-10)
+prep_with(protect-5, WARRANTY-11)
+

@@ -1,0 +1,37 @@
+=========
+
+amod(product-2, great-1)
+nsubjpass(priced-10, product-2)
+prep(product-2, but-3)
+advmod(stuff-7, as-4)
+predet(stuff-7, all-5)
+det(stuff-7, this-6)
+dep(but-3, stuff-7)
+auxpass(priced-10, is-8)
+advmod(priced-10, over-9)
+root(ROOT-0, priced-10)
+conj_so(priced-10, is-13)
+nsubj(is-13, this-14)
+
+=========
+
+neg(3d-2, not-1)
+root(ROOT-0, 3d-2)
+cc(cares-5, but-3)
+dep(cares-5, who-4)
+dep(3d-2, cares-5)
+prep_about(cares-5, that-7)
+
+=========
+
+advmod(enjoyable-2, very-1)
+root(ROOT-0, enjoyable-2)
+aux(play-4, to-3)
+dep(enjoyable-2, play-4)
+prep(play-4, with-5)
+
+=========
+
+root(ROOT-0, recommended-1)
+advmod(recommended-1, yes-2)
+

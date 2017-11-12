@@ -1,0 +1,5 @@
+Got_VBD it_PRP on_IN sale_NN through_IN Amazon_NNP ._.
+Shipping_VBG was_VBD fast_RB ,_, as_IN usual_JJ ._.
+The_DT viewing_VBG angles_NNS are_VBP not_RB exaggerated_JJ ._.
+It_PRP has_VBZ exceptional_JJ viewing_VBG angles_NNS ,_, but_CC the_DT only_JJ gripe_NN is_VBZ that_IN it_PRP is_VBZ 60Hertz_JJ ,_, not_RB 120Hertz_JJ ._.
+From_IN the_DT looks_NNS of_IN it_PRP ,_, since_IN I_PRP like_VBP to_TO research_VB even_RB after_IN buying_VBG a_DT product_NN ,_, the_DT market_NN is_VBZ going_VBG to_TO be_VB flooded_VBN with_IN superior_JJ models_NNS of_IN LED_NNP HDTVs_NNS with_IN higher_JJR and_CC better_JJR refresh_NN rates_NNS ._.

@@ -1,0 +1,4 @@
+Nikon_NNP P90_NNP ,_, Kodak_NNP Z980_NNP and_CC Pentax_NNP X70_NNP is_VBZ made_VBN by_IN the_DT same_JJ Chinese_JJ company_NN ._.
+Sold_VBN under_IN different_JJ brands_NNS ,_, all_DT three_CD cameras_NNS are_VBP almost_RB identical_JJ -LRB-_-LRB- with_IN minor_JJ differences_NNS ,_, like_IN Kodak_NNP has_VBZ hot_JJ shoe_NN ,_, etc_FW -RRB-_-RRB- ._.
+If_IN you_PRP want_VBP to_TO buy_VB this_DT ,_, buy_VB the_DT one_NN that_IN you_PRP can_MD find_VB cheapest_JJS ._.
+In_IN general_JJ ,_, Canon_NNP SX10_NNP is_VBZ better_JJR ._.

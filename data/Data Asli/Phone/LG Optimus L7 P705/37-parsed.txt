@@ -1,0 +1,26 @@
+=========
+
+det(price-3, the-2)
+prep_for(bad-9, price-3)
+nsubj(bad-9, it-4)
+advmod(bad-9, many-5)
+neg(bad-9, not-6)
+cop(bad-9, be-7)
+advmod(bad-9, that-8)
+root(ROOT-0, bad-9)
+
+=========
+
+cc(spend-6, But-1)
+advmod(spend-6, overall-2)
+nsubj(spend-6, I-3)
+aux(spend-6, would-4)
+advmod(spend-6, rather-5)
+root(ROOT-0, spend-6)
+amod(bucks-9, few-7)
+amod(bucks-9, more-8)
+dobj(spend-6, bucks-9)
+det(phone-13, a-11)
+amod(phone-13, better-12)
+prep_for(spend-6, phone-13)
+

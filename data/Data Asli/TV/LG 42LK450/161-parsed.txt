@@ -1,0 +1,49 @@
+=========
+
+amod(tv-2, great-1)
+root(ROOT-0, tv-2)
+
+=========
+
+amod(price-2, fantastic-1)
+root(ROOT-0, price-2)
+
+=========
+
+root(ROOT-0, 1080p-1)
+
+=========
+
+nsubj(had-3, i-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(tv-5, the-4)
+dobj(had-3, tv-5)
+det(weeks-9, a-7)
+amod(weeks-9, few-8)
+prep_for(tv-5, weeks-9)
+advmod(weeks-9, now-10)
+
+=========
+
+cc(satified-5, and-1)
+nsubj(satified-5, i-2)
+cop(satified-5, am-3)
+advmod(satified-5, completely-4)
+root(ROOT-0, satified-5)
+
+=========
+
+root(ROOT-0, so-1)
+mark(looking-5, if-2)
+nsubj(looking-5, you-3)
+aux(looking-5, are-4)
+dep(so-1, looking-5)
+det(32-9, a-7)
+amod(32-9, great-8)
+prep_for(looking-5, 32-9)
+nsubj(jesse-14, this-11)
+cop(jesse-14, is-12)
+npadvmod(jesse-14, it-13)
+rcmod(32-9, jesse-14)
+

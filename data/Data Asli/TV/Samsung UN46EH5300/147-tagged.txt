@@ -1,0 +1,3 @@
+this_DT is_VBZ probably_RB by_IN far_RB the_DT best_JJS purchase_NN i_FW have_VBP done_VBN here_RB on_IN Amazon_NNP ._.
+this_DT Tv_NN is_VBZ pretty_RB much_JJ everything_NN its_PRP$ described_VBN that_IN it_PRP does_VBZ ._.
+such_PDT a_DT great_JJ purchase_NN

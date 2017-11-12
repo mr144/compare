@@ -1,0 +1,9 @@
+I_PRP bought_VBD this_DT phone_NN thinking_VBG what_WP a_DT great_JJ deal_NN for_IN a_DT mid-range_JJ smartphone_NN and_CC then_RB found_VBD out_RP that_IN it_PRP would_MD not_RB support_VB the_DT 3G_NNP from_IN T-mobile_NNP ._.
+T-Mobile_NNP uses_VBZ the_DT 1700\/2100_CD mhz_NN frequency_NN for_IN their_PRP$ 3G_NNP network_NN ._.
+You_PRP need_VBP the_DT phone_NN to_TO support_VB BOTH_DT frequency_NN in_IN order_NN to_TO get_VB 3G_NNP ._.
+Maybe_RB AT&T_NNP supports_VBZ the_DT frequencies_NNS on_IN this_DT phone_NN ._.
+Check_VB with_IN carrier_NN before_IN buying_VBG !_.
+I_PRP had_VBD to_TO return_VB this_DT and_CC get_VB a_DT different_JJ phone_NN ._.
+Also_RB ,_, if_IN you_PRP want_VBP the_DT NFC_NNP enabled_VBD phone_NN ,_, make_VBP sure_JJ to_TO get_VB the_DT i8160P_NNP version_NN ._.
+P_NNP =_SYM NFC_NNP ..._: no_DT P_NN means_VBZ no_DT NFC_NNP ._.
+Hope_NNP this_DT helps_VBZ !_.

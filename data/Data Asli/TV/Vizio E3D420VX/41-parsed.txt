@@ -1,0 +1,36 @@
+=========
+
+root(ROOT-0, Love-1)
+det(television-3, the-2)
+dep(Love-1, television-3)
+det(money-6, the-5)
+prep_for(television-3, money-6)
+
+=========
+
+nsubj(amazing-6, Clarity-1)
+det(picture-4, the-3)
+prep_of(Clarity-1, picture-4)
+cop(amazing-6, is-5)
+root(ROOT-0, amazing-6)
+
+=========
+
+root(ROOT-0, Need-1)
+aux(pirchase-3, to-2)
+xcomp(Need-1, pirchase-3)
+det(bar-6, a-4)
+amod(bar-6, sound-5)
+dobj(pirchase-3, bar-6)
+aux(supplement-8, to-7)
+xcomp(pirchase-3, supplement-8)
+det(sound-10, the-9)
+dobj(supplement-8, sound-10)
+advmod(supplement-8, though-11)
+mark(like-14, if-12)
+nsubj(like-14, you-13)
+advcl(supplement-8, like-14)
+advmod(good-16, really-15)
+amod(sound-17, good-16)
+dobj(like-14, sound-17)
+

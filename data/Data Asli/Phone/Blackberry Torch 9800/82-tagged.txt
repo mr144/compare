@@ -1,0 +1,4 @@
+Good_JJ phone_NN ,_, I_PRP gifted_JJ it_PRP to_TO my_PRP$ friend_NN in_IN India_NNP ._.
+It_PRP still_RB works_VBZ great_JJ there_RB ._.
+But_CC yes_RB ,_, we_PRP are_VBP not_RB using_VBG these_DT phones_NNS in_IN US_NNP ._.
+Most_JJS people_NNS are_VBP switching_VBG to_TO apple_NN or_CC android_NN ._.

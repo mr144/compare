@@ -1,0 +1,36 @@
+=========
+
+nsubj(have-2, We-1)
+root(ROOT-0, have-2)
+dobj(have-2, it-3)
+poss(bedroom-6, our-5)
+prep_in(have-2, bedroom-6)
+nsubj(has-9, it-8)
+conj_and(have-2, has-9)
+det(picture-12, a-10)
+amod(picture-12, great-11)
+dobj(has-9, picture-12)
+dobj(enjoy-15, picture-12)
+rel(enjoy-15, which-13)
+nsubj(enjoy-15, we-14)
+rcmod(picture-12, enjoy-15)
+
+=========
+
+nsubj(allows-2, It-1)
+nsubj(provides-12, It-1)
+root(ROOT-0, allows-2)
+nsubj(have-5, us-3)
+aux(have-5, to-4)
+xcomp(allows-2, have-5)
+amod(access-7, internet-6)
+dobj(have-5, access-7)
+det(TV-10, the-9)
+prep_on(access-7, TV-10)
+conj_and(allows-2, provides-12)
+amod(options-14, many-13)
+dobj(provides-12, options-14)
+poss(pleasure-18, our-16)
+amod(pleasure-18, viewing-17)
+prep_for(provides-12, pleasure-18)
+

@@ -1,0 +1,258 @@
+=========
+
+nsubj(bit-4, I-1)
+cop(bit-4, was-2)
+det(bit-4, a-3)
+root(ROOT-0, bit-4)
+dep(bit-4, worried-5)
+aux(buy-7, to-6)
+dep(worried-5, buy-7)
+det(online-9, this-8)
+dobj(buy-7, online-9)
+
+=========
+
+cc(great-4, but-1)
+nsubj(great-4, it-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(amazing-8, quality-3)
+nn(everything-6, sound-5)
+conj_and(quality-3, everything-6)
+nsubj(amazing-8, everything-6)
+cop(amazing-8, seems-7)
+root(ROOT-0, amazing-8)
+
+=========
+
+amod(things-2, Good-1)
+nsubj(are-5, things-2)
+prep_about(things-2, it-4)
+root(ROOT-0, are-5)
+
+=========
+
+amod(number-2, good-1)
+root(ROOT-0, number-2)
+nn(ports-5, HDMI-4)
+prep_of(number-2, ports-5)
+
+=========
+
+cc(excellent-5, and-1)
+nn(quality-3, picture-2)
+nsubj(excellent-5, quality-3)
+cop(excellent-5, is-4)
+root(ROOT-0, excellent-5)
+
+=========
+
+nsubj(like-4, I-1)
+aux(like-4, did-2)
+neg(like-4, not-3)
+root(ROOT-0, like-4)
+det(apps-7, the-5)
+amod(apps-7, smart-6)
+dobj(like-4, apps-7)
+mark(tests-11, as-8)
+nsubj(tests-11, it-9)
+advmod(tests-11, just-10)
+advcl(like-4, tests-11)
+poss(patience-13, your-12)
+dobj(tests-11, patience-13)
+
+=========
+
+nsubj(open-2, to-1)
+root(ROOT-0, open-2)
+
+=========
+
+cc(watching-3, and-1)
+advmod(watching-3, when-2)
+root(ROOT-0, watching-3)
+dobj(watching-3, something-4)
+prep_on(watching-3, Youtube-6)
+
+=========
+
+advmod(of-2, all-1)
+advmod(hangs-6, of-2)
+dep(of-2, a-3)
+advmod(of-2, sudden-4)
+nsubj(hangs-6, it-5)
+root(ROOT-0, hangs-6)
+
+=========
+
+nsubj(buffer-4, and-1)
+aux(buffer-4, does-2)
+neg(buffer-4, not-3)
+root(ROOT-0, buffer-4)
+advmod(more-6, any-5)
+dep(buffer-4, more-6)
+
+=========
+
+cc(need-3, so-1)
+nsubj(need-3, you-2)
+xsubj(go-5, you-2)
+root(ROOT-0, need-3)
+aux(go-5, to-4)
+xcomp(need-3, go-5)
+xcomp(need-3, stream-7)
+conj_and(go-5, stream-7)
+dobj(go-5, it-8)
+advmod(go-5, again-9)
+
+=========
+
+mark(have-3, If-1)
+nsubj(have-3, you-2)
+csubj(bandwidth-5, have-3)
+acomp(have-3, good-4)
+root(ROOT-0, bandwidth-5)
+prep_for(bandwidth-5, internet-7)
+
+=========
+
+root(ROOT-0, go-1)
+prep_for(go-1, it-3)
+
+=========
+
+advmod(normal-2, otherwise-1)
+amod(TV-4, normal-2)
+nn(TV-4, LED-3)
+nsubj(good-9, TV-4)
+amod(ports-7, USB-6)
+prep_with(TV-4, ports-7)
+cop(good-9, is-8)
+root(ROOT-0, good-9)
+
+=========
+
+root(ROOT-0, connect-1)
+poss(laptop-3, your-2)
+dobj(connect-1, laptop-3)
+prep_to(connect-1, it-5)
+conj_and(connect-1, watch-7)
+dobj(watch-7, it-8)
+det(disturbance-11, any-10)
+prep_without(watch-7, disturbance-11)
+
+=========
+
+nsubj(stream-3, You-1)
+aux(stream-3, can-2)
+root(ROOT-0, stream-3)
+dobj(stream-3, videos-4)
+nsubj(Iphone-7, you-6)
+prepc_from(stream-3, Iphone-7)
+prep_to(Iphone-7, Youtube-9)
+nn(devices-12, Pairing-11)
+prep_by(Youtube-9, devices-12)
+
+=========
+
+det(feature-2, the-1)
+nsubj(good-4, feature-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+
+=========
+
+cc(work-4, but-1)
+aux(work-4, does-2)
+neg(work-4, not-3)
+root(ROOT-0, work-4)
+complm(great-6, that-5)
+dep(work-4, great-6)
+mark(have-11, if-7)
+nsubj(have-11, you-8)
+aux(have-11, do-9)
+neg(have-11, not-10)
+dep(great-6, have-11)
+amod(support-14, good-12)
+nn(support-14, wi-fi-13)
+dobj(have-11, support-14)
+
+=========
+
+advmod(like-3, Overall-1)
+nsubj(like-3, I-2)
+root(ROOT-0, like-3)
+dobj(like-3, it-4)
+
+=========
+
+cc(getting-9, and-1)
+nsubj(getting-9, yes-2)
+det(amount-6, the-4)
+amod(amount-6, same-5)
+prep_for(yes-2, amount-6)
+dep(amount-6, I-7)
+aux(getting-9, was-8)
+root(ROOT-0, getting-9)
+det(TV-13, a-10)
+amod(TV-13, normal-11)
+nn(TV-13, LED-12)
+dobj(getting-9, TV-13)
+
+=========
+
+advmod(preferred-2, so-1)
+root(ROOT-0, preferred-2)
+aux(get-4, to-3)
+dep(preferred-2, get-4)
+det(TV-7, a-5)
+amod(TV-7, smart-6)
+dobj(get-4, TV-7)
+
+=========
+
+root(ROOT-0, Worth-1)
+aux(take-3, to-2)
+xcomp(Worth-1, take-3)
+dobj(take-3, it-4)
+det(amount-7, the-6)
+prep_for(take-3, amount-7)
+dobj(has-9, amount-7)
+nsubj(has-9, it-8)
+rcmod(amount-7, has-9)
+
+=========
+
+det(TV-2, The-1)
+nsubj(has-5, TV-2)
+nsubj(features-9, TV-2)
+prep_such_as(TV-2, such-4)
+root(ROOT-0, has-5)
+amod(apps-7, good-6)
+dobj(has-5, apps-7)
+conj_and(has-5, features-9)
+
+=========
+
+nsubj(need-2, you-1)
+xsubj(blame-4, you-1)
+root(ROOT-0, need-2)
+aux(blame-4, to-3)
+xcomp(need-2, blame-4)
+det(ISP-6, the-5)
+dobj(blame-4, ISP-6)
+
+=========
+
+root(ROOT-0, for-1)
+amod(streaming-3, poor-2)
+pobj(for-1, streaming-3)
+
+=========
+
+

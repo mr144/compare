@@ -1,0 +1,40 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(HDTV-4, this-3)
+dobj(purchased-2, HDTV-4)
+prep_for(purchased-2, someone-6)
+nn(issues-11, vision-8)
+conj_and(vision-8, hearing-10)
+nn(issues-11, hearing-10)
+prep_with(purchased-2, issues-11)
+
+=========
+
+det(screen-2, The-1)
+nsubj(size-6, screen-2)
+cop(size-6, is-3)
+det(size-6, a-4)
+amod(size-6, good-5)
+root(ROOT-0, size-6)
+nsubj(like-9, I-8)
+conj_and(size-6, like-9)
+nn(products-11, LG-10)
+dobj(like-9, products-11)
+det(rule-14, a-13)
+prep_as(like-9, rule-14)
+
+=========
+
+cc(would-4, But-1)
+nsubj(would-4, I-3)
+root(ROOT-0, would-4)
+advmod(were-9, rather-5)
+dep(were-9, that-6)
+det(speakers-8, the-7)
+nsubj(were-9, speakers-8)
+ccomp(would-4, were-9)
+det(front-12, the-11)
+prep_in(were-9, front-12)
+

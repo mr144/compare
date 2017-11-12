@@ -1,0 +1,41 @@
+=========
+
+det(features-3, Some-1)
+amod(features-3, great-2)
+root(ROOT-0, features-3)
+det($-6, the-5)
+prep_for(features-3, $-6)
+
+=========
+
+root(ROOT-0, Super-1)
+dep(Super-1, images-2)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(lens-5, the-3)
+amod(lens-5, 18-250-4)
+dobj(recommend-2, lens-5)
+
+=========
+
+nsubj(moved-2, I-1)
+nsubj(appreciate-16, I-1)
+root(ROOT-0, moved-2)
+prt(moved-2, over-3)
+det(D50-7, a-5)
+nn(D50-7, Nikon-6)
+prep_from(moved-2, D50-7)
+det(curve-13, the-11)
+nn(curve-13, learning-12)
+prep_after(appreciate-16, curve-13)
+advmod(appreciate-16, really-15)
+ccomp(moved-2, appreciate-16)
+conj_and(moved-2, appreciate-16)
+dobj(offers-20, what-17)
+det(camera-19, this-18)
+nsubj(offers-20, camera-19)
+ccomp(appreciate-16, offers-20)
+

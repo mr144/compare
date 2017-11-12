@@ -1,0 +1,2 @@
+I_PRP am_VBP fully_RB satisfied_VBN with_IN the_DT size_NN of_IN the_DT phone_NN ,_, the_DT quality_NN of_IN the_DT product_NN ,_, the_DT battery_NN life_NN -LRB-_-LRB- lasts_VBZ me_PRP about_IN 2_CD days_NNS between_IN charges_NNS -RRB-_-RRB- ,_, and_CC reception_NN ._.
+I_PRP recommend_VBP it_PRP !!!_SYM

@@ -1,0 +1,69 @@
+=========
+
+det(seller-2, This-1)
+nsubj(excellent-4, seller-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+
+=========
+
+nsubj(sent-2, Was-1)
+nsubjpass(promised-7, Was-1)
+root(ROOT-0, sent-2)
+advmod(sent-2, quickly-3)
+auxpass(promised-7, is-5)
+advmod(promised-7, as-6)
+conj_and(sent-2, promised-7)
+
+=========
+
+root(ROOT-0, Brand-1)
+acomp(Brand-1, new-2)
+acomp(Brand-1, in-4)
+conj_and(new-2, in-4)
+det(package-6, the-5)
+prep_in(new-2, package-6)
+
+=========
+
+nsubj(opened-4, I-1)
+aux(opened-4, have-2)
+neg(opened-4, not-3)
+root(ROOT-0, opened-4)
+dobj(opened-4, it-5)
+mark(present-11, because-6)
+nsubj(present-11, it-7)
+cop(present-11, is-8)
+det(present-11, a-9)
+nn(present-11, Christmas-10)
+dep(opened-4, present-11)
+poss(wife-14, my-13)
+prep_for(present-11, wife-14)
+mark(good-21, if-16)
+det(camera-18, the-17)
+nsubj(good-21, camera-18)
+cop(good-21, is-19)
+advmod(good-21, as-20)
+dep(opened-4, good-21)
+conj_but(present-11, good-21)
+det(service-24, the-23)
+prep_as(good-21, service-24)
+dobj(perfect-28, service-24)
+nsubj(perfect-28, it-25)
+aux(perfect-28, will-26)
+cop(perfect-28, be-27)
+rcmod(service-24, perfect-28)
+
+=========
+
+nsubj(update-3, I-1)
+aux(update-3, will-2)
+root(ROOT-0, update-3)
+det(review-5, this-4)
+dobj(update-3, review-5)
+mark(over-10, once-6)
+nn(morning-8, Christmas-7)
+nsubj(over-10, morning-8)
+cop(over-10, is-9)
+advcl(update-3, over-10)
+

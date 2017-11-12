@@ -1,0 +1,49 @@
+=========
+
+nsubj(tv-5, this-1)
+cop(tv-5, is-2)
+det(tv-5, a-3)
+amod(tv-5, good-4)
+root(ROOT-0, tv-5)
+amod(picture-8, great-7)
+prep_with(tv-5, picture-8)
+partmod(picture-8, ans-9)
+det(number-12, a-10)
+amod(number-12, decent-11)
+dobj(ans-9, number-12)
+prep_of(number-12, connections-14)
+
+=========
+
+det(sound-2, The-1)
+dobj(expect-6, sound-2)
+nsubj(is-7, sound-2)
+mark(expect-6, as-3)
+nsubj(expect-6, you-4)
+aux(expect-6, might-5)
+dep(sound-2, expect-6)
+root(ROOT-0, is-7)
+det(little-9, a-8)
+npadvmod(is-7, little-9)
+det(side-13, the-11)
+amod(side-13, weak-12)
+prep_on(is-7, side-13)
+
+=========
+
+nsubj(easy-3, It-1)
+nsubj(connected-8, It-1)
+cop(easy-3, was-2)
+root(ROOT-0, easy-3)
+prep_to(easy-3, setup-5)
+dep(connected-8, get-7)
+conj_and(easy-3, connected-8)
+
+=========
+
+nsubj(purchase-3, I-1)
+aux(purchase-3, would-2)
+root(ROOT-0, purchase-3)
+dobj(purchase-3, it-4)
+advmod(purchase-3, again-5)
+

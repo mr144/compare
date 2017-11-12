@@ -1,0 +1,31 @@
+=========
+
+nsubj(arrived-2, Phone-1)
+nsubj(works-16, Phone-1)
+root(ROOT-0, arrived-2)
+det(days-5, a-3)
+amod(days-5, few-4)
+nsubj(expected-8, days-5)
+nsubj(arrived-11, days-5)
+advmod(than-7, later-6)
+advmod(expected-8, than-7)
+ccomp(arrived-2, expected-8)
+ccomp(arrived-2, arrived-11)
+conj_but(expected-8, arrived-11)
+amod(shape-14, good-13)
+prep_in(arrived-11, shape-14)
+conj_and(arrived-2, works-16)
+amod(!!-18, great-17)
+dobj(works-16, !!-18)
+advmod(pleased-20, Really-19)
+dep(works-16, pleased-20)
+prep_with(pleased-20, it-22)
+
+=========
+
+det(phone-2, This-1)
+nsubj(best-5, phone-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+

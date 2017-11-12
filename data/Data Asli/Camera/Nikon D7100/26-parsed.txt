@@ -1,0 +1,388 @@
+=========
+
+nsubj(use-2, I-1)
+nsubj(jump-6, I-1)
+root(ROOT-0, use-2)
+acomp(use-2, D7000-3)
+conj_and(use-2, jump-6)
+prep_to(use-2, D7100-8)
+advmod(available-12, when-9)
+nsubj(available-12, it-10)
+cop(available-12, is-11)
+advcl(use-2, available-12)
+mark(reason-16, for-14)
+num(reason-16, one-15)
+advcl(available-12, reason-16)
+nn(Shooting-19, Video-18)
+dep(reason-16, Shooting-19)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+dep(does-6, that-4)
+nsubj(does-6, D7000-5)
+dep(has-2, does-6)
+neg(does-6, not-7)
+nn(Meter-11, Audio-10)
+nsubj(50i\/60i-19, Meter-11)
+nn(Jack-14, Headphone-13)
+appos(Meter-11, Jack-14)
+nn(Mic-17, Stereo-16)
+appos(Jack-14, Mic-17)
+parataxis(has-2, 50i\/60i-19)
+amod(HD-22, full-21)
+prep_at(50i\/60i-19, HD-22)
+dep(50i\/60i-19, 1920X1080-24)
+
+=========
+
+cc(things-12, But-1)
+mark(use-3, after-2)
+advcl(things-12, use-3)
+dobj(use-3, it-4)
+amod(weeks-7, several-6)
+prep_for(use-3, weeks-7)
+nsubj(things-12, this-9)
+cop(things-12, is-10)
+amod(things-12, additional-11)
+root(ROOT-0, things-12)
+complm(found-15, that-13)
+nsubj(found-15, I-14)
+ccomp(things-12, found-15)
+acomp(found-15, useful-16)
+dep(useful-16, :1-17)
+
+=========
+
+root(ROOT-0, 1.3-1)
+dep(1.3-1, crop-2)
+
+=========
+
+nsubj(amazing-3, This-1)
+cop(amazing-3, is-2)
+root(ROOT-0, amazing-3)
+ccomp(amazing-3, feature-4)
+complm(use-7, that-5)
+nsubj(use-7, I-6)
+ccomp(feature-4, use-7)
+dep(often-11, more-8)
+advmod(use-7, more-10)
+conj_and(often-11, more-10)
+advmod(use-7, often-11)
+advmod(use-7, now-12)
+
+=========
+
+root(ROOT-0, Especially-1)
+advmod(using-3, when-2)
+dep(Especially-1, using-3)
+poss(14G-8, my-4)
+nn(14G-8, Nikon-5)
+nn(14G-8, 50mm-6)
+nn(14G-8, F.-7)
+dobj(using-3, 14G-8)
+dep(Especially-1, and-10)
+amod(F2-13, Tokina-11)
+amod(F2-13, 11-16mm-12)
+dep(Especially-1, F2-13)
+dep(F2-13, .8-14)
+
+=========
+
+nsubj(program-2, I-1)
+root(ROOT-0, program-2)
+det(Area-5, the-3)
+nn(Area-5, Image-4)
+dobj(program-2, Area-5)
+num(18Mp-9, 1.3-7)
+nn(18Mp-9, X-8)
+dep(Area-5, 18Mp-9)
+nn(24mp-12, DX-11)
+dep(Area-5, 24mp-12)
+conj_or(18Mp-9, 24mp-12)
+nn(button-17, Fn-16)
+prep_into(program-2, button-17)
+dep(program-2, so-19)
+nsubj(switch-22, I-20)
+aux(switch-22, can-21)
+ccomp(program-2, switch-22)
+dobj(switch-22, them-23)
+prepc_without(switch-22, leaving-25)
+poss(eye-27, my-26)
+dobj(leaving-25, eye-27)
+prep_from(leaving-25, viewfinder-29)
+
+=========
+
+advmod(need-3, Why-1)
+nsubj(need-3, I-2)
+root(ROOT-0, need-3)
+dobj(need-3, this-4)
+
+=========
+
+aux(make-2, To-1)
+csubj(lens-8, make-2)
+poss(lens-5, my-3)
+amod(lens-5, 50mm-4)
+dobj(make-2, lens-5)
+cop(lens-8, become-6)
+amod(lens-8, 65mm-7)
+root(ROOT-0, lens-8)
+
+=========
+
+cc(14-20mm-6, Or-1)
+csubj(14-20mm-6, making-2)
+poss(11-16mm-4, my-3)
+dobj(making-2, 11-16mm-4)
+cop(14-20mm-6, become-5)
+root(ROOT-0, 14-20mm-6)
+
+=========
+
+root(ROOT-0, Fantastic-1)
+
+=========
+
+advmod(11-16mm-4, Now-1)
+poss(Tokina-3, my-2)
+nsubj(11-16mm-4, Tokina-3)
+root(ROOT-0, 11-16mm-4)
+xcomp(11-16mm-4, becoming-5)
+advmod(portrait-8, more-6)
+amod(.2-11, portrait-8)
+amod(.2-11, friendly-10)
+attr(becoming-5, .2-11)
+
+=========
+
+root(ROOT-0, Auto-focus-1)
+
+=========
+
+det(surprise-2, No-1)
+nsubj(better-8, surprise-2)
+det(auto-focus-5, the-4)
+appos(surprise-2, auto-focus-5)
+cop(better-8, is-6)
+advmod(better-8, much-7)
+root(ROOT-0, better-8)
+prep_than(better-8, D7000-10)
+
+=========
+
+nsubj(consistent-4, It-1)
+nsubj(faster-9, It-1)
+cop(consistent-4, is-2)
+advmod(consistent-4, more-3)
+root(ROOT-0, consistent-4)
+quantmod(bit-8, little-7)
+npadvmod(faster-9, bit-8)
+conj_and(consistent-4, faster-9)
+
+=========
+
+cc(perform-3, And-1)
+advmod(perform-3, also-2)
+root(ROOT-0, perform-3)
+advmod(better-5, slightly-4)
+acomp(perform-3, better-5)
+amod(light-8, low-7)
+prep_in(better-5, light-8)
+nsubj(perform-3, .3-9)
+
+=========
+
+root(ROOT-0, 24Mpix-1)
+
+=========
+
+nsubj(has-4, This-1)
+aux(has-4, is-2)
+advmod(has-4, actually-3)
+root(ROOT-0, has-4)
+det(result-7, a-5)
+amod(result-7, mixed-6)
+dobj(has-4, result-7)
+
+=========
+
+prep_on(becomes-14, 24Mpix-2)
+parataxis(becomes-14, DX-4)
+nn(Area-6, Image-5)
+dobj(DX-4, Area-6)
+dep(DX-4, see-8)
+dobj(see-8, point-9)
+dobj(DX-4, 1-10)
+nsubj(becomes-14, it-13)
+root(ROOT-0, becomes-14)
+advmod(slower-16, noticeably-15)
+dep(becomes-14, slower-16)
+nsubj(shoot-20, I-18)
+advmod(shoot-20, always-19)
+parataxis(becomes-14, shoot-20)
+nn(Fine-25, RAW-21)
+nn(Fine-25, uncompressed-22)
+nn(Fine-25, +-23)
+nn(Fine-25, Jpeg-24)
+dobj(shoot-20, Fine-25)
+
+=========
+
+det(hand-4, the-2)
+amod(hand-4, other-3)
+prep_on(snappier-14, hand-4)
+prep_at(snappier-14, 18Mpix-7)
+number(Crop-10, 1.3-9)
+dep(18Mpix-7, Crop-10)
+nsubj(snappier-14, it-12)
+nsubj(comparable-16, it-12)
+cop(snappier-14, is-13)
+root(ROOT-0, snappier-14)
+conj_and(snappier-14, comparable-16)
+aux(D7000-18, to-17)
+xcomp(snappier-14, D7000-18)
+prep_in(D7000-18, terms-20)
+amod(.4-23, speed\/response-22)
+prep_of(terms-20, .4-23)
+
+=========
+
+amod(quality-2, Image-1)
+root(ROOT-0, quality-2)
+nsubj(find-5, I-4)
+dep(quality-2, find-5)
+nsubj(better-10, it-6)
+det(bit-9, a-7)
+amod(bit-9, little-8)
+npadvmod(better-10, bit-9)
+xcomp(find-5, better-10)
+prep_than(better-10, D7000-12)
+xcomp(find-5, not-15)
+conj_but(better-10, not-15)
+neg(better-10, not-15)
+advmod(better-10, really-16)
+dep(really-16, impressing-17)
+prepc_like(impressing-17, jumping-19)
+number(D200-23, D100-21)
+dep(D200-23, to-22)
+prep_from(jumping-19, D200-23)
+number(D300-28, D200-26)
+dep(D300-28, to-27)
+prep_from(jumping-19, D300-28)
+conj_or(D200-23, D300-28)
+conj_or(D200-23, D300-31)
+conj_or(D300-28, D300-31)
+prep_to(D300-31, D3S-33)
+
+=========
+
+det(cons-2, The-1)
+root(ROOT-0, cons-2)
+prep_at(slower-13, 24Mpix-5)
+nn(mode-8, DX-7)
+abbrev(24Mpix-5, mode-8)
+nsubj(slower-13, it-11)
+cop(slower-13, becomes-12)
+dep(cons-2, slower-13)
+
+=========
+
+cc(take-11, And-1)
+advmod(need-4, when-2)
+nsubj(need-4, I-3)
+xsubj(preview-6, I-3)
+advcl(take-11, need-4)
+aux(preview-6, to-5)
+xcomp(need-4, preview-6)
+det(Image-8, the-7)
+dobj(preview-6, Image-8)
+nsubj(take-11, it-10)
+root(ROOT-0, take-11)
+quantmod(times-13, some-12)
+dobj(take-11, times-13)
+prep_to(take-11, response-15)
+neg(like-18, not-17)
+dep(take-11, like-18)
+pobj(like-18, D7000-19)
+nsubj(snap-22, D7000-19)
+cop(snap-22, is-21)
+rcmod(D7000-19, snap-22)
+
+=========
+
+nsubj(have-4, I-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+det(chance-6, a-5)
+dobj(have-4, chance-6)
+aux(test-8, to-7)
+infmod(chance-6, test-8)
+dobj(test-8, it-9)
+amod(card-13, fastest-11)
+nn(card-13, SD-12)
+prep_with(test-8, card-13)
+appos(card-13, 90MB\/s-15)
+
+=========
+
+nsubj(use-3, I-1)
+advmod(use-3, only-2)
+root(ROOT-0, use-3)
+nn(Extreme-5, SanDisk-4)
+nsubj(45MB\/s-6, Extreme-5)
+xcomp(use-3, 45MB\/s-6)
+
+=========
+
+advmod(faster-28, Probably-1)
+advmod(use-5, when-3)
+nsubj(use-5, I-4)
+nsubj(split-12, I-4)
+advcl(faster-28, use-5)
+det(card-9, a-6)
+amod(card-9, 90MB\/s-7)
+nn(card-9, SD-8)
+dobj(use-5, card-9)
+conj_and(use-5, split-12)
+advcl(faster-28, split-12)
+dobj(split-12, NEF-13)
+prep_in(NEF-13, slot-15)
+num(slot-15, 1-16)
+dobj(split-12, JPG-18)
+conj_and(NEF-13, JPG-18)
+prep_in(JPG-18, slot-20)
+num(slot-20, 2-21)
+det(response-24, the-23)
+nsubj(faster-28, response-24)
+aux(faster-28, will-25)
+cop(faster-28, be-26)
+advmod(faster-28, much-27)
+root(ROOT-0, faster-28)
+
+=========
+
+root(ROOT-0, Conclusion-1)
+prep_for(worth-10, me-4)
+nsubj(worth-10, it-6)
+nsubj(applicable-17, it-6)
+cop(worth-10, is-7)
+dep(worth-10, a-8)
+advmod(worth-10, really-9)
+dep(Conclusion-1, worth-10)
+det(upgrade-12, the-11)
+dep(worth-10, upgrade-12)
+advmod(applicable-17, probably-15)
+neg(applicable-17, not-16)
+dep(Conclusion-1, applicable-17)
+conj_but(worth-10, applicable-17)
+det(person-21, any-19)
+amod(person-21, other-20)
+prep_to(applicable-17, person-21)
+amod(requirement-24, different-23)
+prep_with(person-21, requirement-24)
+

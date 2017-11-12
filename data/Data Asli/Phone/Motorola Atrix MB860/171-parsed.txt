@@ -1,0 +1,410 @@
+=========
+
+nsubj(owned-3, I-1)
+aux(owned-3, have-2)
+root(ROOT-0, owned-3)
+det(phone-5, this-4)
+dobj(owned-3, phone-5)
+quantmod(10-8, about-7)
+num(months-9, 10-8)
+prep_for(phone-5, months-9)
+advmod(owned-3, now-10)
+
+=========
+
+nsubj(fast-4, It-1)
+cop(fast-4, is-2)
+advmod(fast-4, generally-3)
+root(ROOT-0, fast-4)
+det(hardware-7, the-6)
+nsubj(good-10, hardware-7)
+cop(good-10, is-8)
+advmod(good-10, very-9)
+conj_and(fast-4, good-10)
+
+=========
+
+det(screen-2, The-1)
+nsubj(clear-5, screen-2)
+cop(clear-5, is-3)
+advmod(clear-5, very-4)
+root(ROOT-0, clear-5)
+det(factor-9, the-7)
+nn(factor-9, form-8)
+nsubj(pleasing-11, factor-9)
+cop(pleasing-11, is-10)
+conj_and(clear-5, pleasing-11)
+
+=========
+
+advmod(works-6, Most-1)
+det(time-4, the-3)
+prep_of(Most-1, time-4)
+nsubj(works-6, it-5)
+root(ROOT-0, works-6)
+advmod(nicely-8, very-7)
+advmod(works-6, nicely-8)
+
+=========
+
+nsubj(smartphone-5, it-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, best-4)
+root(ROOT-0, smartphone-5)
+
+=========
+
+nsubj(liked-3, I-1)
+advmod(liked-3, really-2)
+root(ROOT-0, liked-3)
+dobj(liked-3, it-4)
+prep_at(liked-3, first-6)
+cc(plagued-21, But-8)
+det(apps-11, the-9)
+nn(apps-11, software-10)
+nsubjpass(plagued-21, apps-11)
+det(OS-15, the-13)
+nn(OS-15, Android-14)
+conj_and(apps-11, OS-15)
+dobj(run-17, OS-15)
+nsubjpass(plagued-21, OS-15)
+nsubj(run-17, they-16)
+rcmod(OS-15, run-17)
+prt(run-17, on-18)
+aux(plagued-21, has-19)
+auxpass(plagued-21, been-20)
+parataxis(liked-3, plagued-21)
+prep_with(plagued-21, problems-23)
+det(beginning-26, the-25)
+prep_from(problems-23, beginning-26)
+
+=========
+
+poss(irritation-3, My-1)
+amod(irritation-3, biggest-2)
+nsubj(is-4, irritation-3)
+root(ROOT-0, is-4)
+advmod(locks-7, when-5)
+nsubj(locks-7, it-6)
+nsubj(reboots-10, it-6)
+advcl(is-4, locks-7)
+prt(locks-7, up-8)
+advcl(is-4, reboots-10)
+conj_or(locks-7, reboots-10)
+dobj(reboots-10, itself-11)
+prepc_while(reboots-10, playing-13)
+dobj(playing-13, music-14)
+
+=========
+
+det(upgrade-4, A-1)
+amod(upgrade-4, recent-2)
+nn(upgrade-4, OS-3)
+nsubj(fixed-5, upgrade-4)
+root(ROOT-0, fixed-5)
+dobj(fixed-5, much-6)
+det(problem-9, this-8)
+prep_of(much-6, problem-9)
+nsubj(happens-14, it-12)
+advmod(happens-14, still-13)
+conj_but(fixed-5, happens-14)
+prep_on(happens-14, occasion-16)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(kinds-4, all-3)
+dobj(has-2, kinds-4)
+dobj(have-11, kinds-4)
+amod(glitches-7, little-6)
+prep_of(kinds-4, glitches-7)
+nsubj(have-11, I-8)
+xsubj(deal-13, I-8)
+aux(have-11, do-9)
+neg(have-11, not-10)
+rcmod(kinds-4, have-11)
+aux(deal-13, to-12)
+xcomp(have-11, deal-13)
+prep(deal-13, with-14)
+pcomp(with-14, in-15)
+poss(iPad-17, my-16)
+prep_in(with-14, iPad-17)
+
+=========
+
+num(irritation-3, One-1)
+amod(irritation-3, big-2)
+nsubj(responsiveness-5, irritation-3)
+cop(responsiveness-5, is-4)
+root(ROOT-0, responsiveness-5)
+det(screen-9, the-7)
+nn(screen-9, touch-8)
+prep_to(responsiveness-5, screen-9)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+nsubj(are-2, times-3)
+nsubj(touch-5, you-4)
+rcmod(times-3, touch-5)
+det(button-7, a-6)
+iobj(touch-5, button-7)
+det(screen-10, the-9)
+prep_on(button-7, screen-10)
+amod(times-12, several-11)
+dobj(touch-5, times-12)
+nsubj(does-15, it-14)
+conj_and(are-2, does-15)
+dobj(does-15, nothing-16)
+
+=========
+
+advmod(annoying-2, Very-1)
+root(ROOT-0, annoying-2)
+
+=========
+
+det(\*-5, This-1)
+advmod(\*-3, virtually-2)
+amod(\*-5, \*-3)
+nn(\*-5, NEVER-4)
+nsubj(happens-6, \*-5)
+root(ROOT-0, happens-6)
+poss(iPad-9, my-8)
+prep_on(happens-6, iPad-9)
+
+=========
+
+cc(believe-2, And-1)
+ccomp(nut-10, believe-2)
+dobj(believe-2, me-3)
+nsubj(nut-10, I-5)
+cop(nut-10, am-6)
+neg(nut-10, not-7)
+det(nut-10, a-8)
+amod(nut-10, religious-9)
+root(ROOT-0, nut-10)
+nn(products-13, Apple-12)
+prep_about(nut-10, products-13)
+
+=========
+
+amod(apps-2, iPad-1)
+nsubj(looking-6, apps-2)
+nsubj(more-8, apps-2)
+cop(looking-6, are-3)
+advmod(looking-6, more-4)
+dep(looking-6, professional-5)
+root(ROOT-0, looking-6)
+conj_and(looking-6, more-8)
+nsubj(seem-10, importantly-9)
+xsubj(work-12, importantly-9)
+ccomp(more-8, seem-10)
+aux(work-12, to-11)
+xcomp(seem-10, work-12)
+advmod(more-14, much-13)
+advmod(work-12, more-14)
+advmod(work-12, reliably-15)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+amod(apps-6, several-4)
+nn(apps-6, Android-5)
+dobj(had-3, apps-6)
+auxpass(confused-9, get-7)
+dep(had-3, confused-9)
+dep(had-3, have-12)
+conj_and(confused-9, have-12)
+aux(exit-14, to-13)
+xcomp(have-12, exit-14)
+dobj(exit-14, them-15)
+dep(had-3, start-17)
+conj_and(confused-9, start-17)
+prt(start-17, over-18)
+
+=========
+
+nsubj(updated-3, I-1)
+aux(updated-3, have-2)
+root(ROOT-0, updated-3)
+det(OS-5, the-4)
+xcomp(updated-3, OS-5)
+advmod(possible-7, whenever-6)
+advcl(updated-3, possible-7)
+
+=========
+
+nsubj(upgraded-3, I-1)
+aux(upgraded-3, have-2)
+root(ROOT-0, upgraded-3)
+det(memory-6, the-4)
+nn(memory-6, flash-5)
+dobj(upgraded-3, memory-6)
+
+=========
+
+nsubj(taken-3, I-1)
+xsubj(rebooting-5, I-1)
+aux(taken-3, have-2)
+root(ROOT-0, taken-3)
+aux(rebooting-5, to-4)
+xcomp(taken-3, rebooting-5)
+det(phone-7, the-6)
+dobj(rebooting-5, phone-7)
+advmod(daily-9, almost-8)
+advmod(rebooting-5, daily-9)
+
+=========
+
+nsubj(used-3, I-1)
+aux(used-3, have-2)
+root(ROOT-0, used-3)
+amod(accessories-6, multiple-4)
+nn(accessories-6, bluetooth-5)
+dobj(used-3, accessories-6)
+nn(playback-9, music-8)
+prep_for(used-3, playback-9)
+
+=========
+
+advmod(persist-5, Still-1)
+det(problems-4, the-2)
+amod(problems-4, buggy-3)
+nsubj(persist-5, problems-4)
+root(ROOT-0, persist-5)
+
+=========
+
+mark(said-3, As-1)
+nsubj(said-3, I-2)
+advcl(wanted-7, said-3)
+nsubj(wanted-7, I-5)
+xsubj(like-9, I-5)
+advmod(wanted-7, really-6)
+root(ROOT-0, wanted-7)
+aux(like-9, to-8)
+xcomp(wanted-7, like-9)
+det(phone-11, this-10)
+dobj(like-9, phone-11)
+
+=========
+
+nsubj(get-4, I-1)
+aux(get-4, did-2)
+neg(get-4, not-3)
+root(ROOT-0, get-4)
+det(iPhone-7, the-5)
+amod(iPhone-7, newest-6)
+dobj(get-4, iPhone-7)
+mark(offer-13, because-8)
+det(4s-10, the-9)
+nsubj(offer-13, 4s-10)
+aux(offer-13, did-11)
+neg(offer-13, not-12)
+advcl(get-4, offer-13)
+num(speed-15, 4G-14)
+dobj(offer-13, speed-15)
+nsubj(think-18, I-17)
+conj_and(get-4, think-18)
+nsubj(overpriced-21, it-19)
+cop(overpriced-21, is-20)
+ccomp(think-18, overpriced-21)
+
+=========
+
+cc(wanted-3, And-1)
+nsubj(wanted-3, I-2)
+xsubj(give-5, I-2)
+root(ROOT-0, wanted-3)
+aux(give-5, to-4)
+xcomp(wanted-3, give-5)
+iobj(give-5, Android-6)
+det(chance-8, a-7)
+dobj(give-5, chance-8)
+
+=========
+
+advmod(works-4, When-1)
+poss(Atrix-3, my-2)
+nsubj(works-4, Atrix-3)
+advcl(do-7, works-4)
+nsubj(do-7, I-6)
+root(ROOT-0, do-7)
+prep_like(do-7, it-9)
+
+=========
+
+nsubj(have-5, I-2)
+xsubj(put-7, I-2)
+aux(have-5, do-3)
+neg(have-5, not-4)
+root(ROOT-0, have-5)
+aux(put-7, to-6)
+xcomp(have-5, put-7)
+prt(put-7, up-8)
+det(problems-11, these-10)
+prep_with(put-7, problems-11)
+poss(iPad-14, my-13)
+prep_with(problems-11, iPad-14)
+nsubj(guessing-19, I-17)
+aux(guessing-19, am-18)
+conj_and(have-5, guessing-19)
+det(iPhone-21, the-20)
+nsubj(same-25, iPhone-21)
+aux(same-25, will-22)
+cop(same-25, be-23)
+det(same-25, the-24)
+ccomp(guessing-19, same-25)
+
+=========
+
+advmod(comes-5, When-1)
+det(iPhone-4, the-2)
+amod(iPhone-4, next-3)
+nsubj(comes-5, iPhone-4)
+advcl(headed-11, comes-5)
+prt(comes-5, out-6)
+det(Atrix-9, this-8)
+nsubjpass(headed-11, Atrix-9)
+auxpass(headed-11, is-10)
+root(ROOT-0, headed-11)
+det(can-15, the-13)
+nn(can-15, garbage-14)
+prep_for(headed-11, can-15)
+
+=========
+
+nsubj(smartphone-5, it-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, best-4)
+root(ROOT-0, smartphone-5)
+
+=========
+
+advmod(smash-4, Right-1)
+prep_after(Right-1, I-3)
+root(ROOT-0, smash-4)
+dobj(smash-4, it-5)
+det(hammer-8, a-7)
+prep_with(smash-4, hammer-8)
+
+=========
+
+nsubj(first-4, This-1)
+cop(first-4, was-2)
+poss(first-4, my-3)
+root(ROOT-0, first-4)
+aux(phone-11, will-6)
+cop(phone-11, be-7)
+poss(phone-11, my-8)
+amod(phone-11, last-9)
+nn(phone-11, Motorola-10)
+conj_and(first-4, phone-11)
+

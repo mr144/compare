@@ -1,0 +1,112 @@
+=========
+
+nn(P90-3, Nikon-1)
+nn(P90-3, Coolpix-2)
+nsubj(camera-7, P90-3)
+cop(camera-7, is-4)
+det(camera-7, a-5)
+amod(camera-7, wonderful-6)
+root(ROOT-0, camera-7)
+prep_for(camera-7, beginners-9)
+amod(photographers-13, more-11)
+amod(photographers-13, advanced-12)
+prep_for(camera-7, photographers-13)
+conj_or(beginners-9, photographers-13)
+
+=========
+
+nsubj(easy-4, It-1)
+xsubj(use-6, It-1)
+cop(easy-4, 's-2)
+advmod(easy-4, very-3)
+root(ROOT-0, easy-4)
+aux(use-6, to-5)
+xcomp(easy-4, use-6)
+nn(setting-9, auto-8)
+prep_on(use-6, setting-9)
+det(3-13, the-12)
+poss(screen-16, 3-13)
+nn(screen-16, LCD-15)
+nsubj(great-18, screen-16)
+cop(great-18, is-17)
+conj_and(easy-4, great-18)
+prep_for(great-18, review-20)
+
+=========
+
+poss(feature-3, My-1)
+amod(feature-3, favorite-2)
+nsubj(zoom-6, feature-3)
+cop(zoom-6, is-4)
+det(zoom-6, the-5)
+root(ROOT-0, zoom-6)
+nsubj(makes-9, zoom-6)
+rcmod(zoom-6, makes-9)
+dobj(makes-9, picture-10)
+partmod(picture-10, taking-11)
+advmod(easy-13, so-12)
+acomp(taking-11, easy-13)
+
+=========
+
+poss(complaint-3, My-1)
+amod(complaint-3, only-2)
+nsubj(is-4, complaint-3)
+root(ROOT-0, is-4)
+complm(charged-12, that-5)
+det(battery-8, the-6)
+amod(battery-8, rechargeable-7)
+nsubjpass(charged-12, battery-8)
+nsubj(remember-15, battery-8)
+xsubj(buy-17, battery-8)
+nsubj(charge-21, battery-8)
+auxpass(charged-12, was-9)
+neg(charged-12, not-10)
+advmod(charged-12, fully-11)
+ccomp(is-4, charged-12)
+advmod(remember-15, so-14)
+ccomp(is-4, remember-15)
+conj_or(charged-12, remember-15)
+aux(buy-17, to-16)
+xcomp(remember-15, buy-17)
+det(spare-19, a-18)
+dobj(buy-17, spare-19)
+ccomp(is-4, charge-21)
+conj_or(charged-12, charge-21)
+dobj(charge-21, it-22)
+prep_at(charge-21, home-24)
+
+=========
+
+det(camera-2, The-1)
+nsubj(exceeded-4, camera-2)
+aux(exceeded-4, has-3)
+root(ROOT-0, exceeded-4)
+poss(expectations-6, our-5)
+dobj(exceeded-4, expectations-6)
+det(way-9, every-8)
+prep_in(exceeded-4, way-9)
+
+=========
+
+nsubj(hesitate-4, I-1)
+xsubj(recommend-6, I-1)
+aux(hesitate-4, would-2)
+neg(hesitate-4, not-3)
+root(ROOT-0, hesitate-4)
+aux(recommend-6, to-5)
+xcomp(hesitate-4, recommend-6)
+dobj(recommend-6, it-7)
+prep_to(recommend-6, anyone-9)
+
+=========
+
+nsubj('s-2, It-1)
+root(ROOT-0, 's-2)
+advmod('s-2, definitely-3)
+det(price-6, the-5)
+prep_worth('s-2, price-6)
+det(zoom-9, the-8)
+prep_for(price-6, zoom-9)
+advmod('s-2, alone-10)
+

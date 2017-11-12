@@ -1,0 +1,330 @@
+=========
+
+det(DMC-ZS8-2, The-1)
+nsubj(is-3, DMC-ZS8-2)
+dep(say-8, is-3)
+conj_or(is-3, should-6)
+dep(say-8, should-6)
+nsubj(say-8, I-7)
+root(ROOT-0, say-8)
+dep(say-8, was-10)
+det(camera-15, a-13)
+amod(camera-15, great-14)
+dep(say-8, camera-15)
+
+=========
+
+advmod(camera-9, Unfortunately-1)
+nsubj(camera-9, this-3)
+cop(camera-9, is-4)
+det(camera-9, the-5)
+amod(camera-9, second-6)
+nn(camera-9, Panasonic-7)
+nn(camera-9, Lumix-8)
+root(ROOT-0, camera-9)
+complm(purchased-12, that-10)
+nsubj(purchased-12, we-11)
+ccomp(camera-9, purchased-12)
+complm(failed-15, that-13)
+aux(failed-15, has-14)
+ccomp(purchased-12, failed-15)
+prep_on(failed-15, us-17)
+
+=========
+
+nsubj(forget-2, I-1)
+root(ROOT-0, forget-2)
+det(number-5, the-3)
+nn(number-5, model-4)
+dobj(forget-2, number-5)
+det(one-9, the-7)
+amod(one-9, first-8)
+prep_of(number-5, one-9)
+nsubj(took-13, it-12)
+conj_but(forget-2, took-13)
+amod(photos-15, wonderful-14)
+dobj(took-13, photos-15)
+quantmod(3-18, about-17)
+num(years-19, 3-18)
+prep_for(took-13, years-19)
+advmod(took-13, then-21)
+det(lens-23, the-22)
+nsubj(open-26, lens-23)
+aux(open-26, would-24)
+neg(open-26, not-25)
+dep(took-13, open-26)
+advmod(open-26, completely-27)
+
+=========
+
+nsubj(liked-2, We-1)
+root(ROOT-0, liked-2)
+det(camera-4, the-3)
+dobj(liked-2, camera-4)
+advmod(much-6, so-5)
+advmod(liked-2, much-6)
+dep(decided-9, that-7)
+nsubj(decided-9, we-8)
+xsubj(spend-11, we-8)
+ccomp(much-6, decided-9)
+aux(spend-11, to-10)
+xcomp(decided-9, spend-11)
+dobj(spend-11, $-12)
+num($-12, 150-13)
+aux(have-15, to-14)
+xcomp(spend-11, have-15)
+nsubj(repaired-17, it-16)
+ccomp(have-15, repaired-17)
+
+=========
+
+det(arepaired-2, The-1)
+poss(camera-4, arepaired-2)
+nsubj(worked-5, camera-4)
+root(ROOT-0, worked-5)
+mark(failed-15, for-6)
+advmod(year-9, about-7)
+det(year-9, a-8)
+nsubj(failed-15, year-9)
+advmod(less-12, maybe-11)
+appos(year-9, less-12)
+advmod(failed-15, then-14)
+advcl(worked-5, failed-15)
+advmod(failed-15, again-16)
+
+=========
+
+amod(problem-2, Same-1)
+root(ROOT-0, problem-2)
+nsubj(open-7, lens-4)
+aux(open-7, would-5)
+neg(open-7, not-6)
+dep(problem-2, open-7)
+advmod(open-7, completely-8)
+
+=========
+
+root(ROOT-0, Waste-1)
+prep_of(Waste-1, $-3)
+num($-3, 150-4)
+
+=========
+
+nsubj(searched-2, I-1)
+root(ROOT-0, searched-2)
+det(camera-6, a-4)
+nn(camera-6, replacement-5)
+prep_for(searched-2, camera-6)
+nsubj(find-11, I-8)
+aux(find-11, could-9)
+neg(find-11, not-10)
+conj_but(searched-2, find-11)
+dobj(find-11, anything-12)
+det(price-16, a-14)
+amod(price-16, reasonable-15)
+prep_at(find-11, price-16)
+nsubj(measured-18, price-16)
+rcmod(price-16, measured-18)
+prt(measured-18, up-19)
+det(combination-22, the-21)
+prep_to(measured-18, combination-22)
+prep_of(combination-22, Panasonic-24)
+prep_of(combination-22, Leica-26)
+conj_and(Panasonic-24, Leica-26)
+
+=========
+
+dep(bought-3, So-1)
+nsubj(bought-3, I-2)
+root(ROOT-0, bought-3)
+det(DMC-ZS8-5, the-4)
+dobj(bought-3, DMC-ZS8-5)
+
+=========
+
+nsubj(camera-8, It-1)
+advmod(camera-8, too-3)
+cop(camera-8, WAS-5)
+det(camera-8, a-6)
+amod(camera-8, great-7)
+root(ROOT-0, camera-8)
+
+=========
+
+cc(lasted-5, But-1)
+nsubj(lasted-5, it-3)
+advmod(lasted-5, only-4)
+root(ROOT-0, lasted-5)
+num(months-7, 15-6)
+tmod(lasted-5, months-7)
+
+=========
+
+advmod(displays-4, Now-1)
+nsubj(displays-4, it-2)
+advmod(displays-4, just-3)
+root(ROOT-0, displays-4)
+nn(error-7, System-6)
+dobj(displays-4, error-7)
+appos(error-7, Focus-9)
+det(screen-14, the-13)
+prep_on(displays-4, screen-14)
+
+=========
+
+nsubj(do-4, It-1)
+aux(do-4, does-2)
+neg(do-4, not-3)
+root(ROOT-0, do-4)
+dobj(do-4, anything-5)
+
+=========
+
+nn(service-3, Panasonic-1)
+nn(service-3, customer-2)
+nsubj(offered-4, service-3)
+root(ROOT-0, offered-4)
+det(HELP-6, NO-5)
+dobj(offered-4, HELP-6)
+mark(expired-13, because-7)
+det(warranty-11, the-8)
+num(warranty-11, 1-9)
+nn(warranty-11, year-10)
+nsubj(expired-13, warranty-11)
+aux(expired-13, had-12)
+advcl(offered-4, expired-13)
+
+=========
+
+nsubj(want-2, They-1)
+root(ROOT-0, want-2)
+dobj(want-2, $-3)
+num($-3, 180-4)
+aux(repair-6, to-5)
+xcomp(want-2, repair-6)
+nsubj(Let-18, it-7)
+dep(Let-18, !!-8)
+nsubj(cost-12, It-10)
+advmod(cost-12, only-11)
+dep(Let-18, cost-12)
+dep(cost-12, $-13)
+num($-13, 150-14)
+amod(!!-16, new-15)
+dobj(cost-12, !!-16)
+xcomp(repair-6, Let-18)
+dobj(Let-18, me-19)
+advmod(Let-18, just-20)
+dep(Let-18, emphasize-21)
+advmod(emphasize-21, here-22)
+complm(do-25, that-23)
+nsubj(do-25, we-24)
+ccomp(emphasize-21, do-25)
+neg(cameras-28, not-26)
+nn(cameras-28, abuse-27)
+nsubj(else-31, cameras-28)
+conj_or(cameras-28, anything-30)
+nsubj(else-31, anything-30)
+xcomp(do-25, else-31)
+complm(own-34, that-32)
+nsubj(own-34, we-33)
+ccomp(do-25, own-34)
+
+=========
+
+nsubj(handle-2, We-1)
+root(ROOT-0, handle-2)
+dobj(handle-2, them-3)
+advmod(carefully-5, very-4)
+advmod(handle-2, carefully-5)
+
+=========
+
+nsubj(thought-2, I-1)
+root(ROOT-0, thought-2)
+nsubj(able-7, I-3)
+aux(able-7, would-4)
+neg(able-7, not-5)
+cop(able-7, be-6)
+ccomp(thought-2, able-7)
+aux(beat-9, to-8)
+xcomp(able-7, beat-9)
+nn(electronics-11, Panasonic-10)
+dobj(beat-9, electronics-11)
+prep(beat-9, combined-12)
+pcomp(combined-12, with-13)
+det(lens-16, a-14)
+nn(lens-16, Leica-15)
+prep_with(combined-12, lens-16)
+
+=========
+
+nsubj(guess-2, I-1)
+root(ROOT-0, guess-2)
+nsubj(wrong-5, I-3)
+cop(wrong-5, was-4)
+ccomp(guess-2, wrong-5)
+
+=========
+
+dep(shame-6, Fool-2)
+dobj(Fool-2, me-3)
+advmod(Fool-2, once-4)
+root(ROOT-0, shame-6)
+prep_on(shame-6, you-8)
+
+=========
+
+root(ROOT-0, Fool-1)
+dobj(Fool-1, me-2)
+advmod(Fool-1, twice-3)
+dobj(Fool-1, shame-5)
+prep_on(shame-5, me-7)
+
+=========
+
+nsubj(buy-4, I-1)
+nsubj(unlikely-12, I-1)
+aux(buy-4, will-2)
+neg(buy-4, never-3)
+root(ROOT-0, buy-4)
+det(camera-7, another-5)
+nn(camera-7, Panasonic-6)
+dobj(buy-4, camera-7)
+aux(unlikely-12, will-10)
+cop(unlikely-12, be-11)
+conj_and(buy-4, unlikely-12)
+aux(buy-14, to-13)
+xcomp(unlikely-12, buy-14)
+dobj(buy-14, anything-15)
+advmod(anything-15, else-16)
+prep_from(anything-15, Panasonic-18)
+advmod(buy-14, again-19)
+
+=========
+
+mark(considering-4, If-1)
+nsubj(considering-4, you-2)
+aux(considering-4, are-3)
+advcl(urge-11, considering-4)
+det(camera-6, this-5)
+dobj(considering-4, camera-6)
+nsubj(urge-11, I-8)
+aux(urge-11, would-9)
+advmod(urge-11, strongly-10)
+root(ROOT-0, urge-11)
+nsubj(look-14, you-12)
+aux(look-14, to-13)
+xcomp(urge-11, look-14)
+det(brand-17, another-16)
+prep_to(look-14, brand-17)
+
+=========
+
+nsubj(heading-3, I-1)
+aux(heading-3, am-2)
+root(ROOT-0, heading-3)
+advmod(heading-3, straight-4)
+prep_for(heading-3, Canon-6)
+prep_for(heading-3, Nikon-8)
+conj_or(Canon-6, Nikon-8)
+

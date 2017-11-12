@@ -1,0 +1,4 @@
+It_PRP is_VBZ a_DT great_JJ smartphone_NN ._.
+I_PRP like_VBP the_DT design_NN so_IN that_IN it_PRP is_VBZ thinner_JJR than_IN other_JJ blackberry_NN models_NNS ._.
+The_DT delivery_NN was_VBD in_IN estimated_VBN date_NN ._.
+I_PRP recomend_VBP this_DT product_NN ._.

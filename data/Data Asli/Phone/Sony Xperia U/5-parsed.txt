@@ -1,0 +1,118 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+poss(cousin-7, my-6)
+prep_for(bought-2, cousin-7)
+mark(Sony-11, because-8)
+nsubj(Sony-11, it-9)
+cop(Sony-11, is-10)
+advcl(bought-2, Sony-11)
+predet(reviews-17, all-14)
+det(reviews-17, those-15)
+amod(reviews-17, positive-16)
+advcl(bought-2, reviews-17)
+conj_and(Sony-11, reviews-17)
+
+=========
+
+nsubj(compare-6, It-1)
+cop(compare-6, is-2)
+num(compare-6, &#34;-3)
+amod(compare-6, small-4)
+num(compare-6, &#34;-5)
+root(ROOT-0, compare-6)
+poss(standard-10, today-8)
+prep_with(compare-6, standard-10)
+
+=========
+
+cc(feels-3, But-1)
+nsubj(feels-3, it-2)
+root(ROOT-0, feels-3)
+acomp(feels-3, good-4)
+advmod(holding-6, when-5)
+advcl(feels-3, holding-6)
+
+=========
+
+det(display-2, The-1)
+nsubj(was-3, display-2)
+root(ROOT-0, was-3)
+advmod(was-3, blinking-4)
+det(TV-8, an-6)
+amod(TV-8, old-7)
+prep_like(was-3, TV-8)
+prep_without(was-3, signal-10)
+det(first-13, the-12)
+prep_at(signal-10, first-13)
+partmod(first-13, set-14)
+prt(set-14, up-15)
+
+=========
+
+advmod(complains-4, Then-1)
+poss(cousin-3, my-2)
+nsubj(complains-4, cousin-3)
+nsubj(have-14, cousin-3)
+xsubj(restart-16, cousin-3)
+root(ROOT-0, complains-4)
+nsubj(turning-8, it-5)
+aux(turning-8, is-6)
+neg(turning-8, not-7)
+ccomp(complains-4, turning-8)
+prt(turning-8, on-9)
+prep_after(turning-8, charge-11)
+conj_and(complains-4, have-14)
+aux(restart-16, to-15)
+xcomp(have-14, restart-16)
+nsubj(reconnect-19, it-17)
+aux(reconnect-19, to-18)
+xcomp(restart-16, reconnect-19)
+prep_to(reconnect-19, service-21)
+
+=========
+
+nsubj(believe-2, I-1)
+root(ROOT-0, believe-2)
+nsubj(product-6, it-3)
+cop(product-6, is-4)
+amod(product-6, fine-5)
+ccomp(believe-2, product-6)
+mark(received-9, for-7)
+nsubj(received-9, it-8)
+advcl(product-6, received-9)
+num(stars-11, 4.5-10)
+dobj(received-9, stars-11)
+prep_from(received-9, users-13)
+
+=========
+
+cc(give-5, But-1)
+nsubj(give-5, I-2)
+aux(give-5, will-3)
+neg(give-5, not-4)
+root(ROOT-0, give-5)
+iobj(give-5, it-6)
+det(try-8, another-7)
+dobj(give-5, try-8)
+
+=========
+
+nn(Amazon-2, Wish-1)
+nsubj(give-4, Amazon-2)
+aux(give-4, will-3)
+root(ROOT-0, give-4)
+iobj(give-4, me-5)
+det(refund-8, a-6)
+amod(refund-8, full-7)
+dobj(give-4, refund-8)
+mark(choose-12, so-9)
+nsubj(choose-12, we-10)
+aux(choose-12, can-11)
+advcl(give-4, choose-12)
+det(phone-14, another-13)
+dobj(choose-12, phone-14)
+

@@ -1,0 +1,39 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, the-3)
+amod(camera-5, crappiest-4)
+root(ROOT-0, camera-5)
+advmod(!!!-7, ever-6)
+dep(camera-5, !!!-7)
+det(pictures-9, The-8)
+nsubj(blurry-11, pictures-9)
+cop(blurry-11, are-10)
+dep(!!!-7, blurry-11)
+ccomp(blurry-11, takes-12)
+advmod(takes-12, forever-13)
+aux(take-16, to-14)
+advmod(take-16, actually-15)
+xcomp(takes-12, take-16)
+det(picture-18, a-17)
+dobj(take-16, picture-18)
+
+=========
+
+det(thing-2, The-1)
+nsubj(broke-3, thing-2)
+root(ROOT-0, broke-3)
+num(months-6, 6-5)
+prep_after(broke-3, months-6)
+prep_of(months-6, use-8)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+nsubj(bought-5, I-3)
+neg(bought-5, never-4)
+ccomp(wish-2, bought-5)
+dobj(bought-5, it-6)
+

@@ -1,0 +1,40 @@
+=========
+
+nn(quality-2, Picture-1)
+nsubj(good-5, quality-2)
+cop(good-5, is-3)
+advmod(good-5, very-4)
+root(ROOT-0, good-5)
+det(TV-8, the-7)
+nsubj(easy-10, TV-8)
+cop(easy-10, is-9)
+conj_and(good-5, easy-10)
+aux(set-12, to-11)
+xcomp(easy-10, set-12)
+prt(set-12, up-13)
+
+=========
+
+nsubj(take-3, It-1)
+aux(take-3, does-2)
+root(ROOT-0, take-3)
+dobj(take-3, some-4)
+partmod(some-4, getting-5)
+dep(getting-5, used-6)
+predet(features-10, all-8)
+det(features-10, the-9)
+prep_to(used-6, features-10)
+nsubj(great-14, they-12)
+cop(great-14, are-13)
+conj_but(take-3, great-14)
+aux(have-16, to-15)
+xcomp(great-14, have-16)
+
+=========
+
+nsubj(recommend-5, This-1)
+cop(recommend-5, is-2)
+det(recommend-5, a-3)
+amod(recommend-5, definite-4)
+root(ROOT-0, recommend-5)
+

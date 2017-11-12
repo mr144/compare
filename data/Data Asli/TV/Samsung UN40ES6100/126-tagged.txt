@@ -1,0 +1,9 @@
+I_PRP have_VBP had_VBN this_DT TV_NN for_IN about_IN three_CD weeks_NNS ._.
+It_PRP has_VBZ yet_RB to_TO work_VB properly_RB ._.
+Smart_NNP Hub_NNP is_VBZ extremely_RB slow_JJ to_TO load_VB ._.
+My_PRP$ apps_NNS mysteriously_RB disappear_VBP ,_, network_NN connection_NN fail_VBP periodically_RB ,_, and_CC I_PRP can_MD not_RB stream_NN video_NN via_IN router_NN or_CC wi-fi_NN direct_JJ ._.
+I_PRP have_VBP tried_VBN to_TO get_VB help_NN from_IN Samsung_NNP ,_, but_CC they_PRP do_VBP not_RB have_VB techs_NNS working_VBG on_IN Saturday_NNP or_CC Sunday_NNP ._.
+They_PRP keep_VBP claiming_VBG there_EX is_VBZ a_DT server_NN issue_NN on_IN their_PRP$ end_NN ,_, but_CC I_PRP should_MD not_RB be_VB affected_VBN by_IN a_DT server_NN if_IN I_PRP am_VBP streaming_VBG directly_RB from_IN my_PRP$ phone_NN to_TO the_DT TV_NN anyway_RB ._.
+My_NNP GS_NNP III_NNP is_VBZ streaming_VBG fine_NN over_IN the_DT same_JJ network_NN anyway_RB ._.
+I_PRP am_VBP trying_VBG to_TO return_VB the_DT TV_NN for_IN a_DT new_JJ one_CD now_RB ._.
+Let_NNP 's_POS see_VB how_WRB that_DT goes_VBZ ._.

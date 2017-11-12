@@ -1,0 +1,70 @@
+=========
+
+nsubj(arrived-2, tv-1)
+root(ROOT-0, arrived-2)
+acomp(arrived-2, broken-3)
+
+=========
+
+root(ROOT-0, hint-1)
+aux(let-5, do-3)
+neg(let-5, not-4)
+dep(hint-1, let-5)
+poss(kids-7, your-6)
+nsubj(see-8, kids-7)
+ccomp(let-5, see-8)
+nsubj(open-10, you-9)
+ccomp(see-8, open-10)
+dobj(open-10, packages-11)
+
+=========
+
+nsubj(get-2, They-1)
+root(ROOT-0, get-2)
+nsubjpass(broken-12, VERY-3)
+dep(broken-12, disappointed-4)
+mark(broken-12, if-5)
+det(item-7, the-6)
+nsubjpass(broken-12, item-7)
+det(box-10, the-9)
+prep_inside(item-7, box-10)
+auxpass(broken-12, is-11)
+xcomp(get-2, broken-12)
+
+=========
+
+amod(luck-2, bad-1)
+nsubjpass(broken-14, luck-2)
+det(one-6, the-4)
+amod(one-6, first-5)
+prep_on(luck-2, one-6)
+det(second-10, the-9)
+prep_on(luck-2, second-10)
+conj_but(one-6, second-10)
+aux(broken-14, must-11)
+neg(broken-14, not-12)
+auxpass(broken-14, be-13)
+root(ROOT-0, broken-14)
+advmod(long-17, so-16)
+advmod(Sony-18, long-17)
+conj_or(broken-14, Sony-18)
+
+=========
+
+amod(hint-2, Second-1)
+root(ROOT-0, hint-2)
+amod(luck-5, good-4)
+dep(hint-2, luck-5)
+xsubj(re-package-8, luck-5)
+partmod(luck-5, trying-6)
+aux(re-package-8, to-7)
+xcomp(trying-6, re-package-8)
+det(item-10, the-9)
+dobj(re-package-8, item-10)
+
+=========
+
+root(ROOT-0, Not-1)
+advmod(easy-3, so-2)
+dep(Not-1, easy-3)
+

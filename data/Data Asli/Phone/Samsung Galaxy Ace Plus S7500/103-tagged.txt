@@ -1,0 +1,1 @@
+good_JJ speed_NN but_CC bad_JJ segnal_NN it_PRP is_VBZ good_JJ and_CC fast_JJ but_CC the_DT segnal_JJ problem_NN is_VBZ with_IN all_DT line_NN of_IN venezuela_NN like_IN movistar_NN ,_, movilnet_NN and_CC digitel_NN

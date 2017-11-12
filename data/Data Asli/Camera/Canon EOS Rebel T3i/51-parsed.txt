@@ -1,0 +1,29 @@
+=========
+
+nsubj(company-5, This-1)
+cop(company-5, was-2)
+det(company-5, a-3)
+amod(company-5, nice-4)
+root(ROOT-0, company-5)
+aux(work-7, to-6)
+infmod(company-5, work-7)
+prep(work-7, with-8)
+advmod(company-5, no-10)
+nn(fees-14, hidden-11)
+conj_or(hidden-11, surprise-13)
+nn(fees-14, surprise-13)
+dep(company-5, fees-14)
+
+=========
+
+nsubj(arrived-2, it-1)
+root(ROOT-0, arrived-2)
+advmod(arrived-2, promptly-3)
+nsubj(happy-8, I-5)
+cop(happy-8, am-6)
+advmod(happy-8, so-7)
+conj_and(arrived-2, happy-8)
+poss(camera-12, my-10)
+amod(camera-12, new-11)
+prep_with(happy-8, camera-12)
+

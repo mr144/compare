@@ -1,0 +1,26 @@
+=========
+
+advmod(good-5, Phone-1)
+nsubj(good-5, itself-2)
+cop(good-5, is-3)
+advmod(good-5, very-4)
+root(ROOT-0, good-5)
+det(life-10, the-8)
+nn(life-10, battery-9)
+nsubj(awful-12, life-10)
+cop(awful-12, is-11)
+conj_but(good-5, awful-12)
+
+=========
+
+advmod(dies-6, Even-1)
+advcl(dies-6, on-2)
+prep_on(dies-6, standby-3)
+det(battery-5, the-4)
+nsubj(dies-6, battery-5)
+root(ROOT-0, dies-6)
+mwe(than-9, less-8)
+quantmod(a-10, than-9)
+num(day-11, a-10)
+prep_in(dies-6, day-11)
+

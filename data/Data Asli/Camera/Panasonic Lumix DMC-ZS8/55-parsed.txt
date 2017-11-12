@@ -1,0 +1,60 @@
+=========
+
+root(ROOT-0, Love-1)
+det(camera-3, this-2)
+dobj(Love-1, camera-3)
+
+=========
+
+nsubj(takes-2, It-1)
+nsubj(works-7, It-1)
+nsubj(has-10, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, great-3)
+dobj(takes-2, pictures-4)
+advmod(works-7, zoom-6)
+conj_and(takes-2, works-7)
+acomp(works-7, great-8)
+conj_and(takes-2, has-10)
+amod(settings-12, numberous-11)
+dobj(has-10, settings-12)
+aux(work-14, to-13)
+infmod(settings-12, work-14)
+prep(work-14, with-15)
+
+=========
+
+nsubj(takes-2, Battery-1)
+nsubj(lasts-7, Battery-1)
+root(ROOT-0, takes-2)
+det(charge-5, a-3)
+amod(charge-5, good-4)
+dobj(takes-2, charge-5)
+conj_and(takes-2, lasts-7)
+
+=========
+
+det(side-4, The-1)
+amod(side-4, only-2)
+amod(side-4, down-3)
+nsubj(is-5, side-4)
+root(ROOT-0, is-5)
+nsubj(tough-8, it-6)
+cop(tough-8, is-7)
+ccomp(is-5, tough-8)
+aux(take-10, to-9)
+xcomp(tough-8, take-10)
+amod(shots-12, multiple-11)
+dobj(take-10, shots-12)
+
+=========
+
+root(ROOT-0, Takes-1)
+det(seconds-4, a-2)
+amod(seconds-4, few-3)
+dobj(Takes-1, seconds-4)
+dep(Takes-1, in-5)
+prep_between(Takes-1, shots-7)
+aux(reset-9, to-8)
+infmod(shots-7, reset-9)
+

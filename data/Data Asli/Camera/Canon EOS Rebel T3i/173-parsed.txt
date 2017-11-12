@@ -1,0 +1,30 @@
+=========
+
+det(camera-2, This-1)
+nsubj(better-6, camera-2)
+aux(better-6, could-3)
+neg(better-6, not-4)
+cop(better-6, be-5)
+root(ROOT-0, better-6)
+
+=========
+
+nsubj(use-2, We-1)
+root(ROOT-0, use-2)
+nsubj(ALL-4, it-3)
+ccomp(use-2, ALL-4)
+det(time-6, the-5)
+dobj(ALL-4, time-6)
+det(quality-11, the-9)
+nn(quality-11, photo-10)
+nsubj(unbelievable-14, quality-11)
+cop(unbelievable-14, is-12)
+advmod(unbelievable-14, just-13)
+conj_and(use-2, unbelievable-14)
+
+=========
+
+advmod(recommend-4, Definitely-1)
+advmod(recommend-4, definitely-3)
+root(ROOT-0, recommend-4)
+

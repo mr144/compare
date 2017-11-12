@@ -1,0 +1,35 @@
+=========
+
+root(ROOT-0, Sent-1)
+dobj(Sent-1, this-2)
+det(gift-5, a-4)
+prep_as(this-2, gift-5)
+
+=========
+
+prep_upon(has-5, installation-2)
+nsubj(has-5, screen-4)
+root(ROOT-0, has-5)
+det(line-8, a-6)
+amod(line-8, dark-7)
+dobj(has-5, line-8)
+det(middle-11, the-10)
+prep_down(has-5, middle-11)
+det(screen-14, the-13)
+prep_of(middle-11, screen-14)
+
+=========
+
+nsubj(awaiting-3, Am-1)
+advmod(awaiting-3, now-2)
+root(ROOT-0, awaiting-3)
+det(results-5, the-4)
+dobj(awaiting-3, results-5)
+det(company-8, the-7)
+prep_from(results-5, company-8)
+det(action-12, the-11)
+prep_as_to(taken-15, action-12)
+aux(taken-15, to-13)
+auxpass(taken-15, be-14)
+xcomp(awaiting-3, taken-15)
+

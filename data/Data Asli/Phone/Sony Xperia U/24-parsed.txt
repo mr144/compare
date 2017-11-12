@@ -1,0 +1,17 @@
+=========
+
+nsubj(worth-3, it-1)
+cop(worth-3, is-2)
+root(ROOT-0, worth-3)
+number(usd-5, 200-4)
+dep(worth-3, usd-5)
+nsubj(looks-9, it-8)
+conj_but(worth-3, looks-9)
+mark(phone-14, as-10)
+det(bucks-13, a-11)
+num(bucks-13, 100-12)
+nsubj(phone-14, bucks-13)
+advcl(looks-9, phone-14)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

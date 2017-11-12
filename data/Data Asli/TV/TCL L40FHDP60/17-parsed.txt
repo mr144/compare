@@ -1,0 +1,34 @@
+=========
+
+det(TV-2, This-1)
+nsubj(turned-4, TV-2)
+neg(turned-4, never-3)
+root(ROOT-0, turned-4)
+prt(turned-4, on-5)
+nsubj(get-10, I-7)
+aux(get-10, could-8)
+neg(get-10, not-9)
+conj_and(turned-4, get-10)
+nsubj(show-13, it-11)
+nsubj(sound-20, it-11)
+aux(show-13, to-12)
+xcomp(get-10, show-13)
+det(image-15, an-14)
+dobj(show-13, image-15)
+det(screen-18, the-17)
+prep_on(show-13, screen-18)
+xcomp(get-10, sound-20)
+conj_or(show-13, sound-20)
+det(speakers-23, the-22)
+prep_in(sound-20, speakers-23)
+
+=========
+
+nsubj(working-4, It-1)
+aux(working-4, was-2)
+neg(working-4, not-3)
+root(ROOT-0, working-4)
+advmod(working-4, straight-5)
+det(box-9, the-8)
+prep_out_of(working-4, box-9)
+

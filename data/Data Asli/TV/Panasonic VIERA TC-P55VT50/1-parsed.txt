@@ -1,0 +1,58 @@
+=========
+
+amod(quality-3, great-1)
+nn(quality-3, picture-2)
+nsubj(love-5, quality-3)
+root(ROOT-0, love-5)
+det(plasmas-7, the-6)
+dobj(love-5, plasmas-7)
+
+=========
+
+nsubj(fan-5, I-1)
+aux(fan-5, have-2)
+advmod(fan-5, always-3)
+cop(fan-5, been-4)
+root(ROOT-0, fan-5)
+prep_of(fan-5, plasmas-7)
+det(depth-11, the-10)
+prep_due_to(fan-5, depth-11)
+det(color-14, the-13)
+prep_of(depth-11, color-14)
+nsubj(hate-17, i-16)
+conj_and(fan-5, hate-17)
+amod(cause-19, LED\/LCD-18)
+dobj(hate-17, cause-19)
+nn(effect-23, soap-21)
+nn(effect-23, opera-22)
+prep_of(cause-19, effect-23)
+
+=========
+
+nsubj(TV-7, All-1)
+predet(this-4, all-3)
+prep_in(All-1, this-4)
+cop(TV-7, is-5)
+amod(TV-7, great-6)
+root(ROOT-0, TV-7)
+
+=========
+
+poss(TV-3, My-1)
+amod(TV-3, previous-2)
+nsubj(Panasonic-5, TV-3)
+cop(Panasonic-5, was-4)
+ccomp(panasonic-10, Panasonic-5)
+det(one-8, this-7)
+nsubj(panasonic-10, one-8)
+cop(panasonic-10, is-9)
+root(ROOT-0, panasonic-10)
+advmod(panasonic-10, too-11)
+
+=========
+
+amod(brand-2, Great-1)
+root(ROOT-0, brand-2)
+amod(TV-4, great-3)
+dep(brand-2, TV-4)
+

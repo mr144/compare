@@ -1,0 +1,36 @@
+=========
+
+nsubj(great-3, TV-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+
+=========
+
+det(lighting-2, The-1)
+nsubj(good-10, lighting-2)
+conj_and(lighting-2, speed-4)
+nsubj(good-10, speed-4)
+det(tv-7, this-6)
+prep_on(lighting-2, tv-7)
+cop(good-10, are-8)
+advmod(good-10, as-9)
+root(ROOT-0, good-10)
+mark(advertised-12, as-11)
+ccomp(good-10, advertised-12)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(store-5, the-3)
+nn(store-5, app-4)
+dobj(like-2, store-5)
+advmod(like-2, honestly-7)
+conj_but(like-2, honestly-7)
+det(novelty-9, the-8)
+nsubj(wore-10, novelty-9)
+ccomp(like-2, wore-10)
+conj_but(like-2, wore-10)
+prt(wore-10, off-11)
+advmod(wore-10, quickly-12)
+

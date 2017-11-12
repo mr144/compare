@@ -1,0 +1,24 @@
+=========
+
+det(item-2, The-1)
+nsubj(same-8, item-2)
+appos(item-2, product-4)
+cop(same-8, was-6)
+det(same-8, the-7)
+root(ROOT-0, same-8)
+det(description-11, the-10)
+prep_as(same-8, description-11)
+prep_of(description-11, it-13)
+
+=========
+
+dep(review-2, Please-1)
+root(ROOT-0, review-2)
+amod(comments-5, other-3)
+nn(comments-5, customers-4)
+nsubj(have-7, comments-5)
+aux(have-7, to-6)
+xcomp(review-2, have-7)
+amod(info-9, more-8)
+dobj(have-7, info-9)
+

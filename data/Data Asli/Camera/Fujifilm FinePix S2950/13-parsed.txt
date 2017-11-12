@@ -1,0 +1,28 @@
+=========
+
+dep(spend-2, Please-1)
+root(ROOT-0, spend-2)
+det(money-4, the-3)
+dobj(spend-2, money-4)
+conj_and(spend-2, get-6)
+det(something-10, a-7)
+nn(something-10, camera-8)
+nn(something-10, worth-9)
+dobj(get-6, something-10)
+nsubj(is-13, it-12)
+parataxis(spend-2, is-13)
+neg(is-13, not-14)
+det(money-17, the-16)
+prep_worth(is-13, money-17)
+
+=========
+
+det(camera-2, This-1)
+nsubj(took-4, camera-2)
+neg(took-4, never-3)
+root(ROOT-0, took-4)
+det(!!-8, a-5)
+amod(!!-8, clear-6)
+nn(!!-8, picture-7)
+dobj(took-4, !!-8)
+

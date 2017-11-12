@@ -1,0 +1,32 @@
+=========
+
+nsubj(met-2, Fully-1)
+root(ROOT-0, met-2)
+poss(expectations-4, my-3)
+dobj(met-2, expectations-4)
+det(smartphone-8, a-6)
+amod(smartphone-8, new-7)
+prep_of(expectations-4, smartphone-8)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, totally-2)
+root(ROOT-0, recommend-3)
+det(product-5, this-4)
+dobj(recommend-3, product-5)
+nsubj(starts-9, product-5)
+prep_for(product-5, someone-7)
+rcmod(product-5, starts-9)
+xcomp(starts-9, using-10)
+dobj(using-10, smartphones-11)
+
+=========
+
+amod(size-2, Great-1)
+root(ROOT-0, size-2)
+nn(life-5, battery-4)
+appos(size-2, life-5)
+appos(size-2, OS-7)
+conj_and(life-5, OS-7)
+

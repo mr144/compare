@@ -1,0 +1,2 @@
+This_DT television_NN is_VBZ light_JJ in_IN weight_NN and_CC the_DT picture_NN is_VBZ very_RB clear_JJ compared_VBN to_TO televisions_NNS I_PRP have_VBP seen_VBN in_IN the_DT past_NN ._.
+The_DT price_NN is_VBZ more_JJR than_IN fair_NN and_CC compares_VBZ to_TO other_JJ televisions_NNS with_IN the_DT same_JJ specs_NNS ._.

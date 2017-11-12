@@ -1,0 +1,45 @@
+=========
+
+det(shipping-2, The-1)
+nsubj(quick-4, shipping-2)
+cop(quick-4, was-3)
+root(ROOT-0, quick-4)
+nsubj(perfect-8, packaging-6)
+cop(perfect-8, was-7)
+conj_and(quick-4, perfect-8)
+
+=========
+
+nsubj(ordered-2, I-1)
+root(ROOT-0, ordered-2)
+det(phone-4, this-3)
+dobj(ordered-2, phone-4)
+mark(knew-7, because-5)
+nsubj(knew-7, I-6)
+advcl(ordered-2, knew-7)
+nsubj(had-9, it-8)
+ccomp(knew-7, had-9)
+det(processor-13, a-10)
+advmod(good-12, pretty-11)
+amod(processor-13, good-12)
+dobj(had-9, processor-13)
+det(storage-17, the-15)
+amod(storage-17, internal-16)
+nsubj(sufficient-19, storage-17)
+cop(sufficient-19, was-18)
+conj_and(ordered-2, sufficient-19)
+
+=========
+
+det(phone-2, The-1)
+nsubj(do-5, phone-2)
+aux(do-5, can-3)
+advmod(do-5, virtually-4)
+root(ROOT-0, do-5)
+dobj(do-5, anything-6)
+complm(want-9, that-7)
+nsubj(want-9, you-8)
+ccomp(do-5, want-9)
+nsubj(to-11, it-10)
+xcomp(want-9, to-11)
+

@@ -1,0 +1,3 @@
+The_DT IR_NNP sensor_NN stopped_VBD working_VBG 3_CD months_NNS after_IN manufacturer_NN warranty_NN was_VBD up_IN ._.
+Vizio_NNP basically_RB told_VBD me_PRP I_PRP was_VBD SOL_NNP ._.
+I_PRP told_VBD them_PRP I_PRP was_VBD never_RB buying_VBG a_DT vizio_NN again_RB ,_, they_PRP seemed_VBD okay_JJ with_IN that_DT ._.

@@ -1,0 +1,75 @@
+=========
+
+root(ROOT-0, Got-1)
+dobj(Got-1, it-2)
+prep_on(Got-1, sale-4)
+prep_through(Got-1, Amazon-6)
+
+=========
+
+nsubj(usual-6, Shipping-1)
+cop(usual-6, was-2)
+amod(usual-6, fast-3)
+advmod(usual-6, as-5)
+root(ROOT-0, usual-6)
+
+=========
+
+det(angles-3, The-1)
+amod(angles-3, viewing-2)
+nsubj(exaggerated-6, angles-3)
+cop(exaggerated-6, are-4)
+neg(exaggerated-6, not-5)
+root(ROOT-0, exaggerated-6)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+amod(angles-5, exceptional-3)
+nn(angles-5, viewing-4)
+dobj(has-2, angles-5)
+det(gripe-10, the-8)
+amod(gripe-10, only-9)
+nsubj(is-11, gripe-10)
+conj_but(has-2, is-11)
+complm(120Hertz-18, that-12)
+nsubj(120Hertz-18, it-13)
+cop(120Hertz-18, is-14)
+amod(120Hertz-18, 60Hertz-15)
+neg(120Hertz-18, not-17)
+ccomp(is-11, 120Hertz-18)
+
+=========
+
+det(looks-3, the-2)
+prep_from(going-21, looks-3)
+prep_of(looks-3, it-5)
+mark(like-9, since-7)
+nsubj(like-9, I-8)
+xsubj(research-11, I-8)
+advcl(going-21, like-9)
+aux(research-11, to-10)
+xcomp(like-9, research-11)
+advmod(research-11, even-12)
+prepc_after(research-11, buying-14)
+det(product-16, a-15)
+dobj(buying-14, product-16)
+det(market-19, the-18)
+nsubj(going-21, market-19)
+xsubj(flooded-24, market-19)
+aux(going-21, is-20)
+root(ROOT-0, going-21)
+aux(flooded-24, to-22)
+auxpass(flooded-24, be-23)
+xcomp(going-21, flooded-24)
+amod(models-27, superior-26)
+prep_with(flooded-24, models-27)
+nn(HDTVs-30, LED-29)
+prep_of(models-27, HDTVs-30)
+amod(rates-36, higher-32)
+conj_and(higher-32, better-34)
+amod(rates-36, better-34)
+nn(rates-36, refresh-35)
+prep_with(flooded-24, rates-36)
+

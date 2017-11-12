@@ -1,0 +1,64 @@
+=========
+
+det(camera-2, This-1)
+nsubj(lovely-5, camera-2)
+cop(lovely-5, is-3)
+advmod(lovely-5, so-4)
+root(ROOT-0, lovely-5)
+
+=========
+
+dep(really-3, Fantastic-1)
+root(ROOT-0, really-3)
+
+=========
+
+nsubj(has-3, Light-weight-1)
+root(ROOT-0, has-3)
+det(bell-6, every-4)
+dobj(has-3, bell-6)
+dobj(want-13, bell-6)
+dobj(has-3, whistle-8)
+conj_and(bell-6, whistle-8)
+dobj(want-13, whistle-8)
+nsubj(want-13, you-10)
+aux(want-13, can-11)
+advmod(want-13, ever-12)
+rcmod(bell-6, want-13)
+
+=========
+
+advmod(great-2, Absolutely-1)
+root(ROOT-0, great-2)
+
+=========
+
+mark(have-3, If-1)
+nsubj(have-3, I-2)
+advcl(do-24, have-3)
+det(complaint-6, a-4)
+dobj(have-3, complaint-6)
+dobj(be-10, complaint-6)
+nsubj(be-10, it-8)
+aux(be-10, would-9)
+rcmod(complaint-6, be-10)
+advmod(be-10, only-11)
+complm(have-16, that-12)
+nsubj(have-16, I-13)
+aux(have-16, do-14)
+neg(have-16, not-15)
+ccomp(be-10, have-16)
+amod(time-18, enough-17)
+dobj(have-16, time-18)
+aux(learn-20, to-19)
+infmod(time-18, learn-20)
+dobj(learn-20, everything-21)
+nsubj(do-24, it-22)
+aux(do-24, will-23)
+root(ROOT-0, do-24)
+
+=========
+
+amod(camera-2, Great-1)
+root(ROOT-0, camera-2)
+

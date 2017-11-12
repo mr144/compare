@@ -1,0 +1,2 @@
+Hi_FW i_FW want_VBP to_TO know_VB if_IN this_DT phone_NN works_VBZ with_IN band_NN 2_CD =_SYM 1900Mhz_NNP ?_.
+am_VB really_RB interested_JJ in_IN this_DT product_NN but_CC i_FW have_VBP to_TO be_VB sure_JJ about_IN if_IN it_PRP works_VBZ with_IN this_DT band_NN

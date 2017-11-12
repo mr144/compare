@@ -1,0 +1,52 @@
+=========
+
+amod(camera-2, Good-1)
+nsubj(have-9, camera-2)
+amod(nature\/wildlife-5, outdoor-4)
+prep_for(camera-2, nature\/wildlife-5)
+aux(have-9, did-7)
+neg(have-9, not-8)
+root(ROOT-0, have-9)
+amod(setting-11, correct-10)
+dobj(have-9, setting-11)
+partmod(setting-11, chosen-12)
+amod(pictures-17, low-14)
+amod(pictures-17, light-15)
+amod(pictures-17, indoor-16)
+prep_for(chosen-12, pictures-17)
+
+=========
+
+nsubj(experiment-2, will-1)
+root(ROOT-0, experiment-2)
+mark(learn-5, until-3)
+nsubj(learn-5, I-4)
+advcl(experiment-2, learn-5)
+det(settings-8, the-6)
+amod(settings-8, best-7)
+dobj(learn-5, settings-8)
+
+=========
+
+nsubj(is-5, Most-1)
+poss(photography-4, my-3)
+prep_of(Most-1, photography-4)
+root(ROOT-0, is-5)
+advmod(is-5, nature\/scenery-6)
+mark(camera-13, so-8)
+nsubj(camera-13, it-9)
+aux(camera-13, should-10)
+cop(camera-13, be-11)
+amod(camera-13, excellent-12)
+advcl(is-5, camera-13)
+parataxis(is-5, camera-13)
+prep_for(camera-13, me-15)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-5, great-3)
+nn(pictures-5, snow-4)
+dobj(takes-2, pictures-5)
+

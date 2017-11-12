@@ -1,0 +1,372 @@
+=========
+
+nsubj(owned-4, I-1)
+aux(owned-4, have-2)
+advmod(owned-4, now-3)
+root(ROOT-0, owned-4)
+num(televisions-8, 4-5)
+amod(televisions-8, high-6)
+nn(televisions-8, def-7)
+dobj(owned-4, televisions-8)
+num(years-11, 8-10)
+prep_in(televisions-8, years-11)
+
+=========
+
+poss(37-4, My-1)
+amod(37-4, first-2)
+det(37-4, a-3)
+nsubj(CRT-7, 37-4)
+dep(37-4, Sony-6)
+root(ROOT-0, CRT-7)
+dobj(CRT-7, model-8)
+
+=========
+
+root(ROOT-0, Very-1)
+amod(heavy-4, big-2)
+amod(Very-1, heavy-4)
+number(lbs-7, 150-6)
+dep(Very-1, lbs-7)
+det(picture-12, a-10)
+amod(picture-12, perfect-11)
+prep_with(Very-1, picture-12)
+
+=========
+
+nsubj(Samsung-6, Next-1)
+cop(Samsung-6, was-2)
+det(37-4, a-3)
+poss(Samsung-6, 37-4)
+root(ROOT-0, Samsung-6)
+det(look-10, a-8)
+amod(look-10, nice-9)
+prep_with(Samsung-6, look-10)
+prep_with(Samsung-6, picture-12)
+conj_and(look-10, picture-12)
+
+=========
+
+nsubj(upgraded-5, Couple-1)
+nsubj(has-31, Couple-1)
+prep_of(Couple-1, years-3)
+advmod(upgraded-5, later-4)
+root(ROOT-0, upgraded-5)
+det(Samsung-8, a-7)
+poss(Again-13, Samsung-8)
+num(Samsung-8, 40-9)
+nn(Again-13, Smart-11)
+nn(Again-13, tv-12)
+prep_to(upgraded-5, Again-13)
+det(look-17, a-15)
+amod(look-17, nice-16)
+prep_to(upgraded-5, look-17)
+conj_and(Again-13, look-17)
+nn(widgets-22, picture-19)
+conj_and(picture-19, Yahoo-21)
+nn(widgets-22, Yahoo-21)
+prep_to(upgraded-5, widgets-22)
+conj_and(Again-13, widgets-22)
+det(library-25, The-23)
+nn(library-25, Netflix-24)
+nsubj(nice-29, library-25)
+cop(nice-29, was-26)
+advmod(nice-29, also-27)
+advmod(nice-29, very-28)
+rcmod(widgets-22, nice-29)
+conj_and(upgraded-5, has-31)
+det(interface-34, a-32)
+amod(interface-34, preferable-33)
+dobj(has-31, interface-34)
+det(one-37, the-36)
+prep_to(interface-34, one-37)
+det(set-41, this-39)
+amod(set-41, new-40)
+prep_on(one-37, set-41)
+poss(opinion-44, my-43)
+prep_in(set-41, opinion-44)
+
+=========
+
+nsubj(decided-3, I-1)
+xsubj(upgrade-5, I-1)
+advmod(decided-3, recently-2)
+root(ROOT-0, decided-3)
+aux(upgrade-5, to-4)
+xcomp(decided-3, upgrade-5)
+det(screen-9, a-7)
+amod(screen-9, bigger-8)
+prep_to(upgrade-5, screen-9)
+det(bezel-14, the-11)
+amod(bezel-14, new-12)
+amod(bezel-14, slimmer-13)
+prep_with(screen-9, bezel-14)
+
+=========
+
+root(ROOT-0, Bought-1)
+det(Sony-3, a-2)
+dobj(Bought-1, Sony-3)
+num(Sony-3, 46-4)
+neg(got-8, never-7)
+conj_and(Bought-1, got-8)
+det(picture-12, a-9)
+amod(picture-12, high-10)
+nn(picture-12, def-11)
+dobj(got-8, picture-12)
+prep_on(got-8, it-14)
+
+=========
+
+root(ROOT-0, Was-1)
+det(phone-4, the-3)
+prep_on(Was-1, phone-4)
+prep_with(phone-4, Sony-6)
+det(part-10, the-8)
+amod(part-10, better-9)
+prep_for(Sony-6, part-10)
+det(hour-13, an-12)
+prep_of(part-10, hour-13)
+
+=========
+
+root(ROOT-0, Returned-1)
+det(refund-4, a-3)
+prep_for(Returned-1, refund-4)
+
+=========
+
+nsubj(tried-2, Then-1)
+root(ROOT-0, tried-2)
+det(Vizio-4, a-3)
+dobj(tried-2, Vizio-4)
+num(Vizio-4, 46-5)
+
+=========
+
+aux(kept-9, Had-1)
+det(frame-4, a-2)
+amod(frame-4, beautiful-3)
+nsubj(kept-9, frame-4)
+prep_on(frame-4, it-6)
+prep(it-6, but-7)
+dep(but-7, it-8)
+root(ROOT-0, kept-9)
+ccomp(kept-9, messing-10)
+poss(resolution-16, my-12)
+nn(resolution-16, DVR-13)
+amod(resolution-16, high-14)
+nn(resolution-16, def-15)
+prep_with(messing-10, resolution-16)
+advmod(spent-19, again-18)
+parataxis(messing-10, spent-19)
+det(lot-21, a-20)
+dobj(spent-19, lot-21)
+prep_of(lot-21, time-23)
+prep_on(spent-19, phone-25)
+nn(support-28, Vizio-27)
+prep_with(spent-19, support-28)
+
+=========
+
+mark(toying-4, While-1)
+nsubj(toying-4, I-2)
+aux(toying-4, was-3)
+advcl(noticed-9, toying-4)
+prep_with(toying-4, it-6)
+nsubj(noticed-9, I-7)
+advmod(noticed-9, also-8)
+root(ROOT-0, noticed-9)
+nsubj(had-11, it-10)
+ccomp(noticed-9, had-11)
+det(flaw-13, a-12)
+dobj(had-11, flaw-13)
+det(screen-16, the-15)
+prep_in(flaw-13, screen-16)
+det(corner-21, the-18)
+amod(corner-21, left-19)
+amod(corner-21, upper-20)
+prep_on(screen-16, corner-21)
+
+=========
+
+root(ROOT-0, Returned-1)
+det(refund-4, a-3)
+prep_for(Returned-1, refund-4)
+
+=========
+
+root(ROOT-0, Came-1)
+prt(Came-1, back-2)
+prep_to(Came-1, Samsung-4)
+det(set-7, this-6)
+prep_with(Came-1, set-7)
+nsubj(set-10, it-9)
+conj_and(Came-1, set-10)
+prt(set-10, up-11)
+advmod(set-10, easily-12)
+advmod(set-10, perfectly-14)
+conj_and(easily-12, perfectly-14)
+
+=========
+
+det(picture-2, The-1)
+nsubj(excellent-4, picture-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+advmod(better-7, even-6)
+dep(excellent-4, better-7)
+poss(Samsungs-12, my-9)
+amod(Samsungs-12, previous-10)
+num(Samsungs-12, two-11)
+prep_than(excellent-4, Samsungs-12)
+
+=========
+
+root(ROOT-0, With-1)
+det(bezel-5, the-2)
+amod(bezel-5, nice-3)
+amod(bezel-5, slim-4)
+pobj(With-1, bezel-5)
+
+=========
+
+poss(opinion-2, My-1)
+nsubj(nobody-6, opinion-2)
+conj_and(opinion-2, experience-4)
+nsubj(nobody-6, experience-4)
+cop(nobody-6, is-5)
+root(ROOT-0, nobody-6)
+rcmod(nobody-6, does-7)
+amod(quality-9, overall-8)
+dobj(does-7, quality-9)
+advmod(does-7, better-10)
+prep_than(does-7, Samsung-12)
+
+=========
+
+det(people-2, Some-1)
+nsubj(prefer-5, people-2)
+nsubj(seems-4, it-3)
+rcmod(people-2, seems-4)
+root(ROOT-0, prefer-5)
+det(stand-10, the-6)
+number(pronged-8, 4-7)
+amod(stand-10, pronged-8)
+nn(stand-10, leg-9)
+dobj(prefer-5, stand-10)
+det(glass-14, the-12)
+amod(glass-14, solid-13)
+prep_over(stand-10, glass-14)
+
+=========
+
+nsubj(do-2, I-1)
+root(ROOT-0, do-2)
+neg(do-2, not-3)
+
+=========
+
+det(stand-2, The-1)
+nsubj(looks-3, stand-2)
+root(ROOT-0, looks-3)
+mark(painted-6, like-4)
+advmod(painted-6, cheaply-5)
+advcl(looks-3, painted-6)
+amod(metal-8, black-7)
+dobj(painted-6, metal-8)
+prep_to(painted-6, me-10)
+
+=========
+
+nsubj(prefer-2, Much-1)
+root(ROOT-0, prefer-2)
+det(swivel-5, the-3)
+nn(swivel-5, glass-4)
+dobj(prefer-2, swivel-5)
+
+=========
+
+advmod(addicted-4, Also-1)
+nsubjpass(addicted-4, I-2)
+auxpass(addicted-4, became-3)
+root(ROOT-0, addicted-4)
+det(ease-7, the-6)
+prep_to(addicted-4, ease-7)
+prep_of(ease-7, use-9)
+nn(widgets-12, Yahoo-11)
+prep_of(use-9, widgets-12)
+dep(ease-7, popped-14)
+prt(popped-14, up-15)
+det(bottom-18, the-17)
+prep_at(popped-14, bottom-18)
+det(screen-21, the-20)
+prep_of(bottom-18, screen-21)
+prepc_for(ease-7, checking-24)
+det(weather-26, the-25)
+dobj(checking-24, weather-26)
+mark(watch-30, while-27)
+nsubj(watch-30, continuing-28)
+aux(watch-30, to-29)
+advcl(addicted-4, watch-30)
+xcomp(addicted-4, watch-30)
+dobj(watch-30, tv-31)
+
+=========
+
+nsubj(checked-2, I-1)
+root(ROOT-0, checked-2)
+det(weather-4, the-3)
+iobj(checked-2, weather-4)
+iobj(checked-2, temperature-6)
+conj_and(weather-4, temperature-6)
+predet(time-9, all-7)
+det(time-9, the-8)
+dobj(checked-2, time-9)
+poss(set-13, my-11)
+amod(set-13, old-12)
+prep_with(checked-2, set-13)
+
+=========
+
+advmod(accessed-10, Also-1)
+nsubjpass(accessed-10, Pandora-2)
+nn(video-6, Amazon-4)
+amod(video-6, instant-5)
+conj_and(Pandora-2, video-6)
+nsubjpass(accessed-10, video-6)
+auxpass(accessed-10, were-7)
+advmod(easily-9, more-8)
+advmod(accessed-10, easily-9)
+root(ROOT-0, accessed-10)
+xcomp(accessed-10, using-11)
+dobj(using-11, widgets-12)
+
+=========
+
+aux(said-2, Having-1)
+partmod(was-9, said-2)
+dep(that-4, all-3)
+dobj(said-2, that-4)
+det(set-8, this-6)
+amod(set-8, new-7)
+nsubj(was-9, set-8)
+root(ROOT-0, was-9)
+prep_on(was-9, sale-11)
+dep($-13, @-12)
+dep(sale-11, $-13)
+num($-13, 799-14)
+nsubj(tv-21, it-16)
+cop(tv-21, is-17)
+det(tv-21, a-18)
+advmod(good-20, very-19)
+amod(tv-21, good-20)
+conj_and(was-9, tv-21)
+det(lot-24, a-23)
+conj_and(was-9, lot-24)
+conj_and(tv-21, lot-24)
+prep_of(lot-24, it-26)
+dep(lot-24, @-27)
+det(price-29, that-28)
+dep(tv-21, price-29)
+

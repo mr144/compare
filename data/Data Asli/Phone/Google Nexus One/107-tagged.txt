@@ -1,0 +1,2 @@
+I_PRP had_VBD a_DT nokia_FW c6_FW phone_NN which_WDT i_FW lost_VBD it_PRP last_JJ month_NN ._.
+I_PRP got_VBD google_NN nexus_NN one_CD phone_NN as_IN a_DT replacement_NN and_CC i_FW love_VB it_PRP ._.

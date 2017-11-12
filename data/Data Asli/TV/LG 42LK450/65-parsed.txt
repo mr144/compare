@@ -1,0 +1,98 @@
+=========
+
+root(ROOT-0, Ordered-1)
+det(tv-3, this-2)
+dobj(Ordered-1, tv-3)
+det(gift-6, a-5)
+prep_as(Ordered-1, gift-6)
+poss(dad-9, my-8)
+prep_for(gift-6, dad-9)
+
+=========
+
+det(box-2, The-1)
+nsubjpass(dented-4, box-2)
+auxpass(dented-4, was-3)
+root(ROOT-0, dented-4)
+prep_on(dented-4, arrival-6)
+det(tv-9, the-8)
+nsubj(looked-10, tv-9)
+conj_but(dented-4, looked-10)
+acomp(looked-10, fine-11)
+
+=========
+
+advmod(hooked-3, When-1)
+nsubj(hooked-3, we-2)
+advcl(damaged-12, hooked-3)
+dobj(hooked-3, it-4)
+prt(hooked-3, up-5)
+advmod(damaged-12, however-7)
+det(screen-10, the-9)
+nsubjpass(damaged-12, screen-10)
+auxpass(damaged-12, was-11)
+root(ROOT-0, damaged-12)
+
+=========
+
+nsubj(ordered-2, We-1)
+root(ROOT-0, ordered-2)
+det(replacement-4, a-3)
+dobj(ordered-2, replacement-4)
+det(tv-7, this-6)
+prep_of(replacement-4, tv-7)
+det(day-11, the-9)
+amod(day-11, same-10)
+prep_on(ordered-2, day-11)
+
+=========
+
+advmod(arrived-4, When-1)
+det(replacement-3, the-2)
+nsubj(arrived-4, replacement-3)
+advcl(dented-10, arrived-4)
+det(box-7, this-6)
+nsubj(dented-10, box-7)
+advmod(dented-10, also-8)
+cop(dented-10, appeared-9)
+root(ROOT-0, dented-10)
+amod(enough-14, sure-13)
+amod(screen-16, enough-14)
+det(screen-16, the-15)
+nsubjpass(broken-23, screen-16)
+det(tv-20, the-18)
+nn(tv-20, replacement-19)
+prep_on(screen-16, tv-20)
+auxpass(broken-23, was-21)
+advmod(broken-23, also-22)
+ccomp(dented-10, broken-23)
+conj_and(dented-10, broken-23)
+
+=========
+
+aux(try-3, Did-1)
+neg(try-3, not-2)
+root(ROOT-0, try-3)
+det(time-6, a-4)
+amod(time-6, third-5)
+nsubj(worth-20, time-6)
+dep(worth-20, !!-7)
+complm(worth-20, Whether-8)
+ccomp(worth-20, damaged-9)
+prep_in(damaged-9, storage-11)
+conj_or(damaged-9, damaged-13)
+ccomp(worth-20, damaged-13)
+prep_in(damaged-13, shipping-15)
+nsubj(worth-20, it-17)
+cop(worth-20, is-18)
+neg(worth-20, not-19)
+xcomp(try-3, worth-20)
+det(gamble-22, the-21)
+nsubj(try-3, gamble-22)
+nsubj(buy-25, Go-24)
+dep(try-3, buy-25)
+det(tv-27, the-26)
+dobj(buy-25, tv-27)
+det(store-30, a-29)
+prep_from(buy-25, store-30)
+

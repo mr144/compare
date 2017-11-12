@@ -1,0 +1,42 @@
+=========
+
+nsubj(received-2, I-1)
+root(ROOT-0, received-2)
+det(TV-4, the-3)
+nsubj(quicker-6, TV-4)
+advmod(quicker-6, much-5)
+xcomp(received-2, quicker-6)
+mark(expected-9, than-7)
+auxpass(expected-9, was-8)
+ccomp(quicker-6, expected-9)
+
+=========
+
+nsubj(enjoying-4, We-1)
+aux(enjoying-4, have-2)
+aux(enjoying-4, been-3)
+root(ROOT-0, enjoying-4)
+det(picture-6, the-5)
+dobj(enjoying-4, picture-6)
+
+=========
+
+det(TV-2, The-1)
+nsubj(have-5, TV-2)
+aux(have-5, did-3)
+neg(have-5, not-4)
+root(ROOT-0, have-5)
+det(damage-7, any-6)
+dobj(have-5, damage-7)
+det(exterior-10, the-9)
+prep_on(damage-7, exterior-10)
+
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(quality-7, the-6)
+prep_with(pleased-4, quality-7)
+

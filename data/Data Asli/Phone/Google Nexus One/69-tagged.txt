@@ -1,0 +1,6 @@
+a_DT great_JJ phone_NN at_IN a_DT very_RB cheap_JJ price_NN ._.
+launched_VBN in_IN 2010_CD ,_, the_DT phone_NN got_VBD the_DT 2.3.4_CD OTA_NNP update_VB and_CC still_RB beats_VBZ 2011_CD new_JJ phones_NNS ._.
+application\/games_NNS all_DT loads_NNS w\/o_VBP any_DT problemsNexus_NNP one_CD in_IN general_JJ is_VBZ prone_JJ to_TO wifi_VB issues_NNS ._.
+wifi_NN shuts_VBZ off_RP during_IN display_NN off_IN -LRB-_-LRB- root_NN level_NN bug_NN in_IN nexus_NN one_NN and_CC google_NN does_VBZ not_RB have_VB a_DT fix_NN -RRB-_-RRB- unfortunately_RB I_PRP did_VBD not_RB notice_VB it_PRP soon_RB enough_JJ and_CC unable_JJ to_TO return_VB it_PRP now_RB ._.
+Google_NNP `_`` nexus_NN one_CD +_FW wifi_FW issues_NNS '_POS to_TO learn_VB more_JJR ._.
+so_RB if_IN you_PRP are_VBP user_NN who_WP has_VBZ voip_NN application_NN and_CC only_RB depend_VB on_IN wifi_NNS ,_, then_RB this_DT phone_NN is_VBZ NOT_RB recommended_VBN

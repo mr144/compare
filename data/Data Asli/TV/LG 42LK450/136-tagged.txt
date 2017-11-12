@@ -1,0 +1,15 @@
+Not_RB bad_JJ for_IN a_DT secondary_JJ TV_NN ._.
+Definitely_RB better_RBR than_IN I_PRP expected_VBD from_IN an_DT entry_NN level_NN priced_VBN TV_NN ._.
+Would_MD recommend_VB to_TO others_NNS ._.
+Pros_NNS :_: -_: Decent_JJ color_NN reproduction-Bright_JJ back_JJ light_NN -LRB-_-LRB- cold_JJ cathode_NN -RRB-_-RRB- -_: decent_JJ sound_NN ,_, not_RB special_JJ but_CC not_RB bad_JJ either.-reasonable_JJ thickness_NN -LRB-_-LRB- ~_SYM 3-4_CD inches_NNS -RRB-_-RRB- -_: Auto_NN energy_NN setting_NN :_: this_DT automatically_RB adjusts_VBZ the_DT backlight_NN based_VBN upon_IN the_DT ambient_JJ light_NN in_IN the_DT room_NN ._.
+I_PRP love_VBP this_DT feature_NN ._.
+We_PRP watch_VBP TV_NN in_IN bed_NN with_IN no_DT lights_NNS on_IN and_CC the_DT TV_NN does_VBZ not_RB blind_JJ you_PRP ._.
+In_IN daylight_NN it_PRP automatically_RB ramps_NNS the_DT backlight_NN back_RB up_RB ._.
+Cons_NNS :_: -_: NOT_NNP LED_NNP backlit_JJ ._.
+The_DT tech_JJ specs_NNS on_IN the_DT amazon_NN listing_NN say_VBP its_PRP$ LED_NNP backlit_JJ ..._: its_PRP$ not_RB ._.
+Its_PRP$ a_DT standard_JJ cold_JJ cathode_NN light.-Poor_JJ black_JJ levels_NNS and_CC contrast_NN -LRB-_-LRB- but_CC about_IN like_IN pretty_RB much_RB every_DT other_JJ LCD_NNP set_VBD I_PRP have_VBP seen_VBN -RRB-_-RRB- ._.
+The_DT dynamic_JJ contrast_NN settings_NNS seem_VBP to_TO do_VB a_DT decent_JJ job_NN at_IN compensating_VBG for_IN the_DT LCD_NNP technology_NN though_RB ._.
+Still_RB pretty_RB watchable.-Color_JJ reproduction_NN on_IN auto_NN energy_NN mode_NN :_: One_CD of_IN the_DT big_JJ reasons_NNS I_PRP bought_VBD this_DT unit_NN is_VBZ the_DT auto_NN backlight_NN sensor_NN ._.
+However_RB ,_, when_WRB you_PRP have_VBP it_PRP turned_VBD on_RP ,_, it_PRP auto_NN changes_VBZ the_DT color_NN ,_, contrast_NN ,_, sharpness_NN and_CC other_JJ settings_NNS as_RB well_RB ._.
+This_DT negates_VBZ any_DT corrections_NNS you_PRP might_MD have_VB made_VBN using_VBG the_DT color_NN wizard_NN ._.
+If_IN you_PRP choose_VBP the_DT `_`` corrected_VBN '_'' color_NN profile_NN ,_, it_PRP no_RB longer_RB uses_VBZ the_DT automatic_JJ lighting_NN sensor_NN ._.

@@ -1,0 +1,53 @@
+=========
+
+root(ROOT-0, Buy-1)
+dobj(Buy-1, one-2)
+det(year-4, every-3)
+tmod(Buy-1, year-4)
+prep_because(Buy-1, thats-6)
+rel(last-12, about-7)
+advmod(long-9, how-8)
+pobj(about-7, long-9)
+nsubj(last-12, it-10)
+aux(last-12, will-11)
+rcmod(thats-6, last-12)
+
+=========
+
+advmod(bought-2, Just-1)
+root(ROOT-0, bought-2)
+det(set-4, another-3)
+dobj(bought-2, set-4)
+prep_of(set-4, batteries-6)
+nsubj(bought-2, thinking-7)
+nsubj(problem-11, thinking-7)
+cop(problem-11, was-9)
+det(problem-11, the-10)
+rcmod(thinking-7, problem-11)
+
+=========
+
+dep(dead-6, Nope-1)
+det(camera-4, the-3)
+nsubj(dead-6, camera-4)
+cop(dead-6, is-5)
+root(ROOT-0, dead-6)
+
+=========
+
+root(ROOT-0, Bought-1)
+dobj(Bought-1, it-2)
+det(little-4, a-3)
+npadvmod(Bought-1, little-4)
+det(year-7, a-6)
+prep_over(Bought-1, year-7)
+advmod(year-7, ago-8)
+
+=========
+
+advmod(well-2, Oh-1)
+advmod(cheap-5, well-2)
+nsubj(cheap-5, it-3)
+cop(cheap-5, was-4)
+root(ROOT-0, cheap-5)
+

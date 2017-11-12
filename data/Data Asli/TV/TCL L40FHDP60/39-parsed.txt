@@ -1,0 +1,74 @@
+=========
+
+nsubj(SONY-5, It-1)
+cop(SONY-5, 's-2)
+neg(SONY-5, not-3)
+det(SONY-5, a-4)
+root(ROOT-0, SONY-5)
+
+=========
+
+cc(has-7, But-1)
+prep_for(has-7, $-4)
+num($-4, 179-5)
+nsubj(has-7, it-6)
+root(ROOT-0, has-7)
+det(picture-10, a-8)
+amod(picture-10, good-9)
+dobj(has-7, picture-10)
+amod(sound-13, adequate-12)
+dobj(has-7, sound-13)
+conj_and(picture-10, sound-13)
+
+=========
+
+det(menu-2, The-1)
+nsubj(easy-4, menu-2)
+cop(easy-4, is-3)
+root(ROOT-0, easy-4)
+aux(follow-6, to-5)
+xcomp(easy-4, follow-6)
+det(need-9, no-8)
+dobj(follow-6, need-9)
+prep_for(follow-6, manual-11)
+
+=========
+
+nsubj(read-2, I-1)
+root(ROOT-0, read-2)
+det(comments-4, some-3)
+dobj(read-2, comments-4)
+complm(hard-9, that-5)
+det(base-7, the-6)
+nsubj(hard-9, base-7)
+cop(hard-9, was-8)
+ccomp(read-2, hard-9)
+aux(install-11, to-10)
+xcomp(hard-9, install-11)
+
+=========
+
+nsubj(think-4, I-1)
+aux(think-4, do-2)
+neg(think-4, not-3)
+root(ROOT-0, think-4)
+nsubj(took-6, it-5)
+ccomp(think-4, took-6)
+mwe(than-8, more-7)
+quantmod(a-9, than-8)
+iobj(took-6, a-9)
+dobj(took-6, minute-10)
+nsubj(fine-14, it-12)
+cop(fine-14, is-13)
+parataxis(think-4, fine-14)
+
+=========
+
+nsubj(good-4, It-1)
+cop(good-4, 's-2)
+det(good-4, a-3)
+root(ROOT-0, good-4)
+partmod(good-4, looking-5)
+dobj(looking-5, TV-6)
+advmod(looking-5, also-7)
+

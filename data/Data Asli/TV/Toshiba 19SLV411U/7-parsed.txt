@@ -1,0 +1,54 @@
+=========
+
+root(ROOT-0, Glad-1)
+complm(chose-4, that-2)
+nsubj(chose-4, I-3)
+ccomp(Glad-1, chose-4)
+dobj(chose-4, Toshiba-5)
+
+=========
+
+det(Player-3, The-1)
+nn(Player-3, DVD-2)
+nsubj(bonus-7, Player-3)
+nsubj(made-9, Player-3)
+cop(bonus-7, is-4)
+det(bonus-7, an-5)
+amod(bonus-7, added-6)
+root(ROOT-0, bonus-7)
+conj_and(bonus-7, made-9)
+det(gift-12, a-10)
+amod(gift-12, great-11)
+dobj(made-9, gift-12)
+poss(sister-15, my-14)
+prep_for(made-9, sister-15)
+
+=========
+
+nsubj(paid-2, I-1)
+root(ROOT-0, paid-2)
+det(little-4, a-3)
+npadvmod(more-5, little-4)
+acomp(paid-2, more-5)
+nsubj(was-9, it-8)
+conj_but(paid-2, was-9)
+advmod(was-9, ultimately-10)
+prep_worth(was-9, it-12)
+
+=========
+
+nsubj(made-2, Amazon-1)
+root(ROOT-0, made-2)
+iobj(made-2, this-3)
+det(transaction-10, a-4)
+amod(transaction-10, smooth-5)
+conj_and(smooth-5, successful-7)
+amod(transaction-10, successful-7)
+conj_and(smooth-5, timely-9)
+amod(transaction-10, timely-9)
+dobj(made-2, transaction-10)
+det(holiday-14, the-12)
+amod(holiday-14, busy-13)
+prep_during(made-2, holiday-14)
+dobj(made-2, season-15)
+

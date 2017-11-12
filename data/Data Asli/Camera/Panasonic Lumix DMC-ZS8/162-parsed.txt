@@ -1,0 +1,55 @@
+=========
+
+nn(ships-2, Amazon-1)
+nsubj(quickly-4, ships-2)
+advmod(quickly-4, very-3)
+root(ROOT-0, quickly-4)
+
+=========
+
+root(ROOT-0, Bought-1)
+det(brand-3, this-2)
+dobj(Bought-1, brand-3)
+prep_because_of(brand-3, reviews-6)
+cop(dissatisfied-10, am-8)
+neg(dissatisfied-10, not-9)
+conj_and(Bought-1, dissatisfied-10)
+
+=========
+
+aux(used-3, Have-1)
+neg(used-3, not-2)
+root(ROOT-0, used-3)
+dobj(used-3, it-4)
+det(lot-6, a-5)
+npadvmod(up-7, lot-6)
+advmod(to-8, up-7)
+prep(used-3, to-8)
+pobj(to-8, now-9)
+conj_but(used-3, have-12)
+det(problems-14, no-13)
+dobj(have-12, problems-14)
+prep_with(problems-14, it-16)
+nsubj(good-21, pictures-18)
+cop(good-21, are-19)
+advmod(good-21, very-20)
+conj_and(used-3, good-21)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, canon-6)
+prep_than(better-4, kodak-8)
+conj_or(canon-6, kodak-8)
+prep_than(better-4, pentax-10)
+conj_or(canon-6, pentax-10)
+prep_than(better-4, fujifilm-12)
+conj_or(canon-6, fujifilm-12)
+prep_than(better-4, GE-14)
+conj_or(canon-6, GE-14)
+prep_than(better-4, coolpix-16)
+conj_or(canon-6, coolpix-16)
+

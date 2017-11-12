@@ -1,0 +1,49 @@
+=========
+
+root(ROOT-0, Easy-1)
+aux(set-3, to-2)
+xcomp(Easy-1, set-3)
+prt(set-3, up-4)
+amod(picture-7, gorgeous-6)
+dobj(set-3, picture-7)
+det(box-11, the-10)
+prep_out_of(picture-7, box-11)
+dep(more-14, what-13)
+dobj(want-17, more-14)
+aux(want-17, could-15)
+nsubj(want-17, you-16)
+dep(picture-7, want-17)
+
+=========
+
+nsubjpass(written-4, Tomes-1)
+aux(written-4, have-2)
+auxpass(written-4, been-3)
+root(ROOT-0, written-4)
+mark(say-9, so-5)
+nsubj(say-9, I-6)
+aux(say-9, 'll-7)
+advmod(say-9, just-8)
+advcl(written-4, say-9)
+nsubjpass(thrilled-13, I-11)
+auxpass(thrilled-13, am-12)
+parataxis(written-4, thrilled-13)
+nsubj(bought-15, we-14)
+ccomp(thrilled-13, bought-15)
+det(TV-17, this-16)
+dobj(bought-15, TV-17)
+
+=========
+
+advmod(stands-8, Even-1)
+advcl(stands-8, in-2)
+det(room-5, a-3)
+amod(room-5, bright-4)
+prep_in(stands-8, room-5)
+nsubj(stands-8, it-7)
+root(ROOT-0, stands-8)
+advmod(clear-10, out-9)
+acomp(stands-8, clear-10)
+acomp(stands-8, bright-12)
+conj_and(clear-10, bright-12)
+

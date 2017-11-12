@@ -1,0 +1,30 @@
+=========
+
+nsubj(upgraded-2, I-1)
+root(ROOT-0, upgraded-2)
+det(point-5, a-4)
+prep_from(upgraded-2, point-5)
+prep_from(upgraded-2, shoot-7)
+conj_and(point-5, shoot-7)
+nsubj(happy-12, I-9)
+cop(happy-12, am-10)
+advmod(happy-12, very-11)
+conj_and(upgraded-2, happy-12)
+complm(did-15, that-13)
+nsubj(did-15, I-14)
+ccomp(happy-12, did-15)
+
+=========
+
+det(camera-2, This-1)
+nsubj(easy-5, camera-2)
+nsubj(takes-9, camera-2)
+cop(easy-5, is-3)
+advmod(easy-5, really-4)
+root(ROOT-0, easy-5)
+aux(use-7, to-6)
+xcomp(easy-5, use-7)
+conj_and(easy-5, takes-9)
+amod(pictures-11, great-10)
+dobj(takes-9, pictures-11)
+

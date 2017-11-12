@@ -1,0 +1,28 @@
+=========
+
+nn(TV-2, Great-1)
+root(ROOT-0, TV-2)
+det(money-5, the-4)
+prep_for(TV-2, money-5)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+dobj(purchased-2, this-3)
+prep_around(purchased-2, April-5)
+nsubj(holding-11, it-8)
+aux(holding-11, is-9)
+advmod(holding-11, still-10)
+conj_and(purchased-2, holding-11)
+prt(holding-11, up-12)
+prep_like(holding-11, new-14)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+dobj(picture-2, quality-3)
+dobj(picture-2, sound-5)
+conj_and(quality-3, sound-5)
+

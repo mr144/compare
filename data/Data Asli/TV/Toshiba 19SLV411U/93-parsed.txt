@@ -1,0 +1,75 @@
+=========
+
+nsubj(arrived-2, TV-1)
+root(ROOT-0, arrived-2)
+det(problems-5, no-4)
+prep_with(arrived-2, problems-5)
+
+=========
+
+nn(TV-2, Great-1)
+root(ROOT-0, TV-2)
+amod(picture-5, beautiful-4)
+dep(TV-2, picture-5)
+amod(remote-8, nice-7)
+dep(TV-2, remote-8)
+conj_and(picture-5, remote-8)
+amod(sound-12, decent-11)
+dep(TV-2, sound-12)
+conj_and(picture-5, sound-12)
+
+=========
+
+nsubj(hung-2, We-1)
+root(ROOT-0, hung-2)
+dobj(hung-2, ours-3)
+det(bracket-6, a-5)
+prep_on(hung-2, bracket-6)
+nsubj(easy-10, it-8)
+cop(easy-10, was-9)
+conj_and(hung-2, easy-10)
+
+=========
+
+nsubj(TV-5, This-1)
+nsubj(hold-11, This-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+root(ROOT-0, TV-5)
+det(price-8, the-7)
+prep_for(TV-5, price-8)
+aux(hold-11, will-10)
+conj_and(TV-5, hold-11)
+poss(own-13, its-12)
+dobj(hold-11, own-13)
+prep_against(hold-11, others-15)
+partmod(others-15, costing-16)
+advmod(more-18, much-17)
+advmod(costing-16, more-18)
+
+=========
+
+nsubj(thin-5, It-1)
+cop(thin-5, 's-2)
+neg(thin-5, not-3)
+advmod(thin-5, as-4)
+root(ROOT-0, thin-5)
+det(models-11, the-7)
+amod(models-11, newer-8)
+nn(models-11, LED-9)
+nn(models-11, LCD-10)
+prep_as(thin-5, models-11)
+advmod(what-14, so-13)
+conj_but(thin-5, what-14)
+
+=========
+
+nsubj(go-4, You-1)
+aux(go-4, will-2)
+neg(go-4, not-3)
+root(ROOT-0, go-4)
+acomp(go-4, wrong-5)
+det(model-8, this-7)
+prep_with(go-4, model-8)
+

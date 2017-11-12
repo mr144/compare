@@ -1,0 +1,23 @@
+=========
+
+det(family-3, The-1)
+amod(family-3, whole-2)
+nsubjpass(pleases-5, family-3)
+auxpass(pleases-5, is-4)
+root(ROOT-0, pleases-5)
+det(size-8, the-7)
+prep_with(pleases-5, size-8)
+det(screen-11, the-10)
+prep_of(size-8, screen-11)
+det(clarity-14, the-13)
+nsubj(have-20, clarity-14)
+predet(options-18, all-16)
+det(options-18, the-17)
+conj_and(clarity-14, options-18)
+nsubj(have-20, options-18)
+nsubj(have-20, we-19)
+parataxis(pleases-5, have-20)
+acomp(have-20, available-21)
+aux(use-23, to-22)
+xcomp(available-21, use-23)
+

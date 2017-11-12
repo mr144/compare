@@ -1,0 +1,55 @@
+=========
+
+root(ROOT-0, Love-1)
+det(camera-3, this-2)
+dobj(Love-1, camera-3)
+
+=========
+
+nsubj(does-2, It-1)
+root(ROOT-0, does-2)
+dep(need-6, exactly-3)
+dep(exactly-3, what-4)
+nsubj(need-6, I-5)
+ccomp(does-2, need-6)
+nsubj(do-9, it-7)
+aux(do-9, to-8)
+xcomp(need-6, do-9)
+
+=========
+
+nsubj('s-7, Theres-1)
+neg(cam-6, not-2)
+advmod(cam-6, too-3)
+amod(cam-6, many-4)
+nn(cam-6, dslr-5)
+dep(Theres-1, cam-6)
+root(ROOT-0, 's-7)
+complm(does-9, that-8)
+ccomp('s-7, does-9)
+dobj(does-12, what-10)
+nsubj(does-12, this-11)
+ccomp(does-9, does-12)
+det(price-15, this-14)
+prep_at(does-12, price-15)
+
+=========
+
+nn(time-3, wasting-2)
+prep_before(did-8, time-3)
+conj_and(time-3, money-5)
+prep_before(did-8, money-5)
+nsubj(did-8, I-7)
+root(ROOT-0, did-8)
+poss(research-10, my-9)
+dobj(did-8, research-10)
+prep_on(did-8, youtube-12)
+amod(sites-16, other-15)
+prep_on(did-8, sites-16)
+conj_and(youtube-12, sites-16)
+
+=========
+
+nn(AMAZON-2, THANKS-1)
+root(ROOT-0, AMAZON-2)
+

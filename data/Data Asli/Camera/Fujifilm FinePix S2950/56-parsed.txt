@@ -1,0 +1,23 @@
+=========
+
+det(camera-2, This-1)
+nsubj(takes-3, camera-2)
+root(ROOT-0, takes-3)
+advmod(poor-5, very-4)
+amod(pictures-6, poor-5)
+dobj(takes-3, pictures-6)
+mark(expect-18, so-7)
+mark(taking-11, if-8)
+nsubj(taking-11, you-9)
+aux(taking-11, are-10)
+advcl(expect-18, taking-11)
+dobj(taking-11, pictures-12)
+dobj(cherish-16, pictures-12)
+prep_of(pictures-12, someone-14)
+nsubj(cherish-16, you-15)
+rcmod(pictures-12, cherish-16)
+advcl(takes-3, expect-18)
+aux(disappointed-21, to-19)
+cop(disappointed-21, be-20)
+xcomp(expect-18, disappointed-21)
+

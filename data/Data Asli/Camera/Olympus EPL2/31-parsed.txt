@@ -1,0 +1,62 @@
+=========
+
+nsubj(purchase-2, Nice-1)
+root(ROOT-0, purchase-2)
+prep_for(purchase-2, me-4)
+
+=========
+
+nsubj(purchased-3, I-1)
+aux(purchased-3, have-2)
+root(ROOT-0, purchased-3)
+det(adapter-6, the-4)
+nn(adapter-6, lens-5)
+dobj(purchased-3, adapter-6)
+poss(lenses-11, my-8)
+nn(lenses-11, Canon-9)
+nn(lenses-11, EF-10)
+prep_for(adapter-6, lenses-11)
+
+=========
+
+mark(figure-3, If-1)
+nsubj(figure-3, I-2)
+advcl(post-8, figure-3)
+dobj(figure-3, it-4)
+prt(figure-3, out-5)
+nsubj(post-8, I-6)
+aux(post-8, 'll-7)
+root(ROOT-0, post-8)
+dobj(post-8, some-9)
+poss(pics-12, my-11)
+prep_of(some-9, pics-12)
+
+=========
+
+aux(used-3, Have-1)
+neg(used-3, not-2)
+root(ROOT-0, used-3)
+det(lens-6, the-4)
+nn(lens-6, kit-5)
+nsubj(much-7, lens-6)
+xcomp(used-3, much-7)
+advmod(much-7, actually-8)
+
+=========
+
+cc(happy-5, But-1)
+nsubj(happy-5, I-2)
+cop(happy-5, am-3)
+advmod(happy-5, very-4)
+root(ROOT-0, happy-5)
+det(resolution-8, the-7)
+prep_with(happy-5, resolution-8)
+det(pictures-11, the-10)
+prep_of(resolution-8, pictures-11)
+dobj(taken-14, pictures-11)
+nsubj(taken-14, I-12)
+aux(taken-14, have-13)
+rcmod(pictures-11, taken-14)
+advmod(far-16, so-15)
+advmod(taken-14, far-16)
+

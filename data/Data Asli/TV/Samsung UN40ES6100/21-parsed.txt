@@ -1,0 +1,98 @@
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+dobj(use-2, this-3)
+det(area-8, a-5)
+amod(area-8, small-6)
+nn(area-8, meeting-7)
+prep_in(this-3, area-8)
+det(projector-12, a-11)
+prep_instead_of(area-8, projector-12)
+nsubj(works-16, it-15)
+conj_and(use-2, works-16)
+advmod(works-16, perfectly-17)
+
+=========
+
+det(auto-configuration-3, The-1)
+nn(auto-configuration-3, channel-2)
+nsubj(worked-8, auto-configuration-3)
+poss(connection-7, our-5)
+nn(connection-7, cable-6)
+prep_for(auto-configuration-3, connection-7)
+root(ROOT-0, worked-8)
+det(bit-10, a-9)
+dobj(worked-8, bit-10)
+advmod(worked-8, haphazardly-11)
+mark(reason-20, as-14)
+nsubj(reason-20, that-15)
+cop(reason-20, was-16)
+neg(reason-20, not-17)
+det(reason-20, the-18)
+amod(reason-20, primary-19)
+advcl(detraction-29, reason-20)
+prepc_for(reason-20, getting-22)
+det(device-24, the-23)
+dobj(getting-22, device-24)
+nsubj(detraction-29, it-25)
+cop(detraction-29, was-26)
+det(detraction-29, a-27)
+amod(detraction-29, minor-28)
+conj_but(worked-8, detraction-29)
+
+=========
+
+nsubj(sharp-3, Picture-1)
+cop(sharp-3, is-2)
+ccomp(simple-7, sharp-3)
+nsubj(simple-7, configuration-5)
+cop(simple-7, was-6)
+root(ROOT-0, simple-7)
+
+=========
+
+nsubj(ARIES-6, Works-1)
+advmod(ARIES-6, great-2)
+poss(Nyrius-5, my-4)
+prep_with(great-2, Nyrius-5)
+root(ROOT-0, ARIES-6)
+nn(Transmitter-11, Pro-7)
+nn(Transmitter-11, Digital-8)
+nn(Transmitter-11, Wireless-9)
+nn(Transmitter-11, HDMI-10)
+dobj(ARIES-6, Transmitter-11)
+nn(System-14, Receiver-13)
+dobj(ARIES-6, System-14)
+conj_and(Transmitter-11, System-14)
+
+=========
+
+root(ROOT-0, Has-1)
+det(issue-5, a-2)
+amod(issue-5, little-3)
+nn(issue-5, oversaturation-4)
+dobj(Has-1, issue-5)
+prep_with(Has-1, screens-7)
+det(lot-10, a-9)
+prep_with(screens-7, lot-10)
+prep_of(lot-10, red-12)
+prep_in(red-12, them-14)
+dep(Has-1, but-16)
+nsubj(unusual-20, that-17)
+cop(unusual-20, 's-18)
+neg(unusual-20, not-19)
+ccomp(Has-1, unusual-20)
+det(lot-23, a-22)
+prep_in(unusual-20, lot-23)
+prep_of(lot-23, devices-25)
+
+=========
+
+nsubj(get-3, I-1)
+aux(get-3, would-2)
+root(ROOT-0, get-3)
+det(one-5, another-4)
+dobj(get-3, one-5)
+prep_without(get-3, hesitation-7)
+

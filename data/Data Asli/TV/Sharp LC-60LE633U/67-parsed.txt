@@ -1,0 +1,31 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+poss(TV-4, my-3)
+dobj(got-2, TV-4)
+det(Friday-7, a-6)
+prep_on(got-2, Friday-7)
+poss(cable-10, my-9)
+prep_on(got-2, cable-10)
+conj_and(Friday-7, cable-10)
+prep_on(got-2, Saturday-12)
+nsubj(great-16, it-14)
+cop(great-16, was-15)
+conj_and(got-2, great-16)
+nsubj(love-19, I-18)
+conj_and(got-2, love-19)
+det(picture-21, the-20)
+dobj(love-19, picture-21)
+predet(channels-26, all-23)
+det(channels-26, the-24)
+nn(channels-26, HDTV-25)
+prep_of(picture-21, channels-26)
+
+=========
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+det(money-5, the-4)
+prep_worth(was-2, money-5)
+

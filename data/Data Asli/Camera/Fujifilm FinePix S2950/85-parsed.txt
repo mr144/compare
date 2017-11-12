@@ -1,0 +1,35 @@
+=========
+
+nsubj(camera-6, it-1)
+cop(camera-6, is-2)
+advmod(camera-6, almost-3)
+det(camera-6, a-4)
+amod(camera-6, profesional-5)
+root(ROOT-0, camera-6)
+nsubj(wants-10, camera-6)
+prep_for(camera-6, anyone-8)
+rcmod(camera-6, wants-10)
+aux(take-12, to-11)
+xcomp(wants-10, take-12)
+advmod(good-14, realy-13)
+amod(pictures-15, good-14)
+dobj(take-12, pictures-15)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(operate-3, to-2)
+xcomp(Easy-1, operate-3)
+dep(Easy-1, and-4)
+dep(Easy-1, with-5)
+det(size-8, the-6)
+amod(size-8, perfect-7)
+pobj(with-5, size-8)
+amod(partner-15, weigth-10)
+aux(you-13, to-11)
+cop(you-13, be-12)
+xcomp(weigth-10, you-13)
+nn(partner-15, trip-14)
+pobj(with-5, partner-15)
+conj_and(size-8, partner-15)
+

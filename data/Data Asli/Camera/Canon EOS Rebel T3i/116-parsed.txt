@@ -1,0 +1,61 @@
+=========
+
+nsubj(chose-3, I-1)
+advmod(chose-3, finaly-2)
+ccomp(great-15, chose-3)
+det(camera-5, this-4)
+dobj(chose-3, camera-5)
+nsubj(glad-9, I-7)
+cop(glad-9, am-8)
+conj_and(chose-3, glad-9)
+ccomp(great-15, glad-9)
+nsubj(did-11, I-10)
+ccomp(glad-9, did-11)
+nsubj(great-15, it-13)
+cop(great-15, is-14)
+root(ROOT-0, great-15)
+advmod(great-15, especially-17)
+det(price-20, the-19)
+prep_for(great-15, price-20)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+prepc_after(did-2, buying-4)
+nsubj(find-6, this-5)
+ccomp(buying-4, find-6)
+det(bundle-8, a-7)
+dobj(find-6, bundle-8)
+nsubj(has-10, bundle-8)
+rcmod(bundle-8, has-10)
+dobj(has-10, everything-11)
+prep_in(everything-11, it-13)
+quantmod(a-16, only-15)
+prep_for(has-10, a-16)
+quantmod(a-16, little-17)
+quantmod(a-16, more-18)
+
+=========
+
+det(bundle-2, The-1)
+nsubj(way-5, bundle-2)
+cop(way-5, is-3)
+det(way-5, the-4)
+root(ROOT-0, way-5)
+aux(go-7, to-6)
+infmod(way-5, go-7)
+poss(opinion-10, my-9)
+prep_in(go-7, opinion-10)
+
+=========
+
+nsubj(get-2, You-1)
+root(ROOT-0, get-2)
+dobj(get-2, everything-3)
+dobj(need-5, everything-3)
+nsubj(need-5, you-4)
+rcmod(everything-3, need-5)
+advmod(http:\/\/www.amazon.com\/gp\/product\/B0062N6VHA\/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0062N6VHA&linkCode=as2&tag=wwwworkoutwei-20-7, !!-6)
+acomp(need-5, http:\/\/www.amazon.com\/gp\/product\/B0062N6VHA\/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0062N6VHA&linkCode=as2&tag=wwwworkoutwei-20-7)
+

@@ -1,0 +1,4 @@
+Hi_NNP ,_, I_PRP am_VBP interested_JJ in_IN buying_VBG this_DT camera_NN ,_, but_CC I_PRP would_MD like_VB to_TO know_VB how_WRB it_PRP was_VBD used_VBN and_CC how_WRB many_JJ shots_NNS have_VBP you_PRP done_VBN ?_.
+the_DT surface_NN of_IN the_DT lens_NN is_VBZ completely_RB untouched_VBN ?_.
+was_VBD not_RB scratched_VBN ?_.
+thanks_NNS

@@ -1,0 +1,98 @@
+=========
+
+det(phone-2, The-1)
+nsubj(fine-4, phone-2)
+cop(fine-4, seems-3)
+root(ROOT-0, fine-4)
+mark(tried-7, until-5)
+nsubj(tried-7, I-6)
+xsubj(use-9, I-6)
+advcl(fine-4, tried-7)
+aux(use-9, to-8)
+xcomp(tried-7, use-9)
+dobj(use-9, it-10)
+
+=========
+
+det(BATTERY-2, The-1)
+nsubj(keeps-3, BATTERY-2)
+root(ROOT-0, keeps-3)
+amod(charge-7, ONLY-4)
+dep(ONLY-4, ONE-5)
+amod(charge-7, HOUR-6)
+dobj(keeps-3, charge-7)
+
+=========
+
+nsubj(disapointed-4, I-1)
+nsubj(want-6, I-1)
+cop(disapointed-4, am-2)
+advmod(disapointed-4, really-3)
+root(ROOT-0, disapointed-4)
+conj_and(disapointed-4, want-6)
+det(refund-8, a-7)
+dobj(want-6, refund-8)
+
+=========
+
+advmod(return-4, How-1)
+aux(return-4, do-2)
+nsubj(return-4, I-3)
+nsubj(get-7, I-3)
+root(ROOT-0, return-4)
+dobj(return-4, it-5)
+conj_or(return-4, get-7)
+det(????-11, a-8)
+amod(????-11, good-9)
+nn(????-11, battery-10)
+dobj(get-7, ????-11)
+det(good-13, ????-11)
+nsubj(phone-17, good-13)
+cop(phone-17, is-14)
+det(phone-17, a-15)
+nn(phone-17, cell-16)
+rcmod(????-11, phone-17)
+nsubj(dies-19, phone-17)
+rcmod(phone-17, dies-19)
+mark(need-22, before-20)
+nsubj(need-22, you-21)
+advcl(dies-19, need-22)
+dobj(need-22, it-23)
+
+=========
+
+nsubj(unhappy-4, I-1)
+cop(unhappy-4, am-2)
+advmod(unhappy-4, very-3)
+root(ROOT-0, unhappy-4)
+
+=========
+
+nsubj(gift-4, It-1)
+cop(gift-4, was-2)
+det(gift-4, a-3)
+root(ROOT-0, gift-4)
+nsubj(embarassed-9, I-6)
+cop(embarassed-9, am-7)
+advmod(embarassed-9, totally-8)
+conj_and(gift-4, embarassed-9)
+aux(give-11, to-10)
+xcomp(embarassed-9, give-11)
+det(gift-14, a-12)
+amod(gift-14, worthless-13)
+dobj(give-11, gift-14)
+advmod(supposed-20, even-16)
+dep(supposed-20, if-17)
+nsubjpass(supposed-20, it-18)
+xsubj(refurbished-23, it-18)
+auxpass(supposed-20, is-19)
+dep(give-11, supposed-20)
+aux(refurbished-23, to-21)
+auxpass(refurbished-23, be-22)
+xcomp(supposed-20, refurbished-23)
+
+=========
+
+det(excuse-2, No-1)
+root(ROOT-0, excuse-2)
+

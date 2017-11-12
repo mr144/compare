@@ -1,0 +1,104 @@
+=========
+
+root(ROOT-0, Got-1)
+dobj(Got-1, it-2)
+amod(2011-5, x-mas-4)
+prep_for(Got-1, 2011-5)
+
+=========
+
+nsubj(set-2, Easy-1)
+root(ROOT-0, set-2)
+prt(set-2, up-3)
+
+=========
+
+root(ROOT-0, Performed-1)
+mark(expected-4, as-2)
+nsubj(expected-4, I-3)
+advcl(Performed-1, expected-4)
+nsubj(would-6, it-5)
+ccomp(expected-4, would-6)
+
+=========
+
+mark(is-4, In-1)
+amod(May-3, early-2)
+nsubj(is-4, May-3)
+csubj(stay-8, is-4)
+advmod(is-4, simply-5)
+aux(stay-8, would-6)
+neg(stay-8, not-7)
+root(ROOT-0, stay-8)
+prt(stay-8, on-9)
+mwe(than-12, more-11)
+quantmod(few-14, than-12)
+quantmod(few-14, a-13)
+num(seconds-15, few-14)
+prep_for(stay-8, seconds-15)
+
+=========
+
+prep_by(stopped-5, May-2)
+num(May-2, 15-3)
+nsubj(stopped-5, it-4)
+root(ROOT-0, stopped-5)
+xcomp(stopped-5, turning-6)
+prep(turning-6, on-7)
+pcomp(on-7, entirely-8)
+
+=========
+
+mark(give-4, If-1)
+nsubj(give-4, I-2)
+aux(give-4, could-3)
+advcl(rating-13, give-4)
+iobj(give-4, it-5)
+det(stars-7, no-6)
+dobj(give-4, stars-7)
+nsubj(rating-13, that-9)
+aux(rating-13, would-10)
+cop(rating-13, be-11)
+poss(rating-13, my-12)
+root(ROOT-0, rating-13)
+
+=========
+
+nsubj(is-5, Odd-1)
+advmod(is-5, too-3)
+root(ROOT-0, is-5)
+complm(have-8, that-6)
+nsubj(have-8, I-7)
+ccomp(is-5, have-8)
+det(Toshiba-10, a-9)
+dobj(have-8, Toshiba-10)
+advmod(have-8, quite-11)
+prep_like(quite-11, it-13)
+det(room-16, another-15)
+prep_in(have-8, room-16)
+dobj(had-20, room-16)
+complm(had-20, that-17)
+nsubj(had-20, I-18)
+aux(had-20, have-19)
+dep(room-16, had-20)
+quantmod(5-23, about-22)
+num(yrs-24, 5-23)
+prep_for(had-20, yrs-24)
+
+=========
+
+root(ROOT-0, Love-1)
+dobj(Love-1, it-2)
+
+=========
+
+det(one-2, This-1)
+root(ROOT-0, one-2)
+
+=========
+
+dobj(say-4, what-1)
+aux(say-4, can-2)
+nsubj(say-4, I-3)
+root(ROOT-0, say-4)
+

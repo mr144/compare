@@ -1,0 +1,6 @@
+I_PRP bought_VBD this_DT phone_NN 2_CD weeks_NNS ago_RB &_CC now_RB using_VBG it_PRP for_IN more_JJR than_IN 10_CD days_NNS ,_, I_PRP will_MD say_VB this_DT is_VBZ the_DT Value_NN for_IN Money_NN !_.
+for_IN 270_CD $_$ the_DT features_NNS specially_RB processor_NN speed_NN -LRB-_-LRB- 1GH_NNP -RRB-_-RRB- is_VBZ too_RB good_JJ ._.
+I_PRP got_VBD it_PRP with_IN the_DT Android_NNP 2.2_CD version_NN &_CC Later_RB I_PRP updated_VBD it_PRP to_TO 2.3.4_CD Ginger_NNP bread_NN ,_, it_PRP rocks_NNS ,_, the_DT speed_NN is_VBZ amazing_JJ now_RB ,_, I_PRP have_VBP read_VBN lot_NN about_IN it_PRP is_VBZ wifi_JJ connectivity_NN issue_NN but_CC I_PRP never_RB faced_VBD the_DT issue_NN unless_IN wifi_JJ signals_NNS are_VBP weak_JJ ._.
+Android_NNP Market_NNP is_VBZ too_RB good_JJ &_CC most_JJS of_IN the_DT applications_NNS available_JJ are_VBP for_IN free_JJ ._.
+UI_NNP is_VBZ also_RB very_RB good_JJ &_CC screen_NN resolution_NN is_VBZ the_DT best_JJS in_IN this_DT category_NN !!_NNP Track_NNP ball_NN also_RB gives_VBZ a_DT good_JJ feel_NN for_IN those_DT who_WP have_VBP been_VBN using_VBG Blackberry_NNP ._.
+In_IN nutshell_NN it_PRP is_VBZ a_DT Value_NN for_IN money_NN product_NN ._.

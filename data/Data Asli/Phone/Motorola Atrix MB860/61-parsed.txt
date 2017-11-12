@@ -1,0 +1,26 @@
+=========
+
+neg(functional-2, Not-1)
+root(ROOT-0, functional-2)
+mark(written-6, as-3)
+nsubjpass(written-6, it-4)
+auxpass(written-6, was-5)
+dep(functional-2, written-6)
+prt(written-6, up-7)
+
+=========
+
+root(ROOT-0, Had-1)
+det(lot-3, a-2)
+dobj(Had-1, lot-3)
+prep_of(lot-3, trouble-5)
+prep_with(Had-1, it-7)
+
+=========
+
+nsubj(kept-2, It-1)
+root(ROOT-0, kept-2)
+xcomp(kept-2, going-3)
+poss(own-6, its-5)
+prep_on(going-3, own-6)
+

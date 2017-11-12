@@ -1,0 +1,33 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(thanks-4, it-3)
+ccomp(love-2, thanks-4)
+amod(product-6, great-5)
+dobj(thanks-4, product-6)
+
+=========
+
+poss(daughter-2, My-1)
+nsubj(loves-3, daughter-2)
+root(ROOT-0, loves-3)
+nsubj(recommend-12, it-4)
+nsubj(amazon-22, it-4)
+dep(recommend-12, great-5)
+poss(class-9, her-7)
+nn(class-9, photography-8)
+prep_for(great-5, class-9)
+nsubj(recommend-12, I-10)
+aux(recommend-12, will-11)
+xcomp(loves-3, recommend-12)
+det(product-14, this-13)
+dobj(recommend-12, product-14)
+predet(friends-18, all-16)
+poss(friends-18, my-17)
+prep_to(recommend-12, friends-18)
+nn(thanks-21, family-20)
+dep(amazon-22, thanks-21)
+xcomp(loves-3, amazon-22)
+conj_and(recommend-12, amazon-22)
+

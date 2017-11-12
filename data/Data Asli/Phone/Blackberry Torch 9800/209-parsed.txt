@@ -1,0 +1,182 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(song-6, that-3)
+nn(song-6, Van-4)
+nn(song-6, Morrison-5)
+dobj(have-2, song-6)
+partmod(song-6, going-7)
+poss(head-10, my-9)
+prep_through(going-7, head-10)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+det(Torch-7, the-5)
+nn(Torch-7, Blackberry-6)
+dobj(love-2, Torch-7)
+nsubj(is-10, Torch-7)
+rcmod(Torch-7, is-10)
+
+=========
+
+root(ROOT-0, Elegant-1)
+prep_in(Elegant-1, design-3)
+prep_in(Elegant-1, function-5)
+conj_and(design-3, function-5)
+det(pleasure-8, a-7)
+appos(Elegant-1, pleasure-8)
+aux(use-10, to-9)
+infmod(pleasure-8, use-10)
+
+=========
+
+det(keyboard-4, The-1)
+advmod(keyboard-4, slightly-2)
+amod(keyboard-4, recessed-3)
+nsubj(easier-6, keyboard-4)
+cop(easier-6, is-5)
+root(ROOT-0, easier-6)
+aux(hold-8, to-7)
+xcomp(easier-6, hold-8)
+conj_and(easier-6, type-10)
+prep(type-10, on-11)
+pcomp(on-11, than-12)
+poss(Curve-15, my-13)
+amod(Curve-15, old-14)
+prep_than(on-11, Curve-15)
+
+=========
+
+det(screen-3, The-1)
+nn(screen-3, touch-2)
+nsubj(intuitive-7, screen-3)
+nsubj(quick-9, screen-3)
+conj_and(screen-3, menus-5)
+nsubj(intuitive-7, menus-5)
+cop(intuitive-7, are-6)
+root(ROOT-0, intuitive-7)
+conj_and(intuitive-7, quick-9)
+aux(learn-11, to-10)
+xcomp(intuitive-7, learn-11)
+
+=========
+
+root(ROOT-0, Got-1)
+dobj(Got-1, one-2)
+poss(wife-5, my-4)
+prep_for(Got-1, wife-5)
+advmod(Got-1, too-7)
+
+=========
+
+nsubj(something-4, She-1)
+cop(something-4, 's-2)
+advmod(something-4, usually-3)
+root(ROOT-0, something-4)
+det(technophobe-7, a-6)
+prep_of(something-4, technophobe-7)
+nsubj(caught-11, she-10)
+conj_but(something-4, caught-11)
+det(Torch-14, the-13)
+prep_onto(caught-11, Torch-14)
+advmod(caught-11, immediately-15)
+
+=========
+
+nsubj(likes-3, She-1)
+advmod(likes-3, especially-2)
+root(ROOT-0, likes-3)
+det(screen-6, the-4)
+amod(screen-6, large-5)
+dobj(likes-3, screen-6)
+amod(pad-10, optical-8)
+nn(pad-10, track-9)
+dobj(likes-3, pad-10)
+conj_and(screen-6, pad-10)
+nn(Maps-13, Google-12)
+dobj(likes-3, Maps-13)
+conj_and(screen-6, Maps-13)
+dobj(likes-3, camera-15)
+conj_and(screen-6, camera-15)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(functions-5, the-3)
+nn(functions-5, mail-4)
+dobj(like-2, functions-5)
+dobj(like-2, WiFi-7)
+conj_and(functions-5, WiFi-7)
+num(access-10, 3G-9)
+conj_and(functions-5, access-10)
+conj_plus(WiFi-7, access-10)
+
+=========
+
+poss(surprise-3, my-2)
+prep_to(able-10, surprise-3)
+det(browser-7, the-5)
+nn(browser-7, web-6)
+nsubj(able-10, browser-7)
+cop(able-10, was-8)
+advmod(able-10, even-9)
+root(ROOT-0, able-10)
+aux(connect-12, to-11)
+xcomp(able-10, connect-12)
+det(site-22, a-14)
+nn(Access-18, Microsoft-15)
+nn(Access-18, Outlook-16)
+nn(Access-18, Web-17)
+nn(site-22, Access-18)
+abbrev(Access-18, OWA-20)
+prep_with(connect-12, site-22)
+prep_for(site-22, one-24)
+poss(accounts-28, my-26)
+nn(accounts-28, business-27)
+prep_of(site-22, accounts-28)
+complm(unable-33, that-29)
+nsubj(unable-33, I-30)
+cop(unable-33, am-31)
+advmod(unable-33, otherwise-32)
+ccomp(connect-12, unable-33)
+aux(reach-35, to-34)
+xcomp(unable-33, reach-35)
+det(PC-38, a-37)
+prep_without(reach-35, PC-38)
+
+=========
+
+nsubj(paired-2, I-1)
+root(ROOT-0, paired-2)
+poss(phone-4, my-3)
+dobj(paired-2, phone-4)
+det(headset-9, a-6)
+nn(headset-9, Finiti-7)
+nn(headset-9, Bluetooth-8)
+prep_with(paired-2, headset-9)
+nsubj(works-12, headset-9)
+rcmod(headset-9, works-12)
+acomp(works-12, great-13)
+
+=========
+
+det(things-3, The-1)
+amod(things-3, only-2)
+nsubj(cases-6, things-3)
+partmod(things-3, missing-4)
+cop(cases-6, were-5)
+root(ROOT-0, cases-6)
+amod(chargers-9, mobile-8)
+conj_and(cases-6, chargers-9)
+nsubj(find-14, you-12)
+aux(find-14, can-13)
+conj_but(cases-6, find-14)
+nsubj(cheap-16, them-15)
+xcomp(find-14, cheap-16)
+prep_at(cheap-16, Amazon-18)
+

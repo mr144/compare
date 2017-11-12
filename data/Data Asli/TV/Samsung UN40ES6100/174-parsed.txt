@@ -1,0 +1,50 @@
+=========
+
+num(years-2, Two-1)
+npadvmod(ago-3, years-2)
+advmod(bought-5, ago-3)
+nsubj(bought-5, I-4)
+nsubj(loved-11, I-4)
+root(ROOT-0, bought-5)
+det(TV-9, a-6)
+nn(TV-9, LG-7)
+nn(TV-9, LCD-8)
+dobj(bought-5, TV-9)
+conj_and(bought-5, loved-11)
+det(quality-14, the-12)
+nn(quality-14, picture-13)
+dobj(loved-11, quality-14)
+dobj(loved-11, color-16)
+conj_and(quality-14, color-16)
+prep_on(quality-14, it-18)
+
+=========
+
+det(year-2, This-1)
+dep(decided-4, year-2)
+nsubj(decided-4, we-3)
+xsubj(buy-6, we-3)
+root(ROOT-0, decided-4)
+aux(buy-6, to-5)
+xcomp(decided-4, buy-6)
+det(TV-9, a-7)
+amod(TV-9, new-8)
+dobj(buy-6, TV-9)
+det(one-12, this-11)
+nsubj(better-15, one-12)
+cop(better-15, was-13)
+advmod(better-15, even-14)
+conj_and(decided-4, better-15)
+
+=========
+
+advmod(clearer-2, Much-1)
+nsubj(magnificent-10, clearer-2)
+det(quality-5, the-4)
+prep_on(clearer-2, quality-5)
+det(colors-8, the-7)
+prep_on(clearer-2, colors-8)
+conj_and(quality-5, colors-8)
+cop(magnificent-10, are-9)
+root(ROOT-0, magnificent-10)
+

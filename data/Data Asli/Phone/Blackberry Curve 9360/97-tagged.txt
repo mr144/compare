@@ -1,0 +1,7 @@
+This_DT item_NN is_VBZ an_DT unlocked_VBN TMOBILE_NNP blackberry_NN curve_NN ._.
+It_PRP does_VBZ not_RB work_VB on_IN AT&T_NNP 3G_NNP ._.
+DOES_NNS NOT_RB WORK_VBP ON_NNP AT&T_NNP 3G_NNP ._.
+The_DT listing_NN gives_VBZ you_PRP the_DT impression_NN that_IN it_PRP will_MD ,_, but_CC it_PRP is_VBZ curiously_RB silent_JJ where_WRB the_DT frequencies_NNS are_VBP concerned_VBN ._.
+do_VBP not_RB buy_VB this_DT unless_IN you_PRP are_VBP NOT_NNP on_IN AT&T_NNP ,_, and_CC you_PRP know_VBP what_WP frequency_NN your_PRP$ carrier_NN uses_VBZ for_IN 3G_NNP ._.
+Otherwise_RB ,_, the_DT phone_NN is_VBZ decent_JJ ._.
+your_PRP$ standard_JJ low_JJ budget_NN feature_NN phone_NN

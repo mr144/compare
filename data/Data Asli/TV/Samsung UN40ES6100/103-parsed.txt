@@ -1,0 +1,38 @@
+=========
+
+advmod(happy-2, Really-1)
+ccomp(great-9, happy-2)
+det(TV-5, the-4)
+prep_with(happy-2, TV-5)
+nsubj(great-9, Picture-7)
+cop(great-9, is-8)
+root(ROOT-0, great-9)
+det(sound-12, the-11)
+nsubj(better-15, sound-12)
+cop(better-15, is-13)
+advmod(better-15, far-14)
+conj_and(great-9, better-15)
+mark(expected-18, than-16)
+nsubj(expected-18, I-17)
+advcl(better-15, expected-18)
+
+=========
+
+det(feature-4, The-1)
+nn(feature-4, Smart-2)
+nn(feature-4, TV-3)
+nsubj(works-5, feature-4)
+root(ROOT-0, works-5)
+acomp(works-5, fine-6)
+prep_for(fine-6, us-8)
+prep_with(us-8, Netflix-10)
+prep_with(us-8, Amazon-12)
+conj_and(Netflix-10, Amazon-12)
+dobj(works-5, streaming-13)
+aux(used-17, have-15)
+neg(used-17, not-16)
+dep(works-5, used-17)
+dobj(used-17, it-18)
+prep_for(used-17, anything-20)
+prep_besides(anything-20, that-22)
+

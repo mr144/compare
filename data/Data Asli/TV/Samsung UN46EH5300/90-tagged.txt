@@ -1,0 +1,5 @@
+It_PRP is_VBZ not_RB as_RB smart_JJ as_IN it_PRP is_VBZ described_VBN ._.
+It_PRP takes_VBZ over_IN two_CD hours_NNS to_TO keep_VB downloading_VBG the_DT upgrade_JJ files_NNS and_CC seek_VB the_DT wireless_NN ._.
+Finally_RB ,_, I_PRP can_MD use_VB it_PRP to_TO surf_NN web_NN ,_, but_CC the_DT remote_JJ controller_NN is_VBZ really_RB hard_JJ to_TO use_VB to_TO key_VB in_IN an_DT URL_NNP ._.
+And_CC ,_, because_IN it_PRP is_VBZ a_DT Linux_NNP operation_NN system_NN ,_, the_DT video_NN driver_NN is_VBZ out_IN of_IN date_NN to_TO support_VB the_DT Adobe_NNP video_NN playing_NN software_NN !!!_NN Can_MD I_PRP add_VB a_DT wireless_JJ keyboard_NN or_CC mouse_NN on_IN this_DT TV_NN ?_.
+Samsung_NNP does_VBZ not_RB tell_VB us_PRP on_IN the_DT manual_NN !_.

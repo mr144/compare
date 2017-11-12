@@ -1,0 +1,28 @@
+=========
+
+det(phone-2, The-1)
+nsubj(works-3, phone-2)
+nsubj(arrived-6, phone-2)
+root(ROOT-0, works-3)
+acomp(works-3, great-4)
+conj_and(works-3, arrived-6)
+advmod(arrived-6, quickly-7)
+
+=========
+
+nsubj(product-5, This-1)
+cop(product-5, is-2)
+det(product-5, a-3)
+amod(product-5, used-4)
+root(ROOT-0, product-5)
+nsubj(happy-10, I-7)
+cop(happy-10, am-8)
+advmod(happy-10, very-9)
+conj_and(product-5, happy-10)
+prep_with(happy-10, it-12)
+
+=========
+
+det(problems-2, No-1)
+root(ROOT-0, problems-2)
+

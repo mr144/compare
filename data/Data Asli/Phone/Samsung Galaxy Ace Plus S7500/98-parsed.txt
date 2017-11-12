@@ -1,0 +1,117 @@
+=========
+
+nsubj(smartphone-5, This-1)
+cop(smartphone-5, is-2)
+poss(smartphone-5, my-3)
+amod(smartphone-5, first-4)
+root(ROOT-0, smartphone-5)
+nsubj(had-9, I-7)
+aux(had-9, have-8)
+conj_and(smartphone-5, had-9)
+dobj(had-9, it-10)
+det(couple-13, a-12)
+prep_for(had-9, couple-13)
+prep_of(couple-13, days-15)
+advmod(days-15, only-16)
+dep(smartphone-5, so-18)
+nsubj(used-23, I-19)
+aux(used-23, have-20)
+neg(used-23, not-21)
+advmod(used-23, fully-22)
+ccomp(smartphone-5, used-23)
+det(applications-26, the-24)
+amod(applications-26, android-25)
+nsubj(available-27, applications-26)
+xcomp(used-23, available-27)
+
+=========
+
+det(screen-3, The-1)
+nn(screen-3, touch-2)
+nsubj(has-4, screen-3)
+root(ROOT-0, has-4)
+amod(response-6, good-5)
+dobj(has-4, response-6)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nn(mail-2, Yahoo-1)
+nsubj(looked-3, mail-2)
+root(ROOT-0, looked-3)
+advmod(looked-3, better-4)
+det(phone-8, the-6)
+amod(phone-8, android-7)
+prep_in(looked-3, phone-8)
+mark(showed-11, as-9)
+nsubj(showed-11, it-10)
+advcl(looked-3, showed-11)
+amod(images-13, attached-12)
+dobj(showed-11, images-13)
+amod(preview-16, small-15)
+prep_in(showed-11, preview-16)
+det(view-20, the-18)
+nn(view-20, inbox-19)
+prep_in(showed-11, view-20)
+
+=========
+
+det(phone-3, The-1)
+nn(phone-3, cell-2)
+nsubj(downloaded-5, phone-3)
+advmod(downloaded-5, also-4)
+root(ROOT-0, downloaded-5)
+det(SW-7, some-6)
+nsubj(patches-8, SW-7)
+nsubj(applied-10, SW-7)
+ccomp(downloaded-5, patches-8)
+ccomp(downloaded-5, applied-10)
+conj_and(patches-8, applied-10)
+mark(setup-14, after-11)
+nsubj(setup-14, Wifi-12)
+cop(setup-14, was-13)
+advcl(applied-10, setup-14)
+
+=========
+
+det(GPS-2, The-1)
+nsubj(good-4, GPS-2)
+cop(good-4, is-3)
+ccomp(tried-8, good-4)
+aux(tried-8, have-6)
+neg(tried-8, not-7)
+root(ROOT-0, tried-8)
+det(feature-11, the-9)
+nn(feature-11, navigation-10)
+nsubj(tried-8, feature-11)
+
+=========
+
+det(Camera-2, The-1)
+nsubj(have-5, Camera-2)
+aux(have-5, does-3)
+neg(have-5, not-4)
+root(ROOT-0, have-5)
+det(feature-8, a-6)
+nn(feature-8, Zoom-7)
+dobj(have-5, feature-8)
+
+=========
+
+root(ROOT-0, Hoping-1)
+aux(use-3, to-2)
+xcomp(Hoping-1, use-3)
+det(app-6, the-4)
+nn(app-6, talk-5)
+dobj(use-3, app-6)
+aux(make-8, to-7)
+xcomp(use-3, make-8)
+amod(calls-10, free-9)
+dobj(make-8, calls-10)
+amod(wifi-13, free-12)
+prep_over(make-8, wifi-13)
+dep(wifi-13, home-15)
+nn(etc-18, airport-17)
+appos(home-15, etc-18)
+

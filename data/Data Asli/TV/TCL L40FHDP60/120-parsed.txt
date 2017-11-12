@@ -1,0 +1,83 @@
+=========
+
+nsubj(considered-2, Never-1)
+root(ROOT-0, considered-2)
+xcomp(considered-2, buying-3)
+det(TV-5, a-4)
+dobj(buying-3, TV-5)
+det(internet-8, the-7)
+prep_over(buying-3, internet-8)
+
+=========
+
+nsubj(read-2, I-1)
+root(ROOT-0, read-2)
+predet(reviews-5, all-3)
+det(reviews-5, the-4)
+dobj(read-2, reviews-5)
+preconj(reviews-5, both-6)
+det(good-8, the-7)
+conj(reviews-5, good-8)
+det(bad-11, the-10)
+conj(reviews-5, bad-11)
+conj_and(good-8, bad-11)
+
+=========
+
+nsubj(arrived-3, TV-1)
+advmod(arrived-3, actually-2)
+root(ROOT-0, arrived-3)
+prt(arrived-3, over-4)
+tmod(arrived-3, night-5)
+
+=========
+
+root(ROOT-0, Put-1)
+det(stand-3, the-2)
+dobj(Put-1, stand-3)
+det(problem-7, no-6)
+prep_together_with(Put-1, problem-7)
+dep(problem-7, followed-8)
+det(instructions-11, the-9)
+nn(instructions-11, setup-10)
+dobj(followed-8, instructions-11)
+dep(problem-7, had-13)
+conj_and(followed-8, had-13)
+dobj(had-13, it-14)
+advmod(had-13, up-15)
+dep(problem-7, running-17)
+conj_and(followed-8, running-17)
+dep(problem-7, connected-19)
+conj_and(followed-8, connected-19)
+poss(Hopper-23, my-21)
+nn(Hopper-23, Dish-22)
+prep_to(connected-19, Hopper-23)
+prep(connected-19, in-24)
+pcomp(in-24, about-25)
+prep(in-24, about-25)
+
+=========
+
+num(minutes-2, 20-1)
+root(ROOT-0, minutes-2)
+
+=========
+
+root(ROOT-0, Use-1)
+det(codes-4, the-2)
+nn(codes-4, RCA-3)
+nsubj(set-6, codes-4)
+aux(set-6, to-5)
+xcomp(Use-1, set-6)
+prt(set-6, up-7)
+det(remote-10, the-8)
+nn(remote-10, Dish-9)
+dobj(set-6, remote-10)
+
+=========
+
+nsubj(picture-2, Great-1)
+nsubj(price-4, Great-1)
+root(ROOT-0, picture-2)
+conj_and(picture-2, price-4)
+

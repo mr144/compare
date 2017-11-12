@@ -1,0 +1,6 @@
+This_DT is_VBZ a_DT very_RB lightweight_JJ phone_NN ._.
+It_PRP has_VBZ a_DT really_RB high_JJ end_NN display_NN and_CC graphics_NNS ._.
+Videos_NNS play_VBP back_RB smooth_JJ ,_, and_CC look_VB real_JJ ._.
+The_DT camera_NN and_CC camcorder_NN work_NN great_JJ ._.
+Battery_NNP life_NN is_VBZ good_JJ ._.
+After_IN plugging_VBG it_PRP to_TO my_PRP$ PC_NN ,_, the_DT software_NN got_VBD updated_VBN to_TO Android_NNP 4.0.4_CD ,_, and_CC works_VBZ great_JJ ._.

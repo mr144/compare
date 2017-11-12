@@ -1,0 +1,53 @@
+=========
+
+root(ROOT-0, Picture-1)
+amod(fair-3, quality-2)
+dep(Picture-1, fair-3)
+dep(Picture-1, at-4)
+pobj(at-4, best-5)
+
+=========
+
+advmod(screen-4, Probably-1)
+advmod(much-3, too-2)
+advmod(screen-4, much-3)
+root(ROOT-0, screen-4)
+prep_for(screen-4, 60hz-6)
+
+=========
+
+det(codes-3, No-1)
+amod(codes-3, published-2)
+root(ROOT-0, codes-3)
+dep(codes-3, for-4)
+pobj(for-4, remote-5)
+dep(work-11, yes-7)
+det(codes-10, some-8)
+nn(codes-10, RCA-9)
+nsubj(work-11, codes-10)
+conj_but(codes-3, work-11)
+advmod(work-11, well-12)
+
+=========
+
+prep_for(bad-7, price-2)
+nsubj(bad-7, it-4)
+nsubj(good-12, it-4)
+cop(bad-7, is-5)
+neg(bad-7, not-6)
+root(ROOT-0, bad-7)
+advmod(good-12, very-11)
+conj_negcc(bad-7, good-12)
+nn(quality-15, picture-14)
+nsubj(lacks-16, quality-15)
+dep(bad-7, lacks-16)
+dobj(lacks-16, depth-17)
+nsubj(is-20, which-19)
+rcmod(depth-17, is-20)
+advmod(get-23, why-21)
+nsubj(get-23, you-22)
+advcl(is-20, get-23)
+det(TV-28, an-24)
+amod(TV-28, HD-26)
+dobj(get-23, TV-28)
+

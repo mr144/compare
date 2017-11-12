@@ -1,0 +1,3 @@
+I_PRP think_VBP it_PRP is_VBZ a_DT good_JJ TV_NN and_CC you_PRP can_MD connect_VB your_PRP$ wireless_JJ mouse_NN and_CC use_NN tv_NN like_IN computer_NN but_CC the_DT only_JJ problem_NN that_IN I_PRP have_VBP is_VBZ you_PRP can_MD not_RB update_VB some_DT feature_NN that_IN you_PRP need_VBP for_IN example_NN update_VBP plugins_NNS to_TO watch_VB some_DT online_JJ tv_NN ._.
+I_PRP tried_VBD to_TO update_VB flash_NN player_NN that_IN some_DT online_JJ tv_NN needs_NNS but_CC I_PRP could_MD not_RB ._.
+but_CC other_JJ things_NNS is_VBZ good_JJ ._.

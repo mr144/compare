@@ -1,0 +1,197 @@
+=========
+
+cop(happy-2, Was-1)
+root(ROOT-0, happy-2)
+aux(get-4, to-3)
+xcomp(happy-2, get-4)
+det(today-7, the-5)
+amod(today-7, KDL55EX640-6)
+tmod(get-4, today-7)
+
+=========
+
+cc(set-7, But-1)
+csubj(set-7, turned-2)
+amod(disappointment-5, very-4)
+prep_to(turned-2, disappointment-5)
+prep(turned-2, after-6)
+root(ROOT-0, set-7)
+prt(set-7, up-8)
+
+=========
+
+root(ROOT-0, Problem-1)
+nsubj(foggy-7, It-3)
+cop(foggy-7, 's-4)
+advmod(foggy-7, little-5)
+dep(foggy-7, bit-6)
+dep(Problem-1, foggy-7)
+det(picture-10, the-9)
+prep_on(foggy-7, picture-10)
+
+=========
+
+nsubj(color-5, Picture-1)
+cop(color-5, is-2)
+neg(color-5, not-3)
+nn(color-5, nature-4)
+root(ROOT-0, color-5)
+
+=========
+
+root(ROOT-0, Tried-1)
+aux(adjust-3, to-2)
+xcomp(Tried-1, adjust-3)
+dobj(adjust-3, settings-4)
+prep_without(adjust-3, success-6)
+
+=========
+
+nsubj(is-2, HUE-1)
+nsubj(unable-7, HUE-1)
+xsubj(adjusted-10, HUE-1)
+root(ROOT-0, is-2)
+amod(column-5, gray-4)
+prep_in(is-2, column-5)
+conj_and(is-2, unable-7)
+aux(adjusted-10, to-8)
+auxpass(adjusted-10, be-9)
+xcomp(unable-7, adjusted-10)
+
+=========
+
+nn(support-3, Sony-1)
+nn(support-3, tech-2)
+nsubj(suggested-6, support-3)
+nsubj(unplug-12, support-3)
+xsubj(see-26, support-3)
+prep_on(support-3, chatting-5)
+root(ROOT-0, suggested-6)
+prep_to(suggested-6, power-8)
+prep_off(suggested-6, tv-10)
+conj_and(suggested-6, unplug-12)
+dobj(unplug-12, outlet-13)
+conj_and(suggested-6, plug-15)
+conj_and(unplug-12, plug-15)
+dobj(plug-15, it-16)
+advmod(plug-15, back-17)
+conj_and(suggested-6, turn-19)
+conj_and(unplug-12, turn-19)
+prep_on(turn-19, tv-21)
+num(seconds-24, 60-23)
+prep_after(turn-19, seconds-24)
+aux(see-26, to-25)
+xcomp(turn-19, see-26)
+mark(working-31, if-27)
+nsubj(working-31, HUE-28)
+aux(working-31, can-29)
+aux(working-31, be-30)
+advcl(see-26, working-31)
+
+=========
+
+advmod(is-7, Also-1)
+det(issue-6, a-3)
+advmod(serious-5, more-4)
+amod(issue-6, serious-5)
+nsubj(is-7, issue-6)
+root(ROOT-0, is-7)
+nsubj(felt-9, we-8)
+ccomp(is-7, felt-9)
+advmod(felt-9, dizzy-10)
+advmod(watch-13, when-11)
+nsubj(watch-13, we-12)
+advcl(felt-9, watch-13)
+det(program-16, the-14)
+nn(program-16, tv-15)
+dobj(watch-13, program-16)
+
+=========
+
+nsubj(experience-6, This-1)
+cop(experience-6, is-2)
+det(experience-6, a-3)
+advmod(unusal-5, very-4)
+amod(experience-6, unusal-5)
+root(ROOT-0, experience-6)
+
+=========
+
+det(friend-2, A-1)
+nsubj(complained-3, friend-2)
+nsubj(said-7, friend-2)
+root(ROOT-0, complained-3)
+det(same-5, the-4)
+dobj(complained-3, same-5)
+conj_and(complained-3, said-7)
+nsubj(takes-9, it-8)
+ccomp(said-7, takes-9)
+amod(days-11, few-10)
+nsubjpass(used-14, days-11)
+aux(used-14, to-12)
+auxpass(used-14, get-13)
+xcomp(takes-9, used-14)
+prep_to(used-14, it-16)
+
+=========
+
+amod(support-3, Per-1)
+nn(support-3, tech-2)
+nsubj(try-5, support-3)
+root(ROOT-0, try-5)
+prep_to(try-5, power-7)
+prep_off(try-5, reset-9)
+
+=========
+
+det(tv-2, This-1)
+nsubj(has-3, tv-2)
+dep(bought-13, has-3)
+det(comparison-5, no-4)
+dobj(has-3, comparison-5)
+det(52-10, the-7)
+amod(52-10, other-8)
+num(52-10, one-9)
+prep_with(comparison-5, 52-10)
+nsubj(bought-13, I-12)
+root(ROOT-0, bought-13)
+num(years-15, 3-14)
+npadvmod(ago-16, years-15)
+advmod(bought-13, ago-16)
+
+=========
+
+nsubj(return-2, Will-1)
+root(ROOT-0, return-2)
+dobj(return-2, it-3)
+
+=========
+
+det(way-3, the-2)
+prep_by(mixed-6, way-3)
+nsubj(mixed-6, whyAmzon-5)
+nsubj(presented-18, whyAmzon-5)
+root(ROOT-0, mixed-6)
+predet(reviews-9, all-7)
+det(reviews-9, the-8)
+dobj(mixed-6, reviews-9)
+amod(tv-13, different-11)
+nn(tv-13, sizes-12)
+prep_of(reviews-9, tv-13)
+prep_of(tv-13, EX640-15)
+advmod(mixed-6, together-16)
+conj_and(mixed-6, presented-18)
+amod(stars-21, average-19)
+num(stars-21, 4-20)
+dobj(presented-18, stars-21)
+det(tv-24, this-23)
+prep_for(presented-18, tv-24)
+
+=========
+
+nsubj(mislead-2, It-1)
+root(ROOT-0, mislead-2)
+dobj(mislead-2, people-3)
+xcomp(mislead-2, reading-4)
+dobj(reading-4, it-5)
+

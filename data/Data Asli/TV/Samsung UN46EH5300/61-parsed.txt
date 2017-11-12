@@ -1,0 +1,50 @@
+=========
+
+det(tv-3, The-1)
+amod(tv-3, smart-2)
+nsubj(cumbersome-5, tv-3)
+cop(cumbersome-5, is-4)
+root(ROOT-0, cumbersome-5)
+
+=========
+
+nsubj(available-10, Most-1)
+nsubj(have-12, Most-1)
+xsubj(use-14, Most-1)
+det(videos-5, the-3)
+nn(videos-5, streaming-4)
+prep_of(Most-1, videos-5)
+prep_on(videos-5, youtube-7)
+cop(available-10, are-8)
+neg(available-10, not-9)
+root(ROOT-0, available-10)
+conj_and(available-10, have-12)
+aux(use-14, to-13)
+xcomp(have-12, use-14)
+dobj(use-14, computer-15)
+nsubj(easy-18, computer-15)
+cop(easy-18, is-17)
+rcmod(computer-15, easy-18)
+aux(hook-20, to-19)
+xcomp(easy-18, hook-20)
+prt(hook-20, up-21)
+
+=========
+
+root(ROOT-0, Need-1)
+aux(find-3, to-2)
+xcomp(Need-1, find-3)
+prt(find-3, out-4)
+advmod(get-7, how-5)
+aux(get-7, to-6)
+ccomp(find-3, get-7)
+xcomp(find-3, get-7)
+nn(channels-10, non-8)
+nn(channels-10, HD-9)
+nsubj(show-12, channels-10)
+aux(show-12, to-11)
+xcomp(get-7, show-12)
+amod(picture-15, full-13)
+nn(picture-15, screen-14)
+dobj(show-12, picture-15)
+

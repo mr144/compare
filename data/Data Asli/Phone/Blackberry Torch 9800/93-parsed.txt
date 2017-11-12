@@ -1,0 +1,36 @@
+=========
+
+dep(flash-2, No-1)
+root(ROOT-0, flash-2)
+poss(camera-5, its-4)
+prep_in(flash-2, camera-5)
+
+=========
+
+nsubjpass(broken-3, box-1)
+auxpass(broken-3, is-2)
+root(ROOT-0, broken-3)
+
+=========
+
+amod(performance-2, poor-1)
+root(ROOT-0, performance-2)
+
+=========
+
+advmod(suck-5, overall-1)
+det(phone-3, this-2)
+nsubj(suck-5, phone-3)
+cop(suck-5, is-4)
+root(ROOT-0, suck-5)
+
+=========
+
+det(phone-2, This-1)
+nsubj(worse-4, phone-2)
+cop(worse-4, is-3)
+root(ROOT-0, worse-4)
+poss(3GS-8, my-6)
+amod(3GS-8, iphone-7)
+prep_than(worse-4, 3GS-8)
+

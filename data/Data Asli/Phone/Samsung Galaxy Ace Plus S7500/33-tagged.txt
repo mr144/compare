@@ -1,0 +1,2 @@
+Galaxy_NNP Ace_NNP Plus_NNP is_VBZ a_DT great_JJ option_NN ,_, low_JJ cost_NN ,_, works_VBZ well_RB ,_, and_CC do_VB anything_NN you_PRP want_VBP ._.
+I_PRP recommend_VBP Ace_NNP PLus_NNP ._.

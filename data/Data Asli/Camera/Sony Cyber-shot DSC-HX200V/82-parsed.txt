@@ -1,0 +1,31 @@
+=========
+
+nn(description-2, Less-1)
+nsubj(\/-3, description-2)
+root(ROOT-0, \/-3)
+dobj(\/-3, clarification-4)
+nsubjpass(included-8, what-6)
+auxpass(included-8, is-7)
+prepc_of(clarification-4, included-8)
+
+=========
+
+nsubjpass(included-7, Bag-1)
+nn(card-4, memory-3)
+conj_and(Bag-1, card-4)
+nsubjpass(included-7, card-4)
+aux(included-7, should-5)
+auxpass(included-7, be-6)
+root(ROOT-0, included-7)
+prep_as(included-7, camera-9)
+nsubj(make-14, that-11)
+aux(make-14, does-12)
+neg(make-14, not-13)
+prepc_without(included-7, make-14)
+det(sense-16, any-15)
+dobj(make-14, sense-16)
+
+=========
+
+root(ROOT-0, Thanks-1)
+

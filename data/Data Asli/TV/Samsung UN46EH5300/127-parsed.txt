@@ -1,0 +1,27 @@
+=========
+
+nsubj(excellent-7, Arrived-1)
+prep_on(Arrived-1, schedule-3)
+prep_on(Arrived-1, price-5)
+conj_and(schedule-3, price-5)
+cop(excellent-7, was-6)
+root(ROOT-0, excellent-7)
+
+=========
+
+nsubj(bought-2, We-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, two-3)
+
+=========
+
+det(units-2, Both-1)
+nsubj(have-3, units-2)
+root(ROOT-0, have-3)
+amod(pictures-5, great-4)
+dobj(have-3, pictures-5)
+det(array-8, an-7)
+dobj(have-3, array-8)
+conj_and(pictures-5, array-8)
+prep_of(array-8, features-10)
+

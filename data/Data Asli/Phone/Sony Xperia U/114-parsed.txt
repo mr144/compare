@@ -1,0 +1,693 @@
+=========
+
+nsubj(geek-5, I-1)
+nsubj(used-8, I-1)
+cop(geek-5, am-2)
+det(geek-5, a-3)
+nn(geek-5, tech-4)
+root(ROOT-0, geek-5)
+aux(used-8, have-7)
+conj_and(geek-5, used-8)
+amod(mobiles-10, many-9)
+dobj(used-8, mobiles-10)
+det(years-13, the-12)
+prep_over(used-8, years-13)
+
+=========
+
+nsubj(used-3, I-1)
+aux(used-3, have-2)
+root(ROOT-0, used-3)
+dobj(used-3, Palm-4)
+appos(Palm-4, Blackberry-6)
+appos(Palm-4, WinMobile-8)
+conj_and(Blackberry-6, WinMobile-8)
+appos(Palm-4, Webos-10)
+conj_and(Blackberry-6, Webos-10)
+appos(Palm-4, Ios-12)
+conj_and(Blackberry-6, Ios-12)
+appos(Palm-4, Meego-14)
+conj_and(Blackberry-6, Meego-14)
+appos(Palm-4, WP7-16)
+conj_and(Blackberry-6, WP7-16)
+appos(Palm-4, Android-18)
+conj_and(Blackberry-6, Android-18)
+
+=========
+
+dep(know-3, So-1)
+nsubj(know-3, I-2)
+root(ROOT-0, know-3)
+det(differences-5, the-4)
+dobj(know-3, differences-5)
+
+=========
+
+aux(used-2, Having-1)
+partmod(made-9, used-2)
+dobj(used-2, many-3)
+prep_of(many-3, them-5)
+nsubj(made-9, I-7)
+aux(made-9, have-8)
+root(ROOT-0, made-9)
+ccomp(made-9, Android-10)
+poss(phone-13, my-11)
+amod(phone-13, primary-12)
+dobj(Android-10, phone-13)
+
+=========
+
+det(reasons-2, The-1)
+nsubj(simple-6, reasons-2)
+prep_for(reasons-2, me-4)
+cop(simple-6, are-5)
+root(ROOT-0, simple-6)
+nsubj(like-9, I-8)
+xsubj(be-11, I-8)
+parataxis(simple-6, like-9)
+aux(be-11, to-10)
+xcomp(like-9, be-11)
+prep_in(be-11, charge-13)
+poss(device-16, my-15)
+prep_of(charge-13, device-16)
+
+=========
+
+nsubj(choice-4, Customization-1)
+cop(choice-4, is-2)
+det(choice-4, a-3)
+ccomp(mandatory-9, choice-4)
+nsubj(mandatory-9, it-6)
+cop(mandatory-9, is-7)
+neg(mandatory-9, not-8)
+root(ROOT-0, mandatory-9)
+
+=========
+
+amod(owners-3, Many-1)
+nn(owners-3, iphone-2)
+nsubj(say-5, owners-3)
+aux(say-5, will-4)
+dep(have-8, say-5)
+dep(say-5, oh-6)
+nsubj(have-8, you-7)
+xsubj(tweak-10, you-7)
+root(ROOT-0, have-8)
+aux(tweak-10, to-9)
+xcomp(have-8, tweak-10)
+poss(phone-13, your-11)
+nn(phone-13, Android-12)
+dobj(tweak-10, phone-13)
+aux(make-15, to-14)
+xcomp(tweak-10, make-15)
+nsubj(useful-17, it-16)
+xcomp(make-15, useful-17)
+
+=========
+
+nsubj(be-3, Nothing-1)
+aux(be-3, can-2)
+root(ROOT-0, be-3)
+advmod(be-3, further-4)
+prep_from(be-3, truth-6)
+
+=========
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+advmod(up-4, entirely-3)
+advmod(is-2, up-4)
+det(user-7, the-6)
+prep_to(is-2, user-7)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+amod(things-5, many-3)
+amod(things-5, cool-4)
+nsubj(are-2, things-5)
+dobj(do-8, things-5)
+nsubj(do-8, you-6)
+aux(do-8, can-7)
+rcmod(things-5, do-8)
+prep_with(do-8, Android-10)
+complm(iphone-17, that-11)
+nsubj(iphone-17, you-12)
+neg(iphone-17, never-13)
+aux(iphone-17, can-14)
+advmod(iphone-17, on-15)
+dep(on-15, any-16)
+ccomp(do-8, iphone-17)
+
+=========
+
+det(storage-6, A-2)
+amod(storage-6, proper-3)
+nn(storage-6, file-4)
+nn(storage-6, manager\/USB-5)
+root(ROOT-0, storage-6)
+nsubj(it-10, what-8)
+cop(it-10, is-9)
+rcmod(storage-6, it-10)
+advmod(matters-14, why-12)
+nsubj(matters-14, it-13)
+rcmod(storage-6, matters-14)
+conj_and(it-10, matters-14)
+
+=========
+
+mark(used-3, If-1)
+nsubj(used-3, you-2)
+advcl(know-10, used-3)
+det(drive-7, any-4)
+amod(drive-7, USB-5)
+nn(drive-7, flash-6)
+dobj(used-3, drive-7)
+nsubj(know-10, you-9)
+root(ROOT-0, know-10)
+advmod(works-13, how-11)
+nsubj(works-13, it-12)
+ccomp(know-10, works-13)
+
+=========
+
+nsubj(plug-3, You-1)
+advmod(plug-3, just-2)
+root(ROOT-0, plug-3)
+dobj(plug-3, it-4)
+prep(plug-3, in-5)
+nsubj(shows-8, it-7)
+conj_and(plug-3, shows-8)
+prt(shows-8, up-9)
+det(drive-12, a-11)
+prep_as(shows-8, drive-12)
+nsubj(drag-16, you-14)
+nsubj(drop-18, you-14)
+aux(drag-16, can-15)
+conj_and(plug-3, drag-16)
+conj_and(shows-8, drag-16)
+conj_and(shows-8, drop-18)
+conj_and(drag-16, drop-18)
+nn(file-20, ANY-19)
+dobj(drag-16, file-20)
+prep_in(drag-16, it-22)
+
+=========
+
+nsubj(works-2, Android-1)
+root(ROOT-0, works-2)
+det(way-5, the-3)
+amod(way-5, same-4)
+dobj(works-2, way-5)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(software-6, no-3)
+amod(software-6, special-4)
+amod(software-6, itunes\/zune-like-5)
+nsubj(is-2, software-6)
+dobj(need-8, software-6)
+nsubj(need-8, you-7)
+xsubj(manage-10, you-7)
+rcmod(software-6, need-8)
+aux(manage-10, to-9)
+xcomp(need-8, manage-10)
+poss(phone-12, your-11)
+dobj(manage-10, phone-12)
+
+=========
+
+nsubj(sad-3, it-1)
+cop(sad-3, is-2)
+dep(managed-19, sad-3)
+complm(charges-6, that-4)
+nsubj(charges-6, Apple-5)
+ccomp(sad-3, charges-6)
+advmod(much-8, so-7)
+advmod(charges-6, much-8)
+amod(iphones-12, higher-10)
+nn(iphones-12, capacity-11)
+prep_for(charges-6, iphones-12)
+advmod(charges-6, yet-13)
+det(storage-15, the-14)
+nsubjpass(managed-19, storage-15)
+aux(managed-19, can-16)
+neg(managed-19, not-17)
+auxpass(managed-19, be-18)
+root(ROOT-0, managed-19)
+det(way-22, any-21)
+prep_in(managed-19, way-22)
+dobj(please-24, way-22)
+nsubj(please-24, YOU-23)
+rcmod(way-22, please-24)
+
+=========
+
+nsubjpass(designed-4, it-1)
+xsubj(devices-9, it-1)
+auxpass(designed-4, is-2)
+advmod(designed-4, strictly-3)
+root(ROOT-0, designed-4)
+aux(devices-9, to-5)
+cop(devices-9, be-6)
+det(devices-9, a-7)
+amod(devices-9, consume-8)
+xcomp(designed-4, devices-9)
+dep(devices-9, music-11)
+dep(devices-9, video-13)
+conj_and(music-11, video-13)
+
+=========
+
+nsubj(interface-22, AirDroid-3)
+amod(app-9, simple-6)
+conj_and(simple-6, free-8)
+amod(app-9, free-8)
+dep(AirDroid-3, app-9)
+nsubj(allows-13, app-9)
+prep_for(app-9, Android-11)
+rcmod(app-9, allows-13)
+nsubj(do-16, you-14)
+aux(do-16, to-15)
+xcomp(allows-13, do-16)
+advmod(everything-18, nearly-17)
+dobj(do-16, everything-18)
+det(browser-21, a-20)
+prep_from(do-16, browser-21)
+root(ROOT-0, interface-22)
+advmod(touching-25, even-24)
+prepc_without(interface-22, touching-25)
+poss(phone-27, your-26)
+dobj(touching-25, phone-27)
+
+=========
+
+nsubj(includes-2, this-1)
+root(ROOT-0, includes-2)
+nn(transfer-4, file-3)
+dobj(includes-2, transfer-4)
+nn(management-7, app-6)
+dobj(includes-2, management-7)
+conj_and(transfer-4, management-7)
+amod(txts-10, send\/receive-9)
+dobj(includes-2, txts-10)
+conj_and(transfer-4, txts-10)
+advmod(more-13, much-12)
+dobj(includes-2, more-13)
+conj_and(transfer-4, more-13)
+
+=========
+
+nsubj(convenient-4, this-1)
+cop(convenient-4, is-2)
+advmod(convenient-4, very-3)
+root(ROOT-0, convenient-4)
+mark(have-8, because-5)
+nsubj(have-8, you-6)
+aux(have-8, can-7)
+advcl(convenient-4, have-8)
+poss(phone-10, your-9)
+dobj(have-8, phone-10)
+poss(pocket-13, your-12)
+prep_in(phone-10, pocket-13)
+
+=========
+
+root(ROOT-0, amysms-2)
+amod(text-6, amighty-5)
+conj_or(amysms-2, text-6)
+nsubj(handy-12, these-9)
+cop(handy-12, are-10)
+advmod(handy-12, also-11)
+dep(amysms-2, handy-12)
+mark(allow-15, as-13)
+nsubj(allow-15, they-14)
+ccomp(handy-12, allow-15)
+nsubj(send\/receive-18, you-16)
+aux(send\/receive-18, to-17)
+xcomp(allow-15, send\/receive-18)
+dobj(send\/receive-18, sms-19)
+advmod(touching-22, even-21)
+prepc_without(send\/receive-18, touching-22)
+poss(phone-24, your-23)
+dobj(touching-22, phone-24)
+advmod(long-26, as-25)
+advmod(send\/receive-18, long-26)
+mark(has-30, as-27)
+poss(phone-29, your-28)
+nsubj(has-30, phone-29)
+ccomp(long-26, has-30)
+xcomp(has-30, working-31)
+dobj(working-31, signal-32)
+
+=========
+
+advmod(awesome-2, pretty-1)
+root(ROOT-0, awesome-2)
+nn(environment-5, office-4)
+prep_in(awesome-2, environment-5)
+
+=========
+
+partmod(done-11, Mind-1)
+dobj(Mind-1, you-2)
+num(%-5, 90-4)
+nsubjpass(done-11, %-5)
+nn(customization-8, Android-7)
+prep_of(%-5, customization-8)
+aux(done-11, can-9)
+auxpass(done-11, be-10)
+root(ROOT-0, done-11)
+nn(irrespective-14, anyone-13)
+agent(done-11, irrespective-14)
+nn(knowledge-17, tech-16)
+prep_of(irrespective-14, knowledge-17)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(rooting-4, no-3)
+nsubj(is-2, rooting-4)
+dep(rooting-4, aka-6)
+xcomp(aka-6, jailbreaking-7)
+nn(world-10, Ios-9)
+prep_in(jailbreaking-7, world-10)
+partmod(rooting-4, needed-12)
+
+=========
+
+amod(users-2, Iphone-1)
+nsubj(tell-4, users-2)
+aux(tell-4, will-3)
+ccomp(made-15, tell-4)
+dobj(tell-4, you-5)
+mark(jailbreak-8, once-6)
+nsubj(jailbreak-8, you-7)
+advcl(tell-4, jailbreak-8)
+det(iphone-10, an-9)
+dobj(jailbreak-8, iphone-10)
+nsubjpass(made-15, it-12)
+aux(made-15, can-13)
+auxpass(made-15, be-14)
+root(ROOT-0, made-15)
+aux(work-17, to-16)
+xcomp(made-15, work-17)
+prep_like(work-17, Android-19)
+
+=========
+
+advmod(false-5, Again-1)
+nsubj(false-5, that-2)
+cop(false-5, 's-3)
+advmod(false-5, completely-4)
+root(ROOT-0, false-5)
+
+=========
+
+amod(idevice-2, Jailbreaking-1)
+nsubj(allows-3, idevice-2)
+root(ROOT-0, allows-3)
+det(customization-6, a-4)
+amod(customization-6, little-5)
+dobj(allows-3, customization-6)
+nsubj(nowhere-10, it-8)
+cop(nowhere-10, is-9)
+conj_but(allows-3, nowhere-10)
+prep_near(nowhere-10, Android-12)
+
+=========
+
+cc(do-6, And-1)
+nsubj(do-6, you-2)
+advmod(do-6, still-3)
+aux(do-6, can-4)
+neg(do-6, not-5)
+root(ROOT-0, do-6)
+dobj(do-6, anything-7)
+dobj(want-9, anything-7)
+nsubj(want-9, you-8)
+rcmod(anything-7, want-9)
+
+=========
+
+dep(manage-9, For-1)
+pobj(For-1, instance-2)
+nsubj(manage-9, you-4)
+advmod(manage-9, still-5)
+aux(manage-9, can-6)
+neg(manage-9, not-7)
+advmod(manage-9, properly-8)
+root(ROOT-0, manage-9)
+det(storage-11, that-10)
+dobj(manage-9, storage-11)
+poss(idevice-14, your-13)
+prep_on(storage-11, idevice-14)
+advmod(manage-9, even-15)
+prepc_after(manage-9, jailbreaking-17)
+
+=========
+
+mark(change-5, Because-1)
+nsubj(change-5, jailbreaking-2)
+aux(change-5, does-3)
+neg(change-5, not-4)
+root(ROOT-0, change-5)
+det(OS-8, the-6)
+amod(OS-8, core-7)
+dobj(change-5, OS-8)
+advmod(behaves-12, how-10)
+nsubj(behaves-12, it-11)
+conj_or(change-5, behaves-12)
+
+=========
+
+root(ROOT-0, Pros-1)
+amod(life-5, Great-3)
+nn(life-5, battery-4)
+dep(Pros-1, life-5)
+
+=========
+
+dep(fast-3, Charges-1)
+advmod(fast-3, pretty-2)
+root(ROOT-0, fast-3)
+
+=========
+
+nsubj(charges-2, Mine-1)
+root(ROOT-0, charges-2)
+advmod(charges-2, fully-3)
+prep(charges-2, in-4)
+quantmod(about-6, roughly-5)
+pobj(in-4, about-6)
+det(hour-8, an-7)
+dep(about-6, hour-8)
+
+=========
+
+root(ROOT-0, Highly-1)
+acomp(Highly-1, portable-2)
+
+=========
+
+advmod(lightweight-2, very-1)
+root(ROOT-0, lightweight-2)
+
+=========
+
+nn(Customization-3, Openness-1)
+nn(Customization-3, +-2)
+root(ROOT-0, Customization-3)
+prep_of(Customization-3, Android-5)
+
+=========
+
+nn(reception-2, Better-1)
+root(ROOT-0, reception-2)
+nsubj(tried-6, I-4)
+aux(tried-6, have-5)
+dep(reception-2, tried-6)
+xcomp(tried-6, using-7)
+poss(card-10, my-8)
+nn(card-10, SIM-9)
+dobj(using-7, card-10)
+poss(phone-14, my-12)
+nn(phone-14, LG-13)
+prep_on(using-7, phone-14)
+nsubj(drops-16, phone-14)
+rcmod(phone-14, drops-16)
+nsubj(able-21, signal-17)
+conj_but(signal-17, Sony-19)
+nsubj(able-21, Sony-19)
+cop(able-21, was-20)
+ccomp(drops-16, able-21)
+aux(retain-23, to-22)
+xcomp(able-21, retain-23)
+quantmod(one-26, at-24)
+mwe(at-24, least-25)
+pobj(at-24, least-25)
+num(bar-27, one-26)
+dobj(retain-23, bar-27)
+
+=========
+
+dep(made-7, Stylish-1)
+advmod(Stylish-1, sure-3)
+nsubjpass(made-7, it-4)
+nsubj(looks-12, it-4)
+auxpass(made-7, is-5)
+neg(made-7, not-6)
+root(ROOT-0, made-7)
+prep_of(made-7, aluminum-9)
+advmod(looks-12, still-11)
+conj_but(made-7, looks-12)
+conj_but(made-7, feels-14)
+conj_and(looks-12, feels-14)
+acomp(feels-14, great-15)
+prep_on(feels-14, hand-17)
+
+=========
+
+root(ROOT-0, Cons-1)
+det(storage-5, No-3)
+amod(storage-5, expandable-4)
+dep(Cons-1, storage-5)
+
+=========
+
+advmod(user-7, Again-1)
+dep(user-7, if-2)
+nsubj(user-7, you-3)
+cop(user-7, are-4)
+det(user-7, a-5)
+amod(user-7, light-6)
+advcl(bother-12, user-7)
+nsubj(bother-12, it-9)
+aux(bother-12, should-10)
+neg(bother-12, not-11)
+root(ROOT-0, bother-12)
+dobj(bother-12, you-13)
+
+=========
+
+csubj(offered-6, Mind-1)
+nsubj(iphones-4, you-2)
+det(iphones-4, all-3)
+xcomp(Mind-1, iphones-4)
+neg(offered-6, never-5)
+dep(popular-13, offered-6)
+amod(storage-8, expandable-7)
+dobj(offered-6, storage-8)
+advmod(offered-6, yet-9)
+nsubj(popular-13, they-10)
+cop(popular-13, are-11)
+advmod(popular-13, very-12)
+root(ROOT-0, popular-13)
+
+=========
+
+cc(depends-4, So-1)
+nsubj(depends-4, it-2)
+advmod(depends-4, really-3)
+root(ROOT-0, depends-4)
+poss(usage-7, your-6)
+prep_on(depends-4, usage-7)
+
+=========
+
+nsubj(user-5, I-1)
+cop(user-5, am-2)
+det(user-5, a-3)
+amod(user-5, heavy-4)
+root(ROOT-0, user-5)
+prep_for(flexible-14, me-8)
+det(device-11, the-10)
+nsubj(flexible-14, device-11)
+aux(flexible-14, must-12)
+cop(flexible-14, be-13)
+conj_and(user-5, flexible-14)
+
+=========
+
+cc(con-6, And-1)
+nsubj(con-6, this-2)
+cop(con-6, is-3)
+det(con-6, the-4)
+amod(con-6, only-5)
+root(ROOT-0, con-6)
+dobj(mention-9, con-6)
+nsubj(mention-9, I-7)
+aux(mention-9, can-8)
+rcmod(con-6, mention-9)
+det(device-12, this-11)
+prep_about(mention-9, device-12)
+
+=========
+
+amod(words-2, Final-1)
+root(ROOT-0, words-2)
+prep_about(words-2, Android-4)
+
+=========
+
+mark(agnostic-5, As-1)
+nsubj(agnostic-5, Android-2)
+cop(agnostic-5, is-3)
+nn(agnostic-5, platform-4)
+advcl(find-9, agnostic-5)
+nsubj(find-9, you-7)
+aux(find-9, will-8)
+root(ROOT-0, find-9)
+amod(end-11, low-10)
+dobj(find-9, end-11)
+amod(device-16, high-13)
+nn(device-16, end-14)
+nn(device-16, Android-15)
+prep_to(find-9, device-16)
+
+=========
+
+nsubj(judge-5, You-1)
+aux(judge-5, can-2)
+neg(judge-5, not-3)
+advmod(judge-5, really-4)
+root(ROOT-0, judge-5)
+det(OS-7, an-6)
+dobj(judge-5, OS-7)
+prepc_by(judge-5, using-9)
+det(device-13, a-10)
+amod(device-13, crappy-11)
+nn(device-13, Android-12)
+dobj(using-9, device-13)
+
+=========
+
+nn(U-2, Xperia-1)
+nsubj(is-3, U-2)
+root(ROOT-0, is-3)
+amod(phone-6, average\/mid-range-5)
+prep_above(is-3, phone-6)
+
+=========
+
+nsubj(is-2, it-1)
+dep(unlocked-5, is-2)
+prep_of(is-2, course-4)
+root(ROOT-0, unlocked-5)
+mark(use-9, so-6)
+nsubj(use-9, you-7)
+aux(use-9, can-8)
+advcl(unlocked-5, use-9)
+dobj(use-9, AT-10)
+dobj(use-9, t-12)
+conj_and(AT-10, t-12)
+nsubj(unlocked-5, 3G-13)
+det(usa-16, the-15)
+prep_in(3G-13, usa-16)
+prep_in(3G-13, worlwide-18)
+conj_and(usa-16, worlwide-18)
+

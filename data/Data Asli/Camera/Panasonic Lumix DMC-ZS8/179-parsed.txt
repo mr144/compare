@@ -1,0 +1,79 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(Fuji-4, a-3)
+dobj(bought-2, Fuji-4)
+det(weeks-7, a-5)
+amod(weeks-7, few-6)
+npadvmod(ago-8, weeks-7)
+advmod(bought-2, ago-8)
+nsubj(thought-12, I-11)
+conj_and(bought-2, thought-12)
+aux(betta-15, will-13)
+cop(betta-15, be-14)
+ccomp(thought-12, betta-15)
+det(Lumix-18, the-17)
+prep_than(betta-15, Lumix-18)
+dep(wrong-23, weel-20)
+nsubj(wrong-23, I-21)
+cop(wrong-23, was-22)
+dep(betta-15, wrong-23)
+
+=========
+
+nsubj(sold-2, I-1)
+nsubj(bought-5, I-1)
+root(ROOT-0, sold-2)
+dobj(sold-2, it-3)
+conj_and(sold-2, bought-5)
+det(ZS8-7, this-6)
+dobj(bought-5, ZS8-7)
+advmod(impressive-10, just-9)
+amod(ZS8-7, impressive-10)
+
+=========
+
+root(ROOT-0, 25\/07\/2011-1)
+nsubj(get-4, Lens-3)
+dep(25\/07\/2011-1, get-4)
+dobj(get-4, dust-5)
+advmod(get-4, inside-6)
+mark(Lumix-12, as-8)
+predet(previuos-11, all-9)
+poss(previuos-11, my-10)
+nsubj(Lumix-12, previuos-11)
+advcl(get-4, Lumix-12)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(think-4, I-1)
+root(ROOT-0, have-2)
+aux(think-4, to-3)
+xcomp(have-2, think-4)
+complm(have-7, that-5)
+nsubj(have-7, Panasonic-6)
+ccomp(think-4, have-7)
+amod(controls-10, poor-8)
+nn(controls-10, quality-9)
+dobj(have-7, controls-10)
+amod(process-14, poor-12)
+nn(process-14, seals-13)
+dobj(have-7, process-14)
+conj_or(controls-10, process-14)
+
+=========
+
+root(ROOT-0, Frustation-1)
+
+=========
+
+root(ROOT-0, Check-1)
+poss(Saludos-6, your-2)
+advmod(!!-5, very-3)
+advmod(!!-5, carefuly-4)
+amod(Saludos-6, !!-5)
+dobj(Check-1, Saludos-6)
+dep(Check-1, Allan-8)
+

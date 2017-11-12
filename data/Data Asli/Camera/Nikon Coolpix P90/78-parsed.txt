@@ -1,0 +1,124 @@
+=========
+
+amod(hours-3, spending-2)
+nsubj(researcing-4, hours-3)
+prepc_after(concerned-15, researcing-4)
+det(P90-6, the-5)
+dobj(researcing-4, P90-6)
+dep(P90-6, here-7)
+dep(P90-6, on-9)
+conj_and(here-7, on-9)
+amod(sites-11, other-10)
+pobj(on-9, sites-11)
+nsubjpass(concerned-15, I-13)
+auxpass(concerned-15, was-14)
+root(ROOT-0, concerned-15)
+prepc_as_to(concerned-15, to-17)
+poss(purchase-19, my-18)
+pobj(concerned-15, purchase-19)
+
+=========
+
+nsubj(made-2, I-1)
+root(ROOT-0, made-2)
+poss(purchase-4, my-3)
+dobj(made-2, purchase-4)
+prep_on(made-2, line-7)
+prep_on(line-7, 27-9)
+tmod(made-2, November-10)
+
+=========
+
+poss(P90-2, My-1)
+nsubjpass(delivered-4, P90-2)
+auxpass(delivered-4, was-3)
+root(ROOT-0, delivered-4)
+tmod(delivered-4, today-5)
+xcomp(delivered-4, @-6)
+dobj(@-6, 9AM-7)
+
+=========
+
+nsubj(spent-4, I-1)
+aux(spent-4, have-2)
+advmod(spent-4, joyfully-3)
+root(ROOT-0, spent-4)
+det(hours-11, the-5)
+amod(hours-11, last-6)
+nn(hours-11, fifteen-7)
+appos(hours-11, 15-9)
+dobj(spent-4, hours-11)
+poss(neighbor-17, my-14)
+amod(neighbor-17, professional-15)
+nn(neighbor-17, photogropher-16)
+prep_with(spent-4, neighbor-17)
+partmod(neighbor-17, using-18)
+det(camera-20, this-19)
+dobj(using-18, camera-20)
+
+=========
+
+det(ease-2, The-1)
+nsubj(terrific-15, ease-2)
+nn(quality-7, use-4)
+conj_and(use-4, picture-6)
+nn(quality-7, picture-6)
+prep_of(ease-2, quality-7)
+nn(modes-12, auto-9)
+conj_and(auto-9, manual-11)
+nn(modes-12, manual-11)
+prep_in(quality-7, modes-12)
+cop(terrific-15, are-13)
+advmod(terrific-15, just-14)
+root(ROOT-0, terrific-15)
+
+=========
+
+nsubj(captured-3, I-1)
+advmod(captured-3, just-2)
+root(ROOT-0, captured-3)
+det(shots-7, a-4)
+amod(shots-7, few-5)
+amod(shots-7, stellar-6)
+dobj(captured-3, shots-7)
+det(minutes-12, the-9)
+amod(minutes-12, full-10)
+nn(minutes-12, moon-11)
+prep_of(shots-7, minutes-12)
+advmod(captured-3, ago-13)
+
+=========
+
+mark(conidering-4, If-1)
+nsubj(conidering-4, one-2)
+aux(conidering-4, is-3)
+advcl(give-11, conidering-4)
+det(purchase-6, the-5)
+dobj(conidering-4, purchase-6)
+det(P&S-9, a-8)
+prep_of(purchase-6, P&S-9)
+root(ROOT-0, give-11)
+det(P90-13, the-12)
+iobj(give-11, P90-13)
+det(look-16, a-14)
+amod(look-16, second-15)
+dobj(give-11, look-16)
+
+=========
+
+nsubj(confident-3, I-1)
+cop(confident-3, 'M-2)
+root(ROOT-0, confident-3)
+det(one-5, this-4)
+nsubj(keeper-8, one-5)
+cop(keeper-8, is-6)
+det(keeper-8, a-7)
+ccomp(confident-3, keeper-8)
+
+=========
+
+nsubj(go-3, Way-1)
+aux(go-3, to-2)
+root(ROOT-0, go-3)
+dobj(go-3, Nikon-4)
+

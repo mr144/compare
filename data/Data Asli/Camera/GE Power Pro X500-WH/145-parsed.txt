@@ -1,0 +1,74 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(started-2, I-1)
+ccomp(excellent-26, started-2)
+xcomp(started-2, using-3)
+dobj(using-3, it-4)
+conj_and(started-2, not-7)
+neg(started-2, not-7)
+ccomp(excellent-26, not-7)
+advmod(quality-10, only-8)
+det(quality-10, the-9)
+nsubj(good-15, quality-10)
+det(picture-13, the-12)
+prep_of(quality-10, picture-13)
+cop(good-15, is-14)
+dep(started-2, good-15)
+nsubj(excellent-20, focus-18)
+cop(excellent-20, is-19)
+dep(started-2, excellent-20)
+conj_but(good-15, excellent-20)
+advmod(excellent-20, also-21)
+det(antishake-24, the-23)
+nsubj(excellent-26, antishake-24)
+cop(excellent-26, is-25)
+root(ROOT-0, excellent-26)
+
+=========
+
+root(ROOT-0, Has-1)
+det(set-5, a-2)
+advmod(nice-4, very-3)
+amod(set-5, nice-4)
+dobj(Has-1, set-5)
+prep_of(set-5, programs-7)
+advmod(than-9, more-8)
+advmod(Has-1, than-9)
+advmod(than-9, enough-10)
+det(amateur-13, an-12)
+prep_for(Has-1, amateur-13)
+
+=========
+
+cc(enough-7, And-1)
+det(features-3, the-2)
+nsubj(enough-7, features-3)
+cop(enough-7, are-4)
+advmod(than-6, more-5)
+advmod(enough-7, than-6)
+root(ROOT-0, enough-7)
+
+=========
+
+nn(Line-2, Bottom-1)
+nsubj(expect-6, Line-2)
+aux(expect-6, do-4)
+neg(expect-6, not-5)
+root(ROOT-0, expect-6)
+dobj(expect-6, anything-7)
+dep(expect-6, better-8)
+det(price-11, this-10)
+prep_at(better-8, price-11)
+dep(expect-6, not-14)
+conj_and(better-8, not-14)
+neg(better-8, not-14)
+dep(double-16, even-15)
+advmod(better-8, double-16)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, you-2)
+

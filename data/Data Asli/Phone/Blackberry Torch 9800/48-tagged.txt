@@ -1,0 +1,5 @@
+I_PRP have_VBP used_VBN this_DT phone_NN for_IN over_IN a_DT year_NN now_RB and_CC here_RB are_VBP some_DT pros_NNS and_CC consCons_NNS :_: -_: I_PRP had_VBD to_TO replace_VB the_DT handset_NN once_RB after_IN six_CD months_NNS with_IN keyboard_NN and_CC other_JJ hard_JJ key_JJ problems_NNS ._.
+-_: lack_NN of_IN useful_JJ apps_NNS -_: have_VBP to_TO reboot_VB after_IN you_PRP install_VBP and_CC uninstall_JJ apps_NNS to_TO use_VB them-ridiculously_RB slow_JJ in_IN downloading_VBG and_CC installing_VBG apps_NNS -_: Got_VBD very_RB sluggish_JJ over_IN time_NN and_CC freezes_VBZ often_RB -_: only_JJ way_NN to_TO reboot_VB is_VBZ by_IN taking_VBG the_DT battery_NN out_RP ._.
+-_: Touch_NN screen_NN is_VBZ not_RB very_RB responsive_JJ ._.
+Pros_NNS :_: -_: QWERTY_NNP keyboard_NN -_: 5MP_CD camera_NN -_: Call_VB qualityCan_NNP be_VB used_VBN as_IN a_DT very_RB basic_JJ phone_NN ._.
+For_IN a_DT smart_JJ phone_NN I_PRP would_MD rather_RB go_VB with_IN a_DT iPhone_NN or_CC android_NN

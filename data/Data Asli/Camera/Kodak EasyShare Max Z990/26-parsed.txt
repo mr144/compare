@@ -1,0 +1,39 @@
+=========
+
+nsubj(got-2, We-1)
+root(ROOT-0, got-2)
+dobj(got-2, this-3)
+poss(stepdaughter-6, our-5)
+prep_for(this-3, stepdaughter-6)
+nsubj(loves-9, she-8)
+conj_and(got-2, loves-9)
+nsubj(!!!-11, it-10)
+ccomp(loves-9, !!!-11)
+amod(camera-14, Great-12)
+amod(camera-14, first-13)
+dobj(!!!-11, camera-14)
+
+=========
+
+root(ROOT-0, Lots-1)
+prep_of(Lots-1, options-3)
+advmod(easy-6, really-5)
+prep_of(Lots-1, easy-6)
+conj_and(options-3, easy-6)
+aux(use-8, to-7)
+infmod(Lots-1, use-8)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, pentax-6)
+prep_than(better-4, fujifilm-8)
+conj_or(pentax-6, fujifilm-8)
+prep_than(better-4, GE-10)
+conj_or(pentax-6, GE-10)
+prep_than(better-4, coolpix-12)
+conj_or(pentax-6, coolpix-12)
+

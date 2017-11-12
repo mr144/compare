@@ -1,0 +1,31 @@
+=========
+
+nsubj(moved-2, I-1)
+root(ROOT-0, moved-2)
+det(form-6, the-4)
+num(form-6, 7100-5)
+prep_to(moved-2, form-6)
+det(D60-8, a-7)
+dobj(moved-2, D60-8)
+dep(loved-12, that-10)
+nsubj(loved-12, I-11)
+parataxis(moved-2, loved-12)
+dep(d-15, a-14)
+dep(incedible-22, d-15)
+det(improvements-17, the-16)
+nsubj(incedible-22, improvements-17)
+det(board-20, the-19)
+prep_across(improvements-17, board-20)
+cop(incedible-22, are-21)
+dep(moved-2, incedible-22)
+
+=========
+
+det(camera-2, This-1)
+nsubj(best-5, camera-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+poss(compatitors-8, its-7)
+prep_among(best-5, compatitors-8)
+

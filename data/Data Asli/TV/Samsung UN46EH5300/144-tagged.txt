@@ -1,0 +1,4 @@
+This_DT product_NN is_VBZ good_JJ and_CC works_VBZ great_JJ ._.
+We_PRP preferred_VBD Samsung_NNP over_IN others_NNS because_IN our_PRP$ previous_JJ Television_NN was_VBD also_RB Samsung_NNP and_CC lasted_VBD longer_RB ._.
+However_RB the_DT shipping_NN is_VBZ very_RB average_JJ from_IN Amazon_NNP ._.
+I_PRP was_VBD expecting_VBG manual_NN set_VBN up_RP as_IN part_NN of_IN shipping_NN -LRB-_-LRB- which_WDT was_VBD the_DT case_NN with_IN my_PRP$ previous_JJ Television_NN purchase_NN -RRB-_-RRB- but_CC the_DT shipping_NN was_VBD dropped_VBN at_IN the_DT door_NN step_NN ._.

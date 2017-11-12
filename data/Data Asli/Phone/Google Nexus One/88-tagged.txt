@@ -1,0 +1,4 @@
+My_PRP$ phone_NN updated_VBN to_TO latest_JJ Gingerbread_NNP 2.3.4_CD ._.
+It_PRP is_VBZ faster_RBR with_IN more_RBR responsive_JJ touch_NN screen_NN &_CC excellent_JJ keyboard_NN ._.
+Phone_NN comes_VBZ unlocked_VBN ._.
+I_PRP am_VBP glad_JJ with_IN my_PRP$ purchase_NN ._.

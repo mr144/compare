@@ -1,0 +1,2 @@
+This_DT is_VBZ a_DT factory_NN locked_VBN phone_NN for_IN AT&T_NNP ._.
+Now_RB the_DT phone_NN is_VBZ in_IN another_DT country_NN and_CC COMPLETELY_RB useless_JJ unless_IN I_PRP pay_VBP some_DT outrageous_JJ fee_NN to_TO unlock_VB it_PRP ._.

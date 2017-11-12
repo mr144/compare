@@ -1,0 +1,53 @@
+=========
+
+advmod(right-6, First-1)
+det(price-4, the-3)
+nsubj(right-6, price-4)
+cop(right-6, was-5)
+root(ROOT-0, right-6)
+
+=========
+
+advmod(tops-6, Second-1)
+det(service-4, the-3)
+nsubj(tops-6, service-4)
+cop(tops-6, was-5)
+root(ROOT-0, tops-6)
+
+=========
+
+partmod(better-7, THird-1)
+det(TV-5, the-3)
+nn(TV-5, LG\/LCD-4)
+nsubj(better-7, TV-5)
+cop(better-7, is-6)
+root(ROOT-0, better-7)
+mark(thought-10, than-8)
+nsubj(thought-10, I-9)
+advcl(better-7, thought-10)
+nsubj(be-13, it-11)
+aux(be-13, would-12)
+ccomp(thought-10, be-13)
+
+=========
+
+nsubj(stars-6, Picture-1)
+conj_and(Picture-1, sound-3)
+nsubj(stars-6, sound-3)
+cop(stars-6, are-4)
+num(stars-6, 5-5)
+root(ROOT-0, stars-6)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+nsubj(say-5, I-3)
+aux(say-5, can-4)
+ccomp(hope-2, say-5)
+dobj(say-5, this-6)
+det(year-8, a-7)
+tmod(say-5, year-8)
+prep(say-5, from-9)
+pobj(from-9, now-10)
+

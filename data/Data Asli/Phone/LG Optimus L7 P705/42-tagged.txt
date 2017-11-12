@@ -1,0 +1,2 @@
+I_PRP want_VBP this_DT phone_NN ,_, but_CC does_VBZ not_RB have_VB all_DT frecuencies_NNS needed_VBD ..._: some_DT countries_NNS the_DT 3G_NNP does_VBZ not_RB work_VB becase_IN the_DT 850_CD MHz_NNP frecuency_NN is_VBZ not_RB in_IN que_NN equipment_NN ._.
+In_IN market_NN ,_, other_JJ smartphones_NNS are_VBP fast_JJ tan_NN this_DT ._.

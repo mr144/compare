@@ -1,0 +1,3 @@
+The_DT camera_NN so_RB far_RB -LRB-_-LRB- owned_VBN if_IN for_IN 3_CD weeks_NNS now_RB -RRB-_-RRB- performed_VBD as_IN I_PRP expected_VBD ._.
+The_DT only_JJ gripe_NN I_PRP have_VBP so_RB far_RB is_VBZ that_IN at_IN zoom_NN levels_NNS over_IN 10x_CD the_DT autofocus_NN does_VBZ not_RB function_VB as_RB well_RB and_CC the_DT sharpness_NN is_VBZ noticeably_RB lost_VBN ._.
+I_PRP would_MD expect_VB as_IN such_JJ after_IN 30x_CD but_CC at_IN 10x_CD I_PRP did_VBD not_RB expect_VB such_JJ lose_VBP in_IN picture_NN sharpness_NN ._.

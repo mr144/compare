@@ -1,0 +1,4 @@
+Set_NNP arrived_VBD quickly_RB and_CC condition_NN was_VBD new_JJ ._.
+The_DT box_NN arrived_VBD without_IN damage_NN ._.
+Note_NN :_: The_DT TV_NN needs_VBZ to_TO be_VB calibrated_VBN correctly_RB otherwise_RB the_DT set_NN is_VBZ WAYYYYYYY_NNP TOO_NNP dark_NN ._.
+Please_VB keep_VB this_DT in_IN mind_NN ._.

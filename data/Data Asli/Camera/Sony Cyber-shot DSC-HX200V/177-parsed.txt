@@ -1,0 +1,29 @@
+=========
+
+csubj(thru-3, Putting-1)
+dobj(Putting-1, it-2)
+root(ROOT-0, thru-3)
+poss(paces-5, its-4)
+dobj(thru-3, paces-5)
+
+=========
+
+root(ROOT-0, Easy-1)
+prep_to(Easy-1, use-3)
+amod(quality-6, incredible-5)
+dep(Easy-1, quality-6)
+amod(value-9, outstanding-8)
+dep(quality-6, value-9)
+
+=========
+
+nsubj(does-2, It-1)
+root(ROOT-0, does-2)
+iobj(does-2, it-3)
+dobj(does-2, all-4)
+dobj(does-2, then-6)
+advmod(all-4, then-6)
+conj_and(all-4, then-6)
+dobj(does-2, some-7)
+conj_and(all-4, some-7)
+

@@ -1,0 +1,23 @@
+=========
+
+dep(happy-18, TV-1)
+det(features-4, all-3)
+prep_with(TV-1, features-4)
+dep(acts-7, it-6)
+dep(features-4, acts-7)
+prep_as(acts-7, router-9)
+advmod(router-9, too-10)
+nsubj(happy-18, i-14)
+cop(happy-18, am-15)
+advmod(happy-18, very-16)
+advmod(happy-18, much-17)
+dep(got-24, happy-18)
+det(tv-21, this-20)
+prep_with(happy-18, tv-21)
+nsubj(got-24, i-23)
+root(ROOT-0, got-24)
+dobj(got-24, it-25)
+amod(price-28, good-27)
+prep_for(got-24, price-28)
+prep_from(got-24, Amezon-30)
+

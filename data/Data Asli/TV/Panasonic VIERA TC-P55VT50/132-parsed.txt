@@ -1,0 +1,128 @@
+=========
+
+root(ROOT-0, Love-1)
+det(picture-3, the-2)
+dobj(Love-1, picture-3)
+
+=========
+
+quantmod(than-2, More-1)
+root(ROOT-0, than-2)
+amod(enough-4, bright-3)
+dep(than-2, enough-4)
+prep_in(than-2, daylight-6)
+det(light-10, no-8)
+amod(light-10, direct-9)
+prep_with(daylight-6, light-10)
+det(screen-13, the-12)
+prep_on(light-10, screen-13)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, only-2)
+nsubj(is-4, problem-3)
+root(ROOT-0, is-4)
+complm(watch-7, that-5)
+nsubj(watch-7, we-6)
+ccomp(is-4, watch-7)
+det(channel-10, a-8)
+amod(channel-10, political-9)
+dobj(watch-7, channel-10)
+nsubj(displays-13, channel-10)
+advmod(displays-13, constantly-12)
+rcmod(channel-10, displays-13)
+poss(logo-15, its-14)
+dobj(displays-13, logo-15)
+
+=========
+
+det(logo-2, The-1)
+nsubj(burned-4, logo-2)
+aux(burned-4, has-3)
+root(ROOT-0, burned-4)
+prep(burned-4, in-5)
+
+=========
+
+nsubjpass(noticed-4, It-1)
+auxpass(noticed-4, is-2)
+advmod(noticed-4, only-3)
+root(ROOT-0, noticed-4)
+advmod(light-7, very-6)
+amod(pictures-8, light-7)
+prep_on(noticed-4, pictures-8)
+prep_of(pictures-8, white-10)
+det(sky-14, a-12)
+amod(sky-14, light-13)
+prep_of(pictures-8, sky-14)
+conj_or(white-10, sky-14)
+
+=========
+
+det(warranty-2, The-1)
+nsubj(denies-4, warranty-2)
+advmod(denies-4, specifically-3)
+root(ROOT-0, denies-4)
+amod(coverage-6, burn-in-5)
+dobj(denies-4, coverage-6)
+
+=========
+
+det(tv-2, The-1)
+nsubj(has-3, tv-2)
+root(ROOT-0, has-3)
+det(bar-6, a-4)
+amod(bar-6, scrolling-5)
+dobj(has-3, bar-6)
+aux(reduce-8, to-7)
+infmod(bar-6, reduce-8)
+det(burn-in-10, the-9)
+dobj(reduce-8, burn-in-10)
+nsubj(helped-16, it-13)
+aux(helped-16, has-14)
+neg(helped-16, not-15)
+conj_but(has-3, helped-16)
+
+=========
+
+det(tv-2, The-1)
+nsubj(has-4, tv-2)
+advmod(has-4, also-3)
+root(ROOT-0, has-4)
+det(feature-8, a-5)
+amod(feature-8, pixel-6)
+nn(feature-8, orbiter-7)
+dobj(has-4, feature-8)
+nsubj(function-14, it-11)
+aux(function-14, can-12)
+neg(function-14, not-13)
+conj_but(has-4, function-14)
+advmod(selected-19, when-15)
+nn(Cinema-17, THX-16)
+nsubjpass(selected-19, Cinema-17)
+auxpass(selected-19, is-18)
+advcl(function-14, selected-19)
+det(mode-23, the-21)
+nn(mode-23, picture-22)
+prep_as(selected-19, mode-23)
+
+=========
+
+nsubj(keeping-4, I-1)
+nsubj(wanted-8, I-1)
+xsubj(provide-10, I-1)
+aux(keeping-4, will-2)
+aux(keeping-4, be-3)
+root(ROOT-0, keeping-4)
+det(tv-6, the-5)
+dobj(keeping-4, tv-6)
+conj_but(keeping-4, wanted-8)
+aux(provide-10, to-9)
+xcomp(wanted-8, provide-10)
+det(heads-12, a-11)
+dobj(provide-10, heads-12)
+prt(provide-10, up-13)
+det(problem-16, this-15)
+prep_to(provide-10, problem-16)
+

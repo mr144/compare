@@ -1,0 +1,5 @@
+Overall_RB ,_, I_PRP changed_VBD my_PRP$ mind_NN ._.
+While_IN the_DT phone_NN was_VBD not_RB as_RB described_VBN ,_, it_PRP is_VBZ not_RB bad_JJ at_IN all_DT ._.
+I_PRP do_VBP still_RB have_VB to_TO clean_VB it_PRP up_RP a_DT bit_NN from_IN the_DT adhesive_NN ,_, but_CC it_PRP is_VBZ not_RB a_DT big_JJ deal_NN ,_, especially_RB for_IN such_JJ a_DT low_JJ price_NN ._.
+Customer_NN service_NN was_VBD excellent_JJ ._.
+The_DT problem_NN was_VBD resolved_VBN with_IN a_DT partial_JJ refund_NN for_IN it_PRP is_VBZ condition_NN ,_, and_CC I_PRP am_VBP happy_JJ with_IN that_DT ._.

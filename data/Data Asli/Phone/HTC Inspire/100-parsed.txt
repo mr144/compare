@@ -1,0 +1,224 @@
+=========
+
+det(phone-2, This-1)
+nsubj(does-3, phone-2)
+root(ROOT-0, does-3)
+dobj(does-3, it-4)
+advmod(almost-7, all-5)
+advmod(does-3, almost-7)
+
+=========
+
+det(screen-3, a-1)
+amod(screen-3, great-2)
+root(ROOT-0, screen-3)
+amod(screen-3, large-4)
+advmod(large-4, enough-5)
+aux(show-7, to-6)
+xcomp(large-4, show-7)
+dobj(show-7, movies-8)
+amod(definition-11, great-10)
+prep_with(show-7, definition-11)
+
+=========
+
+det(camera-5, the-1)
+nn(camera-5, camera-2)
+conj_and(camera-2, video-4)
+nn(camera-5, video-4)
+nsubj(great-8, camera-5)
+dep(great-8, both-6)
+cop(great-8, are-7)
+root(ROOT-0, great-8)
+
+=========
+
+det(programs-2, The-1)
+nsubj(amazing-8, programs-2)
+conj_and(programs-2, applications-4)
+nsubj(amazing-8, applications-4)
+partmod(programs-2, offered-5)
+cop(amazing-8, are-6)
+advmod(amazing-8, just-7)
+root(ROOT-0, amazing-8)
+
+=========
+
+poss(wish-3, my-1)
+amod(wish-3, only-2)
+nsubj(was-4, wish-3)
+root(ROOT-0, was-4)
+amod(memory-7, more-6)
+prep_for(was-4, memory-7)
+advmod(memory-7, internally-8)
+
+=========
+
+det(construction-2, the-1)
+nsubj(great-4, construction-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+nsubj(built-2, Solidly-1)
+root(ROOT-0, built-2)
+
+=========
+
+mark(mind-5, If-1)
+nsubj(mind-5, you-2)
+aux(mind-5, do-3)
+neg(mind-5, not-4)
+advcl(is-12, mind-5)
+det(weight-9, the-6)
+advmod(weight-9, slightly-7)
+amod(weight-9, extra-8)
+dobj(mind-5, weight-9)
+advmod(mind-5, then-10)
+nsubj(is-12, this-11)
+root(ROOT-0, is-12)
+prep_for(is-12, you-14)
+
+=========
+
+poss(belt-3, my-2)
+prep_on(feel-8, belt-3)
+nsubj(feel-8, I-5)
+aux(feel-8, do-6)
+neg(feel-8, not-7)
+root(ROOT-0, feel-8)
+dobj(feel-8, it-9)
+nsubj(starts-13, it-12)
+xsubj(weigh-15, it-12)
+conj_but(feel-8, starts-13)
+aux(weigh-15, to-14)
+xcomp(starts-13, weigh-15)
+prt(weigh-15, in-16)
+prepc_while(weigh-15, holding-18)
+dobj(holding-18, it-19)
+
+=========
+
+dep(bothers-4, not-1)
+dep(bothers-4, that-2)
+nsubj(bothers-4, this-3)
+root(ROOT-0, bothers-4)
+nsubj(much-7, me-5)
+advmod(much-7, too-6)
+xcomp(bothers-4, much-7)
+
+=========
+
+poss(complaint-3, My-1)
+amod(complaint-3, real-2)
+nsubj(audio-7, complaint-3)
+cop(audio-7, is-4)
+det(audio-7, the-5)
+nn(audio-7, playback-6)
+root(ROOT-0, audio-7)
+
+=========
+
+root(ROOT-0, Not-1)
+advmod(great-3, that-2)
+dep(Not-1, great-3)
+
+=========
+
+nsubj(need-3, I-1)
+xsubj(play-5, I-1)
+aux(need-3, would-2)
+root(ROOT-0, need-3)
+aux(play-5, to-4)
+xcomp(need-3, play-5)
+det(settings-8, the-7)
+prep_with(play-5, settings-8)
+dep(more-10, some-9)
+amod(settings-8, more-10)
+aux(get-12, to-11)
+xcomp(play-5, get-12)
+dobj(want-15, what-13)
+nsubj(want-15, I-14)
+ccomp(get-12, want-15)
+
+=========
+
+nsubj(headphones-2, WIth-1)
+root(ROOT-0, headphones-2)
+det(issues-4, no-3)
+dobj(headphones-2, issues-4)
+
+=========
+
+det(programs-2, The-1)
+nsubj(good-6, programs-2)
+conj_and(programs-2, responsiveness-4)
+nsubj(good-6, responsiveness-4)
+cop(good-6, are-5)
+root(ROOT-0, good-6)
+
+=========
+
+nsubj(have-4, You-1)
+xsubj(wait-6, You-1)
+xsubj(load-11, You-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+aux(wait-6, to-5)
+xcomp(have-4, wait-6)
+advmod(wait-6, forever-7)
+prep_for(wait-6, applications-9)
+aux(load-11, to-10)
+xcomp(have-4, load-11)
+prt(load-11, up-12)
+
+=========
+
+det(regard-3, this-2)
+prep_in(blows-5, regard-3)
+nsubj(blows-5, it-4)
+root(ROOT-0, blows-5)
+amod(phones-8, many-6)
+amod(phones-8, other-7)
+dobj(blows-5, phones-8)
+abbrev(phones-8, BB-10)
+det(water-15, the-14)
+prep_out_of(phones-8, water-15)
+
+=========
+
+det(phone-3, this-2)
+nsubj(cheaper-7, phone-3)
+prep_with(feel-11, phone-3)
+cop(cheaper-7, is-5)
+advmod(cheaper-7, significantly-6)
+rcmod(phone-3, cheaper-7)
+nsubj(feel-11, I-8)
+aux(feel-11, do-9)
+neg(feel-11, not-10)
+root(ROOT-0, feel-11)
+mark(missing-15, like-12)
+nsubj(missing-15, I-13)
+aux(missing-15, am-14)
+advcl(feel-11, missing-15)
+det(phone-18, an-16)
+nn(phone-18, Apple-17)
+dobj(missing-15, phone-18)
+advmod(missing-15, at-19)
+pobj(at-19, all-20)
+
+=========
+
+root(ROOT-0, yeah-1)
+dep(yeah-1, refuse-3)
+aux(call-5, to-4)
+xcomp(refuse-3, call-5)
+dobj(call-5, it-6)
+dobj(is-11, what-7)
+poss(name-10, its-8)
+amod(name-10, real-9)
+nsubj(is-11, name-10)
+dep(call-5, is-11)
+

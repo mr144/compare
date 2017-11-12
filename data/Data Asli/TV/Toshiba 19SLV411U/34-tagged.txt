@@ -1,0 +1,3 @@
+I_PRP am_VBP not_RB satisfied_VBN with_IN this_DT purchase_NN ._.
+The_DT screen_NN is_VBZ 18.5_CD inch_NN instead_RB of_IN 19_CD ._.
+The_DT sound_NN is_VBZ very_RB poor_JJ and_CC otherwise_RB ,_, the_DT TV_NN is_VBZ very_RB small_JJ when_WRB compared_VBN with_IN a_DT 19_CD '_'' ._.

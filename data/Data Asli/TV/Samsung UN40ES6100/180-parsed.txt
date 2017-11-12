@@ -1,0 +1,28 @@
+=========
+
+advmod(good-2, Very-1)
+root(ROOT-0, good-2)
+dep(good-2, picture-3)
+conj_and(good-2, easy-5)
+aux(set-7, to-6)
+dep(good-2, set-7)
+prt(set-7, up-8)
+
+=========
+
+det(apps-2, The-1)
+nsubj(easy-5, apps-2)
+cop(easy-5, are-3)
+advmod(easy-5, also-4)
+root(ROOT-0, easy-5)
+aux(navigate-7, to-6)
+xcomp(easy-5, navigate-7)
+
+=========
+
+nsubj(pays-2, It-1)
+root(ROOT-0, pays-2)
+prep(pays-2, to-3)
+amod(brands-6, good-5)
+prep_by(pays-2, brands-6)
+

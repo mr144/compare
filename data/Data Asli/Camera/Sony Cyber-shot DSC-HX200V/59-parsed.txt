@@ -1,0 +1,37 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(camera-5, my-3)
+amod(camera-5, new-4)
+dobj(love-2, camera-5)
+
+=========
+
+advmod(easy-2, very-1)
+root(ROOT-0, easy-2)
+aux(use-4, to-3)
+xcomp(easy-2, use-4)
+mark(explanatory-11, so-6)
+amod(options-8, many-7)
+nsubj(explanatory-11, options-8)
+conj_and(options-8, self-10)
+nsubj(explanatory-11, self-10)
+dep(easy-2, explanatory-11)
+
+=========
+
+nsubj(come-2, pictures-1)
+root(ROOT-0, come-2)
+prt(come-2, out-3)
+advmod(come-2, beautify-4)
+
+=========
+
+aux(recommend-2, would-1)
+root(ROOT-0, recommend-2)
+det(product-4, this-3)
+dobj(recommend-2, product-4)
+det(friend-7, a-6)
+prep_to(recommend-2, friend-7)
+

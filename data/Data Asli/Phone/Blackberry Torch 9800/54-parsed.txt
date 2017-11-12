@@ -1,0 +1,28 @@
+=========
+
+dep(lack-3, that-1)
+nsubj(lack-3, they-2)
+root(ROOT-0, lack-3)
+det(accessories-6, the-4)
+nn(accessories-6, equipment-5)
+nsubj(buy-8, accessories-6)
+aux(buy-8, to-7)
+xcomp(lack-3, buy-8)
+nsubj(package-12, it-9)
+cop(package-12, is-10)
+amod(package-12, new-11)
+ccomp(buy-8, package-12)
+
+=========
+
+advmod(long-2, how-1)
+advmod(takes-4, long-2)
+nsubj(takes-4, it-3)
+xsubj(arrive-6, it-3)
+root(ROOT-0, takes-4)
+aux(arrive-6, to-5)
+xcomp(takes-4, arrive-6)
+prepc_after(arrive-6, making-8)
+det(purchase-10, the-9)
+dobj(making-8, purchase-10)
+

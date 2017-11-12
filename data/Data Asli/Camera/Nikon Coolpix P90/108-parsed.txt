@@ -1,0 +1,110 @@
+=========
+
+nsubj(girl-7, I-1)
+aux(girl-7, have-2)
+advmod(girl-7, always-3)
+cop(girl-7, been-4)
+det(girl-7, a-5)
+nn(girl-7, Nikon-6)
+root(ROOT-0, girl-7)
+
+=========
+
+dep(looking-5, And-1)
+advmod(looking-5, when-2)
+nsubj(looking-5, I-3)
+aux(looking-5, was-4)
+root(ROOT-0, looking-5)
+det(point-8, a-7)
+prep_for(looking-5, point-8)
+prep_for(looking-5, shoot-10)
+conj_and(point-8, shoot-10)
+det(capability-14, a-12)
+nn(capability-14, telephoto-13)
+prep_with(point-8, capability-14)
+
+=========
+
+cc(went-18, And-1)
+det(longest-3, the-2)
+nsubj(SX10IS-9, longest-3)
+det(time-6, that-5)
+prep_at(longest-3, time-6)
+cop(SX10IS-9, was-7)
+nn(SX10IS-9, Canon-8)
+dep(went-18, SX10IS-9)
+dep(SX10IS-9, x20-12)
+nn(lens-15, power-14)
+prep_with(SX10IS-9, lens-15)
+nsubj(went-18, I-17)
+root(ROOT-0, went-18)
+prep_for(went-18, it-20)
+
+=========
+
+nsubj(camera-5, It-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+
+=========
+
+nsubj(took-2, I-1)
+nsubj(happy-11, I-1)
+root(ROOT-0, took-2)
+dobj(took-2, it-3)
+det(Cayon-7, the-5)
+nn(Cayon-7, Grant-6)
+prep_to(took-2, Cayon-7)
+cop(happy-11, was-9)
+advmod(happy-11, so-10)
+conj_and(took-2, happy-11)
+prep_with(happy-11, it-13)
+
+=========
+
+nsubj(came-3, Nikon-1)
+advmod(came-3, then-2)
+root(ROOT-0, came-3)
+prt(came-3, out-4)
+det(P90-8, a-6)
+nn(P90-8, Coolpix-7)
+prep_with(came-3, P90-8)
+det(lens-12, a-10)
+amod(lens-12, x24-11)
+prep_with(came-3, lens-12)
+
+=========
+
+nsubj(quality-6, It-1)
+nsubj(friendly-12, It-1)
+cop(quality-6, is-2)
+poss(quality-6, Nikon-3)
+amod(quality-6, usual-5)
+root(ROOT-0, quality-6)
+cop(friendly-12, is-8)
+neg(friendly-12, not-9)
+prep_as(not-9, user-11)
+conj_but(quality-6, friendly-12)
+det(Canon-15, the-14)
+prep_as(friendly-12, Canon-15)
+
+=========
+
+dep(use-4, So-1)
+nsubj(use-4, I-2)
+advmod(use-4, usually-3)
+root(ROOT-0, use-4)
+det(Canon-6, the-5)
+dobj(use-4, Canon-6)
+mark(need-9, unless-7)
+nsubj(need-9, I-8)
+advcl(use-4, need-9)
+det(X24-11, the-10)
+dobj(need-9, X24-11)
+advmod(taking-13, when-12)
+advcl(need-9, taking-13)
+nn(pictures-15, nature-14)
+dobj(taking-13, pictures-15)
+

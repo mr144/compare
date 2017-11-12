@@ -1,0 +1,33 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+det(video-2, The-1)
+nsubj(amazing-7, video-2)
+det(photos-5, the-4)
+conj_and(video-2, photos-5)
+nsubj(amazing-7, photos-5)
+cop(amazing-7, are-6)
+root(ROOT-0, amazing-7)
+det(options-10, the-9)
+nsubj(easy-15, options-10)
+det(camera-13, the-12)
+prep_for(options-10, camera-13)
+cop(easy-15, are-14)
+conj_and(amazing-7, easy-15)
+aux(use-17, to-16)
+xcomp(easy-15, use-17)
+nsubj(pleased-23, I-19)
+cop(pleased-23, am-20)
+advmod(pleased-23, just-21)
+advmod(pleased-23, very-22)
+conj_and(amazing-7, pleased-23)
+det(performance-27, the-25)
+amod(performance-27, overall-26)
+prep_with(pleased-23, performance-27)
+

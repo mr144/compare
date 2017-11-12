@@ -1,0 +1,63 @@
+=========
+
+root(ROOT-0, Delivered-1)
+advmod(Delivered-1, effortlessly-2)
+prep_by(Delivered-1, Amozon-4)
+dep(Delivered-1, mounted-6)
+dobj(mounted-6, it-7)
+det(wall-10, the-9)
+prep_to(mounted-6, wall-10)
+nsubj(enjoying-16, we-13)
+aux(enjoying-16, have-14)
+aux(enjoying-16, been-15)
+conj_and(Delivered-1, enjoying-16)
+det(picture-19, a-17)
+amod(picture-19, great-18)
+dobj(enjoying-16, picture-19)
+nn(quality-22, sound-21)
+dobj(enjoying-16, quality-22)
+conj_and(picture-19, quality-22)
+advmod(enjoying-16, ever-23)
+prep(enjoying-16, since-24)
+
+=========
+
+nsubj(size-2, Perfect-1)
+root(ROOT-0, size-2)
+dep(size-2, for-3)
+poss(bedroom-5, our-4)
+pobj(for-3, bedroom-5)
+aux(grow-8, to-7)
+dep(size-2, grow-8)
+conj_and(for-3, grow-8)
+prep(grow-8, into-9)
+
+=========
+
+aux(had-3, Have-1)
+neg(had-3, not-2)
+root(ROOT-0, had-3)
+det(problems-5, any-4)
+dobj(had-3, problems-5)
+
+=========
+
+nsubj(do-2, We-1)
+root(ROOT-0, do-2)
+mark(dims-12, like-3)
+det(energy-5, the-4)
+nsubj(dims-12, energy-5)
+amod(energy-5, efficient-6)
+dep(efficient-6, features-7)
+prep_such_as(features-7, it-11)
+advcl(do-2, dims-12)
+det(picture-14, the-13)
+dobj(dims-12, picture-14)
+tmod(turn-17, picture-14)
+advmod(turn-17, when-15)
+nsubj(turn-17, you-16)
+dep(picture-14, turn-17)
+prt(turn-17, off-18)
+det(lights-20, the-19)
+dobj(turn-17, lights-20)
+

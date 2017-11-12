@@ -1,0 +1,135 @@
+=========
+
+nsubj(took-2, I-1)
+root(ROOT-0, took-2)
+det(camera-4, this-3)
+dobj(took-2, camera-4)
+prep_to(took-2, Europe-6)
+num(weeks-9, six-8)
+prep_for(took-2, weeks-9)
+advmod(selling-14, now-11)
+nsubj(selling-14, I-12)
+aux(selling-14, am-13)
+conj_and(took-2, selling-14)
+dobj(selling-14, it-15)
+
+=========
+
+nsubj('s-2, It-1)
+ccomp(is-10, 's-2)
+neg('s-2, not-3)
+complm(dissatisfied-7, that-4)
+nsubj(dissatisfied-7, I-5)
+cop(dissatisfied-7, am-6)
+ccomp('s-2, dissatisfied-7)
+nsubj(is-10, it-9)
+root(ROOT-0, is-10)
+advmod(taught-15, just-11)
+dep(taught-15, that-12)
+det(camera-14, this-13)
+nsubj(taught-15, camera-14)
+ccomp(is-10, taught-15)
+dobj(taught-15, me-16)
+dobj(wanted-20, what-17)
+nsubj(wanted-20, I-18)
+advmod(wanted-20, truly-19)
+dep(taught-15, wanted-20)
+det(camera-24, a-22)
+amod(camera-24, superzoom-23)
+prep_in(wanted-20, camera-24)
+
+=========
+
+nsubj(discovered-2, I-1)
+root(ROOT-0, discovered-2)
+complm(use-5, that-3)
+nsubj(use-5, I-4)
+ccomp(discovered-2, use-5)
+det(camera-7, a-6)
+dobj(use-5, camera-7)
+prep_like(camera-7, this-9)
+det(camera-13, a-11)
+amod(camera-13, video-12)
+prep_as(this-9, camera-13)
+advmod(much-15, as-14)
+advmod(use-5, much-15)
+det(camera-19, a-17)
+amod(camera-19, still-18)
+prep_as(much-15, camera-19)
+advmod(more-22, maybe-21)
+advmod(use-5, more-22)
+
+=========
+
+det(camera-4, a-2)
+amod(camera-4, video-3)
+prep_as(shoots-7, camera-4)
+nsubj(shoots-7, it-5)
+advmod(shoots-7, only-6)
+root(ROOT-0, shoots-7)
+amod(HD-9, 720px-8)
+dobj(shoots-7, HD-9)
+det(zoom-13, the-12)
+nsubj(useful-23, zoom-13)
+nsubj(loses-16, which-15)
+dep(zoom-13, loses-16)
+dobj(loses-16, focus-17)
+prepc_while(loses-16, filming-19)
+cop(useful-23, is-21)
+neg(useful-23, not-22)
+conj_and(shoots-7, useful-23)
+
+=========
+
+det(camera-4, a-2)
+amod(camera-4, still-3)
+prep_as(hard-8, camera-4)
+nsubj(hard-8, it-6)
+cop(hard-8, is-7)
+root(ROOT-0, hard-8)
+aux(beat-10, to-9)
+xcomp(hard-8, beat-10)
+det(money-13, the-12)
+prep_for(beat-10, money-13)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, especially-2)
+root(ROOT-0, like-3)
+det(viewfinder-5, the-4)
+dobj(like-3, viewfinder-5)
+nsubj(necessity-10, viewfinders-7)
+cop(necessity-10, are-8)
+det(necessity-10, a-9)
+parataxis(like-3, necessity-10)
+amod(sunshine-13, bright-12)
+prep_in(necessity-10, sunshine-13)
+
+=========
+
+nsubj(used-3, I-1)
+advmod(used-3, hardly-2)
+root(ROOT-0, used-3)
+det(LCD-5, the-4)
+dobj(used-3, LCD-5)
+dep(LCD-5, for-7)
+pobj(for-7, shooting-8)
+advmod(used-3, at-10)
+pobj(at-10, all-11)
+
+=========
+
+nn(revoir-2, Au-1)
+root(ROOT-0, revoir-2)
+nn(Fuji-5, Dear-4)
+appos(revoir-2, Fuji-5)
+
+=========
+
+nsubj(did-2, You-1)
+root(ROOT-0, did-2)
+det(job-5, a-3)
+amod(job-5, great-4)
+dobj(did-2, job-5)
+

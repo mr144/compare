@@ -1,0 +1,4 @@
+I_PRP selected_VBD this_DT model_NN because_IN it_PRP is_VBZ &#34;_CD smart_JJ &#34;_CD :_: easy_RB gets_VBZ connected_VBN to_TO home_NN network_NN and_CC allows_VBZ to_TO use_VB many_JJ services_NNS -_: even_RB not_RB included_VBN originally_RB -_: online_NN ._.
+It_PRP works_VBZ at_IN least_JJS as_IN expected_VBN ._.
+Good_JJ choice_NN for_IN bedroom_NN ,_, kitchen_NN ,_, etc._FW because_IN you_PRP need_VBP power_NN only_RB ._.
+I_PRP do_VBP not_RB know_VB how_WRB it_PRP works_VBZ with_IN other_JJ inputs_NNS ._.

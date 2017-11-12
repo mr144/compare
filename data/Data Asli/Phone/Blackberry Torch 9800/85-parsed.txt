@@ -1,0 +1,58 @@
+=========
+
+det(phone-2, This-1)
+nsubj(disapointment-6, phone-2)
+cop(disapointment-6, was-3)
+det(disapointment-6, a-4)
+amod(disapointment-6, total-5)
+root(ROOT-0, disapointment-6)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+poss(wife-6, my-5)
+prep_for(bought-2, wife-6)
+prep_for(bought-2, Christmas-8)
+nsubj(allow-13, it-10)
+xsubj(set-20, it-10)
+aux(allow-13, would-11)
+neg(allow-13, not-12)
+conj_and(bought-2, allow-13)
+det(account-17, any-15)
+amod(account-17, email-16)
+prep_for(allow-13, account-17)
+aux(set-20, to-18)
+auxpass(set-20, be-19)
+xcomp(allow-13, set-20)
+prt(set-20, up-21)
+
+=========
+
+nsubj(tried-2, We-1)
+root(ROOT-0, tried-2)
+det(thing-4, every-3)
+dobj(tried-2, thing-4)
+det(end-9, the-8)
+prep_in(obvious-12, end-9)
+nsubj(obvious-12, it-10)
+cop(obvious-12, became-11)
+conj_and(tried-2, obvious-12)
+complm(had-16, that-13)
+det(phone-15, the-14)
+nsubj(had-16, phone-15)
+ccomp(obvious-12, had-16)
+det(issue-20, a-17)
+amod(issue-20, major-18)
+nn(issue-20, software-19)
+dobj(had-16, issue-20)
+
+=========
+
+nsubj(returned-4, I-1)
+aux(returned-4, have-2)
+advmod(returned-4, since-3)
+root(ROOT-0, returned-4)
+dobj(returned-4, it-5)
+

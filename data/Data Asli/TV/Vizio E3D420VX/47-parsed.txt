@@ -1,0 +1,44 @@
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+det(monitor-5, a-4)
+prep_for(picture-2, monitor-5)
+
+=========
+
+aux(get-3, Does-1)
+neg(get-3, not-2)
+root(ROOT-0, get-3)
+det(channels-6, Any-4)
+amod(channels-6, digital-5)
+dobj(get-3, channels-6)
+
+=========
+
+nn(customer-2, Vizio-1)
+nsubj(servchants-3, customer-2)
+root(ROOT-0, servchants-3)
+det(help-5, no-4)
+dobj(servchants-3, help-5)
+
+=========
+
+nsubj(say-2, They-1)
+root(ROOT-0, say-2)
+nsubj(have-6, vizio-3)
+aux(have-6, does-4)
+neg(have-6, not-5)
+ccomp(say-2, have-6)
+det(issues-8, these-7)
+dobj(have-6, issues-8)
+
+=========
+
+cc(all-4, Yet-1)
+nsubj(all-4, it-2)
+cop(all-4, is-3)
+root(ROOT-0, all-4)
+det(Internet-7, the-6)
+prep_over(all-4, Internet-7)
+

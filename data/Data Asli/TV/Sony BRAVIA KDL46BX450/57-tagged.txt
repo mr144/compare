@@ -1,0 +1,5 @@
+We_PRP received_VBD the_DT television_NN ,_, the_DT day_NN after_IN that_IN it_PRP was_VBD projected_VBN to_TO be_VB there_RB ._.
+It_PRP arrived_VBD undamaged_JJ and_CC the_DT tv_NN works_VBZ great_JJ ._.
+I_PRP had_VBD instructions_NNS to_TO work_VB out_RP installation_NN issues_NNS ,_, so_RB ._.
+we_PRP are_VBP happy_JJ ._.
+The_DT tv_NN looks_VBZ great_JJ and_CC the_DT picture_NN is_VBZ good_JJ ._.

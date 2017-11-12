@@ -1,0 +1,33 @@
+=========
+
+amod(product-2, Great-1)
+root(ROOT-0, product-2)
+
+=========
+
+advmod(using-2, Why-1)
+advcl(Phone-5, using-2)
+csubj(Phone-5, using-2)
+det(I-4, a-3)
+dobj(using-2, I-4)
+root(ROOT-0, Phone-5)
+mark(have-9, if-7)
+nsubj(have-9, you-8)
+advcl(Phone-5, have-9)
+nn(Atrix-11, motorola-10)
+dobj(have-9, Atrix-11)
+
+=========
+
+det(telephone-2, This-1)
+nsubj(expensive-5, telephone-2)
+nsubj(faster-7, telephone-2)
+cop(expensive-5, is-3)
+advmod(expensive-5, less-4)
+root(ROOT-0, expensive-5)
+conj_and(expensive-5, faster-7)
+
+=========
+
+root(ROOT-0, Thanks-1)
+

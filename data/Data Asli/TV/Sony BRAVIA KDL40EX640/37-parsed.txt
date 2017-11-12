@@ -1,0 +1,73 @@
+=========
+
+det(issues-2, No-1)
+root(ROOT-0, issues-2)
+advmod(far-4, so-3)
+dep(issues-2, far-4)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(inch-5, the-3)
+num(inch-5, 55-4)
+dobj(had-2, inch-5)
+num(weeks-8, three-7)
+prep_for(inch-5, weeks-8)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(superb-6, quality-3)
+cop(superb-6, is-4)
+neg(superb-6, not-5)
+root(ROOT-0, superb-6)
+poss(connection-13, its-8)
+poss(cable-12, my-11)
+prep_due_to(connection-13, cable-12)
+prep_but(superb-6, connection-13)
+
+=========
+
+nn(movies-2, HD-1)
+nsubj(look-3, movies-2)
+root(ROOT-0, look-3)
+acomp(look-3, great-4)
+
+=========
+
+det(sound-2, No-1)
+nsubj(issues-3, sound-2)
+root(ROOT-0, issues-3)
+
+=========
+
+nsubj(at-3, I-1)
+aux(at-3, have-2)
+root(ROOT-0, at-3)
+pobj(at-3, level-4)
+num(level-4, 20-5)
+poss(enough-9, its-7)
+amod(enough-9, loud-8)
+pobj(at-3, enough-9)
+conj_and(level-4, enough-9)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(go-5, it-3)
+aux(go-5, can-4)
+ccomp(think-2, go-5)
+prt(go-5, up-6)
+prep_to(go-5, 80-8)
+
+=========
+
+root(ROOT-0, Good-1)
+dep(Good-1, buy-2)
+amod(price-5, great-4)
+dep(Good-1, price-5)
+conj_and(buy-2, price-5)
+

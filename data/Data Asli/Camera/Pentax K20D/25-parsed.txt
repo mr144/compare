@@ -1,0 +1,54 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, the-3)
+amod(camera-5, best-4)
+root(ROOT-0, camera-5)
+amod(photographers-8, amateur-professional-7)
+prep_for(camera-5, photographers-8)
+
+=========
+
+nsubj(owned-3, I-1)
+aux(owned-3, have-2)
+root(ROOT-0, owned-3)
+nn(Minoltas-9, Nikons-4)
+dep(Minoltas-9, Canons-6)
+dep(Minoltas-9, and-8)
+dobj(owned-3, Minoltas-9)
+nn(cameras-12, film-11)
+appos(Minoltas-9, cameras-12)
+det(years-18, the-15)
+amod(years-18, past-16)
+num(years-18, 30-17)
+prep_in(owned-3, years-18)
+
+=========
+
+nsubj(match-3, None-1)
+aux(match-3, can-2)
+root(ROOT-0, match-3)
+det(bang-6, the-4)
+amod(bang-6, amost-5)
+dobj(match-3, bang-6)
+det(buck-9, the-8)
+prep_for(bang-6, buck-9)
+det(K20D-14, the-12)
+nn(K20D-14, Pentax-13)
+prep_to(match-3, K20D-14)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+prep_to(recommend-3, everyone-7)
+xsubj(get-10, everyone-7)
+partmod(everyone-7, looking-8)
+aux(get-10, to-9)
+xcomp(looking-8, get-10)
+prep_into(get-10, DSLRs-12)
+

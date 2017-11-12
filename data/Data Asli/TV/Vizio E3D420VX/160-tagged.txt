@@ -1,0 +1,4 @@
+Great_NNP 3D_NNP tv_NN and_CC can_MD use_VB glasses_NNS from_IN the_DT movie_NN theaters_NNS .3_VBP D_NNP looks_VBZ just_RB like_IN the_DT theaters_NNS with_IN an_DT attached_JJ Blue_JJ ray_NN 3D_NNP DVD_NNP Player_NNP and_CC Movies_NNP ._.
+Lots_NNS of_IN HDMI_NNP connections_NNS for_IN all_PDT my_PRP$ devices_NNS ._.
+Easy_JJ to_TO setup_NN and_CC connect_VB to_TO the_DT internet_NN ._.
+Only_RB small_JJ issue_NN is_VBZ that_IN the_DT remote_JJ has_VBZ to_TO be_VB pointed_VBN flat_JJ to_TO get_VB the_DT tv_NN to_TO respond_VB to_TO it_PRP ._.

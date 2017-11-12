@@ -1,0 +1,17 @@
+I_PRP purchased_VBD mt_NN Motorola_NNP Atrix_NNP 4g_VBD just_RB over_IN a_DT year_NN ago_RB to_TO replace_VB my_PRP$ iPhone_NNP 3g_CD ._.
+It_PRP was_VBD my_PRP$ first_JJ Android_NNP phone_NN and_CC I_PRP was_VBD rather_RB impressed_JJ with_IN both_DT the_DT phone_NN and_CC Android_NNP Gingerbread_NNP ._.
+After_IN about_IN three_CD months_NNS ,_, the_DT phone_NN would_MD turn_VB itself_PRP off_RP ._.
+I_PRP drove_VBD 45_CD minutes_NNS to_TO the_DT AT&T_NNP service_NN center_NN where_WRB they_PRP managed_VBD to_TO get_VB my_PRP$ data_NNS off_IN the_DT phone_NN and_CC switched_VBD it_PRP out_RP ._.
+On_IN the_DT ride_NN home_NN I_PRP realized_VBD that_IN the_DT GPS_NNP was_VBD not_RB working_VBG so_IN the_DT next_JJ day_NN I_PRP returned_VBD to_TO the_DT service_NN center_NN ._.
+That_DT phone_NN seemed_VBD to_TO work_VB for_IN about_RB a_DT week_NN but_CC then_RB it_PRP too_RB had_VBD problems_NNS ._.
+Once_RB again_RB I_PRP returned_VBD to_TO the_DT service_NN center_NN and_CC they_PRP attempted_VBD to_TO swap_VB out_RP the_DT phone_NN and_CC could_MD not_RB get_VB the_DT replacement_NN to_TO work_VB ._.
+After_IN an_DT hour_NN of_IN trying_VBG they_PRP gave_VBD up_RP and_CC swapped_VBD it_PRP to_TO a_DT different_JJ phone_NN ._.
+After_IN less_JJR then_RB 24_CD hours_NNS ,_, that_DT phone_NN stopped_VBD seeing_VBG the_DT SD_NNP card_NN ._.
+After_IN numerous_JJ attempts_NNS to_TO re-seat_VB it_PRP the_DT phone_NN finally_RB would_MD see_VB it_PRP without_IN issue_NN ._.
+I_PRP continues_VBZ on_RP with_IN that_DT phone_NN until_IN about_IN a_DT week_NN ago_RB ._.
+About_RB one_CD week_NN ago_IN my_PRP$ phone_NN started_VBD to_TO reboot_VB itself_PRP ._.
+Then_RB it_PRP started_VBD not_RB being_VBG able_JJ to_TO detect_VB wireless_JJ networks_NNS ,_, showing_VBG only_RB `_`` error_NN '_'' when_WRB you_PRP looked_VBD at_IN the_DT WiFi_NNP settings_NNS ._.
+And_CC then_RB it_PRP started_VBD loosing_VBG and_CC re-finding_VBG the_DT SIM_NNP card_NN ._.
+I_PRP started_VBD turning_VBG the_DT phone_NN off_RP at_IN night_NN and_CC finally_RB removing_VBG the_DT SD_NNP card_NN as_IN while_IN sitting_VBG perfectly_RB still_RB on_IN my_PRP$ nightstand_NN it_PRP will_MD find_VB and_CC initialize_VB then_RB loose_VB the_DT SD_NNP card_NN ._.
+As_IN of_IN yesterday_NN ,_, the_DT phone_NN stopped_VBD being_VBG able_JJ to_TO detect_VB blue_JJ tooth_NN ._.
+My_PRP$ general_JJ impression_NN is_VBZ that_IN neither_DT AT&T_NNP nor_CC Motorola_NNP are_VBP able_JJ to_TO properly_RB refurbish_VB these_DT phones_NNS ._.

@@ -1,0 +1,83 @@
+=========
+
+root(ROOT-0, Love-1)
+dep(Love-1, this-2)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+prep_for(bought-2, myself-5)
+prep_for(bought-2, Christmas-7)
+nsubj(love-12, I-10)
+advmod(love-12, really-11)
+conj_and(bought-2, love-12)
+dobj(love-12, this-13)
+
+=========
+
+nn(awesome-2, Makes-1)
+nsubj(pictures-3, awesome-2)
+nsubj(easy-6, awesome-2)
+root(ROOT-0, pictures-3)
+cop(easy-6, is-5)
+conj_and(pictures-3, easy-6)
+aux(use-8, to-7)
+xcomp(easy-6, use-8)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+
+=========
+
+det(draw-back-3, The-1)
+amod(draw-back-3, only-2)
+nsubj(is-4, draw-back-3)
+root(ROOT-0, is-4)
+complm(camera-10, that-5)
+nsubj(camera-10, it-6)
+cop(camera-10, is-7)
+det(camera-10, a-8)
+nn(camera-10, BIG-9)
+ccomp(is-4, camera-10)
+
+=========
+
+poss(camera-3, My-1)
+amod(camera-3, old-2)
+nsubj(slip-6, camera-3)
+aux(slip-6, would-4)
+advmod(slip-6, easily-5)
+root(ROOT-0, slip-6)
+poss(pocket-9, my-8)
+prep_into(slip-6, pocket-9)
+prep_into(slip-6, purse-11)
+conj_or(pocket-9, purse-11)
+det(one-15, this-14)
+nsubj(easy-20, one-15)
+cop(easy-20, is-16)
+neg(easy-20, not-17)
+advmod(easy-20, quite-18)
+advmod(easy-20, that-19)
+conj_and(slip-6, easy-20)
+
+=========
+
+dep(hang-11, So-1)
+dep(do-5, what-3)
+dobj(is-9, what-3)
+nsubj(do-5, I-4)
+csubj(hang-11, do-5)
+mark(is-9, with-6)
+det(camera-8, this-7)
+nsubj(is-9, camera-8)
+advcl(do-5, is-9)
+advmod(is-9, just-10)
+root(ROOT-0, hang-11)
+dobj(hang-11, it-12)
+poss(neck-15, my-14)
+prep_around(hang-11, neck-15)
+

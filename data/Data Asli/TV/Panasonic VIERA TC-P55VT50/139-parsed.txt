@@ -1,0 +1,119 @@
+=========
+
+nsubj(give-2, I-1)
+root(ROOT-0, give-2)
+iobj(give-2, it-3)
+num(stars-5, 5-4)
+dobj(give-2, stars-5)
+nn(quality-8, picture-7)
+prep_for(stars-5, quality-8)
+advmod(quality-8, alone-9)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+dobj(use-2, it-3)
+advmod(use-2, solely-4)
+det(monitor-7, a-6)
+prep_as(use-2, monitor-7)
+prepc_for(monitor-7, watching-9)
+dobj(watching-9, movies-10)
+amod(sports-13, televised-12)
+dobj(watching-9, sports-13)
+conj_and(movies-10, sports-13)
+
+=========
+
+det(options-3, The-1)
+nn(options-3, internet-2)
+nsubj(interesting-5, options-3)
+cop(interesting-5, are-4)
+root(ROOT-0, interesting-5)
+nsubj(use-9, I-8)
+conj_but(interesting-5, use-9)
+dobj(use-9, AppleTV-10)
+nsubj(has-14, it-13)
+conj_but(interesting-5, has-14)
+conj_and(use-9, has-14)
+dobj(has-14, enough-15)
+det(functionality-18, this-17)
+prep_of(enough-15, functionality-18)
+advmod(has-14, already-19)
+
+=========
+
+det(blacks-2, The-1)
+nsubj(phenomenal-6, blacks-2)
+cop(phenomenal-6, are-3)
+advmod(phenomenal-6, really-4)
+advmod(phenomenal-6, quite-5)
+root(ROOT-0, phenomenal-6)
+
+=========
+
+det(TV-2, This-1)
+nsubj(better-4, TV-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, Samsung-6)
+prep_than(better-4, sharp-8)
+conj_or(Samsung-6, sharp-8)
+prep_than(better-4, LG-10)
+conj_or(Samsung-6, LG-10)
+prep_than(better-4, sony-12)
+conj_or(Samsung-6, sony-12)
+prep_than(better-4, TCL-14)
+conj_or(Samsung-6, TCL-14)
+prep_than(better-4, Toshiba-16)
+conj_or(Samsung-6, Toshiba-16)
+prep_than(better-4, vizio-18)
+conj_or(Samsung-6, vizio-18)
+
+=========
+
+nsubj(natural-3, Colors-1)
+cop(natural-3, are-2)
+root(ROOT-0, natural-3)
+
+=========
+
+root(ROOT-0, Lots-1)
+prep_of(Lots-1, control-3)
+nn(modes-7, noise-5)
+nn(modes-7, reduction-6)
+prep_over(control-3, modes-7)
+advmod(well-9, as-8)
+mwe(well-9, as-8)
+advmod(Lots-1, well-9)
+
+=========
+
+nsubj(has-2, Screen-1)
+root(ROOT-0, has-2)
+det(deal-5, a-3)
+amod(deal-5, great-4)
+dobj(has-2, deal-5)
+prep_of(deal-5, glare-7)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, rarely-2)
+root(ROOT-0, have-3)
+dobj(have-3, it-4)
+prep(have-3, on-5)
+pcomp(on-5, during-6)
+det(day-8, the-7)
+prep_during(on-5, day-8)
+mark(problem-15, so-10)
+nsubj(problem-15, it-11)
+nsubj(YMMV-20, it-11)
+cop(problem-15, is-12)
+neg(problem-15, not-13)
+det(problem-15, a-14)
+advcl(have-3, problem-15)
+prep_for(problem-15, me-17)
+advcl(have-3, YMMV-20)
+conj_but(problem-15, YMMV-20)
+

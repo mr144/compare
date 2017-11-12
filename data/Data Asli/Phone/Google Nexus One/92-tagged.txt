@@ -1,0 +1,9 @@
+This_DT is_VBZ a_DT good_JJ phone_NN ._.
+For_IN the_DT price_NN ,_, it_PRP may_MD well_RB be_VB the_DT best_JJS smartphone_NN available_JJ ._.
+And_CC unlike_IN an_DT iPhone_NN ,_, you_PRP do_VBP not_RB have_VB to_TO pay_VB extra_JJ for_IN tethering_VBG or_CC for_IN GPS_NNP navigation_NN ._.
+What_WP 's_VBZ the_DT catch_NN ?_.
+Well_RB ,_, it_PRP comes_VBZ pre-loaded_JJ with_IN a_DT custom_NN build_VB of_IN the_DT older_JJR Android_NNP 2.2_CD release_NN ._.
+The_DT custom_NN build_VBP prevents_VBZ easy_JJ upgrades_NNS ,_, and_CC without_IN upgrades_NNS ,_, you_PRP are_VBP stuck_VBN with_IN a_DT mediocre_JJ battery_NN life_NN and_CC a_DT sub-optimal_JJ user_NN experience_NN ._.
+My_PRP$ suggestion_NN would_MD be_VB to_TO look_VB at_IN the_DT upgrade_JJ process_NN -LRB-_-LRB- other_JJ reviews_NNS have_VBP given_VBN the_DT details_NNS -RRB-_-RRB- ,_, and_CC to_TO buy_VB this_DT phone_NN only_RB if_IN you_PRP have_VBP the_DT inclination\/time_NN to_TO go_VB through_IN it_PRP ._.
+upgrade_JJ hints_NNS for_IN those_DT who_WP decide_VBP to_TO take_VB the_DT plunge_NN :1_CD -RRB-_-RRB- search_NN for_IN the_DT specific_JJ custom_NN build_VB number_NN -LRB-_-LRB- menu_NN -_: -RRB-_-RRB- setting_NN -_: -RRB-_-RRB- about_IN phone_NN -RRB-_-RRB- and_CC download_VB the_DT correct_JJ PGIMG_NNP ._.
+zip_NN file_NN .2_CD -RRB-_-RRB- search_NN for_IN `_`` goodbye_FW vodaphone_FW uk_FW nexus_NN one_CD rom_NN '_'' and_CC follow_VB the_DT instructions_NNS ._.

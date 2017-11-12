@@ -1,0 +1,3 @@
+This_DT phone_NN worked_VBD pretty_RB well_RB except_IN for_IN a_DT few_JJ issues_NNS ._.
+It_PRP will_MD sometimes_RB hang_VB or_CC clock_NN for_IN no_DT apparent_JJ reason_NN ._.
+It_PRP performs_VBZ its_PRP$ basic_JJ functions_NNS well_RB ._.

@@ -1,0 +1,38 @@
+=========
+
+aux(owned-2, Having-1)
+partmod(have-12, owned-2)
+nn(equipment-4, Pentax-3)
+dobj(owned-2, equipment-4)
+det(years-9, the-6)
+amod(years-9, last-7)
+num(years-9, 15-8)
+prep_for(owned-2, years-9)
+nsubj(have-12, I-11)
+xsubj(say-14, I-11)
+root(ROOT-0, have-12)
+aux(say-14, to-13)
+xcomp(have-12, say-14)
+nsubj(best-18, this-15)
+cop(best-18, is-16)
+det(best-18, the-17)
+ccomp(say-14, best-18)
+advmod(best-18, yet-19)
+
+=========
+
+nsubj(eclipses-3, It-1)
+advmod(eclipses-3, totally-2)
+root(ROOT-0, eclipses-3)
+poss(istDS-6, my-4)
+amod(istDS-6, \*-5)
+dobj(eclipses-3, istDS-6)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+prep_to(recommend-3, anyone-6)
+

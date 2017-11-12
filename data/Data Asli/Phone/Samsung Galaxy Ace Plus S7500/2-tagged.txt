@@ -1,0 +1,3 @@
+The_DT description_NN says_VBZ HSDPA_NNP 850\/1900_CD is_VBZ not_RB so_RB in_IN reality_NN it_PRP is_VBZ 850\/2100_CD in_IN my_PRP$ country_NN -LRB-_-LRB- Venezuela_NNP -RRB-_-RRB- Is_VBZ a_DT scam_NN ._.
+Do_VBP not_RB buy_VB it_PRP ._.
+Waste_NNP time_NN and_CC money_NN ._.

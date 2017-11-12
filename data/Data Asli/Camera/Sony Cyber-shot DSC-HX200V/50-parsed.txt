@@ -1,0 +1,107 @@
+=========
+
+nsubj(familiar-4, I-1)
+cop(familiar-4, was-2)
+neg(familiar-4, not-3)
+root(ROOT-0, familiar-4)
+det(camera-8, the-6)
+nn(camera-8, Sony-7)
+prep_with(familiar-4, camera-8)
+nsubj(loved-12, I-11)
+conj_but(familiar-4, loved-12)
+det(fact-14, the-13)
+dobj(loved-12, fact-14)
+complm(had-17, that-15)
+nsubj(had-17, it-16)
+ccomp(loved-12, had-17)
+det(viewfinder-20, an-18)
+amod(viewfinder-20, optical-19)
+dobj(had-17, viewfinder-20)
+det(display-26, a-24)
+nn(display-26, LCD-25)
+dobj(had-17, display-26)
+conj_and(viewfinder-20, display-26)
+
+=========
+
+mark(started-3, Once-1)
+nsubj(started-3, I-2)
+xsubj(find-5, I-2)
+advcl(fell-13, started-3)
+aux(find-5, to-4)
+xcomp(started-3, find-5)
+prt(find-5, out-6)
+dobj(do-10, what-7)
+nsubj(do-10, it-8)
+aux(do-10, could-9)
+ccomp(find-5, do-10)
+nsubj(fell-13, I-11)
+advmod(fell-13, just-12)
+root(ROOT-0, fell-13)
+prep_in(fell-13, love-15)
+prep_with(fell-13, it-17)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+xsubj(use-5, you-2)
+advcl(switches-11, want-3)
+aux(use-5, to-4)
+xcomp(want-3, use-5)
+det(viewefinder-8, the-6)
+amod(viewefinder-8, optical-7)
+dobj(use-5, viewefinder-8)
+nsubj(switches-11, it-9)
+advmod(switches-11, automatically-10)
+root(ROOT-0, switches-11)
+prepc_by(switches-11, placing-13)
+poss(eye-15, your-14)
+dobj(placing-13, eye-15)
+prt(placing-13, up-16)
+det(viewer-19, the-18)
+prep_to(placing-13, viewer-19)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(outstanding-5, quality-3)
+cop(outstanding-5, is-4)
+root(ROOT-0, outstanding-5)
+
+=========
+
+det(strength-3, The-1)
+amod(strength-3, zoom-2)
+nsubj(superb-5, strength-3)
+cop(superb-5, is-4)
+root(ROOT-0, superb-5)
+
+=========
+
+det(price-2, The-1)
+nsubj(reasonable-5, price-2)
+cop(reasonable-5, was-3)
+advmod(reasonable-5, very-4)
+root(ROOT-0, reasonable-5)
+det(time-9, the-7)
+nn(time-9, delivery-8)
+nsubj(fanastic-11, time-9)
+cop(fanastic-11, was-10)
+conj_and(reasonable-5, fanastic-11)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+prep_to(recommend-3, family-7)
+prep_to(recommend-3, friends-9)
+conj_and(family-7, friends-9)
+amod(travelers-12, fellow-11)
+prep_to(recommend-3, travelers-12)
+conj_and(family-7, travelers-12)
+

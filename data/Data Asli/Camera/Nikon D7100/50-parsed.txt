@@ -1,0 +1,24 @@
+=========
+
+det(owner-4, a-2)
+amod(owner-4, previous-3)
+prep_as(exceeded-13, owner-4)
+det(D40x-8, a-6)
+nn(D40x-8, Nikon-7)
+prep_of(owner-4, D40x-8)
+det(D7100-11, this-10)
+nsubj(exceeded-13, D7100-11)
+aux(exceeded-13, has-12)
+root(ROOT-0, exceeded-13)
+dobj(exceeded-13, all-14)
+poss(expectations-17, my-16)
+prep_of(all-14, expectations-17)
+
+=========
+
+nsubj(product-5, It-1)
+cop(product-5, 's-2)
+det(product-5, a-3)
+amod(product-5, great-4)
+root(ROOT-0, product-5)
+

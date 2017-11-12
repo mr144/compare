@@ -1,0 +1,33 @@
+=========
+
+amod(seller-2, good-1)
+root(ROOT-0, seller-2)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+nsubj(%-5, it-3)
+number(%-5, 100-4)
+xcomp(recommend-2, %-5)
+nsubj(confident-10, you-7)
+aux(confident-10, can-8)
+cop(confident-10, be-9)
+conj_and(recommend-2, confident-10)
+complm(new-16, that-11)
+det(product-13, the-12)
+nsubj(new-16, product-13)
+cop(new-16, is-14)
+dep(new-16, brand-15)
+ccomp(confident-10, new-16)
+det(package-19, the-18)
+nsubj(meets-20, package-19)
+conj_and(recommend-2, meets-20)
+det(previosiones-22, all-21)
+nsubj(prevent-24, previosiones-22)
+aux(prevent-24, to-23)
+xcomp(meets-20, prevent-24)
+dobj(prevent-24, damage-25)
+det(product-28, the-27)
+prep_to(prevent-24, product-28)
+

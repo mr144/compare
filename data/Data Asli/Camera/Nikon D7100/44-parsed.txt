@@ -1,0 +1,35 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+amod(camera-6, many-4)
+nn(camera-6, nikon-5)
+dobj(had-3, camera-6)
+rcmod(camera-6, 's-7)
+nsubj(The-14, this-9)
+nsubj(d7100-23, this-9)
+cop(The-14, is-10)
+det(The-14, the-11)
+amod(The-14, best-12)
+nn(The-14, !!-13)
+ccomp('s-7, The-14)
+num(The-14, d100-15)
+num(The-14, d90-17)
+num(The-14, dd7000-19)
+advmod(d7100-23, now-21)
+det(d7100-23, the-22)
+ccomp('s-7, d7100-23)
+conj_and(The-14, d7100-23)
+
+=========
+
+advmod(started-2, just-1)
+root(ROOT-0, started-2)
+xcomp(started-2, using-3)
+dobj(using-3, it-4)
+mark(tell-8, so-5)
+nsubj(tell-8, time-6)
+aux(tell-8, will-7)
+dep(started-2, tell-8)
+

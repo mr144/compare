@@ -1,0 +1,3 @@
+Picture_NNP is_VBZ great_JJ ,_, setup_NN is_VBZ easy_JJ ._.
+Sound_NN is_VBZ not_RB as_RB good_JJ as_IN previous_JJ Sony_NNP ,_, this_DT unit_NN has_VBZ speakers_NNS in_IN the_DT rear_NN of_IN the_DT unit_NN vice_NN front_NN ,_, so_IN sound_NN goes_VBZ against_IN wall_NN behind_IN unit_NN and_CC is_VBZ somewhat_RB muffled_VBN ._.
+I_PRP am_VBP considering_VBG adding_VBG a_DT sound_JJ bar_NN to_TO get_VB the_DT good_JJ Sony_NNP sound_NN back_RB ._.

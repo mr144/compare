@@ -1,0 +1,26 @@
+=========
+
+nsubj(bought-3, I-1)
+advmod(bought-3, just-2)
+root(ROOT-0, bought-3)
+det(camera-5, this-4)
+dobj(bought-3, camera-5)
+predet(reviews-9, all-7)
+det(reviews-9, the-8)
+prep_after(bought-3, reviews-9)
+complm(read-12, that-10)
+nsubj(read-12, I-11)
+ccomp(bought-3, read-12)
+prep_about(read-12, it-14)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(ART-4, the-3)
+nsubj(filters-5, ART-4)
+ccomp(love-2, filters-5)
+complm(have-8, that-6)
+nsubj(have-8, they-7)
+ccomp(filters-5, have-8)
+

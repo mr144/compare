@@ -1,0 +1,31 @@
+=========
+
+det(phone-2, The-1)
+nsubjpass(received-4, phone-2)
+auxpass(received-4, was-3)
+root(ROOT-0, received-4)
+amod(condition-7, satisfactory-6)
+prep_in(received-4, condition-7)
+
+=========
+
+nn(product.-2, Excellent-1)
+nsubj(were-7, product.-2)
+det(disappointment-6, the-4)
+amod(disappointment-6, only-5)
+appos(product.-2, disappointment-6)
+root(ROOT-0, were-7)
+complm(locked-11, that-8)
+nsubjpass(locked-11, it-9)
+nsubjpass(had-13, it-9)
+auxpass(locked-11, was-10)
+ccomp(were-7, locked-11)
+ccomp(were-7, had-13)
+conj_and(locked-11, had-13)
+amod(money-17, spent-15)
+amod(money-17, extra-16)
+prep_to(had-13, money-17)
+prep_to(money-17, unlock-19)
+det(phone-21, the-20)
+dobj(locked-11, phone-21)
+

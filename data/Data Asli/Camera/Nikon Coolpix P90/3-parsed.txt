@@ -1,0 +1,51 @@
+=========
+
+amod(camera-2, Amazing-1)
+nsubj(zoom-5, camera-2)
+aux(zoom-5, can-4)
+root(ROOT-0, zoom-5)
+prt(zoom-5, in-6)
+prep_on(zoom-5, objects-8)
+det(mile-11, a-9)
+nn(mile-11, quarter-10)
+dobj(zoom-5, mile-11)
+advmod(zoom-5, away-12)
+
+=========
+
+amod(array-2, Good-1)
+root(ROOT-0, array-2)
+prep_of(array-2, features-4)
+
+=========
+
+nn(ISO-2, Automatic-1)
+nsubj(helps-3, ISO-2)
+root(ROOT-0, helps-3)
+acomp(helps-3, alot-4)
+
+=========
+
+root(ROOT-0, Icing-1)
+det(cake-5, this-3)
+amod(cake-5, delicious-4)
+prep_on(Icing-1, cake-5)
+aux(Icing-1, is-6)
+det(feature-9, the-7)
+amod(feature-9, tiltscreen-8)
+nsubj(Icing-1, feature-9)
+nsubj(comes-12, feature-9)
+rcmod(feature-9, comes-12)
+prep_in(comes-12, handy-14)
+
+=========
+
+root(ROOT-0, Nothing-1)
+amod(Nothing-1, bad-2)
+aux(say-4, to-3)
+xcomp(bad-2, say-4)
+det(camera-7, this-6)
+prep_about(say-4, camera-7)
+advmod(say-4, at-8)
+pobj(at-8, all-9)
+

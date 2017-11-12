@@ -1,0 +1,37 @@
+=========
+
+nsubj(...-2, Ok-1)
+
+=========
+
+dep(tinny-8, Yes-1)
+det(sound-4, the-3)
+nsubj(tinny-8, sound-4)
+cop(tinny-8, is-5)
+det(bit-7, a-6)
+npadvmod(tinny-8, bit-7)
+root(ROOT-0, tinny-8)
+poss(tv-15, our-12)
+nn(tv-15, kitchen-13)
+nn(tv-15, top-14)
+prep_for(serve-19, tv-15)
+nsubj(serve-19, it-17)
+aux(serve-19, will-18)
+conj_but(tinny-8, serve-19)
+dobj(serve-19, us-20)
+advmod(enough-22, well-21)
+advmod(serve-19, enough-22)
+
+=========
+
+det(picture-2, The-1)
+nsubj(sharp-4, picture-2)
+cop(sharp-4, is-3)
+root(ROOT-0, sharp-4)
+det(controls-7, the-6)
+nsubj(easy-9, controls-7)
+cop(easy-9, are-8)
+conj_and(sharp-4, easy-9)
+aux(use-11, to-10)
+xcomp(easy-9, use-11)
+

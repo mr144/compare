@@ -1,0 +1,185 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(TV-5, this-4)
+dobj(had-3, TV-5)
+quantmod(8-8, about-7)
+num(months-9, 8-8)
+prep_for(TV-5, months-9)
+nsubj(have-14, I-12)
+advmod(have-14, certainly-13)
+conj_and(had-3, have-14)
+amod(feelings-16, mixed-15)
+dobj(have-14, feelings-16)
+prep_about(feelings-16, it-18)
+
+=========
+
+det(good-2, The-1)
+root(ROOT-0, good-2)
+prep_at(big-11, 42-5)
+nsubj(big-11, it-8)
+cop(big-11, is-9)
+advmod(big-11, plenty-10)
+dep(good-2, big-11)
+poss(apartment-14, my-13)
+prep_for(big-11, apartment-14)
+
+=========
+
+det(bit-3, a-2)
+prep_with(decent-11, bit-3)
+prep_of(bit-3, tweaking-5)
+det(quality-9, the-7)
+nn(quality-9, picture-8)
+nsubj(decent-11, quality-9)
+cop(decent-11, is-10)
+root(ROOT-0, decent-11)
+
+=========
+
+det(bad-2, The-1)
+root(ROOT-0, bad-2)
+prepc_out_of(terrible-13, of-5)
+det(box-7, the-6)
+pobj(terrible-13, box-7)
+det(quality-11, the-9)
+nn(quality-11, picture-10)
+nsubj(terrible-13, quality-11)
+cop(terrible-13, is-12)
+dep(bad-2, terrible-13)
+
+=========
+
+root(ROOT-0, Take-1)
+det(time-3, the-2)
+dobj(Take-1, time-3)
+aux(calibrate-5, to-4)
+infmod(time-3, calibrate-5)
+dobj(calibrate-5, it-6)
+
+=========
+
+nsubj(TV-6, It-1)
+cop(TV-6, 's-2)
+det(TV-6, a-3)
+num(TV-6, 60-4)
+nn(TV-6, Hz-5)
+root(ROOT-0, TV-6)
+det(difference-10, the-9)
+nsubj(noticeable-19, difference-10)
+prep_between(difference-10, this-12)
+det(Hz-16, a-14)
+num(Hz-16, 120-15)
+prep_between(difference-10, Hz-16)
+conj_and(this-12, Hz-16)
+cop(noticeable-19, is-17)
+advmod(noticeable-19, quite-18)
+conj_and(TV-6, noticeable-19)
+
+=========
+
+det(backlighting-2, The-1)
+nsubj(inconsistent-4, backlighting-2)
+cop(inconsistent-4, is-3)
+root(ROOT-0, inconsistent-4)
+det(edges-7, the-6)
+prep_around(inconsistent-4, edges-7)
+
+=========
+
+det(levels-3, The-1)
+amod(levels-3, black-2)
+nsubj(nothing-5, levels-3)
+cop(nothing-5, are-4)
+root(ROOT-0, nothing-5)
+aux(write-7, to-6)
+xcomp(nothing-5, write-7)
+dep(about-9, home-8)
+advmod(write-7, about-9)
+
+=========
+
+det(sound-2, The-1)
+nsubj(appalling-4, sound-2)
+cop(appalling-4, is-3)
+root(ROOT-0, appalling-4)
+
+=========
+
+advmod(think-14, Seriously-1)
+mark(planning-6, if-3)
+nsubj(planning-6, you-4)
+xsubj(use-8, you-4)
+aux(planning-6, are-5)
+dep(think-14, planning-6)
+aux(use-8, to-7)
+xcomp(planning-6, use-8)
+dobj(use-8, this-9)
+amod(speakers-12, external-11)
+prep_without(use-8, speakers-12)
+root(ROOT-0, think-14)
+advmod(think-14, again-15)
+
+=========
+
+mark(using-4, If-1)
+nsubj(using-4, you-2)
+aux(using-4, are-3)
+advcl(noticeable-16, using-4)
+amod(audio-6, analog-5)
+dobj(using-4, audio-6)
+poss(box-10, your-8)
+nn(box-10, cable-9)
+prep_from(using-4, box-10)
+det(lag-14, the-12)
+nn(lag-14, display-13)
+nsubj(noticeable-16, lag-14)
+cop(noticeable-16, is-15)
+root(ROOT-0, noticeable-16)
+
+=========
+
+nsubj(fault-8, This-1)
+aux(fault-8, could-2)
+cop(fault-8, be-3)
+det(box-6, the-4)
+nn(box-6, cable-5)
+poss(fault-8, box-6)
+root(ROOT-0, fault-8)
+advmod(fault-8, though-10)
+
+=========
+
+advmod(wish-4, Basically-1)
+nsubj(wish-4, I-3)
+root(ROOT-0, wish-4)
+nsubj(spent-7, I-5)
+nsubj(gotten-13, I-5)
+aux(spent-7, did-6)
+dep(wish-4, spent-7)
+det(bucks-10, a-8)
+amod(bucks-10, few-9)
+npadvmod(more-11, bucks-10)
+advmod(spent-7, more-11)
+dep(wish-4, gotten-13)
+conj_and(spent-7, gotten-13)
+nsubj(nicer-15, something-14)
+xcomp(gotten-13, nicer-15)
+nsubj(kicking-21, I-18)
+aux(kicking-21, am-19)
+neg(kicking-21, not-20)
+dep(wish-4, kicking-21)
+conj_but(spent-7, kicking-21)
+dobj(kicking-21, myself-22)
+prepc_for(kicking-21, buying-24)
+dobj(buying-24, it-25)
+mark(got-29, because-27)
+nsubj(got-29, I-28)
+advcl(wish-4, got-29)
+det(price-32, a-30)
+amod(price-32, good-31)
+dobj(got-29, price-32)
+

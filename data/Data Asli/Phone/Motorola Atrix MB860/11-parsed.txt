@@ -1,0 +1,53 @@
+=========
+
+nsubj(confuse-2, I-1)
+xsubj(buy-4, I-1)
+root(ROOT-0, confuse-2)
+aux(buy-4, to-3)
+xcomp(confuse-2, buy-4)
+det(smartphone-6, this-5)
+dobj(buy-4, smartphone-6)
+nn(710-10, Nokia-8)
+nn(710-10, Lumia-9)
+dobj(buy-4, 710-10)
+conj_or(smartphone-6, 710-10)
+
+=========
+
+nn(710-2, Lumia-1)
+nsubj(has-3, 710-2)
+root(ROOT-0, has-3)
+det(design-12, a-4)
+amod(prize-6, lower-5)
+nn(design-12, prize-6)
+amod(screen-9, bigger-8)
+conj_and(prize-6, screen-9)
+nn(design-12, screen-9)
+conj_and(prize-6, nicer-11)
+nn(design-12, nicer-11)
+dobj(has-3, design-12)
+
+=========
+
+cc(has-3, But-1)
+nsubj(has-3, Atrix-2)
+root(ROOT-0, has-3)
+det(processor-6, a-4)
+amod(processor-6, greater-5)
+dobj(has-3, processor-6)
+amod(camera-9, better-8)
+dobj(has-3, camera-9)
+conj_and(processor-6, camera-9)
+amod(life-13, longer-11)
+nn(life-13, battery-12)
+dobj(has-3, life-13)
+conj_and(processor-6, life-13)
+prep_than(has-3, Lumia-15)
+
+=========
+
+nsubj(please-3, Anyone-1)
+root(ROOT-0, please-3)
+xcomp(please-3, help-4)
+dobj(help-4, me-5)
+

@@ -1,0 +1,43 @@
+=========
+
+det(item-2, This-1)
+nsubjpass(shipped-4, item-2)
+auxpass(shipped-4, was-3)
+root(ROOT-0, shipped-4)
+acomp(shipped-4, defective-5)
+
+=========
+
+nsubj(purchasing-4, I-1)
+aux(purchasing-4, have-2)
+aux(purchasing-4, been-3)
+root(ROOT-0, purchasing-4)
+nn(tvs-6, Sony-5)
+dobj(purchasing-4, tvs-6)
+num(years-9, twenty-8)
+prep_for(tvs-6, years-9)
+nsubj(1st-14, it-11)
+cop(1st-14, was-12)
+det(1st-14, the-13)
+conj_and(purchasing-4, 1st-14)
+dobj(occurred-17, 1st-14)
+nsubj(occurred-17, this-15)
+advmod(occurred-17, ever-16)
+rcmod(1st-14, occurred-17)
+
+=========
+
+advmod(was-4, However-1)
+nsubj(was-4, I-3)
+root(ROOT-0, was-4)
+advmod(was-4, still-5)
+det(tv-9, a-7)
+amod(tv-9, workable-8)
+prep_without(was-4, tv-9)
+mark(experience-16, so-11)
+nsubj(experience-16, it-12)
+cop(experience-16, was-13)
+det(experience-16, a-14)
+amod(experience-16, bad-15)
+advcl(was-4, experience-16)
+

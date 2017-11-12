@@ -1,0 +1,2 @@
+iPhone_NNP 3G_NNP is_VBZ discontinued_VBN by_IN Apple_NNP ,_, which_WDT means_VBZ you_PRP will_MD not_RB be_VB able_JJ to_TO install_VB ANY_NNP application_NN ._.
+You_PRP will_MD have_VB a_DT working_NN phone_NN but_CC will_MD not_RB enjoy_VB Apple_NNP Store_NNP :_: -LRB-_-LRB- I_PRP should_MD have_VB read_VBN reviews_NNS before_IN buying_VBG ._.

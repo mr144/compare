@@ -1,0 +1,102 @@
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+poss(LG-5, my-4)
+poss(purchase-9, LG-5)
+num(LG-5, 37-6)
+amod(purchase-9, 1080p-8)
+prep_with(pleased-2, purchase-9)
+
+=========
+
+prepc_after(adjusted-8, reading-2)
+det(reviews-5, the-3)
+nn(reviews-5, amazon-4)
+dobj(reading-2, reviews-5)
+nsubj(adjusted-8, I-6)
+advmod(adjusted-8, successfully-7)
+root(ROOT-0, adjusted-8)
+det(TV-10, the-9)
+dobj(adjusted-8, TV-10)
+poss(liking-13, my-12)
+prep_to(adjusted-8, liking-13)
+
+=========
+
+nsubj(picture-5, It-1)
+cop(picture-5, is-2)
+det(picture-5, an-3)
+amod(picture-5, amazing-4)
+root(ROOT-0, picture-5)
+
+=========
+
+amod(value-2, Excellent-1)
+nsubj(size-13, value-2)
+det(money-5, the-4)
+prep_for(value-2, money-5)
+det(37-8, the-7)
+prep_for(value-2, 37-8)
+conj_and(money-5, 37-8)
+cop(size-13, is-10)
+det(size-13, the-11)
+amod(size-13, perfect-12)
+root(ROOT-0, size-13)
+poss(apartment-16, my-15)
+prep_for(size-13, apartment-16)
+
+=========
+
+nsubj(overwhelm-4, It-1)
+aux(overwhelm-4, does-2)
+neg(overwhelm-4, not-3)
+root(ROOT-0, overwhelm-4)
+det(room-6, the-5)
+dobj(overwhelm-4, room-6)
+
+=========
+
+nsubj(compared-2, I-1)
+root(ROOT-0, compared-2)
+det(LG-4, the-3)
+dobj(compared-2, LG-4)
+nn(side-7, Samsung-6)
+prep_to(compared-2, side-7)
+prep_by(compared-2, side-9)
+amod(Buy-12, Best-11)
+prep_at(side-9, Buy-12)
+
+=========
+
+det(differences-2, The-1)
+nsubj(imperceptible-4, differences-2)
+cop(imperceptible-4, were-3)
+root(ROOT-0, imperceptible-4)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(LG-4, the-3)
+dobj(purchased-2, LG-4)
+amod(pricing-8, better-7)
+prep_because_of(LG-4, pricing-8)
+prep_on(pricing-8, Amazon-10)
+
+=========
+
+nsubj(wouuld-2, I-1)
+root(ROOT-0, wouuld-2)
+xcomp(wouuld-2, purchase-3)
+det(TV-6, a-4)
+nn(TV-6, LG-5)
+dobj(purchase-3, TV-6)
+advmod(purchase-3, again-7)
+
+=========
+
+nn(York-2, New-1)
+root(ROOT-0, York-2)
+appos(York-2, NY-4)
+

@@ -1,0 +1,57 @@
+=========
+
+nsubj(cheap-3, It-1)
+cop(cheap-3, 's-2)
+root(ROOT-0, cheap-3)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+dobj(like-7, thing-3)
+nsubj(is-8, thing-3)
+nsubj(like-7, I-4)
+aux(like-7, do-5)
+neg(like-7, not-6)
+rcmod(thing-3, like-7)
+root(ROOT-0, is-8)
+nsubj(thick-13, it-9)
+nsubj(heavy-16, it-9)
+cop(thick-13, is-10)
+advmod(thick-13, still-11)
+advmod(thick-13, too-12)
+ccomp(is-8, thick-13)
+advmod(heavy-16, too-15)
+ccomp(is-8, heavy-16)
+conj_and(thick-13, heavy-16)
+
+=========
+
+dep(overall-2, But-1)
+root(ROOT-0, overall-2)
+dep(overall-2, a-3)
+amod(camera-5, good-4)
+pobj(a-3, camera-5)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, canon-6)
+prep_than(better-4, fujifilm-8)
+conj_or(canon-6, fujifilm-8)
+prep_than(better-4, GE-10)
+conj_or(canon-6, GE-10)
+prep_than(better-4, Coolpix-12)
+conj_or(canon-6, Coolpix-12)
+prep_than(better-4, Panasonic-14)
+conj_or(canon-6, Panasonic-14)
+prep_than(better-4, pentax-16)
+conj_or(canon-6, pentax-16)
+prep_than(better-4, kodak-18)
+conj_or(canon-6, kodak-18)
+prep_than(better-4, sony-20)
+conj_or(canon-6, sony-20)
+

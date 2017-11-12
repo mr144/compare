@@ -1,0 +1,41 @@
+=========
+
+root(ROOT-0, lost-1)
+prep_of(lost-1, pixels-3)
+prep_of(lost-1, zoom-5)
+conj_and(pixels-3, zoom-5)
+
+=========
+
+nsubj(takes-2, It-1)
+ccomp(see-15, takes-2)
+amod(pictues-4, good-3)
+nsubj(good-7, pictues-4)
+neg(good-7, not-5)
+advmod(good-7, so-6)
+xcomp(takes-2, good-7)
+nn(pictures-10, night-9)
+prep_for(good-7, pictures-10)
+nsubj(see-15, you-12)
+aux(see-15, will-13)
+neg(see-15, not-14)
+root(ROOT-0, see-15)
+det(thing-17, a-16)
+dobj(see-15, thing-17)
+det(screen-22, a-19)
+amod(screen-22, big-20)
+amod(screen-22, black-21)
+prep_except(thing-17, screen-22)
+
+=========
+
+amod(pictures-2, Panoramic-1)
+nsubj(best-6, pictures-2)
+nsubj(good-9, pictures-2)
+cop(best-6, are-3)
+neg(best-6, not-4)
+det(best-6, the-5)
+root(ROOT-0, best-6)
+cop(good-9, is-8)
+conj_but(best-6, good-9)
+

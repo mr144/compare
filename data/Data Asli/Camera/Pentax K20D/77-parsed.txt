@@ -1,0 +1,36 @@
+=========
+
+nn(camera-2, Best-1)
+root(ROOT-0, camera-2)
+dep(camera-2, ever-3)
+
+=========
+
+nsubj(love-2, It-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+amod(pictures-7, great-6)
+appos(camera-4, pictures-7)
+amod(flexability-10, great-9)
+appos(pictures-7, flexability-10)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, so-3)
+root(ROOT-0, happy-4)
+det(purchase-7, the-6)
+prep_with(happy-4, purchase-7)
+
+=========
+
+nn(camera-2, Best-1)
+nsubj(range-9, camera-2)
+det(market-5, the-4)
+prep_on(camera-2, market-5)
+det(price-8, this-7)
+prep_in(market-5, price-8)
+root(ROOT-0, range-9)
+

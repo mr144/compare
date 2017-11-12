@@ -1,0 +1,4 @@
+This_DT product_NN is_VBZ disappointing_JJ ._.
+It_PRP is_VBZ locked_VBN and_CC has_VBZ a_DT big_JJ crack_NN at_IN the_DT back_NN ._.
+The_DT OS_NNP is_VBZ also_RB ancient_JJ ._.
+I_PRP think_VBP ,_, Motorola_NNP ,_, Nokia_NNP ,_, HTC_NNP ,_, Google_NNP have_VBP a_DT better_JJR product_NN ._.

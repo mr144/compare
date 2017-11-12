@@ -1,0 +1,62 @@
+=========
+
+advmod(love-2, Just-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, great-3)
+nsubj(helps-10, pictures-4)
+det(feature-9, the-6)
+nn(feature-9, image-7)
+nn(feature-9, stabilization-8)
+conj_and(pictures-4, feature-9)
+nsubj(helps-10, feature-9)
+ccomp(takes-2, helps-10)
+det(lot-12, a-11)
+dobj(helps-10, lot-12)
+advmod(helps-10, particularly-14)
+advmod(taking-16, when-15)
+advcl(helps-10, taking-16)
+dobj(taking-16, photos-17)
+xcomp(taking-16, using-18)
+det(zoom-20, the-19)
+dobj(using-18, zoom-20)
+
+=========
+
+det(lens-3, The-1)
+amod(lens-3, zoom-2)
+nsubj(great-5, lens-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+
+=========
+
+nsubj(get-3, You-1)
+aux(get-3, can-2)
+root(ROOT-0, get-3)
+advmod(close-6, very-5)
+prep_in(get-3, close-6)
+amod(shots-9, indoor-8)
+nsubj(clear-12, shots-9)
+cop(clear-12, are-10)
+advmod(clear-12, very-11)
+conj_and(get-3, clear-12)
+advmod(clear-12, even-13)
+det(flash-16, the-15)
+prep_without(clear-12, flash-16)
+
+=========
+
+amod(camera-3, digital-2)
+prep_best(bought-7, camera-3)
+nsubj(bought-7, I-4)
+aux(bought-7, have-5)
+advmod(bought-7, ever-6)
+root(ROOT-0, bought-7)
+

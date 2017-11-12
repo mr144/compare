@@ -1,0 +1,29 @@
+=========
+
+det(camera-2, this-1)
+nsubj(takes-3, camera-2)
+root(ROOT-0, takes-3)
+amod(pics-5, beautiful-4)
+dobj(takes-3, pics-5)
+amod(video-8, smooth-7)
+dobj(takes-3, video-8)
+conj_and(pics-5, video-8)
+
+=========
+
+nsubj(love-2, i-1)
+root(ROOT-0, love-2)
+det(features-5, the-3)
+amod(features-5, awesome-4)
+dobj(love-2, features-5)
+
+=========
+
+nsubj(point-2, great-1)
+nsubj(shoot-4, great-1)
+root(ROOT-0, point-2)
+conj_and(point-2, shoot-4)
+dobj(point-2, speed-5)
+dobj(point-2, clarity-7)
+conj_and(speed-5, clarity-7)
+

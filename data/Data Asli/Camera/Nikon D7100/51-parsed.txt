@@ -1,0 +1,37 @@
+=========
+
+cop(product-4, is-1)
+det(product-4, an-2)
+amod(product-4, excellent-3)
+dep(happy-13, product-4)
+nsubj(recommend-7, I-6)
+parataxis(happy-13, recommend-7)
+dobj(recommend-7, it-8)
+nsubj(happy-13, I-10)
+cop(happy-13, am-11)
+advmod(happy-13, very-12)
+ccomp(product-23, happy-13)
+poss(purchase-16, my-15)
+prep_with(happy-13, purchase-16)
+nsubj(product-23, it-18)
+cop(product-23, is-19)
+det(product-23, a-20)
+advmod(functional-22, very-21)
+amod(product-23, functional-22)
+root(ROOT-0, product-23)
+
+=========
+
+nn(Body-2, Excellent-1)
+root(ROOT-0, Body-2)
+
+=========
+
+det(camera-2, This-1)
+nsubj(best-5, camera-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+poss(compatitors-8, its-7)
+prep_among(best-5, compatitors-8)
+

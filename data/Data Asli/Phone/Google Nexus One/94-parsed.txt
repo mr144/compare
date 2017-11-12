@@ -1,0 +1,69 @@
+=========
+
+nsubj(using-4, I-1)
+aux(using-4, have-2)
+aux(using-4, been-3)
+root(ROOT-0, using-4)
+dobj(using-4, it-5)
+det(month-8, a-7)
+prep_for(using-4, month-8)
+nsubj(like-12, I-10)
+advmod(like-12, really-11)
+conj_and(using-4, like-12)
+dobj(like-12, it-13)
+
+=========
+
+mark(version-6, Though-1)
+nsubj(version-6, it-2)
+cop(version-6, is-3)
+det(version-6, a-4)
+amod(version-6, older-5)
+advcl(perform-16, version-6)
+det(phones-11, the-8)
+nn(phones-11, Google-9)
+nn(phones-11, HTC-10)
+prep_of(version-6, phones-11)
+nsubj(perform-16, it-13)
+aux(perform-16, does-14)
+neg(perform-16, not-15)
+root(ROOT-0, perform-16)
+dep(less-18, any-17)
+advmod(perform-16, less-18)
+amod(phones-22, other-20)
+nn(phones-22, HTC-21)
+prep_than(perform-16, phones-22)
+
+=========
+
+nsubj(downloaded-3, I-1)
+aux(downloaded-3, have-2)
+root(ROOT-0, downloaded-3)
+amod(apps-5, several-4)
+dobj(downloaded-3, apps-5)
+nsubj(runs-8, it-7)
+conj_and(downloaded-3, runs-8)
+advmod(runs-8, smoothly-9)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+det(phone-5, this-4)
+dobj(like-3, phone-5)
+
+=========
+
+mark(have-4, If-1)
+nsubj(have-4, it-2)
+aux(have-4, could-3)
+csubj(perfect-11, have-4)
+det(everything-8, a-5)
+amod(everything-8, better-6)
+nn(everything-8, camera-7)
+dobj(have-4, everything-8)
+aux(perfect-11, will-9)
+cop(perfect-11, be-10)
+root(ROOT-0, perfect-11)
+

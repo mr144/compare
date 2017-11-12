@@ -1,0 +1,34 @@
+=========
+
+root(ROOT-0, Arrived-1)
+prep_on(Arrived-1, time-3)
+amod(condition-6, perfect-5)
+prep_in(time-3, condition-6)
+
+=========
+
+prep(quality-5, As-1)
+pcomp(As-1, always-2)
+nsubj(quality-5, Sony-4)
+root(ROOT-0, quality-5)
+
+=========
+
+nsubj(TV-6, This-1)
+cop(TV-6, is-2)
+poss(TV-6, my-3)
+amod(TV-6, fourth-4)
+nn(TV-6, Sony-5)
+root(ROOT-0, TV-6)
+advmod(ready-11, when-8)
+nsubj(ready-11, we-9)
+cop(ready-11, are-10)
+advcl(Sony-19, ready-11)
+prep_for(ready-11, number-13)
+num(number-13, 5-14)
+nsubj(Sony-19, it-15)
+aux(Sony-19, will-16)
+cop(Sony-19, be-17)
+det(Sony-19, a-18)
+conj_and(TV-6, Sony-19)
+

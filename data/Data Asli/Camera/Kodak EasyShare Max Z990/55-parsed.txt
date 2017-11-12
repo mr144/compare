@@ -1,0 +1,38 @@
+=========
+
+nn(excelente-6, articulo-1)
+nn(excelente-6, muy-2)
+nn(excelente-6, bueno-3)
+nn(excelente-6, y-4)
+nn(excelente-6, de-5)
+nsubj(calidad-7, excelente-6)
+root(ROOT-0, calidad-7)
+
+=========
+
+root(ROOT-0, Lo-1)
+amod(mente-4, recomiendo-2)
+nn(mente-4, amplia-3)
+dobj(Lo-1, mente-4)
+
+=========
+
+nsubj(excelente-2, todo-1)
+root(ROOT-0, excelente-2)
+
+=========
+
+advmod(good-2, very-1)
+root(ROOT-0, good-2)
+
+=========
+
+root(ROOT-0, volver&iacute;a-1)
+det(comprar-3, a-2)
+dep(volver&iacute;a-1, comprar-3)
+
+=========
+
+amod(bueno-2, producto-1)
+root(ROOT-0, bueno-2)
+

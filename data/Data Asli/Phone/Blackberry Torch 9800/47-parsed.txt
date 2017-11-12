@@ -1,0 +1,33 @@
+=========
+
+nsubj(planning-4, I-1)
+aux(planning-4, am-2)
+advmod(planning-4, really-3)
+root(ROOT-0, planning-4)
+prepc_on(planning-4, buying-6)
+det(phone-8, this-7)
+dobj(buying-6, phone-8)
+nsubj(want-11, I-10)
+xsubj(know-13, I-10)
+conj_but(planning-4, want-11)
+aux(know-13, to-12)
+xcomp(want-11, know-13)
+mark(work-17, if-14)
+nsubj(work-17, it-15)
+aux(work-17, will-16)
+advcl(know-13, work-17)
+prep_in(work-17, Trinidad-19)
+prep_in(work-17, Tobago-21)
+conj_and(Trinidad-19, Tobago-21)
+
+=========
+
+amod(anyone-2, Can-1)
+nsubj(answer-3, anyone-2)
+root(ROOT-0, answer-3)
+det(question-5, this-4)
+dobj(answer-3, question-5)
+dep(help-8, Please-7)
+parataxis(answer-3, help-8)
+dobj(help-8, !!!-9)
+

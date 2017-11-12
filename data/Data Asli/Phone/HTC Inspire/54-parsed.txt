@@ -1,0 +1,39 @@
+=========
+
+nsubj(received-2, I-1)
+root(ROOT-0, received-2)
+det(phone-4, a-3)
+dobj(received-2, phone-4)
+quantmod(2-6, about-5)
+num(months-7, 2-6)
+npadvmod(ago-8, months-7)
+advmod(received-2, ago-8)
+det(corner-12, the-10)
+amod(corner-12, left-11)
+nsubjpass(shattered-14, corner-12)
+auxpass(shattered-14, is-13)
+conj_and(received-2, shattered-14)
+expl(are-17, there-16)
+conj_and(received-2, are-17)
+conj_and(shattered-14, are-17)
+det(buttons-20, no-18)
+nn(buttons-20, volume-19)
+nsubj(are-17, buttons-20)
+
+=========
+
+nsubj(buy-4, I-1)
+aux(buy-4, would-2)
+neg(buy-4, never-3)
+root(ROOT-0, buy-4)
+det(product-6, a-5)
+dobj(buy-4, product-6)
+det(person-9, this-8)
+prep_from(buy-4, person-9)
+
+=========
+
+root(ROOT-0, Absolutely-1)
+dep(again-3, never-2)
+dep(Absolutely-1, again-3)
+

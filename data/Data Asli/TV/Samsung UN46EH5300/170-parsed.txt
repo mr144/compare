@@ -1,0 +1,38 @@
+=========
+
+nsubj(seems-5, SO-1)
+xsubj(work-7, SO-1)
+nsubj(easy-12, SO-1)
+advmod(seems-5, far-2)
+det(TV-4, this-3)
+pobj(far-2, TV-4)
+root(ROOT-0, seems-5)
+aux(work-7, to-6)
+xcomp(seems-5, work-7)
+acomp(work-7, great-8)
+cop(easy-12, was-10)
+advmod(easy-12, extremely-11)
+conj_and(seems-5, easy-12)
+aux(set-14, to-13)
+xcomp(easy-12, set-14)
+prt(set-14, up-15)
+
+=========
+
+det(issues-2, No-1)
+nsubj(@-3, issues-2)
+root(ROOT-0, @-3)
+nsubj(review-13, all-4)
+poss(only-7, its-6)
+appos(all-4, only-7)
+cop(week-10, been-8)
+det(week-10, a-9)
+partmod(only-7, week-10)
+advmod(week-10, so-11)
+aux(review-13, will-12)
+ccomp(@-3, review-13)
+advmod(review-13, further-14)
+det(couple-17, a-16)
+prep_in(review-13, couple-17)
+prep_of(couple-17, weeks-19)
+

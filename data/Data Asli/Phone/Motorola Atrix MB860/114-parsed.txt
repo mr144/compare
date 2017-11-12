@@ -1,0 +1,35 @@
+=========
+
+amod(style-2, great-1)
+root(ROOT-0, style-2)
+amod(performance-5, great-4)
+dep(style-2, performance-5)
+amod(comfort-8, great-7)
+dep(performance-5, comfort-8)
+amod(features-11, great-10)
+dep(comfort-8, features-11)
+amod(phone-14, Good-13)
+dep(features-11, phone-14)
+aux(go-16, to-15)
+infmod(phone-14, go-16)
+prep(go-16, with-17)
+
+=========
+
+nsubj(smartphone-5, this-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, best-4)
+root(ROOT-0, smartphone-5)
+
+=========
+
+nsubj(makes-2, MOTOBLUR-1)
+root(ROOT-0, makes-2)
+nsubj(simple-4, life-3)
+xcomp(makes-2, simple-4)
+
+=========
+
+root(ROOT-0, !!!!-1)
+

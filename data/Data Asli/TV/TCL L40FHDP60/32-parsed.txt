@@ -1,0 +1,34 @@
+=========
+
+nsubj(reviewed-2, I-1)
+nsubj(thought-6, I-1)
+root(ROOT-0, reviewed-2)
+xcomp(reviewed-2, TV-3)
+possessive(TV-3, 's-4)
+conj_and(reviewed-2, thought-6)
+nsubj(one-13, this-7)
+aux(one-13, would-8)
+cop(one-13, be-9)
+det(one-13, a-10)
+advmod(good-12, really-11)
+amod(one-13, good-12)
+ccomp(thought-6, one-13)
+nsubjpass(impressed-18, I-15)
+auxpass(impressed-18, was-16)
+neg(impressed-18, not-17)
+conj_but(reviewed-2, impressed-18)
+det(picture-21, the-20)
+prep_with(impressed-18, picture-21)
+
+=========
+
+nsubj(got-2, I-1)
+nsubj(happy-9, I-1)
+root(ROOT-0, got-2)
+det(Vizeo-4, a-3)
+dobj(got-2, Vizeo-4)
+advmod(got-2, instead-5)
+cop(happy-9, am-7)
+advmod(happy-9, extremely-8)
+conj_and(got-2, happy-9)
+

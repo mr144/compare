@@ -1,0 +1,37 @@
+=========
+
+nsubj(needed-2, I-1)
+xsubj(have-4, I-1)
+nsubj(have-11, I-1)
+root(ROOT-0, needed-2)
+aux(have-4, to-3)
+xcomp(needed-2, have-4)
+amod(language-6, Spanish-5)
+dobj(have-4, language-6)
+aux(have-11, does-9)
+neg(have-11, not-10)
+conj_but(needed-2, have-11)
+det(option-13, the-12)
+dobj(have-11, option-13)
+advmod(needed-2, however-15)
+conj_but(needed-2, however-15)
+cop(English-17, is-16)
+dep(needed-2, English-17)
+
+=========
+
+dep(design-2, Good-1)
+root(ROOT-0, design-2)
+conj_and(design-2, functionality-4)
+
+=========
+
+det(screen-2, The-1)
+nsubj(resolution-8, screen-2)
+cop(resolution-8, is-3)
+amod(resolution-8, large-4)
+advmod(good-7, very-6)
+conj_and(large-4, good-7)
+amod(resolution-8, good-7)
+root(ROOT-0, resolution-8)
+

@@ -1,0 +1,36 @@
+Inputs\/Outputs_NNS :3_CD HDMI_NNP ,_, 1_CD composite\/RGB_NNP ,_, 1_CD VGA_NNP ._.
+Digital_NNP Optical_NNP out_RP as_RB well_RB as_IN a_DT 3.5_CD MM_NNP stereo_NN out_RP ._.
+I_PRP am_VBP disappointed_JJ ,_, because_IN the_DT previous_JJ version_NN of_IN this_DT TV_NN -LRB-_-LRB- returned_VBN for_IN warranty_NN reasons_NNS -RRB-_-RRB- had_VBD regular_JJ RCA_NNP audio_NN out_RP -RRB-_-RRB- ._.
+Luckily_RB ,_, I_PRP happened_VBD to_TO have_VB a_DT 3.5_CD mm_NN to_TO RCA_NNP adapter_NN cable_NN ._.
+Sound_NN :_: Decent_JJ ._.
+It_PRP has_VBZ decent_JJ volume_NN ,_, although_IN its_PRP$ fairly_RB thin_JJ ._.
+I_PRP have_VBP not_RB heard_VBN an_DT LCD_NNP with_IN decent_JJ internal_JJ speakers_NNS since_IN my_PRP$ old_JJ 2005_CD Panasonic_NNP ._.
+It_PRP is_VBZ louder_RBR than_IN most_JJS others_NNS I_PRP have_VBP heard_VBN recently_RB ,_, however_RB ._.
+If_IN you_PRP do_VBP not_RB have_VB a_DT stereo_NN or_CC a_DT surround_VB sound_JJ system_NN to_TO route_NN the_DT sound_NN through_IN ,_, you_PRP did_VBD probably_RB want_VB to_TO consider_VB a_DT speaker_NN bar_NN .480_CD Performance_NNP :_: First_JJ thing_NN 's_POS first_JJ ..._: The_DT product_NN has_VBZ a_DT truly_RB AWFUL_JJ 480_CD picture_NN ._.
+When_WRB viewing_VBG a_DT 480_CD program_NN via_IN cable_NN ,_, satellite_NN or_CC over_IN the_DT air_NN -LRB-_-LRB- yes_UH ,_, I_PRP have_VBP tried_VBN all_DT three_CD with_IN this_DT TV_NN -RRB-_-RRB- ,_, the_DT color_NN is_VBZ washed_VBN out_RP ,_, the_DT picture_NN is_VBZ fuzzy_JJ ,_, and_CC there_EX are_VBP artifacts_NNS and_CC blocking_VBG and_CC assorted_JJ &#34;_CD noise_NN &#34;_CD all_DT over_IN the_DT picture_NN ._.
+Its_PRP$ so_RB bad_JJ that_IN if_IN you_PRP happen_VBP to_TO be_VB watching_VBG a_DT black_JJ and_CC white_JJ picture_NN ,_, you_PRP will_MD not_RB only_RB have_VB a_DT fuzzy_JJ picture_NN ,_, but_CC you_PRP will_MD have_VB faint_JJ splashes_NNS of_IN red_JJ noise_NN flashing_VBG all_DT over_IN the_DT picture_NN ._.
+480_CD images_NNS are_VBP FAR_RB sharper_JJR and_CC cleaner_JJR on_IN my_PRP$ old_JJ 36_CD &#34;_CD CRT_NNP TV_NN ._.
+Everything_NN from_IN old_JJ Twilight_NNP Zone_NNP episodes_NNS to_TO sit_VB coms_NNS from_IN 2005_CD look_NN about_IN as_RB good_JJ as_IN a_DT poorly_RB preserved_VBN film_NN from_IN the_DT 70_CD 's_POS -LRB-_-LRB- washed_VBD out_RP ,_, fuzzy_JJ -RRB-_-RRB- ._.
+HD_NNP Performance_NNP :_: Now_RB ,_, if_IN you_PRP do_VBP not_RB care_VB about_IN 480_CD -LRB-_-LRB- somehow_RB you_PRP have_VBP cable_NN or_CC satellite_NN that_WDT has_VBZ nothing_NN BUT_NNP HD_NNP channels_NNS ,_, for_IN example_NN -RRB-_-RRB- ,_, this_DT is_VBZ a_DT great_JJ TV_NN ._.
+Its_PRP$ a_DT little_JJ slow_JJ switching_NN formats_NNS between_IN 480_CD ,_, 720_CD and_CC 1080_CD when_WRB switching_VBG channels_NNS ,_, but_CC when_WRB you_PRP have_VBP an_DT HD_NNP digital_JJ signal_NN ,_, the_DT picture_NN is_VBZ crystal_NN clear_JJ with_IN no_DT motion_NN blur_NN ._.
+Out_IN of_IN the_DT box_NN ,_, the_DT blacks_NNS ARE_VBP very_RB dark_JJ and_CC the_DT whites_NNS are_VBP very_RB white_JJ ._.
+I_PRP am_VBP NOT_NNP one_CD of_IN those_DT people_NNS who_WP like_VBP &#34;_CD deep_JJ black_JJ &#34;_CD blacks_NNS ,_, but_CC I_PRP realize_VBP all_PDT the_DT techno_NN nerds_NNS love_VBP them_PRP for_IN some_DT reason_NN ,_, but_CC I_PRP was_VBD able_JJ to_TO adjust_VB the_DT brightness_NN levels_NNS to_TO actually_RB see_VB details_NNS in_IN the_DT shadows_NNS while_IN maintaining_VBG a_DT pretty_RB dark_JJ black_JJ .3_CD D_NNP Performance_NNP :_: Warning_NN :_: The_DT TV_NN will_MD only_RB automatically_RB detect_VB 3D_NNP and_CC switch_VB to_TO 3D_CD mode_NN if_IN you_PRP are_VBP viewing_VBG content_NN from_IN the_DT internal_JJ apps_NNS -LRB-_-LRB- like_IN Vudu_NNP -RRB-_-RRB- or_CC from_IN a_DT 3D_NNP Blu-Ray_NNP disc_NN ._.
+I_PRP do_VBP not_RB have_VB a_DT 3D_NNP Blu-Ray_NNP player_NN ,_, but_CC my_PRP$ Blu-Ray_JJ player_NN plays_VBZ movies_NNS from_IN USB_NNP ,_, and_CC if_IN you_PRP have_VBP access_NN to_TO 3D_NNP SBS_NNP movie_NN files_NNS ,_, you_PRP can_MD play_VB them_PRP from_IN your_PRP$ avi\/divx\/mp4-enabled_JJ Blu-Ray_NNP player_NN -LRB-_-LRB- 3D_CD or_CC not_RB -RRB-_-RRB- ,_, you_PRP can_MD manually_RB activate_VB 3D_NNP mode_NN ,_, and_CC it_PRP works_VBZ beautifully_RB ._.
+The_DT 3D_NNP picture_NN is_VBZ very_RB bright_JJ ,_, considering_VBG the_DT polarized_VBN glasses_NNS ,_, with_IN only_RB a_DT slight_JJ &#34;_CD halo_NN &#34;_CD effect_NN when_WRB you_PRP are_VBP viewing_VBG a_DT scene_NN with_IN a_DT huge_JJ contrast_NN between_IN the_DT foreground_NN and_CC background_NN images_NNS ._.
+The_DT 3D_NNP is_VBZ about_IN the_DT same_JJ as_IN I_PRP have_VBP experienced_VBN in_IN movie_NN theaters_NNS ._.
+Apps_NNS :_: All_PDT the_DT standard_JJ apps_NNS are_VBP there_RB ,_, Netflix_NNP ,_, Vudu_NNP ,_, Hulu_NNP ,_, YouTube_NNP ,_, etc._FW ._.
+It_PRP even_RB has_VBZ Amazon_NNP Prime_NNP ,_, which_WDT is_VBZ a_DT nice_JJ plus_NN !_.
+Although_IN the_DT Amazon_NNP app_NN leaves_VBZ much_JJ to_TO be_VB desired_VBN as_RB far_RB as_IN search_NN features_NNS ._.
+There_EX are_VBP a_DT few_JJ other_JJ apps_NNS that_IN I_PRP consider_VBP useless_JJ on_IN a_DT TV_NN -LRB-_-LRB- who_WP is_VBZ really_RB going_VBG to_TO look_VB at_IN Facebook_NNP and_CC Twitter_NNP on_IN a_DT TV_NN ?_. -RRB-_-RRB-
+that_IN I_PRP have_VBP not_RB looked_VBN at_IN ._.
+Random_NNP thoughts_NNS :_: \*_SYM The_DT TV_NN takes_VBZ a_DT good_JJ 10-15_CD seconds_NNS to_TO go_VB from_IN OFF_NNP to_TO having_VBG a_DT picture_NN ._.
+Does_NNP not_RB bother_VB me_PRP ,_, but_CC it_PRP might_MD bother_VB you_PRP ._.
+\*_SYM Wait_VB about_IN 30_CD seconds_NNS after_IN you_PRP get_VBP a_DT picture_NN before_IN you_PRP start_VBP trying_VBG to_TO access_VB apps_NNS ,_, or_CC else_RB there_EX will_MD be_VB some_DT random_JJ lag_NN in_IN the_DT apps_NNS menu_NN ._.
+\*_SYM The_DT remote_JJ is_VBZ full-featured_JJ ,_, and_CC has_VBZ a_DT QWERTY_NNP keyboard_NN on_IN the_DT back_NN ._.
+I_PRP have_VBP never_RB accidentally_RB hit_VB any_DT buttons_NNS on_IN the_DT reverse_JJ side_NN by_IN mistake_NN as_IN you_PRP have_VBP to_TO deliberately_RB push_VB the_DT buttons_NNS to_TO make_VB them_PRP work_VB ._.
+However_RB ,_, some_DT people_NNS may_MD find_VB this_DT annoying_JJ ,_, as_IN you_PRP can_MD not_RB casually_RB tap_VB buttons_NNS and_CC get_VB any_DT response_NN ._.
+\*_SYM The_DT remote_JJ is_VBZ small_JJ ,_, and_CC does_VBZ not_RB not_RB give_VB you_PRP the_DT option_NN to_TO control_VB any_DT other_JJ devices_NNS ._.
+Universal_NNP remotes_NNS work_VBP fine_JJ with_IN this_DT TV_NN ,_, but_CC you_PRP will_MD need_VB to_TO keep_VB the_DT TV_NN remote_JJ handy_JJ if_IN you_PRP want_VBP to_TO access_VB the_DT 3D_NNP function_NN ._.
+Final_JJ thoughts_NNS :_: If_IN the_DT horrible_JJ -LRB-_-LRB- awful_JJ ,_, nasty_JJ -RRB-_-RRB- 480_CD display_NN does_VBZ not_RB bother_VB you_PRP ,_, this_DT is_VBZ a_DT fantastic_JJ TV_NN for_IN the_DT price_NN range_NN ._.
+The_DT display_NN rivals_VBZ some_DT of_IN the_DT much_JJ higher-priced_JJ options_NNS out_IN there_RB ,_, especially_RB considering_VBG you_PRP have_VBP a_DT 120Hz_JJ refresh_NN rate_NN and_CC 3D_JJ ability_NN ._.
+I_PRP took_VBD one_CD star_NN off_RP for_IN the_DT nasty_JJ 480_CD display_NN ,_, and_CC another_DT for_IN the_DT change_NN in_IN audio_JJ outputs_NNS ._.

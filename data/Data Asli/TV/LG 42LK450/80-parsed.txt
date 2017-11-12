@@ -1,0 +1,63 @@
+=========
+
+root(ROOT-0, Easy-1)
+aux(asseble-3, to-2)
+dep(Easy-1, asseble-3)
+
+=========
+
+advmod(good-2, Very-1)
+amod(images-5, good-2)
+amod(images-5, basic-3)
+nn(images-5, screen-4)
+nsubj(decent-12, images-5)
+conj_and(images-5, sound-7)
+nsubj(decent-12, sound-7)
+nn(speakers-10, TV-9)
+prep_of(sound-7, speakers-10)
+cop(decent-12, are-11)
+root(ROOT-0, decent-12)
+advmod(decent-12, enough-13)
+
+=========
+
+mark(like-3, If-1)
+nsubj(like-3, you-2)
+advcl(have-10, like-3)
+nn(sound-like-5, cinema-4)
+dobj(like-3, sound-like-5)
+advmod(seeing-7, when-6)
+advcl(like-3, seeing-7)
+dobj(seeing-7, movies-8)
+nsubj(have-10, you-9)
+root(ROOT-0, have-10)
+det(option-12, the-11)
+dobj(have-10, option-12)
+prepc_of(option-12, doing-14)
+poss(connections-17, your-15)
+amod(connections-17, own-16)
+dobj(doing-14, connections-17)
+
+=========
+
+advmod(satisfied-7, So-1)
+advmod(So-1, far-2)
+nsubjpass(satisfied-7, I-4)
+auxpass(satisfied-7, am-5)
+advmod(satisfied-7, very-6)
+root(ROOT-0, satisfied-7)
+det(42-10, this-9)
+poss(purchase-13, 42-10)
+nn(purchase-13, TV-12)
+prep_with(satisfied-7, purchase-13)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, surely-3)
+root(ROOT-0, recommend-4)
+dobj(recommend-4, it-5)
+det(hesitation-8, any-7)
+prep_without(recommend-4, hesitation-8)
+

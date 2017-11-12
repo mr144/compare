@@ -1,0 +1,4 @@
+Love_NNP it_PRP ._.
+Replaced_VBN my_PRP$ 13_CD inch_NN bedroom_NN tv_NN used_VBN since_IN 1986_CD ._.
+Internet_NNP is_VBZ good_JJ ._.
+Samsung_NNP excellent_JJ product_NN use_NN app_NN from_IN phone_NN sometimes_RB ._.

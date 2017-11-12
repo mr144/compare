@@ -1,0 +1,49 @@
+=========
+
+nsubj(fit-5, It-1)
+cop(fit-5, is-2)
+det(fit-5, a-3)
+amod(fit-5, perfect-4)
+root(ROOT-0, fit-5)
+det(niche-8, a-7)
+prep_for(fit-5, niche-8)
+poss(cabinet-12, our-10)
+nn(cabinet-12, kitchen-11)
+prep_in(niche-8, cabinet-12)
+
+=========
+
+nsubj(superior-6, Picture-1)
+amod(quality-4, sound-3)
+conj_and(Picture-1, quality-4)
+nsubj(superior-6, quality-4)
+cop(superior-6, are-5)
+root(ROOT-0, superior-6)
+num(model-11, 5-8)
+amod(model-11, year-old-9)
+nn(model-11, hp-10)
+prep_to(superior-6, model-11)
+dobj(replaced-13, model-11)
+nsubj(replaced-13, it-12)
+rcmod(model-11, replaced-13)
+
+=========
+
+dep(owned-6, First-1)
+nn(TV-3, Samsung-2)
+nsubj(owned-6, TV-3)
+dep(TV-3, we-4)
+aux(owned-6, have-5)
+root(ROOT-0, owned-6)
+nsubj(look-11, we-9)
+aux(look-11, will-10)
+conj_but(owned-6, look-11)
+prep_at(look-11, Samsung-13)
+advmod(buy-17, favorably-14)
+advmod(buy-17, when-15)
+nsubj(buy-17, we-16)
+ccomp(look-11, buy-17)
+dobj(buy-17, one-18)
+poss(bedroom-21, our-20)
+prep_for(one-18, bedroom-21)
+

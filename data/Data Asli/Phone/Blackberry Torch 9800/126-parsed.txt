@@ -1,0 +1,38 @@
+=========
+
+aux(honest-3, To-1)
+cop(honest-3, be-2)
+dep(concerned-7, honest-3)
+nsubj(concerned-7, I-4)
+cop(concerned-7, was-5)
+advmod(concerned-7, truly-6)
+root(ROOT-0, concerned-7)
+prepc_about(concerned-7, purchasing-9)
+det(phone-11, this-10)
+dobj(purchasing-9, phone-11)
+det(warranty-14, no-13)
+prep_with(purchasing-9, warranty-14)
+
+=========
+
+advmod(working-5, However-1)
+nsubj(working-5, it-3)
+aux(working-5, is-4)
+root(ROOT-0, working-5)
+dobj(working-5, fine-6)
+advmod(far-8, so-7)
+advmod(working-5, far-8)
+
+=========
+
+poss(disappointment-3, My-1)
+amod(disappointment-3, only-2)
+nsubj(is-4, disappointment-3)
+root(ROOT-0, is-4)
+complm(came-7, that-5)
+nsubj(came-7, it-6)
+ccomp(is-4, came-7)
+det(card-11, no-9)
+nn(card-11, media-10)
+prep_with(came-7, card-11)
+

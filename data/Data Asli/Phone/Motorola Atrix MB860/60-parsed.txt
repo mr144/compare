@@ -1,0 +1,29 @@
+=========
+
+nsubj(smartphone-5, it-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, first-4)
+ccomp(like-10, smartphone-5)
+prep_for(smartphone-5, me-7)
+nsubj(like-10, i-9)
+root(ROOT-0, like-10)
+nsubj(much-13, it-11)
+advmod(much-13, very-12)
+xcomp(like-10, much-13)
+
+=========
+
+nn(language-3, support-1)
+nn(language-3, multi-2)
+nsubj(use-7, language-3)
+advmod(i-5, so-4)
+amod(language-3, i-5)
+aux(use-7, can-6)
+root(ROOT-0, use-7)
+dobj(use-7, it-8)
+mark(go-11, after-9)
+nsubj(go-11, we-10)
+advcl(use-7, go-11)
+advmod(go-11, back-12)
+

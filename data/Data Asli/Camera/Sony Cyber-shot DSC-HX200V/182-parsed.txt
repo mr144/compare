@@ -1,0 +1,143 @@
+=========
+
+nsubj(camera-4, it-1)
+cop(camera-4, is-2)
+amod(camera-4, good-3)
+root(ROOT-0, camera-4)
+mark(have-7, if-5)
+nsubj(have-7, you-6)
+advcl(camera-4, have-7)
+det(lot-9, a-8)
+dobj(have-7, lot-9)
+prep_of(lot-9, patient-11)
+partmod(patient-11, waiting-12)
+prep_while(waiting-12, processing-14)
+
+=========
+
+nsubj(click-5, You-1)
+aux(click-5, can-2)
+neg(click-5, not-3)
+advmod(click-5, just-4)
+ccomp(have-9, click-5)
+dobj(click-5, click-6)
+nsubj(have-9, you-8)
+xsubj(wait-11, you-8)
+root(ROOT-0, have-9)
+aux(wait-11, to-10)
+xcomp(have-9, wait-11)
+dobj(wait-11, processingggggggg-13)
+advmod(wait-11, then-15)
+ccomp(have-9, click-16)
+advmod(click-16, again-17)
+det(shot-21, the-19)
+amod(shot-21, next-20)
+prep_for(click-16, shot-21)
+
+=========
+
+nsubj(using-3, I-1)
+aux(using-3, am-2)
+root(ROOT-0, using-3)
+det(card-7, the-4)
+amod(card-7, fastest-5)
+nn(card-7, memory-6)
+dobj(using-3, card-7)
+dobj(get-10, card-7)
+nsubj(get-10, I-8)
+aux(get-10, can-9)
+rcmod(card-7, get-10)
+prt(get-10, out-11)
+advmod(get-10, there-12)
+
+=========
+
+nsubj(problem-4, This-1)
+cop(problem-4, is-2)
+poss(problem-4, my-3)
+root(ROOT-0, problem-4)
+mark(rate-9, so-5)
+nsubj(rate-9, I-6)
+aux(rate-9, can-7)
+neg(rate-9, not-8)
+advcl(problem-4, rate-9)
+det(camera-11, this-10)
+poss(stars-14, camera-11)
+num(stars-14, 5-13)
+dobj(rate-9, stars-14)
+
+=========
+
+advmod(give-4, At-1)
+pobj(At-1, least-2)
+nsubj(give-4, I-3)
+root(ROOT-0, give-4)
+iobj(give-4, it-5)
+det(stars-8, a-6)
+num(stars-8, 3-7)
+dobj(give-4, stars-8)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, other-2)
+nsubj(disappoint-5, thing-3)
+nsubjpass(made-8, thing-3)
+rcmod(thing-3, disappoint-5)
+dobj(disappoint-5, me-6)
+auxpass(made-8, is-7)
+root(ROOT-0, made-8)
+prep_in(made-8, CHINA-10)
+
+=========
+
+poss(Sony-3, My-1)
+amod(Sony-3, previous-2)
+nsubj(DSC-4, Sony-3)
+root(ROOT-0, DSC-4)
+dobj(DSC-4, 16-5)
+
+=========
+
+nsubjpass(made-3, mega-1)
+auxpass(made-3, is-2)
+root(ROOT-0, made-3)
+prep_in(made-3, Japan-5)
+
+=========
+
+det(reason-2, The-1)
+nsubjpass(made-11, reason-2)
+complm(buy-5, that-3)
+nsubj(buy-5, I-4)
+dep(reason-2, buy-5)
+nn(cameras-7, Sony-6)
+dobj(buy-5, cameras-7)
+prep_because(buy-5, they-9)
+auxpass(made-11, are-10)
+root(ROOT-0, made-11)
+prep_in(made-11, Japan-13)
+
+=========
+
+det(camera-2, This-1)
+nsubj(is-3, camera-2)
+root(ROOT-0, is-3)
+neg(is-3, not-4)
+det(way-8, the-7)
+prep_by(camera-14, way-8)
+nsubj(camera-14, this-9)
+cop(camera-14, is-10)
+poss(camera-14, my-11)
+amod(camera-14, 3rd-12)
+nn(camera-14, sony-13)
+parataxis(is-3, camera-14)
+
+=========
+
+det(2-2, The-1)
+nsubjpass(made-4, 2-2)
+auxpass(made-4, were-3)
+root(ROOT-0, made-4)
+prep_in(made-4, Japan-6)
+

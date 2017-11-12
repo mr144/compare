@@ -1,0 +1,4 @@
+This_DT tv_NN is_VBZ great_JJ !_.
+It_PRP has_VBZ Internet_NNP built-in_NN ._.
+The_DT size_NN is_VBZ just_RB right_JJ for_IN a_DT bedroom_NN ._.
+The_DT only_JJ drawback_NN is_VBZ it_PRP is_VBZ advertised_VBN as_IN having_VBG a_DT Direct_JJ TV_NN tuner_NN built-in_NN but_CC you_PRP still_RB need_VBP equipment_NN between_IN the_DT wall_NN and_CC the_DT tv_NN ,_, not_RB sure_JJ where_WRB you_PRP would_MD use_VB the_DT built-in_JJ tuner_NN ._.

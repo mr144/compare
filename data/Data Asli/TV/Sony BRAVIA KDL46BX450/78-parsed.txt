@@ -1,0 +1,67 @@
+=========
+
+nn(Bravia-2, First-1)
+nsubj(lasted-3, Bravia-2)
+root(ROOT-0, lasted-3)
+mwe(than-5, less-4)
+quantmod(a-6, than-5)
+dobj(lasted-3, a-6)
+tmod(lasted-3, year-7)
+dep(lasted-3, so-9)
+nsubj(shipped-11, Sony-10)
+ccomp(lasted-3, shipped-11)
+nsubj(one-15, me-12)
+det(one-15, a-13)
+amod(one-15, new-14)
+xcomp(shipped-11, one-15)
+num(years-17, two-16)
+npadvmod(ago-18, years-17)
+advmod(one-15, ago-18)
+
+=========
+
+nsubj(went-3, It-1)
+nsubj(needs-5, It-1)
+advmod(went-3, just-2)
+root(ROOT-0, went-3)
+conj_and(went-3, needs-5)
+det(motherboard-8, a-6)
+amod(motherboard-8, new-7)
+dobj(needs-5, motherboard-8)
+prep_of(motherboard-8, course-11)
+
+=========
+
+nsubj(price-25, Price-1)
+det(motherboard-5, a-3)
+amod(motherboard-5, new-4)
+prep_of(Price-1, motherboard-5)
+dep($-7, =-6)
+dep(motherboard-5, $-7)
+num($-7, 750-8)
+nn(Repairman-10, !!!-9)
+nsubj(said-11, Repairman-10)
+rcmod(Price-1, said-11)
+nsubj(quality-16, Samsung-12)
+possessive(Samsung-12, 's-13)
+cop(quality-16, are-14)
+amod(quality-16, same-15)
+ccomp(said-11, quality-16)
+det(motherboard-19, a-18)
+ccomp(said-11, motherboard-19)
+conj_and(quality-16, motherboard-19)
+aux(price-25, would-20)
+cop(price-25, be-21)
+quantmod(half-23, about-22)
+num(price-25, half-23)
+det(price-25, the-24)
+root(ROOT-0, price-25)
+prep_of(price-25, Sony-27)
+possessive(Sony-27, 's-28)
+
+=========
+
+nn(!!-3, Goodbye-1)
+nn(!!-3, Sony-2)
+root(ROOT-0, !!-3)
+

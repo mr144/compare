@@ -1,0 +1,12 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+det(best-2, the-1)
+root(ROOT-0, best-2)
+poss(size-5, its-4)
+prep_in(best-2, size-5)
+nn(range-8, price-7)
+prep_in(best-2, range-8)
+conj_and(size-5, range-8)
+

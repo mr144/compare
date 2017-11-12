@@ -1,0 +1,31 @@
+=========
+
+nn(Unlocked-4, Blackberry-1)
+nn(Unlocked-4, Curve-2)
+nn(Unlocked-4, 9360-3)
+root(ROOT-0, Unlocked-4)
+
+=========
+
+nsubj(need-2, I-1)
+root(ROOT-0, need-2)
+det(phone-8, a-3)
+nn(phone-8, Unlocked-4)
+nn(phone-8, Quad-Band-5)
+nn(phone-8, GSM-6)
+nn(phone-8, cell-7)
+nsubj(compatible-9, phone-8)
+xcomp(need-2, compatible-9)
+num(GSM-12, 850\/900\/1800-11)
+prep_with(compatible-9, GSM-12)
+num(frequencies-19, 2100\/1900\/850-14)
+nn(frequencies-19, \/-15)
+num(frequencies-19, 800-16)
+nn(frequencies-19, MHz-17)
+num(frequencies-19, 3G-18)
+prep_with(compatible-9, frequencies-19)
+conj_and(GSM-12, frequencies-19)
+prep(GSM-12, plus-20)
+amod(capabilities-22, GPRS\/EDGE-21)
+dep(plus-20, capabilities-22)
+

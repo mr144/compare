@@ -1,0 +1,6 @@
+The_DT phone_NN is_VBZ fine_JJ ..._: until_IN it_PRP suddenly_RB died_VBD 5_CD month_NN after_IN purchase_NN ._.
+Cause_NN of_IN death_NN is_VBZ uncertain_JJ ._.
+&#34;_CD Wireless_NNP Everything_NNP &#34;_NNP might_MD know_VB ..._: Phone_NNP was_VBD from_IN France_NNP -LRB-_-LRB- god_NN knows_VBZ why_WRB -RRB-_-RRB- and_CC comes_VBZ with_IN french_JJ instructions_NNS and_CC European_JJ charger_NN ._.
+This_DT is_VBZ also_RB the_DT reason_NN why_WRB the_DT Nokia_NNP warranty_NN is_VBZ not_RB valid_JJ ._.
+Terrible_JJ customer_NN service_NN from_IN the_DT beginning_NN ._.
+Lesson_NN learned_VBD ..._: Behind_IN a_DT good_JJ price_NN there_EX is_VBZ always_RB a_DT very_RB good_JJ reason_NN ._.

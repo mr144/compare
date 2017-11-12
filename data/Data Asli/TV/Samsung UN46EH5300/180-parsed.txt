@@ -1,0 +1,30 @@
+=========
+
+root(ROOT-0, Chose-1)
+prep_for(Chose-1, picture-3)
+prep_for(Chose-1, smartness-5)
+conj_and(picture-3, smartness-5)
+
+=========
+
+root(ROOT-0, Not-1)
+dep(Not-1, disappointed-2)
+
+=========
+
+det(size-3, The-1)
+amod(size-3, small-2)
+nsubj(make-7, size-3)
+amod(weight-6, light-5)
+conj_and(size-3, weight-6)
+nsubj(make-7, weight-6)
+root(ROOT-0, make-7)
+nsubj(versitle-9, it-8)
+xcomp(make-7, versitle-9)
+
+=========
+
+root(ROOT-0, Recommend-1)
+dobj(Recommend-1, it-2)
+prep_to(Recommend-1, anyone-4)
+

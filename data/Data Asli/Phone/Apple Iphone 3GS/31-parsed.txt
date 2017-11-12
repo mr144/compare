@@ -1,0 +1,40 @@
+=========
+
+nsubjpass(blocked-3, product-1)
+auxpass(blocked-3, was-2)
+root(ROOT-0, blocked-3)
+det(number-7, the-5)
+amod(number-7, serial-6)
+nsubj(match-13, number-7)
+det(box-10, the-9)
+prep_of(number-7, box-10)
+aux(match-13, does-11)
+neg(match-13, not-12)
+ccomp(blocked-3, match-13)
+amod(number-16, serial-15)
+prep_with(match-13, number-16)
+prep_of(number-16, thephone-18)
+det(ear-phone-21, the-20)
+nsubj(original-24, ear-phone-21)
+cop(original-24, was-22)
+neg(original-24, not-23)
+ccomp(blocked-3, original-24)
+
+=========
+
+det(product-2, The-1)
+nsubjpass(manufactured-4, product-2)
+auxpass(manufactured-4, was-3)
+root(ROOT-0, manufactured-4)
+prep_in(manufactured-4, 2010-6)
+
+=========
+
+det(product-2, The-1)
+nsubjpass(returned-4, product-2)
+nsubjpass(refunded-7, product-2)
+auxpass(returned-4, was-3)
+root(ROOT-0, returned-4)
+advmod(refunded-7, already-6)
+conj_and(returned-4, refunded-7)
+

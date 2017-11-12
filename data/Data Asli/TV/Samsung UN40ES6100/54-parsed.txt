@@ -1,0 +1,31 @@
+=========
+
+nn(HDTV-2, Awesome-1)
+nsubj(!!!!-3, HDTV-2)
+root(ROOT-0, !!!!-3)
+amod(colors-5, realistic-4)
+dobj(!!!!-3, colors-5)
+dobj(!!!!-3, HD-7)
+conj_and(colors-5, HD-7)
+
+=========
+
+amod(value\/bang-2, great-1)
+nsubj(come-9, value\/bang-2)
+poss(technology-7, your-4)
+nn(technology-7, buck-5)
+nn(technology-7, !!!!-6)
+prep_for(value\/bang-2, technology-7)
+aux(come-9, has-8)
+root(ROOT-0, come-9)
+det(way-12, a-10)
+amod(way-12, long-11)
+dobj(come-9, way-12)
+nsubj(blazing-17, Samsung-15)
+aux(blazing-17, is-16)
+conj_but(come-9, blazing-17)
+det(trail-21, a-18)
+nn(trail-21, LED-19)
+nn(trail-21, TV-20)
+dobj(blazing-17, trail-21)
+

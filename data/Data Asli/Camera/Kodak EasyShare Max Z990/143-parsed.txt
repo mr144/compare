@@ -1,0 +1,47 @@
+=========
+
+nsubj(love-2, Really-1)
+root(ROOT-0, love-2)
+det(camera-8, the-3)
+nn(camera-8, Kodak-4)
+nn(camera-8, Easy-5)
+nn(camera-8, Share-6)
+nn(camera-8, Z990-7)
+dobj(love-2, camera-8)
+
+=========
+
+nsubj(wonderered-2, Always-1)
+root(ROOT-0, wonderered-2)
+advmod(top-8, why-3)
+nn(cameras-5, Kodak-4)
+nsubj(top-8, cameras-5)
+aux(top-8, did-6)
+neg(top-8, not-7)
+advcl(wonderered-2, top-8)
+det(charts-10, the-9)
+dobj(top-8, charts-10)
+
+=========
+
+det(camera-2, This-1)
+nsubj(bit-5, camera-2)
+cop(bit-5, is-3)
+det(bit-5, every-4)
+root(ROOT-0, bit-5)
+advmod(good-7, as-6)
+amod(bit-5, good-7)
+amod(bit-5, reliable-9)
+conj_and(good-7, reliable-9)
+mark(others-13, as-10)
+det(others-13, the-11)
+amod(others-13, expensive-12)
+dep(bit-5, others-13)
+
+=========
+
+nn(I-2, Glad-1)
+nsubj(bought-3, I-2)
+root(ROOT-0, bought-3)
+dobj(bought-3, it-4)
+

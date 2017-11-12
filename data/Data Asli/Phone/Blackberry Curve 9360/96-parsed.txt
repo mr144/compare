@@ -1,0 +1,19 @@
+=========
+
+mark(choose-3, As-1)
+nsubj(choose-3, I-2)
+xsubj(be-5, I-2)
+advcl(t-8, choose-3)
+aux(be-5, to-4)
+xcomp(choose-3, be-5)
+advmod(be-5, At-6)
+nsubj(t-8, &-7)
+root(ROOT-0, t-8)
+
+=========
+
+advmod(T-mobile-4, rather-1)
+nsubj(T-mobile-4, it-2)
+cop(T-mobile-4, is-3)
+root(ROOT-0, T-mobile-4)
+

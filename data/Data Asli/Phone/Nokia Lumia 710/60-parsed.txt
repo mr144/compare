@@ -1,0 +1,32 @@
+=========
+
+det(well-2, A-1)
+root(ROOT-0, well-2)
+amod(device-4, balanced-3)
+dep(well-2, device-4)
+
+=========
+
+det(OS-2, The-1)
+nsubj(perfect-4, OS-2)
+cop(perfect-4, is-3)
+root(ROOT-0, perfect-4)
+nn(users-7, windows-6)
+prep_for(perfect-4, users-7)
+advmod(professionals-9, specially-8)
+nsubj(one-16, professionals-9)
+det(quality-13, the-11)
+nn(quality-13, hardware-12)
+conj_and(professionals-9, quality-13)
+nsubj(one-16, quality-13)
+cop(one-16, is-14)
+det(one-16, the-15)
+ccomp(perfect-4, one-16)
+dobj(expect-18, one-16)
+nsubj(expect-18, you-17)
+rcmod(one-16, expect-18)
+cop(user-22, being-19)
+det(user-22, a-20)
+nn(user-22, nokia-21)
+xcomp(expect-18, user-22)
+

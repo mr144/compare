@@ -1,0 +1,53 @@
+=========
+
+nsubj(camera-4, This-1)
+cop(camera-4, is-2)
+det(camera-4, the-3)
+root(ROOT-0, camera-4)
+nsubj(get-7, camera-4)
+aux(get-7, will-6)
+rcmod(camera-4, get-7)
+dobj(get-7, me-8)
+prt(get-7, back-9)
+prep_into(get-7, photography-11)
+
+=========
+
+partmod(allows-10, Coming-1)
+det(days-4, the-3)
+prep_from(Coming-1, days-4)
+prep_of(days-4, film-6)
+det(D7100-9, the-8)
+nsubj(allows-10, D7100-9)
+root(ROOT-0, allows-10)
+nsubj(make-13, me-11)
+nsubj(preset-19, me-11)
+nsubj(make-23, me-11)
+aux(make-13, to-12)
+xcomp(allows-10, make-13)
+dobj(make-13, changes-14)
+det(fly-17, the-16)
+prep_on(make-13, fly-17)
+xcomp(allows-10, preset-19)
+conj_and(make-13, preset-19)
+poss(preferences-21, my-20)
+dobj(preset-19, preferences-21)
+xcomp(allows-10, make-23)
+conj_and(make-13, make-23)
+dobj(make-23, enlargements-24)
+poss(friends-27, my-26)
+prep_for(enlargements-24, friends-27)
+prep_for(enlargements-24, family-29)
+conj_and(friends-27, family-29)
+
+=========
+
+root(ROOT-0, Well-1)
+dep(Well-1, worth-2)
+det(cost-4, the-3)
+pobj(worth-2, cost-4)
+det(camera-9, a-6)
+nn(camera-9, DX-7)
+nn(camera-9, format-8)
+prep_for(cost-4, camera-9)
+

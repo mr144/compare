@@ -1,0 +1,32 @@
+=========
+
+amod(afternoon-2, good-1)
+root(ROOT-0, afternoon-2)
+
+=========
+
+advmod(sir-3, Excuse-1)
+nsubj(sir-3, me-2)
+ccomp(possible-11, sir-3)
+cc(wondering-7, but-4)
+nsubj(wondering-7, I-5)
+aux(wondering-7, was-6)
+ccomp(sir-3, wondering-7)
+nsubj(possible-11, it-9)
+cop(possible-11, is-10)
+root(ROOT-0, possible-11)
+aux(decrease-13, to-12)
+xcomp(possible-11, decrease-13)
+det(price-16, the-14)
+nn(price-16, item-15)
+dobj(decrease-13, price-16)
+number($-19, 700-18)
+prep_to(decrease-13, $-19)
+
+=========
+
+aux(buy-2, to-1)
+root(ROOT-0, buy-2)
+advmod(now-4, right-3)
+advmod(buy-2, now-4)
+

@@ -1,0 +1,94 @@
+=========
+
+nsubj(phone-6, this-1)
+cop(phone-6, is-2)
+poss(phone-6, my-3)
+amod(phone-6, first-4)
+amod(phone-6, smart-5)
+root(ROOT-0, phone-6)
+
+=========
+
+root(ROOT-0, i-1)
+det(phone-4, this-3)
+prep_like(i-1, phone-4)
+poss(fast-7, its-6)
+appos(i-1, fast-7)
+poss(attractive-10, its-9)
+appos(i-1, attractive-10)
+poss(plastic-18, its-12)
+amod(plastic-18, made-13)
+prep_of(made-13, metal-15)
+neg(cheap-17, not-16)
+amod(plastic-18, cheap-17)
+appos(attractive-10, plastic-18)
+
+=========
+
+det(software-2, the-1)
+nsubj(perfect-5, software-2)
+cop(perfect-5, is-3)
+neg(perfect-5, not-4)
+root(ROOT-0, perfect-5)
+prep(perfect-5, but-6)
+poss(close-8, its-7)
+dep(but-6, close-8)
+
+=========
+
+poss(i-12, its-1)
+amod(i-12, better-2)
+prep(better-2, than-3)
+dep(than-3, iphone-4)
+prep(iphone-4, because-5)
+det(screen-7, the-6)
+dobj(iphone-4, screen-7)
+cop(HUGE-9, is-8)
+rcmod(screen-7, HUGE-9)
+nsubj(recommend-14, i-12)
+aux(recommend-14, would-13)
+root(ROOT-0, recommend-14)
+det(phone-16, this-15)
+dobj(recommend-14, phone-16)
+mark(care-21, if-17)
+nsubj(care-21, you-18)
+aux(care-21, do-19)
+neg(care-21, not-20)
+advcl(recommend-14, care-21)
+amod(phones-25, dual-23)
+nn(phones-25, core-24)
+prep_about(care-21, phones-25)
+det(future-28, the-27)
+nsubj(tech-34, future-28)
+prep_of(future-28, phones-30)
+cop(tech-34, is-31)
+amod(tech-34, dual-32)
+nn(tech-34, core-33)
+conj_but(recommend-14, tech-34)
+
+=========
+
+det(phone-5, a-2)
+amod(phone-5, non-dual-3)
+nn(phone-5, core-4)
+prep_for(amazing-9, phone-5)
+det(thing-7, this-6)
+nsubj(amazing-9, thing-7)
+cop(amazing-9, is-8)
+root(ROOT-0, amazing-9)
+
+=========
+
+root(ROOT-0, it-3)
+dep(it-3, one-4)
+det(devices-9, the-6)
+amod(devices-9, best-7)
+amod(devices-9, android-8)
+prep_of(one-4, devices-9)
+prep(one-4, out-10)
+pobj(out-10, there-11)
+dep(there-11, i-13)
+advmod(vampire-16, am-14)
+det(vampire-16, a-15)
+dep(i-13, vampire-16)
+

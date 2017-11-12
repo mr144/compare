@@ -1,0 +1,161 @@
+=========
+
+det(housing-3, The-1)
+nn(housing-3, aluminum-2)
+nsubj(fragile-12, housing-3)
+det(end-6, the-5)
+prep_at(housing-3, end-6)
+det(lens-9, the-8)
+prep_of(end-6, lens-9)
+cop(fragile-12, is-10)
+advmod(fragile-12, extremely-11)
+root(ROOT-0, fragile-12)
+dep(fragile-12, thinner-14)
+mark(can-19, than-15)
+det(soda-18, an-16)
+nn(soda-18, aluminum-17)
+nsubj(can-19, soda-18)
+advcl(fragile-12, can-19)
+
+=========
+
+nsubj(dented-3, I-1)
+advmod(dented-3, slightly-2)
+root(ROOT-0, dented-3)
+nsubj(doing-5, it-4)
+dep(dented-3, doing-5)
+nn(photography-7, macro-6)
+dobj(doing-5, photography-7)
+
+=========
+
+det(camera-2, The-1)
+nsubj(continued-3, camera-2)
+xsubj(work-5, camera-2)
+root(ROOT-0, continued-3)
+aux(work-5, to-4)
+xcomp(continued-3, work-5)
+acomp(work-5, fine-6)
+mark(refused-13, until-8)
+num(weeks-10, three-9)
+tmod(refused-13, weeks-10)
+xsubj(start-15, weeks-10)
+advmod(weeks-10, later-11)
+nsubj(refused-13, it-12)
+xsubj(start-15, it-12)
+advcl(work-5, refused-13)
+aux(start-15, to-14)
+xcomp(refused-13, start-15)
+prt(start-15, up-16)
+advmod(start-15, even-18)
+amod(batteries-21, fresh-20)
+prep_with(start-15, batteries-21)
+
+=========
+
+det(point-3, this-2)
+prep_at(old-11, point-3)
+nsubj(old-11, it-5)
+cop(old-11, was-6)
+mwe(than-8, less-7)
+quantmod(two-9, than-8)
+num(moths-10, two-9)
+npadvmod(old-11, moths-10)
+root(ROOT-0, old-11)
+
+=========
+
+nsubj(returned-2, I-1)
+root(ROOT-0, returned-2)
+det(camera-4, the-3)
+dobj(returned-2, camera-4)
+det(warranty-7, the-6)
+prep_under(returned-2, warranty-7)
+
+=========
+
+nsubj(honor-4, Panasonic-1)
+aux(honor-4, would-2)
+neg(honor-4, not-3)
+root(ROOT-0, honor-4)
+det(warranty-6, the-5)
+dobj(honor-4, warranty-6)
+partmod(honor-4, saying-8)
+xcomp(honor-4, saying-8)
+det(abuse-12, the-9)
+amod(abuse-12, dent-10)
+amod(abuse-12, indicated-11)
+dobj(saying-8, abuse-12)
+
+=========
+
+nsubj(offered-2, They-1)
+root(ROOT-0, offered-2)
+iobj(offered-2, me-3)
+det(unit-6, a-4)
+amod(unit-6, refurbished-5)
+dobj(offered-2, unit-6)
+det(warranty-11, a-8)
+num(warranty-11, 90-9)
+nn(warranty-11, day-10)
+prep_with(unit-6, warranty-11)
+det($-14, a-13)
+prep_for(warranty-11, $-14)
+num($-14, 192.50-15)
+
+=========
+
+nsubj(refused-2, I-1)
+root(ROOT-0, refused-2)
+
+=========
+
+nsubj(think-4, I-1)
+aux(think-4, do-2)
+neg(think-4, not-3)
+dep(robust-8, think-4)
+det(camera-6, the-5)
+dobj(think-4, camera-6)
+cop(robust-8, is-7)
+root(ROOT-0, robust-8)
+conj_or(robust-8, worth-10)
+det($-12, the-11)
+nsubj(robust-8, $-12)
+nsubj(worth-10, $-12)
+num($-12, s-13)
+prepc_compared_to($-12, to-15)
+pobj($-12, competitors-16)
+
+=========
+
+nsubj(put-3, I-1)
+nsubj(Canon-13, I-1)
+aux(put-3, will-2)
+root(ROOT-0, put-3)
+det($-5, the-4)
+dobj(put-3, $-5)
+num($-5, 192.50-6)
+det(Nikon-9, a-8)
+prep_toward($-5, Nikon-9)
+prep_toward($-5, Olympus-11)
+conj_or(Nikon-9, Olympus-11)
+conj_or(put-3, Canon-13)
+dobj(Canon-13, camera-14)
+advmod(Canon-13, instead-15)
+
+=========
+
+advmod(designed-8, Again-1)
+det(program-6, the-3)
+nn(program-6, Panasonic-4)
+nn(program-6, warranty-5)
+nsubjpass(designed-8, program-6)
+xsubj(refuse-10, program-6)
+auxpass(designed-8, seems-7)
+root(ROOT-0, designed-8)
+aux(refuse-10, to-9)
+xcomp(designed-8, refuse-10)
+amod(repairs-13, honest-11)
+nn(repairs-13, warranty-12)
+dobj(refuse-10, repairs-13)
+

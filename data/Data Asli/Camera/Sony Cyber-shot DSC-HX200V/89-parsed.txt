@@ -1,0 +1,106 @@
+=========
+
+det(camera-2, This-1)
+nsubj(ceases-4, camera-2)
+xsubj(blow-6, camera-2)
+neg(ceases-4, never-3)
+root(ROOT-0, ceases-4)
+aux(blow-6, to-5)
+xcomp(ceases-4, blow-6)
+poss(mind-8, my-7)
+dobj(blow-6, mind-8)
+det(images-13, the-10)
+amod(images-13, high-11)
+nn(images-13, quality-12)
+prep_with(blow-6, images-13)
+dobj(produces-15, images-13)
+nsubj(produces-15, it-14)
+rcmod(images-13, produces-15)
+
+=========
+
+det(shots-2, The-1)
+nsubj(spectacular-4, shots-2)
+cop(spectacular-4, are-3)
+root(ROOT-0, spectacular-4)
+nsubj(disappoints-8, it-6)
+neg(disappoints-8, never-7)
+conj_and(spectacular-4, disappoints-8)
+
+=========
+
+prep_of(deliver-7, course-2)
+nsubj(deliver-7, it-4)
+aux(deliver-7, does-5)
+neg(deliver-7, not-6)
+root(ROOT-0, deliver-7)
+amod(quality-9, DSLR-8)
+dobj(deliver-7, quality-9)
+nsubj(come-14, they-12)
+advmod(come-14, still-13)
+conj_but(deliver-7, come-14)
+dep(amazing-16, out-15)
+acomp(come-14, amazing-16)
+
+=========
+
+cc(cool-7, And-1)
+det(zoom-4, the-2)
+amod(zoom-4, super-3)
+nsubj(cool-7, zoom-4)
+cop(cool-7, is-5)
+advmod(cool-7, so-6)
+root(ROOT-0, cool-7)
+
+=========
+
+nsubj(used-3, I-1)
+xsubj(capture-14, I-1)
+aux(used-3, have-2)
+root(ROOT-0, used-3)
+dobj(used-3, it-4)
+det(course-7, the-6)
+prep_over(used-3, course-7)
+det(evenings-12, the-9)
+amod(evenings-12, last-10)
+amod(evenings-12, few-11)
+prep_of(course-7, evenings-12)
+aux(capture-14, to-13)
+xcomp(used-3, capture-14)
+dobj(capture-14, images-15)
+amod(Panstarrs-18, comet-17)
+prep_of(images-15, Panstarrs-18)
+
+=========
+
+nsubj(brilliant-3, They-1)
+nsubj(look-5, They-1)
+cop(brilliant-3, are-2)
+root(ROOT-0, brilliant-3)
+conj_and(brilliant-3, look-5)
+mwe(than-7, better-6)
+quantmod(some-8, than-7)
+dobj(look-5, some-8)
+det(more-11, the-10)
+prep_of(some-8, more-11)
+num(photos-15, &#34;-12)
+amod(photos-15, professional-13)
+num(photos-15, &#34;-14)
+dobj(brilliant-3, photos-15)
+dobj(seen-18, photos-15)
+nsubj(seen-18, I-16)
+aux(seen-18, have-17)
+rcmod(photos-15, seen-18)
+det(comet-21, the-20)
+prep_of(seen-18, comet-21)
+
+=========
+
+root(ROOT-0, Buy-1)
+det(camera-3, this-2)
+dobj(Buy-1, camera-3)
+nsubj(disappoint-8, it-5)
+aux(disappoint-8, will-6)
+neg(disappoint-8, not-7)
+parataxis(Buy-1, disappoint-8)
+

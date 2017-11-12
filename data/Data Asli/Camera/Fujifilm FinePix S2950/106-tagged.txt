@@ -1,0 +1,7 @@
+I_PRP probably_RB had_VBD the_DT defective_JJ camera_NN ._.
+I_PRP had_VBD it_PRP on_IN auto_NN mode_NN ._.
+The_DT images_NNS were_VBD cloudy\/smudgy_JJ indoors_NNS even_RB with_IN flash_NN ._.
+I_PRP did_VBD not_RB bother_VB to_TO try_VB the_DT rest_NN of_IN the_DT settings_NNS ._.
+I_PRP returned_VBD it_PRP and_CC bought_VBD a_DT different_JJ camera_NN ._.
+For_IN example_NN ,_, I_PRP took_VBD photos_NNS of_IN flowers_NNS in_IN a_DT vase_NN ._.
+The_DT flowers_NNS were_VBD not_RB defined_VBN and_CC looked_VBN like_IN the_DT colors_NNS were_VBD scattering_VBG -LRB-_-LRB- like_IN a_DT smudge_NN -RRB-_-RRB- ._.

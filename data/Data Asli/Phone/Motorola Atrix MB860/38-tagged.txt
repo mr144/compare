@@ -1,0 +1,4 @@
+I_PRP like_VBP the_DT cellphone_NN ._.
+It_PRP has_VBZ a_DT lot_NN of_IN great_JJ features_NNS ._.
+But_CC it_PRP get_VB slow_JJ sometimes_RB ,_, which_WDT i_FW thought_VBD that_IN it_PRP will_MD never_RB get_VB because_IN of_IN the_DT Dual_NNP Core_NNP ._.
+Perhaps_RB is_VBZ a_DT great_JJ phone_NN taking_VBG into_IN account_NN the_DT price_NN ._.

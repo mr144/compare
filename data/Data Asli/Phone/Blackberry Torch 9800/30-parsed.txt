@@ -1,0 +1,48 @@
+=========
+
+nsubj(had-2, I-1)
+xsubj(buy-4, I-1)
+root(ROOT-0, had-2)
+aux(buy-4, to-3)
+xcomp(had-2, buy-4)
+det(phone-6, this-5)
+dobj(buy-4, phone-6)
+dep(phone-6, coincidentally-7)
+mark(broke-11, after-8)
+poss(curve-10, my-9)
+nsubj(broke-11, curve-10)
+dep(coincidentally-7, broke-11)
+
+=========
+
+prep_to(reasonable-7, me-2)
+amod(price-4, d-3)
+nsubj(reasonable-7, price-4)
+cop(reasonable-7, is-5)
+advmod(reasonable-7, very-6)
+root(ROOT-0, reasonable-7)
+det(phone-12, this-9)
+advmod(nice-11, very-10)
+amod(phone-12, nice-11)
+prep_for(reasonable-7, phone-12)
+
+=========
+
+root(ROOT-0, Overall-1)
+nsubj(love-3, I-2)
+dep(Overall-1, love-3)
+dobj(love-3, it-4)
+poss(I-8, its-6)
+nn(I-8, everything-7)
+nsubj(thought-9, I-8)
+dep(Overall-1, thought-9)
+conj_and(love-3, thought-9)
+nsubj(so-14, it-10)
+aux(so-14, would-11)
+cop(so-14, be-12)
+cc(so-14, and-13)
+ccomp(thought-9, so-14)
+advmod(more-16, much-15)
+advmod(so-14, more-16)
+dep(Overall-1, D-18)
+

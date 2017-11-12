@@ -1,0 +1,14 @@
+Have_NNP G1_NNP and_CC happy_JJ with_IN it_PRP ._.
+Purchased_VBN Nexus_NNP One_CD and_CC only_RB had_VBD problems_NNS ._.
+Very_RB disappointing_JJ ._.
+After_IN a_DT few_JJ days_NNS phone_NN started_VBD to_TO reboot_VB sporadically_RB ._.
+At_IN first_JJ ,_, while_IN being_VBG charged_VBN ._.
+It_PRP would_MD shut_VB down_RB and_CC come_VB back_RB up_RB ._.
+Now_RB it_PRP just_RB shuts_VBZ down_RB and_CC then_RB gets_VBZ stuck_VBN on_RP during_IN initial_JJ sequence_NN ,_, showing_VBG the_DT X-logo_NNP ._.
+Soft_JJ reboot_NN -LRB-_-LRB- power_NN +_NN volume_NN +_NN trackball_NN -RRB-_-RRB- does_VBZ not_RB help_VB and_CC have_VB to_TO hard_JJ boot_NN it_PRP -LRB-_-LRB- by_IN removing_VBG battery_NN -RRB-_-RRB- few_JJ times_NNS a_DT day_NN ._.
+Can_MD not_RB return_VB it_PRP ,_, since_IN two_CD weeks_NNS had_VBD passed_VBN ._.
+HTC_NNP has_VBZ a_DT warranty_NN and_CC will_MD replace_VB it_PRP ,_, but_CC customer_NN service_NN rep._NN said_VBD they_PRP get_VBP A_DT LOT_NN of_IN calls_NNS like_IN that_DT with_IN the_DT same_JJ problem_NN ._.
+It_PRP did_VBD sound_VB like_IN HTC_NNP has_VBZ a_DT hardware_NN issue_NN with_IN this_DT phone_NN ._.
+Buyers_NNS beware_VBP ._.
+After_IN that_DT experience_NN would_MD drop_VB Tmobile\/Nexus_NNP one_CD in_IN a_DT heartbeat_NN for_IN iPhone_NNP but_CC ATT_NNP pulled_VBD a_DT plug_NN on_IN unlimited_JJ data_NNS plan_NN ,_, sigh_NN ._.
+This_DT phone_NN is_VBZ the_DT best_JJS ._.

@@ -1,0 +1,29 @@
+=========
+
+det(equipament-2, The-1)
+nsubj(has-3, equipament-2)
+root(ROOT-0, has-3)
+det(problem-5, a-4)
+dobj(has-3, problem-5)
+
+=========
+
+root(ROOT-0, Is-1)
+prep_in(Is-1, Canon-3)
+aux(fix-5, to-4)
+xcomp(Is-1, fix-5)
+num(Err-7, &#34;-6)
+dobj(fix-5, Err-7)
+number(&#34;-9, 06-8)
+num(Err-7, &#34;-9)
+
+=========
+
+num(weeks-2, Two-1)
+nsubj(ocurred-8, weeks-2)
+prep_of(weeks-2, use-4)
+det(problem-7, the-6)
+prep_of(weeks-2, problem-7)
+conj_and(use-4, problem-7)
+root(ROOT-0, ocurred-8)
+

@@ -1,0 +1,5 @@
+I_PRP have_VBP had_VBN 2_CD of_IN these_DT TV_NN now_RB and_CC both_DT have_VBP the_DT same_JJ problem_NN ._.
+When_WRB the_DT screen_NN is_VBZ light\/white_JJ you_PRP 'll_MD see_VB `_`` black_JJ clouds_NNS '_POS ._.
+From_IN reading_VBG other_JJ reviews_NNS it_PRP seems_VBZ like_IN this_DT is_VBZ a_DT big_JJ problem_NN for_IN this_DT TV_NN ._.
+When_WRB the_DT background_NN is_VBZ not_RB light\/white_JJ and_CC I_PRP do_VBP not_RB see_VB the_DT `_`` black_JJ clouds_NNS '_POS the_DT picture_NN is_VBZ nice_JJ -LRB-_-LRB- although_IN during_IN fast_JJ action_NN ,_, like_IN during_IN a_DT baseball_NN game_NN ,_, sometimes_RB the_DT picture_NN does_VBZ get_VB pixelated_VBN -RRB-_-RRB- ._.
+Buyer_NNP beware_NN ._.

@@ -1,0 +1,68 @@
+=========
+
+det(TV-2, The-1)
+nsubj(works-3, TV-2)
+root(ROOT-0, works-3)
+dobj(works-3, ok-4)
+
+=========
+
+det(control-3, The-1)
+amod(control-3, remote-2)
+nsubj(lasted-4, control-3)
+root(ROOT-0, lasted-4)
+quantmod(5-6, only-5)
+num(weeks-7, 5-6)
+tmod(lasted-4, weeks-7)
+
+=========
+
+nsubj(guarantee-3, They-1)
+advmod(guarantee-3, only-2)
+root(ROOT-0, guarantee-3)
+det(replacement-5, a-4)
+dobj(guarantee-3, replacement-5)
+num(weeks-8, 4-7)
+prep_for(replacement-5, weeks-8)
+
+=========
+
+nsubj(called-2, I-1)
+root(ROOT-0, called-2)
+det(Dept-6, the-3)
+nn(Dept-6, Customer-4)
+nn(Dept-6, Service-5)
+dobj(called-2, Dept-6)
+nsubj(gave-9, they-8)
+conj_and(called-2, gave-9)
+iobj(gave-9, me-10)
+det(run-12, a-11)
+dobj(gave-9, run-12)
+advmod(gave-9, around-13)
+
+=========
+
+nsubj(remains-2, It-1)
+xsubj(seen-5, It-1)
+root(ROOT-0, remains-2)
+aux(seen-5, to-3)
+auxpass(seen-5, be-4)
+xcomp(remains-2, seen-5)
+advmod(long-7, how-6)
+advmod(last-11, long-7)
+det(TV-9, the-8)
+nsubj(last-11, TV-9)
+aux(last-11, will-10)
+ccomp(seen-5, last-11)
+mark(months-18, as-12)
+nsubj(months-18, it-13)
+aux(months-18, has-14)
+advmod(months-18, only-15)
+cop(months-18, been-16)
+num(months-18, 3-17)
+advcl(last-11, months-18)
+mark(purchased-21, since-19)
+nsubj(purchased-21, I-20)
+advcl(months-18, purchased-21)
+dobj(purchased-21, it-22)
+

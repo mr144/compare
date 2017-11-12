@@ -1,0 +1,204 @@
+=========
+
+advmod(brought-4, Hi-1)
+nsubj(brought-4, I-3)
+root(ROOT-0, brought-4)
+nn(Phone-10, Google-6)
+nn(Phone-10, Nexus-7)
+nn(Phone-10, One-8)
+nn(Phone-10, Unlocked-9)
+dobj(brought-4, Phone-10)
+prep_with(Phone-10, Android-12)
+nn(Warranty-15, U.S.-14)
+dep(Android-12, Warranty-15)
+appos(Android-12, Brown-17)
+det(seller-22, this-21)
+prep_from(brought-4, seller-22)
+
+=========
+
+advmod(started-9, Right-1)
+amod(days-4, few-3)
+prep_after(Right-1, days-4)
+prep_of(days-4, buying-6)
+poss(phone-8, my-7)
+nsubj(started-9, phone-8)
+root(ROOT-0, started-9)
+xcomp(started-9, hanging-10)
+advmod(used-13, when-11)
+nsubj(used-13, I-12)
+xsubj(talk-15, I-12)
+advcl(hanging-10, used-13)
+aux(talk-15, to-14)
+xcomp(used-13, talk-15)
+
+=========
+
+nsubj(continued-2, It-1)
+root(ROOT-0, continued-2)
+det(days-5, some-4)
+prep_for(continued-2, days-5)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+det(reset-5, the-3)
+nn(reset-5, factory-4)
+dobj(did-2, reset-5)
+nsubj(got-8, it-7)
+nsubj(started-12, it-7)
+conj_and(did-2, got-8)
+acomp(got-8, fine-9)
+conj_and(did-2, again-11)
+advmod(got-8, again-11)
+conj_but(got-8, again-11)
+conj_and(did-2, started-12)
+conj_but(got-8, started-12)
+
+=========
+
+advmod(stopped-4, Then-1)
+det(headphone-3, the-2)
+nsubj(stopped-4, headphone-3)
+root(ROOT-0, stopped-4)
+xcomp(stopped-4, working-5)
+
+=========
+
+nsubj(tried-2, I-1)
+xsubj(manage-4, I-1)
+root(ROOT-0, tried-2)
+aux(manage-4, to-3)
+xcomp(tried-2, manage-4)
+advmod(manage-4, even-5)
+prep_without(manage-4, headphone-7)
+
+=========
+
+advmod(started-6, Then-1)
+advmod(started-6, slowly-2)
+det(problem-5, a-3)
+amod(problem-5, new-4)
+nsubj(started-6, problem-5)
+root(ROOT-0, started-6)
+det(phone-9, The-8)
+nsubj(started-10, phone-9)
+parataxis(started-6, started-10)
+xcomp(started-10, giving-11)
+dobj(giving-11, trouble-12)
+prepc_while(giving-11, charging-14)
+
+=========
+
+nsubj(continued-2, It-1)
+root(ROOT-0, continued-2)
+amod(days-5, few-4)
+prep_for(continued-2, days-5)
+advmod(continued-2, then-7)
+conj_and(continued-2, then-7)
+nsubj(charge-11, it-8)
+aux(charge-11, does-9)
+neg(charge-11, not-10)
+ccomp(continued-2, charge-11)
+advmod(charge-11, at-12)
+pobj(at-12, all-13)
+
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+det(chargers-5, all-3)
+amod(chargers-5, different-4)
+dobj(tried-2, chargers-5)
+
+=========
+
+cc(charging-5, But-1)
+nsubj(charging-5, it-2)
+aux(charging-5, is-3)
+neg(charging-5, not-4)
+root(ROOT-0, charging-5)
+
+=========
+
+nsubj(spent-2, I-1)
+root(ROOT-0, spent-2)
+quantmod($-4, almost-3)
+dobj(spent-2, $-4)
+number($-4, 300-5)
+det(phone-8, the-7)
+prep_for(spent-2, phone-8)
+nsubj(did-11, it-10)
+conj_and(spent-2, did-11)
+neg(last-14, not-12)
+advmod(last-14, even-13)
+dobj(did-11, last-14)
+num(months-17, 5-6-16)
+prep_for(did-11, months-17)
+
+=========
+
+nsubj(user-5, I-1)
+cop(user-5, am-2)
+neg(user-5, not-3)
+amod(user-5, rough-4)
+root(ROOT-0, user-5)
+prep_of(user-5, phone-7)
+
+=========
+
+poss(uses-2, My-1)
+nsubj(minutes-6, uses-2)
+cop(minutes-6, are-3)
+advmod(minutes-6, hardly-4)
+num(minutes-6, 20-30-5)
+root(ROOT-0, minutes-6)
+det(day-8, each-7)
+dep(minutes-6, day-8)
+
+=========
+
+cc(last-7, But-1)
+advmod(last-7, then-2)
+advmod(last-7, also-3)
+nsubj(last-7, it-4)
+aux(last-7, did-5)
+neg(last-7, not-6)
+root(ROOT-0, last-7)
+
+=========
+
+nsubj(disappointed-3, I-1)
+cop(disappointed-3, am-2)
+root(ROOT-0, disappointed-3)
+
+=========
+
+nsubj(want-4, I-1)
+xsubj(give-6, I-1)
+aux(want-4, do-2)
+neg(want-4, not-3)
+root(ROOT-0, want-4)
+aux(give-6, to-5)
+xcomp(want-4, give-6)
+amod(feedback-8, bad-7)
+iobj(give-6, feedback-8)
+iobj(give-6, spoil-10)
+conj_and(feedback-8, spoil-10)
+poss(name-13, somebody-11)
+dobj(give-6, name-13)
+det(time-18, the-16)
+amod(time-18, same-17)
+prep_at(want-22, time-18)
+nsubj(want-22, I-19)
+aux(want-22, do-20)
+neg(want-22, not-21)
+conj_but(want-4, want-22)
+nsubj(spend-25, people-23)
+aux(spend-25, to-24)
+xcomp(want-22, spend-25)
+dobj(spend-25, money-26)
+amod(products-29, bad-28)
+prep_on(spend-25, products-29)
+

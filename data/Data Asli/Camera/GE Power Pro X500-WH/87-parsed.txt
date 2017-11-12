@@ -1,0 +1,107 @@
+=========
+
+amod(camera-2, Amazing-1)
+root(ROOT-0, camera-2)
+
+=========
+
+nsubj(paid-3, I-1)
+aux(paid-3, have-2)
+root(ROOT-0, paid-3)
+det(lot-5, a-4)
+npadvmod(more-6, lot-5)
+advmod(paid-3, more-6)
+advmod(less-9, much-8)
+amod(quality-10, less-9)
+prep_for(paid-3, quality-10)
+prep_for(paid-3, performance-12)
+conj_and(quality-10, performance-12)
+
+=========
+
+nsubj(jiggler-4, I-1)
+cop(jiggler-4, am-2)
+det(jiggler-4, a-3)
+root(ROOT-0, jiggler-4)
+nsubj(tried-7, I-6)
+xsubj(jiggle-9, I-6)
+conj_and(jiggler-4, tried-7)
+aux(jiggle-9, to-8)
+xcomp(tried-7, jiggle-9)
+det(camera-11, the-10)
+dobj(jiggle-9, camera-11)
+mark(taking-15, while-12)
+nsubj(taking-15, I-13)
+aux(taking-15, was-14)
+advcl(jiggle-9, taking-15)
+det(photo-17, a-16)
+dobj(taking-15, photo-17)
+
+=========
+
+nsubj(photo-5, It-1)
+cop(photo-5, was-2)
+det(photo-5, an-3)
+amod(photo-5, excellent-4)
+root(ROOT-0, photo-5)
+
+=========
+
+det(BLURRING-2, NO-1)
+root(ROOT-0, BLURRING-2)
+
+=========
+
+det(camera-2, This-1)
+nsubj(easy-5, camera-2)
+xsubj(use-7, camera-2)
+cop(easy-5, is-3)
+advmod(easy-5, extremely-4)
+root(ROOT-0, easy-5)
+aux(use-7, to-6)
+xcomp(easy-5, use-7)
+nsubj(going-11, I-9)
+xsubj(tell-13, I-9)
+aux(going-11, am-10)
+conj_and(easy-5, going-11)
+aux(tell-13, to-12)
+xcomp(going-11, tell-13)
+predet(friends-16, all-14)
+poss(friends-16, my-15)
+dobj(tell-13, friends-16)
+prep_about(tell-13, it-18)
+
+=========
+
+nsubj(prefer-2, I-1)
+root(ROOT-0, prefer-2)
+det(viewfinder-4, a-3)
+nsubj(take-6, viewfinder-4)
+aux(take-6, to-5)
+xcomp(prefer-2, take-6)
+dobj(take-6, photos-7)
+advmod(outdoors-10, especially-9)
+dep(tell-19, outdoors-10)
+det(day-14, a-12)
+amod(day-14, sunny-13)
+prep_on(outdoors-10, day-14)
+advmod(tell-19, where-15)
+nsubj(tell-19, you-16)
+aux(tell-19, can-17)
+neg(tell-19, not-18)
+dep(prefer-2, tell-19)
+dobj(aiming-23, what-20)
+nsubj(aiming-23, you-21)
+aux(aiming-23, are-22)
+ccomp(tell-19, aiming-23)
+prep(aiming-23, at-24)
+pcomp(at-24, without-25)
+det(viewfinder-27, a-26)
+prep_without(at-24, viewfinder-27)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+

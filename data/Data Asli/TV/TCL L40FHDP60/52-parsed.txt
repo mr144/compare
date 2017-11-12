@@ -1,0 +1,72 @@
+=========
+
+det(price-3, A-1)
+amod(price-3, great-2)
+root(ROOT-0, price-3)
+det(HDTV-6, this-5)
+prep_on(price-3, HDTV-6)
+
+=========
+
+nsubj(picture-2, Good-1)
+root(ROOT-0, picture-2)
+advmod(angle-6, almost-4)
+det(angle-6, any-5)
+prep_from(picture-2, angle-6)
+
+=========
+
+det(issue-3, The-1)
+amod(issue-3, only-2)
+dobj(had-5, issue-3)
+nsubj(is-6, issue-3)
+nsubj(had-5, I-4)
+rcmod(issue-3, had-5)
+root(ROOT-0, is-6)
+complm(is-9, that-7)
+expl(is-9, there-8)
+ccomp(is-6, is-9)
+det(output-13, no-10)
+amod(output-13, standard-11)
+nn(output-13, hifi-12)
+nsubj(is-9, output-13)
+prep_for(output-13, sound-15)
+poss(speaker-19, my-17)
+amod(speaker-19, surround-18)
+prep_to(sound-15, speaker-19)
+partmod(speaker-19, set-20)
+prt(set-20, up-21)
+
+=========
+
+root(ROOT-0, Had-1)
+aux(get-3, to-2)
+xcomp(Had-1, get-3)
+det(adapter-5, an-4)
+dobj(get-3, adapter-5)
+aux(use-7, to-6)
+infmod(adapter-5, use-7)
+det(jack-11, the-8)
+nn(jack-11, ear-9)
+nn(jack-11, phone-10)
+dobj(use-7, jack-11)
+det(audio-14, an-13)
+prep_as(jack-11, audio-14)
+prt(use-7, out-15)
+
+=========
+
+cc(sound-4, But-1)
+advmod(sound-4, now-2)
+nsubj(sound-4, it-3)
+root(ROOT-0, sound-4)
+acomp(sound-4, perfect-5)
+
+=========
+
+root(ROOT-0, Great-1)
+dep(Great-1, price-2)
+amod(ahipping-5, fast-4)
+dep(Great-1, ahipping-5)
+conj_and(price-2, ahipping-5)
+

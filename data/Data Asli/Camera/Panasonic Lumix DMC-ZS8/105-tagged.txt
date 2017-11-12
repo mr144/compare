@@ -1,0 +1,3 @@
+The_DT camera_NN takes_VBZ excellent_JJ pictures_NNS !_.
+The_DT zoom_NN is_VBZ really_RB good_JJ ,_, and_CC it_PRP captures_VBZ colors_NNS just_RB beautifully_RB ._.
+The_DT only_JJ thing_NN I_PRP would_MD improve_VB is_VBZ the_DT battery_NN ,_, would_MD be_VB nice_JJ if_IN it_PRP lasted_VBD longer_RB ._.

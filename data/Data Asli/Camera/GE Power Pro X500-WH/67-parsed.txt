@@ -1,0 +1,106 @@
+=========
+
+nsubj(considered-2, I-1)
+nsubj(regret-10, I-1)
+root(ROOT-0, considered-2)
+xcomp(considered-2, buying-3)
+det(Nikon-5, the-4)
+dobj(buying-3, Nikon-5)
+det(day-8, that-6)
+amod(day-8, same-7)
+tmod(buying-3, day-8)
+conj_and(considered-2, regret-10)
+neg(choosing-12, not-11)
+ccomp(regret-10, choosing-12)
+xcomp(regret-10, choosing-12)
+dobj(choosing-12, it-13)
+det(GE-16, this-15)
+prep_over(choosing-12, GE-16)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(problem-4, a-3)
+nsubj(is-2, problem-4)
+det(focus-8, the-6)
+nn(focus-8, auto-7)
+prep_with(problem-4, focus-8)
+
+=========
+
+det(time-3, the-2)
+prep_by(take-5, time-3)
+nsubj(take-5, you-4)
+root(ROOT-0, take-5)
+det(picture-7, the-6)
+dobj(take-5, picture-7)
+mark(zooms-12, after-8)
+det(focus-11, the-9)
+nn(focus-11, auto-10)
+nsubj(zooms-12, focus-11)
+advcl(take-5, zooms-12)
+prt(zooms-12, in-13)
+dep(in-13, and-14)
+dep(in-13, out-15)
+det(subject-17, the-16)
+nsubjpass(changed-19, subject-17)
+auxpass(changed-19, is-18)
+ccomp(zooms-12, changed-19)
+
+=========
+
+advmod(using-2, When-1)
+advcl(comes-11, using-2)
+dobj(using-2, it-3)
+amod(photos-6, still-5)
+prep_for(using-2, photos-6)
+det(photo-9, the-8)
+nsubj(comes-11, photo-9)
+advmod(comes-11, always-10)
+root(ROOT-0, comes-11)
+prt(comes-11, out-12)
+advmod(comes-11, blurry-13)
+det(blurry-13, no-14)
+dep(blurry-13, matter-15)
+advmod(try-18, how-16)
+nsubj(try-18, you-17)
+xsubj(adjust-20, you-17)
+ccomp(comes-11, try-18)
+aux(adjust-20, to-19)
+xcomp(try-18, adjust-20)
+det(settings-22, the-21)
+dobj(adjust-20, settings-22)
+
+=========
+
+det(settings-2, The-1)
+nsubj(burdensome-4, settings-2)
+cop(burdensome-4, are-3)
+root(ROOT-0, burdensome-4)
+aux(adjust-6, to-5)
+xcomp(burdensome-4, adjust-6)
+amod(settings-9, most-8)
+prep_in(adjust-6, settings-9)
+
+=========
+
+det(photos-4, The-1)
+amod(photos-4, only-2)
+amod(photos-4, good-3)
+nsubjpass(taken-6, photos-4)
+auxpass(taken-6, are-5)
+root(ROOT-0, taken-6)
+prep_in(taken-6, daylight-8)
+prep_in(taken-6, outside-10)
+conj_or(daylight-8, outside-10)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, can-2)
+neg(recommend-4, not-3)
+root(ROOT-0, recommend-4)
+det(camera-6, this-5)
+dobj(recommend-4, camera-6)
+

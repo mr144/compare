@@ -1,0 +1,29 @@
+=========
+
+amod(camera-3, Excellent-1)
+amod(camera-3, little-2)
+root(ROOT-0, camera-3)
+amod(features-6, more-5)
+appos(camera-3, features-6)
+dobj(expected-9, features-6)
+mark(expected-9, than-7)
+nsubj(expected-9, I-8)
+dep(features-6, expected-9)
+
+=========
+
+nsubj(beats-9, Easy-1)
+nsubj(shoot-15, Easy-1)
+nn(menu-4, use-3)
+prep_to(Easy-1, menu-4)
+amod(lens-7, great-6)
+prep_to(Easy-1, lens-7)
+conj_and(menu-4, lens-7)
+advmod(beats-9, sure-8)
+root(ROOT-0, beats-9)
+poss(point-13, my-10)
+amod(point-13, previous-11)
+amod(point-13, digital-12)
+dobj(beats-9, point-13)
+conj_and(beats-9, shoot-15)
+

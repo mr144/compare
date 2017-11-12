@@ -1,0 +1,77 @@
+=========
+
+det(camera-2, This-1)
+nsubj(is-3, camera-2)
+root(ROOT-0, is-3)
+dep(wanted-7, exactly-4)
+dep(exactly-4, what-5)
+nsubj(wanted-7, I-6)
+ccomp(is-3, wanted-7)
+
+=========
+
+advmod(have-2, Still-1)
+root(ROOT-0, have-2)
+nsubj(learn-5, tons-3)
+aux(learn-5, to-4)
+ccomp(have-2, learn-5)
+xcomp(have-2, learn-5)
+prt(learn-5, on-6)
+advmod(use-10, how-8)
+aux(use-10, to-9)
+ccomp(learn-5, use-10)
+xcomp(learn-5, use-10)
+advmod(use-10, properly-12)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(amazing-4, zoom-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+dep(amazing-4, captures-6)
+poss(birds-8, my-7)
+dobj(captures-6, birds-8)
+advmod(captures-6, easily-9)
+
+=========
+
+aux(taken-2, Have-1)
+csubj(pix-3, taken-2)
+root(ROOT-0, pix-3)
+amod(door-6, thru-4)
+nn(door-6, storm-5)
+dobj(pix-3, door-6)
+nsubj(clear-12, they-9)
+cop(clear-12, were-10)
+advmod(clear-12, as-11)
+conj_and(pix-3, clear-12)
+advmod(if-14, as-13)
+advmod(clear-12, if-14)
+advmod(if-14, outside-15)
+
+=========
+
+nsubj(helped-2, Friends-1)
+root(ROOT-0, helped-2)
+nsubj(choose-4, me-3)
+ccomp(helped-2, choose-4)
+det(camera-6, this-5)
+dobj(choose-4, camera-6)
+nsubjpass(didead-10, they-8)
+auxpass(didead-10, were-9)
+parataxis(helped-2, didead-10)
+prt(didead-10, on-11)
+dobj(needed-16, what-14)
+nsubj(needed-16, I-15)
+prepc_for(didead-10, needed-16)
+
+=========
+
+csubj(w\/this-7, Looking-1)
+dobj(Looking-1, fwd-2)
+prep_to(Looking-1, years-4)
+prep_of(years-4, fun-6)
+root(ROOT-0, w\/this-7)
+dobj(w\/this-7, camera-8)
+

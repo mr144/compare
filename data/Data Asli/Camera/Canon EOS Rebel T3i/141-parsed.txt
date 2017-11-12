@@ -1,0 +1,139 @@
+=========
+
+nsubj(everything-3, This-1)
+cop(everything-3, is-2)
+root(ROOT-0, everything-3)
+dobj(wanted-7, everything-3)
+nsubj(wanted-7, I-4)
+aux(wanted-7, have-5)
+advmod(wanted-7, ever-6)
+rcmod(everything-3, wanted-7)
+det(camera-10, a-9)
+prep_in(wanted-7, camera-10)
+
+=========
+
+advmod(came-3, When-1)
+nsubj(came-3, this-2)
+advcl(rolled-15, came-3)
+det(mail-6, the-5)
+prep_in(was-8, mail-6)
+nsubj(was-8, it-7)
+ccomp(came-3, was-8)
+prep_like(was-8, Christmas-10)
+poss(birthday-13, my-12)
+prep_like(was-8, birthday-13)
+conj_and(Christmas-10, birthday-13)
+nsubj(rolled-15, all-14)
+root(ROOT-0, rolled-15)
+prep_into(rolled-15, one-17)
+
+=========
+
+nsubj(looked-4, I-1)
+nsubj(upgraded-9, I-1)
+aux(looked-4, had-2)
+advmod(looked-4, originally-3)
+root(ROOT-0, looked-4)
+det(T3-7, the-6)
+prep_at(looked-4, T3-7)
+conj_but(looked-4, upgraded-9)
+det(T3i-12, the-11)
+prep_to(upgraded-9, T3i-12)
+amod(features-15, more-14)
+prep_for(T3i-12, features-15)
+
+=========
+
+det(T3i-2, The-1)
+nsubj(has-4, T3i-2)
+advmod(has-4, also-3)
+root(ROOT-0, has-4)
+dobj(has-4, grips-5)
+det(camera-8, the-7)
+prep_on(grips-5, camera-8)
+partmod(camera-8, making-9)
+nsubj(MUCH-11, it-10)
+ccomp(making-9, MUCH-11)
+advmod(comfortable-13, more-12)
+acomp(MUCH-11, comfortable-13)
+aux(hold-15, to-14)
+xcomp(comfortable-13, hold-15)
+amod(periods-18, long-17)
+prep_for(hold-15, periods-18)
+prep_of(periods-18, time-20)
+
+=========
+
+nsubj(happy-3, I-1)
+cop(happy-3, was-2)
+root(ROOT-0, happy-3)
+complm(came-6, that-4)
+nsubj(came-6, it-5)
+xsubj(hook-13, it-5)
+ccomp(happy-3, came-6)
+advmod(many-9, so-8)
+amod(cords-11, many-9)
+amod(cords-11, different-10)
+prep_with(came-6, cords-11)
+aux(hook-13, to-12)
+xcomp(came-6, hook-13)
+prt(hook-13, up-14)
+poss(electronics-19, my-16)
+amod(electronics-19, various-17)
+amod(electronics-19, other-18)
+prep_to(hook-13, electronics-19)
+
+=========
+
+det(downside-3, The-1)
+amod(downside-3, SINGLE-2)
+nsubj(is-7, downside-3)
+det(camera-6, this-5)
+prep_to(downside-3, camera-6)
+root(ROOT-0, is-7)
+complm(has-10, that-8)
+nsubj(has-10, it-9)
+ccomp(is-7, has-10)
+det(memory-13, no-11)
+amod(memory-13, internal-12)
+dobj(has-10, memory-13)
+
+=========
+
+nsubj(have-2, You-1)
+xsubj(have-4, You-1)
+root(ROOT-0, have-2)
+aux(have-4, to-3)
+xcomp(have-2, have-4)
+det(card-7, an-5)
+nn(card-7, SD-6)
+dobj(have-4, card-7)
+prep_in(have-4, it-9)
+aux(use-11, to-10)
+xcomp(have-4, use-11)
+dobj(use-11, it-12)
+
+=========
+
+cc(deal-8, But-1)
+advmod(deal-8, really-2)
+nsubj(deal-8, that-4)
+cop(deal-8, 's-5)
+neg(deal-8, not-6)
+amod(deal-8, big-7)
+root(ROOT-0, deal-8)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, 2-3)
+
+=========
+
+nsubj(cheap-4, They-1)
+cop(cheap-4, are-2)
+advmod(cheap-4, really-3)
+root(ROOT-0, cheap-4)
+

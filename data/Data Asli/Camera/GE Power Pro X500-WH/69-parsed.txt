@@ -1,0 +1,28 @@
+=========
+
+root(ROOT-0, Takes-1)
+amod(photos-3, excellent-2)
+dobj(Takes-1, photos-3)
+prep_in(photos-3, daylight-5)
+
+=========
+
+root(ROOT-0, Has-1)
+det(problem-3, a-2)
+dobj(Has-1, problem-3)
+partmod(problem-3, focusing-4)
+amod(zoom-10, full-6)
+num(times-8, 15-7)
+dep(full-6, times-8)
+amod(zoom-10, optical-9)
+prep_at(focusing-4, zoom-10)
+
+=========
+
+root(ROOT-0, Like-1)
+det(size-3, the-2)
+pobj(Like-1, size-3)
+pobj(Like-1, feel-5)
+conj_and(size-3, feel-5)
+prep_of(size-3, it-7)
+

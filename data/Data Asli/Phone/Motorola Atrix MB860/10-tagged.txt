@@ -1,0 +1,3 @@
+I_PRP am_VBP very_RB satisfied_JJ with_IN the_DT product_NN ,_, is_VBZ what_WP I_PRP needed_VBD and_CC performance_NN is_VBZ good_JJ ._.
+recommended_VBD its_PRP$ acquisition_NN ._.
+is_VBZ ok_JJ

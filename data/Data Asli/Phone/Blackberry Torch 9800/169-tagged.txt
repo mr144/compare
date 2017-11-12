@@ -1,0 +1,4 @@
+This_DT phone_NN does_VBZ not_RB support_VB 3G_NNP or_CC 4G_NNP on_IN Tmobiles_NNP network_NN ._.
+I_PRP contacted_VBD Tmobile_NNP and_CC was_VBD told_VBN because_IN the_DT smartphone_NN is_VBZ set_VBN at_IN a_DT different_JJ frequency_NN it_PRP can_MD not_RB be_VB supported_VBN ._.
+You_PRP can_MD only_RB get_VB EDGE_NNP speeds_NNS or_CC Wifi_NNS ._.
+This_DT is_VBZ not_RB mentioned_VBN at_IN all_DT in_IN the_DT description_NN only_RB that_IN it_PRP is_VBZ unlocked_VBN and_CC will_MD work_VB on_IN `_`` any_DT GSM_NNP '_POS network_NN ._.

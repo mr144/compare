@@ -1,0 +1,68 @@
+=========
+
+root(ROOT-0, Replaced-1)
+det(plasma-5, a-2)
+advmod(pricey-4, very-3)
+amod(plasma-5, pricey-4)
+dobj(Replaced-1, plasma-5)
+dobj(loved-8, plasma-5)
+complm(loved-8, that-6)
+nsubj(loved-8, we-7)
+dep(plasma-5, loved-8)
+det(model-11, this-10)
+prep_with(loved-8, model-11)
+nsubj(price-16, model-11)
+cop(price-16, is-13)
+predet(price-16, half-14)
+det(price-16, the-15)
+rcmod(model-11, price-16)
+
+=========
+
+root(ROOT-0, What-1)
+det(value-3, a-2)
+dep(What-1, value-3)
+
+=========
+
+nsubj(perfect-3, Picture-1)
+cop(perfect-3, is-2)
+root(ROOT-0, perfect-3)
+
+=========
+
+nsubj(see-9, Sharp-1)
+advmod(Sharp-1, great-3)
+dep(Sharp-1, color-4)
+aux(see-9, can-6)
+neg(see-9, not-7)
+advmod(see-9, even-8)
+root(ROOT-0, see-9)
+det(difference-11, any-10)
+dobj(see-9, difference-11)
+poss(top-15, our-13)
+amod(top-15, older-14)
+prep_from(see-9, top-15)
+det(plasma-19, the-17)
+nn(plasma-19, line-18)
+prep_of(top-15, plasma-19)
+
+=========
+
+nsubj(bigger-3, This-1)
+nsubj(high-8, This-1)
+cop(bigger-3, is-2)
+root(ROOT-0, bigger-3)
+advmod(high-8, just-6)
+advmod(high-8, as-7)
+conj_and(bigger-3, high-8)
+prep_in(bigger-3, quality-10)
+
+=========
+
+aux(hesitate-3, Do-1)
+neg(hesitate-3, not-2)
+root(ROOT-0, hesitate-3)
+aux(buy-5, to-4)
+xcomp(hesitate-3, buy-5)
+

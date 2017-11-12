@@ -1,0 +1,30 @@
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, really-2)
+ccomp(easy-10, like-3)
+poss(camera-6, my-4)
+nn(camera-6, Kodak-5)
+dobj(like-3, camera-6)
+nsubj(easy-10, it-8)
+nsubj(friendly-15, it-8)
+cop(easy-10, is-9)
+root(ROOT-0, easy-10)
+aux(use-12, to-11)
+xcomp(easy-10, use-12)
+dep(friendly-15, user-14)
+conj_and(easy-10, friendly-15)
+nsubj(takes-18, it-17)
+conj_and(easy-10, takes-18)
+amod(pics-20, great-19)
+dobj(takes-18, pics-20)
+
+=========
+
+det(quality-2, The-1)
+nsubj(amazing-7, quality-2)
+det(pics-5, the-4)
+prep_of(quality-2, pics-5)
+cop(amazing-7, is-6)
+root(ROOT-0, amazing-7)
+

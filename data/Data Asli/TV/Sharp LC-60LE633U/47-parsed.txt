@@ -1,0 +1,29 @@
+=========
+
+nsubj(picture-2, Great-1)
+ccomp(familiar-7, picture-2)
+nsubj(familiar-7, I-4)
+cop(familiar-7, am-5)
+neg(familiar-7, not-6)
+root(ROOT-0, familiar-7)
+advmod(works-12, how-9)
+nn(tv-11, internet-10)
+nsubj(works-12, tv-11)
+prepc_with(familiar-7, works-12)
+cc(better-19, but-13)
+det(part-15, that-14)
+nsubj(better-19, part-15)
+aux(better-19, could-16)
+cop(better-19, be-17)
+advmod(better-19, much-18)
+ccomp(works-12, better-19)
+
+=========
+
+nsubj(great-3, Picture-1)
+cop(great-3, is-2)
+ccomp(cool-7, great-3)
+nsubj(cool-7, 3D-5)
+cop(cool-7, is-6)
+root(ROOT-0, cool-7)
+

@@ -1,0 +1,6 @@
+The_DT sharp_JJ 60_NNP '_POS tv_NN is_VBZ a_DT disappointment_NN to_TO me_PRP ._.
+First_NNP is_VBZ the_DT very_RB slow_JJ tuner_NN which_WDT is_VBZ no_DT good_JJ for_IN channel_NN surfing_NN and_CC the_DT info_NN screen_NN on_IN the_DT top_JJ left_NN corner_NN is_VBZ to_TO small_JJ to_TO see_VB ._.
+The_DT apps_NNS are_VBP nothing_NN more_JJR than_IN pay_NN per_IN view_NN movies_NNS ._.
+The_DT few_JJ other_JJ apps_NNS that_WDT are_VBP there_RB keep_VB going_VBG on_RB and_CC off_RB and_CC do_VBP not_RB work_VB well_RB if_IN at_IN all_DT ._.
+there_EX is_VBZ no_DT browser_NN so_IN you_PRP can_MD not_RB get_VB youtube_NN ,_, crackel_NN or_CC any_DT other_JJ free_JJ movie_NN stations_NNS ._.
+It_PRP is_VBZ a_DT good_JJ tv_NN but_CC not_RB worth_JJ 2500.00_CD ,_, not_RB even_RB with_IN the_DT electronic_JJ glasses_NNS ._.

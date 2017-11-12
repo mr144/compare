@@ -1,0 +1,43 @@
+=========
+
+advmod(far-2, So-1)
+root(ROOT-0, far-2)
+advmod(good-5, so-4)
+dep(far-2, good-5)
+det(phone-8, this-7)
+prep_with(good-5, phone-8)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, it-4)
+det(couple-7, a-6)
+prep_for(had-3, couple-7)
+prep_of(couple-7, weeks-9)
+nsubjpass(done-13, it-11)
+auxpass(done-13, is-12)
+conj_and(had-3, done-13)
+dobj(done-13, everything-14)
+nsubj(asked-17, I-15)
+aux(asked-17, have-16)
+rcmod(everything-14, asked-17)
+dobj(asked-17, it-18)
+prep(asked-17, to-19)
+
+=========
+
+nsubj(took-2, It-1)
+root(ROOT-0, took-2)
+det(little-4, a-3)
+dobj(took-2, little-4)
+auxpass(used-6, getting-5)
+xcomp(took-2, used-6)
+cc(happy-12, but-8)
+nsubj(happy-12, I-9)
+cop(happy-12, am-10)
+advmod(happy-12, very-11)
+prepc_to(used-6, happy-12)
+prep_with(happy-12, it-14)
+

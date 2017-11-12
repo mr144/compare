@@ -1,0 +1,41 @@
+=========
+
+nsubj(liked-2, I-1)
+ccomp(easy-8, liked-2)
+det(camera-4, this-3)
+dobj(liked-2, camera-4)
+nsubj(easy-8, it-6)
+cop(easy-8, is-7)
+root(ROOT-0, easy-8)
+aux(use-10, to-9)
+xcomp(easy-8, use-10)
+xcomp(easy-8, have-12)
+conj_and(use-10, have-12)
+det(zoom-17, a-13)
+advmod(nice-15, very-14)
+amod(zoom-17, nice-15)
+amod(zoom-17, optical-16)
+dobj(have-12, zoom-17)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+nsubj(much-5, it-3)
+advmod(much-5, very-4)
+xcomp(like-2, much-5)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, pentax-6)
+prep_than(better-4, fujifilm-8)
+conj_or(pentax-6, fujifilm-8)
+prep_than(better-4, GE-10)
+conj_or(pentax-6, GE-10)
+prep_than(better-4, coolpix-12)
+conj_or(pentax-6, coolpix-12)
+

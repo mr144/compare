@@ -1,0 +1,51 @@
+=========
+
+nsubj(included-5, Label-1)
+det(box-4, the-3)
+prep_on(Label-1, box-4)
+root(ROOT-0, included-5)
+det(description-8, the-6)
+amod(description-8, correct-7)
+dobj(included-5, description-8)
+nn(gb-13, Iphone-10)
+amod(gb-13, 3gs-11)
+num(gb-13, 16-12)
+dep(black-14, gb-13)
+ccomp(included-5, black-14)
+advmod(included-19, however-16)
+det(phone-18, the-17)
+nsubj(included-19, phone-18)
+ccomp(included-5, included-19)
+cop(black-24, was-20)
+det(black-24, a-21)
+amod(black-24, 3g-22)
+amod(black-24, 8gb-23)
+ccomp(included-19, black-24)
+amod(conditions-27, good-26)
+prep_in(black-24, conditions-27)
+
+=========
+
+nsubj(good-3, Price-1)
+cop(good-3, was-2)
+ccomp(included-11, good-3)
+det(item-5, an-4)
+nsubj(was-6, item-5)
+ccomp(good-3, was-6)
+amod(condition-9, good-8)
+prep_in(was-6, condition-9)
+root(ROOT-0, included-11)
+nn(cable-13, usb-12)
+nsubj(included-11, cable-13)
+nn(charger-16, wall-15)
+appos(cable-13, charger-16)
+appos(cable-13, earphones-18)
+conj_and(charger-16, earphones-18)
+
+=========
+
+nsubjpass(unlocked-4, Phone-1)
+auxpass(unlocked-4, was-2)
+neg(unlocked-4, not-3)
+root(ROOT-0, unlocked-4)
+

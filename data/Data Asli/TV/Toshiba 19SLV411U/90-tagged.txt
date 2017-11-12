@@ -1,0 +1,4 @@
+This_DT is_VBZ my_PRP$ first_JJ HDTV_NN ,_, and_CC overall_JJ I_PRP am_VBP very_RB pleased_JJ ._.
+The_DT setup_NN was_VBD quick_JJ and_CC easy_JJ ,_, and_CC the_DT picture_NN quality_NN is_VBZ exceptional_JJ ._.
+However_RB ,_, the_DT sound_NN is_VBZ even_RB more_RBR shallow_JJ and_CC tinny_JJ than_IN previous_JJ reviewers_NNS have_VBP indicated_VBN ._.
+Hooking_VBG up_RP the_DT TV_NN to_TO amplified_VBN speakers_NNS is_VBZ not_RB only_RB desirable_JJ ,_, it_PRP is_VBZ absolutely_RB essential_JJ in_IN order_NN to_TO enjoy_VB this_DT TV_NN ._.

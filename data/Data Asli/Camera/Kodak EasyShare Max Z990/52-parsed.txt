@@ -1,0 +1,32 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, now-2)
+root(ROOT-0, have-3)
+det(camera-7, a-4)
+advmod(good-6, really-5)
+amod(camera-7, good-6)
+dobj(have-3, camera-7)
+aux(take-9, to-8)
+infmod(camera-7, take-9)
+dobj(take-9, photos-10)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(compares-4, it-3)
+ccomp(think-2, compares-4)
+det(Nikon-7, a-6)
+prep_to(compares-4, Nikon-7)
+det(camera-11, a-9)
+nn(camera-11, Canon-10)
+prep_to(compares-4, camera-11)
+conj_or(Nikon-7, camera-11)
+

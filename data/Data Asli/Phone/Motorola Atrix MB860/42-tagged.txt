@@ -1,0 +1,5 @@
+For_IN the_DT money_NN ,_, this_DT phone_NN works_VBZ really_RB well_RB ._.
+I_PRP put_VBD in_IN the_DT StraightTalk_NNP sim_NN and_CC it_PRP worked_VBD immediately_RB ._.
+When_WRB you_PRP set_VBD it_PRP up_RP ,_, it_PRP immediately_RB installs_VBZ motoblur_NN ,_, this_DT has_VBZ not_RB seemed_VBN to_TO be_VB a_DT problem_NN ._.
+The_DT phone_NN is_VBZ smaller_JJR than_IN the_DT Samsung_NNP Galaxy_NNP II_NNP ,_, but_CC has_VBZ the_DT same_JJ size_NN screen_NN ._.
+Great_JJ buy_NN ._.

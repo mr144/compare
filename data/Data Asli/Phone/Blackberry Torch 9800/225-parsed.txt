@@ -1,0 +1,42 @@
+=========
+
+advmod(phone-9, Really-1)
+nsubj(phone-9, it-2)
+cop(phone-9, is-3)
+poss(phone-9, my-4)
+nn(phone-9, wife-5)
+amod(phone-9, grave-6)
+amod(phone-9, s-8)
+root(ROOT-0, phone-9)
+
+=========
+
+nsubj(say-2, She-1)
+root(ROOT-0, say-2)
+cop(smartphone-6, is-3)
+det(smartphone-6, the-4)
+amod(smartphone-6, best-5)
+ccomp(say-2, smartphone-6)
+dobj(had-8, smartphone-6)
+nsubj(had-8, she-7)
+rcmod(smartphone-6, had-8)
+
+=========
+
+nn(services-2, Amazon-1)
+nsubj(excellents-4, services-2)
+cop(excellents-4, are-3)
+root(ROOT-0, excellents-4)
+det(shippment-7, The-6)
+nsubj(arrived-8, shippment-7)
+conj_and(excellents-4, arrived-8)
+prep_at(arrived-8, time-10)
+nsubj(agree-15, we-12)
+cop(agree-15, are-13)
+advmod(agree-15, very-14)
+conj_and(excellents-4, agree-15)
+
+=========
+
+root(ROOT-0, Thanks-1)
+

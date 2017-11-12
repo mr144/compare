@@ -1,0 +1,42 @@
+=========
+
+nsubj(likes-2, He-1)
+root(ROOT-0, likes-2)
+nsubj(okay-4, it-3)
+xcomp(likes-2, okay-4)
+advmod(wanted-8, really-7)
+conj_but(likes-2, wanted-8)
+det(Nexus-10, a-9)
+dobj(wanted-8, Nexus-10)
+num(phone-13, 4-11)
+nn(phone-13, Android-12)
+nsubj(wanted-8, phone-13)
+
+=========
+
+nsubj(had-4, He-1)
+aux(had-4, has-2)
+neg(had-4, not-3)
+root(ROOT-0, had-4)
+det(problems-6, any-5)
+dobj(had-4, problems-6)
+prep_with(had-4, it-8)
+nsubj(smaller-12, screen-10)
+cop(smaller-12, is-11)
+parataxis(had-4, smaller-12)
+dobj(wanted-16, what-14)
+nsubj(wanted-16, he-15)
+prepc_than(smaller-12, wanted-16)
+nsubj(likes-20, he-19)
+parataxis(had-4, likes-20)
+conj_but(smaller-12, likes-20)
+det(show-23, the-21)
+amod(show-23, color-22)
+dobj(likes-20, show-23)
+
+=========
+
+det(best-2, The-1)
+nsubj(smartphone-3, best-2)
+root(ROOT-0, smartphone-3)
+

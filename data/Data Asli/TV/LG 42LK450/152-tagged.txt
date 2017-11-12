@@ -1,0 +1,5 @@
+First_RB ,_, the_DT price_NN was_VBD right_JJ ._.
+Second_JJ ,_, the_DT service_NN was_VBD tops_NNS ._.
+THird_JJ ,_, the_DT LG\/LCD_NNP TV_NN is_VBZ better_JJR than_IN I_PRP thought_VBD it_PRP would_MD be_VB ._.
+Picture_NNP and_CC sound_NN are_VBP 5_CD stars_NNS ._.
+I_PRP hope_VBP I_PRP can_MD say_VB this_DT a_DT year_NN from_IN now_RB ._.

@@ -1,0 +1,58 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+det(gift-8, a-6)
+nn(gift-8, birthday-7)
+prep_as(bought-2, gift-8)
+poss(husband-11, my-10)
+prep_for(bought-2, husband-11)
+
+=========
+
+nsubjpass(taken-4, He-1)
+auxpass(taken-4, was-2)
+advmod(taken-4, really-3)
+root(ROOT-0, taken-4)
+prt(taken-4, away-5)
+predet(features-9, all-7)
+det(features-9, the-8)
+agent(taken-4, features-9)
+advmod(features-9, especially-11)
+det(zoom-13, the-12)
+dep(features-9, zoom-13)
+
+=========
+
+nsubj(interested-4, We-1)
+cop(interested-4, were-2)
+advmod(interested-4, really-3)
+root(ROOT-0, interested-4)
+prep_in(interested-4, it-6)
+det(features-13, the-9)
+amod(features-13, steadying-11)
+prep_because_of(it-6, features-13)
+nsubj(have-16, we-15)
+dep(features-13, have-16)
+det(girl-19, a-17)
+amod(girl-19, little-18)
+dobj(have-16, girl-19)
+nsubj(moves-21, girl-19)
+rcmod(girl-19, moves-21)
+det(LOT-23, A-22)
+dobj(moves-21, LOT-23)
+
+=========
+
+dep(feature-10, c-2)
+nn(feature-10, OH-4)
+dep(feature-10, and-6)
+det(feature-10, the-7)
+amod(feature-10, smile-8)
+nn(feature-10, recognition-9)
+root(ROOT-0, feature-10)
+prep(feature-10, is-11)
+dep(is-11, SWEET-12)
+

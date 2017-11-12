@@ -1,0 +1,34 @@
+=========
+
+amod(tv-2, Great-1)
+nsubj(have-5, tv-2)
+conj_and(tv-2, we-4)
+nsubj(have-5, we-4)
+root(ROOT-0, have-5)
+neg(regret-8, not-6)
+num(regret-8, one-7)
+dobj(have-5, regret-8)
+nsubj(got-11, we-10)
+parataxis(have-5, got-11)
+quantmod(&#34;-14, a-12)
+number(&#34;-14, 42-13)
+dobj(got-11, &#34;-14)
+advmod(got-11, also-15)
+mark(tells-18, so-16)
+nsubj(tells-18, that-17)
+advcl(got-11, tells-18)
+dobj(tells-18, you-19)
+advmod(much-21, how-20)
+dep(thought-23, much-21)
+nsubj(thought-23, we-22)
+dep(tells-18, thought-23)
+prep_of(thought-23, it-25)
+
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+nn(TV-5, Smart-4)
+root(ROOT-0, TV-5)
+

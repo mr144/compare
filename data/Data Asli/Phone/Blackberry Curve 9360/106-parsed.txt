@@ -1,0 +1,25 @@
+=========
+
+det(phone-2, The-1)
+nsubj(new-4, phone-2)
+cop(new-4, is-3)
+root(ROOT-0, new-4)
+nsubj(bring-10, it-7)
+aux(bring-10, did-8)
+neg(bring-10, not-9)
+conj_but(new-4, bring-10)
+det(card-13, the-11)
+nn(card-13, memory-12)
+dobj(bring-10, card-13)
+
+=========
+
+nsubj(live-2, I-1)
+nsubj(live-2', I-1)
+root(ROOT-0, live-2)
+conj_and(live-2, live-2')
+prep_in(live-2, Venezuela-4)
+nn(works-8, Digitel-7)
+prep_with(live-2', works-8)
+advmod(live-2, perfectly-9)
+

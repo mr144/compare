@@ -1,0 +1,4 @@
+Moved_VBD up_RB from_IN a_DT Panasonic_NNP 65S1_NNP ._.
+Day_NNP one_CD was_VBD not_RB very_RB impressed_JJ but_CC a_DT week_NN later_RB with_IN some_DT time_NN on_IN it_PRP the_DT picture_NN is_VBZ awesome_JJ and_CC assume_VB will_MD get_VB even_RB better_RBR ._.
+Played_VBN The_DT Polar_NNP Express_NNP in_IN 3D_NNP and_CC thought_NN was_VBD pretty_RB darn_RB good_JJ ._.
+Typical_JJ Panasonic_NNP quality_NN and_CC glad_JJ I_PRP got_VBD another_DT plasma_NN instead_RB of_IN LED\/LCD_NNP ._.

@@ -1,0 +1,26 @@
+=========
+
+poss(wife-2, My-1)
+nsubj(happier-8, wife-2)
+conj_and(wife-2, I-4)
+nsubj(happier-8, I-4)
+aux(happier-8, could-5)
+neg(happier-8, not-6)
+cop(happier-8, be-7)
+root(ROOT-0, happier-8)
+det(camera-11, this-10)
+prep_with(happier-8, camera-11)
+
+=========
+
+det(price-2, The-1)
+nsubj(good-4, price-2)
+cop(good-4, was-3)
+root(ROOT-0, good-4)
+det(quality-8, the-7)
+nsubj(excellent-13, quality-8)
+det(images-11, the-10)
+prep_of(quality-8, images-11)
+cop(excellent-13, are-12)
+conj_and(good-4, excellent-13)
+

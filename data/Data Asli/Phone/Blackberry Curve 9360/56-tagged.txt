@@ -1,0 +1,5 @@
+Hi_NNS !_.
+I_PRP would_MD like_VB to_TO know_VB if_IN you_PRP have_VBP availability_NN for_IN the_DT AT&T_NNP Version_NNP of_IN the_DT phone_NN ?_.
+I_PRP live_VBP in_IN Venezuela_NNP and_CC I_PRP use_VBP a_DT network_NN compatible_JJ with_IN this_DT phone_NN version_NN ._.
+Thanks_NNS !_.
+Lucy_NNP

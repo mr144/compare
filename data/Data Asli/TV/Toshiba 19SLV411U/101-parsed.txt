@@ -1,0 +1,30 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+cc(was-25, But-1)
+poss(case-4, my-3)
+prep_in(was-25, case-4)
+nsubj(be-7, this-5)
+aux(be-7, would-6)
+parataxis(was-25, be-7)
+prep_for(be-7, gaming-9)
+det(monitor-12, a-11)
+prep_for(be-7, monitor-12)
+conj_and(gaming-9, monitor-12)
+poss(mini-16, my-14)
+nn(mini-16, Mac-15)
+prep_for(be-7, mini-16)
+nsubj(was-25, Update-18)
+det(shipping-21, the-20)
+appos(Update-18, shipping-21)
+det(seller-24, the-23)
+prep_from(shipping-21, seller-24)
+root(ROOT-0, was-25)
+dep(late-28, way-26)
+advmod(late-28, too-27)
+advmod(was-25, late-28)
+det(time-32, the-30)
+nn(time-32, estimate-31)
+prep_from(late-28, time-32)
+

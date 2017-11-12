@@ -1,0 +1,46 @@
+=========
+
+root(ROOT-0, Bought-1)
+det(one-3, this-2)
+dobj(Bought-1, one-3)
+aux(get-5, to-4)
+infmod(one-3, get-5)
+dobj(get-5, HD-6)
+prep_in(HD-6, bedroom-8)
+
+=========
+
+amod(features-4, Excellent-1)
+amod(features-4, smart-2)
+nn(features-4, TV-3)
+root(ROOT-0, features-4)
+amod(quality-8, great-6)
+nn(quality-8, picture-7)
+appos(features-4, quality-8)
+amod(sound-11, poor-10)
+appos(quality-8, sound-11)
+
+=========
+
+det(speakers-3, The-1)
+amod(speakers-3, built-in-2)
+nsubj(produce-4, speakers-3)
+nsubj(solved-14, speakers-3)
+root(ROOT-0, produce-4)
+det(sound-9, a-5)
+num(sound-9, &#34;-6)
+amod(sound-9, fuzzy-7)
+dep(fuzzy-7, &#34;-8)
+dobj(produce-4, sound-9)
+det(settings-12, all-11)
+prep_at(sound-9, settings-12)
+conj_but(produce-4, solved-14)
+dobj(solved-14, this-15)
+det(speakers-24, some-17)
+amod(speakers-24, cheap-18)
+appos(speakers-24, $-20)
+num($-20, 20-21)
+nn(speakers-24, computer-23)
+prep_with(solved-14, speakers-24)
+prep_from(speakers-24, Logitech-26)
+

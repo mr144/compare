@@ -1,0 +1,5 @@
+battery_NN is_VBZ the_DT worst_JJS ._.
+screen_NN does_VBZ not_RB exactly_RB seem_VBP 3.5_CD inch_NN ._.
+looks_NNS slightly_RB smaller_JJR than_IN iphone_NN 's_POS 3.5_CD ._.
+BUt_FW i_FW like_IN it_PRP ._.
+Still_RB waiting_VBG for_IN ICS_NNP upgrade_NN ._.

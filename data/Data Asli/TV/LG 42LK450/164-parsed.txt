@@ -1,0 +1,32 @@
+=========
+
+nsubj(LCD-5, This-1)
+cop(LCD-5, is-2)
+det(LCD-5, an-3)
+amod(LCD-5, excellent-4)
+root(ROOT-0, LCD-5)
+
+=========
+
+det(size-3, the-2)
+prep_for(surprizing-11, size-3)
+det(1080P-6, the-5)
+conj_and(size-3, 1080P-6)
+prep_for(surprizing-11, 1080P-6)
+det(picture-9, the-8)
+nsubj(surprizing-11, picture-9)
+aux(surprizing-11, is-10)
+root(ROOT-0, surprizing-11)
+dobj(surprizing-11, awesome-12)
+advmod(60HZ-15, only-14)
+dobj(surprizing-11, 60HZ-15)
+conj_and(awesome-12, 60HZ-15)
+
+=========
+
+root(ROOT-0, Got-1)
+det(deal-4, an-2)
+amod(deal-4, awesome-3)
+dobj(Got-1, deal-4)
+prep_on(deal-4, amazon-6)
+

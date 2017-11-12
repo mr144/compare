@@ -1,0 +1,52 @@
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+dep(Easy-1, use-3)
+advmod(use-3, right-4)
+det(box-8, the-7)
+prep_out_of(use-3, box-8)
+
+=========
+
+root(ROOT-0, Great-1)
+nn(photos-4, wildlife-3)
+prep_for(Great-1, photos-4)
+
+=========
+
+aux(use-2, Can-1)
+root(ROOT-0, use-2)
+det(manual-8, a-4)
+nn(manual-8, point-n-shoot-5)
+conj_or(point-n-shoot-5, full-7)
+nn(manual-8, full-7)
+prep_as(use-2, manual-8)
+prep_as(use-2, anywhere-10)
+advmod(manual-8, anywhere-10)
+conj_or(manual-8, anywhere-10)
+prep(use-2, in-11)
+pobj(in-11, between-12)
+
+=========
+
+aux(forget-3, Do-1)
+neg(forget-3, not-2)
+root(ROOT-0, forget-3)
+aux(download-5, to-4)
+xcomp(forget-3, download-5)
+det(Guide-9, the-6)
+nn(Guide-9, Extended-7)
+nn(Guide-9, Users-8)
+dobj(download-5, Guide-9)
+det(website-13, the-11)
+nn(website-13, Kodak-12)
+prep_from(download-5, website-13)
+
+=========
+
+root(ROOT-0, Bargain-1)
+quantmod($-4, under-3)
+prep_for(Bargain-1, $-4)
+number($-4, 150.00-5)
+

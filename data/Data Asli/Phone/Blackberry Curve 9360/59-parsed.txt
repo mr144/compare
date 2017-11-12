@@ -1,0 +1,30 @@
+=========
+
+poss(brother-2, my-1)
+nsubj(need-3, brother-2)
+ccomp(have-24, need-3)
+det(cell-5, the-4)
+nsubj(operates-6, cell-5)
+ccomp(need-3, operates-6)
+det(T-mobile-10, the-8)
+nn(T-mobile-10, band-9)
+prep_with(operates-6, T-mobile-10)
+nsubj(compatible-13, T-mobile-10)
+cop(compatible-13, is-12)
+rcmod(T-mobile-10, compatible-13)
+poss(operator-17, my-15)
+nn(operator-17, phone-16)
+prep_with(compatible-13, operator-17)
+advmod(compatible-13, here-18)
+prep_in(compatible-13, Venezuela-20)
+nsubj(have-24, you-22)
+aux(have-24, will-23)
+root(ROOT-0, have-24)
+
+=========
+
+aux(buy-2, to-1)
+root(ROOT-0, buy-2)
+nsubj(please-4, it-3)
+ccomp(buy-2, please-4)
+

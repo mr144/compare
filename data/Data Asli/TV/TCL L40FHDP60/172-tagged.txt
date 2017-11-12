@@ -1,0 +1,4 @@
+When_WRB I_PRP hooked_VBD up_RP my_PRP$ computer_NN with_IN HDMI_NNP I_PRP realized_VBD that_IN about_IN 5_CD %_NN of_IN the_DT picture_NN edges_NNS were_VBD cropped_VBN and_CC started_VBD worrying_VBG that_IN the_DT physical_JJ resolution_NN is_VBZ less_JJR than_IN claimed_VBN ._.
+The_DT menu_NN system_NN did_VBD not_RB offer_VB a_DT solution_NN ,_, the_DT manual_NN neither_RB ._.
+Eventually_RB I_PRP found_VBD out_RP that_IN the_DT remote_JJ control_NN 's_POS navigation_NN arrows_NNS function_VBP as_IN zoom_NN selectors_NNS when_WRB outside_IN the_DT menu_NN system_NN and_CC the_DT `_`` no_DT overscan_NN '_'' option_NN fixes_NNS the_DT problem_NN ._.
+Tested_VBN and_CC all_PDT the_DT claimed_VBN resolution_NN is_VBZ there_RB ,_, I_PRP am_VBP very_RB happy_JJ with_IN this_DT TV_NN ._.

@@ -1,0 +1,53 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+nsubj(TV-6, This-1)
+cop(TV-6, is-2)
+poss(TV-6, my-3)
+amod(TV-6, 4th-4)
+nn(TV-6, Sony-5)
+root(ROOT-0, TV-6)
+nsubj(love-9, I-8)
+conj_and(TV-6, love-9)
+quantmod(four-11, all-10)
+dobj(love-9, four-11)
+prep_of(four-11, them-13)
+
+=========
+
+nsubj(easy-4, They-1)
+cop(easy-4, are-2)
+advmod(easy-4, so-3)
+ccomp(pleased-17, easy-4)
+aux(set-6, to-5)
+xcomp(easy-4, set-6)
+prt(set-6, up-7)
+advmod(clear-10, so-9)
+amod(audio-13, clear-10)
+amod(audio-13, good-12)
+dobj(set-6, audio-13)
+nsubjpass(pleased-17, I-15)
+auxpass(pleased-17, am-16)
+root(ROOT-0, pleased-17)
+advmod(pleased-17, also-18)
+det(price-21, the-20)
+prep_with(pleased-17, price-21)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+nn(TVs-5, Sony-4)
+dobj(recommend-3, TVs-5)
+dobj(recommend-3, Amazon-7)
+conj_and(TVs-5, Amazon-7)
+advmod(well-9, as-8)
+mwe(well-9, as-8)
+advmod(recommend-3, well-9)
+

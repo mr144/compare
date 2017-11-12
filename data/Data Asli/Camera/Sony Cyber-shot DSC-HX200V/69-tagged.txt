@@ -1,0 +1,4 @@
+I_PRP am_VBP not_RB a_DT fancy_JJ camera_NN ,_, but_CC a_DT point_NN and_CC shoot_NN camera_NN user_NN ._.
+I_PRP wanted_VBD something_NN that_WDT would_MD reach_VB out_RP farther_RB and_CC yield_VB better_JJR quality_NN pictures_NNS ._.
+I_PRP had_VBD narrowed_VBN my_PRP$ choice_NN to_TO three_CD cameras_NNS and_CC decided_VBD to_TO go_VB with_IN this_DT one_CD ._.
+So_RB far_RB it_PRP has_VBZ exceeded_VBN my_PRP$ expectations_NNS ._.

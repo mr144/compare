@@ -1,0 +1,16 @@
+I_PRP really_RB like_IN this_DT phone_NN ._.
+So_RB far_RB it_PRP has_VBZ not_RB given_VBN me_PRP any_DT troubles_NNS ._.
+It_PRP works_VBZ perfectly_RB with_IN DIGITEL_NNP in_IN Venezuela_NNP ._.
+The_DT cons_NNS I_PRP actually_RB see_VBP on_IN the_DT phone_NN are_VBP :1_CD ._.
+-_: The_DT camera_NN is_VBZ pretty_RB slow_JJ ._.
+it_PRP takes_VBZ too_RB long_JJ to_TO take_VB the_DT shot_NN and_CC you_PRP have_VBP probably_RB lost_VBN the_DT moment_NN you_PRP wanted_VBD to_TO capture_VB ,_, plus_CC there_EX 's_VBZ no_DT zoom_NN .2_CD ._.
+-_: The_DT notifications_NNS do_VBP not_RB appear_VB when_WRB you_PRP are_VBP playing_VBG a_DT game_NN ._.
+for_IN example_NN :_: when_WRB I_PRP am_VBP playing_VBG song_NN pop_NN ,_, the_DT phone_NN rings_NNS but_CC does_VBZ not_RB show_VB the_DT notification_NN .3_CD ._.
+-_: The_DT alarm_NN clock_NN is_VBZ a_DT bit_NN complicated_VBN ._.
+You_PRP need_VBP to_TO go_VB into_IN the_DT clock_NN ,_, then_RB go_VB to_TO alarm_NN clock_NN ,_, then_RB go_VB to_TO alarm_NN and_CC THEN_RB create_VB the_DT alarm_NN ._.
+I_PRP think_VBP it_PRP could_MD be_VB way_RB more_RBR simple_JJ if_IN there_EX was_VBD a_DT direct_JJ acces_NNS to_TO the_DT alarm_NN clock_NN ,_, but_CC you_PRP can_MD not_RB create_VB it_PRP .4_CD ._.
+-_: The_DT front_JJ camera_NN could_MD have_VB better_JJR resolution_NN .5_CD ._.
+-_: the_DT LED_NNP light_NN does_VBZ not_RB blink_VB ._.
+Weird_JJ because_IN a_DT friend_NN of_IN mine_NN has_VBZ the_DT GALAXY_NNP S_NNP II_NNP and_CC hers_NNS does_VBZ not_RB blink_VB either_RB ,_, so_IN it_PRP seems_VBZ more_JJR of_IN a_DT GALAXY_NNP issue_NN ._.
+But_CC despite_IN of_IN those_DT things_NNS ,_, I_PRP think_VBP this_DT phone_NN is_VBZ great_JJ ._.
+It_PRP 's_VBZ all_DT about_IN getting_VBG used_VBN to_TO the_DT phone_NN and_CC I_PRP am_VBP very_RB happy_JJ with_IN it_PRP ._.

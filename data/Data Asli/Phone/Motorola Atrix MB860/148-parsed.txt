@@ -1,0 +1,30 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(phone-4, this-3)
+dobj(love-2, phone-4)
+nsubj(fast-8, it-5)
+nsubj(easy-10, it-5)
+xsubj(use-12, it-5)
+cop(fast-8, is-6)
+advmod(fast-8, so-7)
+rcmod(phone-4, fast-8)
+rcmod(phone-4, easy-10)
+conj_and(fast-8, easy-10)
+aux(use-12, to-11)
+xcomp(fast-8, use-12)
+det(life-16, the-14)
+nn(life-16, battery-15)
+nsubj(great-18, life-16)
+cop(great-18, is-17)
+conj_and(love-2, great-18)
+
+=========
+
+nsubj(pleased-3, Iam-1)
+advmod(pleased-3, well-2)
+root(ROOT-0, pleased-3)
+poss(purchase-6, my-5)
+prep_with(pleased-3, purchase-6)
+

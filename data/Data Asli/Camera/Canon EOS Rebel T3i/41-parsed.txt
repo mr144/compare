@@ -1,0 +1,24 @@
+=========
+
+dep(camera-5, Is-1)
+poss(camera-5, my-2)
+amod(camera-5, first-3)
+nn(camera-5, srl-4)
+root(ROOT-0, camera-5)
+cop(simple-9, is-7)
+advmod(simple-9, very-8)
+conj_and(camera-5, simple-9)
+aux(use-11, to-10)
+xcomp(simple-9, use-11)
+amod(results-14, excellent-13)
+prep_with(use-11, results-14)
+
+=========
+
+det(product-2, The-1)
+nsubj(met-3, product-2)
+root(ROOT-0, met-3)
+predet(expectations-6, all-4)
+poss(expectations-6, my-5)
+dobj(met-3, expectations-6)
+

@@ -1,0 +1,63 @@
+=========
+
+nsubj(like-3, I-1)
+nsubj(takes-12, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+det(camera-5, this-4)
+dobj(like-3, camera-5)
+poss(use-10, Its-7)
+amod(use-10, easy-8)
+prep(easy-8, to-9)
+appos(camera-5, use-10)
+conj_and(like-3, takes-12)
+amod(pitures-14, good-13)
+dobj(takes-12, pitures-14)
+
+=========
+
+nsubj(found-2, I-1)
+xsubj(read-12, I-1)
+root(ROOT-0, found-2)
+det(writing-4, the-3)
+dobj(found-2, writing-4)
+det(dial-7, the-6)
+prep_on(found-2, dial-7)
+det(little-9, a-8)
+npadvmod(hard-10, little-9)
+amod(dial-7, hard-10)
+aux(read-12, to-11)
+xcomp(found-2, read-12)
+nsubj(blind-18, i-15)
+cop(blind-18, am-16)
+advmod(blind-18, pretty-17)
+conj_but(found-2, blind-18)
+advmod(blind-18, anyway-19)
+
+=========
+
+neg(fault-5, not-2)
+det(fault-5, the-3)
+amod(fault-5, cameras-4)
+root(ROOT-0, fault-5)
+advmod(camera-11, But-7)
+det(camera-11, a-8)
+advmod(good-10, real-9)
+amod(camera-11, good-10)
+dep(fault-5, camera-11)
+poss(person-15, your-13)
+amod(person-15, average-14)
+prep_for(fault-5, person-15)
+
+=========
+
+dep(better-2, And-1)
+root(ROOT-0, better-2)
+partmod(better-2, priced-3)
+prep_at(priced-3, Amazon-5)
+advmod(priced-3, then-6)
+poss(store-11, our-8)
+amod(store-11, local-9)
+amod(store-11, retail-10)
+prep_at(priced-3, store-11)
+

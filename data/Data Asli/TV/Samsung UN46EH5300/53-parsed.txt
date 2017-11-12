@@ -1,0 +1,34 @@
+=========
+
+nn(TV-2, Nice-1)
+root(ROOT-0, TV-2)
+
+=========
+
+aux(beat-3, Can-1)
+neg(beat-3, not-2)
+root(ROOT-0, beat-3)
+det(Samsung-5, a-4)
+dobj(beat-3, Samsung-5)
+
+=========
+
+csubj('s-7, Looked-1)
+det(lot-4, a-3)
+prep_at(Looked-1, lot-4)
+prep_of(lot-4, tv-6)
+root(ROOT-0, 's-7)
+mark(bought-10, before-8)
+nsubj(bought-10, I-9)
+advcl('s-7, bought-10)
+
+=========
+
+nsubj(go-2, Cant-1)
+root(ROOT-0, go-2)
+acomp(go-2, wrong-3)
+
+=========
+
+root(ROOT-0, I-1)
+

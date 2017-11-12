@@ -1,0 +1,27 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(tv-4, my-3)
+dobj(love-2, tv-4)
+prep(tv-4, for-5)
+det(price-7, the-6)
+dep(for-5, price-7)
+nsubj(TV-12, this-8)
+cop(TV-12, is-9)
+det(TV-12, a-10)
+amod(TV-12, great-11)
+rcmod(price-7, TV-12)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(quality-7, the-3)
+nn(quality-7, picture-4)
+conj_and(picture-4, sound-6)
+nn(quality-7, sound-6)
+dobj(love-2, quality-7)
+poss(tv-10, my-9)
+prep_of(quality-7, tv-10)
+

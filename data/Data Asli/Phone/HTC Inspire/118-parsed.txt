@@ -1,0 +1,143 @@
+=========
+
+nsubj(got-3, I-1)
+nsubj(found-6, I-1)
+advmod(got-3, just-2)
+root(ROOT-0, got-3)
+dobj(got-3, home-4)
+conj_and(got-3, found-6)
+det(package-8, the-7)
+dobj(found-6, package-8)
+det(door-12, the-10)
+amod(door-12, front-11)
+prep_on(found-6, door-12)
+
+=========
+
+det(time-3, The-1)
+amod(time-3, stipulated-2)
+nsubj(perfect-5, time-3)
+cop(perfect-5, was-4)
+root(ROOT-0, perfect-5)
+
+=========
+
+nsubj(opened-3, I-1)
+advmod(opened-3, just-2)
+ccomp(looks-15, opened-3)
+det(box-6, the-4)
+nn(box-6, phone-5)
+dobj(opened-3, box-6)
+nsubj(is-9, it-8)
+conj_and(opened-3, is-9)
+ccomp(looks-15, is-9)
+dep(inside-11, all-10)
+advmod(is-9, inside-11)
+det(box-14, the-13)
+nsubj(looks-15, box-14)
+root(ROOT-0, looks-15)
+det(bit-17, a-16)
+dobj(looks-15, bit-17)
+partmod(bit-17, damaged-18)
+det(corners-21, the-20)
+prep_on(damaged-18, corners-21)
+det(problem-27, a-25)
+amod(problem-27, big-26)
+dobj(looks-15, problem-27)
+conj_negcc(bit-17, problem-27)
+
+=========
+
+dep(thing-3, Only-1)
+num(thing-3, one-2)
+root(ROOT-0, thing-3)
+
+=========
+
+nsubj(receive-4, I-1)
+aux(receive-4, did-2)
+neg(receive-4, not-3)
+root(ROOT-0, receive-4)
+det(card-8, any-5)
+amod(card-8, micro-6)
+nn(card-8, SD-7)
+dobj(receive-4, card-8)
+appos(card-8, 8GB-10)
+mark(stated-13, as-12)
+dep(card-8, stated-13)
+det(advertisement-16, the-15)
+prep_in(stated-13, advertisement-16)
+
+=========
+
+nsubj(purchase-5, This-1)
+cop(purchase-5, is-2)
+poss(purchase-5, my-3)
+amod(purchase-5, first-4)
+ccomp(tell-11, purchase-5)
+prep_from(purchase-5, amazon-7)
+nsubj(tell-11, someone-9)
+aux(tell-11, could-10)
+root(ROOT-0, tell-11)
+dobj(tell-11, me-12)
+advmod(contact-15, how-13)
+aux(contact-15, to-14)
+xcomp(tell-11, contact-15)
+det(seller-17, the-16)
+dobj(contact-15, seller-17)
+
+=========
+
+mark(solved-4, If-1)
+det(problem-3, that-2)
+nsubj(solved-4, problem-3)
+csubj(PERFECT-12, solved-4)
+nsubj(get-7, I-5)
+xsubj(say-9, I-5)
+aux(get-7, 'll-6)
+ccomp(solved-4, get-7)
+aux(say-9, to-8)
+xcomp(get-7, say-9)
+dobj(say-9, everything-10)
+cop(PERFECT-12, is-11)
+root(ROOT-0, PERFECT-12)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(Inspire-5, the-3)
+nn(Inspire-5, HTC-4)
+dobj(bought-2, Inspire-5)
+num(Inspire-5, 4G-6)
+det(headset-9, a-8)
+dobj(bought-2, headset-9)
+conj_and(Inspire-5, headset-9)
+det(case-13, a-11)
+amod(case-13, hard-12)
+dobj(bought-2, case-13)
+conj_and(Inspire-5, case-13)
+det(charger-17, a-15)
+nn(charger-17, car-16)
+dobj(bought-2, charger-17)
+conj_and(Inspire-5, charger-17)
+det(cable-22, an-19)
+amod(cable-22, extra-20)
+amod(cable-22, USB-21)
+dobj(bought-2, cable-22)
+conj_and(Inspire-5, cable-22)
+aux(get-24, to-23)
+xcomp(bought-2, get-24)
+nsubj(charged-26, it-25)
+dep(get-24, charged-26)
+poss(office-29, my-28)
+prep_at(charged-26, office-29)
+
+=========
+
+det(unlocked-4, The-1)
+nn(unlocked-4, phone-2)
+nn(unlocked-4, IS-3)
+root(ROOT-0, unlocked-4)
+dep(unlocked-4, D-6)
+

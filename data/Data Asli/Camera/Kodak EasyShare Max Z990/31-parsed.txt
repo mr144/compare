@@ -1,0 +1,20 @@
+=========
+
+nsubj(ease-6, This-1)
+cop(ease-6, is-2)
+neg(ease-6, not-3)
+det(ease-6, the-4)
+amod(ease-6, point_and_shoot-5)
+root(ROOT-0, ease-6)
+poss(V570-10, my-8)
+amod(V570-10, old-9)
+prep_of(ease-6, V570-10)
+det(lens-15, the-13)
+amod(lens-15, Schnieder-kreuznach-14)
+nsubj(plus-18, lens-15)
+cop(plus-18, is-16)
+det(plus-18, a-17)
+conj_but(ease-6, plus-18)
+amod(capture-21, digital-20)
+prep_for(plus-18, capture-21)
+

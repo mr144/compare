@@ -1,0 +1,29 @@
+=========
+
+amod(camera-2, Great-1)
+root(ROOT-0, camera-2)
+amod(compact-5, very-4)
+conj_and(camera-2, compact-5)
+poss(features-8, its-7)
+prep_for(camera-2, features-8)
+
+=========
+
+nsubj(excellent-3, Zoom-1)
+nsubj(stable-6, Zoom-1)
+cop(excellent-3, is-2)
+root(ROOT-0, excellent-3)
+advmod(stable-6, very-5)
+conj_and(excellent-3, stable-6)
+advmod(zoom-10, when-7)
+amod(maximum-9, at-8)
+nsubj(zoom-10, maximum-9)
+advcl(excellent-3, zoom-10)
+
+=========
+
+root(ROOT-0, Plenty-1)
+prep_of(Plenty-1, options-3)
+amod(override-6, manual-5)
+prep_for(Plenty-1, override-6)
+

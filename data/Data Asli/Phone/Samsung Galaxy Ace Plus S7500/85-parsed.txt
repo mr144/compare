@@ -1,0 +1,24 @@
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(Memory-4, no-3)
+nsubj(is-2, Memory-4)
+dobj(included-6, Memory-4)
+nsubj(included-6, internal-5)
+rcmod(Memory-4, included-6)
+
+=========
+
+nsubj(diappointed-2, Very-1)
+root(ROOT-0, diappointed-2)
+
+=========
+
+det(product-3, The-1)
+amod(product-3, worst-2)
+nsubj(purchased-7, product-3)
+prep_that(product-3, i-5)
+advmod(purchased-7, ever-6)
+root(ROOT-0, purchased-7)
+

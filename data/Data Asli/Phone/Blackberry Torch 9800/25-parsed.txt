@@ -1,0 +1,44 @@
+=========
+
+nsubj(paid-2, I-1)
+root(ROOT-0, paid-2)
+mark(got-7, for-3)
+det(product-6, a-4)
+amod(product-6, new-5)
+nsubj(got-7, product-6)
+advcl(paid-2, got-7)
+det(produt-9, a-8)
+dobj(got-7, produt-9)
+nsubj(deffective-12, produt-9)
+cop(deffective-12, was-11)
+rcmod(produt-9, deffective-12)
+
+=========
+
+det(vendor-2, The-1)
+nsubj(asked-3, vendor-2)
+xsubj(ship-5, vendor-2)
+root(ROOT-0, asked-3)
+aux(ship-5, to-4)
+xcomp(asked-3, ship-5)
+dobj(ship-5, item-6)
+advmod(ship-5, back-7)
+nsubj(economical-12, it-9)
+cop(economical-12, was-10)
+neg(economical-12, not-11)
+conj_but(asked-3, economical-12)
+aux(ship-14, to-13)
+xcomp(economical-12, ship-14)
+det(item-16, the-15)
+dobj(ship-14, item-16)
+advmod(ship-14, back-17)
+
+=========
+
+cc(had-2, So-1)
+root(ROOT-0, had-2)
+aux(use-4, to-3)
+xcomp(had-2, use-4)
+mark(is-6, as-5)
+advcl(use-4, is-6)
+

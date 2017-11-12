@@ -1,0 +1,56 @@
+=========
+
+nsubj(works-2, T.V.-1)
+root(ROOT-0, works-2)
+acomp(works-2, fine-3)
+
+=========
+
+nsubj(considering-8, Picture-1)
+cop(good-3, is-2)
+rcmod(Picture-1, good-3)
+rcmod(Picture-1, sound-5)
+conj_and(good-3, sound-5)
+aux(considering-8, is-6)
+advmod(considering-8, ok-7)
+root(ROOT-0, considering-8)
+nn(size-10, speaker-9)
+dobj(considering-8, size-10)
+
+=========
+
+nsubj(mounted-2, We-1)
+root(ROOT-0, mounted-2)
+dobj(mounted-2, it-3)
+det(room-10, the-5)
+dep(room-10, wall-6)
+poss(granddaughters-9, our-8)
+prep_in(wall-6, granddaughters-9)
+prep_to(mounted-2, room-10)
+
+=========
+
+poss(size-3, It-1)
+nsubj(made-6, size-3)
+conj_and(size-3, weight-5)
+nsubj(made-6, weight-5)
+root(ROOT-0, made-6)
+nsubj(easy-8, it-7)
+xcomp(made-6, easy-8)
+
+=========
+
+det(TV-2, This-1)
+nsubj(worst-5, TV-2)
+cop(worst-5, is-3)
+det(worst-5, the-4)
+root(ROOT-0, worst-5)
+
+=========
+
+det(TV-2, This-1)
+nsubj(worst-5, TV-2)
+cop(worst-5, is-3)
+det(worst-5, the-4)
+root(ROOT-0, worst-5)
+

@@ -1,0 +1,41 @@
+=========
+
+nsubj(wonderful-2, Works-1)
+root(ROOT-0, wonderful-2)
+det(connection-6, the-4)
+nn(connection-6, HDMI-5)
+prep_with(wonderful-2, connection-6)
+
+=========
+
+det(cable-3, The-1)
+nn(cable-3, coax-2)
+nsubj(horrible-8, cable-3)
+nn(connection-6, RCA-5)
+conj_or(cable-3, connection-6)
+nsubj(horrible-8, connection-6)
+cop(horrible-8, is-7)
+root(ROOT-0, horrible-8)
+
+=========
+
+dep(money-3, or-1)
+det(money-3, the-2)
+root(ROOT-0, money-3)
+nsubj(beat-7, you-4)
+aux(beat-7, can-5)
+neg(beat-7, not-6)
+rcmod(money-3, beat-7)
+det(TV-9, this-8)
+dobj(beat-7, TV-9)
+
+=========
+
+nsubj(buy-3, I-1)
+aux(buy-3, would-2)
+root(ROOT-0, buy-3)
+iobj(buy-3, it-4)
+number(times-6, 100-5)
+dobj(buy-3, times-6)
+advmod(buy-3, again-7)
+

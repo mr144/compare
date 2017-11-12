@@ -1,0 +1,150 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(camera-5, this-3)
+nn(camera-5, GE-4)
+dobj(purchased-2, camera-5)
+prep_for(purchased-2, myself-7)
+
+=========
+
+det(X500-4, The-1)
+nn(X500-4, Power-2)
+nn(X500-4, Pro-3)
+nsubj(takes-5, X500-4)
+root(ROOT-0, takes-5)
+advmod(clear-9, very-6)
+amod(clear-9, good-7)
+amod(pictures-10, clear-9)
+dobj(takes-5, pictures-10)
+
+=========
+
+nsubj(big-5, It-1)
+cop(big-5, is-2)
+neg(big-5, not-3)
+advmod(big-5, too-4)
+root(ROOT-0, big-5)
+mark(read-8, as-6)
+nsubj(read-8, I-7)
+advcl(big-5, read-8)
+amod(reviews-11, previous-10)
+prep_from(read-8, reviews-11)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+amod(hands-4, large-3)
+dobj(have-2, hands-4)
+det(controls-7, the-6)
+nsubj(accessible-10, controls-7)
+cop(accessible-10, are-8)
+advmod(accessible-10, really-9)
+conj_but(have-2, accessible-10)
+
+=========
+
+nn(life-2, Battery-1)
+nsubj(decent-5, life-2)
+cop(decent-5, is-3)
+advmod(decent-5, pretty-4)
+root(ROOT-0, decent-5)
+csubj(idea-17, keeping-7)
+det(four-10, an-8)
+amod(four-10, extra-9)
+dobj(keeping-7, four-10)
+prep_on(keeping-7, hand-12)
+cop(idea-17, is-13)
+neg(idea-17, not-14)
+det(idea-17, a-15)
+amod(idea-17, bad-16)
+conj_and(decent-5, idea-17)
+
+=========
+
+advmod(like-4, Personally-1)
+nsubj(like-4, I-3)
+root(ROOT-0, like-4)
+xcomp(like-4, dealing-5)
+det(card-13, a-7)
+dep(sized-10, normal-9)
+amod(card-13, sized-10)
+nn(card-13, sd-12)
+prep_with(dealing-5, card-13)
+
+=========
+
+nsubj(easier-5, It-1)
+xsubj(load-7, It-1)
+cop(easier-5, is-2)
+det(lot-4, a-3)
+npadvmod(easier-5, lot-4)
+root(ROOT-0, easier-5)
+aux(load-7, to-6)
+xcomp(easier-5, load-7)
+xcomp(easier-5, unload-9)
+conj_and(load-7, unload-9)
+advmod(opposed-11, as-10)
+amod(cards-16, opposed-11)
+det(sd-15, the-13)
+amod(sd-15, micro-14)
+prep_to(opposed-11, sd-15)
+dobj(load-7, cards-16)
+
+=========
+
+nsubj(camera-5, It-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, good-4)
+root(ROOT-0, camera-5)
+amod(camera-11, bridge-9)
+conj_or(camera-5, camera-11)
+mark(term-15, as-12)
+cop(term-15, is-13)
+det(term-15, the-14)
+advcl(camera-5, term-15)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+neg(did-2, not-3)
+prep_by(did-2, it-5)
+det(purpose-8, that-7)
+prep_for(did-2, purpose-8)
+
+=========
+
+nsubj(made-2, I-1)
+xsubj(shoot-7, I-1)
+root(ROOT-0, made-2)
+det(purchase-4, the-3)
+dobj(made-2, purchase-4)
+advmod(made-2, just-5)
+aux(shoot-7, to-6)
+xcomp(made-2, shoot-7)
+det(pictures-11, a-8)
+amod(pictures-11, few-9)
+amod(pictures-11, nice-10)
+dobj(shoot-7, pictures-11)
+prepc_without(shoot-7, shelling-13)
+prt(shelling-13, out-14)
+det(lot-16, a-15)
+dobj(shelling-13, lot-16)
+prep_of(lot-16, hard-18)
+partmod(hard-18, earned-19)
+dobj(earned-19, cash-20)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(appreciate-5, some-3)
+aux(appreciate-5, will-4)
+ccomp(think-2, appreciate-5)
+det(camera-7, this-6)
+dobj(appreciate-5, camera-7)
+

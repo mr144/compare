@@ -1,0 +1,57 @@
+=========
+
+nsubj(received-2, I-1)
+root(ROOT-0, received-2)
+poss(product-4, my-3)
+dobj(received-2, product-4)
+advmod(quickly-6, so-5)
+advmod(received-2, quickly-6)
+
+=========
+
+nsubj(using-4, I-1)
+aux(using-4, have-2)
+aux(using-4, been-3)
+root(ROOT-0, using-4)
+dobj(using-4, this-5)
+quantmod(than-8, more-7)
+num(a-11, than-8)
+det(month-10, a-9)
+dep(than-8, month-10)
+prep_for(this-5, a-11)
+expl(is-13, there-12)
+rcmod(a-11, is-13)
+det(problem-15, no-14)
+nsubj(is-13, problem-15)
+det(cell-18, the-17)
+prep_with(problem-15, cell-18)
+
+=========
+
+advmod(need-2, Still-1)
+root(ROOT-0, need-2)
+aux(determine-4, to-3)
+xcomp(need-2, determine-4)
+mark(refurbished-8, if-5)
+nsubjpass(refurbished-8, it-6)
+auxpass(refurbished-8, is-7)
+dep(determine-4, refurbished-8)
+dep(determine-4, what-10)
+conj_or(refurbished-8, what-10)
+conj_but(need-2, looks-13)
+advmod(cool-15, pretty-14)
+acomp(looks-13, cool-15)
+
+=========
+
+nsubj(tell-3, I-1)
+aux(tell-3, 'll-2)
+root(ROOT-0, tell-3)
+dobj(tell-3, you-4)
+advmod(tell-3, later-5)
+mark(face-8, if-6)
+nsubj(face-8, I-7)
+advcl(tell-3, face-8)
+det(problem-10, any-9)
+dobj(face-8, problem-10)
+

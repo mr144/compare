@@ -1,0 +1,43 @@
+=========
+
+nsubj(arrived-2, Set-1)
+root(ROOT-0, arrived-2)
+advmod(arrived-2, quickly-3)
+nsubj(new-7, condition-5)
+cop(new-7, was-6)
+conj_and(arrived-2, new-7)
+
+=========
+
+det(box-2, The-1)
+nsubj(arrived-3, box-2)
+root(ROOT-0, arrived-3)
+prep_without(arrived-3, damage-5)
+
+=========
+
+root(ROOT-0, Note-1)
+det(TV-4, The-3)
+nsubj(needs-5, TV-4)
+xsubj(calibrated-8, TV-4)
+ccomp(Note-1, needs-5)
+parataxis(Note-1, needs-5)
+aux(calibrated-8, to-6)
+auxpass(calibrated-8, be-7)
+xcomp(needs-5, calibrated-8)
+advmod(TOO-15, correctly-9)
+advmod(TOO-15, otherwise-10)
+det(set-12, the-11)
+nsubj(TOO-15, set-12)
+cop(TOO-15, is-13)
+nn(TOO-15, WAYYYYYYY-14)
+ccomp(calibrated-8, TOO-15)
+amod(TOO-15, dark-16)
+
+=========
+
+dep(keep-2, Please-1)
+root(ROOT-0, keep-2)
+dobj(keep-2, this-3)
+prep_in(this-3, mind-5)
+

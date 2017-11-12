@@ -1,0 +1,62 @@
+=========
+
+dep(fells-5, First-1)
+det(camera-4, the-3)
+nsubj(fells-5, camera-4)
+root(ROOT-0, fells-5)
+amod(weith-15, great-6)
+det(hand-9, the-8)
+prep_on(great-6, hand-9)
+amod(grip-12, nice-11)
+appos(hand-9, grip-12)
+amod(weith-15, good-14)
+dobj(fells-5, weith-15)
+nsubjpass(used-19, I-17)
+auxpass(used-19, get-18)
+dep(fells-5, used-19)
+prep_to(used-19, it-21)
+quantmod(2-24, about-23)
+num(minutes-25, 2-24)
+prep_in(used-19, minutes-25)
+
+=========
+
+det(thing-2, This-1)
+nsubj(fast-4, thing-2)
+cop(fast-4, is-3)
+ccomp(takes-6, fast-4)
+root(ROOT-0, takes-6)
+advmod(images-9, very-7)
+amod(images-9, crisp-8)
+nsubj(takes-6, images-9)
+amod(images-9, hard-11)
+aux(find-13, to-12)
+xcomp(hard-11, find-13)
+det(lot-15, a-14)
+dobj(find-13, lot-15)
+prep_of(lot-15, differences-17)
+dep(differences-17, when-18)
+prepc_compared_to(find-13, to-20)
+amod(frame-23, D600-21)
+amod(frame-23, full-22)
+pobj(find-13, frame-23)
+
+=========
+
+nsubj(will-2, I-1)
+nsubj(looks-10, I-1)
+root(ROOT-0, will-2)
+xcomp(will-2, doing-3)
+amod(testing-5, further-4)
+dobj(doing-3, testing-5)
+advmod(far-9, so-8)
+advmod(looks-10, far-9)
+conj_but(will-2, looks-10)
+xcomp(looks-10, promising-11)
+
+=========
+
+advmod(happy-2, very-1)
+root(ROOT-0, happy-2)
+prep_with(happy-2, this-4)
+

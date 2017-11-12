@@ -1,0 +1,3 @@
+Withe_NNP pretty_RB darn-good_JJ hi-def_NN resolution_NN ._.
+Nice_JJ job_NN Samsung_NNP !_.
+I_PRP wholeheartedly_RB recommend_VBP this_DT product_NN -LRB-_-LRB- wish_NN I_PRP could_MD have_VB one_CD in_IN every_DT room_NN of_IN the_DT house_NN -RRB-_-RRB- ._.

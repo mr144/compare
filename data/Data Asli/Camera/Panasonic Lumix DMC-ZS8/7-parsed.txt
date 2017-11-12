@@ -1,0 +1,23 @@
+=========
+
+root(ROOT-0, Works-1)
+advmod(Works-1, well-2)
+det(person-8, the-4)
+nn(person-8, point-5)
+conj_and(point-5, shoot-7)
+nn(person-8, shoot-7)
+prep_for(Works-1, person-8)
+
+=========
+
+root(ROOT-0, Does-1)
+advmod(Does-1, nicely-2)
+amod(light-5, low-4)
+prep_in(Does-1, light-5)
+cop(weight-9, is-7)
+amod(weight-9, light-8)
+conj_and(Does-1, weight-9)
+amod(weight-9, small-11)
+amod(weight-9, quiet-13)
+conj_and(small-11, quiet-13)
+

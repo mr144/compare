@@ -1,0 +1,26 @@
+=========
+
+nsubj(using-3, I-1)
+aux(using-3, am-2)
+root(ROOT-0, using-3)
+det(camera-5, this-4)
+dobj(using-3, camera-5)
+num(year-8, one-7)
+prep_for(camera-5, year-8)
+advmod(year-8, now-9)
+det(d5000-14, a-12)
+nn(d5000-14, Nikon-13)
+prep_along_with(year-8, d5000-14)
+
+=========
+
+amod(camera-3, Very-1)
+amod(camera-3, usefull-2)
+root(ROOT-0, camera-3)
+prep_for(camera-3, beginners-5)
+
+=========
+
+nsubj(recomended-2, Highly-1)
+root(ROOT-0, recomended-2)
+

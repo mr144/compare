@@ -1,0 +1,26 @@
+=========
+
+det(phone-2, This-1)
+nsubj(popular-6, phone-2)
+nsubj(do-9, phone-2)
+cop(popular-6, is-3)
+advmod(popular-6, still-4)
+advmod(popular-6, very-5)
+root(ROOT-0, popular-6)
+aux(do-9, can-8)
+conj_and(popular-6, do-9)
+amod(things-11, many-10)
+dobj(do-9, things-11)
+nsubj(has-15, it-14)
+conj_and(popular-6, has-15)
+det(look-19, the-16)
+amod(look-19, original-17)
+amod(look-19, classic-18)
+dobj(has-15, look-19)
+
+=========
+
+aux(recommend-2, Would-1)
+root(ROOT-0, recommend-2)
+prep_to(recommend-2, Freind-4)
+

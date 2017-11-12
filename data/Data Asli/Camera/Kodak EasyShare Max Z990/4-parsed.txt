@@ -1,0 +1,104 @@
+=========
+
+det(camera-2, The-1)
+nsubj(worked-3, camera-2)
+root(ROOT-0, worked-3)
+acomp(worked-3, great-4)
+det(year-7, a-6)
+prep_for(worked-3, year-7)
+advmod(respond-15, gradually-10)
+det(zoom-12, the-11)
+nsubj(respond-15, zoom-12)
+aux(respond-15, would-13)
+neg(respond-15, not-14)
+conj_but(worked-3, respond-15)
+advmod(respond-15, readily-16)
+
+=========
+
+nsubj(move-4, It-1)
+nsubj(move-10, It-1)
+nsubj(stop-13, It-1)
+aux(move-4, would-2)
+neg(move-4, not-3)
+root(ROOT-0, move-4)
+advmod(move-4, at-5)
+pobj(at-5, all-6)
+advmod(move-10, sometimes-8)
+advmod(move-10, just-9)
+conj_or(move-4, move-10)
+advmod(move-10, slightly-11)
+conj_and(move-4, stop-13)
+
+=========
+
+nsubj(make-10, New-1)
+partmod(New-1, batteries-2)
+partmod(New-1, recharging-4)
+conj_and(batteries-2, recharging-4)
+det(ones-7, the-5)
+amod(ones-7, present-6)
+dobj(batteries-2, ones-7)
+aux(make-10, did-8)
+neg(make-10, not-9)
+root(ROOT-0, make-10)
+det(difference-12, a-11)
+dobj(make-10, difference-12)
+
+=========
+
+det(camera-2, The-1)
+nsubj(slow-6, camera-2)
+aux(slow-6, has-3)
+advmod(slow-6, just-4)
+cop(slow-6, become-5)
+root(ROOT-0, slow-6)
+prepc_at(slow-6, turning-8)
+prt(turning-8, on-9)
+dep(on-9, and-10)
+dep(on-9, off-11)
+
+=========
+
+nsubj(know-5, I-1)
+advmod(know-5, really-2)
+aux(know-5, do-3)
+neg(know-5, not-4)
+root(ROOT-0, know-5)
+advmod(send-8, where-6)
+aux(send-8, to-7)
+xcomp(know-5, send-8)
+dobj(send-8, it-9)
+mark(gone-13, since-10)
+nsubj(gone-13, Kodak-11)
+aux(gone-13, has-12)
+advcl(send-8, gone-13)
+prep_out_of(gone-13, business-16)
+
+=========
+
+nsubj(had-2, We-1)
+root(ROOT-0, had-2)
+det(Share-6, a-3)
+nn(Share-6, Kodak-4)
+nn(Share-6, Easy-5)
+dobj(had-2, Share-6)
+prep_before(Share-6, this-8)
+det(station-12, a-10)
+amod(station-12, docking-11)
+prep_with(this-8, station-12)
+prepc_for(had-2, recharging-14)
+nsubj(experience-19, we-16)
+aux(experience-19, did-17)
+neg(experience-19, not-18)
+conj_and(had-2, experience-19)
+det(problem-21, this-20)
+dobj(experience-19, problem-21)
+
+=========
+
+amod(disappointed-4, Sincerely-1)
+amod(disappointed-4, Sadly-3)
+root(ROOT-0, disappointed-4)
+conj_and(disappointed-4, frustrated-6)
+

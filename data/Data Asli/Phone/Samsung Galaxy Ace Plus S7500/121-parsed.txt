@@ -1,0 +1,58 @@
+=========
+
+root(ROOT-0, Check-1)
+dep(Check-1, with-2)
+pobj(with-2, vendor-3)
+det(frequency-6, the-4)
+num(frequency-6, 3G\/HSPA-5)
+dep(Check-1, frequency-6)
+
+=========
+
+nsubj(understand-2, I-1)
+root(ROOT-0, understand-2)
+nsubj(import-4, vendors-3)
+ccomp(understand-2, import-4)
+amod(countries-7, various-6)
+prep_from(import-4, countries-7)
+
+=========
+
+det(unit-2, The-1)
+dobj(received-4, unit-2)
+nsubj(GT-i8160L-6, unit-2)
+nsubj(received-4, I-3)
+rcmod(unit-2, received-4)
+cop(GT-i8160L-6, was-5)
+root(ROOT-0, GT-i8160L-6)
+nsubj(seems-9, GT-i8160L-6)
+rcmod(GT-i8160L-6, seems-9)
+aux(designed-12, to-10)
+auxpass(designed-12, be-11)
+xcomp(seems-9, designed-12)
+nn(America-15, Latin-14)
+prep_for(designed-12, America-15)
+
+=========
+
+num(specifications-2, Tech-1)
+npadvmod(available-3, specifications-2)
+amod(online-4, available-3)
+nsubj(indicate-5, online-4)
+root(ROOT-0, indicate-5)
+num(MHz-7, 900\/2100-6)
+nsubj(work-21, MHz-7)
+prep_for(MHz-7, 3G-9)
+neg(MHz-13, not-11)
+num(MHz-13, 850\/2100-12)
+dep(MHz-7, MHz-13)
+nn(states-16, Amazon-15)
+prep_as(MHz-13, states-16)
+advmod(work-21, so-18)
+aux(work-21, may-19)
+neg(work-21, not-20)
+ccomp(indicate-5, work-21)
+det(operators-24, some-23)
+prep_with(work-21, operators-24)
+prep_in(operators-24, US-26)
+

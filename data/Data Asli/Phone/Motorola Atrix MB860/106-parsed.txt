@@ -1,0 +1,31 @@
+=========
+
+det(phone-2, The-1)
+nsubj(is-3, phone-2)
+root(ROOT-0, is-3)
+amod(state-6, great-5)
+prep_in(is-3, state-6)
+nsubj(got-10, I-9)
+conj_and(is-3, got-10)
+dobj(got-10, it-11)
+advmod(got-10, right-12)
+prep_on(right-12, time-14)
+mark(happy-19, so-15)
+nsubj(happy-19, I-16)
+cop(happy-19, am-17)
+advmod(happy-19, really-18)
+advcl(got-10, happy-19)
+det(buy-22, the-21)
+prep_of(happy-19, buy-22)
+dobj(did-24, buy-22)
+nsubj(did-24, i-23)
+rcmod(buy-22, did-24)
+
+=========
+
+nsubj(smartphone-5, this-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, best-4)
+root(ROOT-0, smartphone-5)
+

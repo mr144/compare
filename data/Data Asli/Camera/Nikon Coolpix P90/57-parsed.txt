@@ -1,0 +1,107 @@
+=========
+
+nsubjpass(surprised-3, I-1)
+auxpass(surprised-3, am-2)
+root(ROOT-0, surprised-3)
+complm(have-13, that-4)
+det(camera-10, a-6)
+nn(camera-10, point-7)
+conj_and(point-7, shoot-9)
+nn(camera-10, shoot-9)
+prep_in(have-13, camera-10)
+nsubj(have-13, you-11)
+aux(have-13, can-12)
+ccomp(surprised-3, have-13)
+advmod(many-15, so-14)
+amod(features-16, many-15)
+dobj(have-13, features-16)
+
+=========
+
+nsubj(impress-2, It-1)
+root(ROOT-0, impress-2)
+nsubj(recognition-6, me-3)
+det(recognition-6, the-4)
+nn(recognition-6, smile-5)
+xcomp(impress-2, recognition-6)
+parataxis(impress-2, wow-9)
+dep(magic-13, it-10)
+amod(magic-13, s-12)
+dep(wow-9, magic-13)
+
+=========
+
+nsubj(great-6, Most-1)
+det(colors-4, the-3)
+prep_of(Most-1, colors-4)
+cop(great-6, are-5)
+root(ROOT-0, great-6)
+advmod(go-12, sometimes-8)
+prep_in(go-12, indoor-10)
+nsubj(go-12, they-11)
+parataxis(great-6, go-12)
+det(yellow-15, a-13)
+amod(yellow-15, little-14)
+dobj(go-12, yellow-15)
+
+=========
+
+det(con-3, The-1)
+amod(con-3, only-2)
+nsubj(manual-6, con-3)
+cop(manual-6, is-4)
+det(manual-6, the-5)
+root(ROOT-0, manual-6)
+
+=========
+
+det(letters-2, The-1)
+nsubj(small-4, letters-2)
+cop(small-4, are-3)
+root(ROOT-0, small-4)
+mark(64yrs-9, for-6)
+nsubj(64yrs-9, me-7)
+dep(64yrs-9, =-8)
+advcl(small-4, 64yrs-9)
+nsubj(gray-13, they-11)
+cop(gray-13, are-12)
+conj_and(small-4, gray-13)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(powerful-4, zoom-2)
+cop(powerful-4, is-3)
+root(ROOT-0, powerful-4)
+
+=========
+
+dep(say-7, Well-1)
+dobj(say-7, what-3)
+advmod(what-3, else-4)
+aux(say-7, can-5)
+nsubj(say-7, I-6)
+root(ROOT-0, say-7)
+
+=========
+
+nsubj(m-4, I-2)
+root(ROOT-0, m-4)
+advmod(m-4, still-5)
+xcomp(m-4, learning-6)
+amod(things-8, new-7)
+dobj(learning-6, things-8)
+
+=========
+
+root(ROOT-0, For-1)
+det(point-3, a-2)
+pobj(For-1, point-3)
+conj_and(For-1, shoot-5)
+nsubj(recommend-7, I-6)
+ccomp(shoot-5, recommend-7)
+nsubj(!!!-11, it-8)
+num(%-10, 100-9)
+npadvmod(!!!-11, %-10)
+xcomp(recommend-7, !!!-11)
+

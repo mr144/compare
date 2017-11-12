@@ -1,0 +1,3 @@
+The_DT phone_NN Nokia_NNP Lumia_NNP 710_CD is_VBZ great_JJ ._.
+However_RB ,_, it_PRP is_VBZ not_RB friendly_JJ to_TO transfer_VB your_PRP$ contacts_NNS or_CC calendary_JJ from_IN your_PRP$ old_JJ phone_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, the_DT battery_NN is_VBZ the_DT worst_JJS ,_, it_PRP is_VBZ usually_RB run_VBN down_RP in_IN less_JJR of_IN one_CD day_NN ._.

@@ -1,0 +1,3 @@
+My_PRP$ daughter_NN was_VBD very_RB happy_JJ ._.
+Item_NN as_IN listedOn_JJ time_NN ,_, item_NN as_IN described_VBN ,_, worked_VBD well_RB ,_, charged_VBN within_IN an_DT hour_NN !_.
+Very_RB pleased_JJ ._.

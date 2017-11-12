@@ -1,0 +1,32 @@
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+det(camera-6, a-3)
+advmod(wonderful-5, really-4)
+amod(camera-6, wonderful-5)
+root(ROOT-0, camera-6)
+
+=========
+
+nsubj(find-2, I-1)
+root(ROOT-0, find-2)
+nsubj(convenient-5, it-3)
+advmod(convenient-5, very-4)
+xcomp(find-2, convenient-5)
+
+=========
+
+det(quality-2, The-1)
+nsubj(good-6, quality-2)
+cop(good-6, is-3)
+advmod(good-6, really-4)
+advmod(good-6, very-5)
+root(ROOT-0, good-6)
+det(price-9, the-8)
+nsubj(reasonable-13, price-9)
+cop(reasonable-13, is-10)
+advmod(reasonable-13, also-11)
+advmod(reasonable-13, quite-12)
+conj_and(good-6, reasonable-13)
+

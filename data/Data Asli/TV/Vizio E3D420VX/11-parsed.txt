@@ -1,0 +1,43 @@
+=========
+
+nsubj(television-6, This-1)
+cop(television-6, is-2)
+poss(television-6, my-3)
+amod(television-6, first-4)
+num(television-6, 3D-5)
+root(ROOT-0, television-6)
+
+=========
+
+cc(looks-16, And-1)
+mark(is-4, although-2)
+expl(is-4, there-3)
+dep(looks-16, is-4)
+neg(is-4, not-5)
+det(selection-8, a-6)
+amod(selection-8, huge-7)
+nsubj(is-4, selection-8)
+poss(provider-12, my-10)
+nn(provider-12, cable-11)
+prep_from(is-4, provider-12)
+det(content-15, the-13)
+num(content-15, 3D-14)
+nsubj(looks-16, content-15)
+root(ROOT-0, looks-16)
+acomp(looks-16, amazing-17)
+
+=========
+
+det(picture-2, The-1)
+nsubj(clear-5, picture-2)
+cop(clear-5, is-3)
+advmod(clear-5, so-4)
+root(ROOT-0, clear-5)
+complm(looks-10, that-6)
+amod(programming-9, non-7)
+num(programming-9, 3D-8)
+nsubj(looks-10, programming-9)
+ccomp(clear-5, looks-10)
+num(dimensional-12, 3-11)
+dobj(looks-10, dimensional-12)
+

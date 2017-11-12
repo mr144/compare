@@ -1,0 +1,28 @@
+=========
+
+nsubj(stunning-3, Picture-1)
+cop(stunning-3, is-2)
+root(ROOT-0, stunning-3)
+advmod(when-6, especially-5)
+advmod(connected-7, when-6)
+advcl(stunning-3, connected-7)
+poss(player-11, my-9)
+amod(player-11, blu-ray-10)
+prep_to(stunning-3, player-11)
+
+=========
+
+det(sound-2, The-1)
+nsubj(good-6, sound-2)
+cop(good-6, is-3)
+neg(good-6, not-4)
+advmod(good-6, as-5)
+root(ROOT-0, good-6)
+mark(expect-10, as-7)
+nsubj(expect-10, I-8)
+aux(expect-10, would-9)
+advcl(good-6, expect-10)
+det(product-14, a-12)
+nn(product-14, Sony-13)
+prep_from(expect-10, product-14)
+

@@ -1,0 +1,9 @@
+The_DT phone_NN arrived_VBD when_WRB promised_VBN ,_, packaged_VBN in_IN a_DT plain_JJ Motorola_NNP box_NN with_IN battery_NN ,_, charger_NN and_CC battery_NN cover_NN ._.
+The_DT phone_NN starts_VBZ with_IN an_DT AT&T_NNP screen_NN ._.
+I_PRP activated_VBD the_DT phone_NN with_IN a_DT Straight_NNP Talk_NN sim_NN easily_RB enough_RB ,_, although_IN ,_, on_IN starting_VBG the_DT phone_NN ,_, I_PRP had_VBD to_TO be_VB quick_JJ to_TO bypass_VB the_DT opening_VBG screen_NN before_IN an_DT error_NN message_NN occurred_VBD indicating_VBG a_DT non-AT_NNP &_CC T_NNP sim_NN had_VBD been_VBN inserted_VBN ._.
+After_IN activating_VBG ,_, the_DT phone_NN has_VBZ worked_VBN flawlessly_RB in_IN all_DT respects_NNS ._.
+Straight_JJ Talk_NN requires_VBZ the_DT manual_JJ setting_NN of_IN a_DT new_JJ APN_NNP in_IN order_NN to_TO have_VB internet_NN access_NN ._.
+As_RB long_RB as_IN you_PRP can_MD follow_VB instructions_NNS ,_, it_PRP is_VBZ easily_RB enough_RB done_VBN ._.
+My_PRP$ only_JJ complaint_NN is_VBZ that_IN the_DT Atrix_NNP did_VBD not_RB come_VB with_IN the_DT cool_JJ animated_JJ weather\/clock_JJ widget_NN that_IN my_PRP$ HTC_NNP Incredible_NNP has_VBZ ._.
+I_PRP am_VBP still_RB looking_VBG for_IN such_JJ an_DT app_NN ._.
+Otherwise_RB ,_, the_DT Matrix_NNP seems_VBZ to_TO be_VB slightly_RB more_RBR advanced_JJ and_CC has_VBZ a_DT little_JJ larger_JJR screen_NN than_IN the_DT Incredible_NNP ._.

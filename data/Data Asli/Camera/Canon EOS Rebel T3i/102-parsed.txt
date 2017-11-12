@@ -1,0 +1,29 @@
+=========
+
+det(camera-5, a-2)
+amod(camera-5, brown-3)
+nn(camera-5, box-4)
+prep_for(purchase-11, camera-5)
+det(T3i-7, the-6)
+nsubj(purchase-11, T3i-7)
+cop(purchase-11, was-8)
+det(purchase-11, an-9)
+amod(purchase-11, excellent-10)
+root(ROOT-0, purchase-11)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, only-2)
+dobj(had-6, problem-3)
+nsubj(buttons-12, problem-3)
+nsubj(had-6, I-4)
+aux(had-6, have-5)
+rcmod(problem-3, had-6)
+det(camera-9, the-8)
+prep_with(had-6, camera-9)
+cop(buttons-12, is-10)
+det(buttons-12, the-11)
+root(ROOT-0, buttons-12)
+partmod(buttons-12, sticking-13)
+

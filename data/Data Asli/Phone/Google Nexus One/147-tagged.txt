@@ -1,0 +1,4 @@
+for_IN a_DT phone_NN you_PRP can_MD buy_VB directly_RB from_IN Google_NNP for_IN $_$ 75_CD less_JJR ._.
+This_DT is_VBZ a_DT great_JJ phone_NN -_: as_IN other_JJ reviews_NNS have_VBP stated_VBN ._.
+But_CC I_PRP am_VBP not_RB not_RB sure_JJ why_WRB this_DT company_NN would_MD bother_VB `_`` OEM_NNP `_`` ing_VBG the_DT product_NN at_IN a_DT higher_JJR cost_NN than_IN what_WP you_PRP can_MD buy_VB it_PRP for_IN aretail_NN '_'' directly_RB from_IN Google_NNP ._.
+Does_VBZ not_RB make_VB sense_NN ..._: oh_UH well_RB buy_VB the_DT phone_NN ,_, but_CC do_VBP not_RB do_VB it_PRP here_RB ._.

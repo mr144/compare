@@ -1,0 +1,28 @@
+=========
+
+prep_over(satisfied-5, all-2)
+nsubjpass(satisfied-5, I-3)
+auxpass(satisfied-5, am-4)
+root(ROOT-0, satisfied-5)
+det(TV-8, the-7)
+prep_with(satisfied-5, TV-8)
+
+=========
+
+nsubj(noticed-3, I-1)
+aux(noticed-3, have-2)
+root(ROOT-0, noticed-3)
+complm(seems-11, that-4)
+advmod(seems-11, once-5)
+det(while-8, a-7)
+prep_in(seems-11, while-8)
+det(picture-10, the-9)
+nsubj(seems-11, picture-10)
+xsubj(fluctulate-13, picture-10)
+ccomp(noticed-3, seems-11)
+aux(fluctulate-13, to-12)
+xcomp(seems-11, fluctulate-13)
+advmod(far-15, as-14)
+advmod(fluctulate-13, far-15)
+prep_as(fluctulate-13, intensity-17)
+

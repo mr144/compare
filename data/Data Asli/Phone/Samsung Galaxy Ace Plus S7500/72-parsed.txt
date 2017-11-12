@@ -1,0 +1,31 @@
+=========
+
+det(item-2, The-1)
+nsubj(accurate-5, item-2)
+cop(accurate-5, is-3)
+advmod(accurate-5, so-4)
+root(ROOT-0, accurate-5)
+advmod(find-14, only-7)
+det(i-11, the-8)
+amod(i-11, specification-9)
+num(i-11, 4GB-10)
+nsubj(find-14, i-11)
+aux(find-14, did-12)
+neg(find-14, not-13)
+ccomp(accurate-5, find-14)
+
+=========
+
+nsubj(found-2, i-1)
+root(ROOT-0, found-2)
+dobj(found-2, 1GB-3)
+
+=========
+
+advmod(see-5, Maybe-1)
+nsubj(see-5, i-2)
+aux(see-5, can-3)
+neg(see-5, not-4)
+root(ROOT-0, see-5)
+dobj(see-5, all-6)
+

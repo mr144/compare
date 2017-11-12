@@ -1,0 +1,22 @@
+=========
+
+det(camera-2, the-1)
+nsubj(fancy-7, camera-2)
+cop(fancy-7, is-3)
+advmod(fancy-7, great-4)
+neg(fancy-7, not-5)
+advmod(fancy-7, too-6)
+root(ROOT-0, fancy-7)
+cc(gets-10, but-8)
+nsubj(gets-10, it-9)
+ccomp(fancy-7, gets-10)
+det(job-12, the-11)
+dobj(gets-10, job-12)
+dep(gets-10, done-13)
+advmod(done-13, definitely-15)
+prep_worth(done-13, it-17)
+dep(gets-10, useful-19)
+conj_and(done-13, useful-19)
+aux(have-21, to-20)
+xcomp(useful-19, have-21)
+

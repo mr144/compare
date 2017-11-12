@@ -1,0 +1,133 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+prep_in(bought-2, 2009-6)
+prepc_after(bought-2, seeing-8)
+det(deal-10, a-9)
+dobj(seeing-8, deal-10)
+dep(seeing-8, online-11)
+prep_during(seeing-8, November-13)
+
+=========
+
+nsubj(purchase-9, It-1)
+cop(purchase-9, was-2)
+det(purchase-9, a-3)
+poss(purchase-9, our-4)
+amod(purchase-9, first-5)
+amod(purchase-9, large-6)
+amod(purchase-9, flat-screen-7)
+nn(purchase-9, HDTV-8)
+root(ROOT-0, purchase-9)
+nsubj(regretted-14, I-11)
+aux(regretted-14, have-12)
+neg(regretted-14, never-13)
+conj_and(purchase-9, regretted-14)
+dobj(regretted-14, it-15)
+
+=========
+
+det(picture-2, The-1)
+nsubj(good-27, picture-2)
+mark(have-8, while-4)
+nsubj(have-8, it-5)
+aux(have-8, does-6)
+neg(have-8, not-7)
+dep(picture-2, have-8)
+det(feeling-13, that-9)
+amod(feeling-13, live-11)
+dobj(have-8, feeling-13)
+dobj(like-19, which-15)
+nsubj(like-19, I-16)
+aux(like-19, do-17)
+neg(like-19, not-18)
+dep(feeling-13, like-19)
+det(way-22, the-21)
+prep_by(like-19, way-22)
+cop(good-27, is-25)
+advmod(good-27, very-26)
+root(ROOT-0, good-27)
+
+=========
+
+det(lighting-2, The-1)
+nsubj(great-7, lighting-2)
+det(set-5, the-4)
+prep_from(lighting-2, set-5)
+cop(great-7, is-6)
+root(ROOT-0, great-7)
+
+=========
+
+nsubj(love-2, We-1)
+root(ROOT-0, love-2)
+det(capability-7, the-3)
+nn(capability-7, internet-5)
+dobj(love-2, capability-7)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+nsubj(3D-9, thing-3)
+nsubj(wish-5, we-4)
+rcmod(thing-3, wish-5)
+nsubj(had-7, it-6)
+ccomp(wish-5, had-7)
+cop(3D-9, was-8)
+root(ROOT-0, 3D-9)
+
+=========
+
+nsubj(had-3, We-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+num(issue-5, one-4)
+dobj(had-3, issue-5)
+prep_on(issue-5, occasion-8)
+dobj(disappear-12, occasion-8)
+det(sound-10, the-9)
+nsubj(disappear-12, sound-10)
+aux(disappear-12, will-11)
+rcmod(occasion-8, disappear-12)
+amod(inputs-16, changing-14)
+nn(inputs-16, HDMI-15)
+prep_after(disappear-12, inputs-16)
+
+=========
+
+nsubj(turn-2, We-1)
+root(ROOT-0, turn-2)
+det(TV-4, the-3)
+dobj(turn-2, TV-4)
+advmod(turn-2, off-5)
+advmod(turn-2, then-7)
+conj_and(off-5, then-7)
+advmod(on-9, back-8)
+advmod(turn-2, on-9)
+nsubjpass(restored-13, sound-11)
+auxpass(restored-13, is-12)
+conj_and(turn-2, restored-13)
+
+=========
+
+nsubj(reason-5, This-1)
+cop(reason-5, is-2)
+det(reason-5, the-3)
+amod(reason-5, only-4)
+root(ROOT-0, reason-5)
+neg(giving-8, not-7)
+prepc_for(reason-5, giving-8)
+iobj(giving-8, it-9)
+num(stars-11, 5-10)
+dobj(giving-8, stars-11)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+

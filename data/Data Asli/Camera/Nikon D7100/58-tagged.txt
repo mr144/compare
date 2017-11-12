@@ -1,0 +1,4 @@
+Great_NNP Camera_NNP and_CC features_NNS work_VBP as_RB advertised_VBN ._.
+READ_VB the_DT manual_NN ._.
+Kit_NNP Lens_NNP OK_JJ not_RB great_JJ ._.
+Just_RB get_VB out_RB and_CC take_VB pics_NNS and_CC do_VBP not_RB pixel_VB peep_NN everything_NN ._.

@@ -1,0 +1,30 @@
+=========
+
+advmod(easy-2, Very-1)
+root(ROOT-0, easy-2)
+aux(set-4, to-3)
+dep(easy-2, set-4)
+prt(set-4, up-5)
+dep(easy-2, has-7)
+conj_and(set-4, has-7)
+det(picture-10, a-8)
+amod(picture-10, great-9)
+dobj(has-7, picture-10)
+
+=========
+
+dep(PLUS-5, perfect-1)
+poss(son-4, my-3)
+prep_for(perfect-1, son-4)
+root(ROOT-0, PLUS-5)
+nn(PRICE-9, VERY-6)
+nn(PRICE-9, VERY-7)
+nn(PRICE-9, GREAT-8)
+nsubj(PLUS-5, PRICE-9)
+
+=========
+
+root(ROOT-0, Im-1)
+advmod(happy-3, very-2)
+amod(Im-1, happy-3)
+

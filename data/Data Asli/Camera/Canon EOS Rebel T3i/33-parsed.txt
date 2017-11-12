@@ -1,0 +1,41 @@
+=========
+
+nsubj(camera-8, This-1)
+cop(camera-8, is-2)
+det(camera-8, a-3)
+amod(camera-8, mid-4)
+nn(camera-8, size-5)
+nn(camera-8, DSLR-6)
+amod(camera-8, professional-7)
+root(ROOT-0, camera-8)
+amod(photos-14, impressive-10)
+conj_and(impressive-10, high-12)
+amod(photos-14, high-12)
+nn(photos-14, quality-13)
+prep_with(camera-8, photos-14)
+
+=========
+
+amod(battery-3, Longer-1)
+nn(battery-3, life-2)
+root(ROOT-0, battery-3)
+dep(battery-3, over-5)
+num(shots-7, 400-6)
+pobj(over-5, shots-7)
+amod(display-15, versatil-10)
+amod(articulated-13, full-12)
+prep_with(versatil-10, articulated-13)
+nn(display-15, LCD-14)
+appos(battery-3, display-15)
+amod(noise-18, low-17)
+dep(battery-3, noise-18)
+amod(levels-22, higher-20)
+nn(levels-22, ISO-21)
+prep_in(noise-18, levels-22)
+
+=========
+
+root(ROOT-0, Recommended-1)
+num(stars-3, five-2)
+dobj(Recommended-1, stars-3)
+

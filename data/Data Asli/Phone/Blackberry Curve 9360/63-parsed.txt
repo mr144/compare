@@ -1,0 +1,25 @@
+=========
+
+nsubj(deal-5, It-1)
+cop(deal-5, was-2)
+det(deal-5, an-3)
+amod(deal-5, excellent-4)
+root(ROOT-0, deal-5)
+amod(experience-8, great-7)
+conj_and(deal-5, experience-8)
+prep_to(deal-5, me-10)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, will-2)
+root(ROOT-0, recommend-3)
+poss(services-5, your-4)
+dobj(recommend-3, services-5)
+poss(availability-9, their-8)
+prep_due_to(recommend-3, availability-9)
+amod(standard-13, high-11)
+nn(standard-13, quality-12)
+prep_due_to(recommend-3, standard-13)
+conj_and(availability-9, standard-13)
+

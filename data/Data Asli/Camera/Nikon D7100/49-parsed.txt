@@ -1,0 +1,29 @@
+=========
+
+det(camera-2, This-1)
+nsubj(thing-6, camera-2)
+cop(thing-6, is-3)
+det(thing-6, the-4)
+amod(thing-6, best-5)
+root(ROOT-0, thing-6)
+advmod(thing-6, yet-7)
+
+=========
+
+nsubj(went-2, I-1)
+root(ROOT-0, went-2)
+det(D80-5, a-4)
+prep_from(went-2, D80-5)
+det(camera-8, this-7)
+prep_to(went-2, camera-8)
+nsubj(glad-12, I-10)
+cop(glad-12, am-11)
+conj_and(went-2, glad-12)
+nsubj(did-14, I-13)
+ccomp(glad-12, did-14)
+det(picture-17, The-16)
+nsubj(amazing-20, picture-17)
+advmod(amazing-20, clarity-18)
+cop(amazing-20, is-19)
+parataxis(went-2, amazing-20)
+

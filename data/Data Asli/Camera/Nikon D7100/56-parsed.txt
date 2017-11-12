@@ -1,0 +1,33 @@
+=========
+
+det(pictures-4, The-1)
+advmod(pictures-4, most-2)
+amod(pictures-4, amazing-3)
+root(ROOT-0, pictures-4)
+partmod(pictures-4, riding-5)
+prt(riding-5, on-6)
+advmod(riding-5, back-7)
+nn(Davidson-10, Harley-9)
+prep_of(back-7, Davidson-10)
+prep_at(riding-5, 70mph-13)
+
+=========
+
+advmod(captured-2, Absolutely-1)
+root(ROOT-0, captured-2)
+det(pictures-5, the-3)
+amod(pictures-5, best-4)
+dobj(captured-2, pictures-5)
+prep_of(pictures-5, BlueBonnets-7)
+det(Country-12, the-9)
+nn(Country-12, Texas-10)
+nn(Country-12, Hill-11)
+prep_in(captured-2, Country-12)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+

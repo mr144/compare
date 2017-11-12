@@ -1,0 +1,27 @@
+=========
+
+amod(product-2, Great-1)
+root(ROOT-0, product-2)
+det(price-5, the-4)
+prep_for(product-2, price-5)
+advmod(price-5, fast-7)
+partmod(product-2, shipping-8)
+advmod(shipping-8, too-9)
+
+=========
+
+nsubj(Recommend-3, I-1)
+aux(Recommend-3, would-2)
+root(ROOT-0, Recommend-3)
+dobj(Recommend-3, it-4)
+prep_to(Recommend-3, anyone-6)
+nsubj(wanna-13, anyone-6)
+det(budget-11, a-9)
+amod(budget-11, low-10)
+prep_with(wanna-13, budget-11)
+advmod(wanna-13, still-12)
+rcmod(anyone-6, wanna-13)
+amod(product-16, high-14)
+nn(product-16, quality-15)
+dobj(wanna-13, product-16)
+

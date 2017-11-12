@@ -1,0 +1,152 @@
+=========
+
+nsubj(DSLR-6, This-1)
+aux(DSLR-6, is-2)
+advmod(DSLR-6, certainly-3)
+neg(DSLR-6, not-4)
+det(DSLR-6, a-5)
+root(ROOT-0, DSLR-6)
+cop(one-9, is-8)
+conj_but(DSLR-6, one-9)
+det(point-13, the-11)
+amod(point-13, best-12)
+prep_of(one-9, point-13)
+conj_but(DSLR-6, shoots-15)
+conj_and(one-9, shoots-15)
+det(market-18, the-17)
+prep_on(shoots-15, market-18)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+dobj(purchased-2, it-3)
+det(SX50-7, the-5)
+nn(SX50-7, Canon-6)
+prep_over(purchased-2, SX50-7)
+det(price-11, the-10)
+prep_due_to(purchased-2, price-11)
+
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, absolutely-2)
+root(ROOT-0, love-3)
+poss(Sony-5, my-4)
+dobj(love-3, Sony-5)
+
+=========
+
+det(stabilization-2, The-1)
+nsubj(works-3, stabilization-2)
+ccomp(selects-9, works-3)
+acomp(works-3, great-4)
+det(mode-8, the-6)
+amod(mode-8, superior-intelligence-7)
+nsubj(selects-9, mode-8)
+root(ROOT-0, selects-9)
+det(settings-12, the-10)
+amod(settings-12, best-11)
+dobj(selects-9, settings-12)
+num(%-15, 95-14)
+prep_about(settings-12, %-15)
+det(time-18, the-17)
+prep_of(%-15, time-18)
+
+=========
+
+det(video-3, The-1)
+nn(video-3, HD-2)
+nsubj(superior-5, video-3)
+cop(superior-5, is-4)
+root(ROOT-0, superior-5)
+
+=========
+
+amod(quality-2, Sound-1)
+nsubj(good-4, quality-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+prep(good-4, as-5)
+pcomp(as-5, well-6)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(outstanding-4, zoom-2)
+cop(outstanding-4, is-3)
+root(ROOT-0, outstanding-4)
+det(images-7, the-6)
+nsubj(turn-9, images-7)
+advmod(turn-9, usually-8)
+conj_and(outstanding-4, turn-9)
+prt(turn-9, out-10)
+amod(effort-15, stellar-11)
+advmod(little-14, very-13)
+prep_with(stellar-11, little-14)
+dobj(turn-9, effort-15)
+
+=========
+
+nsubj(wants-4, anyone-2)
+nsubj(shoot-11, anyone-2)
+prep_for(considered-17, anyone-2)
+rcmod(anyone-2, wants-4)
+dobj(wants-4, more-5)
+det(point-9, a-7)
+amod(point-9, cheap-8)
+prep_than(wants-4, point-9)
+rcmod(anyone-2, shoot-11)
+conj_and(wants-4, shoot-11)
+det(camera-14, this-13)
+nsubjpass(considered-17, camera-14)
+aux(considered-17, would-15)
+auxpass(considered-17, be-16)
+root(ROOT-0, considered-17)
+det(one-20, a-18)
+amod(one-20, great-19)
+dobj(considered-17, one-20)
+nsubj(want-26, one-20)
+prep_for(one-20, someone-22)
+aux(want-26, does-24)
+neg(want-26, not-25)
+rcmod(one-20, want-26)
+det(DSLR-28, a-27)
+dobj(want-26, DSLR-28)
+
+=========
+
+poss(complaint-3, My-1)
+amod(complaint-3, only-2)
+nsubj(is-4, complaint-3)
+root(ROOT-0, is-4)
+nsubj(seems-7, it-5)
+advmod(seems-7, sometimes-6)
+ccomp(is-4, seems-7)
+advmod(seems-7, longer-8)
+dobj(used-13, what-10)
+nsubjpass(used-13, I-11)
+auxpass(used-13, am-12)
+prepc_than(longer-8, used-13)
+prep(used-13, to-14)
+prepc_for(used-13, saving-16)
+dobj(saving-16, images-17)
+amod(modes-20, certain-19)
+prep_in(saving-16, modes-20)
+
+=========
+
+advmod(stellar-6, Overall-1)
+det(camera-4, this-3)
+nsubj(stellar-6, camera-4)
+cop(stellar-6, is-5)
+root(ROOT-0, stellar-6)
+
+=========
+
+nsubj(recommended-2, I-1)
+root(ROOT-0, recommended-2)
+dobj(recommended-2, it-3)
+prep_to(recommended-2, friends-5)
+advmod(recommended-2, already-6)
+

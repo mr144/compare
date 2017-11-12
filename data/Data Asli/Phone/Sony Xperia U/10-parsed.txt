@@ -1,0 +1,165 @@
+=========
+
+det(review-2, This-1)
+nsubj(is-3, review-2)
+root(ROOT-0, is-3)
+prepc_according_to(is-3, to-5)
+poss(wife-7, my-6)
+pobj(is-3, wife-7)
+
+=========
+
+nsubj(told-2, She-1)
+root(ROOT-0, told-2)
+dobj(told-2, me-3)
+complm(phone-10, that-4)
+nn(Xperia-6, Sony-5)
+nsubj(phone-10, Xperia-6)
+cop(phone-10, was-7)
+det(phone-10, the-8)
+amod(phone-10, best-9)
+ccomp(told-2, phone-10)
+partmod(phone-10, made-11)
+
+=========
+
+nsubj(chuckled-2, I-1)
+nsubj(accomplishes-17, I-1)
+root(ROOT-0, chuckled-2)
+mark(have-5, since-3)
+nsubj(have-5, i-4)
+advcl(chuckled-2, have-5)
+det(X.-9, a-6)
+nn(X.-9, HTC-7)
+nn(X.-9, One-8)
+dobj(have-5, X.-9)
+nsubj(states-11, She-10)
+rcmod(X.-9, states-11)
+det(phone-13, the-12)
+nsubj(fast-15, phone-13)
+cop(fast-15, is-14)
+ccomp(states-11, fast-15)
+conj_and(chuckled-2, accomplishes-17)
+det(task-19, any-18)
+dobj(accomplishes-17, task-19)
+dobj(throws-21, task-19)
+nsubj(throws-21, she-20)
+rcmod(task-19, throws-21)
+prep_at(throws-21, it-23)
+
+=========
+
+nsubj(small-3, It-1)
+cop(small-3, is-2)
+root(ROOT-0, small-3)
+nsubj(need-8, she-5)
+aux(need-8, does-6)
+neg(need-8, not-7)
+conj_and(small-3, need-8)
+nsubj(else-10, anything-9)
+xcomp(need-8, else-10)
+
+=========
+
+dep(typing-5, This-1)
+mark(typing-5, while-2)
+nsubj(typing-5, she-3)
+aux(typing-5, is-4)
+root(ROOT-0, typing-5)
+poss(Tablet-8, her-7)
+prep_on(typing-5, Tablet-8)
+
+=========
+
+nsubj(said-2, I-1)
+root(ROOT-0, said-2)
+nsubj(is-4, it-3)
+ccomp(said-2, is-4)
+advmod(how-7, only-5)
+pobj(only-5, 3G-6)
+advmod(phone-13, how-7)
+aux(phone-13, can-8)
+nsubj(phone-13, it-9)
+cop(phone-13, be-10)
+det(phone-13, the-11)
+amod(phone-13, best-12)
+dep(is-4, phone-13)
+advmod(phone-13, ever-14)
+
+=========
+
+nsubj(use-3, She-1)
+aux(use-3, can-2)
+root(ROOT-0, use-3)
+dobj(use-3, it-4)
+det(country-7, any-6)
+prep_in(use-3, country-7)
+mark(phone-13, as-8)
+nsubj(phone-13, it-9)
+cop(phone-13, is-10)
+det(phone-13, a-11)
+amod(phone-13, unlocked-12)
+advcl(use-3, phone-13)
+
+=========
+
+nsubj(put-3, We-1)
+aux(put-3, have-2)
+root(ROOT-0, put-3)
+nsubj(test-6, this-4)
+aux(test-6, to-5)
+xcomp(put-3, test-6)
+det(countries-11, a-8)
+amod(countries-11, couple-9)
+amod(countries-11, different-10)
+prep_in(test-6, countries-11)
+dep(works-15, yes-13)
+nsubj(works-15, it-14)
+conj_and(put-3, works-15)
+acomp(works-15, great-16)
+
+=========
+
+nsubj(say-3, I-1)
+advmod(say-3, still-2)
+root(ROOT-0, say-3)
+nsubj(better-7, it-4)
+cop(better-7, is-5)
+neg(better-7, not-6)
+ccomp(say-3, better-7)
+det(phone-11, a-9)
+num(phone-11, 4G-10)
+prep_than(better-7, phone-11)
+
+=========
+
+mark(looking-5, If-1)
+nsubj(looking-5, you-2)
+aux(looking-5, are-3)
+neg(looking-5, not-4)
+advcl(do-9, looking-5)
+csubj(do-9, looking-5)
+prep_for(looking-5, super-7)
+advmod(do-9, fast-8)
+root(ROOT-0, do-9)
+nn(phone-11, everything-10)
+dobj(do-9, phone-11)
+advmod(do-9, then-13)
+nsubj(work-16, this-14)
+aux(work-16, will-15)
+ccomp(do-9, work-16)
+prep_for(work-16, you-18)
+
+=========
+
+mark(states-3, As-1)
+nsubj(states-3, she-2)
+root(ROOT-0, states-3)
+
+=========
+
+nn(LOVES-2, SHE-1)
+nsubj(THIS-3, LOVES-2)
+root(ROOT-0, THIS-3)
+dobj(THIS-3, phone-4)
+

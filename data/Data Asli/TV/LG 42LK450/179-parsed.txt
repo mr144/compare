@@ -1,0 +1,69 @@
+=========
+
+nsubj(purchased-2, I-1)
+nsubj(got-10, I-1)
+root(ROOT-0, purchased-2)
+det(TV-5, this-3)
+nn(TV-5, LG-4)
+dobj(purchased-2, TV-5)
+nn(Friday-8, Black-7)
+prep_over(purchased-2, Friday-8)
+conj_and(purchased-2, got-10)
+det(deal-14, a-11)
+advmod(good-13, pretty-12)
+amod(deal-14, good-13)
+dobj(got-10, deal-14)
+appos(deal-14, $-16)
+num($-16, 300-17)
+
+=========
+
+nsubj(easy-4, Menu-1)
+xsubj(navigate-6, Menu-1)
+cop(easy-4, is-2)
+advmod(easy-4, very-3)
+root(ROOT-0, easy-4)
+aux(navigate-6, to-5)
+xcomp(easy-4, navigate-6)
+prt(navigate-6, through-7)
+det(setup-10, the-9)
+nsubj(easy-13, setup-10)
+cop(easy-13, is-11)
+advmod(easy-13, quite-12)
+conj_and(easy-4, easy-13)
+
+=========
+
+nsubj(price-5, It-1)
+cop(price-5, 's-2)
+advmod(good-4, pretty-3)
+amod(price-5, good-4)
+root(ROOT-0, price-5)
+det(1080p-8, a-7)
+prep_for(price-5, 1080p-8)
+poss(size-12, 32-10)
+prep_at(1080p-8, size-12)
+
+=========
+
+nsubj(sufficient-3, volume-1)
+cop(sufficient-3, is-2)
+root(ROOT-0, sufficient-3)
+det(TV-7, this-5)
+amod(TV-7, small-6)
+prep_for(sufficient-3, TV-7)
+
+=========
+
+nsubj(crisp-3, Resolution-1)
+cop(crisp-3, is-2)
+root(ROOT-0, crisp-3)
+nsubj(found-8, i-5)
+aux(found-8, have-6)
+neg(found-8, not-7)
+conj_and(crisp-3, found-8)
+det(flaw-10, any-9)
+dobj(found-8, flaw-10)
+advmod(far-12, so-11)
+advmod(found-8, far-12)
+

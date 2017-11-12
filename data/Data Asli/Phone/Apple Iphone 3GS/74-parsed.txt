@@ -1,0 +1,106 @@
+=========
+
+det(iPhone-4, The-1)
+amod(iPhone-4, used-2)
+nn(iPhone-4, Apple-3)
+dobj(ordered-7, iPhone-4)
+nsubj(incredible-12, iPhone-4)
+num(iPhone-4, 3GS-5)
+nsubj(ordered-7, I-6)
+rcmod(iPhone-4, ordered-7)
+nn(Warehouse-10, Amazon-9)
+prep_from(ordered-7, Warehouse-10)
+cop(incredible-12, is-11)
+root(ROOT-0, incredible-12)
+dep(like-15, just-14)
+dep(incredible-12, like-15)
+pobj(like-15, new-16)
+
+=========
+
+cc(superior-6, And-1)
+nsubj(superior-6, it-2)
+cop(superior-6, is-3)
+advmod(superior-6, so-4)
+advmod(superior-6, far-5)
+root(ROOT-0, superior-6)
+det(Atrix-10, the-8)
+nn(Atrix-10, Motorola-9)
+prep_to(superior-6, Atrix-10)
+nsubj(had-12, I-11)
+ccomp(superior-6, had-12)
+
+=========
+
+nsubj(works-2, Touch-1)
+root(ROOT-0, works-2)
+advmod(works-2, perfectly-3)
+det(strokes-7, no-5)
+amod(strokes-7, accidental-6)
+dobj(works-2, strokes-7)
+det(something-11, no-9)
+nn(something-11, opening-10)
+appos(strokes-7, something-11)
+prep_by(something-11, mistake-13)
+
+=========
+
+root(ROOT-0, Synced-1)
+predet(info-5, all-3)
+poss(info-5, my-4)
+prep_with(Synced-1, info-5)
+prep_on(info-5, computer-7)
+advmod(Synced-1, quickly-8)
+dep(Synced-1, so-10)
+nsubj(have-12, now-11)
+ccomp(Synced-1, have-12)
+nn(info-15, ALL-13)
+nn(info-15, contact-14)
+dobj(have-12, info-15)
+nn(#s-19, ALL-17)
+nn(#s-19, phone-18)
+prep_including(info-15, #s-19)
+dep(#s-19, not-21)
+dep(not-21, just-22)
+dep(not-21, mobile-23)
+dobj(have-12, addresses-26)
+dobj(have-12, emails-29)
+conj_and(addresses-26, emails-29)
+
+=========
+
+advmod(info-3, Also-1)
+nsubj(info-3, calendar-2)
+nsubj(notes-5, calendar-2)
+root(ROOT-0, info-3)
+conj_and(info-3, notes-5)
+
+=========
+
+nsubj(inserted-8, I-1)
+aux(inserted-8, have-2)
+nn(contract-4, ATT-3)
+dobj(inserted-8, contract-4)
+advmod(just-7, so-6)
+advmod(inserted-8, just-7)
+root(ROOT-0, inserted-8)
+dobj(inserted-8, SIM-9)
+nsubj(up-13, it-11)
+nsubj(running-15, it-11)
+cop(up-13, was-12)
+conj_and(inserted-8, up-13)
+conj_and(inserted-8, running-15)
+conj_and(up-13, running-15)
+
+=========
+
+nsubj(fast-3, Shipping-1)
+cop(fast-3, was-2)
+root(ROOT-0, fast-3)
+
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+prep_with(pleased-2, purchase-4)
+

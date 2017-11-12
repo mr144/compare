@@ -1,0 +1,33 @@
+=========
+
+nsubj(features-2, Wonderful-1)
+root(ROOT-0, features-2)
+
+=========
+
+nsubj(step-2, Big-1)
+root(ROOT-0, step-2)
+prt(step-2, up-3)
+poss(D80-6, my-5)
+prep_from(step-2, D80-6)
+
+=========
+
+amod(enhancements-3, Many-1)
+amod(enhancements-3, thoughtful-2)
+nsubjpass(added-6, enhancements-3)
+aux(added-6, have-4)
+auxpass(added-6, been-5)
+root(ROOT-0, added-6)
+
+=========
+
+root(ROOT-0, Like-1)
+det(ability-3, the-2)
+pobj(Like-1, ability-3)
+aux(take-5, to-4)
+infmod(ability-3, take-5)
+num(shots-8, five-6)
+amod(shots-8, bracketed-7)
+dobj(take-5, shots-8)
+

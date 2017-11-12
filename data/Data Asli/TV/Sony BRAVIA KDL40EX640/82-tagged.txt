@@ -1,0 +1,7 @@
+This_DT is_VBZ for_IN the_DT 40_CD '_POS version_NN ._.
+I_PRP really_RB love_VBP this_DT TV_NN ,_, it_PRP is_VBZ perfect_JJ size_NN for_IN the_DT room_NN it_PRP is_VBZ in_IN and_CC it_PRP is_VBZ crystal_NN clear_JJ ._.
+One_CD problem_NN ,_, it_PRP allows_VBZ for_IN `_`` HDMI_NNP Control_NNP '_POS and_CC I_PRP have_VBP read_VBN around_RP that_IN it_PRP works_VBZ with_IN the_DT ps3_NN ._.
+I_PRP can_MD not_RB get_VB it_PRP to_TO work_VB ._.
+Both_DT the_DT software_NN on_IN the_DT TV_NN and_CC ps3_NN are_VBP up_RB to_TO date_NN and_CC I_PRP have_VBP tried_VBN multiple_JJ cables_NNS on_IN each_DT different_JJ HDMI_NNP port_NN ._.
+Whenever_RB I_PRP try_VBP to_TO `_`` enable_VB '_'' in_IN the_DT HDMI_NNP setting_NN `_`` Device_NN list_NN '_'' ,_, it_PRP says_VBZ `_`` no_DT devices_NNS found_VBD '_'' ._.
+So_RB is_VBZ the_DT ps3_CD capable_JJ of_IN it_PRP ,_, from_IN what_WP I_PRP have_VBP read_VBN ,_, or_CC is_VBZ it_PRP a_DT lie_NN ?_.

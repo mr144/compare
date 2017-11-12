@@ -1,0 +1,2 @@
+good_JJ phone_NN for_IN this_DT price_NN ,_, it_PRP has_VBZ everything_NN you_PRP will_MD need_VB in_IN a_DT smartphone_NN ,_, windows_NNS 7_CD is_VBZ very_RB cool_JJ but_CC not_RB enough_RB to_TO reach_VB android_NN or_CC IOs_NNS ._.
+It_PRP has_VBZ seriously_RB problems_NNS in_IN synchronization_NN with_IN other_JJ blue_JJ tooth_NN devices_NNS or_CC wifi_JJ networks_NNS ,_, so_RB if_IN you_PRP need_VBP data_NN transfer_NN is_VBZ going_VBG to_TO be_VB a_DT problem_NN in_IN some_DT cases_NNS ._.

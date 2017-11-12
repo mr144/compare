@@ -1,0 +1,114 @@
+=========
+
+root(ROOT-0, So-1)
+amod(issues-3, many-2)
+dep(So-1, issues-3)
+det(phone-6, this-5)
+prep_with(issues-3, phone-6)
+
+=========
+
+nsubj(start-2, Lets-1)
+root(ROOT-0, start-2)
+prep_with(start-2, positives-4)
+nsubj(friendly-17, Good-6)
+partmod(Good-6, looking-7)
+nn(phone-10, pocket-8)
+amod(phone-10, friendly-9)
+dobj(looking-7, phone-10)
+dobj(looking-7, Windows-12)
+num(Windows-12, 7.5-13)
+cop(friendly-17, is-14)
+advmod(friendly-17, very-15)
+advmod(friendly-17, user-16)
+parataxis(start-2, friendly-17)
+
+=========
+
+advmod(!!!!!-8, Now-1)
+det(8GB-5, the-2)
+dep(8GB-5, negatives-3)
+nsubj(!!!!!-8, 8GB-5)
+prep_of(8GB-5, memory-7)
+root(ROOT-0, !!!!!-8)
+det(!!!-12, No-9)
+nn(!!!-12, SD-10)
+nn(!!!-12, card-11)
+dobj(!!!!!-8, !!!-12)
+nsubj(have-15, I-14)
+xsubj(use-17, I-14)
+conj_and(!!!!!-8, have-15)
+aux(use-17, to-16)
+xcomp(have-15, use-17)
+nsubj(put-20, Zune-18)
+aux(put-20, to-19)
+xcomp(use-17, put-20)
+dobj(put-20, music-21)
+det(phone-24, the-23)
+prep_on(put-20, phone-24)
+
+=========
+
+aux(come-4, Does-1)
+neg(come-4, not-2)
+advmod(come-4, just-3)
+root(ROOT-0, come-4)
+prt(come-4, up-5)
+det(device-10, a-7)
+amod(device-10, mass-8)
+nn(device-10, storage-9)
+prep_as(come-4, device-10)
+
+=========
+
+root(ROOT-0, UNACCEPTABLE-1)
+
+=========
+
+det(IPhone-3, The-1)
+amod(IPhone-3, original-2)
+nsubj(had-6, IPhone-3)
+prep_in(IPhone-3, 2007-5)
+root(ROOT-0, had-6)
+dobj(had-6, 8GB-7)
+nn(life-13, memory-9)
+nn(life-13, !!-10)
+nn(life-13, Poor-11)
+nn(life-13, battery-12)
+prep_of(8GB-7, life-13)
+advmod(battery-20, at-15)
+pobj(at-15, least-16)
+poss(battery-20, its-17)
+dep(removable-19, a-18)
+amod(battery-20, removable-19)
+dobj(had-6, battery-20)
+conj_but(8GB-7, battery-20)
+
+=========
+
+nn(Marketplace-2, Windows-1)
+nsubj(has-3, Marketplace-2)
+root(ROOT-0, has-3)
+amod(amount-5, small-4)
+dobj(has-3, amount-5)
+prep_of(amount-5, apps-7)
+
+=========
+
+csubj(be-8, Coming-1)
+nn(users-6, Android-3)
+conj_and(Android-3, IPhone-5)
+nn(users-6, IPhone-5)
+prep_from(Coming-1, users-6)
+aux(be-8, will-7)
+dep(use-17, be-8)
+prep_in(be-8, shock-10)
+det(lack-13, the-12)
+prep_of(shock-10, lack-13)
+prep_of(lack-13, apps-15)
+nsubj(use-17, we-16)
+root(ROOT-0, use-17)
+prt(use-17, on-18)
+amod(basis-21, daily-20)
+prep_as(use-17, basis-21)
+

@@ -1,0 +1,32 @@
+=========
+
+det(unit-2, This-1)
+nsubj(arrived-3, unit-2)
+root(ROOT-0, arrived-3)
+advmod(arrived-3, prpomptly-4)
+
+=========
+
+nsubj(betterif-5, It-1)
+aux(betterif-5, would-2)
+cop(betterif-5, be-3)
+advmod(betterif-5, even-4)
+root(ROOT-0, betterif-5)
+nsubj(had-7, it-6)
+ccomp(betterif-5, had-7)
+mwe(than-9, more-8)
+quantmod(HDMI-11, than-9)
+number(HDMI-11, one-10)
+num(port-13, HDMI-11)
+nn(port-13, cable-12)
+dobj(had-7, port-13)
+
+=========
+
+nsubj(words-5, These-1)
+cop(words-5, are-2)
+det(words-5, the-3)
+amod(words-5, additional-4)
+root(ROOT-0, words-5)
+partmod(words-5, required-6)
+

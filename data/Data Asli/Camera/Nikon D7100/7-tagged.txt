@@ -1,0 +1,3 @@
+Worthwile_JJ upgrade_NN from_IN the_DT D7000_NNP ._.
+I_PRP am_VBP mostly_RB an_DT outdoor_JJ photographer_NN ,_, and_CC the_DT focus_NN is_VBZ great_JJ ._.
+Do_VBP not_RB use_VB much_RB high_JJ ISO_NNP ,_, but_CC the_DT noise_NN is_VBZ more_JJR than_IN acceptable_JJ ._.

@@ -1,0 +1,33 @@
+=========
+
+nsubj(took-2, We-1)
+root(ROOT-0, took-2)
+poss(camera-4, our-3)
+dobj(took-2, camera-4)
+prep_on(took-2, vacation-6)
+
+=========
+
+nsubj(took-2, It-1)
+root(ROOT-0, took-2)
+amod(pics-5, great-3)
+nn(pics-5, airplane-4)
+nsubj(took-13, pics-5)
+nn(pics-8, ocean-7)
+conj_and(pics-5, pics-8)
+nsubj(took-13, pics-8)
+det(camera-12, the-10)
+nn(camera-12, night-11)
+conj_and(pics-5, camera-12)
+nsubj(took-13, camera-12)
+ccomp(took-2, took-13)
+amod(pictures-15, beautiful-14)
+dobj(took-13, pictures-15)
+nn(Diego-18, San-17)
+prep_in(took-13, Diego-18)
+
+=========
+
+nn(Camera-2, Great-1)
+root(ROOT-0, Camera-2)
+

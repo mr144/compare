@@ -1,0 +1,127 @@
+=========
+
+nsubj(GOING-4, THIS-1)
+xsubj(KIND-9, THIS-1)
+aux(GOING-4, IS-2)
+neg(GOING-4, NOT-3)
+root(ROOT-0, GOING-4)
+aux(KIND-9, TO-5)
+cop(KIND-9, BE-6)
+det(KIND-9, A-7)
+nn(KIND-9, REGULAR-8)
+xcomp(GOING-4, KIND-9)
+prep_of(KIND-9, REVIEW-11)
+
+=========
+
+nsubj(SEE-2, YOU-1)
+ccomp(TO-9, SEE-2)
+nsubj(TO-9, THERE-4)
+cop(TO-9, IS-5)
+nn(TO-9, PROS-6)
+conj_and(PROS-6, CONS-8)
+nn(TO-9, CONS-8)
+root(ROOT-0, TO-9)
+partmod(TO-9, EVERYTHING-10)
+
+=========
+
+det(PRO-2, A-1)
+nsubj(CON-8, PRO-2)
+num(PERSON-5, ONE-4)
+prep_for(PRO-2, PERSON-5)
+cop(CON-8, IS-6)
+det(CON-8, A-7)
+root(ROOT-0, CON-8)
+prep_for(CON-8, ANOTHER-10)
+
+=========
+
+nsubj(BOUGHT-2, I-1)
+root(ROOT-0, BOUGHT-2)
+nn(NIKON-4, THIS-3)
+dobj(BOUGHT-2, NIKON-4)
+det(LENS-8, THE-6)
+num(LENS-8, 16-85MM-7)
+prep_with(BOUGHT-2, LENS-8)
+nn(I-11, ALL-10)
+prep_with(BOUGHT-2, I-11)
+conj_and(LENS-8, I-11)
+nn(THIS-16, WILL-12)
+nn(THIS-16, SAY-13)
+nn(THIS-16, IS-14)
+nn(THIS-16, THAT-15)
+nsubj(CAMERA-20, THIS-16)
+cop(CAMERA-20, IS-17)
+det(CAMERA-20, THE-18)
+nn(CAMERA-20, BEST-19)
+rcmod(LENS-8, CAMERA-20)
+nsubj(HAVE-22, I-21)
+rcmod(CAMERA-20, HAVE-22)
+nn(OWNED-24, EVER-23)
+nsubj(OWN-28, OWNED-24)
+conj_and(OWNED-24, EVER-26)
+nsubj(OWN-28, EVER-26)
+aux(OWN-28, WILL-27)
+ccomp(HAVE-22, OWN-28)
+
+=========
+
+nsubj(YEARS-4, I-1)
+cop(YEARS-4, AM-2)
+num(YEARS-4, 66-3)
+root(ROOT-0, YEARS-4)
+advmod(YEARS-4, OLD-5)
+nn(PHOTOGRAPHY-9, BEEN-7)
+nn(PHOTOGRAPHY-9, DOING-8)
+nsubj(THAT-20, PHOTOGRAPHY-9)
+nn(YEARS-12, FIFTY-11)
+prep_for(PHOTOGRAPHY-9, YEARS-12)
+prep_for(PHOTOGRAPHY-9, THIS-14)
+conj_and(YEARS-12, THIS-14)
+aux(THAT-20, WILL-15)
+cop(THAT-20, BE-16)
+det(THAT-20, THE-17)
+nn(THAT-20, LAST-18)
+nn(THAT-20, CAMERA-19)
+parataxis(YEARS-4, THAT-20)
+nsubj(EVER-23, I-21)
+aux(EVER-23, WILL-22)
+rcmod(THAT-20, EVER-23)
+dobj(EVER-23, NEED-24)
+
+=========
+
+mark(WANT-3, IF-1)
+nsubj(WANT-3, YOU-2)
+advcl(THIS-8, WANT-3)
+det(BEST-5, THE-4)
+dobj(WANT-3, BEST-5)
+nsubj(THIS-8, BUY-7)
+root(ROOT-0, THIS-8)
+dobj(THIS-8, CAMERA-9)
+
+=========
+
+nn(WAY-3, BY-1)
+nn(WAY-3, THE-2)
+nsubj(AND-14, WAY-3)
+appos(WAY-3, I-5)
+nn(AUTO-12, AM-6)
+nn(AUTO-12, USING-7)
+nn(AUTO-12, ISO-8)
+nn(AUTO-12, SPEEDS-9)
+nn(AUTO-12, BETWEEN-10)
+nn(AUTO-12, 100-6400-11)
+dep(I-5, AUTO-12)
+root(ROOT-0, AND-14)
+xcomp(AND-14, GETTING-15)
+amod(RESULTS-17, GREAT-16)
+dobj(GETTING-15, RESULTS-17)
+
+=========
+
+nn(SELTZER-3, RICHARD-1)
+nn(SELTZER-3, M.-2)
+root(ROOT-0, SELTZER-3)
+

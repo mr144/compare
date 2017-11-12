@@ -1,0 +1,5 @@
+I_PRP received_VBD what_WP I_PRP ordered_VBD and_CC the_DT description_NN matched_VBD what_WP I_PRP anticipated_VBD ._.
+Glad_JJ to_TO own_VB this_DT phone_NN ._.
+One_CD problem_NN is_VBZ they_PRP discontinued_VBD the_DT 3G_NNP so_IN it_PRP only_RB goes_VBZ up_RP to_TO iOS_NNP 4.2_CD which_WDT is_VBZ not_RB high_JJ enough_RB to_TO install_VB most_JJS apps_NNS ._.
+The_DT phone_NN is_VBZ slower_JJR than_IN the_DT 3GS_CD but_CC you_PRP get_VBP what_WP you_PRP pay_VBP for_IN ._.
+Not_RB bad_JJ for_IN the_DT price_NN I_PRP got_VBD it_PRP for_IN ._.

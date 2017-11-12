@@ -1,0 +1,27 @@
+=========
+
+nsubj(noob-5, I-1)
+cop(noob-5, am-2)
+det(noob-5, a-3)
+nn(noob-5, camera-4)
+root(ROOT-0, noob-5)
+det(thing-8, this-7)
+nsubj(takes-9, thing-8)
+conj_and(noob-5, takes-9)
+amod(photos-11, terrific-10)
+dobj(takes-9, photos-11)
+
+=========
+
+nsubj(purchase-3, VERY-1)
+nsubjpass(used-7, VERY-1)
+amod(VERY-1, good-2)
+root(ROOT-0, purchase-3)
+aux(used-7, will-5)
+auxpass(used-7, be-6)
+conj_and(purchase-3, used-7)
+amod(years-10, many-9)
+prep_for(used-7, years-10)
+aux(come-12, to-11)
+xcomp(used-7, come-12)
+

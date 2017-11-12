@@ -1,0 +1,3 @@
+I_PRP received_VBD a_DT phone_NN about_IN 2_CD months_NNS ago_RB and_CC the_DT left_JJ corner_NN is_VBZ shattered_JJ and_CC there_EX are_VBP no_DT volume_NN buttons_NNS ._.
+I_PRP would_MD never_RB buy_VB a_DT product_NN from_IN this_DT person_NN ._.
+Absolutely_RB never_RB again_RB ._.

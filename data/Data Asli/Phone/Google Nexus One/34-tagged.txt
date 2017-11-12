@@ -1,0 +1,24 @@
+I_PRP owned_VBD this_DT phone_NN for_IN nine_CD months_NNS ._.
+Hardware_NN :_: By_IN far_RB its_PRP$ most_RBS outstanding_JJ feature_NN is_VBZ the_DT crisp_JJ 480x800_JJ display_NN ._.
+Everything_NN else_RB -_: wifi_NN ,_, speakerphone_NN ,_, camera_NN ,_, etc._FW is_VBZ adequate_JJ ._.
+The_DT phone_NN is_VBZ sleek_JJ and_CC comfortable_JJ to_TO use_VB ._.
+Wifi_NNP and_CC GPS_NNP are_VBP huge_JJ drains_VBZ on_IN battery_NN ._.
+It_PRP is_VBZ best_JJS to_TO have_VB them_PRP turned_VBN off_RP unless_IN specifically_RB needed_VBN ._.
+Software_NNP :_: On_IN startup_NN ,_, access_NN point_NN information_NN for_IN mobile_JJ networking_NN was_VBD missing_VBG from_IN the_DT config_NN ._.
+I_PRP had_VBD to_TO add_VB it_PRP for_IN my_PRP$ carrier_NN -LRB-_-LRB- under_IN Settings_NNS -_: -RRB-_-RRB- Wireless_NNP and_CC Networks_NNP -_: -RRB-_-RRB- Mobile_NNP Networks_NNP -_: -RRB-_-RRB- Access_NNP Point_NNP Names_NNPS -RRB-_-RRB- ._.
+Since_IN I_PRP did_VBD not_RB buy_VB the_DT phone_NN from_IN my_PRP$ carrier_NN there_EX was_VBD no_DT extra_JJ bloatware_NN on_IN it_PRP -_: just_RB the_DT basic_JJ Android_NNP operating_NN system_NN ._.
+An_DT OTA_NNP upgrade_NN from_IN Android_JJ version_NN 2.2_CD to_TO 2.3_CD broke_VBD the_DT dictionary_NN suggestions_NNS feature_VBP when_WRB typing_VBG ._.
+-LRB-_-LRB- see_VB issue_NN #_# 18716_CD on_IN the_DT Android_NNP issue_NN tracking_NN system_NN at_IN code.google.com_NN ._.
+This_DT is_VBZ supposed_VBN to_TO have_VB been_VBN fixed_VBN with_IN version_NN 2.3.6_CD ._. -RRB-_-RRB-
+I_PRP had_VBD to_TO install_VB a_DT third-party_JJ keyboard_NN to_TO work_VB around_IN the_DT problem_NN ._.
+Reliability_NN :_: The_DT phone_NN started_VBD exhibiting_VBG problems_NNS after_IN nine_CD months_NNS ._.
+First_RB ,_, the_DT camera_NN stopped_VBD working_VBG ._.
+Next_JJ ,_, the_DT screen_NN would_MD go_VB blank_JJ after_IN a_DT call_NN started_VBD and_CC remain_VBP unresponsive_JJ ._.
+Could_MD not_RB access_VB any_DT of_IN the_DT on-screen_JJ controls_NNS for_IN ending_VBG and_CC muting_VBG calls_NNS or_CC switching_VBG to_TO speakerphone_NN ._.
+I_PRP did_VBD have_VB to_TO press_VB down_RP on_IN the_DT bottom_NN of_IN the_DT battery_NN compartment_NN to_TO get_VB the_DT screen_NN to_TO display_VB ,_, or_CC remove_VB the_DT battery_NN and_CC do_VB a_DT hard_JJ reset_NN ._.
+I_PRP have_VBP seen_VBN many_JJ people_NNS report_VBP similar_JJ problems_NNS after_IN a_DT few_JJ months_NNS of_IN usage_NN ._.
+Like_IN others_NNS ,_, I_PRP received_VBD a_DT very_RB poor_JJ response_NN from_IN HTC_NNP and_CC a_DT refusal_NN for_IN warranty_NN service_NN ._.
+Amazon_NNP ,_, on_IN the_DT other_JJ hand_NN ,_, offered_VBD to_TO refund_VB the_DT original_JJ amount_NN ._.
+Kudos_NNS to_TO them_PRP for_IN doing_VBG so_RB ._.
+Bottom_NN line_NN :_: This_DT phone_NN is_VBZ good_JJ when_WRB it_PRP functions_NNS ._.
+Unfortunately_RB ,_, a_DT number_NN of_IN people_NNS have_VBP had_VBN problems_NNS with_IN it_PRP and_CC the_DT manufacturer_NN is_VBZ unwilling_JJ to_TO fulfill_VB its_PRP$ warranty_NN obligations_NNS ._.

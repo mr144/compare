@@ -1,0 +1,59 @@
+=========
+
+nsubj(wanted-2, We-1)
+root(ROOT-0, wanted-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+dobj(wanted-2, TV-5)
+poss(house-9, our-7)
+amod(house-9, first-8)
+prep_for(wanted-2, house-9)
+nsubj(pointed-15, all-11)
+det(reviews-14, the-13)
+prep_of(all-11, reviews-14)
+conj_and(wanted-2, pointed-15)
+dobj(pointed-15, us-16)
+det(one-19, this-18)
+prep_toward(pointed-15, one-19)
+nn(quality-22, picture-21)
+prep_for(pointed-15, quality-22)
+
+=========
+
+nsubj(good-4, It-1)
+cop(good-4, 's-2)
+advmod(good-4, really-3)
+root(ROOT-0, good-4)
+
+=========
+
+dep(happier-15, Hooked-1)
+prt(Hooked-1, up-2)
+det(TV-6, an-4)
+nn(TV-6, Apple-5)
+prep_to(Hooked-1, TV-6)
+det(Playbar-10, a-8)
+nn(Playbar-10, SONOS-9)
+prep_to(Hooked-1, Playbar-10)
+conj_and(TV-6, Playbar-10)
+nsubj(happier-15, I-11)
+aux(happier-15, could-12)
+neg(happier-15, not-13)
+cop(happier-15, be-14)
+root(ROOT-0, happier-15)
+
+=========
+
+nsubj(have-3, I-1)
+neg(have-3, never-2)
+root(ROOT-0, have-3)
+nn(envy-5, TV-4)
+nsubj(visit-10, envy-5)
+advmod(more-7, any-6)
+dep(visit-10, more-7)
+advmod(visit-10, when-8)
+nsubj(visit-10, we-9)
+xcomp(have-3, visit-10)
+poss(friends-12, our-11)
+dobj(visit-10, friends-12)
+

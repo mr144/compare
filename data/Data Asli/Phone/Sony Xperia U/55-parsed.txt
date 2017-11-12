@@ -1,0 +1,39 @@
+=========
+
+amod(value-3, excellent-1)
+nn(value-3, price-2)
+root(ROOT-0, value-3)
+det(product-6, the-5)
+prep_of(value-3, product-6)
+
+=========
+
+root(ROOT-0, good-1)
+dep(good-1, mp4-2)
+dep(good-1, mp3-4)
+conj_and(mp4-2, mp3-4)
+
+=========
+
+det(weight-2, The-1)
+nsubj(light-5, weight-2)
+cop(light-5, is-3)
+advmod(light-5, very-4)
+root(ROOT-0, light-5)
+
+=========
+
+cc(included-5, But-1)
+det(flash-4, no-3)
+nsubj(included-5, flash-4)
+root(ROOT-0, included-5)
+
+=========
+
+advmod(best-7, Overall-1)
+det(smartphone-4, this-3)
+nsubj(best-7, smartphone-4)
+cop(best-7, is-5)
+det(best-7, the-6)
+root(ROOT-0, best-7)
+

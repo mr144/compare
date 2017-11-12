@@ -1,0 +1,4 @@
+It_PRP has_VBZ been_VBN very_RB frustrating_JJ to_TO try_VB to_TO learn_VB how_WRB to_TO use_VB this_DT camera_NN ._.
+The_DT Instruction_NNP Manual_NNP and_CC the_DT InCamera_NNP Guide_NNP are_VBP jokes_NNS ._.
+The_DT supplied_VBN lens_NN cap_NN -LRB-_-LRB- not_RB addressed_VBN in_IN the_DT mentioned_VBN documentation_NN -RRB-_-RRB- inteferes_VBZ with_IN lens_NN extension_NN when_WRB camera_NN is_VBZ turned_VBN on_RP ._.
+The_DT InCamera_NNP Guide_NNP and_CC the_DT wastebasket_NN function_NN are_VBP accessed_VBN by_IN the_DT same_JJ button_NN -LRB-_-LRB- this_DT appears_VBZ to_TO be_VB because_IN it_PRP makes_VBZ it_PRP easy_JJ to_TO delete_VB the_DT In-Cama_NNP Guide_NNP -RRB-_-RRB- ._.

@@ -1,0 +1,59 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+det(capability-12, the-7)
+amod(capability-12, stated-8)
+amod(capability-12, superior-9)
+amod(capability-12, low-10)
+nn(capability-12, light-11)
+prep_because_of(camera-4, capability-12)
+
+=========
+
+nsubj(good-5, It-1)
+cop(good-5, is-2)
+neg(good-5, not-3)
+advmod(good-5, as-4)
+root(ROOT-0, good-5)
+poss(P712-9, my-7)
+amod(P712-9, old-8)
+prep_as(good-5, P712-9)
+
+=========
+
+nsubj(hate-2, I-1)
+root(ROOT-0, hate-2)
+det(light-5, the-3)
+amod(light-5, yellow-4)
+dobj(hate-2, light-5)
+nsubj(comes-7, light-5)
+rcmod(light-5, comes-7)
+advmod(shooting-10, when-9)
+prepc_on(comes-7, shooting-10)
+det(video-12, a-11)
+dobj(shooting-10, video-12)
+amod(conditions-16, low-14)
+nn(conditions-16, light-15)
+prep_in(shooting-10, conditions-16)
+expl(is-19, there-18)
+conj_and(hate-2, is-19)
+det(way-21, no-20)
+nsubj(is-19, way-21)
+aux(shut-23, to-22)
+infmod(way-21, shut-23)
+dobj(shut-23, it-24)
+prt(shut-23, off-25)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+neg(recommend-4, not-3)
+root(ROOT-0, recommend-4)
+det(camera-6, this-5)
+dobj(recommend-4, camera-6)
+prep_to(recommend-4, anyone-8)
+

@@ -1,0 +1,46 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+nsubjpass(discontinued-7, this-3)
+advmod(discontinued-7, soon-4)
+aux(discontinued-7, to-5)
+auxpass(discontinued-7, be-6)
+xcomp(bought-2, discontinued-7)
+ccomp(discontinued-7, set-8)
+poss(TV-12, Paul-10)
+prep_from(set-8, TV-12)
+advmod(give-16, where-13)
+nsubj(give-16, they-14)
+aux(give-16, would-15)
+advcl(set-8, give-16)
+iobj(give-16, you-17)
+dobj(give-16, $-18)
+num($-18, 500-19)
+poss(set-23, your-21)
+amod(set-23, old-22)
+prep_for($-18, set-23)
+prep_regardless_of(set-8, condition-27)
+nsubj(turned-31, it-30)
+xsubj($-35, it-30)
+conj_and(bought-2, turned-31)
+prt(turned-31, out-32)
+aux($-35, to-33)
+cop($-35, be-34)
+xcomp(turned-31, $-35)
+num($-35, 1497-36)
+appos($-35, new-38)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+advmod(bad-2, Too-1)
+amod(Panasonic-3, bad-2)
+nsubj(have-6, Panasonic-3)
+aux(have-6, does-4)
+neg(have-6, not-5)
+root(ROOT-0, have-6)
+det(outlet-8, this-7)
+dobj(have-6, outlet-8)
+

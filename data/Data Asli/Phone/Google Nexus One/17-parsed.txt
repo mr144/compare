@@ -1,0 +1,37 @@
+=========
+
+amod(phone-2, Excellent-1)
+nsubj(recommend-5, phone-2)
+nsubj(recommend-5, I-4)
+root(ROOT-0, recommend-5)
+dobj(recommend-5, it-6)
+
+=========
+
+root(ROOT-0, Works-1)
+advmod(Works-1, great-2)
+det(flaws-5, no-4)
+appos(Works-1, flaws-5)
+appos(Works-1, faults-7)
+conj_or(flaws-5, faults-7)
+
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, really-3)
+root(ROOT-0, pleased-4)
+poss(one-9, my-6)
+amod(one-9, new-7)
+nn(one-9, nexus-8)
+prep_with(pleased-4, one-9)
+
+=========
+
+nsubj(one-5, This-1)
+cop(one-5, is-2)
+det(one-5, the-3)
+amod(one-5, best-4)
+root(ROOT-0, one-5)
+prep_for(one-5, me-7)
+

@@ -1,0 +1,56 @@
+=========
+
+nsubj(gave-2, I-1)
+root(ROOT-0, gave-2)
+dobj(gave-2, this-3)
+det(gift-6, a-5)
+prep_as(gave-2, gift-6)
+nsubj(loved-9, they-8)
+conj_and(gave-2, loved-9)
+dobj(loved-9, it-10)
+
+=========
+
+nsubj(is-2, It-1)
+nsubj(takes-7, It-1)
+root(ROOT-0, is-2)
+advmod(is-2, still-3)
+prep_in(is-2, use-5)
+conj_and(is-2, takes-7)
+amod(pictures-9, great-8)
+dobj(takes-7, pictures-9)
+
+=========
+
+advmod(ready-12, Now-1)
+dep(used-5, that-2)
+nsubjpass(used-5, they-3)
+auxpass(used-5, are-4)
+ccomp(Now-1, used-5)
+det(camera-8, this-7)
+prep_to(used-5, camera-8)
+nsubj(ready-12, they-9)
+cop(ready-12, are-10)
+advmod(ready-12, now-11)
+root(ROOT-0, ready-12)
+aux(move-14, to-13)
+xcomp(ready-12, move-14)
+prep(move-14, on-15)
+pcomp(on-15, to-16)
+prep_to(on-15, something-17)
+advmod(advanced-19, more-18)
+amod(something-17, advanced-19)
+det(lens-23, a-21)
+amod(lens-23, better-22)
+prep_with(move-14, lens-23)
+
+=========
+
+advmod(did-3, BUT-1)
+nsubj(did-3, this-2)
+root(ROOT-0, did-3)
+det(job-5, the-4)
+dobj(did-3, job-5)
+advmod(well-7, very-6)
+advmod(did-3, well-7)
+

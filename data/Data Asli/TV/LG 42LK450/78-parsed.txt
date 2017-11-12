@@ -1,0 +1,147 @@
+=========
+
+nsubj(satisfied-4, I-1)
+cop(satisfied-4, am-2)
+advmod(satisfied-4, very-3)
+root(ROOT-0, satisfied-4)
+det(set-10, the-6)
+nn(set-10, LG-7)
+num(set-10, 42LK450-8)
+nn(set-10, television-9)
+prep_with(satisfied-4, set-10)
+partmod(set-10, purchased-11)
+num(month-13, one-12)
+npadvmod(ago-14, month-13)
+advmod(purchased-11, ago-14)
+prep_through(purchased-11, Amazon-16)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(picture-5, an-3)
+amod(picture-5, excellent-4)
+dobj(has-2, picture-5)
+det(respect-8, every-7)
+prep_in(picture-5, respect-8)
+
+=========
+
+nsubjpass(delivered-3, It-1)
+nsubj(easy-12, It-1)
+nsubjpass(set-16, It-1)
+auxpass(delivered-3, was-2)
+root(ROOT-0, delivered-3)
+advmod(delivered-3, well-4)
+det(time-8, the-6)
+amod(time-8, estimated-7)
+prep_within(delivered-3, time-8)
+cop(easy-12, was-10)
+advmod(easy-12, very-11)
+conj_and(delivered-3, easy-12)
+aux(connect-14, to-13)
+xcomp(easy-12, connect-14)
+conj_and(delivered-3, set-16)
+prt(set-16, up-17)
+
+=========
+
+advmod(terrible-10, However-1)
+det(owner-4, the-3)
+poss(manual-6, owner-4)
+nsubj(terrible-10, manual-6)
+conj_and(manual-6, CD-8)
+nsubj(terrible-10, CD-8)
+cop(terrible-10, are-9)
+root(ROOT-0, terrible-10)
+
+=========
+
+nsubj(attempted-3, They-1)
+xsubj(cover-5, They-1)
+aux(attempted-3, have-2)
+root(ROOT-0, attempted-3)
+aux(cover-5, to-4)
+xcomp(attempted-3, cover-5)
+advmod(many-7, too-6)
+amod(models-8, many-7)
+dobj(cover-5, models-8)
+prep_of(models-8, sets-10)
+num(package-14, one-12)
+amod(package-14, instructional-13)
+prep_in(sets-10, package-14)
+
+=========
+
+det(models-5, No-1)
+mwe(than-3, less-2)
+quantmod(55-4, than-3)
+num(models-5, 55-4)
+nsubjpass(listed-7, models-5)
+auxpass(listed-7, are-6)
+root(ROOT-0, listed-7)
+auxpass(covered-10, being-9)
+prepc_as(listed-7, covered-10)
+
+=========
+
+partmod(are-4, Granted-1)
+expl(are-4, there-3)
+root(ROOT-0, are-4)
+amod(similarities-6, substantial-5)
+nsubj(are-4, similarities-6)
+prep_in(similarities-6, groupings-8)
+prep_of(groupings-8, models-10)
+expl(are-14, there-13)
+conj_but(are-4, are-14)
+advmod(are-14, also-15)
+nsubj(are-14, differences-16)
+nsubj(obvious-20, differences-16)
+cop(obvious-20, are-18)
+neg(obvious-20, not-19)
+rcmod(differences-16, obvious-20)
+
+=========
+
+nsubj(struggled-3, We-1)
+aux(struggled-3, have-2)
+root(ROOT-0, struggled-3)
+prepc_over(struggled-3, gaining-5)
+dobj(gaining-5, access-6)
+amod(subchannels-9, digital-8)
+prep_to(gaining-5, subchannels-9)
+advmod(night-13, only-11)
+amod(night-13, last-12)
+nsubj(successful-15, night-13)
+cop(successful-15, were-14)
+conj_and(struggled-3, successful-15)
+
+=========
+
+advmod(able-5, Still-1)
+aux(able-5, have-2)
+nsubj(able-5, not-3)
+cop(able-5, been-4)
+root(ROOT-0, able-5)
+aux(set-7, to-6)
+xcomp(able-5, set-7)
+det(clock-9, the-8)
+dobj(set-7, clock-9)
+poss(zone-13, our-11)
+nn(zone-13, time-12)
+prep_to(set-7, zone-13)
+
+=========
+
+advmod(rates-4, Still-1)
+det(TV-3, the-2)
+nsubj(rates-4, TV-3)
+root(ROOT-0, rates-4)
+num(stars-6, 5-5)
+dobj(rates-4, stars-6)
+det(star-11, the-8)
+nn(star-11, instructions-9)
+num(star-11, 1-10)
+dobj(rates-4, star-11)
+conj_and(stars-6, star-11)
+

@@ -1,0 +1,1 @@
+A_DT much_RB bigger_JJR jump_NN from_IN K10D_NNP than_IN I_PRP expected_VBD ;_: wonderful_JJ color_NN and_CC contrast_NN ;_: A_DT little_JJ on_IN the_DT heavy_JJ side_NN but_CC very_RB good_JJ balance_NN ._.

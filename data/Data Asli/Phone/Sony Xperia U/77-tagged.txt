@@ -1,0 +1,7 @@
+This_DT is_VBZ my_PRP$ first_JJ smarphone_NN ._.
+And_CC I_PRP really_RB like_IN it_PRP ._.
+Screen_NN responsiveness_NN is_VBZ great_JJ ._.
+Perceived_VBN quality_NN is_VBZ very_RB good_JJ ._.
+Battery_NNP lasts_VBZ for_IN 2_CD or_CC 3_CD days_NNS ,_, if_IN I_PRP do_VBP not_RB use_VB too_RB much_JJ internet_NN ._.
+It_PRP comes_VBZ with_IN the_DT usb_NN conector_NN \/_NN recharger_NN ,_, a_DT protective_JJ screen_NN -LRB-_-LRB- Sony_NNP should_MD also_RB supply_VB their_PRP$ tablets_NNS with_IN those_DT ,_, they_PRP are_VBP great_JJ -RRB-_-RRB- ._.
+The_DT light_JJ bar_NN at_IN the_DT bottom_NN is_VBZ useless_JJ in_IN my_PRP$ opinion_NN ._.

@@ -1,0 +1,6 @@
+When_WRB I_PRP finally_RB figured_VBD out_RP the_DT problem_NN ,_, the_DT camera_NN worked_VBD well_RB and_CC I_PRP now_RB like_IN the_DT camera_NN ._.
+The_DT problem_NN was_VBD the_DT crummy_JJ batteries_NNS provided_VBN with_IN the_DT camera_NN ._.
+They_PRP were_VBD not_RB powerful_JJ enough_RB to_TO work_VB the_DT memory_NN chip_NN ._.
+I_PRP thought_VBD the_DT memory_NN chip_NN was_VBD bad_JJ ._.
+The_DT batteries_NNS provided_VBN with_IN the_DT camera_NN only_RB let_VB me_PRP take_VB 9_CD pictures_NNS and_CC then_RB the_DT camera_NN said_VBD the_DT memory_NN was_VBD full_JJ ._.
+The_DT memory_NN could_MD handle_VB 9,999_CD pictures_NNS ,_, not_RB the_DT 9_CD the_DT poor_JJ batteries_NNS would_MD allow_VB ._.

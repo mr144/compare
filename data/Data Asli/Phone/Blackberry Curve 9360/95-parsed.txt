@@ -1,0 +1,22 @@
+=========
+
+nsubj(good-8, thanks-1)
+det(Blackberry-5, the-3)
+nn(Blackberry-5, product-4)
+prep_for(thanks-1, Blackberry-5)
+num(Blackberry-5, 9360-6)
+cop(good-8, is-7)
+root(ROOT-0, good-8)
+ccomp(good-8, commend-9)
+dobj(commend-9, them-10)
+poss(work-13, their-12)
+prep_for(commend-9, work-13)
+num(greetings-21, one-14)
+num(greetings-21, hundred-15)
+nn(greetings-21, percent-16)
+amod(greetings-21, recommended-17)
+amod(greetings-21, amazon-18)
+amod(greetings-21, happy-19)
+nn(greetings-21, day-20)
+dep(work-13, greetings-21)
+

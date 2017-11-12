@@ -1,0 +1,34 @@
+=========
+
+nsubj(stoped-2, Phone-1)
+root(ROOT-0, stoped-2)
+xcomp(stoped-2, working-3)
+num(months-6, 2-5)
+prep_after(working-3, months-6)
+
+=========
+
+advmod(carried-3, When-1)
+nsubj(carried-3, i-2)
+advcl(told-10, carried-3)
+dobj(carried-3, it-4)
+det(technician-7, a-6)
+prep_by(carried-3, technician-7)
+nsubjpass(told-10, I-8)
+auxpass(told-10, was-9)
+root(ROOT-0, told-10)
+nsubj(phone-15, it-11)
+cop(phone-15, was-12)
+det(phone-15, a-13)
+amod(phone-15, refurbished-14)
+ccomp(told-10, phone-15)
+
+=========
+
+nn(TIME-6, DO-1)
+nn(TIME-6, NOT-2)
+nn(TIME-6, EVEN-3)
+nn(TIME-6, WASTE-4)
+nn(TIME-6, YOUR-5)
+root(ROOT-0, TIME-6)
+

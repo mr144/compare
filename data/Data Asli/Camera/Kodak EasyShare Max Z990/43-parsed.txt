@@ -1,0 +1,23 @@
+=========
+
+root(ROOT-0, Muy-1)
+nn(y-6, buena-2)
+nn(y-6, camara-3)
+nn(y-6, excelente-4)
+nn(y-6, precio-5)
+dobj(Muy-1, y-6)
+prep(y-6, la-7)
+nn(mejor-10, entrega-8)
+nn(mejor-10, aun-9)
+pobj(la-7, mejor-10)
+appos(mejor-10, he-12)
+amod(fotografias-15, tomado-13)
+nn(fotografias-15, una-14)
+nsubj(magnificas-16, fotografias-15)
+rcmod(y-6, magnificas-16)
+amod(volcanes-19, de-17)
+nn(volcanes-19, los-18)
+dobj(magnificas-16, volcanes-19)
+nn(Guatemala-21, de-20)
+nsubj(Muy-1, Guatemala-21)
+

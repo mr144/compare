@@ -1,0 +1,2 @@
+This_DT is_VBZ a_DT good_JJ quality_NN camera_NN and_CC has_VBZ been_VBN very_RB useful_JJ ,_, that_DT is_VBZ ,_, until_IN we_PRP ran_VBD into_IN the_DT common_JJ turn_NN on\/off_JJ error_NN message_NN from_IN this_DT models_NNS ._.
+We_PRP solved_VBD this_DT by_IN applying_VBG the_DT manufacturer_NN 's_POS firmware_NN update_VBP available_JJ here_RB :_: -LRB-_-LRB- ..._: -RRB-_-RRB-

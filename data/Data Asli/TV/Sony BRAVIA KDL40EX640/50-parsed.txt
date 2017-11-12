@@ -1,0 +1,227 @@
+=========
+
+nsubj(fan-6, I-1)
+aux(fan-6, have-2)
+cop(fan-6, been-3)
+det(fan-6, a-4)
+nn(fan-6, Sony-5)
+root(ROOT-0, fan-6)
+amod(years-9, many-8)
+prep_for(fan-6, years-9)
+
+=========
+
+nsubj(worked-2, I-1)
+nsubj(owned-11, I-1)
+root(ROOT-0, worked-2)
+prep_for(worked-2, them-4)
+num(years-7, 16-6)
+prep_for(worked-2, years-7)
+aux(owned-11, have-9)
+neg(owned-11, never-10)
+conj_and(worked-2, owned-11)
+det(brand-13, another-12)
+dobj(owned-11, brand-13)
+prep_of(brand-13, TV-15)
+
+=========
+
+advmod(came-3, When-1)
+nsubj(came-3, it-2)
+advcl(recommending-15, came-3)
+csubj(recommending-15, came-3)
+dobj(came-3, time-4)
+aux(upgrade-6, to-5)
+xcomp(came-3, upgrade-6)
+poss(32-8, my-7)
+dobj(upgrade-6, 32-8)
+det(everyone-13, the-11)
+nn(everyone-13, bedroom-12)
+prep_in(upgrade-6, everyone-13)
+aux(recommending-15, was-14)
+root(ROOT-0, recommending-15)
+dobj(recommending-15, Samsung-16)
+partmod(recommending-15, saying-18)
+xcomp(recommending-15, saying-18)
+nsubj(surpassed-21, they-19)
+aux(surpassed-21, have-20)
+ccomp(saying-18, surpassed-21)
+dobj(surpassed-21, Sony-22)
+
+=========
+
+nsubj(compared-2, I-1)
+root(ROOT-0, compared-2)
+nsubj(lot-5, them-3)
+det(lot-5, a-4)
+xcomp(compared-2, lot-5)
+prep_in(lot-5, stores-7)
+
+=========
+
+det(color-2, The-1)
+nsubj(looked-7, color-2)
+det(Sony-5, the-4)
+prep_of(color-2, Sony-5)
+advmod(looked-7, just-6)
+root(ROOT-0, looked-7)
+advmod(natural-9, more-8)
+acomp(looked-7, natural-9)
+
+=========
+
+amod(Friday-2, Last-1)
+tmod(delivered-4, Friday-2)
+nsubj(delivered-4, UPS-3)
+root(ROOT-0, delivered-4)
+det(Christmas-7, an-5)
+amod(Christmas-7, early-6)
+nsubj(present-8, Christmas-7)
+ccomp(delivered-4, present-8)
+det(Sony-11, the-10)
+dobj(present-8, Sony-11)
+num(Sony-11, 40-12)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(design-4, the-3)
+dobj(love-2, design-4)
+advmod(simple-7, very-6)
+amod(design-4, simple-7)
+amod(design-4, clean-9)
+conj_and(simple-7, clean-9)
+
+=========
+
+advmod(thin-3, how-2)
+prep_love(is-5, thin-3)
+nsubj(is-5, it-4)
+root(ROOT-0, is-5)
+prepc_compared_to(is-5, to-7)
+poss(XBR-10, my-8)
+amod(XBR-10, old-9)
+pobj(is-5, XBR-10)
+
+=========
+
+advmod(perfect-9, Right-1)
+det(box-5, the-4)
+prep_out_of(perfect-9, box-5)
+det(picture-7, the-6)
+nsubj(perfect-9, picture-7)
+cop(perfect-9, was-8)
+root(ROOT-0, perfect-9)
+
+=========
+
+nsubj(watched-3, I-1)
+aux(watched-3, have-2)
+root(ROOT-0, watched-3)
+dobj(watched-3, lots-4)
+amod(things-7, different-6)
+prep_of(lots-4, things-7)
+prep_on(watched-3, it-9)
+nsubj(incredible-14, it-11)
+cop(incredible-14, is-12)
+advmod(incredible-14, really-13)
+conj_and(watched-3, incredible-14)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+advmod(is-2, absolutely-3)
+det(blur-6, no-4)
+nn(blur-6, motion-5)
+nsubj(is-2, blur-6)
+
+=========
+
+det(reviewers-2, Some-1)
+nsubj(complained-4, reviewers-2)
+aux(complained-4, have-3)
+root(ROOT-0, complained-4)
+det(sound-7, the-6)
+prep_about(complained-4, sound-7)
+
+=========
+
+nsubj(bad-5, It-1)
+cop(bad-5, 's-2)
+neg(bad-5, not-3)
+advmod(bad-5, that-4)
+root(ROOT-0, bad-5)
+nsubj(did-8, I-7)
+conj_but(bad-5, did-8)
+advmod(order-10, just-9)
+iobj(did-8, order-10)
+det(system-15, the-11)
+nn(system-15, Bose-12)
+nn(system-15, Solo-13)
+nn(system-15, Sound-14)
+dobj(did-8, system-15)
+dobj(has-19, system-15)
+rel(has-19, which-16)
+det(friend-18, a-17)
+nsubj(has-19, friend-18)
+nsubj(sounds-21, friend-18)
+rcmod(system-15, has-19)
+rcmod(system-15, sounds-21)
+conj_and(has-19, sounds-21)
+acomp(sounds-21, incredible-22)
+
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, also-2)
+root(ROOT-0, love-3)
+det(fact-5, the-4)
+dobj(love-3, fact-5)
+complm(has-9, that-6)
+det(TV-8, the-7)
+nsubj(has-9, TV-8)
+ccomp(love-3, has-9)
+quantmod(3D-11, no-10)
+num(capabilities-12, 3D-11)
+dobj(has-9, capabilities-12)
+
+=========
+
+nsubj(do-2, I-1)
+root(ROOT-0, do-2)
+neg(use-11, not-3)
+advcl(use-11, like-4)
+prepc_like(use-11, paying-5)
+prep_for(paying-5, something-7)
+nsubj(use-11, I-8)
+aux(use-11, will-9)
+neg(use-11, never-10)
+ccomp(do-2, use-11)
+
+=========
+
+advmod(happy-10, All-1)
+predet(set-6, all-3)
+det(set-6, a-4)
+amod(set-6, great-5)
+prep_in(All-1, set-6)
+nsubj(happy-10, I-7)
+cop(happy-10, am-8)
+advmod(happy-10, totally-9)
+root(ROOT-0, happy-10)
+prep(happy-10, with-11)
+
+=========
+
+aux(last-2, Should-1)
+root(ROOT-0, last-2)
+dobj(last-2, me-3)
+mark(comes-6, until-4)
+nsubj(comes-6, Apple-5)
+advcl(last-2, comes-6)
+prt(comes-6, out-7)
+det(TV-10, a-9)
+prep_with(comes-6, TV-10)
+

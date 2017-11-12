@@ -1,0 +1,4 @@
+Took_VBD the_DT tv_NN out_IN of_IN the_DT box_NN ,_, attached_JJ stand_NN ,_, plugged_VBD it_PRP in_IN to_TO wall_NN outlet_NN and_CC cable_NN box_NN ._.
+TV_NN is_VBZ in_IN room_NN with_IN abundant_JJ sunlight_NN in_IN morning_NN and_CC we_PRP have_VBP no_DT problem_NN with_IN picture_NN quality_NN at_IN any_DT time_NN ._.
+Sound_NN quality_NN is_VBZ good_JJ ,_, too_RB ._.
+No_DT complaints_NNS ._.

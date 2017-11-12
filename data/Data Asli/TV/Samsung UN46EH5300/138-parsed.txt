@@ -1,0 +1,48 @@
+=========
+
+root(ROOT-0, GREAT-1)
+
+=========
+
+mark(tweaked-3, Once-1)
+nsubj(tweaked-3, I-2)
+advcl(produced-17, tweaked-3)
+det(video-5, the-4)
+dobj(tweaked-3, video-5)
+nsubj(took-8, video-5)
+rcmod(video-5, took-8)
+advmod(took-8, awhile-9)
+det(default-14, the-12)
+num(default-14, &#34;-13)
+prep_as(took-8, default-14)
+num(settings-16, &#34;-15)
+nsubj(produced-17, settings-16)
+root(ROOT-0, produced-17)
+det(picture-20, a-18)
+amod(picture-20, fair-19)
+dobj(produced-17, picture-20)
+
+=========
+
+nn(TVs-3, Internet-1)
+nn(TVs-3, Smart-2)
+nsubj(slower-5, TVs-3)
+cop(slower-5, are-4)
+root(ROOT-0, slower-5)
+prep_to(slower-5, boot-7)
+prep_to(slower-5, browse-9)
+conj_and(boot-7, browse-9)
+mark(had-14, than-11)
+dep(had-14, if-12)
+nsubj(had-14, I-13)
+advcl(slower-5, had-14)
+poss(laptop-16, my-15)
+dobj(had-14, laptop-16)
+
+=========
+
+amod(price-2, Good-1)
+root(ROOT-0, price-2)
+amod(value-5, fair-4)
+prep_for(price-2, value-5)
+

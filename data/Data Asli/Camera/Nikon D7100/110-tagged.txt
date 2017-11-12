@@ -1,0 +1,7 @@
+Update_NNP :_: Replacement_NN works_VBZ fine_JJ ._.
+Received_VBN my_PRP$ copy_NN yesterday_NN ,_, booted_VBD the_DT camera_NN in_IN Full_NNP Auto_NNP mode_NN -LRB-_-LRB- default_NN -RRB-_-RRB- ,_, mounted_VBD a_DT new_JJ lens_NN ..._: camera_NN would_MD not_RB autofocus_VB ._.
+Tried_VBD all_DT controls_NNS ,_, rebooted_VBN ,_, reset_VB ,_, different_JJ lens_NN ..._: nothing_NN ,_, even_RB the_DT focus_NN light_NN would_MD not_RB come_VB on_IN ._.
+Pressing_VBG the_DT focus_NN selector_NN button_NN and_CC rotating_VBG the_DT dials_NNS has_VBZ no_DT effect_NN ,_, it_PRP just_RB would_MD not_RB budge_VB focus_NN servo_NN mode_NN or_CC the_DT focus_NN area_NN ._.
+Focus_NN was_VBD set_VBN to_TO manual_VB by_IN default_NN -LRB-_-LRB- out_IN of_IN the_DT box_NN -RRB-_-RRB- otherwise_RB I_PRP would_MD have_VB never_RB noticed_VBN that_IN this_DT functionality_NN is_VBZ broken_VBN ._.
+Shipping_VBG back_RB to_TO Amazon_NNP today_NN ,_, requested_VBD replacement_NN ._.
+Hoping_VBG it_PRP was_VBD just_RB bad_JJ luck_NN ._.

@@ -1,0 +1,74 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+nn(Friday-7, Black-6)
+prep_during(bought-2, Friday-7)
+det(gift-10, a-9)
+prep_as(Friday-7, gift-10)
+poss(daughter-13, my-12)
+prep_for(gift-10, daughter-13)
+prep_for(bought-2, Christmas-15)
+
+=========
+
+nsubj(knew-2, I-1)
+root(ROOT-0, knew-2)
+nsubjpass(disappointed-7, I-3)
+aux(disappointed-7, would-4)
+neg(disappointed-7, not-5)
+auxpass(disappointed-7, be-6)
+ccomp(knew-2, disappointed-7)
+mark(had-10, because-8)
+nsubj(had-10, I-9)
+advcl(disappointed-7, had-10)
+det(TV-13, an-11)
+nn(TV-13, LG-12)
+dobj(had-10, TV-13)
+det(past-16, the-15)
+prep_in(TV-13, past-16)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(problem-4, no-3)
+dobj(had-2, problem-4)
+partmod(problem-4, assembling-5)
+det(TV-7, the-6)
+dobj(assembling-5, TV-7)
+amod(screen-11, base-9)
+amod(screen-11, +-10)
+appos(TV-7, screen-11)
+nsubj(simple-17, programing-14)
+cop(simple-17, was-15)
+advmod(simple-17, very-16)
+conj_and(had-2, simple-17)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+nsubj(are-2, plenty-3)
+prep_of(plenty-3, features-5)
+nsubj(allow-7, features-5)
+rcmod(features-5, allow-7)
+amod(viewing-10, enhanced-9)
+prep_for(allow-7, viewing-10)
+
+=========
+
+ccomp(promise-6, Buy-1)
+det(TV-3, this-2)
+dobj(Buy-1, TV-3)
+nsubj(promise-6, I-5)
+root(ROOT-0, promise-6)
+nsubj(glad-10, you-7)
+aux(glad-10, will-8)
+cop(glad-10, be-9)
+ccomp(promise-6, glad-10)
+nsubj(did-12, you-11)
+ccomp(glad-10, did-12)
+

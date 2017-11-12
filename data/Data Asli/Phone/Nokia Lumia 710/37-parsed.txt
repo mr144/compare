@@ -1,0 +1,42 @@
+=========
+
+csubj(broke-8, bought-1)
+det(phone-3, this-2)
+dobj(bought-1, phone-3)
+poss(one-7, my-5)
+amod(one-7, old-6)
+prep_after(bought-1, one-7)
+root(ROOT-0, broke-8)
+
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+det(phone-5, this-4)
+prep_with(pleased-2, phone-5)
+
+=========
+
+nsubj(except-3, Works-1)
+nsubj(dropped-8, Works-1)
+advmod(except-3, well-2)
+root(ROOT-0, except-3)
+amod(freezing-6, occassional-5)
+prep_for(except-3, freezing-6)
+conj_and(except-3, dropped-8)
+nn(conversations-10, phone-9)
+dobj(dropped-8, conversations-10)
+
+=========
+
+cc(think-4, But-1)
+nsubj(think-4, i-2)
+advmod(think-4, still-3)
+root(ROOT-0, think-4)
+poss(phone-8, its-5)
+dep(great-7, a-6)
+amod(phone-8, great-7)
+dobj(think-4, phone-8)
+amod(use-11, everyday-10)
+prep_for(phone-8, use-11)
+

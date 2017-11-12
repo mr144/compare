@@ -1,0 +1,11 @@
+I_PRP have_VBP owned_VBN this_DT phone_NN for_IN about_IN 3_CD months_NNS now_RB ,_, and_CC there_EX is_VBZ little_JJ about_IN it_PRP I_PRP would_MD change_VB ._.
+Based_VBN upon_IN its_PRP$ technical_JJ merits_NNS ,_, it_PRP is_VBZ among_IN the_DT best_JJS phone_NN designs_NNS available_JJ ._.
+Note_NN :_: The_DT upgrade_NN to_TO Android_NNP 2.3_CD is_VBZ essential_JJ for_IN the_DT best_JJS experience_NN ,_, which_WDT might_MD only_RB be_VB available_JJ if_IN you_PRP activate_VBP it_PRP on_IN AT&T_NNP ._.
+My_PRP$ only_JJ complaint_NN is_VBZ that_IN the_DT phone_NN is_VBZ labeled_VBN 4G_NNP ,_, but_CC the_DT HSPA_NNP +_NN network_NN does_VBZ not_RB really_RB provide_VB performance_NN comparable_JJ to_TO other_JJ networks_NNS labeled_VBN as_IN 4G_NNP -LRB-_-LRB- i.e._FW LTE_NNP -RRB-_-RRB- ._.
+You_PRP should_MD expect_VB download_JJ speeds_NNS to_TO be_VB optimally_RB 3-6_CD Mbps_NNS with_IN perfect_JJ signal_NN strength_NN ,_, off_RB peak_JJ ._.
+Often_RB ,_, the_DT performance_NN is_VBZ closer_JJR to_TO 1.5_CD mbps_NNS ._.
+Check_VB with_IN your_PRP$ carrier_NN to_TO be_VB sure_JJ you_PRP will_MD get_VB the_DT performance_NN you_PRP expect_VBP on_IN their_PRP$ network_NN -LRB-_-LRB- and_CC that_IN HSPA_NNP +_NN is_VBZ available_JJ in_IN your_PRP$ overage_JJ area_NN -RRB-_-RRB- ._.
+On_IN WiFi_NNP ,_, I_PRP have_VBP verified_VBN that_IN the_DT phone_NN can_MD handle_VB data_NN rates_NNS as_RB fast_RB as_IN 40_CD mbps_NNS ._.
+Related_VBN :_: The_DT multimedia_NNS dock_NN is_VBZ well_RB worth_JJ owning_NN ,_, especially_RB if_IN you_PRP would_MD like_VB to_TO use_VB a_DT keyboard_NN and_CC mouse_NN to_TO operate_VB the_DT phone_NN -LRB-_-LRB- you_PRP can_MD also_RB attach_VB a_DT display_NN or_CC TV_NN via_IN HDMI_NNP for_IN an_DT even_RB better_JJR experience_NN -RRB-_-RRB- ._.
+CONS_NNS :_: Wish_NNP it_PRP was_VBD an_DT LTE_NNP phone_NN ._.
+I_PRP am_VBP sure_JJ there_EX is_VBZ a_DT version_NN coming_VBG that_WDT will_MD be_VB ._.

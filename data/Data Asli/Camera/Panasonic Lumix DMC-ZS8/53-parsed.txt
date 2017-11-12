@@ -1,0 +1,34 @@
+=========
+
+det(camera-3, This-1)
+amod(camera-3, little-2)
+poss(lense-7, camera-3)
+amod(lense-7, wide-5)
+nn(lense-7, angle-6)
+nsubj(includes-8, lense-7)
+root(ROOT-0, includes-8)
+advmod(more-10, much-9)
+advmod(includes-8, more-10)
+advmod(small-13, most-12)
+amod(cameras-14, small-13)
+prep_than(includes-8, cameras-14)
+dobj(seen-17, cameras-14)
+nsubj(seen-17, I-15)
+aux(seen-17, have-16)
+rcmod(cameras-14, seen-17)
+det(color-22, the-20)
+nn(color-22, picture-21)
+nsubj(vivid-24, color-22)
+nsubj(true-28, color-22)
+cop(vivid-24, is-23)
+conj_and(includes-8, vivid-24)
+cop(true-28, appears-26)
+advmod(true-28, near-27)
+conj_and(includes-8, true-28)
+conj_and(vivid-24, true-28)
+
+=========
+
+advmod(like-2, Really-1)
+root(ROOT-0, like-2)
+

@@ -1,0 +1,5 @@
+At_IN first_RB I_PRP thought_VBD what_WP did_VBD I_PRP buy_VB -_: how_WRB horrible_JJ but_CC after_IN a_DT few_JJ adjustments_NNS I_PRP think_VBP the_DT TV_NN is_VBZ great_JJ ._.
+I_PRP hated_VBD the_DT dimming_VBG effect_NN on_IN dark_JJ days_NNS ._.
+It_PRP made_VBD the_DT room_NN and_CC picture_NN look_VBP dreary_JJ and_CC dull_JJ ._.
+I_PRP turned_VBD that_IN off_RB and_CC enjoy_VB it_PRP now_RB ._.
+Thanks_NNS Amazon_NNP for_IN offering_VBG this_DT great_JJ TV_NN at_IN a_DT great_JJ price_NN ._.

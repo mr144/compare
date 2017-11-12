@@ -1,0 +1,4 @@
+I_PRP love_VBP VIZIO_NNP televizions_NNS ._.
+I_PRP have_VBP two_CD of_IN this_DT specific_JJ model_NN and_CC they_PRP are_VBP great_JJ ._.
+However_RB ,_, one_CD thing_NN to_TO consider_VB with_IN the_DT &#34;_CD smart_JJ &#34;_CD TV_NN 's_POS is_VBZ that_IN it_PRP may_MD be_VB cheaper_JJR and_CC more_JJR function_NN to_TO buy_VB a_DT regular_JJ old_JJ &#34;_CD dumb_JJ &#34;_JJ TV_NN and_CC buy_VB a_DT ROKU_NN separately_RB ._.
+The_DT ROKU_NNP provides_VBZ way_RB more_JJR options_NNS and_CC features_NNS than_IN most_JJS smart_JJ TV_NN 's_POS ._.

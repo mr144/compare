@@ -1,0 +1,259 @@
+=========
+
+det(review-2, This-1)
+nsubj(is-3, review-2)
+root(ROOT-0, is-3)
+prep_for(is-3, those-5)
+nsubjpass(stuck-8, those-5)
+auxpass(stuck-8, are-7)
+rcmod(those-5, stuck-8)
+advmod(HX850-13, either-10)
+det(HX850-13, the-11)
+nn(HX850-13, Sony-12)
+prep_between(stuck-8, HX850-13)
+appos(HX850-13, LG-15)
+num(LG-15, 8600-9600-16)
+det(Panasonic-20, this-19)
+nsubj(turn-28, Panasonic-20)
+dep(Panasonic-20, Bought-22)
+det(Sony-24, the-23)
+dep(Bought-22, Sony-24)
+aux(turn-28, would-26)
+neg(turn-28, not-27)
+conj_or(is-3, turn-28)
+prt(turn-28, on-29)
+
+=========
+
+dep(has-7, Replaced-1)
+dobj(Replaced-1, it-2)
+det(Sony-5, another-4)
+prep_with(Replaced-1, Sony-5)
+root(ROOT-0, has-7)
+amod(issues-10, slight-8)
+amod(issues-10, flashlighting\/clouding-9)
+dobj(has-7, issues-10)
+neg(horrible-13, not-12)
+dep(issues-10, horrible-13)
+dep(issues-10, enough-16)
+conj_but(horrible-13, enough-16)
+aux(bother-18, to-17)
+xcomp(enough-16, bother-18)
+det(price-21, the-20)
+prep_for(horrible-13, price-21)
+
+=========
+
+partmod(had-24, Decided-1)
+aux(bring-3, to-2)
+xcomp(Decided-1, bring-3)
+dobj(bring-3, it-4)
+advmod(bring-3, back-5)
+det(9600-8, the-7)
+prep_for(back-5, 9600-8)
+advmod(turned-14, when-10)
+det(lights-12, the-11)
+nsubjpass(turned-14, lights-12)
+auxpass(turned-14, were-13)
+prepc_as(bring-3, turned-14)
+prt(turned-14, off-15)
+amod(tv-18, pauls-17)
+prep_in(turned-14, tv-18)
+prep_for(tv-18, me-20)
+det(8600-23, the-22)
+nsubj(had-24, 8600-23)
+root(ROOT-0, had-24)
+dobj(had-24, tons-25)
+nn(bleed-29, edge-27)
+nn(bleed-29, light-28)
+prep_of(tons-25, bleed-29)
+advmod(bad-33, really-31)
+advmod(bad-33, really-32)
+dep(bleed-29, bad-33)
+
+=========
+
+nsubj(see-4, You-1)
+aux(see-4, do-2)
+neg(see-4, not-3)
+root(ROOT-0, see-4)
+dobj(see-4, that-5)
+det(store-10, a-7)
+advmod(lit-9, brightly-8)
+amod(store-10, lit-9)
+prep_in(that-5, store-10)
+amod(acctive-14, full-12)
+nn(acctive-14, screen-13)
+prep_with(store-10, acctive-14)
+
+=========
+
+nsubj(came-2, 9600-1)
+root(ROOT-0, came-2)
+prt(came-2, in-3)
+dep(came-2, picked-5)
+dobj(picked-5, it-6)
+prt(picked-5, up-7)
+
+=========
+
+nsubj(looking-2, Best-1)
+root(ROOT-0, looking-2)
+dobj(looking-2, TV-3)
+det(market-6, the-5)
+prep_on(looking-2, market-6)
+nsubj(was-10, CNET-9)
+conj_but(looking-2, was-10)
+det(money-13, the-12)
+prep_on(was-10, money-13)
+
+=========
+
+csubj('s-9, Had-1)
+det(flashlighting-4, the-2)
+amod(flashlighting-4, worst-3)
+dobj(Had-1, flashlighting-4)
+det(tv-8, all-6)
+num(tv-8, 3-7)
+prep_of(flashlighting-4, tv-8)
+root(ROOT-0, 's-9)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(picture-4, a-3)
+nsubj(is-2, picture-4)
+det(forums-8, the-6)
+nn(forums-8, AVS-7)
+prep_on(picture-4, forums-8)
+det(issue-12, the-10)
+amod(issue-12, flashlighting-11)
+prep_of(forums-8, issue-12)
+dep(issue-12, these-13)
+mark(wants-16, if-14)
+nsubj(wants-16, anyone-15)
+xsubj(check-18, anyone-15)
+advcl(is-2, wants-16)
+aux(check-18, to-17)
+xcomp(wants-16, check-18)
+dobj(check-18, it-19)
+prt(check-18, out-20)
+
+=========
+
+nsubj(re-boxed-4, Girlfriend-1)
+conj_and(Girlfriend-1, I-3)
+nsubj(re-boxed-4, I-3)
+root(ROOT-0, re-boxed-4)
+dobj(re-boxed-4, it-5)
+num(minutes-8, 5-7)
+prep_within(re-boxed-4, minutes-8)
+prepc_of(minutes-8, setting-10)
+dobj(setting-10, it-11)
+prt(setting-10, up-12)
+
+=========
+
+nsubj(decided-3, Finally-1)
+xsubj(get-5, Finally-1)
+advmod(decided-3, just-2)
+root(ROOT-0, decided-3)
+aux(get-5, to-4)
+xcomp(decided-3, get-5)
+det(Panasonic-7, the-6)
+dobj(get-5, Panasonic-7)
+det(whim-10, a-9)
+prep_on(get-5, whim-10)
+
+=========
+
+neg(owned-2, Never-1)
+root(ROOT-0, owned-2)
+det(plasma-4, a-3)
+nsubj(owned-2, plasma-4)
+advmod(preferred-7, always-6)
+amod(LCD-8, preferred-7)
+appos(plasma-4, LCD-8)
+
+=========
+
+det(thing-2, This-1)
+nsubj(heavy-6, thing-2)
+cop(heavy-6, is-3)
+det(heavy-6, a-4)
+amod(heavy-6, big-5)
+root(ROOT-0, heavy-6)
+prep(heavy-6, but-7)
+poss(just-9, its-8)
+dep(but-7, just-9)
+advmod(thin-11, as-10)
+advmod(heavy-6, thin-11)
+det(tv-15, the-13)
+amod(tv-15, other-14)
+prep_as(thin-11, tv-15)
+possessive(tv-15, 's-16)
+advmod(pretty-19, as-18)
+advmod(heavy-6, pretty-19)
+conj_and(thin-11, pretty-19)
+det(Sony-22, the-21)
+prep_as(heavy-6, Sony-22)
+
+=========
+
+nsubj(blew-2, It-1)
+root(ROOT-0, blew-2)
+dobj(blew-2, me-3)
+advmod(blew-2, away-4)
+
+=========
+
+nsubj(stopped-4, We-1)
+aux(stopped-4, have-2)
+neg(stopped-4, not-3)
+root(ROOT-0, stopped-4)
+xcomp(stopped-4, watching-5)
+dobj(watching-5, it-6)
+
+=========
+
+amod(color-2, Deep-1)
+root(ROOT-0, color-2)
+amod(uniformity-5, perfect-4)
+appos(color-2, uniformity-5)
+
+=========
+
+nn(FLASHLIGHTING-2, ZERO-1)
+root(ROOT-0, FLASHLIGHTING-2)
+
+=========
+
+nsubj(was-3, CNET-1)
+advmod(was-3, again-2)
+root(ROOT-0, was-3)
+det(money-6, the-5)
+prep_on(was-3, money-6)
+prepc_with(was-3, calling-8)
+iobj(calling-8, it-9)
+amod(tv-11, best-10)
+dobj(calling-8, tv-11)
+prep_of(tv-11, 2012-13)
+
+=========
+
+root(ROOT-0, Easy-1)
+prep_as(Easy-1, heck-3)
+aux(use-5, to-4)
+dep(Easy-1, use-5)
+det(features-8, the-6)
+amod(features-8, smart-7)
+dobj(use-5, features-8)
+advmod(use-5, too-9)
+
+=========
+
+root(ROOT-0, Simple-1)
+amod(interface-4, modest-3)
+appos(Simple-1, interface-4)
+

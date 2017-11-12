@@ -1,0 +1,192 @@
+=========
+
+nsubj(got-2, i-1)
+root(ROOT-0, got-2)
+det(camera-4, this-3)
+dobj(got-2, camera-4)
+det(month-7, a-6)
+prep_about(got-2, month-7)
+amod(month-7, ago-8)
+prep_from(got-2, amazon-10)
+
+=========
+
+nsubj(hobby-6, photography-1)
+aux(hobby-6, has-2)
+cop(hobby-6, become-3)
+det(hobby-6, a-4)
+amod(hobby-6, main-5)
+root(ROOT-0, hobby-6)
+nsubj(started-10, hobby-6)
+prep_of(hobby-6, mine-8)
+rcmod(hobby-6, started-10)
+quantmod(10-12, about-11)
+num(years-13, 10-12)
+npadvmod(ago-14, years-13)
+advmod(started-10, ago-14)
+
+=========
+
+nsubj(been-3, i-1)
+aux(been-3, have-2)
+root(ROOT-0, been-3)
+quantmod(8-7, at-5)
+mwe(at-5, least-6)
+pobj(at-5, least-6)
+num(cameras-8, 8-7)
+prep_through(been-3, cameras-8)
+det(years-11, these-10)
+prep_in(been-3, years-11)
+det(4-16, the-14)
+amod(4-16, last-15)
+prep_with(been-3, 4-16)
+prep_being(4-16, dslr-18)
+possessive(dslr-18, 's-19)
+
+=========
+
+nsubj(love-3, i-1)
+advmod(love-3, absolutely-2)
+root(ROOT-0, love-3)
+det(camera-5, this-4)
+dobj(love-3, camera-5)
+
+=========
+
+nsubj(has-2, it-1)
+root(ROOT-0, has-2)
+amod(low-4, excellent-3)
+amod(capabilities-6, low-4)
+amod(capabilities-6, light-5)
+dobj(has-2, capabilities-6)
+dobj(has-2, very-8)
+advmod(capabilities-6, very-8)
+conj_and(capabilities-6, very-8)
+advmod(has-2, fast-9)
+
+=========
+
+nsubj(have-2, i-1)
+root(ROOT-0, have-2)
+num(lenses-5, 5-3)
+nn(lenses-5, nikkor-4)
+dobj(have-2, lenses-5)
+number(prime-9, 2-8)
+dobj(have-2, prime-9)
+conj_and(lenses-5, prime-9)
+det(lens-15, a-13)
+nn(lens-15, tokina-14)
+dobj(have-2, lens-15)
+conj_and(lenses-5, lens-15)
+
+=========
+
+det(camera-2, this-1)
+nsubj(takes-3, camera-2)
+root(ROOT-0, takes-3)
+advmod(gorgeous-5, absolutely-4)
+amod(pictures-6, gorgeous-5)
+dobj(takes-3, pictures-6)
+
+=========
+
+det(money-6, the-1)
+nn(money-6, BEST-2)
+nn(money-6, cropped-3)
+nn(money-6, sensor-4)
+nn(money-6, dslr-5)
+nsubj(buy-8, money-6)
+aux(buy-8, can-7)
+root(ROOT-0, buy-8)
+
+=========
+
+nsubj(seem-8, $-1)
+num($-1, 1200-2)
+advmod(body-6, just-4)
+det(body-6, the-5)
+prep_for($-1, body-6)
+aux(seem-8, may-7)
+root(ROOT-0, seem-8)
+advmod(much-10, too-9)
+advmod(seem-8, much-10)
+nsubj(is-14, it-13)
+conj_but(seem-8, is-14)
+det(penny-17, every-16)
+prep_worth(is-14, penny-17)
+
+=========
+
+root(ROOT-0, get-1)
+nsubj(glass-5, yourself-2)
+det(glass-5, some-3)
+amod(glass-5, good-4)
+xcomp(get-1, glass-5)
+appos(glass-5, lens-7)
+conj_and(get-1, get-11)
+dobj(get-11, pictures-12)
+advmod(much-15, pretty-14)
+amod(way-17, much-15)
+det(way-17, the-16)
+prep_at(get-11, way-17)
+poss(eye-19, your-18)
+nsubj(sees-20, eye-19)
+rcmod(way-17, sees-20)
+dobj(sees-20, it-21)
+amod(life-24, real-23)
+prep_in(sees-20, life-24)
+
+=========
+
+nsubj(feel-3, you-1)
+aux(feel-3, 'll-2)
+root(ROOT-0, feel-3)
+det(pro-6, a-5)
+nsubj(holding-8, pro-6)
+advmod(holding-8, just-7)
+prepc_like(feel-3, holding-8)
+dobj(holding-8, it-9)
+
+=========
+
+det(video-2, the-1)
+nsubj(bar-7, video-2)
+det(camera-5, this-4)
+prep_on(video-2, camera-5)
+aux(bar-7, is-6)
+root(ROOT-0, bar-7)
+dobj(bar-7, none-8)
+det(best-11, the-10)
+appos(none-8, best-11)
+det(dslr-14, any-13)
+prep_on(bar-7, dslr-14)
+dobj(came-16, dslr-14)
+nsubj(came-16, i-15)
+rcmod(dslr-14, came-16)
+prt(came-16, across-17)
+
+=========
+
+nsubj(finest-5, HD-1)
+prep_at(HD-1, it-3)
+cop(finest-5, is-4)
+root(ROOT-0, finest-5)
+
+=========
+
+root(ROOT-0, arm-1)
+dobj(arm-1, yourself-2)
+number(32G-5, two-4)
+num(cards-8, 32G-5)
+amod(cards-8, extreme-6)
+nn(cards-8, sd-7)
+prep_with(arm-1, cards-8)
+conj_and(arm-1, let-10)
+det(fun-12, the-11)
+nsubj(begin-13, fun-12)
+ccomp(let-10, begin-13)
+
+=========
+
+root(ROOT-0, Aloha-1)
+

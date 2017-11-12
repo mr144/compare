@@ -1,0 +1,22 @@
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, it-4)
+
+=========
+
+root(ROOT-0, Waste-1)
+dep(Waste-1, time-2)
+dep(Waste-1, money-4)
+conj_and(time-2, money-4)
+
+=========
+
+det(smartphone-2, This-1)
+nsubj(worst-5, smartphone-2)
+cop(worst-5, is-3)
+det(worst-5, the-4)
+root(ROOT-0, worst-5)
+

@@ -1,0 +1,40 @@
+=========
+
+root(ROOT-0, Nice-1)
+advmod(good-4, very-3)
+amod(materials-5, good-4)
+conj_and(Nice-1, materials-5)
+
+=========
+
+nsubj(product-4, This-1)
+cop(product-4, is-2)
+det(product-4, a-3)
+root(ROOT-0, product-4)
+complm(dreem-8, that-5)
+nsubj(dreem-8, I-6)
+cop(dreem-8, was-7)
+ccomp(product-4, dreem-8)
+aux(get-10, to-9)
+infmod(dreem-8, get-10)
+poss(thinks-13, my-12)
+prep_in(get-10, thinks-13)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, you-2)
+
+=========
+
+det(product-2, This-1)
+nsubj(smartphone-6, product-2)
+cop(smartphone-6, is-3)
+det(smartphone-6, the-4)
+amod(smartphone-6, best-5)
+root(ROOT-0, smartphone-6)
+dobj(purchase-9, smartphone-6)
+nsubj(purchase-9, i-7)
+advmod(purchase-9, ever-8)
+rcmod(smartphone-6, purchase-9)
+

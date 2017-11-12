@@ -1,0 +1,23 @@
+=========
+
+advmod(nice-2, very-1)
+amod(product-3, nice-2)
+dobj(liked-6, product-3)
+ccomp(recomend-14, product-3)
+nsubj(liked-6, I-4)
+advmod(liked-6, really-5)
+rcmod(product-3, liked-6)
+nsubj(problem-9, it-7)
+det(problem-9, no-8)
+xcomp(liked-6, problem-9)
+prep_at(problem-9, all-11)
+nsubj(recomend-14, I-13)
+root(ROOT-0, recomend-14)
+dobj(recomend-14, it-15)
+mark(phone-21, because-16)
+cop(phone-21, is-17)
+det(phone-21, a-18)
+advmod(good-20, really-19)
+amod(phone-21, good-20)
+advcl(recomend-14, phone-21)
+

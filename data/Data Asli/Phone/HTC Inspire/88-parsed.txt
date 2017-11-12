@@ -1,0 +1,128 @@
+=========
+
+det(phone-2, This-1)
+nsubj(superstar-34, phone-2)
+nn(Phone-8, HTC-4)
+nn(Phone-8, Inspire-5)
+nn(Phone-8, 4G-6)
+nn(Phone-8, Unlocked-7)
+dep(phone-2, Phone-8)
+num(Support-11, 3G-10)
+prep_with(Phone-8, Support-11)
+num(Camera-15, 8-13)
+nn(Camera-15, MP-14)
+prep_with(Phone-8, Camera-15)
+conj_and(Support-11, Camera-15)
+prep_with(Phone-8, GPS-17)
+conj_and(Support-11, GPS-17)
+prep_with(Phone-8, Wi-Fi-19)
+conj_and(Support-11, Wi-Fi-19)
+nn(Black-30, Android-21)
+nn(Black-30, OS-22)
+nn(Phone-25, Unlocked-24)
+dep(Black-30, Phone-25)
+nn(Warranty-28, US-27)
+dep(Phone-25, Warranty-28)
+prep_with(Phone-8, Black-30)
+conj_and(Support-11, Black-30)
+cop(superstar-34, is-32)
+det(superstar-34, a-33)
+root(ROOT-0, superstar-34)
+
+=========
+
+nsubj(feel-2, I-1)
+ccomp(feel-9, feel-2)
+acomp(feel-2, good-3)
+dep(good-3, holding-4)
+dobj(holding-4, it-5)
+nsubj(feel-9, I-7)
+advmod(feel-9, also-8)
+root(ROOT-0, feel-9)
+acomp(feel-9, good-10)
+dep(good-10, using-11)
+dobj(using-11, it-12)
+
+=========
+
+nsubj(phone-5, It-1)
+cop(phone-5, is-2)
+det(phone-5, the-3)
+amod(phone-5, best-4)
+root(ROOT-0, phone-5)
+dobj(used-9, phone-5)
+nsubj(used-9, I-6)
+aux(used-9, have-7)
+advmod(used-9, ever-8)
+rcmod(phone-5, used-9)
+
+=========
+
+det(life-3, The-1)
+nn(life-3, battery-2)
+nsubj(short-5, life-3)
+cop(short-5, is-4)
+root(ROOT-0, short-5)
+nsubj(got-8, i-7)
+conj_but(short-5, got-8)
+advmod(up-10, back-9)
+advmod(got-8, up-10)
+dobj(got-8, batteries-11)
+dobj(got-8, charger-13)
+conj_and(batteries-11, charger-13)
+prep_for(got-8, it-15)
+
+=========
+
+amod(quality-2, Sound-1)
+nsubj(best-6, quality-2)
+cop(best-6, is-3)
+neg(best-6, not-4)
+det(best-6, the-5)
+root(ROOT-0, best-6)
+nsubj(live-10, I-8)
+aux(live-10, can-9)
+conj_but(best-6, live-10)
+nsubj(considering-13, that-12)
+prepc_with(live-10, considering-13)
+complm(make-19, that-14)
+amod(features-16, other-15)
+nsubj(make-19, features-16)
+prep_on(features-16, it-18)
+ccomp(considering-13, make-19)
+det(shortcomings-22, the-21)
+prep_for(make-19, shortcomings-22)
+
+=========
+
+det(pros-3, The-1)
+nsubj(cons-13, pros-3)
+det(phone-7, this-6)
+prep_on(pros-3, phone-7)
+cop(cons-13, is-8)
+advmod(than-10, more-9)
+advmod(cons-13, than-10)
+det(cons-13, the-11)
+root(ROOT-0, cons-13)
+partmod(cons-13, considering-15)
+det(fact-17, the-16)
+dobj(considering-15, fact-17)
+complm(%-23, that-18)
+det(phone-20, no-19)
+nsubj(%-23, phone-20)
+cop(%-23, is-21)
+num(%-23, 100-22)
+ccomp(considering-15, %-23)
+
+=========
+
+nsubj(loving-4, I-1)
+aux(loving-4, am-2)
+advmod(loving-4, just-3)
+root(ROOT-0, loving-4)
+dobj(loving-4, mine-5)
+
+=========
+
+root(ROOT-0, Beejay-1)
+

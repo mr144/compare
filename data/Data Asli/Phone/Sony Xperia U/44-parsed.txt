@@ -1,0 +1,28 @@
+=========
+
+nsubj(phone-5, it-1)
+cop(phone-5, is-2)
+det(phone-5, a-3)
+amod(phone-5, great-4)
+root(ROOT-0, phone-5)
+amod(i-9, just-7)
+dep(just-7, what-8)
+nsubj(looking-11, i-9)
+aux(looking-11, was-10)
+rcmod(phone-5, looking-11)
+prep(looking-11, for-12)
+
+=========
+
+root(ROOT-0, works-1)
+advmod(works-1, perfectly-2)
+prep_in(works-1, venezuela-4)
+nn(providers-8, al-6)
+nn(providers-8, service-7)
+prep_with(venezuela-4, providers-8)
+
+=========
+
+advmod(recommended-2, totally-1)
+root(ROOT-0, recommended-2)
+

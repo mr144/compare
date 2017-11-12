@@ -1,0 +1,32 @@
+=========
+
+nsubj(phone-2, Top-5-1)
+root(ROOT-0, phone-2)
+prep_in(phone-2, existence-4)
+nn(stores-10, T-Mobile-7)
+conj_and(T-Mobile-7, AT&T-9)
+nn(stores-10, AT&T-9)
+nsubj(sell-11, stores-10)
+conj_but(phone-2, sell-11)
+det(thing-13, this-12)
+nsubj(unlocked-14, thing-13)
+ccomp(sell-11, unlocked-14)
+prep_for(unlocked-14, $-16)
+num($-16, 529-17)
+
+=========
+
+amod(phone-2, Same-1)
+root(ROOT-0, phone-2)
+advmod(cash-6, significantly-4)
+amod(cash-6, less-5)
+appos(phone-2, cash-6)
+
+=========
+
+dep(five-star-3, Again-1)
+root(ROOT-0, five-star-3)
+dep(five-star-3, phone-4)
+amod(price-7, one-star-6)
+dep(five-star-3, price-7)
+

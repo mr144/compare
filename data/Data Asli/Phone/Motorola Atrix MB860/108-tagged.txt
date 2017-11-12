@@ -1,0 +1,1 @@
+Cell_NN phone_NN is_VBZ an_DT excellent_JJ ,_, very_RB fast_RB and_CC works_VBZ very_RB well_RB with_IN movistar_NNP Venezuela_NNP excellent_JJ graphics_NNS and_CC android_NN works_VBZ great_JJ !_.

@@ -1,0 +1,33 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(zoom-4, the-3)
+dobj(love-2, zoom-4)
+prep_on(zoom-4, this-6)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(photos-3, great-2)
+dobj(Takes-1, photos-3)
+
+=========
+
+advmod(learning-2, Still-1)
+dep(has-5, learning-2)
+dobj(learning-2, all-3)
+nsubj(has-5, it-4)
+xsubj(offer-7, it-4)
+root(ROOT-0, has-5)
+aux(offer-7, to-6)
+xcomp(has-5, offer-7)
+
+=========
+
+aux(recommend-3, Would-1)
+advmod(recommend-3, definitely-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+

@@ -1,0 +1,28 @@
+=========
+
+nsubj(did-2, rec-1)
+root(ROOT-0, did-2)
+det(product-4, this-3)
+dobj(did-2, product-4)
+amod(condition-7, great-6)
+prep_in(did-2, condition-7)
+det(fashion-11, a-9)
+amod(fashion-11, semi-timely-10)
+prep_in(did-2, fashion-11)
+
+=========
+
+poss(daughter-2, My-1)
+nsubj(enjoys-3, daughter-2)
+root(ROOT-0, enjoys-3)
+iobj(enjoys-3, it-4)
+dobj(enjoys-3, everyday-5)
+
+=========
+
+nsubj(got-2, We-1)
+root(ROOT-0, got-2)
+dobj(got-2, it-3)
+prep_for(got-2, her-5)
+prep_for(got-2, Christmas-7)
+

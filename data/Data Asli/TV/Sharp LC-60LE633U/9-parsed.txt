@@ -1,0 +1,35 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(TV-5, this-4)
+dobj(had-3, TV-5)
+advmod(year-9, about-7)
+det(year-9, a-8)
+prep_for(TV-5, year-9)
+nsubj(was-12, it-11)
+conj_and(had-3, was-12)
+det(penny-15, every-14)
+prep_worth(was-12, penny-15)
+
+=========
+
+amod(picture-2, Great-1)
+nsubj(!!!-3, picture-2)
+root(ROOT-0, !!!-3)
+nsubj(works-5, It-4)
+dep(!!!-3, works-5)
+acomp(works-5, great-6)
+poss(sound-11, my-8)
+amod(sound-11, entire-9)
+amod(sound-11, surround-10)
+prep_with(great-6, sound-11)
+nsubj(recommend-16, i-13)
+aux(recommend-16, would-14)
+advmod(recommend-16, definitely-15)
+dep(!!!-3, recommend-16)
+conj_and(works-5, recommend-16)
+det(product-18, the-17)
+dobj(recommend-16, product-18)
+

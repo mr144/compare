@@ -1,0 +1,187 @@
+=========
+
+cop(torn-3, Was-1)
+advmod(torn-3, very-2)
+root(ROOT-0, torn-3)
+det(model-8, the-5)
+nn(model-8, Samsung-6)
+nn(model-8, D7000-7)
+prep_between(torn-3, model-8)
+det(LE835U-12, this-10)
+amod(LE835U-12, sharp-11)
+prep_between(torn-3, LE835U-12)
+conj_and(model-8, LE835U-12)
+poss(TV-15, 60-13)
+dep(LE835U-12, TV-15)
+
+=========
+
+root(ROOT-0, Read-1)
+det(lot-3, a-2)
+dobj(Read-1, lot-3)
+amod(reviews-6, negative-5)
+prep_of(lot-3, reviews-6)
+prep_on(Read-1, Samsung-8)
+det(issues-12, the-10)
+amod(issues-12, flashing-11)
+prep_for(Samsung-8, issues-12)
+
+=========
+
+det(TV-3, The-1)
+amod(TV-3, sharp-2)
+nsubj(have-6, TV-3)
+aux(have-6, did-4)
+neg(have-6, not-5)
+root(ROOT-0, have-6)
+det(issues-8, any-7)
+nsubj(reported-9, issues-8)
+nsubj(cheaper-12, issues-8)
+ccomp(have-6, reported-9)
+cop(cheaper-12, was-11)
+ccomp(have-6, cheaper-12)
+conj_and(reported-9, cheaper-12)
+mark(went-17, than-13)
+det(Samsung-15, the-14)
+nsubj(went-17, Samsung-15)
+advmod(went-17, so-16)
+ccomp(cheaper-12, went-17)
+det(Sharp-20, the-19)
+prep_with(went-17, Sharp-20)
+
+=========
+
+nsubj(had-2, Have-1)
+root(ROOT-0, had-2)
+det(TV-4, the-3)
+dobj(had-2, TV-4)
+num(weeks-7, two-6)
+prep_for(TV-4, weeks-7)
+det(quality-11, the-9)
+nn(quality-11, picture-10)
+nsubj(outstanding-14, quality-11)
+aux(outstanding-14, has-12)
+cop(outstanding-14, been-13)
+conj_and(had-2, outstanding-14)
+advmod(watching-16, when-15)
+advcl(outstanding-14, watching-16)
+nn(DVDs-21, football-17)
+conj_and(DVDs-21, bb-19)
+nn(movies-25, bb-19)
+nn(movies-25, DVDs-21)
+conj_and(DVDs-21, blue-23)
+nn(movies-25, blue-23)
+nn(movies-25, ray-24)
+dobj(watching-16, movies-25)
+
+=========
+
+csubj(surreal-7, Playing-1)
+nn(games-3, PS3-2)
+dobj(Playing-1, games-3)
+prep_on(Playing-1, it-5)
+advmod(surreal-7, also-6)
+root(ROOT-0, surreal-7)
+
+=========
+
+nsubj(amazing-4, 3D-1)
+aux(amazing-4, has-2)
+cop(amazing-4, been-3)
+root(ROOT-0, amazing-4)
+det(glasses-8, the-6)
+amod(glasses-8, sharp-7)
+prep_with(amazing-4, glasses-8)
+
+=========
+
+dep(not-12, Watching-1)
+amod(porgramming-3, non-HD-2)
+nsubj(stellar-8, porgramming-3)
+aux(stellar-8, has-4)
+cop(stellar-8, been-5)
+advmod(than-7, less-6)
+advmod(stellar-8, than-7)
+ccomp(Watching-1, stellar-8)
+advmod(stellar-8, though-9)
+dep(not-12, but-11)
+root(ROOT-0, not-12)
+advmod(like-16, sure-13)
+dep(like-16, if-14)
+nsubj(like-16, its-15)
+dep(not-12, like-16)
+dobj(like-16, that-17)
+det(HDTVs-20, all-19)
+prep_on(that-17, HDTVs-20)
+advmod(like-16, though-21)
+
+=========
+
+root(ROOT-0, Colors-1)
+cop(bright-5, seem-3)
+advmod(bright-5, very-4)
+dep(Colors-1, bright-5)
+
+=========
+
+prep_on(observed-5, non-HD-2)
+nsubj(observed-5, programms-3)
+aux(observed-5, have-4)
+root(ROOT-0, observed-5)
+det(distortion-8, some-6)
+amod(distortion-8, color-7)
+dobj(observed-5, distortion-8)
+
+=========
+
+nsubj(seems-11, All-1)
+det(happy-5, all-3)
+advmod(happy-5, very-4)
+prep_in(All-1, happy-5)
+det(TV-8, the-7)
+prep_with(happy-5, TV-8)
+prep_with(happy-5, it-10)
+conj_and(TV-8, it-10)
+root(ROOT-0, seems-11)
+mark(made-14, like-12)
+nsubj(made-14, I-13)
+nsubj(recommend-23, I-13)
+advcl(seems-11, made-14)
+det(choice-17, the-15)
+amod(choice-17, right-16)
+dobj(made-14, choice-17)
+xcomp(made-14, going-18)
+prep_with(going-18, Sharp-20)
+aux(recommend-23, would-22)
+advcl(seems-11, recommend-23)
+conj_and(made-14, recommend-23)
+dobj(recommend-23, it-24)
+prep_to(recommend-23, others-26)
+
+=========
+
+nsubj(came-5, P.S.-1)
+poss(TV-4, My-2)
+amod(TV-4, first-3)
+dep(P.S.-1, TV-4)
+root(ROOT-0, came-5)
+advmod(broken-11, where-6)
+det(glass-9, the-7)
+nn(glass-9, screen-8)
+nsubjpass(broken-11, glass-9)
+auxpass(broken-11, was-10)
+advcl(came-5, broken-11)
+nsubj(great-15, Amazon-13)
+cop(great-15, was-14)
+conj_but(came-5, great-15)
+prepc_about(great-15, sending-17)
+det(TV-20, a-18)
+nn(TV-20, replacement-19)
+dobj(sending-17, TV-20)
+advmod(sending-17, promptly-21)
+
+=========
+
+root(ROOT-0, Good-1)
+dep(Good-1, service-2)
+

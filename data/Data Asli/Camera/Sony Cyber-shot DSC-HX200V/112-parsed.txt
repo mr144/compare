@@ -1,0 +1,38 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(Sony-4, my-3)
+dobj(love-2, Sony-4)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(Generation-8, a-3)
+nn(Generation-8, Canaon-4)
+nn(Generation-8, Eos-5)
+nn(Generation-8, Rebel-6)
+nn(Generation-8, 1st-7)
+dobj(have-2, Generation-8)
+nsubj(replaced-14, this-10)
+aux(replaced-14, has-11)
+dep(but-13, all-12)
+advmod(replaced-14, but-13)
+conj_and(have-2, replaced-14)
+dobj(replaced-14, that-15)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+dobj(use-2, it-3)
+poss(camera-7, my-5)
+amod(camera-7, main-6)
+prep_as(use-2, camera-7)
+det(Rebel-10, the-9)
+prep_as(use-2, Rebel-10)
+conj_and(camera-7, Rebel-10)
+poss(backup-13, my-12)
+prep_as(use-2, backup-13)
+

@@ -1,0 +1,142 @@
+=========
+
+nsubj(tv-5, This-1)
+cop(tv-5, is-2)
+det(tv-5, a-3)
+amod(tv-5, great-4)
+root(ROOT-0, tv-5)
+det(point-9, the-7)
+nn(point-9, price-8)
+prep_for(tv-5, point-9)
+
+=========
+
+nsubj(looked-2, I-1)
+root(ROOT-0, looked-2)
+dep(looked-2, for-3)
+det(year-6, a-5)
+prep_over(looked-2, year-6)
+det(tv-10, a-8)
+amod(tv-10, smart-9)
+prep_for(year-6, tv-10)
+nsubj(inches-14, tv-10)
+cop(inches-14, was-12)
+num(inches-14, 40-13)
+rcmod(tv-10, inches-14)
+rcmod(tv-10, under-16)
+conj_and(inches-14, under-16)
+prep_under(inches-14, $-17)
+num($-17, 500-18)
+
+=========
+
+nn(apps-3, Smart-1)
+nn(apps-3, tv-2)
+nsubj(work-6, apps-3)
+conj_and(apps-3, Internet-5)
+nsubj(work-6, Internet-5)
+root(ROOT-0, work-6)
+acomp(work-6, great-7)
+
+=========
+
+nsubj(look-7, Picture-1)
+conj_and(Picture-1, colors-3)
+nsubj(look-7, colors-3)
+det(tv-6, the-5)
+prep_of(colors-3, tv-6)
+root(ROOT-0, look-7)
+advmod(authentic-9, very-8)
+acomp(look-7, authentic-9)
+
+=========
+
+poss(issue-3, My-1)
+amod(issue-3, only-2)
+nsubj(is-12, issue-3)
+det(tv-6, the-5)
+prep_with(issue-3, tv-6)
+nsubj(minor-11, it-8)
+cop(minor-11, is-9)
+advmod(minor-11, pretty-10)
+prep_with(issue-3, minor-11)
+conj_and(tv-6, minor-11)
+root(ROOT-0, is-12)
+complm(great-20, that-13)
+det(sound-15, the-14)
+nsubj(great-20, sound-15)
+prep_on(sound-15, it-17)
+cop(great-20, is-18)
+neg(great-20, not-19)
+ccomp(is-12, great-20)
+
+=========
+
+nsubj(am-2, I-1)
+root(ROOT-0, am-2)
+det(apartment-6, a-4)
+amod(apartment-6, small-5)
+prep_in(am-2, apartment-6)
+mark(bother-11, so-7)
+nsubj(bother-11, it-8)
+aux(bother-11, does-9)
+neg(bother-11, not-10)
+advcl(am-2, bother-11)
+nsubj(much-14, me-12)
+advmod(much-14, too-13)
+xcomp(bother-11, much-14)
+det(room-19, a-17)
+amod(room-19, larger-18)
+prep_in(need-22, room-19)
+nsubj(need-22, you-20)
+xsubj(invest-24, you-20)
+aux(need-22, may-21)
+conj_but(am-2, need-22)
+aux(invest-24, to-23)
+xcomp(need-22, invest-24)
+det(speakers-28, some-26)
+amod(speakers-28, larger-27)
+prep_in(invest-24, speakers-28)
+
+=========
+
+advmod(tv-11, Also-1)
+mark(have-5, if-3)
+nsubj(have-5, you-4)
+dep(tv-11, have-5)
+det(download-8, an-6)
+nn(download-8, iPhone-7)
+dobj(have-5, download-8)
+det(samsung-10, the-9)
+nsubj(tv-11, samsung-10)
+root(ROOT-0, tv-11)
+amod(app-13, remote-12)
+dobj(tv-11, app-13)
+
+=========
+
+nsubj(change-8, Communicates-1)
+nn(wirelessly-4, tv-3)
+prep_with(Communicates-1, wirelessly-4)
+advmod(change-8, so-5)
+nsubj(change-8, you-6)
+aux(change-8, can-7)
+root(ROOT-0, change-8)
+dobj(change-8, channel-9)
+dobj(change-8, volume-11)
+conj_and(channel-9, volume-11)
+det(room-14, another-13)
+prep_from(change-8, room-14)
+prepc_without(change-8, having-16)
+aux(point-18, to-17)
+xcomp(having-16, point-18)
+amod(phone-20, remote-19)
+dobj(point-18, phone-20)
+advmod(point-18, directly-21)
+prep_at(point-18, tv-23)
+
+=========
+
+nsubj(cool-2, Pretty-1)
+root(ROOT-0, cool-2)
+

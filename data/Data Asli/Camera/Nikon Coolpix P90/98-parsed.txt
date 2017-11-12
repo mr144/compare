@@ -1,0 +1,123 @@
+=========
+
+nsubj(point-5, This-1)
+cop(point-5, is-2)
+det(point-5, a-3)
+amod(point-5, wonderful-4)
+root(ROOT-0, point-5)
+nn(camera-8, shoot-7)
+conj_and(point-5, camera-8)
+
+=========
+
+advmod(returned-2, Just-1)
+dep(master-11, returned-2)
+prep_from(returned-2, Turkey-4)
+conj_and(returned-2, needed-6)
+dep(master-11, needed-6)
+det(functions-8, all-7)
+dobj(needed-6, functions-8)
+nsubj(master-11, I-9)
+aux(master-11, could-10)
+root(ROOT-0, master-11)
+prt(master-11, up-12)
+det(point-15, this-14)
+prep_to(master-11, point-15)
+
+=========
+
+nsubj(zoom-2, Exceptional-1)
+root(ROOT-0, zoom-2)
+dobj(zoom-2, capabilities-3)
+
+=========
+
+amod(issues-2, Only-1)
+nsubj(were-3, issues-2)
+root(ROOT-0, were-3)
+amod(light-6, low-5)
+prep_in(were-3, light-6)
+
+=========
+
+nsubj(were-2, Pictures-1)
+root(ROOT-0, were-2)
+advmod(were-2, grainy-3)
+nsubj(discovered-6, I-5)
+conj_but(were-2, discovered-6)
+det(work-8, a-7)
+dobj(discovered-6, work-8)
+advmod(discovered-6, around-9)
+prepc_by(discovered-6, fiddling-11)
+det(camera-14, the-13)
+prep_with(fiddling-11, camera-14)
+
+=========
+
+aux(found-2, Have-1)
+root(ROOT-0, found-2)
+ccomp(found-2, use-3)
+det(LCD-6, the-4)
+amod(LCD-6, tilting-5)
+nsubj(screen-7, LCD-6)
+ccomp(use-3, screen-7)
+det(aid-10, a-8)
+amod(aid-10, real-9)
+dobj(screen-7, aid-10)
+prepc_to(aid-10, shooting-12)
+prep_in(shooting-12, crowds-14)
+amod(shots-20, candid\/subject-17)
+nn(shots-20, unposed-18)
+prep_in(shooting-12, shots-20)
+conj_and(crowds-14, shots-20)
+
+=========
+
+nsubj(discovering-4, I-1)
+aux(discovering-4, am-2)
+advmod(discovering-4, still-3)
+root(ROOT-0, discovering-4)
+dobj(discovering-4, features-5)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(highly-4, this-3)
+dobj(recommend-2, highly-4)
+prep_for(recommend-2, those-6)
+nsubj(want-10, those-6)
+aux(want-10, do-8)
+neg(want-10, not-9)
+rcmod(those-6, want-10)
+aux(step-12, to-11)
+xcomp(want-10, step-12)
+prt(step-12, up-13)
+det(DSLR-16, a-15)
+prep_to(step-12, DSLR-16)
+
+=========
+
+nsubj(caught-2, I-1)
+root(ROOT-0, caught-2)
+dobj(caught-2, it-3)
+det(day-6, a-5)
+prep_on(caught-2, day-6)
+advmod(was-10, when-7)
+det(price-9, the-8)
+nsubj(was-10, price-9)
+advcl(caught-2, was-10)
+det('s-15, the-12)
+amod('s-15, high-13)
+num('s-15, 200-14)
+prep_in(was-10, 's-15)
+
+=========
+
+advmod(camera-4, Still-1)
+det(camera-4, a-2)
+amod(camera-4, great-3)
+root(ROOT-0, camera-4)
+amod(price-7, higher-6)
+prep_at(camera-4, price-7)
+

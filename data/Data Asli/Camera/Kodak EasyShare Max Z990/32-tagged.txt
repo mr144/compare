@@ -1,0 +1,8 @@
+Pros_NNS :_: Price_NN was_VBD excellent_JJ ._.
+Color_NNP is_VBZ beautiful_JJ in_IN the_DT photos_NNS and_CC art_NN prints_NNS I_PRP have_VBP sold_VBN in_IN my_PRP$ business_NN ._.
+I_PRP did_VBD read_VB reviews_NNS about_IN this_DT camera_NN prior_RB to_TO buying_NN and_CC knew_VBD of_IN the_DT &#34;_CD cons_NNS &#34;_VBP but_CC am_VBP still_RB including_VBG in_IN my_PRP$ review_NN below_IN ._.
+Cons_NNS :_: 1_LS -RRB-_-RRB- You_PRP can_MD not_RB take_VB multiple_JJ photos_NNS in_IN a_DT row_NN ,_, camera_NN does_VBZ not_RB process_VB fast_RB enough_RB ._.
+Probably_RB a_DT good_JJ 15-20_CD seconds_NNS needed_VBN between_IN each_DT photo_NN for_IN the_DT viewing_VBG screen_NN to_TO reappear_VB ._.
+2_LS -RRB-_-RRB- Battery_NNP life_NN is_VBZ very_RB short_JJ and_CC I_PRP do_VBP not_RB take_VB hundreds_NNS of_IN photos_NNS a_DT day_NN or_CC week_NN ._.
+More_JJR like_IN 25-50_CD photos_NNS a_DT week_NN and_CC I_PRP need_VBP to_TO recharge_VB the_DT batteries_NNS every_DT two_CD weeks_NNS ._.
+That_DT seems_VBZ really_RB short_JJ to_TO me_PRP ._.

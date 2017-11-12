@@ -1,0 +1,1 @@
+I_PRP did_VBD not_RB find_VB the_DT Fujifilm_NNP Memory_NN Cardand_NNP Nothing_NN say_VBP that_IN it_PRP is_VBZ without_IN the_DT Memory_NN Card_NN it_PRP is_VBZ about_IN $_$ 30_CD for_IN Memory_NN Card_NN

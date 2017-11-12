@@ -1,0 +1,26 @@
+=========
+
+poss(son-2, My-1)
+nsubj(wanting-5, son-2)
+aux(wanting-5, has-3)
+aux(wanting-5, been-4)
+root(ROOT-0, wanting-5)
+det(camera-7, this-6)
+dobj(wanting-5, camera-7)
+nsubj(is-10, it-9)
+conj_and(wanting-5, is-10)
+advmod(is-10, definitely-11)
+prep_worth(is-10, it-13)
+
+=========
+
+nsubj(takes-2, It-1)
+nsubj(easy-7, It-1)
+root(ROOT-0, takes-2)
+amod(pics-4, beautiful-3)
+dobj(takes-2, pics-4)
+cop(easy-7, is-6)
+conj_and(takes-2, easy-7)
+aux(use-9, to-8)
+xcomp(easy-7, use-9)
+

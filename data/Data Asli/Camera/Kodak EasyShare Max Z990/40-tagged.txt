@@ -1,0 +1,3 @@
+I_PRP have_VBP owned_VBN a_DT Kodak_NNP EasyShare_NNP for_IN several_JJ years_NNS ,_, until_IN it_PRP was_VBD knocked_VBN off_IN the_DT kitchen_NN counter_NN and_CC broke_VBD ._.
+I_PRP LOVE_VBP the_DT 30X_NNP Zoom_NNP ._.
+That_DT is_VBZ why_WRB I_PRP always_RB buy_VBP Kodak_NNP !_.

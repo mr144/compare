@@ -1,0 +1,6 @@
+The_DT product_NN works_VBZ well_RB most_JJS of_IN the_DT time_NN ._.
+It_PRP 's_VBZ GETTING_VBG IT_PRP TO_TO WORK_VB that_DT is_VBZ sometimes_RB a_DT problem_NN ._.
+When_WRB it_PRP is_VBZ first_RB turned_VBN on_RP ,_, it_PRP shows_VBZ the_DT picture_NN ,_, but_CC sometimes_RB makes_VBZ a_DT VERY_RB strange_JJ sound_NN ._.
+Almost_RB like_IN crackling_VBG or_CC --_: well_RB ,_, all_DT I_PRP can_MD think_VB of_IN is_VBZ 2_CD of_IN some_DT kind_NN of_IN metal_NN rubbing_VBG against_IN each_DT other_JJ ._.
+When_WRB I_PRP turn_VBP it_PRP off_RB and_CC then_RB on_IN again_RB ,_, it_PRP is_VBZ fine_JJ ._.
+Otherwise_RB ,_, I_PRP like_VBP it_PRP just_RB fine_JJ ._.

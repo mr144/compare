@@ -1,0 +1,37 @@
+=========
+
+nsubj(am-2, I-1)
+root(ROOT-0, am-2)
+prep_in(am-2, love-4)
+det(camera-7, this-6)
+prep_with(love-4, camera-7)
+
+=========
+
+nsubj(expert-5, I-1)
+cop(expert-5, am-2)
+neg(expert-5, not-3)
+det(expert-5, an-4)
+root(ROOT-0, expert-5)
+det(means-8, any-7)
+prep_by(expert-5, means-8)
+nsubj(having-13, I-10)
+aux(having-13, have-11)
+aux(having-13, been-12)
+conj_but(expert-5, having-13)
+advmod(much-15, so-14)
+amod(fun-16, much-15)
+dobj(having-13, fun-16)
+poss(camera-19, my-18)
+prep_with(fun-16, camera-19)
+
+=========
+
+poss(camera-4, Its-1)
+det(camera-4, a-2)
+amod(camera-4, good-3)
+root(ROOT-0, camera-4)
+aux(learn-6, to-5)
+infmod(camera-4, learn-6)
+prt(learn-6, on-7)
+

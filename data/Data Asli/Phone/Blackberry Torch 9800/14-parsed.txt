@@ -1,0 +1,23 @@
+=========
+
+poss(technology-3, its-2)
+prep_for(take-11, technology-3)
+nsubj(take-11, memory-5)
+appos(memory-5, capacity-7)
+poss(camera-9, your-8)
+dep(capacity-7, camera-9)
+root(ROOT-0, take-11)
+nsubj(way-16, me-12)
+aux(way-16, to-13)
+cop(way-16, be-14)
+det(way-16, the-15)
+xcomp(take-11, way-16)
+prepc_of(way-16, getting-18)
+poss(work-21, my-20)
+prep_to(getting-18, work-21)
+prep(getting-18, until-22)
+pobj(until-22, now-23)
+complm(need-26, that-24)
+nsubj(need-26, i-25)
+ccomp(take-11, need-26)
+

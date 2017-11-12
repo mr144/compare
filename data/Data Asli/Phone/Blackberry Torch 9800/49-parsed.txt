@@ -1,0 +1,19 @@
+=========
+
+det(product-2, the-1)
+nsubjpass(costarrived-9, product-2)
+auxpass(costarrived-9, was-3)
+advmod(well-5, very-4)
+advmod(costarrived-9, well-5)
+det(requested-8, the-7)
+prep_for(well-5, requested-8)
+root(ROOT-0, costarrived-9)
+prep_in(costarrived-9, timeits-11)
+dobj(agree-16, timeits-11)
+amod(functioning-13, proper-12)
+nsubj(agree-16, functioning-13)
+prep_of(functioning-13, thisI-15)
+rcmod(timeits-11, agree-16)
+det(purchase-19, the-18)
+prep_with(agree-16, purchase-19)
+

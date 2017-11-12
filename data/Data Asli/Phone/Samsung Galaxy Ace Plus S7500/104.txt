@@ -1,0 +1,1 @@
+in product specifications says that working on the band 3g HSDPA 850/1900, I am in Venezuela and my telephony operator uses the 1900MHz band for 3G and this phone does not recognize the 3g, 2g only need your help, that just does not work in Venezuela.

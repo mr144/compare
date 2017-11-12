@@ -1,0 +1,4 @@
+This_DT is_VBZ my_PRP$ second_JJ Fujifilm_NNP FinePix_NNP camera_NN ._.
+My_PRP$ last_JJ one_CD was_VBD 12_CD MP_NNP ,_, and_CC I_PRP loved_VBD it_PRP ._.
+My_PRP$ new_JJ S2950_NNP is_VBZ even_RB better_RBR ,_, with_IN higher_JJR resolution_NN ,_, even_RB at_IN 18X_NNP telephoto_NN ._.
+You_PRP can_MD even_RB zoom_VB in_RP in_IN motion_NN picture_NN mode_NN ._.

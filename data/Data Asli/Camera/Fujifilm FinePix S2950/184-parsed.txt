@@ -1,0 +1,97 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+mark(stolen-11, after-5)
+poss(camera-9, my-6)
+amod(camera-9, other-7)
+amod(camera-9, digital-8)
+nsubjpass(stolen-11, camera-9)
+auxpass(stolen-11, was-10)
+advcl(bought-2, stolen-11)
+
+=========
+
+poss(upgrade-3, its-1)
+quantmod(upgrade-3, an-2)
+nsubj(took-10, upgrade-3)
+poss(one-7, my-5)
+amod(one-7, other-6)
+prep_from(upgrade-3, one-7)
+advmod(took-10, so-8)
+nsubj(took-10, it-9)
+root(ROOT-0, took-10)
+iobj(took-10, me-11)
+det(while-14, a-12)
+amod(while-14, little-13)
+dobj(took-10, while-14)
+aux(figure-16, to-15)
+infmod(while-14, figure-16)
+prt(figure-16, out-17)
+predet(functions-21, all-18)
+det(functions-21, the-19)
+amod(functions-21, different-20)
+dobj(figure-16, functions-21)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+nsubj(takes-6, it-5)
+rcmod(camera-4, takes-6)
+amod(pictures-8, great-7)
+dobj(takes-6, pictures-8)
+
+=========
+
+nsubj(wanted-2, i-1)
+nsubj(wanted-14, i-1)
+root(ROOT-0, wanted-2)
+dobj(wanted-2, something-3)
+amod(something-3, profesional-4)
+amod(something-3, not-6)
+conj_but(profesional-4, not-6)
+neg(profesional-4, not-6)
+advmod(extreme-8, too-7)
+dep(profesional-4, extreme-8)
+nsubj(beginner-12, i-9)
+cop(beginner-12, am-10)
+det(beginner-12, a-11)
+rcmod(something-3, beginner-12)
+conj_and(wanted-2, wanted-14)
+nsubj(easy-16, something-15)
+xcomp(wanted-14, easy-16)
+
+=========
+
+nsubj(camera-4, this-1)
+cop(camera-4, is-2)
+det(camera-4, the-3)
+root(ROOT-0, camera-4)
+
+=========
+
+nsubj(think-2, i-1)
+root(ROOT-0, think-2)
+poss(great-4, its-3)
+dobj(think-2, great-4)
+prep_for(great-4, beginers-6)
+dobj(think-2, someone-10)
+conj_and(great-4, someone-10)
+nsubj(knows-12, someone-10)
+rcmod(someone-10, knows-12)
+dobj(doing-16, what-13)
+nsubj(doing-16, they-14)
+aux(doing-16, are-15)
+ccomp(knows-12, doing-16)
+
+=========
+
+nn(!!-3, Highly-1)
+nn(!!-3, Recommended-2)
+root(ROOT-0, !!-3)
+

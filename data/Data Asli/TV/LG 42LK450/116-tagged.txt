@@ -1,0 +1,2 @@
+We_PRP installed_VBD the_DT LG_NNP 32_CD in_IN a_DT small_JJ room_NN with_IN a_DT wall_NN mount_VB bracket_NN ,_, and_CC it_PRP works_VBZ well_RB ._.
+The_DT LG_NNP is_VBZ a_DT quality_NN unit_NN ,_, but_CC we_PRP would_MD recommend_VB a_DT large_JJ unit_NN for_IN installing_VBG in_IN a_DT bigger_JJR room_NN ._.

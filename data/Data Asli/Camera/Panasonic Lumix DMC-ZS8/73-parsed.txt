@@ -1,0 +1,67 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, the-3)
+amod(camera-5, best-4)
+root(ROOT-0, camera-5)
+dobj(owned-8, camera-5)
+nsubj(owned-8, I-6)
+aux(owned-8, have-7)
+rcmod(camera-5, owned-8)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(pictures-3, wonderful-2)
+dobj(Takes-1, pictures-3)
+det(dark-6, the-5)
+prep_in(pictures-3, dark-6)
+mark(are-10, while-8)
+nsubj(are-10, things-9)
+advcl(Takes-1, are-10)
+prep_in(are-10, motion-12)
+amod(video-15, nice-14)
+prep_in(are-10, video-15)
+conj_and(motion-12, video-15)
+
+=========
+
+nsubj(need-6, That-1)
+auxpass(said-3, being-2)
+partmod(That-1, said-3)
+dobj(said-3, you-4)
+advmod(need-6, absolutly-5)
+root(ROOT-0, need-6)
+det(card-9, an-7)
+nn(card-9, sd-8)
+dobj(need-6, card-9)
+
+=========
+
+nsubj(take-4, You-1)
+aux(take-4, can-2)
+advmod(take-4, only-3)
+root(ROOT-0, take-4)
+quantmod(5-6, about-5)
+num(pictures-7, 5-6)
+dobj(take-4, pictures-7)
+det(setting-12, the-9)
+num(setting-12, 14-10)
+nn(setting-12, MP-11)
+prep_at(take-4, setting-12)
+det(memory-17, the-14)
+amod(memory-17, built-15)
+dep(built-15, in-16)
+prep_with(take-4, memory-17)
+
+=========
+
+advmod(get-5, Otherwise-1)
+det(camera-3, this-2)
+nsubj(get-5, camera-3)
+aux(get-5, would-4)
+root(ROOT-0, get-5)
+num(stars-7, 5-6)
+dobj(get-5, stars-7)
+

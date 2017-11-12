@@ -1,0 +1,134 @@
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+advmod(is-2, absolutely-3)
+det(bass-5, no-4)
+nsubj(is-2, bass-5)
+det(unit-8, this-7)
+prep_from(bass-5, unit-8)
+
+=========
+
+root(ROOT-0, Not-1)
+det(deal-4, a-2)
+amod(deal-4, great-3)
+dep(Not-1, deal-4)
+prep_of(deal-4, room-6)
+prep_for(deal-4, adjustment-8)
+
+=========
+
+dep(TV-7, Yes-1)
+nsubj(TV-7, it-3)
+cop(TV-7, is-4)
+det(TV-7, a-5)
+amod(TV-7, small-6)
+root(ROOT-0, TV-7)
+dep(warned-13, yes-10)
+nsubjpass(warned-13, I-11)
+auxpass(warned-13, was-12)
+conj_and(TV-7, warned-13)
+
+=========
+
+cc(have-2, But-1)
+root(ROOT-0, have-2)
+aux(say-4, to-3)
+xcomp(have-2, say-4)
+nsubj(awful-9, it-5)
+cop(awful-9, is-6)
+advmod(awful-9, really-7)
+advmod(awful-9, really-8)
+ccomp(say-4, awful-9)
+
+=========
+
+nsubj(have-3, You-1)
+aux(have-3, do-2)
+root(ROOT-0, have-3)
+det(option-5, an-4)
+dobj(have-3, option-5)
+aux(turn-7, to-6)
+infmod(option-5, turn-7)
+prt(turn-7, up-8)
+det(volume-10, the-9)
+dobj(turn-7, volume-10)
+amod(volume-10, higher-11)
+amod(volume-10, higher-13)
+conj_and(higher-11, higher-13)
+advmod(make-22, often-16)
+advmod(make-22, still-17)
+nsubj(make-22, you-18)
+aux(make-22, can-19)
+neg(make-22, not-20)
+advmod(make-22, clearly-21)
+conj_and(have-3, make-22)
+prt(make-22, out-23)
+det(audio-25, the-24)
+dobj(make-22, audio-25)
+
+=========
+
+amod(exposure-3, prolonged-2)
+prep_after(wonder-5, exposure-3)
+nsubj(wonder-5, you-4)
+root(ROOT-0, wonder-5)
+advmod(getting-9, why-6)
+nsubj(getting-9, you-7)
+aux(getting-9, are-8)
+advcl(wonder-5, getting-9)
+det(headache-11, a-10)
+dobj(getting-9, headache-11)
+nsubj(realize-15, then-14)
+conj_and(wonder-5, realize-15)
+nsubj(TV-19, it-16)
+cop(TV-19, is-17)
+det(TV-19, the-18)
+ccomp(realize-15, TV-19)
+prep_at(TV-19, 60-21)
+prep_at(TV-19, higher-23)
+conj_or(60-21, higher-23)
+
+=========
+
+det(issues-3, No-1)
+amod(issues-3, other-2)
+nsubj(mount-22, issues-3)
+nsubj(breeze-8, it-5)
+cop(breeze-8, was-6)
+det(breeze-8, a-7)
+parataxis(mount-22, breeze-8)
+aux(set-10, to-9)
+infmod(breeze-8, set-10)
+prt(set-10, up-11)
+nsubj(hung-14, I-13)
+conj_and(breeze-8, hung-14)
+parataxis(mount-22, hung-14)
+dobj(hung-14, it-15)
+det(wall-18, the-17)
+prep_on(hung-14, wall-18)
+det(VISA-21, a-20)
+prep_with(hung-14, VISA-21)
+root(ROOT-0, mount-22)
+det(kitchen-25, a-24)
+prep_in(mount-22, kitchen-25)
+
+=========
+
+nsubj(lovely-3, Picture-1)
+cop(lovely-3, is-2)
+root(ROOT-0, lovely-3)
+
+=========
+
+root(ROOT-0, Use-1)
+dobj(Use-1, this-2)
+amod(system-6, external-4)
+amod(system-6, sound-5)
+prep_with(this-2, system-6)
+conj_or(Use-1, expect-9)
+amod(experience-12, sub-par-10)
+amod(experience-12, sound-11)
+dobj(expect-9, experience-12)
+

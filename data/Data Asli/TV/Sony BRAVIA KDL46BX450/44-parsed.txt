@@ -1,0 +1,58 @@
+=========
+
+det(TV-2, This-1)
+nsubj(beautiful-4, TV-2)
+cop(beautiful-4, was-3)
+root(ROOT-0, beautiful-4)
+advmod(days-8, exactly-6)
+num(days-8, 32-7)
+prep_for(beautiful-4, days-8)
+
+=========
+
+num(days-2, 2-1)
+nsubj(return-5, days-2)
+prep_past(days-2, Amazon-4)
+root(ROOT-0, return-5)
+dobj(return-5, date-6)
+
+=========
+
+nn(Sony-2, Called-1)
+nsubj(replace-6, Sony-2)
+dep(Sony-2, they-3)
+aux(replace-6, will-4)
+advmod(replace-6, only-5)
+root(ROOT-0, replace-6)
+det(one-10, a-8)
+amod(one-10, refurbished-9)
+prep_with(replace-6, one-10)
+
+=========
+
+csubjpass(messed-8, Opted-1)
+csubjpass(rendered-12, Opted-1)
+prep_for(Opted-1, this-3)
+det(picture-6, the-5)
+prep_because(Opted-1, picture-6)
+auxpass(messed-8, is-7)
+root(ROOT-0, messed-8)
+prt(messed-8, up-9)
+aux(rendered-12, has-11)
+conj_and(messed-8, rendered-12)
+det(TV-14, the-13)
+nsubj(useless-15, TV-14)
+xcomp(rendered-12, useless-15)
+
+=========
+
+nn(products-3, Love-1)
+nn(products-3, Sony-2)
+nsubj(one-9, products-3)
+prep(products-3, but-4)
+dep(but-4, this-5)
+cop(one-9, was-6)
+det(one-9, a-7)
+amod(one-9, bad-8)
+root(ROOT-0, one-9)
+

@@ -1,0 +1,87 @@
+=========
+
+prepc_after(decided-11, reading-2)
+predet(reviews-6, all-3)
+det(reviews-6, the-4)
+amod(reviews-6, positive-5)
+dobj(reading-2, reviews-6)
+det(phone-9, this-8)
+prep_about(reading-2, phone-9)
+nsubj(decided-11, I-10)
+xsubj(buy-13, I-10)
+root(ROOT-0, decided-11)
+aux(buy-13, to-12)
+xcomp(decided-11, buy-13)
+dobj(buy-13, it-14)
+prep_on(buy-13, amazon-16)
+
+=========
+
+advmod(had-6, Right-1)
+prep_from(Right-1, day-3)
+num(day-3, one-4)
+nsubj(had-6, it-5)
+root(ROOT-0, had-6)
+dobj(had-6, problem-7)
+auxpass(turned-9, being-8)
+partmod(problem-7, turned-9)
+prt(turned-9, on-10)
+
+=========
+
+csubj(switched-12, Used-1)
+csubj(turn-17, Used-1)
+dobj(Used-1, it-2)
+det(week-5, a-4)
+prep_for(Used-1, week-5)
+prep_for(Used-1, then-7)
+conj_and(week-5, then-7)
+mark(got-11, while-8)
+csubj(got-11, browsing-9)
+dobj(browsing-9, it-10)
+advcl(Used-1, got-11)
+root(ROOT-0, switched-12)
+prt(switched-12, off-13)
+aux(turn-17, did-15)
+neg(turn-17, not-16)
+conj_and(switched-12, turn-17)
+prt(turn-17, on-18)
+advmod(turn-17, again-19)
+
+=========
+
+root(ROOT-0, Had-1)
+aux(return-3, to-2)
+xcomp(Had-1, return-3)
+dobj(return-3, it-4)
+prep_for(return-3, refund-6)
+
+=========
+
+advmod(responsive-8, Also-1)
+det(screen-4, the-2)
+nn(screen-4, touch-3)
+nsubj(responsive-8, screen-4)
+cop(responsive-8, is-5)
+neg(responsive-8, not-6)
+advmod(responsive-8, very-7)
+root(ROOT-0, responsive-8)
+ccomp(responsive-8, had-10)
+aux(tap-12, to-11)
+xcomp(had-10, tap-12)
+dobj(tap-12, couple-13)
+prep_of(couple-13, times-15)
+aux(open-17, to-16)
+xcomp(had-10, open-17)
+det(app-19, an-18)
+dobj(open-17, app-19)
+
+=========
+
+advmod(unhappy-2, Very-1)
+root(ROOT-0, unhappy-2)
+det(quality-5, the-4)
+prep_with(unhappy-2, quality-5)
+det(product-8, the-7)
+prep_of(quality-5, product-8)
+

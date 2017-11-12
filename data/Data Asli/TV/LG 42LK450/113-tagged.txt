@@ -1,0 +1,4 @@
+LG_NNP TV_NNP arrived_VBD quickly_RB and_CC well_RB packed_JJ ._.
+It_PRP was_VBD very_RB easy_JJ to_TO install_VB as_IN a_DT wall_NN mount_VB -LRB-_-LRB- I_PRP had_VBD a_DT suitable_JJ mount_VBP -RRB-_-RRB- as_IN it_PRP is_VBZ very_RB light_JJ for_IN a_DT fairly_RB large_JJ screen_NN ,_, 18_CD +_NN lbs_NNS ._. ._.
+Even_RB though_IN it_PRP is_VBZ a_DT secondary_JJ TV_NN and_CC not_RB hooked_VBN to_TO HD_NNP ,_, the_DT picture_NN quality_NN is_VBZ very_RB good_JJ ._.
+A_DT true_JJ bargain_NN in_IN a_DT name_NN brand_NN at_IN the_DT price_NN purchased_VBD ._.

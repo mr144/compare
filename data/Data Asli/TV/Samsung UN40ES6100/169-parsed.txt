@@ -1,0 +1,72 @@
+=========
+
+nsubj(TV-5, this-1)
+cop(TV-5, is-2)
+det(TV-5, the-3)
+amod(TV-5, best-4)
+root(ROOT-0, TV-5)
+dobj(owned-9, TV-5)
+nsubj(owned-9, I-6)
+aux(owned-9, have-7)
+advmod(owned-9, ever-8)
+rcmod(TV-5, owned-9)
+
+=========
+
+det(clearity-2, The-1)
+nsubj(real-9, clearity-2)
+det(picture-5, the-4)
+prep_of(clearity-2, picture-5)
+cop(real-9, is-6)
+advmod(real-9, almost-7)
+advmod(real-9, TOO-8)
+root(ROOT-0, real-9)
+
+=========
+
+nsubj(increadible-3, It-1)
+cop(increadible-3, is-2)
+root(ROOT-0, increadible-3)
+
+=========
+
+nsubj(looked-2, I-1)
+root(ROOT-0, looked-2)
+det(lot-5, a-4)
+prep_at(looked-2, lot-5)
+prep_of(lot-5, TVs-7)
+expl(is-10, there-9)
+conj_and(looked-2, is-10)
+nsubj(is-10, nothing-11)
+aux(compare-13, to-12)
+infmod(nothing-11, compare-13)
+
+=========
+
+advmod(got-2, Just-1)
+root(ROOT-0, got-2)
+nsubj(learning-7, it-3)
+advmod(learning-7, so-4)
+aux(learning-7, am-5)
+advmod(learning-7, still-6)
+ccomp(got-2, learning-7)
+dobj(learning-7, all-8)
+det(functions-14, the-9)
+num(functions-14, &#34;-10)
+nn(functions-14, SMART-11)
+num(functions-14, &#34;-12)
+nn(functions-14, TV-13)
+dep(got-2, functions-14)
+prepc_like(functions-14, getting-16)
+prep_on(getting-16, internet-18)
+dep(getting-16, using-20)
+dobj(using-20, SKYPE-21)
+appos(SKYPE-21, etc.-23)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+det(TV-4, this-3)
+dobj(recommend-2, TV-4)
+

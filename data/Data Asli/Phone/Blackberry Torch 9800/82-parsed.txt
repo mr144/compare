@@ -1,0 +1,41 @@
+=========
+
+dep(gifted-5, Good-1)
+dep(Good-1, phone-2)
+nsubj(gifted-5, I-4)
+root(ROOT-0, gifted-5)
+dobj(gifted-5, it-6)
+poss(friend-9, my-8)
+prep_to(gifted-5, friend-9)
+prep_in(gifted-5, India-11)
+
+=========
+
+nsubj(works-3, It-1)
+advmod(works-3, still-2)
+root(ROOT-0, works-3)
+acomp(works-3, great-4)
+advmod(works-3, there-5)
+
+=========
+
+cc(using-7, But-1)
+nsubj(using-7, yes-2)
+nsubj(using-7, we-4)
+aux(using-7, are-5)
+neg(using-7, not-6)
+root(ROOT-0, using-7)
+det(phones-9, these-8)
+dobj(using-7, phones-9)
+prep_in(using-7, US-11)
+
+=========
+
+amod(people-2, Most-1)
+nsubj(switching-4, people-2)
+aux(switching-4, are-3)
+root(ROOT-0, switching-4)
+prep_to(switching-4, apple-6)
+prep_to(switching-4, android-8)
+conj_or(apple-6, android-8)
+

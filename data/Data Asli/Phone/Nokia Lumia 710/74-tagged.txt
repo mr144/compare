@@ -1,0 +1,3 @@
+The_DT phone_NN is_VBZ a_DT very_RB good_JJ value_NN for_IN money_NN ._.
+It_PRP is_VBZ a_DT lovely_JJ operating_NN system_NN and_CC a_DT great_JJ price_NN ._.
+Thoroughly_RB enjoyed_VBD the_DT purchase_NN

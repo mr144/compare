@@ -1,0 +1,28 @@
+=========
+
+nsubjpass(satisfied-4, I-1)
+auxpass(satisfied-4, am-2)
+advmod(satisfied-4, extremely-3)
+root(ROOT-0, satisfied-4)
+poss(performance-7, its-6)
+prep_with(satisfied-4, performance-7)
+
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, really-2)
+root(ROOT-0, love-3)
+det(camera-5, this-4)
+dobj(love-3, camera-5)
+nsubj(refer-8, I-7)
+conj_and(love-3, refer-8)
+prep_to(refer-8, those-10)
+nsubj(like-12, those-10)
+rcmod(those-10, like-12)
+aux(buy-14, to-13)
+xcomp(like-12, buy-14)
+det(camera-18, a-15)
+amod(camera-18, new-16)
+nn(camera-18, DX-17)
+dobj(buy-14, camera-18)
+

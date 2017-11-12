@@ -1,0 +1,87 @@
+=========
+
+nsubj(moved-2, We-1)
+root(ROOT-0, moved-2)
+det(age-6, the-4)
+amod(age-6, digital-5)
+prep_into(moved-2, age-6)
+det(week-8, this-7)
+tmod(moved-2, week-8)
+prepc_by(moved-2, purchasing-10)
+det(TV-12, this-11)
+dobj(purchasing-10, TV-12)
+prepc_by(moved-2, upgrading-15)
+conj_and(purchasing-10, upgrading-15)
+nn(HD-18, DIRECTV-17)
+prep_to(upgrading-15, HD-18)
+nn(DVR-21, Genie-20)
+abbrev(HD-18, DVR-21)
+
+=========
+
+nn(control-4, New-1)
+nn(control-4, Directv-2)
+amod(control-4, remote-3)
+nsubj(program-7, control-4)
+aux(program-7, would-5)
+neg(program-7, not-6)
+root(ROOT-0, program-7)
+dobj(program-7, itself-8)
+poss(TV-12, my-10)
+amod(TV-12, new-11)
+prep_with(program-7, TV-12)
+nsubj(found-16, I-15)
+conj_but(program-7, found-16)
+det(solution-19, an-17)
+amod(solution-19, easy-18)
+dobj(found-16, solution-19)
+det(issue-24, the-21)
+amod(issue-24, remote-22)
+nn(issue-24, control-23)
+prep_to(found-16, issue-24)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(worked-2, It-1)
+root(ROOT-0, worked-2)
+
+=========
+
+advmod(manage-4, Now-1)
+nsubj(manage-4, I-2)
+aux(manage-4, can-3)
+root(ROOT-0, manage-4)
+dobj(manage-4, everything-5)
+num(remote-8, ONE-7)
+prep_with(manage-4, remote-8)
+
+=========
+
+aux(happier-4, Could-1)
+neg(happier-4, not-2)
+cop(happier-4, be-3)
+root(ROOT-0, happier-4)
+poss(TV-8, my-6)
+nn(TV-8, TCL-7)
+prep_with(happier-4, TV-8)
+
+=========
+
+amod(picture-2, Great-1)
+root(ROOT-0, picture-2)
+amod(quality-6, great-4)
+amod(quality-6, sound-5)
+appos(picture-2, quality-6)
+
+=========
+
+root(ROOT-0, Now-1)
+mark(make-6, if-2)
+nsubj(make-6, it-3)
+aux(make-6, would-4)
+advmod(make-6, only-5)
+dep(Now-1, make-6)
+dobj(make-6, popcorn-7)
+

@@ -1,0 +1,146 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, the-3)
+dobj(bought-2, phone-4)
+det(dideal-8, the-6)
+nn(dideal-8, vendor-7)
+prep_via(phone-4, dideal-8)
+det(box-11, the-10)
+prep_in(bought-2, box-11)
+
+=========
+
+det(phone-2, The-1)
+nsubj(unlocked-5, phone-2)
+cop(unlocked-5, is-3)
+neg(unlocked-5, not-4)
+root(ROOT-0, unlocked-5)
+
+=========
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+cc(t-5, &-4)
+prep_at(is-2, t-5)
+partmod(t-5, locked-6)
+
+=========
+
+nsubj(called-2, I-1)
+root(ROOT-0, called-2)
+det(vendor-4, the-3)
+dobj(called-2, vendor-4)
+nsubj(send-7, he-6)
+conj_and(called-2, send-7)
+iobj(send-7, me-8)
+det(code-11, an-9)
+nn(code-11, unlock-10)
+dobj(send-7, code-11)
+
+=========
+
+advmod(found-3, Then-1)
+nsubj(found-3, i-2)
+root(ROOT-0, found-3)
+det(numbers-5, some-4)
+dobj(found-3, numbers-5)
+det(log-9, the-7)
+nn(log-9, call-8)
+prep_in(found-3, log-9)
+
+=========
+
+dep(called-3, So-1)
+nsubj(called-3, i-2)
+nsubj(let-6, i-2)
+root(ROOT-0, called-3)
+dobj(called-3, HTC-4)
+conj_and(called-3, let-6)
+nsubj(check-8, them-7)
+ccomp(let-6, check-8)
+det(IMEI-10, the-9)
+dobj(check-8, IMEI-10)
+
+=========
+
+nsubj(confirmed-2, They-1)
+root(ROOT-0, confirmed-2)
+complm(activated-8, that-3)
+det(phone-5, the-4)
+nsubjpass(activated-8, phone-5)
+aux(activated-8, has-6)
+auxpass(activated-8, been-7)
+ccomp(confirmed-2, activated-8)
+det(year-10, a-9)
+npadvmod(ago-11, year-10)
+advmod(activated-8, ago-11)
+
+=========
+
+advmod(looked-12, Also-1)
+det(phone-3, the-2)
+nsubj(looked-12, phone-3)
+nsubj(had-5, itself-4)
+rcmod(phone-3, had-5)
+det(scratch-7, a-6)
+dobj(had-5, scratch-7)
+det(guidebook-11, the-9)
+nn(guidebook-11, user-10)
+dobj(had-5, guidebook-11)
+conj_and(scratch-7, guidebook-11)
+root(ROOT-0, looked-12)
+advmod(self-made-14, very-13)
+acomp(looked-12, self-made-14)
+
+=========
+
+nsubj(photopaper-3, Kodak-2)
+root(ROOT-0, photopaper-3)
+det(cover-6, the-5)
+prep_for(photopaper-3, cover-6)
+det(pages-9, the-8)
+nsubjpass(cut-12, pages-9)
+aux(cut-12, have-10)
+auxpass(cut-12, been-11)
+conj_and(photopaper-3, cut-12)
+acomp(cut-12, inappropriate-13)
+
+=========
+
+det(Box-2, The-1)
+nsubj(looked-3, Box-2)
+root(ROOT-0, looked-3)
+mark(used-8, like-4)
+nsubjpass(used-8, it-5)
+aux(used-8, has-6)
+auxpass(used-8, been-7)
+advcl(looked-3, used-8)
+amod(times-10, several-9)
+dobj(used-8, times-10)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(notice-4, no-3)
+nsubj(is-2, notice-4)
+det(warranty-7, the-6)
+prep_of(notice-4, warranty-7)
+partmod(warranty-7, mentioned-8)
+det(warranty-11, the-10)
+prep_in(mentioned-8, warranty-11)
+
+=========
+
+det(phone-2, The-1)
+nsubj(went-3, phone-2)
+root(ROOT-0, went-3)
+advmod(went-3, back-4)
+det(i-8, the-6)
+nn(i-8, day-7)
+prep_on(went-3, i-8)
+partmod(i-8, recieved-9)
+dobj(recieved-9, it-10)
+

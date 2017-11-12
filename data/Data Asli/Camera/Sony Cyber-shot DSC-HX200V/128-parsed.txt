@@ -1,0 +1,44 @@
+=========
+
+nsubj(looking-3, I-1)
+xsubj(take-8, I-1)
+aux(looking-3, was-2)
+root(ROOT-0, looking-3)
+det(camera-6, a-5)
+prep_for(looking-3, camera-6)
+aux(take-8, to-7)
+xcomp(looking-3, take-8)
+amod(travel-11, foreign-10)
+prep_on(take-8, travel-11)
+
+=========
+
+mark(live-3, While-1)
+nsubj(live-3, I-2)
+advcl(large-11, live-3)
+poss(DLSR-6, my-4)
+nn(DLSR-6, Alpha-5)
+dobj(live-3, DLSR-6)
+nsubj(large-11, it-8)
+nsubj(heavy-13, it-8)
+cop(large-11, was-9)
+advmod(large-11, too-10)
+root(ROOT-0, large-11)
+conj_and(large-11, heavy-13)
+
+=========
+
+nsubj(size-5, This-1)
+nsubj(handles-11, This-1)
+cop(size-5, is-2)
+det(size-5, the-3)
+amod(size-5, correct-4)
+root(ROOT-0, size-5)
+poss(pack-9, my-7)
+amod(pack-9, waist-8)
+prep_for(size-5, pack-9)
+conj_and(size-5, handles-11)
+acomp(handles-11, similar-12)
+det(Alpha-15, the-14)
+prep_to(similar-12, Alpha-15)
+

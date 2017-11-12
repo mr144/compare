@@ -1,0 +1,59 @@
+=========
+
+root(ROOT-0, Purchased-1)
+nsubj(replace-4, this-2)
+aux(replace-4, to-3)
+xcomp(Purchased-1, replace-4)
+poss(son-6, my-5)
+poss(tv-11, son-6)
+num(tv-11, bedroom-8)
+amod(tv-11, standard-9)
+nn(tv-11, definition-10)
+dobj(replace-4, tv-11)
+
+=========
+
+nsubjpass(shipped-3, Product-1)
+nsubjpass(arrived-6, Product-1)
+auxpass(shipped-3, was-2)
+root(ROOT-0, shipped-3)
+advmod(shipped-3, promptly-4)
+conj_and(shipped-3, arrived-6)
+amod(condition-9, excellent-8)
+prep_in(arrived-6, condition-9)
+
+=========
+
+det(picture-2, The-1)
+nsubj(awesome-4, picture-2)
+cop(awesome-4, is-3)
+ccomp(great-9, awesome-4)
+det(sound-7, the-6)
+nsubj(great-9, sound-7)
+cop(great-9, is-8)
+root(ROOT-0, great-9)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, 's-2)
+root(ROOT-0, easy-3)
+aux(operate-5, to-4)
+xcomp(easy-3, operate-5)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+dobj(has-2, plenty-3)
+prep_of(plenty-3, connections-5)
+poss(gaming-8, his-7)
+prep_for(connections-5, gaming-8)
+
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+det(purchase-5, this-4)
+prep_with(pleased-2, purchase-5)
+

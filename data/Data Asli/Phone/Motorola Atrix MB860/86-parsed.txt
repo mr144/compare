@@ -1,0 +1,97 @@
+=========
+
+nsubj(brazilian-3, I-1)
+nsubj(bougth-5, I-1)
+cop(brazilian-3, am-2)
+root(ROOT-0, brazilian-3)
+conj_and(brazilian-3, bougth-5)
+det(phones-8, the-6)
+nn(phones-8, cell-7)
+dobj(bougth-5, phones-8)
+prep_via(phones-8, Internet-10)
+
+=========
+
+advmod(received-3, When-1)
+nsubj(received-3, I-2)
+advcl(realize-8, received-3)
+nsubj(realize-8, I-5)
+aux(realize-8, did-6)
+neg(realize-8, not-7)
+root(ROOT-0, realize-8)
+complm(come-13, that-9)
+nsubj(come-13, it-10)
+aux(come-13, did-11)
+neg(come-13, not-12)
+ccomp(realize-8, come-13)
+det(box-17, the-15)
+amod(box-17, original-16)
+prep_in(come-13, box-17)
+
+=========
+
+nsubj(came-2, It-1)
+root(ROOT-0, came-2)
+det(box-6, a-4)
+amod(box-6, red-5)
+prep_in(came-2, box-6)
+nn(logo-10, Motorola-9)
+prep_without(came-2, logo-10)
+
+=========
+
+nsubj(realize-2, I-1)
+root(ROOT-0, realize-2)
+complm(arrived-7, that-3)
+advmod(when-5, only-4)
+advmod(arrived-7, when-5)
+nsubj(arrived-7, I-6)
+ccomp(realize-2, arrived-7)
+prep_in(arrived-7, Brazil-9)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+complm(got-5, that-3)
+nsubj(got-5, I-4)
+ccomp(think-2, got-5)
+det(item-8, a-6)
+amod(item-8, refurbished-7)
+dobj(got-5, item-8)
+
+=========
+
+nsubj(was-3, I-2)
+nsubj(decided-8, I-2)
+xsubj(return-11, I-2)
+root(ROOT-0, was-3)
+advmod(was-3, already-4)
+prep_in(was-3, Brazil-6)
+conj_and(was-3, decided-8)
+neg(return-11, not-9)
+aux(return-11, to-10)
+xcomp(decided-8, return-11)
+det(phones-14, the-12)
+nn(phones-14, cell-13)
+dobj(return-11, phones-14)
+
+=========
+
+advmod(stop-6, Now-1)
+nsubj(stop-6, one-3)
+prep_of(one-3, them-5)
+root(ROOT-0, stop-6)
+xcomp(stop-6, working-7)
+det(screen-11, the-9)
+nn(screen-11, touch-10)
+nsubj(work-14, screen-11)
+aux(work-14, does-12)
+neg(work-14, not-13)
+parataxis(stop-6, work-14)
+det(lot-17, a-16)
+prep_in(work-14, lot-17)
+prep_of(lot-17, places-19)
+det(screen-22, the-21)
+prep_of(places-19, screen-22)
+

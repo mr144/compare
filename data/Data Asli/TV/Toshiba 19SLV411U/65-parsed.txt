@@ -1,0 +1,34 @@
+=========
+
+root(ROOT-0, wanted-1)
+det(set-4, a-2)
+amod(set-4, smaller-3)
+dobj(wanted-1, set-4)
+det(bedroom-7, the-6)
+prep_for(wanted-1, bedroom-7)
+
+=========
+
+nsubj(buy-5, This-1)
+nsubj(has-7, This-1)
+cop(buy-5, was-2)
+det(buy-5, a-3)
+amod(buy-5, great-4)
+root(ROOT-0, buy-5)
+conj_and(buy-5, has-7)
+det(picture-10, a-8)
+amod(picture-10, great-9)
+dobj(has-7, picture-10)
+
+=========
+
+nsubj(built-11, Lots-1)
+prep_of(Lots-1, bang-3)
+det(buck-6, the-5)
+prep_for(bang-3, buck-6)
+det(player-10, the-8)
+nn(player-10, DVD-9)
+prep_with(buck-6, player-10)
+root(ROOT-0, built-11)
+prt(built-11, in-12)
+

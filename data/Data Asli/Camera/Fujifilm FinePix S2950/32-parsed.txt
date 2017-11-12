@@ -1,0 +1,36 @@
+=========
+
+amod(responsables-4, facil-1)
+nn(responsables-4, entrega-2)
+nn(responsables-4, muy-3)
+root(ROOT-0, responsables-4)
+det(envio-9, a-5)
+nn(envio-9, la-6)
+nn(envio-9, hora-7)
+nn(envio-9, del-8)
+dep(responsables-4, envio-9)
+
+=========
+
+root(ROOT-0, excelente-1)
+dobj(excelente-1, producto-2)
+
+=========
+
+nn(buena-2, muy-1)
+nsubj(calidad-3, buena-2)
+root(ROOT-0, calidad-3)
+
+=========
+
+amod(y-3, buen-1)
+nn(y-3, precio-2)
+nsubj(seguridad-4, y-3)
+root(ROOT-0, seguridad-4)
+nn(estado-7, el-6)
+prep_en(seguridad-4, estado-7)
+nn(producto-12, que-9)
+nn(producto-12, llego-10)
+nn(producto-12, el-11)
+prep_en(seguridad-4, producto-12)
+

@@ -1,0 +1,67 @@
+=========
+
+nsubj(read-2, I-1)
+nsubj(am-10, I-1)
+root(ROOT-0, read-2)
+det(reviews-5, all-3)
+amod(reviews-5, other-4)
+dobj(read-2, reviews-5)
+dobj(read-2, then-7)
+advmod(reviews-5, then-7)
+conj_and(reviews-5, then-7)
+dobj(read-2, some-8)
+conj_and(reviews-5, some-8)
+conj_and(read-2, am-10)
+prep_without(am-10, complaint-12)
+det(kind-15, any-14)
+prep_of(complaint-12, kind-15)
+
+=========
+
+nsubj(using-4, I-1)
+aux(using-4, have-2)
+aux(using-4, been-3)
+root(ROOT-0, using-4)
+det(TV-6, this-5)
+dobj(using-4, TV-6)
+amod(weeks-9, several-8)
+prep_for(TV-6, weeks-9)
+det(works-12, all-11)
+prep_for(TV-6, works-12)
+conj_and(weeks-9, works-12)
+dobj(using-4, day-16)
+conj_and(TV-6, day-16)
+num(day-16, one-17)
+
+=========
+
+det(picture-2, The-1)
+nsubj(sharp-4, picture-2)
+cop(sharp-4, is-3)
+ccomp(excellent-11, sharp-4)
+amod(color-7, great-6)
+nsubj(excellent-11, color-7)
+conj_and(color-7, blacks-9)
+nsubj(excellent-11, blacks-9)
+cop(excellent-11, are-10)
+root(ROOT-0, excellent-11)
+
+=========
+
+nsubj(good-3, Sound-1)
+cop(good-3, is-2)
+root(ROOT-0, good-3)
+prepc_for(good-3, built-5)
+nn(size-8, speaker-7)
+prep_in(built-5, size-8)
+
+=========
+
+num(screen-2, 3D-1)
+nsubj(good-5, screen-2)
+cop(good-5, is-3)
+advmod(good-5, as-4)
+root(ROOT-0, good-5)
+prep_as(good-5, Avitar-7)
+prep_in(Avitar-7, theater-9)
+

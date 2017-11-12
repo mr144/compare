@@ -1,0 +1,86 @@
+=========
+
+dep(turn-19, Disconcerting-1)
+aux(see-3, to-2)
+xcomp(Disconcerting-1, see-3)
+det(objective-6, the-4)
+amod(objective-6, large-5)
+dobj(see-3, objective-6)
+nn(flower-9, lens-7)
+num(flower-9, &#34;-8)
+npadvmod(see-3, flower-9)
+num(flower-9, &#34;-10)
+det(stalk-15, a-12)
+advmod(skinny-14, pretty-13)
+amod(stalk-15, skinny-14)
+prep_onto(see-3, stalk-15)
+det(time-17, every-16)
+dep(stalk-15, time-17)
+nsubj(turn-19, you-18)
+root(ROOT-0, turn-19)
+det(camera-21, this-20)
+dobj(turn-19, camera-21)
+prt(turn-19, on-22)
+
+=========
+
+amod(camera-2, Decent-1)
+root(ROOT-0, camera-2)
+advmod(camera-2, but-3)
+dep(camera-2, hard-4)
+aux(believe-6, to-5)
+xcomp(hard-4, believe-6)
+num(MP-8, 16-7)
+dobj(believe-6, MP-8)
+
+=========
+
+root(ROOT-0, Love-1)
+det(grip-4, the-2)
+nn(grip-4, hand-3)
+dobj(Love-1, grip-4)
+appos(grip-4, size-6)
+conj_and(Love-1, feel-9)
+
+=========
+
+nn(card-2, SD-1)
+nsubj(makes-3, card-2)
+root(ROOT-0, makes-3)
+xcomp(makes-3, transferring-4)
+det(snap-6, a-5)
+dobj(transferring-4, snap-6)
+
+=========
+
+amod(video-2, Takes-1)
+root(ROOT-0, video-2)
+amod(video-2, good-3)
+advmod(good-3, enough-4)
+aux(post-6, to-5)
+xcomp(good-3, post-6)
+prep_to(post-6, YouTube-8)
+
+=========
+
+det(instamatic-4, A-1)
+advmod(glorified-3, somewhat-2)
+amod(instamatic-4, glorified-3)
+root(ROOT-0, instamatic-4)
+
+=========
+
+det(money-3, the-2)
+prep_worth(want-8, money-3)
+nsubj(want-8, you-5)
+aux(want-8, 'll-6)
+advmod(want-8, probably-7)
+root(ROOT-0, want-8)
+det(camera-12, a-9)
+advmod(serious-11, more-10)
+amod(camera-12, serious-11)
+dobj(want-8, camera-12)
+poss(artiste-16, your-14)
+amod(artiste-16, inner-15)
+prep_for(camera-12, artiste-16)
+

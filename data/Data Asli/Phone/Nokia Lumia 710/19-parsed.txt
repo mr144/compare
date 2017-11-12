@@ -1,0 +1,60 @@
+=========
+
+nsubj(fast-3, Phone-1)
+xsubj(touch-8, Phone-1)
+cop(fast-3, is-2)
+root(ROOT-0, fast-3)
+conj_and(fast-3, respond-5)
+advmod(respond-5, well-6)
+aux(touch-8, to-7)
+xcomp(respond-5, touch-8)
+dobj(touch-8, comands-9)
+
+=========
+
+nn(Phone-2, Windows-1)
+nsubj(easy-5, Phone-2)
+xsubj(use-7, Phone-2)
+cop(easy-5, is-3)
+advmod(easy-5, very-4)
+root(ROOT-0, easy-5)
+aux(use-7, to-6)
+xcomp(easy-5, use-7)
+
+=========
+
+advmod(missing-2, Still-1)
+root(ROOT-0, missing-2)
+amod(apps-4, more-3)
+dobj(missing-2, apps-4)
+dep(missing-2, but-6)
+det(basics-8, the-7)
+nsubj(available-10, basics-8)
+cop(available-10, are-9)
+ccomp(missing-2, available-10)
+
+=========
+
+nsubjpass(needed-12, One-1)
+det(options-6, the-3)
+amod(options-6, cheapest-4)
+nn(options-6, phone-5)
+prep_of(One-1, options-6)
+prep_with(options-6, most-8)
+prep_of(most-8, what-10)
+auxpass(needed-12, is-11)
+root(ROOT-0, needed-12)
+det(smartphone-15, a-14)
+prep_in(needed-12, smartphone-15)
+
+=========
+
+nn(life-2, battery-1)
+nsubj(regular-4, life-2)
+cop(regular-4, is-3)
+root(ROOT-0, regular-4)
+num(day-7, one-6)
+appos(regular-4, day-7)
+amod(usage-10, intense-9)
+prep_of(day-7, usage-10)
+

@@ -1,0 +1,124 @@
+=========
+
+nn(Camera-2, Beautiful-1)
+root(ROOT-0, Camera-2)
+dep(weight-7, Just-4)
+det(weight-7, the-5)
+amod(weight-7, right-6)
+dep(Camera-2, weight-7)
+dep(weight-7, not-9)
+advmod(light-11, too-10)
+dep(not-9, light-11)
+neg(heavy-15, not-13)
+advmod(heavy-15, too-14)
+dep(not-9, heavy-15)
+conj_and(light-11, heavy-15)
+
+=========
+
+det(screen-3, The-1)
+nn(screen-3, LCD-2)
+nsubj(large-5, screen-3)
+cop(large-5, is-4)
+root(ROOT-0, large-5)
+advmod(large-5, enough-6)
+aux(able-9, to-7)
+cop(able-9, be-8)
+xcomp(large-5, able-9)
+aux(view-11, to-10)
+xcomp(able-9, view-11)
+poss(photos-13, your-12)
+dobj(view-11, photos-13)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, only-2)
+nsubj(is-4, problem-3)
+root(ROOT-0, is-4)
+parataxis(is-4, Watch-6)
+xcomp(is-4, Watch-6)
+prt(Watch-6, out-7)
+det(door-11, the-9)
+nn(door-11, battery-10)
+prep_for(Watch-6, door-11)
+
+=========
+
+nsubj(flimsy-4, It-1)
+cop(flimsy-4, is-2)
+advmod(flimsy-4, so-3)
+root(ROOT-0, flimsy-4)
+complm(seems-7, that-5)
+nsubj(seems-7, it-6)
+xsubj(hanging-10, it-6)
+ccomp(flimsy-4, seems-7)
+aux(hanging-10, to-8)
+aux(hanging-10, be-9)
+xcomp(seems-7, hanging-10)
+det(thread-13, a-12)
+prep_on(hanging-10, thread-13)
+
+=========
+
+nsubj(invented-2, Whoever-1)
+root(ROOT-0, invented-2)
+nsubj(clever-7, this-3)
+cop(clever-7, was-4)
+neg(clever-7, not-5)
+advmod(clever-7, too-6)
+ccomp(invented-2, clever-7)
+
+=========
+
+det(system-3, A-1)
+amod(system-3, better-2)
+nsubj(been-6, system-3)
+aux(been-6, would-4)
+aux(been-6, have-5)
+root(ROOT-0, been-6)
+det(cameras-11, the-8)
+amod(cameras-11, old-9)
+nn(cameras-11, Fuji-10)
+prep_like(been-6, cameras-11)
+advmod(was-18, where-12)
+det(card-17, the-13)
+nn(card-17, XD-14)
+conj_or(XD-14, SD-16)
+nn(card-17, SD-16)
+nsubj(was-18, card-17)
+advcl(been-6, was-18)
+det(chamber-22, a-20)
+amod(chamber-22, separate-21)
+prep_in(was-18, chamber-22)
+
+=========
+
+nsubj(is-2, This-1)
+root(ROOT-0, is-2)
+advmod(did-5, why-3)
+nsubj(did-5, I-4)
+advcl(is-2, did-5)
+neg(rate-7, not-6)
+dep(did-5, rate-7)
+det(camera-9, the-8)
+dep(rate-7, camera-9)
+num(stars-11, five-10)
+dep(camera-9, stars-11)
+
+=========
+
+root(ROOT-0, Otherwise-1)
+
+=========
+
+det(price-4, this-2)
+amod(price-4, inexpensive-3)
+prep_for(got-6, price-4)
+nsubj(got-6, you-5)
+root(ROOT-0, got-6)
+nsubj(deal-10, yourself-7)
+det(deal-10, a-8)
+amod(deal-10, great-9)
+xcomp(got-6, deal-10)
+

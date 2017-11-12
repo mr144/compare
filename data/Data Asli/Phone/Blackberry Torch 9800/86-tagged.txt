@@ -1,0 +1,2 @@
+very_RB good_JJ item_NN ,_, it_PRP is_VBZ exactly_RB as_IN I_PRP expected_VBD within_IN the_DT good_JJ price_NN ._.
+it_PRP works_VBZ very_RB good_JJ ,_, and_CC met_VBD all_DT its_PRP$ standards_NNS ._.

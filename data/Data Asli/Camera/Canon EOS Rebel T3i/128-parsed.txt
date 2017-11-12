@@ -1,0 +1,23 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+dobj(got-2, this-3)
+mark(want-6, because-4)
+nsubj(want-6, I-5)
+xsubj(capture-8, I-5)
+advcl(got-2, want-6)
+aux(capture-8, to-7)
+xcomp(want-6, capture-8)
+det(moments-10, the-9)
+dobj(capture-8, moments-10)
+poss(child-13, my-12)
+prep_of(moments-10, child-13)
+amod(camera-16, great-15)
+npadvmod(along-17, camera-16)
+advmod(child-13, along-17)
+det(definition-22, the-19)
+amod(definition-22, high-20)
+nn(definition-22, quality-21)
+prep_with(capture-8, definition-22)
+

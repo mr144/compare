@@ -1,0 +1,59 @@
+=========
+
+amod(phone-2, good-1)
+root(ROOT-0, phone-2)
+amod(phone-5, fast-4)
+appos(phone-2, phone-5)
+amod(design-8, neat-7)
+appos(phone-5, design-8)
+
+=========
+
+nn(ratio-3, display-1)
+nn(ratio-3, aspect-2)
+nsubj(best-7, ratio-3)
+cop(best-7, is-4)
+neg(best-7, not-5)
+det(best-7, the-6)
+root(ROOT-0, best-7)
+advmod(narrow-10, too-9)
+dep(best-7, narrow-10)
+
+=========
+
+det(bugs-2, some-1)
+root(ROOT-0, bugs-2)
+prep_with(bugs-2, ICS-4)
+
+=========
+
+poss(kit-2, My-1)
+nsubj(came-3, kit-2)
+nsubj(owns-16, kit-2)
+root(ROOT-0, came-3)
+amod(headphones-10, cheap-5)
+amod(headphones-10, bad-7)
+nn(headphones-10, quality-8)
+nn(headphones-10, in-ear-9)
+prep_with(came-3, headphones-10)
+dep(owns-16, sound-12)
+acomp(owns-16, good-13)
+prep_with(good-13, my-15)
+conj_but(came-3, owns-16)
+
+=========
+
+root(ROOT-0, Come-2)
+prep_on(deserves-8, Sony-4)
+det(U-7, the-6)
+nsubj(deserves-8, U-7)
+ccomp(Come-2, deserves-8)
+amod(!!-11, jelly-9)
+nn(!!-11, bean-10)
+dobj(deserves-8, !!-11)
+nsubj(upgrading-15, you-13)
+aux(upgrading-15, are-14)
+dep(!!-11, upgrading-15)
+amod(phones-17, inferior-16)
+dobj(upgrading-15, phones-17)
+

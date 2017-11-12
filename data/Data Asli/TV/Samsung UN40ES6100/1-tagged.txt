@@ -1,0 +1,4 @@
+We_PRP have_VBP owned_VBN this_DT set_NN for_IN over_IN a_DT month_NN ._.
+It_PRP has_VBZ a_DT awesome_JJ picture_NN ._.
+I_PRP like_VBP the_DT size_NN in_IN comparison_NN to_TO my_PRP$ 52_CD inch_NN ._.
+I_PRP was_VBD comfortable_JJ purchasing_VBG another_DT Samsung_NNP TV_NN ._.

@@ -1,0 +1,41 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(Shipping-6, my-3)
+amod(Shipping-6, new-4)
+nn(Shipping-6, T.V.-5)
+nsubj(quick-8, Shipping-6)
+cop(quick-8, was-7)
+ccomp(love-2, quick-8)
+nsubj(is-11, it-10)
+conj_and(love-2, is-11)
+det(price-14, the-13)
+prep_worth(is-11, price-14)
+
+=========
+
+nsubj(easy-4, It-1)
+xsubj(hook-6, It-1)
+cop(easy-4, is-2)
+advmod(easy-4, very-3)
+root(ROOT-0, easy-4)
+aux(hook-6, to-5)
+xcomp(easy-4, hook-6)
+prt(hook-6, up-7)
+
+=========
+
+nsubj(love-2, I-1)
+nsubj(recommend-10, I-1)
+root(ROOT-0, love-2)
+det(clarity-4, the-3)
+dobj(love-2, clarity-4)
+det(screen-7, the-6)
+prep_of(clarity-4, screen-7)
+aux(recommend-10, would-9)
+conj_and(love-2, recommend-10)
+det(product-12, this-11)
+dobj(recommend-10, product-12)
+prep_to(recommend-10, anyone-14)
+

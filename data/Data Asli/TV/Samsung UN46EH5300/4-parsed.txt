@@ -1,0 +1,46 @@
+=========
+
+nsubj(THIS-4, SAMSUNG-1)
+cop(THIS-4, IS-2)
+nn(THIS-4, LISTING-3)
+root(ROOT-0, THIS-4)
+amod(THIS-4, AS-5)
+det(TV-8, A-6)
+num(TV-8, 120HZ-7)
+dep(THIS-4, TV-8)
+advmod(ITS-12, WHEN-10)
+nsubj(ITS-12, ACTUALLY-11)
+advcl(THIS-4, ITS-12)
+det(HZ-15, A-13)
+num(HZ-15, 60-14)
+dobj(ITS-12, HZ-15)
+
+=========
+
+nsubj(ADVERTISEMENT-4, THIS-1)
+cop(ADVERTISEMENT-4, IS-2)
+nn(ADVERTISEMENT-4, FALSE-3)
+root(ROOT-0, ADVERTISEMENT-4)
+
+=========
+
+xsubj(STATE-5, ITS-1)
+nsubj(DIFFERENCE-19, ITS-1)
+num(ITS-1, ONE-2)
+partmod(ITS-1, THING-3)
+aux(STATE-5, TO-4)
+xcomp(THING-3, STATE-5)
+num(RATE-9, 120-6)
+nn(RATE-9, CLEAR-7)
+nn(RATE-9, MOTION-8)
+dobj(STATE-5, RATE-9)
+nn(ITS-14, BUT-11)
+nn(ITS-14, TO-12)
+nn(ITS-14, SAY-13)
+appos(RATE-9, ITS-14)
+num(ITS-14, 120HZ-15)
+cop(DIFFERENCE-19, IS-16)
+advmod(DIFFERENCE-19, QUITE-17)
+det(DIFFERENCE-19, THE-18)
+root(ROOT-0, DIFFERENCE-19)
+

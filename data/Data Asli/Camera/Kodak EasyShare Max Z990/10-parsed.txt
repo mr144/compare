@@ -1,0 +1,37 @@
+=========
+
+advmod(camaeraavaiable-8, Believe-1)
+nsubj(camaeraavaiable-8, this-2)
+cop(camaeraavaiable-8, is-3)
+det(camaeraavaiable-8, the-4)
+amod(camaeraavaiable-8, best-5)
+amod(camaeraavaiable-8, all-around-6)
+amod(camaeraavaiable-8, digital-7)
+root(ROOT-0, camaeraavaiable-8)
+det(photographer-12, the-10)
+nn(photographer-12, novice-11)
+prep_for(camaeraavaiable-8, photographer-12)
+
+=========
+
+amod(frustration-2, Primary-1)
+nsubj(longevity-5, frustration-2)
+cop(longevity-5, is-3)
+det(longevity-5, the-4)
+root(ROOT-0, longevity-5)
+det(batteries-8, the-7)
+prep_of(longevity-5, batteries-8)
+
+=========
+
+root(ROOT-0, Make-1)
+acomp(Make-1, sure-2)
+nsubj(carry-5, you-3)
+advmod(carry-5, always-4)
+ccomp(sure-2, carry-5)
+det(set-8, an-6)
+amod(set-8, extra-7)
+dobj(carry-5, set-8)
+advmod(chargedbatteries-11, fully-10)
+prep_of(set-8, chargedbatteries-11)
+

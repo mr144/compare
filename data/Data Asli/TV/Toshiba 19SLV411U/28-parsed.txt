@@ -1,0 +1,38 @@
+=========
+
+nn(FULL-3, EVEN-1)
+nn(FULL-3, AT-2)
+nsubj(BLAST-4, FULL-3)
+root(ROOT-0, BLAST-4)
+nsubj(THING-10, I-5)
+nn(THING-10, CAN-6)
+nn(THING-10, HARDLY-7)
+nn(THING-10, HEAR-8)
+nn(THING-10, THIS-9)
+xcomp(BLAST-4, THING-10)
+
+=========
+
+nsubj(DO-2, I-1)
+root(ROOT-0, DO-2)
+nn(HOW-5, NOT-3)
+nn(HOW-5, KNOW-4)
+nsubj(OVERCOME-7, HOW-5)
+aux(OVERCOME-7, TO-6)
+xcomp(DO-2, OVERCOME-7)
+nn(BUT-11, THIS-8)
+nn(BUT-11, PROBLEM-9)
+dobj(OVERCOME-7, BUT-11)
+dobj(GET-13, BUT-11)
+nsubj(GET-13, I-12)
+rcmod(BUT-11, GET-13)
+det(EXPENSIVE-20, THE-14)
+nn(EXPENSIVE-20, IMPRESSION-15)
+nn(EXPENSIVE-20, THAT-16)
+nn(EXPENSIVE-20, IT-17)
+nn(EXPENSIVE-20, MIGHT-18)
+nn(EXPENSIVE-20, BE-19)
+nsubj(FIX-22, EXPENSIVE-20)
+aux(FIX-22, TO-21)
+xcomp(GET-13, FIX-22)
+

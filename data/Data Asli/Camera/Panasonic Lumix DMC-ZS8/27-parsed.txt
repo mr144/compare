@@ -1,0 +1,112 @@
+=========
+
+root(ROOT-0, Oh-1)
+nsubj(Oh-1, Lordy-2)
+partmod(Lordy-2, lord-4)
+
+=========
+
+nsubj(upset-4, I-1)
+cop(upset-4, was-2)
+advmod(upset-4, soooooo-3)
+root(ROOT-0, upset-4)
+advmod(find-9, when-5)
+nsubj(find-9, I-6)
+aux(find-9, could-7)
+neg(find-9, not-8)
+advcl(upset-4, find-9)
+poss(camera-11, my-10)
+dobj(find-9, camera-11)
+
+=========
+
+nsubj(take-2, I-1)
+root(ROOT-0, take-2)
+dobj(take-2, lots-3)
+prep_of(lots-3, pictures-5)
+det(week-7, every-6)
+dep(pictures-5, week-7)
+
+=========
+
+dep(bought-3, So-1)
+nsubj(bought-3, I-2)
+root(ROOT-0, bought-3)
+det(model-6, the-4)
+amod(model-6, next-5)
+dobj(bought-3, model-6)
+prep(bought-3, up-7)
+nsubj(come-10, that-8)
+aux(come-10, had-9)
+dep(up-7, come-10)
+prt(come-10, out-11)
+poss(purchase-15, my-13)
+amod(purchase-15, original-14)
+prep_since(come-10, purchase-15)
+
+=========
+
+prep(pleased-10, As-1)
+pcomp(As-1, with-2)
+det(camera-5, the-3)
+amod(camera-5, first-4)
+prep_with(As-1, camera-5)
+nsubj(pleased-10, I-7)
+cop(pleased-10, am-8)
+amod(pleased-10, VERY-9)
+root(ROOT-0, pleased-10)
+det(one-13, this-12)
+prep_with(pleased-10, one-13)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+amod(features-4, many-3)
+dobj(has-2, features-4)
+dobj(used-9, features-4)
+complm(used-9, that-5)
+nsubj(used-9, I-6)
+aux(used-9, have-7)
+neg(used-9, not-8)
+dep(features-4, used-9)
+advmod(used-9, yet-10)
+nsubj(like-13, I-12)
+conj_but(has-2, like-13)
+xcomp(like-13, knowing-14)
+nsubj(are-16, they-15)
+ccomp(knowing-14, are-16)
+expl(is-18, there-17)
+ccomp(are-16, is-18)
+nsubj(need-20, I-19)
+ccomp(is-18, need-20)
+dobj(need-20, them-21)
+
+=========
+
+nsubj(LOVE-2, I-1)
+root(ROOT-0, LOVE-2)
+det(viewer-6, the-3)
+amod(viewer-6, large-4)
+nn(viewer-6, image-5)
+nsubj(light-12, viewer-6)
+nsubj(easy-15, viewer-6)
+xsubj(hold-17, viewer-6)
+det(camera-9, the-8)
+conj_and(viewer-6, camera-9)
+nsubj(light-12, camera-9)
+xsubj(hold-17, camera-9)
+cop(light-12, is-10)
+advmod(light-12, very-11)
+ccomp(LOVE-2, light-12)
+dep(light-12, weight-13)
+ccomp(LOVE-2, easy-15)
+conj_and(light-12, easy-15)
+aux(hold-17, to-16)
+xcomp(light-12, hold-17)
+prep_for(hold-17, someone-19)
+prep_like(someone-19, me-21)
+amod(hands-25, small-23)
+amod(hands-25, arthritic-24)
+prep_with(hold-17, hands-25)
+

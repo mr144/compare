@@ -1,0 +1,48 @@
+=========
+
+det(picture-2, The-1)
+nsubj(amazing-4, picture-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+det(design-2, The-1)
+nsubj(sleek-4, design-2)
+cop(sleek-4, is-3)
+root(ROOT-0, sleek-4)
+
+=========
+
+nsubj(deal-5, It-1)
+cop(deal-5, 's-2)
+det(deal-5, a-3)
+amod(deal-5, great-4)
+root(ROOT-0, deal-5)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(TV-5, an-3)
+nn(TV-5, Apple-4)
+dobj(have-2, TV-5)
+advmod(have-2, already-6)
+mark(use-12, so-8)
+nsubj(use-12, I-9)
+aux(use-12, do-10)
+neg(use-12, not-11)
+advcl(have-2, use-12)
+det(interface-15, the-13)
+nn(interface-15, web-14)
+dobj(use-12, interface-15)
+
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(product-7, this-6)
+prep_with(pleased-4, product-7)
+

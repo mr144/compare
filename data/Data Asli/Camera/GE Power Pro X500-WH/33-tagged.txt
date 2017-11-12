@@ -1,0 +1,2 @@
+Awsome_JJ value_NN for_IN the_DT money_NN !_.
+Battery_NNP life_NN was_VBD less_JJR than_IN I_PRP hoped_VBD for_IN though_RB ,_, but_CC this_DT was_VBD my_PRP$ only_JJ issue_NN ._.

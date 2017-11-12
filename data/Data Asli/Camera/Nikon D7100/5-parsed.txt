@@ -1,0 +1,51 @@
+=========
+
+advmod(camera-9, Even-1)
+dep(camera-9, though-2)
+nsubj(camera-9, this-3)
+cop(camera-9, is-4)
+neg(camera-9, not-5)
+det(camera-9, a-6)
+amod(camera-9, full-7)
+nn(camera-9, frame-8)
+advcl(love-13, camera-9)
+nsubj(love-13, I-11)
+advmod(love-13, really-12)
+root(ROOT-0, love-13)
+dobj(love-13, everything-14)
+dobj(does-16, everything-14)
+nsubj(does-16, it-15)
+rcmod(everything-14, does-16)
+
+=========
+
+ccomp(needed-10, Easy-1)
+aux(navigate-3, to-2)
+xcomp(Easy-1, navigate-3)
+dobj(navigate-3, menu-4)
+predet(the-7, all-6)
+nsubj(needed-10, the-7)
+advmod(often-9, most-8)
+advmod(needed-10, often-9)
+root(ROOT-0, needed-10)
+nsubj(are-12, options-11)
+ccomp(needed-10, are-12)
+poss(screen-20, your-14)
+amod(screen-20, fingertips-15)
+advmod(larger-19, much-18)
+conj_and(fingertips-15, larger-19)
+amod(screen-20, larger-19)
+prep_at(are-12, screen-20)
+poss(body-25, my-22)
+amod(body-25, last-23)
+amod(body-25, digital-24)
+prep_than(screen-20, body-25)
+
+=========
+
+nn(!!-5, LOVE-1)
+nn(!!-5, LOVE-2)
+nn(!!-5, LOVE-3)
+nn(!!-5, IT-4)
+root(ROOT-0, !!-5)
+

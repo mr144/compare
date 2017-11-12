@@ -1,0 +1,46 @@
+=========
+
+advmod(began-10, Only-1)
+det(days-4, a-2)
+amod(days-4, few-3)
+npadvmod(began-10, days-4)
+prepc_after(began-10, arriving-6)
+det(sound-9, the-8)
+nsubj(began-10, sound-9)
+xsubj(cut-13, sound-9)
+root(ROOT-0, began-10)
+aux(cut-13, to-11)
+advmod(cut-13, spontaneously-12)
+xcomp(began-10, cut-13)
+prt(cut-13, off-14)
+
+=========
+
+nsubj(does-2, It-1)
+root(ROOT-0, does-2)
+dobj(does-2, it-3)
+advmod(often-5, quite-4)
+advmod(does-2, often-5)
+mark(watching-7, while-6)
+dep(often-5, watching-7)
+dobj(watching-7, programming-8)
+
+=========
+
+csubj(seems-9, Turning-1)
+det(set-3, the-2)
+dobj(Turning-1, set-3)
+advmod(Turning-1, off-4)
+advmod(Turning-1, then-6)
+conj_and(off-4, then-6)
+advmod(on-8, back-7)
+advmod(Turning-1, on-8)
+root(ROOT-0, seems-9)
+aux(remedy-11, to-10)
+xcomp(seems-9, remedy-11)
+dobj(remedy-11, it-12)
+nsubj(defective-18, it-15)
+advmod(defective-18, certainly-16)
+cop(defective-18, seems-17)
+conj_but(seems-9, defective-18)
+

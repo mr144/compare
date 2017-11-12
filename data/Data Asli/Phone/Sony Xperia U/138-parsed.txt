@@ -1,0 +1,30 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(phone-4, this-3)
+dobj(love-2, phone-4)
+
+=========
+
+nsubj(fantastic-3, It-1)
+nsubj(does-9, It-1)
+cop(fantastic-3, is-2)
+root(ROOT-0, fantastic-3)
+det(price-6, the-5)
+prep_for(fantastic-3, price-6)
+conj_and(fantastic-3, does-9)
+dobj(does-9, everything-10)
+dobj(do-15, everything-10)
+det(smartphone-13, any-11)
+amod(smartphone-13, other-12)
+nsubj(do-15, smartphone-13)
+aux(do-15, would-14)
+rcmod(everything-10, do-15)
+
+=========
+
+nsubj(great-3, it-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+

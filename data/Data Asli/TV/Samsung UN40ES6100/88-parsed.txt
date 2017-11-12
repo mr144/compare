@@ -1,0 +1,43 @@
+=========
+
+nsubj(knew-2, We-1)
+root(ROOT-0, knew-2)
+nsubj(wanted-4, we-3)
+ccomp(knew-2, wanted-4)
+det(Samsung-6, a-5)
+dobj(wanted-4, Samsung-6)
+
+=========
+
+poss(husband-2, My-1)
+nsubj(has-3, husband-2)
+root(ROOT-0, has-3)
+det(monitor-8, the-4)
+amod(monitor-8, same-5)
+nn(monitor-8, brand-6)
+nn(monitor-8, computer-7)
+dobj(has-3, monitor-8)
+
+=========
+
+advmod(lovely-2, Just-1)
+root(ROOT-0, lovely-2)
+
+=========
+
+nsubj(thankful-4, You-1)
+aux(thankful-4, will-2)
+cop(thankful-4, be-3)
+root(ROOT-0, thankful-4)
+nsubj(purchased-6, you-5)
+ccomp(thankful-4, purchased-6)
+det(screen-9, the-7)
+amod(screen-9, bigger-8)
+dobj(purchased-6, screen-9)
+
+=========
+
+advmod(do-2, Just-1)
+root(ROOT-0, do-2)
+dobj(do-2, it-3)
+

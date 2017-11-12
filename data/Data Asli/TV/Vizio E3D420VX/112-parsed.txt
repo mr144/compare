@@ -1,0 +1,31 @@
+=========
+
+nsubj(TV-5, It-1)
+cop(TV-5, 's-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+ccomp(figured-11, TV-5)
+nsubj(figured-11, I-7)
+advmod(figured-11, just-8)
+aux(figured-11, have-9)
+neg(figured-11, not-10)
+root(ROOT-0, figured-11)
+prt(figured-11, out-12)
+advmod(figured-11, how-13)
+prep_to(figured-11, type-15)
+prep_in(figured-11, letters-17)
+advmod(putting-19, when-18)
+advcl(figured-11, putting-19)
+det(code-22, the-21)
+prep_in(putting-19, code-22)
+det(wifi-25, the-24)
+prep_for(code-22, wifi-25)
+
+=========
+
+nsubj(TV-5, It-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+root(ROOT-0, TV-5)
+

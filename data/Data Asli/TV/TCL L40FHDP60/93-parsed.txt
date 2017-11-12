@@ -1,0 +1,236 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+prep_in(bought-2, Nov-6)
+prep_of(Nov-6, 2011-8)
+
+=========
+
+num(months-3, 6-2)
+prep_in(failed-5, months-3)
+nsubj(failed-5, it-4)
+root(ROOT-0, failed-5)
+
+=========
+
+nsubj(took-2, It-1)
+root(ROOT-0, took-2)
+mwe(than-4, more-3)
+quantmod(2-5, than-4)
+num(months-6, 2-5)
+tmod(took-2, months-6)
+aux(get-8, to-7)
+xcomp(took-2, get-8)
+nsubj(take-11, them-9)
+aux(take-11, to-10)
+xcomp(get-8, take-11)
+det(TV-13, the-12)
+dobj(take-11, TV-13)
+prep(take-11, in-14)
+pcomp(in-14, for-15)
+prep_for(in-14, repairs-16)
+
+=========
+
+advmod(had-5, So-1)
+nsubj(had-5, they-3)
+aux(had-5, have-4)
+root(ROOT-0, had-5)
+poss(TV-7, my-6)
+dobj(had-5, TV-7)
+amod(August-10, early-9)
+prep_since(had-5, August-10)
+
+=========
+
+nsubj(Thanksgiving-5, it-1)
+cop(Thanksgiving-5, is-2)
+advmod(Thanksgiving-5, now-3)
+advmod(Thanksgiving-5, almost-4)
+root(ROOT-0, Thanksgiving-5)
+
+=========
+
+nsubj(tell-2, They-1)
+root(ROOT-0, tell-2)
+dobj(tell-2, me-3)
+complm(know-8, that-4)
+nsubj(know-8, they-5)
+aux(know-8, do-6)
+neg(know-8, not-7)
+ccomp(tell-2, know-8)
+advmod(coming-14, when-9)
+det(parts-12, the-10)
+amod(parts-12, new-11)
+nsubj(coming-14, parts-12)
+aux(coming-14, are-13)
+advcl(know-8, coming-14)
+prt(coming-14, in-15)
+
+=========
+
+nsubj(IT-3, THAT-1)
+cop(IT-3, 'S-2)
+root(ROOT-0, IT-3)
+dep(IT-3, CRICKETS-5)
+nsubj(HAS-8, IT-7)
+parataxis(IT-3, HAS-8)
+det(2-YEAR-10, A-9)
+dobj(HAS-8, 2-YEAR-10)
+dobj(refused-17, 2-YEAR-10)
+nn(Amazon-15, WARRANTY-11)
+nn(Amazon-15, !!!-12)
+nn(Amazon-15, NOTHING-13)
+nn(Amazon-15, !!-14)
+nsubj(refused-17, Amazon-15)
+xsubj(help-19, Amazon-15)
+aux(refused-17, has-16)
+rcmod(2-YEAR-10, refused-17)
+aux(help-19, to-18)
+xcomp(refused-17, help-19)
+advmod(HAS-8, btw-21)
+
+=========
+
+advmod(good-5, usually-1)
+nsubj(good-5, they-2)
+cop(good-5, are-3)
+advmod(good-5, very-4)
+root(ROOT-0, good-5)
+dep(not-8, but-7)
+dep(good-5, not-8)
+dep(not-8, with-9)
+pobj(with-9, this-10)
+
+=========
+
+nsubj(realize-2, I-1)
+root(ROOT-0, realize-2)
+complm(exaggerate-5, that-3)
+nsubj(exaggerate-5, people-4)
+ccomp(realize-2, exaggerate-5)
+det(internet-8, the-7)
+prep_on(exaggerate-5, internet-8)
+
+=========
+
+nsubj(exaggeration-4, This-1)
+cop(exaggeration-4, is-2)
+det(exaggeration-4, no-3)
+root(ROOT-0, exaggeration-4)
+
+=========
+
+det(people-2, These-1)
+nsubj(shysters-4, people-2)
+cop(shysters-4, are-3)
+root(ROOT-0, shysters-4)
+
+=========
+
+aux(believe-3, Do-1)
+neg(believe-3, not-2)
+root(ROOT-0, believe-3)
+dobj(believe-3, them-4)
+det(warranty-7, the-6)
+prep_about(believe-3, warranty-7)
+
+=========
+
+nsubj(going-3, I-1)
+xsubj(start-5, I-1)
+aux(going-3, am-2)
+root(ROOT-0, going-3)
+aux(start-5, to-4)
+xcomp(going-3, start-5)
+det(website-7, a-6)
+dobj(start-5, website-7)
+partmod(website-7, warning-8)
+dobj(warning-8, people-9)
+prep_about(people-9, TCL-11)
+
+=========
+
+nn(!!-5, DO-1)
+nn(!!-5, NOT-2)
+nn(!!-5, BUY-3)
+nn(!!-5, TCL-4)
+nsubj(UPDATE-6, !!-5)
+root(ROOT-0, UPDATE-6)
+prep_after(sent-23, Thanksgiving-9)
+nsubj(had-12, they-11)
+dep(Thanksgiving-9, had-12)
+poss(TV-14, my-13)
+dobj(had-12, TV-14)
+quantmod(months-18, almost-16)
+number(months-18, 5-17)
+num(!!-19, months-18)
+prep_for(TV-14, !!-19)
+nsubj(sent-23, they-22)
+parataxis(UPDATE-6, sent-23)
+iobj(sent-23, me-24)
+det(replacement-26, a-25)
+dobj(sent-23, replacement-26)
+
+=========
+
+partmod(suppose-4, refurbished-1)
+nsubj(suppose-4, I-3)
+root(ROOT-0, suppose-4)
+
+=========
+
+nn(NEW-3, WAS-1)
+nn(NEW-3, NOT-2)
+root(ROOT-0, NEW-3)
+
+=========
+
+advmod(ok-5, Anyway-1)
+nsubjpass(ok-5, it-3)
+auxpass(ok-5, was-4)
+root(ROOT-0, ok-5)
+quantmod(one-8, about-7)
+prep_for(ok-5, one-8)
+tmod(ok-5, month-9)
+
+=========
+
+det(TV-3, THE-1)
+nn(TV-3, REPLACEMENT-2)
+nsubj(HAS-4, TV-3)
+root(ROOT-0, HAS-4)
+det(DOWN-9, A-5)
+nn(DOWN-9, LARGE-6)
+nn(DOWN-9, WHITE-7)
+nn(DOWN-9, LINE-8)
+dobj(HAS-4, DOWN-9)
+det(!!!!!-13, THE-10)
+nn(!!!!!-13, MIDDLE-11)
+nn(!!!!!-13, NOW-12)
+nsubj(Are-14, !!!!!-13)
+rcmod(DOWN-9, Are-14)
+nsubj(kidding-16, you-15)
+dep(Are-14, kidding-16)
+dobj(kidding-16, me-17)
+
+=========
+
+nsubj(want-3, I-1)
+xsubj(give-5, I-1)
+advmod(want-3, seriously-2)
+root(ROOT-0, want-3)
+aux(give-5, to-4)
+xcomp(want-3, give-5)
+prt(give-5, up-6)
+
+=========
+
+nn(!!!!!-4, DO-1)
+nn(!!!!!-4, NOT-2)
+nn(!!!!!-4, BUY-3)
+root(ROOT-0, !!!!!-4)
+

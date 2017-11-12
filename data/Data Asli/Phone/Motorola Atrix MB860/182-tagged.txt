@@ -1,0 +1,4 @@
+This_DT smartphone_NN is_VBZ an_DT excellent_JJ alternative_NN to_TO Samsung_NNP Galaxy_NNP S_NNP II_NNP ._.
+Its_PRP$ Android_NNP version_NN upgrades_NNS to_TO 2.3.4_CD without_IN using_VBG wires_NNS ._.
+The_DT fingerprint_NN reader_NN works_VBZ great_JJ ._.
+I_PRP recommend_VBP it_PRP ._.

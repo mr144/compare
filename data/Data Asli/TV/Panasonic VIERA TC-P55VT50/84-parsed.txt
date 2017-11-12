@@ -1,0 +1,99 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+amod(Buy-7, Best-6)
+prep_at(bought-2, Buy-7)
+quantmod(1699.00-10, only-9)
+prep_for(bought-2, 1699.00-10)
+prep_on(1699.00-10, 12\/30-12)
+
+=========
+
+nsubj(blowout-5, It-1)
+cop(blowout-5, 's-2)
+det(blowout-5, a-3)
+amod(blowout-5, 2day-4)
+root(ROOT-0, blowout-5)
+prep_for(blowout-5, today-7)
+prep_for(blowout-5, 12\/31-9)
+conj_and(today-7, 12\/31-9)
+advmod(12\/31-9, only-10)
+
+=========
+
+mark(thinking-4, If-1)
+nsubj(thinking-4, you-2)
+aux(thinking-4, are-3)
+advcl(get-9, thinking-4)
+prepc_of(thinking-4, buying-6)
+dobj(buying-6, it-7)
+root(ROOT-0, get-9)
+dobj(get-9, it-10)
+advmod(get-9, now-11)
+
+=========
+
+nsubj(price-4, It-1)
+det(price-4, the-2)
+amod(price-4, best-3)
+root(ROOT-0, price-4)
+advmod(price-4, anywhere-5)
+det(TV-8, this-7)
+prep_for(price-4, TV-8)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(match-5, Amazon-3)
+aux(match-5, will-4)
+ccomp(think-2, match-5)
+det(price-7, the-6)
+dobj(match-5, price-7)
+mark(let-10, if-8)
+nsubj(let-10, you-9)
+advcl(match-5, let-10)
+nsubj(know-12, them-11)
+ccomp(let-10, know-12)
+
+=========
+
+nsubj(have-3, You-1)
+advmod(have-3, only-2)
+root(ROOT-0, have-3)
+num(days-5, 2-4)
+tmod(have-3, days-5)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+nsubj(helps-4, this-3)
+ccomp(hope-2, helps-4)
+
+=========
+
+det(TV-2, This-1)
+nsubj(amazing-4, TV-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+root(ROOT-0, Elite-1)
+dobj(Elite-1, quality-2)
+
+=========
+
+det(Pic-3, The-1)
+amod(Pic-3, best-2)
+root(ROOT-0, Pic-3)
+det(tv-6, any-5)
+prep_of(Pic-3, tv-6)
+det(period-10, the-8)
+nn(period-10, market-9)
+prep_on(Pic-3, period-10)
+

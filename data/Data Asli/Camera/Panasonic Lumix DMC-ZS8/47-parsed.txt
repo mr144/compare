@@ -1,0 +1,33 @@
+=========
+
+nsubj(recording-5, I-1)
+nsubj(looking-14, I-1)
+aux(recording-5, will-2)
+neg(recording-5, not-3)
+aux(recording-5, be-4)
+root(ROOT-0, recording-5)
+poss(memories-7, my-6)
+dobj(recording-5, memories-7)
+det(camera-10, this-9)
+prep_with(recording-5, camera-10)
+parataxis(recording-5, dissatisfed-12)
+conj_and(recording-5, looking-14)
+prep_for(looking-14, something-16)
+advmod(something-16, else-17)
+
+=========
+
+det(rest-2, The-1)
+nsubj(has-6, rest-2)
+poss(family-5, my-4)
+prep_of(rest-2, family-5)
+root(ROOT-0, has-6)
+det(DMC-zs7-8, the-7)
+dobj(has-6, DMC-zs7-8)
+nsubj(compare-13, this-10)
+aux(compare-13, does-11)
+neg(compare-13, not-12)
+conj_and(has-6, compare-13)
+advmod(compare-13, at-14)
+pobj(at-14, all-15)
+

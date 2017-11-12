@@ -1,0 +1,55 @@
+=========
+
+nsubj(purchased-2, Never-1)
+root(ROOT-0, purchased-2)
+det(TV-4, a-3)
+dobj(purchased-2, TV-4)
+prep(purchased-2, online-5)
+det(purchase-9, this-8)
+prep_after(purchase-13, purchase-9)
+nsubj(purchase-13, I-10)
+aux(purchase-13, 'll-11)
+advmod(purchase-13, always-12)
+conj_and(purchased-2, purchase-13)
+det(way-15, this-14)
+dobj(purchase-13, way-15)
+
+=========
+
+nsubj(great-3, TV-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+prep_with(great-3, tons-5)
+prep_of(tons-5, features-7)
+
+=========
+
+nsubj(clear-2, Crystal-1)
+root(ROOT-0, clear-2)
+dobj(clear-2, picture-3)
+
+=========
+
+nsubjpass(delivered-3, It-1)
+auxpass(delivered-3, was-2)
+root(ROOT-0, delivered-3)
+advmod(delivered-3, right-4)
+det(spot-7, the-6)
+prep_to(right-4, spot-7)
+nsubj(installing-10, I-8)
+aux(installing-10, was-9)
+rcmod(spot-7, installing-10)
+dobj(installing-10, it-11)
+
+=========
+
+root(ROOT-0, Saved-1)
+dobj(Saved-1, $-2)
+num($-2, 250-3)
+amod(tv-6, same-5)
+prep_over($-2, tv-6)
+partmod(tv-6, sold-7)
+prep_at(sold-7, HHGreg-9)
+advmod(Buy-12, Best-11)
+conj_and(Saved-1, Buy-12)
+

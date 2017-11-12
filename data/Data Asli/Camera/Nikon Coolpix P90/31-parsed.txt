@@ -1,0 +1,30 @@
+=========
+
+prep_over(pleased-7, all-2)
+nsubj(pleased-7, I-4)
+nsubjpass(disappointed-11, I-4)
+cop(pleased-7, am-5)
+advmod(pleased-7, very-6)
+root(ROOT-0, pleased-7)
+auxpass(disappointed-11, am-10)
+conj_but(pleased-7, disappointed-11)
+det(clarity-14, the-13)
+prep_with(disappointed-11, clarity-14)
+amod(shots-18, long-16)
+nn(shots-18, range-17)
+prep_of(clarity-14, shots-18)
+
+=========
+
+amod(X-4, full-2)
+dep(full-2, 24-3)
+prep_at(good-13, X-4)
+conj_or(X-4, close-6)
+prep_at(good-13, close-6)
+det(focus-9, the-8)
+nsubj(good-13, focus-9)
+cop(good-13, is-10)
+neg(good-13, not-11)
+advmod(good-13, that-12)
+root(ROOT-0, good-13)
+

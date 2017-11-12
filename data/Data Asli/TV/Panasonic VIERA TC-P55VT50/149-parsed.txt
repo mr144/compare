@@ -1,0 +1,74 @@
+=========
+
+root(ROOT-0, Needed-1)
+aux(replace-3, to-2)
+xcomp(Needed-1, replace-3)
+det(TV-10, a-4)
+poss(TV-10, 60-5)
+nn(TV-10, Sony-7)
+nn(TV-10, Rear-8)
+nn(TV-10, Projection-9)
+dobj(replace-3, TV-10)
+
+=========
+
+root(ROOT-0, Went-1)
+det(couple-4, a-3)
+prep_to(Went-1, couple-4)
+nn(sites-7, review-6)
+prep_of(couple-4, sites-7)
+conj_and(Went-1, decided-9)
+det(P65VT50-13, the-11)
+nn(P65VT50-13, Panasonic-12)
+prep_on(decided-9, P65VT50-13)
+
+=========
+
+det(setup-2, The-1)
+nsubj(simple-5, setup-2)
+cop(simple-5, was-3)
+advmod(simple-5, very-4)
+root(ROOT-0, simple-5)
+det(stand-8, the-7)
+nsubj(easy-10, stand-8)
+cop(easy-10, was-9)
+conj_and(simple-5, easy-10)
+aux(put-12, to-11)
+xcomp(easy-10, put-12)
+advmod(put-12, together-13)
+
+=========
+
+det(picture-2, The-1)
+nsubj(fantastic-4, picture-2)
+cop(fantastic-4, is-3)
+root(ROOT-0, fantastic-4)
+
+=========
+
+det(TV-2, The-1)
+nsubj(has-3, TV-2)
+root(ROOT-0, has-3)
+det(lot-5, a-4)
+dobj(has-3, lot-5)
+nn(Netflix-12, features-7)
+dep(Netflix-12, internet-9)
+nn(Netflix-12, ready-10)
+prep_of(lot-5, Netflix-12)
+dep(Netflix-12, etc.-14)
+
+=========
+
+nsubj(replacing-4, I-1)
+aux(replacing-4, may-2)
+aux(replacing-4, be-3)
+root(ROOT-0, replacing-4)
+poss(room-7, our-5)
+nn(room-7, family-6)
+nsubj(Plasma-10, room-7)
+poss(Plasma-10, 50-8)
+xcomp(replacing-4, Plasma-10)
+det(one-13, this-12)
+prep_with(Plasma-10, one-13)
+advmod(replacing-4, soon-14)
+

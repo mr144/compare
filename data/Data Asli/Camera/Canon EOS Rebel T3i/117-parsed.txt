@@ -1,0 +1,47 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+poss(wife-6, my-5)
+prep_for(this-3, wife-6)
+det(recommendation-9, the-8)
+prep_at(bought-2, recommendation-9)
+det(photog-13, a-11)
+amod(photog-13, professional-12)
+prep_of(recommendation-9, photog-13)
+dep(!-18, oh-15)
+poss(oh-15, my-16)
+dep(oh-15, God-17)
+
+=========
+
+det(camera-2, This-1)
+nsubj(takes-3, camera-2)
+root(ROOT-0, takes-3)
+det(photographs-7, the-4)
+advmod(amazing-6, most-5)
+amod(photographs-7, amazing-6)
+dobj(takes-3, photographs-7)
+
+=========
+
+neg(one-2, Not-1)
+nsubj(con-3, one-2)
+root(ROOT-0, con-3)
+
+=========
+
+dep(pros-2, Only-1)
+root(ROOT-0, pros-2)
+
+=========
+
+root(ROOT-0, Buy-1)
+dobj(Buy-1, it-2)
+conj_or(Buy-1, save-5)
+dobj(save-5, money-6)
+aux(get-8, to-7)
+xcomp(save-5, get-8)
+dobj(get-8, it-9)
+

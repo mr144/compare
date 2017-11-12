@@ -1,0 +1,48 @@
+=========
+
+advmod(one-3, certainly-2)
+nsubj(Blackberries-7, one-3)
+det(worst-6, the-5)
+prep_of(one-3, worst-6)
+root(ROOT-0, Blackberries-7)
+advmod(Blackberries-7, ever-8)
+
+=========
+
+det(phone-2, The-1)
+nsubj(slow-4, phone-2)
+cop(slow-4, is-3)
+root(ROOT-0, slow-4)
+det(OS-7, the-6)
+nsubj(buggy-10, OS-7)
+num(OS-7, 6.0-8)
+cop(buggy-10, is-9)
+ccomp(slow-4, buggy-10)
+nsubj(stop-17, many-12)
+det(applications-15, the-14)
+prep_of(many-12, applications-15)
+advmod(stop-17, suddenly-16)
+ccomp(slow-4, stop-17)
+xcomp(stop-17, working-18)
+mark(comes-23, so-19)
+det(message-22, an-20)
+nn(message-22, error-21)
+nsubj(comes-23, message-22)
+advcl(working-18, comes-23)
+poss(screen-26, your-25)
+prep_to(comes-23, screen-26)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+nsubj(changed-7, I-3)
+aux(changed-7, would-4)
+aux(changed-7, have-5)
+neg(changed-7, never-6)
+ccomp(wish-2, changed-7)
+dobj(changed-7, it-8)
+det(2-12, the-10)
+amod(2-12, Bold-11)
+prep_from(changed-7, 2-12)
+

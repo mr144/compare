@@ -1,0 +1,33 @@
+=========
+
+root(ROOT-0, Bought-1)
+det(phone-3, this-2)
+dobj(Bought-1, phone-3)
+poss(dad-6, my-5)
+prep_for(phone-3, dad-6)
+
+=========
+
+nsubj(loved-2, He-1)
+root(ROOT-0, loved-2)
+det(one-5, the-3)
+amod(one-5, first-4)
+dobj(loved-2, one-5)
+advmod(much-7, so-6)
+advmod(loved-2, much-7)
+dep(bought-10, that-8)
+nsubj(bought-10, we-9)
+ccomp(much-7, bought-10)
+dobj(bought-10, another-11)
+
+=========
+
+nsubj(one-3, It-1)
+cop(one-3, 's-2)
+root(ROOT-0, one-3)
+det(best-6, the-5)
+prep_of(one-3, best-6)
+det(lot-9, the-8)
+prep_in(best-6, lot-9)
+prep_of(lot-9, blackberry-11)
+

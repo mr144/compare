@@ -1,0 +1,123 @@
+=========
+
+root(ROOT-0, easy-1)
+aux(use-3, to-2)
+dep(easy-1, use-3)
+advmod(low-6, very-5)
+dep(use-3, low-6)
+dep(low-6, cost-7)
+nn(processing-9, picture-8)
+dobj(cost-7, processing-9)
+amod(price-12, good-11)
+dobj(use-3, price-12)
+
+=========
+
+nsubj(comes-2, It-1)
+root(ROOT-0, comes-2)
+amod(amount-5, small-4)
+prep_with(comes-2, amount-5)
+prep_of(amount-5, memory-7)
+advmod(good-9, only-8)
+amod(memory-7, good-9)
+quantmod(17-12, about-11)
+num(pics-13, 17-12)
+prep_for(memory-7, pics-13)
+
+=========
+
+root(ROOT-0, Plan-1)
+advmod(Plan-1, early-2)
+aux(get-4, to-3)
+infmod(Plan-1, get-4)
+det(level-6, a-5)
+dobj(get-4, level-6)
+num(level-6, 4-7)
+num(gig-10, 16-9)
+dep(Plan-1, gig-10)
+quantmod($-13, about-12)
+num(card-17, $-13)
+number($-13, 12-14)
+number($-13, san-15)
+nn(card-17, disk-16)
+prep_for(gig-10, card-17)
+
+=========
+
+nn(cap-2, Lens-1)
+nsubj(pops-3, cap-2)
+root(ROOT-0, pops-3)
+prt(pops-3, off-4)
+mark(forget-7, if-5)
+nsubj(forget-7, you-6)
+nsubj(turn-9, you-6)
+advcl(pops-3, forget-7)
+advcl(pops-3, turn-9)
+conj_and(forget-7, turn-9)
+dobj(forget-7, it-10)
+prep(forget-7, on-11)
+
+=========
+
+det(filter-3, No-1)
+amod(filter-3, haze-2)
+nsubj(included-4, filter-3)
+root(ROOT-0, included-4)
+
+=========
+
+amod(scenes-4, Many-1)
+amod(scenes-4, extra-2)
+nn(scenes-4, shoot-3)
+nsubj(faces-11, scenes-4)
+ccomp(faces-11, pan-6)
+advmod(up-9, close-8)
+advmod(faces-11, up-9)
+root(ROOT-0, faces-11)
+dobj(faces-11, kids-13)
+appos(kids-13, animals-15)
+dep(kids-13, etc.-17)
+
+=========
+
+nsubj(like-2, I-1)
+ccomp(have-11, like-2)
+det(capability-6, the-3)
+amod(capability-6, low-4)
+nn(capability-6, light-5)
+dobj(like-2, capability-6)
+aux(have-11, do-8)
+neg(have-11, not-9)
+advmod(have-11, even-10)
+root(ROOT-0, have-11)
+aux(use-13, to-12)
+xcomp(have-11, use-13)
+nsubj(have-11, flash-14)
+amod(scenes-18, many-16)
+nn(scenes-18, evening-17)
+prep_for(flash-14, scenes-18)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, can-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+advmod(recommend-3, highly-5)
+
+=========
+
+root(ROOT-0, Note-1)
+det(v-3, the-2)
+nsubj(stands-4, v-3)
+ccomp(Note-1, stands-4)
+prep_for(stands-4, GPS-6)
+nsubjpass(added-10, GPS-6)
+aux(added-10, can-8)
+auxpass(added-10, be-9)
+rcmod(GPS-6, added-10)
+nn(record-13, memory-12)
+prep_to(added-10, record-13)
+det(shot-16, each-15)
+prep_for(record-13, shot-16)
+

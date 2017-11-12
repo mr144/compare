@@ -1,0 +1,41 @@
+=========
+
+det(camera-2, The-1)
+nsubj(takes-3, camera-2)
+root(ROOT-0, takes-3)
+amod(pictures-5, excellent-4)
+dobj(takes-3, pictures-5)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(good-5, zoom-2)
+cop(good-5, is-3)
+advmod(good-5, really-4)
+root(ROOT-0, good-5)
+nsubj(captures-9, it-8)
+conj_and(good-5, captures-9)
+nsubj(beautifully-12, colors-10)
+advmod(beautifully-12, just-11)
+xcomp(captures-9, beautifully-12)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+dobj(improve-6, thing-3)
+nsubj(battery-9, thing-3)
+nsubj(improve-6, I-4)
+aux(improve-6, would-5)
+rcmod(thing-3, improve-6)
+cop(battery-9, is-7)
+det(battery-9, the-8)
+root(ROOT-0, battery-9)
+aux(nice-13, would-11)
+cop(nice-13, be-12)
+rcmod(battery-9, nice-13)
+mark(lasted-16, if-14)
+nsubj(lasted-16, it-15)
+advcl(nice-13, lasted-16)
+advmod(lasted-16, longer-17)
+

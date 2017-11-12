@@ -1,0 +1,30 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(phone-4, my-3)
+dobj(love-2, phone-4)
+
+=========
+
+nsubj(has-2, it-1)
+root(ROOT-0, has-2)
+det(screen-5, both-3)
+nn(screen-5, touch-4)
+dobj(has-2, screen-5)
+det(keypad-8, the-7)
+dobj(has-2, keypad-8)
+conj_and(screen-5, keypad-8)
+
+=========
+
+poss(sleek-2, its-1)
+root(ROOT-0, sleek-2)
+neg(hassle-6, not-4)
+det(hassle-6, a-5)
+conj_and(sleek-2, hassle-6)
+aux(use-8, to-7)
+infmod(sleek-2, use-8)
+advmod(use-8, at-9)
+pobj(at-9, all-10)
+

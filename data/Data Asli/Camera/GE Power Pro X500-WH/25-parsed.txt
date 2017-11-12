@@ -1,0 +1,24 @@
+=========
+
+nsubj(love-2, I-1)
+nsubj(recommend-7, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+aux(recommend-7, would-6)
+conj_and(love-2, recommend-7)
+dobj(recommend-7, it-8)
+prep_to(recommend-7, others-10)
+
+=========
+
+nsubj(starting-4, I-1)
+aux(starting-4, am-2)
+advmod(starting-4, just-3)
+root(ROOT-0, starting-4)
+prt(starting-4, out-5)
+nsubj(started-8, good-7)
+conj_and(starting-4, started-8)
+dobj(started-8, camera-9)
+prep_for(started-8, photography-11)
+

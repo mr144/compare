@@ -1,0 +1,32 @@
+=========
+
+amod(I-3, Best-1)
+nn(I-3, TV-2)
+nsubj(owned-5, I-3)
+aux(owned-5, have-4)
+root(ROOT-0, owned-5)
+
+=========
+
+root(ROOT-0, Needed-1)
+det(TV-4, a-2)
+amod(TV-4, 32-inch-3)
+dobj(Needed-1, TV-4)
+aux(fit-6, to-5)
+infmod(TV-4, fit-6)
+det(unit-10, a-8)
+nn(unit-10, wall-9)
+prep_into(fit-6, unit-10)
+det(TV-13, this-12)
+nsubj(works-14, TV-13)
+conj_and(Needed-1, works-14)
+advmod(works-14, perfectly-15)
+
+=========
+
+advmod(great-6, Picture-1)
+nn(Tv-4, SMART-3)
+nsubj(great-6, Tv-4)
+cop(great-6, are-5)
+root(ROOT-0, great-6)
+

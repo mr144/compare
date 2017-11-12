@@ -1,0 +1,62 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(Incredible2-5, an-3)
+nn(Incredible2-5, HTC-4)
+dobj(had-2, Incredible2-5)
+poss(phone-9, my-7)
+nn(phone-9, cell-8)
+prep_with(Incredible2-5, phone-9)
+advmod(had-2, compamny-10)
+nsubj(work-15, it-12)
+aux(work-15, would-13)
+neg(work-15, not-14)
+conj_but(had-2, work-15)
+nn(Cellular-18, Consumer-17)
+prep_with(work-15, Cellular-18)
+poss(programs-20, Cellular-18)
+nsubj(suits-22, programs-20)
+advmod(suits-22, better-21)
+rcmod(Cellular-18, suits-22)
+poss(needs-25, my-23)
+amod(needs-25, limited-24)
+dobj(suits-22, needs-25)
+det(phone-29, a-27)
+nn(phone-29, cell-28)
+prep_for(suits-22, phone-29)
+
+=========
+
+det(phone-2, This-1)
+nsubj(has-3, phone-2)
+root(ROOT-0, has-3)
+dobj(has-3, everything-4)
+nsubj(wanted-6, I-5)
+rcmod(everything-4, wanted-6)
+poss(computer-10, my-8)
+amod(computer-10, little-9)
+dobj(wanted-6, computer-10)
+advmod(am-13, when-11)
+nsubj(am-13, I-12)
+dep(computer-10, am-13)
+prep_away_from(am-13, home-16)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(photos-4, great-3)
+dobj(takes-2, photos-4)
+advmod(outside-7, particularly-6)
+advmod(takes-2, outside-7)
+
+=========
+
+det(Incredible2-2, The-1)
+nsubj(took-3, Incredible2-2)
+root(ROOT-0, took-3)
+amod(photos-6, better-4)
+nn(photos-6, flash-5)
+dobj(took-3, photos-6)
+

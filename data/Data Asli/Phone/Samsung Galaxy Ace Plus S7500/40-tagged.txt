@@ -1,0 +1,6 @@
+The_DT cell_NN phone_NN 's_POS size_NN is_VBZ fit_VBN to_TO my_PRP$ style_NN ._.
+It_PRP is_VBZ not_RB too_RB large_JJ or_CC too_RB small_JJ for_IN average_JJ people_NNS ._.
+It_PRP meets_VBZ my_PRP$ requirements_NNS for_IN GPS_NNP map_NN ,_, Browser_NNP ,_, E-mails_NNS ._.
+It_PRP runs_VBZ smootly_RB and_CC very_RB good_JJ in_IN response_NN ._.
+It_PRP is_VBZ quick_JJ in_IN start_NN up_IN ,_, has_VBZ a_DT lot_NN of_IN internal_JJ memory_NN for_IN apps_NNS ._.
+Single_JJ core_NN 1GHz_JJ processor_NN is_VBZ pretty_RB good_JJ for_IN a_DT mobile_JJ device_NN like_IN this_DT ._.

@@ -1,0 +1,66 @@
+=========
+
+nsubj(finding-3, I-1)
+aux(finding-3, am-2)
+root(ROOT-0, finding-3)
+poss(DMC-ZS8-8, my-4)
+amod(DMC-ZS8-8, new-5)
+nn(DMC-ZS8-8, Panasonic-6)
+nn(DMC-ZS8-8, Lumex-7)
+dobj(finding-3, DMC-ZS8-8)
+aux(camera-13, to-9)
+cop(camera-13, be-10)
+det(camera-13, a-11)
+amod(camera-13, terrific-12)
+xcomp(finding-3, camera-13)
+amod(value-16, great-15)
+xcomp(finding-3, value-16)
+conj_and(camera-13, value-16)
+det(price-19, the-18)
+prep_for(camera-13, price-19)
+
+=========
+
+advmod(easy-2, Very-1)
+ccomp(produces-7, easy-2)
+prep_to(easy-2, use-4)
+nsubj(produces-7, It-6)
+root(ROOT-0, produces-7)
+advmod(sharp-9, very-8)
+amod(pictures-12, sharp-9)
+conj_and(sharp-9, clear-11)
+amod(pictures-12, clear-11)
+dobj(produces-7, pictures-12)
+det(types-15, all-14)
+prep_in(pictures-12, types-15)
+prep_of(types-15, lighting-17)
+prep_of(types-15, conditions-19)
+conj_and(lighting-17, conditions-19)
+
+=========
+
+nsubj(got-3, I-1)
+advmod(got-3, also-2)
+root(ROOT-0, got-3)
+dobj(got-3, personalized-4)
+dobj(got-3, courteous-6)
+conj_and(personalized-4, courteous-6)
+amod(service-10, knowledgeable-9)
+dobj(got-3, service-10)
+conj_and(personalized-4, service-10)
+advmod(called-13, when-11)
+nsubj(called-13, I-12)
+advcl(got-3, called-13)
+nn(service-15, customer-14)
+dobj(called-13, service-15)
+
+=========
+
+nsubj(happier-5, I-1)
+aux(happier-5, could-2)
+neg(happier-5, not-3)
+cop(happier-5, be-4)
+root(ROOT-0, happier-5)
+poss(purchase-8, my-7)
+prep_with(happier-5, purchase-8)
+

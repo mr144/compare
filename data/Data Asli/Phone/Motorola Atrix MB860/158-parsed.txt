@@ -1,0 +1,81 @@
+=========
+
+root(ROOT-0, Hi-1)
+
+=========
+
+nn(i-4, everybody-1)
+amod(i-4, first-3)
+nsubj(have-5, i-4)
+xsubj(say-7, i-4)
+ccomp(helpful-19, have-5)
+aux(say-7, to-6)
+xcomp(have-5, say-7)
+nsubj(glad-10, i-8)
+advmod(glad-10, very-9)
+xcomp(say-7, glad-10)
+det(reviews-13, the-12)
+prep_with(glad-10, reviews-13)
+nsubj(helpful-19, they-15)
+cop(helpful-19, are-16)
+advmod(helpful-19, very-17)
+advmod(helpful-19, very-18)
+root(ROOT-0, helpful-19)
+advmod(like-22, when-20)
+nsubj(like-22, someone-21)
+ccomp(helpful-19, like-22)
+nsubj(trying-25, me-23)
+xsubj(find-27, me-23)
+aux(trying-25, is-24)
+ccomp(like-22, trying-25)
+aux(find-27, to-26)
+xcomp(trying-25, find-27)
+det(phone-30, the-28)
+amod(phone-30, best-29)
+dobj(find-27, phone-30)
+prepc_according_to(find-27, to-32)
+dobj(need-36, what-33)
+det(i-35, a-34)
+nsubj(need-36, i-35)
+pcomp(find-27, need-36)
+
+=========
+
+nsubj(live-2, I-1)
+root(ROOT-0, live-2)
+dobj(live-2, Venezuela-3)
+advmod(live-2, here-4)
+nsubj(carry-7, we-5)
+aux(carry-7, have-6)
+dep(live-2, carry-7)
+dobj(carry-7, GSM-8)
+nn(card-11, sim-10)
+appos(GSM-8, card-11)
+
+=========
+
+det(carriers-3, The-1)
+nn(carriers-3, phone-2)
+nsubj(???-8, carriers-3)
+prep_like(carriers-3, AT&T-5)
+prep_like(carriers-3, T-Mobile-7)
+conj_or(AT&T-5, T-Mobile-7)
+root(ROOT-0, ???-8)
+
+=========
+
+dep(answer-9, Please-1)
+mark(get-5, if-3)
+nsubj(get-5, somebody-4)
+advcl(answer-9, get-5)
+det(minute-7, a-6)
+dobj(get-5, minute-7)
+root(ROOT-0, answer-9)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, u-2)
+advmod(much-4, very-3)
+advmod(Thank-1, much-4)
+

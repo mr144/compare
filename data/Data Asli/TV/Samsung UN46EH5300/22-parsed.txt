@@ -1,0 +1,33 @@
+=========
+
+root(ROOT-0, bought-1)
+dobj(bought-1, this-2)
+det(warranty-6, an-4)
+amod(warranty-6, extended-5)
+dobj(bought-1, warranty-6)
+conj_and(this-2, warranty-6)
+poss(mother-9, my-8)
+prep_for(bought-1, mother-9)
+
+=========
+
+advmod(install-3, easy-1)
+advmod(install-3, too-2)
+root(ROOT-0, install-3)
+conj_and(install-3, easy-5)
+mark(use-9, for-6)
+nsubj(use-9, her-7)
+advmod(use-9, too-8)
+dep(install-3, use-9)
+
+=========
+
+nsubj(has-3, she-1)
+advmod(has-3, now-2)
+root(ROOT-0, has-3)
+dobj(has-3, netflix-4)
+det(touch-7, the-6)
+prep_at(netflix-4, touch-7)
+num(button-10, one-9)
+prep_of(touch-7, button-10)
+

@@ -1,0 +1,4 @@
+The_DT Pentax_NNP K20D_NNP is_VBZ an_DT excellent_JJ camera_NN --_: it_PRP is_VBZ what_WP the_DT K10D_NNP should_MD have_VB been_VBN ._.
+The_DT Amazon_NNP free_JJ shipping_NN service_NN was_VBD just_RB as_RB good_JJ as_IN paying_VBG for_IN UPS_NNP shipping_NN --_: it_PRP arrived_VBD in_IN only_RB four_CD days_NNS ._.
+The_DT carrier_NN was_VBD supposed_VBN to_TO get_VB a_DT signature_NN but_CC did_VBD not_RB --_: the_DT package_NN was_VBD left_VBN at_IN the_DT -LRB-_-LRB- house_NN -RRB-_-RRB- doorstep_NN -LRB-_-LRB- a_DT consideration_NN if_IN one_CD lives_VBZ in_IN a_DT building_NN where_WRB theft_NN is_VBZ possible_JJ -RRB-_-RRB- ._.
+I_PRP will_MD certainly_RB consider_VB Amazon_NNP for_IN future_JJ electronic\/optical_JJ purchases_NNS ._.

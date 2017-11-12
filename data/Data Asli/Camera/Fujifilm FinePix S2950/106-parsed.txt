@@ -1,0 +1,80 @@
+=========
+
+nsubj(had-3, I-1)
+advmod(had-3, probably-2)
+root(ROOT-0, had-3)
+det(camera-6, the-4)
+amod(camera-6, defective-5)
+dobj(had-3, camera-6)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+dobj(had-2, it-3)
+nn(mode-6, auto-5)
+prep_on(had-2, mode-6)
+
+=========
+
+det(images-2, The-1)
+nsubjpass(indoors-5, images-2)
+auxpass(indoors-5, were-3)
+advmod(indoors-5, cloudy\/smudgy-4)
+root(ROOT-0, indoors-5)
+advmod(indoors-5, even-6)
+prep_with(indoors-5, flash-8)
+
+=========
+
+nsubj(bother-4, I-1)
+xsubj(try-6, I-1)
+aux(bother-4, did-2)
+neg(bother-4, not-3)
+root(ROOT-0, bother-4)
+aux(try-6, to-5)
+xcomp(bother-4, try-6)
+det(rest-8, the-7)
+dobj(try-6, rest-8)
+det(settings-11, the-10)
+prep_of(rest-8, settings-11)
+
+=========
+
+nsubj(returned-2, I-1)
+nsubj(bought-5, I-1)
+root(ROOT-0, returned-2)
+dobj(returned-2, it-3)
+conj_and(returned-2, bought-5)
+det(camera-8, a-6)
+amod(camera-8, different-7)
+dobj(bought-5, camera-8)
+
+=========
+
+prep_for(took-5, example-2)
+nsubj(took-5, I-4)
+root(ROOT-0, took-5)
+dobj(took-5, photos-6)
+prep_of(photos-6, flowers-8)
+det(vase-11, a-10)
+prep_in(took-5, vase-11)
+
+=========
+
+det(flowers-2, The-1)
+nsubjpass(defined-5, flowers-2)
+nsubjpass(looked-7, flowers-2)
+auxpass(defined-5, were-3)
+neg(defined-5, not-4)
+root(ROOT-0, defined-5)
+conj_and(defined-5, looked-7)
+mark(scattering-12, like-8)
+det(colors-10, the-9)
+nsubj(scattering-12, colors-10)
+cop(scattering-12, were-11)
+advcl(defined-5, scattering-12)
+dep(scattering-12, like-14)
+det(smudge-16, a-15)
+pobj(like-14, smudge-16)
+

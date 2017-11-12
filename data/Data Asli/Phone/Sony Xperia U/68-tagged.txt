@@ -1,0 +1,5 @@
+FOR_IN SIMPLE_NNP MOBILE_NNP USERS_NNP ONLY_NNP !_.
+--------------------------------------------------------------_NNP This_NNP is_VBZ a_DT good_JJ phone_NN but_CC it_PRP is_VBZ not_RB compatible_JJ with_IN Simple_NN Mobile_NNP ._.
+I_PRP got_VBD really_RB mad_JJ after_IN I_PRP bought_VBD this_DT phone_NN because_IN when_WRB I_PRP called_VBD and_CC asked_VBD a_DT representative_NN ,_, he_PRP said_VBD any_DT unlocked_VBN phones_NNS are_VBP compatible_JJ ._.
+HOWEVER_NNP ..._: ..._: HE_PRP WAS_VBD WRONG_JJ !!_NN If_IN you_PRP have_VBP Simple_NN Mobile_NNP ,_, do_VBP not_RB buy_VB this_DT unlocked_VBN phone_NN to_TO use_VB ._.
+It_PRP will_MD not_RB work_VB !_.

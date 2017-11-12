@@ -1,0 +1,29 @@
+=========
+
+det(camera-2, This-1)
+nsubj(works-4, camera-2)
+advmod(works-4, really-3)
+root(ROOT-0, works-4)
+acomp(works-4, well-5)
+acomp(works-4, simple-7)
+conj_and(well-5, simple-7)
+aux(operate-9, to-8)
+xcomp(well-5, operate-9)
+
+=========
+
+nsubj(value-5, It-1)
+cop(value-5, 's-2)
+det(value-5, a-3)
+amod(value-5, great-4)
+root(ROOT-0, value-5)
+
+=========
+
+root(ROOT-0, Get-1)
+amod(pictures-3, clear-2)
+dobj(Get-1, pictures-3)
+advmod(Get-1, even-4)
+amod(zoom-7, full-6)
+prep_at(Get-1, zoom-7)
+

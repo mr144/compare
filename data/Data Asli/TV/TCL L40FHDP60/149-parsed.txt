@@ -1,0 +1,64 @@
+=========
+
+det(tv-2, This-1)
+nsubj(great-4, tv-2)
+nsubj(got-6, tv-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+conj_and(great-4, got-6)
+dobj(got-6, it-7)
+det(price-11, a-9)
+amod(price-11, great-10)
+prep_at(got-6, price-11)
+
+=========
+
+nsubj(took-2, I-1)
+root(ROOT-0, took-2)
+det(risk-4, the-3)
+dobj(took-2, risk-4)
+aux(buy-6, to-5)
+infmod(risk-4, buy-6)
+det(brand-9, a-7)
+amod(brand-9, new-8)
+dobj(buy-6, brand-9)
+nsubjpass(rewarded-14, I-11)
+auxpass(rewarded-14, was-12)
+advmod(rewarded-14, well-13)
+conj_and(took-2, rewarded-14)
+
+=========
+
+det(picture-2, The-1)
+nsubj(good-5, picture-2)
+cop(good-5, is-3)
+advmod(good-5, as-4)
+root(ROOT-0, good-5)
+det(tv-10, a-7)
+dep(tv-10, $-8)
+num(tv-10, 1000-9)
+prep_as(good-5, tv-10)
+prep_in(good-5, HD-12)
+
+=========
+
+advmod(make-2, Just-1)
+dep(notice-14, make-2)
+acomp(make-2, sure-3)
+nsubj(have-7, you-4)
+aux(have-7, do-5)
+neg(have-7, not-6)
+ccomp(sure-3, have-7)
+det(hdmi-10, a-8)
+amod(hdmi-10, cheap-9)
+dobj(have-7, hdmi-10)
+advmod(have-7, then-11)
+nsubj(notice-14, you-12)
+aux(notice-14, might-13)
+root(ROOT-0, notice-14)
+det(loss-18, a-15)
+number(%-17, 5-16)
+amod(loss-18, %-17)
+dobj(notice-14, loss-18)
+prep_in(loss-18, quality-20)
+

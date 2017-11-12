@@ -1,0 +1,145 @@
+=========
+
+num(months-3, 7-2)
+prep_after(problem-8, months-3)
+det(tv-5, the-4)
+nsubj(problem-8, tv-5)
+aux(problem-8, has-6)
+cop(problem-8, been-7)
+root(ROOT-0, problem-8)
+advmod(problem-8, free-9)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(amazing-5, quality-3)
+cop(amazing-5, is-4)
+root(ROOT-0, amazing-5)
+
+=========
+
+root(ROOT-0, Vivid-1)
+dobj(Vivid-1, colors-2)
+amod(images-5, sharp-4)
+dobj(Vivid-1, images-5)
+conj_and(colors-2, images-5)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(stunning-8, quality-2)
+amod(movies-6, blue-ray-4)
+nn(movies-6, disk-5)
+prep_from(quality-2, movies-6)
+cop(stunning-8, is-7)
+root(ROOT-0, stunning-8)
+
+=========
+
+advmod(seen-9, Even-1)
+amod(rooms-4, bright-3)
+prep_in(seen-9, rooms-4)
+det(picture-6, the-5)
+nsubjpass(seen-9, picture-6)
+aux(seen-9, can-7)
+auxpass(seen-9, be-8)
+root(ROOT-0, seen-9)
+acomp(seen-9, fine-10)
+nsubj(get-15, you-13)
+aux(get-15, will-14)
+conj_but(seen-9, get-15)
+nn(reflections-17, window-16)
+nsubj(etc.-18, reflections-17)
+xcomp(get-15, etc.-18)
+det(front-23, the-21)
+nn(front-23, glass-22)
+prep_because_of(etc.-18, front-23)
+
+=========
+
+det(link-4, The-1)
+nn(link-4, VIERA-2)
+nn(link-4, INTERNET-3)
+nsubj(worked-6, link-4)
+aux(worked-6, has-5)
+root(ROOT-0, worked-6)
+advmod(worked-6, perfectly-7)
+prep_with(worked-6, NETFLIX-9)
+det(problems-12, no-11)
+prep_with(worked-6, problems-12)
+
+=========
+
+advmod(sound-4, Even-1)
+det(sound-4, The-2)
+nn(sound-4, speaker-3)
+nsubj(better-8, sound-4)
+nsubj(better-18, sound-4)
+conj_and(sound-4, volume-6)
+nsubj(better-8, volume-6)
+cop(better-8, are-7)
+root(ROOT-0, better-8)
+det(model-13, the-10)
+amod(model-13, previous-11)
+amod(model-13, older-12)
+prep_than(better-8, model-13)
+advmod(better-18, still-15)
+aux(better-18, could-16)
+cop(better-18, be-17)
+conj_but(better-8, better-18)
+
+=========
+
+nsubj(need-3, You-1)
+aux(need-3, will-2)
+root(ROOT-0, need-3)
+det(system-8, a-4)
+amod(system-8, good-5)
+amod(system-8, surround-6)
+nn(system-8, sound-7)
+dobj(need-3, system-8)
+poss(movies-12, your-10)
+amod(movies-12, blue-ray-11)
+prep_for(system-8, movies-12)
+
+=========
+
+det(remote-2, The-1)
+nsubj(excelllent-4, remote-2)
+cop(excelllent-4, is-3)
+root(ROOT-0, excelllent-4)
+
+=========
+
+amod(buttons-2, Large-1)
+nsubj(easy-5, buttons-2)
+nsubj(needed-14, buttons-2)
+cop(easy-5, are-4)
+rcmod(buttons-2, easy-5)
+aux(see-7, to-6)
+xcomp(easy-5, see-7)
+xcomp(easy-5, use-9)
+conj_and(see-7, use-9)
+xcomp(easy-5, light-11)
+conj_and(see-7, light-11)
+prt(light-11, up-12)
+dep(light-11, when-13)
+root(ROOT-0, needed-14)
+
+=========
+
+nsubj(hits-2, PANASONIC-1)
+root(ROOT-0, hits-2)
+det(home-4, a-3)
+dobj(hits-2, home-4)
+partmod(home-4, run-5)
+det(tv-8, this-7)
+prep_with(run-5, tv-8)
+
+=========
+
+nn(!!-3, THANKS-1)
+nn(!!-3, PANASONIC-2)
+root(ROOT-0, !!-3)
+

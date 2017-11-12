@@ -1,0 +1,47 @@
+In_IN March_NNP of_IN 2008_CD I_PRP bought_VBD a_DT K200D_NNP ,_, my_PRP$ first_JJ DSLR_NNP ._.
+Loved_VBD the_DT camera_NN ,_, but_CC wanted_VBD more_JJR control_NN and_CC more_JJR options_NNS ._.
+So_RB ,_, I_PRP then_RB bought_VBD a_DT K20D_NNP ._.
+-----------------------------------_NNP \*\*\*\*_NNP CONTROLS_NNP :_: :_: The_DT controls_NNS on_IN the_DT K20D_NNP are_VBP incredibly_RB awesome_JJ ._.
+Everything_NN is_VBZ just_RB \*_SYM right_JJ \*_NN ._.
+Changes_NNS from_IN the_DT basic_JJ K200D_NNP layout_NN :_: A_DT -RRB-_-RRB- External_NNP Metering_NNP dialB_NNP -RRB-_-RRB- External_NNP bracketing_VBG buttonC_NNP -RRB-_-RRB- External_NNP focal_JJ point_NN mode_NN dialD_NN -RRB-_-RRB- A_DT second_JJ e-dial_NN ,_, which_WDT is_VBZ great_JJ ._.
+I_PRP absolutely_RB love_VBP ,_, love_VBP ,_, love_VBP K20D_CD ergonomics_NNS and_CC menu_NN system_NN ._. ._.
+I_PRP can_MD operate_VB the_DT camera_NN and_CC all_PDT its_PRP$ functions_NNS without_IN looking_VBG at_IN it_PRP ._.
+I_PRP never_RB press_VBP a_DT button_NN I_PRP do_VBP not_RB intent_NN to_TO press_NN ,_, and_CC I_PRP never_RB confuse_VBP buttons_NNS ._.
+Things_NNS just_RB amake_VBP sense_NN '_'' ._.
+It_PRP 's_VBZ so_RB hard_JJ to_TO describe_VB ._.
+This_DT is_VBZ worlds_NNS different_JJ coming_VBG from_IN Canon_NNP and_CC Nikon_NNP comparisons_NNS --_: Perhaps_RB it_PRP was_VBD my_PRP$ unfamiliarity_NN with_IN those_DT cameras_NNS ,_, but_CC their_PRP$ menu_NN systems_NNS ,_, while_IN flashy_JJ ,_, were_VBD downright_RB confusing_JJ ._.
+You_PRP also_RB have_VBP a_DT `_`` Green_NNP Button_NNP '_POS mode_NN and_CC a_DT `_`` User_NNP Mode_NNP '_'' on_IN the_DT K20D_NNP which_WDT is_VBZ very_RB interesting_JJ --_: You_PRP can_MD set_VB up_RP a_DT custom_NN `_`` profile_NN '_'' on_IN the_DT K20D_NNP in_IN User_NNP mode_NN which_WDT sounds_VBZ cool_JJ ,_, but_CC truthfully_RB I_PRP have_VBP not_RB used_VBN it_PRP yet_RB ._.
+\*\*\*\*_NN PERFORMANCE_NN :_: The_DT K20D_NNP performs_VBZ admirably_RB ,_, just_RB like_IN the_DT K200D_NNP ._.
+There_EX are_VBP a_DT few_JJ differences_NNS ,_, though_IN :1_CD -RRB-_-RRB- The_DT K20D_NNP has_VBZ a_DT MUCH_NNP improved_JJ buffer_NN -_: I_PRP can_MD shoot_VB 15_CD RAW_NNP files_NNS at_IN 3.0_CD FPS_NNP -LRB-_-LRB- still_RB low_JJ -RRB-_-RRB- ,_, compared_VBN to_TO 4_CD RAW_NNP at_IN 2.8_CD FPS_NNP on_IN the_DT K200D_NNP ._.
+Unfotunately_RB the_DT FPS_NNP on_IN the_DT K20D_NNP remains_VBZ incredibly_RB slow_JJ at_IN full_JJ resolution_NN .2_CD -RRB-_-RRB- The_DT K20D_NNP has_VBZ a_DT `_`` burst_NN '_'' mode_NN of_IN 21_CD FPS_NNP at_IN around_IN 1.4_CD MP_NNP ._.
+Neat_JJ to_TO play_VB around_RP with_IN but_CC nothing_NN special_JJ .3_CD -RRB-_-RRB- ISO_NNP goes_VBZ up_IN to_TO 3200_CD standard_NN -LRB-_-LRB- K200D_NNP is_VBZ maxed_VBN at_IN 1600_CD -RRB-_-RRB- with_IN 6400_CD available_JJ ._.
+However_RB ,_, IQ_NNP drops_VBZ severely_RB after_IN ISO_NNP 1600_CD ._.
+ISO_NNP 3200_CD is_VBZ OKAY_JJ if_IN you_PRP have_VBP a_DT picture_NN with_IN non-dark_JJ areas_NNS ,_, but_CC there_EX is_VBZ visible_JJ banding_NN at_IN ISO3200_NNP and_CC for_IN the_DT most_JJS part_NN I_PRP avoid_VBP it_PRP ._.
+I_PRP use_VBP NoiseNinja_NNP on_IN my_PRP$ ISO3200_CD images_NNS and_CC they_PRP are_VBP acceptable_JJ if_IN you_PRP are_VBP not_RB going_VBG to_TO crop_VB .4_CD -RRB-_-RRB- A_DT noticeably_RB improved_VBN viewfinder_NN --_: I_PRP can_MD tell_VB the_DT difference_NN immediately_RB over_IN the_DT K200D_NNP ._.
+Brighter_JJR ,_, nicer_JJR ._.
+Lovely_RB ._.
+\*\*\*\*_NNP IMAGE_NNP QUALITYGreat_NNP ,_, just_RB like_IN the_DT K200D_NNP ._.
+As_IN a_DT matter_NN of_IN fact_NN ,_, I_PRP really_RB could_MD not_RB tell_VB you_PRP the_DT difference_NN in_IN IQ_NNP between_IN two_CD 100_CD %_NN crops_NNS of_IN the_DT cameras_NNS ,_, except_IN that_IN the_DT K20D_NNP 's_POS crop_NN is_VBZ going_VBG to_TO be_VB slightly_RB larger_JJR from_IN the_DT added_VBN MP_NNP ._.
+I_PRP have_VBP tested_VBN this_DT extensively_RB with_IN three_CD lenses_NNS -LRB-_-LRB- DA_NNP 16-45_CD ,_, DA_NNP 55-300_CD ,_, DA_NNP \*_NN 50-135_CD -RRB-_-RRB- and_CC there_EX is_VBZ really_RB no_DT IQ_NNP difference_NN between_IN the_DT cameras_NNS ._.
+I_PRP may_MD need_VB to_TO get_VB a_DT high_JJ quality_NN prime_JJ to_TO tell_VB the_DT difference_NN ,_, and_CC even_RB then_RB ,_, you_PRP 'll_MD be_VB pixel_JJ peeping_NN ._.
+However_RB ,_, the_DT K20D_NNP \*_NN DOES_VBZ \*_NN allow_VBP you_PRP to_TO get_VB slightly_RB larger_JJR prints_NNS before_IN you_PRP start_VBP interpolating_VBG pixels_NNS ,_, which_WDT is_VBZ something_NN to_TO consider_VB ._.
+\*\*\*\*_NNP OTHER_NNP :_: Live_JJ view_NN -_: Almost_RB worthless_JJ ._.
+I_PRP get_VBP hot_JJ pixels_NNS on_IN the_DT image_NN when_WRB I_PRP use_VBP live_JJ view_NN for_IN any_DT extended_JJ period_NN of_IN time_NN ._.
+I_PRP have_VBP refused_VBN to_TO upgrade_VB to_TO the_DT 1.01_CD firmware_NN for_IN fear_NN of_IN it_PRP breaking_VBG some_DT software_NN compatibility_NN ._.
+Nothing_NN really_RB important_JJ to_TO me_PRP ,_, though_RB ,_, because_IN the_DT Pentax_NNP implimentation_NN of_IN Liveview_NNP is_VBZ not_RB that_RB great_JJ ._.
+Sealing_VBG -_: Better_JJR than_IN the_DT K200D_NNP ,_, but_CC by_IN how_WRB much_JJ I_PRP do_VBP not_RB know_VB ._.
+The_DT battery_NN and_CC SD_NNP card_NN doors_NNS are_VBP latch_VB opened_VBN instead_RB of_IN slide_NN opened_VBD like_IN the_DT K200D_NNP ._.
+Battery_NNP Performance_NNP --_: Pretty_NNP good_JJ ._.
+Pentax_NNP has_VBZ retained_VBN their_PRP$ rather_RB uninformative_JJ battery_NN meter_NN ,_, unfortunately_RB ._.
+I_PRP really_RB wish_VBP they_PRP did_VBD get_VB with_IN the_DT times_NNS and_CC introduce_VB a_DT %_NN -_: estimate_NN for_IN their_PRP$ battery_NN meter_NN ._.
+Autofocus_NN Speed_NN --_: Absolutely_RB zero_CD difference_NN between_IN the_DT K200D_NNP and_CC the_DT K20D_NNP --_: I_PRP have_VBP tested_VBN this_DT extensively_RB with_IN two_CD lenses_NNS using_VBG a_DT video_NN camera_NN for_IN frame-accurate_JJ timing_NN ._.
+Autofocus_NNP Performance_NNP --_: Decent_JJ ._.
+Low_NNP light_NN it_PRP suffers_VBZ -LRB-_-LRB- EV5\/6_CD or_CC lower_JJR -RRB-_-RRB- ,_, but_CC tries_VBZ for_IN accuracy_NN ,_, so_IN I_PRP am_VBP not_RB sure_JJ what_WP to_TO say_VB ._.
+I_PRP wish_VBP it_PRP were_VBD faster_RBR ._.
+OVERALL_JJ --_: A_DT highly_RB recommended_VBN camera_NN ._.
+Pentax_NNP makes_VBZ some_DT great_JJ glass_NN ._.
+Match_NNP them_PRP up_RP with_IN a_DT K20D_NNP and_CC ENJOY_NNP shooting_NN photos_NNS ._.
+The_DT camera_NN is_VBZ an_DT absolute_JJ ergonomic_JJ and_CC control-layout_JJ pleasure_NN to_TO use_VB ._.
+Menus_NNS make_VBP sense_NN ._.
+Performance_NNP is_VBZ good_JJ with_IN just_RB a_DT few_JJ small_JJ things_NNS to_TO gripe_VB about_IN ._.
+I_PRP really_RB like_IN the_DT camera_NN and_CC it_PRP is_VBZ recommended_VBN for_IN those_DT people_NNS not_RB needing_VBG very_RB fast_RB FPS_JJ or_CC first-party_JJ lenses_NNS past_JJ 300mm_CD ._.

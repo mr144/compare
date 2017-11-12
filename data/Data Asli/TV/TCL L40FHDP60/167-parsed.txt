@@ -1,0 +1,92 @@
+=========
+
+advmod(know-6, Seriously-1)
+nsubj(know-6, I-3)
+aux(know-6, do-4)
+neg(know-6, not-5)
+root(ROOT-0, know-6)
+nsubj(is-8, who-7)
+dep(TCL-14, is-8)
+aux(blame-10, to-9)
+xcomp(is-8, blame-10)
+nn(TCL-14, Amazon-12)
+dobj(know-6, TCL-14)
+dobj(know-6, UPS-17)
+conj_or(TCL-14, UPS-17)
+nsubj(ordered-20, I-19)
+rcmod(UPS-17, ordered-20)
+det(TV-22, this-21)
+dobj(ordered-20, TV-22)
+nsubj(arrived-25, it-24)
+rcmod(UPS-17, arrived-25)
+conj_but(ordered-20, arrived-25)
+advmod(arrived-25, all-26)
+dep(arrived-25, beat-27)
+prt(beat-27, up-28)
+det(screen-31, the-30)
+nsubjpass(cracked-33, screen-31)
+auxpass(cracked-33, was-32)
+rcmod(UPS-17, cracked-33)
+conj_and(ordered-20, cracked-33)
+
+=========
+
+root(ROOT-0, Returned-1)
+dobj(Returned-1, it-2)
+
+=========
+
+nsubj(tried-2, Amazon-1)
+xsubj(ship-4, Amazon-1)
+root(ROOT-0, tried-2)
+aux(ship-4, to-3)
+xcomp(tried-2, ship-4)
+det(ground-8, the-5)
+nn(ground-8, replacement-6)
+nn(ground-8, UPS-7)
+dobj(ship-4, ground-8)
+nsubj(have-11, I-10)
+parataxis(ship-4, have-11)
+dobj(have-11, prime-12)
+prep_instead_of(ship-4, 2-day-16)
+dep(tried-2, so-18)
+nsubj(had-20, I-19)
+xsubj(fight-22, I-19)
+ccomp(tried-2, had-20)
+aux(fight-22, to-21)
+xcomp(had-20, fight-22)
+prep_with(fight-22, them-24)
+prep_about(fight-22, that-26)
+advmod(had-20, then-28)
+dep(2-30, #-29)
+nsubj(arrived-31, 2-30)
+dep(had-20, arrived-31)
+dep(had-20, will-33)
+conj_and(arrived-31, will-33)
+neg(will-33, not-34)
+dobj(arrived-31, power-35)
+advmod(arrived-31, on-36)
+
+=========
+
+num(%-2, 100-1)
+nsubj(DOA-3, %-2)
+root(ROOT-0, DOA-3)
+
+=========
+
+nsubj(learned-2, Lesson-1)
+root(ROOT-0, learned-2)
+
+=========
+
+root(ROOT-0, Buy-1)
+dobj(Buy-1, TV-2)
+possessive(TV-2, 's-3)
+advmod(Buy-1, locally-4)
+conj_and(Buy-1, get-6)
+dobj(get-6, them-7)
+nn(Amazon-11, price-9)
+nn(Amazon-11, match-10)
+prep_to(get-6, Amazon-11)
+

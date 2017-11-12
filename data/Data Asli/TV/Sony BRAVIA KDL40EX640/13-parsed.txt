@@ -1,0 +1,30 @@
+=========
+
+nsubj(recieved-2, We-1)
+root(ROOT-0, recieved-2)
+det(item-4, this-3)
+dobj(recieved-2, item-4)
+nsubj(love-7, we-6)
+conj_and(recieved-2, love-7)
+dobj(love-7, it-8)
+
+=========
+
+nn(Price-2, Great-1)
+root(ROOT-0, Price-2)
+amod(quality-6, Great-4)
+nn(quality-6, picture-5)
+appos(Price-2, quality-6)
+nn(Will-11, Great-8)
+nn(Will-11, Sound-9)
+nn(Will-11, !!-10)
+nsubj(buy-12, Will-11)
+dep(Price-2, buy-12)
+amod(model-14, same-13)
+iobj(buy-12, model-14)
+amod(TV-17, larger-15)
+nn(TV-17, screen-16)
+dobj(buy-12, TV-17)
+nn(room-20, family-19)
+prep_for(TV-17, room-20)
+

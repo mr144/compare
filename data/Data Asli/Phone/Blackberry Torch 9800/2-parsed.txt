@@ -1,0 +1,48 @@
+=========
+
+root(ROOT-0, Got-1)
+dobj(Got-1, everything-2)
+amod(everything-2, new-3)
+
+=========
+
+nsubj(had-2, It-1)
+nsubj(wonder-9, It-1)
+root(ROOT-0, had-2)
+nn(fones-4, ear-3)
+dobj(had-2, fones-4)
+amod(charger-7, regular-6)
+dobj(had-2, charger-7)
+conj_and(fones-4, charger-7)
+conj_but(had-2, wonder-9)
+advmod(get-14, why-10)
+nsubj(get-14, I-11)
+aux(get-14, do-12)
+neg(get-14, not-13)
+advcl(wonder-9, get-14)
+det(booklet\/manual-16, a-15)
+dobj(get-14, booklet\/manual-16)
+
+=========
+
+poss(firing-3, Its-1)
+amod(firing-3, still-2)
+nsubj(great-7, firing-3)
+conj_and(firing-3, service-5)
+nsubj(great-7, service-5)
+cop(great-7, is-6)
+root(ROOT-0, great-7)
+
+=========
+
+nsubj(amazon-2, Thanks-1)
+root(ROOT-0, amazon-2)
+
+=========
+
+advmod(meet-3, u-1)
+advmod(meet-3, always-2)
+root(ROOT-0, meet-3)
+poss(expectations-5, my-4)
+dobj(meet-3, expectations-5)
+

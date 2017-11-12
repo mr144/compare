@@ -1,0 +1,30 @@
+=========
+
+mark(had-3, After-1)
+nsubj(had-3, i-2)
+advcl(settled-9, had-3)
+poss(presents-6, everyone-4)
+dobj(had-3, presents-6)
+nsubj(settled-9, i-8)
+root(ROOT-0, settled-9)
+det(TV-12, a-11)
+prep_on(settled-9, TV-12)
+prep_for(settled-9, me-14)
+
+=========
+
+root(ROOT-0, Love-1)
+partmod(Love-1, having-2)
+dobj(having-2, all-3)
+det(technology-6, this-5)
+prep_of(all-3, technology-6)
+poss(television-9, my-8)
+prep_from(technology-6, television-9)
+
+=========
+
+root(ROOT-0, Wow-1)
+nn(Christmas-4, merry-3)
+dep(Wow-1, Christmas-4)
+prep_to(Christmas-4, me-6)
+

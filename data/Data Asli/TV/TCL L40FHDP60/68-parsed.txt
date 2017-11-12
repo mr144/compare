@@ -1,0 +1,46 @@
+=========
+
+nsubj(owned-4, We-1)
+aux(owned-4, have-2)
+advmod(owned-4, only-3)
+root(ROOT-0, owned-4)
+det(TV-6, this-5)
+dobj(owned-4, TV-6)
+det(week-8, a-7)
+tmod(owned-4, week-8)
+advmod(far-12, so-11)
+advmod(owned-4, far-12)
+conj_but(owned-4, far-12)
+advmod(good-14, so-13)
+advmod(owned-4, good-14)
+conj_but(owned-4, good-14)
+
+=========
+
+nsubjpass(got-3, It-1)
+auxpass(got-3, 's-2)
+root(ROOT-0, got-3)
+amod(picture-5, decent-4)
+dobj(got-3, picture-5)
+dobj(got-3, sound-7)
+conj_and(picture-5, sound-7)
+det(price-10, the-9)
+prep_for(got-3, price-10)
+
+=========
+
+nsubj(simple-3, Setup-1)
+cop(simple-3, was-2)
+root(ROOT-0, simple-3)
+nsubj(doing-7, it-5)
+aux(doing-7, is-6)
+conj_and(simple-3, doing-7)
+det(job-9, the-8)
+dobj(doing-7, job-9)
+dobj(wanted-11, job-9)
+nsubj(wanted-11, we-10)
+rcmod(job-9, wanted-11)
+nsubj(do-14, it-12)
+aux(do-14, to-13)
+xcomp(wanted-11, do-14)
+

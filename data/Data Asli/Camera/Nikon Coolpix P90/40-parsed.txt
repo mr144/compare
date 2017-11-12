@@ -1,0 +1,33 @@
+=========
+
+amod(camera-2, Horrible-1)
+nsubj(lit-8, camera-2)
+mark(are-5, unless-3)
+nsubj(are-5, you-4)
+dep(camera-2, are-5)
+prep(are-5, in-6)
+pcomp(in-6, well-7)
+root(ROOT-0, lit-8)
+dobj(lit-8, areas-9)
+nsubj(picture-15, it-11)
+cop(picture-15, is-12)
+det(picture-15, a-13)
+advmod(picture-15, still-14)
+conj_and(lit-8, picture-15)
+
+=========
+
+nn(I-2, Wish-1)
+nsubj(purchased-5, I-2)
+aux(purchased-5, had-3)
+neg(purchased-5, not-4)
+root(ROOT-0, purchased-5)
+dobj(purchased-5, it-6)
+
+=========
+
+root(ROOT-0, Not-1)
+dep(Not-1, worth-2)
+det(money-4, the-3)
+dep(worth-2, money-4)
+

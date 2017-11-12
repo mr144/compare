@@ -1,0 +1,55 @@
+=========
+
+det(T3i-3, The-1)
+nn(T3i-3, Rebel-2)
+nsubj(camera-9, T3i-3)
+amod(T3i-3, \/-4)
+dep(\/-4, 600D-5)
+cop(camera-9, is-6)
+advmod(camera-9, exactly-7)
+det(camera-9, the-8)
+root(ROOT-0, camera-9)
+complm(expect-13, that-10)
+nsubj(expect-13, you-11)
+aux(expect-13, will-12)
+ccomp(camera-9, expect-13)
+nsubj(be-16, it-14)
+aux(be-16, to-15)
+xcomp(expect-13, be-16)
+
+=========
+
+nsubj(enjoyable-6, Feature-rich-1)
+xsubj(use-8, Feature-rich-1)
+nsubj(takes-14, Feature-rich-1)
+advmod(priced-4, reasonably-3)
+amod(Feature-rich-1, priced-4)
+root(ROOT-0, enjoyable-6)
+aux(use-8, to-7)
+xcomp(enjoyable-6, use-8)
+advmod(importantly-12, most-11)
+dep(enjoyable-6, importantly-12)
+conj_and(enjoyable-6, takes-14)
+advmod(great-16, really-15)
+amod(pictures-17, great-16)
+dobj(takes-14, pictures-17)
+
+=========
+
+nsubj(camera-7, It-1)
+cop(camera-7, 's-2)
+neg(camera-7, not-3)
+det(camera-7, a-4)
+advmod(innovative-6, particularly-5)
+amod(camera-7, innovative-6)
+root(ROOT-0, camera-7)
+nsubj(one-15, it-9)
+cop(one-15, is-10)
+det(one-15, a-11)
+advmod(planned-14, generally-12)
+advmod(planned-14, well-13)
+amod(one-15, planned-14)
+conj_but(camera-7, one-15)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

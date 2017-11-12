@@ -1,0 +1,24 @@
+=========
+
+nsubj(own-2, I-1)
+nsubj(bought-8, I-1)
+root(ROOT-0, own-2)
+det(Phone-5, a-3)
+nn(Phone-5, Windows-4)
+dobj(own-2, Phone-5)
+advmod(own-2, already-6)
+conj_and(own-2, bought-8)
+det(one-10, this-9)
+dobj(bought-8, one-10)
+poss(wife-13, my-12)
+prep_for(bought-8, wife-13)
+det(gift-17, a-15)
+nn(gift-17, birthday-16)
+prep_as(bought-8, gift-17)
+
+=========
+
+nsubj(loves-2, She-1)
+root(ROOT-0, loves-2)
+dobj(loves-2, it-3)
+

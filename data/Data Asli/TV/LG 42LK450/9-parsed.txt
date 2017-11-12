@@ -1,0 +1,37 @@
+=========
+
+nsubj(upgraded-2, I-1)
+root(ROOT-0, upgraded-2)
+det(19-5, a-4)
+poss(tv-8, 19-5)
+nn(tv-8, tube-7)
+prep_from(upgraded-2, tv-8)
+nsubj(fabulous-13, this-10)
+aux(fabulous-13, has-11)
+cop(fabulous-13, been-12)
+conj_and(upgraded-2, fabulous-13)
+
+=========
+
+amod(difficulty-2, Slight-1)
+nsubj(watching-3, difficulty-2)
+root(ROOT-0, watching-3)
+amod(movies-5, dark-4)
+dobj(watching-3, movies-5)
+nsubj(issue-12, that-7)
+aux(issue-12, could-8)
+advmod(issue-12, also-9)
+cop(issue-12, be-10)
+det(issue-12, an-11)
+conj_but(watching-3, issue-12)
+poss(player-16, my-14)
+nn(player-16, DVD-15)
+prep_with(issue-12, player-16)
+
+=========
+
+root(ROOT-0, Very-1)
+dep(Very-1, worth-2)
+det(money-4, the-3)
+dep(worth-2, money-4)
+

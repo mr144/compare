@@ -1,0 +1,78 @@
+=========
+
+csubj(expected-3, Performing-1)
+prep(Performing-1, as-2)
+root(ROOT-0, expected-3)
+advmod(far-5, so-4)
+advmod(expected-3, far-5)
+
+=========
+
+nsubj(upgraded-2, I-1)
+nsubj(shoot-8, I-1)
+root(ROOT-0, upgraded-2)
+det(point-6, a-4)
+amod(point-6, digital-5)
+prep_from(upgraded-2, point-6)
+conj_and(upgraded-2, shoot-8)
+
+=========
+
+nsubj(used-2, I-1)
+xsubj(use-4, I-1)
+nsubj(decided-11, I-1)
+root(ROOT-0, used-2)
+aux(use-4, to-3)
+xcomp(used-2, use-4)
+det(camera-8, an-5)
+nn(camera-8, SLR-6)
+nn(camera-8, film-7)
+dobj(use-4, camera-8)
+advmod(used-2, finally-10)
+conj_and(used-2, finally-10)
+conj_and(used-2, decided-11)
+nsubj(time-14, it-12)
+xsubj(get-16, it-12)
+aux(time-14, was-13)
+ccomp(decided-11, time-14)
+aux(get-16, to-15)
+xcomp(time-14, get-16)
+det(SLR-19, a-17)
+amod(SLR-19, digital-18)
+dobj(get-16, SLR-19)
+
+=========
+
+advmod(good-4, So-1)
+advmod(So-1, far-2)
+advmod(good-4, so-3)
+ccomp(learning-9, good-4)
+nsubj(learning-9, I-6)
+aux(learning-9, am-7)
+advmod(learning-9, still-8)
+root(ROOT-0, learning-9)
+det(ropes-11, the-10)
+dobj(learning-9, ropes-11)
+det(camera-14, this-13)
+prep_on(learning-9, camera-14)
+
+=========
+
+det(video-3, The-1)
+nn(video-3, HD-2)
+nsubj(great-5, video-3)
+cop(great-5, is-4)
+ccomp(awkward-13, great-5)
+amod(recording-8, fixed-7)
+prep_from(great-5, recording-8)
+nsubj(awkward-13, it-10)
+aux(awkward-13, will-11)
+cop(awkward-13, be-12)
+root(ROOT-0, awkward-13)
+aux(use-15, to-14)
+xcomp(awkward-13, use-15)
+det(while-17, this-16)
+dobj(use-15, while-17)
+partmod(while-17, moving-18)
+prt(moving-18, around-19)
+

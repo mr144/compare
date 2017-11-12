@@ -1,0 +1,461 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(pleasure-4, a-3)
+dobj(had-2, pleasure-4)
+aux(use-6, to-5)
+infmod(pleasure-4, use-6)
+det(Pentax-8, this-7)
+poss(baby-10, Pentax-8)
+dobj(use-6, baby-10)
+num(days-13, three-12)
+prep_for(baby-10, days-13)
+
+=========
+
+det(camera-2, This-1)
+nsubj(takes-3, camera-2)
+root(ROOT-0, takes-3)
+dobj(takes-3, photography-4)
+advmod(far-6, as-5)
+advmod(takes-3, far-6)
+mark(was-10, as-7)
+nsubj(was-10, it-8)
+neg(was-10, never-9)
+ccomp(far-6, was-10)
+quantmod($-13, under-12)
+num(tag-16, $-13)
+number($-13, 8.000-14)
+nn(tag-16, price-15)
+prep_before(was-10, tag-16)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, image-2)
+nsubj(stunning-5, quality-3)
+cop(stunning-5, is-4)
+root(ROOT-0, stunning-5)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, especially-2)
+root(ROOT-0, like-3)
+det(rendition-8, this-4)
+amod(rendition-8, rich-5)
+amod(rendition-8, tremendous-6)
+nn(rendition-8, color-7)
+dobj(like-3, rendition-8)
+nsubj(looks-10, rendition-8)
+rcmod(rendition-8, looks-10)
+amod(slide-15, mid-12)
+nn(slide-15, format-13)
+nn(slide-15, color-14)
+prep_like(looks-10, slide-15)
+prep_of(slide-15, 6x9-17)
+
+=========
+
+det(gradations-3, The-1)
+nn(gradations-3, tone-2)
+nsubj(endless-6, gradations-3)
+cop(endless-6, are-4)
+advmod(endless-6, simply-5)
+root(ROOT-0, endless-6)
+
+=========
+
+mark(take-3, If-1)
+nsubj(take-3, you-2)
+advcl(sunset-12, take-3)
+dobj(take-3, picture-4)
+prep_of(picture-4, sunset-6)
+nsubj(sunset-12, it-7)
+aux(sunset-12, will-8)
+cop(sunset-12, be-9)
+det(sunset-12, the-10)
+amod(sunset-12, best-11)
+root(ROOT-0, sunset-12)
+dobj(seen-15, sunset-12)
+nsubj(seen-15, you-13)
+advmod(seen-15, ever-14)
+rcmod(sunset-12, seen-15)
+
+=========
+
+nsubj(describe-4, I-1)
+aux(describe-4, will-2)
+neg(describe-4, not-3)
+root(ROOT-0, describe-4)
+amod(details-8, endless-5)
+amod(details-8, technical-6)
+nn(details-8, data-7)
+dobj(describe-4, details-8)
+nsubj(stress-12, I-10)
+aux(stress-12, must-11)
+conj_but(describe-4, stress-12)
+advmod(smart-14, how-13)
+acomp(stress-12, smart-14)
+acomp(stress-12, convenient-16)
+conj_and(smart-14, convenient-16)
+acomp(stress-12, relevant-18)
+conj_and(smart-14, relevant-18)
+predet(menus-21, all-19)
+det(menus-21, the-20)
+dobj(relevant-18, menus-21)
+
+=========
+
+nsubj(have-2, You-1)
+root(ROOT-0, have-2)
+det(tools-5, a-3)
+nn(tools-5, photography-4)
+dobj(have-2, tools-5)
+poss(hands-8, your-7)
+prep_in(tools-5, hands-8)
+neg(toy-13, not-10)
+det(toy-13, the-11)
+amod(toy-13, computerized-12)
+appos(hands-8, toy-13)
+amod(menus-16, browsing-15)
+prep_for(toy-13, menus-16)
+
+=========
+
+det(placement-3, The-1)
+nn(placement-3, controls-2)
+nsubj(I-7, placement-3)
+cop(I-7, is-4)
+det(I-7, the-5)
+amod(I-7, best-6)
+root(ROOT-0, I-7)
+advmod(seen-9, ever-8)
+partmod(I-7, seen-9)
+det(brand-12, any-11)
+prep_in(seen-9, brand-12)
+
+=========
+
+nsubj(is-2, Everything-1)
+ccomp(assignable-9, is-2)
+poss(fingers-5, your-4)
+prep_under(is-2, fingers-5)
+nsubj(assignable-9, everything-7)
+cop(assignable-9, is-8)
+root(ROOT-0, assignable-9)
+
+=========
+
+det(camera-2, The-1)
+nsubj(reacts-3, camera-2)
+ccomp(feels-11, reacts-3)
+det(way-6, the-5)
+prep_in(reacts-3, way-6)
+dobj(expect-8, way-6)
+nsubj(expect-8, you-7)
+rcmod(way-6, expect-8)
+nsubj(feels-11, it-10)
+root(ROOT-0, feels-11)
+acomp(feels-11, solid-12)
+dep(solid-12, complete-14)
+
+=========
+
+nsubj(pleasure-3, It-1)
+cop(pleasure-3, is-2)
+ccomp(good-12, pleasure-3)
+aux(hold-5, to-4)
+xcomp(pleasure-3, hold-5)
+dobj(hold-5, it-6)
+det(balance-9, the-8)
+nsubj(good-12, balance-9)
+cop(good-12, is-10)
+advmod(good-12, very-11)
+root(ROOT-0, good-12)
+
+=========
+
+det(camera-2, This-1)
+poss(software-4, camera-2)
+nsubj(allows-5, software-4)
+root(ROOT-0, allows-5)
+amod(shooting-7, remote-6)
+dobj(allows-5, shooting-7)
+advmod(like-10, just-9)
+dep(allows-5, like-10)
+pobj(like-10, k10d-11)
+mark(used-15, if-14)
+csubjpass(controlled-21, used-15)
+prep_in(used-15, studio-17)
+aux(controlled-21, may-18)
+auxpass(controlled-21, be-19)
+advmod(controlled-21, entirely-20)
+conj_and(allows-5, controlled-21)
+agent(controlled-21, computer-23)
+
+=========
+
+det(ability-2, The-1)
+nsubj(nice-13, ability-2)
+aux(use-4, to-3)
+infmod(ability-2, use-4)
+det(flash-7, the-5)
+amod(flash-7, internal-6)
+dobj(use-4, flash-7)
+det(controller-10, a-9)
+prep_as(use-4, controller-10)
+cop(nice-13, is-11)
+advmod(nice-13, very-12)
+root(ROOT-0, nice-13)
+
+=========
+
+det(ability-2, The-1)
+nsubj(nice-8, ability-2)
+nn(preview-5, store-4)
+prep_to(ability-2, preview-5)
+cop(nice-8, is-6)
+advmod(nice-8, very-7)
+root(ROOT-0, nice-8)
+
+=========
+
+det(preview-3, The-1)
+nn(preview-3, shift-2)
+nsubj(cool-8, preview-3)
+prep_on(preview-3, shutter-5)
+cop(cool-8, is-6)
+amod(cool-8, super-7)
+root(ROOT-0, cool-8)
+
+=========
+
+det(viewfinder-2, The-1)
+nsubj(nice-4, viewfinder-2)
+nsubj(clear-6, viewfinder-2)
+nsubj(bright-8, viewfinder-2)
+cop(nice-4, is-3)
+root(ROOT-0, nice-4)
+conj_and(nice-4, clear-6)
+conj_and(nice-4, bright-8)
+
+=========
+
+mark(had-3, If-1)
+nsubj(had-3, you-2)
+advcl(find-10, had-3)
+dobj(had-3, experience-4)
+prep_with(experience-4, K10D-6)
+nsubj(find-10, you-8)
+aux(find-10, will-9)
+root(ROOT-0, find-10)
+det(Pentax-13, these-11)
+amod(Pentax-13, awesome-12)
+dobj(find-10, Pentax-13)
+partmod(Pentax-13, invented-14)
+dobj(invented-14, modes-15)
+partmod(modes-15, related-16)
+nn(settings-20, auto-18)
+nn(settings-20, ISO-19)
+prep_to(related-16, settings-20)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, image-2)
+nsubj(second-5, quality-3)
+cop(second-5, is-4)
+root(ROOT-0, second-5)
+prep_to(second-5, none-7)
+
+=========
+
+mark(are-3, While-1)
+expl(are-3, there-2)
+advcl(are-7, are-3)
+acomp(are-3, many-4)
+amod(cameras-6, good-5)
+nsubj(are-7, cameras-6)
+root(ROOT-0, are-7)
+advmod(are-7, around-8)
+det(one-11, this-10)
+dep(are-7, one-11)
+det(league-14, the-13)
+prep_of(one-11, league-14)
+prep_on(league-14, itself-16)
+
+=========
+
+det(tonality-2, The-1)
+nsubj(outstanding-11, tonality-2)
+advmod(outstanding-11, sharpness-4)
+nsubj(outstanding-11, expressiveness-6)
+det(cam-9, this-8)
+prep_of(expressiveness-6, cam-9)
+cop(outstanding-11, is-10)
+root(ROOT-0, outstanding-11)
+
+=========
+
+nsubj(outstanding-5, What-1)
+cop(outstanding-5, is-2)
+advmod(outstanding-5, even-3)
+advmod(outstanding-5, more-4)
+csubj(combination-8, outstanding-5)
+cop(combination-8, is-6)
+det(combination-8, the-7)
+root(ROOT-0, combination-8)
+prepc_of(combination-8, shooting-10)
+dobj(shooting-10, experiences-11)
+det(end-13, that-12)
+npadvmod(up-14, end-13)
+advmod(shooting-10, up-14)
+det(image-18, the-16)
+amod(image-18, final-17)
+prep_in(shooting-10, image-18)
+
+=========
+
+nsubj(feel-2, You-1)
+root(ROOT-0, feel-2)
+complm(control-5, that-3)
+nsubj(control-5, you-4)
+ccomp(feel-2, control-5)
+dobj(control-5, it-6)
+det(degree-9, any-8)
+prep_to(control-5, degree-9)
+dobj(wish-11, degree-9)
+nsubj(wish-11, you-10)
+rcmod(degree-9, wish-11)
+
+=========
+
+det(image-3, The-1)
+amod(image-3, final-2)
+nsubj(be-5, image-3)
+aux(be-5, may-4)
+root(ROOT-0, be-5)
+dep(tune-8, whatever-6)
+nsubj(tune-8, you-7)
+ccomp(be-5, tune-8)
+nsubj(be-11, it-9)
+aux(be-11, to-10)
+xcomp(tune-8, be-11)
+
+=========
+
+root(ROOT-0, Make-1)
+det(profile-3, a-2)
+dobj(Make-1, profile-3)
+conj_and(Make-1, get-5)
+nsubj(sharpened-8, it-6)
+nsubj(oversaturated-12, it-6)
+nsubj(contrasted-17, it-6)
+dep(sharpened-8, over-7)
+xcomp(get-5, sharpened-8)
+prep_as(sharpened-8, Canon-10)
+xcomp(get-5, oversaturated-12)
+conj_or(sharpened-8, oversaturated-12)
+prep_as(oversaturated-12, Sony-14)
+advmod(contrasted-17, over-16)
+xcomp(get-5, contrasted-17)
+conj_or(sharpened-8, contrasted-17)
+prep_as(contrasted-17, Nikon-19)
+
+=========
+
+nsubj(is-2, Mix-1)
+root(ROOT-0, is-2)
+det(way-5, any-4)
+prep_in(is-2, way-5)
+dobj(pleased-7, way-5)
+nsubj(pleased-7, you-6)
+rcmod(way-5, pleased-7)
+
+=========
+
+nsubj(have-2, You-1)
+root(ROOT-0, have-2)
+det(number-4, any-3)
+dobj(have-2, number-4)
+prep_of(number-4, cameras-6)
+advmod(cameras-6, inside-7)
+
+=========
+
+nsubj(enjoyed-3, I-1)
+advmod(enjoyed-3, personally-2)
+root(ROOT-0, enjoyed-3)
+dobj(enjoyed-3, portraits-4)
+nn(shots-7, nature-6)
+dobj(enjoyed-3, shots-7)
+conj_and(portraits-4, shots-7)
+nsubj(made-9, I-8)
+dep(enjoyed-3, made-9)
+prep_with(made-9, it-11)
+
+=========
+
+amod(tonal-3, awesome-2)
+amod(variations-4, tonal-3)
+prep_with(gradations-7, variations-4)
+nsubj(gradations-7, countless-6)
+root(ROOT-0, gradations-7)
+amod(tones-15, shadows-9)
+conj_and(shadows-9, natural-11)
+amod(tones-15, natural-11)
+conj_and(shadows-9, lifelike-13)
+amod(tones-15, lifelike-13)
+nn(tones-15, skin-14)
+prep_in(gradations-7, tones-15)
+
+=========
+
+det(camera-2, This-1)
+nsubj(does-3, camera-2)
+root(ROOT-0, does-3)
+advmod(good-5, equally-4)
+amod(job-6, good-5)
+dobj(does-3, job-6)
+amod(skins-9, dark-8)
+prep_on(does-3, skins-9)
+advmod(well-11, as-10)
+mwe(well-11, as-10)
+advmod(does-3, well-11)
+
+=========
+
+cc(looks-3, And-1)
+nsubj(looks-3, it-2)
+root(ROOT-0, looks-3)
+acomp(looks-3, real-4)
+advmod(rich-7, photographically-6)
+acomp(looks-3, rich-7)
+conj_and(real-4, rich-7)
+neg(exaggerated-10, not-9)
+acomp(looks-3, exaggerated-10)
+conj_and(real-4, exaggerated-10)
+
+=========
+
+prep_in(walked-15, short-2)
+poss(days-6, my-4)
+num(days-6, three-5)
+nsubj(walked-15, days-6)
+prep_of(days-6, hands-8)
+prep_on(hands-8, experience-10)
+det(I-14, this-12)
+nn(I-14, camera-13)
+prep_with(experience-10, I-14)
+root(ROOT-0, walked-15)
+prt(walked-15, off-16)
+advmod(impressed-18, very-17)
+dep(walked-15, impressed-18)
+
+=========
+
+advmod(impressed-2, Hugely-1)
+root(ROOT-0, impressed-2)
+

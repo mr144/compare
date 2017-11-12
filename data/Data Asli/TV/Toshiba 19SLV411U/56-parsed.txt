@@ -1,0 +1,58 @@
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(fine-5, quality-3)
+cop(fine-5, is-4)
+root(ROOT-0, fine-5)
+det(tv-8, the-7)
+prep_on(fine-5, tv-8)
+det(sound-11, the-10)
+nsubj(none-13, sound-11)
+cop(none-13, is-12)
+conj_but(fine-5, none-13)
+amod(none-13, adjustable-14)
+
+=========
+
+nsubj(turn-3, You-1)
+aux(turn-3, can-2)
+root(ROOT-0, turn-3)
+det(volume-5, the-4)
+dobj(turn-3, volume-5)
+advmod(turn-3, up-6)
+advmod(turn-3, down-8)
+conj_and(up-6, down-8)
+advmod(little-11, very-10)
+amod(change-12, little-11)
+prep_with(turn-3, change-12)
+
+=========
+
+det(morning-3, the-2)
+prep_in(ok-6, morning-3)
+nsubj(ok-6, it-4)
+cop(ok-6, seems-5)
+root(ROOT-0, ok-6)
+prep_at(get-13, night-9)
+nsubj(get-13, you-10)
+aux(get-13, can-11)
+neg(get-13, not-12)
+conj_but(ok-6, get-13)
+amod(volume-15, enough-14)
+dobj(get-13, volume-15)
+det(tv-19, the-18)
+prep_out_of(get-13, tv-19)
+aux(it-22, to-20)
+advmod(it-22, here-21)
+infmod(tv-19, it-22)
+num(ft-24, 10-23)
+npadvmod(away-25, ft-24)
+advmod(get-13, away-25)
+
+=========
+
+root(ROOT-0, Not-1)
+dep(Not-1, reccommended-2)
+prep_for(reccommended-2, purchase-4)
+

@@ -1,0 +1,4 @@
+I_PRP read_VBP other_JJ reviews_NNS about_IN the_DT LG_NNP 32LK450_NNP TV_NN before_IN purchasing_NN ..._: most_JJS were_VBD glowing_JJ reviews_NNS ._.
+I_PRP am_VBP very_RB pleased_JJ with_IN my_PRP$ purchase_NN of_IN this_DT TV_NN through_IN Amazon_NNP ._.
+The_DT TV_NN was_VBD shipped_VBN almost_RB immediately_RB and_CC ariived_VBD safely_RB ._.
+Set-up_NN was_VBD easy_JJ and_CC the_DT picture_NN and_CC sound_NN is_VBZ excellent_JJ !!!!_NN I_PRP would_MD recommend_VB this_DT item_NN as_RB well_RB as_IN purchasing_NN via_IN Amazon_NNP ._.

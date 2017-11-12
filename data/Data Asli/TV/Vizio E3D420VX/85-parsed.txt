@@ -1,0 +1,53 @@
+=========
+
+det(TV-2, This-1)
+nsubj(awesome-4, TV-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(much-5, it-3)
+advmod(much-5, so-4)
+xcomp(love-2, much-5)
+det(drawback-9, the-7)
+amod(drawback-9, only-8)
+nsubj(is-10, drawback-9)
+conj_but(love-2, is-10)
+nsubj(find-13, I-11)
+advmod(find-13, cant-12)
+ccomp(is-10, find-13)
+det(picture-16, the-14)
+amod(picture-16, perfect-15)
+dobj(find-13, picture-16)
+xcomp(find-13, setting-17)
+dobj(setting-17, me-18)
+
+=========
+
+nsubj(looked-2, I-1)
+nsubj(tested-9, I-1)
+root(ROOT-0, looked-2)
+prep_at(looked-2, all-4)
+prep_of(all-4, forms-6)
+prep(looked-2, online-7)
+conj_and(looked-2, tested-9)
+dobj(tested-9, it-10)
+prt(tested-9, out-11)
+nsubj(sure-17, I-13)
+cop(sure-17, am-14)
+advmod(sure-17, just-15)
+neg(sure-17, not-16)
+conj_but(looked-2, sure-17)
+
+=========
+
+root(ROOT-0, Other-1)
+mark(HAPPY-6, than-2)
+dep(HAPPY-6, that-3)
+nsubj(HAPPY-6, I-4)
+cop(HAPPY-6, am-5)
+dep(Other-1, HAPPY-6)
+

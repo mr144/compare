@@ -1,0 +1,79 @@
+=========
+
+nsubj(received-2, I-1)
+root(ROOT-0, received-2)
+det(copy-5, a-3)
+amod(copy-5, bad-4)
+dobj(received-2, copy-5)
+amod(focus-9, serious-7)
+nn(focus-9, auto-8)
+prep_with(received-2, focus-9)
+
+=========
+
+det(camera-2, This-1)
+nsubj(focus-5, camera-2)
+nsubj(releases-9, camera-2)
+aux(focus-5, does-3)
+neg(focus-5, not-4)
+root(ROOT-0, focus-5)
+advmod(focus-5, at-6)
+pobj(at-6, all-7)
+conj_and(focus-5, releases-9)
+det(shutter-11, the-10)
+dobj(releases-9, shutter-11)
+
+=========
+
+root(ROOT-0, Requested-1)
+det(copy-4, the-2)
+amod(copy-4, new-3)
+dobj(Requested-1, copy-4)
+prep_from(Requested-1, Amazon-6)
+
+=========
+
+root(ROOT-0, Update-1)
+nsubj(received-4, I-3)
+dep(Update-1, received-4)
+det(copy-7, a-5)
+amod(copy-7, new-6)
+dobj(received-4, copy-7)
+prep_from(received-4, Amazon-9)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(issue-7, the-3)
+amod(issue-7, same-4)
+nn(issue-7, auto-5)
+nn(issue-7, focus-6)
+dobj(has-2, issue-7)
+
+=========
+
+nsubj(created-2, I-1)
+root(ROOT-0, created-2)
+det(ticket-5, a-3)
+nn(ticket-5, service-4)
+dobj(created-2, ticket-5)
+prep_with(created-2, Nikon-7)
+nsubj(solve-12, they-9)
+aux(solve-12, could-10)
+neg(solve-12, not-11)
+conj_and(created-2, solve-12)
+det(problem-14, the-13)
+dobj(solve-12, problem-14)
+
+=========
+
+root(ROOT-0, Returning-1)
+det(one-4, the-2)
+amod(one-4, second-3)
+dobj(Returning-1, one-4)
+conj_and(Returning-1, waiting-6)
+amod(replacement-9, new-8)
+prep_for(waiting-6, replacement-9)
+prep_from(waiting-6, Amazon-11)
+

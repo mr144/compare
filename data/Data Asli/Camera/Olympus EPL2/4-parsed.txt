@@ -1,0 +1,45 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+det(wife-2, The-1)
+nsubj(want-5, wife-2)
+aux(want-5, did-3)
+neg(want-5, not-4)
+root(ROOT-0, want-5)
+det(DSLR-8, a-6)
+amod(DSLR-8, large-7)
+dobj(want-5, DSLR-8)
+nsubj(tired-12, I-10)
+cop(tired-12, was-11)
+conj_and(want-5, tired-12)
+auxpass(limited-15, being-14)
+prepc_of(tired-12, limited-15)
+amod(cameras-20, small-17)
+amod(cameras-20, pocket-18)
+amod(cameras-20, digital-19)
+agent(limited-15, cameras-20)
+
+=========
+
+advmod(have-3, Now-1)
+nsubj(have-3, I-2)
+root(ROOT-0, have-3)
+det(camera-5, a-4)
+dep(wife-7, camera-5)
+poss(wife-7, my-6)
+dep(have-3, wife-7)
+dep(size-14, I-9)
+det(size-14, both-10)
+amod(size-14, enjoy-11)
+amod(size-14, small-13)
+dep(have-3, size-14)
+conj_and(wife-7, size-14)
+prep(size-14, but-15)
+dep(but-15, versatile-16)
+

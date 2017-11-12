@@ -1,0 +1,30 @@
+=========
+
+det(price-3, the-2)
+prep_for(camera-9, price-3)
+nsubj(camera-9, this-4)
+cop(camera-9, is-5)
+det(camera-9, a-6)
+advmod(good-8, pretty-7)
+amod(camera-9, good-8)
+root(ROOT-0, camera-9)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(good-4, quality-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+amod(lighting-7, decent-6)
+prep_in(good-4, lighting-7)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+det(camera-4, this-3)
+nsubj(perfect-6, camera-4)
+cop(perfect-6, is-5)
+ccomp(think-2, perfect-6)
+prep_for(perfect-6, beginners-8)
+

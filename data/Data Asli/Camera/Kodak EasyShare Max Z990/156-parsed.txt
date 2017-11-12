@@ -1,0 +1,72 @@
+=========
+
+nsubj(recieved-2, I-1)
+root(ROOT-0, recieved-2)
+det(camera-4, this-3)
+dobj(recieved-2, camera-4)
+num(days-6, 6-5)
+npadvmod(earlier-7, days-6)
+advmod(recieved-2, earlier-7)
+mark(told-11, than-8)
+nsubjpass(told-11, I-9)
+auxpass(told-11, was-10)
+dep(earlier-7, told-11)
+nsubj(be-14, it-12)
+aux(be-14, would-13)
+ccomp(told-11, be-14)
+advmod(be-14, here-15)
+
+=========
+
+det(box-2, The-1)
+nsubj(came-3, box-2)
+root(ROOT-0, came-3)
+advmod(nice-5, very-4)
+acomp(came-3, nice-5)
+acomp(came-3, secure-7)
+conj_and(nice-5, secure-7)
+
+=========
+
+nsubj(was-2, Camera-1)
+nsubj(works-7, Camera-1)
+root(ROOT-0, was-2)
+amod(condition-5, excellent-4)
+prep_in(was-2, condition-5)
+conj_and(was-2, works-7)
+advmod(well-9, very-8)
+advmod(works-7, well-9)
+
+=========
+
+det(ZOOM-2, THE-1)
+nsubj(GOOD-5, ZOOM-2)
+cop(GOOD-5, IS-3)
+nn(GOOD-5, CRAZY-4)
+root(ROOT-0, GOOD-5)
+
+=========
+
+num(Zoom-2, 30X-1)
+root(ROOT-0, Zoom-2)
+prep_for(Zoom-2, $-4)
+num($-4, 179.95-5)
+
+=========
+
+nsubjpass(stoked-3, I-1)
+auxpass(stoked-3, was-2)
+root(ROOT-0, stoked-3)
+
+=========
+
+advmod(happy-2, Very-1)
+root(ROOT-0, happy-2)
+det(seller-5, the-4)
+prep_with(happy-2, seller-5)
+aux(recommend-8, would-7)
+conj_and(happy-2, recommend-8)
+det(product-10, this-9)
+dobj(recommend-8, product-10)
+prep_to(recommend-8, EVERYBODY-12)
+

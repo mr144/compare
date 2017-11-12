@@ -1,0 +1,137 @@
+=========
+
+nsubj(bought-4, I-1)
+aux(bought-4, have-2)
+advmod(bought-4, always-3)
+root(ROOT-0, bought-4)
+dobj(bought-4, nikon-5)
+
+=========
+
+poss(purchase-3, my-1)
+amod(purchase-3, recent-2)
+nsubj(broke-7, purchase-3)
+det(lens-6, the-4)
+nn(lens-6, nikon-5)
+dep(purchase-3, lens-6)
+root(ROOT-0, broke-7)
+det(tab-12, the-9)
+nn(tab-12, conector-10)
+nn(tab-12, plastic-11)
+prep_on(broke-7, tab-12)
+nsubj(conects-14, tab-12)
+rcmod(tab-12, conects-14)
+nn(body-17, camera-16)
+prep_to(conects-14, body-17)
+
+=========
+
+nsubj(careful-4, I-1)
+cop(careful-4, am-2)
+advmod(careful-4, very-3)
+root(ROOT-0, careful-4)
+poss(equipment-7, my-6)
+prep_with(careful-4, equipment-7)
+
+=========
+
+nsubj(mailed-2, I-1)
+root(ROOT-0, mailed-2)
+dobj(mailed-2, it-3)
+advmod(mailed-2, back-4)
+prep_to(mailed-2, Nikon-6)
+mark(old-14, as-7)
+cop(old-14, was-8)
+advmod(old-14, only-9)
+det(couple-11, a-10)
+pobj(only-9, couple-11)
+prep_of(only-9, months-13)
+advcl(mailed-2, old-14)
+
+=========
+
+nsubj(refuse-2, They-1)
+xsubj(cover-4, They-1)
+root(ROOT-0, refuse-2)
+aux(cover-4, to-3)
+xcomp(refuse-2, cover-4)
+dobj(cover-4, it-5)
+prep_under(cover-4, warrenty-7)
+
+=========
+
+nsubj(condition-4, It-1)
+cop(condition-4, is-2)
+amod(condition-4, new-3)
+root(ROOT-0, condition-4)
+advmod(used-6, barely-5)
+amod(condition-4, used-6)
+det(quality-13, the-8)
+amod(quality-13, plastic-9)
+nn(quality-13, conector-10)
+nn(quality-13, tab-11)
+amod(quality-13, poor-12)
+conj_and(condition-4, quality-13)
+prepc_compared_to(quality-13, to-15)
+poss(lenses-19, their-16)
+amod(lenses-19, old-17)
+nn(lenses-19, style-18)
+pobj(quality-13, lenses-19)
+
+=========
+
+nsubj(upset-4, I-1)
+cop(upset-4, am-2)
+advmod(upset-4, very-3)
+root(ROOT-0, upset-4)
+complm(honor-9, that-5)
+nsubj(honor-9, nikon-6)
+nsubj(mailed-15, nikon-6)
+nsubj(give-21, nikon-6)
+aux(honor-9, will-7)
+neg(honor-9, not-8)
+ccomp(upset-4, honor-9)
+poss(warrenty-11, their-10)
+dobj(honor-9, warrenty-11)
+aux(mailed-15, have-13)
+neg(mailed-15, not-14)
+ccomp(upset-4, mailed-15)
+conj_and(honor-9, mailed-15)
+prt(mailed-15, back-16)
+poss(lens-18, my-17)
+dobj(mailed-15, lens-18)
+aux(give-21, will-20)
+ccomp(upset-4, give-21)
+conj_and(honor-9, give-21)
+det(reason-23, no-22)
+dobj(give-21, reason-23)
+advmod(on-25, why-24)
+advcl(give-21, on-25)
+det(matter-27, any-26)
+pobj(on-25, matter-27)
+
+=========
+
+nn(quality-2, Nikon-1)
+nsubj(care-5, quality-2)
+conj_and(quality-2, customer-4)
+nsubj(care-5, customer-4)
+root(ROOT-0, care-5)
+det(zero-7, a-6)
+dobj(care-5, zero-7)
+
+=========
+
+nsubj(suprised-4, I-1)
+cop(suprised-4, am-2)
+advmod(suprised-4, very-3)
+root(ROOT-0, suprised-4)
+mark(customer-12, as-5)
+aux(customer-12, have-6)
+advmod(customer-12, always-7)
+cop(customer-12, been-8)
+det(customer-12, a-9)
+amod(customer-12, faithful-10)
+nn(customer-12, Nikon-11)
+ccomp(suprised-4, customer-12)
+

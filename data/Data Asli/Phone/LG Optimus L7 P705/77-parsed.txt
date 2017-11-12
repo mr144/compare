@@ -1,0 +1,22 @@
+=========
+
+det(smartphone-2, This-1)
+nsubj(better-6, smartphone-2)
+cop(better-6, is-3)
+det(lot-5, a-4)
+npadvmod(better-6, lot-5)
+root(ROOT-0, better-6)
+poss(ace-11, my-8)
+amod(ace-11, old-9)
+nn(ace-11, galaxy-10)
+prep_than(better-6, ace-11)
+amod(ace-11, plus-12)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(performance-5, an-3)
+amod(performance-5, amazing-4)
+dobj(has-2, performance-5)
+

@@ -1,0 +1,64 @@
+=========
+
+nsubj(say-5, I-1)
+advmod(say-5, simply-2)
+aux(say-5, can-3)
+neg(say-5, not-4)
+root(ROOT-0, say-5)
+advmod(good-7, enough-6)
+amod(things-8, good-7)
+dobj(say-5, things-8)
+det(TV-11, this-10)
+prep_about(say-5, TV-11)
+
+=========
+
+det(quality-2, The-1)
+nsubj(phenomenal-4, quality-2)
+cop(phenomenal-4, is-3)
+root(ROOT-0, phenomenal-4)
+num(works-7, 3D-6)
+npadvmod(great-8, works-7)
+amod(phenomenal-4, great-8)
+det(apps-12, the-10)
+nn(apps-12, wi-fi-11)
+nsubj(useful-15, apps-12)
+cop(useful-15, are-13)
+advmod(useful-15, very-14)
+rcmod(phenomenal-4, useful-15)
+det(sound-19, the-18)
+nsubj(is-20, sound-19)
+conj_and(phenomenal-4, is-20)
+det(world-24, this-23)
+prep_out_of(is-20, world-24)
+
+=========
+
+nsubj(worth-3, It-1)
+cop(worth-3, 's-2)
+root(ROOT-0, worth-3)
+det(money-6, the-4)
+amod(money-6, extra-5)
+dep(worth-3, money-6)
+det(TV-9, this-8)
+prep_for(money-6, TV-9)
+
+=========
+
+nsubj(disappointed-5, You-1)
+aux(disappointed-5, will-2)
+neg(disappointed-5, not-3)
+cop(disappointed-5, be-4)
+root(ROOT-0, disappointed-5)
+
+=========
+
+nsubj(buying-4, I-1)
+aux(buying-4, will-2)
+aux(buying-4, be-3)
+root(ROOT-0, buying-4)
+dobj(buying-4, Vizio-5)
+prep(Vizio-5, from-6)
+pobj(from-6, now-7)
+prep(buying-4, on-8)
+

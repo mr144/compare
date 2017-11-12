@@ -1,0 +1,58 @@
+=========
+
+det(phone-3, This-1)
+nn(phone-3, Windows-2)
+nsubj(Great-7, phone-3)
+prep_from(phone-3, Nokia-5)
+cop(Great-7, is-6)
+root(ROOT-0, Great-7)
+
+=========
+
+nsubj(&-5, Everything-1)
+cop(&-5, is-2)
+advmod(fast-4, so-3)
+advmod(&-5, fast-4)
+root(ROOT-0, &-5)
+partmod(&-5, organized-6)
+
+=========
+
+advmod(friendly-3, Very-1)
+advmod(friendly-3, User-2)
+root(ROOT-0, friendly-3)
+prep_for(friendly-3, beginners-5)
+
+=========
+
+nsubj(runs-2, Everything-1)
+root(ROOT-0, runs-2)
+advmod(runs-2, smoothly-3)
+cc(programs-7, &-4)
+det(programs-7, no-5)
+amod(programs-7, extra-6)
+dobj(runs-2, programs-7)
+amod(programs-7, needed-8)
+det(Computer-11, the-10)
+prep_for(programs-7, Computer-11)
+
+=========
+
+root(ROOT-0, Plug-1)
+conj_and(Plug-1, Play-3)
+
+=========
+
+nn(Nokia-2, Thanks-1)
+root(ROOT-0, Nokia-2)
+conj_and(Nokia-2, Windows-4)
+prepc_for(Nokia-2, joining-6)
+num(products-9, two-7)
+amod(products-9, Great-8)
+dobj(joining-6, products-9)
+advmod(joining-6, together-10)
+
+=========
+
+root(ROOT-0, Jon-1)
+

@@ -1,0 +1,28 @@
+=========
+
+advmod(happy-2, Very-1)
+ccomp(takes-9, happy-2)
+det(product-5, this-4)
+prep_with(happy-2, product-5)
+det(camera-8, the-7)
+nsubj(takes-9, camera-8)
+root(ROOT-0, takes-9)
+amod(clear-11, unbelievable-10)
+amod(pictures-12, clear-11)
+dobj(takes-9, pictures-12)
+
+=========
+
+nsubj(novice-3, We-1)
+cop(novice-3, are-2)
+root(ROOT-0, novice-3)
+det(camera-6, this-5)
+nsubj(makes-7, camera-6)
+conj_and(novice-3, makes-7)
+nsubj(easy-9, it-8)
+xcomp(makes-7, easy-9)
+aux(make-11, to-10)
+xcomp(easy-9, make-11)
+amod(pictures-13, professional-12)
+dobj(make-11, pictures-13)
+

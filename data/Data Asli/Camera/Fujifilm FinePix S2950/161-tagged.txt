@@ -1,0 +1,2 @@
+Only_RB drawback_NN is_VBZ using_VBG panaroma_NN -_: not_RB enough_JJ instructions_NNS on_IN framing_VBG the_DT picture_NN ._.
+Having_VBG a_DT viewfinder_NN in_IN addition_NN to_TO screen_NN display_NN is_VBZ a_DT terrific_JJ improvement_NN in_IN bright_JJ sunlight_NN ._.

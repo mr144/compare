@@ -1,0 +1,32 @@
+=========
+
+amod(shipping-2, Fast-1)
+root(ROOT-0, shipping-2)
+
+=========
+
+det(TV-2, The-1)
+nsubj(has-3, TV-2)
+root(ROOT-0, has-3)
+amod(images-5, great-4)
+dobj(has-3, images-5)
+amod(menus-10, easy-7)
+aux(use-9, to-8)
+xcomp(easy-7, use-9)
+dobj(has-3, menus-10)
+conj_and(images-5, menus-10)
+
+=========
+
+nsubj(enjoy-2, We-1)
+nsubj(great-12, We-1)
+root(ROOT-0, enjoy-2)
+dobj(enjoy-2, it-3)
+det(player-8, a-5)
+amod(player-8, bluray-6)
+nn(player-8, dvd-7)
+prep_with(enjoy-2, player-8)
+advmod(great-12, image\/sound-10)
+cop(great-12, are-11)
+conj_and(enjoy-2, great-12)
+

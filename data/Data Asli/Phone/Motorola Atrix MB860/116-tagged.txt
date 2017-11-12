@@ -1,0 +1,2 @@
+this_DT phone_NN is_VBZ a_DT little_JJ old_JJ now_RB but_CC it_PRP is_VBZ worth_JJ the_DT price_NN at_IN least_JJS for_IN the_DT specs_NNS ._.
+the_DT only_JJ bitter_JJ thing_NN about_IN it_PRP is_VBZ that_IN there_EX is_VBZ no_DT official_JJ ICS_NNP -LRB-_-LRB- Ice_NNP Cream_NNP Sandwich_NNP -RRB-_-RRB- or_CC JB_NNP -LRB-_-LRB- Jelly_NNP Bean_NNP -RRB-_-RRB- ,_, you_PRP will_MD be_VB stack_VB at_IN Gingerbread_NNP -LRB-_-LRB- 2.3.6_CD -RRB-_-RRB- ,_, but_CC you_PRP can_MD get_VB a_DT custom_NN ROM_NNP that_WDT will_MD void_VB your_PRP$ warranty_NN

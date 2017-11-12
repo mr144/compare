@@ -1,0 +1,32 @@
+=========
+
+advmod(good-2, Very-1)
+amod(product-4, good-2)
+det(product-4, the-3)
+nsubj(persons-11, product-4)
+nsubj(recommend-7, I-6)
+parataxis(persons-11, recommend-7)
+dobj(recommend-7, it-8)
+advmod(recommend-7, widely-9)
+root(ROOT-0, persons-11)
+prep_in(persons-11, charge-13)
+
+=========
+
+dep(good-2, All-1)
+root(ROOT-0, good-2)
+
+=========
+
+det(one-3, The-1)
+amod(one-3, cellular-2)
+nsubj(has-4, one-3)
+root(ROOT-0, has-4)
+dobj(has-4, everything-5)
+partmod(everything-5, indicated-6)
+
+=========
+
+advmod(good-2, very-1)
+root(ROOT-0, good-2)
+

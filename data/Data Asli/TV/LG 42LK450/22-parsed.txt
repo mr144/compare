@@ -1,0 +1,61 @@
+=========
+
+nsubj(superb-5, Color-1)
+conj_and(Color-1, clarity-3)
+nsubj(superb-5, clarity-3)
+cop(superb-5, are-4)
+root(ROOT-0, superb-5)
+
+=========
+
+det(drawback-3, The-1)
+amod(drawback-3, only-2)
+dobj(have-5, drawback-3)
+nsubj(is-6, drawback-3)
+nsubj(have-5, I-4)
+rcmod(drawback-3, have-5)
+root(ROOT-0, is-6)
+det(control-11, the-8)
+amod(control-11, automatic-9)
+nn(control-11, brightness-10)
+prep_with(is-6, control-11)
+
+=========
+
+nsubj(like-2, I-1)
+xsubj(watch-4, I-1)
+root(ROOT-0, like-2)
+aux(watch-4, to-3)
+xcomp(like-2, watch-4)
+dobj(watch-4, TV-5)
+det(lights-8, the-7)
+prep_with(watch-4, lights-8)
+prep(watch-4, out-9)
+dep(out-9, either-10)
+dep(either-10, low-11)
+dep(out-9, off-13)
+conj_or(either-10, off-13)
+det(screen-16, the-15)
+nsubj(gets-17, screen-16)
+conj_and(like-2, gets-17)
+dobj(gets-17, darker-18)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+nsubj(brighter-4, it-3)
+ccomp(like-2, brighter-4)
+
+=========
+
+prep_over(deal-7, all-2)
+advmod(all-2, though-3)
+det(great-6, a-5)
+nsubj(deal-7, great-6)
+root(ROOT-0, deal-7)
+det(TV-12, a-9)
+advmod(good-11, very-10)
+amod(TV-12, good-11)
+prep_on(deal-7, TV-12)
+

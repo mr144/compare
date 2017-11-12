@@ -1,0 +1,52 @@
+=========
+
+nsubj(smartphone-5, this-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, best-4)
+root(ROOT-0, smartphone-5)
+
+=========
+
+root(ROOT-0, Got-1)
+det(package-3, the-2)
+dobj(Got-1, package-3)
+nn(adapter-6, US-5)
+prep_with(Got-1, adapter-6)
+advmod(plug-in-11, so-7)
+dep(plug-in-11, that-8)
+nsubj(plug-in-11, you-9)
+aux(plug-in-11, can-10)
+advcl(Got-1, plug-in-11)
+advmod(plug-in-11, directly-12)
+
+=========
+
+nsubj(version-4, Mine-1)
+cop(version-4, is-2)
+amod(version-4, French-3)
+root(ROOT-0, version-4)
+tmod(turned-7, version-4)
+advmod(turned-7, when-5)
+nsubj(turned-7, I-6)
+dep(version-4, turned-7)
+det(phone-10, the-9)
+prep_on(turned-7, phone-10)
+nsubj(change-14, you-12)
+aux(change-14, can-13)
+conj_but(version-4, change-14)
+tmod(turned-7, change-14)
+poss(language-16, your-15)
+dobj(change-14, language-16)
+mark(push-19, after-17)
+nsubj(push-19, you-18)
+advcl(change-14, push-19)
+det(button-21, the-20)
+dobj(push-19, button-21)
+advmod(know-26, even-22)
+nsubj(know-26, I-23)
+aux(know-26, do-24)
+neg(know-26, not-25)
+dep(push-19, know-26)
+dobj(know-26, French-27)
+

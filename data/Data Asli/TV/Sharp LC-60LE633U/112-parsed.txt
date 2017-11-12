@@ -1,0 +1,419 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(TV-4, this-3)
+dobj(purchased-2, TV-4)
+poss(TV-8, Paul-6)
+prep_from(purchased-2, TV-8)
+prep_through(purchased-2, Amazon-10)
+advmod(month-13, earlier-11)
+det(month-13, this-12)
+tmod(purchased-2, month-13)
+
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+amod(TV-5, beautiful-4)
+root(ROOT-0, TV-5)
+
+=========
+
+nsubj(thin-5, It-1)
+cop(thin-5, is-2)
+advmod(thin-5, also-3)
+advmod(thin-5, incredibly-4)
+root(ROOT-0, thin-5)
+nsubj(great-9, which-7)
+cop(great-9, is-8)
+ccomp(thin-5, great-9)
+mark(mounted-13, for-10)
+det(wall-12, the-11)
+nsubj(mounted-13, wall-12)
+advcl(great-9, mounted-13)
+dobj(mounted-13, installation-14)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(pair-4, a-3)
+dobj(purchased-2, pair-4)
+nn(glasses-8, Sharp-6)
+num(glasses-8, 3D-7)
+prep_of(pair-4, glasses-8)
+prep_on(purchased-2, ebay-10)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(TV-4, the-3)
+dobj(have-2, TV-4)
+partmod(TV-4, hooked-5)
+prt(hooked-5, up-6)
+det(HTPC-9, a-8)
+prep_to(hooked-5, HTPC-9)
+det(card-14, a-11)
+nn(card-14, GT430-12)
+nn(card-14, video-13)
+prep_with(HTPC-9, card-14)
+
+=========
+
+nsubj(watched-2, I-1)
+root(ROOT-0, watched-2)
+amod(afterlife-6, Resident-4)
+amod(afterlife-6, evil-5)
+poss(Blu-ray-9, afterlife-6)
+num(Blu-ray-9, 3D-8)
+dobj(watched-2, Blu-ray-9)
+
+=========
+
+nsubj(breathtaking-3, It-1)
+cop(breathtaking-3, was-2)
+root(ROOT-0, breathtaking-3)
+
+=========
+
+nsubj(test-4, I-1)
+aux(test-4, did-2)
+neg(test-4, not-3)
+root(ROOT-0, test-4)
+det(tuner-8, the-5)
+nn(tuner-8, OTA-6)
+nn(tuner-8, HDTV-7)
+dobj(test-4, tuner-8)
+mark(have-13, as-9)
+nsubj(have-13, I-10)
+aux(have-13, do-11)
+neg(have-13, not-12)
+advcl(test-4, have-13)
+det(hookup-16, an-14)
+nn(hookup-16, antenna-15)
+dobj(have-13, hookup-16)
+det(room-19, the-18)
+prep_in(hookup-16, room-19)
+advmod(is-23, where-20)
+det(TV-22, the-21)
+nsubj(is-23, TV-22)
+advcl(have-13, is-23)
+det(moment-26, the-25)
+prep_at(is-23, moment-26)
+
+=========
+
+nsubj(tried-4, I-1)
+aux(tried-4, have-2)
+neg(tried-4, not-3)
+root(ROOT-0, tried-4)
+det(feature-7, the-5)
+nn(feature-7, DLNA-6)
+dobj(tried-4, feature-7)
+advmod(tried-4, either-8)
+
+=========
+
+root(ROOT-0, Pros-1)
+det(picture-4, The-3)
+nsubj(bright-7, picture-4)
+nsubj(amazing-10, picture-4)
+cop(bright-7, is-5)
+advmod(bright-7, very-6)
+dep(Pros-1, bright-7)
+advmod(amazing-10, just-9)
+dep(Pros-1, amazing-10)
+conj_and(bright-7, amazing-10)
+
+=========
+
+advmod(better-2, Much-1)
+root(ROOT-0, better-2)
+amod(manufacturers-5, other-4)
+prep_than(better-2, manufacturers-5)
+prep_like(better-2, Sony-7)
+prep_like(better-2, Vizio-9)
+conj_and(Sony-7, Vizio-9)
+
+=========
+
+nsubj(size-6, This-1)
+cop(size-6, is-2)
+det(size-6, a-3)
+advmod(nice-5, really-4)
+amod(size-6, nice-5)
+ccomp(smooth-19, size-6)
+det(roomWhen-10, a-8)
+amod(roomWhen-10, large-9)
+prep_for(size-6, roomWhen-10)
+partmod(roomWhen-10, watching-11)
+amod(sources-13, 1080p\/60Hz-12)
+dobj(watching-11, sources-13)
+det(picture-16, the-15)
+nsubj(smooth-19, picture-16)
+cop(smooth-19, is-17)
+advmod(smooth-19, incredibly-18)
+root(ROOT-0, smooth-19)
+
+=========
+
+det(rate-5, The-1)
+num(rate-5, 240-2)
+nn(rate-5, Hz-3)
+nn(rate-5, refresh-4)
+nsubj(amazing-8, rate-5)
+cop(amazing-8, is-6)
+advmod(amazing-8, absolutely-7)
+root(ROOT-0, amazing-8)
+
+=========
+
+nsubj(have-3, I-1)
+xsubj(watch-5, I-1)
+aux(have-3, may-2)
+root(ROOT-0, have-3)
+aux(watch-5, to-4)
+xcomp(have-3, watch-5)
+det(TV-7, this-6)
+nsubj(1\/4-15, TV-7)
+dep(1\/4-15, more-8)
+advmod(1\/4-15, even-9)
+dep(1\/4-15, though-10)
+det(screen-12, the-11)
+nsubj(1\/4-15, screen-12)
+cop(1\/4-15, is-13)
+advmod(1\/4-15, only-14)
+xcomp(watch-5, 1\/4-15)
+det(size-19, the-18)
+prep_of(1\/4-15, size-19)
+poss(screen-23, my-21)
+nn(screen-23, projection-22)
+prep_of(size-19, screen-23)
+
+=========
+
+det(wifi-2, The-1)
+nsubj(works-4, wifi-2)
+advmod(works-4, really-3)
+root(ROOT-0, works-4)
+advmod(works-4, well-5)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+nsubj(working-4, it-3)
+ccomp(have-2, working-4)
+prep_with(working-4, wireless-6)
+dobj(working-4, N-7)
+det(band-12, the-9)
+num(band-12, 5-10)
+nn(band-12, GHz-11)
+prep_on(N-7, band-12)
+partmod(band-12, connected-13)
+det(router-18, a-15)
+nn(router-18, Cisco-16)
+nn(router-18, E3000-17)
+prep_to(connected-13, router-18)
+prep_about(router-18, 50ft-20)
+advmod(connected-13, away-21)
+
+=========
+
+nsubj(stream-3, I-1)
+aux(stream-3, can-2)
+root(ROOT-0, stream-3)
+dobj(stream-3, movies\/previews-4)
+prep_from(movies\/previews-4, Vudu-6)
+det(quality-10, the-8)
+amod(quality-10, maximum-9)
+prep_at(stream-3, quality-10)
+num(Mbit\/s-14, 9-13)
+prep_over(stream-3, Mbit\/s-14)
+partmod(Mbit\/s-14, sustained-15)
+
+=========
+
+nsubj(little-4, This-1)
+aux(little-4, may-2)
+cop(little-4, seem-3)
+root(ROOT-0, little-4)
+prepc_compared_to(little-4, to-6)
+det(theoretical-10, the-7)
+num(theoretical-10, 300-8)
+nn(theoretical-10, Mbit\/s-9)
+pobj(little-4, theoretical-10)
+nn(N-13, wireless-12)
+prep_of(theoretical-10, N-13)
+nsubj(impressive-19, it-16)
+cop(impressive-19, is-17)
+advmod(impressive-19, actually-18)
+conj_but(little-4, impressive-19)
+complm(are-22, that-20)
+expl(are-22, there-21)
+ccomp(impressive-19, are-22)
+det(dropouts-24, no-23)
+nsubj(are-22, dropouts-24)
+
+=========
+
+det(price-2, The-1)
+nsubj(excellent-4, price-2)
+cop(excellent-4, was-3)
+root(ROOT-0, excellent-4)
+
+=========
+
+nsubj(same-4, It-1)
+cop(same-4, was-2)
+det(same-4, the-3)
+root(ROOT-0, same-4)
+nsubj(3D-14, same-4)
+det(model-8, the-6)
+num(model-8, 832-7)
+prep_as(same-4, model-8)
+prep_at(model-8, Costco-10)
+cop(3D-14, is-12)
+neg(3D-14, not-13)
+rcmod(same-4, 3D-14)
+
+=========
+
+nsubj(see-2, I-1)
+root(ROOT-0, see-2)
+complm(gone-7, that-3)
+nsubj(gone-7, it-4)
+aux(gone-7, has-5)
+advmod(gone-7, now-6)
+ccomp(see-2, gone-7)
+prt(gone-7, up-8)
+quantmod($-11, over-10)
+prep_by(gone-7, $-11)
+number($-11, 500-12)
+mark(purchased-15, since-13)
+nsubj(purchased-15, I-14)
+advcl(gone-7, purchased-15)
+dobj(purchased-15, it-16)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(lot-4, a-3)
+dobj(has-2, lot-4)
+prep_of(lot-4, inputs-6)
+num(HDMI-9, 4-8)
+dep(lot-4, HDMI-9)
+num(component-12, 1-11)
+appos(HDMI-9, component-12)
+num(VGACons-15, 1-14)
+appos(HDMI-9, VGACons-15)
+num(picture-18, :3-16)
+nn(picture-18, D-17)
+nsubj(dimmer-20, picture-18)
+cop(dimmer-20, is-19)
+rcmod(VGACons-15, dimmer-20)
+prep_than(dimmer-20, 2D-22)
+
+=========
+
+cc(watch-5, And-1)
+nsubj(watch-5, you-2)
+aux(watch-5, can-3)
+neg(watch-5, not-4)
+ccomp(dims-17, watch-5)
+det(picture-7, the-6)
+dobj(watch-5, picture-7)
+partmod(picture-7, lying-8)
+prt(lying-8, down-9)
+det(glasses-13, the-11)
+num(glasses-13, 3D-12)
+prep_with(lying-8, glasses-13)
+det(polarization-16, the-15)
+nsubj(dims-17, polarization-16)
+root(ROOT-0, dims-17)
+det(picture-19, the-18)
+dobj(dims-17, picture-19)
+advmod(much-21, too-20)
+advmod(dims-17, much-21)
+
+=========
+
+det(sound-3, The-1)
+amod(sound-3, built-in-2)
+nsubj(weak-5, sound-3)
+cop(weak-5, is-4)
+root(ROOT-0, weak-5)
+
+=========
+
+cc(expected-4, But-1)
+nsubjpass(expected-4, that-2)
+auxpass(expected-4, 's-3)
+root(ROOT-0, expected-4)
+det(TVs-7, all-6)
+prep_on(expected-4, TVs-7)
+
+=========
+
+nsubj(have-3, You-1)
+xsubj(pair-5, You-1)
+advmod(have-3, just-2)
+root(ROOT-0, have-3)
+aux(pair-5, to-4)
+xcomp(have-3, pair-5)
+det(TV-7, the-6)
+dobj(pair-5, TV-7)
+det(system-12, a-9)
+amod(system-12, separate-10)
+amod(system-12, audio-11)
+prep_with(pair-5, system-12)
+
+=========
+
+nsubj(get-4, I-1)
+aux(get-4, could-2)
+neg(get-4, not-3)
+root(ROOT-0, get-4)
+det(feature-10, the-5)
+nn(feature-10, HDMI-6)
+nn(feature-10, Audio-7)
+nn(feature-10, Return-8)
+nn(feature-10, Channel-9)
+nsubj(work-12, feature-10)
+aux(work-12, to-11)
+xcomp(get-4, work-12)
+det(HTIB-17, the-14)
+nn(HTIB-17, Onkyo-15)
+nn(HTIB-17, HT-S5300-16)
+prep_with(work-12, HTIB-17)
+
+=========
+
+nsubj(due-4, It-1)
+aux(due-4, could-2)
+cop(due-4, be-3)
+root(ROOT-0, due-4)
+det(receiver-7, the-6)
+prep_to(due-4, receiver-7)
+neg(TV-11, not-9)
+det(TV-11, the-10)
+prep_to(due-4, TV-11)
+conj_and(receiver-7, TV-11)
+mark(says-17, though-13)
+det(manual-16, the-14)
+nn(manual-16, TV-15)
+nsubj(says-17, manual-16)
+advcl(due-4, says-17)
+det(feature-19, this-18)
+nsubj(works-21, feature-19)
+advmod(works-21, only-20)
+ccomp(says-17, works-21)
+amod(equipment-26, other-23)
+nn(equipment-26, Sharp-24)
+nn(equipment-26, Aquoslink-25)
+prep_with(works-21, equipment-26)
+

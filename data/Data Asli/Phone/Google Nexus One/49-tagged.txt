@@ -1,0 +1,4 @@
+The_DT machine_NN has_VBZ not_RB failed_VBN me_PRP and_CC by_IN the_DT way_NN things_NNS are_VBP looking_VBG ,_, I_PRP do_VBP not_RB think_VB it_PRP will_MD ._.
+It_PRP works_VBZ like_IN its_PRP$ supposed_JJ ._.
+I_PRP found_VBD everything_NN on_IN it_PRP intact_JJ ._.
+I_PRP am_VBP satisfied_JJ ._.

@@ -1,0 +1,293 @@
+=========
+
+nsubj(came-2, I-1)
+root(ROOT-0, came-2)
+prep_from(came-2, Nikon-4)
+nsubj(offer-8, Nikon-4)
+aux(offer-8, does-7)
+rcmod(Nikon-4, offer-8)
+amod(products-10, great-9)
+dobj(offer-8, products-10)
+
+=========
+
+nsubj(evangelist-9, I-1)
+cop(evangelist-9, am-2)
+advmod(evangelist-9, now-3)
+advmod(evangelist-9, however-4)
+det(evangelist-9, a-6)
+amod(evangelist-9, full-fledged-7)
+amod(evangelist-9, Pentax-8)
+root(ROOT-0, evangelist-9)
+
+=========
+
+nsubj(say-4, I-1)
+aux(say-4, can-2)
+neg(say-4, not-3)
+root(ROOT-0, say-4)
+dobj(say-4, enough-5)
+poss(products-8, their-7)
+prep_about(say-4, products-8)
+
+=========
+
+nsubj(own-3, I-1)
+advmod(own-3, now-2)
+root(ROOT-0, own-3)
+det(K20D-5, a-4)
+dobj(own-3, K20D-5)
+num(lenses-8, two-7)
+dobj(own-3, lenses-8)
+conj_and(K20D-5, lenses-8)
+det(DA-11, the-10)
+dep(K20D-5, DA-11)
+dep(f\/2-14, \*-12)
+num(f\/2-14, 16-50-13)
+dep(.8-15, f\/2-14)
+dep(K20D-5, .8-15)
+det(DA-18, the-17)
+dep(K20D-5, DA-18)
+conj_and(.8-15, DA-18)
+dep(50-135-20, \*-19)
+dep(.8-22, 50-135-20)
+num(.8-22, f\/2-21)
+dep(own-3, .8-22)
+
+=========
+
+det(combination-2, The-1)
+nsubj(offers-10, combination-2)
+det(lenses-6, these-4)
+num(lenses-6, two-5)
+prep_of(combination-2, lenses-6)
+det(K20D-9, the-8)
+prep_of(combination-2, K20D-9)
+conj_and(lenses-6, K20D-9)
+root(ROOT-0, offers-10)
+dobj(offers-10, some-11)
+det(quality-16, the-13)
+amod(quality-16, best-14)
+amod(quality-16, semi-pro-15)
+prep_of(some-11, quality-16)
+amod(quality-16, available-17)
+det(money-20, the-19)
+prep_for(available-17, money-20)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+num(features-5, 4-3)
+amod(features-5, main-4)
+nsubj(are-2, features-5)
+nsubj(made-7, features-5)
+rcmod(features-5, made-7)
+nsubj(buy-9, me-8)
+ccomp(made-7, buy-9)
+det(Price-14, this-10)
+nn(Price-14, camera-11)
+nn(Price-14, :1-12)
+dep(buy-9, Price-14)
+
+=========
+
+npadvmod(down-2, Hands-1)
+advmod(is-5, down-2)
+nsubj(is-5, it-4)
+root(ROOT-0, is-5)
+poss(opinion-8, my-7)
+prep_in(is-5, opinion-8)
+det(value-12, the-10)
+amod(value-12, most-11)
+appos(opinion-8, value-12)
+poss(Weather-18, your-14)
+nn(Weather-18, money-15)
+nn(Weather-18, .2-16)
+prep_for(value-12, Weather-18)
+partmod(Weather-18, proofing-19)
+
+=========
+
+num(seals-4, 72-1)
+nn(seals-4, weather-2)
+nn(seals-4, proofing-3)
+nsubj(make-16, seals-4)
+det(body-8, the-6)
+nn(body-8, camera-7)
+prep_on(seals-4, body-8)
+conj_and(seals-4, coatings-10)
+nsubj(make-16, coatings-10)
+poss(lenses-15, their-12)
+nn(lenses-15, DA-13)
+nn(lenses-15, series-14)
+prep_on(coatings-10, lenses-15)
+root(ROOT-0, make-16)
+det(panel-26, this-17)
+nn(panel-26, camera-18)
+amod(panel-26, ideal-19)
+nn(LCD-25, travel-21)
+nn(LCD-25, .3-22)
+nn(LCD-25, Top-side-24)
+prep_for(ideal-19, LCD-25)
+dobj(make-16, panel-26)
+
+=========
+
+nsubj(feature-5, This-1)
+cop(feature-5, is-2)
+det(feature-5, a-3)
+amod(feature-5, must-have-4)
+root(ROOT-0, feature-5)
+dep(feature-5, anyone-7)
+amod(anyone-7, serious-8)
+prep_about(anyone-7, photography-10)
+num(photography-10, .4-11)
+nn(dials-16, Front-13)
+conj_and(Front-13, Rear-15)
+nn(dials-16, Rear-15)
+prep_for(feature-5, dials-16)
+
+=========
+
+nsubj(allows-2, This-1)
+nsubj(customizable-12, This-1)
+root(ROOT-0, allows-2)
+amod(modifications-5, quick-4)
+prep_for(allows-2, modifications-5)
+amod(settings-9, various-7)
+nn(settings-9, camera-8)
+prep_of(modifications-5, settings-9)
+cop(customizable-12, are-11)
+conj_and(allows-2, customizable-12)
+det(mode-16, each-14)
+nn(mode-16, exposure-15)
+prep_for(customizable-12, mode-16)
+
+=========
+
+nn(quality-3, image-2)
+prep_regarding(important-9, quality-3)
+det(camera-6, the-5)
+nsubj(important-9, camera-6)
+cop(important-9, is-7)
+advmod(important-9, somewhat-8)
+root(ROOT-0, important-9)
+mark(dealing-14, as-10)
+nsubj(dealing-14, we-11)
+aux(dealing-14, are-12)
+advmod(dealing-14, now-13)
+advcl(important-9, dealing-14)
+prep_with(dealing-14, sensors-16)
+prep_instead_of(sensors-16, film-19)
+det(glass-23, the-22)
+nsubj(are-27, glass-23)
+appos(glass-23, lenses-25)
+conj_but(important-9, are-27)
+det(doubt-30, a-29)
+prep_without(are-27, doubt-30)
+det(element-34, the-31)
+advmod(important-33, most-32)
+amod(element-34, important-33)
+dep(doubt-30, element-34)
+det(equation-37, the-36)
+prep_of(element-34, equation-37)
+
+=========
+
+advmod(consider-9, So-1)
+nsubj(said-4, that-3)
+parataxis(consider-9, said-4)
+nsubj(consider-9, you-6)
+aux(consider-9, should-7)
+advmod(consider-9, seriously-8)
+root(ROOT-0, consider-9)
+xcomp(consider-9, replacing-10)
+det(lens-13, the-11)
+nn(lens-13, kit-12)
+dobj(replacing-10, lens-13)
+det(DA-16, a-15)
+prep_with(lens-13, DA-16)
+dep(lens-13, \*-17)
+amod(lens-21, Limited-19)
+nn(lens-21, series-20)
+dobj(replacing-10, lens-21)
+conj_or(lens-13, lens-21)
+advmod(soon-23, as-22)
+advmod(replacing-10, soon-23)
+prep_as(soon-23, possible-25)
+
+=========
+
+det(lens-3, The-1)
+nn(lens-3, kit-2)
+nsubj(good-6, lens-3)
+cop(good-6, is-4)
+advmod(good-6, very-5)
+root(ROOT-0, good-6)
+dep(good-6, compared-8)
+advmod(compared-8, especially-9)
+pcomp(compared-8, to-10)
+nn(lenses-13, competitor-11)
+nn(lenses-13, kit-12)
+prep_to(compared-8, lenses-13)
+
+=========
+
+advmod(phenomenal-8, However-1)
+det(lenses-6, the-3)
+nn(lenses-6, DA-4)
+nn(lenses-6, \*-5)
+nsubj(phenomenal-8, lenses-6)
+cop(phenomenal-8, are-7)
+root(ROOT-0, phenomenal-8)
+
+=========
+
+root(ROOT-0, Regarding-1)
+dobj(Regarding-1, comfort-2)
+det(camera-5, the-4)
+nsubj(comfortable-8, camera-5)
+xsubj(hold-10, camera-5)
+cop(comfortable-8, is-6)
+advmod(comfortable-8, very-7)
+parataxis(Regarding-1, comfortable-8)
+aux(hold-10, to-9)
+xcomp(comfortable-8, hold-10)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+dobj(have-2, trouble-3)
+partmod(trouble-3, putting-4)
+dobj(putting-4, it-5)
+prt(putting-4, down-6)
+
+=========
+
+nsubj(goes-3, It-1)
+advmod(goes-3, literally-2)
+root(ROOT-0, goes-3)
+advmod(goes-3, everywhere-4)
+prep_with(goes-3, me-6)
+
+=========
+
+root(ROOT-0, Buy-1)
+dobj(Buy-1, it-2)
+
+=========
+
+aux(hesitate-3, Do-1)
+neg(hesitate-3, not-2)
+root(ROOT-0, hesitate-3)
+
+=========
+
+nsubj(regret-4, You-1)
+aux(regret-4, will-2)
+neg(regret-4, not-3)
+root(ROOT-0, regret-4)
+dobj(regret-4, it-5)
+

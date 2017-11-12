@@ -1,0 +1,4 @@
+The_DT phone_NN is_VBZ in_IN perfect_JJ condition_NN ,_, works_VBZ very_RB well_RB for_IN the_DT company_NN Movistar_NNP Venezuela_NNP ._.
+All_DT functions_NNS are_VBP working_VBG well_RB ._.
+The_DT only_JJ problem_NN I_PRP have_VBP seen_VBN is_VBZ the_DT battery_NN as_IN it_PRP discharges_VBZ very_RB fast_RB even_RB when_WRB not_RB in_IN use_NN by_IN any_DT application_NN ._.
+For_IN the_DT rest_NN ,_, I_PRP am_VBP very_RB fascinated_VBN with_IN the_DT cell_NN

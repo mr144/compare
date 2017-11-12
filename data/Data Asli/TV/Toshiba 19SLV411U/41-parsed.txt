@@ -1,0 +1,71 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(trouble-4, no-3)
+dobj(had-2, trouble-4)
+partmod(trouble-4, setting-5)
+dobj(setting-5, this-6)
+prt(setting-5, up-7)
+nsubj(woman-16, I-10)
+cop(woman-16, am-11)
+det(woman-16, a-12)
+number(old-15, 54-13)
+dep(old-15, year-14)
+amod(woman-16, old-15)
+conj_and(had-2, woman-16)
+det(expertise-19, no-18)
+prep_with(woman-16, expertise-19)
+prep_in(expertise-19, electronics-21)
+
+=========
+
+nsubj(have-3, I-2)
+root(ROOT-0, have-3)
+det(DTV-5, a-4)
+dobj(have-3, DTV-5)
+prep_with(DTV-5, antennae-7)
+
+=========
+
+nsubj(logical-5, It-1)
+cop(logical-5, 's-2)
+advmod(logical-5, actually-3)
+advmod(logical-5, pretty-4)
+root(ROOT-0, logical-5)
+
+=========
+
+nsubj(help-3, It-1)
+xsubj(read-5, It-1)
+aux(help-3, does-2)
+root(ROOT-0, help-3)
+aux(read-5, to-4)
+xcomp(help-3, read-5)
+det(guys-8, the-6)
+nn(guys-8, directions-7)
+dobj(read-5, guys-8)
+
+=========
+
+root(ROOT-0, Including-1)
+det(one-3, the-2)
+pobj(Including-1, one-3)
+det(TV-6, the-5)
+prep_for(one-3, TV-6)
+advmod(TV-6, itself-7)
+
+=========
+
+nsubj(working-3, It-1)
+nsubj(was-7, It-1)
+aux(working-3, is-2)
+root(ROOT-0, working-3)
+advmod(well-5, very-4)
+advmod(working-3, well-5)
+conj_and(working-3, was-7)
+advmod(was-7, just-8)
+dobj(needed-11, what-9)
+nsubj(needed-11, I-10)
+dep(just-8, needed-11)
+

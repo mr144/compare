@@ -1,0 +1,31 @@
+=========
+
+nn(recib&iacute;-4, El-1)
+nn(recib&iacute;-4, producto-2)
+nn(recib&iacute;-4, lo-3)
+nsubj(y-9, recib&iacute;-4)
+nn(condiciones-8, muy-6)
+nn(condiciones-8, buenas-7)
+prep_en(recib&iacute;-4, condiciones-8)
+root(ROOT-0, y-9)
+nsubj(parece-11, me-10)
+ccomp(y-9, parece-11)
+nn(bueno-13, muy-12)
+dobj(parece-11, bueno-13)
+
+=========
+
+nn(UN40ES6100-6, se-1)
+nn(UN40ES6100-6, recominda-2)
+nn(UN40ES6100-6, el-3)
+nn(UN40ES6100-6, articulo-4)
+nn(UN40ES6100-6, Samsung-5)
+root(ROOT-0, UN40ES6100-6)
+amod(120Hz-9, 40-Inch-7)
+amod(120Hz-9, 1080p-8)
+dep(UN40ES6100-6, 120Hz-9)
+nn(HDTV-12, Slim-10)
+nn(HDTV-12, LED-11)
+dep(120Hz-9, HDTV-12)
+appos(HDTV-12, Black-14)
+

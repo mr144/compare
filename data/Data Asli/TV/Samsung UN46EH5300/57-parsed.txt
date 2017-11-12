@@ -1,0 +1,88 @@
+=========
+
+nsubj(selected-3, I-1)
+advmod(selected-3, specifically-2)
+root(ROOT-0, selected-3)
+det(model-6, this-4)
+nn(model-6, Samsung-5)
+dobj(selected-3, model-6)
+det(TV-10, a-8)
+nn(TV-10, bedroom-9)
+prep_for(selected-3, TV-10)
+mark(has-13, because-11)
+nsubj(has-13, it-12)
+advcl(selected-3, has-13)
+det(feature-18, the-14)
+amod(feature-18, Wi-Fi-15)
+amod(feature-18, smart-16)
+nn(feature-18, TV-17)
+dobj(has-13, feature-18)
+
+=========
+
+det(cost-2, The-1)
+nsubj(more-6, cost-2)
+cop(more-6, was-3)
+det(bit-5, a-4)
+npadvmod(more-6, bit-5)
+root(ROOT-0, more-6)
+det(feature-11, an-9)
+amod(feature-11, excellent-10)
+conj_but(more-6, feature-11)
+prepc_for(feature-11, doing-13)
+advmod(doing-13, so-14)
+
+=========
+
+det(setup-2, The-1)
+nsubj(easy-5, setup-2)
+cop(easy-5, was-3)
+advmod(easy-5, relatively-4)
+root(ROOT-0, easy-5)
+det(quality-8, the-7)
+dep(good-10, quality-8)
+advmod(good-10, quite-9)
+ccomp(easy-5, good-10)
+
+=========
+
+det(TV-4, a-2)
+amod(TV-4, second-3)
+prep_as(get-8, TV-4)
+nsubj(get-8, it-5)
+aux(get-8, does-6)
+neg(get-8, not-7)
+root(ROOT-0, get-8)
+amod(use-10, much-9)
+dobj(get-8, use-10)
+det(month-14, a-13)
+tmod(delighted-19, month-14)
+advmod(month-14, later-15)
+nsubj(delighted-19, I-16)
+cop(delighted-19, am-17)
+advmod(delighted-19, still-18)
+conj_but(get-8, delighted-19)
+
+=========
+
+nsubj(buy-3, I-1)
+nsubj(pleased-10, I-1)
+advmod(buy-3, usually-2)
+root(ROOT-0, buy-3)
+nn(products-5, Sony-4)
+dobj(buy-3, products-5)
+cop(pleased-10, am-8)
+advmod(pleased-10, very-9)
+conj_but(buy-3, pleased-10)
+det(unit-14, this-12)
+nn(unit-14, Samsung-13)
+prep_with(pleased-10, unit-14)
+
+=========
+
+nsubj(had-2, Sony-1)
+root(ROOT-0, had-2)
+det(model-5, no-3)
+amod(model-5, comparable-4)
+dobj(had-2, model-5)
+

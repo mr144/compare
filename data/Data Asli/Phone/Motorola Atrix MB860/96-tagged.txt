@@ -1,0 +1,1 @@
+defective_JJ product_NN in_IN the_DT product_NN description_NN said_VBD it_PRP was_VBD new_JJ and_CC I_PRP was_VBD sent_VBN a_DT used_JJ product_NN and_CC operational_JJ problems_NNS ._.

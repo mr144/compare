@@ -1,0 +1,68 @@
+=========
+
+det(item-2, This-1)
+nsubjpass(rated-4, item-2)
+auxpass(rated-4, was-3)
+root(ROOT-0, rated-4)
+dobj(rated-4, &#34;-5)
+prep_like(rated-4, New-7)
+num(New-7, &#34;-8)
+
+=========
+
+nsubj(arrived-2, It-1)
+nsubj(missing-9, It-1)
+root(ROOT-0, arrived-2)
+prep_with(arrived-2, caked-4)
+prep_on(arrived-2, dirt-6)
+aux(missing-9, was-8)
+conj_and(arrived-2, missing-9)
+preconj(battery-12, both-10)
+det(battery-12, the-11)
+dobj(missing-9, battery-12)
+dobj(missing-9, charger-14)
+conj_and(battery-12, charger-14)
+
+=========
+
+dep(not-2, Was-1)
+root(ROOT-0, not-2)
+dep(not-2, worth-3)
+det(price-6, the-4)
+amod(price-6, discounted-5)
+pobj(worth-3, price-6)
+
+=========
+
+mark(hunted-3, Once-1)
+nsubj(hunted-3, we-2)
+advcl(ended-10, hunted-3)
+prt(hunted-3, down-4)
+det(charger-6, the-5)
+dobj(hunted-3, charger-6)
+dobj(hunted-3, battery-8)
+conj_and(charger-6, battery-8)
+nsubj(ended-10, we-9)
+root(ROOT-0, ended-10)
+prt(ended-10, up-11)
+xcomp(ended-10, spending-12)
+advmod(than-14, more-13)
+advmod(spending-12, than-14)
+mark(bought-19, if-15)
+nsubj(bought-19, we-16)
+aux(bought-19, would-17)
+aux(bought-19, have-18)
+advcl(spending-12, bought-19)
+acomp(bought-19, new-20)
+amod(retailers-23, other-22)
+prep_from(bought-19, retailers-23)
+advcl(spending-12, even-25)
+advmod(bought-19, even-25)
+conj_or(bought-19, even-25)
+prep_from(ended-10, Amazon-27)
+
+=========
+
+advmod(disappointed-2, Extremely-1)
+root(ROOT-0, disappointed-2)
+

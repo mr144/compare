@@ -1,0 +1,55 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(phone-4, this-3)
+dobj(love-2, phone-4)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+dobj(have-2, it-3)
+mwe(than-6, more-5)
+quantmod(a-7, than-6)
+prep_for(have-2, a-7)
+tmod(have-2, month-8)
+
+=========
+
+nsubj(enjoy-3, I-1)
+advmod(enjoy-3, really-2)
+root(ROOT-0, enjoy-3)
+dobj(enjoy-3, it-4)
+
+=========
+
+nsubj(does-2, It-1)
+root(ROOT-0, does-2)
+predet(things-5, all-3)
+det(things-5, the-4)
+dobj(does-2, things-5)
+dobj(expect-7, things-5)
+nsubj(expect-7, I-6)
+rcmod(things-5, expect-7)
+nsubj(do-10, it-8)
+aux(do-10, to-9)
+xcomp(expect-7, do-10)
+
+=========
+
+mark(phone-7, Since-1)
+nsubj(phone-7, this-2)
+cop(phone-7, is-3)
+poss(phone-7, my-4)
+amod(phone-7, first-5)
+amod(phone-7, smart-6)
+advcl(have-12, phone-7)
+nsubj(have-12, I-9)
+aux(have-12, do-10)
+neg(have-12, not-11)
+root(ROOT-0, have-12)
+det(comparison-15, any-13)
+amod(comparison-15, good-14)
+dobj(have-12, comparison-15)
+

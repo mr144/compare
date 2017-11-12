@@ -1,0 +1,111 @@
+=========
+
+nsubj(work-6, HDMI-1)
+advmod(work-6, all-2)
+pobj(all-2, 3-3)
+aux(work-6, do-4)
+neg(work-6, not-5)
+root(ROOT-0, work-6)
+num(months-9, 8-8)
+prep_after(work-6, months-9)
+prep_of(months-9, use-11)
+
+=========
+
+nsubj(worked-2, Otherwise-1)
+root(ROOT-0, worked-2)
+advmod(far-5, well-3)
+advmod(far-5, so-4)
+advmod(worked-2, far-5)
+
+=========
+
+cc(monitor-9, But-1)
+mark(use-4, since-2)
+nsubj(use-4, I-3)
+csubj(monitor-9, use-4)
+dobj(use-4, it-5)
+det(computer-8, a-7)
+prep_as(use-4, computer-8)
+root(ROOT-0, monitor-9)
+nsubj(deal-13, it-10)
+cop(deal-13, is-11)
+amod(deal-13, huge-12)
+ccomp(monitor-9, deal-13)
+prep_to(deal-13, me-15)
+
+=========
+
+nsubj(post-3, I-1)
+aux(post-3, 'll-2)
+root(ROOT-0, post-3)
+advmod(goes-7, how-4)
+det(warranty-6, the-5)
+nsubj(goes-7, warranty-6)
+ccomp(post-3, goes-7)
+
+=========
+
+nsubj(see-2, I-1)
+root(ROOT-0, see-2)
+det(price-4, the-3)
+nsubj(dropped-5, price-4)
+ccomp(see-2, dropped-5)
+num(%-7, 20-6)
+dobj(dropped-5, %-7)
+advmod(week-10, since-8)
+amod(week-10, last-9)
+tmod(dropped-5, week-10)
+advmod(thinking-15, so-11)
+dep(thinking-15, if-12)
+nsubj(thinking-15, you-13)
+aux(thinking-15, are-14)
+dep(dropped-5, thinking-15)
+prepc_of(thinking-15, getting-17)
+dobj(getting-17, it-18)
+
+=========
+
+nsubj(recommend-3, I-1)
+nsubj(deal-14, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, pay-4)
+npadvmod(more-6, 50-100-5)
+advmod(recommend-3, more-6)
+det(name-10, a-8)
+nn(name-10, brand-9)
+prep_for(recommend-3, name-10)
+aux(deal-14, do-12)
+neg(deal-14, not-13)
+conj_and(recommend-3, deal-14)
+det(controls-20, this-16)
+nn(controls-20, BC-17)
+amod(controls-20, bad-18)
+nn(controls-20, quality-19)
+prep_with(deal-14, controls-20)
+
+=========
+
+mark(fix-3, If-1)
+nsubj(fix-3, they-2)
+root(ROOT-0, fix-3)
+mark(give-10, if-4)
+amod(I-8, fast-5)
+conj_and(fast-5, easy-7)
+amod(I-8, easy-7)
+nsubj(give-10, I-8)
+aux(give-10, 'll-9)
+dep(fix-3, give-10)
+iobj(give-10, them-11)
+num(stars-13, 3-12)
+dobj(give-10, stars-13)
+mark(do-21, for-15)
+advmod(do-21, now-16)
+nsubj(do-21, 1-17)
+dep(i-19, best-18)
+amod(1-17, i-19)
+aux(do-21, can-20)
+dep(fix-3, do-21)
+conj_but(give-10, do-21)
+

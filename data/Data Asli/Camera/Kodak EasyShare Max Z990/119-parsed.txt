@@ -1,0 +1,63 @@
+=========
+
+nsubj(Camera-4, This-1)
+cop(Camera-4, is-2)
+amod(Camera-4, great-3)
+root(ROOT-0, Camera-4)
+
+=========
+
+advmod(easy-2, So-1)
+root(ROOT-0, easy-2)
+aux(use-4, to-3)
+dep(easy-2, use-4)
+
+=========
+
+amod(settings-2, Manual-1)
+nsubj(next-10, settings-2)
+amod(settings-2, like-3)
+prep_on(like-3, DSLR-5)
+advmod(important-8, most-7)
+amod(settings-2, important-8)
+conj_but(like-3, important-8)
+cop(next-10, is-9)
+root(ROOT-0, next-10)
+amod(photos-13, great-12)
+dep(next-10, photos-13)
+amod(colors-16, true-15)
+dep(next-10, colors-16)
+conj_and(photos-13, colors-16)
+dep(next-10, lights-18)
+conj_and(photos-13, lights-18)
+
+=========
+
+nsubj(hide-4, Eos-1)
+num(Eos-1, 600D-2)
+aux(hide-4, can-3)
+root(ROOT-0, hide-4)
+nsubj(compering-7, it-5)
+dep(compering-7, self-6)
+xcomp(hide-4, compering-7)
+det(camera-10, this-9)
+prep_with(compering-7, camera-10)
+
+=========
+
+nsubj(great-5, LCD-1)
+cop(great-5, is-2)
+neg(great-5, not-3)
+advmod(great-5, so-4)
+root(ROOT-0, great-5)
+cc(forget-9, but-6)
+nsubj(forget-9, you-7)
+aux(forget-9, will-8)
+ccomp(great-5, forget-9)
+dobj(forget-9, everythin-10)
+advmod(see-13, when-11)
+nsubj(see-13, you-12)
+advcl(forget-9, see-13)
+poss(pictures-15, your-14)
+dobj(see-13, pictures-15)
+

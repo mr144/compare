@@ -1,0 +1,39 @@
+=========
+
+amod(product-2, Great-1)
+root(ROOT-0, product-2)
+
+=========
+
+det(product-2, The-1)
+nsubj(came-3, product-2)
+root(ROOT-0, came-3)
+mark(described-5, as-4)
+advcl(came-3, described-5)
+det(details-9, the-7)
+nn(details-9, product-8)
+prep_in(described-5, details-9)
+auxpass(packaged-12, was-11)
+advcl(came-3, packaged-12)
+conj_and(described-5, packaged-12)
+advmod(packaged-12, securely-13)
+
+=========
+
+nsubj(experienced-4, I-1)
+aux(experienced-4, have-2)
+neg(experienced-4, not-3)
+root(ROOT-0, experienced-4)
+det(problems-6, any-5)
+dobj(experienced-4, problems-6)
+prep_since(experienced-4, purchase-8)
+
+=========
+
+aux(recommend-2, Would-1)
+root(ROOT-0, recommend-2)
+det(buyer-7, any-4)
+amod(buyer-7, other-5)
+amod(buyer-7, interested-6)
+prep_to(recommend-2, buyer-7)
+

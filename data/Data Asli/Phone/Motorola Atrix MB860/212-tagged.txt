@@ -1,0 +1,1 @@
+This_DT Cell_NNP Phone_NNP is_VBZ excellent_JJ ,_, the_DT performance_NN is_VBZ excellent_JJ ,_, the_DT design_NN is_VBZ cool_JJ and_CC now_RB it_PRP can_MD upgrade_VB to_TO Android_NNP 2.3.4_CD ._.

@@ -1,0 +1,197 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(tv-7, the-3)
+num(tv-7, 42-4)
+nn(tv-7, inch-5)
+nn(tv-7, LG-6)
+dobj(bought-2, tv-7)
+
+=========
+
+nsubj(owned-4, I-1)
+aux(owned-4, had-2)
+advmod(owned-4, previously-3)
+root(ROOT-0, owned-4)
+det(Samsung-8, a-5)
+num(Samsung-8, 32-6)
+nn(Samsung-8, inch-7)
+dobj(owned-4, Samsung-8)
+advmod(ended-14, unfortunately-11)
+det(TV-13, the-12)
+nsubj(ended-14, TV-13)
+conj_but(owned-4, ended-14)
+prt(ended-14, up-15)
+auxpass(given-17, being-16)
+xcomp(ended-14, given-17)
+prep_to(given-17, someone-19)
+advmod(someone-19, else-20)
+
+=========
+
+nsubj(figured-2, I-1)
+root(ROOT-0, figured-2)
+nsubj(brand-7, LG-3)
+cop(brand-7, is-4)
+det(brand-7, a-5)
+amod(brand-7, known-6)
+ccomp(figured-2, brand-7)
+nsubj(deal-20, $-10)
+num($-10, 500-11)
+det(1080p-16, a-13)
+num(1080p-16, 42-14)
+nn(1080p-16, inch-15)
+prep_for($-10, 1080p-16)
+cop(deal-20, was-17)
+det(deal-20, a-18)
+amod(deal-20, good-19)
+conj_and(figured-2, deal-20)
+
+=========
+
+nsubj(came-2, It-1)
+root(ROOT-0, came-2)
+num(days-5, 2-4)
+prep_in(came-2, days-5)
+dobj(came-2, cause-6)
+poss(shipping-11, my-8)
+nn(shipping-11, Amazon-9)
+nn(shipping-11, Prime-10)
+prep_of(cause-6, shipping-11)
+nsubj(easy-17, it-14)
+cop(easy-17, was-15)
+advmod(easy-17, pretty-16)
+conj_and(came-2, easy-17)
+aux(set-19, to-18)
+xcomp(easy-17, set-19)
+prt(set-19, up-20)
+
+=========
+
+det(Blu-Ray-2, The-1)
+nsubj(looks-3, Blu-Ray-2)
+root(ROOT-0, looks-3)
+acomp(looks-3, fantastic-4)
+
+=========
+
+nsubj(surprised-4, I-1)
+cop(surprised-4, was-2)
+advmod(surprised-4, really-3)
+root(ROOT-0, surprised-4)
+advmod(was-9, how-6)
+amod(everything-8, clear-7)
+nsubj(was-9, everything-8)
+prepc_on(surprised-4, was-9)
+
+=========
+
+nn(tv-3, HD-2)
+prep_for(have-6, tv-3)
+nsubj(have-6, I-5)
+root(ROOT-0, have-6)
+nn(Cable-9, Time-7)
+nn(Cable-9, Warner-8)
+dobj(have-6, Cable-9)
+
+=========
+
+det(channels-3, The-1)
+nn(channels-3, HD-2)
+nsubj(like-6, channels-3)
+aux(like-6, do-4)
+neg(like-6, not-5)
+root(ROOT-0, like-6)
+advmod(good-8, as-7)
+acomp(like-6, good-8)
+nsubj(decent-14, they-11)
+advmod(decent-14, still-12)
+cop(decent-14, are-13)
+conj_but(like-6, decent-14)
+
+=========
+
+nsubj(assuming-3, I-1)
+aux(assuming-3, am-2)
+root(ROOT-0, assuming-3)
+poss(company-7, its-4)
+det(company-7, the-5)
+nn(company-7, cable-6)
+dobj(assuming-3, company-7)
+dobj(looks-16, company-7)
+neg(tv-11, not-9)
+det(tv-11, the-10)
+dobj(assuming-3, tv-11)
+conj_and(company-7, tv-11)
+dobj(looks-16, tv-11)
+mark(looks-16, since-13)
+nn(ray-15, blu-14)
+nsubj(looks-16, ray-15)
+dep(company-7, looks-16)
+acomp(looks-16, good-17)
+
+=========
+
+det(tv-2, This-1)
+nsubj(is-3, tv-2)
+root(ROOT-0, is-3)
+poss(bedroom-6, my-5)
+prep_for(is-3, bedroom-6)
+nsubj(do-10, I-9)
+conj_and(is-3, do-10)
+dobj(do-10, notice-11)
+complm(have-14, that-12)
+nsubj(have-14, you-13)
+xsubj(stand-16, you-13)
+ccomp(do-10, have-14)
+aux(stand-16, to-15)
+xcomp(have-14, stand-16)
+advmod(stand-16, back-17)
+det(bit-19, a-18)
+pobj(back-17, bit-19)
+prep_from(stand-16, it-21)
+
+=========
+
+nsubj(blurry-11, Seems-1)
+advmod(obvious-3, pretty-2)
+amod(Seems-1, obvious-3)
+det(closer-6, the-5)
+dep(blurry-11, closer-6)
+nsubj(blurry-11, you-7)
+cop(blurry-11, are-8)
+dep(blurry-11, the-9)
+advmod(blurry-11, more-10)
+root(ROOT-0, blurry-11)
+nsubj(gets-13, it-12)
+ccomp(blurry-11, gets-13)
+
+=========
+
+advmod(sitting-4, When-1)
+nsubj(sitting-4, I-2)
+nsubj(laying-9, I-2)
+aux(sitting-4, am-3)
+advcl(looks-15, sitting-4)
+poss(room-7, my-6)
+prep_in(sitting-4, room-7)
+conj_or(sitting-4, laying-9)
+advcl(looks-15, laying-9)
+poss(bed-12, my-11)
+prep_on(laying-9, bed-12)
+nsubj(looks-15, it-14)
+root(ROOT-0, looks-15)
+acomp(looks-15, crisp-16)
+acomp(looks-15, detailed-18)
+conj_and(crisp-16, detailed-18)
+
+=========
+
+det(complaints-2, No-1)
+root(ROOT-0, complaints-2)
+det(tv-5, the-4)
+prep_about(complaints-2, tv-5)
+dep(far-7, this-6)
+amod(complaints-2, far-7)
+

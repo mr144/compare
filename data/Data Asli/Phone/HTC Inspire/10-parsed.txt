@@ -1,0 +1,27 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+xcomp(have-2, using-3)
+det(phone-5, this-4)
+dobj(using-3, phone-5)
+num(months-8, 2-7)
+prep_for(phone-5, months-8)
+nsubj(works-11, it-10)
+conj_and(have-2, works-11)
+advmod(works-11, perfectly-12)
+
+=========
+
+nsubj(fast-3, It-1)
+cop(fast-3, is-2)
+root(ROOT-0, fast-3)
+poss(camera-6, its-5)
+nsubj(great-8, camera-6)
+cop(great-8, is-7)
+conj_and(fast-3, great-8)
+nsubj(love-11, I-10)
+conj_and(fast-3, love-11)
+poss(screen-13, its-12)
+dobj(love-11, screen-13)
+

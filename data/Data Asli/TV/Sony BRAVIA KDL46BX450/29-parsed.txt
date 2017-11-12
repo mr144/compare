@@ -1,0 +1,44 @@
+=========
+
+det(TV-2, This-1)
+nsubj(amazing-4, TV-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+partmod(excellent-18, Getting-1)
+nsubj(took-6, it-2)
+dep(up-5, all-3)
+advmod(up-5, hooked-4)
+advmod(took-6, up-5)
+ccomp(Getting-1, took-6)
+det(help-8, the-7)
+dobj(took-6, help-8)
+poss(son-11, my-10)
+prep_of(help-8, son-11)
+advmod(took-6, nut-13)
+poss(performance-16, its-15)
+nsubj(excellent-18, performance-16)
+cop(excellent-18, is-17)
+root(ROOT-0, excellent-18)
+
+=========
+
+amod(picture-2, Sharp-1)
+ccomp(all-11, picture-2)
+amod(color-5, good-4)
+conj_and(picture-2, color-5)
+ccomp(all-11, color-5)
+conj_and(picture-2, sound-7)
+ccomp(all-11, sound-7)
+nsubj(all-11, it-9)
+cop(all-11, is-10)
+root(ROOT-0, all-11)
+dobj(expected-13, all-11)
+nsubj(expected-13, I-12)
+rcmod(all-11, expected-13)
+det(brand-17, the-15)
+nn(brand-17, Sony-16)
+prep_from(expected-13, brand-17)
+

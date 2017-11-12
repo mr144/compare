@@ -1,0 +1,27 @@
+=========
+
+nsubj(purchase-2, Great-1)
+nsubj(fits-4, Great-1)
+nsubj(mounted-10, Great-1)
+root(ROOT-0, purchase-2)
+conj_and(purchase-2, fits-4)
+advmod(fits-4, nicely-5)
+poss(wall-8, my-7)
+prep_on(fits-4, wall-8)
+conj_and(purchase-2, mounted-10)
+advmod(easily-12, very-11)
+advmod(mounted-10, easily-12)
+
+=========
+
+nsubj(amazing-3, Picture-1)
+cop(amazing-3, is-2)
+root(ROOT-0, amazing-3)
+det(apps-6, the-5)
+nsubj(use-11, apps-6)
+advmod(easy-9, very-8)
+conj_and(apps-6, easy-9)
+nsubj(use-11, easy-9)
+aux(use-11, to-10)
+conj_and(amazing-3, use-11)
+

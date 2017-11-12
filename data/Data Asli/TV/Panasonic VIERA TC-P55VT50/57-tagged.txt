@@ -1,0 +1,38 @@
+The_DT TV_NN is_VBZ great_JJ and_CC has_VBZ a_DT beautiful_JJ picture_NN quality_NN and_CC the_DT remote_JJ is_VBZ easy_JJ to_TO use_VB ._.
+I_PRP was_VBD able_JJ to_TO complete_VB the_DT installation_NN in_IN 5_CD minutes_NNS ,_, except_IN connecting_VBG to_TO the_DT Internet_NNP ._.
+Since_IN the_DT wireless_JJ connection_NN failed_VBD ,_, I_PRP tried_VBD wired_VBN and_CC connected_VBN the_DT TV_NN to_TO my_PRP$ router_NN using_VBG an_DT ethernet_NN cable_NN ._.
+That_DT failed_VBD too_RB ._.
+After_IN some_DT research_NN ,_, I_PRP wire_VBP connected_VBN the_DT TV_NN to_TO my_PRP$ cable_NN box_NN directly_RB and_CC that_DT worked_VBD ._.
+Then_RB ,_, I_PRP removed_VBD the_DT cable_NN from_IN the_DT cable_NN box_NN and_CC connected_VBD it_PRP back_RB to_TO my_PRP$ router_NN and_CC that_DT worked_VBD too_RB ._.
+This_DT made_VBD me_PRP wonder_VBP if_IN there_EX was_VBD a_DT problem_NN with_IN my_PRP$ router_NN -_: D-Link_NNP D655_NNP ._.
+Online_JJ research_NN did_VBD not_RB turn_VB up_RP anything_NN about_IN VT50_NNP and_CC D-Link_NNP conflicts_NNS ._.
+I_PRP asked_VBD for_IN help_NN at_IN Panasonic_NNP support_NN site_NN ._.
+The_DT help_NN I_PRP received_VBD was_VBD the_DT cookbook_NN response_NN ,_, which_WDT did_VBD not_RB help_VB at_IN all_DT ._.
+I_PRP then_RB called_VBD Panasonic_NNP support_NN and_CC the_DT technician_NN had_VBD me_PRP reset_VB the_DT cable_NN modem_NN and_CC the_DT router_NN and_CC the_DT TV_NN ._.
+This_DT is_VBZ when_WRB I_PRP lost_VBD my_PRP$ phone_NN connection_NN with_IN the_DT technician_NN ._.
+So_RB ,_, I_PRP called_VBD back_RB and_CC ended_VBD up_RP talking_VBG to_TO another_DT technician_NN who_WP for_IN 5_CD minutes_NNS insisted_VBD that_IN I_PRP was_VBD not_RB entering_VBG my_PRP$ password_NN correctly_RB ._.
+I_PRP then_RB demanded_VBD to_TO talk_VB to_TO a_DT supervisor_NN because_IN I_PRP was_VBD not_RB going_VBG anywhere_RB with_IN her_PRP ._.
+The_DT 3rd_JJ technician_NN sounded_VBD good_JJ and_CC asked_VBD the_DT right_JJ questions_NNS ._.
+She_PRP had_VBD me_PRP reset_VB the_DT TV_NN using_VBG the_DT power_NN and_CC in_IN 5_CD seconds_NNS the_DT TV_NN started_VBD connecting_VBG wirelessly_RB and_CC I_PRP was_VBD in_IN business_NN ._.
+Extremely_RB happy_JJ I_PRP thanked_VBD her_PRP and_CC claimed_VBD she_PRP was_VBD one_CD of_IN the_DT best_JJS support_NN people_NNS I_PRP know_VBP ._.
+Later_RB on_IN I_PRP turned_VBD my_PRP$ TV_NN off_RP and_CC when_WRB I_PRP turned_VBD it_PRP back_RB on_IN -_: no_DT connection_NN ._.
+It_PRP seemed_VBD that_IN the_DT TV_NN did_VBD not_RB save_VB the_DT settings_NNS ._.
+I_PRP repeated_VBD the_DT steps_NNS that_IN the_DT last_JJ technician_NN had_VBD me_PRP do_VB but_CC no_DT luck_NN ._.
+So_RB ,_, I_PRP called_VBD Panasonic_NNP again_RB and_CC repeated_VBD my_PRP$ story_NN ._.
+The_DT 4th_JJ technician_NN said_VBD that_IN she_PRP needs_VBZ to_TO escalate_VB my_PRP$ case_NN and_CC I_PRP would_MD get_VB a_DT call_NN back_RB in_IN a_DT day_NN or_CC two_CD ._.
+That_DT was_VBD 4_CD days_NNS ago_RB and_CC I_PRP have_VBP not_RB heard_VBN from_IN anyone_NN ._.
+The_DT TV_NN is_VBZ now_RB connected_VBN to_TO the_DT Internet_NNP via_IN wire_NN ._.
+But_CC ,_, there_EX is_VBZ way_NN too_RB much_JJ wire_NN on_IN the_DT floor_NN and_CC I_PRP want_VBP to_TO go_VB wireless_JJ ._.
+This_DT is_VBZ why_WRB I_PRP paid_VBD extra_JJ to_TO have_VB a_DT WiFi_JJ TV_NN ._.
+The_DT TV_NN is_VBZ great_JJ but_CC Panasonic_NNP support_NN is_VBZ pathetic_JJ ._.
+I_PRP am_VBP not_RB sure_JJ if_IN there_EX is_VBZ a_DT problem_NN with_IN the_DT TV_NN or_CC there_EX is_VBZ a_DT problem_NN with_IN the_DT connection_NN ._.
+---------_RB Updated_VBN 1\/31\/2013_CD ._.
+The_DT TV_NN is_VBZ still_RB great_JJ ._.
+The_DT support_NN is_VBZ not_RB ._.
+The_DT TV_NN does_VBZ not_RB retain_VB the_DT wireless_JJ setting_NN and_CC each_DT time_NN I_PRP need_VBP to_TO reset_VB the_DT power_NN -LRB-_-LRB- press_NN and_CC hold_VB the_DT power_NN button_NN for_IN 10_CD seconds_NNS -RRB-_-RRB- ._.
+Panasonic_NNP support_NN does_VBZ not_RB return_VB call_NN at_IN all_DT ._.
+Their_PRP$ support_NN website_NN replies_NNS are_VBP canned_VBN word-for-word_JJ ._.
+It_PRP is_VBZ obvious_JJ they_PRP do_VBP not_RB even_RB read_VB the_DT message_NN ._.
+99_CD %_NN of_IN the_DT URL_NNP 's_POS in_IN their_PRP$ email_NN where_WRB you_PRP are_VBP supposed_VBN to_TO click_VB to_TO get_VB answer_NN get_VB 401_CD error_NN ._.
+I_PRP will_MD be_VB exchanging_VBG this_DT TV_NN with_IN another_DT Panasonic_NNP for_IN the_DT 3rd_JJ time_NN ._.
+If_IN that_DT does_VBZ not_RB work_VB ,_, I_PRP will_MD return_VB and_CC get_VB my_PRP$ money_NN back_RB ._.

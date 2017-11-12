@@ -1,0 +1,74 @@
+=========
+
+nsubj(photographer-6, I-1)
+cop(photographer-6, am-2)
+neg(photographer-6, not-3)
+det(photographer-6, a-4)
+amod(photographer-6, professional-5)
+root(ROOT-0, photographer-6)
+det(means-9, any-8)
+prep_by(photographer-6, means-9)
+nsubj(like-12, I-11)
+conj_but(photographer-6, like-12)
+det(camera-14, this-13)
+dobj(like-12, camera-14)
+dobj(does-18, what-16)
+nsubj(does-18, it-17)
+prepc_for(camera-14, does-18)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(clear-5, good-3)
+amod(photos-6, clear-5)
+dobj(takes-2, photos-6)
+nn(mode-9, auto-8)
+prep_in(photos-6, mode-9)
+
+=========
+
+advmod(needed-4, Really-1)
+nsubj(needed-4, I-3)
+nsubj(needed-4', I-3)
+root(ROOT-0, needed-4)
+conj_but(needed-4, needed-4')
+dobj(needed-4, something-5)
+amod(something-5, similar-6)
+poss(point-10, my-8)
+amod(point-10, old-9)
+prep_to(needed-4, point-10)
+prep_to(needed-4, shoot-12)
+conj_and(point-10, shoot-12)
+det(zoom-17, a-15)
+amod(zoom-17, better-16)
+prep_with(needed-4', zoom-17)
+
+=========
+
+nsubj(satisfies-3, This-1)
+advmod(satisfies-3, definitely-2)
+root(ROOT-0, satisfies-3)
+det(requirement-5, that-4)
+dobj(satisfies-3, requirement-5)
+
+=========
+
+nsubj(wait-4, I-1)
+xsubj(figure-6, I-1)
+aux(wait-4, can-2)
+neg(wait-4, not-3)
+root(ROOT-0, wait-4)
+aux(figure-6, to-5)
+xcomp(wait-4, figure-6)
+prt(figure-6, out-7)
+advmod(use-10, how-8)
+aux(use-10, to-9)
+ccomp(figure-6, use-10)
+xcomp(figure-6, use-10)
+det(features-14, the-11)
+advmod(advanced-13, more-12)
+amod(features-14, advanced-13)
+dobj(use-10, features-14)
+prep_on(features-14, it-16)
+

@@ -1,0 +1,305 @@
+=========
+
+advmod(off-2, First-1)
+advmod(phone-8, off-2)
+nsubj(phone-8, this-3)
+cop(phone-8, is-4)
+poss(phone-8, my-5)
+amod(phone-8, first-6)
+amod(phone-8, smart-7)
+root(ROOT-0, phone-8)
+
+=========
+
+nsubj(want-4, I-1)
+xsubj(spend-6, I-1)
+aux(want-4, did-2)
+neg(want-4, not-3)
+root(ROOT-0, want-4)
+aux(spend-6, to-5)
+xcomp(want-4, spend-6)
+det(lot-8, a-7)
+dobj(spend-6, lot-8)
+prep_of(lot-8, money-10)
+
+=========
+
+advmod(spend-5, Ordinarily-1)
+nsubj(spend-5, I-2)
+aux(spend-5, would-3)
+neg(spend-5, not-4)
+root(ROOT-0, spend-5)
+advmod(then-7, more-6)
+advmod(spend-5, then-7)
+dobj(spend-5, $-8)
+num($-8, 60-9)
+det(phone-12, a-11)
+prep_for($-8, phone-12)
+
+=========
+
+advmod(got-3, However-1)
+nsubj(got-3, I-2)
+xsubj(play-5, I-2)
+nsubj(did-11, I-2)
+root(ROOT-0, got-3)
+aux(play-5, to-4)
+xcomp(got-3, play-5)
+det(phones-9, some-7)
+nn(phones-9, Android-8)
+prep_with(play-5, phones-9)
+conj_and(got-3, did-11)
+det(research-13, some-12)
+dobj(did-11, research-13)
+auxpass(hooked-16, was-15)
+conj_and(got-3, hooked-16)
+conj_and(did-11, hooked-16)
+nsubj(have-19, gotta-18)
+parataxis(hooked-16, have-19)
+dobj(have-19, one-20)
+
+=========
+
+nsubj(have-4, I-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+det(contract-6, a-5)
+dobj(have-4, contract-6)
+mark(use-10, so-7)
+nsubj(use-10, i-8)
+advmod(use-10, just-9)
+advcl(have-4, use-10)
+poss(sim-14, my-11)
+amod(sim-14, existing-12)
+nn(sim-14, ATT-13)
+dobj(use-10, sim-14)
+complm(had-18, that-15)
+nsubj(had-18, i-16)
+aux(had-18, have-17)
+ccomp(use-10, had-18)
+prep_for(had-18, years-20)
+
+=========
+
+nsubj(knew-2, I-1)
+root(ROOT-0, knew-2)
+det(risks-4, the-3)
+dobj(knew-2, risks-4)
+partmod(risks-4, associated-5)
+det(phone-8, the-7)
+prep_with(associated-5, phone-8)
+
+=========
+
+nsubj(need-4, I-1)
+aux(need-4, did-2)
+neg(need-4, not-3)
+root(ROOT-0, need-4)
+det(3g-7, the-5)
+nn(3g-7, ATT-6)
+dobj(need-4, 3g-7)
+mark(work-14, because-8)
+nsubj(work-14, it-10)
+aux(work-14, does-11)
+neg(work-14, not-12)
+advmod(work-14, even-13)
+advcl(need-4, work-14)
+poss(area-17, my-16)
+prep_in(work-14, area-17)
+
+=========
+
+cc(user-13, And-1)
+advmod(does-5, even-2)
+advmod(does-5, where-3)
+nsubj(does-5, it-4)
+dep(user-13, does-5)
+nsubj(user-13, I-7)
+cop(user-13, am-8)
+neg(user-13, not-9)
+det(user-13, the-10)
+amod(user-13, typical-11)
+nn(user-13, power-12)
+root(ROOT-0, user-13)
+
+=========
+
+nsubj(use-4, I-1)
+aux(use-4, would-2)
+advmod(use-4, rather-3)
+root(ROOT-0, use-4)
+dobj(use-4, WiFi-5)
+det(part-9, the-7)
+amod(part-9, most-8)
+prep_for(WiFi-5, part-9)
+
+=========
+
+nsubj(wanted-3, I-1)
+nsubj(afford-11, I-1)
+advmod(wanted-3, really-2)
+root(ROOT-0, wanted-3)
+det(S2-6, the-4)
+nn(S2-6, Galaxy-5)
+dobj(wanted-3, S2-6)
+aux(afford-11, can-9)
+neg(afford-11, not-10)
+conj_but(wanted-3, afford-11)
+det(one-13, that-12)
+dobj(afford-11, one-13)
+
+=========
+
+dep(went-3, So-1)
+nsubj(went-3, I-2)
+root(ROOT-0, went-3)
+det(one-6, this-5)
+prep_with(went-3, one-6)
+
+=========
+
+det(point-4, the-2)
+nn(point-4, price-3)
+prep_for(unlocked-19, point-4)
+nsubj(unlocked-19, $-5)
+num($-5, 260-6)
+nsubj(find-11, you-8)
+aux(find-11, can-9)
+neg(find-11, not-10)
+dep($-5, find-11)
+det(phone-13, a-12)
+dobj(find-11, phone-13)
+det(brand-16, this-15)
+prep_like(find-11, brand-16)
+amod(brand-16, new-17)
+root(ROOT-0, unlocked-19)
+dep(ready-22, GSM-21)
+ccomp(unlocked-19, ready-22)
+det(specs-25, the-24)
+dep(etc.-27, specs-25)
+ccomp(unlocked-19, etc.-27)
+
+=========
+
+nsubj(mine-2, Got-1)
+root(ROOT-0, mine-2)
+amod(shipping-5, 2day-4)
+prep_with(mine-2, shipping-5)
+
+=========
+
+root(ROOT-0, Turned-1)
+dobj(Turned-1, it-2)
+prep(Turned-1, on-3)
+
+=========
+
+root(ROOT-0, Updated-1)
+prep_to(Updated-1, Gingerbread-3)
+cop(good-6, was-5)
+conj_and(Updated-1, good-6)
+aux(go-8, to-7)
+xcomp(good-6, go-8)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+det(cons-4, some-3)
+nsubj(are-2, cons-4)
+mark(smaller-10, like-5)
+det(size-8, the-6)
+nn(size-8, screen-7)
+nsubj(smaller-10, size-8)
+cop(smaller-10, is-9)
+advcl(are-2, smaller-10)
+advmod(are-2, then-11)
+nsubj(like-14, i-12)
+aux(like-14, would-13)
+ccomp(are-2, like-14)
+
+=========
+
+nn(glare-3, Sun-1)
+nn(glare-3, light-2)
+nsubj(pain-7, glare-3)
+aux(pain-7, can-4)
+cop(pain-7, be-5)
+det(pain-7, a-6)
+root(ROOT-0, pain-7)
+
+=========
+
+det(speakers-2, The-1)
+nsubj(weak-4, speakers-2)
+cop(weak-4, are-3)
+root(ROOT-0, weak-4)
+
+=========
+
+cc(last-5, And-1)
+det(battery-3, the-2)
+nsubj(last-5, battery-3)
+advmod(last-5, only-4)
+root(ROOT-0, last-5)
+advmod(12-16hrs-7, about-6)
+dobj(last-5, 12-16hrs-7)
+amod(use-10, minimal-9)
+prep_with(last-5, use-10)
+
+=========
+
+det(past-3, the-2)
+prep_in(used-5, past-3)
+nsubj(used-5, I-4)
+nsubj(take-13, I-4)
+root(ROOT-0, used-5)
+dobj(used-5, phones-6)
+advmod(longer-9, far-8)
+amod(life-10, longer-9)
+prep_with(used-5, life-10)
+conj_but(used-5, take-13)
+prep_into(take-13, account-15)
+complm(is-18, that-16)
+nsubj(is-18, this-17)
+ccomp(take-13, is-18)
+advmod(is-18, basically-19)
+prepc_like(is-18, having-21)
+det(computer-24, a-22)
+amod(computer-24, little-23)
+dobj(having-21, computer-24)
+poss(pocket-27, your-26)
+prep_in(having-21, pocket-27)
+det(day-29, all-28)
+dep(pocket-27, day-29)
+
+=========
+
+root(ROOT-0, So-1)
+dep(recommend-4, would-2)
+nsubj(recommend-4, I-3)
+dep(So-1, recommend-4)
+
+=========
+
+advmod(would-3, Yes-1)
+nsubj(would-3, I-2)
+root(ROOT-0, would-3)
+
+=========
+
+mark(looking-4, If-1)
+nsubj(looking-4, you-2)
+aux(looking-4, are-3)
+advcl(sexier-9, looking-4)
+nn(sleeker-7, something-6)
+prep_for(looking-4, sleeker-7)
+root(ROOT-0, sexier-9)
+conj_and(sexier-9, newer-11)
+
+=========
+
+root(ROOT-0, keep-1)
+dep(keep-1, looking-2)
+

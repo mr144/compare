@@ -1,0 +1,164 @@
+=========
+
+nsubj(have-2, I-1)
+xsubj(say-4, I-1)
+root(ROOT-0, have-2)
+aux(say-4, to-3)
+xcomp(have-2, say-4)
+det(camera-6, this-5)
+nsubj(does-7, camera-6)
+ccomp(say-4, does-7)
+det(job-11, a-8)
+advmod(great-10, really-9)
+amod(job-11, great-10)
+dobj(does-7, job-11)
+prepc_of(job-11, taking-13)
+dobj(taking-13, pictures-14)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+det(camera-2, This-1)
+nsubj(great-5, camera-2)
+cop(great-5, is-3)
+advmod(great-5, really-4)
+root(ROOT-0, great-5)
+mark(get-10, if-6)
+poss(wanting-8, your-7)
+nsubj(get-10, wanting-8)
+aux(get-10, to-9)
+advcl(great-5, get-10)
+xcomp(great-5, get-10)
+prep_into(get-10, photography-12)
+
+=========
+
+nsubj(bought-2, I-1)
+nsubj(excited-15, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+num(camera-4, 12\/26\/11-5)
+det(day-7, a-6)
+tmod(bought-2, day-7)
+det(review-10, this-9)
+prep_before(bought-2, review-10)
+prep_at(review-10, Bestbuy-12)
+cop(excited-15, Was-14)
+conj_and(bought-2, excited-15)
+aux(unpackage-17, to-16)
+xcomp(excited-15, unpackage-17)
+dobj(unpackage-17, it-18)
+xcomp(excited-15, start-20)
+conj_and(unpackage-17, start-20)
+xcomp(start-20, taking-21)
+dobj(taking-21, photos-22)
+
+=========
+
+nsubj(love-2, I-1)
+dep(has-13, love-2)
+det(size-4, the-3)
+dobj(love-2, size-4)
+det(camera-7, this-6)
+prep_of(size-4, camera-7)
+det(zoom-11, the-9)
+amod(zoom-11, x18-10)
+prep_of(size-4, zoom-11)
+conj_and(camera-7, zoom-11)
+nsubj(has-13, it-12)
+root(ROOT-0, has-13)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+advmod(are-2, also-3)
+amod(features-6, many-4)
+amod(features-6, other-5)
+nsubj(are-2, features-6)
+aux(play-8, to-7)
+xcomp(are-2, play-8)
+prep(play-8, with-9)
+pcomp(with-9, on-10)
+det(camera-12, this-11)
+prep_on(with-9, camera-12)
+
+=========
+
+nsubj(took-2, I-1)
+root(ROOT-0, took-2)
+det(photo-4, this-3)
+dobj(took-2, photo-4)
+det(berries-8, some-6)
+nn(berries-8, china-7)
+prep_of(photo-4, berries-8)
+poss(house-11, my-10)
+prep_outside(took-2, house-11)
+det(quality-19, the-17)
+amod(quality-19, photo-18)
+conj_and(...-14, quality-19)
+parataxis(took-2, looks-20)
+acomp(looks-20, good-21)
+
+=========
+
+nsubj(amazed-3, Im-1)
+advmod(amazed-3, just-2)
+root(ROOT-0, amazed-3)
+det(camera-6, this-5)
+prep_with(amazed-3, camera-6)
+
+=========
+
+det(camera-2, This-1)
+nsubj(take-5, camera-2)
+aux(take-5, does-3)
+neg(take-5, not-4)
+root(ROOT-0, take-5)
+amod(photos-8, good-6)
+nn(photos-8, quality-7)
+dobj(take-5, photos-8)
+mark(have-13, if-9)
+nsubj(have-13, you-10)
+aux(have-13, do-11)
+neg(have-13, not-12)
+advcl(take-5, have-13)
+amod(lighting-15, enough-14)
+dobj(have-13, lighting-15)
+amod(light-18, natural-17)
+dobj(have-13, light-18)
+conj_or(lighting-15, light-18)
+
+=========
+
+det(I-10, The-1)
+advmod(light-3, more-2)
+amod(I-10, light-3)
+nsubj(have-5, you-4)
+dep(light-3, have-5)
+det(=-8, the-6)
+amod(=-8, better-7)
+dobj(have-5, =-8)
+nsubj(hope-11, I-10)
+root(ROOT-0, hope-11)
+det(review-13, this-12)
+nsubj(helps-14, review-13)
+ccomp(hope-11, helps-14)
+nsubj(buy-16, anyone-15)
+ccomp(helps-14, buy-16)
+det(camera-18, this-17)
+dobj(buy-16, camera-18)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, this-4)
+

@@ -1,0 +1,33 @@
+=========
+
+det(TV-2, This-1)
+nsubj(value-7, TV-2)
+cop(value-7, is-3)
+det(value-7, a-4)
+advmod(good-6, very-5)
+amod(value-7, good-6)
+root(ROOT-0, value-7)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(picture-6, a-3)
+advmod(good-5, really-4)
+amod(picture-6, good-5)
+dobj(has-2, picture-6)
+advmod(sound-10, also-8)
+amod(sound-10, good-9)
+dobj(has-2, sound-10)
+conj_and(picture-6, sound-10)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+det(guide-6, the-4)
+amod(guide-6, full-5)
+dobj(like-3, guide-6)
+advmod(like-3, also-7)
+

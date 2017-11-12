@@ -1,0 +1,79 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+mark(got-7, because-5)
+nsubj(got-7, it-6)
+advcl(bought-2, got-7)
+num(ratings-11, 150-9)
+amod(ratings-11, 5-star-10)
+prep_over(got-7, ratings-11)
+
+=========
+
+det(picture-2, The-1)
+nsubj(awful-7, picture-2)
+det(set-5, this-4)
+prep_on(picture-2, set-5)
+cop(awful-7, is-6)
+root(ROOT-0, awful-7)
+
+=========
+
+nsubj(fuzzy-3, It-1)
+nsubj(unclear-5, It-1)
+cop(fuzzy-3, is-2)
+root(ROOT-0, fuzzy-3)
+conj_and(fuzzy-3, unclear-5)
+
+=========
+
+det(sound-2, The-1)
+nsubj(terrible-5, sound-2)
+cop(terrible-5, is-3)
+advmod(terrible-5, also-4)
+root(ROOT-0, terrible-5)
+dep(terrible-5, has-7)
+det(sound-10, a-8)
+amod(sound-10, static-9)
+dobj(has-7, sound-10)
+det(background-13, the-12)
+prep_in(sound-10, background-13)
+
+=========
+
+nsubj(played-3, I-1)
+aux(played-3, have-2)
+root(ROOT-0, played-3)
+det(kinds-6, all-5)
+prep_with(played-3, kinds-6)
+prep_of(kinds-6, settings-8)
+predet(picture-12, both-10)
+det(picture-12, the-11)
+prep_on(settings-8, picture-12)
+det(sound-15, the-14)
+prep_on(settings-8, sound-15)
+conj_and(picture-12, sound-15)
+nsubj(sending-19, I-17)
+aux(sending-19, am-18)
+conj_but(played-3, sending-19)
+iobj(sending-19, it-20)
+amod(asap-22, back-21)
+dobj(sending-19, asap-22)
+
+=========
+
+advmod(save-5, Hopefully-1)
+det(review-3, this-2)
+nsubj(save-5, review-3)
+aux(save-5, will-4)
+root(ROOT-0, save-5)
+dobj(save-5, someone-6)
+prepc_from(save-5, buying-8)
+det(TV-12, this-9)
+amod(TV-12, 2-star-10)
+amod(TV-12, rated-11)
+dobj(buying-8, TV-12)
+

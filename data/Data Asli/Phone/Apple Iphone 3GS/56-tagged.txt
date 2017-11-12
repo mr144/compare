@@ -1,0 +1,3 @@
+I_PRP am_VBP very_RB disappointed_JJ as_IN I_PRP ordered_VBD an_DT Apple_NNP iPhone_NNP 3GS_NNP 16GB_NNP -LRB-_-LRB- Black_NNP -RRB-_-RRB- however_RB received_VBD a_DT 3g_NN with_IN model_NN number_NN A1241_NNP ._.
+All_PDT the_DT packaging_NN said_VBD that_IN it_PRP was_VBD a_DT 3gs_NNS however_RB the_DT phone_NN itself_PRP is_VBZ a_DT 3g_NN ._.
+This_DT is_VBZ made_VBN worse_JJR as_IN I_PRP am_VBP living_VBG and_CC working_VBG In_IN Africa_NNP and_CC had_VBD a_DT friend_NN bring_VB it_PRP over_IN when_WRB he_PRP visited_VBD ._.

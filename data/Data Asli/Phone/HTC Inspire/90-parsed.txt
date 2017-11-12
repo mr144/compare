@@ -1,0 +1,45 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+cc(get-4, and-1)
+nsubj(get-4, u-2)
+aux(get-4, can-3)
+dep(got-11, get-4)
+dobj(get-4, lots-5)
+amod(apps-8, differents-7)
+prep_of(lots-5, apps-8)
+nsubj(got-11, i-9)
+advmod(got-11, recently-10)
+root(ROOT-0, got-11)
+det(app-14, the-12)
+amod(app-14, stech-13)
+dobj(got-11, app-14)
+nsubj(cool-18, app-14)
+cop(cool-18, is-16)
+advmod(cool-18, really-17)
+rcmod(app-14, cool-18)
+nsubj(cand-20, i-19)
+ccomp(cool-18, cand-20)
+advmod(cand-20, just-21)
+dep(cand-20, draw-22)
+dobj(draw-22, doddle-23)
+nsubj(i-26, doddle-23)
+advmod(i-26, ever-25)
+rcmod(doddle-23, i-26)
+dobj(i-26, fel-27)
+prep(i-26, like-28)
+
+=========
+
+advmod(come-2, so-1)
+root(ROOT-0, come-2)
+prep_on(come-2, guys-4)
+nsubj(wting-8, guys-4)
+aux(wting-8, are-6)
+advmod(wting-8, u-7)
+rcmod(guys-4, wting-8)
+prepc_for(wting-8, go-10)
+xcomp(go-10, get-11)
+dobj(get-11, urs-12)
+

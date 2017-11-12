@@ -1,0 +1,35 @@
+=========
+
+det(pictures-2, The-1)
+nsubj(great-5, pictures-2)
+aux(great-5, have-3)
+cop(great-5, been-4)
+root(ROOT-0, great-5)
+
+=========
+
+det(camera-2, The-1)
+nsubj(sturdy-4, camera-2)
+cop(sturdy-4, is-3)
+root(ROOT-0, sturdy-4)
+
+=========
+
+nsubj(easy-4, It-1)
+xsubj(use-6, It-1)
+cop(easy-4, 's-2)
+advmod(easy-4, very-3)
+root(ROOT-0, easy-4)
+aux(use-6, to-5)
+xcomp(easy-4, use-6)
+nsubj(has-10, it-9)
+conj_yet(easy-4, has-10)
+det(device-12, every-11)
+dobj(has-10, device-12)
+dobj(need-17, device-12)
+complm(need-17, that-13)
+nsubj(need-17, I-14)
+aux(need-17, will-15)
+advmod(need-17, ever-16)
+dep(device-12, need-17)
+

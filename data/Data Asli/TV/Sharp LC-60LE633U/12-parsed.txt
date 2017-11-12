@@ -1,0 +1,39 @@
+=========
+
+nsubj(heavy-5, it-1)
+cop(heavy-5, was-2)
+det(little-4, a-3)
+npadvmod(heavy-5, little-4)
+root(ROOT-0, heavy-5)
+nsubj(got-9, i-8)
+conj_but(heavy-5, got-9)
+nsubj(hung-11, it-10)
+ccomp(got-9, hung-11)
+advmod(right-13, just-12)
+advmod(hung-11, right-13)
+
+=========
+
+det(picture-2, the-1)
+nsubj(great-4, picture-2)
+nsubj(clear-6, picture-2)
+nsubj(detailed-8, picture-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+conj_and(great-4, clear-6)
+conj_and(great-4, detailed-8)
+
+=========
+
+det(soung-2, the-1)
+nsubj(OK-4, soung-2)
+cop(OK-4, is-3)
+ccomp(clearer-12, OK-4)
+det(voices-7, the-6)
+nsubj(clearer-12, voices-7)
+aux(clearer-12, could-8)
+cop(clearer-12, be-9)
+det(little-11, a-10)
+npadvmod(clearer-12, little-11)
+root(ROOT-0, clearer-12)
+

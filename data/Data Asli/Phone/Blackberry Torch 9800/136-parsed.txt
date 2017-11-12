@@ -1,0 +1,71 @@
+=========
+
+nsubj(product-5, This-1)
+cop(product-5, is-2)
+det(product-5, a-3)
+amod(product-5, great-4)
+root(ROOT-0, product-5)
+advmod(far-7, as-6)
+advmod(product-5, far-7)
+nsubj(go-9, Blackberries-8)
+dep(far-7, go-9)
+
+=========
+
+nsubj(was-2, Shipping-1)
+root(ROOT-0, was-2)
+dep(was-2, on-3)
+pobj(on-3, time-4)
+dep(was-2, well-6)
+conj_and(on-3, well-6)
+dep(on-3, done-7)
+
+=========
+
+cop(phone-4, Being-1)
+det(phone-4, an-2)
+amod(phone-4, unlocked-3)
+dep(expecting-7, phone-4)
+nsubj(expecting-7, I-5)
+aux(expecting-7, was-6)
+root(ROOT-0, expecting-7)
+dobj(expecting-7, more-8)
+det(facilities-11, the-10)
+prep_of(more-8, facilities-11)
+nsubj(ability-16, that-13)
+cop(ability-16, is-14)
+det(ability-16, the-15)
+rcmod(facilities-11, ability-16)
+nn(email-20, setup-18)
+amod(email-20, public-19)
+prep_to(ability-16, email-20)
+prep_to(ability-16, IMs-22)
+conj_and(email-20, IMs-22)
+nsubj(is-25, its-24)
+conj_but(expecting-7, is-25)
+neg(is-25, not-26)
+advmod(is-25, so-27)
+
+=========
+
+advmod(doing-5, Maybe-1)
+nsubj(doing-5, I-2)
+aux(doing-5, am-3)
+neg(doing-5, not-4)
+root(ROOT-0, doing-5)
+nsubj(right-7, it-6)
+xcomp(doing-5, right-7)
+
+=========
+
+nsubj(fault-7, Outside-1)
+det(i-4, this-3)
+prep_of(Outside-1, i-4)
+aux(fault-7, can-5)
+neg(fault-7, not-6)
+root(ROOT-0, fault-7)
+det(product-9, the-8)
+dobj(fault-7, product-9)
+prep(fault-7, in-10)
+pcomp(in-10, anyway-11)
+

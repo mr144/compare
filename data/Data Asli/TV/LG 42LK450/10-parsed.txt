@@ -1,0 +1,94 @@
+=========
+
+advmod(disappointing-2, Very-1)
+root(ROOT-0, disappointing-2)
+advmod(started-13, when-3)
+num(weeks-7, 1�1\/2-6)
+prep_after(started-13, weeks-7)
+prep_of(weeks-7, use-9)
+det(television-12, the-11)
+nsubj(started-13, television-12)
+dep(disappointing-2, started-13)
+dep(started-13, turning-14)
+dobj(turning-14, itself-15)
+prt(turning-14, off-16)
+dep(off-16, and-17)
+dep(off-16, on-18)
+mark(watching-22, while-19)
+nsubj(watching-22, we-20)
+aux(watching-22, were-21)
+advcl(turning-14, watching-22)
+
+=========
+
+nsubj(respond-4, It-1)
+aux(respond-4, would-2)
+neg(respond-4, not-3)
+root(ROOT-0, respond-4)
+det(remote-7, the-6)
+prep_to(respond-4, remote-7)
+
+=========
+
+nsubj(recognize-4, It-1)
+aux(recognize-4, would-2)
+neg(recognize-4, not-3)
+root(ROOT-0, recognize-4)
+det(device-7, a-5)
+amod(device-7, connected-6)
+dobj(recognize-4, device-7)
+
+=========
+
+det(way-3, The-1)
+amod(way-3, only-2)
+nsubj(was-8, way-3)
+xsubj(unplug-11, way-3)
+aux(turn-5, to-4)
+infmod(way-3, turn-5)
+dobj(turn-5, it-6)
+prt(turn-5, off-7)
+root(ROOT-0, was-8)
+aux(unplug-11, to-9)
+advmod(unplug-11, physically-10)
+xcomp(was-8, unplug-11)
+dobj(unplug-11, it-12)
+det(outlet-15, the-14)
+prep_from(unplug-11, outlet-15)
+
+=========
+
+nsubj(television-5, This-1)
+cop(television-5, was-2)
+det(television-5, a-3)
+amod(television-5, used-4)
+root(ROOT-0, television-5)
+nn(Deals-8, Warehouse-7)
+prep_from(television-5, Deals-8)
+neg(Deals-8, not-10)
+det(television-13, a-11)
+amod(television-13, new-12)
+dep(Deals-8, television-13)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(good-5, quality-2)
+cop(good-5, was-3)
+advmod(good-5, very-4)
+root(ROOT-0, good-5)
+
+=========
+
+amod(appearance-2, Physical-1)
+nsubj(good-5, appearance-2)
+cop(good-5, was-3)
+advmod(good-5, very-4)
+root(ROOT-0, good-5)
+advmod(bad-8, too-7)
+dep(good-5, bad-8)
+nsubj(work-12, it-9)
+aux(work-12, did-10)
+neg(work-12, not-11)
+ccomp(bad-8, work-12)
+

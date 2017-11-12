@@ -1,0 +1,187 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+dobj(had-2, this-3)
+quantmod(two-6, about-5)
+num(weeks-7, two-6)
+prep_for(this-3, weeks-7)
+
+=========
+
+root(ROOT-0, Took-1)
+det(pictures-4, some-2)
+amod(pictures-4, great-3)
+dobj(Took-1, pictures-4)
+
+=========
+
+root(ROOT-0, Fantastic-1)
+acomp(Fantastic-1, zoom-2)
+det(bit-5, a-4)
+npadvmod(slow-6, bit-5)
+acomp(Fantastic-1, slow-6)
+conj_but(zoom-2, slow-6)
+
+=========
+
+nsubj(sensor-2, Great-1)
+root(ROOT-0, sensor-2)
+complm(worked-4, that-3)
+ccomp(sensor-2, worked-4)
+advmod(worked-4, really-5)
+advmod(worked-4, well-6)
+amod(light-9, low-8)
+prep_in(worked-4, light-9)
+
+=========
+
+nn(Focus-2, Auto-1)
+nsubj(clunky-6, Focus-2)
+cop(clunky-6, was-3)
+det(bit-5, a-4)
+npadvmod(clunky-6, bit-5)
+root(ROOT-0, clunky-6)
+csubjpass(awkward-15, switching-8)
+amod(focus-11, manual-10)
+prep_to(switching-8, focus-11)
+auxpass(awkward-15, is-12)
+cop(awkward-15, was-13)
+advmod(awkward-15, really-14)
+conj_and(clunky-6, awkward-15)
+
+=========
+
+advmod(obvious-2, Most-1)
+root(ROOT-0, obvious-2)
+dep(obvious-2, trying-3)
+aux(shoot-5, to-4)
+xcomp(trying-3, shoot-5)
+det(fence-8, a-7)
+prep_through(shoot-5, fence-8)
+
+=========
+
+nsubj(quicker-4, It-1)
+cop(quicker-4, was-2)
+advmod(quicker-4, actually-3)
+root(ROOT-0, quicker-4)
+prep_to(quicker-4, point-6)
+mark(turn-13, as-7)
+det(object-10, some-8)
+amod(object-10, distant-9)
+nsubj(turn-13, object-10)
+advmod(turn-13, elsewhere-11)
+advmod(turn-13, then-12)
+advcl(quicker-4, turn-13)
+prt(turn-13, back-14)
+det(shot-17, the-16)
+prep_to(turn-13, shot-17)
+det(focus-20, the-19)
+prep_with(shot-17, focus-20)
+partmod(focus-20, held-21)
+
+=========
+
+det(negative-2, Another-1)
+nsubj(life-5, negative-2)
+cop(life-5, was-3)
+nn(life-5, battery-4)
+root(ROOT-0, life-5)
+
+=========
+
+det(zooming-3, some-2)
+prep_with(think-7, zooming-3)
+conj_and(zooming-3, AF-5)
+prep_with(think-7, AF-5)
+nsubj(think-7, I-6)
+root(ROOT-0, think-7)
+nsubj(get-11, I-8)
+aux(get-11, could-9)
+advmod(get-11, only-10)
+ccomp(think-7, get-11)
+quantmod(40-13, about-12)
+num(pics-14, 40-13)
+dobj(get-11, pics-14)
+prep_between(pics-14, charges-16)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(moment-4, a-3)
+dobj(had-2, moment-4)
+advmod(retract-10, where-5)
+det(lens-7, the-6)
+nsubj(retract-10, lens-7)
+aux(retract-10, would-8)
+neg(retract-10, not-9)
+rcmod(moment-4, retract-10)
+det(camera-13, the-12)
+nsubj(froze\/crashed-14, camera-13)
+conj_and(had-2, froze\/crashed-14)
+
+=========
+
+nsubj(made-6, Batteries-1)
+advmod(Batteries-1, out-2)
+det(bit-5, a-4)
+prep_for(Batteries-1, bit-5)
+root(ROOT-0, made-6)
+nsubj(work-8, it-7)
+ccomp(made-6, work-8)
+advmod(work-8, again-9)
+
+=========
+
+det(couple-2, A-1)
+nsubj(return-10, couple-2)
+prep_of(couple-2, days-4)
+advmod(days-4, later-5)
+det(lens-7, the-6)
+pobj(later-5, lens-7)
+aux(return-10, would-8)
+neg(return-10, not-9)
+root(ROOT-0, return-10)
+advmod(return-10, again-11)
+
+=========
+
+det(point-3, that-2)
+prep_from(said-8, point-3)
+det(camera-6, the-5)
+prep_on(point-3, camera-6)
+advmod(said-8, just-7)
+root(ROOT-0, said-8)
+dobj(said-8, Lens-10)
+nsubj(said-8, Obstructed-11)
+
+=========
+
+amod(lens-2, Remove-1)
+nsubj(cap-3, lens-2)
+root(ROOT-0, cap-3)
+
+=========
+
+csubj(realized-8, Tried-1)
+det(batteries-3, the-2)
+dobj(Tried-1, batteries-3)
+conj_but(Tried-1, searching-5)
+csubj(realized-8, searching-5)
+prep(searching-5, online-6)
+dep(online-6, I-7)
+root(ROOT-0, realized-8)
+nsubj(problem-13, this-9)
+cop(problem-13, is-10)
+det(problem-13, a-11)
+amod(problem-13, common-12)
+ccomp(realized-8, problem-13)
+
+=========
+
+nsubj(returned-2, I-1)
+root(ROOT-0, returned-2)
+dobj(returned-2, it-3)
+

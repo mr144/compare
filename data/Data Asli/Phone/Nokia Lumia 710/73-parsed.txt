@@ -1,0 +1,22 @@
+=========
+
+det(lumia-4, the-2)
+nn(lumia-4, nokia-3)
+prep_with(have-7, lumia-4)
+num(lumia-4, 710-5)
+nsubj(have-7, I-6)
+root(ROOT-0, have-7)
+dobj(have-7, everything-8)
+aux(connected-11, to-9)
+auxpass(connected-11, be-10)
+infmod(everything-8, connected-11)
+det(experience-15, the-13)
+nn(experience-15, user-14)
+nsubj(cool-17, experience-15)
+cop(cool-17, is-16)
+conj_and(have-7, cool-17)
+det(phone-20, the-19)
+nsubj(fast-22, phone-20)
+cop(fast-22, is-21)
+conj_and(have-7, fast-22)
+

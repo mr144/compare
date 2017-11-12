@@ -1,0 +1,3 @@
+this_DT is_VBZ the_DT best_JJS smartphone_NN ._.
+Got_VBD the_DT package_NN with_IN US_NNP adapter_NN so_IN that_IN you_PRP can_MD plug-in_JJ directly_RB ._.
+Mine_NNP is_VBZ French_JJ version_NN when_WRB I_PRP turned_VBD on_IN the_DT phone_NN but_CC you_PRP can_MD change_VB your_PRP$ language_NN after_IN you_PRP push_VBP the_DT button_NN even_RB I_PRP do_VBP not_RB know_VB French_JJ ._.

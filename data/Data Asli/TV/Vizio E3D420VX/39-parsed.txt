@@ -1,0 +1,294 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(model-5, a-3)
+amod(model-5, refurbished-4)
+dobj(bought-2, model-5)
+nn(Direct-8, Tiger-7)
+prep_from(bought-2, Direct-8)
+
+=========
+
+mark(leaves-5, Although-1)
+det(speed-4, the-2)
+nn(speed-4, shipping-3)
+nsubj(leaves-5, speed-4)
+advcl(disappointing-14, leaves-5)
+dobj(leaves-5, something-6)
+aux(desired-9, to-7)
+cop(desired-9, be-8)
+xcomp(leaves-5, desired-9)
+nsubj(disappointing-14, I-11)
+cop(disappointing-14, was-12)
+neg(disappointing-14, not-13)
+root(ROOT-0, disappointing-14)
+advmod(got-18, when-15)
+nsubj(got-18, it-16)
+advmod(got-18, finally-17)
+advcl(disappointing-14, got-18)
+advmod(got-18, here-19)
+
+=========
+
+det(picture-2, The-1)
+nsubj(good-10, picture-2)
+det(quality-6, the-4)
+num(quality-6, 3D-5)
+conj_and(picture-2, quality-6)
+nsubj(good-10, quality-6)
+cop(good-10, are-7)
+advmod(good-10, just-8)
+advmod(good-10, as-9)
+root(ROOT-0, good-10)
+det(TV-13, the-12)
+prep_as(good-10, TV-13)
+possessive(TV-13, 's-14)
+number(times-16, 3-15)
+dep(TV-13, times-16)
+det(cost-18, the-17)
+dep(times-16, cost-18)
+
+=========
+
+root(ROOT-0, Excellent-1)
+predet(way-4, all-2)
+det(way-4, the-3)
+dobj(Excellent-1, way-4)
+advmod(Excellent-1, around-5)
+
+=========
+
+predet(the-2, All-1)
+nsubj(built-3, the-2)
+root(ROOT-0, built-3)
+amod(work-6, apps-5)
+prep_in(built-3, work-6)
+prep_as(built-3, described-8)
+nsubj(great-12, described-8)
+cop(great-12, is-11)
+rcmod(described-8, great-12)
+num(access-16, one-14)
+nn(access-16, touch-15)
+prep_for(great-12, access-16)
+prep_to(access-16, Netflix-18)
+
+=========
+
+mark(use-4, Although-1)
+nsubj(use-4, I-2)
+advmod(use-4, just-3)
+advcl(hooked-15, use-4)
+advmod(PS3-6, more-5)
+acomp(use-4, PS3-6)
+amod(option-9, great-8)
+nsubj(hooked-15, option-9)
+prep_for(option-9, those-11)
+prep_with(those-11, nothing-13)
+advmod(nothing-13, else-14)
+root(ROOT-0, hooked-15)
+prt(hooked-15, up-16)
+
+=========
+
+det(TV-2, The-1)
+nsubj(connected-3, TV-2)
+root(ROOT-0, connected-3)
+advmod(connected-3, instantly-4)
+poss(wireless-7, my-6)
+prep_with(connected-3, wireless-7)
+expl('s-11, there-10)
+conj_and(connected-3, 's-11)
+det(problems-13, no-12)
+nsubj('s-11, problems-13)
+partmod(problems-13, maintaining-14)
+advmod(maintaining-14, connectivity-15)
+
+=========
+
+det(sound-2, The-1)
+nsubj(quality-6, sound-2)
+cop(quality-6, is-3)
+neg(quality-6, not-4)
+nn(quality-6, theater-5)
+root(ROOT-0, quality-6)
+advmod(quality-6, obviously-7)
+conj_but(quality-6, is-10)
+det(TV-12, any-11)
+nsubj(is-10, TV-12)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+amod(enough-4, good-3)
+dobj(works-2, enough-4)
+det(bedroom-7, the-6)
+prep_for(enough-4, bedroom-7)
+
+=========
+
+nsubj(read-3, I-1)
+aux(read-3, have-2)
+root(ROOT-0, read-3)
+det(lot-5, a-4)
+dobj(read-3, lot-5)
+prep_of(lot-5, complaints-7)
+det(remote-10, the-9)
+prep_about(complaints-7, remote-10)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(issues-4, no-3)
+dobj(have-2, issues-4)
+prep_with(have-2, it-6)
+
+=========
+
+nsubj(seems-2, It-1)
+root(ROOT-0, seems-2)
+complm(lazy-8, that-3)
+nsubj(lazy-8, people-4)
+cop(lazy-8, are-5)
+advmod(lazy-8, now-6)
+advmod(lazy-8, too-7)
+ccomp(seems-2, lazy-8)
+aux(point-11, to-9)
+advmod(point-11, actually-10)
+xcomp(lazy-8, point-11)
+dobj(point-11, it-12)
+det(TV-15, the-14)
+prep_at(point-11, TV-15)
+mark(Blutooth-20, since-16)
+nsubj(Blutooth-20, it-17)
+cop(Blutooth-20, is-18)
+neg(Blutooth-20, not-19)
+advcl(lazy-8, Blutooth-20)
+
+=========
+
+root(ROOT-0, Haha-1)
+
+=========
+
+advmod(put-4, Maybe-1)
+nsubj(put-4, they-2)
+nsubj(go-10, they-2)
+aux(put-4, should-3)
+root(ROOT-0, put-4)
+prt(put-4, down-5)
+det(remote-7, the-6)
+dobj(put-4, remote-7)
+advmod(put-4, altogether-8)
+conj_and(put-4, go-10)
+dobj(go-10, outside-11)
+dobj(go-10, something-13)
+conj_or(outside-11, something-13)
+
+=========
+
+det(buttons-2, The-1)
+nsubjpass(pushed-5, buttons-2)
+auxpass(pushed-5, are-3)
+advmod(pushed-5, easily-4)
+ccomp(comes-9, pushed-5)
+det(keyboard-8, the-7)
+nsubj(comes-9, keyboard-8)
+root(ROOT-0, comes-9)
+prep_in(comes-9, handy-11)
+advmod(using-13, when-12)
+advcl(comes-9, using-13)
+det(apps-17, the-14)
+amod(apps-17, built-15)
+dep(built-15, in-16)
+dobj(using-13, apps-17)
+
+=========
+
+dep(backlit-6, No-1)
+nsubj(backlit-6, it-3)
+cop(backlit-6, is-4)
+neg(backlit-6, not-5)
+root(ROOT-0, backlit-6)
+advmod(me-13, maybe-9)
+nsubj(me-13, it-10)
+cop(me-13, is-11)
+advmod(me-13, just-12)
+conj_and(backlit-6, me-13)
+prepc_after(know-26, using-17)
+dobj(using-17, it-18)
+num(minutes-21, 5-20)
+prep_for(using-17, minutes-21)
+nsubj(know-26, you-23)
+advmod(know-26, just-24)
+advmod(know-26, kinda-25)
+conj_but(backlit-6, know-26)
+advmod(are-30, where-27)
+det(buttons-29, the-28)
+nsubj(are-30, buttons-29)
+advcl(know-26, are-30)
+
+=========
+
+nsubj(helpful-4, Backlighting-1)
+aux(helpful-4, would-2)
+cop(helpful-4, be-3)
+root(ROOT-0, helpful-4)
+det(side-8, the-6)
+nn(side-8, keyboard-7)
+prep_for(helpful-4, side-8)
+mark(used-12, if-10)
+nsubj(used-12, I-11)
+advcl(helpful-4, used-12)
+iobj(used-12, it-13)
+det(lot-15, a-14)
+dobj(used-12, lot-15)
+
+=========
+
+advmod(going-7, All-1)
+prep_in(All-1, all-3)
+nsubj(going-7, you-5)
+xsubj(get-9, you-5)
+aux(going-7, are-6)
+root(ROOT-0, going-7)
+aux(get-9, to-8)
+xcomp(going-7, get-9)
+det(TV-12, a-10)
+amod(TV-12, great-11)
+dobj(get-9, TV-12)
+nsubj(compares-14, TV-12)
+rcmod(TV-12, compares-14)
+prep_to(compares-14, models-16)
+advmod(compares-14, well-17)
+quantmod(than-19, more-18)
+pobj(well-17, than-19)
+advmod(price-22, twice-20)
+det(price-22, the-21)
+dep(than-19, price-22)
+
+=========
+
+expl('s-2, There-1)
+root(ROOT-0, 's-2)
+det(way-4, no-3)
+nsubj('s-2, way-4)
+nsubj(find-7, you-5)
+aux(find-7, 'll-6)
+rcmod(way-4, find-7)
+det(47-10, a-8)
+number(47-10, 3D-9)
+dobj(find-7, 47-10)
+advmod(Buy-14, Best-13)
+prepc_at(47-10, Buy-14)
+advmod(Buy-14, even-15)
+prep_close_to(Buy-14, this-18)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+

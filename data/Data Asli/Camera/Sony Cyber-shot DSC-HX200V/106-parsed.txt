@@ -1,0 +1,32 @@
+=========
+
+det(Camara-2, This-1)
+nsubj(has-3, Camara-2)
+root(ROOT-0, has-3)
+nn(i-5, everything-4)
+dobj(has-3, i-5)
+partmod(i-5, wantend-6)
+dep(wantend-6, for-7)
+poss(Step-9, my-8)
+pobj(for-7, Step-9)
+prt(wantend-6, up-10)
+poss(pop-16, my-12)
+nn(pop-16, Sony-13)
+nn(pop-16, Cyber-14)
+nn(pop-16, Shot-15)
+prep_from(wantend-6, pop-16)
+nn(camera-19, shot-18)
+prep_from(wantend-6, camera-19)
+conj_and(pop-16, camera-19)
+
+=========
+
+nsubj(Recomend-3, I-1)
+aux(Recomend-3, would-2)
+root(ROOT-0, Recomend-3)
+prep_to(Recomend-3, anyone-5)
+partmod(anyone-5, looking-6)
+det(step-10, the-8)
+amod(step-10, next-9)
+prep_for(looking-6, step-10)
+

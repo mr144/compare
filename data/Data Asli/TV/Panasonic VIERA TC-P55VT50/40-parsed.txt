@@ -1,0 +1,35 @@
+=========
+
+det(TV-2, The-1)
+nsubj(easy-5, TV-2)
+cop(easy-5, was-3)
+advmod(easy-5, very-4)
+root(ROOT-0, easy-5)
+prep_to(easy-5, setup-7)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(great-6, quality-3)
+cop(great-6, is-4)
+advmod(great-6, just-5)
+root(ROOT-0, great-6)
+mark(features-12, as-8)
+cop(features-12, are-9)
+det(features-12, the-10)
+amod(features-12, extra-11)
+advcl(great-6, features-12)
+partmod(features-12, offered-13)
+det(tv-16, the-15)
+agent(offered-13, tv-16)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, highly-3)
+root(ROOT-0, recommend-4)
+det(tv-6, this-5)
+dobj(recommend-4, tv-6)
+

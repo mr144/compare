@@ -1,0 +1,29 @@
+=========
+
+det(camera-2, This-1)
+nsubj(is-3, camera-2)
+root(ROOT-0, is-3)
+dep(wanted-7, exactly-4)
+dep(exactly-4, what-5)
+nsubj(wanted-7, I-6)
+ccomp(is-3, wanted-7)
+
+=========
+
+nsubj(seen-3, I-1)
+aux(seen-3, have-2)
+root(ROOT-0, seen-3)
+det(camera-5, this-4)
+dobj(seen-3, camera-5)
+prep_for(camera-5, sale-7)
+amod(places-10, other-9)
+prep_in(seen-3, places-10)
+nsubj(think-13, I-12)
+conj_and(seen-3, think-13)
+nsubj(paid-15, I-14)
+ccomp(think-13, paid-15)
+det(price-18, the-16)
+amod(price-18, best-17)
+dobj(paid-15, price-18)
+advmod(paid-15, ever-19)
+

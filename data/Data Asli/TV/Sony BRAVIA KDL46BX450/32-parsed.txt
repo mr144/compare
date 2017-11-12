@@ -1,0 +1,31 @@
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, absolutely-2)
+root(ROOT-0, love-3)
+det(TV-5, this-4)
+dobj(love-3, TV-5)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(quality-5, the-3)
+amod(quality-5, best-4)
+dobj(has-2, quality-5)
+det(brands-9, all-7)
+amod(brands-9, other-8)
+prep_among(quality-5, brands-9)
+nsubj(believe-12, I-11)
+dep(has-2, believe-12)
+det(price-16, the-15)
+dobj(paid-19, price-16)
+nsubj(price-23, price-16)
+complm(paid-19, that-17)
+nsubj(paid-19, I-18)
+dep(price-16, paid-19)
+cop(price-23, was-20)
+det(price-23, a-21)
+amod(price-23, reasonable-22)
+conj_and(has-2, price-23)
+

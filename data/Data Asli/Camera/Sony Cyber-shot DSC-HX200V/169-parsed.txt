@@ -1,0 +1,59 @@
+=========
+
+det(product-2, This-1)
+nsubj(is-3, product-2)
+ccomp(excited-15, is-3)
+dep(ordered-7, exactly-4)
+dep(exactly-4, what-5)
+nsubj(ordered-7, I-6)
+ccomp(is-3, ordered-7)
+poss(wife-10, My-9)
+nsubj(excited-15, wife-10)
+conj_and(wife-10, I-12)
+nsubj(excited-15, I-12)
+cop(excited-15, were-13)
+advmod(excited-15, so-14)
+root(ROOT-0, excited-15)
+prep_about(excited-15, it-17)
+
+=========
+
+det(movies-2, The-1)
+nsubj(thing-8, movies-2)
+conj_and(movies-2, pictures-4)
+nsubj(thing-8, pictures-4)
+cop(thing-8, are-5)
+det(thing-8, a-6)
+amod(thing-8, different-7)
+root(ROOT-0, thing-8)
+cop(great-12, is-10)
+advmod(great-12, just-11)
+rcmod(thing-8, great-12)
+
+=========
+
+nsubj(taking-3, we-1)
+aux(taking-3, are-2)
+root(ROOT-0, taking-3)
+dobj(taking-3, pictures-4)
+prep(taking-3, at-5)
+pcomp(at-5, anywhere-6)
+pcomp(at-5, anytime-8)
+conj_and(anywhere-6, anytime-8)
+
+=========
+
+nsubj(quick-4, Shipment-1)
+nsubj(easy-8, Shipment-1)
+cop(quick-4, was-2)
+advmod(quick-4, very-3)
+root(ROOT-0, quick-4)
+cop(easy-8, was-6)
+advmod(easy-8, very-7)
+conj_and(quick-4, easy-8)
+aux(do-10, to-9)
+xcomp(easy-8, do-10)
+predet(operation-13, all-11)
+det(operation-13, the-12)
+dobj(do-10, operation-13)
+

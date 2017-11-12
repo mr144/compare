@@ -1,0 +1,88 @@
+=========
+
+det(item-2, This-1)
+nsubj(curve-8, item-2)
+cop(curve-8, is-3)
+det(curve-8, an-4)
+amod(curve-8, unlocked-5)
+nn(curve-8, TMOBILE-6)
+nn(curve-8, blackberry-7)
+root(ROOT-0, curve-8)
+
+=========
+
+nsubj(work-4, It-1)
+aux(work-4, does-2)
+neg(work-4, not-3)
+root(ROOT-0, work-4)
+prep_on(work-4, AT&T-6)
+num(AT&T-6, 3G-7)
+
+=========
+
+nn(NOT-2, DOES-1)
+nsubj(WORK-3, NOT-2)
+root(ROOT-0, WORK-3)
+prt(WORK-3, ON-4)
+dobj(WORK-3, AT&T-5)
+num(AT&T-5, 3G-6)
+
+=========
+
+det(listing-2, The-1)
+nsubj(gives-3, listing-2)
+root(ROOT-0, gives-3)
+iobj(gives-3, you-4)
+det(impression-6, the-5)
+dobj(gives-3, impression-6)
+complm(will-9, that-7)
+nsubj(will-9, it-8)
+ccomp(gives-3, will-9)
+nsubj(silent-15, it-12)
+cop(silent-15, is-13)
+advmod(silent-15, curiously-14)
+conj_but(gives-3, silent-15)
+advmod(concerned-20, where-16)
+det(frequencies-18, the-17)
+nsubj(concerned-20, frequencies-18)
+cop(concerned-20, are-19)
+advcl(silent-15, concerned-20)
+
+=========
+
+aux(buy-3, do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, this-4)
+mark(NOT-8, unless-5)
+nsubj(NOT-8, you-6)
+cop(NOT-8, are-7)
+advcl(buy-3, NOT-8)
+prep_on(NOT-8, AT&T-10)
+nsubj(know-14, you-13)
+conj_and(buy-3, know-14)
+dep(frequency-16, what-15)
+dobj(know-14, frequency-16)
+dobj(uses-19, frequency-16)
+poss(carrier-18, your-17)
+nsubj(uses-19, carrier-18)
+rcmod(frequency-16, uses-19)
+prep_for(uses-19, 3G-21)
+
+=========
+
+advmod(decent-6, Otherwise-1)
+det(phone-4, the-3)
+nsubj(decent-6, phone-4)
+cop(decent-6, is-5)
+root(ROOT-0, decent-6)
+
+=========
+
+poss(budget-4, your-1)
+amod(budget-4, standard-2)
+amod(budget-4, low-3)
+nsubj(feature-5, budget-4)
+root(ROOT-0, feature-5)
+dobj(feature-5, phone-6)
+

@@ -1,0 +1,27 @@
+=========
+
+nsubj(came-2, it-1)
+root(ROOT-0, came-2)
+ccomp(came-2, unlocked-3)
+advmod(described-7, how-5)
+auxpass(described-7, is-6)
+prepc_like(unlocked-3, described-7)
+xcomp(described-7, !!!-8)
+nsubj(upgraded-11, I-9)
+advmod(upgraded-11, just-10)
+ccomp(!!!-8, upgraded-11)
+number(7.8-14, windows-13)
+prep_with(upgraded-11, 7.8-14)
+nn(suite-17, nokia-16)
+prep_by(upgraded-11, suite-17)
+
+=========
+
+det(issues-2, no-1)
+root(ROOT-0, issues-2)
+
+=========
+
+root(ROOT-0, love-1)
+dobj(love-1, it-2)
+

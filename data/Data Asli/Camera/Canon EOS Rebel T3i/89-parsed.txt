@@ -1,0 +1,26 @@
+=========
+
+det(product-2, This-1)
+nsubj(great-4, product-2)
+cop(great-4, is-3)
+ccomp(cheap-8, great-4)
+nsubj(cheap-8, it-6)
+cop(cheap-8, is-7)
+root(ROOT-0, cheap-8)
+advmod(cheap-8, too-9)
+
+=========
+
+amod(reviews-2, great-1)
+nsubj(i-7, reviews-2)
+xsubj(say-12, reviews-2)
+amod(product-5, great-4)
+appos(reviews-2, product-5)
+root(ROOT-0, i-7)
+dep(i-7, have-8)
+dobj(have-8, nothing-9)
+advmod(have-8, much-10)
+aux(say-12, to-11)
+xcomp(have-8, say-12)
+prep_about(say-12, it-14)
+

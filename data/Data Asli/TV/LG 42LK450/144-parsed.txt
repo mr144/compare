@@ -1,0 +1,40 @@
+=========
+
+nsubj(had-3, We-1)
+nsubj(happy-12, We-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(TV-5, the-4)
+dobj(had-3, TV-5)
+det(while-7, a-6)
+npadvmod(now-8, while-7)
+advmod(had-3, now-8)
+cop(happy-12, are-10)
+advmod(happy-12, very-11)
+conj_and(had-3, happy-12)
+prep_with(happy-12, it-14)
+
+=========
+
+det(picture-2, The-1)
+nsubj(excellent-4, picture-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+
+=========
+
+nsubj(mounted-2, We-1)
+root(ROOT-0, mounted-2)
+dobj(mounted-2, it-3)
+det(wall-6, the-5)
+prep_on(mounted-2, wall-6)
+nsubj(looks-10, it-9)
+conj_and(mounted-2, looks-10)
+acomp(looks-10, great-11)
+
+=========
+
+root(ROOT-0, Nice-1)
+amod(tv-4, big-3)
+appos(Nice-1, tv-4)
+

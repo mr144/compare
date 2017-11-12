@@ -1,0 +1,8 @@
+Size_NN :_: It_PRP is_VBZ not_RB that_IN small_JJ ,_, but_CC not_RB that_IN big_JJ ._.
+It_PRP is_VBZ not_RB a_DT pocket_NN camera_NN to_TO carry_VB with_IN ,_, yet_CC it_PRP is_VBZ kind_NN of_IN small_JJ in_IN your_PRP$ hand_NN for_IN a_DT good_JJ grip_NN ._.
+Focus_NN :_: It_PRP will_MD get_VB the_DT focus_NN ,_, but_CC slow_JJ for_IN my_PRP$ taste_NN ._.
+Lens_NNP :_: The_DT kid_NN lens_NN tend_VBP to_TO be_VB too_RB warm_JJ and_CC mask_NN a_DT yellowish_NN to_TO the_DT images_NNS ._.
+battery_NN is_VBZ good_JJ ,_, it_PRP hold_VBP a_DT charge_NN for_IN months_NNS in_IN storage_NN and_CC last_VB the_DT whole_JJ day_NN on_IN a_DT typical_JJ use_NN ._.
+Video_NNP :_: I_PRP like_VBP it_PRP a_DT lot_NN ._.
+I_PRP would_MD say_VB ,_, it_PRP does_VBZ video_NN better_RBR than_IN still_RB picture_NN ._.
+This_DT camera_NN is_VBZ better_JJR than_IN canon_NN ,_, fujifilm_NN ,_, GE_NNP ,_, Coolpix_NNP ,_, Panasonic_NNP ,_, pentax_NN ,_, kodak_NN or_CC sony_NN ._.

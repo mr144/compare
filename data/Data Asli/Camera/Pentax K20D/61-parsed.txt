@@ -1,0 +1,25 @@
+=========
+
+amod(image-2, Fantastic-1)
+root(ROOT-0, image-2)
+dep(image-2, quality-3)
+amod(spec-6, full-5)
+dep(image-2, spec-6)
+conj_and(quality-3, spec-6)
+
+=========
+
+prep_with(etc.-11, in-body-stabilation-2)
+nn(proof-5, weather-4)
+nsubj(etc.-11, proof-5)
+nn(correction-8, focus-7)
+appos(proof-5, correction-8)
+prep_for(correction-8, lenses-10)
+root(ROOT-0, etc.-11)
+xcomp(etc.-11, Looking-12)
+prt(Looking-12, forward-13)
+prepc_to(Looking-12, having-15)
+det(Pentax-18, a-16)
+nn(Pentax-18, FF-17)
+dobj(having-15, Pentax-18)
+

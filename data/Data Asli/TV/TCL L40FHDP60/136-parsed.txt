@@ -1,0 +1,47 @@
+=========
+
+det(tv-2, This-1)
+nsubj(easy-4, tv-2)
+cop(easy-4, was-3)
+root(ROOT-0, easy-4)
+aux(set-6, to-5)
+xcomp(easy-4, set-6)
+prt(set-6, up-7)
+
+=========
+
+csubj(looks-7, Has-1)
+advmod(good-3, very-2)
+amod(sound-4, good-3)
+dobj(Has-1, sound-4)
+dobj(Has-1, picture-6)
+conj_and(sound-4, picture-6)
+root(ROOT-0, looks-7)
+acomp(looks-7, good-8)
+
+=========
+
+advmod(problem-2, Only-1)
+nsubj(is-3, problem-2)
+root(ROOT-0, is-3)
+nsubj(have-7, I-4)
+aux(have-7, do-5)
+neg(have-7, not-6)
+ccomp(is-3, have-7)
+det(code-11, a-8)
+amod(code-11, good-9)
+amod(code-11, remote-10)
+dobj(have-7, code-11)
+det(comcast-14, a-13)
+prep_for(code-11, comcast-14)
+amod(comcast-14, remote-15)
+
+=========
+
+nsubj(came-3, Remote-1)
+nsubj(works-6, Remote-1)
+rcmod(Remote-1, came-3)
+prep_with(came-3, tv-5)
+root(ROOT-0, works-6)
+acomp(works-6, great-7)
+

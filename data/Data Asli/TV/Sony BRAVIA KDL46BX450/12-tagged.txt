@@ -1,0 +1,2 @@
+Just_RB set_VBN up_RP my_PRP$ new_JJ Sony_NNP 46_CD '_POS tv_NN and_CC it_PRP has_VBZ a_DT great_JJ picture_NN and_CC sound_NN ._.
+I_PRP bought_VBD it_PRP on_IN Amazon_NNP and_CC I_PRP am_VBP so_RB happy_JJ with_IN it_PRP ._.

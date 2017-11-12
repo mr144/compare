@@ -1,0 +1,2 @@
+There_EX is_VBZ another_DT expression_NN for_IN the_DT purchase_NN of_IN this_DT product_NN ,_, a_DT very_RB competitive_JJ price_NN ,_, the_DT time_NN between_IN the_DT order_NN and_CC final_JJ delivery_NN of_IN the_DT product_NN were_VBD within_IN the_DT estimated_VBN ranges_NNS and_CC in_IN good_JJ condition_NN ._.
+I_PRP am_VBP enjoying_VBG my_PRP$ Sony_NNP as_IN a_DT child_NN with_IN a_DT new_JJ toy_NN ._.

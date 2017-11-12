@@ -1,0 +1,50 @@
+=========
+
+nsubj(HDTV-5, This-1)
+cop(HDTV-5, is-2)
+det(HDTV-5, an-3)
+amod(HDTV-5, awesome-4)
+root(ROOT-0, HDTV-5)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+advmod(amount-6, just-3)
+det(amount-6, the-4)
+amod(amount-6, right-5)
+dobj(has-2, amount-6)
+nn(plug-ins-9, HDMI-8)
+prep_of(amount-6, plug-ins-9)
+
+=========
+
+nsubj(wished-3, I-1)
+advmod(wished-3, just-2)
+root(ROOT-0, wished-3)
+nsubj(had-5, it-4)
+ccomp(wished-3, had-5)
+det(input-11, an-6)
+advmod(air-9, over-7)
+det(air-9, the-8)
+npadvmod(antennae-10, air-9)
+amod(input-11, antennae-10)
+dobj(had-5, input-11)
+prep_in(input-11, addition-13)
+det(input-17, a-15)
+nn(input-17, cable-16)
+prep_to(had-5, input-17)
+mark(pull-21, so-18)
+nsubj(pull-21, I-19)
+aux(pull-21, could-20)
+dep(input-17, pull-21)
+poss(local-23, my-22)
+dobj(pull-21, local-23)
+det(stations-27, the-25)
+nn(stations-27, air-26)
+prep_over(pull-21, stations-27)
+advmod(drops-30, when-28)
+nsubj(drops-30, cable-29)
+advcl(pull-21, drops-30)
+prt(drops-30, out-31)
+

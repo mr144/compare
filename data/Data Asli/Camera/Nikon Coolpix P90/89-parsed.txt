@@ -1,0 +1,59 @@
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+poss(P90-8, my-6)
+nn(P90-8, Nikon-7)
+prep_with(happy-4, P90-8)
+
+=========
+
+nsubj(has-2, It-1)
+nsubj(makes-9, It-1)
+root(ROOT-0, has-2)
+det(lot-4, a-3)
+dobj(has-2, lot-4)
+prep_of(lot-4, possibilities-6)
+conj_and(has-2, makes-9)
+amod(pictures-11, beautiful-10)
+dobj(makes-9, pictures-11)
+dobj(makes-9, film-13)
+conj_and(pictures-11, film-13)
+
+=========
+
+nsubj(zoom-2, Wonderful-1)
+nsubj(love-5, Wonderful-1)
+root(ROOT-0, zoom-2)
+conj_and(zoom-2, love-5)
+det(option-8, the-6)
+nn(option-8, powershop-7)
+dobj(love-5, option-8)
+
+=========
+
+nsubj(found-5, I-1)
+advmod(found-5, still-2)
+aux(found-5, have-3)
+neg(found-5, not-4)
+root(ROOT-0, found-5)
+prt(found-5, out-6)
+predet(possibilities-9, all-7)
+poss(possibilities-9, its-8)
+dobj(found-5, possibilities-9)
+aux(started-14, to-12)
+auxpass(started-14, get-13)
+csubj(easy-17, started-14)
+cop(easy-17, was-15)
+advmod(easy-17, relatively-16)
+conj_but(found-5, easy-17)
+
+=========
+
+amod(camera-2, Great-1)
+root(ROOT-0, camera-2)
+advmod(pleased-5, very-4)
+amod(camera-2, pleased-5)
+

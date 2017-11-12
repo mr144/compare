@@ -1,0 +1,108 @@
+=========
+
+nsubj(photographer-6, I-1)
+cop(photographer-6, am-2)
+neg(photographer-6, not-3)
+det(photographer-6, a-4)
+amod(photographer-6, professional-5)
+root(ROOT-0, photographer-6)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+det(camera-5, this-4)
+dobj(like-3, camera-5)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(amazing-4, zoom-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+nsubj(big-5, it-1)
+cop(big-5, is-2)
+det(little-4, a-3)
+npadvmod(big-5, little-4)
+root(ROOT-0, big-5)
+nsubj(guess-8, I-7)
+conj_but(big-5, guess-8)
+nsubj(going-11, they-9)
+aux(going-11, were-10)
+ccomp(guess-8, going-11)
+det(look-16, the-13)
+amod(look-16, pro-14)
+nn(look-16, camera-15)
+prep_for(going-11, look-16)
+
+=========
+
+mark(take-3, If-1)
+nsubj(take-3, you-2)
+csubj(pauses-15, take-3)
+csubj(gets-17, take-3)
+dobj(take-3, pictures-4)
+advmod(take-3, right-5)
+prep_after(take-3, another-7)
+nsubj(blurry-10, they-8)
+cop(blurry-10, are-9)
+rcmod(another-7, blurry-10)
+prep_after(take-3, or-12)
+conj_or(another-7, or-12)
+det(camera-14, the-13)
+prep_after(take-3, camera-14)
+conj_or(another-7, camera-14)
+root(ROOT-0, pauses-15)
+conj_or(pauses-15, gets-17)
+dobj(pauses-15, kind-18)
+prep_of(kind-18, frozen-20)
+
+=========
+
+det(picture-3, The-1)
+amod(picture-3, video-2)
+nsubj(excellent-5, picture-3)
+cop(excellent-5, is-4)
+root(ROOT-0, excellent-5)
+det(stink-9, the-7)
+amod(stink-9, sound-8)
+poss(cant-12, stink-9)
+nn(cant-12, you-11)
+nsubj(hear-13, cant-12)
+nsubj(Muffled-16, cant-12)
+conj_but(excellent-5, hear-13)
+dobj(hear-13, anything-14)
+conj_but(excellent-5, Muffled-16)
+conj_but(hear-13, Muffled-16)
+dobj(Muffled-16, noise-17)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(fine-5, quality-3)
+cop(fine-5, is-4)
+root(ROOT-0, fine-5)
+
+=========
+
+nsubj(happy-3, I-1)
+cop(happy-3, am-2)
+root(ROOT-0, happy-3)
+advmod(happy-3, enough-4)
+mark(is-11, with-5)
+det(camera-7, the-6)
+nsubj(is-11, camera-7)
+det(price-10, the-9)
+conj_and(camera-7, price-10)
+nsubj(is-11, price-10)
+ccomp(happy-3, is-11)
+nsubj(sold-14, what-12)
+advmod(sold-14, really-13)
+ccomp(is-11, sold-14)
+dobj(sold-14, me-15)
+

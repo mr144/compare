@@ -1,0 +1,6 @@
+studied_VBN different_JJ tvs_NNS '_POS before_IN buying_VBG this_DT product_NN ._.
+the_DT lg_NN for_IN the_DT price_NN was_VBD a_DT good_JJ deal_NN ._.
+have_VBP had_VBN it_PRP for_IN several_JJ months_NNS with_IN no_DT troubles_NNS ._.
+the_DT speakers_NNS for_IN a_DT flat_JJ screen_NN are_VBP actually_RB good_JJ ._.
+good_JJ picture_NN ,_, good_JJ sound_NN ,_, easy_JJ to_TO set_VB up_RP ._.
+in_IN all_DT ,_, a_DT good_JJ tv_NN ._.

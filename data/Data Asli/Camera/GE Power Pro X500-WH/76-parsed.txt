@@ -1,0 +1,32 @@
+=========
+
+det(camera-2, This-1)
+nsubjpass(bought-4, camera-2)
+auxpass(bought-4, was-3)
+root(ROOT-0, bought-4)
+poss(birthday-9, my-6)
+amod(birthday-9, nieces-7)
+amod(birthday-9, 16th-8)
+prep_for(bought-4, birthday-9)
+
+=========
+
+nsubj(giving-3, I-1)
+aux(giving-3, am-2)
+root(ROOT-0, giving-3)
+amod(stars-5, fives-4)
+dobj(giving-3, stars-5)
+mark(loves-8, because-6)
+nsubj(loves-8, she-7)
+advcl(giving-3, loves-8)
+dobj(loves-8, it-9)
+nsubj(does-12, it-11)
+conj_and(giving-3, does-12)
+dobj(does-12, everything-13)
+dobj(wants-15, everything-13)
+nsubj(wants-15, she-14)
+rcmod(everything-13, wants-15)
+nsubj(do-18, it-16)
+aux(do-18, to-17)
+xcomp(wants-15, do-18)
+

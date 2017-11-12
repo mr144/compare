@@ -1,0 +1,96 @@
+=========
+
+advmod(TV-4, Just-1)
+det(TV-4, a-2)
+amod(TV-4, perfect-3)
+root(ROOT-0, TV-4)
+
+=========
+
+expl('s-2, There-1)
+root(ROOT-0, 's-2)
+neg('s-2, not-3)
+advmod(else-5, much-4)
+acomp('s-2, else-5)
+nsubj(say-8, I-6)
+aux(say-8, can-7)
+ccomp(else-5, say-8)
+
+=========
+
+advmod(returned-2, Just-1)
+root(ROOT-0, returned-2)
+det(6200-6, the-3)
+nn(6200-6, LG-4)
+nn(6200-6, LCD-5)
+dobj(returned-2, 6200-6)
+det(tv-9, this-8)
+dobj(returned-2, tv-9)
+conj_and(6200-6, tv-9)
+auxpass(returned-2, is-10)
+nsubjpass(returned-2, leaps-11)
+nsubjpass(returned-2, bounds-13)
+conj_and(leaps-11, bounds-13)
+det(LG-16, the-15)
+prep_above(leaps-11, LG-16)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, so-3)
+root(ROOT-0, happy-4)
+aux(have-7, to-5)
+neg(have-7, not-6)
+xcomp(happy-4, have-7)
+det(effect-13, that-8)
+nn(effect-13, soap-10)
+nn(effect-13, opera-11)
+dobj(have-7, effect-13)
+dep(more-15, any-14)
+amod(effect-13, more-15)
+
+=========
+
+nsubjpass(disappointed-5, You-1)
+aux(disappointed-5, will-2)
+neg(disappointed-5, not-3)
+auxpass(disappointed-5, be-4)
+root(ROOT-0, disappointed-5)
+det(tv-8, this-7)
+agent(disappointed-5, tv-8)
+
+=========
+
+aux(turn-2, To-1)
+csubj(hit-9, turn-2)
+csubj(go-16, turn-2)
+prt(turn-2, off-3)
+det(ad-7, the-4)
+nn(ad-7, startup-5)
+nn(ad-7, banner-6)
+dobj(turn-2, ad-7)
+advmod(hit-9, just-8)
+root(ROOT-0, hit-9)
+acomp(hit-9, amenu-10)
+det(remote-14, the-13)
+prep_on(amenu-10, remote-14)
+conj_and(hit-9, go-16)
+prep_to(go-16, setup-19)
+
+=========
+
+root(ROOT-0, Scroll-1)
+prt(Scroll-1, down-2)
+amod(setup-6, advanced-5)
+prep_to(Scroll-1, setup-6)
+conj_and(Scroll-1, switch-9)
+det(banner-13, the-10)
+nn(banner-13, Viera-11)
+nn(banner-13, connect-12)
+dobj(switch-9, banner-13)
+prep(banner-13, to-14)
+pobj(to-14, off-16)
+dobj(switch-9, viola-19)
+conj_and(banner-13, viola-19)
+

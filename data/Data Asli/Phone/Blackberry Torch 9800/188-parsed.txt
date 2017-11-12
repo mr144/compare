@@ -1,0 +1,33 @@
+=========
+
+nsubjpass(addicted-4, I-1)
+aux(addicted-4, have-2)
+auxpass(addicted-4, become-3)
+root(ROOT-0, addicted-4)
+det(beauty-7, this-6)
+prep_to(addicted-4, beauty-7)
+
+=========
+
+nsubj(leaves-3, It-1)
+neg(leaves-3, never-2)
+root(ROOT-0, leaves-3)
+poss(hands-5, my-4)
+dobj(leaves-3, hands-5)
+
+=========
+
+nsubj(sleep-2, I-1)
+root(ROOT-0, sleep-2)
+xcomp(sleep-2, holding-3)
+prt(holding-3, on-4)
+prep_to(holding-3, it-6)
+
+=========
+
+root(ROOT-0, At-1)
+amod(phone-5, last-2)
+det(phone-5, the-3)
+amod(phone-5, perfect-4)
+pobj(At-1, phone-5)
+

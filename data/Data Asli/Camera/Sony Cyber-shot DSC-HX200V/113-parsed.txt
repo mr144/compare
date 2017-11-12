@@ -1,0 +1,50 @@
+=========
+
+amod(camera-2, good-1)
+root(ROOT-0, camera-2)
+appos(camera-2, one-4)
+det(cameras-8, the-6)
+amod(cameras-8, best-7)
+prep_of(one-4, cameras-8)
+dobj(seen-11, cameras-8)
+nsubj(seen-11, I-9)
+aux(seen-11, have-10)
+rcmod(cameras-8, seen-11)
+
+=========
+
+nsubj(love-2, i-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+prep(love-2, especially-5)
+poss(ability-8, his-6)
+amod(ability-8, great-7)
+pobj(especially-5, ability-8)
+aux(zoom-10, to-9)
+infmod(ability-8, zoom-10)
+poss(mp-14, your-12)
+num(mp-14, 18.2-13)
+pobj(especially-5, mp-14)
+conj_and(ability-8, mp-14)
+
+=========
+
+advmod(better-6, Overall-1)
+det(camera-4, this-3)
+nsubj(better-6, camera-4)
+cop(better-6, is-5)
+root(ROOT-0, better-6)
+prep_than(better-6, lumix-8)
+prep_than(better-6, Canon-10)
+conj_or(lumix-8, Canon-10)
+prep_than(better-6, kodak-12)
+conj_or(lumix-8, kodak-12)
+prep_than(better-6, pentak-14)
+conj_or(lumix-8, pentak-14)
+prep_than(better-6, fujifilm-16)
+conj_or(lumix-8, fujifilm-16)
+prep_than(better-6, GE-18)
+conj_or(lumix-8, GE-18)
+prep_than(better-6, coolpix-20)
+conj_or(lumix-8, coolpix-20)
+

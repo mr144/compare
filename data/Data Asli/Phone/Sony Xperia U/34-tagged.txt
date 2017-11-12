@@ -1,0 +1,3 @@
+I_PRP have_VBP upgraded_VBN to_TO Android_NNP 4_CD without_IN any_DT problem_NN ._.
+The_DT screen_NN is_VBZ quite_RB responsive_JJ ,_, and_CC the_DT texting_NN in_IN landscape_NN mode_NN is_VBZ quite_RB easy_JJ ._.
+I_PRP have_VBP not_RB had_VBN it_PRP long_RB enough_RB to_TO try_VB out_RP all_DT of_IN the_DT features_NNS ,_, but_CC at_IN this_DT point_NN ,_, I_PRP am_VBP very_RB pleased_JJ with_IN it_PRP ._.

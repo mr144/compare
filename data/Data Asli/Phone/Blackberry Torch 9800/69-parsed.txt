@@ -1,0 +1,31 @@
+=========
+
+nsubj(gift-4, this-1)
+cop(gift-4, was-2)
+det(gift-4, a-3)
+root(ROOT-0, gift-4)
+poss(sister-8, my-6)
+nn(sister-8, lil-7)
+prep_for(gift-4, sister-8)
+nsubj(happy-13, she-10)
+cop(happy-13, is-11)
+advmod(happy-13, extremely-12)
+conj_and(gift-4, happy-13)
+poss(phone-17, her-15)
+amod(phone-17, new-16)
+prep_with(happy-13, phone-17)
+
+=========
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+advmod(what-4, exactly-3)
+nsubjpass(expected-6, what-4)
+auxpass(expected-6, was-5)
+ccomp(was-2, expected-6)
+
+=========
+
+npadvmod(again-2, thanks-1)
+root(ROOT-0, again-2)
+

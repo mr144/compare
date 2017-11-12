@@ -1,0 +1,43 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, the-3)
+amod(camera-5, best-4)
+root(ROOT-0, camera-5)
+dobj(had-9, camera-5)
+nsubj(had-9, I-6)
+aux(had-9, have-7)
+advmod(had-9, ever-8)
+rcmod(camera-5, had-9)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+dep(Easy-1, use-3)
+
+=========
+
+mark(read-3, Once-1)
+nsubj(read-3, you-2)
+advcl(amazing-9, read-3)
+det(manual-5, the-4)
+dobj(read-3, manual-5)
+nsubj(amazing-9, it-7)
+cop(amazing-9, is-8)
+root(ROOT-0, amazing-9)
+det(things-11, the-10)
+nsubj(do-16, things-11)
+det(guy-14, this-12)
+amod(guy-14, little-13)
+dep(things-11, guy-14)
+aux(do-16, can-15)
+ccomp(amazing-9, do-16)
+
+=========
+
+det(!!!!!-3, A-1)
+nn(!!!!!-3, WINNER-2)
+root(ROOT-0, !!!!!-3)
+

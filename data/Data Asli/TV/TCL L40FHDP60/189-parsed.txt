@@ -1,0 +1,40 @@
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+amod(TV-5, affordable-4)
+root(ROOT-0, TV-5)
+
+=========
+
+nsubj(tested-2, I-1)
+root(ROOT-0, tested-2)
+poss(Pro-5, my-3)
+nn(Pro-5, Macbook-4)
+dobj(tested-2, Pro-5)
+nn(Lion-8, Mountain-7)
+appos(Pro-5, Lion-8)
+appos(Pro-5, Xbox-11)
+nn(port-14, HDMI-13)
+prep_with(Xbox-11, port-14)
+nsubj(working-19, they-17)
+aux(working-19, are-18)
+conj_and(tested-2, working-19)
+acomp(working-19, great-20)
+
+=========
+
+mark(looking-4, If-1)
+nsubj(looking-4, you-2)
+aux(looking-4, are-3)
+root(ROOT-0, looking-4)
+amod(deal-7, great-6)
+prep_for(looking-4, deal-7)
+
+=========
+
+nsubj(it-3, that-1)
+cop(it-3, is-2)
+root(ROOT-0, it-3)
+

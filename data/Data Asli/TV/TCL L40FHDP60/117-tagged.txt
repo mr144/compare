@@ -1,0 +1,2 @@
+This_DT was_VBD a_DT great_JJ buy_NN ._.
+I_PRP got_VBD it_PRP for_IN around_IN 300_CD for_IN the_DT size_NN and_CC 1080_CD P_NN you_PRP wont_VBP find_VB a_DT better_JJR deal_NN

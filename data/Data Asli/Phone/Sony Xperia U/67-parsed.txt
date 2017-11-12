@@ -1,0 +1,83 @@
+=========
+
+poss(daughter-2, My-1)
+nsubj(was-3, daughter-2)
+root(ROOT-0, was-3)
+advmod(was-3, absolutely-4)
+prep_in(was-3, love-6)
+det(phone-9, the-8)
+prep_with(was-3, phone-9)
+
+=========
+
+nsubj(love-2, she-1)
+root(ROOT-0, love-2)
+det(design-5, the-3)
+amod(design-5, sleek-4)
+dobj(love-2, design-5)
+
+=========
+
+nsubj(loved-2, She-1)
+root(ROOT-0, loved-2)
+det(light-5, this-3)
+amod(light-5, fancy-4)
+dobj(loved-2, light-5)
+det(bottom-8, the-7)
+prep_at(loved-2, bottom-8)
+
+=========
+
+nsubjpass(thrilled-3, She-1)
+auxpass(thrilled-3, was-2)
+root(ROOT-0, thrilled-3)
+
+=========
+
+det(problem-3, the-1)
+amod(problem-3, only-2)
+nsubj(was-4, problem-3)
+root(ROOT-0, was-4)
+advmod(was-4, nowhere-5)
+det(information-8, the-7)
+prep_in(was-4, information-8)
+mark(did-12, for-9)
+det(phone-11, the-10)
+nsubj(did-12, phone-11)
+advcl(was-4, did-12)
+nsubj(say-14, it-13)
+ccomp(did-12, say-14)
+nsubj(compatible-18, it-15)
+cop(compatible-18, was-16)
+neg(compatible-18, not-17)
+ccomp(say-14, compatible-18)
+amod(carriers-21, certain-20)
+prep_with(compatible-18, carriers-21)
+
+=========
+
+nsubj(Verizon-3, We-1)
+aux(Verizon-3, had-2)
+root(ROOT-0, Verizon-3)
+
+=========
+
+nsubj(work-4, It-1)
+aux(work-4, does-2)
+neg(work-4, not-3)
+root(ROOT-0, work-4)
+prep_with(work-4, Verizon-6)
+
+=========
+
+dep(went-4, So-1)
+advmod(went-4, back-2)
+nsubj(went-4, it-3)
+root(ROOT-0, went-4)
+
+=========
+
+amod(waste-2, Collosal-1)
+root(ROOT-0, waste-2)
+prep_of(waste-2, time-4)
+

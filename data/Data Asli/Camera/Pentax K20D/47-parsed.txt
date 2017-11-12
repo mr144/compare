@@ -1,0 +1,176 @@
+=========
+
+nsubj(upgraded-2, I-1)
+nsubj(expected-7, I-1)
+root(ROOT-0, upgraded-2)
+det(K10d-5, the-4)
+prep_from(upgraded-2, K10d-5)
+conj_and(upgraded-2, expected-7)
+advmod(tweak-11, just-8)
+det(tweak-11, a-9)
+amod(tweak-11, minor-10)
+dobj(expected-7, tweak-11)
+det(hardware-14, the-13)
+prep_to(expected-7, hardware-14)
+
+=========
+
+det(upgrades-2, The-1)
+nsubj(are-3, upgrades-2)
+root(ROOT-0, are-3)
+advmod(are-3, there-4)
+nsubjpass(surprised-9, I-6)
+auxpass(surprised-9, was-7)
+advmod(surprised-9, really-8)
+conj_but(are-3, surprised-9)
+det(colors-14, the-11)
+advmod(saturated-13, more-12)
+amod(colors-14, saturated-13)
+agent(surprised-9, colors-14)
+
+=========
+
+nsubj(thought-2, I-1)
+root(ROOT-0, thought-2)
+poss(polarizer-4, my-3)
+nsubj(was-5, polarizer-4)
+ccomp(thought-2, was-5)
+prep_at(was-5, fault-7)
+nsubj(using-13, i-10)
+aux(using-13, was-11)
+neg(using-13, not-12)
+conj_but(thought-2, using-13)
+dobj(using-13, it-14)
+
+=========
+
+nsubj(underexposes-3, It-1)
+advmod(underexposes-3, still-2)
+root(ROOT-0, underexposes-3)
+quantmod(1-5, about-4)
+num(fstop-6, 1-5)
+dobj(underexposes-3, fstop-6)
+det(K10D-9, the-8)
+prep_like(fstop-6, K10D-9)
+det(biggy-12, no-11)
+appos(K10D-9, biggy-12)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+det(camera-7, a-5)
+amod(camera-7, second-6)
+prep_for(this-3, camera-7)
+nn(photography-10, wedding-9)
+prep_for(camera-7, photography-10)
+aux(get-14, can-12)
+neg(get-14, not-13)
+dep(camera-7, get-14)
+prep(get-14, by-15)
+pcomp(by-15, with-16)
+num(camera-18, one-17)
+prep_with(by-15, camera-18)
+advmod(dangerous-21, too-20)
+dep(get-14, dangerous-21)
+
+=========
+
+num(megapixels-3, 4-2)
+npadvmod(more-4, megapixels-3)
+prepc_with(get-12, more-4)
+nsubj(get-12, resolution-5)
+aux(play-7, to-6)
+infmod(resolution-5, play-7)
+prep_with(play-7, I-9)
+aux(get-12, can-10)
+advmod(get-12, also-11)
+root(ROOT-0, get-12)
+prep(get-12, by-13)
+pcomp(by-13, with-14)
+prepc_with(by-13, shooting-15)
+amod(position-18, horizontal-17)
+prep_in(shooting-15, position-18)
+prepc_with(by-13, doing-20)
+conj_and(shooting-15, doing-20)
+xcomp(doing-20, cropping-21)
+amod(format-24, vertical-23)
+prep_to(cropping-21, format-24)
+amod(cases-27, many-26)
+prep_in(format-24, cases-27)
+
+=========
+
+amod(life-2, Makes-1)
+root(ROOT-0, life-2)
+amod(life-2, simpler-3)
+prepc_than(simpler-3, shooting-5)
+number(1\/2-7, vertically-6)
+dobj(shooting-5, 1\/2-7)
+iobj(shooting-5, 1\/2-7)
+det(time-9, the-8)
+dobj(shooting-5, time-9)
+dep(1\/2-7, time-9)
+
+=========
+
+amod(control-2, Noise-1)
+nsubj(better-5, control-2)
+cop(better-5, is-3)
+npadvmod(better-5, way-4)
+root(ROOT-0, better-5)
+prep(better-5, at-6)
+num(ISO-8, 800-7)
+npadvmod(too-9, ISO-8)
+pcomp(at-6, too-9)
+dep(better-5, Good-11)
+amod(churches-14, dark-13)
+prep_for(Good-11, churches-14)
+
+=========
+
+aux(tried-3, Have-1)
+neg(tried-3, not-2)
+root(ROOT-0, tried-3)
+nn(ISO-5, 1600-4)
+dep(tried-3, ISO-5)
+advmod(ISO-5, yet-6)
+
+=========
+
+prep(!!!-5, As-1)
+pcomp(As-1, always-2)
+nn(Rocks-4, Pentax-3)
+nsubj(!!!-5, Rocks-4)
+root(ROOT-0, !!!-5)
+nsubj(got-7, I-6)
+ccomp(!!!-5, got-7)
+det(cheapest-9, the-8)
+dobj(got-7, cheapest-9)
+dep(cheapest-9, legitimate-11)
+
+=========
+
+nn(I-2, price-1)
+nsubj(find-4, I-2)
+aux(find-4, could-3)
+root(ROOT-0, find-4)
+advmod(right-6, anywhere-5)
+advmod(find-4, right-6)
+prep_on(find-4, Amazon-8)
+
+=========
+
+root(ROOT-0, Beware-1)
+det(cheapo-3, the-2)
+nsubj(websites-4, cheapo-3)
+ccomp(Beware-1, websites-4)
+nsubj(\*-7, they-5)
+aux(\*-7, are-6)
+ccomp(websites-4, \*-7)
+neg(prices-11, not-8)
+amod(prices-11, real-9)
+nn(prices-11, \*-10)
+dobj(\*-7, prices-11)
+

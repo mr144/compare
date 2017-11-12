@@ -1,0 +1,22 @@
+=========
+
+root(ROOT-0, love-1)
+dobj(love-1, it-2)
+prep_for(love-1, everything-4)
+parataxis(love-1, enjoying-6)
+xcomp(love-1, enjoying-6)
+det(full-9, the-8)
+prep_to(enjoying-6, full-9)
+det(quality-13, the-10)
+amod(quality-13, awesome-11)
+nn(quality-13, picture-12)
+dep(full-9, quality-13)
+prep_to(enjoying-6, some-15)
+conj_and(full-9, some-15)
+det(apps-18, the-17)
+prep_of(some-15, apps-18)
+nsubj(looks-23, it-21)
+advmod(looks-23, definitely-22)
+conj_and(love-1, looks-23)
+acomp(looks-23, awesome-24)
+

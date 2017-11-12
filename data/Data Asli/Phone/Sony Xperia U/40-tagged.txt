@@ -1,0 +1,3 @@
+I_PRP do_VBP love_VB this_DT phone_NN !_.
+same_JJ as_IN described_VBN ._.
+All_DT I_PRP need_VBP in_IN a_DT small_JJ perfect_JJ phone_NN with_IN personality_NN :_: -RRB-_-RRB- White_NNP is_VBZ beautiful_JJ and_CC sony_VB a_DT great_JJ choice_NN !_.

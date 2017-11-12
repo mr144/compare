@@ -1,0 +1,160 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(lets-7, Cons-1)
+det(mode-6, The-4)
+amod(mode-6, manual-5)
+nsubj(lets-7, mode-6)
+root(ROOT-0, lets-7)
+neg(lets-7, not-8)
+dep(lets-7, adjust-9)
+det(cap-13, all-10)
+amod(cap-13, parameters.-The-11)
+nn(cap-13, lens-12)
+nsubjpass(fixed-17, cap-13)
+auxpass(fixed-17, is-14)
+neg(fixed-17, not-15)
+advmod(fixed-17, completely-16)
+dep(adjust-9, fixed-17)
+advmod(fixed-17, sometimes-19)
+det(more-21, no-20)
+nsubj(uncovered.-Requires-23, more-21)
+cop(uncovered.-Requires-23, is-22)
+ccomp(fixed-17, uncovered.-Requires-23)
+amod(information-25, more-24)
+nsubj(think-31, information-25)
+amod(adjustment-28, easy-27)
+prep_for(information-25, adjustment-28)
+prep_of(adjustment-28, parameters.-I-30)
+ccomp(uncovered.-Requires-23, think-31)
+det(life-34, no-32)
+nn(life-34, battery-33)
+nsubj(meter.-Has-35, life-34)
+ccomp(think-31, meter.-Has-35)
+det(memory-38, no-36)
+amod(memory-38, internal-37)
+dobj(meter.-Has-35, memory-38)
+nn(card-41, SD-40)
+nsubj(required-42, card-41)
+dep(fixed-17, required-42)
+
+=========
+
+advmod(give-2, Still-1)
+root(ROOT-0, give-2)
+iobj(give-2, it-3)
+num(stars-5, 5-4)
+dobj(give-2, stars-5)
+
+=========
+
+nn(Castellano-3, -----------------------------1)
+nn(Castellano-3, En-2)
+root(ROOT-0, Castellano-3)
+dep(Castellano-3, Si-5)
+partmod(Si-5, usted-6)
+det(c&aacute;mara-17, no-7)
+amod(c&aacute;mara-17, disponde-8)
+amod(dinero-11, de-9)
+amod(dinero-11, mucho-10)
+dep(disponde-8, dinero-11)
+nn(una-15, esta-13)
+nn(una-15, es-14)
+appos(dinero-11, una-15)
+nn(c&aacute;mara-17, buena-16)
+dobj(usted-6, c&aacute;mara-17)
+
+=========
+
+nsubj(lente-2, La-1)
+root(ROOT-0, lente-2)
+det(SLR-8, no-3)
+nn(SLR-8, es-4)
+nn(SLR-8, intercambiable-5)
+nn(SLR-8, como-6)
+nn(SLR-8, una-7)
+dobj(lente-2, SLR-8)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(manual-6, Cons-1)
+nn(modo-5, El-4)
+nsubj(manual-6, modo-5)
+root(ROOT-0, manual-6)
+det(ajustar-9, no-7)
+nn(ajustar-9, deja-8)
+nsubj(todos-10, ajustar-9)
+ccomp(manual-6, todos-10)
+nn(par&aacute;metros-12, los-11)
+dobj(todos-10, par&aacute;metros-12)
+
+=========
+
+nn(tapa-3, La-2)
+nsubj(lente-6, tapa-3)
+nn(la-5, de-4)
+advmod(lente-6, la-5)
+root(ROOT-0, lente-6)
+det(fija-10, no-7)
+nn(fija-10, queda-8)
+nn(fija-10, totalmente-9)
+dobj(lente-6, fija-10)
+det(veces-13, a-12)
+appos(fija-10, veces-13)
+amod(m&aacute;s-17, se-14)
+nn(m&aacute;s-17, destapa-15)
+nn(m&aacute;s-17, sin-16)
+dep(veces-13, m&aacute;s-17)
+
+=========
+
+nn(de-3, Precisa-2)
+nsubj(m&aacute;s-4, de-3)
+root(ROOT-0, m&aacute;s-4)
+nn(ajuste-9, informaci&oacute;n-5)
+nn(ajuste-9, para-6)
+nn(ajuste-9, el-7)
+nn(ajuste-9, f&aacute;cil-8)
+dobj(m&aacute;s-4, ajuste-9)
+iobj(m&aacute;s-4, ajuste-9)
+amod(ajuste-9, de-10)
+dep(ajuste-9, par&aacute;metros-11)
+
+=========
+
+nsubj(que-3, Creo-2)
+root(ROOT-0, que-3)
+det(duraci&oacute;n-8, no-4)
+amod(duraci&oacute;n-8, tiene-5)
+nn(duraci&oacute;n-8, medidor-6)
+amod(duraci&oacute;n-8, de-7)
+dobj(que-3, duraci&oacute;n-8)
+amod(interna-13, bateria.-No-10)
+amod(interna-13, tiene-11)
+nn(interna-13, memoria-12)
+prep_de(duraci&oacute;n-8, interna-13)
+nn(SD-18, requiere-15)
+nn(SD-18, una-16)
+nn(SD-18, tarjeta-17)
+appos(interna-13, SD-18)
+
+=========
+
+det(doy-6, A-1)
+nn(doy-6, pesar-2)
+nn(doy-6, de-3)
+nn(doy-6, todo-4)
+nn(doy-6, le-5)
+root(ROOT-0, doy-6)
+num(estrellas-8, 5-7)
+dep(doy-6, estrellas-8)
+
+=========
+
+nn(Paraguay-3, Salu2-1)
+nn(Paraguay-3, desde-2)
+root(ROOT-0, Paraguay-3)
+

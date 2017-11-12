@@ -1,0 +1,1 @@
+using_VBG this_DT right_RB now_RB to_TO do_VB these_DT reveiws_NNS ,_, I_PRP am_VBP using_VBG this_DT as_IN a_DT 32_CD inch_NN monitor_NN for_IN my_PRP$ computer_NN ,_, turns_VBZ out_RP if_IN I_PRP split_VBP the_DT screen_NN -_: gives_VBZ me_PRP the_DT same_JJ area_NN as_IN two_CD 21_CD inch_NN screens_NNS in_IN portrait_NN mode_NN -_: works_VBZ great_JJ !!_NN

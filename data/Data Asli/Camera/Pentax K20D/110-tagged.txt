@@ -1,0 +1,6 @@
+This_DT is_VBZ a_DT great_JJ camera_NN ._.
+The_DT CMOS_NNP sensor_NN produces_VBZ rich_JJ images_NNS with_IN very_RB little_JJ noise_NN ._.
+I_PRP expected_VBD much_RB more_JJR noise_NN with_IN the_DT change_NN from_IN CCD_NNP to_TO CMOS_NNP ._.
+I_PRP shoot_VBP in_IN mostly_RB in_IN DNG_NNP format_NN and_CC had_VBD to_TO get_VB get_VB larger_JJR SDHD_NNP cards_NNS ._.
+An_DT 8_CD gig_NN card_NN will_MD hold_VB 333_CD DNG_NNP images_NNS ._.
+The_DT K20D_NNP has_VBZ many_JJ new_JJ features_NNS ,_, such_JJ as_IN wireless_JJ flash_NN control_NN ,_, dust_NN alert_NN ,_, live_JJ view_NN ,_, ect_NN ._.

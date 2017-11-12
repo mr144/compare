@@ -1,0 +1,49 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, 's-2)
+root(ROOT-0, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+amod(everything-4, automatic-3)
+dobj(has-2, everything-4)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+dobj(takes-2, photos-3)
+advmod(takes-2, fast-4)
+
+=========
+
+det(battery-2, The-1)
+nsubj(holds-3, battery-2)
+root(ROOT-0, holds-3)
+nsubj(charge-6, it-4)
+cop(charge-6, is-5)
+ccomp(holds-3, charge-6)
+det(time-10, a-8)
+amod(time-10, long-9)
+prep_for(charge-6, time-10)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+amod(features-5, many-3)
+amod(features-5, great-4)
+dobj(has-2, features-5)
+

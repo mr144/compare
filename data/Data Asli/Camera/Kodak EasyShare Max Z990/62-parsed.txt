@@ -1,0 +1,82 @@
+=========
+
+nsubj(received-2, I-1)
+nsubj(went-7, I-1)
+xsubj(work-9, I-1)
+root(ROOT-0, received-2)
+det(camera-4, this-3)
+dobj(received-2, camera-4)
+advmod(went-7, immediately-6)
+conj_and(received-2, went-7)
+aux(work-9, to-8)
+xcomp(went-7, work-9)
+prepc_on(work-9, finding-11)
+advmod(operate-14, how-12)
+aux(operate-14, to-13)
+ccomp(finding-11, operate-14)
+xcomp(finding-11, operate-14)
+dobj(operate-14, it-15)
+
+=========
+
+advmod(purchased-4, So-1)
+pobj(So-1, glad-2)
+nsubj(purchased-4, I-3)
+root(ROOT-0, purchased-4)
+det(camera-6, the-5)
+dobj(purchased-4, camera-6)
+nsubj(has-9, it-8)
+parataxis(purchased-4, has-9)
+predet(properties-13, all-10)
+det(properties-13, the-11)
+amod(properties-13, best-12)
+dobj(has-9, properties-13)
+det(camera-16, a-15)
+prep_of(properties-13, camera-16)
+partmod(camera-16, costing-17)
+quantmod(much-20, twice-18)
+quantmod(much-20, as-19)
+dobj(costing-17, much-20)
+
+=========
+
+cc(able-8, And-1)
+poss(amazement-4, my-3)
+prep_to(able-8, amazement-4)
+nsubj(able-8, I-6)
+cop(able-8, was-7)
+root(ROOT-0, able-8)
+aux(take-10, to-9)
+xcomp(able-8, take-10)
+dobj(take-10, some-11)
+det(pictures-15, the-13)
+amod(pictures-15, best-14)
+prep_of(some-11, pictures-15)
+dobj(taken-19, pictures-15)
+nsubj(taken-19, I-16)
+aux(taken-19, have-17)
+advmod(taken-19, ever-18)
+rcmod(pictures-15, taken-19)
+
+=========
+
+dep(purchased-5, Wished-1)
+nsubj(purchased-5, I-2)
+aux(purchased-5, would-3)
+aux(purchased-5, have-4)
+root(ROOT-0, purchased-5)
+advmod(purchased-5, sooner-6)
+
+=========
+
+aux(pleased-5, Ca-1)
+neg(pleased-5, not-2)
+cop(pleased-5, be-3)
+advmod(pleased-5, more-4)
+root(ROOT-0, pleased-5)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, you-2)
+

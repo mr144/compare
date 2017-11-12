@@ -1,0 +1,37 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+poss(daughter-6, my-5)
+prep_for(this-3, daughter-6)
+
+=========
+
+nsubj(had-2, She-1)
+root(ROOT-0, had-2)
+dobj(had-2, it-3)
+quantmod(few-6, only-4)
+quantmod(few-6, a-5)
+num(months-7, few-6)
+dep(it-3, months-7)
+nsubj(stopped-10, it-9)
+conj_and(had-2, stopped-10)
+xcomp(stopped-10, working-11)
+
+=========
+
+nsubj(lives-2, She-1)
+root(ROOT-0, lives-2)
+prep_out_of(lives-2, town-5)
+dep(lives-2, so-7)
+nsubj(traded-9, she-8)
+ccomp(lives-2, traded-9)
+dobj(traded-9, it-10)
+det(phone-14, a-12)
+amod(phone-14, different-13)
+prep_for(traded-9, phone-14)
+nsubj(works-16, phone-14)
+rcmod(phone-14, works-16)
+acomp(works-16, fine-17)
+

@@ -1,0 +1,49 @@
+=========
+
+amod(camera-2, Great-1)
+root(ROOT-0, camera-2)
+
+=========
+
+cc(came-4, and-1)
+det(product-3, the-2)
+nsubj(came-4, product-3)
+root(ROOT-0, came-4)
+det(manner-8, a-6)
+amod(manner-8, timely-7)
+prep_in(came-4, manner-8)
+
+=========
+
+nsubj(said-4, everything-1)
+det(description-3, the-2)
+dep(everything-1, description-3)
+root(ROOT-0, said-4)
+det(condition-7, the-6)
+nsubj(great-9, condition-7)
+cop(great-9, was-8)
+conj_and(said-4, great-9)
+
+=========
+
+poss(quirk-3, My-1)
+amod(quirk-3, only-2)
+nsubj(lack-6, quirk-3)
+cop(lack-6, was-4)
+det(lack-6, the-5)
+root(ROOT-0, lack-6)
+det(CD-10, the-8)
+nn(CD-10, program-9)
+prep_of(lack-6, CD-10)
+mark(got-13, with-11)
+nsubj(got-13, I-12)
+dep(lack-6, got-13)
+dobj(got-13, this-14)
+nsubj(issue-22, that-17)
+cop(issue-22, was-18)
+neg(issue-22, not-19)
+det(issue-22, a-20)
+amod(issue-22, big-21)
+dep(lack-6, issue-22)
+conj_but(got-13, issue-22)
+

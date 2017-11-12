@@ -1,0 +1,35 @@
+=========
+
+advmod(got-4, Even-1)
+dep(got-4, though-2)
+nsubj(got-4, I-3)
+advcl(satisfied-18, got-4)
+poss(product-6, my-5)
+dobj(got-4, product-6)
+num(weeks-8, two-7)
+npadvmod(later-9, weeks-8)
+advmod(got-4, later-9)
+amod(time-12, estimated-11)
+prep_than(got-4, time-12)
+det(product-15, the-14)
+nsubjpass(satisfied-18, product-15)
+auxpass(satisfied-18, is-16)
+advmod(satisfied-18, really-17)
+root(ROOT-0, satisfied-18)
+poss(expectations-20, my-19)
+dobj(satisfied-18, expectations-20)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(product-4, this-3)
+dobj(recommend-2, product-4)
+prep_to(recommend-2, those-6)
+nsubj(searching-9, those-6)
+aux(searching-9, is-8)
+rcmod(those-6, searching-9)
+det(smartphone-13, a-11)
+amod(smartphone-13, nice-12)
+prep_for(searching-9, smartphone-13)
+

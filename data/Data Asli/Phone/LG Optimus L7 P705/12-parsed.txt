@@ -1,0 +1,52 @@
+=========
+
+partmod(has-11, Its-1)
+det(purchase-4, a-2)
+amod(purchase-4, fair-3)
+dobj(Its-1, purchase-4)
+det(price-8, a-6)
+amod(price-8, low-7)
+prep_for(Its-1, price-8)
+nsubj(has-11, it-10)
+root(ROOT-0, has-11)
+dobj(has-11, everything-12)
+dobj(need-14, everything-12)
+nsubj(need-14, you-13)
+rcmod(everything-12, need-14)
+det(smartphone-17, a-16)
+prep_on(need-14, smartphone-17)
+
+=========
+
+det(packing-2, The-1)
+nsubj(appropiate-4, packing-2)
+cop(appropiate-4, was-3)
+root(ROOT-0, appropiate-4)
+det(time-7, the-6)
+nsubj(said-11, time-7)
+prep_of(time-7, arrival-9)
+advmod(arrival-9, as-10)
+conj_and(appropiate-4, said-11)
+
+=========
+
+det(thing-4, The-1)
+amod(thing-4, only-2)
+amod(thing-4, bad-3)
+nsubj(is-5, thing-4)
+root(ROOT-0, is-5)
+complm(doent-8, that-6)
+nsubj(doent-8, it-7)
+ccomp(is-5, doent-8)
+ccomp(doent-8, has-9)
+amod(languages-11, many-10)
+dobj(has-9, languages-11)
+aux(configure-13, to-12)
+infmod(languages-11, configure-13)
+det(phone-15, the-14)
+dobj(configure-13, phone-15)
+dep(totally-18, but-16)
+dep(totally-18, overall-17)
+dep(configure-13, totally-18)
+dep(totally-18, recomended-19)
+

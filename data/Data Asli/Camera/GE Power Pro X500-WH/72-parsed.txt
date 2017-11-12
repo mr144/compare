@@ -1,0 +1,31 @@
+=========
+
+det(camera-2, The-1)
+nsubjpass(priced-5, camera-2)
+nsubj(comparable-9, camera-2)
+auxpass(priced-5, is-3)
+advmod(priced-5, low-4)
+root(ROOT-0, priced-5)
+cop(comparable-9, is-7)
+advmod(comparable-9, pretty-8)
+conj_and(priced-5, comparable-9)
+det(camera-15, a-11)
+amod(camera-15, high-12)
+nn(camera-15, cell-13)
+nn(camera-15, phone-14)
+prep_to(comparable-9, camera-15)
+
+=========
+
+nsubj(get-2, You-1)
+root(ROOT-0, get-2)
+dep(pay-5, what-3)
+nsubj(pay-5, you-4)
+ccomp(get-2, pay-5)
+prep(pay-5, for-6)
+advmod(purchase-12, Overall-8)
+neg(purchase-12, not-9)
+det(purchase-12, a-10)
+amod(purchase-12, bad-11)
+dep(pay-5, purchase-12)
+

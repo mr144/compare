@@ -1,0 +1,28 @@
+=========
+
+amod(cellphone-2, excellent-1)
+nsubj(!!!-3, cellphone-2)
+root(ROOT-0, !!!-3)
+nsubj(cellphone-8, this-4)
+cop(cellphone-8, is-5)
+det(cellphone-8, the-6)
+amod(cellphone-8, best-7)
+ccomp(!!!-3, cellphone-8)
+
+=========
+
+nsubj(recomend-2, I-1)
+xsubj(take-4, I-1)
+root(ROOT-0, recomend-2)
+aux(take-4, to-3)
+xcomp(recomend-2, take-4)
+dobj(take-4, one-5)
+mark(fast-9, because-6)
+cop(fast-9, is-7)
+advmod(fast-9, so-8)
+advcl(take-4, fast-9)
+xcomp(recomend-2, acept-11)
+conj_and(take-4, acept-11)
+det(aptications-13, all-12)
+dobj(acept-11, aptications-13)
+

@@ -1,0 +1,76 @@
+=========
+
+nsubj(wanted-3, I-1)
+xsubj(like-5, I-1)
+advmod(wanted-3, really-2)
+root(ROOT-0, wanted-3)
+aux(like-5, to-4)
+xcomp(wanted-3, like-5)
+det(set-8, this-6)
+nn(set-8, tv-7)
+dobj(like-5, set-8)
+
+=========
+
+nsubj(great-5, Shipping-1)
+prep_from(Shipping-1, Amzn-3)
+cop(great-5, was-4)
+root(ROOT-0, great-5)
+advmod(great-5, unfortunately-7)
+poss(tv-9, my-8)
+nsubj(defective-11, tv-9)
+cop(defective-11, was-10)
+ccomp(great-5, defective-11)
+mark(had-14, because-12)
+nsubj(had-14, it-13)
+advcl(defective-11, had-14)
+det(line-18, a-15)
+amod(line-18, thin-16)
+amod(line-18, red-17)
+dobj(had-14, line-18)
+det(right-22, the-20)
+amod(right-22, top-21)
+prep_on(line-18, right-22)
+nsubj(go-26, right-22)
+aux(go-26, would-24)
+neg(go-26, never-25)
+rcmod(right-22, go-26)
+prt(go-26, away-27)
+
+=========
+
+det(line-3, The-1)
+amod(line-3, red-2)
+nsubj(standing-6, line-3)
+aux(standing-6, was-4)
+neg(standing-6, not-5)
+root(ROOT-0, standing-6)
+prt(standing-6, out-7)
+mark(paid-12, if-10)
+nsubj(paid-12, you-11)
+advcl(noticed-17, paid-12)
+dobj(paid-12, attention-13)
+nsubj(noticed-17, you-14)
+aux(noticed-17, would-15)
+aux(noticed-17, have-16)
+conj_but(standing-6, noticed-17)
+dobj(noticed-17, it-18)
+
+=========
+
+nsubj(easy-7, Thanks-1)
+aux(Amazon-3, to-2)
+infmod(Thanks-1, Amazon-3)
+det(return-5, the-4)
+dobj(Amazon-3, return-5)
+cop(easy-7, was-6)
+root(ROOT-0, easy-7)
+
+=========
+
+root(ROOT-0, Going-1)
+aux(look-3, to-2)
+xcomp(Going-1, look-3)
+det(brand-6, another-5)
+prep_at(look-3, brand-6)
+

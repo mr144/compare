@@ -1,0 +1,1 @@
+my_PRP$ iphone_NN is_VBZ working_VBG good_JJ but_CC the_DT power_NN button_NN is_VBZ acting_VBG up_RP but_CC everything_NN else_RB is_VBZ working_VBG right_RB thank_VB you_PRP for_IN the_DT iphone_NN

@@ -1,0 +1,30 @@
+=========
+
+nsubj(phone-6, This-1)
+cop(phone-6, is-2)
+det(phone-6, a-3)
+amod(phone-6, unlocked-4)
+nn(phone-6, cell-5)
+root(ROOT-0, phone-6)
+appos(phone-6, work-8)
+det(carrier-12, any-10)
+nn(carrier-12, gsm-11)
+prep_with(work-8, carrier-12)
+
+=========
+
+root(ROOT-0, So-1)
+advmod(good-4, far-2)
+advmod(good-4, so-3)
+dep(So-1, good-4)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(model-7, this-3)
+det(model-7, the-4)
+amod(model-7, best-5)
+nn(model-7, Blackberry-6)
+xcomp(think-2, model-7)
+

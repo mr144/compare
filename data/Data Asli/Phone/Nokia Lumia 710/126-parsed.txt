@@ -1,0 +1,58 @@
+=========
+
+det(phone-2, The-1)
+nsubjpass(labeled-5, phone-2)
+auxpass(labeled-5, was-3)
+advmod(labeled-5, clearly-4)
+root(ROOT-0, labeled-5)
+prep_as(labeled-5, UNLOCKED-7)
+
+=========
+
+nsubj('s-2, That-1)
+root(ROOT-0, 's-2)
+advmod(bought-5, why-3)
+nsubj(bought-5, I-4)
+advcl('s-2, bought-5)
+dobj(bought-5, it-6)
+
+=========
+
+advmod(discover-3, Only-1)
+aux(discover-3, to-2)
+root(ROOT-0, discover-3)
+nsubjpass(LOCKED-6, it-4)
+auxpass(LOCKED-6, was-5)
+ccomp(discover-3, LOCKED-6)
+prep_to(LOCKED-6, T-Mobile-8)
+
+=========
+
+nsubj(got-3, I-1)
+advmod(got-3, eventually-2)
+root(ROOT-0, got-3)
+nsubj(unlocked-5, it-4)
+ccomp(got-3, unlocked-5)
+num(weeks-7, 2-6)
+advmod(unlocked-5, weeks-7)
+npadvmod(later-11, $-9)
+num($-9, 25-10)
+advmod(unlocked-5, later-11)
+conj_and(weeks-7, later-11)
+nsubjpass(disappointed-16, I-14)
+auxpass(disappointed-16, was-15)
+conj_but(got-3, disappointed-16)
+det(deception-19, the-18)
+prep_in(disappointed-16, deception-19)
+
+=========
+
+nsubj(one-10, Other-1)
+prep_than(Other-1, that-3)
+det(phone-6, the-5)
+appos(that-3, phone-6)
+cop(one-10, is-7)
+det(one-10, a-8)
+amod(one-10, decent-9)
+root(ROOT-0, one-10)
+

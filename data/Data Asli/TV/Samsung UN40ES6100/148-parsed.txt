@@ -1,0 +1,34 @@
+=========
+
+nn(TV-2, Great-1)
+root(ROOT-0, TV-2)
+det(price-6, a-4)
+amod(price-6, great-5)
+prep_for(TV-2, price-6)
+
+=========
+
+amod(easy-3, Lightweight-1)
+root(ROOT-0, easy-3)
+aux(install-5, to-4)
+dep(easy-3, install-5)
+
+=========
+
+root(ROOT-0, Perfect-1)
+poss(room-5, my-3)
+amod(room-5, living-4)
+prep_for(Perfect-1, room-5)
+nsubj(bright-9, room-5)
+cop(bright-9, is-7)
+advmod(bright-9, very-8)
+rcmod(room-5, bright-9)
+det(day-12, the-11)
+prep_during(bright-9, day-12)
+
+=========
+
+cc(free-2, Plus-1)
+root(ROOT-0, free-2)
+dobj(free-2, delivery-3)
+

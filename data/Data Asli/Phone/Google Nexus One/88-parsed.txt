@@ -1,0 +1,35 @@
+=========
+
+poss(phone-2, My-1)
+nsubj(updated-3, phone-2)
+root(ROOT-0, updated-3)
+amod(Gingerbread-6, latest-5)
+prep_to(updated-3, Gingerbread-6)
+num(Gingerbread-6, 2.3.4-7)
+
+=========
+
+nsubj(screen-8, It-1)
+cop(screen-8, is-2)
+advmod(screen-8, faster-3)
+advmod(responsive-6, more-5)
+amod(touch-7, responsive-6)
+prep_with(faster-3, touch-7)
+root(ROOT-0, screen-8)
+amod(keyboard-11, excellent-10)
+conj_and(screen-8, keyboard-11)
+
+=========
+
+nsubj(comes-2, Phone-1)
+root(ROOT-0, comes-2)
+acomp(comes-2, unlocked-3)
+
+=========
+
+nsubj(glad-3, I-1)
+cop(glad-3, am-2)
+root(ROOT-0, glad-3)
+poss(purchase-6, my-5)
+prep_with(glad-3, purchase-6)
+

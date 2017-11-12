@@ -1,0 +1,59 @@
+=========
+
+nsubj(took-2, I-1)
+nsubj(pleased-13, I-1)
+root(ROOT-0, took-2)
+det(chance-4, a-3)
+dobj(took-2, chance-4)
+prepc_by(took-2, ordering-6)
+dobj(ordering-6, this-7)
+prep_on(this-7, line-9)
+cop(pleased-13, am-11)
+advmod(pleased-13, very-12)
+conj_and(took-2, pleased-13)
+
+=========
+
+nsubjpass(protected-5, It-1)
+nsubjpass(arrived-10, It-1)
+auxpass(protected-5, was-2)
+advmod(well-4, very-3)
+advmod(protected-5, well-4)
+root(ROOT-0, protected-5)
+amod(shipping-8, safe-7)
+prep_for(protected-5, shipping-8)
+conj_and(protected-5, arrived-10)
+acomp(arrived-10, unscathed-11)
+
+=========
+
+nsubj(good-5, It-1)
+nsubj(has-11, It-1)
+cop(good-5, is-2)
+det(good-5, a-3)
+advmod(good-5, very-4)
+root(ROOT-0, good-5)
+partmod(good-5, looking-6)
+dobj(looking-6, television-7)
+advmod(importantly-10, more-9)
+advmod(has-11, importantly-10)
+conj_but(good-5, has-11)
+det(picture-14, a-12)
+amod(picture-14, beautiful-13)
+dobj(has-11, picture-14)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+det(Toshiba-4, this-3)
+dobj(recommend-2, Toshiba-4)
+
+=========
+
+det(TV-2, This-1)
+nsubj(worst-5, TV-2)
+cop(worst-5, is-3)
+det(worst-5, the-4)
+root(ROOT-0, worst-5)
+

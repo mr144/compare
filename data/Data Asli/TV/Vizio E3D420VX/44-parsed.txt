@@ -1,0 +1,94 @@
+=========
+
+csubj(has-12, Purchased-1)
+csubj(internet-18, Purchased-1)
+csubj(includes-20, Purchased-1)
+det(TV-5, this-2)
+num(TV-5, 47-3)
+nn(TV-5, inch-4)
+dobj(Purchased-1, TV-5)
+prep_from(Purchased-1, amazon-7)
+det(price-11, a-9)
+amod(price-11, great-10)
+prep_at(Purchased-1, price-11)
+root(ROOT-0, has-12)
+predet(technology-16, all-13)
+det(technology-16, the-14)
+amod(technology-16, latest-15)
+dobj(has-12, technology-16)
+conj_and(has-12, internet-18)
+conj_and(has-12, includes-20)
+dobj(includes-20, 3D-21)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(level-5, a-3)
+amod(level-5, slight-4)
+dobj(had-2, level-5)
+prep_of(level-5, concern-7)
+prep_with(had-2, delivery-9)
+predet(TV-14, such-11)
+det(TV-14, a-12)
+amod(TV-14, large-13)
+prep_for(delivery-9, TV-14)
+
+=========
+
+det(delivery-2, The-1)
+nsubj(timely-4, delivery-2)
+cop(timely-4, was-3)
+ccomp(perfect-22, timely-4)
+det(box-7, the-6)
+nsubj(had-8, box-7)
+conj_and(timely-4, had-8)
+ccomp(perfect-22, had-8)
+det(marks-13, no-9)
+nn(marks-13, zero-11)
+dobj(had-8, marks-13)
+dobj(had-8, dents-15)
+conj_or(marks-13, dents-15)
+dobj(had-8, dings-18)
+conj_or(marks-13, dings-18)
+nsubj(perfect-22, it-20)
+cop(perfect-22, was-21)
+root(ROOT-0, perfect-22)
+
+=========
+
+nsubj(set-4, Very-1)
+amod(quick-3, simple-2)
+amod(Very-1, quick-3)
+root(ROOT-0, set-4)
+prt(set-4, up-5)
+dobj(set-4, guide-6)
+
+=========
+
+det(stress-2, No-1)
+root(ROOT-0, stress-2)
+partmod(stress-2, setting-3)
+dobj(setting-3, it-4)
+advmod(at-6, up-5)
+advmod(setting-3, at-6)
+pobj(at-6, all-7)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+
+=========
+
+nn(R-2, Bill-1)
+root(ROOT-0, R-2)
+num(years-5, 60-4)
+dep(R-2, years-5)
+amod(years-5, old-6)
+amod(tech-9, low-8)
+appos(years-5, tech-9)
+nn(NJ-14, Old-11)
+nn(NJ-14, Bridge-12)
+dep(R-2, NJ-14)
+

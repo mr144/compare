@@ -1,0 +1,68 @@
+=========
+
+nsubj(tv-3, Great-1)
+nsubj(use-6, Great-1)
+num(Great-1, 3D-2)
+root(ROOT-0, tv-3)
+aux(use-6, can-5)
+conj_and(tv-3, use-6)
+dobj(use-6, glasses-7)
+det(theaters-11, the-9)
+nn(theaters-11, movie-10)
+prep_from(use-6, theaters-11)
+num(looks-14, .3-12)
+nn(looks-14, D-13)
+dobj(tv-3, looks-14)
+advmod(tv-3, just-15)
+det(theaters-18, the-17)
+prep_like(tv-3, theaters-18)
+det(Player-26, an-20)
+amod(Player-26, attached-21)
+amod(Player-26, Blue-22)
+nn(Player-26, ray-23)
+num(Player-26, 3D-24)
+nn(Player-26, DVD-25)
+prep_with(tv-3, Player-26)
+prep_with(tv-3, Movies-28)
+conj_and(Player-26, Movies-28)
+
+=========
+
+root(ROOT-0, Lots-1)
+nn(connections-4, HDMI-3)
+prep_of(Lots-1, connections-4)
+predet(devices-8, all-6)
+poss(devices-8, my-7)
+prep_for(Lots-1, devices-8)
+
+=========
+
+root(ROOT-0, Easy-1)
+prep_to(Easy-1, setup-3)
+conj_and(Easy-1, connect-5)
+det(internet-8, the-7)
+prep_to(connect-5, internet-8)
+
+=========
+
+advmod(issue-3, Only-1)
+amod(issue-3, small-2)
+nsubj(is-4, issue-3)
+root(ROOT-0, is-4)
+complm(has-8, that-5)
+det(remote-7, the-6)
+nsubj(has-8, remote-7)
+xsubj(pointed-11, remote-7)
+ccomp(is-4, has-8)
+aux(pointed-11, to-9)
+auxpass(pointed-11, be-10)
+xcomp(has-8, pointed-11)
+acomp(pointed-11, flat-12)
+aux(get-14, to-13)
+xcomp(flat-12, get-14)
+det(tv-16, the-15)
+dobj(get-14, tv-16)
+aux(respond-18, to-17)
+infmod(tv-16, respond-18)
+prep_to(respond-18, it-20)
+

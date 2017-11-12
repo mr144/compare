@@ -1,0 +1,55 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, nothing-4)
+prep(nothing-4, but-5)
+amod(experiences-7, good-6)
+dep(but-5, experiences-7)
+det(TV-10, this-9)
+prep_with(experiences-7, TV-10)
+advmod(far-12, so-11)
+advmod(TV-10, far-12)
+
+=========
+
+nsubj(looks-2, It-1)
+root(ROOT-0, looks-2)
+acomp(looks-2, good-3)
+amod(TV-7, off-air-5)
+amod(TV-7, digital-6)
+prep_with(looks-2, TV-7)
+det(player-13, a-11)
+nn(player-13, DVD-12)
+prep_with(looks-2, player-13)
+conj_and(TV-7, player-13)
+
+=========
+
+nsubj(speak-4, I-1)
+aux(speak-4, can-2)
+neg(speak-4, not-3)
+root(ROOT-0, speak-4)
+advmod(responds-8, how-6)
+nsubj(responds-8, it-7)
+prepc_to(speak-4, responds-8)
+nn(content-11, HD-10)
+prep_to(responds-8, content-11)
+
+=========
+
+det(sound-2, The-1)
+nsubj(is-3, sound-2)
+root(ROOT-0, is-3)
+advmod(is-3, only-4)
+prep_about(is-3, average-6)
+dep(is-3, so-8)
+nsubjpass(considered-12, that-9)
+aux(considered-12, could-10)
+auxpass(considered-12, be-11)
+ccomp(is-3, considered-12)
+det(point-15, a-13)
+amod(point-15, weak-14)
+dobj(considered-12, point-15)
+

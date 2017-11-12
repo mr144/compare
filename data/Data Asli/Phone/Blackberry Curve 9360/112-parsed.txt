@@ -1,0 +1,58 @@
+=========
+
+nsubj(received-2, I-1)
+root(ROOT-0, received-2)
+det(phone-4, this-3)
+dobj(received-2, phone-4)
+advmod(expected-6, as-5)
+amod(phone-4, expected-6)
+appos(phone-4, time-8)
+appos(phone-4, accessories-10)
+conj_and(time-8, accessories-10)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(problems-4, some-3)
+dobj(had-2, problems-4)
+det(battery-7, the-6)
+prep_with(problems-4, battery-7)
+det(updates-11, some-10)
+prep_after(works-14, updates-11)
+nsubj(works-14, it-13)
+conj_but(had-2, works-14)
+dobj(works-14, fine-15)
+num(day-18, one-17)
+dep(fine-15, day-18)
+neg(excellent-21, not-20)
+dep(day-18, excellent-21)
+
+=========
+
+advmod(phone-6, Overall-1)
+nsubj(phone-6, this-2)
+cop(phone-6, is-3)
+det(phone-6, a-4)
+amod(phone-6, good-5)
+root(ROOT-0, phone-6)
+det(price-9, the-8)
+prep_for(phone-6, price-9)
+amod(features-12, basic-11)
+prep_with(price-9, features-12)
+nn(presentation-18, document-14)
+dep(presentation-18, spreadsheet-16)
+appos(features-12, presentation-18)
+det(others-22, some-21)
+prep_for(phone-6, others-22)
+conj_and(price-9, others-22)
+advmod(cool-24, pretty-23)
+amod(stuff-25, cool-24)
+dep(others-22, stuff-25)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+

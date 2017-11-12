@@ -1,0 +1,54 @@
+=========
+
+nsubj(liked-2, I-1)
+root(ROOT-0, liked-2)
+det(design-5, the-3)
+nn(design-5, phone-4)
+dobj(liked-2, design-5)
+det(functionality-9, the-7)
+amod(functionality-9, android-8)
+dobj(liked-2, functionality-9)
+conj_and(design-5, functionality-9)
+
+=========
+
+cc(seemed-5, But-1)
+det(GPS-3, the-2)
+nsubj(seemed-5, GPS-3)
+xsubj(get-7, GPS-3)
+neg(seemed-5, never-4)
+root(ROOT-0, seemed-5)
+aux(get-7, to-6)
+xcomp(seemed-5, get-7)
+poss(location-9, my-8)
+dobj(get-7, location-9)
+advmod(get-7, even-10)
+det(space-14, an-12)
+amod(space-14, open-13)
+prep_in(get-7, space-14)
+
+=========
+
+advmod(returned-3, Hence-1)
+nsubj(returned-3, I-2)
+root(ROOT-0, returned-3)
+det(phone-5, the-4)
+dobj(returned-3, phone-5)
+
+=========
+
+nsubj(lot-12, This-1)
+cop(lot-12, seems-2)
+amod(problem-5, common-4)
+prep_to(lot-12, problem-5)
+det(phone-8, this-7)
+prep_with(lot-12, phone-8)
+prep(phone-8, since-9)
+pobj(since-9, there-10)
+det(lot-12, a-11)
+root(ROOT-0, lot-12)
+nn(posts-15, forum-14)
+prep_of(lot-12, posts-15)
+det(issue-18, this-17)
+prep_with(lot-12, issue-18)
+

@@ -1,0 +1,61 @@
+=========
+
+nsubj(read-2, I-1)
+root(ROOT-0, read-2)
+amod(reviews-4, other-3)
+dobj(read-2, reviews-4)
+det(TV-9, the-6)
+nn(TV-9, LG-7)
+num(TV-9, 32LK450-8)
+prep_about(read-2, TV-9)
+prep_before(read-2, purchasing-11)
+nsubj(glowing-15, most-13)
+aux(glowing-15, were-14)
+parataxis(read-2, glowing-15)
+dobj(glowing-15, reviews-16)
+
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+poss(purchase-7, my-6)
+prep_with(pleased-4, purchase-7)
+det(TV-10, this-9)
+prep_of(purchase-7, TV-10)
+prep_through(pleased-4, Amazon-12)
+
+=========
+
+det(TV-2, The-1)
+nsubjpass(shipped-4, TV-2)
+nsubjpass(ariived-8, TV-2)
+auxpass(shipped-4, was-3)
+root(ROOT-0, shipped-4)
+advmod(immediately-6, almost-5)
+advmod(shipped-4, immediately-6)
+conj_and(shipped-4, ariived-8)
+advmod(ariived-8, safely-9)
+
+=========
+
+nsubj(easy-3, Set-up-1)
+cop(easy-3, was-2)
+root(ROOT-0, easy-3)
+det(picture-6, the-5)
+nsubj(excellent-10, picture-6)
+conj_and(picture-6, sound-8)
+nsubj(excellent-10, sound-8)
+cop(excellent-10, is-9)
+conj_and(easy-3, excellent-10)
+ccomp(excellent-10, !!!!-11)
+nsubj(recommend-14, I-12)
+aux(recommend-14, would-13)
+ccomp(!!!!-11, recommend-14)
+det(item-16, this-15)
+dobj(recommend-14, item-16)
+ccomp(excellent-10, purchasing-20)
+conj_and(!!!!-11, purchasing-20)
+prep_via(purchasing-20, Amazon-22)
+

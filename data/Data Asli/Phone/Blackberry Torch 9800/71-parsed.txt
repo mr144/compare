@@ -1,0 +1,30 @@
+=========
+
+amod(quality-2, Good-1)
+nsubj(Works-7, quality-2)
+cop(excellent-5, was-4)
+partmod(quality-2, excellent-5)
+root(ROOT-0, Works-7)
+advmod(Works-7, well-8)
+prep_in(Works-7, Venezuela-10)
+prep_with(Works-7, Movilnet-12)
+
+=========
+
+det(screem-2, The-1)
+nsubj(sensitive-4, screem-2)
+cop(sensitive-4, is-3)
+root(ROOT-0, sensitive-4)
+det(blackberry-7, the-6)
+nsubj(working-9, blackberry-7)
+aux(working-9, is-8)
+conj_but(sensitive-4, working-9)
+advmod(good-11, very-10)
+acomp(working-9, good-11)
+
+=========
+
+root(ROOT-0, Thanks-1)
+det(lot-3, a-2)
+dep(Thanks-1, lot-3)
+

@@ -1,0 +1,31 @@
+=========
+
+advmod(good-2, very-1)
+amod(product-3, good-2)
+nsubj(recommend-8, product-3)
+det(price-7, a-5)
+amod(price-7, great-6)
+prep_at(product-3, price-7)
+ccomp(came-19, recommend-8)
+det(one-11, any-10)
+prep_to(recommend-8, one-11)
+poss(friends-13, my-12)
+nsubj(love-14, friends-13)
+rcmod(one-11, love-14)
+det(phone-16, the-15)
+dobj(love-14, phone-16)
+nsubj(came-19, it-18)
+nsubj(beautiful-23, it-18)
+root(ROOT-0, came-19)
+dobj(came-19, new-20)
+cop(beautiful-23, was-22)
+conj_and(came-19, beautiful-23)
+
+=========
+
+nsubj(product-5, It-1)
+cop(product-5, is-2)
+det(product-5, the-3)
+amod(product-5, best-4)
+root(ROOT-0, product-5)
+

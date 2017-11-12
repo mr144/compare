@@ -1,0 +1,45 @@
+=========
+
+nsubj(great-3, Picture-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+
+=========
+
+nsubj(great-7, Features-1)
+amod(tv-4, smart-3)
+appos(Features-1, tv-4)
+cop(great-7, are-6)
+root(ROOT-0, great-7)
+
+=========
+
+det(one-2, The-1)
+nsubj(drawbackis-3, one-2)
+root(ROOT-0, drawbackis-3)
+complm(reflective-15, that-4)
+det(screen-9, an-7)
+nn(screen-9, LED-8)
+prep_for(reflective-15, screen-9)
+nsubj(reflective-15, it-11)
+cop(reflective-15, is-12)
+advmod(reflective-15, much-13)
+advmod(reflective-15, more-14)
+ccomp(drawbackis-3, reflective-15)
+prep_of(reflective-15, light-17)
+poss(SonyBravia-20, my-19)
+prep_than(reflective-15, SonyBravia-20)
+
+=========
+
+nsubjpass(bothered-6, People-1)
+partmod(People-1, sitting-2)
+prep_at(sitting-2, angles-4)
+auxpass(bothered-6, are-5)
+root(ROOT-0, bothered-6)
+agent(bothered-6, light-8)
+partmod(light-8, reflected-9)
+prep_from(reflected-9, windows-11)
+prep_from(reflected-9, lights-13)
+conj_and(windows-11, lights-13)
+

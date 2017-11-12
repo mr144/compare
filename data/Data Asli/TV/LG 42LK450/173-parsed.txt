@@ -1,0 +1,45 @@
+=========
+
+advmod(happy-2, Very-1)
+root(ROOT-0, happy-2)
+poss(purchase-5, my-4)
+prep_with(happy-2, purchase-5)
+det(TV-8, this-7)
+prep_of(purchase-5, TV-8)
+
+=========
+
+prep_from(makes-4, research-2)
+nsubj(makes-4, LG-3)
+root(ROOT-0, makes-4)
+det(TV-7, a-5)
+amod(TV-7, solid-6)
+dobj(makes-4, TV-7)
+
+=========
+
+nsubj(seems-2, Everything-1)
+xsubj(working-5, Everything-1)
+root(ROOT-0, seems-2)
+aux(working-5, to-3)
+aux(working-5, be-4)
+xcomp(seems-2, working-5)
+advmod(working-5, well-6)
+
+=========
+
+amod(viewing-3, everyday-2)
+prep_for(fine-7, viewing-3)
+det(60Hz-5, the-4)
+nsubj(fine-7, 60Hz-5)
+cop(fine-7, is-6)
+root(ROOT-0, fine-7)
+
+=========
+
+nsubj(shipped-2, Amazon-1)
+root(ROOT-0, shipped-2)
+advmod(timely-5, very-4)
+amod(manner-6, timely-5)
+prep_in(shipped-2, manner-6)
+

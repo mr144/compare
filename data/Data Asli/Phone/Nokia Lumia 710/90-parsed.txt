@@ -1,0 +1,32 @@
+=========
+
+nn(Phone-2, Nice-1)
+nsubj(makes-7, Phone-2)
+prep_with(Phone-2, Windows-4)
+partmod(Windows-4, installed-5)
+root(ROOT-0, makes-7)
+nsubj(unique-9, it-8)
+xcomp(makes-7, unique-9)
+
+=========
+
+cc(is-6, And-1)
+det(screen-5, the-3)
+nn(screen-5, touch-4)
+nsubj(is-6, screen-5)
+root(ROOT-0, is-6)
+advmod(too-8, fast-7)
+advmod(is-6, too-8)
+
+=========
+
+advmod(see-4, Hopefully-1)
+nsubj(see-4, we-2)
+aux(see-4, will-3)
+root(ROOT-0, see-4)
+amod(phones-7, better-5)
+nn(phones-7, Nokia-6)
+dobj(see-4, phones-7)
+amod(future-10, near-9)
+prep_in(see-4, future-10)
+

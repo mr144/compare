@@ -1,0 +1,28 @@
+=========
+
+advmod(happy-2, Extremely-1)
+root(ROOT-0, happy-2)
+det(purchase-5, this-4)
+prep_with(happy-2, purchase-5)
+
+=========
+
+amod(photos-3, Takes-1)
+amod(photos-3, great-2)
+root(ROOT-0, photos-3)
+amod(quality-7, great-5)
+nn(quality-7, color-6)
+appos(photos-3, quality-7)
+
+=========
+
+det(option-3, A-1)
+amod(option-3, great-2)
+root(ROOT-0, option-3)
+det(level-7, the-5)
+amod(level-7, upper-moderate-6)
+prep_for(option-3, level-7)
+amod(cameras-11, digital-9)
+nn(cameras-11, SLR-10)
+prep_of(option-3, cameras-11)
+

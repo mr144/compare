@@ -1,0 +1,122 @@
+=========
+
+root(ROOT-0, Bought-1)
+det(TV-3, this-2)
+dobj(Bought-1, TV-3)
+det(little-5, a-4)
+npadvmod(Bought-1, little-5)
+det(month-8, a-7)
+prep_over(Bought-1, month-8)
+advmod(month-8, ago-9)
+det(bedroom-12, the-11)
+prep_for(ago-9, bedroom-12)
+
+=========
+
+nsubj(timer-12, One-1)
+det(reasons-5, the-3)
+amod(reasons-5, main-4)
+prep_of(One-1, reasons-5)
+prepc_for(reasons-5, selecting-7)
+det(one-9, this-8)
+dobj(selecting-7, one-9)
+cop(timer-12, was-10)
+nn(timer-12, on\/off-11)
+ccomp(are-15, timer-12)
+expl(are-15, there-14)
+root(ROOT-0, are-15)
+neg(are-15, not-16)
+acomp(are-15, alot-17)
+prep_of(alot-17, TVs-19)
+det(feature-22, this-21)
+prep_with(TVs-19, feature-22)
+
+=========
+
+poss(TV-6, Your-1)
+amod(TV-6, able-2)
+aux(have-4, to-3)
+xcomp(able-2, have-4)
+xcomp(have-4, to-5)
+nsubj(turn-7, TV-6)
+root(ROOT-0, turn-7)
+dep(turn-7, on-8)
+det(time-12, a-10)
+amod(time-12, preset-11)
+prep_at(turn-7, time-12)
+amod(time-12, tuned-13)
+det(channel-17, a-15)
+amod(channel-17, desired-16)
+prep_to(tuned-13, channel-17)
+prep_to(tuned-13, volume-19)
+conj_and(channel-17, volume-19)
+
+=========
+
+nsubj(have-4, You-1)
+aux(have-4, can-2)
+advmod(have-4, actually-3)
+root(ROOT-0, have-4)
+amod(settings-7, multiple-5)
+nn(settings-7, on\/off-6)
+dobj(have-4, settings-7)
+
+=========
+
+nsubj(good-6, Picture-1)
+amod(quality-4, sound-3)
+conj_and(Picture-1, quality-4)
+nsubj(good-6, quality-4)
+cop(good-6, are-5)
+root(ROOT-0, good-6)
+advmod(best-11, maybe-8)
+neg(best-11, not-9)
+det(best-11, the-10)
+dep(good-6, best-11)
+prep(best-11, out-12)
+pobj(out-12, there-13)
+
+=========
+
+expl(are-2, There-1)
+ccomp(works-10, are-2)
+det(selection-5, a-3)
+amod(selection-5, good-4)
+nsubj(are-2, selection-5)
+prep_of(selection-5, apps-7)
+nsubj(works-10, Netfilx-9)
+root(ROOT-0, works-10)
+advmod(works-10, well-11)
+
+=========
+
+det(thing-4, The-1)
+advmod(disappointing-3, only-2)
+amod(thing-4, disappointing-3)
+nsubj(is-5, thing-4)
+root(ROOT-0, is-5)
+advmod(server-12, when-6)
+nn(videos-8, streaming-7)
+nsubj(server-12, videos-8)
+det(media-11, a-10)
+prep_from(videos-8, media-11)
+advcl(is-5, server-12)
+nsubj(fastforward-16, you-13)
+aux(fastforward-16, can-14)
+neg(fastforward-16, not-15)
+ccomp(server-12, fastforward-16)
+
+=========
+
+dep(all-2, But-1)
+root(ROOT-0, all-2)
+dep(all-2, in-3)
+advmod(TV-9, all-4)
+det(TV-9, a-5)
+advmod(good-7, very-6)
+amod(TV-9, good-7)
+nn(TV-9, Smart-8)
+pobj(in-3, TV-9)
+det(price-12, the-11)
+prep_for(TV-9, price-12)
+

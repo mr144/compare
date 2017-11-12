@@ -1,0 +1,373 @@
+=========
+
+nsubj(had-4, I-1)
+aux(had-4, have-2)
+advmod(had-4, just-3)
+root(ROOT-0, had-4)
+det(TV-8, the-5)
+nn(TV-8, LG-6)
+num(TV-8, 42LK420-7)
+dobj(had-4, TV-8)
+det(week-11, a-10)
+prep_for(TV-8, week-11)
+advmod(week-11, now-12)
+
+=========
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+dobj(get-5, what-3)
+nsubj(get-5, you-4)
+ccomp(is-2, get-5)
+det(price-8, the-7)
+prep_for(get-5, price-8)
+det(HDTV-13, a-10)
+amod(HDTV-13, lower-11)
+nn(HDTV-13, end-12)
+appos(price-8, HDTV-13)
+
+=========
+
+nsubj(owned-4, I-1)
+aux(owned-4, had-2)
+advmod(owned-4, previously-3)
+root(ROOT-0, owned-4)
+det(Samsung-6, a-5)
+dobj(owned-4, Samsung-6)
+poss(quality-11, its-9)
+nn(quality-11, picture-10)
+nsubj(superior-13, quality-11)
+cop(superior-13, was-12)
+conj_and(owned-4, superior-13)
+det(TV-16, this-15)
+prep_to(superior-13, TV-16)
+
+=========
+
+det(quality-4, The-1)
+nn(quality-4, HD-2)
+nn(quality-4, picture-3)
+nsubj(good-7, quality-4)
+cop(good-7, is-5)
+advmod(good-7, reasonably-6)
+root(ROOT-0, good-7)
+mark(good-12, though-9)
+neg(good-12, not-10)
+advmod(good-12, as-11)
+advcl(good-7, good-12)
+poss(TV-16, my-14)
+amod(TV-16, previous-15)
+prep_as(good-7, TV-16)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(is-8, quality-3)
+det(channels-7, the-5)
+nn(channels-7, SD-6)
+prep_for(quality-3, channels-7)
+root(ROOT-0, is-8)
+neg(is-8, not-9)
+advmod(is-8, at-10)
+pobj(at-10, all-11)
+prep(is-8, up-12)
+det(mark-15, the-14)
+prep_to(up-12, mark-15)
+
+=========
+
+advmod(have-7, Also-1)
+det(TV-4, the-3)
+nsubj(have-7, TV-4)
+aux(have-7, does-5)
+neg(have-7, not-6)
+root(ROOT-0, have-7)
+det(antenna-10, an-8)
+amod(antenna-10, inbuilt-9)
+dobj(have-7, antenna-10)
+aux(catch-12, to-11)
+infmod(antenna-10, catch-12)
+prt(catch-12, over-13)
+det(channels-16, the-14)
+nn(channels-16, air-15)
+dobj(catch-12, channels-16)
+dep(has-19, or-18)
+dep(catch-12, has-19)
+dobj(has-19, one-20)
+nsubj(catch-24, one-20)
+aux(catch-24, did-22)
+neg(catch-24, not-23)
+rcmod(one-20, catch-24)
+det(channels-26, any-25)
+dobj(catch-24, channels-26)
+prep_for(catch-24, me-28)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+dobj(got-2, one-3)
+num(bucks-6, ten-5)
+prep_for(got-2, bucks-6)
+prep_at(got-2, RadioShack-8)
+
+=========
+
+nsubj(show-6, Some-1)
+det(channels-5, the-3)
+nn(channels-5, OTA-4)
+prep_of(Some-1, channels-5)
+root(ROOT-0, show-6)
+dobj(show-6, disturbance-7)
+advmod(press-10, when-8)
+nsubj(press-10, I-9)
+advcl(show-6, press-10)
+dobj(press-10, Info-12)
+det(remote-16, the-15)
+prep_on(press-10, remote-16)
+
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, do-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+mark(true-9, if-5)
+nsubj(true-9, this-6)
+aux(true-9, will-7)
+cop(true-9, be-8)
+advcl(know-4, true-9)
+prep_for(true-9, cable-11)
+advmod(true-9, also-12)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(intention-4, no-3)
+dobj(have-2, intention-4)
+prepc_of(intention-4, having-6)
+dobj(having-6, cable-7)
+nsubj(plan-11, I-10)
+xsubj(integrate-13, I-10)
+conj_and(have-2, plan-11)
+aux(integrate-13, to-12)
+xcomp(plan-11, integrate-13)
+dobj(integrate-13, this-14)
+poss(revue-18, my-16)
+amod(revue-18, Logitech-17)
+prep_with(integrate-13, revue-18)
+dobj(ordered-22, revue-18)
+rel(ordered-22, which-20)
+nsubj(ordered-22, I-21)
+rcmod(revue-18, ordered-22)
+det(week-24, this-23)
+tmod(ordered-22, week-24)
+prep_from(ordered-22, Amazon-26)
+
+=========
+
+nsubj(see-3, We-1)
+aux(see-3, will-2)
+root(ROOT-0, see-3)
+advmod(works-6, how-4)
+nsubj(works-6, that-5)
+ccomp(see-3, works-6)
+prt(works-6, out-7)
+
+=========
+
+det(sound-2, The-1)
+nsubj(good-6, sound-2)
+cop(good-6, is-3)
+neg(good-6, not-4)
+advmod(good-6, terribly-5)
+root(ROOT-0, good-6)
+nsubj(have-11, I-9)
+advmod(have-11, always-10)
+conj_but(good-6, have-11)
+poss(sound-14, my-12)
+nn(sound-14, TV-13)
+dobj(have-11, sound-14)
+partmod(sound-14, hooked-15)
+prt(hooked-15, up-16)
+det(speaker-19, the-18)
+prep_to(hooked-15, speaker-19)
+dep(have-11, so-21)
+nsubj(care-25, I-22)
+aux(care-25, do-23)
+neg(care-25, not-24)
+dep(have-11, care-25)
+
+=========
+
+nsubj(picky-5, I-1)
+cop(picky-5, am-2)
+neg(picky-5, not-3)
+advmod(picky-5, too-4)
+root(ROOT-0, picky-5)
+dep(picky-5, about-6)
+dep(picky-5, sound-7)
+advmod(sound-7, too-8)
+
+=========
+
+advmod(show-8, Also-1)
+det(software-5, the-3)
+nn(software-5, TV-4)
+nsubj(show-8, software-5)
+aux(show-8, does-6)
+neg(show-8, not-7)
+root(ROOT-0, show-8)
+dobj(show-8, information-9)
+nn(schedules-12, program-11)
+prep_about(show-8, schedules-12)
+det(channel-16, a-14)
+amod(channel-16, particular-15)
+prep_of(schedules-12, channel-16)
+
+=========
+
+nsubj(shows-3, It-1)
+nsubj(thats-14, It-1)
+advmod(shows-3, only-2)
+root(ROOT-0, shows-3)
+det(program-6, the-4)
+amod(program-6, current-5)
+dobj(shows-3, program-6)
+det(one-11, the-9)
+amod(one-11, next-10)
+dobj(shows-3, one-11)
+conj_and(program-6, one-11)
+conj_and(shows-3, thats-14)
+dobj(thats-14, it-15)
+
+=========
+
+dep(all-3, So-1)
+root(ROOT-0, all-3)
+prep_in(all-3, all-5)
+det(TV-10, a-7)
+advmod(frills-9, no-8)
+amod(TV-10, frills-9)
+appos(all-5, TV-10)
+
+=========
+
+aux(expect-3, Do-1)
+neg(expect-3, not-2)
+root(ROOT-0, expect-3)
+advmod(expect-3, too-4)
+advmod(expect-3, much-5)
+prep_out_of(expect-3, it-8)
+
+=========
+
+det(point-3, The-1)
+nn(point-3, price-2)
+nsubj(is-4, point-3)
+root(ROOT-0, is-4)
+nsubj(won-6, what-5)
+ccomp(is-4, won-6)
+dobj(won-6, me-7)
+prt(won-6, over-8)
+
+=========
+
+nsubj(plan-2, I-1)
+xsubj(combine-4, I-1)
+root(ROOT-0, plan-2)
+aux(combine-4, to-3)
+xcomp(plan-2, combine-4)
+dobj(combine-4, it-5)
+det(box-9, a-7)
+amod(box-9, smart-8)
+prep_with(combine-4, box-9)
+xcomp(plan-2, make-12)
+conj_and(combine-4, make-12)
+nsubj(want-18, it-13)
+advmod(smart-15, as-14)
+dep(want-18, smart-15)
+mark(want-18, as-16)
+nsubj(want-18, I-17)
+xcomp(make-12, want-18)
+
+=========
+
+det(price-2, The-1)
+nsubj(leaves-6, price-2)
+det(TV-5, the-4)
+prep_on(price-2, TV-5)
+root(ROOT-0, leaves-6)
+acomp(leaves-6, enough-7)
+poss(wallet-10, my-9)
+prep_on(enough-7, wallet-10)
+aux(go-12, to-11)
+infmod(wallet-10, go-12)
+det(notch-16, a-14)
+amod(notch-16, top-15)
+npadvmod(smart-17, notch-16)
+amod(box-18, smart-17)
+prep_for(go-12, box-18)
+
+=========
+
+nsubj(much-4, I-1)
+cop(much-4, am-2)
+neg(much-4, not-3)
+root(ROOT-0, much-4)
+det(watcher-8, a-6)
+nn(watcher-8, cable-7)
+prep_of(much-4, watcher-8)
+
+=========
+
+nsubj(watch-2, I-1)
+root(ROOT-0, watch-2)
+dobj(watch-2, most-3)
+poss(stuff-6, my-5)
+prep_of(most-3, stuff-6)
+det(net-9, the-8)
+prep_over(stuff-6, net-9)
+
+=========
+
+advmod(TV-9, So-1)
+prep_for(TV-9, me-4)
+nsubj(TV-9, it-5)
+cop(TV-9, was-6)
+det(TV-9, a-7)
+amod(TV-9, good-8)
+root(ROOT-0, TV-9)
+aux(watch-11, to-10)
+infmod(TV-9, watch-11)
+dobj(watch-11, netflix-12)
+dobj(watch-11, stuff-14)
+conj_and(netflix-12, stuff-14)
+
+=========
+
+nsubj(happy-5, I-1)
+nsubj(go-12, I-1)
+cop(happy-5, am-2)
+neg(happy-5, not-3)
+advmod(happy-5, too-4)
+root(ROOT-0, happy-5)
+prep_with(happy-5, it-7)
+aux(go-12, would-10)
+neg(go-12, not-11)
+conj_but(happy-5, go-12)
+det(trouble-14, the-13)
+dobj(go-12, trouble-14)
+prepc_of(trouble-14, returning-16)
+dobj(returning-16, it-17)
+advmod(returning-16, too-18)
+
+=========
+
+nsubj(live-3, I-1)
+aux(live-3, can-2)
+root(ROOT-0, live-3)
+prep_with(live-3, it-5)
+

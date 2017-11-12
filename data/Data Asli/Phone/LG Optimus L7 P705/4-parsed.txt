@@ -1,0 +1,122 @@
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(product-5, this-4)
+dobj(recommend-3, product-5)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+poss(son-6, my-5)
+prep_for(this-3, son-6)
+nsubj(loves-9, he-8)
+conj_and(bought-2, loves-9)
+dobj(loves-9, it-10)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+dobj(know-7, thing-3)
+nsubj(is-8, thing-3)
+det(customer-5, a-4)
+nsubj(know-7, customer-5)
+aux(know-7, should-6)
+rcmod(thing-3, know-7)
+root(ROOT-0, is-8)
+complm(need-12, that-9)
+nsubj(need-12, you-10)
+aux(need-12, would-11)
+ccomp(is-8, need-12)
+dobj(need-12, wi-fi-13)
+aux(access-15, to-14)
+xcomp(need-12, access-15)
+poss(internet-17, your-16)
+dobj(access-15, internet-17)
+
+=========
+
+poss(son-2, My-1)
+nsubj(had-3, son-2)
+root(ROOT-0, had-3)
+det(problem-5, no-4)
+dobj(had-3, problem-5)
+advmod(finding-7, actually-6)
+partmod(problem-5, finding-7)
+det(app-9, an-8)
+dobj(finding-7, app-9)
+aux(get-11, to-10)
+infmod(app-9, get-11)
+dobj(get-11, access-12)
+det(internet-15, the-14)
+prep_to(get-11, internet-15)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, next-2)
+nsubj(have-12, thing-3)
+xsubj(change-14, thing-3)
+nsubj(minor-9, which-5)
+cop(minor-9, is-6)
+dep(of-8, sort-7)
+advmod(minor-9, of-8)
+dep(thing-3, minor-9)
+nsubj(have-12, you-11)
+xsubj(change-14, you-11)
+root(ROOT-0, have-12)
+aux(change-14, to-13)
+xcomp(have-12, change-14)
+dobj(change-14, it-15)
+det(language-19, the-17)
+amod(language-19, English-18)
+prep_to(change-14, language-19)
+mark(English-25, as-20)
+det(instructions-22, the-21)
+nsubj(English-25, instructions-22)
+cop(English-25, are-23)
+neg(English-25, not-24)
+advcl(change-14, English-25)
+
+=========
+
+det(point-3, The-1)
+amod(point-3, main-2)
+nsubj(is-4, point-3)
+root(ROOT-0, is-4)
+det(phone-7, the-6)
+nsubj(does-8, phone-7)
+ccomp(is-4, does-8)
+dobj(suppose-12, what-9)
+nsubj(suppose-12, it-10)
+cop(suppose-12, is-11)
+ccomp(does-8, suppose-12)
+aux(do-14, to-13)
+xcomp(suppose-12, do-14)
+nsubj(have-17, you-15)
+xsubj(adjust-19, you-15)
+advmod(have-17, just-16)
+ccomp(do-14, have-17)
+aux(adjust-19, to-18)
+xcomp(have-17, adjust-19)
+dobj(adjust-19, one-20)
+num(things-23, two-22)
+dobj(adjust-19, things-23)
+conj_or(one-20, things-23)
+
+=========
+
+nsubj(quick-3, Shipping-1)
+cop(quick-3, was-2)
+root(ROOT-0, quick-3)
+advmod(quick-3, also-4)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+

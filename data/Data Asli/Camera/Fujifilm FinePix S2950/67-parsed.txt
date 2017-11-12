@@ -1,0 +1,44 @@
+=========
+
+nsubj(ordered-2, I-1)
+nsubj(ordered-2', I-1)
+root(ROOT-0, ordered-2)
+conj_and(ordered-2, ordered-2')
+det(camera-4, this-3)
+dobj(ordered-2, camera-4)
+prep_for(camera-4, use-6)
+prep_at(ordered-2, work-8)
+aux(make-10, to-9)
+infmod(work-8, make-10)
+dobj(make-10, catalogues-11)
+advmod(ordered-2, also-13)
+prepc_for(ordered-2', making-15)
+det(advertisement-22, a-16)
+amod(advertisement-22, huge-17)
+amod(advertisement-22, 8mts-18)
+nn(advertisement-22, x-19)
+amod(advertisement-22, 4mts-20)
+nn(advertisement-22, road-21)
+dobj(making-15, advertisement-22)
+
+=========
+
+nsubj(working-3, It-1)
+aux(working-3, is-2)
+root(ROOT-0, working-3)
+acomp(working-3, great-4)
+nsubj(happy-9, I-6)
+cop(happy-9, am-7)
+advmod(happy-9, very-8)
+conj_and(working-3, happy-9)
+prep_with(happy-9, it-11)
+
+=========
+
+amod(pictures-2, Great-1)
+root(ROOT-0, pictures-2)
+amod(price-5, small-4)
+appos(pictures-2, price-5)
+amod(brand-8, great-7)
+appos(price-5, brand-8)
+

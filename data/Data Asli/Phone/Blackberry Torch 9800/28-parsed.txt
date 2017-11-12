@@ -1,0 +1,113 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+aux(replace-6, to-5)
+infmod(phone-4, replace-6)
+poss(smartphone-10, my-7)
+nn(smartphone-10, LG-8)
+nn(smartphone-10, thrill-9)
+dobj(replace-6, smartphone-10)
+
+=========
+
+nsubj(got-3, I-1)
+neg(got-3, never-2)
+root(ROOT-0, got-3)
+csubj(horrible-15, used-4)
+det(screen-8, the-6)
+nn(screen-8, touch-7)
+prep_to(used-4, screen-8)
+amod(screen-8, texting-9)
+amod(screen-8, plus-10)
+det(life-13, the-11)
+nn(life-13, battery-12)
+dep(screen-8, life-13)
+cop(horrible-15, was-14)
+ccomp(got-3, horrible-15)
+
+=========
+
+nsubj(took-2, It-1)
+root(ROOT-0, took-2)
+det(little-4, a-3)
+dobj(took-2, little-4)
+auxpass(used-6, getting-5)
+xcomp(took-2, used-6)
+cc(love-10, but-8)
+nsubj(love-10, I-9)
+prepc_to(used-6, love-10)
+det(Blackberry-12, this-11)
+dobj(love-10, Blackberry-12)
+
+=========
+
+nsubj(easy-4, Texting-1)
+cop(easy-4, is-2)
+advmod(easy-4, so-3)
+root(ROOT-0, easy-4)
+
+=========
+
+det(battery-2, The-1)
+nsubj(last-3, battery-2)
+root(ROOT-0, last-3)
+advmod(longer-6, so-4)
+advmod(longer-6, much-5)
+advmod(last-3, longer-6)
+det(Thrill-10, the-8)
+nn(Thrill-10, LG-9)
+prep_than(last-3, Thrill-10)
+
+=========
+
+det(browser-2, The-1)
+nsubj(slow-7, browser-2)
+aux(slow-7, can-3)
+cop(slow-7, be-4)
+det(little-6, a-5)
+npadvmod(slow-7, little-6)
+root(ROOT-0, slow-7)
+prep_at(slow-7, times-9)
+prep(times-9, but-10)
+det(deal-13, no-11)
+amod(deal-13, big-12)
+dep(but-10, deal-13)
+
+=========
+
+advmod(ot-2, just-1)
+nsubj(get-3, ot-2)
+root(ROOT-0, get-3)
+predet(apps-7, all-4)
+det(apps-7, the-5)
+amod(apps-7, free-6)
+dobj(get-3, apps-7)
+nsubj(had-9, I-8)
+dep(get-3, had-9)
+det(phone-13, the-11)
+nn(phone-13, Android-12)
+prep_on(had-9, phone-13)
+nsubj(deal-20, that-15)
+cop(deal-20, is-16)
+neg(deal-20, not-17)
+det(deal-20, a-18)
+amod(deal-20, big-19)
+dep(get-3, deal-20)
+conj_but(had-9, deal-20)
+mark(used-24, because-21)
+nsubj(used-24, I-22)
+advmod(used-24, rarely-23)
+advcl(deal-20, used-24)
+dobj(used-24, many-25)
+prep_of(many-25, them-27)
+
+=========
+
+det(calendar-2, The-1)
+nsubj(great-4, calendar-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+

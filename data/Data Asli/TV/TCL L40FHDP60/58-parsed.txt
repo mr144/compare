@@ -1,0 +1,76 @@
+=========
+
+aux(know-3, Did-1)
+neg(know-3, not-2)
+dep(pleased-19, know-3)
+nsubj(expect-6, what-4)
+aux(expect-6, to-5)
+dep(know-3, expect-6)
+predet(low-10, such-8)
+det(low-10, a-9)
+prep_from(expect-6, low-10)
+partmod(low-10, priced-11)
+dobj(priced-11, TV-12)
+advmod(far-16, so-15)
+dep(know-3, far-16)
+conj_but(expect-6, far-16)
+nsubjpass(pleased-19, we-17)
+auxpass(pleased-19, are-18)
+root(ROOT-0, pleased-19)
+prep_with(pleased-19, it-21)
+
+=========
+
+advmod(easy-2, Very-1)
+root(ROOT-0, easy-2)
+aux(set-4, to-3)
+dep(easy-2, set-4)
+prt(set-4, up-5)
+dep(easy-2, and-7)
+dep(picture-10, a-8)
+amod(picture-10, good-9)
+dep(easy-2, picture-10)
+
+=========
+
+det(sound-2, The-1)
+nsubj(bit-5, sound-2)
+cop(bit-5, seems-3)
+det(bit-5, a-4)
+root(ROOT-0, bit-5)
+dep(bit-5, tinny-6)
+poss(problem-12, its-9)
+neg(a-11, not-10)
+amod(problem-12, a-11)
+dep(bit-5, problem-12)
+conj_but(tinny-6, problem-12)
+det(room-16, a-14)
+amod(room-16, small-15)
+prep_in(problem-12, room-16)
+
+=========
+
+advmod(add-6, Besides-1)
+nsubj(add-6, you-3)
+aux(add-6, could-4)
+advmod(add-6, easily-5)
+root(ROOT-0, add-6)
+det(couple-8, a-7)
+dobj(add-6, couple-8)
+prep_of(couple-8, speakers-10)
+amod(sound-13, better-12)
+prep_for(add-6, sound-13)
+mark(desired-15, if-14)
+dep(sound-13, desired-15)
+
+=========
+
+root(ROOT-0, All-1)
+prep_in(All-1, all-3)
+poss(TV-8, its-5)
+det(TV-8, a-6)
+amod(TV-8, great-7)
+appos(all-3, TV-8)
+det(price-11, the-10)
+prep_for(TV-8, price-11)
+

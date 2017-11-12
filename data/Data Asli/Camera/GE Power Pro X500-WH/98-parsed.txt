@@ -1,0 +1,42 @@
+=========
+
+nn(Products-2, GE-1)
+nsubj(known-5, Products-2)
+conj_and(Products-2, Great-4)
+nsubj(known-5, Great-4)
+root(ROOT-0, known-5)
+dobj(known-5, product-6)
+nsubj(been-9, product-6)
+aux(been-9, has-8)
+rcmod(product-6, been-9)
+advmod(been-9, around-10)
+amod(years-13, many-12)
+prep_for(been-9, years-13)
+amod(more-16, many-15)
+prep_for(been-9, more-16)
+conj_and(years-13, more-16)
+aux(come-18, to-17)
+xcomp(known-5, come-18)
+
+=========
+
+nsubj(glad-3, I-1)
+cop(glad-3, am-2)
+root(ROOT-0, glad-3)
+aux(say-5, to-4)
+xcomp(glad-3, say-5)
+nsubj(own-7, I-6)
+ccomp(say-5, own-7)
+det(camera-10, an-8)
+amod(camera-10, American-9)
+dobj(own-7, camera-10)
+
+=========
+
+root(ROOT-0, made-2)
+prep_in(made-2, China-4)
+
+=========
+
+root(ROOT-0, lol-1)
+

@@ -1,0 +1,57 @@
+=========
+
+nsubj(phone-6, This-1)
+cop(phone-6, is-2)
+det(phone-6, a-3)
+amod(phone-6, decent-4)
+amod(phone-6, android-5)
+root(ROOT-0, phone-6)
+
+=========
+
+det(bit-2, A-1)
+nsubj(dated-4, bit-2)
+advmod(dated-4, out-3)
+root(ROOT-0, dated-4)
+
+=========
+
+quantmod(2-3, about-2)
+num(years-4, 2-3)
+prep_after(slow-10, years-4)
+det(phone-7, the-6)
+nsubj(slow-10, phone-7)
+aux(slow-10, will-8)
+dep(slow-10, get-9)
+root(ROOT-0, slow-10)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+dobj(have-2, issues-3)
+det(keyboard-6, the-5)
+prep_with(issues-3, keyboard-6)
+advmod(crashing-8, sometimes-7)
+partmod(keyboard-6, crashing-8)
+nsubj(started-10, which-9)
+ccomp(crashing-8, started-10)
+xcomp(started-10, happening-11)
+det(release-15, the-13)
+amod(release-15, gingerbread-14)
+prep_after(happening-11, release-15)
+
+=========
+
+aux(recommend-3, Would-1)
+neg(recommend-3, not-2)
+root(ROOT-0, recommend-3)
+det(phone-5, this-4)
+dobj(recommend-3, phone-5)
+mwe(than-8, more-7)
+quantmod(2-9, than-8)
+prep_for(recommend-3, 2-9)
+nsubj(recommend-3, years-10)
+nn(!!!!!-13, use-12)
+prep_of(years-10, !!!!!-13)
+

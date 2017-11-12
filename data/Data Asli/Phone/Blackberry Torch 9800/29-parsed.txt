@@ -1,0 +1,89 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(torch-6, this-4)
+amod(torch-6, bbery-5)
+dobj(had-3, torch-6)
+number(wks-9, 2-8)
+prep_for(had-3, wks-9)
+advmod(had-3, now-10)
+nsubjpass(disappointed-15, I-12)
+auxpass(disappointed-15, am-13)
+advmod(disappointed-15, so-14)
+conj_and(had-3, disappointed-15)
+
+=========
+
+det(beginning-3, the-2)
+prep_in(worked-5, beginning-3)
+nsubj(worked-5, it-4)
+root(ROOT-0, worked-5)
+acomp(worked-5, fine-6)
+dep(then-8, but-7)
+dep(fine-6, then-8)
+mark(went-13, after-9)
+det(everything-12, a-10)
+nn(everything-12, week-11)
+nsubj(went-13, everything-12)
+ccomp(fine-6, went-13)
+advmod(went-13, downhill-14)
+
+=========
+
+det(buttons-2, The-1)
+nsubj(do-3, buttons-2)
+root(ROOT-0, do-3)
+dobj(do-3, work-4)
+advmod(do-3, anymore-5)
+advmod(do-3, ie-6)
+
+=========
+
+det(call-2, the-1)
+nsubj(working-16, call-2)
+amod(call-2, bb-4)
+conj_and(call-2, bb-4)
+nsubj(working-16, bb-4)
+amod(call-2, clear-6)
+conj_and(call-2, clear-6)
+nsubj(working-16, clear-6)
+nn(buttons-10, end-9)
+conj_and(call-2, buttons-10)
+nsubj(working-16, buttons-10)
+nsubj(working-16, none-11)
+det(buttons-14, those-13)
+prep_of(none-11, buttons-14)
+aux(working-16, are-15)
+root(ROOT-0, working-16)
+
+=========
+
+nsubj(!!-5, This-1)
+cop(!!-5, is-2)
+amod(!!-5, utter-3)
+amod(!!-5, disgraceful-4)
+root(ROOT-0, !!-5)
+det(phone-7, This-6)
+nsubj(suppose-9, phone-7)
+cop(suppose-9, is-8)
+rcmod(!!-5, suppose-9)
+aux(new-12, to-10)
+cop(new-12, be-11)
+xcomp(suppose-9, new-12)
+
+=========
+
+advmod(stuck-4, Now-1)
+nsubjpass(stuck-4, i-2)
+auxpass(stuck-4, am-3)
+root(ROOT-0, stuck-4)
+det(phone-7, a-6)
+prep_with(stuck-4, phone-7)
+nsubj(is-9, phone-7)
+rcmod(phone-7, is-9)
+det(use-12, no-11)
+prep_of(is-9, use-12)
+prep_to(use-12, me-14)
+

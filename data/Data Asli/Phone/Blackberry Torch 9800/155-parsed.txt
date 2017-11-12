@@ -1,0 +1,24 @@
+=========
+
+det(cellulars-3, Those-1)
+nn(cellulars-3, phones-2)
+nsubj(arrived-4, cellulars-3)
+root(ROOT-0, arrived-4)
+amod(condition-7, perfect-6)
+prep_in(arrived-4, condition-7)
+
+=========
+
+det(problem-4, The-1)
+amod(problem-4, only-2)
+nsubj(is-10, problem-4)
+prep_for(problem-4, me-8)
+root(ROOT-0, is-10)
+complm(arrived-16, that-11)
+det(equipment-13, this-12)
+nsubj(arrived-16, equipment-13)
+aux(arrived-16, do-14)
+neg(arrived-16, not-15)
+ccomp(is-10, arrived-16)
+prep_with(arrived-16, manual-18)
+

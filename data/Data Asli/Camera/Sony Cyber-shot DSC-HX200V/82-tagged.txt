@@ -1,0 +1,3 @@
+Less_RBR description_NN \/_NN clarification_NN of_IN what_WP is_VBZ included_VBN ._.
+Bag_NN and_CC memory_NN card_NN should_MD be_VB included_VBN as_IN camera_NN without_IN that_DT does_VBZ not_RB make_VB any_DT sense_NN ._.
+Thanks_NNS

@@ -1,0 +1,77 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(TV-4, this-3)
+nsubj(!!!!-5, TV-4)
+ccomp(love-2, !!!!-5)
+nsubj(listen-7, I-6)
+ccomp(!!!!-5, listen-7)
+prep_to(listen-7, Pandora-9)
+poss(morning-13, my-11)
+nn(morning-13, radio-12)
+nsubj(show-14, morning-13)
+conj_and(love-2, show-14)
+prep_on(show-14, it-16)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+xcomp(love-2, having-3)
+dobj(having-3, Netflix-4)
+predet(apps-8, all-6)
+det(apps-8, the-7)
+dobj(having-3, apps-8)
+conj_and(Netflix-4, apps-8)
+nsubj(available-11, apps-8)
+cop(available-11, are-10)
+rcmod(apps-8, available-11)
+aux(download-13, to-12)
+xcomp(available-11, download-13)
+
+=========
+
+nsubj(have-4, I-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+det(cable-6, the-5)
+dobj(have-4, cable-6)
+rcmod(cable-6, hooked-7)
+prt(hooked-7, up-8)
+prep_to(hooked-7, it-10)
+aux(debating-13, am-12)
+rcmod(cable-6, debating-13)
+conj_and(hooked-7, debating-13)
+complm(get-20, whether-14)
+ccomp(debating-13, not-16)
+conj_or(get-20, not-16)
+nsubj(get-20, I-17)
+aux(get-20, will-18)
+advmod(get-20, even-19)
+ccomp(debating-13, get-20)
+det(part-23, that-22)
+prep_to(get-20, part-23)
+
+=========
+
+det(TV-2, This-1)
+nsubj(lightweight-4, TV-2)
+nsubj(easy-7, TV-2)
+xsubj(set-9, TV-2)
+cop(lightweight-4, is-3)
+root(ROOT-0, lightweight-4)
+advmod(easy-7, very-6)
+conj_and(lightweight-4, easy-7)
+aux(set-9, to-8)
+xcomp(lightweight-4, set-9)
+prt(set-9, up-10)
+
+=========
+
+advmod(worth-2, Definitely-1)
+root(ROOT-0, worth-2)
+dep(worth-2, buying-3)
+dobj(buying-3, !!!-4)
+

@@ -1,0 +1,47 @@
+=========
+
+partmod(purchases-11, Purchased-1)
+prep_for(Purchased-1, trip-3)
+prep_to(Purchased-1, Africa-5)
+nsubj(purchases-11, one-7)
+det(best-10, the-9)
+prep_of(one-7, best-10)
+root(ROOT-0, purchases-11)
+nsubj(made-15, I-12)
+aux(made-15, have-13)
+advmod(made-15, ever-14)
+ccomp(purchases-11, made-15)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(learn-3, to-2)
+dep(Easy-1, learn-3)
+dep(Easy-1, as-5)
+conj_and(learn-3, as-5)
+det(beginner-7, a-6)
+prep_as(learn-3, beginner-7)
+dep(Easy-1, gain-10)
+conj_and(learn-3, gain-10)
+dobj(learn-3, confidence-11)
+aux(take-13, to-12)
+xcomp(learn-3, take-13)
+amod(photos-17, better-14)
+conj_and(better-14, better-16)
+amod(photos-17, better-16)
+dobj(take-13, photos-17)
+
+=========
+
+nsubj(grow-3, You-1)
+nsubj(have-8, You-1)
+aux(grow-3, can-2)
+root(ROOT-0, grow-3)
+det(one-6, this-5)
+prep_into(grow-3, one-6)
+conj_and(grow-3, have-8)
+dobj(have-8, it-9)
+det(time-13, a-11)
+amod(time-13, long-12)
+prep_for(have-8, time-13)
+

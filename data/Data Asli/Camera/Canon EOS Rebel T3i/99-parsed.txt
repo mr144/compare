@@ -1,0 +1,28 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(product-4, this-3)
+dobj(got-2, product-4)
+det(deal-7, a-6)
+prep_on(got-2, deal-7)
+det(thanks-10, the-9)
+prep_for(got-2, thanks-10)
+partmod(thanks-10, giving-11)
+
+=========
+
+root(ROOT-0, working-1)
+advmod(well-3, very-2)
+advmod(working-1, well-3)
+nsubj(satisfied-8, I-5)
+cop(satisfied-8, am-6)
+advmod(satisfied-8, highly-7)
+conj_and(working-1, satisfied-8)
+det(price-11, the-10)
+prep_for(satisfied-8, price-11)
+dobj(paid-13, price-11)
+nsubj(paid-13, I-12)
+rcmod(price-11, paid-13)
+prep_for(paid-13, it-15)
+

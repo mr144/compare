@@ -1,0 +1,30 @@
+=========
+
+dep(gal-6, Not-1)
+dep(Not-1, at-2)
+pobj(at-2, all-3)
+det(tech-5, a-4)
+nsubj(gal-6, tech-5)
+root(ROOT-0, gal-6)
+det(TV-9, this-8)
+nsubj(friendly-13, TV-9)
+cop(friendly-13, is-10)
+advmod(friendly-13, so-11)
+advmod(friendly-13, user-12)
+conj_but(gal-6, friendly-13)
+
+=========
+
+advmod(n-4, Love-1)
+det(picture-3, the-2)
+nsubj(n-4, picture-3)
+root(ROOT-0, n-4)
+predet(extras-7, all-5)
+det(extras-7, the-6)
+dobj(n-4, extras-7)
+dobj(enjoying-11, extras-7)
+nsubj(enjoying-11, we-8)
+aux(enjoying-11, have-9)
+aux(enjoying-11, been-10)
+rcmod(extras-7, enjoying-11)
+

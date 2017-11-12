@@ -1,0 +1,2 @@
+As_IN I_PRP choose_VBP to_TO be_VB At_IN &_CC t_VB ?_.
+rather_RB it_PRP is_VBZ T-mobile_JJ ?_.

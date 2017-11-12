@@ -1,0 +1,47 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+det(tv-6, a-5)
+prep_as(bought-2, tv-6)
+
+=========
+
+nsubj(works-2, It-1)
+nsubj(has-5, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+conj_and(works-2, has-5)
+det(picture-8, an-6)
+amod(picture-8, excellent-7)
+dobj(has-5, picture-8)
+
+=========
+
+nsubj(seen-4, I-1)
+aux(seen-4, have-2)
+neg(seen-4, not-3)
+root(ROOT-0, seen-4)
+det(issues-6, any-5)
+dobj(seen-4, issues-6)
+det(Hz-10, the-8)
+num(Hz-10, 60-9)
+prep_with(seen-4, Hz-10)
+det(status-15, the-13)
+nn(status-15, LCD-14)
+prep_with(seen-4, status-15)
+conj_or(Hz-10, status-15)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+prep_to(recommend-3, anyone-6)
+partmod(anyone-6, looking-7)
+det(tv-11, an-9)
+nn(tv-11, hd-10)
+prep_for(looking-7, tv-11)
+

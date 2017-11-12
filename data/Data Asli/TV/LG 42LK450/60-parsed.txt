@@ -1,0 +1,427 @@
+=========
+
+nn(2012-2, April-1)
+nsubj(Had-3, 2012-2)
+root(ROOT-0, Had-3)
+det(tv-5, the-4)
+dobj(Had-3, tv-5)
+det(total-8, a-7)
+prep_for(tv-5, total-8)
+num(days-11, two-10)
+prep_of(total-8, days-11)
+nsubj(like-14, I-13)
+conj_and(Had-3, like-14)
+dobj(like-14, it-15)
+advmod(far-17, so-16)
+advmod(like-14, far-17)
+
+=========
+
+root(ROOT-0, Had-1)
+det(set-10, an-2)
+amod(set-10, old-3)
+amod(set-10, outdated-5)
+amod(set-10, heavy-7)
+amod(set-10, color-faded-9)
+dobj(Had-1, set-10)
+advmod(Had-1, before-11)
+
+=========
+
+det(one-2, This-1)
+nsubj(good-4, one-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+
+=========
+
+aux(start-2, To-1)
+purpcl(light-7, start-2)
+nsubj(light-7, it-4)
+cop(light-7, is-5)
+advmod(light-7, so-6)
+root(ROOT-0, light-7)
+
+=========
+
+nsubj(woman-7, I-1)
+cop(woman-7, am-2)
+det(woman-7, a-3)
+number(old-6, 25-4)
+dep(old-6, year-5)
+amod(woman-7, old-6)
+root(ROOT-0, woman-7)
+nsubj(able-11, I-9)
+cop(able-11, was-10)
+conj_and(woman-7, able-11)
+aux(carry-13, to-12)
+xcomp(able-11, carry-13)
+dobj(carry-13, it-14)
+advmod(carry-13, inside-15)
+advmod(left-21, where-17)
+det(guy-20, the-18)
+nn(guy-20, fedex-19)
+nsubj(left-21, guy-20)
+prepc_from(inside-15, left-21)
+dobj(left-21, it-22)
+prep_by(left-21, myself-24)
+
+=========
+
+nsubj(quick-4, Set-1)
+advmod(quick-4, up-2)
+cop(quick-4, was-3)
+root(ROOT-0, quick-4)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+ccomp(did-2, need-3)
+aux(find-5, to-4)
+xcomp(need-3, find-5)
+det(driver-12, a-6)
+advmod(long-8, rather-7)
+amod(driver-12, long-8)
+conj_and(long-8, slender-10)
+amod(driver-12, slender-10)
+nn(driver-12, screw-11)
+dobj(find-5, driver-12)
+aux(get-14, to-13)
+xcomp(find-5, get-14)
+det(screws-17, the-15)
+amod(screws-17, tiny-16)
+dobj(get-14, screws-17)
+det(base-20, the-19)
+prep_into(get-14, base-20)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+complm(has-5, that-3)
+nsubj(has-5, it-4)
+ccomp(love-2, has-5)
+num(ports-8, 3-6)
+nn(ports-8, HDMI-7)
+dobj(has-5, ports-8)
+num(inputs-12, two-10)
+nn(inputs-12, RCA-11)
+dobj(has-5, inputs-12)
+conj_and(ports-8, inputs-12)
+
+=========
+
+nsubj(alright-3, Picture-1)
+nsubj(good-8, Picture-1)
+nsubj(lovely-17, Picture-1)
+cop(alright-3, is-2)
+root(ROOT-0, alright-3)
+dep(as-7, not-5)
+advmod(as-7, quite-6)
+advmod(good-8, as-7)
+conj_but(alright-3, good-8)
+poss(ex-11, my-10)
+poss(isymphony-13, ex-11)
+prep_as(good-8, isymphony-13)
+advmod(lovely-17, still-16)
+conj_but(alright-3, lovely-17)
+
+=========
+
+nsubj(come-4, It-1)
+aux(come-4, did-2)
+neg(come-4, not-3)
+root(ROOT-0, come-4)
+det(cable-8, an-6)
+nn(cable-8, HDMI-7)
+prep_with(come-4, cable-8)
+
+=========
+
+nsubj(able-3, I-1)
+cop(able-3, was-2)
+root(ROOT-0, able-3)
+aux(program-5, to-4)
+xcomp(able-3, program-5)
+poss(remote-8, my-6)
+amod(remote-8, directv-7)
+dobj(program-5, remote-8)
+aux(work-10, to-9)
+xcomp(program-5, work-10)
+dobj(work-10, all-11)
+det(controls-14, the-13)
+prep_of(all-11, controls-14)
+det(television-17, the-16)
+prep_on(work-10, television-17)
+prep_on(work-10, satellite-19)
+conj_and(television-17, satellite-19)
+prep_on(work-10, dvd-21)
+conj_and(television-17, dvd-21)
+
+=========
+
+advmod(controls-4, Love-1)
+det(touch-3, the-2)
+nsubj(controls-4, touch-3)
+root(ROOT-0, controls-4)
+det(face-7, the-6)
+prep_on(controls-4, face-7)
+det(television-10, the-9)
+prep_of(face-7, television-10)
+
+=========
+
+nsubj(add-3, I-1)
+aux(add-3, 'll-2)
+root(ROOT-0, add-3)
+prep_to(add-3, this-5)
+mark(goes-8, as-6)
+nsubj(goes-8, time-7)
+xsubj(see-10, time-7)
+advcl(add-3, goes-8)
+aux(see-10, to-9)
+xcomp(goes-8, see-10)
+advmod(well-12, how-11)
+advmod(holds-15, well-12)
+det(tv-14, the-13)
+nsubj(holds-15, tv-14)
+ccomp(see-10, holds-15)
+prt(holds-15, up-16)
+det(rigors-19, the-18)
+prep_to(holds-15, rigors-19)
+det(family-22, a-21)
+prep_of(rigors-19, family-22)
+nsubj(loves-24, family-22)
+rcmod(family-22, loves-24)
+poss(entertainment-26, their-25)
+dobj(loves-24, entertainment-26)
+
+=========
+
+nsubj(UPDATEHad-2, __________________________________________________________________________________________________-1)
+root(ROOT-0, UPDATEHad-2)
+dobj(UPDATEHad-2, it-3)
+det(a-9, a-5)
+amod(a-9, little-6)
+mwe(than-8, more-7)
+quantmod(a-9, than-8)
+prep_for(UPDATEHad-2, a-9)
+tmod(UPDATEHad-2, month-10)
+
+=========
+
+advmod(liking-2, Still-1)
+root(ROOT-0, liking-2)
+dobj(liking-2, it-3)
+
+=========
+
+csubj(knock-your-socks-11, Got-1)
+nsubj(hooked-3, it-2)
+dep(Got-1, hooked-3)
+prt(hooked-3, up-4)
+det(ps3-7, the-6)
+prep_to(hooked-3, ps3-7)
+advmod(hooked-3, bluray-9)
+cop(knock-your-socks-11, is-10)
+root(ROOT-0, knock-your-socks-11)
+advmod(pretty-13, off-12)
+advmod(knock-your-socks-11, pretty-13)
+
+=========
+
+nsubj(leaving-4, Sound-1)
+aux(leaving-4, 's-2)
+advmod(leaving-4, still-3)
+root(ROOT-0, leaving-4)
+det(bit-6, a-5)
+dobj(leaving-4, bit-6)
+aux(desired-9, to-7)
+cop(desired-9, be-8)
+infmod(bit-6, desired-9)
+
+=========
+
+nsubj(look-2, Gonna-1)
+root(ROOT-0, look-2)
+prepc_into(look-2, getting-4)
+det(bar-7, a-5)
+nn(bar-7, speaker-6)
+dobj(getting-4, bar-7)
+
+=========
+
+nsubj(dust-4, It-1)
+cop(dust-4, is-2)
+det(dust-4, a-3)
+root(ROOT-0, dust-4)
+nn(magnet-8, finger-6)
+nn(magnet-8, print-7)
+conj_and(dust-4, magnet-8)
+advmod(keep-11, so-10)
+dep(dust-4, keep-11)
+poss(cloth-15, your-12)
+amod(cloth-15, little-13)
+nn(cloth-15, cleaning-14)
+dobj(keep-11, cloth-15)
+nsubj(comes-17, cloth-15)
+rcmod(cloth-15, comes-17)
+prep_with(comes-17, it-19)
+advmod(comes-17, nearby-20)
+
+=========
+
+nsubj(noticed-2, I-1)
+root(ROOT-0, noticed-2)
+complm(have-6, that-3)
+nsubj(have-6, it-4)
+aux(have-6, does-5)
+ccomp(noticed-2, have-6)
+det(thingy-13, a-7)
+amod(thingy-13, little-8)
+amod(thingy-13, sticky-9)
+amod(thingy-13, plastic-10)
+nn(thingy-13, wood-11)
+nn(thingy-13, grain-12)
+dobj(have-6, thingy-13)
+det(front-16, the-15)
+prep_on(thingy-13, front-16)
+det(tv-19, the-18)
+prep_of(front-16, tv-19)
+complm(noticed-24, that-20)
+nsubj(noticed-24, I-21)
+aux(noticed-24, had-22)
+neg(noticed-24, not-23)
+ccomp(have-6, noticed-24)
+advmod(noticed-24, before-25)
+
+=========
+
+nsubj(starting-3, It-1)
+xsubj(peel-5, It-1)
+aux(starting-3, 's-2)
+root(ROOT-0, starting-3)
+aux(peel-5, to-4)
+xcomp(starting-3, peel-5)
+prt(peel-5, off-6)
+nsubj(is-9, which-8)
+ccomp(peel-5, is-9)
+advmod(noticed-12, why-10)
+nsubj(noticed-12, I-11)
+advcl(is-9, noticed-12)
+dobj(noticed-12, it-13)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+det(tv-4, the-3)
+nsubj(look-6, tv-4)
+aux(look-6, would-5)
+ccomp(think-2, look-6)
+acomp(look-6, nicer-7)
+prep_without(look-6, it-9)
+nsubjpass(worried-14, I-12)
+auxpass(worried-14, am-13)
+conj_but(think-2, worried-14)
+prepc_about(worried-14, pulling-16)
+dobj(pulling-16, it-17)
+prt(pulling-16, off-18)
+mark(know-23, because-19)
+nsubj(know-23, I-20)
+aux(know-23, do-21)
+neg(know-23, not-22)
+advcl(pulling-16, know-23)
+mark(worse-30, if-24)
+nsubj('s-26, what-25)
+dep(worse-30, 's-26)
+advmod('s-26, behind-27)
+nsubj(worse-30, it-28)
+cop(worse-30, is-29)
+advcl(know-23, worse-30)
+xcomp(worse-30, looking-31)
+advmod(else-34, why-33)
+advcl(pulling-16, else-34)
+dep(put-37, would-35)
+nsubj(put-37, they-36)
+dep(else-34, put-37)
+nsubj(there-39, it-38)
+xcomp(put-37, there-39)
+
+=========
+
+det(trouble-2, No-1)
+nsubj(burn-5, trouble-2)
+nsubj(had-8, trouble-2)
+prep_with(trouble-2, image-4)
+root(ROOT-0, burn-5)
+aux(had-8, have-7)
+conj_and(burn-5, had-8)
+dobj(had-8, LOTS-9)
+amod(action-14, widescreen-11)
+amod(action-14, black-12)
+nn(action-14, bar-13)
+prep_of(LOTS-9, action-14)
+partmod(action-14, going-15)
+prt(going-15, on-16)
+
+=========
+
+nn(Jan-2, __________________________________________________________________________________________________-1)
+root(ROOT-0, Jan-2)
+number(2-4, 2013UPDATE-3)
+dep(Jan-2, 2-4)
+advmod(year-8, Almost-6)
+det(year-8, a-7)
+dep(Jan-2, year-8)
+mark(bought-11, since-9)
+nsubj(bought-11, I-10)
+dep(year-8, bought-11)
+dobj(bought-11, it-12)
+advmod(working-15, still-14)
+partmod(bought-11, working-15)
+xcomp(bought-11, working-15)
+advmod(working-15, perfectly-16)
+
+=========
+
+det(pixels-3, No-1)
+amod(pixels-3, dead-2)
+root(ROOT-0, pixels-3)
+det(issues-6, no-5)
+appos(pixels-3, issues-6)
+prep_with(issues-6, speakers-8)
+prep_with(issues-6, sound-10)
+conj_or(speakers-8, sound-10)
+
+=========
+
+det(tv-2, This-1)
+nsubj(gets-3, tv-2)
+root(ROOT-0, gets-3)
+det(lot-5, a-4)
+dobj(gets-3, lot-5)
+prep_of(lot-5, use-7)
+
+=========
+
+nsubj('s-2, It-1)
+root(ROOT-0, 's-2)
+advmod(hours-6, probably-4)
+num(hours-6, 15-5)
+prep_on('s-2, hours-6)
+det(day-8, every-7)
+dep(hours-6, day-8)
+
+=========
+
+root(ROOT-0, Love-1)
+dobj(Love-1, it-2)
+
+=========
+
+root(ROOT-0, Worth-1)
+det(penny-3, every-2)
+dep(Worth-1, penny-3)
+

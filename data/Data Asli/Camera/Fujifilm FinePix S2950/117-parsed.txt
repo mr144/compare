@@ -1,0 +1,96 @@
+=========
+
+prepc_after(hesitated-8, reading-2)
+dobj(reading-2, some-3)
+det(reviews-6, the-5)
+prep_of(some-3, reviews-6)
+nsubj(hesitated-8, I-7)
+root(ROOT-0, hesitated-8)
+prepc_in(hesitated-8, purchasing-10)
+det(camera-12, this-11)
+dobj(purchasing-10, camera-12)
+
+=========
+
+nsubjpass(thrilled-4, I-1)
+auxpass(thrilled-4, am-2)
+advmod(thrilled-4, so-3)
+root(ROOT-0, thrilled-4)
+nsubj(take-8, I-5)
+aux(take-8, did-6)
+neg(take-8, not-7)
+ccomp(thrilled-4, take-8)
+dobj(take-8, them-9)
+prep_to(take-8, heart-11)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, GE-6)
+prep_than(better-4, coolpix-8)
+conj_or(GE-6, coolpix-8)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-10, this-3)
+amod(camera-10, easy-4)
+aux(use-6, to-5)
+xcomp(easy-4, use-6)
+advmod(very-8, yet-7)
+advmod(use-6, very-8)
+amod(camera-10, professional-9)
+dobj(love-2, camera-10)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, Highly-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(enough-5, zoom-2)
+cop(enough-5, is-3)
+advmod(enough-5, just-4)
+root(ROOT-0, enough-5)
+amod(detail-10, perfect-7)
+amod(detail-10, long-8)
+nn(detail-10, distance-9)
+prep_for(enough-5, detail-10)
+
+=========
+
+nsubj(live-2, I-1)
+root(ROOT-0, live-2)
+det(mountain-5, a-4)
+prep_on(live-2, mountain-5)
+num(ft-8, 7,000-7)
+prep_at(mountain-5, ft-8)
+det(pics-11, the-10)
+dobj(taken-14, pics-11)
+nsubj(spectacular-16, pics-11)
+nsubj(taken-14, I-12)
+aux(taken-14, have-13)
+rcmod(pics-11, taken-14)
+cop(spectacular-16, are-15)
+conj_and(live-2, spectacular-16)
+
+=========
+
+ccomp(sorry-9, Buy-1)
+det(camera-3, this-2)
+dobj(Buy-1, camera-3)
+nsubj(sorry-9, you-5)
+aux(sorry-9, will-6)
+neg(sorry-9, not-7)
+cop(sorry-9, be-8)
+root(ROOT-0, sorry-9)
+

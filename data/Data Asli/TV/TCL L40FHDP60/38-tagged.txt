@@ -1,0 +1,4 @@
+the_DT only_JJ problem_NN i_FW have_VBP with_IN this_DT tv_NN is_VBZ the_DT lack_NN of_IN inputs_NNS for_IN additional_JJ devices_NNS ._.
+I_PRP have_VBP my_PRP$ roku_NN hooked_VBD up_RP ,_, but_CC can_MD not_RB have_VB my_PRP$ DVD_NNP player_NN hooked_VBD up_RP at_IN the_DT same_JJ time_NN ._.
+This_DT may_MD have_VB been_VBN in_IN the_DT description_NN when_WRB I_PRP purchased_VBD the_DT TV_NN ,_, but_CC I_PRP do_VBP not_RB remember_VB ._.
+Otherwise_RB ,_, I_PRP like_VBP the_DT TV_NN ,_, it_PRP is_VBZ as_RB described_VBN and_CC shipped_VBN quickly_RB ._.

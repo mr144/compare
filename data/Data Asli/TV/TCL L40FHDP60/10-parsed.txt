@@ -1,0 +1,24 @@
+=========
+
+amod(TV-3, Extremely-1)
+amod(TV-3, good-2)
+root(ROOT-0, TV-3)
+det(price-6, the-5)
+prep_for(TV-3, price-6)
+
+=========
+
+aux(had-3, Have-1)
+neg(had-3, not-2)
+root(ROOT-0, had-3)
+det(problem-6, a-4)
+amod(problem-6, single-5)
+dobj(had-3, problem-6)
+prep_with(problem-6, it-8)
+advmod(it-8, yet-9)
+dep(problem-6, have-12)
+dobj(have-12, it-13)
+num(months-16, 6-15)
+prep_for(it-13, months-16)
+advmod(have-12, now-17)
+

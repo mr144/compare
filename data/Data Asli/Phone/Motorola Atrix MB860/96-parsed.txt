@@ -1,0 +1,22 @@
+=========
+
+amod(product-2, defective-1)
+nsubj(said-7, product-2)
+det(description-6, the-4)
+nn(description-6, product-5)
+prep_in(product-2, description-6)
+root(ROOT-0, said-7)
+nsubj(new-10, it-8)
+cop(new-10, was-9)
+dep(said-7, new-10)
+nsubjpass(sent-14, I-12)
+auxpass(sent-14, was-13)
+dep(said-7, sent-14)
+conj_and(new-10, sent-14)
+det(product-17, a-15)
+amod(product-17, used-16)
+dobj(sent-14, product-17)
+amod(problems-20, operational-19)
+dobj(sent-14, problems-20)
+conj_and(product-17, problems-20)
+

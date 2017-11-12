@@ -1,0 +1,3 @@
+I_PRP bought_VBD two_CD and_CC after_IN a_DT year_NN problem_NN presented_VBD ._.
+The_DT touch_NN screen_NN has_VBZ failed_VBN on_IN both_DT phones_NNS ._.
+Both_DT phones_NNS were_VBD no_DT concert_NN

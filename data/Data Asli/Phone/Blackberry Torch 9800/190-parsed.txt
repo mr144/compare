@@ -1,0 +1,72 @@
+=========
+
+poss(I-3, Its-1)
+nn(I-3, everything-2)
+nsubj(dreamed-4, I-3)
+root(ROOT-0, dreamed-4)
+cc(more-6, and-5)
+dobj(dreamed-4, more-6)
+
+=========
+
+root(ROOT-0, Nice-1)
+amod(stylish-3, neat-2)
+dobj(Nice-1, stylish-3)
+dobj(Nice-1, compact-5)
+conj_and(stylish-3, compact-5)
+
+=========
+
+root(ROOT-0, Fast-1)
+conj_and(Fast-1, responsive-3)
+advmod(tasking-8, great-5)
+prep_at(great-5, multi-7)
+dep(Fast-1, tasking-8)
+dep(Fast-1, recording-10)
+conj_and(tasking-8, recording-10)
+dobj(recording-10, data-11)
+dobj(recording-10, media-13)
+conj_and(data-11, media-13)
+
+=========
+
+nsubj(phone-2, Great-1)
+root(ROOT-0, phone-2)
+dep(phone-2, for-3)
+det(purposes-7, the-5)
+nn(purposes-7, go-6)
+prep_on(phone-2, purposes-7)
+amod(networking-10, social-9)
+prep_on(phone-2, networking-10)
+conj_and(purposes-7, networking-10)
+prep_on(phone-2, communicating-12)
+conj_and(purposes-7, communicating-12)
+
+=========
+
+nn(screen-6, crystal-2)
+amod(screen-6, clear-3)
+amod(screen-6, vivid-4)
+nn(screen-6, display-5)
+prep_has(love-13, screen-6)
+advmod(innovative-9, very-8)
+amod(features-10, innovative-9)
+conj_and(screen-6, features-10)
+prep_has(love-13, features-10)
+nsubj(love-13, I-12)
+root(ROOT-0, love-13)
+nsubj(going-19, it-14)
+dep(going-19, mane-15)
+dep(going-19, \*-16)
+nsubj(going-19, I-17)
+xsubj(have-21, I-17)
+aux(going-19, am-18)
+xcomp(love-13, going-19)
+aux(have-21, to-20)
+xcomp(going-19, have-21)
+det(one-23, this-22)
+dobj(have-21, one-23)
+det(time-27, a-25)
+amod(time-27, long-26)
+prep_for(one-23, time-27)
+

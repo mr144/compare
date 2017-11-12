@@ -1,0 +1,27 @@
+=========
+
+advmod(easy-2, Very-1)
+root(ROOT-0, easy-2)
+aux(set-4, to-3)
+dep(easy-2, set-4)
+prt(set-4, up-5)
+dep(easy-2, started-7)
+conj_and(set-4, started-7)
+xcomp(started-7, watching-8)
+dep(watching-8, with-9)
+det(hour-13, a-11)
+amod(hour-13, half-12)
+prep_in(watching-8, hour-13)
+prepc_of(hour-13, opening-15)
+det(package-17, the-16)
+dobj(opening-15, package-17)
+
+=========
+
+advmod(light-2, Very-1)
+root(ROOT-0, light-2)
+conj_and(light-2, easy-4)
+aux(move-6, to-5)
+dep(light-2, move-6)
+prt(move-6, around-7)
+

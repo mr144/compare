@@ -1,0 +1,414 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(unit-5, this-4)
+dobj(had-3, unit-5)
+det(week-7, a-6)
+npadvmod(now-8, week-7)
+advmod(had-3, now-8)
+nsubj(impressed-13, I-10)
+cop(impressed-13, am-11)
+advmod(impressed-13, very-12)
+conj_and(had-3, impressed-13)
+prep_with(impressed-13, it-15)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(amazing-5, quality-3)
+cop(amazing-5, is-4)
+root(ROOT-0, amazing-5)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+dobj(use-2, it-3)
+det(player-10, an-5)
+nn(player-10, Oppo-6)
+num(player-10, 93-7)
+num(player-10, 3D-8)
+amod(player-10, Bluray-9)
+prep_with(use-2, player-10)
+partmod(player-10, going-11)
+det(Onkyo-14, an-13)
+prep_through(going-11, Onkyo-14)
+num(Onkyo-14, 970-15)
+
+=========
+
+nsubj(compliant-5, Everything-1)
+cop(compliant-5, is-2)
+dep(compliant-5, HDMI-3)
+num(HDMI-3, 1.4-4)
+root(ROOT-0, compliant-5)
+nsubj(works-9, it-7)
+advmod(works-9, all-8)
+conj_and(compliant-5, works-9)
+advmod(nicely-11, very-10)
+advmod(works-9, nicely-11)
+advmod(works-9, together-12)
+
+=========
+
+det(Sharp-2, The-1)
+nsubj(sees-3, Sharp-2)
+root(ROOT-0, sees-3)
+det(Onkyo-5, the-4)
+dobj(sees-3, Onkyo-5)
+det(Opposo-10, the-9)
+dobj(sees-3, Opposo-10)
+conj_negcc(Onkyo-5, Opposo-10)
+advmod(sees-3, far-11)
+
+=========
+
+neg(issue-4, Not-1)
+advmod(issue-4, really-2)
+det(issue-4, an-3)
+root(ROOT-0, issue-4)
+
+=========
+
+advmod(somethig-8, Likewise-1)
+det(apps-5, the-2)
+amod(apps-5, limited-3)
+nn(apps-5, web-4)
+nsubj(somethig-8, apps-5)
+aux(somethig-8, are-6)
+neg(somethig-8, not-7)
+root(ROOT-0, somethig-8)
+complm(watching-20, that-9)
+csubj(watching-20, bother-10)
+nsubj(playback-14, me-11)
+num(playback-14, .3-12)
+nn(playback-14, D-13)
+xcomp(bother-10, playback-14)
+aux(watching-20, was-15)
+det(world-19, this-18)
+prep_out_of(watching-20, world-19)
+ccomp(somethig-8, watching-20)
+dobj(watching-20, Avatar-21)
+
+=========
+
+nsubj(seen-3, I-1)
+nsubj(thought-9, I-1)
+aux(seen-3, had-2)
+root(ROOT-0, seen-3)
+num(demos-5, 3D-4)
+dobj(seen-3, demos-5)
+prep_in(demos-5, stores-7)
+conj_and(seen-3, thought-9)
+nsubj(contrived-13, it-10)
+nsubj(immersive-17, it-10)
+advmod(contrived-13, wasa-11)
+dep(contrived-13, bit-12)
+xcomp(thought-9, contrived-13)
+neg(immersive-17, not-15)
+advmod(immersive-17, really-16)
+xcomp(thought-9, immersive-17)
+conj_and(contrived-13, immersive-17)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+ccomp(did-2, see-3)
+det(character-6, some-4)
+nn(character-6, cartoon-5)
+nsubj(pop-7, character-6)
+ccomp(see-3, pop-7)
+prt(pop-7, out-8)
+dep(pop-7, of-9)
+det(screen-11, the-10)
+pobj(of-9, screen-11)
+dep(pop-7, abig-14)
+conj_or(of-9, abig-14)
+nsubj(go-18, drop-15)
+prep_of(drop-15, water-17)
+ccomp(abig-14, go-18)
+prepc_by(go-18, rafting-20)
+det(canyon-23, the-21)
+amod(canyon-23, grand-22)
+dobj(rafting-20, canyon-23)
+
+=========
+
+cc(full-4, but-1)
+nsubj(full-4, Avatar-2)
+cop(full-4, was-3)
+root(ROOT-0, full-4)
+prep(full-4, on-5)
+advmod(real-8, very-7)
+dep(full-4, real-8)
+
+=========
+
+dep(as-3, as-1)
+advmod(as-3, far-2)
+dep(itis-4, as-3)
+root(ROOT-0, itis-4)
+nsubj(itis-4, areal-5)
+prep_of(areal-5, course-8)
+
+=========
+
+auxpass(prepared-2, Be-1)
+root(ROOT-0, prepared-2)
+prep_to(prepared-2, mess-4)
+dep(prepared-2, about-5)
+det(while-8, a-7)
+prep_for(prepared-2, while-8)
+partmod(while-8, dialing-9)
+det(picture-12, the-11)
+prep_in(dialing-9, picture-12)
+
+=========
+
+nsubj(looked-2, Skin-1)
+root(ROOT-0, looked-2)
+advmod(red-4, overly-3)
+acomp(looked-2, red-4)
+det(box-8, the-7)
+prep_out_of(looked-2, box-8)
+
+=========
+
+nsubj(had-3, I-1)
+xsubj(tone-5, I-1)
+advmod(had-3, also-2)
+root(ROOT-0, had-3)
+aux(tone-5, to-4)
+xcomp(had-3, tone-5)
+prt(tone-5, down-6)
+amod(setting-10, yellow-7)
+conj_and(yellow-7, magenta-9)
+amod(setting-10, magenta-9)
+dobj(tone-5, setting-10)
+xcomp(had-3, reduce-12)
+conj_and(tone-5, reduce-12)
+nn(saturation-14, color-13)
+dobj(reduce-12, saturation-14)
+dobj(make-20, saturation-14)
+det(clicks-17, a-15)
+amod(clicks-17, few-16)
+nsubj(make-20, clicks-17)
+prep_in(clicks-17, orderto-19)
+rcmod(saturation-14, make-20)
+nsubj(right-22, things-21)
+xcomp(make-20, right-22)
+dep(right-22, for-24)
+pobj(for-24, me-25)
+
+=========
+
+nsubjpass(pointed-4, It-1)
+auxpass(pointed-4, 's-2)
+auxpass(pointed-4, been-3)
+root(ROOT-0, pointed-4)
+prt(pointed-4, out-5)
+prep_to(pointed-4, me-7)
+poss(review-10, my-9)
+prep_from(pointed-4, review-10)
+det(TV-16, a-12)
+amod(TV-16, previous-13)
+nn(TV-16, Samsung-14)
+num(TV-16, 3D-15)
+prep_of(review-10, TV-16)
+complm(gimmick-23, that-17)
+det(pixel-20, the-18)
+amod(pixel-20, yellow-19)
+nsubj(gimmick-23, pixel-20)
+cop(gimmick-23, is-21)
+det(gimmick-23, a-22)
+dep(TV-16, gimmick-23)
+dep(is-29, yes-26)
+nsubj(is-29, it-28)
+xsubj(divided-38, it-28)
+conj_and(pointed-4, is-29)
+det(color-35, the-32)
+nn(color-35, industry-33)
+amod(color-35, spec-34)
+prep_as(is-29, color-35)
+aux(divided-38, to-36)
+auxpass(divided-38, be-37)
+xcomp(is-29, divided-38)
+nn(Blue-42, Red-40)
+nn(Blue-42, Green-41)
+prep_into(divided-38, Blue-42)
+
+=========
+
+cc(think-3, but-1)
+nsubj(think-3, I-2)
+root(ROOT-0, think-3)
+nsubj(did-6, Sharp-4)
+advmod(did-6, actually-5)
+ccomp(think-3, did-6)
+nsubj(clever-8, something-7)
+xcomp(did-6, clever-8)
+
+=========
+
+mark(limited-6, Since-1)
+det(pixels-4, the-2)
+nn(pixels-4, numberof-3)
+nsubjpass(limited-6, pixels-4)
+auxpass(limited-6, is-5)
+advcl(gets-16, limited-6)
+prep_to(limited-6, 1920-8)
+agent(limited-6, 1080-10)
+det(bigger-13, the-12)
+dep(gets-16, bigger-13)
+det(screen-15, a-14)
+nsubj(gets-16, screen-15)
+root(ROOT-0, gets-16)
+det(bigger-18, the-17)
+dobj(gets-16, bigger-18)
+det(pixels-20, the-19)
+dep(bigger-18, pixels-20)
+dep(pixels-20, or-22)
+det(wider-24, the-23)
+dep(gap-26, wider-24)
+det(gap-26, the-25)
+dep(pixels-20, gap-26)
+dep(gap-26, between-27)
+pobj(between-27, them-28)
+
+=========
+
+advmod(filling-9, so-1)
+csubj(filling-9, byadding-2)
+csubj(adding-15, byadding-2)
+det(Sharp-7, the-3)
+amod(Sharp-7, 4th-4)
+amod(Sharp-7, yellow-5)
+nn(Sharp-7, pixel-6)
+dobj(byadding-2, Sharp-7)
+aux(filling-9, are-8)
+root(ROOT-0, filling-9)
+det(holes-12, the-10)
+dobj(filling-9, holes-12)
+conj_and(filling-9, adding-15)
+dobj(adding-15, resolution-16)
+mark(were-20, as-18)
+nsubj(were-20, it-19)
+advcl(adding-15, were-20)
+
+=========
+
+nsubj(boost-3, It-1)
+aux(boost-3, might-2)
+root(ROOT-0, boost-3)
+amod(output-5, total-4)
+dep(boost-3, output-5)
+dep(output-5, too-6)
+
+=========
+
+nsubj(is-2, which-1)
+root(ROOT-0, is-2)
+advmod(needed-5, why-3)
+nsubj(needed-5, I-4)
+xsubj(dial-7, I-4)
+advcl(is-2, needed-5)
+aux(dial-7, to-6)
+xcomp(needed-5, dial-7)
+dobj(dial-7, it-8)
+dep(down-10, all-9)
+advmod(dial-7, down-10)
+det(box-14, the-13)
+prep_out_of(dial-7, box-14)
+
+=========
+
+root(ROOT-0, Food-1)
+prep_for(Food-1, thought-3)
+
+=========
+
+root(ROOT-0, Pros-1)
+poss(LCD-6, 60-3)
+num(LCD-6, 3D-5)
+dep(Pros-1, LCD-6)
+num($-9, 2300-8)
+prep_for(LCD-6, $-9)
+appos($-9, wow-11)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+
+=========
+
+amod(number-2, Huge-1)
+root(ROOT-0, number-2)
+prep_of(number-2, adjustments-4)
+
+=========
+
+root(ROOT-0, Usable-1)
+nn(speakers-4, board-3)
+prep_on(Usable-1, speakers-4)
+prep(speakers-4, for-5)
+pobj(for-5, once-6)
+
+=========
+
+root(ROOT-0, Awesome-1)
+dobj(Awesome-1, 3D-2)
+prep_with(Awesome-1, Avatar-4)
+
+=========
+
+advmod(mount-6, Slim-1)
+nsubj(mount-6, great-3)
+prep_for(great-3, wall-5)
+root(ROOT-0, mount-6)
+advmod(get-10, when-8)
+nsubj(get-10, I-9)
+parataxis(allow-24, get-10)
+prt(get-10, around-11)
+prep_to(get-10, it-13)
+amod(buttons-19, Nice-15)
+amod(buttons-19, hidden-17)
+nsubj(allow-24, buttons-19)
+det(right-23, the-21)
+amod(right-23, bottom-22)
+prep_on(buttons-19, right-23)
+ccomp(mount-6, allow-24)
+dep(allow-24, use-25)
+advmod(use-25, even-26)
+advmod(lost-30, when-27)
+nsubjpass(lost-30, remote-28)
+auxpass(lost-30, is-29)
+advcl(use-25, lost-30)
+
+=========
+
+root(ROOT-0, Power-1)
+partmod(Power-1, saving-2)
+dobj(saving-2, modes-3)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(seen-3, I-1)
+aux(seen-3, have-2)
+root(ROOT-0, seen-3)
+advmod(worse-5, much-4)
+acomp(seen-3, worse-5)
+prep_than(worse-5, this-7)
+mark(con-13, so-8)
+nsubj(con-13, it-9)
+cop(con-13, is-10)
+det(con-13, a-11)
+amod(con-13, negligible-12)
+advcl(seen-3, con-13)
+

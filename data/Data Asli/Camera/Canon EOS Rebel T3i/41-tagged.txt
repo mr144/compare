@@ -1,0 +1,2 @@
+Is_VBZ my_PRP$ first_JJ srl_NN camera_NN and_CC is_VBZ very_RB simple_JJ to_TO use_VB with_IN excellent_JJ results_NNS ._.
+The_DT product_NN met_VBD all_DT my_PRP$ expectations_NNS

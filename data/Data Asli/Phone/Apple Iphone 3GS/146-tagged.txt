@@ -1,0 +1,4 @@
+The_DT phone_NN does_VBZ not_RB work_VB ._.
+I_PRP tried_VBD putting_VBG my_PRP$ SIM_NNP card_NN and_CC it_PRP does_VBZ not_RB recognized_VBN ._.
+Also_RB does_VBZ not_RB hold_VB a_DT charge_NN for_IN more_JJR than_IN I_PRP couple_NN hours_NNS ._.
+I_PRP can_MD not_RB believe_VB that_IN they_PRP will_MD sell_VB something_NN like_IN this_DT and_CC advertise_VB that_IN it_PRP is_VBZ new_JJ ._.

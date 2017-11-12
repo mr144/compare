@@ -1,0 +1,44 @@
+=========
+
+nsubj(LOVE-2, I-1)
+root(ROOT-0, LOVE-2)
+nn(PHONE-4, THIS-3)
+dobj(LOVE-2, PHONE-4)
+nn(GREAT-8, WORKS-6)
+nn(GREAT-8, REALLY-7)
+appos(PHONE-4, GREAT-8)
+det(PROBLEMS-10, NO-9)
+dep(GREAT-8, PROBLEMS-10)
+
+=========
+
+nn(RESPONSE-3, VERY-1)
+nn(RESPONSE-3, QUICK-2)
+root(ROOT-0, RESPONSE-3)
+nn(PHOTOS-6, EXCELLENT-5)
+appos(RESPONSE-3, PHOTOS-6)
+
+=========
+
+number(ISSUE-2, ONE-1)
+dep(LIFE-8, ISSUE-2)
+nsubj(LIFE-8, I-3)
+advmod(LIFE-8, OBSERVE-4)
+cop(LIFE-8, IS-5)
+det(LIFE-8, THE-6)
+nn(LIFE-8, BATTERY-7)
+ccomp(HAVE-11, LIFE-8)
+nsubj(HAVE-11, I-10)
+xsubj(CHARGE-13, I-10)
+root(ROOT-0, HAVE-11)
+aux(CHARGE-13, TO-12)
+xcomp(HAVE-11, CHARGE-13)
+nn(NIGHT-16, IT-14)
+nn(NIGHT-16, EVERY-15)
+dobj(CHARGE-13, NIGHT-16)
+nn(BATTERY-22, PHONE-18)
+nn(BATTERY-22, NEEDS-19)
+nn(BATTERY-22, A-20)
+nn(BATTERY-22, BETTER-21)
+appos(NIGHT-16, BATTERY-22)
+

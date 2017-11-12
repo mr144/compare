@@ -1,0 +1,186 @@
+=========
+
+advmod(cool-2, Very-1)
+root(ROOT-0, cool-2)
+dobj(cool-2, camera-3)
+
+=========
+
+nsubj(shot-3, I-1)
+aux(shot-3, have-2)
+root(ROOT-0, shot-3)
+det(SuperME-8, a-5)
+num(SuperME-8, 35mm-6)
+nn(SuperME-8, pentax-7)
+prep_with(shot-3, SuperME-8)
+prep_since(shot-3, 1988-10)
+
+=========
+
+advmod(made-4, Then-1)
+prep_in(made-4, 2006-3)
+root(ROOT-0, made-4)
+det(leap-6, the-5)
+dobj(made-4, leap-6)
+amod(SLR-9, digital-8)
+prep_to(made-4, SLR-9)
+det(Rebel-13, a-11)
+nn(Rebel-13, Canon-12)
+prep_with(made-4, Rebel-13)
+nsubj(made-4, XT-14)
+appos(XT-14, 350d-16)
+
+=========
+
+nsubj(had-2, I-1)
+nsubj(use-11, I-1)
+root(ROOT-0, had-2)
+amod(fun-4, great-3)
+dobj(had-2, fun-4)
+det(XT-7, the-6)
+prep_with(fun-4, XT-7)
+advmod(had-2, still-10)
+conj_and(had-2, still-10)
+conj_and(had-2, use-11)
+dobj(use-11, it-12)
+poss(camera-16, my-14)
+amod(camera-16, backup-15)
+prep_as(use-11, camera-16)
+
+=========
+
+nsubj(got-3, I-1)
+nsubj(decided-10, I-1)
+xsubj(purchase-12, I-1)
+aux(got-3, have-2)
+root(ROOT-0, got-3)
+advmod(serious-5, more-4)
+acomp(got-3, serious-5)
+poss(photography-8, my-7)
+prep_with(serious-5, photography-8)
+conj_and(got-3, decided-10)
+aux(purchase-12, to-11)
+xcomp(decided-10, purchase-12)
+det(K20D-14, the-13)
+dobj(purchase-12, K20D-14)
+det(guy-18, a-16)
+nn(guy-18, Nikon-17)
+prep_from(purchase-12, guy-18)
+nsubj(won-20, guy-18)
+nsubj(had-27, guy-18)
+rcmod(guy-18, won-20)
+dobj(won-20, it-21)
+det(contest-25, a-23)
+nn(contest-25, photo-24)
+prep_in(won-20, contest-25)
+rcmod(guy-18, had-27)
+conj_and(won-20, had-27)
+det(use-29, no-28)
+dobj(had-27, use-29)
+prep_for(use-29, it-31)
+
+=========
+
+root(ROOT-0, WOW-1)
+det(camera-4, this-3)
+nsubj(years-7, camera-4)
+cop(years-7, is-5)
+amod(years-7, light-6)
+dep(WOW-1, years-7)
+det(350D-11, the-10)
+prep_ahead_of(years-7, 350D-11)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, fujifilm-6)
+prep_than(better-4, GE-8)
+conj_or(fujifilm-6, GE-8)
+prep_than(better-4, coolpix-10)
+conj_or(fujifilm-6, coolpix-10)
+
+=========
+
+advmod(thing-2, Only-1)
+dobj(working-5, thing-2)
+nsubj(is-10, thing-2)
+nsubj(working-5, I-3)
+xsubj(get-8, I-3)
+aux(working-5, am-4)
+rcmod(thing-2, working-5)
+advmod(working-5, hard-6)
+aux(get-8, to-7)
+xcomp(working-5, get-8)
+prt(get-8, around-9)
+root(ROOT-0, is-10)
+complm(miss-13, that-11)
+nsubj(miss-13, I-12)
+ccomp(is-10, miss-13)
+poss(colors-17, canon-14)
+amod(colors-17, warmer-16)
+dobj(miss-13, colors-17)
+
+=========
+
+det(XT-2, The-1)
+nsubj(takes-3, XT-2)
+root(ROOT-0, takes-3)
+dobj(takes-3, pictures-4)
+nsubj(warmer-9, pictures-4)
+cop(warmer-9, are-6)
+det(lot-8, a-7)
+dep(warmer-9, lot-8)
+rcmod(pictures-4, warmer-9)
+
+=========
+
+cc(suits-3, and-1)
+nsubj(suits-3, that-2)
+root(ROOT-0, suits-3)
+poss(style-5, my-4)
+dobj(suits-3, style-5)
+advmod(well-7, very-6)
+advmod(suits-3, well-7)
+
+=========
+
+nsubj(use-5, I-1)
+aux(use-5, could-2)
+prep_of(use-5, course-4)
+root(ROOT-0, use-5)
+nsubj(add-8, Photosho\/Lightroom-6)
+aux(add-8, to-7)
+xcomp(use-5, add-8)
+det(warmth-10, some-9)
+dobj(add-8, warmth-10)
+
+=========
+
+cc(is-3, but-1)
+nsubj(is-3, that-2)
+root(ROOT-0, is-3)
+det(point-6, the-5)
+prep_besides(is-3, point-6)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(performance-9, the-6)
+amod(light-8, low-7)
+amod(performance-9, light-8)
+prep_with(happy-4, performance-9)
+det(range-16, the-12)
+number(effective-15, 14.6-13)
+dep(effective-15, MP-14)
+amod(range-16, effective-15)
+prep_with(happy-4, range-16)
+conj_and(performance-9, range-16)
+amod(stuff-19, good-18)
+dep(performance-9, stuff-19)
+

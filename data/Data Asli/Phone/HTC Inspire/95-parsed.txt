@@ -1,0 +1,43 @@
+=========
+
+nsubj(bought-2, I-1)
+ccomp(love-9, bought-2)
+dobj(bought-2, this-3)
+poss(wife-6, my-5)
+prep_for(this-3, wife-6)
+nsubj(love-9, she-8)
+root(ROOT-0, love-9)
+dobj(love-9, it-10)
+dep(simple-13, and-11)
+advmod(simple-13, very-12)
+dep(love-9, simple-13)
+aux(operate-15, to-14)
+xcomp(simple-13, operate-15)
+
+=========
+
+det(picture-2, The-1)
+root(ROOT-0, picture-2)
+det(video-5, the-4)
+conj_and(picture-2, video-5)
+advmod(amazing-7, very-6)
+amod(picture-2, amazing-7)
+prep_along(picture-2, side-10)
+prep_with(side-10, Skype-12)
+
+=========
+
+advmod(beautiful-2, Very-1)
+amod(phone-4, beautiful-2)
+amod(phone-4, smart-3)
+root(ROOT-0, phone-4)
+
+=========
+
+nsubj(does-2, It-1)
+root(ROOT-0, does-2)
+dobj(does-2, everything-3)
+nsubj(all-6, everything-3)
+cop(all-6, 's-5)
+rcmod(everything-3, all-6)
+

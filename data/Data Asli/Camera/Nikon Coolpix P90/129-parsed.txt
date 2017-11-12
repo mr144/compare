@@ -1,0 +1,48 @@
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+poss(purchase-7, my-6)
+prep_with(happy-4, purchase-7)
+
+=========
+
+nsubj(received-3, I-1)
+advmod(received-3, even-2)
+root(ROOT-0, received-3)
+dobj(received-3, it-4)
+det(date-8, the-6)
+amod(date-8, estimated-7)
+prep_before(received-3, date-8)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, great-3)
+dobj(takes-2, pictures-4)
+nsubj(have-8, I-6)
+advmod(have-8, still-7)
+conj_and(takes-2, have-8)
+det(lot-10, a-9)
+dobj(have-8, lot-10)
+aux(learn-12, to-11)
+infmod(lot-10, learn-12)
+prepc_about(learn-12, using-14)
+dobj(using-14, it-15)
+
+=========
+
+det(quality-2, The-1)
+nsubj(easy-9, quality-2)
+det(pictures-5, the-4)
+prep_of(quality-2, pictures-5)
+prep_of(quality-2, it-7)
+conj_and(pictures-5, it-7)
+cop(easy-9, is-8)
+root(ROOT-0, easy-9)
+aux(use-11, to-10)
+xcomp(easy-9, use-11)
+

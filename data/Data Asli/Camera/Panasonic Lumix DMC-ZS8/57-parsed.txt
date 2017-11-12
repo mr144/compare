@@ -1,0 +1,58 @@
+=========
+
+nsubj(loved-2, I-1)
+root(ROOT-0, loved-2)
+det(camera-4, this-3)
+dobj(loved-2, camera-4)
+det(year-7, a-6)
+prep_for(loved-2, year-7)
+det(half-10, a-9)
+prep_for(loved-2, half-10)
+conj_and(year-7, half-10)
+
+=========
+
+nsubj(took-2, It-1)
+root(ROOT-0, took-2)
+amod(pictures-5, wonderful-3)
+amod(pictures-5, zoom-4)
+dobj(took-2, pictures-5)
+nn(stabilization-8, vibration-7)
+prep_with(took-2, stabilization-8)
+
+=========
+
+advmod(appeared-3, Then-1)
+nsubj(appeared-3, floaters-2)
+root(ROOT-0, appeared-3)
+predet(pictures-7, all-5)
+det(pictures-7, the-6)
+prep_in(appeared-3, pictures-7)
+nsubj(learned-10, I-9)
+conj_and(appeared-3, learned-10)
+complm(cost-14, that-11)
+nsubj(cost-14, repairs-12)
+aux(cost-14, would-13)
+ccomp(learned-10, cost-14)
+quantmod(much-17, almost-15)
+quantmod(much-17, as-16)
+dobj(cost-14, much-17)
+det(camera-21, a-19)
+nn(camera-21, replacement-20)
+prep_as(much-17, camera-21)
+
+=========
+
+dep(looking-9, So-1)
+nsubj(looking-9, I-2)
+aux(looking-9, am-3)
+advmod(looking-9, back-4)
+det(board-8, the-6)
+nn(board-8, drawing-7)
+prep_to(back-4, board-8)
+root(ROOT-0, looking-9)
+det(camera-15, a-11)
+amod(camera-15, good-12)
+amod(camera-15, pocketsized-14)
+prep_for(looking-9, camera-15)
+

@@ -1,0 +1,120 @@
+=========
+
+det(company-2, The-1)
+nsubj(respond-5, company-2)
+aux(respond-5, will-3)
+neg(respond-5, not-4)
+root(ROOT-0, respond-5)
+amod(emails-8, numerous-7)
+prep_to(respond-5, emails-8)
+det(rings-13, the-10)
+nn(rings-13, phone-11)
+nn(rings-13, number-12)
+nsubj(goes-15, rings-13)
+advmod(goes-15, then-14)
+conj_and(respond-5, goes-15)
+acomp(goes-15, busy-16)
+
+=========
+
+det(settings-3, The-1)
+nn(settings-3, setup-2)
+nsubj(stay-6, settings-3)
+aux(stay-6, will-4)
+neg(stay-6, not-5)
+root(ROOT-0, stay-6)
+prep_in(stay-6, memory-8)
+prepc_after(stay-6, setting\/changing-10)
+dobj(setting\/changing-10, them-11)
+
+=========
+
+det(tv-2, The-1)
+nsubj(retain-4, tv-2)
+aux(retain-4, does-3)
+root(ROOT-0, retain-4)
+nsubj(made-6, settings-5)
+nsubj(rewrite-14, settings-5)
+ccomp(retain-4, made-6)
+advmod(year-9, nearly-7)
+det(year-9, a-8)
+npadvmod(ago-10, year-9)
+advmod(made-6, ago-10)
+aux(rewrite-14, will-12)
+neg(rewrite-14, not-13)
+ccomp(retain-4, rewrite-14)
+conj_but(made-6, rewrite-14)
+dobj(rewrite-14, them-15)
+
+=========
+
+nsubj(change-3, I-1)
+aux(change-3, can-2)
+root(ROOT-0, change-3)
+dobj(change-3, them-4)
+advmod(change-3, only-6)
+conj_but(change-3, only-6)
+mark(turned-11, until-7)
+det(tv-9, the-8)
+nsubjpass(turned-11, tv-9)
+auxpass(turned-11, is-10)
+advcl(change-3, turned-11)
+conj_but(change-3, turned-11)
+prt(turned-11, off-12)
+
+=========
+
+nsubj(tried-3, I-1)
+aux(tried-3, have-2)
+root(ROOT-0, tried-3)
+nn(reset-5, factory-4)
+dobj(tried-3, reset-5)
+nsubj(plug-12, unplug-7)
+num(minutes-10, 5-9)
+prep_for(unplug-7, minutes-10)
+advmod(plug-12, then-11)
+parataxis(tried-3, plug-12)
+advmod(plug-12, back-13)
+prep(plug-12, in-14)
+
+=========
+
+nsubj(wipe-4, It-1)
+nsubj(reset-8, It-1)
+aux(wipe-4, will-2)
+neg(wipe-4, not-3)
+root(ROOT-0, wipe-4)
+amod(data-6, old-5)
+dobj(wipe-4, data-6)
+conj_and(wipe-4, reset-8)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(year-4, a-3)
+nsubj(is-2, year-4)
+partmod(year-4, left-5)
+prep_on(left-5, warranty-7)
+dep(year-4, purchased-9)
+prep_from(purchased-9, Amazon-11)
+dobj(purchased-9, Dec-12)
+num(Dec-12, 21-13)
+num(Dec-12, 2011-15)
+nsubj(trying-20, I-17)
+xsubj(contact-22, I-17)
+aux(trying-20, have-18)
+aux(trying-20, been-19)
+dep(year-4, trying-20)
+conj_and(purchased-9, trying-20)
+aux(contact-22, to-21)
+xcomp(trying-20, contact-22)
+dobj(contact-22, them-23)
+num(weeks-26, six-25)
+prep_for(contact-22, weeks-26)
+
+=========
+
+root(ROOT-0, Nothing-1)
+prep_from(Nothing-1, them-3)
+

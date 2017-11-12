@@ -1,0 +1,209 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+nsubj(lasted-14, this-3)
+det(replacement-6, a-5)
+prep_as(this-3, replacement-6)
+poss(s3200-11, my-8)
+amod(s3200-11, old-9)
+nn(s3200-11, fujifilm-10)
+prep_for(replacement-6, s3200-11)
+aux(lasted-14, has-13)
+rcmod(this-3, lasted-14)
+dobj(lasted-14, me-15)
+num(years-17, 7-16)
+tmod(lasted-14, years-17)
+
+=========
+
+nsubjpass(dropped-4, It-1)
+nsubj(works-11, It-1)
+aux(dropped-4, had-2)
+auxpass(dropped-4, been-3)
+root(ROOT-0, dropped-4)
+advmod(stair-6, down-5)
+advmod(dropped-4, stair-6)
+advmod(up-9, scratched-8)
+advmod(dropped-4, up-9)
+conj_and(stair-6, up-9)
+conj_and(dropped-4, works-11)
+acomp(works-11, great-12)
+det(day-15, this-14)
+prep_to(great-12, day-15)
+
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+det(camera-5, a-3)
+amod(camera-5, better-4)
+dobj(wanted-2, camera-5)
+amod(features-9, good-7)
+nn(features-9, video-8)
+prep_with(wanted-2, features-9)
+
+=========
+
+det(one-2, This-1)
+nsubj(good-4, one-2)
+cop(good-4, seemed-3)
+root(ROOT-0, good-4)
+prep_on(good-4, paper-6)
+
+=========
+
+nsubj(worked-2, It-1)
+root(ROOT-0, worked-2)
+acomp(worked-2, okay-3)
+prep(okay-3, for-4)
+advmod(month-7, about-5)
+det(month-7, a-6)
+tmod(worked-2, month-7)
+cc(noticed-10, but-8)
+nsubj(noticed-10, I-9)
+dep(worked-2, noticed-10)
+amod(lines-12, purple-11)
+dobj(noticed-10, lines-12)
+quantmod(all-15, almost-14)
+prep_in(noticed-10, all-15)
+poss(videos-18, my-17)
+prep_of(all-15, videos-18)
+
+=========
+
+advmod(started-5, Then-1)
+det(switch-4, the-2)
+nn(switch-4, on\/off-3)
+nsubj(started-5, switch-4)
+root(ROOT-0, started-5)
+xcomp(started-5, giving-6)
+iobj(giving-6, me-7)
+dobj(giving-6, problems-8)
+
+=========
+
+advmod(works-3, Sometimes-1)
+nsubj(works-3, it-2)
+root(ROOT-0, works-3)
+advmod(does-6, sometimes-4)
+nsubj(does-6, it-5)
+ccomp(works-3, does-6)
+neg(does-6, not-7)
+
+=========
+
+advmod(slides-3, Sometimes-1)
+nsubj(slides-3, it-2)
+root(ROOT-0, slides-3)
+advmod(slides-3, sometimes-5)
+nsubj(clicks-7, it-6)
+ccomp(slides-3, clicks-7)
+
+=========
+
+nsubj(faulty-4, It-1)
+aux(faulty-4, is-2)
+advmod(faulty-4, constantly-3)
+root(ROOT-0, faulty-4)
+advmod(faulty-4, now-5)
+nsubj(turn-9, I-7)
+aux(turn-9, can-8)
+conj_and(faulty-4, turn-9)
+poss(camera-11, my-10)
+dobj(turn-9, camera-11)
+prt(turn-9, on-12)
+nsubj(turn-16, it-14)
+aux(turn-16, will-15)
+conj_and(faulty-4, turn-16)
+conj_and(turn-9, turn-16)
+prt(turn-16, off-17)
+advmod(turn-16, immediately-18)
+mark(working-24, because-19)
+det(switch-21, the-20)
+nsubj(working-24, switch-21)
+aux(working-24, is-22)
+neg(working-24, not-23)
+advcl(turn-16, working-24)
+
+=========
+
+nsubj(contacted-2, I-1)
+root(ROOT-0, contacted-2)
+dobj(contacted-2, Fujifilm-3)
+prep_about(Fujifilm-3, it-5)
+nsubj(told-8, they-7)
+conj_and(contacted-2, told-8)
+nsubj(ship-11, me-9)
+aux(ship-11, to-10)
+xcomp(told-8, ship-11)
+det(camera-13, the-12)
+dobj(ship-11, camera-13)
+poss(expense-16, my-15)
+prep_at(camera-13, expense-16)
+prep_to(ship-11, them-18)
+nsubj(determine-22, they-20)
+aux(determine-22, would-21)
+conj_and(contacted-2, determine-22)
+conj_and(told-8, determine-22)
+mark(is-25, if-23)
+nsubj(is-25, it-24)
+advcl(determine-22, is-25)
+prep_under(is-25, warranty-27)
+
+=========
+
+nsubj(bought-3, I-1)
+advmod(bought-3, just-2)
+root(ROOT-0, bought-3)
+dobj(bought-3, it-4)
+det(month-6, a-5)
+npadvmod(ago-7, month-6)
+advmod(bought-3, ago-7)
+
+=========
+
+nsubjpass(disappointed-4, I-1)
+auxpass(disappointed-4, am-2)
+advmod(disappointed-4, seriously-3)
+root(ROOT-0, disappointed-4)
+prep_in(disappointed-4, Fujifilm-6)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+nsubj(return-5, I-3)
+aux(return-5, could-4)
+ccomp(wish-2, return-5)
+dobj(return-5, it-6)
+prep_to(return-5, amazon-8)
+nsubj(is-11, it-10)
+conj_but(wish-2, is-11)
+advmod(is-11, just-12)
+poss(date-18, my-14)
+num(date-18, 1-15)
+nn(date-18, month-16)
+nn(date-18, return-17)
+prep_past(is-11, date-18)
+
+=========
+
+nsubj(want-3, I-1)
+advmod(want-3, really-2)
+root(ROOT-0, want-3)
+det(camera-6, a-4)
+amod(camera-6, different-5)
+nsubj(fujifilm-13, camera-6)
+conj_and(camera-6, this-8)
+nsubj(fujifilm-13, this-8)
+aux(fujifilm-13, will-9)
+cop(fujifilm-13, be-10)
+det(fujifilm-13, the-11)
+amod(fujifilm-13, last-12)
+ccomp(want-3, fujifilm-13)
+dobj(buy-15, fujifilm-13)
+nsubj(buy-15, I-14)
+rcmod(fujifilm-13, buy-15)
+

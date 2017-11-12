@@ -1,0 +1,6 @@
+Do_VBP not_RB buy_VB Vizio_NNP TV_NNP 's_POS ._.
+I_PRP recently_RB bought_VBD a_DT Vizio_NNP TV_NN ._.
+Looks_VBZ nice_JJ and_CC everything_NN but_CC be_VB aware_JJ screens_NNS crack_VBP easy_JJ and_CC YOU_PRP can_MD not_RB replace_VB them_PRP ._.
+They_PRP actually_RB do_VBP not_RB even_RB sell_VB the_DT screens_NNS ,_, they_PRP will_MD make_VB you_PRP go_VB thru_IN some_DT repair_NN shops_NNS that_WDT do_VBP not_RB sell_VB them_PRP either_RB ._.
+If_IN the_DT screen_NN cracks_NNS ,_, you_PRP just_RB throw_VB a_DT few_JJ hundred_CD dollars_NNS to_TO the_DT trash_NN because_IN they_PRP can_MD not_RB be_VB repaired_VBN because_IN they_PRP send_VBP them_PRP to_TO other_JJ countries_NNS to_TO be_VB assembled_VBN ._.
+So_RB be_VB aware_JJ !!!_NN

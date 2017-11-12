@@ -1,0 +1,60 @@
+=========
+
+det(camera-2, This-1)
+nsubj(great-4, camera-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+det(abilities-3, The-1)
+amod(abilities-3, zoom-2)
+nsubj(better-5, abilities-3)
+cop(better-5, is-4)
+root(ROOT-0, better-5)
+prep_than(better-5, my-7)
+nn(XS-11, Canon-9)
+nn(XS-11, Rebel-10)
+prep_on(better-5, XS-11)
+
+=========
+
+nsubj(good-6, It-1)
+aux(good-6, does-2)
+neg(good-6, not-3)
+dep(good-6, do-4)
+advmod(good-6, too-5)
+root(ROOT-0, good-6)
+prepc_with(good-6, taking-8)
+dobj(taking-8, photos-9)
+prep_of(photos-9, stuff-11)
+amod(lights-14, twinkling-13)
+prep_like(taking-8, lights-14)
+nsubj(wonderful-22, everything-16)
+advmod(everything-16, else-17)
+det(camera-20, this-19)
+prep_about(everything-16, camera-20)
+cop(wonderful-22, is-21)
+conj_but(good-6, wonderful-22)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, highly-3)
+root(ROOT-0, recommend-4)
+det(camera-6, this-5)
+nn(camera-14, camera-6)
+prep_to(camera-6, anyone-8)
+amod(camera-14, interested-9)
+prep(interested-9, in-10)
+det(start-12, a-11)
+npadvmod(up-13, start-12)
+pcomp(in-10, up-13)
+dobj(recommend-4, camera-14)
+aux(familiar-18, to-15)
+dep(familiar-18, get-16)
+advmod(familiar-18, more-17)
+xcomp(recommend-4, familiar-18)
+prep_with(familiar-18, photography-20)
+

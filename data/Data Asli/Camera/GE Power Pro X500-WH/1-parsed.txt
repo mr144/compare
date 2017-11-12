@@ -1,0 +1,40 @@
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+poss(daughter-4, my-3)
+nsubj(liked-6, daughter-4)
+advmod(liked-6, really-5)
+ccomp(think-2, liked-6)
+poss(gift-9, her-7)
+nn(gift-9, christmas-8)
+dobj(liked-6, gift-9)
+
+=========
+
+advmod(far-2, As-1)
+advmod(works-7, far-2)
+mark(know-5, as-3)
+nsubj(know-5, I-4)
+ccomp(far-2, know-5)
+nsubj(works-7, it-6)
+root(ROOT-0, works-7)
+acomp(works-7, great-8)
+
+=========
+
+nsubj(heard-4, I-1)
+aux(heard-4, have-2)
+neg(heard-4, not-3)
+root(ROOT-0, heard-4)
+det(complaints-7, any-6)
+prep_of(heard-4, complaints-7)
+prep_from(complaints-7, her-9)
+mark(stars-16, so-10)
+nsubj(stars-16, It-11)
+aux(stars-16, must-12)
+aux(stars-16, have-13)
+cop(stars-16, been-14)
+num(stars-16, four-15)
+advcl(heard-4, stars-16)
+

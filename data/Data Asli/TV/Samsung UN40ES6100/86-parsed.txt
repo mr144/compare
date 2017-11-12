@@ -1,0 +1,58 @@
+=========
+
+det(LED-2, The-1)
+nsubj(has-15, LED-2)
+partmod(LED-2, backlighting-3)
+det(Samsung-7, the-5)
+nn(Samsung-7, 6100-6)
+prep_on(backlighting-3, Samsung-7)
+prepc_compared_to(backlighting-3, to-9)
+poss(series-14, my-10)
+amod(series-14, older-11)
+nn(series-14, Samsung-12)
+nn(series-14, 650-13)
+pobj(backlighting-3, series-14)
+root(ROOT-0, has-15)
+det(picture-18, an-16)
+amod(picture-18, inferior-17)
+dobj(has-15, picture-18)
+
+=========
+
+nsubj(sure-4, I-1)
+cop(sure-4, am-2)
+neg(sure-4, not-3)
+root(ROOT-0, sure-4)
+dobj(is-10, what-5)
+det(benefit-7, the-6)
+nsubj(is-10, benefit-7)
+prep_of(benefit-7, LED-9)
+ccomp(sure-4, is-10)
+
+=========
+
+root(ROOT-0, Cheaper-1)
+aux(build-3, to-2)
+xcomp(Cheaper-1, build-3)
+
+=========
+
+amod(energy-2, More-1)
+root(ROOT-0, energy-2)
+amod(energy-2, efficient-3)
+
+=========
+
+advmod(notan-2, Definitely-1)
+root(ROOT-0, notan-2)
+dobj(notan-2, improvement-3)
+
+=========
+
+nsubj(bought-3, Should-1)
+aux(bought-3, have-2)
+root(ROOT-0, bought-3)
+det(plasma-6, another-4)
+nn(plasma-6, Panasonic-5)
+dobj(bought-3, plasma-6)
+

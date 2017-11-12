@@ -1,0 +1,4 @@
+Buy_VB this_DT product_NN as_IN factory_NN unlocked_VBN with_IN 4_CD GB_NN of_IN internal_JJ memory_NN and_CC 768MB_NNP ram_NN ._.
+its_PRP$ unlocked_VBN !_.
+But_CC not_RB factory_NN unlocked_VBD ,_, with_IN 2.3_CD GB_NN of_IN internal_JJ memory_NN and_CC 555_CD MB_NNP RAM_NNP !!!_NN and_CC it_PRP is_VBZ a_DT product_NN for_IN France_NNP ,_, not_RB for_IN America_NNP !_.
+This_DT was_VBD not_RB the_DT product_NN that_IN I_PRP bought_VBD ,_, The_DT problem_NN is_VBZ I_PRP am_VBP in_IN South_NNP America_NNP ,_, !!!_VBP I_PRP can_MD not_RB return_VB it_PRP and_CC I_PRP feel_VBP cheated_VBN

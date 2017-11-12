@@ -1,0 +1,3 @@
+I_PRP am_VBP an_DT entry_NN level_NN DSLR_NNP user_NN and_CC took_VBD a_DT class_NN with_IN my_PRP$ new_JJ camera_NN ._.
+It_PRP 's_VBZ great_JJ and_CC easy_JJ to_TO use_VB and_CC once_RB you_PRP learn_VBP to_TO use_VB your_PRP$ manual_JJ adjustments_NNS you_PRP can_MD take_VB quite_RB excellent_JJ pictures_NNS !_.
+The_DT coloring_NN is_VBZ great_JJ and_CC I_PRP can_MD not_RB wait_VB to_TO take_VB more_JJR pictures_NNS with_IN it_PRP !_.

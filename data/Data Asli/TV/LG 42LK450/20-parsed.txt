@@ -1,0 +1,38 @@
+=========
+
+nsubj(own-2, I-1)
+root(ROOT-0, own-2)
+num(TV-4, 4-3)
+nsubj(vizio-8, TV-4)
+cop(vizio-8, 's-5)
+num(vizio-8, 1-7)
+ccomp(own-2, vizio-8)
+dep(vizio-8, 1-10)
+dep(1-10, westinghouse-11)
+dep(1-10, 1-13)
+dep(1-10, sharp-14)
+det(42-inch-18, the-16)
+nn(42-inch-18, LG-17)
+ccomp(own-2, 42-inch-18)
+conj_and(vizio-8, 42-inch-18)
+
+=========
+
+det(picture-2, The-1)
+nsubj(amazing-4, picture-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+det(featues-7, the-6)
+nsubj(superb-9, featues-7)
+cop(superb-9, are-8)
+conj_and(amazing-4, superb-9)
+nsubj(buy-16, I-11)
+aux(buy-16, would-12)
+advmod(buy-16, from-13)
+advmod(from-13, now-14)
+advmod(from-13, on-15)
+parataxis(amazing-4, buy-16)
+nn(TV-18, LG-17)
+dobj(buy-16, TV-18)
+possessive(TV-18, 's-19)
+

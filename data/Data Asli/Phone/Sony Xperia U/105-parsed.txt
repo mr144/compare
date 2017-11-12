@@ -1,0 +1,27 @@
+=========
+
+nsubj(liked-2, I-1)
+nsubj(features-6, I-1)
+root(ROOT-0, liked-2)
+det(size-4, the-3)
+dobj(liked-2, size-4)
+conj_and(liked-2, features-6)
+
+=========
+
+cc(lost-4, But-1)
+advmod(many-3, too-2)
+nsubj(lost-4, many-3)
+root(ROOT-0, lost-4)
+nn(problems-7, service-6)
+prep_of(lost-4, problems-7)
+complm(make-15, that-8)
+amod(reboots-10, required-9)
+nsubj(make-15, reboots-10)
+det(phone-13, the-12)
+prep_of(reboots-10, phone-13)
+aux(make-15, to-14)
+ccomp(lost-4, make-15)
+xcomp(lost-4, make-15)
+dobj(make-15, calls-16)
+

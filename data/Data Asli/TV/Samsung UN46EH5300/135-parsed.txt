@@ -1,0 +1,28 @@
+=========
+
+nsubj(suggest-3, I-1)
+aux(suggest-3, would-2)
+root(ROOT-0, suggest-3)
+xcomp(suggest-3, buying-4)
+det(model-7, a-5)
+amod(model-7, higher-6)
+dobj(buying-4, model-7)
+mark(is-12, if-8)
+poss(purpose-11, your-9)
+amod(purpose-11, sole-10)
+nsubj(is-12, purpose-11)
+advcl(suggest-3, is-12)
+nn(video-16, stream-14)
+amod(video-16, online-15)
+prep_to(is-12, video-16)
+
+=========
+
+advmod(enough-7, Apparently-1)
+det(memory-4, the-2)
+amod(memory-4, 700mb-3)
+nsubj(enough-7, memory-4)
+cop(enough-7, is-5)
+neg(enough-7, not-6)
+root(ROOT-0, enough-7)
+

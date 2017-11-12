@@ -1,0 +1,106 @@
+=========
+
+nsubj(camera-6, It-1)
+cop(camera-6, is-2)
+poss(camera-6, my-3)
+amod(camera-6, first-4)
+amod(camera-6, digital-5)
+root(ROOT-0, camera-6)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(35mm-4, a-3)
+dobj(had-2, 35mm-4)
+amod(years-7, many-6)
+prep_for(35mm-4, years-7)
+
+=========
+
+advmod(met-5, So-1)
+advmod(So-1, far-2)
+nsubj(met-5, it-3)
+aux(met-5, has-4)
+root(ROOT-0, met-5)
+dobj(met-5, all-6)
+poss(expectations-9, my-8)
+prep_of(all-6, expectations-9)
+
+=========
+
+root(ROOT-0, Excellent-1)
+dobj(Excellent-1, quality-2)
+dobj(Excellent-1, price-4)
+conj_and(quality-2, price-4)
+
+=========
+
+nsubj(expressed-3, Some-1)
+aux(expressed-3, have-2)
+root(ROOT-0, expressed-3)
+dobj(expressed-3, disappointment-4)
+det(CD-7, the-6)
+prep_of(disappointment-4, CD-7)
+det(manual-11, a-10)
+prep_instead_of(CD-7, manual-11)
+
+=========
+
+nsubj(called-2, I-1)
+nsubj(spoke-10, I-1)
+root(ROOT-0, called-2)
+det(number-4, the-3)
+dobj(called-2, number-4)
+det(card-8, the-6)
+amod(card-8, yellow-7)
+prep_on(called-2, card-8)
+conj_and(called-2, spoke-10)
+nn(relations-13, customer-12)
+prep_to(spoke-10, relations-13)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(MANUAL-5, a-3)
+nn(MANUAL-5, PAPER-4)
+nsubj(is-2, MANUAL-5)
+det(camera-8, this-7)
+prep_for(MANUAL-5, camera-8)
+nsubj(mail-12, they-10)
+aux(mail-12, will-11)
+conj_and(is-2, mail-12)
+dobj(mail-12, it-13)
+prep_to(mail-12, you-15)
+
+=========
+
+nsubj(is-2, This-1)
+root(ROOT-0, is-2)
+dobj(did-5, what-3)
+nsubj(did-5, I-4)
+ccomp(is-2, did-5)
+
+=========
+
+advmod(covers-5, Also-1)
+det(warranty-4, the-3)
+nsubj(covers-5, warranty-4)
+root(ROOT-0, covers-5)
+amod(purchases-7, CANADIAN-6)
+dobj(covers-5, purchases-7)
+det(U.S.-10, the-9)
+prep_from(covers-5, U.S.-10)
+det(camera-13, this-12)
+prep_for(U.S.-10, camera-13)
+
+=========
+
+nsubj(have-3, Hope-1)
+advmod(have-3, all-2)
+root(ROOT-0, have-3)
+amod(memories-6, many-4)
+amod(memories-6, happy-5)
+dobj(have-3, memories-6)
+

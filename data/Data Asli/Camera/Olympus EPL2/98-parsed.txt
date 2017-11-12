@@ -1,0 +1,32 @@
+=========
+
+nn(Micro-6, +-1)
+nn(Micro-6, Amazing-2)
+nn(Micro-6, picture-3)
+nn(Micro-6, quality-4)
+nn(Micro-6, +-5)
+nsubj(fourthirds-7, Micro-6)
+root(ROOT-0, fourthirds-7)
+nsubj(mount-9, lens-8)
+ccomp(fourthirds-7, mount-9)
+num(management-15, +-10)
+nn(management-15, Acceptable-11)
+amod(management-15, video-12)
+nn(management-15, quality-13)
+nn(management-15, Battery-14)
+nsubj(sucks-16, management-15)
+ccomp(mount-9, sucks-16)
+
+=========
+
+nn(interface-2, User-1)
+nsubj(needs-9, interface-2)
+nn(organization-7, menu-4)
+conj_and(menu-4, button-6)
+nn(organization-7, button-6)
+appos(interface-2, organization-7)
+root(ROOT-0, needs-9)
+amod(Expensive-12, massive-10)
+nn(Expensive-12, facelift-11)
+dobj(needs-9, Expensive-12)
+

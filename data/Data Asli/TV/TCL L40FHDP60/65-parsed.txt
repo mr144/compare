@@ -1,0 +1,61 @@
+=========
+
+nn(Shipping-2, Fast-1)
+nsubj(use-5, Shipping-2)
+nsubj(use-5, I-4)
+root(ROOT-0, use-5)
+nsubj('s-9, it-6)
+det(day-8, every-7)
+nsubj('s-9, day-8)
+dep(use-5, 's-9)
+nsubj(Perfect-13, it-11)
+cop(Perfect-13, is-12)
+dep(use-5, Perfect-13)
+conj_and('s-9, Perfect-13)
+
+=========
+
+nsubj(put-2, I-1)
+root(ROOT-0, put-2)
+det(song-4, the-3)
+dobj(put-2, song-4)
+nn(5.1-8, External-6)
+nn(5.1-8, Speakers-7)
+prep_on(put-2, 5.1-8)
+nsubj(sound-11, it-10)
+conj_and(put-2, sound-11)
+dobj(sound-11, Great-12)
+
+=========
+
+nsubj(put-2, I-1)
+root(ROOT-0, put-2)
+det(RCA-5, the-3)
+nn(RCA-5, Code-4)
+dobj(put-2, RCA-5)
+poss(TV-11, my-7)
+amod(TV-11, remote-8)
+nn(TV-11, control-9)
+nn(TV-11, Shaw-10)
+prep_to(put-2, TV-11)
+dep(Great-15, it-13)
+nn(Great-15, Work-14)
+conj_and(put-2, Great-15)
+
+=========
+
+nsubj(satisfied-4, i-2)
+cop(satisfied-4, am-3)
+root(ROOT-0, satisfied-4)
+nsubj(buy-8, i-6)
+aux(buy-8, will-7)
+conj_and(satisfied-4, buy-8)
+advmod(buy-8, again-9)
+mark(want-12, if-10)
+nsubj(want-12, i-11)
+advcl(buy-8, want-12)
+det(TV-14, another-13)
+dobj(want-12, TV-14)
+poss(House-17, my-16)
+prep_in(TV-14, House-17)
+

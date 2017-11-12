@@ -1,0 +1,3 @@
+Great_JJ phone_NN for_IN a_DT great_JJ price_NN ._.
+This_DT phone_NN has_VBZ most_JJS of_IN the_DT latest_JJS features_NNS and_CC is_VBZ really_RB fast_RB ._.
+Although_IN it_PRP lacks_VBZ certain_JJ apps_NNS the_DT look_NN ,_, feel_NN ,_, and_CC performance_NN would_MD give_VB other_JJ phones_NNS in_IN its_PRP$ price_NN range_NN a_DT run_NN for_IN their_PRP$ money_NN ._.

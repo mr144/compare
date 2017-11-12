@@ -1,0 +1,32 @@
+=========
+
+det(camera-2, This-1)
+nsubj(gave-3, camera-2)
+nsubj(easy-9, camera-2)
+root(ROOT-0, gave-3)
+iobj(gave-3, us-4)
+amod(pictures-6, great-5)
+dobj(gave-3, pictures-6)
+cop(easy-9, was-8)
+conj_and(gave-3, easy-9)
+aux(use-11, to-10)
+xcomp(easy-9, use-11)
+
+=========
+
+aux(use-2, To-1)
+root(ROOT-0, use-2)
+predet(effects-5, all-3)
+det(effects-5, the-4)
+dobj(use-2, effects-5)
+dobj(have-8, effects-5)
+nsubj(have-8, you-6)
+xsubj(get-10, you-6)
+aux(have-8, 'll-7)
+rcmod(effects-5, have-8)
+aux(get-10, to-9)
+xcomp(have-8, get-10)
+det(lens-12, another-11)
+dobj(get-10, lens-12)
+advmod(get-10, though-13)
+

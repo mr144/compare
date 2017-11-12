@@ -1,0 +1,74 @@
+=========
+
+nsubj(choose-2, I-1)
+root(ROOT-0, choose-2)
+dobj(choose-2, this-3)
+mark(Phone-9, because-4)
+nsubj(Phone-9, it-5)
+cop(Phone-9, is-6)
+det(Phone-9, a-7)
+nn(Phone-9, Windows-8)
+advcl(choose-2, Phone-9)
+nsubj(better-14, it-12)
+cop(better-14, is-13)
+conj_and(choose-2, better-14)
+prep_than(better-14, Iphone-16)
+
+=========
+
+dep(simpler-4, so-1)
+nsubj(simpler-4, it-2)
+xsubj(use-6, it-2)
+cop(simpler-4, is-3)
+root(ROOT-0, simpler-4)
+aux(use-6, to-5)
+xcomp(simpler-4, use-6)
+det(smartphone-9, a-8)
+prep_as(use-6, smartphone-9)
+
+=========
+
+advmod(like-4, Also-1)
+nsubj(like-4, I-3)
+root(ROOT-0, like-4)
+dobj(like-4, nokia-5)
+possessive(nokia-5, 's-6)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+dobj(like-7, thing-3)
+nsubj(fact-10, thing-3)
+nsubj(like-7, I-4)
+aux(like-7, do-5)
+neg(like-7, not-6)
+rcmod(thing-3, like-7)
+cop(fact-10, is-8)
+det(fact-10, the-9)
+root(ROOT-0, fact-10)
+complm(choose-15, that-11)
+nsubj(choose-15, you-12)
+aux(choose-15, can-13)
+neg(choose-15, not-14)
+ccomp(fact-10, choose-15)
+poss(files-18, your-16)
+amod(files-18, own-17)
+dobj(choose-15, files-18)
+aux(alerts-22, to-19)
+cop(alerts-22, be-20)
+nn(alerts-22, text-21)
+xcomp(choose-15, alerts-22)
+
+=========
+
+nsubj(choose-3, You-1)
+aux(choose-3, can-2)
+root(ROOT-0, choose-3)
+poss(ringtones-6, your-4)
+amod(ringtones-6, own-5)
+dobj(choose-3, ringtones-6)
+nn(alerts-10, text-9)
+dobj(choose-3, alerts-10)
+conj_negcc(ringtones-6, alerts-10)
+

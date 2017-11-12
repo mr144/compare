@@ -1,0 +1,56 @@
+=========
+
+advmod(blurry-2, sometimes-1)
+amod(durning-3, blurry-2)
+nsubj(ballgames-4, durning-3)
+root(ROOT-0, ballgames-4)
+
+=========
+
+det(LED-2, The-1)
+nsubj(picture-6, LED-2)
+cop(picture-6, is-3)
+det(picture-6, a-4)
+amod(picture-6, better-5)
+root(ROOT-0, picture-6)
+det(LCD-9, the-8)
+prep_than(picture-6, LCD-9)
+
+=========
+
+nn(I-2, Wish-1)
+nsubj(looked-5, I-2)
+aux(looked-5, would-3)
+aux(looked-5, have-4)
+root(ROOT-0, looked-5)
+advmod(looked-5, closer-6)
+prepc_before(looked-5, purchasing-8)
+det(TV-10, this-9)
+dobj(purchasing-8, TV-10)
+
+=========
+
+cop(worried-4, Was-1)
+det(little-3, a-2)
+npadvmod(worried-4, little-3)
+root(ROOT-0, worried-4)
+xcomp(worried-4, ordering-5)
+det(TV-7, a-6)
+dobj(ordering-5, TV-7)
+prep(ordering-5, online-8)
+advmod(ordering-5, however-10)
+nsubjpass(shipped-14, item-12)
+nsubj(have-20, item-12)
+auxpass(shipped-14, was-13)
+parataxis(worried-4, shipped-14)
+det(problems-17, no-16)
+prep_with(shipped-14, problems-17)
+aux(have-20, would-19)
+parataxis(worried-4, have-20)
+conj_and(shipped-14, have-20)
+det(worries-22, no-21)
+nsubj(doing-23, worries-22)
+ccomp(have-20, doing-23)
+dobj(doing-23, this-24)
+advmod(doing-23, again-25)
+

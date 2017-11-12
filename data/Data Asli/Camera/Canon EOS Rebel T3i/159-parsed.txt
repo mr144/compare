@@ -1,0 +1,25 @@
+=========
+
+nsubj(make-2, I-1)
+root(ROOT-0, make-2)
+amod(videos-4, youtube-3)
+dobj(make-2, videos-4)
+mark(had-9, since-7)
+nsubj(had-9, ive-8)
+advcl(amazing-16, had-9)
+det(camera-11, this-10)
+dobj(had-9, camera-11)
+poss(videos-13, my-12)
+nsubj(amazing-16, videos-13)
+aux(amazing-16, have-14)
+cop(amazing-16, been-15)
+conj_and(make-2, amazing-16)
+
+=========
+
+dep(!!-7, Perfect-1)
+prep_for(Perfect-1, beginners-3)
+prep_for(Perfect-1, professionals-6)
+conj_and(beginners-3, professionals-6)
+root(ROOT-0, !!-7)
+

@@ -1,0 +1,5 @@
+I_PRP am_VBP very_RB upset_JJ phone_NN is_VBZ not_RB working_VBG ._.
+I_PRP am_VBP very_RB upset_JJ phone_NN is_VBZ not_RB working_VBG ._.
+I_PRP hurt_VBP ._.
+I_PRP hurt_VBP ._.
+I_PRP hurt_VBP

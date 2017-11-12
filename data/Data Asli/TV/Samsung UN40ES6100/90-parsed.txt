@@ -1,0 +1,83 @@
+=========
+
+nsubj(had-2, Already-1)
+nsubj(wanted-8, Already-1)
+xsubj(move-10, Already-1)
+root(ROOT-0, had-2)
+det(&#34;-6, a-3)
+amod(&#34;-6, Samsung-4)
+num(&#34;-6, 46-5)
+dobj(had-2, &#34;-6)
+conj_and(had-2, wanted-8)
+aux(move-10, to-9)
+xcomp(wanted-8, move-10)
+prt(move-10, up-11)
+
+=========
+
+det(upgrade-2, This-1)
+nsubj(increased-3, upgrade-2)
+root(ROOT-0, increased-3)
+poss(area-6, my-4)
+amod(area-6, viewing-5)
+dobj(increased-3, area-6)
+num(%-9, 43-8)
+prep_by(increased-3, %-9)
+
+=========
+
+nsubj(allows-8, Sharp-1)
+amod(capability-7, clear-3)
+conj_and(clear-3, Smart-tv-6)
+amod(capability-7, Smart-tv-6)
+appos(Sharp-1, capability-7)
+root(ROOT-0, allows-8)
+amod(access-10, easy-9)
+dobj(allows-8, access-10)
+prep_to(allows-8, Netflix-12)
+prep_to(allows-8, others-14)
+conj_and(Netflix-12, others-14)
+amod(features-18, many-16)
+amod(features-18, other-17)
+prep_to(allows-8, features-18)
+conj_plus(Netflix-12, features-18)
+dobj(explored-22, features-18)
+nsubj(explored-22, I-19)
+aux(explored-22, have-20)
+neg(explored-22, not-21)
+rcmod(features-18, explored-22)
+advmod(explored-22, yet-23)
+
+=========
+
+det(TV-3, A-1)
+amod(TV-3, great-2)
+root(ROOT-0, TV-3)
+
+=========
+
+det(&#34;-3, The-1)
+number(&#34;-3, 55-2)
+nsubj(has-4, &#34;-3)
+root(ROOT-0, has-4)
+det(version-7, an-5)
+amod(version-7, upgraded-6)
+dobj(has-4, version-7)
+num(capability-10, 3D-9)
+prep_with(version-7, capability-10)
+dep(version-7, those-12)
+nsubj(gamers-15, those-12)
+cop(gamers-15, are-14)
+rcmod(those-12, gamers-15)
+mark(enjoy-20, with-17)
+nsubj(enjoy-20, kids-18)
+aux(enjoy-20, might-19)
+rcmod(those-12, enjoy-20)
+conj_or(gamers-15, enjoy-20)
+det(feature-22, this-21)
+dobj(enjoy-20, feature-22)
+det(dollars-26, a-24)
+amod(dollars-26, few-25)
+npadvmod(more-27, dollars-26)
+prepc_for(enjoy-20, more-27)
+

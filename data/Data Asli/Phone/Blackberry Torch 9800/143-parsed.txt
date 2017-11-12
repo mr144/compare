@@ -1,0 +1,47 @@
+=========
+
+nn(Torch-3, Blackberry-1)
+nn(Torch-3, 9800-2)
+root(ROOT-0, Torch-3)
+advmod(presentation-7, very-5)
+amod(presentation-7, bad-6)
+appos(Torch-3, presentation-7)
+
+=========
+
+det(cd-2, no-1)
+root(ROOT-0, cd-2)
+
+=========
+
+det(manual-2, no-1)
+root(ROOT-0, manual-2)
+
+=========
+
+root(ROOT-0, unlike-1)
+
+=========
+
+det(recomendation-2, no-1)
+root(ROOT-0, recomendation-2)
+
+=========
+
+prep_for(want-3, everyone-2)
+root(ROOT-0, want-3)
+amod(whith-6, tu-4)
+nn(whith-6, buy-5)
+dobj(want-3, whith-6)
+det(company-8, this-7)
+nsubj(want-3, company-8)
+
+=========
+
+nsubj(wil-2, I-1)
+root(ROOT-0, wil-2)
+dobj(wil-2, thing-3)
+prepc_in(wil-2, returned-5)
+det(phone-7, this-6)
+dobj(returned-5, phone-7)
+

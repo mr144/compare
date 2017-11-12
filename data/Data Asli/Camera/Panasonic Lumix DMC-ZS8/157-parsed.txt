@@ -1,0 +1,90 @@
+=========
+
+det(camera-2, This-1)
+nsubj(garbage-4, camera-2)
+cop(garbage-4, is-3)
+root(ROOT-0, garbage-4)
+advmod(garbage-4, so-6)
+conj_and(garbage-4, so-6)
+cop(service-10, is-7)
+det(service-10, the-8)
+nn(service-10, customer-9)
+conj_and(garbage-4, service-10)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, the-3)
+dobj(bought-2, camera-4)
+prep_for(bought-2, Christmas-6)
+nsubjpass(broken-10, it-8)
+auxpass(broken-10, was-9)
+conj_and(bought-2, broken-10)
+agent(broken-10, April-12)
+
+=========
+
+det(lens-2, The-1)
+nsubj(kept-3, lens-2)
+root(ROOT-0, kept-3)
+xcomp(kept-3, sticking-4)
+advmod(kept-3, then-6)
+conj_and(kept-3, then-6)
+nsubj(got-8, we-7)
+ccomp(kept-3, got-8)
+det(message-11, an-9)
+nn(message-11, error-10)
+dobj(got-8, message-11)
+
+=========
+
+advmod(had-3, SO-1)
+nsubj(had-3, I-2)
+xsubj(send-5, I-2)
+root(ROOT-0, had-3)
+aux(send-5, to-4)
+xcomp(had-3, send-5)
+dobj(send-5, it-6)
+advmod(send-5, back-7)
+nsubj(sent-10, they-9)
+conj_and(had-3, sent-10)
+iobj(sent-10, me-11)
+det(model-14, a-12)
+amod(model-14, refurbished-13)
+dobj(sent-10, model-14)
+
+=========
+
+advmod(is-3, Here-1)
+nsubj(is-3, it-2)
+root(ROOT-0, is-3)
+num(months-5, three-4)
+npadvmod(later-6, months-5)
+advmod(is-3, later-6)
+det(thing-10, the-8)
+amod(thing-10, same-9)
+nsubj(happened-11, thing-10)
+conj_and(is-3, happened-11)
+
+=========
+
+advmod(want-3, Now-1)
+nsubj(want-3, they-2)
+root(ROOT-0, want-3)
+nsubj(send-6, me-4)
+aux(send-6, to-5)
+xcomp(want-3, send-6)
+dobj(send-6, it-7)
+prep(send-6, in-8)
+pcomp(in-8, again-9)
+
+=========
+
+nsubjpass(disappointed-4, I-1)
+auxpass(disappointed-4, am-2)
+advmod(disappointed-4, so-3)
+root(ROOT-0, disappointed-4)
+det(product-7, the-6)
+prep_with(disappointed-4, product-7)
+

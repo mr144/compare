@@ -1,0 +1,43 @@
+=========
+
+root(ROOT-0, Bought-1)
+det(phone-3, this-2)
+dobj(Bought-1, phone-3)
+det(gift-7, a-5)
+nn(gift-7, Christmas-6)
+prep_as(Bought-1, gift-7)
+poss(brother-10, my-9)
+prep_for(gift-7, brother-10)
+nsubj(came-13, I-12)
+parataxis(Bought-1, came-13)
+det(scratches-16, no-15)
+prep_with(came-13, scratches-16)
+cop(brand-19, seemed-18)
+parataxis(Bought-1, brand-19)
+conj_and(came-13, brand-19)
+amod(brand-19, new-20)
+
+=========
+
+nsubj(live-2, We-1)
+root(ROOT-0, live-2)
+prep_in(live-2, Trinidad-4)
+nsubj(works-7, it-6)
+conj_and(live-2, works-7)
+prt(works-7, with-8)
+predet(providers-12, both-9)
+poss(providers-12, our-10)
+nn(providers-12, network-11)
+dobj(works-7, providers-12)
+
+=========
+
+root(ROOT-0, All-1)
+dep(All-1, in-2)
+pobj(in-2, all-3)
+nsubj(buy-8, it-4)
+cop(buy-8, is-5)
+det(buy-8, a-6)
+amod(buy-8, great-7)
+rcmod(all-3, buy-8)
+

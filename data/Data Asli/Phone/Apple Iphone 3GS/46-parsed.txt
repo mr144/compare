@@ -1,0 +1,29 @@
+=========
+
+det(product-2, The-1)
+nsubj(was-3, product-2)
+root(ROOT-0, was-3)
+dep(expected-7, exactly-4)
+dep(exactly-4, what-5)
+nsubj(expected-7, I-6)
+ccomp(was-3, expected-7)
+
+=========
+
+nn(Pleased-2, Very-1)
+root(ROOT-0, Pleased-2)
+
+=========
+
+det(phone-2, The-1)
+nsubj(came-3, phone-2)
+root(ROOT-0, came-3)
+predet(packaging-8, all-5)
+det(packaging-8, the-6)
+amod(packaging-8, original-7)
+prep_with(came-3, packaging-8)
+advmod(manual-14, how-11)
+aux(manual-14, to-12)
+prep_with(came-3, manual-14)
+conj_and(packaging-8, manual-14)
+

@@ -1,0 +1,23 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+det(flash-3, the-1)
+nn(flash-3, popup-2)
+nsubj(powerful-6, flash-3)
+cop(powerful-6, is-4)
+advmod(powerful-6, more-5)
+root(ROOT-0, powerful-6)
+det(wheel-10, the-8)
+nn(wheel-10, control-9)
+nsubj(great-12, wheel-10)
+cop(great-12, is-11)
+conj_and(powerful-6, great-12)
+
+=========
+
+cop(camera-4, Is-1)
+det(camera-4, an-2)
+amod(camera-4, awesome-3)
+root(ROOT-0, camera-4)
+

@@ -1,0 +1,39 @@
+=========
+
+nsubj(broke-2, Mine-1)
+root(ROOT-0, broke-2)
+num(months-5, 13-4)
+prep_after(broke-2, months-5)
+
+=========
+
+nsubj(claim-3, They-1)
+aux(claim-3, will-2)
+root(ROOT-0, claim-3)
+nsubj(dropped-5, you-4)
+ccomp(claim-3, dropped-5)
+dobj(dropped-5, it-6)
+nsubjpass(treated-10, mine-8)
+auxpass(treated-10, was-9)
+parataxis(claim-3, treated-10)
+advmod(treated-10, gingerly-11)
+
+=========
+
+nsubj(had-3, I-1)
+xsubj(threaten-5, I-1)
+xsubj(get-17, I-1)
+advmod(had-3, finally-2)
+root(ROOT-0, had-3)
+aux(threaten-5, to-4)
+xcomp(had-3, threaten-5)
+aux(stand-7, to-6)
+xcomp(threaten-5, stand-7)
+prep_in_front_of(stand-7, Walmart-11)
+det(sign-15, a-13)
+nn(sign-15, protest-14)
+prep_with(stand-7, sign-15)
+aux(get-17, to-16)
+xcomp(had-3, get-17)
+dobj(get-17, satisfaction-18)
+

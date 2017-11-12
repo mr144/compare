@@ -1,0 +1,38 @@
+=========
+
+amod(i-2, first-1)
+nsubj(choose-3, i-2)
+root(ROOT-0, choose-3)
+dobj(choose-3, this-4)
+prep_for(this-4, cheap-6)
+advmod(got-11, when-9)
+nsubj(got-11, i-10)
+advcl(love-14, got-11)
+nsubj(love-14, it-12)
+advmod(love-14, just-13)
+conj_but(choose-3, love-14)
+dobj(love-14, it-15)
+
+=========
+
+nsubj(got-2, i-1)
+root(ROOT-0, got-2)
+det(brand-5, a-3)
+amod(brand-5, new-4)
+dobj(got-2, brand-5)
+partmod(brand-5, packaged-6)
+neg(packaged-6, never-7)
+amod(tv-9, open-8)
+dobj(packaged-6, tv-9)
+
+=========
+
+amod(quality-3, great-1)
+nn(quality-3, image-2)
+nsubj(function-8, quality-3)
+conj_and(quality-3, love-5)
+nsubj(function-8, love-5)
+det(internet-7, the-6)
+dep(love-5, internet-7)
+root(ROOT-0, function-8)
+

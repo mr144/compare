@@ -1,0 +1,48 @@
+=========
+
+cop(a-3, Is-1)
+nsubj(a-3, it-2)
+root(ROOT-0, a-3)
+advmod(camera-5, still-4)
+dep(a-3, camera-5)
+cop(it-8, is-7)
+dep(a-3, it-8)
+conj_or(camera-5, it-8)
+det(camera-11, a-9)
+nn(camera-11, cinema-10)
+dobj(camera-5, camera-11)
+
+=========
+
+nsubj(both-3, It-1)
+cop(both-3, 's-2)
+root(ROOT-0, both-3)
+
+=========
+
+nsubj(colorsContinuous-5, Lots-1)
+nn(speedDeep-4, iso-3)
+prep_of(Lots-1, speedDeep-4)
+root(ROOT-0, colorsContinuous-5)
+dobj(colorsContinuous-5, focus-6)
+nn(mode-9, movie-8)
+prep_in(colorsContinuous-5, mode-9)
+advmod(colorsContinuous-5, yay-11)
+
+=========
+
+amod(adjustment-6, Virtual-1)
+amod(adjustment-6, continuous-2)
+amod(adjustment-6, sound-3)
+nn(adjustment-6, record-4)
+nn(adjustment-6, level-5)
+nsubj(yay-17, adjustment-6)
+num(clicks-9, 20-8)
+appos(adjustment-6, clicks-9)
+amod(model-12, previous-11)
+appos(adjustment-6, model-12)
+dep(model-12, has-13)
+quantmod(3-15, only-14)
+dobj(has-13, 3-15)
+root(ROOT-0, yay-17)
+

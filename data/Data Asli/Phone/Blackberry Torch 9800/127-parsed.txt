@@ -1,0 +1,27 @@
+=========
+
+nsubj(love-2, I-1)
+ccomp(was-7, love-2)
+poss(fone-4, my-3)
+dobj(love-2, fone-4)
+nsubj(was-7, it-6)
+root(ROOT-0, was-7)
+dobj(looking-11, what-8)
+nsubj(looking-11, I-9)
+aux(looking-11, was-10)
+ccomp(was-7, looking-11)
+prep(looking-11, for-12)
+pcomp(for-12, in-13)
+det(fone-15, a-14)
+prep_in(for-12, fone-15)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(carry-5, to-4)
+xcomp(easy-3, carry-5)
+poss(bag-8, my-7)
+prep_in(carry-5, bag-8)
+

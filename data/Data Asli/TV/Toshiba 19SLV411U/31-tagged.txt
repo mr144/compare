@@ -1,0 +1,3 @@
+Ok_NNP ..._: ._.
+Yes_RB ,_, the_DT sound_NN is_VBZ a_DT bit_RB tinny_JJ ,_, but_CC for_IN our_PRP$ kitchen_NN top_NN tv_NN ,_, it_PRP will_MD serve_VB us_PRP well_RB enough_RB ._.
+The_DT picture_NN is_VBZ sharp_JJ and_CC the_DT controls_NNS are_VBP easy_JJ to_TO use_VB ._.

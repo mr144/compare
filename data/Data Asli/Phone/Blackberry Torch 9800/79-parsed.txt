@@ -1,0 +1,23 @@
+=========
+
+root(ROOT-0, so-1)
+advmod(feel-6, when-2)
+amod(i-5, i-3)
+nn(i-5, order-4)
+nsubj(feel-6, i-5)
+dep(so-1, feel-6)
+dobj(feel-6, ok-7)
+complm(orderhard-13, that-8)
+poss(fake-12, its-9)
+neg(a-11, not-10)
+amod(fake-12, a-11)
+nsubj(orderhard-13, fake-12)
+xsubj(put-15, fake-12)
+ccomp(feel-6, orderhard-13)
+aux(put-15, to-14)
+xcomp(orderhard-13, put-15)
+nsubj(onyes-17, it-16)
+xcomp(put-15, onyes-17)
+poss(frends-20, my-19)
+prep_to(onyes-17, frends-20)
+

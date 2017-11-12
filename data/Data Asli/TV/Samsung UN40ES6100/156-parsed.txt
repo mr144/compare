@@ -1,0 +1,29 @@
+=========
+
+nn(quality-2, Picture-1)
+nsubj(amazing-4, quality-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+nsubj(easy-9, Navigation-1)
+predet(features-6, all-3)
+det(features-6, the-4)
+amod(features-6, different-5)
+prep_through(Navigation-1, features-6)
+cop(easy-9, is-7)
+advmod(easy-9, so-8)
+root(ROOT-0, easy-9)
+
+=========
+
+nsubj(purchase-4, I-1)
+aux(purchase-4, would-2)
+advmod(purchase-4, definitely-3)
+root(ROOT-0, purchase-4)
+det(TV-7, a-5)
+nn(TV-7, Samsung-6)
+dobj(purchase-4, TV-7)
+advmod(purchase-4, again-8)
+

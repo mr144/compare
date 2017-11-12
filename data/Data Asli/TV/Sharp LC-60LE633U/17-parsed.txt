@@ -1,0 +1,63 @@
+=========
+
+det(TV-2, This-1)
+nsubj(amazing-4, TV-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+det(TV-4, the-2)
+amod(TV-4, first-3)
+prep_its(purchased-7, TV-4)
+nsubj(purchased-7, I-5)
+aux(purchased-7, have-6)
+root(ROOT-0, purchased-7)
+prep(purchased-7, online-8)
+nsubj(doing-14, I-11)
+aux(doing-14, will-12)
+aux(doing-14, be-13)
+conj_and(purchased-7, doing-14)
+dobj(doing-14, it-15)
+advmod(doing-14, again-16)
+det(future-19, the-18)
+prep_in(doing-14, future-19)
+
+=========
+
+det(TV-2, This-1)
+nsubj(looks-3, TV-2)
+root(ROOT-0, looks-3)
+acomp(looks-3, incredible-4)
+
+=========
+
+nn(movies-3, BluRay-2)
+prep_from(handles-15, movies-3)
+prep_to(handles-15, games-6)
+prepc_to(games-6, using-9)
+poss(computer-11, my-10)
+dobj(using-9, computer-11)
+det(TV-14, this-13)
+nsubj(handles-15, TV-14)
+root(ROOT-0, handles-15)
+dobj(handles-15, it-16)
+dep(brilliantly-18, all-17)
+advmod(handles-15, brilliantly-18)
+
+=========
+
+mark(are-3, If-1)
+nsubj(are-3, you-2)
+advcl(disappointed-16, are-3)
+det(fence-6, the-5)
+prep_on(are-3, fence-6)
+aux(be-10, do-8)
+neg(be-10, not-9)
+ccomp(are-3, be-10)
+nsubj(disappointed-16, you-12)
+aux(disappointed-16, will-13)
+neg(disappointed-16, not-14)
+cop(disappointed-16, be-15)
+root(ROOT-0, disappointed-16)
+

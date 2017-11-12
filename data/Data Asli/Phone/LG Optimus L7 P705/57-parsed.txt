@@ -1,0 +1,30 @@
+=========
+
+det(things-2, All-1)
+prep_for(wish-4, things-2)
+nsubjpass(met-7, things-2)
+nsubj(wish-4, I-3)
+rcmod(things-2, wish-4)
+auxpass(met-7, was-6)
+root(ROOT-0, met-7)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(product-4, this-3)
+dobj(love-2, product-4)
+
+=========
+
+advmod(satisfying-2, very-1)
+root(ROOT-0, satisfying-2)
+advmod(friendly-5, user-4)
+conj_and(satisfying-2, friendly-5)
+
+=========
+
+advmod(fast-2, very-1)
+root(ROOT-0, fast-2)
+conj_and(fast-2, elegant-4)
+

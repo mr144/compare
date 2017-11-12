@@ -1,0 +1,2 @@
+Less_RBR RAM_NNP than_IN original_JJ phone_NN ,_, 1_CD GB_NNP RAM_NNP is_VBZ much_RB more_RBR useful_JJ than_IN 768_CD MB_NNP RAM_NNP ._.
+that_WDT said_VBD it_PRP is_VBZ a_DT decent_JJ Android_NNP device_NN and_CC will_MD hold_VB me_PRP until_IN I_PRP can_MD get_VB a_DT discounted_JJ phone_NN under_IN contract_NN ._.

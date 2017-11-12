@@ -1,0 +1,39 @@
+=========
+
+nn(!!!-3, Great-1)
+nn(!!!-3, Value-2)
+nsubj(Had-4, !!!-3)
+root(ROOT-0, Had-4)
+det(TV-6, this-5)
+dobj(Had-4, TV-6)
+num(months-10, 3-8)
+amod(months-10, full-9)
+prep_for(TV-6, months-10)
+nsubj(great-15, it-12)
+cop(great-15, is-13)
+advmod(great-15, simply-14)
+conj_and(Had-4, great-15)
+
+=========
+
+root(ROOT-0, Great-1)
+dep(Great-1, picture-2)
+nsubj(picture-2, quality-3)
+amod(price-6, good-5)
+appos(quality-3, price-6)
+
+=========
+
+mark(want-3, if-1)
+nsubj(want-3, you-2)
+advcl(hook-8, want-3)
+det(tv-6, a-4)
+amod(tv-6, smart-5)
+dobj(want-3, tv-6)
+root(ROOT-0, hook-8)
+prt(hook-8, up-9)
+poss(computer-11, your-10)
+dobj(hook-8, computer-11)
+det(TV-14, this-13)
+prep_to(hook-8, TV-14)
+

@@ -1,0 +1,1 @@
+First_RB I_PRP was_VBD thinking_VBG to_TO buy_VB samsung_NN and_CC was_VBD expensive_JJ &_CC bought_VBD this_DT TCL_NNP TV_NN for_IN a_DT lot_NN cheaper_JJR --_: it_PRP has_VBZ good_JJ picture_NN quality_NN ,_, easy_JJ to_TO use_VB -_: overall_JJ ,_, it_PRP is_VBZ awesome_JJ product_NN

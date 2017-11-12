@@ -1,0 +1,25 @@
+=========
+
+nsubj(enjoying-3, I-1)
+aux(enjoying-3, am-2)
+root(ROOT-0, enjoying-3)
+det(phone-5, this-4)
+dobj(enjoying-3, phone-5)
+det(day-7, every-6)
+dep(phone-5, day-7)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, only-2)
+nsubj(numbers-7, problem-3)
+cop(numbers-7, is-4)
+det(numbers-7, the-5)
+amod(numbers-7, few-6)
+root(ROOT-0, numbers-7)
+prep_of(numbers-7, apps-9)
+amod(apps-9, available-10)
+prep_of(available-10, Appworld-12)
+prepc_compared_to(Appworld-12, to-14)
+pobj(Appworld-12, Itunes-15)
+

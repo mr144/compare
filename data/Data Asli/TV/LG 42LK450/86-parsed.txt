@@ -1,0 +1,65 @@
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+det(TV-5, this-4)
+dobj(buy-3, TV-5)
+mark(is-8, because-6)
+nsubj(is-8, it-7)
+advcl(buy-3, is-8)
+prep_on(is-8, sale-10)
+mark(did-14, as-12)
+nsubj(did-14, I-13)
+advcl(is-8, did-14)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(poor-6, quality-3)
+cop(poor-6, is-4)
+advmod(poor-6, very-5)
+root(ROOT-0, poor-6)
+
+=========
+
+det(matter-2, No-1)
+advmod(improve-10, matter-2)
+dobj(did-5, what-3)
+nsubj(did-5, I-4)
+dep(matter-2, did-5)
+nsubj(improve-10, I-7)
+aux(improve-10, could-8)
+neg(improve-10, not-9)
+root(ROOT-0, improve-10)
+det(quality-13, the-11)
+nn(quality-13, picture-12)
+dobj(improve-10, quality-13)
+
+=========
+
+nsubj(made-2, It-1)
+root(ROOT-0, made-2)
+nsubj(sick-4, me-3)
+xcomp(made-2, sick-4)
+poss(stomach-7, my-6)
+prep_to(sick-4, stomach-7)
+aux(watch-9, to-8)
+infmod(stomach-7, watch-9)
+det(TV-11, this-10)
+dobj(watch-9, TV-11)
+
+=========
+
+nsubj(returning-3, I-1)
+nsubj(spending-6, I-1)
+aux(returning-3, am-2)
+root(ROOT-0, returning-3)
+dobj(returning-3, it-4)
+conj_and(returning-3, spending-6)
+advmod(spending-6, more-7)
+det(TV-11, a-9)
+amod(TV-11, better-10)
+prep_for(spending-6, TV-11)
+

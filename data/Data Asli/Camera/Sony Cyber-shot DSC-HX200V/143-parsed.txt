@@ -1,0 +1,28 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+dep(Easy-1, use-3)
+det(user-8, a-5)
+amod(user-8, first-6)
+nn(user-8, time-7)
+prep_for(use-3, user-8)
+prep_like(user-8, myself-10)
+
+=========
+
+nsubj(did-2, i-1)
+root(ROOT-0, did-2)
+ccomp(did-2, recomend-3)
+det(camera-5, this-4)
+dobj(recomend-3, camera-5)
+poss(friends-8, my-7)
+prep_to(recomend-3, friends-8)
+

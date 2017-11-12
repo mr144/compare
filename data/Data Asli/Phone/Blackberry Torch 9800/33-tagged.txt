@@ -1,0 +1,4 @@
+Its_PRP$ screen_NN is_VBZ smaller_JJR than_IN my_PRP$ old_JJ blacberry_JJ curve_NN ._.
+the_DT phone_NN ?_.
+s_VBZ performance_NN also_RB cheaper_JJR than_IN curve_NN ._.
+So_RB I_PRP think_VBP this_DT phone_NN still_RB better_JJR than_IN curve_NN ._.

@@ -1,0 +1,34 @@
+=========
+
+prepc_after(improved-20, having-2)
+det(device-4, this-3)
+dobj(having-2, device-4)
+dobj(working-11, device-4)
+det(weeks-8, a-6)
+nn(weeks-8, couple-7)
+prep_for(device-4, weeks-8)
+nsubj(working-11, it-9)
+aux(working-11, is-10)
+rcmod(device-4, working-11)
+advmod(working-11, perfectly-12)
+prep_in(working-11, Venezuela-14)
+nn(gainance-17, signal-16)
+nsubjpass(improved-20, gainance-17)
+aux(improved-20, can-18)
+auxpass(improved-20, be-19)
+root(ROOT-0, improved-20)
+cc(complain-25, but-21)
+nsubj(complain-25, I-22)
+aux(complain-25, can-23)
+neg(complain-25, not-24)
+ccomp(improved-20, complain-25)
+prep_about(complain-25, it-27)
+
+=========
+
+nn(service-2, Shipping-1)
+nsubj(worked-3, service-2)
+root(ROOT-0, worked-3)
+advmod(adviced-5, as-4)
+acomp(worked-3, adviced-5)
+

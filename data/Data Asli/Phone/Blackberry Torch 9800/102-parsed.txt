@@ -1,0 +1,49 @@
+=========
+
+det(phone-2, This-1)
+nsubj(works-3, phone-2)
+root(ROOT-0, works-3)
+advmod(works-3, really-4)
+advmod(works-3, well-5)
+det(Caribbean-8, the-7)
+prep_in(works-3, Caribbean-8)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+nsubjpass(disappointed-3, I-1)
+auxpass(disappointed-3, was-2)
+root(ROOT-0, disappointed-3)
+advmod(found-6, when-4)
+nsubj(found-6, I-5)
+advcl(disappointed-3, found-6)
+prt(found-6, out-7)
+complm(3g-13, that-8)
+det(9800-11, the-9)
+amod(9800-11, blackberry-10)
+nsubj(3g-13, 9800-11)
+nsubj(4g-16, 9800-11)
+cop(3g-13, was-12)
+ccomp(found-6, 3g-13)
+neg(4g-16, not-15)
+ccomp(found-6, 4g-16)
+conj_and(3g-13, 4g-16)
+nsubj(done-22, I-19)
+aux(done-22, should-20)
+aux(done-22, have-21)
+conj_but(disappointed-3, done-22)
+det(research-24, the-23)
+dobj(done-22, research-24)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, still-2)
+root(ROOT-0, like-3)
+dobj(like-3, it-4)
+

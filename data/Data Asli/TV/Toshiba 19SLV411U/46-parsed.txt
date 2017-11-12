@@ -1,0 +1,75 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+aux(put-6, to-5)
+infmod(TV-4, put-6)
+poss(bicycle-12, my-10)
+amod(bicycle-12, stationary-11)
+prep_in_front_of(put-6, bicycle-12)
+prep_in(bicycle-12, hopes-14)
+complm(encourage-18, that-15)
+nsubj(encourage-18, it-16)
+aux(encourage-18, would-17)
+ccomp(put-6, encourage-18)
+nsubj(use-21, me-19)
+aux(use-21, to-20)
+xcomp(encourage-18, use-21)
+det(bike-23, the-22)
+dobj(use-21, bike-23)
+
+=========
+
+advmod(worked-6, So-1)
+advmod(So-1, far-2)
+nsubjpass(worked-6, it-4)
+auxpass(worked-6, is-5)
+root(ROOT-0, worked-6)
+
+=========
+
+nsubj(has-2, It-1)
+ccomp(fine-9, has-2)
+det(picture-5, an-3)
+amod(picture-5, great-4)
+dobj(has-2, picture-5)
+nsubj(fine-9, sound-7)
+cop(fine-9, is-8)
+root(ROOT-0, fine-9)
+
+=========
+
+nsubj(tried-4, I-1)
+aux(tried-4, have-2)
+neg(tried-4, not-3)
+root(ROOT-0, tried-4)
+det(player-7, the-5)
+nn(player-7, dvd-6)
+dobj(tried-4, player-7)
+advmod(tried-4, yet-8)
+nsubj(do-13, I-10)
+aux(do-13, did-11)
+advmod(do-13, better-12)
+parataxis(tried-4, do-13)
+dobj(do-13, that-14)
+
+=========
+
+det(man-3, The-1)
+nn(man-3, Verizon-2)
+nsubj(hooked-4, man-3)
+root(ROOT-0, hooked-4)
+dobj(hooked-4, it-5)
+prt(hooked-4, up-6)
+det(problem-9, no-8)
+prep_with(hooked-4, problem-9)
+
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, really-3)
+root(ROOT-0, pleased-4)
+

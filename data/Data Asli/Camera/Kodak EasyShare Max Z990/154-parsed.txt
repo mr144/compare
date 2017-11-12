@@ -1,0 +1,117 @@
+=========
+
+nsubj(take-5, I-1)
+aux(take-5, do-2)
+neg(take-5, not-3)
+advmod(take-5, normally-4)
+root(ROOT-0, take-5)
+det(time-7, the-6)
+dobj(take-5, time-7)
+aux(do-9, to-8)
+xcomp(take-5, do-9)
+dobj(do-9, reviews-10)
+amod(lots-14, purchasing-13)
+prep_despite(take-5, lots-14)
+prep_on(lots-14, amazon-16)
+
+=========
+
+advmod(got-2, Just-1)
+root(ROOT-0, got-2)
+prt(got-2, back-3)
+prep_from(got-2, trip-5)
+det(friend-8, a-7)
+prep_with(got-2, friend-8)
+nsubj(had-10, who-9)
+dep(got-2, had-10)
+det(camera-15, a-11)
+amod(camera-15, different-12)
+amod(camera-15, digital-13)
+nn(camera-15, SLR-14)
+dobj(had-10, camera-15)
+
+=========
+
+nsubj(knew-2, I-1)
+nsubj(realize-11, I-1)
+root(ROOT-0, knew-2)
+poss(camera-4, my-3)
+nsubj(slow-6, camera-4)
+cop(slow-6, was-5)
+ccomp(knew-2, slow-6)
+aux(realize-11, did-9)
+neg(realize-11, not-10)
+conj_but(knew-2, realize-11)
+complm(SLOW-16, that-12)
+nsubj(SLOW-16, it-13)
+cop(SLOW-16, was-14)
+nn(SLOW-16, ABNORMALLY-15)
+ccomp(realize-11, SLOW-16)
+prepc_until(SLOW-16, comparing-18)
+prep_to(comparing-18, hers-20)
+
+=========
+
+poss(pics-2, Her-1)
+nsubj(better-9, pics-2)
+conj_and(pics-2, response-4)
+nsubj(better-9, response-4)
+prep_of(pics-2, camera-6)
+cop(better-9, are-7)
+advmod(better-9, much-8)
+root(ROOT-0, better-9)
+det(one-12, this-11)
+prep_than(better-9, one-12)
+
+=========
+
+det(kodak-2, The-1)
+nsubj(bad-5, kodak-2)
+cop(bad-5, is-3)
+advmod(bad-5, so-4)
+root(ROOT-0, bad-5)
+poss(year-8, my-6)
+num(year-8, 2-7)
+nsubj(take-27, year-8)
+nsubj(says-11, old-9)
+advmod(says-11, now-10)
+rcmod(year-8, says-11)
+dobj(says-11, cheese-13)
+dep(cheese-13, cheese-15)
+dep(cheese-15, cheese-17)
+mark(knows-21, because-19)
+nsubj(knows-21, he-20)
+advcl(says-11, knows-21)
+prepc_from(knows-21, pose-23)
+prep_to(pose-23, picture-25)
+aux(take-27, can-26)
+ccomp(bad-5, take-27)
+prt(take-27, up-28)
+prep_to(take-27, TEN-30)
+advmod(seconds-34, yes-32)
+num(seconds-34, 10-33)
+appos(TEN-30, seconds-34)
+det(days-38, some-37)
+prep_on(take-27, days-38)
+
+=========
+
+amod(days-2, Other-1)
+root(ROOT-0, days-2)
+advmod(secs-6, maybe-4)
+num(secs-6, 2-5)
+appos(days-2, secs-6)
+
+=========
+
+nsubj(finicky-3, Camera-1)
+cop(finicky-3, is-2)
+root(ROOT-0, finicky-3)
+
+=========
+
+root(ROOT-0, Look-1)
+advmod(Look-1, elsewhere-2)
+dep(Look-1, like-4)
+dobj(like-4, panasonic-5)
+

@@ -1,0 +1,44 @@
+=========
+
+nsubj(love-3, I-1)
+aux(love-3, do-2)
+root(ROOT-0, love-3)
+poss(camera-5, my-4)
+dobj(love-3, camera-5)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, beautiful-3)
+dobj(takes-2, pictures-4)
+
+=========
+
+cc(noticed-4, But-1)
+nsubj(noticed-4, I-2)
+aux(noticed-4, have-3)
+root(ROOT-0, noticed-4)
+complm(eats-7, that-5)
+nsubj(eats-7, it-6)
+ccomp(noticed-4, eats-7)
+dobj(eats-7, batteries-8)
+nsubj(have-11, I-10)
+xsubj(change-13, I-10)
+parataxis(noticed-4, have-11)
+aux(change-13, to-12)
+xcomp(have-11, change-13)
+dobj(change-13, them-14)
+advmod(often-16, quite-15)
+advmod(change-13, often-16)
+
+=========
+
+nsubj(win-win-9, Other-1)
+prep_than(Other-1, that-3)
+det(camera-6, this-5)
+appos(that-3, camera-6)
+cop(win-win-9, is-7)
+det(win-win-9, a-8)
+root(ROOT-0, win-win-9)
+

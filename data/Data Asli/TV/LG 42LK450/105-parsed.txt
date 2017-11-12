@@ -1,0 +1,226 @@
+=========
+
+advmod(ordered-6, First-1)
+nsubj(ordered-6, I-3)
+aux(ordered-6, have-4)
+neg(ordered-6, never-5)
+root(ROOT-0, ordered-6)
+det(TV-8, a-7)
+dobj(ordered-6, TV-8)
+advmod(ordered-6, on-line-9)
+
+=========
+
+root(ROOT-0, Always-1)
+cop(hesitant-3, been-2)
+partmod(Always-1, hesitant-3)
+aux(do-5, to-4)
+xcomp(hesitant-3, do-5)
+advmod(do-5, so-6)
+
+=========
+
+cc(changed-11, But-1)
+poss(experience-3, my-2)
+nsubj(changed-11, experience-3)
+det(TV-6, this-5)
+prep_with(experience-3, TV-6)
+prep_with(experience-3, Amazon-8)
+conj_and(TV-6, Amazon-8)
+aux(changed-11, has-9)
+advmod(changed-11, definitely-10)
+root(ROOT-0, changed-11)
+poss(mind-13, my-12)
+dobj(changed-11, mind-13)
+
+=========
+
+det(set-2, The-1)
+nsubj(arrived-3, set-2)
+nsubj(arrived-3', set-2)
+root(ROOT-0, arrived-3)
+conj_and(arrived-3, arrived-3')
+advmod(days-6, about-4)
+num(days-6, three-5)
+npadvmod(earlier-7, days-6)
+advmod(arrived-3, earlier-7)
+det(date-11, the-9)
+amod(date-11, soonest-anticipated-10)
+prep_than(arrived-3, date-11)
+amod(shape-15, excellent-14)
+prep_in(arrived-3', shape-15)
+
+=========
+
+root(ROOT-0, Thanks-1)
+appos(Thanks-1, Amazon-3)
+
+=========
+
+nsubj(do-3, I-1)
+aux(do-3, will-2)
+root(ROOT-0, do-3)
+dobj(do-3, this-4)
+advmod(do-3, again-5)
+
+=========
+
+advmod(replaced-5, Second-1)
+det(TV-4, this-3)
+nsubj(replaced-5, TV-4)
+root(ROOT-0, replaced-5)
+det(Quasar-9, an-6)
+amod(Quasar-9, 11-year-old-7)
+nn(Quasar-9, Panasonic-8)
+dobj(replaced-5, Quasar-9)
+nsubj(going-13, Quasar-9)
+aux(going-13, was-11)
+advmod(going-13, still-12)
+rcmod(Quasar-9, going-13)
+acomp(going-13, strong-14)
+poss(room\/office-18, my-16)
+nn(room\/office-18, family-17)
+prep_in(strong-14, room\/office-18)
+
+=========
+
+advmod(time-5, However-1)
+nsubj(time-5, it-3)
+cop(time-5, was-4)
+root(ROOT-0, time-5)
+det(change-8, a-7)
+prep_for(time-5, change-8)
+nsubj(happy-13, I-10)
+cop(happy-13, am-11)
+advmod(happy-13, extremely-12)
+conj_and(time-5, happy-13)
+complm(did-16, that-14)
+nsubj(did-16, I-15)
+ccomp(happy-13, did-16)
+
+=========
+
+det(TV-2, This-1)
+nsubj(excellent-4, TV-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+dobj(is-8, what-6)
+nsubj(is-8, it-7)
+prepc_for(excellent-4, is-8)
+det(37-11, a-10)
+poss(lower-end-13, 37-11)
+nsubj(set-14, lower-end-13)
+parataxis(excellent-4, set-14)
+
+=========
+
+nsubj(great-3, Color-1)
+nsubjpass(hooked-8, Color-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+advmod(great-3, currently-5)
+conj_and(great-3, currently-5)
+auxpass(hooked-8, is-6)
+advmod(hooked-8, just-7)
+conj_and(great-3, hooked-8)
+prt(hooked-8, up-9)
+poss(line-13, my-11)
+nn(line-13, cable-12)
+prep_to(hooked-8, line-13)
+det(box-16, a-15)
+prep_without(hooked-8, box-16)
+advmod(hooked-8, therefore-18)
+conj(hooked-8, therefore-18)
+det(cable-22, an-20)
+nn(cable-22, HDMI-21)
+prep_without(hooked-8, cable-22)
+conj_and(box-16, cable-22)
+
+=========
+
+nsubj(going-3, I-1)
+xsubj(get-5, I-1)
+aux(going-3, was-2)
+ccomp(decide-18, going-3)
+aux(get-5, to-4)
+xcomp(going-3, get-5)
+preconj(but-7, both-6)
+advmod(get-5, but-7)
+dobj(seeing-12, what-9)
+nsubj(seeing-12, I-10)
+aux(seeing-12, am-11)
+prepc_with(get-5, seeing-12)
+det(point-15, this-14)
+prep_at(seeing-12, point-15)
+aux(decide-18, may-17)
+root(ROOT-0, decide-18)
+neg(do-21, not-19)
+aux(do-21, to-20)
+xcomp(decide-18, do-21)
+nsubj(decide-18, that-22)
+
+=========
+
+nsubj(good-3, Sound-1)
+cop(good-3, is-2)
+root(ROOT-0, good-3)
+mark(add-7, although-4)
+nsubj(add-7, I-5)
+aux(add-7, may-6)
+advcl(good-3, add-7)
+det(system-10, a-8)
+amod(system-10, sound-9)
+dobj(add-7, system-10)
+advcl(good-3, again-13)
+conj_but(add-7, again-13)
+advmod(good-3, really-15)
+neg(good-3, not-16)
+acomp(good-3, necessary-17)
+advmod(is-22, where-19)
+det(TV-21, the-20)
+nsubj(is-22, TV-21)
+prepc_for(necessary-17, is-22)
+
+=========
+
+det(set-2, This-1)
+nsubj(makes-3, set-2)
+root(ROOT-0, makes-3)
+poss(TV-7, my-4)
+amod(TV-7, third-5)
+nn(TV-7, LG-6)
+dobj(makes-3, TV-7)
+nsubj(hesitate-12, I-9)
+xsubj(recommend-14, I-9)
+aux(hesitate-12, would-10)
+neg(hesitate-12, not-11)
+conj_and(makes-3, hesitate-12)
+aux(recommend-14, to-13)
+xcomp(hesitate-12, recommend-14)
+det(brand-16, this-15)
+dobj(recommend-14, brand-16)
+
+=========
+
+det(price-2, The-1)
+nsubj(right-4, price-2)
+cop(right-4, was-3)
+root(ROOT-0, right-4)
+det(service-7, the-6)
+conj_and(right-4, service-7)
+nn(exceptional-10, Amazon-9)
+prep_by(service-7, exceptional-10)
+det(TV-14, the-13)
+conj_and(right-4, TV-14)
+nsubj(great-17, itself-15)
+cop(great-17, is-16)
+rcmod(TV-14, great-17)
+
+=========
+
+dep(more-2, What-1)
+prep_for(ask-5, more-2)
+aux(ask-5, can-3)
+nsubj(ask-5, you-4)
+root(ROOT-0, ask-5)
+

@@ -1,0 +1,5 @@
+The_DT TV_NN works_VBZ ok_JJ ._.
+The_DT remote_JJ control_NN lasted_VBD only_RB 5_CD weeks_NNS ._.
+They_PRP only_RB guarantee_VBP a_DT replacement_NN for_IN 4_CD weeks_NNS ._.
+I_PRP called_VBD the_DT Customer_NN Service_NNP Dept_NNP and_CC they_PRP gave_VBD me_PRP a_DT run_NN around_RB ._.
+It_PRP remains_VBZ to_TO be_VB seen_VBN how_WRB long_JJ the_DT TV_NN will_MD last_VB as_IN it_PRP has_VBZ only_RB been_VBN 3_CD months_NNS since_IN I_PRP purchased_VBD it_PRP ._.

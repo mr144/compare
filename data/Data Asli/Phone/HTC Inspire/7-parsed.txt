@@ -1,0 +1,67 @@
+=========
+
+amod(internal-2, 4g-1)
+nsubj(is-9, internal-2)
+rel(failed-6, what-4)
+nsubj(failed-6, they-5)
+xsubj(mention-8, they-5)
+rcmod(internal-2, failed-6)
+aux(mention-8, to-7)
+xcomp(failed-6, mention-8)
+root(ROOT-0, is-9)
+complm(used-15, that-10)
+nsubjpass(used-15, most-11)
+prep_of(most-11, that-13)
+auxpass(used-15, is-14)
+ccomp(is-9, used-15)
+agent(used-15, OS-17)
+
+=========
+
+det(games-2, some-1)
+nsubjpass(moved-12, games-2)
+rcmod(games-2, have-3)
+aux(downloaded-6, to-4)
+auxpass(downloaded-6, be-5)
+xcomp(have-3, downloaded-6)
+prep_to(downloaded-6, internal-8)
+advmod(moved-12, then-9)
+aux(moved-12, can-10)
+auxpass(moved-12, be-11)
+root(ROOT-0, moved-12)
+prt(moved-12, over-13)
+nn(card-16, SD-15)
+prep_to(moved-12, card-16)
+
+=========
+
+advmod(good-2, so-1)
+amod(phone-4, good-2)
+amod(phone-4, global-3)
+dobj(wanted-8, phone-4)
+nsubjpass(put-12, phone-4)
+det(apps-6, the-5)
+dep(phone-4, apps-6)
+nsubj(wanted-8, I-7)
+rcmod(phone-4, wanted-8)
+aux(put-12, could-9)
+neg(put-12, not-10)
+auxpass(put-12, be-11)
+root(ROOT-0, put-12)
+prep_on(put-12, it-14)
+
+=========
+
+root(ROOT-0, wish-1)
+nsubj(done-5, I-2)
+nsubj(got-9, I-2)
+aux(done-5, would-3)
+aux(done-5, have-4)
+ccomp(wish-1, done-5)
+amod(research-7, more-6)
+dobj(done-5, research-7)
+ccomp(wish-1, got-9)
+conj_and(done-5, got-9)
+dobj(got-9, something-10)
+advmod(got-9, better-11)
+

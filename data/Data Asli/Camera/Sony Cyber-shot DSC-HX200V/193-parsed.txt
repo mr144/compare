@@ -1,0 +1,72 @@
+=========
+
+det(camera-3, An-1)
+amod(camera-3, amateur-2)
+nsubj(does-5, camera-3)
+dep(camera-3, that-4)
+root(ROOT-0, does-5)
+det(job-8, the-6)
+amod(job-8, pro-7)
+dobj(does-5, job-8)
+amod(range-11, wide-10)
+prep_in(job-8, range-11)
+prep_of(range-11, situations-13)
+
+=========
+
+dobj(have-3, All-1)
+nsubj(is-6, All-1)
+xsubj(keep-8, All-1)
+nsubj(have-3, I-2)
+xsubj(do-5, I-2)
+rcmod(All-1, have-3)
+aux(do-5, to-4)
+xcomp(have-3, do-5)
+root(ROOT-0, is-6)
+aux(keep-8, to-7)
+xcomp(is-6, keep-8)
+det(dial-10, the-9)
+dobj(keep-8, dial-10)
+prep_on(keep-8, green-12)
+xcomp(is-6, focus-14)
+conj_and(keep-8, focus-14)
+xcomp(is-6, shoot-16)
+conj_and(keep-8, shoot-16)
+det(targets-19, the-18)
+prep_on(shoot-16, targets-19)
+poss(desires-22, my-21)
+prep_of(targets-19, desires-22)
+
+=========
+
+nsubj(bulky-3, It-1)
+cop(bulky-3, 's-2)
+root(ROOT-0, bulky-3)
+nsubj(saves-7, it-6)
+conj_but(bulky-3, saves-7)
+dobj(saves-7, me-8)
+det(equipments-12, a-10)
+amod(equipments-12, multiple-11)
+prep_from(saves-7, equipments-12)
+
+=========
+
+det(Phone-3, The-1)
+nn(Phone-3, I-2)
+nsubjpass(compensated-7, Phone-3)
+num(Phone-3, 5-4)
+auxpass(compensated-7, is-5)
+advmod(compensated-7, well-6)
+root(ROOT-0, compensated-7)
+det(baby-10, this-9)
+agent(compensated-7, baby-10)
+
+=========
+
+det(capacity-3, The-1)
+amod(capacity-3, video-2)
+nsubj(lacking-6, capacity-3)
+aux(lacking-6, is-4)
+advmod(lacking-6, still-5)
+root(ROOT-0, lacking-6)
+

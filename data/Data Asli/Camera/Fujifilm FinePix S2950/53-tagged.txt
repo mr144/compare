@@ -1,0 +1,5 @@
+i_FW like_IN the_DT fuifilm_JJ fine_JJ pix_NN camera_NN so_RB far_RB ._.
+the_DT pictures_NNS are_VBP clear_JJ and_CC the_DT color_NN good_JJ ._.
+i_FW found_VBD that_IN sometimes_RB when_WRB i_FW am_VBP at_IN 16x_CD the_DT camera_NN just_RB does_VBZ not_RB work_VB or_CC is_VBZ very_RB fuzzy_JJ ._. ._.
+i_FW wish_NN i_FW had_VBD known_VBN that_IN there_EX was_VBD not_RB a_DT booklet_NN with_IN the_DT camera_NN ._.
+the_DT disc_NN is_VBZ fine_JJ but_CC i_FW have_VBP no_DT reference_NN when_WRB i_FW am_VBP not_RB near_IN the_DT computer_NN ._.

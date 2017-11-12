@@ -1,0 +1,142 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(tv-8, a-3)
+nn(tv-8, Vizio-4)
+nn(tv-8, M-5)
+nn(tv-8, series-6)
+nn(tv-8, smart-7)
+dobj(bought-2, tv-8)
+amod(month-10, last-9)
+tmod(bought-2, month-10)
+prep_from(bought-2, Walmart-12)
+
+=========
+
+det(day-4, the-2)
+amod(day-4, first-3)
+prep_on(had-6, day-4)
+nsubj(had-6, I-5)
+root(ROOT-0, had-6)
+nn(problems-8, streaming-7)
+dobj(had-6, problems-8)
+prep_with(problems-8, Netflix-10)
+prep_with(problems-8, Hulu-12)
+conj_and(Netflix-10, Hulu-12)
+
+=========
+
+nsubj(called-2, I-1)
+root(ROOT-0, called-2)
+nn(support-4, Vizio-3)
+dobj(called-2, support-4)
+nsubj(walked-7, they-6)
+conj_and(called-2, walked-7)
+dobj(walked-7, me-8)
+det(wifi-12, a-10)
+amod(wifi-12, manual-11)
+prep_through(walked-7, wifi-12)
+partmod(wifi-12, set-13)
+prt(set-13, up-14)
+
+=========
+
+nsubj(got-2, Netflix-1)
+root(ROOT-0, got-2)
+advmod(got-2, better-3)
+nsubj(had-8, Hulu-6)
+advmod(had-8, still-7)
+conj_but(got-2, had-8)
+dobj(had-8, problems-9)
+
+=========
+
+dep(sent-3, So-1)
+nsubj(sent-3, they-2)
+root(ROOT-0, sent-3)
+prt(sent-3, out-4)
+det(serviceman-6, a-5)
+dobj(sent-3, serviceman-6)
+nsubj(replaced-8, serviceman-6)
+rcmod(serviceman-6, replaced-8)
+det(board-12, the-9)
+amod(board-12, entire-10)
+nn(board-12, internet-11)
+dobj(replaced-8, board-12)
+
+=========
+
+nsubj(work-4, It-1)
+aux(work-4, did-2)
+neg(work-4, not-3)
+root(ROOT-0, work-4)
+
+=========
+
+dep(returned-3, So-1)
+nsubj(returned-3, I-2)
+nsubj(decided-8, I-2)
+xsubj(order-10, I-2)
+root(ROOT-0, returned-3)
+dobj(returned-3, it-4)
+prep_to(returned-3, Walmart-6)
+conj_and(returned-3, decided-8)
+aux(order-10, to-9)
+xcomp(decided-8, order-10)
+det(one-12, another-11)
+dobj(order-10, one-12)
+prep_from(order-10, Amazon-14)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(model-4, this-3)
+dobj(got-2, model-4)
+nsubj(tv-10, model-4)
+cop(tv-10, is-6)
+advmod(tv-10, also-7)
+det(tv-10, a-8)
+amod(tv-10, smart-9)
+rcmod(model-4, tv-10)
+rcmod(model-4, 3D-12)
+conj_and(tv-10, 3D-12)
+advmod(got-2, also-13)
+
+=========
+
+nsubj(saved-2, I-1)
+root(ROOT-0, saved-2)
+prep_over(saved-2, $-4)
+num($-4, 100-5)
+prepc_by(saved-2, ordering-7)
+prep_from(ordering-7, Amazon-9)
+nsubj(had-13, I-11)
+aux(had-13, have-12)
+conj_and(saved-2, had-13)
+det(problem-15, no-14)
+dobj(had-13, problem-15)
+det(set-18, this-17)
+prep_with(problem-15, set-18)
+
+=========
+
+root(ROOT-0, Love-1)
+det(picture-3, the-2)
+dep(Love-1, picture-3)
+dep(Love-1, clarity-5)
+conj_and(picture-3, clarity-5)
+
+=========
+
+amod(time-2, Next-1)
+nsubj(need-4, time-2)
+nsubj(need-4, I-3)
+ccomp(order-9, need-4)
+dobj(need-4, electronics-5)
+nsubj(order-9, I-7)
+aux(order-9, will-8)
+root(ROOT-0, order-9)
+prep_from(order-9, Amazon-11)
+

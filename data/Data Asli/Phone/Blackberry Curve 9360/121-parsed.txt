@@ -1,0 +1,38 @@
+=========
+
+nn(i-2, Hi-1)
+nsubj(want-3, i-2)
+xsubj(know-5, i-2)
+root(ROOT-0, want-3)
+aux(know-5, to-4)
+xcomp(want-3, know-5)
+mark(1900Mhz-14, if-6)
+det(works-9, this-7)
+nn(works-9, phone-8)
+nsubj(1900Mhz-14, works-9)
+prep_with(works-9, band-11)
+num(band-11, 2-12)
+dep(1900Mhz-14, =-13)
+advcl(know-5, 1900Mhz-14)
+
+=========
+
+cop(interested-3, am-1)
+advmod(interested-3, really-2)
+root(ROOT-0, interested-3)
+det(product-6, this-5)
+prep_in(interested-3, product-6)
+cc(have-9, but-7)
+nsubj(have-9, i-8)
+xsubj(sure-12, i-8)
+ccomp(interested-3, have-9)
+aux(sure-12, to-10)
+cop(sure-12, be-11)
+xcomp(have-9, sure-12)
+dep(sure-12, about-13)
+mark(works-16, if-14)
+nsubj(works-16, it-15)
+ccomp(sure-12, works-16)
+det(band-19, this-18)
+prep_with(works-16, band-19)
+

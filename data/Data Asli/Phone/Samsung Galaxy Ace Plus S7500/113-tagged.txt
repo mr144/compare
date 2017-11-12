@@ -1,0 +1,3 @@
+excellent_JJ service_NN ,_, i_FW m_FW full_JJ satisfation_NN &#8226;_NNP Do_NNP explain_VBP why_WRB you_PRP liked_VBD or_CC disliked_VBD this_DT product_NN ._.
+&#8226;_NNP Do_NNP compare_VBP to_TO similar_JJ products_NNS and_CC share_NN how_WRB long_RB you_PRP have_VBP used_VBN this_DT product_NN ._.
+&#8226;_NNP Do_NNP identify_VBP specific_JJ attributes_NNS -LRB-_-LRB- e.g._JJ comfort_NN &_CC fit_NN of_IN a_DT shirt_NN or_CC the_DT battery_NN life_NN of_IN a_DT camera_NN -RRB-_-RRB- and_CC whether_IN they_PRP met_VBD your_PRP$

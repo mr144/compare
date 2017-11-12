@@ -1,0 +1,32 @@
+=========
+
+det(TV-2, This-1)
+nsubj(greatest-5, TV-2)
+cop(greatest-5, is-3)
+det(greatest-5, the-4)
+root(ROOT-0, greatest-5)
+
+=========
+
+nsubj(love-3, We-1)
+advmod(love-3, all-2)
+root(ROOT-0, love-3)
+dobj(love-3, it-4)
+
+=========
+
+nsubjpass(said-3, That-1)
+auxpass(said-3, being-2)
+dep(kill-7, said-3)
+aux(kill-7, would-5)
+nsubj(kill-7, it-6)
+root(ROOT-0, kill-7)
+nsubj(throw-10, Sharp-8)
+aux(throw-10, to-9)
+xcomp(kill-7, throw-10)
+det(couple-13, a-12)
+prep_in(throw-10, couple-13)
+amod(glasses-17, inexpensive-15)
+dep(inexpensive-15, 3D-16)
+prep_of(couple-13, glasses-17)
+

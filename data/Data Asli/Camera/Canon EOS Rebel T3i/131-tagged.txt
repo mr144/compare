@@ -1,0 +1,5 @@
+This_DT item_NN was_VBD rated_VBN &#34;_CD Like_IN New_NNP &#34;_CD ._.
+It_PRP arrived_VBD with_IN caked_VBN on_IN dirt_NN and_CC was_VBD missing_VBG both_DT the_DT battery_NN and_CC charger_NN ._.
+Was_VBD not_RB worth_JJ the_DT discounted_JJ price_NN ._.
+Once_RB we_PRP hunted_VBD down_RP the_DT charger_NN and_CC battery_NN we_PRP ended_VBD up_RP spending_VBG more_JJR than_IN if_IN we_PRP would_MD have_VB bought_VBN new_JJ from_IN other_JJ retailers_NNS or_CC even_RB from_IN Amazon_NNP ._.
+Extremely_RB disappointed_VBN ._.

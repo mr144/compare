@@ -1,0 +1,1 @@
+SIMS_NNP card_NN does_VBZ not_RB come_VB with_IN phonecharger_NN is_VBZ for_IN Europe_NNP ,_, not_RB the_DT United_NNP StatesInstructions_NNP are_VBP in_IN GermanI_JJ guess_NN I_PRP expected_VBD more_JJR for_IN $_$ 300_CD

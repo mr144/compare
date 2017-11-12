@@ -1,0 +1,109 @@
+=========
+
+det(picture-2, The-1)
+nsubj(best-5, picture-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+prep(best-5, out-6)
+pobj(out-6, there-7)
+
+=========
+
+det(sound-2, The-1)
+nsubj(decent-4, sound-2)
+cop(decent-4, is-3)
+root(ROOT-0, decent-4)
+
+=========
+
+det(2011-2, The-1)
+nsubj(have-6, 2011-2)
+num(models-5, 2012-4)
+conj_and(2011-2, models-5)
+nsubj(have-6, models-5)
+root(ROOT-0, have-6)
+det(defect-9, a-7)
+amod(defect-9, manufacturing-8)
+dobj(have-6, defect-9)
+nsubj(is-12, it-11)
+conj_but(have-6, is-12)
+prep_under(is-12, warranty-14)
+
+=========
+
+nsubj(have-2, They-1)
+xsubj(replace-4, They-1)
+root(ROOT-0, have-2)
+aux(replace-4, to-3)
+xcomp(have-2, replace-4)
+num(screws-6, 18-5)
+dobj(replace-4, screws-6)
+det(back-9, the-8)
+prep_in(replace-4, back-9)
+det(tv-12, the-11)
+prep_of(back-9, tv-12)
+mark(have-15, if-13)
+nsubj(have-15, you-14)
+advcl(replace-4, have-15)
+det(noise-19, a-16)
+amod(noise-19, loud-17)
+amod(noise-19, buzzing-18)
+dobj(have-15, noise-19)
+amod(picture-22, white-21)
+prep_with(noise-19, picture-22)
+dep(have-15, and-24)
+dep(and-24, sound-25)
+dep(sound-25, off-26)
+dep(sound-25, mute-28)
+
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, do-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+det(number-7, the-5)
+nn(number-7, part-6)
+dobj(know-4, number-7)
+nsubj(send-11, they-9)
+aux(send-11, will-10)
+conj_but(know-4, send-11)
+iobj(send-11, you-12)
+num(screws-14, 18-13)
+dobj(send-11, screws-14)
+prepc_with(screws-14, locking-16)
+dobj(locking-16, nuts-17)
+aux(correct-19, to-18)
+xcomp(locking-16, correct-19)
+det(issue-21, the-20)
+dobj(correct-19, issue-21)
+
+=========
+
+nsubj(happens-2, It-1)
+root(ROOT-0, happens-2)
+amod(models-5, other-4)
+prep_with(happens-2, models-5)
+nsubjpass(told-8, I-6)
+auxpass(told-8, was-7)
+rcmod(models-5, told-8)
+advmod(well-10, as-9)
+mwe(well-10, as-9)
+advmod(told-8, well-10)
+
+=========
+
+ccomp(TV-15, Other-1)
+det(issue-5, this-3)
+num(issue-5, one-4)
+prep_than(Other-1, issue-5)
+num(months-8, 5-7)
+prep_in(issue-5, months-8)
+nsubj(TV-15, it-10)
+aux(TV-15, has-11)
+cop(TV-15, been-12)
+det(TV-15, a-13)
+amod(TV-15, great-14)
+root(ROOT-0, TV-15)
+

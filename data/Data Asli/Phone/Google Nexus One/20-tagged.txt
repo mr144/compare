@@ -1,0 +1,7 @@
+I_PRP have_VBP used_VBN the_DT Nexus_NNP One_CD every_DT day_NN since_IN January_NNP 2010_CD ._.
+The_DT phone_NN is_VBZ still_RB on_IN its_PRP$ original_JJ battery_NN ,_, which_WDT lasts_VBZ nearly_RB a_DT full_JJ day_NN with_IN normal_JJ phone_NN usage_NN -LRB-_-LRB- calls_NNS ,_, email_NN ,_, and_CC texting_NN -RRB-_-RRB- ._.
+I_PRP am_VBP running_VBG cyanogenmod_NN 7.2.0_CD ._.
+This_DT phone_NN has_VBZ no_DT problem_NN running_VBG just_RB about_IN any_DT current_JJ android_NN productivity_NN apps_VBZ as_IN of_IN March_NNP 2013_CD -LRB-_-LRB- can_MD not_RB comment_VB on_IN gaming_NN performance_NN -RRB-_-RRB- ._.
+I_PRP would_MD not_RB buy_VB one_CD today_NN at_IN the_DT listed_VBN price_NN when_WRB the_DT Nexus_NNP 4_CD is_VBZ so_RB much_RB better_JJR -LRB-_-LRB- March_NNP 2013_CD -RRB-_-RRB- except_IN as_IN a_DT collector_NN 's_POS item_NN ,_, but_CC this_DT phone_NN will_MD hold_VB me_PRP over_RP until_IN the_DT next_JJ Nexus_NNP phone_NN with_IN a_DT better_JJR camera_NN than_IN Nexus_NNP 4_CD is_VBZ released_VBN this_DT year_NN ._.
+Rated_VBN 5_CD stars_NNS in_IN 2010_CD ._.
+Currently_NNP -LRB-_-LRB- March_NNP 2013_CD -RRB-_-RRB- rated_VBD 3_CD stars_NNS because_IN it_PRP is_VBZ no_RB longer_RB a_DT competitive_JJ device_NN if_IN you_PRP are_VBP looking_VBG for_IN a_DT new_JJ phone_NN ._.

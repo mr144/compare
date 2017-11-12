@@ -1,0 +1,156 @@
+=========
+
+det(settings-2, The-1)
+nsubjpass(found-5, settings-2)
+aux(found-5, can-3)
+auxpass(found-5, be-4)
+root(ROOT-0, found-5)
+det(ton-8, a-7)
+prep_in(found-5, ton-8)
+amod(reviews-11, other-10)
+prep_of(ton-8, reviews-11)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+det(TV-4, this-3)
+nsubj(great-6, TV-4)
+cop(great-6, is-5)
+ccomp(think-2, great-6)
+det(internet-9, the-8)
+nsubj(slick-13, internet-9)
+advmod(slick-13, connectivity-10)
+cop(slick-13, is-11)
+advmod(slick-13, pretty-12)
+conj_and(think-2, slick-13)
+
+=========
+
+nsubj(connected-2, I-1)
+partmod(updated-7, connected-2)
+det(TV-4, the-3)
+dobj(connected-2, TV-4)
+nsubj(updated-7, it-6)
+root(ROOT-0, updated-7)
+poss(software-9, its-8)
+dobj(updated-7, software-9)
+det(software-14, the-11)
+amod(software-14, smart-12)
+nn(software-14, hub-13)
+dobj(updated-7, software-14)
+conj_and(software-9, software-14)
+advmod(away-16, right-15)
+advmod(updated-7, away-16)
+
+=========
+
+nsubj(easy-3, Menus-1)
+cop(easy-3, are-2)
+root(ROOT-0, easy-3)
+aux(understand-5, to-4)
+xcomp(easy-3, understand-5)
+expl(are-8, there-7)
+conj_and(easy-3, are-8)
+det(lot-10, a-9)
+nsubj(are-8, lot-10)
+prep_of(lot-10, settings-12)
+
+=========
+
+det(TV-2, This-1)
+nsubj(BRIGHT-4, TV-2)
+cop(BRIGHT-4, is-3)
+root(ROOT-0, BRIGHT-4)
+
+=========
+
+det(app-3, The-1)
+nn(app-3, Youtube-2)
+nsubj(works-4, app-3)
+ccomp(impressed-11, works-4)
+advmod(well-6, pretty-5)
+advmod(works-4, well-6)
+poss(wife-9, my-8)
+nsubjpass(impressed-11, wife-9)
+auxpass(impressed-11, was-10)
+root(ROOT-0, impressed-11)
+det(play-15, the-13)
+amod(play-15, continuous-14)
+prep_with(impressed-11, play-15)
+predet(videos-19, all-17)
+det(videos-19, the-18)
+prep_of(play-15, videos-19)
+poss(daughter-22, our-21)
+prep_of(videos-19, daughter-22)
+
+=========
+
+poss(mine-7, My-1)
+amod(mine-7, only-2)
+nsubj(A-5, gripes-3)
+cop(A-5, are-4)
+dep(only-2, A-5)
+nsubj(did-8, mine-7)
+root(ROOT-0, did-8)
+nsubj(come-10, NOT-9)
+nsubj(B-24, NOT-9)
+ccomp(did-8, come-10)
+det(remote-13, a-12)
+prep_with(come-10, remote-13)
+det(keyboard-16, a-15)
+prep_with(remote-13, keyboard-16)
+mark(does-22, like-17)
+det(sizes-21, the-18)
+amod(sizes-21, larger-19)
+nn(sizes-21, screen-20)
+nsubj(does-22, sizes-21)
+advcl(come-10, does-22)
+ccomp(did-8, B-24)
+conj_and(come-10, B-24)
+det(COMPATIBLE-32, THE-26)
+nn(COMPATIBLE-32, ANDROID-27)
+nn(COMPATIBLE-32, REMOTE-28)
+nn(COMPATIBLE-32, APP-29)
+nn(COMPATIBLE-32, IS-30)
+nn(COMPATIBLE-32, NOT-31)
+dobj(B-24, COMPATIBLE-32)
+poss(S3-41, SAMSUNG-34)
+nn(S3-41, CURRENT-36)
+nn(S3-41, FLAGSHIP-37)
+nn(S3-41, PHONE-38)
+nn(S3-41, THE-39)
+nn(S3-41, GALAXY-40)
+prep_with(B-24, S3-41)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+nsubj(update-4, they-3)
+ccomp(hope-2, update-4)
+dobj(update-4, this-5)
+advmod(update-4, soon-6)
+
+=========
+
+det(app-2, The-1)
+nsubj(works-6, app-2)
+poss(tablet-5, my-4)
+prep_on(app-2, tablet-5)
+root(ROOT-0, works-6)
+advmod(well-8, pretty-7)
+advmod(works-6, well-8)
+
+=========
+
+nsubjpass(easy-4, Set-1)
+nsubjpass(linked-6, Set-1)
+advmod(easy-4, up-2)
+auxpass(easy-4, was-3)
+cop(easy-4, was-3)
+root(ROOT-0, easy-4)
+conj_and(easy-4, linked-6)
+advmod(away-8, right-7)
+advmod(linked-6, away-8)
+

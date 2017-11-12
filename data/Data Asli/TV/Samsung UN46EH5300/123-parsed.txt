@@ -1,0 +1,32 @@
+=========
+
+root(ROOT-0, Love-1)
+dobj(Love-1, it-2)
+
+=========
+
+csubj(used-7, Replaced-1)
+poss(tv-6, my-2)
+num(tv-6, 13-3)
+nn(tv-6, inch-4)
+nn(tv-6, bedroom-5)
+dobj(Replaced-1, tv-6)
+root(ROOT-0, used-7)
+prep_since(used-7, 1986-9)
+
+=========
+
+nsubj(good-3, Internet-1)
+cop(good-3, is-2)
+root(ROOT-0, good-3)
+
+=========
+
+nn(product-3, Samsung-1)
+amod(product-3, excellent-2)
+nsubj(use-4, product-3)
+root(ROOT-0, use-4)
+dobj(use-4, app-5)
+prep_from(use-4, phone-7)
+advmod(use-4, sometimes-8)
+

@@ -1,0 +1,86 @@
+=========
+
+det(camera-2, The-1)
+nsubj(awesome-4, camera-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+dep(awesome-4, had-6)
+det(10mp-10, the-7)
+amod(10mp-10, early-8)
+nn(10mp-10, model-9)
+dobj(had-6, 10mp-10)
+
+=========
+
+nsubj(camera-6, This-1)
+nsubj(got-8, This-1)
+advmod(camera-6, also-2)
+cop(camera-6, was-3)
+det(camera-6, a-4)
+amod(camera-6, great-5)
+root(ROOT-0, camera-6)
+conj_but(camera-6, got-8)
+partmod(camera-6, got-8)
+dep(got-8, stolen-9)
+
+=========
+
+det(pictures-3, The-1)
+amod(pictures-3, outdoor-2)
+nsubj(great-5, pictures-3)
+cop(great-5, are-4)
+root(ROOT-0, great-5)
+
+=========
+
+advmod(need-5, However-1)
+det(pictures-4, the-2)
+amod(pictures-4, indoor-3)
+nsubj(need-5, pictures-4)
+root(ROOT-0, need-5)
+amod(work-7, more-6)
+dobj(need-5, work-7)
+
+=========
+
+advmod(working-2, Still-1)
+root(ROOT-0, working-2)
+dep(working-2, on-3)
+advmod(perfect-6, how-4)
+aux(perfect-6, to-5)
+pcomp(on-3, perfect-6)
+dobj(perfect-6, them-7)
+
+=========
+
+root(ROOT-0, for-2)
+det(price-4, the-3)
+pobj(for-2, price-4)
+dobj(get-8, what-6)
+nsubj(get-8, you-7)
+conj_and(for-2, get-8)
+nsubj(beat-13, you-10)
+aux(beat-13, can-11)
+neg(beat-13, not-12)
+parataxis(for-2, beat-13)
+dobj(beat-13, it-14)
+
+=========
+
+nsubj(buy-3, I-1)
+aux(buy-3, would-2)
+root(ROOT-0, buy-3)
+det(Fuji-5, another-4)
+dobj(buy-3, Fuji-5)
+nsubj(recommended-10, I-7)
+aux(recommended-10, have-8)
+advmod(recommended-10, already-9)
+conj_and(buy-3, recommended-10)
+dobj(recommended-10, it-11)
+det(fried-14, a-13)
+prep_to(recommended-10, fried-14)
+nsubj(purchased-17, fried-14)
+advmod(purchased-17, also-16)
+rcmod(fried-14, purchased-17)
+dobj(purchased-17, it-18)
+

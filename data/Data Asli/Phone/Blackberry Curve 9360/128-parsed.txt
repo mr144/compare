@@ -1,0 +1,40 @@
+=========
+
+amod(friend-3, Good-1)
+nn(friend-3, evening-2)
+nsubj(cellular-7, friend-3)
+appos(friend-3, excuse-5)
+root(ROOT-0, cellular-7)
+det(bands-11, this-8)
+num(bands-11, one-9)
+amod(bands-11, present-10)
+dobj(cellular-7, bands-11)
+num(1,2,5,6-13, 3G-12)
+dep(cellular-7, 1,2,5,6-13)
+
+=========
+
+dep(presents-4, Or-1)
+mark(presents-4, if-2)
+nsubj(presents-4, he-3)
+root(ROOT-0, presents-4)
+acomp(presents-4, different-5)
+nsubj(are-7, which-6)
+ccomp(different-5, are-7)
+
+=========
+
+nsubj(interested-3, I-1)
+cop(interested-3, am-2)
+root(ROOT-0, interested-3)
+prepc_in(interested-3, buying-5)
+dobj(buying-5, it-6)
+cc(need-9, but-7)
+nsubj(need-9, I-8)
+xsubj(know-11, I-8)
+ccomp(interested-3, need-9)
+aux(know-11, to-10)
+xcomp(need-9, know-11)
+det(detail-13, this-12)
+dobj(know-11, detail-13)
+

@@ -1,0 +1,50 @@
+I_PRP placed_VBD my_PRP$ order_NN for_IN an_DT AT&T_NNP Nexus_NNP One_CD the_DT day_NN it_PRP was_VBD announced_VBN ._.
+I_PRP was_VBD not_RB sure_JJ what_WP I_PRP was_VBD going_VBG to_TO be_VB getting_VBG into_IN -LRB-_-LRB- being_VBG a_DT very_RB early_JJ adopter_NN of_IN the_DT AT&T_NNP 3G_NNP version_NN -RRB-_-RRB- ._.
+Needless_JJ to_TO say_VB ,_, I_PRP am_VBP blown_VBN away_RB by_IN the_DT overall_JJ experience_NN delivered_VBN by_IN the_DT N1_NNP ._.
+This_DT phone_NN pretty_RB much_JJ lives_NNS up_IN to_TO the_DT hype_NN that_WDT surrounds_VBZ it_PRP ._.
+It_PRP 's_VBZ really_RB quite_RB unfortunate_JJ that_IN Google_NNP is_VBZ not_RB selling_VBG enough_RB of_IN these_DT simply_RB due_JJ to_TO the_DT pricing_NN structure_NN ,_, because_IN it_PRP is_VBZ hands_NNS down_IN one_CD of_IN the_DT best_JJS Android_JJ phones_NNS out_IN there_RB now_RB ._.
+To_TO put_VB this_DT in_IN perspective_NN ,_, I_PRP have_VBP tried_VBN both_DT the_DT Droid_NNP -LRB-_-LRB- Milestone_NNP -RRB-_-RRB- ,_, G1_CD ,_, and_CC Droid_NNP Eris_NNP ,_, and_CC the_DT N1_NNP beats_VBZ them_PRP all_DT ._.
+The_DT Droid_NNP is_VBZ almost_RB as_RB good_JJ ,_, but_CC has_VBZ some_DT severe_JJ issues_NNS regarding_VBG the_DT touchscreen_JJ accuracy_NN and_CC responsiveness_NN ._.
+the_DT G1_NNP and_CC Droid_NNP Eris_NNP are_VBP great_JJ phones_NNS too_RB ,_, but_CC they_PRP do_VBP not_RB even_RB compare_VB to_TO the_DT N1_NNP when_WRB it_PRP comes_VBZ to_TO screen_VB size_NN and_CC overall_JJ beefiness_NN ._.
+I_PRP 'll_MD keep_VB this_DT part_NN brief_NN ,_, but_CC I_PRP have_VBP gone_VBN through_IN an_DT iPhone_NNP 3G_NNP and_CC a_DT Nokia_NNP N97_NNP ._.
+The_DT iPhone_NNP was_VBD not_RB really_RB my_PRP$ thing_NN because_IN its_PRP$ very_RB locked-down_JJ nature_NN as_IN mandated_VBN by_IN Apple_NNP really_RB annoyed_VBD me_PRP each_DT day_NN I_PRP owned_VBD it_PRP ._.
+After_IN that_DT ,_, I_PRP switched_VBD to_TO an_DT N97_NNP and_CC eventually_RB gave_VBD that_IN up_RB due_JJ to_TO horrible_JJ software_NN and_CC UI_NNP ._.
+The_DT best_JJS part_NN is_VBZ that_IN the_DT N1_NNP runs_VBZ Android_NNP ,_, which_WDT is_VBZ open_JJ source_NN ._.
+No_DT big_JJ corporation_NN or_CC cell_NN carrier_NN can_MD tell_VB me_PRP what_WP I_PRP can_MD and_CC can_MD not_RB do_VB with_IN it_PRP !_.
+-LRB-_-LRB- unlike_IN the_DT iPhone_NNP which_WDT I_PRP now_RB despise_VBP -RRB-_-RRB- ._.
+Big_JJ bossy_JJ telcos_NNS and_CC corporations_NNS need_VBP to_TO learn_VB how_WRB to_TO keep_VB their_PRP$ noses_NNS out_IN of_IN how_WRB I_PRP use_VBP my_PRP$ internet_NN and_CC phone_NN ._.
+Anyway_RB ,_, if_IN you_PRP want_VBP to_TO see_VB some_DT good_JJ reviews_NNS of_IN this_DT phone_NN and_CC get_VB some_DT info_NN on_IN its_PRP$ actual_JJ features_NNS ,_, some_DT of_IN my_PRP$ fellow_JJ reviewers_NNS have_VBP done_VBN a_DT great_JJ job_NN on_IN Amazon_NNP ._.
+Also_RB ,_, the_DT Engadget_NNP and_CC Gizmodo_NNP reviews_NNS are_VBP quite_RB good_JJ ._.
+My_PRP$ personal_JJ take_NN -LRB-_-LRB- things_NNS that_WDT stick_VBP out_RP -RRB-_-RRB- :_: PROS_NNS :1_CD ._.
+The_DT audio_JJ quality_NN is_VBZ pretty_RB good_JJ ._.
+I_PRP carry_VBP around_IN a_DT 5G_JJ 30gb_JJ iPod_NN and_CC the_DT N1_NNP definitely_RB sounds_VBZ better_RBR through_IN in-ear_JJ headphones_NNS .2_CD ._.
+The_DT dual-mic_JJ noise_NN cancellation_NN is_VBZ impressive_JJ .3_CD ._.
+The_DT cloud_NN syncing_VBG always_RB works4_CD ._.
+Web_NN pages_NNS load_VBP really_RB fast5_JJ ._.
+HSPA_NNP reception_NN is_VBZ fairly_RB good_JJ -LRB-_-LRB- at_IN least_JJS here_RB in_IN central_JJ NJ_NNP -RRB-_-RRB- ._.
+Call_NN drops_NNS are_VBP occasional_JJ but_CC not_RB ridiculousCONS_NNP :_: Everything_NNP works_VBZ pretty_RB damn_RB well_RB ._.
+The_DT only_JJ quirks_NNS are_VBP the_DT following_JJ :1_CD ._.
+The_DT AMOLED_NNP screen_NN looks_VBZ stunning_JJ ,_, but_CC is_VBZ nearly_RB impossible_JJ to_TO use_VB in_IN bright_JJ sunlight_NN .2_CD ._.
+The_DT vibration_NN is_VBZ a_DT bit_RB noisy_JJ .3_CD ._.
+The_DT keyboard_NN is_VBZ in_IN serious_JJ need_NN of_IN revamping_NN ._.
+The_DT prediction_NN is_VBZ not_RB the_DT best_JJS and_CC the_DT keys_NNS are_VBP difficult_JJ to_TO tap_VB on_IN correctly_RB ,_, especially_RB in_IN the_DT vertical_JJ orientation_NN ._.
+However_RB ,_, due_JJ to_TO the_DT open_JJ nature_NN of_IN Android_NNP ,_, there_EX are_VBP several_JJ apps_NNS out_IN there_RB that_DT attempt_NN to_TO correct_VB this_DT ._.
+I_PRP did_VBD recommend_VB checking_NN out_IN ThickButtons_NNP ._.
+The_DT iPhone_NNP does_VBZ exactly_RB what_WP ThickButtons_NNPS does_VBZ ,_, but_CC invisibly_RB ._.
+The_DT other_JJ alternative_NN is_VBZ Swype_NNP ,_, which_WDT is_VBZ not_RB to_TO shabby_JJ either_CC once_RB you_PRP get_VBP used_VBN to_TO it_PRP .4_CD ._.
+The_DT battery_NN life_NN is_VBZ terrible_JJ ._.
+There_EX is_VBZ no_DT other_JJ way_NN to_TO put_VB it_PRP ._.
+It_PRP will_MD be_VB absolutely_RB necessary_JJ to_TO charge_VB it_PRP every_DT night_NN ._.
+Also_RB ,_, I_PRP did_VBD recommend_VB sticking_NN to_TO WiFi_VB over_IN 3g_CD whenever_WRB possible_JJ ._.
+To_TO do_VB this_DT ,_, you_PRP have_VBP to_TO navigate_VB into_IN the_DT depths_NNS of_IN the_DT settings_NNS by_IN going_VBG to_TO Wireless_NNP &_CC Networks_NNP ,_, WiFi_NNP Settings_NNP ,_, hit_VBD the_DT options_NNS key_NN ,_, go_VBP to_TO Advanced_NNP ,_, and_CC change_VB the_DT WiFi_NNP sleep_NN policy_NN to_TO never_RB ._.
+Trust_NNP me_PRP ,_, the_DT `_`` Never_NNP '_POS option_NN actually_RB saves_VBZ more_JJR power_NN than_IN switching_VBG back_RB and_CC forth_RB between_IN 3G_NNP and_CC WiFi_NNP especially_RB when_WRB you_PRP have_VBP stuff_NN constantly_RB syncing_VBG with_IN `_`` the_DT cloud_NN ._. '_''
+5_CD ._.
+The_DT touchsensitive_JJ buttons_NNS on_IN the_DT phone_NN require_VBP really_RB accurate_JJ presses_NNS ._.
+Apparently_RB ,_, HTC_NNP has_VBZ fixed_VBN this_DT in_IN the_DT new_JJ Sprint_NNP EVO_NNP 4G_NNP by_IN providing_VBG a_DT bigger_JJR bezel_NN for_IN the_DT touchsensitive_JJ buttons_NNS ._.
+This_DT issue_NN is_VBZ not_RB really_RB a_DT big_JJ deal_NN but_CC it_PRP is_VBZ just_RB a_DT tad_NN annoying_VBG sometimes_RB ._.
+One_CD last_JJ thing_NN :_: I_PRP did_VBD highly_RB recommend_VB rooting_VBG your_PRP$ phone_NN ._.
+I_PRP did_VBD this_DT the_DT day_NN I_PRP got_VBD it_PRP ._.
+While_IN it_PRP is_VBZ true_JJ that_IN people_NNS say_VBP you_PRP can_MD brick_NN your_PRP$ phone_NN by_IN doing_VBG this_DT ,_, it_PRP is_VBZ nearly_RB impossible_JJ to_TO really_RB screw_VB something_NN up_RP as_RB long_RB as_IN you_PRP do_VBP not_RB unplug_VB your_PRP$ USB_NNP cable_NN while_IN you_PRP are_VBP flashing_VBG your_PRP$ ROM_NN or_CC something_NN like_IN that_DT ._.
+By_IN rooting_VBG ,_, I_PRP can_MD now_RB tether_VB my_PRP$ phone_NN to_TO my_PRP$ laptop_NN -LRB-_-LRB- which_WDT is_VBZ incredibly_RB handy_JJ and_CC awesome_JJ -RRB-_-RRB- and_CC install_VB the_DT N1_NNP torch_NN app_NN which_WDT turns_VBZ your_PRP$ camera_NN flash_NN into_IN a_DT flashlight_NN ._.
+That_DT 's_VBZ all_DT folks_NNS !_.
+Feel_NNP free_JJ to_TO comment_VB on_IN my_PRP$ review_NN !_.

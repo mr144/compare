@@ -1,0 +1,3 @@
+I_PRP like_VBP everything_NN from_IN this_DT smartphone_NN ._.
+Its_PRP$ screen_NN is_VBZ big_JJ ,_, nice_JJ performance_NN ,_, cute_JJ design_NN ._.
+I_PRP think_VBP this_DT is_VBZ the_DT best_JJS phone_NN that_IN i_FW ever_RB had_VBD ._.

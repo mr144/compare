@@ -1,0 +1,74 @@
+=========
+
+root(ROOT-0, bought-1)
+dobj(bought-1, his-2)
+prep_on(bought-1, amazon-4)
+mark(deals-8, though-5)
+det(warehouse-7, the-6)
+nsubj(deals-8, warehouse-7)
+advcl(bought-1, deals-8)
+
+=========
+
+root(ROOT-0, got-1)
+advmod(got-1, as-2)
+prep_like(got-1, new-4)
+
+=========
+
+advmod(nice-3, very-1)
+advmod(nice-3, very-2)
+root(ROOT-0, nice-3)
+
+=========
+
+nsubj(debated-2, I-1)
+root(ROOT-0, debated-2)
+det(12mp-5, the-4)
+prep_on(debated-2, 12mp-5)
+
+=========
+
+cc(think-5, but-1)
+nsubj(think-5, i-2)
+aux(think-5, do-3)
+neg(think-5, not-4)
+root(ROOT-0, think-5)
+expl(is-7, there-6)
+ccomp(think-5, is-7)
+det(differnce-10, a-8)
+amod(differnce-10, big-9)
+nsubj(is-7, differnce-10)
+prep_between(differnce-10, 12-12)
+prep_between(differnce-10, 16-14)
+conj_and(12-12, 16-14)
+conj_and(12-12, 14-16)
+conj_or(16-14, 14-16)
+
+=========
+
+advmod(like-3, anyway-1)
+nsubj(like-3, i-2)
+root(ROOT-0, like-3)
+dobj(like-3, older-4)
+advmod(like-3, better-5)
+nsubj(do-8, they-7)
+parataxis(like-3, do-8)
+neg(built-10, not-9)
+amod(thing-11, built-10)
+nsubj(like-13, thing-11)
+cop(like-13, 's-12)
+ccomp(do-8, like-13)
+det(use-15, the-14)
+npadvmod(too-16, use-15)
+advmod(like-13, too-16)
+dep(like-13, love-18)
+det(camera-20, the-19)
+nsubj(have-21, camera-20)
+rcmod(love-18, have-21)
+det(lot-23, a-22)
+dobj(have-21, lot-23)
+aux(learn-25, to-24)
+infmod(lot-23, learn-25)
+prep_about(learn-25, it-27)
+

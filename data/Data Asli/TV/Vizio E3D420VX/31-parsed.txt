@@ -1,0 +1,56 @@
+=========
+
+nsubj(owned-4, I-1)
+aux(owned-4, have-2)
+advmod(owned-4, only-3)
+root(ROOT-0, owned-4)
+dobj(owned-4, it-5)
+det(month-8, a-7)
+prep_for(owned-4, month-8)
+dep(far-11, but-9)
+advmod(far-11, so-10)
+dep(owned-4, far-11)
+advmod(good-13, so-12)
+dep(far-11, good-13)
+
+=========
+
+amod(quality-3, Good-1)
+nn(quality-3, picture-2)
+root(ROOT-0, quality-3)
+nn(weigh-6, Light-5)
+appos(quality-3, weigh-6)
+nn(Easy-10, Good-8)
+nn(Easy-10, price-9)
+appos(quality-3, Easy-10)
+partmod(Easy-10, set-11)
+prt(set-11, up-12)
+
+=========
+
+nsubj(product-5, This-1)
+cop(product-5, is-2)
+poss(product-5, my-3)
+amod(product-5, second-4)
+root(ROOT-0, product-5)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, already-2)
+root(ROOT-0, have-3)
+det(inch-6, a-4)
+num(inch-6, 56-5)
+dobj(have-3, inch-6)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, highly-3)
+root(ROOT-0, recommend-4)
+det(family-7, both-6)
+prep_to(recommend-4, family-7)
+prep_to(recommend-4, friends-9)
+conj_and(family-7, friends-9)
+

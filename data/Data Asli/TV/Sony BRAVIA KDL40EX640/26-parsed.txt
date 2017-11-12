@@ -1,0 +1,37 @@
+=========
+
+amod(tv-2, Great-1)
+root(ROOT-0, tv-2)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+
+=========
+
+nsubj(has-2, Screen-1)
+root(ROOT-0, has-2)
+det(lot-4, a-3)
+dobj(has-2, lot-4)
+prep_of(lot-4, glare-6)
+prepc_depending_on(glare-6, on-8)
+nn(lighting-10, background-9)
+pobj(glare-6, lighting-10)
+
+=========
+
+root(ROOT-0, Like-1)
+det(lot-3, a-2)
+dep(better-4, lot-3)
+pobj(Like-1, better-4)
+advmod(priced-7, similarly-6)
+amod(samsungs-8, priced-7)
+prep_than(better-4, samsungs-8)
+
+=========
+
+root(ROOT-0, Deeper-1)
+amod(colors-3, richer-2)
+dobj(Deeper-1, colors-3)
+

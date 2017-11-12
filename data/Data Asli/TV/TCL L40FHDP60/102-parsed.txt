@@ -1,0 +1,108 @@
+=========
+
+nsubj(skeptical-3, I-1)
+cop(skeptical-3, was-2)
+root(ROOT-0, skeptical-3)
+prep_at(skeptical-3, first-5)
+det(brand-8, the-7)
+prep_of(first-5, brand-8)
+advmod(selling-15, however-10)
+advmod(selling-15, even-12)
+nsubj(selling-15, COSTCO-13)
+aux(selling-15, is-14)
+parataxis(skeptical-3, selling-15)
+det(brand-17, this-16)
+dobj(selling-15, brand-17)
+
+=========
+
+det(box-2, The-1)
+nsubj(arrived-3, box-2)
+root(ROOT-0, arrived-3)
+advmod(arrived-3, well-4)
+dep(arrived-3, packaged-5)
+dep(arrived-3, protected-7)
+conj_and(packaged-5, protected-7)
+
+=========
+
+det(TV-2, This-1)
+nsubj(light-5, TV-2)
+cop(light-5, is-3)
+advmod(light-5, surprisingly-4)
+root(ROOT-0, light-5)
+
+=========
+
+nsubj(easy-4, Set-1)
+nsubj(took-6, Set-1)
+advmod(easy-4, up-2)
+cop(easy-4, was-3)
+root(ROOT-0, easy-4)
+conj_and(easy-4, took-6)
+mwe(than-8, less-7)
+quantmod(5-9, than-8)
+num(minutes-10, 5-9)
+dobj(took-6, minutes-10)
+
+=========
+
+det(stand-2, The-1)
+nsubj(attaches-4, stand-2)
+advmod(attaches-4, easily-3)
+root(ROOT-0, attaches-4)
+det(television-7, the-6)
+prep_to(attaches-4, television-7)
+
+=========
+
+det(picture-2, The-1)
+nsubj(colors-8, picture-2)
+cop(colors-8, is-3)
+amod(colors-8, fabulous-4)
+amod(colors-8, bright-6)
+amod(colors-8, rich-7)
+root(ROOT-0, colors-8)
+
+=========
+
+det(remote-2, The-1)
+nsubj(complicated-5, remote-2)
+cop(complicated-5, is-3)
+neg(complicated-5, not-4)
+root(ROOT-0, complicated-5)
+
+=========
+
+det(warranty-5, a-2)
+num(warranty-5, 2-3)
+nn(warranty-5, year-4)
+prep_with(feel-7, warranty-5)
+nsubj(feel-7, I-6)
+root(ROOT-0, feel-7)
+acomp(feel-7, safe-8)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(Television-5, this-4)
+dobj(recommend-3, Television-5)
+
+=========
+
+prep_in(pleased-7, fact-2)
+nsubj(pleased-7, I-4)
+cop(pleased-7, am-5)
+advmod(pleased-7, so-6)
+root(ROOT-0, pleased-7)
+complm(ordered-12, that-8)
+det(evening-10, this-9)
+tmod(ordered-12, evening-10)
+nsubj(ordered-12, I-11)
+ccomp(pleased-7, ordered-12)
+det(TV-15, another-13)
+amod(TV-15, identical-14)
+dobj(ordered-12, TV-15)
+

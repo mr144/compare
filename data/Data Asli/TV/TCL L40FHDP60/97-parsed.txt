@@ -1,0 +1,34 @@
+=========
+
+nsubjpass(surprised-3, I-1)
+auxpass(surprised-3, was-2)
+root(ROOT-0, surprised-3)
+complm(looks-9, that-4)
+predet(tv-8, such-5)
+det(tv-8, a-6)
+amod(tv-8, cheap-7)
+nsubj(looks-9, tv-8)
+ccomp(surprised-3, looks-9)
+advmod(good-11, so-10)
+acomp(looks-9, good-11)
+
+=========
+
+nsubj(clear-4, HD-1)
+cop(clear-4, is-2)
+advmod(clear-4, crystal-3)
+root(ROOT-0, clear-4)
+
+=========
+
+nsubj(great-5, Speakers-1)
+cop(great-5, are-2)
+neg(great-5, not-3)
+advmod(great-5, too-4)
+ccomp(works-7, great-5)
+root(ROOT-0, works-7)
+nsubj(works-7, best-8)
+det(sound-12, a-10)
+amod(sound-12, surround-11)
+prep_with(best-8, sound-12)
+

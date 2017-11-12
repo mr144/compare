@@ -1,0 +1,34 @@
+=========
+
+nsubj(used-3, I-1)
+aux(used-3, have-2)
+root(ROOT-0, used-3)
+nsubj(record-6, this-4)
+nsubj(take-10, this-4)
+aux(record-6, to-5)
+xcomp(used-3, record-6)
+num(weddings-8, 2-7)
+dobj(record-6, weddings-8)
+xcomp(used-3, take-10)
+conj_and(record-6, take-10)
+dobj(take-10, 1000-11)
+possessive(1000-11, 's-12)
+prep_of(take-10, pictures-14)
+
+=========
+
+advmod(learning-2, still-1)
+root(ROOT-0, learning-2)
+cc(done-6, but-3)
+nsubj(done-6, it-4)
+aux(done-6, has-5)
+ccomp(learning-2, done-6)
+det(job-9, a-7)
+amod(job-9, great-8)
+dobj(done-6, job-9)
+prep_for(job-9, me-11)
+
+=========
+
+root(ROOT-0, thanks-1)
+

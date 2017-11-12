@@ -1,0 +1,51 @@
+=========
+
+nsubj(do-3, Hi-1)
+root(ROOT-0, do-3)
+nsubj(avalaible-6, you-4)
+aux(avalaible-6, have-5)
+ccomp(do-3, avalaible-6)
+det(Brand-9, the-7)
+nn(Brand-9, AT&T-8)
+dobj(avalaible-6, Brand-9)
+
+=========
+
+nsubj(need-2, I-1)
+root(ROOT-0, need-2)
+det(one-4, this-3)
+dobj(need-2, one-4)
+det(network-7, the-6)
+prep_because(need-2, network-7)
+complm(uses-12, that-8)
+poss(operator-11, my-9)
+nn(operator-11, service-10)
+nsubj(uses-12, operator-11)
+ccomp(need-2, uses-12)
+prep_in(uses-12, Venezuela-14)
+
+=========
+
+root(ROOT-0, Hola-1)
+nn(AT&T-7, Tienes-3)
+nn(AT&T-7, disponible-4)
+nn(AT&T-7, la-5)
+nn(AT&T-7, marca-6)
+appos(Hola-1, AT&T-7)
+
+=========
+
+root(ROOT-0, Necesito-1)
+nn(Venezuela-13, esta-2)
+nn(Venezuela-13, por-3)
+nn(Venezuela-13, la-4)
+amod(Venezuela-13, red-5)
+nn(Venezuela-13, que-6)
+nn(Venezuela-13, mi-7)
+nn(Venezuela-13, operador-8)
+nn(Venezuela-13, de-9)
+nn(Venezuela-13, servicios-10)
+nn(Venezuela-13, usa-11)
+nn(Venezuela-13, en-12)
+nsubj(Necesito-1, Venezuela-13)
+

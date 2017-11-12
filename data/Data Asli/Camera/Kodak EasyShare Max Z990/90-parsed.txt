@@ -1,0 +1,37 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+num(weeks-6, 3-5)
+prep_about(bought-2, weeks-6)
+det(look-10, the-8)
+nn(look-10, camera-9)
+prep_about(bought-2, look-10)
+conj_and(weeks-6, look-10)
+det(DSLR-13, a-12)
+prep_like(bought-2, DSLR-13)
+
+=========
+
+det(shot-3, The-1)
+nn(shot-3, night-2)
+nsubj(are-4, shot-3)
+root(ROOT-0, are-4)
+advmod(well-6, very-5)
+advmod(are-4, well-6)
+poss(CMOS-10, its-8)
+amod(CMOS-10, backlit-9)
+prep_with(are-4, CMOS-10)
+nsubj(love-13, i-12)
+conj_and(are-4, love-13)
+det(camera-15, this-14)
+dobj(love-13, camera-15)
+
+=========
+
+nsubj(enough-3, It-1)
+cop(enough-3, is-2)
+root(ROOT-0, enough-3)
+prep_for(enough-3, family-5)
+

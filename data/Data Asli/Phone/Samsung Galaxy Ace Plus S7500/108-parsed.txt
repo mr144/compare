@@ -1,0 +1,29 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+aux(know-3, Do-1)
+neg(know-3, not-2)
+root(ROOT-0, know-3)
+mark(issue-9, if-4)
+nsubj(issue-9, this-5)
+cop(issue-9, was-6)
+det(issue-9, a-7)
+nn(issue-9, hardware-8)
+advcl(know-3, issue-9)
+poss(phone-12, my-11)
+prep_on(issue-9, phone-12)
+det(issue-16, a-14)
+amod(issue-16, general-15)
+advcl(know-3, issue-16)
+conj_or(issue-9, issue-16)
+det(phone-19, the-18)
+prep_on(issue-16, phone-19)
+nsubj(sending-24, I-22)
+aux(sending-24, am-23)
+advcl(know-3, sending-24)
+conj_but(issue-9, sending-24)
+poss(phone-26, my-25)
+dobj(sending-24, phone-26)
+advmod(sending-24, back-27)
+

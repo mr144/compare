@@ -1,0 +1,34 @@
+=========
+
+nsubj(everything-3, This-1)
+cop(everything-3, was-2)
+root(ROOT-0, everything-3)
+complm(wanted-6, that-4)
+nsubj(wanted-6, I-5)
+ccomp(everything-3, wanted-6)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+
+=========
+
+amod(sound-2, Great-1)
+root(ROOT-0, sound-2)
+
+=========
+
+nn(TV-2, Smart-1)
+root(ROOT-0, TV-2)
+
+=========
+
+nn(PriceYou-2, Great-1)
+nsubj(go-5, PriceYou-2)
+aux(go-5, can-3)
+neg(go-5, not-4)
+root(ROOT-0, go-5)
+acomp(go-5, wrong-6)
+prep_with(go-5, this-8)
+

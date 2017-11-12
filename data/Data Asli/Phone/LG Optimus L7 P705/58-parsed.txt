@@ -1,0 +1,33 @@
+=========
+
+nsubj(phone-6, This-1)
+cop(phone-6, is-2)
+det(phone-6, a-3)
+advmod(nice-5, very-4)
+amod(phone-6, nice-5)
+root(ROOT-0, phone-6)
+det(screen-10, an-8)
+amod(screen-10, incredible-9)
+prep_with(phone-6, screen-10)
+advmod(good-13, very-12)
+amod(quality-15, good-13)
+nn(quality-15, construction-14)
+conj_and(phone-6, quality-15)
+det(interface-20, a-17)
+advmod(smooth-19, very-18)
+amod(interface-20, smooth-19)
+conj_and(phone-6, interface-20)
+conj_and(phone-6, implementation-22)
+prep_of(implementation-22, Android-24)
+
+=========
+
+det(lot-2, A-1)
+nsubj(recommended-10, lot-2)
+prep_of(lot-2, bang-4)
+det(Very-9, the-6)
+nn(Very-9, buck-7)
+nn(Very-9, !!-8)
+prep_for(bang-4, Very-9)
+root(ROOT-0, recommended-10)
+

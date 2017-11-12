@@ -1,0 +1,48 @@
+=========
+
+root(ROOT-0, Hi-1)
+nsubj(interested-5, I-3)
+cop(interested-5, am-4)
+dep(Hi-1, interested-5)
+prepc_in(interested-5, buying-7)
+det(camera-9, this-8)
+dobj(buying-7, camera-9)
+nsubj(like-14, I-12)
+xsubj(know-16, I-12)
+aux(like-14, would-13)
+dep(Hi-1, like-14)
+conj_but(interested-5, like-14)
+aux(know-16, to-15)
+xcomp(like-14, know-16)
+advmod(used-20, how-17)
+nsubjpass(used-20, it-18)
+auxpass(used-20, was-19)
+ccomp(know-16, used-20)
+advmod(many-23, how-22)
+amod(shots-24, many-23)
+dobj(done-27, shots-24)
+aux(done-27, have-25)
+nsubj(done-27, you-26)
+dep(Hi-1, done-27)
+conj_and(interested-5, done-27)
+
+=========
+
+det(surface-2, the-1)
+nsubj(untouched-8, surface-2)
+det(lens-5, the-4)
+prep_of(surface-2, lens-5)
+cop(untouched-8, is-6)
+advmod(untouched-8, completely-7)
+root(ROOT-0, untouched-8)
+
+=========
+
+cop(scratched-3, was-1)
+nsubj(scratched-3, not-2)
+root(ROOT-0, scratched-3)
+
+=========
+
+root(ROOT-0, thanks-1)
+

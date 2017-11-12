@@ -1,0 +1,315 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+det(gift-7, a-6)
+prep_as(bought-2, gift-7)
+poss(mother-13, my-9)
+num(year-11, 93-10)
+npadvmod(old-12, year-11)
+amod(mother-13, old-12)
+prep_for(bought-2, mother-13)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, the-3)
+dobj(bought-2, TV-4)
+nn(weeks-8, Amazon-6)
+num(weeks-8, 2-7)
+prep_from(bought-2, weeks-8)
+poss(birthday-11, her-10)
+prep_before(bought-2, birthday-11)
+prep_through(bought-2, Amazon-13)
+
+=========
+
+det(TV-2, The-1)
+nsubjpass(delivered-4, TV-2)
+auxpass(delivered-4, was-3)
+root(ROOT-0, delivered-4)
+num(days-6, 2-5)
+tmod(delivered-4, days-6)
+advmod(days-6, later-7)
+
+=========
+
+amod(service-2, Terrific-1)
+root(ROOT-0, service-2)
+prep_from(service-2, Amazon-4)
+advmod(usual-6, as-5)
+amod(service-2, usual-6)
+
+=========
+
+num(days-2, Ten-1)
+tmod(set-12, days-2)
+advmod(days-2, later-3)
+mark(was-8, while-5)
+poss(mom-7, my-6)
+nsubj(was-8, mom-7)
+advcl(set-12, was-8)
+advmod(was-8, out-9)
+nsubj(set-12, I-11)
+root(ROOT-0, set-12)
+prt(set-12, up-13)
+det(TV-15, the-14)
+dobj(set-12, TV-15)
+poss(home-18, her-17)
+prep_in(TV-15, home-18)
+det(instructions-22, the-20)
+nn(instructions-22, setup-21)
+prep_following(home-18, instructions-22)
+
+=========
+
+prep_upon(plugged-5, completion-2)
+nsubj(plugged-5, I-4)
+root(ROOT-0, plugged-5)
+dobj(plugged-5, it-6)
+prep(plugged-5, in-7)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+nsubj(happened-5, thing-3)
+nsubj(was-6, thing-3)
+rcmod(thing-3, happened-5)
+root(ROOT-0, was-6)
+complm(came-11, that-7)
+nsubj(came-11, the-8)
+prep_on(the-8, light-10)
+ccomp(was-6, came-11)
+prt(came-11, on-12)
+
+=========
+
+det(picture-2, No-1)
+root(ROOT-0, picture-2)
+det(sound-5, no-4)
+appos(picture-2, sound-5)
+
+=========
+
+nsubj(read-2, I-1)
+root(ROOT-0, read-2)
+det(instructions-4, the-3)
+dobj(read-2, instructions-4)
+advmod(read-2, again-5)
+det(avail-8, no-7)
+prep_to(read-2, avail-8)
+
+=========
+
+nsubj(called-2, I-1)
+root(ROOT-0, called-2)
+det(number-6, the-3)
+nn(number-6, Sony-4)
+amod(number-6, troublshooting-5)
+dobj(called-2, number-6)
+partmod(number-6, supplied-7)
+agent(supplied-7, Sony-9)
+
+=========
+
+nsubj(ran-2, They-1)
+nsubj(determined-9, They-1)
+root(ROOT-0, ran-2)
+dobj(ran-2, me-3)
+det(procedures-7, a-5)
+amod(procedures-7, few-6)
+prep_through(ran-2, procedures-7)
+conj_and(ran-2, determined-9)
+complm(defective-14, that-10)
+det(TV-12, the-11)
+nsubj(defective-14, TV-12)
+cop(defective-14, was-13)
+ccomp(determined-9, defective-14)
+
+=========
+
+nsubj(informed-2, They-1)
+root(ROOT-0, informed-2)
+dobj(informed-2, me-3)
+complm(had-6, that-4)
+nsubj(had-6, they-5)
+xsubj(order-8, they-5)
+ccomp(informed-2, had-6)
+aux(order-8, to-7)
+xcomp(had-6, order-8)
+det(part-10, a-9)
+dobj(order-8, part-10)
+xcomp(had-6, send-12)
+conj_and(order-8, send-12)
+det(Tech-15, a-13)
+nn(Tech-15, Sony-14)
+dobj(send-12, Tech-15)
+
+=========
+
+aux(install-2, to-1)
+root(ROOT-0, install-2)
+dobj(install-2, it-3)
+
+=========
+
+num(days-2, Ten-1)
+tmod(arrived-7, days-2)
+advmod(days-2, later-3)
+det(technician-6, the-5)
+nsubj(arrived-7, technician-6)
+nsubj(determined-9, technician-6)
+root(ROOT-0, arrived-7)
+conj_and(arrived-7, determined-9)
+complm(had-12, that-10)
+nsubj(had-12, he-11)
+ccomp(determined-9, had-12)
+det(part-15, the-13)
+amod(part-15, wrong-14)
+dobj(had-12, part-15)
+
+=========
+
+nsubj(told-2, He-1)
+root(ROOT-0, told-2)
+dobj(told-2, me-3)
+complm(had-6, that-4)
+nsubj(had-6, he-5)
+xsubj(order-8, he-5)
+ccomp(told-2, had-6)
+aux(order-8, to-7)
+xcomp(had-6, order-8)
+det(part-10, another-9)
+dobj(order-8, part-10)
+complm(have-15, that-12)
+nsubj(have-15, I-13)
+xsubj(contact-17, I-13)
+aux(have-15, would-14)
+ccomp(told-2, have-15)
+conj_and(had-6, have-15)
+aux(contact-17, to-16)
+xcomp(have-15, contact-17)
+nsubj(set-20, Sony-18)
+aux(set-20, to-19)
+xcomp(contact-17, set-20)
+prt(set-20, up-21)
+det(appointment-23, another-22)
+dobj(set-20, appointment-23)
+
+=========
+
+dep(part-4, Now-1)
+det(part-4, the-2)
+amod(part-4, good-3)
+root(ROOT-0, part-4)
+
+=========
+
+mark(removed-5, Since-1)
+nsubj(removed-5, I-2)
+nsubj(junked-7, I-2)
+aux(removed-5, had-3)
+advmod(removed-5, already-4)
+advcl(been-16, removed-5)
+conj_and(removed-5, junked-7)
+advcl(been-16, junked-7)
+det(TV-10, the-8)
+amod(TV-10, old-9)
+dobj(removed-5, TV-10)
+poss(mother-13, my-12)
+nsubj(been-16, mother-13)
+aux(been-16, would-14)
+aux(been-16, have-15)
+root(ROOT-0, been-16)
+det(TV-19, a-18)
+prep_without(been-16, TV-19)
+det(days-23, another-21)
+num(days-23, 10-22)
+prep_for(been-16, days-23)
+
+=========
+
+partmod(called-4, Frustrated-1)
+nsubj(called-4, I-3)
+root(ROOT-0, called-4)
+dobj(called-4, Amazon-5)
+poss(problem-8, my-7)
+prep_about(Amazon-5, problem-8)
+
+=========
+
+det(rep-5, The-1)
+nn(rep-5, Amazon-2)
+nn(rep-5, customer-3)
+nn(rep-5, service-4)
+nsubj(listened-7, rep-5)
+advmod(listened-7, patiently-6)
+root(ROOT-0, listened-7)
+prep_to(listened-7, me-9)
+mark(done-14, after-11)
+nsubjpass(done-14, I-12)
+auxpass(done-14, was-13)
+advcl(told-17, done-14)
+nsubj(told-17, she-16)
+conj_and(listened-7, told-17)
+nsubj(send-21, me-18)
+aux(send-21, to-19)
+advmod(send-21, just-20)
+xcomp(told-17, send-21)
+dobj(send-21, it-22)
+advmod(send-21, back-23)
+
+=========
+
+prep_in(did-5, fact-2)
+nsubj(did-5, she-4)
+root(ROOT-0, did-5)
+predet(work-8, all-6)
+det(work-8, the-7)
+dobj(did-5, work-8)
+xcomp(did-5, setting-9)
+prt(setting-9, up-10)
+det(pickup-12, a-11)
+dobj(setting-9, pickup-12)
+prep_by(setting-9, UPS-14)
+
+=========
+
+amod(day-3, Next-1)
+nn(day-3, business-2)
+tmod(arrived-6, day-3)
+nsubj(arrived-6, UPS-5)
+nsubj(returned-16, UPS-5)
+root(ROOT-0, arrived-6)
+xcomp(arrived-6, put-7)
+det(sticker-10, a-8)
+nn(sticker-10, shipping-9)
+dobj(put-7, sticker-10)
+det(TV-14, the-12)
+amod(TV-14, repackaged-13)
+prep_on(put-7, TV-14)
+conj_and(arrived-6, returned-16)
+dobj(returned-16, it-17)
+prep_to(returned-16, Amazon-19)
+
+=========
+
+det(charge-2, No-1)
+root(ROOT-0, charge-2)
+prep_to(charge-2, me-4)
+
+=========
+
+quantmod(5-2, Approximately-1)
+num(days-3, 5-2)
+npadvmod(later-4, days-3)
+advmod(credited-8, later-4)
+poss(account-6, my-5)
+nsubjpass(credited-8, account-6)
+auxpass(credited-8, was-7)
+root(ROOT-0, credited-8)
+

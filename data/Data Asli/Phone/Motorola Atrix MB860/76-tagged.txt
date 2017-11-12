@@ -1,0 +1,5 @@
+The_DT Motorola_NNP Atrix_NNP was_VBD good_JJ ._.
+Good_JJ design_NN ,_, pretty_RB fast_RB ,_, etc._FW ._.
+As_RB soon_RB as_IN i_FW activated_VBD it_PRP ,_, it_PRP would_MD reboot_VB the_DT cellphone_NN ._.
+Also_RB ,_, now_RB the_DT only_JJ way_NN i_FW can_MD speak_VB through_IN the_DT phone_NN is_VBZ with_IN the_DT speaker_NN ._.
+The_DT cellphone_NN is_VBZ pretty_RB good_JJ but_CC due_JJ to_TO those_DT errors_NNS ,_, i_FW just_RB can_MD say_VB that_IN i_FW wasted_VBD my_PRP$ money_NN ._.

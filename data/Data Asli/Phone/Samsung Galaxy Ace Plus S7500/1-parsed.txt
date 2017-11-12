@@ -1,0 +1,103 @@
+=========
+
+nsubj(received-3, I-1)
+advmod(received-3, just-2)
+root(ROOT-0, received-3)
+det(phone-6, this-4)
+nn(phone-6, Android-5)
+dobj(received-3, phone-6)
+partmod(phone-6, popped-8)
+poss(SIM-12, my-9)
+amod(SIM-12, old-10)
+nn(SIM-12, T-Mobile-11)
+dobj(popped-8, SIM-12)
+prep_into(popped-8, it-14)
+nsubj(started-17, it-16)
+conj_and(received-3, started-17)
+advmod(up-19, right-18)
+advmod(started-17, up-19)
+prep_in(started-17, English-22)
+prep(started-17, not-23)
+pobj(not-23, German-24)
+
+=========
+
+nsubj(had-2, It-1)
+root(ROOT-0, had-2)
+det(difficulty-4, no-3)
+dobj(had-2, difficulty-4)
+partmod(difficulty-4, using-5)
+poss(plan-9, my-6)
+amod(plan-9, old-7)
+nn(plan-9, data-8)
+dobj(using-5, plan-9)
+
+=========
+
+mark(have-3, If-1)
+nsubj(have-3, you-2)
+advcl(easy-10, have-3)
+det(tablet-6, an-4)
+nn(tablet-6, Android-5)
+dobj(have-3, tablet-6)
+nsubj(easy-10, it-7)
+xsubj(learn-12, it-7)
+cop(easy-10, is-8)
+advmod(easy-10, very-9)
+root(ROOT-0, easy-10)
+aux(learn-12, to-11)
+xcomp(easy-10, learn-12)
+
+=========
+
+mark(load-4, In-1)
+dep(load-4, order-2)
+aux(load-4, to-3)
+dep(need-10, load-4)
+nn(files-6, music-5)
+dobj(load-4, files-6)
+prep_onto(load-4, it-8)
+nsubj(need-10, you-9)
+xsubj(install-12, you-9)
+root(ROOT-0, need-10)
+aux(install-12, to-11)
+xcomp(need-10, install-12)
+dobj(install-12, software-13)
+partmod(software-13, called-14)
+nn(Kies-17, Samsung-16)
+dobj(called-14, Kies-17)
+poss(PC-21, your-20)
+prep_on(Kies-17, PC-21)
+
+=========
+
+det(display-2, The-1)
+nsubj(diagonally-8, display-2)
+cop(diagonally-8, is-3)
+det(diagonally-8, a-4)
+amod(diagonally-8, full-5)
+dep(full-5, 3.65-6)
+root(ROOT-0, diagonally-8)
+
+=========
+
+nsubj(copy-3, You-1)
+aux(copy-3, can-2)
+root(ROOT-0, copy-3)
+dobj(copy-3, sub-directories-4)
+prep_of(sub-directories-4, music-6)
+det(directory-10, the-8)
+nn(directory-10, media-9)
+prep_into(copy-3, directory-10)
+
+=========
+
+nsubj(small-3, I-1)
+nsubj(fits-5, I-1)
+cop(small-3, is-2)
+root(ROOT-0, small-3)
+conj_and(small-3, fits-5)
+advmod(fits-5, comfortably-6)
+poss(pocket-9, your-8)
+prep_into(fits-5, pocket-9)
+

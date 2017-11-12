@@ -1,0 +1,77 @@
+=========
+
+amod(experience-2, Overall-1)
+nsubj(great-5, experience-2)
+aux(great-5, has-3)
+cop(great-5, been-4)
+root(ROOT-0, great-5)
+
+=========
+
+nsubj(chose-2, I-1)
+root(ROOT-0, chose-2)
+det(set-4, this-3)
+dobj(chose-2, set-4)
+det(reputation-9, the-7)
+nn(reputation-9, Samsung-8)
+prep_because_of(set-4, reputation-9)
+nsubj(size-15, it-11)
+cop(size-15, was-12)
+det(size-15, the-13)
+amod(size-15, right-14)
+conj_and(chose-2, size-15)
+poss(bedroom-18, my-17)
+prep_for(size-15, bedroom-18)
+
+=========
+
+nsubj(have-5, I-1)
+aux(have-5, do-2)
+neg(have-5, not-3)
+advmod(have-5, yet-4)
+root(ROOT-0, have-5)
+det(receiver-8, an-6)
+nn(receiver-8, HD-7)
+dobj(have-5, receiver-8)
+mark(good-15, so-9)
+det(picture-11, the-10)
+nsubj(good-15, picture-11)
+cop(good-15, is-12)
+neg(good-15, not-13)
+advmod(good-15, as-14)
+advcl(have-5, good-15)
+mark(be-19, as-16)
+nsubj(be-19, it-17)
+aux(be-19, could-18)
+advcl(good-15, be-19)
+nsubj(picture-27, it-21)
+advmod(picture-27, still-22)
+cop(picture-27, is-23)
+det(picture-27, a-24)
+advmod(good-26, very-25)
+amod(picture-27, good-26)
+conj_but(have-5, picture-27)
+
+=========
+
+advmod(connected-2, Easily-1)
+root(ROOT-0, connected-2)
+poss(wireless-5, my-4)
+prep_to(connected-2, wireless-5)
+aux(worked-8, has-7)
+conj_and(connected-2, worked-8)
+advmod(worked-8, perfectly-9)
+det(month-13, the-11)
+amod(month-13, past-12)
+prep_for(worked-8, month-13)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, highly-3)
+root(ROOT-0, recommend-4)
+det(set-6, this-5)
+dobj(recommend-4, set-6)
+prep_to(recommend-4, others-8)
+

@@ -1,0 +1,93 @@
+=========
+
+det(thing-2, This-1)
+nsubj(wonderful-4, thing-2)
+cop(wonderful-4, is-3)
+root(ROOT-0, wonderful-4)
+
+=========
+
+det(effect-3, The-1)
+num(effect-3, 3D-2)
+nsubj(great-5, effect-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+prep(have-14, as-8)
+pcomp(as-8, with-9)
+det(3D-11, any-10)
+prep_with(as-8, 3D-11)
+nsubj(have-14, you-13)
+xsubj(take-16, you-13)
+conj_but(great-5, have-14)
+aux(take-16, to-15)
+xcomp(have-14, take-16)
+dobj(take-16, breaks-17)
+
+=========
+
+poss(eyes-2, My-1)
+nsubj(tired-4, eyes-2)
+dep(tired-4, get-3)
+root(ROOT-0, tired-4)
+amod(viewing-7, extensive-6)
+prep_after(tired-4, viewing-7)
+
+=========
+
+poss(complaint-3, My-1)
+amod(complaint-3, only-2)
+nsubj(lack-7, complaint-3)
+aux(lack-7, would-4)
+cop(lack-7, be-5)
+det(lack-7, the-6)
+root(ROOT-0, lack-7)
+det(feature-14, a-9)
+number(3D-12, 2D-10)
+dep(3D-12, to-11)
+num(feature-14, 3D-12)
+nn(feature-14, conversion-13)
+prep_of(lack-7, feature-14)
+
+=========
+
+nsubj(used-3, I-1)
+aux(used-3, have-2)
+root(ROOT-0, used-3)
+det(tv-5, a-4)
+dobj(used-3, tv-5)
+nsubj(had-7, tv-5)
+rcmod(tv-5, had-7)
+det(feature-9, this-8)
+dobj(had-7, feature-9)
+nsubj(wad-13, it-12)
+conj_and(used-3, wad-13)
+advmod(neat-15, really-14)
+acomp(wad-13, neat-15)
+aux(turn-17, to-16)
+xcomp(neat-15, turn-17)
+poss(shows-21, my-18)
+amod(shows-21, favorite-19)
+nn(shows-21, tv-20)
+dobj(turn-17, shows-21)
+prep_into(turn-17, 3D-23)
+
+=========
+
+mark(overlook-4, If-1)
+nsubj(overlook-4, you-2)
+aux(overlook-4, can-3)
+advcl(buy-9, overlook-4)
+det(exclusion-7, this-5)
+amod(exclusion-7, tiny-6)
+dobj(overlook-4, exclusion-7)
+root(ROOT-0, buy-9)
+dobj(buy-9, this-10)
+
+=========
+
+nsubj(regret-4, you-1)
+aux(regret-4, will-2)
+neg(regret-4, not-3)
+root(ROOT-0, regret-4)
+dobj(regret-4, it-5)
+

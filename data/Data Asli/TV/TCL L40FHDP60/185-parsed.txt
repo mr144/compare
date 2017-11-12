@@ -1,0 +1,37 @@
+=========
+
+poss(easy-2, Its-1)
+nsubj(install-4, easy-2)
+aux(install-4, to-3)
+root(ROOT-0, install-4)
+
+=========
+
+root(ROOT-0, Nothing-1)
+aux(complain-3, to-2)
+dep(Nothing-1, complain-3)
+advmod(far-5, so-4)
+advmod(complain-3, far-5)
+
+=========
+
+root(ROOT-0, Love-1)
+dobj(Love-1, it-2)
+
+=========
+
+cc(comforting-5, And-1)
+amod(warrant-3, 2-year-2)
+nsubj(comforting-5, warrant-3)
+cop(comforting-5, is-4)
+root(ROOT-0, comforting-5)
+mark(think-9, although-7)
+nsubj(think-9, I-8)
+advcl(comforting-5, think-9)
+nsubj(use-15, most-10)
+prep_of(most-10, us-12)
+aux(use-15, will-13)
+neg(use-15, not-14)
+ccomp(think-9, use-15)
+dobj(use-15, it-16)
+

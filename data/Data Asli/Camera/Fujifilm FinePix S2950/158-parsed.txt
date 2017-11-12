@@ -1,0 +1,85 @@
+=========
+
+csubj(make-10, Decided-1)
+aux(get-3, to-2)
+xcomp(Decided-1, get-3)
+det(camera-5, this-4)
+dobj(get-3, camera-5)
+conj_and(Decided-1, experiment-7)
+csubj(make-10, experiment-7)
+prep_before(experiment-7, i-9)
+root(ROOT-0, make-10)
+det(jump-12, the-11)
+nsubj(glad-18, jump-12)
+det(andi-16, an-14)
+nn(andi-16, SLR-15)
+prep_to(jump-12, andi-16)
+cop(glad-18, am-17)
+ccomp(make-10, glad-18)
+nsubj(did-20, i-19)
+ccomp(glad-18, did-20)
+
+=========
+
+det(camera-2, This-1)
+nsubj(has-3, camera-2)
+root(ROOT-0, has-3)
+amod(features-5, fantastic-4)
+dobj(has-3, features-5)
+det(price-8, the-7)
+prep_for(features-5, price-8)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(is-3, quality-2)
+root(ROOT-0, is-3)
+prep_on(is-3, par-5)
+dobj(expected-9, what-7)
+nsubj(expected-9, i-8)
+prepc_with(is-3, expected-9)
+nsubj(using-14, this-11)
+aux(using-14, is-12)
+advmod(using-14, just-13)
+conj_and(is-3, using-14)
+nn(settings-17, th-15)
+nn(settings-17, Automatic-16)
+dobj(using-14, settings-17)
+
+=========
+
+aux(wait-3, Ca-1)
+neg(wait-3, not-2)
+root(ROOT-0, wait-3)
+aux(drill-5, to-4)
+xcomp(wait-3, drill-5)
+prt(drill-5, down-6)
+xcomp(wait-3, use-8)
+conj_and(drill-5, use-8)
+amod(settings-10, manual-9)
+dobj(use-8, settings-10)
+
+=========
+
+nsubj(small-6, Body-1)
+aux(small-6, may-2)
+cop(small-6, be-3)
+det(bit-5, a-4)
+npadvmod(small-6, bit-5)
+root(ROOT-0, small-6)
+prep_for(small-6, those-8)
+amod(hands-11, large-10)
+prep_with(those-8, hands-11)
+nsubj(ai-15, i-14)
+conj_but(small-6, ai-15)
+neg(ai-15, not-16)
+dep(ai-15, complaining-17)
+
+=========
+
+nsubj(was\/is-2, This-1)
+root(ROOT-0, was\/is-2)
+det(buy-5, a-3)
+amod(buy-5, good-4)
+dobj(was\/is-2, buy-5)
+

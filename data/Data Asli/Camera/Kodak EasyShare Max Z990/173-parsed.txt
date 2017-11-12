@@ -1,0 +1,53 @@
+=========
+
+nsubj(say-3, I-1)
+aux(say-3, must-2)
+root(ROOT-0, say-3)
+nsubj(love-6, I-4)
+aux(love-6, do-5)
+ccomp(say-3, love-6)
+det(camera-8, this-7)
+dobj(love-6, camera-8)
+
+=========
+
+nsubj(am-2, I-1)
+ccomp(makes-12, am-2)
+det(means-5, no-4)
+prep_by(am-2, means-5)
+det(photographer-7, a-6)
+npadvmod(but-8, photographer-7)
+advmod(am-2, but-8)
+det(camera-11, this-10)
+nsubj(makes-12, camera-11)
+root(ROOT-0, makes-12)
+advmod(look-19, even-13)
+poss(point-15, my-14)
+nsubj(look-19, point-15)
+nn(photos-18, shoot-17)
+conj_and(point-15, photos-18)
+nsubj(look-19, photos-18)
+ccomp(makes-12, look-19)
+acomp(look-19, great-20)
+
+=========
+
+mark(need-5, If-1)
+nsubj(need-5, you-2)
+aux(need-5, do-3)
+neg(need-5, not-4)
+advcl(perfect-20, need-5)
+dobj(need-5, all-6)
+det(bells-9, the-8)
+prep_of(all-6, bells-9)
+prep_of(all-6, whistles-11)
+conj_and(bells-9, whistles-11)
+det(camera-16, a-13)
+advmod(expensive-15, more-14)
+amod(camera-16, expensive-15)
+prep_of(bells-9, camera-16)
+det(one-18, this-17)
+nsubj(perfect-20, one-18)
+cop(perfect-20, is-19)
+root(ROOT-0, perfect-20)
+

@@ -1,0 +1,113 @@
+=========
+
+root(ROOT-0, Review-1)
+partmod(Review-1, coming-2)
+det(user-7, a-4)
+nn(user-7, ex-5)
+nn(user-7, Canon-6)
+prep_from(coming-2, user-7)
+
+=========
+
+nsubj(seeing-4, I-1)
+aux(seeing-4, have-2)
+aux(seeing-4, been-3)
+root(ROOT-0, seeing-4)
+nn(specs-6, Nikon-5)
+dobj(seeing-4, specs-6)
+xcomp(seeing-4, beating-7)
+dobj(beating-7, Canon-8)
+advmod(beating-7, lately-9)
+advmod(announced-15, when-11)
+det(camera-13, this-12)
+nsubjpass(announced-15, camera-13)
+auxpass(announced-15, was-14)
+advcl(knew-17, announced-15)
+nsubj(knew-17, I-16)
+conj_and(seeing-4, knew-17)
+nsubj(getting-20, I-18)
+aux(getting-20, was-19)
+ccomp(knew-17, getting-20)
+dobj(getting-20, it-21)
+
+=========
+
+det(debacle-6, the-3)
+amod(debacle-6, D600-4)
+amod(debacle-6, dust\/oil-5)
+prep_aside_from(beating-11, debacle-6)
+nsubj(beating-11, Nikon-7)
+aux(beating-11, has-8)
+aux(beating-11, been-9)
+advmod(beating-11, steadily-10)
+root(ROOT-0, beating-11)
+dobj(beating-11, Canon-12)
+
+=========
+
+det(D7100-3, the-2)
+prep_with(get-5, D7100-3)
+nsubj(get-5, you-4)
+root(ROOT-0, get-5)
+det(lot-7, a-6)
+dobj(get-5, lot-7)
+prep_of(lot-7, features-9)
+poss(money-12, your-11)
+prep_for(features-9, money-12)
+
+=========
+
+det(reasons-3, The-1)
+amod(reasons-3, main-2)
+nsubj(system-16, reasons-3)
+nsubj(chose-5, I-4)
+rcmod(reasons-3, chose-5)
+dobj(chose-5, this-6)
+det(model-11, a-8)
+amod(model-11, comparable-9)
+nn(model-11, Canon-10)
+prep_over(this-6, model-11)
+cop(system-16, are-12)
+det(system-16, the-13)
+nn(system-16, auto-14)
+nn(system-16, focus-15)
+root(ROOT-0, system-16)
+nn(quality-20, sensor-18)
+nn(quality-20, image-19)
+conj_and(system-16, quality-20)
+
+=========
+
+advmod(put-4, Hopefully-1)
+nsubj(put-4, Canon-2)
+aux(put-4, will-3)
+root(ROOT-0, put-4)
+prt(put-4, out-5)
+dobj(put-4, something-6)
+amod(something-6, amazing-7)
+det(70D-10, the-9)
+prep_with(amazing-7, 70D-10)
+nn(II-14, 7d-12)
+nn(II-14, MK-13)
+prep_with(amazing-7, II-14)
+conj_and(70D-10, II-14)
+
+=========
+
+ccomp(happy-8, Get-1)
+det(camera-3, this-2)
+dobj(Get-1, camera-3)
+nsubj(happy-8, you-5)
+aux(happy-8, will-6)
+cop(happy-8, be-7)
+root(ROOT-0, happy-8)
+
+=========
+
+nsubj(camera-5, D7100-1)
+cop(camera-5, is-2)
+det(camera-5, the-3)
+amod(camera-5, best-4)
+root(ROOT-0, camera-5)
+advmod(camera-5, ever-6)
+

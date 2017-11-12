@@ -1,0 +1,112 @@
+=========
+
+poss(brother-2, My-1)
+nsubj(bought-5, brother-2)
+prep_in(brother-2, law-4)
+root(ROOT-0, bought-5)
+det(TV-7, this-6)
+dobj(bought-5, TV-7)
+det(months-10, a-8)
+amod(months-10, couple-9)
+npadvmod(ago-11, months-10)
+advmod(bought-5, ago-11)
+nsubj(saw-14, I-13)
+nsubj(said-19, I-13)
+conj_and(bought-5, saw-14)
+dobj(saw-14, it-15)
+prep_at(saw-14, Thanksgiving-17)
+conj_and(bought-5, said-19)
+conj_and(saw-14, said-19)
+dobj(said-19, WOW-20)
+poss(wife-23, my-22)
+nsubj(asked-24, wife-23)
+parataxis(bought-5, asked-24)
+mark(get-28, if-25)
+nsubj(get-28, we-26)
+aux(get-28, could-27)
+advcl(asked-24, get-28)
+dobj(get-28, one-29)
+
+=========
+
+amod(order-3, First-1)
+amod(order-3, big-2)
+nsubj(arrived-8, order-3)
+prep_through(order-3, Amazon-5)
+prep_through(order-3, it-7)
+conj_and(Amazon-5, it-7)
+root(ROOT-0, arrived-8)
+det(days-12, a-10)
+amod(days-12, few-11)
+prep_in(arrived-8, days-12)
+det(order-15, the-14)
+prep_after(arrived-8, order-15)
+
+=========
+
+nsubj(awesome-3, TV-1)
+cop(awesome-3, is-2)
+root(ROOT-0, awesome-3)
+
+=========
+
+nn(Netflix-2, Stream-1)
+nsubj(issues-8, Netflix-2)
+advmod(issues-8, daily-3)
+det(ZERO-7, NO-5)
+nn(ZERO-7, \/-6)
+prep_with(daily-3, ZERO-7)
+root(ROOT-0, issues-8)
+nsubj(have-11, I-10)
+parataxis(issues-8, have-11)
+nn(speed-14, TimeWarner-12)
+amod(speed-14, high-13)
+dobj(have-11, speed-14)
+det(router-20, a-16)
+amod(router-20, high-17)
+nn(router-20, end-18)
+nn(router-20, Cisco-19)
+dobj(have-11, router-20)
+conj_and(speed-14, router-20)
+
+=========
+
+poss(wife-2, My-1)
+nsubj(likes-3, wife-2)
+root(ROOT-0, likes-3)
+det(sessions-8, the-4)
+amod(sessions-8, built-5)
+prep_in(built-5, yoga-7)
+dobj(likes-3, sessions-8)
+
+=========
+
+det(quality-2, The-1)
+nsubj(good-5, quality-2)
+cop(good-5, is-3)
+advmod(good-5, so-4)
+root(ROOT-0, good-5)
+nsubj(looks-8, it-6)
+advmod(looks-8, almost-7)
+ccomp(good-5, looks-8)
+dobj(looks-8, 3D-9)
+nsubj(3D-13, it-11)
+cop(3D-13, being-12)
+prepc_without(looks-8, 3D-13)
+
+=========
+
+nsubj(puts-2, It-1)
+root(ROOT-0, puts-2)
+poss(LCD-6, my-3)
+number(&#34;-5, 42-4)
+num(LCD-6, &#34;-5)
+dobj(puts-2, LCD-6)
+nsubj(old-13, that-8)
+cop(old-13, is-9)
+quantmod(3-11, about-10)
+num(years-12, 3-11)
+npadvmod(old-13, years-12)
+dep(LCD-6, old-13)
+prep_to(puts-2, shame-16)
+

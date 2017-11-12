@@ -1,0 +1,37 @@
+=========
+
+nsubj(phone-2, Awesome-1)
+root(ROOT-0, phone-2)
+
+=========
+
+nsubj(neat-3, It-1)
+nsubj(look-7, It-1)
+cop(neat-3, was-2)
+root(ROOT-0, neat-3)
+aux(look-7, does-5)
+neg(look-7, not-6)
+conj_and(neat-3, look-7)
+prep_like(look-7, used-9)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(acivate-3, to-2)
+dep(Easy-1, acivate-3)
+dep(Easy-1, use-5)
+conj_and(acivate-3, use-5)
+
+=========
+
+nsubj(had-2, Never-1)
+root(ROOT-0, had-2)
+dobj(had-2, issues-3)
+prep_with(issues-3, it-5)
+prep_till(had-2, date-7)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

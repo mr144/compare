@@ -1,0 +1,56 @@
+=========
+
+aux(beat-4, Can-1)
+neg(beat-4, not-2)
+auxpass(beat-4, be-3)
+root(ROOT-0, beat-4)
+det(money-7, the-6)
+prep_for(beat-4, money-7)
+
+=========
+
+nn(HD\/3D-2, Great-1)
+root(ROOT-0, HD\/3D-2)
+
+=========
+
+nsubj(love-2, I-1)
+dep(affords-9, love-2)
+det(WiFi-4, the-3)
+dobj(love-2, WiFi-4)
+det(convenience-7, the-6)
+dobj(love-2, convenience-7)
+conj_and(WiFi-4, convenience-7)
+nsubj(affords-9, it-8)
+root(ROOT-0, affords-9)
+
+=========
+
+root(ROOT-0, Simple-1)
+aux(set-3, to-2)
+dep(Simple-1, set-3)
+prt(set-3, up-4)
+
+=========
+
+dobj(say-5, What-1)
+advmod(What-1, else-2)
+aux(say-5, can-3)
+nsubj(say-5, I-4)
+root(ROOT-0, say-5)
+
+=========
+
+ccomp(did-6, Buy-1)
+dobj(Buy-1, it-2)
+poss(daughter-5, my-4)
+nsubj(did-6, daughter-5)
+root(ROOT-0, did-6)
+advmod(saw-10, when-8)
+nsubj(saw-10, I-9)
+advcl(bought-13, saw-10)
+dobj(saw-10, hers-11)
+nsubj(bought-13, I-12)
+conj_and(did-6, bought-13)
+dobj(bought-13, mine-14)
+

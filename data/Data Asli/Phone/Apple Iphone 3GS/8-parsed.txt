@@ -1,0 +1,35 @@
+=========
+
+nsubj(advertised-4, Quality-1)
+cop(advertised-4, was-2)
+advmod(advertised-4, as-3)
+root(ROOT-0, advertised-4)
+
+=========
+
+det(unlock-2, An-1)
+nsubjpass(required-4, unlock-2)
+auxpass(required-4, is-3)
+root(ROOT-0, required-4)
+mark(use-8, before-5)
+nsubj(use-8, you-6)
+aux(use-8, can-7)
+advcl(required-4, use-8)
+poss(SIM-11, your-9)
+amod(SIM-11, own-10)
+dobj(use-8, SIM-11)
+
+=========
+
+expl(were-2, There-1)
+root(ROOT-0, were-2)
+det(significan-4, no-3)
+nsubj(were-2, significan-4)
+neg(scratches-6, not-5)
+amod(significan-4, scratches-6)
+det(product-9, the-8)
+nsubj(was-10, product-9)
+conj_and(were-2, was-10)
+advmod(was-10, up-11)
+prep_to(up-11, standards-13)
+

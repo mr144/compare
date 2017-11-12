@@ -1,0 +1,76 @@
+=========
+
+nsubj(find-4, I-1)
+aux(find-4, did-2)
+neg(find-4, not-3)
+root(ROOT-0, find-4)
+nsubj(use-7, options-5)
+aux(use-7, to-6)
+xcomp(find-4, use-7)
+dobj(use-7, 3G-8)
+
+=========
+
+nsubj(gives-3, It-1)
+advmod(gives-3, only-2)
+root(ROOT-0, gives-3)
+dobj(gives-3, option-4)
+aux(use-6, to-5)
+xcomp(gives-3, use-6)
+prep(use-6, either-7)
+dep(either-7, 2G-8)
+advmod(2G-8, only-9)
+
+=========
+
+nsubj(WCDMA-3, which-1)
+cop(WCDMA-3, are-2)
+root(ROOT-0, WCDMA-3)
+conj_or(WCDMA-3, GSM-5)
+
+=========
+
+dep(slow-6, So-1)
+det(internet-3, the-2)
+nsubj(slow-6, internet-3)
+cop(slow-6, is-4)
+advmod(slow-6, very-5)
+root(ROOT-0, slow-6)
+advmod(available-11, when-7)
+nsubj(available-11, wifi-8)
+cop(available-11, is-9)
+neg(available-11, not-10)
+advcl(slow-6, available-11)
+
+=========
+
+nsubj(good-8, Other-1)
+prep_than(Other-1, this-3)
+det(screen-6, the-5)
+dep(this-3, screen-6)
+cop(good-8, is-7)
+root(ROOT-0, good-8)
+
+=========
+
+nsubj(ok-3, camera-1)
+cop(ok-3, is-2)
+root(ROOT-0, ok-3)
+
+=========
+
+det(bit-3, A-1)
+amod(bit-3, little-2)
+nsubj(slow-4, bit-3)
+root(ROOT-0, slow-4)
+
+=========
+
+advmod(deal-7, Anyway-1)
+nsubj(deal-7, $-2)
+num($-2, 200-3)
+aux(deal-7, should-4)
+cop(deal-7, be-5)
+amod(deal-7, good-6)
+root(ROOT-0, deal-7)
+

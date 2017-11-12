@@ -1,0 +1,29 @@
+=========
+
+advmod(put-2, Simply-1)
+root(ROOT-0, put-2)
+nsubj(picture-7, this-3)
+det(picture-7, the-4)
+amod(picture-7, best-5)
+nn(picture-7, tv-6)
+xcomp(put-2, picture-7)
+prep_of(picture-7, 2012-9)
+
+=========
+
+nsubj(miss-4, i-1)
+nsubj(put-10, i-1)
+aux(miss-4, do-2)
+neg(miss-4, not-3)
+root(ROOT-0, miss-4)
+poss(hdtv-8, my-5)
+amod(hdtv-8, old-6)
+nn(hdtv-8, crt-7)
+dobj(miss-4, hdtv-8)
+conj_and(miss-4, put-10)
+amod(lcd-12, most-11)
+nsubj(led-13, lcd-12)
+ccomp(put-10, led-13)
+dobj(led-13, tvs-14)
+prep_to(led-13, shame-16)
+

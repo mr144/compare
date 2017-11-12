@@ -1,0 +1,34 @@
+=========
+
+root(ROOT-0, Had-1)
+aux(send-3, to-2)
+xcomp(Had-1, send-3)
+dobj(send-3, it-4)
+advmod(send-3, back-5)
+
+=========
+
+nsubj(fuzzy-3, Picture-1)
+cop(fuzzy-3, was-2)
+root(ROOT-0, fuzzy-3)
+prep_at(fuzzy-3, times-5)
+amod(scenes-8, dark-7)
+nsubj(had-9, scenes-8)
+conj_and(fuzzy-3, had-9)
+nn(effect-11, shadow-10)
+dobj(had-9, effect-11)
+
+=========
+
+nn(Disappointed-2, Very-1)
+nsubj('s-9, Disappointed-2)
+mark(had-6, as-3)
+nsubj(had-6, I-4)
+aux(had-6, have-5)
+dep(Disappointed-2, had-6)
+amod(TV-8, great-7)
+dobj(had-6, TV-8)
+root(ROOT-0, 's-9)
+prep_from('s-9, SONY-11)
+advmod('s-9, before-12)
+

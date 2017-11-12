@@ -1,0 +1,40 @@
+=========
+
+root(ROOT-0, Excellent-1)
+nn(service-6, product-2)
+conj_and(product-2, excellent-4)
+nn(service-6, excellent-4)
+nn(service-6, delivery-5)
+dobj(Excellent-1, service-6)
+
+=========
+
+nsubj(TV-4, Panasonic-1)
+cop(TV-4, is-2)
+poss(TV-4, our-3)
+root(ROOT-0, TV-4)
+prep_of(TV-4, choice-6)
+nsubjpass(disapointed-12, we-8)
+aux(disapointed-12, have-9)
+neg(disapointed-12, never-10)
+auxpass(disapointed-12, been-11)
+conj_and(TV-4, disapointed-12)
+
+=========
+
+det(curve-4, A-1)
+amod(curve-4, little-2)
+nn(curve-4, learning-3)
+nsubj(result-13, curve-4)
+amod(technology-7, new-6)
+prep_for(curve-4, technology-7)
+nn(settings-10, tv-9)
+prep_for(curve-4, settings-10)
+conj_and(technology-7, settings-10)
+prep(technology-7, but-11)
+dep(but-11, end-12)
+root(ROOT-0, result-13)
+det(pleasure-16, a-14)
+amod(pleasure-16, true-15)
+dobj(result-13, pleasure-16)
+

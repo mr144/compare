@@ -1,0 +1,47 @@
+=========
+
+det(710-5, The-1)
+nn(710-5, phone-2)
+nn(710-5, Nokia-3)
+nn(710-5, Lumia-4)
+nsubj(great-7, 710-5)
+cop(great-7, is-6)
+root(ROOT-0, great-7)
+
+=========
+
+advmod(friendly-6, However-1)
+nsubj(friendly-6, it-3)
+cop(friendly-6, is-4)
+neg(friendly-6, not-5)
+root(ROOT-0, friendly-6)
+aux(transfer-8, to-7)
+xcomp(friendly-6, transfer-8)
+poss(contacts-10, your-9)
+dobj(transfer-8, contacts-10)
+dobj(transfer-8, calendary-12)
+conj_or(contacts-10, calendary-12)
+poss(phone-16, your-14)
+amod(phone-16, old-15)
+prep_from(transfer-8, phone-16)
+
+=========
+
+det(hand-4, the-2)
+amod(hand-4, other-3)
+prep_on(run-15, hand-4)
+det(battery-7, the-6)
+nsubj(worst-10, battery-7)
+cop(worst-10, is-8)
+det(worst-10, the-9)
+parataxis(run-15, worst-10)
+nsubjpass(run-15, it-12)
+auxpass(run-15, is-13)
+advmod(run-15, usually-14)
+root(ROOT-0, run-15)
+prt(run-15, down-16)
+mwe(of-19, less-18)
+quantmod(one-20, of-19)
+prep_in(run-15, one-20)
+tmod(run-15, day-21)
+

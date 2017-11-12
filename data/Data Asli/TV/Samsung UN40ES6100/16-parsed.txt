@@ -1,0 +1,29 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(unit-4, this-3)
+dobj(purchased-2, unit-4)
+det(room-8, a-6)
+nn(room-8, side-7)
+prep_as(purchased-2, room-8)
+advmod(purchased-2, back-9)
+prep_up(purchased-2, TV-11)
+
+=========
+
+nsubj(have-4, I-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+ccomp(good-15, have-4)
+det(receiver-8, the-5)
+nn(receiver-8, hi-6)
+nn(receiver-8, DEF-7)
+dobj(have-4, receiver-8)
+det(Picture-11, the-10)
+nsubj(good-15, Picture-11)
+cop(good-15, is-12)
+advmod(good-15, still-13)
+advmod(good-15, very-14)
+root(ROOT-0, good-15)
+

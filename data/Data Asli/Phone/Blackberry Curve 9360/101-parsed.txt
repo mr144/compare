@@ -1,0 +1,33 @@
+=========
+
+nn(perfectly-2, Works-1)
+root(ROOT-0, perfectly-2)
+advmod(no-5, absolutely-4)
+amod(problems-6, no-5)
+appos(perfectly-2, problems-6)
+prep_with(problems-6, product-8)
+prep_with(problems-6, seller-10)
+conj_or(product-8, seller-10)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(phone-5, this-4)
+dobj(recommend-3, phone-5)
+prep_to(recommend-3, anyone-7)
+nsubj(small-11, phone-9)
+nsubj(sleek-13, phone-9)
+cop(small-11, is-10)
+conj_but(recommend-3, small-11)
+conj_but(recommend-3, sleek-13)
+conj_and(small-11, sleek-13)
+nsubj(purchase-18, you-15)
+aux(purchase-18, should-16)
+advmod(purchase-18, also-17)
+conj_but(recommend-3, purchase-18)
+det(case-20, a-19)
+dobj(purchase-18, case-20)
+prep_for(case-20, it-22)
+

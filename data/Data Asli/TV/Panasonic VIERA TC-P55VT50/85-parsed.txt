@@ -1,0 +1,218 @@
+=========
+
+nsubj(ordered-2, I-1)
+root(ROOT-0, ordered-2)
+det(television-4, this-3)
+dobj(ordered-2, television-4)
+prepc_after(ordered-2, reading-6)
+amod(reviews-8, many-7)
+dobj(reading-6, reviews-8)
+amod(TV-12, many-10)
+amod(TV-12, different-11)
+prep_about(reading-6, TV-12)
+possessive(TV-12, 's-13)
+
+=========
+
+nsubj(see-4, I-1)
+aux(see-4, did-2)
+neg(see-4, not-3)
+root(ROOT-0, see-4)
+det(reviews-7, any-5)
+amod(reviews-7, bad-6)
+dobj(see-4, reviews-7)
+det(one-10, this-9)
+prep_about(reviews-7, one-10)
+nsubj(had-13, many-12)
+conj_and(see-4, had-13)
+dobj(had-13, this-14)
+det(top-17, the-16)
+prep_towards(this-14, top-17)
+poss(list-20, their-19)
+prep_of(top-17, list-20)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(quality-8, the-6)
+nn(quality-8, picture-7)
+prep_with(happy-4, quality-8)
+
+=========
+
+det(levels-3, The-1)
+amod(levels-3, black-2)
+nsubj(great-7, levels-3)
+conj_and(levels-3, contrast-5)
+nsubj(great-7, contrast-5)
+cop(great-7, are-6)
+root(ROOT-0, great-7)
+
+=========
+
+nsubj(have-3, I-1)
+xsubj(order-5, I-1)
+aux(have-3, did-2)
+root(ROOT-0, have-3)
+aux(order-5, to-4)
+xcomp(have-3, order-5)
+det(tv-7, this-6)
+dobj(order-5, tv-7)
+advmod(order-5, twice-8)
+prep_on(order-5, Amazon-10)
+
+=========
+
+det(time-3, The-1)
+amod(time-3, first-2)
+nsubj(go-6, time-3)
+aux(go-6, did-4)
+neg(go-6, not-5)
+root(ROOT-0, go-6)
+advmod(go-6, well-7)
+
+=========
+
+det(order-2, The-1)
+nsubjpass(placed-4, order-2)
+auxpass(placed-4, was-3)
+root(ROOT-0, placed-4)
+nn(Expo-7, Electronic-6)
+prep_through(placed-4, Expo-7)
+
+=========
+
+nsubj(easy-4, They-1)
+cop(easy-4, were-2)
+neg(easy-4, not-3)
+root(ROOT-0, easy-4)
+aux(get-6, to-5)
+xcomp(easy-4, get-6)
+prep_in(get-6, touch-8)
+prep(get-6, with-9)
+
+=========
+
+det(process-3, The-1)
+nn(process-3, delivery-2)
+nsubj(took-4, process-3)
+root(ROOT-0, took-4)
+det(time-7, a-5)
+amod(time-7, long-6)
+dobj(took-4, time-7)
+advmod(got-13, when-10)
+nsubj(got-13, I-11)
+advmod(got-13, finally-12)
+advcl(product-21, got-13)
+det(TV-15, the-14)
+dobj(got-13, TV-15)
+nsubj(product-21, it-16)
+cop(product-21, was-17)
+advmod(product-21, clearly-18)
+det(product-21, a-19)
+amod(product-21, used-20)
+conj_and(took-4, product-21)
+tmod(ordered-24, product-21)
+advmod(ordered-24, when-22)
+nsubj(ordered-24, I-23)
+dep(product-21, ordered-24)
+nsubj(new-26, it-25)
+xcomp(ordered-24, new-26)
+
+=========
+
+nsubj(refused-2, I-1)
+nsubj(sent-7, I-1)
+root(ROOT-0, refused-2)
+dobj(refused-2, delivery-3)
+aux(sent-7, had-5)
+dobj(sent-7, it-6)
+conj_and(refused-2, sent-7)
+advmod(sent-7, back-8)
+
+=========
+
+advmod(give-6, Luckily-1)
+nn(Expo-3, Electronic-2)
+nsubj(give-6, Expo-3)
+aux(give-6, did-4)
+neg(give-6, not-5)
+root(ROOT-0, give-6)
+iobj(give-6, me-7)
+det(hassle-9, a-8)
+dobj(give-6, hassle-9)
+prepc_with(hassle-9, accepting-11)
+det(TV-13, the-12)
+dobj(accepting-11, TV-13)
+advmod(accepting-11, back-14)
+prepc_with(hassle-9, giving-16)
+conj_and(accepting-11, giving-16)
+iobj(giving-16, me-17)
+det(refund-20, a-18)
+amod(refund-20, full-19)
+dobj(giving-16, refund-20)
+
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+advmod(tried-2, again-3)
+det(time-6, this-5)
+nsubj(made-7, time-6)
+conj_and(tried-2, made-7)
+acomp(made-7, sure-8)
+poss(order-10, my-9)
+nsubjpass(placed-12, order-10)
+auxpass(placed-12, was-11)
+ccomp(sure-8, placed-12)
+prep_through(placed-12, Amazon-14)
+advmod(placed-12, directly-15)
+
+=========
+
+det(time-2, This-1)
+nsubj(have-6, time-2)
+nsubj(have-6, I-3)
+aux(have-6, did-4)
+neg(have-6, not-5)
+root(ROOT-0, have-6)
+det(issues-8, any-7)
+dobj(have-6, issues-8)
+
+=========
+
+det(service-3, The-1)
+nn(service-3, delivery-2)
+nsubj(brought-4, service-3)
+nsubj(opened-11, service-3)
+root(ROOT-0, brought-4)
+det(TV-6, the-5)
+dobj(brought-4, TV-6)
+poss(house-9, my-8)
+prep_into(brought-4, house-9)
+conj_and(brought-4, opened-11)
+dobj(opened-11, it-12)
+mark(inspect-16, so-13)
+nsubj(inspect-16, I-14)
+aux(inspect-16, could-15)
+advcl(opened-11, inspect-16)
+dobj(inspect-16, it-17)
+
+=========
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+amod(order-5, good-4)
+prep_in(was-2, order-5)
+nsubj(happy-10, I-7)
+aux(happy-10, have-8)
+cop(happy-10, been-9)
+conj_and(was-2, happy-10)
+det(TV-13, the-12)
+prep_with(happy-10, TV-13)
+prep(TV-13, since-14)
+pobj(since-14, then-15)
+

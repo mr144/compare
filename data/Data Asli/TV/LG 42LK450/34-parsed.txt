@@ -1,0 +1,47 @@
+=========
+
+det(tv-2, this-1)
+nsubj(great-4, tv-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+amod(picture-4, crisp-1)
+amod(picture-4, clear-3)
+root(ROOT-0, picture-4)
+amod(sound-10, easy-6)
+amod(sound-10, remote-7)
+amod(sound-10, good-9)
+appos(picture-4, sound-10)
+
+=========
+
+det(thing-3, the-1)
+amod(thing-3, only-2)
+nsubj(port-10, thing-3)
+nsubj(missing-6, it-4)
+cop(missing-6, is-5)
+rcmod(thing-3, missing-6)
+cop(port-10, is-7)
+det(port-10, a-8)
+amod(port-10, VGA-9)
+root(ROOT-0, port-10)
+nsubj(guess-14, i-13)
+conj_but(port-10, guess-14)
+complm(outdated-19, that-15)
+cop(outdated-19, 's-16)
+det(bit-18, a-17)
+npadvmod(outdated-19, bit-18)
+ccomp(guess-14, outdated-19)
+
+=========
+
+amod(controls-2, easy-1)
+nsubj(happy-7, controls-2)
+appos(controls-2, i-4)
+cop(happy-7, am-5)
+advmod(happy-7, very-6)
+root(ROOT-0, happy-7)
+prep_with(happy-7, it-9)
+

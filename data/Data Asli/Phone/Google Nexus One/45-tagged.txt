@@ -1,0 +1,9 @@
+I_PRP have_VBP had_VBN my_PRP$ Nexus_NNP One_CD for_IN quite_RB sometime_RB now_RB ._.
+I_PRP have_VBP had_VBN no_DT problems_NNS with_IN this_DT phone_NN ,_, as_IN it_PRP has_VBZ done_VBN everything_NN I_PRP asked_VBD it_PRP to_TO without_IN fail_VB ._.
+The_DT hardware_NN of_IN this_DT phone_NN has_VBZ now_RB been_VBN `_`` outdates_NNS '_'' with_IN the_DT introduction_NN of_IN Dual-Core_JJ Processors_NNS running_VBG at_IN 1.2_CD Ghz_NNP ,_, while_IN the_DT N1_NNP is_VBZ a_DT single_JJ core_NN at_IN 1ghz_CD ._.
+The_DT screen_NN is_VBZ very_RB bright_JJ when_WRB on_IN the_DT brightest_JJS setting_NN and_CC everything_NN viewed_VBN will_MD be_VB expressed_VBN clearly_RB ,_, the_DT AMOLED_NNP screen_NN is_VBZ one_CD of_IN the_DT best_JJS I_PRP have_VBP seen_VBN and_CC definitely_RB helps_VBZ this_DT phone_NN ._.
+As_IN of_IN the_DT release_NN of_IN Samsung_NNP 's_POS Galaxy_NNP Nexus_NNP ,_, the_DT Nexus_NNP One_NN will_MD no_RB longer_RB be_VB receiving_VBG OTA_NNP Updates_NNPS from_IN Google_NNP ._.
+Instead_RB ,_, one_CD will_MD have_VB to_TO root_VB the_DT phone_NN and_CC flash_VB a_DT ROM_NNP onto_IN it_PRP to_TO get_VB the_DT latest_JJS software_NN ._.
+This_DT is_VBZ a_DT shame_NN because_IN the_DT phone_NN can_MD handle_VB these_DT updates_NNS and_CC should_MD not_RB be_VB considered_VBN old_JJ ._.
+I_PRP am_VBP very_RB sad_JJ to_TO know_VB that_IN Google_NNP has_VBZ ended_VBN the_DT life_NN of_IN the_DT N1_NNP ,_, but_CC with_IN all_DT of_IN its_PRP$ features_NNS ,_, it_PRP is_VBZ in_IN now_RB way_NN obsolete_JJ ._.
+Thanks_NNS ._.

@@ -1,0 +1,1 @@
+It_PRP 's_VBZ a_DT great_JJ phone_NN but_CC it_PRP does_VBZ not_RB use_VB the_DT high_JJ speed_NN HSPA_NNP +_CD or_CC 3G_CD ,_, only_RB EDGE_NNP with_IN T-Mobile_NNP and_CC I_PRP suppose_VBP other_JJ Providers_NNS in_IN the_DT US_NNP as_RB well_RB ._.

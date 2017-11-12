@@ -1,0 +1,141 @@
+=========
+
+nsubj(broke-3, I-1)
+nsubj(purchased-6, I-1)
+advmod(broke-3, finally-2)
+root(ROOT-0, broke-3)
+prt(broke-3, down-4)
+conj_and(broke-3, purchased-6)
+det(smartphone-9, an-7)
+amod(smartphone-9, unlocked-8)
+dobj(purchased-6, smartphone-9)
+
+=========
+
+nsubj(believe-4, I-1)
+aux(believe-4, can-2)
+neg(believe-4, not-3)
+root(ROOT-0, believe-4)
+predet(things-7, all-5)
+det(things-7, the-6)
+dobj(believe-4, things-7)
+dobj(does-10, things-7)
+det(phone-9, this-8)
+nsubj(does-10, phone-9)
+rcmod(things-7, does-10)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+nsubj(watch-2, I-1)
+root(ROOT-0, watch-2)
+dobj(watch-2, movies-3)
+dep(watch-2, play-5)
+dobj(play-5, games-6)
+dep(watch-2, use-8)
+dobj(use-8, internet-9)
+dep(watch-2, use-11)
+conj_and(use-8, use-11)
+dobj(use-11, GPS-12)
+dep(watch-2, make-14)
+conj_and(use-8, make-14)
+dobj(make-14, calls-15)
+det(problems-18, any-17)
+prep_without(make-14, problems-18)
+dep(watch-2, use-21)
+conj_and(use-8, use-21)
+dobj(use-21, Wi-Fi-22)
+nsubj(saves-24, Wi-Fi-22)
+rcmod(Wi-Fi-22, saves-24)
+xcomp(saves-24, surfing-25)
+dobj(surfing-25, minutes-26)
+poss(plan-30, my-28)
+nn(plan-30, carrier-29)
+prep_on(surfing-25, plan-30)
+
+=========
+
+det(I-4, The-1)
+amod(I-4, only-2)
+nn(I-4, problem-3)
+nsubj(had-5, I-4)
+root(ROOT-0, had-5)
+aux(setting-7, was-6)
+dep(had-5, setting-7)
+det(VPN-9, the-8)
+dobj(setting-7, VPN-9)
+advmod(figured-14, when-12)
+nsubj(figured-14, I-13)
+dep(had-5, figured-14)
+conj_but(setting-7, figured-14)
+prt(figured-14, out-15)
+complm(had-18, that-16)
+nsubj(had-18, I-17)
+xsubj(go-20, I-17)
+xsubj(set-27, I-17)
+ccomp(figured-14, had-18)
+aux(go-20, to-19)
+xcomp(had-18, go-20)
+poss(carrier-23, my-22)
+poss(website-25, carrier-23)
+prep_to(go-20, website-25)
+aux(set-27, to-26)
+xcomp(had-18, set-27)
+complm(had-31, that-28)
+nsubj(had-31, They-30)
+ccomp(set-27, had-31)
+amod(instructions-33, online-32)
+dobj(had-31, instructions-33)
+
+=========
+
+nsubj(good-4, all-2)
+aux(good-4, was-3)
+root(ROOT-0, good-4)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, it-4)
+det(couple-7, a-6)
+prep_for(had-3, couple-7)
+prep_of(couple-7, months-9)
+advmod(months-9, now-10)
+nsubj(purchased-13, I-12)
+nsubj(stuck-22, I-12)
+conj_and(had-3, purchased-13)
+det(card-17, an-14)
+nn(card-17, AT&T-15)
+nn(card-17, sim-16)
+dobj(purchased-13, card-17)
+prep_out_of(purchased-13, curiosity-20)
+conj_and(had-3, stuck-22)
+conj_and(purchased-13, stuck-22)
+poss(plan-27, my-24)
+amod(plan-27, TMobile-25)
+amod(plan-27, prepaid-26)
+prep_with(stuck-22, plan-27)
+
+=========
+
+advmod(switch-4, Now-1)
+nsubj(switch-4, I-2)
+aux(switch-4, can-3)
+root(ROOT-0, switch-4)
+prep_between(switch-4, AT&T-6)
+prep_between(switch-4, TMobile-8)
+conj_and(AT&T-6, TMobile-8)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+

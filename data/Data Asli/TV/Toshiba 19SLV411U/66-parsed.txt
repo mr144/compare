@@ -1,0 +1,65 @@
+=========
+
+det(TV-3, This-1)
+nn(TV-3, Toshiba-2)
+nsubj(present-8, TV-3)
+cop(present-8, was-4)
+det(present-8, the-5)
+amod(present-8, perfect-6)
+nn(present-8, birthday-7)
+root(ROOT-0, present-8)
+poss(wife-11, my-10)
+prep_for(present-8, wife-11)
+
+=========
+
+nsubj(loves-2, She-1)
+root(ROOT-0, loves-2)
+nsubj(Quality-5, it-3)
+dep(Quality-5, !!-4)
+xcomp(loves-2, Quality-5)
+predet(way-8, all-6)
+det(way-8, the-7)
+dobj(Quality-5, way-8)
+
+=========
+
+csubj(saver-9, Built-1)
+nn(Player-4, DVD-3)
+prep_in(Built-1, Player-4)
+cop(saver-9, is-5)
+det(saver-9, a-6)
+amod(saver-9, real-7)
+nn(saver-9, space-8)
+root(ROOT-0, saver-9)
+
+=========
+
+nsubj(place-5, Amazon-1)
+cop(place-5, is-2)
+det(place-5, a-3)
+amod(place-5, great-4)
+root(ROOT-0, place-5)
+aux(locate-7, to-6)
+infmod(place-5, locate-7)
+acomp(locate-7, hard-8)
+aux(find-10, to-9)
+xcomp(hard-8, find-10)
+dobj(find-10, items-11)
+
+=========
+
+nsubj(went-2, Purchase-1)
+root(ROOT-0, went-2)
+nn(work-5, clock-4)
+prep_like(went-2, work-5)
+
+=========
+
+root(ROOT-0, Fair-1)
+dep(Fair-1, price-2)
+det(shopping-6, no-4)
+amod(shopping-6, hastle-5)
+dep(Fair-1, shopping-6)
+conj_and(price-2, shopping-6)
+

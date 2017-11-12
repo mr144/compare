@@ -1,0 +1,102 @@
+=========
+
+root(ROOT-0, Image-1)
+dep(Image-1, blacks-3)
+cop(good-7, are-4)
+neg(good-7, not-5)
+advmod(good-7, so-6)
+rcmod(blacks-3, good-7)
+dep(Image-1, sort-9)
+advmod(gray-12, cloudy-11)
+prep_of(sort-9, gray-12)
+prep_in(sort-9, appearance-14)
+
+=========
+
+poss(tweaks-2, My-1)
+nsubj(help-5, tweaks-2)
+aux(help-5, did-3)
+neg(help-5, not-4)
+root(ROOT-0, help-5)
+dobj(help-5, much-6)
+
+=========
+
+cc(deal-14, But-1)
+quantmod(couple-5, only-3)
+quantmod(couple-5, a-4)
+num(hundred-6, couple-5)
+prep_for(deal-14, hundred-6)
+nsubj(deal-14, this-8)
+cop(deal-14, is-9)
+neg(deal-14, not-10)
+predet(deal-14, such-11)
+det(deal-14, a-12)
+amod(deal-14, big-13)
+root(ROOT-0, deal-14)
+
+=========
+
+root(ROOT-0, Sound-1)
+dep(Sound-1, stinks-3)
+advmod(expected-6, as-5)
+dep(Sound-1, expected-6)
+
+=========
+
+det(TV-2, This-1)
+nsubj(worst-5, TV-2)
+cop(worst-5, is-3)
+det(worst-5, the-4)
+root(ROOT-0, worst-5)
+
+=========
+
+det(way-3, No-1)
+amod(way-3, realistic-2)
+root(ROOT-0, way-3)
+prepc_of(way-3, getting-5)
+amod(sound-7, better-6)
+dobj(getting-5, sound-7)
+
+=========
+
+expl('s-2, There-1)
+root(ROOT-0, 's-2)
+det(way-4, no-3)
+nsubj('s-2, way-4)
+nsubj(gonna-7, I-5)
+cop(gonna-7, am-6)
+rcmod(way-4, gonna-7)
+ccomp(gonna-7, spend-8)
+quantmod($-11, more-9)
+quantmod($-11, than-10)
+dobj(spend-8, $-11)
+number($-11, 50-12)
+det(setup-16, an-14)
+amod(setup-16, external-15)
+prep_for($-11, setup-16)
+dep(guess-20, so-18)
+nsubj(guess-20, I-19)
+parataxis('s-2, guess-20)
+nsubj(luck-24, I-21)
+cop(luck-24, am-22)
+nn(luck-24, outta-23)
+ccomp(guess-20, luck-24)
+
+=========
+
+det(matter-2, No-1)
+advmod(buy-7, matter-2)
+nsubj(buy-7, I-4)
+aux(buy-7, did-5)
+neg(buy-7, not-6)
+root(ROOT-0, buy-7)
+det(TV-9, this-8)
+dobj(buy-7, TV-9)
+poss(quality-12, its-11)
+prep_for(buy-7, quality-12)
+poss(pricetag-17, its-16)
+prep_for(buy-7, pricetag-17)
+conj_but(quality-12, pricetag-17)
+

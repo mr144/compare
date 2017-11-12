@@ -1,0 +1,36 @@
+=========
+
+nsubj(thin-3, it-1)
+cop(thin-3, is-2)
+root(ROOT-0, thin-3)
+nsubj(cool-7, design-4)
+cop(cool-7, is-5)
+advmod(cool-7, very-6)
+dep(thin-3, cool-7)
+mark(using-12, while-9)
+nsubj(using-12, you-10)
+aux(using-12, are-11)
+dep(thin-3, using-12)
+conj_but(cool-7, using-12)
+det(phone-14, the-13)
+dobj(using-12, phone-14)
+dobj(heats-17, phone-14)
+nsubj(heats-17, it-15)
+advmod(heats-17, over-16)
+rcmod(phone-14, heats-17)
+
+=========
+
+det(software-2, The-1)
+nsubj(slow-7, software-2)
+cop(slow-7, is-3)
+advmod(slow-7, also-4)
+dep(of-6, kind-5)
+advmod(slow-7, of-6)
+root(ROOT-0, slow-7)
+advmod(slow-7, sometimes-8)
+advmod(slow-7, even-9)
+prepc_after(slow-7, cleaning-11)
+det(memory-13, the-12)
+dobj(cleaning-11, memory-13)
+

@@ -1,0 +1,31 @@
+=========
+
+dobj(say-4, All-1)
+nsubj(Seeing-6, All-1)
+nsubj(say-4, I-2)
+aux(say-4, can-3)
+rcmod(All-1, say-4)
+aux(Seeing-6, is-5)
+root(ROOT-0, Seeing-6)
+aux(believing-8, is-7)
+dep(Seeing-6, believing-8)
+
+=========
+
+root(ROOT-0, Go-1)
+dep(Go-1, take-2)
+det(look-4, a-3)
+dobj(take-2, look-4)
+prep_for(look-4, yourself-6)
+dep(Go-1, compare-8)
+conj_and(take-2, compare-8)
+
+=========
+
+nsubj(VERY-3, I-1)
+cop(VERY-3, am-2)
+root(ROOT-0, VERY-3)
+partmod(VERY-3, impressed-4)
+det(purchase-7, this-6)
+prep_with(impressed-4, purchase-7)
+

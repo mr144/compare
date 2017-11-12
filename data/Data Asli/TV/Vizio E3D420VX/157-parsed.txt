@@ -1,0 +1,70 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(idea-4, no-3)
+dobj(had-2, idea-4)
+nsubj(expect-7, idea-4)
+aux(expect-7, to-6)
+infmod(idea-4, expect-7)
+rcmod(idea-4, expect-7)
+mark(bought-10, since-8)
+nsubj(bought-10, I-9)
+nsubj(reviews-15, I-9)
+advcl(expect-7, bought-10)
+dobj(bought-10, this-11)
+prep_on(bought-10, faith-13)
+advcl(expect-7, reviews-15)
+conj_and(bought-10, reviews-15)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(good-5, quality-2)
+cop(good-5, is-3)
+advmod(good-5, quite-4)
+root(ROOT-0, good-5)
+nsubj(love-9, I-8)
+conj_and(good-5, love-9)
+det(apps-11, the-10)
+dobj(love-9, apps-11)
+
+=========
+
+nsubj(throw-2, I-1)
+root(ROOT-0, throw-2)
+nsubj(Tube-4, You-3)
+ccomp(throw-2, Tube-4)
+dobj(Tube-4, video-5)
+prep_at(video-5, it-7)
+poss(phone-10, my-9)
+prep_from(Tube-4, phone-10)
+prep_from(Tube-4, stream-12)
+conj_and(phone-10, stream-12)
+poss(account-16, my-14)
+nn(account-16, Amazon-15)
+prep_from(Tube-4, account-16)
+
+=========
+
+nsubj(think-4, I-1)
+aux(think-4, did-2)
+neg(think-4, not-3)
+root(ROOT-0, think-4)
+nsubj(that-8, I-5)
+aux(that-8, would-6)
+cop(that-8, be-7)
+ccomp(think-4, that-8)
+partmod(that-8, amazed-9)
+prep_with(amazed-9, 3D-11)
+nsubj(fun-17, it-14)
+cop(fun-17, is-15)
+advmod(fun-17, very-16)
+conj_but(think-4, fun-17)
+
+=========
+
+amod(job-2, Nice-1)
+root(ROOT-0, job-2)
+appos(job-2, Vizio-4)
+

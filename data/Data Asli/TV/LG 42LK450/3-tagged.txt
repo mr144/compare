@@ -1,0 +1,3 @@
+This_DT TV_NN has_VBZ a_DT better_JJR picture_NN with_IN less_JJR jutter_NN and_CC more_JJR inputs_NNS than_IN the_DT newer_JJR model_NN has_VBZ ._.
+Only_RB downside_NN was_VBD the_DT 24-hour_JJ mode_NN clock_NN ,_, but_CC there_EX is_VBZ a_DT firmware_NN update_VB on_IN LG_NNP 's_POS website_NN that_IN fixes_NNS the_DT 24_CD hr_NN clock_NN issue_NN ._.
+You_PRP need_VBP a_DT USB_NNP thumb_NN drive_NN to_TO update_VB ._.

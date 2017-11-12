@@ -1,0 +1,3 @@
+Love_NNP this_DT Nicon_NNP P90_NNP camera_NN ._.
+It_PRP 's_VBZ loaded_VBN with_IN features_NNS only_RB found_VBD in_IN more_RBR expensive_JJ camerasand_NN no_DT need_NN to_TO change_VB lenses_NNS because_IN of_IN the_DT 26mm_CD to_TO 624mm_CD equivalent_JJ zoom_NN of_IN a_DT 35mm_CD film_NN camera_NN ._.
+The_DT tilt_NN screen_NN works_VBZ great_JJ ._.

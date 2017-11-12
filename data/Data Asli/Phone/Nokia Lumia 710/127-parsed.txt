@@ -1,0 +1,45 @@
+=========
+
+poss(phone-2, My-1)
+nsubj(came-3, phone-2)
+root(ROOT-0, came-3)
+mark(promised-5, as-4)
+advcl(came-3, promised-5)
+nsubjpass(satisfied-10, I-7)
+auxpass(satisfied-10, am-8)
+advmod(satisfied-10, fully-9)
+conj_and(came-3, satisfied-10)
+
+=========
+
+advmod(complained-5, However-1)
+amod(people-4, most-3)
+nsubj(complained-5, people-4)
+root(ROOT-0, complained-5)
+amod(reviews-8, previous-7)
+prep_in(complained-5, reviews-8)
+complm(comes-12, that-9)
+det(phone-11, the-10)
+nsubj(comes-12, phone-11)
+ccomp(complained-5, comes-12)
+acomp(comes-12, locked-13)
+
+=========
+
+nsubj(confirm-5, I-1)
+aux(confirm-5, can-2)
+neg(confirm-5, not-3)
+advmod(confirm-5, really-4)
+root(ROOT-0, confirm-5)
+det(right-7, that-6)
+dobj(confirm-5, right-7)
+advmod(confirm-5, now-8)
+mark(using-12, because-9)
+nsubj(using-12, I-10)
+aux(using-12, am-11)
+advcl(confirm-5, using-12)
+det(phone-14, the-13)
+dobj(using-12, phone-14)
+nn(mobile-17, T-16)
+prep_with(using-12, mobile-17)
+

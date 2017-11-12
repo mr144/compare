@@ -1,0 +1,32 @@
+=========
+
+nsubj(came-2, It-1)
+root(ROOT-0, came-2)
+advmod(advertised-4, as-3)
+acomp(came-2, advertised-4)
+dep(new-7, brand-6)
+dep(advertised-4, new-7)
+det(box-10, the-9)
+prep_in(came-2, box-10)
+
+=========
+
+nsubj(phone-5, It-1)
+cop(phone-5, is-2)
+det(phone-5, a-3)
+amod(phone-5, great-4)
+root(ROOT-0, phone-5)
+
+=========
+
+nsubj(fast-3, Service-1)
+cop(fast-3, was-2)
+root(ROOT-0, fast-3)
+
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+det(vendor-5, the-4)
+prep_with(pleased-2, vendor-5)
+

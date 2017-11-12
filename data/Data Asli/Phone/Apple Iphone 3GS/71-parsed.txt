@@ -1,0 +1,30 @@
+=========
+
+det(phone-2, The-1)
+nsubj(condition-5, phone-2)
+cop(condition-5, is-3)
+amod(condition-5, nice-4)
+root(ROOT-0, condition-5)
+advmod(condition-5, almost-7)
+dep(condition-5, looks-8)
+amod(looks-8, new-9)
+nsubj(unlocked-14, it-11)
+cop(unlocked-14, is-12)
+neg(unlocked-14, not-13)
+conj_but(condition-5, unlocked-14)
+
+=========
+
+nsubj(had-4, I-1)
+nsubj(hopeful-13, I-1)
+aux(had-4, have-2)
+neg(had-4, not-3)
+root(ROOT-0, had-4)
+det(luck-6, any-5)
+dobj(had-4, luck-6)
+xcomp(had-4, unlocking-7)
+dobj(unlocking-7, it-8)
+advmod(unlocking-7, yet-9)
+cop(hopeful-13, remain-12)
+conj_but(had-4, hopeful-13)
+

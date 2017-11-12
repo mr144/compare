@@ -1,0 +1,127 @@
+=========
+
+nsubj(start-3, I-1)
+aux(start-3, must-2)
+root(ROOT-0, start-3)
+prt(start-3, off-4)
+complm(has-7, that-5)
+nsubj(has-7, Amazon-6)
+ccomp(start-3, has-7)
+amod(service-10, excellent-8)
+nn(service-10, customer-9)
+dobj(has-7, service-10)
+
+=========
+
+det(Combo-3, This-1)
+nn(Combo-3, TV\/DVD-2)
+nsubj(first-6, Combo-3)
+cop(first-6, was-4)
+det(first-6, the-5)
+root(ROOT-0, first-6)
+nn(i-9, electronics-8)
+prep_of(first-6, i-9)
+partmod(i-9, bought-10)
+prep_from(bought-10, Amazon-12)
+
+=========
+
+det(unit-2, The-1)
+nsubj(stopped-3, unit-2)
+root(ROOT-0, stopped-3)
+xcomp(stopped-3, working-4)
+advmod(watching-7, only-6)
+prepc_after(working-4, watching-7)
+iobj(watching-7, it-8)
+det(times-11, a-9)
+amod(times-11, few-10)
+dobj(watching-7, times-11)
+
+=========
+
+dep(recommend-5, So-1)
+nsubj(recommend-5, i-2)
+aux(recommend-5, can-3)
+neg(recommend-5, not-4)
+root(ROOT-0, recommend-5)
+det(HDTV-14, this-6)
+nn(HDTV-14, Toshiba-7)
+num(HDTV-14, 19SLV411U-8)
+num(HDTV-14, 19-Inch-9)
+num(HDTV-14, 720p-10)
+num(HDTV-14, 60-11)
+nn(HDTV-14, Hz-12)
+nn(HDTV-14, LED-13)
+dobj(recommend-5, HDTV-14)
+nn(Player-18, Built-in-16)
+nn(Player-18, DVD-17)
+prep_with(recommend-5, Player-18)
+
+=========
+
+nsubjpass(surprised-4, I-1)
+auxpass(surprised-4, was-2)
+advmod(surprised-4, plenty-3)
+root(ROOT-0, surprised-4)
+mark(known-9, since-5)
+det(brand-7, this-6)
+nsubjpass(known-9, brand-7)
+auxpass(known-9, is-8)
+advcl(surprised-4, known-9)
+amod(quality-12, good-11)
+prep_for(known-9, quality-12)
+nsubj(thing-21, this-14)
+aux(thing-21, could-15)
+aux(thing-21, have-16)
+cop(thing-21, been-17)
+advmod(thing-21, just-18)
+det(thing-21, a-19)
+nn(thing-21, fluke-20)
+conj_and(surprised-4, thing-21)
+
+=========
+
+advmod(satisfied-6, However-1)
+nsubj(satisfied-6, i-3)
+cop(satisfied-6, am-4)
+advmod(satisfied-6, incredibly-5)
+root(ROOT-0, satisfied-6)
+ccomp(satisfied-6, w-7)
+nn(Amazon-9, \/-8)
+poss(policy-12, Amazon-9)
+amod(policy-12, return\/exchange-11)
+dobj(w-7, policy-12)
+poss(service-17, their-14)
+amod(service-17, amazing-15)
+amod(service-17, friendly-16)
+dobj(w-7, service-17)
+conj_and(policy-12, service-17)
+
+=========
+
+conj_but(had-3, I-2)
+nsubj(had-3, I-2)
+xsubj(return-5, I-2)
+root(ROOT-0, had-3)
+aux(return-5, to-4)
+xcomp(had-3, return-5)
+dobj(return-5, it-6)
+det(movie-9, a-8)
+prep_with(return-5, movie-9)
+partmod(movie-9, stuck-10)
+det(player-13, the-12)
+prep_inside(return-5, player-13)
+conj_but(had-3, oh-16)
+advmod(oh-16, well-17)
+
+=========
+
+nsubj(sure-3, I-1)
+cop(sure-3, am-2)
+root(ROOT-0, sure-3)
+nsubj(find-6, i-4)
+aux(find-6, can-5)
+ccomp(sure-3, find-6)
+det(TV-8, another-7)
+dobj(find-6, TV-8)
+

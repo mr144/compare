@@ -1,0 +1,191 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+nsubj(reflects-15, this-3)
+det(dip-6, the-5)
+prep_in(this-3, dip-6)
+advmod($-10, when-7)
+nsubj($-10, it-8)
+cop($-10, was-9)
+dep(dip-6, $-10)
+num($-10, 400-11)
+poss(review-14, my-13)
+dep(dip-6, review-14)
+conj_and($-10, review-14)
+ccomp(bought-2, reflects-15)
+det(price-17, this-16)
+dobj(reflects-15, price-17)
+
+=========
+
+prep_at(options-9, $-2)
+num($-2, 450-3)
+expl(options-9, there-4)
+aux(options-9, may-5)
+cop(options-9, be-6)
+advmod(attractive-8, more-7)
+amod(options-9, attractive-8)
+root(ROOT-0, options-9)
+prep(options-9, out-10)
+pobj(out-10, there-11)
+
+=========
+
+root(ROOT-0, Unboxing-1)
+det(stand-4, The-3)
+nsubj(flimsy-7, stand-4)
+nsubjpass(angled-12, stand-4)
+cop(flimsy-7, is-5)
+advmod(flimsy-7, somewhat-6)
+parataxis(Unboxing-1, flimsy-7)
+aux(angled-12, can-9)
+neg(angled-12, not-10)
+auxpass(angled-12, be-11)
+parataxis(Unboxing-1, angled-12)
+conj_and(flimsy-7, angled-12)
+
+=========
+
+nsubj(straightforward-3, Assembly-1)
+cop(straightforward-3, is-2)
+root(ROOT-0, straightforward-3)
+
+=========
+
+root(ROOT-0, Powering-1)
+prt(Powering-1, Up-2)
+det(selection-7, the-5)
+nn(selection-7, language-6)
+prep_after(is-9, selection-7)
+expl(is-9, there-8)
+parataxis(Powering-1, is-9)
+det(choice-11, a-10)
+nsubj(is-9, choice-11)
+prep_for(choice-11, Cable-13)
+prep_for(choice-11, Antenna-15)
+conj_or(Cable-13, Antenna-15)
+
+=========
+
+det(TV-2, The-1)
+nsubj(took-3, TV-2)
+root(ROOT-0, took-3)
+quantmod(1-5, about-4)
+iobj(took-3, 1-5)
+dobj(took-3, minute-6)
+aux(find-8, to-7)
+xcomp(took-3, find-8)
+poss(stations-11, my-9)
+amod(stations-11, local-10)
+dobj(find-8, stations-11)
+
+=========
+
+root(ROOT-0, Video-1)
+nn(quality-4, screen-3)
+nsubj(great-6, quality-4)
+cop(great-6, is-5)
+dep(Video-1, great-6)
+nn(sources-9, HD-8)
+prep_on(great-6, sources-9)
+
+=========
+
+nsubj(seems-2, this-1)
+xsubj(judgment-7, this-1)
+root(ROOT-0, seems-2)
+aux(judgment-7, to-3)
+cop(judgment-7, be-4)
+det(judgment-7, a-5)
+amod(judgment-7, personal-6)
+xcomp(seems-2, judgment-7)
+nsubj(looks-11, it-10)
+conj_but(seems-2, looks-11)
+acomp(looks-11, great-12)
+poss(eyes-15, my-14)
+prep_to(great-12, eyes-15)
+
+=========
+
+root(ROOT-0, Audio-1)
+nsubjpass(prepared-5, I-3)
+xsubj(hate-7, I-3)
+auxpass(prepared-5, was-4)
+dep(Audio-1, prepared-5)
+aux(hate-7, to-6)
+xcomp(prepared-5, hate-7)
+dobj(hate-7, it-8)
+prep_in(hate-7, light-10)
+det(reviews-13, the-12)
+prep_of(light-10, reviews-13)
+nn(sound-19, medium-17)
+nn(sound-19, volume-18)
+prep_for(fine-26, sound-19)
+advmod(dialogue-22, mostly-21)
+prep_with(sound-19, dialogue-22)
+nsubj(fine-26, it-23)
+cop(fine-26, is-24)
+advmod(fine-26, just-25)
+dep(Audio-1, fine-26)
+conj_but(prepared-5, fine-26)
+det(room-32, a-28)
+dep(sized-30, medium-29)
+amod(room-32, sized-30)
+amod(room-32, living-31)
+prep_in(fine-26, room-32)
+
+=========
+
+root(ROOT-0, Remote-1)
+dep(Remote-1, nothing-3)
+prep_of(nothing-3, note-5)
+
+=========
+
+nsubj(works-2, it-1)
+root(ROOT-0, works-2)
+
+=========
+
+root(ROOT-0, Ports-1)
+nsubj(know-4, you-3)
+dep(Ports-1, know-4)
+dobj(buying-8, what-5)
+nsubj(buying-8, you-6)
+aux(buying-8, are-7)
+ccomp(know-4, buying-8)
+dep(know-4, so-10)
+advmod(sufficient-14, either-11)
+nsubj(sufficient-14, it-12)
+cop(sufficient-14, is-13)
+dep(know-4, sufficient-14)
+mark(needs-17, for-15)
+nsubj(needs-17, your-16)
+advcl(sufficient-14, needs-17)
+advcl(sufficient-14, not-19)
+conj_or(needs-17, not-19)
+
+=========
+
+det(ports-3, Both-1)
+nn(ports-3, HDMI-2)
+nsubj(worked-4, ports-3)
+root(ROOT-0, worked-4)
+det(box-8, the-7)
+prep_out_of(worked-4, box-8)
+
+=========
+
+root(ROOT-0, Conclusion-2)
+prep_at(Conclusion-2, $-5)
+num($-5, 400-6)
+nsubj(feel-8, I-7)
+rcmod(Conclusion-2, feel-8)
+mark(deal-14, like-9)
+nsubj(deal-14, this-10)
+cop(deal-14, was-11)
+det(deal-14, a-12)
+amod(deal-14, great-13)
+advcl(feel-8, deal-14)
+

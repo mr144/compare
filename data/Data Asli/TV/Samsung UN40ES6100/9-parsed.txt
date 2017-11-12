@@ -1,0 +1,37 @@
+=========
+
+csubj(surreal-11, Going-1)
+det(CRT-4, a-3)
+prep_from(Going-1, CRT-4)
+det(flat-screen-7, a-6)
+prep_to(Going-1, flat-screen-7)
+prep_for(flat-screen-7, me-9)
+cop(surreal-11, is-10)
+root(ROOT-0, surreal-11)
+
+=========
+
+det(TV-2, This-1)
+nsubj(provides-3, TV-2)
+root(ROOT-0, provides-3)
+amod(quality-6, great-4)
+nn(quality-6, picture-5)
+dobj(provides-3, quality-6)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+prep_to(recommend-3, anyone-6)
+
+=========
+
+nsubj(proposition-6, It-1)
+cop(proposition-6, is-2)
+advmod(proposition-6, quite-3)
+det(proposition-6, a-4)
+nn(proposition-6, value-5)
+root(ROOT-0, proposition-6)
+

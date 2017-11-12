@@ -1,0 +1,3 @@
+The_DT phone_NN is_VBZ great_JJ ._.
+Consider_VB something_NN smaller_JJR if_IN you_PRP have_VBP a_DT small_JJ hand_NN ._.
+Wi-Fi_JJ works_NNS great_JJ ,_, and_CC it_PRP works_VBZ great_JJ on_IN T-Mobile_NNP ._.

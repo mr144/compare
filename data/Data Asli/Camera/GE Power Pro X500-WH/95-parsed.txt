@@ -1,0 +1,35 @@
+=========
+
+advmod(good-2, Very-1)
+root(ROOT-0, good-2)
+dep(good-2, zoom-3)
+
+=========
+
+advmod(slow-2, Very-1)
+root(ROOT-0, slow-2)
+
+=========
+
+dep(slow-4, Repeat-1)
+advmod(slow-4, very-3)
+root(ROOT-0, slow-4)
+
+=========
+
+num(time-3, One-1)
+amod(time-3, more-2)
+root(ROOT-0, time-3)
+nn(SLOW-6, VERY-5)
+dep(time-3, SLOW-6)
+
+=========
+
+cc(drains-3, And-1)
+nsubj(drains-3, it-2)
+root(ROOT-0, drains-3)
+det(battery-5, the-4)
+dobj(drains-3, battery-5)
+advmod(too-7, badly-6)
+advmod(drains-3, too-7)
+

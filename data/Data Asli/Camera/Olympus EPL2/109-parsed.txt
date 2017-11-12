@@ -1,0 +1,27 @@
+=========
+
+root(ROOT-0, One-1)
+det(4\/3-6, the-3)
+amod(4\/3-6, latest-4)
+amod(4\/3-6, micro-5)
+prep_of(One-1, 4\/3-6)
+det(right-10, the-8)
+nn(right-10, market-9)
+prep_in(4\/3-6, right-10)
+advmod(One-1, now-11)
+
+=========
+
+nn(stabilizer-2, Internal-1)
+nsubj(\/-6, stabilizer-2)
+prep_with(stabilizer-2, F1-4)
+num(F1-4, .7-5)
+root(ROOT-0, \/-6)
+num(lens-9, 20mm-7)
+nn(lens-9, Panasonic-8)
+nsubj(capture-10, lens-9)
+ccomp(\/-6, capture-10)
+amod(shots-13, good-11)
+nn(shots-13, night-12)
+tmod(capture-10, shots-13)
+

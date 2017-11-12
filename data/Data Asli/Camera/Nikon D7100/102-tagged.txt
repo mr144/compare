@@ -1,0 +1,6 @@
+I_PRP read_VBP about_IN it_PRP ._.
+Rockwell_NNP says_VBZ it_PRP is_VBZ the_DT best_JJS DX_NNP DSLR_NNP ever_RB ._.
+I_PRP bought_VBD it_PRP ._.
+I_PRP used_VBD it_PRP ._.
+Priceless_JJ ._.
+Let_NNP 's_POS eat_VB ._.

@@ -1,0 +1,6 @@
+I_PRP have_VBP a_DT photo_JJ count_NN of_IN less_JJR than_IN 1000_CD on_IN this_DT camera_NN ._.
+I_PRP have_VBP another_DT Panasonic_NNP camera_NN ,_, DMC-F3_NNP ._.
+Its_PRP$ sensor_NN and_CC autofocus_NN deteriorated_VBN after_IN reaching_VBG a_DT photo_JJ count_NN of_IN ~_NN 4000_CD ._.
+Panasonic_NNP customer_NN service_NN is_VBZ impossible_JJ ._.
+It_PRP refused_VBD to_TO repair_VB even_RB though_IN the_DT camera_NN is_VBZ 6_CD month_NN old_JJ ._.
+I_PRP hope_VBP this_DT model_NN will_MD last_VB longer_JJR than_IN 4000_CD ._.

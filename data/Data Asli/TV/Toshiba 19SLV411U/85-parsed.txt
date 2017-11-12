@@ -1,0 +1,30 @@
+=========
+
+nsubj(TV-5, It-1)
+cop(TV-5, is-2)
+det(TV-5, an-3)
+amod(TV-5, amazing-4)
+root(ROOT-0, TV-5)
+det(sound-8, the-7)
+nsubj(good-10, sound-8)
+cop(good-10, is-9)
+ccomp(TV-5, good-10)
+conj_and(TV-5, good-10)
+det(picture-13, the-12)
+nsubj(better-15, picture-13)
+cop(better-15, is-14)
+ccomp(TV-5, better-15)
+conj_and(TV-5, better-15)
+advmod(service-21, even-18)
+det(service-21, the-19)
+nn(service-21, customer-20)
+nsubj(good-25, service-21)
+prep_for(service-21, it-23)
+cop(good-25, was-24)
+conj_and(TV-5, good-25)
+
+=========
+
+num(stars-2, 5-1)
+root(ROOT-0, stars-2)
+

@@ -1,0 +1,30 @@
+=========
+
+nsubj(good-3, Everything-1)
+cop(good-3, was-2)
+root(ROOT-0, good-3)
+
+=========
+
+nsubj(like-3, I-1)
+xsubj(receive-5, I-1)
+aux(like-3, would-2)
+root(ROOT-0, like-3)
+aux(receive-5, to-4)
+xcomp(like-3, receive-5)
+dobj(receive-5, anything-6)
+amod(anything-6, extra-7)
+prep_like(receive-5, protectors-9)
+det(case-13, a-11)
+amod(case-13, cheap-12)
+prep_like(receive-5, case-13)
+conj_or(protectors-9, case-13)
+nsubj(did-16, it-15)
+parataxis(receive-5, did-16)
+parataxis(Thank-21, did-16)
+dep(happens-18, not-17)
+ccomp(did-16, happens-18)
+xcomp(like-3, Thank-21)
+conj_but(receive-5, Thank-21)
+dobj(receive-5, you-22)
+

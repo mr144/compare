@@ -1,0 +1,4 @@
+The_DT Fujifilm_NNP FinePix_NNP S2950_NNP 14_CD MP_NNP Digital_NNP Camera_NNP with_IN Fujinon_NNP 18x_CD Wide_NNP Angle_NNP Optical_NNP Zoom_NNP Lens_NNP and_CC 3-Inch_NNP LCD_NNP has_VBZ really_RB pretty_JJ design_NN ,_, solid_JJ construction_NN ._.
+Has_VBZ a_DT lot_NN of_IN features_NNS and_CC the_DT quality_NN of_IN the_DT pictures_NNS and_CC videos_NNS are_VBP really_RB great_JJ for_IN the_DT price_NN ._.
+Really_RB good_JJ deal_NN ._.
+Thank_VB You_PRP ..._:

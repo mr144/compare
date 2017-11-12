@@ -1,0 +1,3 @@
+I_PRP have_VBP a_DT number_NN of_IN Samsung_NNP TVs_NNS and_CC this_DT one_NN is_VBZ as_RB good_JJ as_IN any_DT ._.
+Used_VBN it_PRP at_IN a_DT trade_NN show_NN showing_VBG medical_JJ images_NNS and_CC after_IN a_DT bit_NN if_IN tuning_VBG they_PRP were_VBD as_RB good_JJ as_IN you_PRP get_VBP ._.
+Now_RB use_VBP it_PRP as_IN an_DT additional_JJ monitor_NN in_IN our_PRP$ board_NN room_NN ._.

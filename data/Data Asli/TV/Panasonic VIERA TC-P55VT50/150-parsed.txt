@@ -1,0 +1,86 @@
+=========
+
+nsubj(picture-2, Amazing-1)
+nsubj(clarity-4, Amazing-1)
+root(ROOT-0, picture-2)
+conj_and(picture-2, clarity-4)
+poss(TiVo-7, my-6)
+prep_from(picture-2, TiVo-7)
+prep_from(picture-2, PS3-9)
+conj_and(TiVo-7, PS3-9)
+
+=========
+
+det(settings-4, The-1)
+nn(settings-4, THX-2)
+nn(settings-4, picture-3)
+nsubj(awesome-6, settings-4)
+cop(awesome-6, are-5)
+root(ROOT-0, awesome-6)
+dep(awesome-6, right-7)
+det(box-11, the-10)
+prep_out_of(awesome-6, box-11)
+
+=========
+
+nsubj(relief-4, Which-1)
+cop(relief-4, was-2)
+det(relief-4, a-3)
+dep('cause-6, relief-4)
+root(ROOT-0, 'cause-6)
+nsubj(have-11, I-7)
+advmod(have-11, just-8)
+aux(have-11, do-9)
+neg(have-11, not-10)
+ccomp('cause-6, have-11)
+dobj(have-11, time-12)
+aux(calibrate-14, to-13)
+xcomp(have-11, calibrate-14)
+mark(done-18, like-15)
+nsubj(done-18, I-16)
+aux(done-18, have-17)
+advcl(calibrate-14, done-18)
+poss(sets-23, my-20)
+amod(sets-23, previous-21)
+nn(sets-23, HD-22)
+prep_for(done-18, sets-23)
+
+=========
+
+det(delivery-3, The-1)
+nn(delivery-3, CEVA-2)
+nsubj(excellent-5, delivery-3)
+cop(excellent-5, was-4)
+root(ROOT-0, excellent-5)
+advmod(excellent-5, too-7)
+
+=========
+
+nsubj(arrived-3, Set-1)
+advmod(arrived-3, happily-2)
+root(ROOT-0, arrived-3)
+advmod(than-5, earlier-4)
+advmod(expected-6, than-5)
+dep(arrived-3, expected-6)
+nsubj(called-9, they-8)
+xsubj(confirm-11, they-8)
+parataxis(expected-6, called-9)
+aux(confirm-11, to-10)
+xcomp(called-9, confirm-11)
+complm(ok-15, that-12)
+nsubjpass(ok-15, earlier-13)
+auxpass(ok-15, was-14)
+ccomp(confirm-11, ok-15)
+nsubj(quick-21, set-up\/clean-up-19)
+cop(quick-21, was-20)
+conj_and(arrived-3, quick-21)
+conj_and(arrived-3, professional-23)
+conj_and(quick-21, professional-23)
+
+=========
+
+nsubj(experience-2, Great-1)
+root(ROOT-0, experience-2)
+dep(around-4, all-3)
+advmod(experience-2, around-4)
+

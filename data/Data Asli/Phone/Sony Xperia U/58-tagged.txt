@@ -1,0 +1,7 @@
+Trust_NNP me_PRP ,_, if_IN you_PRP are_VBP an_DT ATT_NNP user_NN ,_, you_PRP do_VBP not_RB want_VB this_DT phone_NN ._.
+It_PRP claims_VBZ to_TO be_VB unlocked_VBN ,_, but_CC actually_RB it_PRP does_VBZ not_RB work_VB for_IN ATT_NNP data_NNS service_NN !_.
+Which_WDT means_VBZ you_PRP the_DT not_RB connect_VB to_TO the_DT internet_NN unless_IN using_VBG wi-fi_NNS ..._: I_PRP have_VBP to_TO say_VB it_PRP is_VBZ a_DT beautiful_JJ phone_NN ,_, elegant_JJ design_NN and_CC I_PRP really_RB love_VBP the_DT look_NN ._.
+But_CC the_DT problem_NN is_VBZ it_PRP does_VBZ not_RB work_VB with_IN eh_JJ carrier_NN !_.
+I_PRP am_VBP so_RB frustrated_JJ !_.
+I_PRP really_RB think_VBP Amazon_NNP should_MD notify_VB the_DT customers_NNS about_IN this_DT serious_JJ issue_NN !_.
+I_PRP have_VBP no_DT options_NNS but_CC to_TO return_VB it_PRP ._.

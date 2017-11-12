@@ -1,0 +1,44 @@
+=========
+
+det(tv-2, This-1)
+nsubj(wonderful-6, tv-2)
+advmod(far-4, so-3)
+advmod(wonderful-6, far-4)
+cop(wonderful-6, is-5)
+root(ROOT-0, wonderful-6)
+
+=========
+
+nsubj(love-2, We-1)
+root(ROOT-0, love-2)
+det(quality-5, the-3)
+nn(quality-5, picture-4)
+nsubj(get-10, quality-5)
+det(ability-8, the-7)
+conj_and(quality-5, ability-8)
+nsubj(get-10, ability-8)
+aux(get-10, to-9)
+xcomp(love-2, get-10)
+predet(apps-13, all-11)
+det(apps-13, the-12)
+dobj(get-10, apps-13)
+
+=========
+
+nsubj(tried-3, Have-1)
+neg(tried-3, not-2)
+root(ROOT-0, tried-3)
+det(3d-5, the-4)
+dobj(tried-3, 3d-5)
+advmod(tried-3, yet-6)
+advmod(far-9, so-8)
+advmod(satisfied-13, far-9)
+nsubjpass(satisfied-13, I-10)
+auxpass(satisfied-13, am-11)
+advmod(satisfied-13, completely-12)
+conj_but(tried-3, satisfied-13)
+det(price-16, the-15)
+nsubj(wonderful-18, price-16)
+cop(wonderful-18, was-17)
+conj_and(tried-3, wonderful-18)
+

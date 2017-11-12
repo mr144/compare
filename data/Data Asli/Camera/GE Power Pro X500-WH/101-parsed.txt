@@ -1,0 +1,69 @@
+=========
+
+nsubj(read-2, I-1)
+nsubj(skeptical-11, I-1)
+root(ROOT-0, read-2)
+det(reviews-4, the-3)
+dobj(read-2, reviews-4)
+det(camera-7, this-6)
+prep_for(read-2, camera-7)
+cop(skeptical-11, was-9)
+amod(skeptical-11, kinda-10)
+conj_and(read-2, skeptical-11)
+prep(skeptical-11, at-12)
+pcomp(at-12, first-13)
+mark(got-17, until-14)
+poss(teenager-16, my-15)
+nsubj(got-17, teenager-16)
+advcl(skeptical-11, got-17)
+dobj(got-17, this-18)
+det(gift-21, a-20)
+prep_as(got-17, gift-21)
+prep_for(got-17, Christmas-23)
+nsubj(LOVES-26, he-25)
+conj_and(read-2, LOVES-26)
+nsubj(!!!-28, it-27)
+ccomp(LOVES-26, !!!-28)
+amod(camera-30, Great-29)
+dobj(!!!-28, camera-30)
+prep_for(!!!-28, someone-32)
+xcomp(!!!-28, starting-33)
+prt(starting-33, out-34)
+det(photog-38, an-36)
+amod(photog-38, amateur-37)
+prep_as(starting-33, photog-38)
+
+=========
+
+nn(Amazon-2, Thanks-1)
+root(ROOT-0, Amazon-2)
+det(drop-5, the-4)
+prep_for(Amazon-2, drop-5)
+prep_in(drop-5, price-7)
+advmod(Amazon-2, also-8)
+
+=========
+
+aux(go-3, Ca-1)
+neg(go-3, not-2)
+root(ROOT-0, go-3)
+acomp(go-3, wrong-4)
+det(one-7, this-6)
+prep_with(go-3, one-7)
+
+=========
+
+root(ROOT-0, Fast-1)
+dobj(Fast-1, service-2)
+advmod(Fast-1, too-3)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(pics-3, great-2)
+dobj(Takes-1, pics-3)
+advmod(even-5, too-4)
+advmod(Takes-1, even-5)
+det(flash-8, the-7)
+prep_without(Takes-1, flash-8)
+

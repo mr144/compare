@@ -1,0 +1,65 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+det(gift-7, a-6)
+prep_as(bought-2, gift-7)
+poss(husband-10, my-9)
+prep_for(gift-7, husband-10)
+poss(bedroom-13, our-12)
+prep_for(bought-2, bedroom-13)
+
+=========
+
+nsubj(watches-2, He-1)
+root(ROOT-0, watches-2)
+dobj(watches-2, TV-3)
+prep_before(watches-2, bed-5)
+advmod(watches-2, sometimes-6)
+mark(used-12, so-8)
+nsubjpass(used-12, it-9)
+auxpass(used-12, is-10)
+neg(used-12, not-11)
+advcl(watches-2, used-12)
+advmod(used-12, often-13)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(best-7, quality-3)
+cop(best-7, is-4)
+neg(best-7, not-5)
+det(best-7, the-6)
+root(ROOT-0, best-7)
+det(32-10, a-9)
+poss(TV-12, 32-10)
+nsubj(good-20, TV-12)
+quantmod($-16, less-14)
+quantmod($-16, than-15)
+prep_for(TV-12, $-16)
+number($-16, 300-17)
+cop(good-20, was-18)
+advmod(good-20, too-19)
+conj_but(best-7, good-20)
+det(deal-23, a-22)
+prep_of(good-20, deal-23)
+aux(pass-25, to-24)
+infmod(deal-23, pass-25)
+prt(pass-25, up-26)
+
+=========
+
+nsubjpass(convinced-4, I-1)
+auxpass(convinced-4, am-2)
+neg(convinced-4, not-3)
+root(ROOT-0, convinced-4)
+nsubj(buy-7, I-5)
+aux(buy-7, did-6)
+ccomp(convinced-4, buy-7)
+det(TV-10, another-8)
+nn(TV-10, LG-9)
+dobj(buy-7, TV-10)
+

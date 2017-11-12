@@ -1,0 +1,61 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, this-4)
+advmod(month-8, about-6)
+det(month-8, a-7)
+prep_for(this-4, month-8)
+advmod(month-8, now-9)
+nsubj(fantastic-14, it-12)
+cop(fantastic-14, is-13)
+conj_and(had-3, fantastic-14)
+
+=========
+
+root(ROOT-0, PLENTY-1)
+amod(settings-4, customizible-3)
+prep_of(PLENTY-1, settings-4)
+aux(get-6, to-5)
+infmod(PLENTY-1, get-6)
+det(picture-9, that-7)
+amod(picture-9, perfect-8)
+dobj(get-6, picture-9)
+
+=========
+
+advmod(DSLR-6, Definitely-1)
+det(level-5, a-2)
+amod(level-5, GREAT-3)
+amod(level-5, entry-mid-4)
+nsubj(DSLR-6, level-5)
+nsubj(available-12, level-5)
+root(ROOT-0, DSLR-6)
+dep(available-12, pletny-9)
+prep_of(pletny-9, lenses-11)
+conj_and(DSLR-6, available-12)
+prep_as(available-12, accessories-14)
+
+=========
+
+advmod(retains-2, Still-1)
+root(ROOT-0, retains-2)
+amod(settings-5, popular-3)
+nn(settings-5, auto-4)
+nsubj(retains-2, settings-5)
+appos(settings-5, sport-7)
+appos(sport-7, portrait-9)
+dep(sport-7, etc.-11)
+
+=========
+
+amod(battery-2, Great-1)
+root(ROOT-0, battery-2)
+dep(battery-2, life-3)
+
+=========
+
+advmod(cool-2, Too-1)
+root(ROOT-0, cool-2)
+

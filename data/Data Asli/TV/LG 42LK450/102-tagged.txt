@@ -1,0 +1,6 @@
+The_DT TV_NN is_VBZ great_JJ --_: Verizon_NNP FIOS_NNP is_VBZ the_DT problem_NN ._.
+When_WRB I_PRP first_RB hooked_VBD it_PRP up_RP I_PRP was_VBD terribly_RB disappointed_VBN in_IN the_DT color_NN and_CC the_DT clarity_NN since_IN I_PRP still_RB did_VBD not_RB have_VB the_DT high_JJ definition_NN setbox_NN from_IN Verizon_NNP ._.
+Once_RB I_PRP got_VBD that_DT --_: what_WP a_DT difference_NN ._.
+The_DT only_JJ problem_NN still_RB not_RB resolved_VBN is_VBZ getting_VBG the_DT Verizon_NNP remote_JJ to_TO control_VB the_DT TV_NN no_DT matter_NN what_WP I_PRP try_VBP -_: it_PRP does_VBZ not_RB seem_VB to_TO recognize_VB LG_NNP product_NN code_NN ._.
+But_CC that_DT is_VBZ not_RB the_DT LG_NNP problem_NN --_: that_DT is_VBZ Verizon_NNP support_NN -LRB-_-LRB- which_WDT is_VBZ at_IN best_RB minimal_JJ -RRB-_-RRB- ._.
+I_PRP would_MD recommend_VB that_IN you_PRP pay_VBP the_DT extra_JJ and_CC get_VB the_DT LED_NNP version_NN --_: if_IN you_PRP are_VBP not_RB looking_VBG straight_RB at_IN the_DT TV_NN the_DT picture_NN is_VBZ fuzzy_JJ ._.

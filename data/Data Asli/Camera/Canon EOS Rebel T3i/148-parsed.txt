@@ -1,0 +1,29 @@
+=========
+
+nn(buscando-17, Muy-1)
+nn(compra-5, satisfecho-2)
+nn(compra-5, con-3)
+amod(compra-5, esta-4)
+dep(buscando-17, compra-5)
+nn(expectativas-10, lleno-7)
+nn(expectativas-10, todas-8)
+amod(expectativas-10, mis-9)
+dep(compra-5, expectativas-10)
+nn(buscando-17, realmente-12)
+nn(buscando-17, es-13)
+nn(buscando-17, lo-14)
+nn(buscando-17, que-15)
+nn(buscando-17, estaba-16)
+nsubj(desde-18, buscando-17)
+root(ROOT-0, desde-18)
+amod(tiempo-21, hac&iacute;a-19)
+nn(tiempo-21, mucho-20)
+dobj(desde-18, tiempo-21)
+
+=========
+
+nsubj(recomendado-2, Producto-1)
+root(ROOT-0, recomendado-2)
+num(%-4, 100-3)
+dobj(recomendado-2, %-4)
+

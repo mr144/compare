@@ -1,0 +1,78 @@
+=========
+
+root(ROOT-0, Bad-1)
+amod(bad-5, bad-3)
+amod(Bad-1, bad-5)
+
+=========
+
+advmod(disappointed-2, Totally-1)
+root(ROOT-0, disappointed-2)
+det(product-5, this-4)
+prep_with(disappointed-2, product-5)
+
+=========
+
+nsubj(fault-6, It-1)
+cop(fault-6, was-2)
+neg(fault-6, not-3)
+poss(fault-6, Blackberry-4)
+ccomp(fault-12, fault-6)
+nsubj(fault-12, it-8)
+cop(fault-12, is-9)
+det(fault-12, the-10)
+nn(fault-12, sellers-11)
+root(ROOT-0, fault-12)
+
+=========
+
+nsubj(advertise-2, They-1)
+root(ROOT-0, advertise-2)
+nsubj(sell-4, &-3)
+ccomp(advertise-2, sell-4)
+amod(phones-6, refurbished-5)
+dobj(sell-4, phones-6)
+prep_as(sell-4, new-8)
+
+=========
+
+nn(Everything-8, DO-1)
+nn(Everything-8, NOT-2)
+nn(Everything-8, DECIEVE-3)
+nn(Everything-8, CUSTOMERS-4)
+nn(Everything-8, LIKE-5)
+nn(Everything-8, THAT-6)
+nn(Everything-8, !!!-7)
+nsubj(wrong-10, Everything-8)
+cop(wrong-10, was-9)
+root(ROOT-0, wrong-10)
+det(phone-13, this-12)
+prep_with(wrong-10, phone-13)
+nsubj(missing-17, programs-15)
+cop(missing-17, were-16)
+ccomp(wrong-10, missing-17)
+conj_and(wrong-10, missing-17)
+nsubjpass(set-23, emails-19)
+aux(set-23, could-20)
+neg(set-23, not-21)
+auxpass(set-23, be-22)
+conj_and(wrong-10, set-23)
+prt(set-23, up-24)
+det(list-27, the-26)
+nsubj(goes-28, list-27)
+conj_and(wrong-10, goes-28)
+prt(goes-28, on-29)
+
+=========
+
+advmod(apprehensive-5, Now-1)
+nsubj(apprehensive-5, I-2)
+cop(apprehensive-5, am-3)
+advmod(apprehensive-5, very-4)
+root(ROOT-0, apprehensive-5)
+aux(purchase-7, to-6)
+xcomp(apprehensive-5, purchase-7)
+det(phone-9, another-8)
+dobj(purchase-7, phone-9)
+prep(purchase-7, online-10)
+

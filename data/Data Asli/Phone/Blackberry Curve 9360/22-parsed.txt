@@ -1,0 +1,30 @@
+=========
+
+advmod(bad-2, too-1)
+advmod(lasts-8, bad-2)
+det(product-4, the-3)
+pobj(bad-2, product-4)
+det(battery-7, the-6)
+nsubj(lasts-8, battery-7)
+root(ROOT-0, lasts-8)
+advmod(little-10, very-9)
+acomp(lasts-8, little-10)
+
+=========
+
+det(antenna-2, the-1)
+nsubjpass(underpowered-4, antenna-2)
+auxpass(underpowered-4, is-3)
+root(ROOT-0, underpowered-4)
+
+=========
+
+neg(recommend-2, not-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, it-3)
+dep(recommend-2, pass-5)
+amod(times-7, bad-6)
+dobj(pass-5, times-7)
+det(phone-10, this-9)
+prep_with(pass-5, phone-10)
+

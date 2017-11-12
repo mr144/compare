@@ -1,0 +1,54 @@
+=========
+
+amod(camera-2, Great-1)
+root(ROOT-0, camera-2)
+det(price-5, the-4)
+prep_for(camera-2, price-5)
+
+=========
+
+root(ROOT-0, Takes-1)
+advmod(good-3, really-2)
+amod(pictures-4, good-3)
+dobj(Takes-1, pictures-4)
+advmod(want-9, when-5)
+nsubj(want-9, you-6)
+aux(want-9, do-7)
+neg(want-9, not-8)
+advcl(Takes-1, want-9)
+prep(want-9, to-10)
+aux(carry-14, can-12)
+neg(carry-14, not-13)
+conj_or(Takes-1, carry-14)
+prt(carry-14, around-15)
+det(camera-19, a-16)
+amod(camera-19, big-17)
+nn(camera-19, SLR-18)
+dobj(carry-14, camera-19)
+
+=========
+
+root(ROOT-0, Has-1)
+det(length-5, an-2)
+amod(length-5, amazing-3)
+amod(length-5, zoom-4)
+dobj(Has-1, length-5)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, canon-6)
+prep_than(better-4, kodak-8)
+conj_or(canon-6, kodak-8)
+prep_than(better-4, pentax-10)
+conj_or(canon-6, pentax-10)
+prep_than(better-4, fujifilm-12)
+conj_or(canon-6, fujifilm-12)
+prep_than(better-4, GE-14)
+conj_or(canon-6, GE-14)
+prep_than(better-4, coolpix-16)
+conj_or(canon-6, coolpix-16)
+

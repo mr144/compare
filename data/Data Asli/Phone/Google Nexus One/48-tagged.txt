@@ -1,0 +1,18 @@
+This_DT phone_NN was_VBD a_DT great_JJ purchase_NN ._.
+I_PRP use_VBP the_DT phone_NN with_IN AT&T_NNP Go_NNP phone_NN ,_, Google_NNP Voice_NNP ,_, and_CC Groovie_NNP IP_NNP ._.
+I_PRP work_VBP from_IN home_NN ,_, so_IN most_JJS of_IN the_DT time_NN I_PRP make_VBP calls_NNS through_IN the_DT internet_NN ._.
+With_IN this_DT setup_NN I_PRP am_VBP only_RB paying_VBG less_JJR than_IN $_$ 20_CD a_DT month_NN with_IN a_DT data_NN plan_NN and_CC taxes_NNS included_VBD ._.
+I_PRP have_VBP not_RB found_VBN a_DT better_JJR plan_NN out_RB there_RB ._.
+It_PRP is_VBZ great_JJ for_IN watching_VBG movies_NNS with_IN Netflix_NNP and_CC Hulu_NNP ._.
+It_PRP works_VBZ great_JJ with_IN Google_NNP music_NN and_CC Pandora_NNP ._.
+I_PRP use_VBP Google_NNP Reader_NNP to_TO read_VB all_DT my_PRP$ news_NN ._.
+The_DT thing_NN fits_VBZ perfectly_RB in_IN my_PRP$ pocket_NN to_TO take_VB anywhere_RB ._.
+It_PRP also_RB replaces_VBZ my_PRP$ TomTom_NN for_IN driving_JJ directions_NNS ,_, because_IN it_PRP is_VBZ always_RB up_IN to_TO date_NN and_CC gives_VBZ me_PRP the_DT current_JJ traffic_NN ._.
+It_PRP works_VBZ as_IN my_PRP$ GPS_NNP for_IN running_VBG with_IN the_DT Run_NNP keeper_NN app_NN ._.
+Before_IN a_DT year_NN of_IN use_NN ._.
+The_DT power_NN button_NN on_IN went_VBD out_RP on_IN the_DT phone_NN ._.
+I_PRP would_MD not_RB recommend_VB anyone_NN to_TO buy_VB this_DT phone_NN any_RB longer_RB ,_, because_IN there_EX has_VBZ been_VBN many_JJ people_NNS with_IN the_DT same_JJ power_NN button_NN problem_NN ._.
+I_PRP have_VBP gotten_VBN around_IN the_DT power_NN button_NN with_IN installing_VBG cyanogenmod_NN 7_CD on_IN the_DT phone_NN with_IN ROM_NNP Manager_NNP ._.
+With_IN this_DT I_PRP can_MD wake_VB the_DT phone_NN with_IN with_IN track_NN ball_NN ._.
+The_DT phone_NN is_VBZ still_RB useful_JJ but_CC not_RB reliable_JJ ,_, because_IN if_IN the_DT phone_NN freezes_VBZ up_RP or_CC dies_VBZ one_PRP can_MD not_RB power_NN back_RB on_IN the_DT phone_NN without_IN a_DT power_NN cord_NN plugged_VBD into_IN it_PRP ._.
+Also_RB ,_, I_PRP have_VBP stopped_VBN using_VBG Groovie_NNP IP_NNP with_IN the_DT phone_NN I_PRP now_RB use_VBP talk-a-tone_JJ ._.

@@ -1,0 +1,38 @@
+=========
+
+nsubj(TV-6, This-1)
+cop(TV-6, was-2)
+det(TV-6, the-3)
+amod(TV-6, third-4)
+nn(TV-6, Samsung-5)
+root(ROOT-0, TV-6)
+complm(purchased-10, that-7)
+nsubj(purchased-10, I-8)
+aux(purchased-10, have-9)
+ccomp(TV-6, purchased-10)
+poss(home-13, our-12)
+prep_for(purchased-10, home-13)
+
+=========
+
+det(TV-2, This-1)
+nsubj(has-3, TV-2)
+root(ROOT-0, has-3)
+amod(picture-5, great-4)
+dobj(has-3, picture-5)
+amod(sound-8, good-7)
+dobj(has-3, sound-8)
+conj_and(picture-5, sound-8)
+det(model-13, a-10)
+number(&#34;-12, 32-11)
+num(model-13, &#34;-12)
+prep_for(picture-5, model-13)
+
+=========
+
+nsubj(love-2, We-1)
+root(ROOT-0, love-2)
+det(capability-5, the-3)
+amod(capability-5, internet-4)
+dobj(love-2, capability-5)
+

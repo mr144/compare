@@ -1,0 +1,6 @@
+Purchased_VBN from_IN Amazon_NNP on_IN 26_CD Dec_NNP 2011_CD and_CC it_PRP arrived_VBD via_IN Fedex_NNP on_IN 29_CD Dec._NN ._.
+No_DT damage_NN in_IN shipment_NN ._.
+Took_VBD 30_CD to_TO 45_CD minutes_NNS to_TO remove_VB from_IN packaging_NN and_CC set_VBD it_PRP up_RP ._.
+Picture_NNP and_CC sound_JJ quality_NN are_VBP comparable_JJ to_TO my_PRP$ 52_CD '_'' Sony_NNP Bravia_NNP KDL-52W3000_NNP which_WDT is_VBZ to_TO say_VB it_PRP is_VBZ excellent_JJ ._.
+If_IN you_PRP are_VBP considering_VBG the_DT purchase_NN of_IN an_DT entry_NN level_NN set_VBD this_DT unit_NN should_MD be_VB on_IN your_PRP$ short_JJ list_NN ._.
+If_IN by_IN chance_NN you_PRP purchase_VBP a_DT set_NN that_WDT is_VBZ damaged_JJ ,_, incomplete_JJ or_CC otherwise_RB unserviceable_JJ ,_, I_PRP would_MD highly_RB recommend_VB an_DT exchange_NN as_IN the_DT failure_NN rate_NN on_IN this_DT set_NN appears_VBZ to_TO be_VB quite_RB minimal_JJ ._.

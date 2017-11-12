@@ -1,0 +1,5 @@
+This_DT a_DT a_DT great_JJ camera_NN overall_NN ._.
+It_PRP has_VBZ some_DT good_JJ features_NNS like_IN the_DT Panorama_NNP ._.
+It_PRP is_VBZ a_DT little_RB slow_JJ between_IN taking_VBG pictures_NNS ._.
+Great_JJ camera_NN for_IN the_DT price_NN ._.
+It_PRP also_RB came_VBD with_IN rechargeable_JJ batteries_NNS and_CC charger_NN ._.

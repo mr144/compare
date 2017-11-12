@@ -1,0 +1,45 @@
+=========
+
+nn(picture-2, TV-1)
+nsubj(great-4, picture-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+det(SMARTHub-7, the-6)
+nsubj(works-8, SMARTHub-7)
+conj_and(great-4, works-8)
+advmod(anticipated-10, as-9)
+acomp(works-8, anticipated-10)
+
+=========
+
+nsubj(use-4, I-1)
+aux(use-4, do-2)
+neg(use-4, not-3)
+root(ROOT-0, use-4)
+nsubj(search-7, it-5)
+aux(search-7, to-6)
+xcomp(use-4, search-7)
+det(Web-9, the-8)
+dobj(search-7, Web-9)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+dobj(use-2, it-3)
+advmod(use-2, only-4)
+prep_for(use-2, Netflix-6)
+nn(Plus-9, Hulu-8)
+prep_for(use-2, Plus-9)
+conj_and(Netflix-6, Plus-9)
+nn(streaming-13, Amazon-12)
+prep_for(use-2, streaming-13)
+conj_and(Netflix-6, streaming-13)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+advmod(works-2, perfectly-3)
+prep_for(works-2, me-5)
+

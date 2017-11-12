@@ -1,0 +1,29 @@
+=========
+
+root(ROOT-0, good-1)
+advmod(fast-4, very-3)
+amod(comfort-6, fast-4)
+nn(comfort-6, processor-5)
+dep(good-1, comfort-6)
+aux(hold-8, to-7)
+infmod(comfort-6, hold-8)
+
+=========
+
+advmod(easy-2, very-1)
+root(ROOT-0, easy-2)
+aux(use-4, to-3)
+dep(easy-2, use-4)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+root(ROOT-0, its-1)
+det(deal-5, a-2)
+advmod(good-4, very-3)
+amod(deal-5, good-4)
+dep(its-1, deal-5)
+det(price-8, this-7)
+prep_for(deal-5, price-8)
+

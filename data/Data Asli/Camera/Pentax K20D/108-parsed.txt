@@ -1,0 +1,27 @@
+=========
+
+nsubj(easy-3, Everything-1)
+nsubj(painless-5, Everything-1)
+cop(easy-3, was-2)
+root(ROOT-0, easy-3)
+conj_and(easy-3, painless-5)
+
+=========
+
+nn(K20D-2, Pentax-1)
+nsubj(arrived-3, K20D-2)
+root(ROOT-0, arrived-3)
+dep(arrived-3, promptly-4)
+dep(arrived-3, in-6)
+conj_and(promptly-4, in-6)
+amod(condition-8, good-7)
+pobj(in-6, condition-8)
+
+=========
+
+amod(camera-3, Very-1)
+amod(camera-3, nice-2)
+root(ROOT-0, camera-3)
+advmod(far-5, so-4)
+dep(camera-3, far-5)
+

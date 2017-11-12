@@ -1,0 +1,48 @@
+=========
+
+amod(product-2, Great-1)
+root(ROOT-0, product-2)
+
+=========
+
+root(ROOT-0, Needs-1)
+det(tweaking-3, some-2)
+dobj(Needs-1, tweaking-3)
+prepc_before(Needs-1, getting-5)
+det(output-8, the-6)
+amod(output-8, best-7)
+dobj(getting-5, output-8)
+
+=========
+
+root(ROOT-0, Google-1)
+prt(Google-1, around-2)
+aux(get-4, to-3)
+xcomp(Google-1, get-4)
+amod(recommendations-6, different-5)
+dobj(get-4, recommendations-6)
+det(settings-9, the-8)
+prep_for(get-4, settings-9)
+amod(picture\/sound-12, high-quality-11)
+prep_for(settings-9, picture\/sound-12)
+
+=========
+
+nn(Seller-2, Great-1)
+root(ROOT-0, Seller-2)
+
+=========
+
+nsubj(arrived-2, Item-1)
+nsubj(matched-6, Item-1)
+root(ROOT-0, arrived-2)
+prep_on(arrived-2, time-4)
+conj_and(arrived-2, matched-6)
+det(description-8, the-7)
+nsubj(provided-9, description-8)
+ccomp(matched-6, provided-9)
+
+=========
+
+root(ROOT-0, Thanks-1)
+

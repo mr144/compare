@@ -1,0 +1,92 @@
+=========
+
+nsubj(had-3, I-1)
+nsubj(used-12, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, mine-4)
+quantmod(5-7, about-6)
+num(months-8, 5-7)
+prep_for(had-3, months-8)
+advmod(had-3, now-9)
+aux(used-12, have-11)
+conj_and(had-3, used-12)
+iobj(used-12, it-13)
+amod(times-15, SEVERAL-14)
+dobj(used-12, times-15)
+
+=========
+
+root(ROOT-0, Birthdays-1)
+appos(Birthdays-1, holidays-3)
+nn(sessions-7, fun-5)
+nn(sessions-7, photo-6)
+appos(holidays-3, sessions-7)
+
+=========
+
+advmod(takes-3, Sometimes-1)
+nsubj(takes-3, it-2)
+root(ROOT-0, takes-3)
+det(seconds-6, a-4)
+amod(seconds-6, few-5)
+nsubj(focus-8, seconds-6)
+aux(focus-8, to-7)
+xcomp(takes-3, focus-8)
+advmod(focus-8, clearly-9)
+mark(read-15, if-12)
+nsubj(read-15, you-13)
+nsubj(played-20, you-13)
+aux(read-15, have-14)
+advcl(easy-29, read-15)
+det(and-18, the-16)
+amod(and-18, manual-17)
+dobj(read-15, and-18)
+conj_or(read-15, played-20)
+advcl(easy-29, played-20)
+prt(played-20, around-21)
+det(settings-24, the-23)
+prep_with(played-20, settings-24)
+nsubj(easy-29, it-26)
+xsubj(figure-31, it-26)
+cop(easy-29, is-27)
+advmod(easy-29, fairly-28)
+conj_but(takes-3, easy-29)
+aux(figure-31, to-30)
+xcomp(easy-29, figure-31)
+prt(figure-31, out-32)
+
+=========
+
+nsubj(best-2, Works-1)
+root(ROOT-0, best-2)
+advmod('s-5, when-3)
+expl('s-5, there-4)
+dep(best-2, 's-5)
+nsubj('s-5, alot-6)
+prep_of(alot-6, light-8)
+dep(with-10, or-9)
+dep(best-2, with-10)
+det(flash-12, the-11)
+pobj(with-10, flash-12)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, really-2)
+root(ROOT-0, have-3)
+det(complaints-5, no-4)
+dobj(have-3, complaints-5)
+prep_about(complaints-5, it-7)
+
+=========
+
+nsubj(deal-5, It-1)
+cop(deal-5, 's-2)
+det(deal-5, an-3)
+amod(deal-5, excellent-4)
+root(ROOT-0, deal-5)
+det(camera-9, an-7)
+amod(camera-9, excellent-8)
+conj_and(deal-5, camera-9)
+

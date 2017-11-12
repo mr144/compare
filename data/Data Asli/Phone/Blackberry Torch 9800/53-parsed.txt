@@ -1,0 +1,90 @@
+=========
+
+nsubj(received-2, I-1)
+dep(comes-12, received-2)
+det(product-4, this-3)
+dobj(received-2, product-4)
+det(list-8, the-6)
+amod(list-8, complete-7)
+prep_with(received-2, list-8)
+prep_of(list-8, items-10)
+nsubj(comes-12, it-11)
+root(ROOT-0, comes-12)
+mark(said-17, as-14)
+nsubjpass(said-17, it-15)
+auxpass(said-17, was-16)
+prepc_with(comes-12, said-17)
+
+=========
+
+advmod(awesome-7, So-1)
+advmod(So-1, far-2)
+det(phone-5, this-4)
+nsubj(awesome-7, phone-5)
+cop(awesome-7, is-6)
+root(ROOT-0, awesome-7)
+nsubj(making-11, I-9)
+aux(making-11, am-10)
+conj_and(awesome-7, making-11)
+amod(use-13, good-12)
+dobj(making-11, use-13)
+prep_of(use-13, it-15)
+det(items-20, the-18)
+amod(items-20, additional-19)
+prep_along_with(making-11, items-20)
+
+=========
+
+nsubjpass(UNLOCKED-4, It-1)
+auxpass(UNLOCKED-4, was-2)
+advmod(UNLOCKED-4, definitely-3)
+root(ROOT-0, UNLOCKED-4)
+mark(able-8, so-5)
+nsubj(able-8, I-6)
+cop(able-8, am-7)
+advcl(UNLOCKED-4, able-8)
+aux(use-10, to-9)
+xcomp(able-8, use-10)
+dobj(use-10, it-11)
+poss(carrier-15, my-13)
+nn(carrier-15, service-14)
+prep_with(use-10, carrier-15)
+
+=========
+
+nsubj(sure-4, I-1)
+cop(sure-4, am-2)
+neg(sure-4, not-3)
+root(ROOT-0, sure-4)
+nsubj(say-8, what-5)
+advmod(say-8, else-6)
+aux(say-8, to-7)
+dep(sure-4, say-8)
+det(product-11, this-10)
+prep_about(say-8, product-11)
+advmod(works-17, overall-14)
+nsubj(works-17, it-16)
+conj_but(sure-4, works-17)
+advmod(works-17, perfectly-18)
+
+=========
+
+advmod(came-4, Also-1)
+nsubj(came-4, it-3)
+root(ROOT-0, came-4)
+prep_on(came-4, time-6)
+
+=========
+
+advmod(arrived-4, Actually-1)
+nsubj(arrived-4, it-3)
+root(ROOT-0, arrived-4)
+dobj(arrived-4, EARLIER-5)
+mark(expected-8, than-6)
+nsubj(expected-8, I-7)
+advcl(arrived-4, expected-8)
+
+=========
+
+root(ROOT-0, Thanks-1)
+

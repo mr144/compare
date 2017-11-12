@@ -1,0 +1,43 @@
+=========
+
+advmod(purchased-3, When-1)
+nsubj(purchased-3, I-2)
+advcl(promising-11, purchased-3)
+poss(4G-6, my-4)
+nn(4G-6, Atrix-5)
+dobj(purchased-3, 4G-6)
+prep_in(purchased-3, 2011-8)
+nsubj(promising-11, Motorola-9)
+aux(promising-11, was-10)
+root(ROOT-0, promising-11)
+dobj(promising-11, upgrades-12)
+num(Months-15, 18-14)
+prep_for(upgrades-12, Months-15)
+
+=========
+
+prep_in(announced-5, Oct-2)
+num(Oct-2, 2012-3)
+nsubj(announced-5, Motorola-4)
+root(ROOT-0, announced-5)
+nsubj(upgrade-9, they-6)
+aux(upgrade-9, will-7)
+neg(upgrade-9, not-8)
+ccomp(announced-5, upgrade-9)
+det(Atrix-11, the-10)
+dobj(upgrade-9, Atrix-11)
+num(Atrix-11, 4G-12)
+
+=========
+
+nsubj(suggest-3, I-1)
+aux(suggest-3, would-2)
+root(ROOT-0, suggest-3)
+xcomp(suggest-3, looking-4)
+det(phone-8, a-6)
+amod(phone-8, different-7)
+prep_at(looking-4, phone-8)
+det(manufacturer-12, a-10)
+amod(manufacturer-12, different-11)
+prep_by(looking-4, manufacturer-12)
+

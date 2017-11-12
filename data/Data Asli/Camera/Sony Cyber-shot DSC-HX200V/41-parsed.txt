@@ -1,0 +1,27 @@
+=========
+
+nsubj(liked-2, I-1)
+root(ROOT-0, liked-2)
+dobj(liked-2, it-3)
+mark(easy-7, as-4)
+nsubj(easy-7, it-5)
+nsubj(friendly-12, it-5)
+cop(easy-7, is-6)
+advcl(liked-2, easy-7)
+aux(handle-9, to-8)
+xcomp(easy-7, handle-9)
+dep(friendly-12, user-11)
+advcl(liked-2, friendly-12)
+conj_and(easy-7, friendly-12)
+
+=========
+
+advmod(night-2, Only-1)
+tmod(requires-7, night-2)
+nn(range-5, time-3)
+amod(range-5, long-4)
+nsubj(requires-7, range-5)
+advmod(requires-7, clarity-6)
+root(ROOT-0, requires-7)
+dobj(requires-7, attention-8)
+

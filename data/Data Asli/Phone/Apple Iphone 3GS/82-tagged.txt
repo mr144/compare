@@ -1,0 +1,2 @@
+I_PRP think_VBP this_DT smartphone_NN is_VBZ better_JJR than_IN LG_NNP ,_, Samsung_NNP ,_, blackberry_NN or_CC sony_NN ._.
+It_PRP has_VBZ better_JJR design_NN ,_, better_JJR camera_NN ,_, better_JJR processor_NN than_IN any_DT other_JJ phone_NN ._.

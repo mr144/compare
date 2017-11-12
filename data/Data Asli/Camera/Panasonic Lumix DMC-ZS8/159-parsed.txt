@@ -1,0 +1,49 @@
+=========
+
+root(ROOT-0, Excellent-1)
+dobj(Excellent-1, pictures-2)
+dobj(Excellent-1, videos-4)
+conj_and(pictures-2, videos-4)
+
+=========
+
+nn(featureA-3, Great-1)
+nn(featureA-3, zoom-2)
+root(ROOT-0, featureA-3)
+advmod(complicated-5, little-4)
+amod(featureA-3, complicated-5)
+aux(use-7, to-6)
+xcomp(complicated-5, use-7)
+advmod(on-10, when-8)
+neg(on-10, not-9)
+advcl(use-7, on-10)
+amod(features-12, automatic-11)
+pobj(on-10, features-12)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+complm(included-5, that-3)
+nsubj(included-5, Panasonic-4)
+ccomp(wish-2, included-5)
+det(manual-8, a-6)
+amod(manual-8, printed-7)
+dobj(included-5, manual-8)
+det(box-11, the-10)
+prep_in(manual-8, box-11)
+prepc_instead_of(box-11, having-14)
+aux(go-16, to-15)
+xcomp(having-14, go-16)
+xcomp(having-14, go-16')
+conj_and(go-16, go-16')
+det(diskA-19, the-18)
+prep_to(go-16, diskA-19)
+advmod(expensive-22, little-20)
+advmod(expensive-22, more-21)
+amod(diskA-19, expensive-22)
+prep(diskA-19, then-23)
+poss(competitors-25, its-24)
+pobj(then-23, competitors-25)
+prep_worth(go-16', it-29)
+

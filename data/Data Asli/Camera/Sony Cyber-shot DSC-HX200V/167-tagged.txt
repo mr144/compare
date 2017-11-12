@@ -1,0 +1,2 @@
+I_PRP hade_VBP 2_CD years_NNS the_DT HX-100_NNP Model_NNP ,_, and_CC 2_CD months_NNS ago_IN I_PRP upgraded_VBD it_PRP to_TO the_DT new_JJ HX-200_NNP one_CD ._.
+Doing_VBG its_PRP$ jobe_NN fantastic_JJ ._.

@@ -1,0 +1,37 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, terrific-4)
+root(ROOT-0, camera-5)
+nsubj(has-7, camera-5)
+nsubj(easy-16, camera-5)
+rcmod(camera-5, has-7)
+det(bells-10, all-8)
+det(bells-10, the-9)
+dobj(has-7, bells-10)
+dobj(has-7, whistles-12)
+conj_and(bells-10, whistles-12)
+cop(easy-16, is-15)
+rcmod(camera-5, easy-16)
+conj_yet(has-7, easy-16)
+aux(operate-18, to-17)
+xcomp(easy-16, operate-18)
+advmod(friendly-22, very-20)
+advmod(friendly-22, user-21)
+conj_yet(has-7, friendly-22)
+conj_and(easy-16, friendly-22)
+
+=========
+
+det(price-2, The-1)
+nsubj(fantastic-4, price-2)
+nsubj(blows-6, price-2)
+cop(fantastic-4, is-3)
+root(ROOT-0, fantastic-4)
+conj_and(fantastic-4, blows-6)
+advmod(fantastic-4, away-7)
+det(competition-9, the-8)
+pobj(away-7, competition-9)
+

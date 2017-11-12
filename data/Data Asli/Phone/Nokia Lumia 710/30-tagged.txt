@@ -1,0 +1,2 @@
+The_DT item_NN -LRB-_-LRB- product_NN -RRB-_-RRB- was_VBD the_DT same_JJ as_IN the_DT description_NN of_IN it_PRP ._.
+Please_VB review_NN other_JJ customers_NNS comments_NNS to_TO have_VB more_JJR info_NN ._.

@@ -1,0 +1,36 @@
+=========
+
+mark(smart-7, If-1)
+det(tv-4, the-2)
+amod(tv-4, damn-3)
+nsubj(smart-7, tv-4)
+cop(smart-7, was-5)
+advmod(smart-7, so-6)
+advcl(plug-11, smart-7)
+nsubj(plug-11, you-9)
+aux(plug-11, should-10)
+root(ROOT-0, plug-11)
+dobj(plug-11, it-12)
+prep(plug-11, in-13)
+nsubj(works-16, it-15)
+conj_and(plug-11, works-16)
+
+=========
+
+advmod(old-school-4, Maybe-1)
+nsubj(old-school-4, I-2)
+cop(old-school-4, am-3)
+root(ROOT-0, old-school-4)
+det(picture-8, the-7)
+nsubj(concern-15, picture-8)
+nsubj(good-19, picture-8)
+conj_and(picture-8, audio-10)
+nsubj(concern-15, audio-10)
+nsubj(good-19, audio-10)
+cop(concern-15, was-13)
+det(concern-15, a-14)
+rcmod(picture-8, concern-15)
+cop(good-19, is-17)
+advmod(good-19, very-18)
+conj_but(old-school-4, good-19)
+

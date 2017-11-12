@@ -1,0 +1,36 @@
+=========
+
+nsubjpass(satisfied-4, I-1)
+auxpass(satisfied-4, am-2)
+neg(satisfied-4, not-3)
+root(ROOT-0, satisfied-4)
+det(purchase-7, this-6)
+prep_with(satisfied-4, purchase-7)
+
+=========
+
+det(screen-2, The-1)
+nsubj(inch-5, screen-2)
+cop(inch-5, is-3)
+num(inch-5, 18.5-4)
+root(ROOT-0, inch-5)
+prep_instead_of(inch-5, 19-8)
+
+=========
+
+det(sound-2, The-1)
+nsubj(poor-5, sound-2)
+cop(poor-5, is-3)
+advmod(poor-5, very-4)
+root(ROOT-0, poor-5)
+advmod(small-13, otherwise-7)
+det(TV-10, the-9)
+nsubj(small-13, TV-10)
+cop(small-13, is-11)
+advmod(small-13, very-12)
+conj_and(poor-5, small-13)
+advmod(compared-15, when-14)
+advcl(small-13, compared-15)
+det(19-18, a-17)
+prep_with(compared-15, 19-18)
+

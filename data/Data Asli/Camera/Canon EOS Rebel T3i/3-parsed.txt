@@ -1,0 +1,38 @@
+=========
+
+nsubj(working-3, Camera-1)
+aux(working-3, was-2)
+root(ROOT-0, working-3)
+acomp(working-3, fine-4)
+det(week-7, this-6)
+nsubj(stopped-8, week-7)
+conj_but(working-3, stopped-8)
+nn(ups-11, recording-9)
+nn(ups-11, close-10)
+dobj(stopped-8, ups-11)
+nn(images-14, zoomedin-13)
+dobj(stopped-8, images-14)
+conj_or(ups-11, images-14)
+
+=========
+
+advmod(waiting-2, Still-1)
+csubj(support-5, waiting-2)
+prep_for(waiting-2, Canon-4)
+root(ROOT-0, support-5)
+aux(respond-7, to-6)
+xcomp(support-5, respond-7)
+
+=========
+
+advmod(difficult-2, Extremely-1)
+ccomp(manualsleave-6, difficult-2)
+amod(the-5, as-4)
+nsubj(manualsleave-6, the-5)
+root(ROOT-0, manualsleave-6)
+det(lot-8, a-7)
+nsubj(desired-11, lot-8)
+aux(desired-11, to-9)
+cop(desired-11, be-10)
+xcomp(manualsleave-6, desired-11)
+

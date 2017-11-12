@@ -1,0 +1,43 @@
+=========
+
+nsubj(order-2, I-1)
+ccomp(want-10, order-2)
+det(phone-4, this-3)
+dobj(order-2, phone-4)
+poss(son-7, my-6)
+prep_for(phone-4, son-7)
+nsubj(want-10, he-9)
+root(ROOT-0, want-10)
+nn(nothing-12, use-11)
+dobj(want-10, nothing-12)
+advmod(want-10, but-13)
+
+=========
+
+nn(Nokia-2, A-1)
+root(ROOT-0, Nokia-2)
+
+=========
+
+nsubj(happy-5, He-1)
+cop(happy-5, s-3)
+advmod(happy-5, very-4)
+root(ROOT-0, happy-5)
+det(graphics-8, the-7)
+prep_with(happy-5, graphics-8)
+det(specifics-11, the-10)
+prep_with(happy-5, specifics-11)
+conj_and(graphics-8, specifics-11)
+det(phone-14, the-13)
+prep_of(specifics-11, phone-14)
+
+=========
+
+nsubj(heard-4, I-1)
+aux(heard-4, have-2)
+neg(heard-4, not-3)
+root(ROOT-0, heard-4)
+dep(bad-6, anything-5)
+acomp(heard-4, bad-6)
+advmod(heard-4, yet-7)
+

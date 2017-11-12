@@ -1,0 +1,31 @@
+=========
+
+det(camera-2, This-1)
+nsubj(great-4, camera-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+nsubj(do-3, It-1)
+aux(do-3, can-2)
+root(ROOT-0, do-3)
+advmod(many-5, so-4)
+amod(things-6, many-5)
+dobj(do-3, things-6)
+nsubj(worth-11, it-8)
+cop(worth-11, is-9)
+advmod(worth-11, well-10)
+conj_and(do-3, worth-11)
+det(money-13, the-12)
+attr(worth-11, money-13)
+nsubj(seems-15, It-14)
+rcmod(money-13, seems-15)
+mark(cost-19, like-16)
+nsubj(cost-19, it-17)
+aux(cost-19, should-18)
+advcl(seems-15, cost-19)
+advmod(price-22, twice-20)
+det(price-22, the-21)
+dobj(cost-19, price-22)
+

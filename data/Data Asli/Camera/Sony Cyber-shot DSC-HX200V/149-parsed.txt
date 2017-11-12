@@ -1,0 +1,156 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(cameral-4, this-3)
+dobj(bought-2, cameral-4)
+poss(wife-7, my-6)
+prep_for(bought-2, wife-7)
+prep_before(bought-2, Christmas-9)
+
+=========
+
+advmod(delighted-5, So-1)
+advmod(So-1, far-2)
+nsubj(delighted-5, she-3)
+cop(delighted-5, is-4)
+root(ROOT-0, delighted-5)
+prep_with(delighted-5, it-7)
+
+=========
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+advmod(was-2, down-3)
+det(camera-6, this-5)
+prep_to(was-2, camera-6)
+det(SX50-10, the-8)
+nn(SX50-10, Canon-9)
+prep_to(was-2, SX50-10)
+conj_or(camera-6, SX50-10)
+
+=========
+
+nsubj(looking-3, We-1)
+aux(looking-3, were-2)
+root(ROOT-0, looking-3)
+nn(features-8, point-5)
+conj_and(point-5, shoot-7)
+nn(features-8, shoot-7)
+prep_for(looking-3, features-8)
+prepc_while(looking-3, adding-10)
+det(flexability-13, some-11)
+amod(flexability-13, more-12)
+dobj(adding-10, flexability-13)
+
+=========
+
+nsubj(sure-3, I-1)
+cop(sure-3, am-2)
+root(ROOT-0, sure-3)
+complm(happy-9, that-4)
+nsubj(happy-9, we-5)
+aux(happy-9, would-6)
+aux(happy-9, have-7)
+cop(happy-9, been-8)
+ccomp(sure-3, happy-9)
+prep(happy-9, with-10)
+pcomp(with-10, either-11)
+
+=========
+
+num(I-3, One-1)
+nn(I-3, reason-2)
+nsubj(liked-4, I-3)
+root(ROOT-0, liked-4)
+det(Sony-6, the-5)
+nsubj(lens-11, Sony-6)
+cop(lens-11, was-7)
+det(lens-11, the-8)
+nn(lens-11, Carl-9)
+nn(lens-11, Zeiss-10)
+ccomp(liked-4, lens-11)
+det(screen-16, the-13)
+amod(screen-16, larger-14)
+nn(screen-16, lcd-15)
+ccomp(liked-4, screen-16)
+conj_and(lens-11, screen-16)
+
+=========
+
+det(lens-3, The-1)
+amod(lens-3, longer-2)
+nsubj(features-10, lens-3)
+amod(shoe-7, external-5)
+nn(shoe-7, flash-6)
+conj_and(lens-3, shoe-7)
+nsubj(features-10, shoe-7)
+cop(features-10, were-8)
+amod(features-10, attractive-9)
+root(ROOT-0, features-10)
+det(Canon-13, the-12)
+prep_on(features-10, Canon-13)
+
+=========
+
+nsubj(shot-2, We-1)
+root(ROOT-0, shot-2)
+dobj(shot-2, lots-3)
+amod(pics-6, indoor-5)
+prep_of(lots-3, pics-6)
+det(holidays-9, the-8)
+prep_during(shot-2, holidays-9)
+det(camera-12, the-11)
+nsubj(takes-13, camera-12)
+conj_and(shot-2, takes-13)
+advmod(nice-15, really-14)
+amod(pictures-17, nice-15)
+nn(pictures-17, flash-16)
+dobj(takes-13, pictures-17)
+prepc_without(takes-13, washing-19)
+prt(washing-19, out-20)
+dobj(washing-19, subjects-21)
+
+=========
+
+csubj(outdoors-7, Looking-1)
+prt(Looking-1, forward-2)
+prepc_to(Looking-1, playing-4)
+prep_with(playing-4, it-6)
+root(ROOT-0, outdoors-7)
+
+=========
+
+aux(had-2, Have-1)
+root(ROOT-0, had-2)
+det(trouble-4, some-3)
+dobj(had-2, trouble-4)
+xcomp(had-2, interpreting-5)
+amod(modes-7, shooting-6)
+dobj(interpreting-5, modes-7)
+det(manual-11, the-9)
+amod(manual-11, online-10)
+prep_from(interpreting-5, manual-11)
+
+=========
+
+advmod(issues-6, Probably-1)
+det(curve-5, some-2)
+nn(curve-5, operator-3)
+nn(curve-5, learning-4)
+nsubj(issues-6, curve-5)
+root(ROOT-0, issues-6)
+advmod(issues-6, there-7)
+
+=========
+
+advmod(pleased-6, Overall-1)
+nsubj(pleased-6, we-2)
+aux(pleased-6, have-3)
+cop(pleased-6, been-4)
+advmod(pleased-6, very-5)
+root(ROOT-0, pleased-6)
+det(HX200X-10, the-8)
+nn(HX200X-10, Sony-9)
+prep_with(pleased-6, HX200X-10)
+

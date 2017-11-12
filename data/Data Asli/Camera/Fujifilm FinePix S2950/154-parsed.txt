@@ -1,0 +1,35 @@
+=========
+
+det(camera-2, This-1)
+nsubj(good-5, camera-2)
+cop(good-5, is-3)
+advmod(good-5, really-4)
+root(ROOT-0, good-5)
+det(lot-8, a-7)
+attr(good-5, lot-8)
+prep_of(lot-8, features-10)
+prep_of(lot-8, easy-12)
+amod(features-10, easy-12)
+conj_and(features-10, easy-12)
+aux(use-14, to-13)
+xcomp(easy-12, use-14)
+prep_of(lot-8, luxurious-16)
+conj_and(features-10, luxurious-16)
+prep_of(lot-8, nice-18)
+conj_and(features-10, nice-18)
+partmod(nice-18, looking-19)
+amod(price-23, good-22)
+conj_and(features-10, price-23)
+conj_and(nice-18, price-23)
+advmod(price-23, also-24)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, GE-6)
+prep_than(better-4, coolpix-8)
+conj_or(GE-6, coolpix-8)
+

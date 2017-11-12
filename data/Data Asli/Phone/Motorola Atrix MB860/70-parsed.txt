@@ -1,0 +1,104 @@
+=========
+
+nsubj(am-2, I-1)
+root(ROOT-0, am-2)
+prep_from(am-2, Australia-4)
+
+=========
+
+aux(read-2, Having-1)
+dep(bought-10, read-2)
+det(lot-4, a-3)
+dobj(read-2, lot-4)
+amod(reviews-7, good-6)
+prep_of(lot-4, reviews-7)
+advmod(read-2, here-8)
+root(ROOT-0, bought-10)
+dobj(bought-10, one-11)
+prep_from(bought-10, ebay-13)
+
+=========
+
+prepc_after(saw-8, using-2)
+quantmod(six-4, about-3)
+num(months-5, six-4)
+tmod(using-2, months-5)
+nsubj(saw-8, I-7)
+root(ROOT-0, saw-8)
+det(workmate-10, a-9)
+dobj(saw-8, workmate-10)
+xcomp(saw-8, using-11)
+det(phone-13, the-12)
+dobj(using-11, phone-13)
+
+=========
+
+nsubj(asked-2, I-1)
+root(ROOT-0, asked-2)
+dobj(asked-2, him-3)
+advmod(going-7, how-4)
+nsubj(going-7, it-5)
+aux(going-7, was-6)
+dep(asked-2, going-7)
+
+=========
+
+nsubj(said-2, He-1)
+root(ROOT-0, said-2)
+nn(screen-4, touch-3)
+nsubj(is-5, screen-4)
+ccomp(said-2, is-5)
+nsubj(about-11, ked-7)
+xsubj(chuck-13, ked-7)
+conj_and(ked-7, he-9)
+nsubj(about-11, he-9)
+xsubj(chuck-13, he-9)
+aux(about-11, was-10)
+parataxis(said-2, about-11)
+aux(chuck-13, to-12)
+xcomp(about-11, chuck-13)
+det(bin-16, the-15)
+prep_in(chuck-13, bin-16)
+
+=========
+
+dep(start-6, Not-1)
+advmod(after-3, long-2)
+dep(Not-1, after-3)
+nsubj(start-6, I-5)
+root(ROOT-0, start-6)
+xcomp(start-6, getting-7)
+dobj(getting-7, problems-8)
+det(screen-11, the-10)
+prep_with(getting-7, screen-11)
+
+=========
+
+advmod(throw-3, Now-1)
+nsubj(throw-3, I-2)
+nsubj(get-7, I-2)
+root(ROOT-0, throw-3)
+dobj(throw-3, it-4)
+prt(throw-3, away-5)
+conj_and(throw-3, get-7)
+det(phone-10, a-8)
+amod(phone-10, new-9)
+dobj(get-7, phone-10)
+
+=========
+
+det(techaician-2, A-1)
+nsubj(says-3, techaician-2)
+root(ROOT-0, says-3)
+nsubjpass(damaged-6, digitizer-4)
+nsubj(cost-9, digitizer-4)
+auxpass(damaged-6, is-5)
+ccomp(says-3, damaged-6)
+aux(cost-9, would-8)
+ccomp(says-3, cost-9)
+conj_and(damaged-6, cost-9)
+nsubj(aboout-11, me-10)
+ccomp(cost-9, aboout-11)
+dobj(aboout-11, $-12)
+num($-12, 150-13)
+

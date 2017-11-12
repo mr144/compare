@@ -1,0 +1,57 @@
+=========
+
+root(ROOT-0, Gave-1)
+dobj(Gave-1, this-2)
+det(gift-5, a-4)
+prep_as(this-2, gift-5)
+poss(son-8, my-7)
+poss(girlfriend-10, son-8)
+prep_to(Gave-1, girlfriend-10)
+
+=========
+
+nsubj(loves-2, She-1)
+root(ROOT-0, loves-2)
+dobj(loves-2, it-3)
+
+=========
+
+nsubj(wears-2, She-1)
+root(ROOT-0, wears-2)
+det(batteries-4, the-3)
+dobj(wears-2, batteries-4)
+prt(wears-2, out-5)
+prep_on(wears-2, it-7)
+advmod(quickly-9, very-8)
+advmod(is-12, quickly-9)
+advmod(is-12, when-10)
+nsubj(is-12, she-11)
+xsubj(visit-16, she-11)
+dep(wears-2, is-12)
+prep_in(is-12, town-14)
+aux(visit-16, to-15)
+xcomp(is-12, visit-16)
+
+=========
+
+nsubj(live-2, They-1)
+root(ROOT-0, live-2)
+prep_out_of(live-2, state-5)
+
+=========
+
+advmod(worth-6, So-1)
+nsubj(worth-6, it-3)
+cop(worth-6, was-4)
+advmod(worth-6, well-5)
+root(ROOT-0, worth-6)
+xcomp(worth-6, seeing-7)
+nsubj(happy-9, her-8)
+xcomp(seeing-7, happy-9)
+
+=========
+
+root(ROOT-0, Thank-1)
+nsubj(Amazon-3, You-2)
+xcomp(Thank-1, Amazon-3)
+

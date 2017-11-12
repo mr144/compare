@@ -1,0 +1,8 @@
+I_PRP love_VBP this_DT phone_NN ._.
+At_IN the_DT price_NN i_FW paid_VBN ,_, it_PRP is_VBZ a_DT superbuy_NN ._.
+It_PRP works_VBZ great_JJ ._.
+sometimes_RB the_DT speaker_NN is_VBZ not_RB very_RB clear_JJ ._.
+otherwise_RB ,_, it_PRP is_VBZ a_DT great_JJ phone_NN ._.
+Bluetooth_NNP ,_, wi-fi_NN ,_, camera_NN ,_, sharing_NN ,_, all_PDT the_DT bells_NNS and_CC whistles_NNS work_VBP great_JJ ._.
+and_CC yes_RB ,_, the_DT android_NN processor_NN is_VBZ excellent_JJ too_RB ._.
+i_FW would_MD recommend_VB this_DT phone_NN to_TO anyone_NN ._.

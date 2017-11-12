@@ -1,0 +1,122 @@
+=========
+
+det(cellphone-2, This-1)
+nsubj(good-5, cellphone-2)
+cop(good-5, is-3)
+advmod(good-5, really-4)
+root(ROOT-0, good-5)
+det(price-8, this-7)
+prep_for(good-5, price-8)
+nsubj(bought-11, I-10)
+conj_and(good-5, bought-11)
+dobj(bought-11, it-12)
+num(months-14, 2-13)
+npadvmod(ago-15, months-14)
+advmod(bought-11, ago-15)
+nsubjpass(satisfied-20, I-17)
+auxpass(satisfied-20, am-18)
+advmod(satisfied-20, totally-19)
+conj_and(good-5, satisfied-20)
+poss(purchase-23, my-22)
+prep_with(satisfied-20, purchase-23)
+
+=========
+
+det(system-2, The-1)
+nsubj(fast-4, system-2)
+nsubj(nice-7, system-2)
+cop(fast-4, is-3)
+root(ROOT-0, fast-4)
+advmod(nice-7, looks-6)
+conj_and(fast-4, nice-7)
+advmod(fast-4, specially-9)
+conj_and(fast-4, specially-9)
+advmod(red-11, in-10)
+dep(fast-4, red-11)
+dep(fast-4, brightness-13)
+conj_and(red-11, brightness-13)
+prep_on(red-11, MID-15)
+
+=========
+
+nn(Drive-2, Nokia-1)
+nsubj(nice-5, Drive-2)
+cop(nice-5, is-3)
+advmod(nice-5, really-4)
+ccomp(looks-13, nice-5)
+det(way-8, the-7)
+nsubj(looks-13, way-8)
+aux(manage-10, to-9)
+infmod(way-8, manage-10)
+poss(contacts-12, your-11)
+dobj(manage-10, contacts-12)
+root(ROOT-0, looks-13)
+advmod(designed-15, well-14)
+acomp(looks-13, designed-15)
+
+=========
+
+nsubj(a-4, I-1)
+cop(a-4, am-2)
+advmod(a-4, also-3)
+root(ROOT-0, a-4)
+
+=========
+
+nsubj(programmer-2, NET-1)
+nsubj(learn-4, NET-1)
+root(ROOT-0, programmer-2)
+conj_and(programmer-2, learn-4)
+prep_to(programmer-2, program-6)
+mark(easy-12, for-7)
+det(phone-9, this-8)
+nsubj(easy-12, phone-9)
+aux(easy-12, has-10)
+cop(easy-12, been-11)
+advcl(programmer-2, easy-12)
+
+=========
+
+nsubj(has-2, it-1)
+root(ROOT-0, has-2)
+det(lot-4, a-3)
+dobj(has-2, lot-4)
+prep_of(lot-4, potential-6)
+nsubj(recommend-11, I-8)
+aux(recommend-11, can-9)
+advmod(recommend-11, highly-10)
+conj_and(has-2, recommend-11)
+det(phone-13, this-12)
+dobj(recommend-11, phone-13)
+prep_to(recommend-11, everyone-15)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(Iphone-4, an-3)
+dobj(had-2, Iphone-4)
+num(Iphone-4, 4-5)
+advmod(had-2, before-6)
+det(cellphone-9, this-8)
+nsubj(better-11, cellphone-9)
+cop(better-11, is-10)
+conj_and(had-2, better-11)
+
+=========
+
+root(ROOT-0, Also-1)
+dep(Also-1, as-2)
+det(note-4, a-3)
+pobj(as-2, note-4)
+nsubj(cellphone-6, this-5)
+rcmod(note-4, cellphone-6)
+nsubj(unlocked-10, it-7)
+cop(unlocked-10, is-8)
+advmod(unlocked-10, totally-9)
+ccomp(cellphone-6, unlocked-10)
+advmod(working-13, currently-12)
+dep(note-4, working-13)
+nn(Mexico-16, TELCEL-15)
+prep_with(working-13, Mexico-16)
+

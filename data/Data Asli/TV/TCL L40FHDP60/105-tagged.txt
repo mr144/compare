@@ -1,0 +1,4 @@
+Picture_NNP quality_NN fair_NN at_IN best_JJS ._.
+Probably_RB too_RB much_JJ screen_NN for_IN 60hz_CD ._.
+No_DT published_VBN codes_NNS for_IN remote_JJ but_CC yes_RB some_DT RCA_NNP codes_NNS work_VBP well_RB ._.
+For_IN price_NN ,_, it_PRP is_VBZ not_RB bad_JJ ,_, just_RB not_RB very_RB good_JJ -LRB-_-LRB- picture_NN quality_NN lacks_VBZ depth_NN --_: which_WDT is_VBZ why_WRB you_PRP get_VBP an_DT `_`` HD_NNP '_POS TV_NN -RRB-_-RRB- ._.

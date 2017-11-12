@@ -1,0 +1,17 @@
+=========
+
+det(worst-2, the-1)
+nsubj(smartphone-3, worst-2)
+root(ROOT-0, smartphone-3)
+complm(seen-7, that-4)
+nsubj(seen-7, i-5)
+advmod(seen-7, ever-6)
+ccomp(smartphone-3, seen-7)
+
+=========
+
+det(toy-3, a-2)
+prep_like(sorry-7, toy-3)
+prep_for(toy-3, me-5)
+root(ROOT-0, sorry-7)
+

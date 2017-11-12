@@ -1,0 +1,29 @@
+=========
+
+det(telephone-2, The-1)
+nsubj(excellent-4, telephone-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+advmod(me-9, alone-7)
+det(me-9, this-8)
+nsubj(came-10, me-9)
+conj_but(excellent-4, came-10)
+det(loader-13, the-12)
+prep_with(come-21, loader-13)
+det(type-16, another-15)
+nsubj(come-21, type-16)
+prep_of(type-16, accessories-18)
+aux(come-21, did-19)
+neg(come-21, not-20)
+ccomp(came-10, come-21)
+prep_with(come-21, anything-23)
+
+=========
+
+prepc_because_of(give-5, of-2)
+pobj(give-5, it-3)
+nsubj(give-5, I-4)
+root(ROOT-0, give-5)
+iobj(give-5, him-6)
+dobj(give-5, four-7)
+

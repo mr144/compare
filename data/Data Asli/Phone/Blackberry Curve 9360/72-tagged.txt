@@ -1,0 +1,2 @@
+I_PRP want_VBP to_TO know_VB if_IN this_DT cell_NN phone_NN works_VBZ with_IN the_DT bands_NNS 3G_NNP 850\/1900\/2100_CD ,_, and_CC if_IN it_PRP function_VBP in_IN venezuela_NN with_IN movistar_NN and_CC movilnet_NN ._. ._.
+wait_VB your_PRP$ answer_NN ._.

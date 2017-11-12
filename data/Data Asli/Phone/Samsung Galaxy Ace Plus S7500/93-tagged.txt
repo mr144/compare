@@ -1,0 +1,3 @@
+This_DT phone_NN is_VBZ excellent_JJ !_.
+I_PRP bought_VBD it_PRP as_IN a_DT present_NN for_IN my_PRP$ wife_NN and_CC she_PRP loves_VBZ it_PRP ._.
+I_PRP definitely_RB recommend_VBP it_PRP !_.

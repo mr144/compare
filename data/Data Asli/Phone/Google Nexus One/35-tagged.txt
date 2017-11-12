@@ -1,0 +1,10 @@
+I_PRP purchased_VBD Google_NNP Nexus_NNP One_CD Unlocked_NNP Phone_NNP with_IN Android_NNP --_: U.S._NNP Warranty_NNP -LRB-_-LRB- Brown_NNP -RRB-_-RRB- on_IN 19March2012_NNP ._.
+Contacted_VBN HTC_NNP when_WRB I_PRP noticed_VBD that_DT box_NN was_VBD open_JJ ,_, and_CC charger_NN was_VBD not_RB for_IN the_DT U.S._NNP and_CC that_DT someone_NN had_VBD added_VBN an_DT adapter_NN for_IN U.S._NNP HTC_NNP informed_VBD me_PRP that_IN my_PRP$ IMEI_NNP number_NN matched_VBD a_DT U.K._NNP phone_NN ,_, and_CC that_IN any_DT U.S._NNP warranty_NN expired_VBD 11April2012_NNP ._.
+Contacted_VBN UnlockedCellPhoneKings_NNS and_CC was_VBD told_VBN that_IN `_`` We_PRP have_VBP a_DT 90_CD day_NN warranty_NN covering_VBG any_DT manufacturer_NN defects_NNS or_CC problems_NNS with_IN the_DT device_NN ._.
+The_DT listing_NN never_RB advertised_VBD a_DT 1_CD year_NN manufacturer_NN warranty_NN ._.
+Amazon_NNP actually_RB creates_VBZ the_DT listings_NNS themselves_PRP so_IN they_PRP are_VBP fully_RB aware_JJ of_IN it_PRP ._.
+Everything_NNP is_VBZ posted_VBN accurately_RB ._. '_''
+This_DT is_VBZ certainly_RB not_RB the_DT expectation_NN of_IN any_DT reasonable_JJ person_NN who_WP purchases_VBZ a_DT `_`` new_JJ '_'' electronic_JJ device_NN ._.
+They_PRP did_VBD offer_NN to_TO refund_VB ,_, but_CC this_DT is_VBZ a_DT token_JJ gesture_NN to_TO placate_VB an_DT angry_JJ individual_NN that_WDT has_VBZ been_VBN scammed_VBN ._.
+Shame_NN on_IN Amazon_NNP and_CC shame_NN on_IN UnlockedCellPhoneKings_NNS ._.
+It_PRP seems_VBZ Amazon_NNP has_VBZ joined_VBN the_DT race_NN to_TO the_DT bottom_NN and_CC will_MD soon_RB exceed_VB the_DT expectations_NNS of_IN users_NNS of_IN EBay_NNP and_CC Craiglist_NNP that_IN they_PRP will_MD be_VB cheated_VBN ._.

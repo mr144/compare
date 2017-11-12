@@ -1,0 +1,6 @@
+It_PRP 's_VBZ not_RB a_DT SONY_NNP ._.
+But_CC ,_, for_IN $_$ 179_CD it_PRP has_VBZ a_DT good_JJ picture_NN and_CC adequate_JJ sound_NN ._.
+The_DT menu_NN is_VBZ easy_JJ to_TO follow_VB -_: no_DT need_NN for_IN manual_NN ._.
+I_PRP read_VBP some_DT comments_NNS that_IN the_DT base_NN was_VBD hard_JJ to_TO install_VB ._.
+I_PRP do_VBP not_RB think_VB it_PRP took_VBD more_JJR than_IN a_DT minute_NN -_: it_PRP is_VBZ fine_JJ ._.
+It_PRP 's_VBZ a_DT good_JJ looking_VBG TV_NN also_RB ._.

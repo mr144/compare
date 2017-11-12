@@ -1,0 +1,32 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+nsubj(shoots-8, it-7)
+conj_and(camera-5, shoots-8)
+amod(pics-10, great-9)
+dobj(shoots-8, pics-10)
+
+=========
+
+det(software-2, The-1)
+nsubj(fun-4, software-2)
+nsubj(easy-6, software-2)
+cop(fun-4, is-3)
+root(ROOT-0, fun-4)
+conj_and(fun-4, easy-6)
+aux(use-8, to-7)
+xcomp(fun-4, use-8)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+prep_to(recommend-3, everyone-7)
+

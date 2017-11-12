@@ -1,0 +1,130 @@
+=========
+
+nsubj(unlocked-3, It-1)
+cop(unlocked-3, is-2)
+root(ROOT-0, unlocked-3)
+
+=========
+
+det(manaul-2, The-1)
+nsubj(is-3, manaul-2)
+root(ROOT-0, is-3)
+prep_in(is-3, German-5)
+
+=========
+
+nsubj(downloaded-2, I-1)
+root(ROOT-0, downloaded-2)
+det(version-5, an-3)
+amod(version-5, English-4)
+dobj(downloaded-2, version-5)
+prep(downloaded-2, online-6)
+
+=========
+
+det(applications-3, Some-1)
+amod(applications-3, pre-installed-2)
+nsubj(German-6, applications-3)
+cop(German-6, are-4)
+advmod(German-6, in-5)
+root(ROOT-0, German-6)
+advmod(German-6, too-8)
+
+=========
+
+nsubj(deleted-3, I-1)
+advmod(deleted-3, just-2)
+root(ROOT-0, deleted-3)
+dobj(deleted-3, them-4)
+
+=========
+
+det(size-2, The-1)
+nsubj(perfect-5, size-2)
+cop(perfect-5, is-3)
+advmod(perfect-5, just-4)
+root(ROOT-0, perfect-5)
+
+=========
+
+nsubj(think-3, I-1)
+advmod(think-3, personally-2)
+root(ROOT-0, think-3)
+nsubj(large-7, Atrix-2-4)
+cop(large-7, is-5)
+advmod(large-7, too-6)
+ccomp(think-3, large-7)
+det(phone-11, a-9)
+nn(phone-11, cell-10)
+prep_for(large-7, phone-11)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(reader-5, the-3)
+amod(reader-5, finger-print-4)
+dobj(like-2, reader-5)
+
+=========
+
+neg(recorder-5, Not-1)
+det(recorder-5, a-2)
+amod(recorder-5, 1080p-3)
+amod(recorder-5, video-4)
+root(ROOT-0, recorder-5)
+
+=========
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+prep_in(is-2, Atrix-2-4)
+advmod(is-2, though-5)
+
+=========
+
+nn(life-2, Battery-1)
+nsubj(enough-5, life-2)
+cop(enough-5, is-3)
+advmod(enough-5, long-4)
+root(ROOT-0, enough-5)
+prep_to(enough-5, me-7)
+
+=========
+
+advmod(hot-4, Sometimes-1)
+nsubj(hot-4, it-2)
+cop(hot-4, became-3)
+root(ROOT-0, hot-4)
+advmod(turned-7, when-5)
+nsubj(turned-7, I-6)
+advcl(hot-4, turned-7)
+prep_on(turned-7, wifi-9)
+prep_on(turned-7, GPS-11)
+conj_and(wifi-9, GPS-11)
+prep_on(turned-7, Bluetooth-13)
+conj_and(wifi-9, Bluetooth-13)
+det(time-17, a-15)
+amod(time-17, long-16)
+prep_for(turned-7, time-17)
+
+=========
+
+nsubj(burn-4, It-1)
+aux(burn-4, will-2)
+neg(burn-4, not-3)
+root(ROOT-0, burn-4)
+
+=========
+
+dep(complain-2, No-1)
+root(ROOT-0, complain-2)
+det(seller-5, the-4)
+prep_to(complain-2, seller-5)
+
+=========
+
+nsubj(quick-3, Shipping-1)
+cop(quick-3, is-2)
+root(ROOT-0, quick-3)
+

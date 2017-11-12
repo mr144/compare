@@ -1,0 +1,34 @@
+=========
+
+nn(9800-2, Blackberry-1)
+nsubj(purchased-3, 9800-2)
+root(ROOT-0, purchased-3)
+nn(KINGS-7, UNLOCKED-5)
+nn(KINGS-7, CELLPHONE-6)
+prep_from(purchased-3, KINGS-7)
+
+=========
+
+nsubjpass(branded-9, phone-1)
+auxpass(branded-9, was-2)
+advmod(branded-9, clearly-3)
+dep(OEM-5, not-4)
+dep(branded-9, OEM-5)
+nn(AT&T-8, ws-7)
+conj_and(OEM-5, AT&T-8)
+dep(branded-9, AT&T-8)
+root(ROOT-0, branded-9)
+
+=========
+
+nsubj(looked-2, Door-1)
+root(ROOT-0, looked-2)
+nsubj(Branded-10, USED-3)
+conj_and(USED-3, cable-5)
+nsubj(Branded-10, cable-5)
+cop(Branded-10, was-6)
+neg(Branded-10, not-7)
+amod(Branded-10, authentic-8)
+nn(Branded-10, Blackberry-9)
+ccomp(looked-2, Branded-10)
+

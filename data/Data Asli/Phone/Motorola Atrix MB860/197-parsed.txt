@@ -1,0 +1,25 @@
+=========
+
+nsubj(want-2, I-1)
+root(ROOT-0, want-2)
+prep(want-2, to-3)
+pobj(to-3, now-4)
+mark(came-8, if-5)
+det(Atrix-7, the-6)
+nsubj(came-8, Atrix-7)
+advcl(want-2, came-8)
+num(wcdma-12, 850-10)
+nn(wcdma-12, band-11)
+prep_with(came-8, wcdma-12)
+
+=========
+
+root(ROOT-0, Im-1)
+nn(Rica-4, Costa-3)
+prep_from(Im-1, Rica-4)
+dep(need-9, that-6)
+nsubj(need-9, band-7)
+cop(need-9, is-8)
+conj_and(Im-1, need-9)
+prep_for(need-9, 3G-11)
+

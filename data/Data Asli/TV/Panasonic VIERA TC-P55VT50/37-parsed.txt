@@ -1,0 +1,91 @@
+=========
+
+nsubj(watched-11, Received-1)
+prep_on(Received-1, Friday-3)
+partmod(Received-1, set-5)
+dobj(set-5, it-6)
+prt(set-5, up-7)
+prep_on(set-5, Saturday-9)
+root(ROOT-0, watched-11)
+det(game-13, the-12)
+dobj(watched-11, game-13)
+prep_on(watched-11, Sunday-15)
+det(lot-18, a-17)
+prep_with(watched-11, lot-18)
+prep_of(lot-18, people-20)
+poss(party-24, our-22)
+nn(party-24, Superbowl-23)
+prep_at(people-20, party-24)
+
+=========
+
+det(picture-2, The-1)
+nsubjpass(superb-4, picture-2)
+auxpass(superb-4, was-3)
+root(ROOT-0, superb-4)
+det(box-8, the-7)
+prep_out_of(superb-4, box-8)
+
+=========
+
+nsubj(know-2, I-1)
+root(ROOT-0, know-2)
+det(break-5, the-4)
+prep_of(know-2, break-5)
+prep_in(break-5, time-7)
+conj_but(know-2, can-9)
+nsubj(can-9, it-10)
+advmod(better-13, that-11)
+advmod(better-13, much-12)
+advmod(can-9, better-13)
+
+=========
+
+det(one-2, Every-1)
+nsubjpass(amazed-4, one-2)
+auxpass(amazed-4, was-3)
+root(ROOT-0, amazed-4)
+det(quality-8, the-6)
+nn(quality-8, picture-7)
+agent(amazed-4, quality-8)
+
+=========
+
+nsubj(thought-3, I-1)
+neg(thought-3, never-2)
+root(ROOT-0, thought-3)
+nsubj(buy-6, I-4)
+aux(buy-6, would-5)
+ccomp(thought-3, buy-6)
+det(TV-9, a-7)
+nn(TV-9, plasma-8)
+dobj(buy-6, TV-9)
+det(TV-12, this-11)
+nsubj(tops-13, TV-12)
+conj_but(thought-3, tops-13)
+det(list-15, the-14)
+dobj(tops-13, list-15)
+predet(models-20, all-17)
+det(models-20, the-18)
+nn(models-20, TV-19)
+prep_of(list-15, models-20)
+prep_at(looked-22, models-20)
+nsubj(looked-22, I-21)
+rcmod(models-20, looked-22)
+
+=========
+
+det(TV-2, This-1)
+nsubj(best-5, TV-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+
+=========
+
+det(TV-2, This-1)
+nsubj(best-5, TV-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+

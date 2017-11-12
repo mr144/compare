@@ -1,0 +1,38 @@
+=========
+
+root(ROOT-0, Purchased-1)
+det(camera-3, this-2)
+dobj(Purchased-1, camera-3)
+poss(wife-6, my-5)
+prep_for(Purchased-1, wife-6)
+prep_for(Purchased-1, Xmas-8)
+nsubj(loved-11, she-10)
+conj_and(Purchased-1, loved-11)
+dobj(loved-11, it-12)
+
+=========
+
+nsubj(overwhelming-5, It-1)
+cop(overwhelming-5, was-2)
+det(little-4, a-3)
+npadvmod(overwhelming-5, little-4)
+root(ROOT-0, overwhelming-5)
+prep_for(overwhelming-5, her-7)
+prepc_after(becoming-23, reading-10)
+det(info-13, the-12)
+prep_through(reading-10, info-13)
+partmod(info-13, included-14)
+advmod(reading-10, just-16)
+conj_and(reading-10, just-16)
+prepc_after(becoming-23, just-16)
+conj_and(reading-10, playing-17)
+prepc_after(becoming-23, playing-17)
+prt(playing-17, around-18)
+prep_with(playing-17, it-20)
+nsubj(becoming-23, she-21)
+aux(becoming-23, 's-22)
+conj_but(overwhelming-5, becoming-23)
+predet(photographer-26, quite-24)
+det(photographer-26, the-25)
+attr(becoming-23, photographer-26)
+

@@ -1,0 +1,19 @@
+=========
+
+nsubj(used-2, I-1)
+xsubj(own-4, I-1)
+root(ROOT-0, used-2)
+aux(own-4, to-3)
+xcomp(used-2, own-4)
+det(P80-6, a-5)
+dobj(own-4, P80-6)
+nsubj(happy-11, I-8)
+cop(happy-11, am-9)
+advmod(happy-11, very-10)
+conj_and(used-2, happy-11)
+det(improvements-15, the-13)
+amod(improvements-15, several-14)
+prep_with(happy-11, improvements-15)
+det(P90-18, the-17)
+prep_of(improvements-15, P90-18)
+

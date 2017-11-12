@@ -1,0 +1,58 @@
+=========
+
+det(3gs-3, the-1)
+amod(3gs-3, iphone-2)
+nsubj(okay-5, 3gs-3)
+cop(okay-5, is-4)
+root(ROOT-0, okay-5)
+
+=========
+
+det(battery-2, the-1)
+nsubj(last-5, battery-2)
+aux(last-5, does-3)
+neg(last-5, not-4)
+root(ROOT-0, last-5)
+advmod(last-5, long-6)
+
+=========
+
+nsubj(have-2, i-1)
+xsubj(keep-5, i-1)
+root(ROOT-0, have-2)
+aux(keep-5, to-3)
+advmod(keep-5, constancely-4)
+xcomp(have-2, keep-5)
+nsubj(charged-7, it-6)
+dep(keep-5, charged-7)
+
+=========
+
+nsubj(receive-3, i-1)
+aux(receive-3, did-2)
+root(ROOT-0, receive-3)
+det(phone-5, the-4)
+dobj(receive-3, phone-5)
+det(manner-9, a-7)
+amod(manner-9, timely-8)
+prep_in(phone-5, manner-9)
+det(condition-12, the-11)
+nsubj(good-14, condition-12)
+cop(good-14, was-13)
+conj_and(receive-3, good-14)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+det(smartphone-4, this-3)
+nsubj(blackberry-12, smartphone-4)
+nsubj(sony-14, smartphone-4)
+cop(blackberry-12, is-5)
+advmod(blackberry-12, better-6)
+nn(Samsung-10, LG-8)
+prep_than(better-6, Samsung-10)
+ccomp(think-2, blackberry-12)
+ccomp(think-2, sony-14)
+conj_or(blackberry-12, sony-14)
+

@@ -1,0 +1,1 @@
+I_PRP want_VBP to_TO know_VB if_IN the_DT 9360_CD team_NN at_IN &_CC t_NNP works_VBZ for_IN Telefonica_NNP Movistar_NNP in_IN Venezuela_NNP and_CC if_IN available_JJ I_PRP buy_VBP 2_CD teams_NNS and_CC let_VB me_PRP know_VB if_IN you_PRP give_VBP me_PRP a_DT discount_NN

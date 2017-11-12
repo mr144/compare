@@ -1,0 +1,7 @@
+I_PRP received_VBD a_DT bad_JJ copy_NN with_IN serious_JJ auto_NN focus_NN ._.
+This_DT camera_NN does_VBZ not_RB focus_VB at_IN all_DT and_CC releases_VBZ the_DT shutter_NN ._.
+Requested_VBN the_DT new_JJ copy_NN from_IN Amazon_NNP ._.
+Update_NNP :_: I_PRP received_VBD a_DT new_JJ copy_NN from_IN Amazon_NNP ._.
+It_PRP has_VBZ the_DT same_JJ auto_NN focus_NN issue_NN ._.
+I_PRP created_VBD a_DT service_NN ticket_NN with_IN Nikon_NNP and_CC they_PRP could_MD not_RB solve_VB the_DT problem_NN ._.
+Returning_VBG the_DT second_JJ one_CD and_CC waiting_VBG for_IN new_JJ replacement_NN from_IN Amazon_NNP ._.

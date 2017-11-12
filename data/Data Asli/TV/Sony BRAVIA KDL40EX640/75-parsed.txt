@@ -1,0 +1,48 @@
+=========
+
+nsubj(best-4, Sony-1)
+cop(best-4, is-2)
+dep(best-4, the-3)
+root(ROOT-0, best-4)
+prep(best-4, as-5)
+pcomp(as-5, always-6)
+
+=========
+
+det(TV-2, This-1)
+nsubj(easy-4, TV-2)
+cop(easy-4, was-3)
+root(ROOT-0, easy-4)
+aux(put-6, to-5)
+xcomp(easy-4, put-6)
+advmod(put-6, together-7)
+xcomp(easy-4, WOW-9)
+conj_and(put-6, WOW-9)
+dobj(WOW-9, what-10)
+det(picture-12, a-11)
+dobj(put-6, picture-12)
+acomp(easy-4, clear-14)
+acomp(easy-4, sharp-16)
+conj_and(clear-14, sharp-16)
+
+=========
+
+mark(buy-3, If-1)
+nsubj(buy-3, you-2)
+advcl(LED-12, buy-3)
+det(Bravia-6, a-4)
+nn(Bravia-6, Sony-5)
+nsubj(make-7, Bravia-6)
+ccomp(buy-3, make-7)
+acomp(make-7, sure-8)
+nsubj(LED-12, it-9)
+cop(LED-12, is-10)
+det(LED-12, a-11)
+root(ROOT-0, LED-12)
+dobj(disappointed-17, LED-12)
+nsubj(disappointed-17, you-13)
+aux(disappointed-17, will-14)
+neg(disappointed-17, not-15)
+cop(disappointed-17, be-16)
+rcmod(LED-12, disappointed-17)
+

@@ -1,0 +1,4 @@
+I_PRP love_VBP this_DT camera_NN ._.
+It_PRP is_VBZ the_DT best_JJS dx_NN format_NN DSLR_NNP around_IN ._.
+It_PRP is_VBZ filled_VBN with_IN many_JJ features_NNS and_CC the_DT pictures_NNS are_VBP great_JJ ._.
+i_FW upgraded_VBN from_IN the_DT D80_NNP and_CC Nikon_NNP hit_VBD it_PRP out_IN of_IN the_DT park_NN with_IN the_DT D7100_NNP ._.

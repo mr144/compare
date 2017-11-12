@@ -1,0 +1,139 @@
+=========
+
+root(ROOT-0, 1-1)
+
+=========
+
+nsubj(packaging-2, Poor-1)
+root(ROOT-0, packaging-2)
+dobj(packaging-2, 2-3)
+
+=========
+
+nn(TV-3, Poor-1)
+nn(TV-3, Service-2)
+nsubj(turn-6, TV-3)
+aux(turn-6, would-4)
+neg(turn-6, not-5)
+root(ROOT-0, turn-6)
+prep(turn-6, on-7)
+dep(turn-6, looked-9)
+mark(opened-16, like-10)
+det(package-13, the-11)
+amod(package-13, outside-12)
+nsubjpass(opened-16, package-13)
+aux(opened-16, had-14)
+auxpass(opened-16, been-15)
+advcl(looked-9, opened-16)
+
+=========
+
+det(Center-4, The-1)
+amod(Center-4, local-2)
+nn(Center-4, Service-3)
+nsubj(quoted-6, Center-4)
+aux(quoted-6, has-5)
+root(ROOT-0, quoted-6)
+mwe(than-8, more-7)
+quantmod(1-9, than-8)
+dobj(quoted-6, 1-9)
+tmod(quoted-6, week-10)
+aux(send-12, to-11)
+xcomp(quoted-6, send-12)
+det(person-15, a-13)
+nn(person-15, service-14)
+dobj(send-12, person-15)
+aux(look-17, to-16)
+xcomp(send-12, look-17)
+det(TV-20, the-19)
+prep_at(look-17, TV-20)
+
+=========
+
+nsubj(long-4, That-1)
+cop(long-4, 's-2)
+advmod(long-4, too-3)
+root(ROOT-0, long-4)
+det(call-11, a-6)
+nn(call-11, Southern-7)
+nn(call-11, New-8)
+nn(call-11, England-9)
+nn(call-11, service-10)
+prep_for(long-4, call-11)
+
+=========
+
+nsubj(say-5, They-1)
+advmod(say-5, also-2)
+aux(say-5, did-3)
+neg(say-5, not-4)
+root(ROOT-0, say-5)
+advmod(long-7, how-6)
+advmod(take-11, long-7)
+det(replacement-9, a-8)
+nsubj(take-11, replacement-9)
+aux(take-11, might-10)
+ccomp(say-5, take-11)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(TV-6, my-3)
+amod(TV-6, previous-4)
+nn(TV-6, Samsung-5)
+nsubj('s-7, TV-6)
+ccomp(love-2, 's-7)
+
+=========
+
+det(one-2, This-1)
+nsubj(starting-5, one-2)
+aux(starting-5, is-3)
+neg(starting-5, not-4)
+root(ROOT-0, starting-5)
+prt(starting-5, out-6)
+advmod(well-8, so-7)
+advmod(starting-5, well-8)
+
+=========
+
+nsubj(problem-7, It-1)
+aux(problem-7, would-2)
+neg(problem-7, not-3)
+cop(problem-7, be-4)
+det(problem-7, a-5)
+amod(problem-7, huge-6)
+root(ROOT-0, problem-7)
+mark(recommended-13, if-9)
+nsubj(recommended-13, I-10)
+aux(recommended-13, had-11)
+neg(recommended-13, not-12)
+advcl(problem-7, recommended-13)
+det(TV-15, this-14)
+dobj(recommended-13, TV-15)
+partmod(TV-15, based-17)
+poss(experience-21, my-19)
+amod(experience-21, previous-20)
+prep_on(based-17, experience-21)
+det(brand-24, the-23)
+prep_with(based-17, brand-24)
+det(specifications-27, the-26)
+prep_with(based-17, specifications-27)
+conj_and(brand-24, specifications-27)
+poss(mother-31, my-30)
+prep_to(based-17, mother-31)
+dobj(leaves-34, mother-31)
+det(hassle-33, This-32)
+nsubj(leaves-34, hassle-33)
+rcmod(mother-31, leaves-34)
+nsubj(looking-36, me-35)
+dep(leaves-34, looking-36)
+det(fool-39, a-38)
+prep_like(looking-36, fool-39)
+prepc_for(TV-15, suggesting-42)
+nsubj(buy-44, she-43)
+ccomp(suggesting-42, buy-44)
+det(one-46, this-45)
+dobj(buy-44, one-46)
+

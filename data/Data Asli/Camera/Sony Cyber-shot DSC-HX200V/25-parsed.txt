@@ -1,0 +1,29 @@
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+det(camera-6, the-3)
+amod(camera-6, best-4)
+amod(camera-6, compact-5)
+root(ROOT-0, camera-6)
+dobj(acquire-11, camera-6)
+complm(acquire-11, that-7)
+det(person-9, a-8)
+nsubj(acquire-11, person-9)
+aux(acquire-11, can-10)
+dep(camera-6, acquire-11)
+
+=========
+
+det(Sony-2, The-1)
+nsubj(camera-6, Sony-2)
+cop(camera-6, is-3)
+det(camera-6, a-4)
+amod(camera-6, great-5)
+root(ROOT-0, camera-6)
+
+=========
+
+root(ROOT-0, Recommend-1)
+prep_to(Recommend-1, everyone-3)
+

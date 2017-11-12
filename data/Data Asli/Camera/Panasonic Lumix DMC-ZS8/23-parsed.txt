@@ -1,0 +1,48 @@
+=========
+
+amod(gift-2, Xmas-1)
+nsubj(was-8, gift-2)
+poss(wife-5, my-4)
+prep_for(gift-2, wife-5)
+prep_for(gift-2, it-7)
+conj_and(wife-5, it-7)
+root(ROOT-0, was-8)
+dep(wanted-12, exactly-9)
+dep(exactly-9, what-10)
+nsubj(wanted-12, she-11)
+ccomp(was-8, wanted-12)
+
+=========
+
+root(ROOT-0, Compact-1)
+dep(Compact-1, but-3)
+mark(zoom-9, with-4)
+det(angle-8, a-5)
+amod(angle-8, good-6)
+amod(angle-8, wide-7)
+nsubj(zoom-9, angle-8)
+dep(Compact-1, zoom-9)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+xcomp(Easy-1, use-3)
+advmod(get-7, easy-5)
+aux(get-7, to-6)
+conj_and(Easy-1, get-7)
+det(pictures-9, the-8)
+dobj(get-7, pictures-9)
+poss(computer-12, her-11)
+prep_on(get-7, computer-12)
+
+=========
+
+nsubj(likes-2, She-1)
+root(ROOT-0, likes-2)
+dobj(likes-2, it-3)
+mark(like-6, so-4)
+nsubj(like-6, I-5)
+advcl(likes-2, like-6)
+dobj(like-6, it-7)
+

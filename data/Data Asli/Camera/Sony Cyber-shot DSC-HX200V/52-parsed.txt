@@ -1,0 +1,27 @@
+=========
+
+nsubj(love-2, I-1)
+nsubj(wish-7, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+conj_but(love-2, wish-7)
+nsubj(had-9, it-8)
+ccomp(wish-7, had-9)
+det(release-13, a-10)
+amod(release-13, remote-11)
+nn(release-13, shutter-12)
+dobj(had-9, release-13)
+
+=========
+
+aux(whistles-7, Has-1)
+predet(bells-5, all-2)
+det(bells-5, the-3)
+amod(bells-5, other-4)
+nsubj(whistles-7, bells-5)
+dep(bells-5, &-6)
+root(ROOT-0, whistles-7)
+poss(use-10, my-9)
+prep_for(whistles-7, use-10)
+

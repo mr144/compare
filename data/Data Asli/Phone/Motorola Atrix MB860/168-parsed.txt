@@ -1,0 +1,73 @@
+=========
+
+nn(REALLY-7, wooow-1)
+nn(REALLY-7, i-2)
+nn(REALLY-7, LOVE-3)
+nn(REALLY-7, MY-4)
+nn(REALLY-7, ATRIX-5)
+num(REALLY-7, 4G-6)
+root(ROOT-0, REALLY-7)
+amod(phone-13, new-8)
+nn(phone-13, NEW-9)
+nn(phone-13, REALLY-10)
+nn(phone-13, NEW-11)
+nn(phone-13, UNLOCKED-12)
+dep(REALLY-7, phone-13)
+
+=========
+
+nsubj(bought-2, i-1)
+root(ROOT-0, bought-2)
+det(phone-5, this-3)
+amod(phone-5, massive-4)
+dobj(bought-2, phone-5)
+prep_from(bought-2, Venezuela-7)
+nsubj(unlocked-11, its-9)
+advmod(unlocked-11, really-10)
+conj_and(bought-2, unlocked-11)
+
+=========
+
+nsubj(works-2, 3G-1)
+root(ROOT-0, works-2)
+advmod(great-4, just-3)
+acomp(works-2, great-4)
+
+=========
+
+poss(seller-2, my-1)
+nsubj(MOBILES-6, seller-2)
+cop(MOBILES-6, was-3)
+nn(MOBILES-6, GLOBAL-5)
+root(ROOT-0, MOBILES-6)
+dep(phone-10, and-8)
+det(phone-10, the-9)
+dep(MOBILES-6, phone-10)
+dobj(cames-12, phone-10)
+nsubj(cames-12, it-11)
+rcmod(phone-10, cames-12)
+amod(2.3.4-15, android-14)
+prep_with(cames-12, 2.3.4-15)
+
+=========
+
+nsubj(got-3, I-1)
+advmod(got-3, just-2)
+root(ROOT-0, got-3)
+poss(box-5, my-4)
+dobj(got-3, box-5)
+nsubj(came-8, it-7)
+conj_and(got-3, came-8)
+nn(CABLE-11, HDMI-10)
+prep_with(came-8, CABLE-11)
+advmod(well-13, as-12)
+mwe(well-13, as-12)
+advmod(came-8, well-13)
+dep(recommended-19, D-15)
+nn(Highly-18, D-17)
+nsubj(recommended-19, Highly-18)
+dep(got-3, recommended-19)
+dobj(recommended-19, phone-20)
+dobj(recommended-19, seller-22)
+conj_and(phone-20, seller-22)
+

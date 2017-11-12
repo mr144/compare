@@ -1,0 +1,36 @@
+=========
+
+det(camera-2, This-1)
+nsubj(does-3, camera-2)
+root(ROOT-0, does-3)
+dobj(does-3, everything-4)
+dobj(need-6, everything-4)
+nsubj(need-6, I-5)
+xsubj(take-8, I-5)
+rcmod(everything-4, need-6)
+aux(take-8, to-7)
+xcomp(need-6, take-8)
+amod(pictures-10, great-9)
+dobj(take-8, pictures-10)
+advmod(take-8, near-11)
+advmod(take-8, far-13)
+conj_and(near-11, far-13)
+
+=========
+
+det(zoom-3, the-1)
+amod(zoom-3, 18x-2)
+nsubj(features-9, zoom-3)
+amod(macro-6, super-5)
+conj_and(zoom-3, macro-6)
+nsubj(features-9, macro-6)
+cop(features-9, are-7)
+amod(features-9, great-8)
+root(ROOT-0, features-9)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+dep(Easy-1, use-3)
+

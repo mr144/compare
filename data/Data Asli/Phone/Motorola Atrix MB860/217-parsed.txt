@@ -1,0 +1,51 @@
+=========
+
+amod(device-2, Excellent-1)
+root(ROOT-0, device-2)
+
+=========
+
+nsubj(awesome-2, Feels-1)
+root(ROOT-0, awesome-2)
+prep_in(awesome-2, hand-4)
+
+=========
+
+amod(weight-2, Light-1)
+nsubj(fit-5, weight-2)
+conj_and(weight-2, dimensions-4)
+nsubj(fit-5, dimensions-4)
+root(ROOT-0, fit-5)
+advmod(fit-5, perfectly-6)
+prep_in(fit-5, hand-8)
+
+=========
+
+nsubjpass(locked-18, SIM-1)
+nsubj(takes-6, unlock-2)
+det(device-5, the-4)
+prep_of(unlock-2, device-5)
+rcmod(SIM-1, takes-6)
+num(days-10, close-7)
+dep(close-7, to-8)
+number(close-7, 2-9)
+tmod(takes-6, days-10)
+prep(takes-6, online-11)
+dep(loader-16, and-14)
+dep(loader-16, boot-15)
+dep(SIM-1, loader-16)
+auxpass(locked-18, is-17)
+root(ROOT-0, locked-18)
+det(improvement-24, The-21)
+nn(improvement-24, software-22)
+nn(improvement-24, needs-23)
+nsubj(get-33, improvement-24)
+partmod(get-33, expecting-26)
+nn(update-29, Gingerbread-28)
+prep_with(expecting-26, update-29)
+det(software-31, the-30)
+nsubj(get-33, software-31)
+aux(get-33, should-32)
+parataxis(locked-18, get-33)
+advmod(get-33, better-34)
+

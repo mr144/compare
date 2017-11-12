@@ -1,0 +1,102 @@
+=========
+
+root(ROOT-0, Got-1)
+det(phone-3, the-2)
+dobj(Got-1, phone-3)
+amod(week-5, last-4)
+tmod(Got-1, week-5)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+advmod(works-2, nicely-3)
+mark(did-6, though-4)
+nsubj(did-6, I-5)
+advcl(works-2, did-6)
+ccomp(did-6, expect-7)
+nsubj(faster-13, it-8)
+aux(faster-13, to-9)
+cop(faster-13, be-10)
+det(little-12, a-11)
+npadvmod(faster-13, little-12)
+xcomp(expect-7, faster-13)
+
+=========
+
+root(ROOT-0, Have-1)
+det(2x-4, the-2)
+nn(2x-4, LG-3)
+dobj(Have-1, 2x-4)
+advmod(well-6, as-5)
+mwe(well-6, as-5)
+advmod(Have-1, well-6)
+mark(have-11, although-9)
+nsubj(have-11, they-10)
+advcl(works-17, have-11)
+det(processor-14, the-12)
+amod(processor-14, same-13)
+dobj(have-11, processor-14)
+nsubj(works-17, Lg-16)
+conj_and(Have-1, works-17)
+advmod(faster-19, notibly-18)
+acomp(works-17, faster-19)
+
+=========
+
+nsubjpass(expected-8, camera-1)
+det(Atrix-4, the-3)
+prep_on(camera-1, Atrix-4)
+auxpass(expected-8, is-5)
+advmod(expected-8, better-6)
+advmod(expected-8, then-7)
+root(ROOT-0, expected-8)
+
+=========
+
+advmod(touch-2, Nice-1)
+root(ROOT-0, touch-2)
+nn(quality-7, screen-3)
+conj_and(screen-3, HD-5)
+nn(quality-7, HD-5)
+nn(quality-7, video-6)
+dobj(touch-2, quality-7)
+
+=========
+
+nsubj(annoying-3, Motoblur-1)
+cop(annoying-3, is-2)
+root(ROOT-0, annoying-3)
+aux(skip-6, would-5)
+ccomp(annoying-3, skip-6)
+complm(releave-12, that-7)
+dep(releave-12, if-8)
+nsubj(releave-12, Motorola-9)
+aux(releave-12, would-10)
+advmod(releave-12, kindly-11)
+ccomp(skip-6, releave-12)
+dobj(releave-12, us-13)
+det(duty-16, that-15)
+prep_for(releave-12, duty-16)
+
+=========
+
+advmod(together-2, All-1)
+advmod(need-11, together-2)
+det(price-6, the-5)
+prep_for(need-11, price-6)
+nsubj(need-11, you-8)
+aux(need-11, do-9)
+neg(need-11, not-10)
+root(ROOT-0, need-11)
+dobj(need-11, more-12)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+det(friend-7, a-6)
+prep_to(recommend-3, friend-7)
+

@@ -1,0 +1,51 @@
+=========
+
+det(phone-2, The-1)
+nsubj(phenomenal-5, phone-2)
+advmod(phenomenal-5, itself-3)
+cop(phenomenal-5, is-4)
+root(ROOT-0, phenomenal-5)
+advmod(expected-8, as-7)
+amod(phenomenal-5, expected-8)
+
+=========
+
+nsubjpass(expected-4, What-1)
+auxpass(expected-4, was-2)
+neg(expected-4, not-3)
+dep(accessories-10, expected-4)
+advmod(accessories-10, however-6)
+cop(accessories-10, was-8)
+det(accessories-10, the-9)
+root(ROOT-0, accessories-10)
+
+=========
+
+nsubjpass(made-4, It-1)
+auxpass(made-4, is-2)
+advmod(made-4, obviously-3)
+root(ROOT-0, made-4)
+prep_for(made-4, sale-6)
+det(market-10, the-8)
+amod(market-10, oriental-9)
+prep_in(sale-6, market-10)
+mark(come-16, as-12)
+det(plugs-15, the-13)
+nn(plugs-15, wall-14)
+nsubj(come-16, plugs-15)
+xsubj(make-24, plugs-15)
+advcl(made-4, come-16)
+det(mountain-19, a-18)
+prep_with(come-16, mountain-19)
+prep_of(mountain-19, adapters-21)
+advmod(make-24, just-22)
+aux(make-24, to-23)
+xcomp(come-16, make-24)
+nsubj(fit-26, them-25)
+ccomp(make-24, fit-26)
+det(socket-32, a-28)
+amod(socket-32, standard-29)
+nn(socket-32, US-30)
+amod(socket-32, 110v-31)
+prep_in(fit-26, socket-32)
+

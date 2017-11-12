@@ -1,0 +1,8 @@
+Phone_NN worked_VBD OK_JJ with_IN Android_NNP 2.3_CD on_IN it_PRP ._.
+Then_RB I_PRP made_VBD the_DT mistake_NN of_IN upgrading_VBG to_TO 4.0_CD -LRB-_-LRB- Ice_NNP Cream_NNP Sandwich_NNP -RRB-_-RRB- ._.
+Ever_RB since_IN ,_, it_PRP has_VBZ been_VBN extremely_RB slow_JJ ._.
+I_PRP have_VBP tried_VBN changing_VBG every_DT setting_NN I_PRP can_MD think_VB of_IN but_CC still_RB not_RB good_JJ ._.
+If_IN I_PRP had_VBD upgraded_VBN earlier_RBR ,_, Amazon_NNP would_MD probably_RB have_VB let_VBN me_PRP return_VB it_PRP but_CC I_PRP am_VBP past_IN the_DT deadline_NN now_RB ._.
+If_IN anyone_NN has_VBZ fixed_VBN this_DT problem_NN ,_, please_VB email_VB me_PRP at_IN bradmburke@gmail.com_NN ._.
+Thanks_NNS in_IN advance_NN ._.
+I_PRP am_VBP desparate_JJ ._.

@@ -1,0 +1,40 @@
+=========
+
+nsubj(exhilarating-4, It-1)
+cop(exhilarating-4, is-2)
+advmod(exhilarating-4, now-3)
+root(ROOT-0, exhilarating-4)
+aux(watch-6, to-5)
+xcomp(exhilarating-4, watch-6)
+dobj(watch-6, television-7)
+
+=========
+
+det(picture-3, An-1)
+amod(picture-3, amazing-2)
+root(ROOT-0, picture-3)
+det(dimensions-7, both-5)
+num(dimensions-7, 2-6)
+prep_in(picture-3, dimensions-7)
+num(dimensions-10, three-9)
+prep_in(picture-3, dimensions-10)
+conj_and(dimensions-7, dimensions-10)
+
+=========
+
+nsubj(simple-10, Delivery-1)
+auxpass(fast-3, was-2)
+cop(fast-3, was-2)
+rcmod(Delivery-1, fast-3)
+rcmod(Delivery-1, easy-5)
+conj_and(fast-3, easy-5)
+rcmod(Delivery-1, set-7)
+conj_and(fast-3, set-7)
+prt(set-7, up-8)
+cop(simple-10, was-9)
+root(ROOT-0, simple-10)
+
+=========
+
+root(ROOT-0, Enjoy-1)
+

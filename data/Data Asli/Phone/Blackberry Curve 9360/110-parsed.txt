@@ -1,0 +1,33 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-5, this-3)
+nn(phone-5, Blackberry-4)
+dobj(bought-2, phone-5)
+aux(use-7, to-6)
+xcomp(bought-2, use-7)
+advmod(use-7, here-8)
+prep_in(use-7, Venezuela-10)
+
+=========
+
+dep(excellent-2, Works-1)
+root(ROOT-0, excellent-2)
+nn(company-5, Movilnet-4)
+prep_with(excellent-2, company-5)
+
+=========
+
+dep(phone-3, Very-1)
+amod(phone-3, nice-2)
+root(ROOT-0, phone-3)
+
+=========
+
+amod(price-2, Good-1)
+root(ROOT-0, price-2)
+det(phone-6, this-4)
+amod(phone-6, unblocked-5)
+prep_for(price-2, phone-6)
+

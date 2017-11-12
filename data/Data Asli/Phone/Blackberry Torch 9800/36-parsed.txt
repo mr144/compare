@@ -1,0 +1,31 @@
+=========
+
+poss(curve-5, my-2)
+amod(curve-5, old-3)
+nn(curve-5, BB-4)
+prep_with(had-7, curve-5)
+nsubj(had-7, I-6)
+dep(work-19, had-7)
+dobj(had-7, signal-8)
+prep_at(signal-8, home-10)
+det(Torch-14, this-13)
+prep_with(had-7, Torch-14)
+det(antenna-16, the-15)
+nsubj(work-19, antenna-16)
+aux(work-19, might-17)
+neg(work-19, not-18)
+root(ROOT-0, work-19)
+mark(have-22, because-20)
+nsubj(have-22, I-21)
+advcl(work-19, have-22)
+det(signal-24, no-23)
+dobj(have-22, signal-24)
+prep_at(signal-24, home-26)
+
+=========
+
+nsubj(reach-3, Nobody-1)
+aux(reach-3, can-2)
+root(ROOT-0, reach-3)
+dobj(reach-3, me-4)
+

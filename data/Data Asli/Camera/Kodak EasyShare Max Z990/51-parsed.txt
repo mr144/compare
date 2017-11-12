@@ -1,0 +1,45 @@
+=========
+
+det(point_and_shoot-3, a-2)
+prep_as(cumbersome-8, point_and_shoot-3)
+nsubj(cumbersome-8, it-4)
+cop(cumbersome-8, is-5)
+det(bit-7, a-6)
+npadvmod(cumbersome-8, bit-7)
+root(ROOT-0, cumbersome-8)
+advmod(pleased-14, overall-11)
+nsubjpass(pleased-14, I-12)
+auxpass(pleased-14, am-13)
+conj_but(cumbersome-8, pleased-14)
+prep_with(pleased-14, it-16)
+
+=========
+
+det(memory-3, The-1)
+amod(memory-3, internal-2)
+nsubj(short-5, memory-3)
+cop(short-5, is-4)
+root(ROOT-0, short-5)
+nn(cards-10, memory-7)
+conj_and(memory-7, memory-9)
+nn(cards-10, memory-9)
+nsubj(necessity-13, cards-10)
+cop(necessity-13, are-11)
+det(necessity-13, a-12)
+conj_and(short-5, necessity-13)
+
+=========
+
+nsubjpass(disappointed-3, I-1)
+auxpass(disappointed-3, was-2)
+root(ROOT-0, disappointed-3)
+complm(available-13, that-4)
+det(download-6, a-5)
+nsubj(available-13, download-6)
+nn(software-9, Easyshare-8)
+prep_of(download-6, software-9)
+cop(available-13, is-10)
+advmod(longer-12, no-11)
+advmod(available-13, longer-12)
+ccomp(disappointed-3, available-13)
+

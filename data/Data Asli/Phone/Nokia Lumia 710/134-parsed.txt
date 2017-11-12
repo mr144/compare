@@ -1,0 +1,50 @@
+=========
+
+det(things-2, All-1)
+root(ROOT-0, things-2)
+det(same-4, the-3)
+dep(things-2, same-4)
+advmod(same-4, as-5)
+det(pictures-8, a-7)
+prep_on(same-4, pictures-8)
+
+=========
+
+det(T-Mobile-2, No-1)
+nsubj(inscriptions-3, T-Mobile-2)
+root(ROOT-0, inscriptions-3)
+advmod(in-6, as-5)
+dep(inscriptions-3, in-6)
+det(shops-9, the-7)
+amod(shops-9, other-8)
+pobj(in-6, shops-9)
+dep(inscriptions-3, so-12)
+nsubj('s-14, that-13)
+ccomp(inscriptions-3, 's-14)
+advmod(order-17, why-15)
+nsubj(order-17, I-16)
+advcl('s-14, order-17)
+dobj(order-17, Nokia-18)
+prep_on(Nokia-18, Amazon-20)
+
+=========
+
+nsubj(system-10, Phone-1)
+cop(system-10, is-2)
+advmod(system-10, really-3)
+amod(system-10, perfect-4)
+dep(system-10, Win-6)
+num(system-10, 7-7)
+advmod(quick-9, so-8)
+amod(system-10, quick-9)
+root(ROOT-0, system-10)
+advmod(gonna-17, so-12)
+advmod(gonna-17, probably-13)
+amod(gonna-17, next-14)
+amod(gonna-17, my-15)
+nn(gonna-17, phone-16)
+dep(system-10, gonna-17)
+dep(gonna-17, be-18)
+prep_on(be-18, Windows-20)
+advmod(be-18, too-21)
+

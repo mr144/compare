@@ -1,0 +1,29 @@
+=========
+
+amod(value-2, Great-1)
+nsubj(packed-6, value-2)
+det(feature-5, a-4)
+prep_for(value-2, feature-5)
+root(ROOT-0, packed-6)
+dobj(packed-6, TV-7)
+
+=========
+
+aux(had-3, Have-1)
+neg(had-3, not-2)
+root(ROOT-0, had-3)
+dobj(had-3, it-4)
+advmod(had-3, long-5)
+nsubj(adjusting-10, I-7)
+aux(adjusting-10, am-8)
+advmod(adjusting-10, still-9)
+conj_and(had-3, adjusting-10)
+det(settings-13, the-11)
+nn(settings-13, picture-12)
+dobj(adjusting-10, settings-13)
+nsubj(love-16, I-15)
+conj_and(had-3, love-16)
+conj_but(adjusting-10, love-16)
+det(TV-18, the-17)
+dobj(love-16, TV-18)
+

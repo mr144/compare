@@ -1,0 +1,33 @@
+=========
+
+det(uses-4, a-2)
+amod(uses-4, few-3)
+prep_after(working-9, uses-4)
+nsubj(working-9, speaker-6)
+aux(working-9, is-7)
+neg(working-9, not-8)
+root(ROOT-0, working-9)
+advmod(working-9, anymore-10)
+
+=========
+
+mark(phone-8, Although-1)
+dep(phone-8, that-2)
+nsubj(phone-8, it-3)
+cop(phone-8, is-4)
+det(phone-8, a-5)
+advmod(nice-7, very-6)
+amod(phone-8, nice-7)
+advcl(easy-10, phone-8)
+root(ROOT-0, easy-10)
+aux(use-12, to-11)
+xcomp(easy-10, use-12)
+
+=========
+
+nsubj(product-5, It-1)
+cop(product-5, is-2)
+det(product-5, the-3)
+amod(product-5, best-4)
+root(ROOT-0, product-5)
+

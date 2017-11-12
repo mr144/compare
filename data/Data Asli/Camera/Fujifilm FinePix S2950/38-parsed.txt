@@ -1,0 +1,48 @@
+=========
+
+nsubj(camera-7, This-1)
+cop(camera-7, is-2)
+poss(camera-7, my-3)
+amod(camera-7, second-4)
+nn(camera-7, Fujifilm-5)
+nn(camera-7, FinePix-6)
+root(ROOT-0, camera-7)
+
+=========
+
+poss(one-3, My-1)
+amod(one-3, last-2)
+nsubj(MP-6, one-3)
+cop(MP-6, was-4)
+number(MP-6, 12-5)
+root(ROOT-0, MP-6)
+nsubj(loved-10, I-9)
+conj_and(MP-6, loved-10)
+dobj(loved-10, it-11)
+
+=========
+
+poss(S2950-3, My-1)
+amod(S2950-3, new-2)
+nsubj(better-6, S2950-3)
+cop(better-6, is-4)
+advmod(better-6, even-5)
+root(ROOT-0, better-6)
+dep(better-6, with-8)
+amod(resolution-10, higher-9)
+pobj(with-8, resolution-10)
+advmod(better-6, even-12)
+num(telephoto-15, 18X-14)
+prep_at(better-6, telephoto-15)
+
+=========
+
+nsubj(zoom-4, You-1)
+aux(zoom-4, can-2)
+advmod(zoom-4, even-3)
+root(ROOT-0, zoom-4)
+prt(zoom-4, in-5)
+nn(mode-9, motion-7)
+nn(mode-9, picture-8)
+prep_in(zoom-4, mode-9)
+

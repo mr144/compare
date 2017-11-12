@@ -1,0 +1,105 @@
+=========
+
+det(camera-2, This-1)
+nsubj(bargain-5, camera-2)
+cop(bargain-5, is-3)
+det(bargain-5, a-4)
+root(ROOT-0, bargain-5)
+det(price-8, the-7)
+prep_for(bargain-5, price-8)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, great-3)
+dobj(takes-2, pictures-4)
+prep_with(takes-2, ease-6)
+
+=========
+
+det(number-2, The-1)
+nsubj(way-7, number-2)
+amod(features-5, useful-4)
+prep_of(number-2, features-5)
+cop(way-7, is-6)
+root(ROOT-0, way-7)
+rel(expected-11, what-9)
+nsubj(expected-11, I-10)
+xsubj(get-13, I-10)
+rcmod(way-7, expected-11)
+aux(get-13, to-12)
+xcomp(expected-11, get-13)
+
+=========
+
+det(controls-2, The-1)
+nsubjpass(located-5, controls-2)
+nsubj(reachable-8, controls-2)
+auxpass(located-5, are-3)
+cop(located-5, are-3)
+advmod(located-5, logically-4)
+root(ROOT-0, located-5)
+advmod(reachable-8, very-7)
+conj_and(located-5, reachable-8)
+
+=========
+
+nsubj(is-5, One-1)
+advmod(feature-4, particularly-2)
+amod(feature-4, practical-3)
+nsubj(is-5, feature-4)
+root(ROOT-0, is-5)
+complm(pushes-9, that-6)
+nsubj(pushes-9, it-7)
+advmod(pushes-9, automatically-8)
+ccomp(is-5, pushes-9)
+prt(pushes-9, off-10)
+det(cap-13, the-11)
+nn(cap-13, lens-12)
+dobj(pushes-9, cap-13)
+advmod(turn-16, when-14)
+nsubj(turn-16, you-15)
+advcl(pushes-9, turn-16)
+dobj(turn-16, it-17)
+advmod(shots-24, so-19)
+det(shots-24, no-20)
+dep(black-23, more-21)
+advmod(black-23, completely-22)
+amod(shots-24, black-23)
+prep_on(turn-16, shots-24)
+
+=========
+
+root(ROOT-0, Do-1)
+nsubj(favor-4, yourself-2)
+det(favor-4, a-3)
+xcomp(Do-1, favor-4)
+conj_and(Do-1, get-6)
+dobj(get-6, one-7)
+mark(looking-11, if-8)
+nsubj(looking-11, you-9)
+aux(looking-11, are-10)
+advcl(get-6, looking-11)
+det(camera-19, an-13)
+amod(camera-19, easy-14)
+aux(use-16, to-15)
+xcomp(easy-14, use-16)
+amod(quality-18, high-17)
+dobj(use-16, quality-18)
+prep_for(looking-11, camera-19)
+
+=========
+
+nsubjpass(satisfied-4, I-1)
+auxpass(satisfied-4, am-2)
+advmod(satisfied-4, very-3)
+root(ROOT-0, satisfied-4)
+poss(choice-7, my-6)
+prep_with(satisfied-4, choice-7)
+
+=========
+
+nn(Graham-2, Clifford-1)
+root(ROOT-0, Graham-2)
+

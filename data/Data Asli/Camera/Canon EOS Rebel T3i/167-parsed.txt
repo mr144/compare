@@ -1,0 +1,31 @@
+=========
+
+nsubj(Love-2, I-1)
+nsubj(had-6, I-1)
+xsubj(get-8, I-1)
+root(ROOT-0, Love-2)
+dobj(Love-2, Photography-3)
+advmod(Love-2, just-5)
+conj_and(Love-2, just-5)
+conj_and(Love-2, had-6)
+aux(get-8, to-7)
+xcomp(had-6, get-8)
+det(camera-10, this-9)
+dobj(get-8, camera-10)
+
+=========
+
+neg(mind-2, Never-1)
+root(ROOT-0, mind-2)
+det(item-7, the-3)
+nn(item-7, price-4)
+amod(item-7, great-6)
+dobj(mind-2, item-7)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, Highly-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, this-4)
+

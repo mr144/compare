@@ -1,0 +1,3 @@
+I_PRP am_VBP really_RB disappointed_VBN with_IN RIM_NNP ._.
+this_DT smartphone_NN is_VBZ suck_JJ ._.
+It_PRP is_VBZ worse_JJR than_IN my_PRP$ old_JJ iphone_NN ,_, even_RB with_IN the_DT torch_NN ._.

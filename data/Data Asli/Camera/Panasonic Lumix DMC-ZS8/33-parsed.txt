@@ -1,0 +1,35 @@
+=========
+
+nsubj(is-2, This-1)
+nsubj(takes-10, This-1)
+root(ROOT-0, is-2)
+poss(purse-5, my-4)
+prep_in(is-2, purse-5)
+det(times-8, all-7)
+prep_at(purse-5, times-8)
+conj_and(is-2, takes-10)
+det(photos-13, the-11)
+amod(photos-13, best-12)
+dobj(takes-10, photos-13)
+
+=========
+
+root(ROOT-0, So-1)
+dep(So-1, convenient-2)
+amod(size-5, perfect-4)
+dep(So-1, size-5)
+conj_and(convenient-2, size-5)
+
+=========
+
+nsubj(camera-6, It-1)
+cop(camera-6, is-2)
+det(camera-6, the-3)
+amod(camera-6, easiest-4)
+amod(camera-6, small-5)
+root(ROOT-0, camera-6)
+aux(take-8, to-7)
+infmod(camera-6, take-8)
+prep_on(take-8, hikes-10)
+appos(hikes-10, etc.-12)
+

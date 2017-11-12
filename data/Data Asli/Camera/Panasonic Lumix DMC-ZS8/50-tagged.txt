@@ -1,0 +1,3 @@
+I_PRP am_VBP very_RB happy_JJ with_IN my_PRP$ camera_NN ._.
+It_PRP was_VBD a_DT very_RB good_JJ value_NN ._.
+When_WRB I_PRP first_RB got_VBD it_PRP I_PRP took_VBD it_PRP on_IN a_DT cruise_NN and_CC the_DT pictures_NNS turned_VBD out_RP very_RB well_RB ._.

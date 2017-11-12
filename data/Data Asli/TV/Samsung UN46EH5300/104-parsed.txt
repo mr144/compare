@@ -1,0 +1,46 @@
+=========
+
+nsubj(HDTV-5, This-1)
+cop(HDTV-5, is-2)
+det(HDTV-5, a-3)
+amod(HDTV-5, great-4)
+ccomp(swivel-10, HDTV-5)
+nsubj(swivel-10, it-7)
+aux(swivel-10, does-8)
+neg(swivel-10, not-9)
+root(ROOT-0, swivel-10)
+det(bass-13, the-12)
+prep_at(swivel-10, bass-13)
+cop(thing-16, is-14)
+det(thing-16, the-15)
+rcmod(bass-13, thing-16)
+dobj(change-19, thing-16)
+nsubj(change-19, I-17)
+aux(change-19, would-18)
+rcmod(thing-16, change-19)
+
+=========
+
+nsubj(using-3, I-1)
+aux(using-3, am-2)
+root(ROOT-0, using-3)
+dobj(using-3, it-4)
+det(desk-7, a-6)
+prep_on(using-3, desk-7)
+poss(bedroom-10, my-9)
+prep_in(desk-7, bedroom-10)
+
+=========
+
+det(delivery-4, The-1)
+amod(delivery-4, white-2)
+nn(delivery-4, glove-3)
+nsubj(free-8, delivery-4)
+nsubj(excellent-14, delivery-4)
+cop(free-8, was-7)
+rcmod(delivery-4, free-8)
+det(time-11, the-10)
+prep_at(free-8, time-11)
+cop(excellent-14, was-13)
+root(ROOT-0, excellent-14)
+

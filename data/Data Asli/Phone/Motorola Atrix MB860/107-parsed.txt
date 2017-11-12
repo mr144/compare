@@ -1,0 +1,23 @@
+=========
+
+nn(Brand-2, Totally-1)
+nsubj(giving-7, Brand-2)
+nsubj(necessary-11, Brand-2)
+nsubj(cheaper-19, Brand-2)
+amod(Brand-2, new-3)
+amod(Brand-2, earpiece-5)
+conj_but(new-3, earpiece-5)
+aux(giving-7, was-6)
+root(ROOT-0, giving-7)
+dobj(giving-7, problems-8)
+cop(necessary-11, was-10)
+conj_and(giving-7, necessary-11)
+det(replace-13, a-12)
+dobj(giving-7, replace-13)
+dobj(giving-7, repair-15)
+conj_and(replace-13, repair-15)
+cop(cheaper-19, is-17)
+advmod(cheaper-19, more-18)
+conj_and(giving-7, cheaper-19)
+prep_than(cheaper-19, return-21)
+

@@ -1,0 +1,6 @@
+The_DT LED_NNP backlighting_NN on_IN the_DT 6100_CD Samsung_NNP compared_VBN to_TO my_PRP$ older_JJR Samsung_NNP 650_CD series_NN has_VBZ an_DT inferior_JJ picture_NN ._.
+I_PRP am_VBP not_RB sure_JJ what_WP the_DT benefit_NN of_IN LED_NNP is_VBZ ._.
+Cheaper_JJR to_TO build_VB ?_.
+More_JJR energy_NN efficient_JJ ?_.
+Definitely_RB notan_JJ improvement_NN ._.
+Should_MD have_VB bought_VBN another_DT Panasonic_NNP plasma_NN ._.

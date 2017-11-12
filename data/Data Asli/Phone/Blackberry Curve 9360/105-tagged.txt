@@ -1,0 +1,4 @@
+A_DT friend_NN told_VBD me_PRP that_IN it_PRP had_VBD serious_JJ battery_NN problems_NNS ._.
+I_PRP thought_VBD it_PRP was_VBD because_IN he_PRP use_VBP it_PRP too_RB much_JJ ._.
+but_CC I_PRP I_PRP have_VBP to_TO charge_VB it_PRP at_IN the_DT middle_NN of_IN the_DT day_NN because_IN it_PRP runs_VBZ out_IN of_IN battery_NN ._.
+I_PRP put_VBD it_PRP in_IN 2G_NNP ,_, de_JJ brightness_NN in_IN 20_CD %_NN and_CC stills_NNS runing_VBG out_IN of_IN battery_NN

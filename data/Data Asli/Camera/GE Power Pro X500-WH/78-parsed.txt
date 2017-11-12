@@ -1,0 +1,34 @@
+=========
+
+nsubj(LOVE-2, I-1)
+root(ROOT-0, LOVE-2)
+det(DESIGN-4, THE-3)
+dobj(LOVE-2, DESIGN-4)
+det(FEATURES-7, THE-6)
+dobj(LOVE-2, FEATURES-7)
+conj_and(DESIGN-4, FEATURES-7)
+
+=========
+
+nn(GREAT-2, TAKES-1)
+nsubj(PICS-3, GREAT-2)
+root(ROOT-0, PICS-3)
+
+=========
+
+det(ZOOM-2, THE-1)
+nsubj(EXCELENT-4, ZOOM-2)
+cop(EXCELENT-4, IS-3)
+root(ROOT-0, EXCELENT-4)
+
+=========
+
+nsubj(EASY-4, LIGHT-1)
+xsubj(USE-6, LIGHT-1)
+conj_and(LIGHT-1, VERY-3)
+nsubj(EASY-4, VERY-3)
+xsubj(USE-6, VERY-3)
+root(ROOT-0, EASY-4)
+aux(USE-6, TO-5)
+xcomp(EASY-4, USE-6)
+

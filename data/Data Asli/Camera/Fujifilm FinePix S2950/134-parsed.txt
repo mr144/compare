@@ -1,0 +1,24 @@
+=========
+
+nsubj(love-2, I-1)
+nsubj(taken-7, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+aux(taken-7, have-6)
+conj_and(love-2, taken-7)
+amod(pictures-10, many-8)
+amod(pictures-10, beautiful-9)
+dobj(taken-7, pictures-10)
+prep_with(taken-7, it-12)
+
+=========
+
+root(ROOT-0, Definitely-1)
+det(camera-4, a-2)
+amod(camera-4, great-3)
+dep(Definitely-1, camera-4)
+prep_for(camera-4, someone-6)
+amod(skills-9, beginner\/intermediate-8)
+prep_with(someone-6, skills-9)
+

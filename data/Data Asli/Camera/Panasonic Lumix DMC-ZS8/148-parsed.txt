@@ -1,0 +1,125 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, great-3)
+dobj(takes-2, pictures-4)
+nsubj(objective-14, pictures-4)
+dobj(takes-2, movies-6)
+conj_and(pictures-4, movies-6)
+nsubj(objective-14, movies-6)
+prep_of(objective-14, course-10)
+cop(objective-14, was-11)
+poss(objective-14, my-12)
+amod(objective-14, main-13)
+rcmod(pictures-4, objective-14)
+
+=========
+
+dobj(like-5, What-1)
+nsubj(like-5, I-2)
+aux(like-5, do-3)
+neg(like-5, not-4)
+csubj(instructions-8, like-5)
+cop(instructions-8, is-6)
+det(instructions-8, the-7)
+root(ROOT-0, instructions-8)
+
+=========
+
+det(manual-3, The-1)
+nn(manual-3, owners-2)
+nsubj(difficult-6, manual-3)
+nsubj(friendly-12, manual-3)
+cop(difficult-6, is-4)
+advmod(difficult-6, very-5)
+root(ROOT-0, difficult-6)
+aux(read-8, to-7)
+xcomp(difficult-6, read-8)
+neg(friendly-12, not-10)
+advmod(friendly-12, user-11)
+conj_and(difficult-6, friendly-12)
+
+=========
+
+det(camera-2, This-1)
+nsubj(has-3, camera-2)
+root(ROOT-0, has-3)
+det(features-7, a-4)
+amod(features-7, great-5)
+amod(features-7, many-6)
+dobj(has-3, features-7)
+nsubj(make-10, features-7)
+nsubj(have-23, features-7)
+aux(make-10, would-9)
+rcmod(features-7, make-10)
+nn(picture-12, custom-11)
+dobj(make-10, picture-12)
+xcomp(make-10, taking-13)
+acomp(taking-13, possible-14)
+cc(expert-21, but-15)
+nsubj(expert-21, I-16)
+cop(expert-21, am-17)
+neg(expert-21, not-18)
+det(expert-21, a-19)
+nn(expert-21, camera-20)
+ccomp(taking-13, expert-21)
+rcmod(features-7, have-23)
+conj_and(make-10, have-23)
+det(idea-25, no-24)
+dobj(have-23, idea-25)
+advmod(use-28, how-26)
+aux(use-28, to-27)
+xcomp(have-23, use-28)
+det(features-31, the-29)
+amod(features-31, many-30)
+dobj(use-28, features-31)
+
+=========
+
+nsubj(wish-3, I-1)
+advmod(wish-3, really-2)
+root(ROOT-0, wish-3)
+nsubj(came-5, it-4)
+ccomp(wish-3, came-5)
+det(tutorial-9, a-7)
+amod(tutorial-9, video-8)
+prep_with(came-5, tutorial-9)
+
+=========
+
+nsubj(know-5, I-1)
+aux(know-5, do-2)
+neg(know-5, not-3)
+advmod(know-5, even-4)
+root(ROOT-0, know-5)
+advmod(go-9, where-6)
+nsubj(go-9, I-7)
+xsubj(find-11, I-7)
+aux(go-9, could-8)
+advcl(know-5, go-9)
+aux(find-11, to-10)
+xcomp(go-9, find-11)
+amod(instructions-13, better-12)
+dobj(find-11, instructions-13)
+
+=========
+
+advmod(manual-13, So-1)
+num(stars-3, five-2)
+pobj(So-1, stars-3)
+det(camera-6, the-5)
+prep_for(So-1, camera-6)
+det(stars-9, no-8)
+nsubj(manual-13, stars-9)
+det(owners-12, the-11)
+prep_for(stars-9, owners-12)
+root(ROOT-0, manual-13)
+

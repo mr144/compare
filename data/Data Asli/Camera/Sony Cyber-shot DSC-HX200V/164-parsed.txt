@@ -1,0 +1,10 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(camera-5, this-3)
+amod(camera-5, awesome-4)
+dobj(recommend-2, camera-5)
+

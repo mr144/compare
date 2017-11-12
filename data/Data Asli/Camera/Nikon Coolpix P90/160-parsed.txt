@@ -1,0 +1,74 @@
+=========
+
+mark(take-3, If-1)
+nsubj(take-3, you-2)
+advcl(get-14, take-3)
+det(time-5, the-4)
+nsubj(learn-7, time-5)
+aux(learn-7, to-6)
+xcomp(take-3, learn-7)
+det(camera-9, this-8)
+dobj(learn-7, camera-9)
+advmod(learn-7, thoroughly-10)
+nsubj(get-14, you-12)
+aux(get-14, 'll-13)
+root(ROOT-0, get-14)
+amod(pictures-16, outstanding-15)
+dobj(get-14, pictures-16)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+advcl(buy-18, want-3)
+det(out-5, an-4)
+dobj(want-3, out-5)
+det(box-8, the-7)
+prep_of(out-5, box-8)
+advmod(auto-11, fully-10)
+nsubj(buy-18, auto-11)
+nsubj(shoot-24, auto-11)
+appos(auto-11, point-13)
+appos(auto-11, shoot-15)
+conj_and(point-13, shoot-15)
+advmod(buy-18, then-17)
+root(ROOT-0, buy-18)
+det(point-22, a-19)
+amod(point-22, little-20)
+nn(point-22, pocket-21)
+dobj(buy-18, point-22)
+conj_and(buy-18, shoot-24)
+
+=========
+
+det(P90-2, The-1)
+nsubj(has-3, P90-2)
+root(ROOT-0, has-3)
+amod(settings-6, manual-4)
+amod(settings-6, assist-5)
+dobj(has-3, settings-6)
+nsubj(let-8, settings-6)
+rcmod(settings-6, let-8)
+nsubj(shoot-10, you-9)
+ccomp(let-8, shoot-10)
+acomp(shoot-10, close-11)
+prep_to(close-11, DSLR-13)
+
+=========
+
+cop(patient-2, Be-1)
+ccomp(love-10, patient-2)
+dep(patient-2, read-4)
+det(manual-6, the-5)
+dobj(read-4, manual-6)
+nsubj(love-10, you-8)
+aux(love-10, 'll-9)
+root(ROOT-0, love-10)
+poss(photos-12, your-11)
+dobj(love-10, photos-12)
+
+=========
+
+nn(Nikon-2, Bravo-1)
+root(ROOT-0, Nikon-2)
+

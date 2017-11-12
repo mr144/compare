@@ -1,0 +1,38 @@
+=========
+
+nsubj(smartphone-5, It-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, a-3)
+amod(smartphone-5, great-4)
+root(ROOT-0, smartphone-5)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(design-4, the-3)
+dobj(like-2, design-4)
+advmod(thinner-9, so-5)
+dep(thinner-9, that-6)
+nsubj(thinner-9, it-7)
+cop(thinner-9, is-8)
+advcl(like-2, thinner-9)
+amod(models-13, other-11)
+nn(models-13, blackberry-12)
+prep_than(thinner-9, models-13)
+
+=========
+
+det(delivery-2, The-1)
+nsubj(was-3, delivery-2)
+root(ROOT-0, was-3)
+amod(date-6, estimated-5)
+prep_in(was-3, date-6)
+
+=========
+
+nsubj(recomend-2, I-1)
+root(ROOT-0, recomend-2)
+det(product-4, this-3)
+dobj(recomend-2, product-4)
+

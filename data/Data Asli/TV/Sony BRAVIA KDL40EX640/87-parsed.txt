@@ -1,0 +1,57 @@
+=========
+
+det(TV-2, This-1)
+nsubj(simple-5, TV-2)
+cop(simple-5, was-3)
+advmod(simple-5, dead-4)
+root(ROOT-0, simple-5)
+aux(put-7, to-6)
+xcomp(simple-5, put-7)
+advmod(put-7, together-8)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, biggest-2)
+dobj(had-5, problem-3)
+nsubj(setup-9, problem-3)
+nsubj(had-5, I-4)
+rcmod(problem-3, had-5)
+cop(setup-9, was-6)
+det(setup-9, the-7)
+amod(setup-9, wireless-8)
+root(ROOT-0, setup-9)
+
+=========
+
+det(wireless-3, The-1)
+amod(wireless-3, USB-2)
+nsubj(was-4, wireless-3)
+root(ROOT-0, was-4)
+prep(was-4, in-5)
+pcomp(in-5, with-6)
+det(manual-8, the-7)
+prep_with(in-5, manual-8)
+nsubj(left-12, I-10)
+aux(left-12, had-11)
+conj_and(was-4, left-12)
+det(manual-14, the-13)
+dobj(left-12, manual-14)
+det(box-17, the-16)
+prep_in(manual-14, box-17)
+
+=========
+
+dep(to-18, Once-4)
+nsubj(found-7, I-5)
+ccomp(Once-4, found-7)
+dobj(found-7, it-9)
+det(box-12, the-11)
+prep_in(found-7, box-12)
+nsubj(simple-17, it-14)
+cop(simple-17, was-15)
+advmod(simple-17, dead-16)
+rcmod(box-12, simple-17)
+root(ROOT-0, to-18)
+pobj(to-18, connect-19)
+

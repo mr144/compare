@@ -1,0 +1,40 @@
+=========
+
+dep(smart-6, Yes-1)
+det(tv-4, this-3)
+nsubj(smart-6, tv-4)
+cop(smart-6, is-5)
+root(ROOT-0, smart-6)
+
+=========
+
+advmod(much-2, so-1)
+root(ROOT-0, much-2)
+aux(learn-4, to-3)
+xcomp(much-2, learn-4)
+advmod(learn-4, still-5)
+nsubj(awesome-9, it-7)
+cop(awesome-9, is-8)
+dep(learn-4, awesome-9)
+det(price-12, the-11)
+nsubj(great-16, price-12)
+cop(great-16, was-13)
+dep(than-15, greater-14)
+advmod(great-16, than-15)
+dep(learn-4, great-16)
+conj_and(awesome-9, great-16)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nn(wouldnt-4, amazon.com-3)
+nsubj(want-5, wouldnt-4)
+xsubj(shop-7, wouldnt-4)
+ccomp(love-2, want-5)
+aux(shop-7, to-6)
+xcomp(want-5, shop-7)
+det(place-9, any-8)
+dobj(shop-7, place-9)
+dep(shop-7, else-10)
+

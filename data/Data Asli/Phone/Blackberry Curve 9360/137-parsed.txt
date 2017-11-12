@@ -1,0 +1,91 @@
+=========
+
+nn(UnlockedI-4, Blackberry-1)
+nn(UnlockedI-4, Curve-2)
+nn(UnlockedI-4, 9360-3)
+nsubj(ordered-5, UnlockedI-4)
+root(ROOT-0, ordered-5)
+det(9360-9, a-6)
+nn(9360-9, Blackberry-7)
+nn(9360-9, Curve-8)
+dobj(ordered-5, 9360-9)
+
+=========
+
+nsubj(wait-4, I-1)
+aux(wait-4, could-2)
+neg(wait-4, not-3)
+root(ROOT-0, wait-4)
+mark(get-7, until-5)
+nsubj(get-7, I-6)
+advcl(wait-4, get-7)
+dobj(get-7, it-8)
+
+=========
+
+advmod(received-4, However-1)
+advmod(received-4, when-2)
+nsubj(received-4, I-3)
+nsubj(opened-7, I-3)
+dep(upset-12, received-4)
+dobj(received-4, it-5)
+conj_and(received-4, opened-7)
+dep(upset-12, opened-7)
+dobj(opened-7, it-8)
+nsubjpass(upset-12, I-9)
+auxpass(upset-12, was-10)
+advmod(upset-12, really-11)
+root(ROOT-0, upset-12)
+
+=========
+
+det(phone-2, The-1)
+nsubj(come-5, phone-2)
+aux(come-5, did-3)
+neg(come-5, not-4)
+root(ROOT-0, come-5)
+det(covering-8, the-7)
+prep_with(come-5, covering-8)
+prep_for(covering-8, back-10)
+det(Card-14, the-12)
+amod(Card-14, microSD-13)
+nsubj(missing-17, Card-14)
+cop(missing-17, was-15)
+advmod(missing-17, also-16)
+conj_and(come-5, missing-17)
+
+=========
+
+det(set-3, The-1)
+nn(set-3, head-2)
+nsubj(comes-5, set-3)
+nsubj(cheap-10, set-3)
+rcmod(set-3, comes-5)
+prep_with(comes-5, it-7)
+cop(cheap-10, is-9)
+root(ROOT-0, cheap-10)
+poss(set-19, its-12)
+dep(even-14, not-13)
+advmod(set-19, even-14)
+det(set-19, the-15)
+advmod(brand-17, blackberry-16)
+amod(set-19, brand-17)
+nn(set-19, head-18)
+conj_and(cheap-10, set-19)
+
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+det(company-6, this-5)
+prep_from(buy-3, company-6)
+
+=========
+
+nsubj(waste-4, They-1)
+cop(waste-4, are-2)
+det(waste-4, a-3)
+root(ROOT-0, waste-4)
+prep_of(waste-4, time-6)
+

@@ -1,0 +1,33 @@
+=========
+
+amod(quality-3, Great-1)
+nn(quality-3, image-2)
+root(ROOT-0, quality-3)
+amod(usage-7, low-5)
+nn(usage-7, power-6)
+appos(quality-3, usage-7)
+amod(price-10, great-9)
+appos(usage-7, price-10)
+
+=========
+
+dobj(need-5, What-1)
+advmod(What-1, else-2)
+aux(need-5, do-3)
+nsubj(need-5, you-4)
+root(ROOT-0, need-5)
+
+=========
+
+advmod(buy-2, Just-1)
+root(ROOT-0, buy-2)
+dobj(buy-2, it-3)
+
+=========
+
+nsubj(sorry-5, You-1)
+aux(sorry-5, will-2)
+neg(sorry-5, not-3)
+cop(sorry-5, be-4)
+root(ROOT-0, sorry-5)
+

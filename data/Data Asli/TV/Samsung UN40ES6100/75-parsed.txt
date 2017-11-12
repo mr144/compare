@@ -1,0 +1,19 @@
+=========
+
+poss(hubby-2, My-1)
+nsubj(Maybe-9, hubby-2)
+cop(Maybe-9, is-3)
+dep(Maybe-9, happiest-4)
+prep_of(happiest-4, all-6)
+root(ROOT-0, Maybe-9)
+nsubj(get-12, I-10)
+aux(get-12, 'll-11)
+ccomp(Maybe-9, get-12)
+det(turn-14, a-13)
+dobj(get-12, turn-14)
+aux(try-16, to-15)
+infmod(turn-14, try-16)
+dobj(try-16, some-17)
+det(apps-20, the-19)
+prep_of(some-17, apps-20)
+

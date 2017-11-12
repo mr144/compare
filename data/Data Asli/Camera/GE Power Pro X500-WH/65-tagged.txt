@@ -1,0 +1,4 @@
+I_PRP have_VBP really_RB large_JJ hands_NNS ,_, and_CC when_WRB I_PRP ordered_VBD ,_, I_PRP visualized_VBD a_DT Canon_NNP ._.
+It_PRP takes_VBZ good_JJ photos_NNS ,_, but_CC it_PRP will_MD store_VB only_RB 16_CD ._.
+There_EX 's_VBZ no_DT apparant_JJ wayto_JJ increase_NN memory_NN ._.
+It_PRP 's_VBZ worth_JJ the_DT money_NN ,_, I_PRP reckon_VBP ._.

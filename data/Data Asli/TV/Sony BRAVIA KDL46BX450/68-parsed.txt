@@ -1,0 +1,56 @@
+=========
+
+det(TVs-2, These-1)
+nsubj(fail-4, TVs-2)
+advmod(fail-4, routinely-3)
+root(ROOT-0, fail-4)
+quantmod(16-7, about-6)
+num(months-8, 16-7)
+prep_in(fail-4, months-8)
+nsubj(offer-13, Sony-10)
+xsubj(replace-15, Sony-10)
+aux(offer-13, will-11)
+advmod(offer-13, only-12)
+conj_and(fail-4, offer-13)
+aux(replace-15, to-14)
+xcomp(offer-13, replace-15)
+det(one-19, a-17)
+amod(one-19, refurbished-18)
+prep_with(replace-15, one-19)
+amod(money-22, more-21)
+prep_for(one-19, money-22)
+prep_from(money-22, you-24)
+
+=========
+
+root(ROOT-0, Search-1)
+det(internet-3, the-2)
+dobj(Search-1, internet-3)
+nsubj(find-7, you-5)
+aux(find-7, will-6)
+conj_and(Search-1, find-7)
+nsubj(experience-12, this-8)
+cop(experience-12, is-9)
+det(experience-12, a-10)
+amod(experience-12, common-11)
+ccomp(find-7, experience-12)
+
+=========
+
+nsubj(trusted-4, I-1)
+nsubj(thats-8, I-1)
+aux(trusted-4, have-2)
+advmod(trusted-4, always-3)
+root(ROOT-0, trusted-4)
+dobj(trusted-4, Sony-5)
+conj_but(trusted-4, thats-8)
+prt(thats-8, over-9)
+
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+det(tv-5, this-4)
+dobj(buy-3, tv-5)
+

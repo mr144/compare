@@ -1,0 +1,23 @@
+=========
+
+nsubj(made-2, t-1)
+root(ROOT-0, made-2)
+iobj(made-2, me-3)
+advmod(happy-19, very-4)
+advmod(happy-19, very-5)
+advmod(happy-19, very-6)
+advmod(happy-19, very-7)
+advmod(happy-19, very-8)
+advmod(happy-19, very-9)
+advmod(happy-19, very-10)
+advmod(happy-19, very-11)
+advmod(happy-19, very-12)
+advmod(happy-19, ervy-13)
+advmod(happy-19, very-14)
+advmod(happy-19, very-15)
+advmod(happy-19, very-16)
+advmod(happy-19, very-17)
+advmod(happy-19, very-18)
+amod(i-21, happy-19)
+dobj(made-2, i-21)
+

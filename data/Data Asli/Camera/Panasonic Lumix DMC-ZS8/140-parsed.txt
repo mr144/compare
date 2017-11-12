@@ -1,0 +1,170 @@
+=========
+
+mark(lost-3, After-1)
+nsubj(lost-3, USPS-2)
+advcl(got-14, lost-3)
+det(one-6, the-4)
+amod(one-6, first-5)
+nsubj(ordered-10, one-6)
+det(I-9, these-8)
+prep_of(one-6, I-9)
+ccomp(lost-3, ordered-10)
+nsubj(got-14, I-12)
+advmod(got-14, finally-13)
+root(ROOT-0, got-14)
+dobj(got-14, it-15)
+
+=========
+
+advmod(excuse-6, Maybe-1)
+nsubj(excuse-6, it-2)
+cop(excuse-6, was-3)
+det(excuse-6, the-4)
+amod(excuse-6, poor-5)
+root(ROOT-0, excuse-6)
+prep_for(excuse-6, packing-8)
+dep(excuse-6, rattling-10)
+prt(rattling-10, around-11)
+det(box-15, a-13)
+amod(box-15, bigger-14)
+prep_in(rattling-10, box-15)
+quantmod(much-18, so-17)
+num(piece-21, much-18)
+quantmod(much-18, as-19)
+quantmod(much-18, a-20)
+prep_without(rattling-10, piece-21)
+nn(pack-24, bubble-23)
+prep_of(piece-21, pack-24)
+advmod(excuse-6, maybe-27)
+conj_or(excuse-6, maybe-27)
+nsubj(copy-33, it-28)
+cop(copy-33, is-29)
+advmod(copy-33, just-30)
+det(copy-33, a-31)
+amod(copy-33, bad-32)
+ccomp(excuse-6, copy-33)
+conj_or(excuse-6, copy-33)
+det(camera-38, an-35)
+advmod(good-37, otherwise-36)
+amod(camera-38, good-37)
+prep_of(copy-33, camera-38)
+
+=========
+
+cc(took-3, But-1)
+nsubj(took-3, mine-2)
+root(ROOT-0, took-3)
+advmod(took-3, really-4)
+amod(pictures-6, bad-5)
+dobj(took-3, pictures-6)
+dep(took-3, on-8)
+amod(auto-10, full-9)
+pobj(on-8, auto-10)
+nn(auto-14, semi-13)
+prep_on(took-3, auto-14)
+amod(manual-18, full-17)
+prep_on(took-3, manual-18)
+conj_and(auto-14, manual-18)
+
+=========
+
+amod(light-3, good-2)
+prep_in(AND-8, light-3)
+dep(medium-6, in-5)
+amod(light-7, medium-6)
+nsubj(AND-8, light-7)
+root(ROOT-0, AND-8)
+prep_on(AND-8, flash-10)
+
+=========
+
+det(picture-2, Every-1)
+nsubj(soft-4, picture-2)
+nsubj(grainy-6, picture-2)
+cop(soft-4, was-3)
+root(ROOT-0, soft-4)
+conj_and(soft-4, grainy-6)
+
+=========
+
+root(ROOT-0, Washed-1)
+prep_out(Washed-1, color-3)
+advmod(Washed-1, too-4)
+
+=========
+
+nsubj(find-5, I-1)
+advmod(find-5, actually-2)
+aux(find-5, could-3)
+neg(find-5, not-4)
+root(ROOT-0, find-5)
+det(features-8, any-6)
+amod(features-8, redeeming-7)
+dobj(find-5, features-8)
+nsubj(returned-11, I-10)
+conj_and(find-5, returned-11)
+dobj(returned-11, it-12)
+
+=========
+
+root(ROOT-0, Was-1)
+nsubj(unit-5, it-2)
+poss(unit-5, my-3)
+amod(unit-5, particular-4)
+xcomp(Was-1, unit-5)
+det(design-8, the-7)
+xcomp(Was-1, design-8)
+conj_or(unit-5, design-8)
+
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, do-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+det(point-9, a-7)
+amod(point-9, certain-8)
+prep_past(care-14, point-9)
+nsubj(care-14, I-11)
+aux(care-14, do-12)
+neg(care-14, not-13)
+conj_and(know-4, care-14)
+
+=========
+
+advmod(issue-7, Maybe-1)
+nsubj(issue-7, it-2)
+cop(issue-7, is-3)
+det(issue-7, a-4)
+nn(issue-7, quality-5)
+nn(issue-7, control-6)
+root(ROOT-0, issue-7)
+
+=========
+
+nn(optics-3, Leica-2)
+prep_with(ought-6, optics-3)
+nsubj(ought-6, it-5)
+xsubj(good-9, it-5)
+root(ROOT-0, ought-6)
+aux(good-9, to-7)
+cop(good-9, be-8)
+xcomp(ought-6, good-9)
+
+=========
+
+nsubj(specs-2, Great-1)
+root(ROOT-0, specs-2)
+
+=========
+
+advmod(accept-9, Just-1)
+prep(accept-9, not-2)
+advmod(quality-6, even-3)
+det(quality-6, the-4)
+amod(quality-6, minimum-5)
+pobj(not-2, quality-6)
+nsubj(accept-9, I-7)
+aux(accept-9, can-8)
+root(ROOT-0, accept-9)
+

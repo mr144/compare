@@ -1,0 +1,28 @@
+=========
+
+prep_for(ask-6, $-2)
+num($-2, 100-3)
+nsubj(ask-6, you-4)
+advmod(ask-6, cant-5)
+root(ROOT-0, ask-6)
+advmod(ask-6, more-7)
+
+=========
+
+poss(ok-2, its-1)
+nsubj(takes-4, ok-2)
+nsubj(takes-4, it-3)
+root(ROOT-0, takes-4)
+dobj(takes-4, some-5)
+nsubj(ok-7, some-5)
+rcmod(some-5, ok-7)
+dobj(ok-7, pictures-8)
+prep(pictures-8, but-9)
+nn(special-11, nothing-10)
+dep(but-9, special-11)
+
+=========
+
+root(ROOT-0, good-1)
+prep_for(good-1, teen-3)
+

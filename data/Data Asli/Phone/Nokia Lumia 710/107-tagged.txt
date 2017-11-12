@@ -1,0 +1,3 @@
+This_DT phone_NN is_VBZ so_RB beautiful_JJ ,_, with_IN intuitive_JJ icons_NNS and_CC very_RB easy_JJ to_TO learn_VB to_TO use_VB ._.
+Is_VBZ so_RB fast_RB ._.
+Nokia_NNP is_VBZ a_DT reference_NN in_IN cell_NN phones_NNS ._.

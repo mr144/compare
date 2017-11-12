@@ -1,0 +1,117 @@
+=========
+
+root(ROOT-0, WARNING-1)
+nn(PRODUCT-8, DO-3)
+nn(PRODUCT-8, NOT-4)
+nn(PRODUCT-8, BUY-5)
+nn(PRODUCT-8, A-6)
+nn(PRODUCT-8, SONY-7)
+dep(WARNING-1, PRODUCT-8)
+
+=========
+
+nsubj(GET-3, YOU-1)
+aux(GET-3, WILL-2)
+root(ROOT-0, GET-3)
+nn(OFF-5, RIPPED-4)
+dobj(GET-3, OFF-5)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(KDL-46W4100-6, a-3)
+nn(KDL-46W4100-6, Sony-4)
+nn(KDL-46W4100-6, Bravia-5)
+dobj(bought-2, KDL-46W4100-6)
+num(KDL-46W4100-6, four-7)
+appos(KDL-46W4100-6, 4-9)
+npadvmod(ago-12, years-11)
+advmod(bought-2, ago-12)
+parataxis(bought-2, paid-14)
+dobj(paid-14, $-15)
+num($-15, 1998.50-16)
+
+=========
+
+nsubj(needs-3, It-1)
+advmod(needs-3, now-2)
+root(ROOT-0, needs-3)
+det(Panel-6, an-4)
+nn(Panel-6, LCD-5)
+dobj(needs-3, Panel-6)
+
+=========
+
+nsubj(says-2, Sony-1)
+root(ROOT-0, says-2)
+det(panel-4, the-3)
+nsubj(available-8, panel-4)
+cop(available-8, is-5)
+advmod(longer-7, no-6)
+advmod(available-8, longer-7)
+ccomp(says-2, available-8)
+
+=========
+
+nsubj(sell-3, They-1)
+aux(sell-3, will-2)
+root(ROOT-0, sell-3)
+nsubj(TV-7, me-4)
+det(TV-7, a-5)
+amod(TV-7, refurbished-6)
+xcomp(sell-3, TV-7)
+prep_for(TV-7, $-9)
+num($-9, 579.00-10)
+prep($-9, plus-11)
+dep(plus-11, tax-12)
+nsubj(have-15, I-14)
+xsubj(ship-17, I-14)
+conj_and(sell-3, have-15)
+aux(ship-17, to-16)
+xcomp(have-15, ship-17)
+iobj(ship-17, them-18)
+poss(TV-20, my-19)
+dobj(ship-17, TV-20)
+
+=========
+
+nsubj(say-2, I-1)
+ccomp(replace-24, say-2)
+mark(paying-4, after-3)
+advcl(say-2, paying-4)
+advmod(much-6, that-5)
+advmod(paying-4, much-6)
+det(TV-9, a-8)
+prep_for(paying-4, TV-9)
+neg(able-13, not-11)
+cop(able-13, being-12)
+advcl(say-2, able-13)
+conj_and(paying-4, able-13)
+aux(get-15, to-14)
+xcomp(able-13, get-15)
+det(part-17, the-16)
+dobj(get-15, part-17)
+aux(fix-19, to-18)
+infmod(part-17, fix-19)
+dobj(fix-19, it-20)
+nsubj(replace-24, they-22)
+aux(replace-24, should-23)
+root(ROOT-0, replace-24)
+dobj(replace-24, it-25)
+prep_without(replace-24, charge-27)
+
+=========
+
+nsubj(said-2, They-1)
+root(ROOT-0, said-2)
+poss(I-8, NO.-5)
+nn(I-8, Now-7)
+nsubj(have-9, I-8)
+ccomp(said-2, have-9)
+det(piece-13, a-10)
+num(piece-13, $-11)
+number($-11, 1998.50-12)
+dobj(have-9, piece-13)
+prep_of(piece-13, crap-15)
+

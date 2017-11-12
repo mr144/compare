@@ -1,0 +1,45 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(experience-6, a-4)
+amod(experience-6, good-5)
+dobj(had-3, experience-6)
+det(model-9, this-8)
+prep_with(experience-6, model-9)
+nsubj(is-12, that-11)
+conj_and(had-3, is-12)
+advmod(bought-15, why-13)
+nsubj(bought-15, I-14)
+advcl(is-12, bought-15)
+dobj(bought-15, it-16)
+advmod(bought-15, again-17)
+
+=========
+
+nsubj(hope-2, I-1)
+ccomp(goin-7, hope-2)
+amod(one-5, next-4)
+nsubj(goin-7, one-5)
+xsubj(good-12, one-5)
+cop(goin-7, is-6)
+root(ROOT-0, goin-7)
+aux(good-12, to-9)
+cop(good-12, be-10)
+advmod(good-12, as-11)
+xcomp(goin-7, good-12)
+det(first-15, the-14)
+prep_as(good-12, first-15)
+xcomp(goin-7, better-17)
+conj_or(good-12, better-17)
+
+=========
+
+num(stars-2, Four-1)
+npadvmod(just-3, stars-2)
+advmod(for-4, just-3)
+root(ROOT-0, for-4)
+det(expectation-6, the-5)
+pobj(for-4, expectation-6)
+

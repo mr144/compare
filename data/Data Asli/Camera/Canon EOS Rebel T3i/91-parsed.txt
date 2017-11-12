@@ -1,0 +1,35 @@
+=========
+
+nsubj(took-2, It-1)
+root(ROOT-0, took-2)
+nsubj(get-5, some-3)
+aux(get-5, to-4)
+xcomp(took-2, get-5)
+det(order-7, the-6)
+nsubj(waiting-11, order-7)
+dep(waiting-11, shipped-8)
+conj_but(shipped-8, worth-10)
+dep(waiting-11, worth-10)
+xcomp(get-5, waiting-11)
+
+=========
+
+csubj(a-10, Having-1)
+amod(lense-3, single-2)
+dobj(Having-1, lense-3)
+prep_for(Having-1, most-5)
+det(occasion-8, the-7)
+prep_of(most-5, occasion-8)
+cop(a-10, is-9)
+dep(g-13, a-10)
+dep(a-10, b-11)
+nsubj(g-13, I-12)
+root(ROOT-0, g-13)
+advmod(g-13, plus-14)
+
+=========
+
+nsubj(recommend-2, Will-1)
+root(ROOT-0, recommend-2)
+prep_to(recommend-2, anyone-4)
+

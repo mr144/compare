@@ -1,0 +1,53 @@
+=========
+
+advmod(ever-2, Hardly-1)
+nsubj(stopped-11, ever-2)
+partmod(ever-2, used-3)
+det(tv-5, this-4)
+dobj(used-3, tv-5)
+det(brain-9, the-7)
+dobj(used-3, brain-9)
+conj_and(tv-5, brain-9)
+root(ROOT-0, stopped-11)
+xcomp(stopped-11, working-12)
+
+=========
+
+mark(tv-6, Because-1)
+nsubj(tv-6, it-2)
+cop(tv-6, is-3)
+det(tv-6, a-4)
+amod(tv-6, small-5)
+csubjpass(mailed-20, tv-6)
+nsubj(offer-10, Toshiba-7)
+aux(offer-10, will-8)
+neg(offer-10, not-9)
+rcmod(tv-6, offer-10)
+dobj(offer-10, repairs-11)
+det(facility-15, a-13)
+amod(facility-15, local-14)
+prep_at(offer-10, facility-15)
+prep_at(offer-10, item-17)
+conj_and(facility-15, item-17)
+aux(mailed-20, must-18)
+auxpass(mailed-20, be-19)
+root(ROOT-0, mailed-20)
+prt(mailed-20, back-21)
+nn(expense-24, owners-23)
+prep_at(mailed-20, expense-24)
+prep_for(expense-24, repair-26)
+
+=========
+
+nsubj(buy-4, I-1)
+aux(buy-4, will-2)
+neg(buy-4, never-3)
+root(ROOT-0, buy-4)
+det(product-7, another-5)
+nn(product-7, Toshiba-6)
+dobj(buy-4, product-7)
+nsubj(consider-13, something-9)
+prep_for(something-9, you-11)
+aux(consider-13, to-12)
+parataxis(buy-4, consider-13)
+

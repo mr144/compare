@@ -1,0 +1,37 @@
+=========
+
+nsubj(ask-4, I-1)
+aux(ask-4, could-2)
+neg(ask-4, not-3)
+root(ROOT-0, ask-4)
+det(TV-7, a-6)
+prep_for(ask-4, TV-7)
+det(picture-11, a-9)
+amod(picture-11, better-10)
+prep_with(TV-7, picture-11)
+
+=========
+
+nsubj(happy-4, We-1)
+cop(happy-4, are-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+prep_with(happy-4, it-6)
+
+=========
+
+root(ROOT-0, Note-1)
+nn(cord-5, use-3)
+nn(cord-5, HDMI-4)
+nsubj(connect-7, cord-5)
+aux(connect-7, to-6)
+parataxis(Note-1, connect-7)
+xcomp(Note-1, connect-7)
+dobj(connect-7, it-8)
+nn(box-13, yourcable-10)
+conj_or(yourcable-10, satellite-12)
+nn(box-13, satellite-12)
+prep_to(connect-7, box-13)
+amod(satisfaction-17, optimum-16)
+prep_for(connect-7, satisfaction-17)
+

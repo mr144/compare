@@ -1,0 +1,43 @@
+=========
+
+nsubj(purchase-5, This-1)
+cop(purchase-5, was-2)
+poss(purchase-5, my-3)
+amod(purchase-5, second-4)
+root(ROOT-0, purchase-5)
+dep(purchase-5, online-6)
+det(phone-10, a-8)
+nn(phone-10, cell-9)
+prep_for(purchase-5, phone-10)
+
+=========
+
+nsubj(works-2, This-1)
+root(ROOT-0, works-2)
+advmod(well-4, incredibly-3)
+acomp(works-2, well-4)
+prepc_compared_to(works-2, to-6)
+det(one-8, another-7)
+pobj(works-2, one-8)
+dobj(bought-10, one-8)
+nsubj(bought-10, I-9)
+rcmod(one-8, bought-10)
+prep_on(bought-10, eBay-12)
+det(problems-15, no-14)
+nsubj(works-18, problems-15)
+advmod(far-17, so-16)
+advmod(works-18, far-17)
+conj_and(works-2, works-18)
+det(dream-21, a-20)
+prep_like(works-18, dream-21)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(site-4, this-3)
+dobj(recommend-2, site-4)
+poss(purchases-7, their-6)
+prep_for(site-4, purchases-7)
+prep_of(purchases-7, electronics-9)
+

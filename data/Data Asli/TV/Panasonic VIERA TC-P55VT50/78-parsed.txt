@@ -1,0 +1,32 @@
+=========
+
+nsubj(skeptical-3, I-1)
+cop(skeptical-3, was-2)
+root(ROOT-0, skeptical-3)
+prep(skeptical-3, at-4)
+pcomp(at-4, first-5)
+prepc_about(skeptical-3, spending-7)
+det(much-9, this-8)
+dobj(spending-7, much-9)
+det(TV-12, a-11)
+prep_for(spending-7, TV-12)
+nsubj(worth-16, it-14)
+cop(worth-16, was-15)
+conj_but(skeptical-3, worth-16)
+dep(worth-16, it-17)
+
+=========
+
+det(picture-2, The-1)
+nsubj(best-5, picture-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+dobj(seen-9, best-5)
+nsubj(seen-9, I-6)
+aux(seen-9, have-7)
+advmod(seen-9, ever-8)
+rcmod(best-5, seen-9)
+det(TV-12, a-11)
+prep_on(seen-9, TV-12)
+

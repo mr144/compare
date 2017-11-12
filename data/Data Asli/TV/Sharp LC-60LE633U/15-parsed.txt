@@ -1,0 +1,176 @@
+=========
+
+root(ROOT-0, Bought-1)
+det(t.v.-3, this-2)
+dobj(Bought-1, t.v.-3)
+prep_through(Bought-1, BB-5)
+nn(weekend-8, Superbowl-7)
+prep_during(BB-5, weekend-8)
+
+=========
+
+root(ROOT-0, Got-1)
+det(deal-4, a-2)
+amod(deal-4, great-3)
+dobj(Got-1, deal-4)
+prep_on(Got-1, it-6)
+advmod(Got-1, too-7)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(awesome-5, quality-3)
+cop(awesome-5, is-4)
+root(ROOT-0, awesome-5)
+dep(is-10, yes-8)
+expl(is-10, there-9)
+conj_and(awesome-5, is-10)
+det(effect-18, the-11)
+amod(effect-18, infamous-12)
+dep(bleed-15, light-14)
+amod(effect-18, bleed-15)
+nn(effect-18, clouding-17)
+nsubj(is-10, effect-18)
+advmod(dark-21, very-20)
+amod(scenes-22, dark-21)
+prep_during(effect-18, scenes-22)
+
+=========
+
+nsubj(bothers-2, This-1)
+root(ROOT-0, bothers-2)
+dobj(bothers-2, alot-3)
+prep_of(alot-3, people-5)
+amod('s-11, most-8)
+nn('s-11, LED-9)
+nn('s-11, tv-10)
+nsubj(have-12, 's-11)
+conj_but(bothers-2, have-12)
+det(problem-14, this-13)
+dobj(have-12, problem-14)
+
+=========
+
+mark(bothers-3, If-1)
+nsubj(bothers-3, this-2)
+advcl(go-6, bothers-3)
+dobj(bothers-3, you-4)
+root(ROOT-0, go-6)
+dobj(go-6, Plasma-7)
+
+=========
+
+csubj(joy-18, Watching-1)
+nn(movies-6, sports-2)
+amod(movies-6, 3d\/blu-4)
+nn(movies-6, ray-5)
+dobj(Watching-1, movies-6)
+conj_and(Watching-1, playing-9)
+csubj(joy-18, playing-9)
+amod(games-11, video-10)
+dobj(playing-9, games-11)
+det(set-14, this-13)
+prep_on(playing-9, set-14)
+cop(joy-18, is-15)
+det(joy-18, an-16)
+amod(joy-18, absolute-17)
+root(ROOT-0, joy-18)
+
+=========
+
+nsubj(did-2, I-1)
+nsubj(bought-17, I-1)
+root(ROOT-0, did-2)
+det(bit-5, a-3)
+amod(bit-5, little-4)
+dobj(did-2, bit-5)
+prep_of(bit-5, tweaking-7)
+det(settings-11, the-9)
+nn(settings-11, picture-10)
+prep_with(did-2, settings-11)
+amod(specs-15, CNET-13)
+nn(specs-15, editor-14)
+prep_via(settings-11, specs-15)
+conj_and(did-2, bought-17)
+det(disc-21, the-18)
+nn(disc-21, Disney-19)
+nn(disc-21, calibration-20)
+dobj(bought-17, disc-21)
+dobj(open-27, which-23)
+nsubj(open-27, I-24)
+advmod(open-27, yet-25)
+aux(open-27, to-26)
+dep(disc-21, open-27)
+
+=========
+
+det(t.v.-2, This-1)
+nsubj(upgrades-4, t.v.-2)
+advmod(upgrades-4, even-3)
+root(ROOT-0, upgrades-4)
+det(quality-7, the-5)
+nn(quality-7, picture-6)
+dobj(upgrades-4, quality-7)
+amod(programming-12, regular-9)
+amod(programming-12, non-HD-10)
+nn(programming-12, cable-11)
+prep_of(quality-7, programming-12)
+
+=========
+
+num(tech-2, 3D-1)
+nsubj(Active-4, tech-2)
+cop(Active-4, is-3)
+root(ROOT-0, Active-4)
+mark(have-7, so-5)
+nsubj(have-7, you-6)
+xsubj(shell-9, you-6)
+advcl(Active-4, have-7)
+aux(shell-9, to-8)
+xcomp(have-7, shell-9)
+prt(shell-9, out-10)
+det(glasses-14, the-12)
+amod(glasses-14, expensive-13)
+prep_for(shell-9, glasses-14)
+
+=========
+
+nsubj(debating-3, I-1)
+aux(debating-3, was-2)
+root(ROOT-0, debating-3)
+det(Sony-8, the-5)
+nn(Sony-8, Samsung-6)
+prep_between(debating-3, Sony-8)
+nn(LED-12, LG-11)
+nsubj(sets-14, LED-12)
+nsubj(went-17, LED-12)
+num(LED-12, 3D-13)
+conj_and(debating-3, sets-14)
+conj_and(debating-3, went-17)
+conj_and(sets-14, went-17)
+prep_with(went-17, this-19)
+
+=========
+
+mark(had-3, If-1)
+nsubj(had-3, I-2)
+xsubj(do-5, I-2)
+advcl(make-12, had-3)
+aux(do-5, to-4)
+xcomp(had-3, do-5)
+dobj(do-5, it-6)
+dep(over-8, all-7)
+advmod(do-5, over-8)
+nsubj(make-12, I-10)
+aux(make-12, did-11)
+root(ROOT-0, make-12)
+det(choice-15, the-13)
+amod(choice-15, same-14)
+dobj(make-12, choice-15)
+
+=========
+
+det(END-2, THE-1)
+root(ROOT-0, END-2)
+

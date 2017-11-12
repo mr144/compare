@@ -1,0 +1,102 @@
+=========
+
+nsubj(seems-2, It-1)
+xsubj(take-4, It-1)
+root(ROOT-0, seems-2)
+aux(take-4, to-3)
+xcomp(seems-2, take-4)
+advmod(clear-6, really-5)
+amod(pictures-7, clear-6)
+dobj(take-4, pictures-7)
+advmod(moving-13, even-9)
+advmod(moving-13, when-10)
+nsubj(moving-13, you-11)
+aux(moving-13, are-12)
+parataxis(take-4, moving-13)
+
+=========
+
+nsubj(clear-4, Video-1)
+cop(clear-4, is-2)
+advmod(clear-4, crystal-3)
+root(ROOT-0, clear-4)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+xsubj(burn-5, you-2)
+advcl(need-14, want-3)
+aux(burn-5, to-4)
+xcomp(want-3, burn-5)
+det(video-7, the-6)
+dobj(burn-5, video-7)
+nn(HD-11, DVD-9)
+nn(HD-11, n-10)
+prep_to(burn-5, HD-11)
+nsubj(need-14, you-12)
+aux(need-14, will-13)
+root(ROOT-0, need-14)
+det(burner-17, a-15)
+amod(burner-17, blue-ray-16)
+dobj(need-14, burner-17)
+
+=========
+
+nsubj(need-4, You-1)
+aux(need-4, will-2)
+advmod(need-4, also-3)
+root(ROOT-0, need-4)
+amod(software-6, special-5)
+dobj(need-4, software-6)
+aux(view-8, to-7)
+xcomp(need-4, view-8)
+xcomp(need-4, edit-10)
+conj_and(view-8, edit-10)
+xcomp(need-4, encode-13)
+conj_and(view-8, encode-13)
+det(video-15, the-14)
+dobj(view-8, video-15)
+possessive(video-15, 's-16)
+prepc_for(video-15, burning-18)
+det(DVD-21, a-20)
+prep_to(burning-18, DVD-21)
+
+=========
+
+nsubj(downloaded-2, I-1)
+root(ROOT-0, downloaded-2)
+num(Pro-8, &#34;-3)
+nn(Pro-8, Magix-4)
+num(Pro-8, &#34;-5)
+nn(Pro-8, Movie-6)
+nn(Pro-8, Edit-7)
+dobj(downloaded-2, Pro-8)
+prep_from(downloaded-2, Amazon-10)
+det(job-13, this-12)
+prep_for(downloaded-2, job-13)
+
+=========
+
+nsubj(works-2, It-1)
+nsubj(does-6, It-1)
+root(ROOT-0, works-2)
+advmod(good-4, pretty-3)
+acomp(works-2, good-4)
+conj_but(works-2, does-6)
+ccomp(does-6, take-7)
+det(time-9, some-8)
+dobj(take-7, time-9)
+aux(encode-11, to-10)
+infmod(time-9, encode-11)
+
+=========
+
+advmod(happy-5, Overall-1)
+nsubj(happy-5, we-2)
+aux(happy-5, have-3)
+cop(happy-5, been-4)
+root(ROOT-0, happy-5)
+det(camera-8, this-7)
+prep_with(happy-5, camera-8)
+

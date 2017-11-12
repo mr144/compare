@@ -1,0 +1,59 @@
+=========
+
+nn(quality-2, Picture-1)
+nsubj(superb-4, quality-2)
+cop(superb-4, is-3)
+root(ROOT-0, superb-4)
+det(part-10, the-7)
+nn(part-10, Smart-8)
+nn(part-10, TV-9)
+nsubj(leaves-13, part-10)
+prep_of(part-10, it-12)
+conj_but(superb-4, leaves-13)
+det(lot-15, a-14)
+dobj(leaves-13, lot-15)
+aux(desired-18, to-16)
+cop(desired-18, be-17)
+infmod(lot-15, desired-18)
+
+=========
+
+root(ROOT-0, To-1)
+nn(Netflix-3, stream-2)
+pobj(To-1, Netflix-3)
+appos(Netflix-3, Hulu-5)
+dep(Netflix-3, etc.-7)
+
+=========
+
+det(TV-5, a-1)
+amod(TV-5, $-2)
+number($-2, 99-3)
+nn(TV-5, Apple-4)
+nsubj(better-11, TV-5)
+nn(HD-8, Roku-7)
+conj_or(TV-5, HD-8)
+nsubj(better-11, HD-8)
+cop(better-11, is-9)
+advmod(better-11, infinitely-10)
+root(ROOT-0, better-11)
+prepc_than(better-11, using-13)
+nn(TV-15, Smart-14)
+dobj(using-13, TV-15)
+
+=========
+
+det(premium-2, The-1)
+nsubj(is-6, premium-2)
+nn(TV-5, Smart-4)
+prep_for(premium-2, TV-5)
+root(ROOT-0, is-6)
+advmod(is-6, just-7)
+neg(is-6, not-8)
+det($-12, the-10)
+amod($-12, extra-11)
+prep_worth(is-6, $-12)
+num($-12, 200-13)
+dep($-12, $-15)
+num($-15, 300-16)
+

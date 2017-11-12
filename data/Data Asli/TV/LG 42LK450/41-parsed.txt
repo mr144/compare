@@ -1,0 +1,61 @@
+=========
+
+nsubj(realized-2, I-1)
+root(ROOT-0, realized-2)
+xcomp(realized-2, purchasing-3)
+det(product-5, this-4)
+dobj(purchasing-3, product-5)
+complm(model-11, that-6)
+nsubj(model-11, it-7)
+cop(model-11, was-8)
+det(model-11, an-9)
+amod(model-11, older-10)
+ccomp(purchasing-3, model-11)
+advmod(seem-17, now-12)
+dep(seem-17, that-13)
+amod('s-16, most-14)
+nn('s-16, TV-15)
+nsubj(seem-17, 's-16)
+xsubj(moving-20, 's-16)
+dep(model-11, seem-17)
+aux(moving-20, to-18)
+aux(moving-20, be-19)
+xcomp(seem-17, moving-20)
+prep_toward(moving-20, LED-22)
+nsubj(surprised-28, I-25)
+cop(surprised-28, was-26)
+advmod(surprised-28, pleasantly-27)
+conj_but(realized-2, surprised-28)
+det(TV-31, this-30)
+poss(quality-33, TV-31)
+prep_at(surprised-28, quality-33)
+det(price-36, the-35)
+prep_for(quality-33, price-36)
+
+=========
+
+det(complaints-2, No-1)
+root(ROOT-0, complaints-2)
+dep(complaints-2, here-3)
+
+=========
+
+csubj('s-11, Like-1)
+pobj(Like-1, LG-2)
+conj_and(Like-1, look-4)
+csubj('s-11, look-4)
+advmod(look-4, forward-5)
+prepc_to(look-4, purchasing-7)
+det(TV-10, any-8)
+amod(TV-10, future-9)
+dobj(purchasing-7, TV-10)
+root(ROOT-0, 's-11)
+prep_from('s-11, Amazon-13)
+
+=========
+
+nsubj(experience-2, Great-1)
+root(ROOT-0, experience-2)
+dep(around-4, all-3)
+advmod(experience-2, around-4)
+

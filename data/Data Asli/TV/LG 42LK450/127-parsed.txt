@@ -1,0 +1,97 @@
+=========
+
+poss(tv-2, My-1)
+nsubjpass(USED-5, tv-2)
+auxpass(USED-5, was-3)
+advmod(USED-5, clearly-4)
+ccomp(horrible-10, USED-5)
+det(packaging-8, the-7)
+nsubj(horrible-10, packaging-8)
+cop(horrible-10, was-9)
+root(ROOT-0, horrible-10)
+
+=========
+
+nsubj(was-5, Everything-1)
+det(inside-4, the-3)
+prep_on(Everything-1, inside-4)
+root(ROOT-0, was-5)
+advmod(was-5, messy-6)
+det(foam-11, the-8)
+amod(foam-11, protective-9)
+amod(foam-11, white-10)
+nsubj(had-12, foam-11)
+conj_and(was-5, had-12)
+dobj(had-12, chunks-13)
+partmod(chunks-13, missing-14)
+prep_out_of(missing-14, it-17)
+dep(over-19, all-18)
+advmod(missing-14, over-19)
+
+=========
+
+nsubj(paid-2, I-1)
+root(ROOT-0, paid-2)
+det(tv-6, a-4)
+amod(tv-6, new-5)
+prep_for(paid-2, tv-6)
+dobj(got-10, what-8)
+nsubj(got-10, I-9)
+csubj(crap-12, got-10)
+cop(crap-12, was-11)
+conj_and(paid-2, crap-12)
+
+=========
+
+nn(service-2, Customer-1)
+nsubj(havent-4, service-2)
+advmod(havent-4, still-3)
+root(ROOT-0, havent-4)
+dep(havent-4, gotten-5)
+prt(gotten-5, back-6)
+prep_to(gotten-5, me-8)
+
+=========
+
+nsubj(order-4, I-1)
+aux(order-4, will-2)
+neg(order-4, never-3)
+root(ROOT-0, order-4)
+dobj(order-4, Electronics-5)
+prep_from(Electronics-5, amazon-7)
+advmod(order-4, again-8)
+
+=========
+
+root(ROOT-0, Not-1)
+aux(mention-3, to-2)
+dep(Not-1, mention-3)
+expl(is-5, there-4)
+ccomp(mention-3, is-5)
+det(line-8, a-6)
+amod(line-8, weird-7)
+nsubj(is-5, line-8)
+nsubj(goes-10, line-8)
+rcmod(line-8, goes-10)
+det(screen-13, the-12)
+prep_across(goes-10, screen-13)
+tmod(messes-19, screen-13)
+advmod(messes-19, when-14)
+nsubj(messes-19, its-15)
+advmod(messes-19, on-16)
+nsubj(messes-19, it-18)
+dep(screen-13, messes-19)
+prt(messes-19, up-20)
+det(picture-22, the-21)
+dobj(messes-19, picture-22)
+
+=========
+
+nsubj(goes-2, It-1)
+root(ROOT-0, goes-2)
+advmod(comes-6, away-3)
+advmod(comes-6, sometimes-4)
+nsubj(comes-6, then-5)
+ccomp(goes-2, comes-6)
+prt(comes-6, back-7)
+

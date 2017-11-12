@@ -1,0 +1,65 @@
+=========
+
+det(TV-2, This-1)
+nsubj(awesome-4, TV-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+nsubj(hooked-4, it-3)
+ccomp(have-2, hooked-4)
+prt(hooked-4, up-5)
+poss(PS3-8, my-7)
+prep_to(hooked-4, PS3-8)
+nsubj(looks-12, everything-11)
+nsubj(works-14, everything-11)
+conj_and(have-2, looks-12)
+conj_and(have-2, works-14)
+conj_and(looks-12, works-14)
+acomp(looks-12, great-15)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+nsubj(plugged-4, it-3)
+ccomp(have-2, plugged-4)
+det(system-9, a-6)
+nn(system-9, home-7)
+nn(system-9, theater-8)
+prep_into(plugged-4, system-9)
+nsubj(works-13, it-12)
+conj_and(have-2, works-13)
+dobj(works-13, wonders-14)
+
+=========
+
+det(speakrs-2, The-1)
+nsubj(weak-7, speakrs-2)
+prep_by(speakrs-2, itself-4)
+cop(weak-7, are-5)
+advmod(weak-7, pretty-6)
+root(ROOT-0, weak-7)
+dep(weak-7, so-9)
+nsubj(want-12, you-10)
+xsubj(plug-14, you-10)
+aux(want-12, 'll-11)
+ccomp(weak-7, want-12)
+aux(plug-14, to-13)
+xcomp(want-12, plug-14)
+amod(speakrs-17, external-16)
+prep_into(plug-14, speakrs-17)
+
+=========
+
+cc(TV-8, But-1)
+advmod(TV-8, overall-2)
+nsubj(TV-8, this-4)
+cop(TV-8, is-5)
+det(TV-8, a-6)
+amod(TV-8, great-7)
+root(ROOT-0, TV-8)
+

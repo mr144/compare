@@ -1,0 +1,156 @@
+=========
+
+det(news-3, The-1)
+amod(news-3, good-2)
+nsubj(Service-7, news-3)
+cop(Service-7, is-4)
+nn(Service-7, Vizio-5)
+nn(Service-7, Customer-6)
+root(ROOT-0, Service-7)
+auxpass(based-9, is-8)
+rcmod(Service-7, based-9)
+det(US-12, the-11)
+prep_in(based-9, US-12)
+nsubj(positive-16, US-12)
+cop(positive-16, is-15)
+rcmod(US-12, positive-16)
+mark(speak-19, as-17)
+nsubj(speak-19, I-18)
+advcl(positive-16, speak-19)
+prep_with(speak-19, them-21)
+advmod(speak-19, monthly-22)
+
+=========
+
+det(news-3, The-1)
+amod(news-3, bad-2)
+nsubj(is-4, news-3)
+root(ROOT-0, is-4)
+advmod(is-4, below-5)
+
+=========
+
+root(ROOT-0, Apps-1)
+det(Apps-7, The-3)
+nn(Apps-7, HULU-4)
+conj_and(HULU-4, Netflix-6)
+nn(Apps-7, Netflix-6)
+nsubj(do-8, Apps-7)
+dep(Apps-1, do-8)
+nn(work-10, NOT-9)
+dobj(do-8, work-10)
+
+=========
+
+advmod(ever-3, Thhey-1)
+advmod(ever-3, hardly-2)
+nsubj(run-4, ever-3)
+root(ROOT-0, run-4)
+advmod(run-4, at-5)
+pobj(at-5, all-6)
+advmod(do-11, when-9)
+nsubj(do-11, they-10)
+advcl(have-13, do-11)
+nsubj(have-13, they-12)
+xsubj(buffer-15, they-12)
+conj_and(run-4, have-13)
+aux(buffer-15, to-14)
+xcomp(have-13, buffer-15)
+advmod(buffer-15, constantly-16)
+
+=========
+
+nsubj(watched-4, I-1)
+aux(watched-4, have-2)
+neg(watched-4, not-3)
+root(ROOT-0, watched-4)
+det(show-8, a-5)
+amod(show-8, smooth-6)
+nn(show-8, TV-7)
+dobj(watched-4, show-8)
+amod(service-11, wither-10)
+prep_on(show-8, service-11)
+det(tv-14, this-13)
+prep_from(watched-4, tv-14)
+
+=========
+
+root(ROOT-0, WIFI-1)
+dep(WIFI-1, Joke-3)
+
+=========
+
+root(ROOT-0, Amazon-1)
+nsubj(charge-4, They-3)
+dep(Amazon-1, charge-4)
+det(least-6, the-5)
+dobj(charge-4, least-6)
+mark(provide-9, because-7)
+nsubj(provide-9, they-8)
+advcl(charge-4, provide-9)
+dobj(provide-9, you-10)
+prep_with(provide-9, less-12)
+det(warranty-15, a-14)
+prep_of(less-12, warranty-15)
+
+=========
+
+nsubj(has-3, Vizio-1)
+advmod(has-3, normally-2)
+root(ROOT-0, has-3)
+det(warranty-5, a-4)
+dobj(has-3, warranty-5)
+num(days-8, 90-7)
+prep_of(warranty-5, days-8)
+prep_for(days-8, replacement-10)
+prep_without(has-3, repair-12)
+mark(buy-16, if-14)
+nsubj(buy-16, you-15)
+advcl(has-3, buy-16)
+prepc_through(buy-16, Amazon-18)
+nsubj(get-20, you-19)
+ccomp(Amazon-18, get-20)
+num(days-22, 30-21)
+tmod(get-20, days-22)
+
+=========
+
+nsubj(useful-5, This-1)
+aux(useful-5, would-2)
+aux(useful-5, have-3)
+cop(useful-5, been-4)
+root(ROOT-0, useful-5)
+aux(know-7, to-6)
+xcomp(useful-5, know-7)
+mark(fine-19, as-8)
+nsubj(fine-19, I-9)
+cop(fine-19, am-10)
+advmod(fine-19, now-11)
+poss(Works-18, my-13)
+amod(Works-18, 3rd-14)
+nn(Works-18, television-15)
+nn(Works-18, .3-16)
+nn(Works-18, D-17)
+prep_on(now-11, Works-18)
+advcl(know-7, fine-19)
+nsubj(tried-22, I-21)
+xsubj(give-24, I-21)
+nsubj(able-32, I-21)
+parataxis(useful-5, tried-22)
+aux(give-24, to-23)
+xcomp(tried-22, give-24)
+det(half-26, this-25)
+iobj(give-24, half-26)
+det(star-28, a-27)
+dobj(give-24, star-28)
+cop(able-32, was-30)
+neg(able-32, not-31)
+parataxis(useful-5, able-32)
+conj_but(tried-22, able-32)
+
+=========
+
+det(TV-2, This-1)
+nsubj(sucks-3, TV-2)
+root(ROOT-0, sucks-3)
+

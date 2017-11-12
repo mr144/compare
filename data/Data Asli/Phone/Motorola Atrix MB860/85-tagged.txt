@@ -1,0 +1,5 @@
+overall_NN is_VBZ a_DT great_JJ phone_NN !_.
+battery_NN last_JJ long_JJ ,_, its_PRP$ fast_RB ,_, it_PRP feels_VBZ sturdy_JJ ,_, the_DT size_NN is_VBZ about_RB perfect_JJ !_.
+Im_VB a_DT power_NN user_NN and_CC I_PRP say_VBP this_DT phone_NN is_VBZ AMAZING_JJ ,_, and_CC is_VBZ not_RB an_DT expensive_JJ phone_NN !_.
+it_PRP beats_VBZ a_DT lot_NN of_IN phones_NNS that_WDT are_VBP currently_RB out_RB there_RB !_.
+the_DT only_JJ con_NN is_VBZ that_IN it_PRP gets_VBZ hot_JJ sometimes_RB !_.

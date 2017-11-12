@@ -1,0 +1,28 @@
+=========
+
+det(camera-4, This-1)
+nn(camera-4, Panasonic-2)
+nn(camera-4, Lumix-3)
+nsubj(works-5, camera-4)
+root(ROOT-0, works-5)
+acomp(works-5, great-6)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+dep(Easy-1, use-3)
+prep_with(use-3, lots-5)
+prep_of(lots-5, features-7)
+
+=========
+
+nsubj(works-2, Zoom-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+det(camera-6, the-5)
+nsubj(takes-7, camera-6)
+conj_and(works-2, takes-7)
+amod(pictures-9, great-8)
+dobj(takes-7, pictures-9)
+

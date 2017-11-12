@@ -1,0 +1,18 @@
+I_PRP picked_VBD this_DT up_RB back_RB in_IN June_NNP -LRB-_-LRB- or_CC July_NNP ?_. -RRB-_-RRB-
+from_IN a_DT local_JJ not-so-big-box_JJ electronics-and-appliances_NNS store_NN -LRB-_-LRB- they_PRP have_VBP only_RB got_VBD 2_CD locations_NNS -RRB-_-RRB- for_IN $_$ 469.99_CD -LRB-_-LRB- they_PRP price_NN matched_VBD HH_NNP Gregg_NNP without_IN any_DT hassle_NN -RRB-_-RRB- +_NN tax_NN -_: 5_CD %_NN cash_NN back_RB on_IN my_PRP$ Citibank_NNP Mastercard_NNP ..._: $_$ 481.09_CD total_NN ._.
+Really_RB nice_JJ picture_NN quality_NN after_IN spending_VBG quite_RB a_DT bit_NN of_IN time_NN tweaking\/calibrating_VBG the_DT picture_NN -LRB-_-LRB- there_EX are_VBP tons_NNS of_IN picture_NN settings_NNS ,_, some_DT meant_VBD for_IN a_DT professional_JJ calibration_NN -RRB-_-RRB- ._.
+Very_RB nice_JJ picture_NN as_RB long_RB as_IN I_PRP am_VBP looking_VBG at_IN it_PRP straight_RB on_IN -LRB-_-LRB- I_PRP lost_VBD the_DT panel_NN lottery_NN and_CC got_VBD a_DT VA_NNP panel_NN :_: -LRB-_-LRB- -RRB-_-RRB- ._.
+PROS_NNS :_: \*_NN Lots_NNS of_IN inputs_NNS !_.
+TWO_CD composite_JJ ,_, TWO_CD component_NN -LRB-_-LRB- none_NN of_IN that_DT combined_VBN component\/composite_NN input_NN crap_NN -RRB-_-RRB- ,_, an_DT RF_NNP -LRB-_-LRB- would_MD not_RB really_RB be_VB a_DT TV_NN without_IN one_CD :_: -_: D_NNP -RRB-_-RRB- ,_, three_CD HDMI_NNP ,_, a_DT VGA_NNP -LRB-_-LRB- some_DT TV_NN 's_POS do_VBP not_RB have_VB this_DT -RRB-_-RRB- ,_, a_DT USB_NNP -LRB-_-LRB- to_TO view_VB pictures_NNS and_CC videos_NNS and_CC listen_VB to_TO music_NN from_IN a_DT thumb_NN drive_NN -RRB-_-RRB- ,_, and_CC a_DT headphone_NN jack_NN -LRB-_-LRB- quite_RB a_DT few_JJ TV_NN 's_POS nowadays_RB do_VBP not_RB even_RB have_VB an_DT analog_NN stereo_NN out_IN !_. -RRB-_-RRB-
+\*_SYM Nice_NNP HD_NNP and_CC decent_JJ SD_NNP picture_NN with_IN natural_JJ colors_NNS ..._: worlds_NNS better_JJR than_IN the_DT picture_NN of_IN the_DT 13_CD year_NN old_JJ Sanyo_NNP 32_CD '_POS CRT_NNP TV_NN it_PRP replaced_VBD ._.
+I_PRP did_VBD have_VB to_TO do_VB quite_RB a_DT bit_NN of_IN messing_VBG with_IN settings_NNS though_IN and_CC I_PRP have_VBP the_DT backlight_NN cranked_VBD out_RP to_TO nearly_RB the_DT max_NN values_NNS ._.
+I_PRP am_VBP worried_VBN that_IN the_DT backlight_NN will_MD crap_NN out_IN in_IN 5_CD years_NNS or_CC less_JJR since_IN this_DT TV_NN runs_VBZ about_IN 14-16_CD hours_NNS a_DT day_NN at_IN my_PRP$ house_NN ._.
+CONS_NNS :_: \*_SYM The_DT viewing_VBG angle_NN of_IN the_DT VA_NNP panel_NN !_.
+It_PRP 's_VBZ terrible_JJ !_.
+The_DT picture_NN looks_VBZ washed_VBN out_RP unless_IN I_PRP look_VBP at_IN the_DT TV_NN straight_RB on_RB ._.
+At_IN least_JJS the_DT stand_NN swivels_NNS and_CC I_PRP can_MD swivel_VB the_DT TV_NN so_IN I_PRP can_MD look_VB at_IN it_PRP straight_RB on_IN ,_, but_CC some_DT of_IN the_DT picture_NN is_VBZ cut_VBN off_RP when_WRB I_PRP swivel_VBP it_PRP in_IN the_DT entertainment_NN center_NN it_PRP sits_VBZ in_IN ._.
+\*_SYM The_DT sound_NN ._.
+It_PRP 's_VBZ not_RB horrible_JJ ,_, but_CC the_DT 32_CD '_'' Sanyo_NNP it_PRP replaced_VBD had_VBD MUCH_NNP better_JJR sound_NN ._.
+Being_VBG in_IN an_DT entertainment_NN center_NN cabinet_NN helps_VBZ the_DT sound_NN somewhat_RB ._.
+Overall_JJ :_: Nice_JJ TV_NN and_CC so_RB far_RB so_RB good_JJ ,_, but_CC I_PRP am_VBP wondering_VBG if_IN I_PRP would_MD have_VB been_VBN better_JJR off_RP to_TO pony_VB up_RP the_DT extra_JJ $_$ 100_CD -_: $_$ 200_CD for_IN an_DT LED-backlit_JJ model_NN since_IN this_DT TV_NN runs_VBZ 14_CD +_NN hours_NNS a_DT day_NN ?_.
+The_DT Sanyo_NNP CRT_NNP TV_NNP is_VBZ still_RB OK_JJ ,_, aside_RB from_IN the_DT cruddy_JJ picture_NN quality_NN ,_, after_IN being_VBG run_VBN 14_CD +_NN hours_NNS daily_RB for_IN 7 1\/2_CD years_NNS ._.

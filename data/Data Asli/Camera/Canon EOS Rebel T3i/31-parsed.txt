@@ -1,0 +1,41 @@
+=========
+
+root(ROOT-0, Bought-1)
+det(camera-3, this-2)
+dobj(Bought-1, camera-3)
+aux(replace-5, to-4)
+infmod(camera-3, replace-5)
+det(camera-9, an-6)
+amod(camera-9, older-7)
+nn(camera-9, Rebel-8)
+dobj(replace-5, camera-9)
+det(camera-12, this-11)
+nsubj(takes-13, camera-12)
+conj_and(Bought-1, takes-13)
+amod(pictures-15, amazing-14)
+dobj(takes-13, pictures-15)
+
+=========
+
+aux(matter-3, Does-1)
+neg(matter-3, not-2)
+root(ROOT-0, matter-3)
+nsubj(lense-5, what-4)
+ccomp(matter-3, lense-5)
+nsubj(on-8, you-6)
+aux(on-8, have-7)
+ccomp(lense-5, on-8)
+pobj(on-8, it-9)
+
+=========
+
+nsubj(tell-5, I-1)
+aux(tell-5, would-2)
+prep_for(tell-5, sure-4)
+root(ROOT-0, tell-5)
+dobj(tell-5, anyone-6)
+aux(invest-8, to-7)
+xcomp(tell-5, invest-8)
+det(camera-11, this-10)
+prep_in(invest-8, camera-11)
+

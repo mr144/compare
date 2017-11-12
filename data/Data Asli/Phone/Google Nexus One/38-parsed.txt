@@ -1,0 +1,41 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(phone-4, this-3)
+dobj(purchased-2, phone-4)
+nn(Electronics-7, Pavillion-6)
+prep_from(purchased-2, Electronics-7)
+nn(Berkowitz-10, Mitchel-9)
+appos(Electronics-7, Berkowitz-10)
+partmod(Electronics-7, fulfilled-12)
+agent(fulfilled-12, Amazon-14)
+amod(June-16, last-15)
+tmod(fulfilled-12, June-16)
+num(June-16, 2011-17)
+
+=========
+
+num(months-2, Six-1)
+npadvmod(later-3, months-2)
+advmod(working-8, later-3)
+det(phone-5, the-4)
+nsubj(working-8, phone-5)
+aux(working-8, is-6)
+neg(working-8, not-7)
+root(ROOT-0, working-8)
+advmod(working-8, properly-9)
+amod(screen-12, black-11)
+dobj(working-8, screen-12)
+prepc_after(screen-12, placing-14)
+det(call-16, a-15)
+dobj(placing-14, call-16)
+xsubj(remove-19, call-16)
+partmod(call-16, requiring-17)
+aux(remove-19, to-18)
+xcomp(requiring-17, remove-19)
+det(battery-21, the-20)
+dobj(remove-19, battery-21)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

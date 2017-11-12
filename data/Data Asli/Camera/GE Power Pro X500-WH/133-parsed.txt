@@ -1,0 +1,101 @@
+=========
+
+det(camera-2, This-1)
+nsubj(took-3, camera-2)
+root(ROOT-0, took-3)
+iobj(took-3, me-4)
+det(while-6, a-5)
+dobj(took-3, while-6)
+aux(learn-8, to-7)
+xcomp(took-3, learn-8)
+dobj(learn-8, it-9)
+mark(had-12, since-10)
+nsubj(had-12, I-11)
+advcl(learn-8, had-12)
+det(Camera-15, a-13)
+nn(Camera-15, Sony-14)
+dobj(had-12, Camera-15)
+prep_prior_to(had-12, this-18)
+
+=========
+
+advmod(love-4, Now-1)
+nsubj(love-4, I-3)
+root(ROOT-0, love-4)
+det(camera-7, this-5)
+amod(camera-7, little-6)
+dobj(love-4, camera-7)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(pictures-3, fantastic-2)
+dobj(Takes-1, pictures-3)
+amod(easy-7, lightweight-5)
+amod(pictures-3, easy-7)
+aux(carry-9, to-8)
+infmod(pictures-3, carry-9)
+dep(carry-9, with-10)
+pobj(with-10, you-11)
+dep(carry-9, always-13)
+conj_and(with-10, always-13)
+dep(with-10, ready-14)
+aux(go-16, to-15)
+xcomp(ready-14, go-16)
+
+=========
+
+nsubj(batteries-3, rechargeable-2)
+root(ROOT-0, batteries-3)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(Zoom-5, the-3)
+num(Zoom-5, 15-X-4)
+dobj(love-2, Zoom-5)
+det(color-9, the-8)
+nsubj(beautiful-13, color-9)
+advmod(beautiful-13, clarity-10)
+cop(beautiful-13, is-11)
+advmod(beautiful-13, absolutely-12)
+conj_and(love-2, beautiful-13)
+
+=========
+
+root(ROOT-0, What-1)
+det(camera-4, a-2)
+amod(camera-4, great-3)
+dep(What-1, camera-4)
+det(price-7, the-6)
+prep_for(camera-4, price-7)
+
+=========
+
+nsubj(paid-2, I-1)
+root(ROOT-0, paid-2)
+quantmod(much-5, twice-3)
+quantmod(much-5, as-4)
+dobj(paid-2, much-5)
+poss(Sony-8, my-7)
+prep_for(paid-2, Sony-8)
+det(camera-12, this-11)
+nsubj(does-13, camera-12)
+conj_and(paid-2, does-13)
+det(thing-17, the-14)
+amod(thing-17, exact-15)
+amod(thing-17, same-16)
+dobj(does-13, thing-17)
+
+=========
+
+nsubj(loveit-5, Love-1)
+appos(Love-1, love-3)
+root(ROOT-0, loveit-5)
+
+=========
+
+nn(B.-2, Jan-1)
+root(ROOT-0, B.-2)
+

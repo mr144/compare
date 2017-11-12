@@ -1,0 +1,2 @@
+The_DT camera_NN itself_PRP is_VBZ great_JJ ,_, but_CC when_WRB we_PRP received_VBD the_DT item_NN it_PRP did_VBD not_RB work_VB properly_RB ._.
+Customer_NN service_NN was_VBD great_JJ and_CC sent_VBD us_PRP out_RP another_DT immediately_RB ._.

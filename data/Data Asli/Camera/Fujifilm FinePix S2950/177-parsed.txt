@@ -1,0 +1,59 @@
+=========
+
+csubj(takes-7, had-1)
+advmod(month-5, about-3)
+det(month-5, a-4)
+prep_for(had-1, month-5)
+advmod(takes-7, now-6)
+root(ROOT-0, takes-7)
+amod(photos-9, great-8)
+dobj(takes-7, photos-9)
+
+=========
+
+nn(finepix-3, May-1)
+amod(finepix-3, old-2)
+nsubj(7mp-5, finepix-3)
+cop(7mp-5, was-4)
+root(ROOT-0, 7mp-5)
+nsubj(base-7, this-6)
+ccomp(7mp-5, base-7)
+det(camera-10, the-8)
+amod(camera-10, same-9)
+nsubj(MP-13, camera-10)
+advmod(MP-13, just-11)
+advmod(MP-13, more-12)
+xcomp(base-7, MP-13)
+
+=========
+
+advmod(leading-2, Still-1)
+root(ROOT-0, leading-2)
+advmod(make-5, how-3)
+aux(make-5, to-4)
+ccomp(leading-2, make-5)
+xcomp(leading-2, make-5)
+det(adjustments-7, the-6)
+dobj(make-5, adjustments-7)
+det(lay-10, the-9)
+npadvmod(out-11, lay-10)
+advmod(change-12, out-11)
+conj_and(leading-2, change-12)
+dobj(change-12, some-13)
+
+=========
+
+advmod(down-2, Only-1)
+advmod(cap-7, down-2)
+nsubj(cap-7, side-3)
+nsubj(comes-11, side-3)
+cop(cap-7, is-4)
+det(cap-7, the-5)
+nn(cap-7, lens-6)
+root(ROOT-0, cap-7)
+aux(lose-9, is-8)
+rcmod(cap-7, lose-9)
+conj_and(cap-7, comes-11)
+prt(comes-11, off-12)
+prep_to(comes-11, easy-14)
+

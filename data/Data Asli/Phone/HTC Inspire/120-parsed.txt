@@ -1,0 +1,75 @@
+=========
+
+aux(work-3, Does-1)
+neg(work-3, not-2)
+root(ROOT-0, work-3)
+amod(network-6, T-mobile-5)
+prep_on(work-3, network-6)
+mark(advertised-8, as-7)
+advcl(work-3, advertised-8)
+
+=========
+
+nsubj(phone-6, This-1)
+cop(phone-6, is-2)
+neg(phone-6, not-3)
+det(phone-6, an-4)
+amod(phone-6, unlocked-5)
+ccomp(phone-13, phone-6)
+nsubj(phone-13, it-8)
+cop(phone-13, is-9)
+det(phone-13, an-10)
+nn(phone-13, AT&T-11)
+nn(phone-13, branded-12)
+root(ROOT-0, phone-13)
+
+=========
+
+nsubj(pissed-4, I-1)
+cop(pissed-4, am-2)
+advmod(pissed-4, so-3)
+root(ROOT-0, pissed-4)
+
+=========
+
+nsubj(activated-3, I-1)
+xsubj(find-10, I-1)
+advmod(activated-3, just-2)
+root(ROOT-0, activated-3)
+det(account-7, a-4)
+amod(account-7, new-5)
+amod(account-7, T-mobile-6)
+dobj(activated-3, account-7)
+advmod(activated-3, only-8)
+aux(find-10, to-9)
+xcomp(activated-3, find-10)
+prt(find-10, out-11)
+complm(phone-17, that-12)
+nsubj(phone-17, this-13)
+cop(phone-17, is-14)
+det(phone-17, an-15)
+nn(phone-17, AT&T-16)
+ccomp(find-10, phone-17)
+
+=========
+
+nsubj(AT&T-3, It-1)
+nsubj(loaded-11, It-1)
+aux(AT&T-3, has-2)
+root(ROOT-0, AT&T-3)
+advmod(AT&T-3, right-4)
+det(phone-7, the-6)
+prep_on(AT&T-3, phone-7)
+conj_and(AT&T-3, loaded-11)
+poss(apps-14, their-13)
+prep_with(AT&T-3, apps-14)
+
+=========
+
+nsubj(uses-2, T-mobile-1)
+root(ROOT-0, uses-2)
+amod(frequency-4, different-3)
+nsubj('s-5, frequency-4)
+ccomp(uses-2, 's-5)
+prep_than('s-5, AT&T-7)
+

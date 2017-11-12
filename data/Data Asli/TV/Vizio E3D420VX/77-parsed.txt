@@ -1,0 +1,45 @@
+=========
+
+nsubj(size-2, Perfect-1)
+root(ROOT-0, size-2)
+det(picture-8, the-4)
+amod(picture-8, bedroom-5)
+amod(picture-8, great-7)
+prep_for(size-2, picture-8)
+prep_for(size-2, 3d-12)
+conj_and(picture-8, 3d-12)
+
+=========
+
+amod(glasses-2, 3d-1)
+nsubjpass(included-4, glasses-2)
+auxpass(included-4, are-3)
+ccomp(use-7, included-4)
+nsubj(use-7, they-6)
+root(ROOT-0, use-7)
+det(one-10, the-8)
+amod(one-10, same-9)
+dobj(use-7, one-10)
+det(theaters-14, the-12)
+nn(theaters-14, movie-13)
+prep_at(use-7, theaters-14)
+
+=========
+
+nsubj(features-4, Lots-1)
+prep_of(Lots-1, app-3)
+root(ROOT-0, features-4)
+dobj(features-4, Netflix-5)
+dobj(features-4, amazon-7)
+conj_and(Netflix-5, amazon-7)
+amod(amazon-7, prime-8)
+dobj(features-4, Facebook-10)
+conj_and(Netflix-5, Facebook-10)
+dobj(features-4, Hulu-12)
+conj_and(Netflix-5, Hulu-12)
+dobj(features-4, voodo-14)
+conj_and(Netflix-5, voodo-14)
+amod(more-17, many-16)
+dobj(features-4, more-17)
+conj_and(Netflix-5, more-17)
+

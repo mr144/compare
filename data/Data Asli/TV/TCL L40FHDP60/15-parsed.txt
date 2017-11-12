@@ -1,0 +1,71 @@
+=========
+
+nsubj(recommends-4, I-1)
+aux(recommends-4, would-2)
+advmod(recommends-4, definitely-3)
+root(ROOT-0, recommends-4)
+dobj(recommends-4, this-5)
+prep_to(recommends-4, friends-7)
+prep_to(recommends-4, family-9)
+conj_and(friends-7, family-9)
+
+=========
+
+root(ROOT-0, Great-1)
+amod(warranty-3, 2yr-2)
+dep(Great-1, warranty-3)
+
+=========
+
+nsubj(see-4, You-1)
+aux(see-4, do-2)
+neg(see-4, not-3)
+root(ROOT-0, see-4)
+amod(TVs-7, many-6)
+prep_to(see-4, TVs-7)
+amod(warranty-10, 2yr-9)
+prep_with(see-4, warranty-10)
+
+=========
+
+nsubj(works-2, TV-1)
+nsubj(great-5, TV-1)
+root(ROOT-0, works-2)
+dep(great-5, functions-4)
+conj_and(works-2, great-5)
+
+=========
+
+amod(control-2, Remote-1)
+nsubj(user-4, control-2)
+cop(user-4, is-3)
+root(ROOT-0, user-4)
+amod(user-4, friendly-5)
+
+=========
+
+cc(cant-6, And-1)
+det(price-4, the-3)
+prep_for(cant-6, price-4)
+nsubj(cant-6, you-5)
+root(ROOT-0, cant-6)
+dep(cant-6, beat-7)
+dobj(beat-7, it-8)
+
+=========
+
+nsubj(heard-2, I-1)
+root(ROOT-0, heard-2)
+det(company-5, this-4)
+prep_about(heard-2, company-5)
+prep_on(company-5, one-7)
+det(episodes-10, the-9)
+prep_of(one-7, episodes-10)
+prep_of(episodes-10, GEEKTIME-12)
+prep_on(heard-2, Siriusxm-14)
+
+=========
+
+amod(recommendation-2, Great-1)
+root(ROOT-0, recommendation-2)
+

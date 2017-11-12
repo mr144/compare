@@ -1,0 +1,30 @@
+=========
+
+dep(need-2, please-1)
+root(ROOT-0, need-2)
+nn(Product-4, goodnight-3)
+nsubj(send-8, Product-4)
+dep(send-8, invoice-5)
+mark(send-8, if-6)
+nsubj(send-8, possible-7)
+xcomp(need-2, send-8)
+dobj(send-8, me-9)
+prep_via(send-8, email-11)
+
+=========
+
+root(ROOT-0, thanksbuenas-1)
+amod(que-4, noches-2)
+nn(que-4, necesito-3)
+dobj(thanksbuenas-1, que-4)
+dobj(envien-6, que-4)
+nsubj(envien-6, me-5)
+rcmod(que-4, envien-6)
+prep_via(envien-6, email-8)
+prep(email-8, la-9)
+pobj(la-9, factura-10)
+nn(compra-13, de-11)
+nn(compra-13, la-12)
+nsubj(thanksbuenas-1, compra-13)
+appos(compra-13, gracias-15)
+

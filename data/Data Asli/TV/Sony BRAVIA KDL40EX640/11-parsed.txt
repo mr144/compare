@@ -1,0 +1,26 @@
+=========
+
+det(Sony-2, the-1)
+nsubj(does-3, Sony-2)
+root(ROOT-0, does-3)
+nsubjpass(expected-6, what-4)
+auxpass(expected-6, is-5)
+dep(picture-11, expected-6)
+prep_from(expected-6, Sony-8)
+amod(picture-11, great-10)
+dobj(does-3, picture-11)
+amod(apps-14, easy-13)
+dobj(does-3, apps-14)
+conj_and(picture-11, apps-14)
+advmod(good-18, surprisingly-17)
+amod(sound-19, good-18)
+dobj(does-3, sound-19)
+conj_and(picture-11, sound-19)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(TV-4, this-3)
+dobj(recommend-2, TV-4)
+

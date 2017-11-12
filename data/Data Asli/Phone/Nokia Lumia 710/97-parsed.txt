@@ -1,0 +1,116 @@
+=========
+
+det(screen-2, The-1)
+nsubj(beautiful-4, screen-2)
+cop(beautiful-4, is-3)
+root(ROOT-0, beautiful-4)
+
+=========
+
+nsubj(asked-2, People-1)
+root(ROOT-0, asked-2)
+dep(have-9, about-3)
+det(kind-5, what-4)
+pobj(about-3, kind-5)
+prep_of(kind-5, phone-7)
+nsubj(have-9, I-8)
+ccomp(asked-2, have-9)
+det(lot-11, a-10)
+dobj(have-9, lot-11)
+prep_of(lot-11, times-13)
+tmod(saw-16, times-13)
+advmod(saw-16, when-14)
+nsubj(saw-16, they-15)
+dep(times-13, saw-16)
+poss(phone-18, my-17)
+dobj(saw-16, phone-18)
+
+=========
+
+root(ROOT-0, Fast-1)
+nn(responses-3, touch-2)
+dobj(Fast-1, responses-3)
+
+=========
+
+prep_wonderful(use-6, WiFi-2)
+nsubj(use-6, I-4)
+aux(use-6, can-5)
+root(ROOT-0, use-6)
+nn(WiFi-8, Xfinity-7)
+nsubj(have-14, WiFi-8)
+dep(have-14, free-9)
+advmod(everywhere-11, almost-10)
+advmod(have-14, everywhere-11)
+dep(have-14, since-12)
+nsubj(have-14, I-13)
+xcomp(use-6, have-14)
+nn(internet-16, Comcast-15)
+dobj(have-14, internet-16)
+prep_at(internet-16, home-18)
+
+=========
+
+nsubj(phone-5, It-1)
+cop(phone-5, 's-2)
+det(phone-5, a-3)
+nn(phone-5, Windows-4)
+root(ROOT-0, phone-5)
+mark(need-8, so-6)
+nsubj(need-8, you-7)
+xsubj(get-10, you-7)
+advcl(phone-5, need-8)
+aux(get-10, to-9)
+xcomp(need-8, get-10)
+dobj(get-10, use-11)
+prep_to(get-10, it-13)
+
+=========
+
+root(ROOT-0, Lots-1)
+amod(apps-4, free-3)
+prep_of(Lots-1, apps-4)
+prep_of(Lots-1, games-7)
+conj_and(apps-4, games-7)
+
+=========
+
+nsubj(play-2, I-1)
+root(ROOT-0, play-2)
+amod(party-4, Shuffle-3)
+iobj(play-2, party-4)
+predet(time-7, all-5)
+det(time-7, the-6)
+dobj(play-2, time-7)
+advmod(am-10, when-8)
+nsubj(am-10, I-9)
+advcl(play-2, am-10)
+det(bus-13, a-12)
+prep_on(am-10, bus-13)
+prep_on(am-10, train-15)
+conj_or(bus-13, train-15)
+
+=========
+
+amod(functions-2, Wonderful-1)
+root(ROOT-0, functions-2)
+dep(functions-2, and-4)
+nsubj(cheaper-8, it-5)
+cop(cheaper-8, is-6)
+advmod(cheaper-8, much-7)
+dep(functions-2, cheaper-8)
+mark(android-13, than-9)
+nsubj(android-13, iPhone-10)
+conj_or(iPhone-10, Samsung-12)
+nsubj(android-13, Samsung-12)
+advcl(cheaper-8, android-13)
+dobj(android-13, phones-14)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+prep_about(happy-4, it-6)
+

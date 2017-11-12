@@ -1,0 +1,60 @@
+=========
+
+det(camera-2, This-1)
+nsubj(awesome-4, camera-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(differnce-4, the-3)
+dobj(like-2, differnce-4)
+prep_of(differnce-4, it-6)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, awesome-3)
+dobj(takes-2, pictures-4)
+
+=========
+
+nsubj(had-4, I-1)
+aux(had-4, have-2)
+neg(had-4, not-3)
+dep(learning-11, had-4)
+dobj(had-4, it-5)
+advmod(so-7, long-6)
+advmod(had-4, so-7)
+nsubj(learning-11, I-8)
+aux(learning-11, am-9)
+advmod(learning-11, still-10)
+root(ROOT-0, learning-11)
+det(features-13, the-12)
+dobj(learning-11, features-13)
+
+=========
+
+dep(did-11, Taking-1)
+dobj(Taking-1, it-2)
+det(mountains-5, the-4)
+prep_to(Taking-1, mountains-5)
+predet(captures-9, all-7)
+det(captures-9, the-8)
+prep_to(Taking-1, captures-9)
+conj_and(mountains-5, captures-9)
+nsubj(did-11, I-10)
+root(ROOT-0, did-11)
+det(camera-13, this-12)
+nsubj(AWESOME-15, camera-13)
+cop(AWESOME-15, is-14)
+ccomp(did-11, AWESOME-15)
+
+=========
+
+nsubj(purchase-2, Great-1)
+root(ROOT-0, purchase-2)
+

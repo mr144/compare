@@ -1,0 +1,39 @@
+=========
+
+det(colors-2, The-1)
+nsubj(vibrant-4, colors-2)
+cop(vibrant-4, are-3)
+root(ROOT-0, vibrant-4)
+
+=========
+
+det(3D-2, The-1)
+nsubj(wonderful-4, 3D-2)
+cop(wonderful-4, is-3)
+ccomp(wait-9, wonderful-4)
+nsubj(wait-9, I-6)
+aux(wait-9, can-7)
+neg(wait-9, not-8)
+root(ROOT-0, wait-9)
+mark(broadcast-14, until-10)
+amod(shows-12, more-11)
+nsubjpass(broadcast-14, shows-12)
+auxpass(broadcast-14, are-13)
+advcl(wait-9, broadcast-14)
+prep_in(broadcast-14, 3D-16)
+
+=========
+
+nsubj(happier-5, I-1)
+aux(happier-5, could-2)
+neg(happier-5, not-3)
+cop(happier-5, be-4)
+root(ROOT-0, happier-5)
+det(product-8, the-7)
+prep_with(happier-5, product-8)
+det(price-11, the-10)
+nsubj(is-12, price-11)
+conj_and(happier-5, is-12)
+advmod(too-14, right-13)
+advmod(is-12, too-14)
+

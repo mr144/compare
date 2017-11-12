@@ -1,0 +1,48 @@
+=========
+
+det(tv-3, A-1)
+amod(tv-3, smart-2)
+nsubj(they-6, tv-3)
+cop(they-6, is-4)
+advmod(they-6, absolutely-5)
+root(ROOT-0, they-6)
+advmod(go-9, way-7)
+aux(go-9, to-8)
+xcomp(they-6, go-9)
+
+=========
+
+nsubj(goes-2, It-1)
+nsubj(includes-9, It-1)
+root(ROOT-0, goes-2)
+advmod(goes-2, well-3)
+det(browser-7, a-5)
+nn(browser-7, web-6)
+prep_beyond(goes-2, browser-7)
+conj_and(goes-2, includes-9)
+dobj(includes-9, applications-10)
+advmod(includes-9, much-11)
+poss(android-14, your-13)
+prep_like(much-11, android-14)
+prep_like(much-11, iPhone-16)
+conj_or(android-14, iPhone-16)
+
+=========
+
+det(access-3, The-1)
+nn(access-3, WiFi-2)
+nsubj(allows-5, access-3)
+advmod(allows-5, also-4)
+root(ROOT-0, allows-5)
+prepc_for(allows-5, updating-7)
+det(TV-9, the-8)
+poss(software-11, TV-9)
+dobj(updating-7, software-11)
+
+=========
+
+det(picture-2, The-1)
+nsubj(incredible-4, picture-2)
+cop(incredible-4, is-3)
+root(ROOT-0, incredible-4)
+

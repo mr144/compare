@@ -1,0 +1,30 @@
+=========
+
+nsubj(needed-2, I-1)
+xsubj(address-4, I-1)
+root(ROOT-0, needed-2)
+aux(address-4, to-3)
+xcomp(needed-2, address-4)
+dobj(address-4, concerns-5)
+poss(purchase-8, my-7)
+prep_about(concerns-5, purchase-8)
+det(company-11, the-10)
+dobj(address-4, company-11)
+conj_and(concerns-5, company-11)
+xsubj(ensure-19, company-11)
+dep(company-11, communicated-12)
+advmod(communicated-12, well-13)
+dep(company-11, worked-15)
+conj_and(communicated-12, worked-15)
+prep_with(worked-15, me-17)
+aux(ensure-19, to-18)
+xcomp(worked-15, ensure-19)
+poss(satisfaction-21, my-20)
+dobj(ensure-19, satisfaction-21)
+
+=========
+
+aux(recommend-2, Would-1)
+root(ROOT-0, recommend-2)
+nsubj(recommend-2, them-3)
+

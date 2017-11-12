@@ -1,0 +1,32 @@
+=========
+
+amod(product-2, Great-1)
+nsubj(!!-7, product-2)
+det(value-6, a-4)
+amod(value-6, great-5)
+prep_for(product-2, value-6)
+root(ROOT-0, !!-7)
+det(sound-9, The-8)
+nsubj(wonderful-13, sound-9)
+nsubj(clear-15, sound-9)
+conj_and(sound-9, picture-11)
+nsubj(wonderful-13, picture-11)
+cop(wonderful-13, are-12)
+ccomp(!!-7, wonderful-13)
+ccomp(!!-7, clear-15)
+conj_and(wonderful-13, clear-15)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(purchase-7, this-6)
+prep_with(happy-4, purchase-7)
+det(quickness-10, the-9)
+prep_with(happy-4, quickness-10)
+conj_and(purchase-7, quickness-10)
+det(shipping-13, the-12)
+prep_of(quickness-10, shipping-13)
+

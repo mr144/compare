@@ -1,0 +1,32 @@
+=========
+
+root(ROOT-0, Great-1)
+amod(point-3, little-2)
+dep(Great-1, point-3)
+amod(camera-7, light-5)
+amod(camera-7, weighted-6)
+dep(Great-1, camera-7)
+conj_and(point-3, camera-7)
+
+=========
+
+amod(features-2, Many-1)
+nsubj(are-6, features-2)
+amod(features-2, available-3)
+amod(features-2, pictures-5)
+conj_and(available-3, pictures-5)
+root(ROOT-0, are-6)
+advmod(good-9, very-8)
+amod(quality-10, good-9)
+prep_of(are-6, quality-10)
+
+=========
+
+advmod(excited-2, Very-1)
+root(ROOT-0, excited-2)
+det(camera-5, this-4)
+prep_with(excited-2, camera-5)
+det(features-8, the-7)
+prep_with(excited-2, features-8)
+conj_and(camera-5, features-8)
+

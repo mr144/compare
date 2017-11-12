@@ -1,0 +1,37 @@
+=========
+
+det(CAMERA-2, THE-1)
+nsubj(GREAT-4, CAMERA-2)
+aux(GREAT-4, IS-3)
+root(ROOT-0, GREAT-4)
+det(PERFECT-10, NO-5)
+nn(PERFECT-10, EDITING-6)
+nn(PERFECT-10, NECESSARY-7)
+nn(PERFECT-10, TAKES-8)
+nn(PERFECT-10, PHOTOS-9)
+dobj(GREAT-4, PERFECT-10)
+
+=========
+
+det(CAMERA-2, THE-1)
+nsubj(EASY-4, CAMERA-2)
+cop(EASY-4, IS-3)
+root(ROOT-0, EASY-4)
+aux(USE-6, TO-5)
+xcomp(EASY-4, USE-6)
+nsubjpass(PREPARED-9, JUST-7)
+xsubj(HAVE-11, JUST-7)
+auxpass(PREPARED-9, BE-8)
+ccomp(USE-6, PREPARED-9)
+aux(HAVE-11, TO-10)
+xcomp(PREPARED-9, HAVE-11)
+det(CHARGER-14, A-12)
+nn(CHARGER-14, EXTRA-13)
+dobj(HAVE-11, CHARGER-14)
+det(CARD-20, A-16)
+nn(CARD-20, HIGH-17)
+nn(CARD-20, GB-18)
+nn(CARD-20, MEMORY-19)
+dobj(HAVE-11, CARD-20)
+conj_and(CHARGER-14, CARD-20)
+

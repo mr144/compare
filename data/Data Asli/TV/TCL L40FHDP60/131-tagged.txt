@@ -1,0 +1,6 @@
+I_PRP do_VBP not_RB know_VB what_WP i_FW expected_VBN when_WRB i_FW ordered_VBN TCL_NNP 40_CD inch_NN lcd_NN tv_NN ._.
+I_PRP was_VBD looking_VBG for_IN an_DT inexpensive_JJ tv_NN for_IN sons_NNS room_NN ._.
+Super_NNP pleased_VBD to_TO recieve_VB a_DT really_RB fine_JJ quality_NN product_NN ._.
+I_PRP am_VBP not_RB a_DT techy_JJ ,_, but_CC it_PRP meets_VBZ all_DT my_PRP$ needs_NNS ,_, great_JJ pic_NN ,_, color_NN ,_, and_CC sound_NN ._.
+Would_MD like_VB a_DT 3rd_JJ HDMI_NNP ,_, but_CC no_DT big_JJ deal_NN ._.
+Liked_VBN it_PRP and_CC price_NN ,_, I_PRP bought_VBD another_DT for_IN my_PRP$ bedroom_NN ,_, two_CD year_NN warranty_NN a_DT plus_NN ._.

@@ -1,0 +1,179 @@
+=========
+
+nsubj(received-2, I-1)
+root(ROOT-0, received-2)
+det(TV-4, this-3)
+dobj(received-2, TV-4)
+advmod(than-7, much-5)
+advmod(than-7, faster-6)
+advmod(expected-8, than-7)
+partmod(TV-4, expected-8)
+
+=========
+
+nsubj(took-2, I-1)
+root(ROOT-0, took-2)
+dobj(took-2, it-3)
+det(box-7, the-6)
+prep_out_of(took-2, box-7)
+partmod(took-2, connected-9)
+dobj(connected-9, it-10)
+poss(box-14, my-12)
+nn(box-14, cable-13)
+prep_to(connected-9, box-14)
+det(wire-18, an-16)
+nn(wire-18, HDMI-17)
+prep_with(connected-9, wire-18)
+det(minutes-24, a-22)
+amod(minutes-24, few-23)
+prep_in(set-29, minutes-24)
+det(TV-26, the-25)
+nsubjpass(set-29, TV-26)
+auxpass(set-29, was-27)
+advmod(set-29, all-28)
+conj_and(took-2, set-29)
+prep_to(set-29, view-31)
+
+=========
+
+det(picture-2, The-1)
+nsubj(amazing-4, picture-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+nsubj(sharp-3, It-1)
+nsubj(clear-5, It-1)
+cop(sharp-3, is-2)
+root(ROOT-0, sharp-3)
+conj_and(sharp-3, clear-5)
+
+=========
+
+det(size-3, The-1)
+nn(size-3, screen-2)
+nsubj(perfect-5, size-3)
+cop(perfect-5, is-4)
+root(ROOT-0, perfect-5)
+poss(apt-8, my-7)
+prep_for(perfect-5, apt-8)
+
+=========
+
+amod(room-2, living-1)
+nsubj(sharp-8, room-2)
+nsubj(clear-10, room-2)
+det(audio-5, the-4)
+conj_and(room-2, audio-5)
+nsubj(sharp-8, audio-5)
+cop(sharp-8, is-6)
+advmod(sharp-8, also-7)
+root(ROOT-0, sharp-8)
+conj_and(sharp-8, clear-10)
+
+=========
+
+nsubj(looked-2, I-1)
+root(ROOT-0, looked-2)
+amod(TVs-5, other-4)
+prep_at(looked-2, TVs-5)
+nsubj(replacing-10, I-8)
+aux(replacing-10, was-9)
+conj_but(looked-2, replacing-10)
+det(inch-14, a-11)
+nn(inch-14, Sony-12)
+num(inch-14, 40-13)
+dobj(replacing-10, inch-14)
+det(Bravia-18, the-16)
+nn(Bravia-18, Sony-17)
+nsubj(has-20, Bravia-18)
+advmod(has-20, just-19)
+conj_but(looked-2, has-20)
+conj_and(replacing-10, has-20)
+det(picture-23, a-21)
+amod(picture-23, better-22)
+dobj(has-20, picture-23)
+
+=========
+
+nsubj(fine-3, It-1)
+cop(fine-3, is-2)
+root(ROOT-0, fine-3)
+prep_for(fine-3, me-5)
+mark(want-10, if-8)
+nsubj(want-10, you-9)
+xsubj(hook-12, you-9)
+advcl(is-23, want-10)
+aux(hook-12, to-11)
+xcomp(want-10, hook-12)
+advmod(more-14, up-13)
+advmod(hook-12, more-14)
+det(box-18, the-16)
+nn(box-18, cable-17)
+prep_than(hook-12, box-18)
+det(DVD-21, a-20)
+prep_than(hook-12, DVD-21)
+conj_and(box-18, DVD-21)
+nsubj(is-23, this-22)
+conj_but(fine-3, is-23)
+neg(is-23, not-24)
+prep_for(is-23, you-26)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+advmod(ports-5, only-3)
+num(ports-5, 2-4)
+npadvmod(available-6, ports-5)
+acomp(are-2, available-6)
+
+=========
+
+mark(is-8, If-1)
+det(picture-7, a-2)
+amod(picture-7, clear-3)
+conj_and(clear-3, beautiful-5)
+amod(picture-7, beautiful-5)
+nn(picture-7, color-6)
+nsubj(is-8, picture-7)
+advcl(match-16, is-8)
+dobj(want-11, what-9)
+nsubj(want-11, you-10)
+ccomp(is-8, want-11)
+prep_with(match-16, audio-14)
+aux(match-16, to-15)
+root(ROOT-0, match-16)
+advmod(match-16, then-18)
+nsubj(choice-24, this-19)
+cop(choice-24, is-20)
+det(choice-24, a-21)
+advmod(good-23, very-22)
+amod(choice-24, good-23)
+ccomp(match-16, choice-24)
+
+=========
+
+det(lack-2, The-1)
+nsubj(is-6, lack-2)
+amod(inputs-5, more-4)
+prep_of(lack-2, inputs-5)
+root(ROOT-0, is-6)
+advmod(gave-9, why-7)
+nsubj(gave-9, I-8)
+advcl(is-6, gave-9)
+iobj(gave-9, it-10)
+num(stars-12, 4-11)
+dobj(gave-9, stars-12)
+
+=========
+
+nsubj(works-3, It-1)
+advmod(works-3, really-2)
+root(ROOT-0, works-3)
+prep_for(works-3, me-5)
+det(star-9, a-7)
+num(star-9, 5-8)
+prep_like(works-3, star-9)
+

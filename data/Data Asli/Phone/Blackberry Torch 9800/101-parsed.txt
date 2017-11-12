@@ -1,0 +1,42 @@
+=========
+
+nsubj(get-2, You-1)
+root(ROOT-0, get-2)
+dep(pay-5, what-3)
+nsubj(pay-5, you-4)
+ccomp(get-2, pay-5)
+prep(pay-5, for-6)
+
+=========
+
+nsubj(phone-5, This-1)
+cop(phone-5, is-2)
+det(phone-5, a-3)
+amod(phone-5, GREAT-4)
+root(ROOT-0, phone-5)
+nsubj(worth-9, what-7)
+cop(worth-9, is-8)
+prepc_for(phone-5, worth-9)
+advmod(worth-9, now-10)
+det(days-12, a-11)
+attr(worth-9, days-12)
+tmod(worth-9, days-12)
+
+=========
+
+dep(are-4, Sure-1)
+expl(are-4, there-3)
+root(ROOT-0, are-4)
+amod(phones-6, better-5)
+nsubj(are-4, phones-6)
+nsubj(think-12, I-9)
+aux(think-12, do-10)
+neg(think-12, not-11)
+conj_but(are-4, think-12)
+expl(are-14, there-13)
+ccomp(think-12, are-14)
+amod(phones-16, better-15)
+nsubj(are-14, phones-16)
+det(price-19, this-18)
+prep_for(phones-16, price-19)
+

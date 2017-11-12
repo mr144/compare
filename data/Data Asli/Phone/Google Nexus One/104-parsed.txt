@@ -1,0 +1,42 @@
+=========
+
+nsubj(phone-6, This-1)
+cop(phone-6, is-2)
+poss(phone-6, my-3)
+amod(phone-6, first-4)
+amod(phone-6, smart-5)
+root(ROOT-0, phone-6)
+nsubj(love-9, I-8)
+conj_and(phone-6, love-9)
+dobj(love-9, it-10)
+
+=========
+
+nn(OS-2, Updated-1)
+nsubj(clear-11, OS-2)
+num(issues-6, 2.3.4-4)
+nn(issues-6, No-5)
+prep_to(OS-2, issues-6)
+nn(connectionCalls-9, WIFI-8)
+prep_with(issues-6, connectionCalls-9)
+cop(clear-11, are-10)
+root(ROOT-0, clear-11)
+
+=========
+
+root(ROOT-0, Burned-1)
+poss(today-6, my-2)
+amod(today-6, first-3)
+amod(today-6, android-4)
+nn(today-6, program-5)
+tmod(Burned-1, today-6)
+xcomp(Burned-1, using-7)
+nn(IDE-9, eclipse-8)
+dobj(using-7, IDE-9)
+
+=========
+
+det(issues-2, No-1)
+root(ROOT-0, issues-2)
+dep(issues-2, there-3)
+

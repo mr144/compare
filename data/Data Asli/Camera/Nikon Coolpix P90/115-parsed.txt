@@ -1,0 +1,42 @@
+=========
+
+root(ROOT-0, Took-1)
+det(camera-3, this-2)
+dobj(Took-1, camera-3)
+nn(reunionGot-6, family-5)
+prep_on(camera-3, reunionGot-6)
+amod(pictures-9, great-7)
+nn(pictures-9, scenery-8)
+npadvmod(Took-1, pictures-9)
+amod(pictures-13, womderful-12)
+prep_along_with(Took-1, pictures-13)
+det(family-16, the-15)
+prep_of(pictures-13, family-16)
+
+=========
+
+root(ROOT-0, Found-1)
+nsubj(easy-3, it-2)
+xcomp(Found-1, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+det(quality-8, the-7)
+nsubj(wonderful-13, quality-8)
+det(pictures-11, the-10)
+prep_of(quality-8, pictures-11)
+cop(wonderful-13, was-12)
+conj_and(Found-1, wonderful-13)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+poss(decision-7, my-6)
+prep_with(happy-4, decision-7)
+aux(buy-9, to-8)
+infmod(decision-7, buy-9)
+det(model-11, this-10)
+dobj(buy-9, model-11)
+

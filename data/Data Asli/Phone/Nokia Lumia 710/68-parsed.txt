@@ -1,0 +1,24 @@
+=========
+
+det(phone-3, The-1)
+amod(phone-3, best-2)
+npadvmod(though-10, phone-3)
+det(Bang-6, no-5)
+appos(phone-3, Bang-6)
+poss(buck-9, your-8)
+prep_for(Bang-6, buck-9)
+advmod(best-15, though-10)
+nsubj(best-15, it-12)
+cop(best-15, is-13)
+det(best-15, the-14)
+root(ROOT-0, best-15)
+nsubjpass(had-19, best-15)
+aux(had-19, can-17)
+auxpass(had-19, be-18)
+rcmod(best-15, had-19)
+
+=========
+
+root(ROOT-0, Love-1)
+dobj(Love-1, it-2)
+

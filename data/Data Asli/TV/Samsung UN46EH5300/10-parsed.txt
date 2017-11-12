@@ -1,0 +1,22 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(have-3, I-1)
+xsubj(figure-5, I-1)
+advmod(have-3, just-2)
+root(ROOT-0, have-3)
+aux(figure-5, to-4)
+xcomp(have-3, figure-5)
+prt(figure-5, out-6)
+advmod(live-9, how-7)
+aux(live-9, to-8)
+ccomp(figure-5, live-9)
+xcomp(figure-5, live-9)
+neg(watching-12, not-11)
+prepc_with(live-9, watching-12)
+nsubj(Tube-14, You-13)
+xcomp(watching-12, Tube-14)
+poss(tv-17, my-16)
+prep_on(Tube-14, tv-17)
+

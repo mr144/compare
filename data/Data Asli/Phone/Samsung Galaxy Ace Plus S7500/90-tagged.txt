@@ -1,0 +1,9 @@
+To_TO begin_VB with_IN ,_, this_DT is_VBZ a_DT very_RB sleek_JJ phone_NN with_IN an_DT easy_JJ to_TO grasp_VB operating_NN system_NN ._.
+The_DT phone_NN itself_PRP is_VBZ light_JJ but_CC seems_VBZ sturdy_JJ and_CC well-built_JJ ._.
+Button_NN placement_NN is_VBZ logical_JJ with_IN crisp_JJ actions_NNS ._.
+However_RB ,_, performing_VBG operations_NNS beyond_IN dialing_VBG on_IN this_DT phone_NN is_VBZ tedious_JJ ._.
+If_IN you_PRP have_VBP ever_RB owned_VBN an_DT old_JJ computer_NN on_IN which_WDT you_PRP installed_VBD the_DT latest_JJS operating_NN system_NN ,_, you_PRP know_VBP what_WP I_PRP mean_VBP ._.
+Having_VBG more_JJR than_IN one_CD user_NN application_NN open_JJ at_IN any_DT given_VBN time_NN noticeably_RB slows_VBZ the_DT entire_JJ system_NN ._.
+Make_VB the_DT mistake_NN of_IN using_VBG two_CD or_CC more_RBR relatively_RB tame_JJ applications_NNS at_IN the_DT same_JJ time_NN and_CC you_PRP are_VBP likely_JJ to_TO freeze_VB the_DT entire_JJ system_NN ._.
+I_PRP put_VBD most_JJS of_IN the_DT blame_NN on_IN how_WRB Android_NNP treats_VBZ background_NN operations_NNS ,_, but_CC the_DT phone_NN hardware_NN is_VBZ equally_RB liable_JJ ._.
+Skip_VB this_DT phone_NN and_CC get_VB an_DT older_JJR iPhone_NN or_CC perhaps_RB the_DT Galaxy_NNP S2_NNP ._.

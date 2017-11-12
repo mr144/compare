@@ -1,0 +1,29 @@
+=========
+
+root(ROOT-0, Im-1)
+xcomp(Im-1, using-2)
+det(tv-4, this-3)
+dobj(using-2, tv-4)
+det(bar-9, a-6)
+advmod(sound-8, sony-7)
+amod(bar-9, sound-8)
+prep_with(using-2, bar-9)
+
+=========
+
+det(unit-2, the-1)
+nsubj(sounds-3, unit-2)
+nsubj(looks-5, unit-2)
+root(ROOT-0, sounds-3)
+conj_and(sounds-3, looks-5)
+acomp(sounds-3, great-6)
+
+=========
+
+csubj(easy-6, setting-1)
+prt(setting-1, up-2)
+conj_and(setting-1, connecting-4)
+csubj(easy-6, connecting-4)
+cop(easy-6, was-5)
+root(ROOT-0, easy-6)
+

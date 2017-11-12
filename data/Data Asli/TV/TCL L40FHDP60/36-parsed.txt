@@ -1,0 +1,29 @@
+=========
+
+advmod(problem-3, Absolutely-1)
+det(problem-3, no-2)
+root(ROOT-0, problem-3)
+det(product-6, this-5)
+prep_with(problem-3, product-6)
+
+=========
+
+root(ROOT-0, Set-1)
+advmod(easily-3, up-2)
+advmod(Set-1, easily-3)
+amod(picture-6, great-5)
+dep(Set-1, picture-6)
+det(price-11, an-8)
+dep(greater-10, even-9)
+amod(price-11, greater-10)
+dep(Set-1, price-11)
+conj_and(picture-6, price-11)
+
+=========
+
+nn(I-2, Wish-1)
+nsubj(needed-3, I-2)
+root(ROOT-0, needed-3)
+det(one.-5, another-4)
+dobj(needed-3, one.-5)
+

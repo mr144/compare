@@ -1,0 +1,44 @@
+=========
+
+det(screen-3, The-1)
+nn(screen-3, touch-2)
+nsubj(makes-7, screen-3)
+amod(mix-6, keypad-5)
+conj_and(screen-3, mix-6)
+nsubj(makes-7, mix-6)
+root(ROOT-0, makes-7)
+det(phone-9, this-8)
+iobj(makes-7, phone-9)
+det(best-11, the-10)
+dobj(makes-7, best-11)
+det(worlds-14, both-13)
+prep_of(best-11, worlds-14)
+
+=========
+
+nsubj(use-3, I-1)
+aux(use-3, can-2)
+root(ROOT-0, use-3)
+dobj(use-3, it-4)
+prt(use-3, in-5)
+dep(in-5, and-6)
+dep(in-5, out-7)
+prep_of(use-3, work-9)
+
+=========
+
+aux(wait-3, can-1)
+neg(wait-3, not-2)
+ccomp(swapping-15, wait-3)
+det(upgrade-7, the-5)
+amod(upgrade-7, next-6)
+prep_for(wait-3, upgrade-7)
+aux(come-9, to-8)
+xcomp(wait-3, come-9)
+prt(come-9, through-10)
+aux(swapping-15, will-12)
+neg(swapping-15, not-13)
+aux(swapping-15, be-14)
+root(ROOT-0, swapping-15)
+prep_out_of(swapping-15, blackberry-18)
+

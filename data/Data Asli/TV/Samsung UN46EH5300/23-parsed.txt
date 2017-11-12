@@ -1,0 +1,87 @@
+=========
+
+nsubj(feel-2, I-1)
+root(ROOT-0, feel-2)
+mark(living-6, like-3)
+nsubj(living-6, I-4)
+aux(living-6, am-5)
+advcl(feel-2, living-6)
+det(furture-9, the-8)
+prep_in(living-6, furture-9)
+
+=========
+
+det(tv-2, This-1)
+nsubj(smart-5, tv-2)
+cop(smart-5, is-3)
+advmod(smart-5, indeed-4)
+root(ROOT-0, smart-5)
+
+=========
+
+det(click-3, a-2)
+prep_with(am-8, click-3)
+det(button-6, a-5)
+prep_of(click-3, button-6)
+nsubj(am-8, I-7)
+root(ROOT-0, am-8)
+dep(am-8, streaming-9)
+dobj(streaming-9, tv-10)
+dep(am-8, on-12)
+conj_or(streaming-9, on-12)
+det(internet-14, the-13)
+pobj(on-12, internet-14)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, was-2)
+root(ROOT-0, easy-3)
+aux(set-5, to-4)
+xcomp(easy-3, set-5)
+prt(set-5, up-6)
+prep_in(set-5, minutes-8)
+
+=========
+
+det(picture-2, The-1)
+nsubj(sharp-4, picture-2)
+nsubj(clear-6, picture-2)
+cop(sharp-4, is-3)
+root(ROOT-0, sharp-4)
+conj_and(sharp-4, clear-6)
+
+=========
+
+nsubj(put-2, We-1)
+root(ROOT-0, put-2)
+dobj(put-2, it-3)
+det(bedroom-6, the-5)
+prep_in(put-2, bedroom-6)
+nn(time-9, night-8)
+prep_for(put-2, time-9)
+amod(viewing-13, early-11)
+nn(viewing-13, morning-12)
+prep_for(put-2, viewing-13)
+conj_and(time-9, viewing-13)
+
+=========
+
+nsubj(have-2, We-1)
+root(ROOT-0, have-2)
+amod(TV-4, Direct-3)
+dobj(have-2, TV-4)
+nsubj(hooked-7, it-6)
+conj_and(have-2, hooked-7)
+prt(hooked-7, up-8)
+advmod(hooked-7, quickly-9)
+dep(hooked-7, came-11)
+advmod(on-13, right-12)
+advmod(came-11, on-13)
+

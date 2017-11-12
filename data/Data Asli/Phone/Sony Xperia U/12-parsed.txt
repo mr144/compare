@@ -1,0 +1,22 @@
+=========
+
+det(phone-2, This-1)
+nsubj(good-5, phone-2)
+cop(good-5, is-3)
+advmod(good-5, pretty-4)
+root(ROOT-0, good-5)
+nsubj(one-9, brand-7)
+cop(one-9, is-8)
+dep(good-5, one-9)
+det(best-12, the-11)
+prep_of(one-9, best-12)
+det(market-15, the-14)
+prep_on(best-12, market-15)
+auxpass(used-19, being-18)
+prepc_despite(one-9, used-19)
+ccomp(good-5, is-20)
+prep_like(is-20, new-22)
+prep_like(is-20, works-24)
+conj_and(new-22, works-24)
+advmod(is-20, perfectly-25)
+

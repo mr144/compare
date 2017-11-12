@@ -1,0 +1,32 @@
+=========
+
+nsubj(model-5, it-1)
+cop(model-5, is-2)
+det(model-5, an-3)
+amod(model-5, older-4)
+root(ROOT-0, model-5)
+advmod(model-5, still-7)
+conj_but(model-5, still-7)
+dep(model-5, new-8)
+
+=========
+
+nsubj(gift-4, it-1)
+cop(gift-4, is-2)
+det(gift-4, a-3)
+root(ROOT-0, gift-4)
+poss(cousin-7, my-6)
+prep_to(gift-4, cousin-7)
+advmod(gift-4, back-8)
+dep(back-8, home-9)
+
+=========
+
+root(ROOT-0, Nothing-1)
+prep_to(Nothing-1, fancy-3)
+
+=========
+
+root(ROOT-0, Good-1)
+advmod(Good-1, enough-2)
+

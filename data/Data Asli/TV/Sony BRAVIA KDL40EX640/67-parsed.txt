@@ -1,0 +1,31 @@
+=========
+
+det(feature-3, The-1)
+nn(feature-3, LED-2)
+nsubj(discernible-9, feature-3)
+det(TV-6, this-5)
+prep_on(feature-3, TV-6)
+cop(discernible-9, is-7)
+advmod(discernible-9, barely-8)
+root(ROOT-0, discernible-9)
+advmod(discernible-9, well-11)
+conj_and(discernible-9, well-11)
+poss(expectations-14, my-13)
+prep_below(discernible-9, expectations-14)
+det(brand-17, this-16)
+prep_for(expectations-14, brand-17)
+
+=========
+
+nsubj(purchase-4, I-1)
+aux(purchase-4, will-2)
+neg(purchase-4, not-3)
+root(ROOT-0, purchase-4)
+det(TV-6, a-5)
+dobj(purchase-4, TV-6)
+advmod(purchase-4, again-7)
+prepc_without(purchase-4, seeing-9)
+det(machine-11, the-10)
+dobj(seeing-9, machine-11)
+prep_in(seeing-9, person-13)
+

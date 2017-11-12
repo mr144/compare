@@ -1,0 +1,25 @@
+Please_VB be_VB aware_JJ that_IN this_DT unit_NN is_VBZ a_DT 60-Hz_NN ._.
+You_PRP would_MD be_VB hard-pressed_JJ to_TO learn_VB this_DT from_IN the_DT specs_NNS and_CC reviews_NNS ._.
+While_IN 120-Hz_JJ units_NNS cost_VBP more_JJR ,_, and_CC reduce_VB blur_NN ,_, the_DT quality_NN of_IN this_DT 60-Hz_JJ unit_NN is_VBZ adequate_JJ ,_, especially_RB at_IN this_DT price_NN ._.
+All_DT TV_NN signals_NNS are_VBP broadcast_VBN and\/or_CC recorded_VBN in_IN 60-Hz_NN ._.
+Thus_RB ,_, any_DT 120-Hz_JJ or_CC 240-Hz_JJ unit_NN is_VBZ not_RB receiving\/displaying_VBG a_DT higher-quality_JJ signal_NN ,_, but_CC merely_RB interpolating_VBG the_DT time-slices_NNS between_IN the_DT 60-cycle_JJ images_NNS -LRB-_-LRB- a_DT digital_JJ scrubbing_NN ,_, as_IN it_PRP were_VBD -RRB-_-RRB- ,_, to_TO reduce_VB blur_NN ._.
+Probably_RB info_NN overload_NN ,_, but_CC I_PRP just_RB wanted_VBD to_TO say_VB that_IN it_PRP is_VBZ a_DT 60-Hz_JJ unit_NN ,_, in_IN case_NN anyone_NN is_VBZ looking_VBG for_IN that_DT spec_NN ._.
+Wikipedia_NNP has_VBZ an_DT article_NN on_IN `_`` HDTV_NN blur_NN '_'' -LRB-_-LRB- section_NN 100_CD Hz_FW +_FW -RRB-_-RRB- that_WDT explains_VBZ it_PRP all_DT ._.
+-----------_NNP Revision_NNP ,_, about_IN a_DT month_NN after_IN purchase_NN :_: I_PRP am_VBP very_RB happy_JJ with_IN this_DT unit_NN ._.
+The_DT product_NN page_NN on_IN Amz_NNP ._.
+is_VBZ a_DT bit_RB misleading_JJ re_NN :_: `_`` Clear_NNP Resolution_NNP Enhancer_NNP '_POS -LRB-_-LRB- whatever_WDT that_WDT is_VBZ -RRB-_-RRB- ._.
+Amz_NNP indicates_VBZ that_IN this_DT unit_NN does_VBZ not_RB have_VB it_PRP ,_, but_CC the_DT manufacturer_NN 's_POS shipping_NN crate_NN clearly_RB states_VBZ that_IN this_DT unit_NN -LRB-_-LRB- like_IN the_DT EX640_NNP unit_NN -RRB-_-RRB- does_VBZ have_VB it_PRP ._.
+Specs_NNS constantly_RB change_VBP ;_: inquiring_VBG minds_NNS want_VBP to_TO know_VB ._.
+It_PRP seems_VBZ to_TO reduce_VB the_DT out-of-focus_JJ conditions_NNS on_IN the_DT old_JJ Hollywood_NNP DVDs_NNS that_WDT are_VBP just_RB plain_JJ old_JJ VHS_NNP transfers_NNS ._.
+Nice_JJ !_.
+Another_DT thing_NN :_: older_JJR analog_NN SONYs_NNS let_VBP you_PRP `_`` Fix_NNP Channel_NNP '_POS -LRB-_-LRB- lock_VB it_PRP -RRB-_-RRB- on_IN ,_, say_VB ,_, channel_NN 3_CD ._.
+This_DT is_VBZ for_IN us_PRP folks_NNS that_WDT get_VBP all_DT their_PRP$ broadcast_NN signals_NNS from_IN a_DT cable_NN box_NN --_: which_WDT has_VBZ all_DT signals_NNS coming_VBG out_IN of_IN the_DT box_NN to_TO the_DT TV_NN on_IN ,_, say_VB ,_, channel_NN 3_CD ._.
+This_DT keeps_VBZ the_DT kids_NNS and_CC spouse_NN and_CC dog_NN from_IN hitting_VBG the_DT numeric_JJ channel_NN numbers_NNS on_IN the_DT remote_JJ ,_, and_CC inadvertently_RB going_VBG into_IN a_DT black-screen_JJ situation_NN ._.
+And_CC the_DT subsequent_JJ troubleshooting_NN ,_, puzzlement_NN ,_, etc._FW ..._: This_DT unit_NN has_VBZ no_DT such_JJ feature_NN ,_, altho_IN you_PRP can_MD manually_RB go_VB in_IN and_CC block_VB all_DT 141_CD other_JJ channels_NNS ,_, so_IN that_IN the_DT unit_NN displays_VBZ a_DT `_`` Blocked_VBN '_'' message_NN and_CC jumps_VBZ back_RB to_TO normal_JJ after_IN a_DT few_JJ seconds_NNS ._.
+A_DT freebie_NN :_: If_IN you_PRP are_VBP replacing_VBG a_DT Sony_NNP TV_NN ,_, this_DT unit_NN will_MD most_RBS likely_JJ respond_NN to_TO your_PRP$ cable_NN company_NN 's_POS remote_JJ -LRB-_-LRB- On_IN ,_, Off_IN ,_, Volume_NN ,_, Muting_NNP ,_, etc_FW -RRB-_-RRB- since_IN you_PRP already_RB programmed_VBD it_PRP for_IN a_DT Sony_NNP ._.
+You_PRP others_NNS ,_, well_RB ,_, you_PRP probably_RB would_MD have_VB had_VBD to_TO reprogram_VB your_PRP$ cable-box_JJ remote_JJ anyway_RB ._.
+Finally_RB ,_, the_DT sound_NN :_: This_DT TV_NN is_VBZ over_IN 3_NNP '_POS thick_JJ ,_, so_IN it_PRP has_VBZ room_NN for_IN some_DT decent_JJ speakers_NNS ._.
+The_DT sound_NN is_VBZ MUCH_RB better_JJR than_IN what_WP I_PRP hear_VBP coming_VBG out_IN of_IN other_JJ people_NNS 's_POS ultrathin_JJ TVs_NNS ,_, mainly_RB cuz_NN there_EX 's_VBZ some_DT good_JJ bass_NN ._.
+Tech_NNP note_NN :_: If_IN your_PRP$ DVD_NNP player_NN is_VBZ using_VBG a_DT 3-wire_JJ Yellow-Red-White_NNP -LRB-_-LRB- composite_JJ -RRB-_-RRB- cable_NN ,_, REPLACE_VB IT_PRP with_IN 5-wire_JJ Green-Blue-Red_NNP -LRB-_-LRB- component_NN -RRB-_-RRB- video_NN if_IN available_JJ +_NN plus_IN Red-White_NNP for_IN Audio_NNP -LRB-_-LRB- or_CC equally_RB as_RB good_JJ ,_, a_DT 1-wire_JJ HDMI_NNP cable_NN ,_, if_IN the_DT player_NN has_VBZ a_DT jack_NN for_IN it_PRP -RRB-_-RRB- ._.
+The_DT video_NN signal_NN really_RB is_VBZ MUCH_NNP better_RBR ;_: why_WRB corrupt_JJ your_PRP$ DVD_NNP signal_NN with_IN an_DT inadequte_JJ cable_NN ?_.
+A_DT cheap_JJ fix_NN ._.

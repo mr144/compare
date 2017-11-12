@@ -1,0 +1,4 @@
+My_PRP$ phones_NNS category_NN was_VBD ,_, ,_, unlocked_VBD phones_NNS '_POS ,_, but_CC when_WRB I_PRP received_VBD it_PRP was_VBD locked_VBN and_CC it_PRP had_VBD the_DT second_JJ problem_NN too_RB :_: when_WRB I_PRP tried_VBD to_TO charge_VB phone_NN ,_, on_IN the_DT screen_NN displayed_VBD :_: ,_, ,_, charging_VBG is_VBZ not_RB supported_VBN with_IN this_DT accessory_JJ '_'' ._.
+With_IN my_PRP$ friends_NNS original_JJ cable_NN it_PRP charged_VBD fine_JJ ._.
+I_PRP repaired_VBD my_PRP$ phone_NN at_IN the_DT apple_NN dealer_NN and_CC paid_VBD $_$ 30_CD ._.
+Amazon_NNP has_VBZ refund_VB my_PRP$ money_NN and_CC I_PRP am_VBP very_RB satisfied_JJ of_IN its_PRP$ service_NN ._.

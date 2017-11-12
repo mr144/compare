@@ -1,0 +1,84 @@
+=========
+
+det(phone-2, The-1)
+nsubj(fine-4, phone-2)
+cop(fine-4, is-3)
+root(ROOT-0, fine-4)
+mark(died-9, until-6)
+nsubj(died-9, it-7)
+advmod(died-9, suddenly-8)
+advcl(fine-4, died-9)
+parataxis(fine-4, died-9)
+dobj(died-9, 5-10)
+tmod(died-9, month-11)
+prep_after(died-9, purchase-13)
+
+=========
+
+nsubj(uncertain-5, Cause-1)
+prep_of(Cause-1, death-3)
+cop(uncertain-5, is-4)
+root(ROOT-0, uncertain-5)
+
+=========
+
+nn(Everything-3, &#34;-1)
+nn(Everything-3, Wireless-2)
+nsubj(know-6, Everything-3)
+num(Everything-3, &#34;-4)
+aux(know-6, might-5)
+root(ROOT-0, know-6)
+nsubj(was-9, Phone-8)
+nsubj(comes-18, Phone-8)
+parataxis(know-6, was-9)
+prep_from(was-9, France-11)
+nsubj(knows-14, god-13)
+parataxis(was-9, knows-14)
+parataxis(comes-18, knows-14)
+dep(knows-14, why-15)
+parataxis(know-6, comes-18)
+conj_and(was-9, comes-18)
+amod(instructions-21, french-20)
+prep_with(comes-18, instructions-21)
+amod(charger-24, European-23)
+prep_with(comes-18, charger-24)
+conj_and(instructions-21, charger-24)
+
+=========
+
+nsubj(reason-5, This-1)
+cop(reason-5, is-2)
+advmod(reason-5, also-3)
+det(reason-5, the-4)
+root(ROOT-0, reason-5)
+advmod(valid-12, why-6)
+det(warranty-9, the-7)
+nn(warranty-9, Nokia-8)
+nsubj(valid-12, warranty-9)
+cop(valid-12, is-10)
+neg(valid-12, not-11)
+rcmod(reason-5, valid-12)
+
+=========
+
+amod(service-3, Terrible-1)
+nn(service-3, customer-2)
+root(ROOT-0, service-3)
+det(beginning-6, the-5)
+prep_from(service-3, beginning-6)
+
+=========
+
+nsubj(learned-2, Lesson-1)
+root(ROOT-0, learned-2)
+det(price-7, a-5)
+amod(price-7, good-6)
+prep_behind(is-9, price-7)
+expl(is-9, there-8)
+parataxis(learned-2, is-9)
+advmod(is-9, always-10)
+det(reason-14, a-11)
+advmod(good-13, very-12)
+amod(reason-14, good-13)
+nsubj(is-9, reason-14)
+

@@ -1,0 +1,26 @@
+=========
+
+det(purchase-2, The-1)
+nsubj(excellent-4, purchase-2)
+cop(excellent-4, was-3)
+root(ROOT-0, excellent-4)
+det(product-6, the-5)
+nsubj(arrived-7, product-6)
+ccomp(excellent-4, arrived-7)
+prep_on(arrived-7, time-9)
+nsubj(happy-14, I-11)
+nsubj(satisfied-16, I-11)
+cop(happy-14, am-12)
+advmod(happy-14, very-13)
+conj_and(excellent-4, happy-14)
+conj_and(excellent-4, satisfied-16)
+conj_and(happy-14, satisfied-16)
+prep_with(happy-14, everything-18)
+prep_in(everything-18, general-20)
+
+=========
+
+root(ROOT-0, Keep-1)
+dobj(Keep-1, it-2)
+prt(Keep-1, up-3)
+

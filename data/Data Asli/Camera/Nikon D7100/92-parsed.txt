@@ -1,0 +1,150 @@
+=========
+
+det(weekend-2, This-1)
+nsubj(hope-4, weekend-2)
+xsubj(put-6, weekend-2)
+nsubj(hope-4, I-3)
+xsubj(put-6, I-3)
+root(ROOT-0, hope-4)
+aux(put-6, to-5)
+xcomp(hope-4, put-6)
+det(D7100-8, the-7)
+dobj(put-6, D7100-8)
+det(test-11, the-10)
+prep_to(put-6, test-11)
+
+=========
+
+nsubj(permitting-3, Weather-2)
+root(ROOT-0, permitting-3)
+
+=========
+
+dep(great-11, So-1)
+advmod(great-11, far-2)
+det(box-6, the-5)
+prep_out_of(great-11, box-6)
+amod(shots-8, indoor-7)
+nsubj(great-11, shots-8)
+aux(great-11, have-9)
+cop(great-11, been-10)
+root(ROOT-0, great-11)
+
+=========
+
+nsubj(spot-3, Focus-1)
+cop(spot-3, is-2)
+root(ROOT-0, spot-3)
+nsubj(tell-8, I-6)
+aux(tell-8, can-7)
+dep(spot-3, tell-8)
+nsubj(use-12, you-9)
+aux(use-12, will-10)
+advmod(use-12, probably-11)
+ccomp(tell-8, use-12)
+poss(speedflash-14, my-13)
+dobj(use-12, speedflash-14)
+mwe(than-16, more-15)
+quantmod(the-17, than-16)
+prep_on(spot-3, the-17)
+nn(flash-20, camera-19)
+prep_on(the-17, flash-20)
+
+=========
+
+advmod(me-5, Maybe-1)
+nsubj(me-5, it-2)
+cop(me-5, is-3)
+advmod(me-5, just-4)
+root(ROOT-0, me-5)
+nsubj(bright-13, man-7)
+cop(bright-13, is-8)
+dep(bright-13, the-9)
+nn(flash-12, camera-11)
+prep_on(bright-13, flash-12)
+conj_but(me-5, bright-13)
+
+=========
+
+nsubj(love-2, I-1)
+ccomp(moving-12, love-2)
+det(dial-6, the-3)
+amod(dial-6, locking-4)
+nn(dial-6, mode-5)
+dobj(love-2, dial-6)
+poss(D7000-9, my-8)
+nsubj(moving-12, D7000-9)
+aux(moving-12, was-10)
+advmod(moving-12, always-11)
+root(ROOT-0, moving-12)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(weight-4, the-3)
+dobj(love-2, weight-4)
+det(camera-7, this-6)
+prep_of(weight-4, camera-7)
+
+=========
+
+advmod(works-3, So-1)
+advmod(works-3, far-2)
+root(ROOT-0, works-3)
+poss(50mm-6, my-5)
+prep_with(works-3, 50mm-6)
+num(beautifully-9, 1.4-7)
+nn(beautifully-9, mm-8)
+nsubj(works-3, beautifully-9)
+
+=========
+
+nsubj(post-3, I-1)
+aux(post-3, will-2)
+root(ROOT-0, post-3)
+dobj(post-3, pics-4)
+mark(get-8, once-5)
+nsubj(get-8, I-6)
+nsubj(take-11, I-6)
+aux(get-8, can-7)
+advcl(post-3, get-8)
+dobj(get-8, outdoors-9)
+advcl(post-3, take-11)
+conj_and(get-8, take-11)
+dobj(take-11, pictures-12)
+prep_of(pictures-12, nature-14)
+
+=========
+
+nsubj(give-3, I-1)
+aux(give-3, will-2)
+root(ROOT-0, give-3)
+det(update-7, a-4)
+advmod(through-6, more-5)
+amod(update-7, through-6)
+dobj(give-3, update-7)
+det(weekend-10, this-9)
+prep_after(give-3, weekend-10)
+
+=========
+
+advmod(LOVE-4, So-1)
+advmod(So-1, far-2)
+nsubj(LOVE-4, I-3)
+root(ROOT-0, LOVE-4)
+nn(CAMERA-6, THIS-5)
+dobj(LOVE-4, CAMERA-6)
+
+=========
+
+nsubj(owned-3, Have-2)
+root(ROOT-0, owned-3)
+dobj(owned-3, D5000-4)
+dobj(owned-3, D7000-6)
+conj_and(D5000-4, D7000-6)
+
+=========
+
+root(ROOT-0, C-1)
+

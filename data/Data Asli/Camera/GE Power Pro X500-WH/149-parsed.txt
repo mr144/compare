@@ -1,0 +1,114 @@
+=========
+
+nsubj(debated-2, I-1)
+root(ROOT-0, debated-2)
+dobj(wanted-10, what-4)
+nsubj(wanted-10, camera-5)
+aux(go-7, to-6)
+infmod(camera-5, go-7)
+prep(go-7, with-8)
+prepc_on(debated-2, wanted-10)
+det(camera-15, an-11)
+amod(camera-15, easy-12)
+prep_to(easy-12, use-14)
+dobj(wanted-10, camera-15)
+prep_under(wanted-10, $-17)
+num($-17, 200.00-18)
+
+=========
+
+nsubj(CHOICE-2, WORST-1)
+root(ROOT-0, CHOICE-2)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(camera-5, the-4)
+dobj(had-3, camera-5)
+quantmod(3-8, about-7)
+num(months-9, 3-8)
+prep_for(camera-5, months-9)
+
+=========
+
+det(weeks-4, The-1)
+amod(weeks-4, first-2)
+amod(weeks-4, few-3)
+tmod(figured-6, weeks-4)
+nsubj(figured-6, I-5)
+root(ROOT-0, figured-6)
+nsubj(me-10, it-7)
+cop(me-10, was-8)
+advmod(me-10, just-9)
+ccomp(figured-6, me-10)
+xsubj(used-14, me-10)
+partmod(me-10, needing-11)
+aux(used-14, to-12)
+auxpass(used-14, get-13)
+xcomp(needing-11, used-14)
+prep_to(used-14, it-16)
+
+=========
+
+dep(sucks-5, Nope-1)
+nsubj(sucks-5, it-3)
+advmod(sucks-5, just-4)
+root(ROOT-0, sucks-5)
+
+=========
+
+tmod(stopped-9, Yesterday-1)
+mark(on-4, while-3)
+dep(stopped-9, on-4)
+det(trip-7, a-5)
+amod(trip-7, camping-6)
+pobj(on-4, trip-7)
+nsubj(stopped-9, it-8)
+root(ROOT-0, stopped-9)
+xcomp(stopped-9, taking-10)
+dobj(taking-10, pics-11)
+
+=========
+
+nsubj(let-8, Makes-1)
+det(noise-5, a-2)
+amod(noise-5, loud-3)
+nn(noise-5, humming-4)
+dep(Makes-1, noise-5)
+dep(Makes-1, wont-7)
+conj_and(noise-5, wont-7)
+root(ROOT-0, let-8)
+nsubj(view-10, me-9)
+ccomp(let-8, view-10)
+dobj(view-10, pictures-11)
+det(card-15, the-13)
+nn(card-15, sim-14)
+prep_off(view-10, card-15)
+advmod(view-10, either-16)
+
+=========
+
+neg(mention-3, Not-1)
+aux(mention-3, to-2)
+dep(camera-5, mention-3)
+det(camera-5, the-4)
+root(ROOT-0, camera-5)
+poss(spits-9, my-7)
+amod(spits-9, iphone-8)
+prep_on(camera-5, spits-9)
+advmod(better-12, wayyyyyy-11)
+amod(pictures-13, better-12)
+prep_out(camera-5, pictures-13)
+
+=========
+
+root(ROOT-0, Very-1)
+ccomp(attempting-6, disappointing-2)
+aux(attempting-6, will-4)
+aux(attempting-6, be-5)
+ccomp(Very-1, attempting-6)
+aux(return-8, to-7)
+xcomp(attempting-6, return-8)
+

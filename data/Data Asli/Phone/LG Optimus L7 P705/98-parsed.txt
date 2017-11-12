@@ -1,0 +1,46 @@
+=========
+
+amod(things-2, Granted-1)
+nsubj(break-3, things-2)
+root(ROOT-0, break-3)
+cc(provides-7, but-4)
+det(company-6, this-5)
+nsubj(provides-7, company-6)
+ccomp(break-3, provides-7)
+det(number-10, a-8)
+nn(number-10, phone-9)
+dobj(provides-7, number-10)
+nsubj(goes-13, number-10)
+advmod(goes-13, just-12)
+rcmod(number-10, goes-13)
+det(ext-16, an-15)
+prep_to(goes-13, ext-16)
+det(mailbox-21, a-18)
+amod(mailbox-21, full-19)
+nn(mailbox-21, voice-20)
+prep_with(ext-16, mailbox-21)
+
+=========
+
+nn(cant-2, i-1)
+nsubj(get-4, cant-2)
+advmod(get-4, even-3)
+root(ROOT-0, get-4)
+det(answer-6, an-5)
+dobj(get-4, answer-6)
+det(warranty-9, a-8)
+prep_about(answer-6, warranty-9)
+partmod(warranty-9, exisiting-10)
+amod(resolution-12, nevermind-11)
+dobj(exisiting-10, resolution-12)
+
+=========
+
+nsubj(purchase-4, never-1)
+aux(purchase-4, will-2)
+advmod(purchase-4, i-3)
+root(ROOT-0, purchase-4)
+nn(electronics-7, hp-6)
+prep_through(purchase-4, electronics-7)
+advmod(purchase-4, again-8)
+

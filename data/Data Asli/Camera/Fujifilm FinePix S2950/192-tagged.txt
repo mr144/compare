@@ -1,0 +1,3 @@
+Have_NNP taken_VBD over_IN 1000_CD pics_NNS on_IN it_PRP ._.
+Easy_NNP to_TO work_VB ,_, good_JJ quality_NN for_IN the_DT price_NN ._.
+Panoramic_JJ shots_NNS could_MD be_VB bigger_JJR ._.

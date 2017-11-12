@@ -1,0 +1,62 @@
+=========
+
+amod(phone-2, Great-1)
+root(ROOT-0, phone-2)
+amod(features-5, great-4)
+appos(phone-2, features-5)
+
+=========
+
+aux(go-3, Ca-1)
+neg(go-3, not-2)
+root(ROOT-0, go-3)
+acomp(go-3, wrong-4)
+det(one-7, this-6)
+prep_with(go-3, one-7)
+
+=========
+
+advmod(put-4, Just-1)
+aux(put-4, do-2)
+neg(put-4, not-3)
+root(ROOT-0, put-4)
+det(pay-7, a-6)
+prep_in(put-4, pay-7)
+mark(go-10, as-8)
+nsubj(go-10, you-9)
+nsubj(expect-14, you-9)
+xsubj(operate-16, you-9)
+dep(put-4, go-10)
+nn(card-12, sim-11)
+dobj(go-10, card-12)
+dep(put-4, expect-14)
+conj_and(go-10, expect-14)
+aux(operate-16, to-15)
+xcomp(expect-14, operate-16)
+dobj(operate-16, it-17)
+
+=========
+
+nsubj(made-2, I-1)
+nsubj(had-6, I-1)
+root(ROOT-0, made-2)
+det(mistake-4, that-3)
+dobj(made-2, mistake-4)
+conj_and(made-2, had-6)
+det(bit-8, a-7)
+dobj(had-6, bit-8)
+det(challenge-11, a-10)
+prep_of(bit-8, challenge-11)
+advmod(able-17, when-14)
+nsubj(able-17, I-15)
+cop(able-17, was-16)
+advcl(worked-24, able-17)
+aux(get-19, to-18)
+xcomp(able-17, get-19)
+det(plan-22, a-20)
+nn(plan-22, data-21)
+dobj(get-19, plan-22)
+nsubj(worked-24, it-23)
+conj_but(made-2, worked-24)
+acomp(worked-24, fantastic-25)
+

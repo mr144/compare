@@ -1,0 +1,40 @@
+=========
+
+amod(shipping-2, Fast-1)
+root(ROOT-0, shipping-2)
+amod(hook-5, easy-4)
+npadvmod(up-6, hook-5)
+advmod(love-9, up-6)
+nsubj(love-9, I-8)
+dep(shipping-2, love-9)
+poss(tv-12, my-10)
+amod(tv-12, new-11)
+dobj(love-9, tv-12)
+
+=========
+
+nsubj(trying-4, I-1)
+xsubj(figure-6, I-1)
+aux(trying-4, am-2)
+advmod(trying-4, still-3)
+root(ROOT-0, trying-4)
+aux(figure-6, to-5)
+xcomp(trying-4, figure-6)
+prt(figure-6, out-7)
+dobj(do-12, what-8)
+advmod(do-12, all-9)
+nsubj(do-12, I-10)
+aux(do-12, can-11)
+ccomp(figure-6, do-12)
+det(tv-15, this-14)
+prep_with(do-12, tv-15)
+
+=========
+
+nsubj(AWESOME-3, It-1)
+cop(AWESOME-3, 's-2)
+root(ROOT-0, AWESOME-3)
+
+=========
+
+

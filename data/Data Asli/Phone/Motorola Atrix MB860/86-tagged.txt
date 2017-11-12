@@ -1,0 +1,7 @@
+I_PRP am_VBP brazilian_JJ and_CC bougth_VB the_DT cell_NN phones_NNS via_IN Internet_NNP ._.
+When_WRB I_PRP received_VBD ,_, I_PRP did_VBD not_RB realize_VB that_IN it_PRP did_VBD not_RB come_VB in_IN the_DT original_JJ box_NN ._.
+It_PRP came_VBD in_IN a_DT red_JJ box_NN ,_, without_IN Motorola_NNP logo_NN ._.
+I_PRP realize_VBP that_IN only_RB when_WRB I_PRP arrived_VBD in_IN Brazil_NNP ._.
+I_PRP think_VBP that_IN I_PRP got_VBD a_DT refurbished_VBN item_NN ._.
+But_CC I_PRP was_VBD already_RB in_IN Brazil_NNP and_CC decided_VBD not_RB to_TO return_VB the_DT cell_NN phones_NNS ._.
+Now_RB ,_, one_CD of_IN them_PRP stop_VBP working_VBG ..._: the_DT touch_NN screen_NN does_VBZ not_RB work_VB in_IN a_DT lot_NN of_IN places_NNS of_IN the_DT screen_NN ._.

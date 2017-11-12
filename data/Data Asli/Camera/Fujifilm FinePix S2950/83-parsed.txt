@@ -1,0 +1,31 @@
+=========
+
+nsubj(JUST-2, I-1)
+root(ROOT-0, JUST-2)
+nn(ITEM-5, RECEIVED-3)
+nn(ITEM-5, THIS-4)
+dobj(JUST-2, ITEM-5)
+nn(HRS-10, NOT-7)
+nn(HRS-10, EVEN-8)
+num(HRS-10, 24-9)
+dobj(JUST-2, HRS-10)
+conj_and(ITEM-5, HRS-10)
+det(UNHAPPY-18, THE-12)
+nn(UNHAPPY-18, FLASH-13)
+nn(UNHAPPY-18, STOP-14)
+nn(UNHAPPY-18, WORKING-15)
+nn(UNHAPPY-18, !!!!-16)
+nn(UNHAPPY-18, SO-17)
+dobj(JUST-2, UNHAPPY-18)
+conj_and(ITEM-5, UNHAPPY-18)
+nn(PRODUCT-21, THIS-20)
+prep_with(JUST-2, PRODUCT-21)
+
+=========
+
+det(camera-2, this-1)
+nsubj(worst-5, camera-2)
+cop(worst-5, is-3)
+det(worst-5, the-4)
+root(ROOT-0, worst-5)
+

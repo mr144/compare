@@ -1,0 +1,148 @@
+=========
+
+nsubj(am-2, I-1)
+root(ROOT-0, am-2)
+neg(am-2, not-3)
+nn(pro-5, a-4)
+advmod(am-2, pro-5)
+
+=========
+
+advmod(amateur-3, Just-1)
+det(amateur-3, an-2)
+nsubj(likes-5, amateur-3)
+nsubj(pictures-9, amateur-3)
+rcmod(amateur-3, likes-5)
+aux(take-7, to-6)
+xcomp(likes-5, take-7)
+acomp(take-7, candid-8)
+root(ROOT-0, pictures-9)
+
+=========
+
+nsubj(owned-3, I-1)
+aux(owned-3, have-2)
+root(ROOT-0, owned-3)
+det(camera-8, this-4)
+nn(camera-8, Lumix-5)
+nn(camera-8, DMC-6)
+nn(camera-8, ZS8-7)
+dobj(owned-3, camera-8)
+prep_for(camera-8, bout-10)
+num(months-12, 10-11)
+npadvmod(now-13, months-12)
+advmod(owned-3, now-13)
+
+=========
+
+nsubj(taken-3, I-1)
+nsubjpass(satisfied-25, I-1)
+aux(taken-3, have-2)
+root(ROOT-0, taken-3)
+dobj(taken-3, hundreds-4)
+prep_of(hundreds-4, pictures-6)
+dep(pictures-6, graduations-8)
+appos(graduations-8, cruise-10)
+nn(games-13, soccer-12)
+appos(graduations-8, games-13)
+appos(graduations-8, indoors-15)
+conj_and(games-13, indoors-15)
+appos(graduations-8, outdoors-17)
+conj_and(games-13, outdoors-17)
+amod(lighting-20, various-19)
+appos(graduations-8, lighting-20)
+auxpass(satisfied-25, am-23)
+advmod(satisfied-25, extremely-24)
+conj_and(taken-3, satisfied-25)
+det(camera-33, this-27)
+amod(camera-33, point-29)
+conj_and(point-29, shoot-31)
+amod(camera-33, shoot-31)
+prep_with(satisfied-25, camera-33)
+
+=========
+
+nsubj(zoom-2, Great-1)
+root(ROOT-0, zoom-2)
+
+=========
+
+nn(HD-2, Great-1)
+root(ROOT-0, HD-2)
+dep(HD-2, video-3)
+
+=========
+
+nn(close-up-2, Great-1)
+nsubj(pictures-3, close-up-2)
+root(ROOT-0, pictures-3)
+
+=========
+
+nsubj(pictures-2, Sharp-1)
+root(ROOT-0, pictures-2)
+
+=========
+
+aux(taken-3, Have-1)
+advmod(taken-3, also-2)
+root(ROOT-0, taken-3)
+dobj(taken-3, pictures-4)
+poss(son-7, my-6)
+poss(games-10, son-7)
+nn(games-10, soccer-9)
+prep_of(pictures-4, games-10)
+amod(results-13, great-12)
+prep_with(taken-3, results-13)
+mark(fast-22, although-15)
+det(burst-18, the-16)
+nn(burst-18, shutter-17)
+nsubj(fast-22, burst-18)
+cop(fast-22, was-19)
+neg(fast-22, not-20)
+advmod(fast-22, as-21)
+dep(results-13, fast-22)
+poss(d5000-26, my-24)
+nn(d5000-26, Nikon-25)
+prep_as(fast-22, d5000-26)
+
+=========
+
+nsubj(contemplating-3, I-1)
+nsubj(use-15, I-1)
+aux(contemplating-3, was-2)
+root(ROOT-0, contemplating-3)
+prepc_on(contemplating-3, buying-5)
+det(lens-9, an-6)
+amod(lens-9, expensive-7)
+dep(expensive-7, 18-300-8)
+dobj(buying-5, lens-9)
+poss(DSLR-12, my-11)
+prep_for(lens-9, DSLR-12)
+advmod(contemplating-3, now-14)
+conj_but(contemplating-3, now-14)
+conj_but(contemplating-3, use-15)
+det(SZ8-18, the-16)
+nn(SZ8-18, Lumix-17)
+dobj(use-15, SZ8-18)
+aux(take-20, to-19)
+xcomp(use-15, take-20)
+amod(pictures-22, zoom-21)
+dobj(take-20, pictures-22)
+aux(kept-26, have-25)
+xcomp(use-15, kept-26)
+conj_and(take-20, kept-26)
+poss(18-55-29, my-27)
+amod(18-55-29, standard-28)
+dobj(kept-26, 18-55-29)
+poss(D5000-33, my-31)
+nn(D5000-33, Nikon-32)
+prep_on(kept-26, D5000-33)
+amod(pictures-36, closer-35)
+prep_for(D5000-33, pictures-36)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

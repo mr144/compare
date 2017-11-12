@@ -1,0 +1,47 @@
+I_PRP bought_VBD this_DT phone_NN for_IN my_PRP$ wife_NN for_IN Christmas_NNP ._.
+She_PRP had_VBD been_VBN envying_VBG my_PRP$ company-issued_JJ iPhone_NNP 3GS_NNP for_IN several_JJ months_NNS ,_, so_IN I_PRP was_VBD resigned_VBN to_TO buying_VBG her_PRP a_DT personal_JJ one_CD for_IN Christmas_NNP ,_, but_CC the_DT dilemma_NN was_VBD ,_, we_PRP would_MD have_VB to_TO drop_VB our_PRP$ account_NN with_IN Cincinnati_NNP Bell_NNP Wireless_NNP -LRB-_-LRB- CBW_NNP -RRB-_-RRB- and_CC switch_VB to_TO AT&T_NNP ._.
+I_PRP did_VBD not_RB want_VB to_TO leave_VB CBW_NNP because_IN they_PRP are_VBP responsive_JJ ,_, they_PRP are_VBP very_RB competitive_JJ with_IN their_PRP$ rates_NNS ,_, and_CC their_PRP$ are_VBP NO_DT contracts_NNS !_.
+So_RB ,_, I_PRP decided_VBD to_TO look_VB first_JJ for_IN a_DT Droid_NNP phone_NN which_WDT could_MD compete_VB with_IN iPhone4_NNP and_CC run_VB on_IN CBW_NNP 's_POS 3G_NNP network_NN ._.
+-LRB-_-LRB- CBW_NNP uses_VBZ the_DT 1700\/2100_CD Bands_NNS for_IN their_PRP$ 3G_NNP service_NN ,_, which_WDT is_VBZ the_DT same_JJ used_VBN by_IN T-Mobile_NNP -_: so_IN you_PRP have_VBP to_TO make_VB sure_JJ any_DT unlocked_VBN phone_NN has_VBZ those_DT bands_NNS -RRB-_-RRB- ._.
+I_PRP would_MD have_VB bought_VBN a_DT Droid_NNP phone_NN directly_RB from_IN CBW_NNP ,_, for_IN a_DT cheaper_JJR price_NN and_CC peace-of-mind_JJ warranty_NN ,_, but_CC their_PRP$ top_JJ line_NN model_NN was_VBD the_DT Motorola_NNP Milestone_NNP ,_, running_VBG on_IN Droid_NNP 2.1_CD ._.
+I_PRP tried_VBD the_DT Motorola_NNP in_IN Cincinnati_NNP Bell_NNP 's_POS store_NN ,_, and_CC frankly_RB it_PRP was_VBD unimpressive_JJ ._.
+It_PRP seemed_VBD slow_JJ in_IN response_NN and_CC frankly_RB ,_, the_DT handset_NN just_RB felt_VBD like_IN cheap_JJ plastic_NN ._.
+Making_VBG matters_NNS worse_JJR ,_, it_PRP only_RB has_VBZ 150_CD MB_NN of_IN internal_JJ memory_NN and_CC CBW_NNP did_VBD not_RB have_VB a_DT schedule_NN to_TO upgrade_VB to_TO Froyo_NNP -LRB-_-LRB- Droid_NNP 2.2_CD -RRB-_-RRB- which_WDT would_MD allow_VB Apps_NNP on_IN the_DT SD_NNP memory_NN card_NN ._.
+So_IN those_DT 90,000_CD Apps_NNS the_DT Droid_NNP world_NN likes_VBZ to_TO brag_VB about_RB would_MD have_VB been_VBN virtually_RB useless_JJ on_IN the_DT Motorola_NNP ._.
+The_DT Salesman_NNP admitted_VBD he_PRP only_RB had_VBD 7_CD Apps_NNS because_IN he_PRP was_VBD running_VBG out_IN of_IN phone_NN memory_NN !_.
+Hence_RB ,_, I_PRP started_VBD looking_VBG at_IN the_DT Google_NNP Nexus_NNP One_CD on_IN Amazon.com_NNP ._.
+It_PRP runs_VBZ on_IN CBW_NNP 's_POS 3G_NNP Network_NNP -LRB-_-LRB- and_CC T-Mobile_NNP 's_POS for_IN those_DT on_IN that_DT network_NN -RRB-_-RRB- ,_, has_VBZ 500_CD MB_NN of_IN internal_JJ memory_NN ,_, and_CC was_VBD promising_VBG to_TO upgrade_VB to_TO Droid_NNP 2.2_CD Froyo_NNP soon_RB ._.
+The_DT drawback_NN :_: Unlocked_JJ versions_NNS of_IN this_DT phone_NN are_VBP sold_VBN only_RB through_IN Amazon_NNP 's_POS partners_NNS who_WP import_VBP them_PRP from_IN Europe_NNP and_CC offer_VB NO_DT Warranty_NN and_CC let_VB 's_POS face_NN it_PRP ,_, this_DT is_VBZ an_DT expensive_JJ phone_NN !_.
+What_WP to_TO do_VB ?_.
+I_PRP took_VBD a_DT chance_NN and_CC bought_VBD it_PRP ._.
+I_PRP had_VBD an_DT initial_JJ panic_NN when_WRB I_PRP put_VBD a_DT CBW_NNP SIM_NNP card_NN in_IN for_IN the_DT first_JJ time_NN because_IN it_PRP was_VBD only_RB getting_VBG 2G_NNP -LRB-_-LRB- No_NNP 3G_NNP or_CC Edge_NNP -RRB-_-RRB- ._.
+However_RB ,_, I_PRP soon_RB went_VBD directly_RB to_TO the_DT Cincinnati_NNP Bell_NNP Website_NNP who_WP gave_VBD the_DT Access_NNP Point_NNP Network_NNP -LRB-_-LRB- APN_NNP -RRB-_-RRB- input_NN values_NNS -LRB-_-LRB- unlike_IN with_IN some_DT smart_JJ phones_NNS ,_, the_DT Nexus_NNP One_NN did_VBD not_RB automatically_RB pick_VB these_DT settings_NNS up_RP -RRB-_-RRB- ._.
+After_IN I_PRP entered_VBD the_DT APN_NNP ,_, I_PRP immediately_RB got_VBD a_DT 3G_NNP signal_NN -_: a_DT great_JJ first_JJ test_NN !_.
+Ok_JJ ,_, we_PRP are_VBP good_JJ to_TO go_VB and_CC she_PRP gets_VBZ it_PRP for_IN Christmas_NNP !_.
+The_DT result_NN :_: This_DT phone_NN is_VBZ fabulous_JJ and_CC my_PRP$ wife_NN has_VBZ not_RB put_VBN it_PRP down_RP since_IN I_PRP gave_VBD it_PRP to_TO her_PRP ._.
+As_RB soon_RB as_IN she_PRP launched_VBD it_PRP with_IN her_PRP$ SIM_NNP card_NN ,_, it_PRP immediately_RB got_VBD 3G_NNP from_IN Cincinnati_NNP Bell_NNP and_CC then_RB it_PRP informed_VBD her_PRP that_IN it_PRP wanted_VBD to_TO upgrade_VB its_PRP$ operating_NN system_NN !_.
+Voila_NNP ,_, within_IN 5_CD minutes_NNS it_PRP was_VBD running_VBG on_IN Android_NNP Froyo_NNP 2.2_CD ._.
+That_DT means_VBZ many_JJ ,_, many_JJ Apps_NNS can_MD be_VB moved_VBN from_IN the_DT phone_NN to_TO the_DT SD_NNP Card_NNP ,_, saving_VBG valuable_JJ memory_NN on_IN the_DT phone_NN ._.
+This_DT phone_NN has_VBZ a_DT fantastic_JJ screen_NN and_CC absolutely_RB screams_NNS when_WRB launching_NN Apps_VBZ ,_, the_DT Browser_NNP ,_, or_CC any_DT other_JJ task_NN ._.
+It_PRP blows_NNS my_PRP$ iPhone_NNP 3Gs_NNP away_RB -LRB-_-LRB- sorry_RB I_PRP can_MD not_RB compare_VB to_TO iPhone_VB 4_CD because_IN I_PRP do_VBP not_RB have_VB one_CD -RRB-_-RRB- ._.
+So_RB I_PRP recommend_VBP this_DT phone_NN to_TO anyone_NN on_IN T-Mobile_NNP or_CC Cincinnati_NNP Bell_NNP 's_POS 3G_NNP Network_NNP who_WP want_VBP a_DT viable_JJ alternative_NN to_TO iPhone_NNP ._.
+Here_RB 's_VBZ a_DT summary_NN of_IN Pros_NNS and_CC Cons_NNS :_: PROSComes_NNS with_IN an_DT immediate_JJ Upgrade_NN to_TO Android_NNP Froyo_NNP and_CC the_DT ability_NN to_TO put_VB Apps_NNS on_IN the_DT SD_NNP Memory_NN CardAccess_NN to_TO thousands_NNS of_IN Apps_NNS on_IN the_DT Google_NNP NetworkLightning_NNP FastGorgeous_NNP DisplayRemovable_NNP Battery_NNP -_: you_PRP can_MD buy_VB an_DT extra_JJ battery_NN for_IN backup_NN for_IN long_JJ days_NNS or_CC trips_NNS ._.
+You_PRP can_MD not_RB do_VB that_DT with_IN iPhone_NNP !_.
+Extremely_RB Durable_JJ with_IN a_DT Titanium_NNP CaseExcellent_NNP Camera_NNP WITH_IN a_DT flash_NN ._.
+iPhone_NNP 3Gs_NNP has_VBZ no_DT flashCONSThis_NNP phone_NN is_VBZ sold_VBN by_IN Amazon_NNP Partners_NNPS ,_, not_RB directly_RB from_IN Amazon_NNP ._.
+They_PRP are_VBP imported_VBN and_CC have_VBP no_DT warranty_NN and_CC do_VBP not_RB have_VB the_DT standard_JJ Amazon_NNP no_DT questions_NNS asked_VBD return_NN policy_NN ._.
+Recommendation_NN :_: Peruse_VB the_DT list_NN of_IN sellers_NNS closely_RB for_IN return_NN policy_NN ._.
+Make_VB sure_JJ you_PRP pick_VBP one_CD who_WP gives_VBZ you_PRP at_IN LEAST_NNP 30_CD days_NNS to_TO test_VB drive_NN the_DT phone_NN ._.
+It_PRP might_MD be_VB worth_JJ it_PRP to_TO pay_VB a_DT little_RB more_JJR for_IN the_DT phone_NN to_TO get_VB a_DT good_JJ return_NN policy_NN in_IN the_DT event_NN of_IN a_DT problem_NN ._.
+You_PRP 'll_MD have_VB to_TO set_VB it_PRP up_IN yourself_PRP to_TO make_VB sure_JJ it_PRP operates_VBZ properly_RB on_IN your_PRP$ network_NN ._.
+This_DT is_VBZ not_RB really_RB a_DT problem_NN but_CC might_MD be_VB a_DT challenge_NN if_IN you_PRP have_VBP not_RB done_VBN this_DT before_RB ._.
+Cincinnati_NNP Bell_NNP Users_NNP can_MD go_VB to_TO their_PRP$ web_NN page_NN for_IN set-up_JJ instructions_NNS or_CC simply_RB call_VB them_PRP up_RP ._.
+They_PRP 'll_MD SMS_VB the_DT settings_NNS to_TO you_PRP or_CC talk_VB you_PRP through_IN it_PRP on_IN the_DT phone_NN ._.
+Do_VBP not_RB worry_VB ,_, it_PRP is_VBZ easy_JJ ._.
+Droid_NN Phones_NNS do_VBP not_RB synch_VB directly_RB with_IN Outlook_NNP Contacts_NNP -LRB-_-LRB- this_DT is_VBZ true_JJ of_IN all_DT Droid_NNP phones_NNS ,_, not_RB just_RB the_DT Nexus_NNP One_CD -RRB-_-RRB- ._.
+However_RB ,_, their_PRP$ are_VBP third_JJ party_NN Droid_NNP Apps_NNP which_WDT will_MD solve_VB this_DT problem_NN for_IN you_PRP ._.
+Look_VB for_IN a_DT company_NN called_VBN Companionlink_NNP ._.
+They_PRP offer_VBP a_DT free_JJ trial_NN period_NN ,_, but_CC you_PRP 'll_MD probably_RB buy_VB it_PRP within_IN days_NNS once_IN it_PRP is_VBZ loaded_VBN all_DT your_PRP$ Outlook_NNP contacts_NNS so_RB easily_RB ._.
+SUMMARYThis_NNP is_VBZ a_DT great_JJ phone_NN ,_, which_WDT I_PRP believe_VBP blows_NNS iPhone_VBP away_RB ._.
+The_DT Cons_NNS I_PRP have_VBP listed_VBN are_VBP simply_RB to_TO make_VB you_PRP aware_JJ ,_, but_CC none_NN of_IN them_PRP comes_VBZ close_RB to_TO compromising_VBG the_DT Pro_FW 's_POS ._.
+It_PRP 's_VBZ an_DT outstanding_JJ phone_NN I_PRP recommend_VBP highly_RB ._.

@@ -1,0 +1,35 @@
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, already-2)
+root(ROOT-0, have-3)
+det(T2i-5, the-4)
+dobj(have-3, T2i-5)
+advmod(decided-9, when-7)
+nsubj(decided-9, I-8)
+xsubj(try-11, I-8)
+advcl(disappontied-18, decided-9)
+aux(try-11, to-10)
+xcomp(decided-9, try-11)
+prt(try-11, out-12)
+det(T3i-14, the-13)
+dobj(try-11, T3i-14)
+nsubjpass(disappontied-18, I-15)
+auxpass(disappontied-18, was-16)
+neg(disappontied-18, not-17)
+conj_and(have-3, disappontied-18)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(features-4, the-3)
+nsubj(sharp-11, features-4)
+det(HD-8, the-6)
+amod(HD-8, video-7)
+conj_and(features-4, HD-8)
+nsubj(sharp-11, HD-8)
+cop(sharp-11, is-9)
+advmod(sharp-11, really-10)
+ccomp(love-2, sharp-11)
+

@@ -1,0 +1,4 @@
+I_PRP love_VBP my_PRP$ new_JJ camera_NN !_.
+It_PRP really_RB does_VBZ great_JJ in_IN low_JJ light_NN and_CC the_DT zoom_NN is_VBZ the_DT best_JJS !_.
+Takes_VBZ very_RB good_JJ pictures_NNS ._.
+It_PRP is_VBZ the_DT best_JJS camera_NN ._.

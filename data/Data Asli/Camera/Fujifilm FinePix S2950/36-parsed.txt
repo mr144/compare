@@ -1,0 +1,85 @@
+=========
+
+dep(know-5, Please-1)
+nsubj(know-5, customers-3)
+aux(know-5, must-4)
+root(ROOT-0, know-5)
+dobj(buying-9, what-6)
+nsubj(buying-9, they-7)
+aux(buying-9, are-8)
+ccomp(know-5, buying-9)
+prepc_before(buying-9, making-11)
+det(mistake-13, a-12)
+dobj(making-11, mistake-13)
+
+=========
+
+det(price-2, The-1)
+nsubj(tells-3, price-2)
+root(ROOT-0, tells-3)
+iobj(tells-3, you-4)
+dobj(tells-3, everything-5)
+
+=========
+
+det(lot-3, a-2)
+prep_for(receive-9, lot-3)
+mwe(than-5, less-4)
+quantmod(200-6, than-5)
+num(lot-3, 200-6)
+nsubj(receive-9, you-8)
+root(ROOT-0, receive-9)
+det(camera-14, a-10)
+amod(camera-14, good-11)
+nn(camera-14, quality-12)
+nn(camera-14, BRIDGE-13)
+dobj(receive-9, camera-14)
+
+=========
+
+det(lot-2, A-1)
+nsubj(stuff-7, lot-2)
+prep_of(lot-2, extras-4)
+prep_of(lot-2, cool-6)
+conj_and(extras-4, cool-6)
+root(ROOT-0, stuff-7)
+prep_like(stuff-7, panorama-9)
+
+=========
+
+nn(zoom-2, Excellent-1)
+root(ROOT-0, zoom-2)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+xsubj(make-5, you-2)
+advcl(go-10, want-3)
+aux(make-5, to-4)
+xcomp(want-3, make-5)
+det(foward-8, a-6)
+nn(foward-8, step-7)
+dobj(make-5, foward-8)
+root(ROOT-0, go-10)
+amod(cameras-15, normal-12)
+amod(cameras-15, small-13)
+amod(cameras-15, digital-14)
+prep_from(go-10, cameras-15)
+det(camera-21, a-18)
+advmod(complete-20, more-19)
+amod(camera-21, complete-20)
+prep_to(go-10, camera-21)
+
+=========
+
+nsubj(choise-4, This-1)
+cop(choise-4, is-2)
+poss(choise-4, your-3)
+root(ROOT-0, choise-4)
+
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+

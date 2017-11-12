@@ -1,0 +1,5 @@
+I_PRP purchased_VBD this_DT LG_NNP TV_NNP over_IN Black_NNP Friday_NNP and_CC got_VBD a_DT pretty_RB good_JJ deal_NN -LRB-_-LRB- $_$ 300_CD -RRB-_-RRB- ._.
+Menu_NN is_VBZ very_RB easy_JJ to_TO navigate_VB through_IN and_CC the_DT setup_NN is_VBZ quite_RB easy_JJ ._.
+It_PRP 's_VBZ pretty_RB good_JJ price_NN for_IN a_DT 1080p_NN at_IN 32_CD '_POS size_NN ._.
+volume_NN is_VBZ sufficient_JJ for_IN this_DT small_JJ TV_NN ._.
+Resolution_NNP is_VBZ crisp_JJ and_CC i_FW have_VBP not_RB found_VBN any_DT flaw_NN so_RB far_RB ._.

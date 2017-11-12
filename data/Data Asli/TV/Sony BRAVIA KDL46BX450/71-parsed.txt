@@ -1,0 +1,64 @@
+=========
+
+nsubj(found-2, I-1)
+root(ROOT-0, found-2)
+det(TV-4, this-3)
+dobj(found-2, TV-4)
+aux(TV-9, to-5)
+cop(TV-9, be-6)
+det(TV-9, the-7)
+amod(TV-9, best-8)
+infmod(TV-4, TV-9)
+dobj(had-13, TV-9)
+nsubj(had-13, I-10)
+aux(had-13, have-11)
+advmod(had-13, ever-12)
+rcmod(TV-9, had-13)
+
+=========
+
+amod(quality-2, Great-1)
+root(ROOT-0, quality-2)
+amod(value-5, great-4)
+appos(quality-2, value-5)
+
+=========
+
+det(person-3, a-2)
+nsubj(watch-7, person-3)
+nsubj(need-11, person-3)
+prep_for(perfect-21, person-3)
+aux(watch-7, does-5)
+neg(watch-7, not-6)
+rcmod(person-3, watch-7)
+num(TV-9, 3D-8)
+dobj(watch-7, TV-9)
+rcmod(person-3, need-11)
+conj_or(watch-7, need-11)
+det(internet-13, any-12)
+dobj(need-11, internet-13)
+det(TV-16, the-15)
+prep_on(need-11, TV-16)
+det(one-19, this-18)
+nsubj(perfect-21, one-19)
+cop(perfect-21, is-20)
+root(ROOT-0, perfect-21)
+
+=========
+
+nsubj(wanted-3, I-1)
+advmod(wanted-3, just-2)
+root(ROOT-0, wanted-3)
+amod(quality-5, good-4)
+dobj(wanted-3, quality-5)
+det(screen-9, a-7)
+amod(screen-9, big-8)
+prep_in(wanted-3, screen-9)
+det(price-13, a-11)
+amod(price-13, reasonable-12)
+prep_for(wanted-3, price-13)
+nsubj(got-17, I-16)
+conj_and(wanted-3, got-17)
+nsubj(!!-19, it-18)
+ccomp(got-17, !!-19)
+

@@ -1,0 +1,31 @@
+=========
+
+amod(camera-2, Excellent-1)
+root(ROOT-0, camera-2)
+amod(features-5, many-4)
+prep_with(camera-2, features-5)
+det(price-10, a-7)
+advmod(good-9, very-8)
+amod(price-10, good-9)
+prep_at(camera-2, price-10)
+
+=========
+
+nsubj(eat-3, It-1)
+aux(eat-3, does-2)
+root(ROOT-0, eat-3)
+prt(eat-3, up-4)
+dobj(eat-3, batteries-5)
+mark(idea-11, so-6)
+nsubj(idea-11, it-7)
+cop(idea-11, is-8)
+det(idea-11, a-9)
+amod(idea-11, good-10)
+advcl(eat-3, idea-11)
+aux(go-13, to-12)
+infmod(idea-11, go-13)
+prep_with(go-13, rechargeables-15)
+infmod(idea-11, have-17)
+conj_and(go-13, have-17)
+dobj(have-17, back-up-18)
+

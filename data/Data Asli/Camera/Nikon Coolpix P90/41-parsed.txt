@@ -1,0 +1,164 @@
+=========
+
+nsubj(understand-2, First-1)
+root(ROOT-0, understand-2)
+complm(idiot-8, that-3)
+nsubj(idiot-8, I-4)
+cop(idiot-8, am-5)
+det(idiot-8, an-6)
+amod(idiot-8, electronic-7)
+ccomp(understand-2, idiot-8)
+
+=========
+
+advmod(know-4, Second-1)
+nsubj(know-4, I-3)
+root(ROOT-0, know-4)
+dobj(know-4, nothing-5)
+prep_about(nothing-5, cameras-7)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+mark(wanted-7, because-5)
+nsubj(wanted-7, I-6)
+xsubj(take-9, I-6)
+advcl(bought-2, wanted-7)
+aux(take-9, to-8)
+xcomp(wanted-7, take-9)
+amod(ups-11, close-10)
+dobj(take-9, ups-11)
+poss(roses-16, my-13)
+nn(roses-16, cats-14)
+prep_of(ups-11, roses-16)
+nn(places-19, favorite-18)
+prep_of(ups-11, places-19)
+conj_and(roses-16, places-19)
+
+=========
+
+nn(I-2, Historically-1)
+nsubj(had-4, I-2)
+aux(had-4, have-3)
+root(ROOT-0, had-4)
+dobj(had-4, difficulty-5)
+nn(pictures-8, cat-7)
+prep_with(had-4, pictures-8)
+mark(close-13, because-9)
+det(cats-11, the-10)
+nsubj(close-13, cats-11)
+nsubj(leave-17, cats-11)
+preconj(close-13, either-12)
+advcl(had-4, close-13)
+poss(eyes-15, their-14)
+dobj(close-13, eyes-15)
+advcl(had-4, leave-17)
+conj_or(close-13, leave-17)
+det(picture-19, the-18)
+dobj(leave-17, picture-19)
+advmod(hear-22, when-20)
+nsubj(hear-22, they-21)
+advcl(leave-17, hear-22)
+det(click-25, the-23)
+nn(click-25, camera-24)
+dobj(hear-22, click-25)
+
+=========
+
+advmod(take-4, Now-1)
+nsubj(take-4, I-2)
+aux(take-4, can-3)
+root(ROOT-0, take-4)
+dobj(take-4, pictures-5)
+det(cats-8, the-7)
+prep_of(pictures-5, cats-8)
+advmod(are-11, when-9)
+nsubj(are-11, they-10)
+advcl(take-4, are-11)
+advmod(away-13, farther-12)
+advmod(are-11, away-13)
+
+=========
+
+nsubj(zoom-3, I-1)
+nsubj(take-9, I-1)
+aux(zoom-3, can-2)
+root(ROOT-0, zoom-3)
+prt(zoom-3, in-4)
+det(cats-7, the-6)
+prep_on(zoom-3, cats-7)
+conj_and(zoom-3, take-9)
+amod(pictures-11, great-10)
+dobj(take-9, pictures-11)
+mark(reacting-16, as-12)
+nsubj(reacting-16, they-13)
+aux(reacting-16, are-14)
+neg(reacting-16, not-15)
+advcl(take-9, reacting-16)
+det(noise-20, the-18)
+nn(noise-20, shutter-19)
+prep_to(reacting-16, noise-20)
+
+=========
+
+det(detail-2, The-1)
+nsubj(good-4, detail-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+
+=========
+
+det(whiskers-3, The-1)
+nn(whiskers-3, cat-2)
+nsubj(show-4, whiskers-3)
+root(ROOT-0, show-4)
+prt(show-4, up-5)
+dobj(show-4, sharp-6)
+
+=========
+
+nsubj(getting-3, I-1)
+aux(getting-3, am-2)
+root(ROOT-0, getting-3)
+det(pictures-6, the-4)
+amod(pictures-6, best-5)
+dobj(getting-3, pictures-6)
+dobj(taken-10, pictures-6)
+nsubj(taken-10, I-7)
+aux(taken-10, have-8)
+advmod(taken-10, ever-9)
+rcmod(pictures-6, taken-10)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(camera-7, this-6)
+prep_with(happy-4, camera-7)
+
+=========
+
+det(side-4, The-1)
+amod(side-4, only-2)
+amod(side-4, down-3)
+nsubj(is-5, side-4)
+root(ROOT-0, is-5)
+nsubj(fit-9, it-6)
+aux(fit-9, does-7)
+neg(fit-9, not-8)
+ccomp(is-5, fit-9)
+poss(purse-12, my-11)
+prep_into(fit-9, purse-12)
+nsubj(get-17, I-14)
+aux(get-17, can-15)
+advmod(get-17, always-16)
+conj_but(is-5, get-17)
+det(purse-20, a-18)
+amod(purse-20, larger-19)
+dobj(get-17, purse-20)
+

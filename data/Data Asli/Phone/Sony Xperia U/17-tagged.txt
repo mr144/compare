@@ -1,0 +1,3 @@
+Good_JJ phone_NN ._.
+Battery_NNP has_VBZ a_DT decent_JJ duration_NN ,_, it_PRP is_VBZ not_RB too_RB small_JJ or_CC too_RB big_JJ and_CC works_VBZ great_JJ for_IN the_DT average_JJ user_NN ._.
+The_DT processor_NN is_VBZ supposedly_RB good_JJ ,_, but_CC sometimes_RB the_DT phone_NN freezes_VBZ ._.

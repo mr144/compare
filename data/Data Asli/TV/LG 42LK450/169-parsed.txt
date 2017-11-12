@@ -1,0 +1,105 @@
+=========
+
+nsubjpass(disappointed-5, I-1)
+aux(disappointed-5, have-2)
+neg(disappointed-5, never-3)
+auxpass(disappointed-5, been-4)
+root(ROOT-0, disappointed-5)
+det(product-9, an-7)
+nn(product-9, LG-8)
+prep_with(disappointed-5, product-9)
+
+=========
+
+nsubj(has-2, TV-1)
+root(ROOT-0, has-2)
+amod(display-4, beautiful-3)
+dobj(has-2, display-4)
+appos(display-4, plenty-6)
+prep_of(plenty-6, ports-8)
+predet(equipment-12, all-10)
+poss(equipment-12, our-11)
+prep_for(ports-8, equipment-12)
+
+=========
+
+nsubj(recalls-2, It-1)
+root(ROOT-0, recalls-2)
+nsubj(ports-4, which-3)
+ccomp(recalls-2, ports-4)
+nsubj(use-6, you-5)
+rcmod(ports-4, use-6)
+advmod(use-6, most-7)
+advmod(switching-9, when-8)
+advcl(use-6, switching-9)
+prep_between(switching-9, them-11)
+amod(player-14, blue-ray-13)
+dep(ports-4, player-14)
+appos(player-14, cable-16)
+appos(player-14, wii-18)
+dep(player-14, etc.-20)
+
+=========
+
+det(32LK450-2, The-1)
+nsubj(value-6, 32LK450-2)
+cop(value-6, is-3)
+det(value-6, an-4)
+amod(value-6, excellent-5)
+root(ROOT-0, value-6)
+det(quality-9, the-8)
+prep_for(value-6, quality-9)
+dobj(get-11, quality-9)
+nsubj(get-11, you-10)
+rcmod(quality-9, get-11)
+
+=========
+
+advmod(complaint-2, Only-1)
+nsubj(is-3, complaint-2)
+root(ROOT-0, is-3)
+complm(has-6, that-4)
+nsubj(has-6, it-5)
+ccomp(is-3, has-6)
+det(tuner-10, a-7)
+amod(tuner-10, weak-8)
+amod(tuner-10, digital-9)
+dobj(has-6, tuner-10)
+
+=========
+
+poss(TV-4, My-1)
+amod(TV-4, older-2)
+amod(TV-4, digital-3)
+nsubj(get-6, TV-4)
+aux(get-6, could-5)
+root(ROOT-0, get-6)
+amod(reception-8, better-7)
+dobj(get-6, reception-8)
+det(channels-13, the-10)
+amod(channels-13, local-11)
+nn(channels-13, news-12)
+prep_for(get-6, channels-13)
+partmod(channels-13, using-14)
+det(antennae-18, the-15)
+amod(antennae-18, same-16)
+amod(antennae-18, indoor-17)
+dobj(using-14, antennae-18)
+
+=========
+
+nsubj(had-2, I-1)
+xsubj(buy-4, I-1)
+xsubj(get-9, I-1)
+root(ROOT-0, had-2)
+aux(buy-4, to-3)
+xcomp(had-2, buy-4)
+det(antennae-7, an-5)
+amod(antennae-7, outdoor-6)
+dobj(buy-4, antennae-7)
+aux(get-9, to-8)
+xcomp(had-2, get-9)
+nsubj(work-12, it-10)
+aux(work-12, to-11)
+xcomp(get-9, work-12)
+

@@ -1,0 +1,37 @@
+=========
+
+det(television-2, This-1)
+nsubj(light-4, television-2)
+cop(light-4, is-3)
+root(ROOT-0, light-4)
+prep_in(light-4, weight-6)
+det(picture-9, the-8)
+nsubj(clear-12, picture-9)
+cop(clear-12, is-10)
+advmod(clear-12, very-11)
+conj_and(light-4, clear-12)
+prepc_compared_to(clear-12, to-14)
+pobj(clear-12, televisions-15)
+dobj(seen-18, televisions-15)
+nsubj(seen-18, I-16)
+aux(seen-18, have-17)
+rcmod(televisions-15, seen-18)
+det(past-21, the-20)
+prep_in(seen-18, past-21)
+
+=========
+
+det(price-2, The-1)
+nsubj(fair-6, price-2)
+nsubj(compares-8, price-2)
+cop(fair-6, is-3)
+advmod(than-5, more-4)
+advmod(fair-6, than-5)
+root(ROOT-0, fair-6)
+conj_and(fair-6, compares-8)
+amod(televisions-11, other-10)
+prep_to(compares-8, televisions-11)
+det(specs-15, the-13)
+amod(specs-15, same-14)
+prep_with(compares-8, specs-15)
+

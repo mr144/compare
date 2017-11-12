@@ -1,0 +1,42 @@
+=========
+
+nsubj(product-6, It-1)
+cop(product-6, is-2)
+det(product-6, a-3)
+advmod(good-5, very-4)
+amod(product-6, good-5)
+root(ROOT-0, product-6)
+
+=========
+
+amod(price-2, right-1)
+nsubj(weigth-6, price-2)
+nsubj(cost-8, price-2)
+appos(price-2, size-4)
+root(ROOT-0, weigth-6)
+conj_and(weigth-6, cost-8)
+
+=========
+
+nsubj(happy-4, I-1)
+xsubj(experience-14, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+dep(want-7, and-5)
+nsubj(want-7, I-6)
+xsubj(invite-9, I-6)
+parataxis(happy-4, want-7)
+aux(invite-9, to-8)
+xcomp(want-7, invite-9)
+dobj(invite-9, all-10)
+prep_of(all-10, you-12)
+aux(experience-14, to-13)
+xcomp(happy-4, experience-14)
+det(9360-20, the-15)
+amod(9360-20, new-16)
+nn(9360-20, RIM-17)
+nn(9360-20, BB-18)
+nn(9360-20, Curve-19)
+dobj(experience-14, 9360-20)
+

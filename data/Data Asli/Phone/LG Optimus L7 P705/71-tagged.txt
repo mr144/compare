@@ -1,0 +1,9 @@
+Item_NN specifications_NNS are_VBP wrong_JJ ._.
+It_PRP says_VBZ didual_JJ core_NN '_'' it_PRP is_VBZ not_RB true_JJ ._.
+The_DT phone_NN is_VBZ very_RB slow_JJ ._.
+It_PRP will_MD not_RB download_VB two_CD apps_NNS simultaneously_RB ,_, it_PRP gets_VBZ frozen_JJ ._.
+No_DT matter_NN the_DT kind_NN app_NN ._.
+I_PRP turned_VBD it_PRP back_RB after_IN a_DT day_NN ._.
+I_PRP decided_VBD to_TO get_VB a_DT Chinese_NN no_DT brand_NN ._.
+It_PRP was_VBD faster_RBR ,_, but_CC it_PRP broke_VBD after_IN 4_CD days_NNS of_IN use_NN ,_, the_DT screen_NN lost_VBD 80_CD %_NN quality_NN ._.
+-LRB-_-LRB- ..._: -RRB-_-RRB-

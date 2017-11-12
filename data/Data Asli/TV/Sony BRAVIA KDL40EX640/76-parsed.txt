@@ -1,0 +1,77 @@
+=========
+
+dep(watch-10, Well-1)
+nsubj(watch-10, I-3)
+advmod(watch-10, still-4)
+det(TV-7, a-6)
+prep_by(still-4, TV-7)
+prep(still-4, to-8)
+dep(to-8, primarily-9)
+root(ROOT-0, watch-10)
+nn(programs-12, TV-11)
+dobj(watch-10, programs-12)
+
+=========
+
+mark(said-3, With-1)
+nsubj(said-3, that-2)
+advcl(find-7, said-3)
+nsubj(find-7, I-5)
+aux(find-7, did-6)
+root(ROOT-0, find-7)
+nsubj(easy-9, it-8)
+xcomp(find-7, easy-9)
+aux(set-11, to-10)
+xcomp(easy-9, set-11)
+prt(set-11, up-12)
+dobj(set-11, everything-13)
+prep_including(everything-13, Netflix-15)
+nn(access-18, Internet-17)
+prep_including(everything-13, access-18)
+conj_and(Netflix-15, access-18)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+
+=========
+
+det(savings-3, The-1)
+amod(savings-3, net-2)
+nsubj($-17, savings-3)
+prepc_in(savings-3, buying-5)
+prep_through(buying-5, Amazon-7)
+det(store-14, a-10)
+amod(store-14, local-11)
+amod(store-14, big-12)
+nn(store-14, box-13)
+prep_through(buying-5, store-14)
+conj_negcc(Amazon-7, store-14)
+cop($-17, was-15)
+quantmod($-17, approximately-16)
+root(ROOT-0, $-17)
+number($-17, 140-18)
+
+=========
+
+mark(Prime-5, Since-1)
+nsubj(Prime-5, I-2)
+cop(Prime-5, am-3)
+nn(Prime-5, Amazon-4)
+advcl(got-8, Prime-5)
+nsubj(got-8, I-7)
+root(ROOT-0, got-8)
+amod(delivery-11, next-9)
+nn(delivery-11, day-10)
+tmod(got-8, delivery-11)
+
+=========
+
+nsubj(good-3, Everything-1)
+cop(good-3, is-2)
+root(ROOT-0, good-3)
+nsubj(shipping-9, product-5)
+appos(product-5, price-7)
+parataxis(good-3, shipping-9)
+

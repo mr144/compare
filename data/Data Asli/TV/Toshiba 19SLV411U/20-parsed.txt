@@ -1,0 +1,153 @@
+=========
+
+nn(combo-3, TV\/DVD-2)
+nsubj(stopped-4, combo-3)
+root(ROOT-0, stopped-4)
+xcomp(stopped-4, working-5)
+
+=========
+
+root(ROOT-0, Power-1)
+prt(Power-1, on-2)
+nsubj(goes-5, it-4)
+conj_and(Power-1, goes-5)
+prep_into(goes-5, stand-by-7)
+amod(light-11, solid-9)
+amod(light-11, red-10)
+appos(stand-by-7, light-11)
+
+=========
+
+nsubj(help-4, Manual-1)
+cop(help-4, was-2)
+det(help-4, no-3)
+root(ROOT-0, help-4)
+csubj(required-10, talking-6)
+prep_to(talking-6, Toshiba-8)
+advmod(required-10, directly-9)
+conj_and(help-4, required-10)
+det(dose-13, an-11)
+amod(dose-13, extra-12)
+dobj(required-10, dose-13)
+nn(meds-17, blood-15)
+nn(meds-17, pressure-16)
+prep_of(dose-13, meds-17)
+
+=========
+
+amod(story-2, Long-1)
+npadvmod(short-3, story-2)
+advmod(have-6, short-3)
+nsubj(have-6, I-5)
+xsubj(pay-8, I-5)
+root(ROOT-0, have-6)
+aux(pay-8, to-7)
+xcomp(have-6, pay-8)
+prep_for(pay-8, shipping-10)
+prep_for(pay-8, hope-12)
+conj_and(shipping-10, hope-12)
+complm(repair-16, that-13)
+nsubj(repair-16, they-14)
+aux(repair-16, can-15)
+ccomp(pay-8, repair-16)
+dobj(repair-16, it-17)
+
+=========
+
+advmod(hope-2, Also-1)
+root(ROOT-0, hope-2)
+nsubj(return-4, they-3)
+ccomp(hope-2, return-4)
+det(movie-7, the-5)
+nn(movie-7, DVD-6)
+dobj(return-4, movie-7)
+nsubjpass(stuck-11, movie-7)
+auxpass(stuck-11, is-9)
+advmod(stuck-11, currently-10)
+rcmod(movie-7, stuck-11)
+det(set-15, the-13)
+nn(set-15, combo-14)
+prep_in(stuck-11, set-15)
+
+=========
+
+root(ROOT-0, Update-1)
+nsubj(hold-7, Spent-3)
+num(minutes-5, 45-4)
+npadvmod(on-6, minutes-5)
+advmod(hold-7, on-6)
+dep(Update-1, hold-7)
+amod(night-9, last-8)
+tmod(hold-7, night-9)
+prep_with(hold-7, Toshiba-11)
+
+=========
+
+root(ROOT-0, Disconnected-1)
+advmod(Disconnected-1, twice-2)
+det(times-5, both-4)
+nsubj(getting-7, times-5)
+neg(getting-7, never-6)
+prepc_with(Disconnected-1, getting-7)
+det(#-10, an-8)
+nn(#-10, RA-9)
+dobj(getting-7, #-10)
+conj_or(Disconnected-1, address-12)
+prep_to(address-12, return-14)
+
+=========
+
+root(ROOT-0, Tonight-1)
+poss(call-6, my-4)
+amod(call-6, 4th-5)
+prep_on(Tonight-1, call-6)
+prep_with(Tonight-1, Toshiba-8)
+num(hours-11, 2-10)
+appos(Toshiba-8, hours-11)
+
+=========
+
+root(ROOT-0, Disconnected-1)
+num(times-3, 3-2)
+dobj(Disconnected-1, times-3)
+
+=========
+
+advmod(got-2, Finally-1)
+root(ROOT-0, got-2)
+det(#-5, a-3)
+nn(#-5, RA-4)
+nsubj(got-2, #-5)
+tmod(came-9, #-5)
+advmod(#-5, but-6)
+advmod(came-9, when-7)
+nsubj(came-9, it-8)
+xsubj(get-11, it-8)
+dep(#-5, came-9)
+aux(get-11, to-10)
+xcomp(came-9, get-11)
+det(address-13, an-12)
+dobj(get-11, address-13)
+prep_to(get-11, return-15)
+partmod(return-15, disconnected-17)
+
+=========
+
+nsubj(attempt-5, This-1)
+cop(attempt-5, is-2)
+poss(attempt-5, my-3)
+amod(attempt-5, last-4)
+root(ROOT-0, attempt-5)
+
+=========
+
+nsubj(will-5, Never-1)
+appos(Never-1, EVER-3)
+root(ROOT-0, will-5)
+dobj(will-5, I-6)
+dep(will-5, purchase-7)
+det(!!-11, another-8)
+nn(!!-11, Toshiba-9)
+nn(!!-11, product-10)
+dobj(purchase-7, !!-11)
+

@@ -1,0 +1,30 @@
+=========
+
+nsubj(have-9, I-1)
+det(product-4, this-3)
+prep_like(have-9, product-4)
+advmod(product-4, just-6)
+poss(battery-8, my-7)
+dep(product-4, battery-8)
+ccomp(know-17, have-9)
+neg(life-12, not-10)
+amod(life-12, long-11)
+dobj(have-9, life-12)
+nsubj(know-17, I-14)
+aux(know-17, do-15)
+neg(know-17, not-16)
+root(ROOT-0, know-17)
+mark(damaged-22, if-18)
+nsubjpass(damaged-22, it-19)
+aux(damaged-22, is-20)
+auxpass(damaged-22, is-21)
+advcl(know-17, damaged-22)
+
+=========
+
+cc(recomend-3, But-1)
+nsubj(recomend-3, I-2)
+root(ROOT-0, recomend-3)
+det(phone-5, this-4)
+dobj(recomend-3, phone-5)
+

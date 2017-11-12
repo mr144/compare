@@ -1,0 +1,43 @@
+=========
+
+nsubj(great-3, TV-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+
+=========
+
+amod(image-3, Good-1)
+nn(image-3, quality-2)
+nsubj(easy-7, image-3)
+appos(image-3, Menu-5)
+cop(easy-7, is-6)
+root(ROOT-0, easy-7)
+aux(navigate-9, to-8)
+xcomp(easy-7, navigate-9)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, Would-2)
+root(ROOT-0, recommend-3)
+det(LG-5, this-4)
+dobj(recommend-3, LG-5)
+prep_to(recommend-3, someone-7)
+nsubj(want-11, someone-7)
+nsubj(want-18, someone-7)
+aux(want-11, does-9)
+neg(want-11, not-10)
+rcmod(someone-7, want-11)
+aux(spend-13, to-12)
+xcomp(want-11, spend-13)
+det(fortune-15, a-14)
+dobj(spend-13, fortune-15)
+advmod(want-18, still-17)
+rcmod(someone-7, want-18)
+conj_but(want-11, want-18)
+det(TV-23, a-19)
+amod(TV-23, good-20)
+nn(TV-23, HD-21)
+nn(TV-23, plasma-22)
+dobj(want-18, TV-23)
+

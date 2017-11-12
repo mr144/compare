@@ -1,0 +1,2 @@
++_CD Amazing_JJ picture_NN quality_NN +_NNP Micro_NNP fourthirds_NNS lens_NN mount_VBP +_RB Acceptable_JJ video_NN quality_NN Battery_NNP management_NN sucks_VBZ !_.
+User_NN interface_NN -LRB-_-LRB- menu_NN and_CC button_NN organization_NN -RRB-_-RRB- needs_VBZ massive_JJ facelift_NN Expensive_NNP

@@ -1,0 +1,39 @@
+=========
+
+root(ROOT-0, Good-1)
+dep(Good-1, phone-2)
+
+=========
+
+nsubj(has-2, Battery-1)
+ccomp(small-11, has-2)
+det(duration-5, a-3)
+amod(duration-5, decent-4)
+dobj(has-2, duration-5)
+nsubj(small-11, it-7)
+nsubj(big-14, it-7)
+nsubj(works-16, it-7)
+cop(small-11, is-8)
+neg(small-11, not-9)
+advmod(small-11, too-10)
+root(ROOT-0, small-11)
+advmod(big-14, too-13)
+conj_or(small-11, big-14)
+conj_and(small-11, works-16)
+acomp(works-16, great-17)
+det(user-21, the-19)
+amod(user-21, average-20)
+prep_for(works-16, user-21)
+
+=========
+
+det(processor-2, The-1)
+nsubj(good-5, processor-2)
+cop(good-5, is-3)
+advmod(good-5, supposedly-4)
+root(ROOT-0, good-5)
+advmod(freezes-11, sometimes-8)
+det(phone-10, the-9)
+nsubj(freezes-11, phone-10)
+conj_but(good-5, freezes-11)
+

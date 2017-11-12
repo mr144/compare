@@ -1,0 +1,27 @@
+=========
+
+num(weeks-3, two-2)
+prep_after(sound-14, weeks-3)
+prep_of(weeks-3, use-5)
+det(phone-8, this-7)
+prep_with(use-5, phone-8)
+det(ringing-11, no-9)
+amod(ringing-11, audible-10)
+nsubj(sound-14, ringing-11)
+conj_or(ringing-11, media-13)
+nsubj(sound-14, media-13)
+root(ROOT-0, sound-14)
+
+=========
+
+advmod(vibrationAdjustment-2, Only-1)
+nsubj(proved-10, vibrationAdjustment-2)
+nn(button-5, volume-4)
+prep_to(vibrationAdjustment-2, button-5)
+det(settings-9, all-7)
+amod(settings-9, other-8)
+prep_to(vibrationAdjustment-2, settings-9)
+conj_and(button-5, settings-9)
+root(ROOT-0, proved-10)
+acomp(proved-10, useless-11)
+

@@ -1,0 +1,40 @@
+=========
+
+poss(sister-2, My-1)
+nsubj(bought-3, sister-2)
+root(ROOT-0, bought-3)
+dobj(bought-3, it-4)
+
+=========
+
+nsubj(consider-3, it-1)
+aux(consider-3, is-2)
+root(ROOT-0, consider-3)
+acomp(consider-3, old-4)
+poss(age-9, today-6)
+amod(age-9, smartphone-8)
+prep_in(consider-3, age-9)
+nsubj(love-13, I-12)
+conj_but(consider-3, love-13)
+dobj(love-13, it-14)
+
+=========
+
+mark(is-3, If-1)
+nsubj(is-3, it-2)
+root(ROOT-0, is-3)
+neg(is-3, not-4)
+det(camera-7, the-6)
+prep_for(is-3, camera-7)
+poss(N8-11, my-9)
+nn(N8-11, Nokia-10)
+prep_of(camera-7, N8-11)
+
+=========
+
+nsubj(get-4, I-1)
+aux(get-4, will-2)
+advmod(get-4, definitely-3)
+root(ROOT-0, get-4)
+dobj(get-4, this-5)
+

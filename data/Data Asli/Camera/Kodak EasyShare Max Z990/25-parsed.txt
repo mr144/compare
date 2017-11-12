@@ -1,0 +1,79 @@
+=========
+
+nsubj(fans-5, We-1)
+cop(fans-5, are-2)
+nn(fans-5, Kodak-3)
+nn(fans-5, camera-4)
+root(ROOT-0, fans-5)
+mark(camera-11, so-6)
+nsubj(camera-11, this-7)
+cop(camera-11, is-8)
+det(camera-11, the-9)
+amod(camera-11, 4th-10)
+dep(fans-5, camera-11)
+dobj(owned-14, camera-11)
+nsubj(owned-14, we-12)
+aux(owned-14, have-13)
+rcmod(camera-11, owned-14)
+prep_by(owned-14, Kodak-16)
+
+=========
+
+nsubj(favorite-7, It-1)
+cop(favorite-7, is-2)
+advmod(favorite-7, by-3)
+advmod(by-3, far-4)
+poss(favorite-7, our-5)
+amod(favorite-7, most-6)
+root(ROOT-0, favorite-7)
+nsubjpass(amazed-12, everyone-9)
+auxpass(amazed-12, is-10)
+advmod(amazed-12, always-11)
+parataxis(favorite-7, amazed-12)
+det(quality-15, the-14)
+prep_at(amazed-12, quality-15)
+det(pictures-18, the-17)
+prep_of(quality-15, pictures-18)
+dobj(get-20, pictures-18)
+nsubj(get-20, we-19)
+rcmod(pictures-18, get-20)
+
+=========
+
+advmod(photographer-5, maybe-1)
+nsubj(photographer-5, it-2)
+cop(photographer-5, is-3)
+det(photographer-5, the-4)
+root(ROOT-0, photographer-5)
+nsubj(think-8, we-7)
+conj_but(photographer-5, think-8)
+det(camera-10, the-9)
+nsubj(is-11, camera-10)
+xsubj(blame-13, camera-10)
+ccomp(think-8, is-11)
+aux(blame-13, to-12)
+xcomp(is-11, blame-13)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+amod(features-4, great-3)
+dobj(has-2, features-4)
+det(ability-7, the-6)
+prep_with(features-4, ability-7)
+aux(take-9, to-8)
+infmod(ability-7, take-9)
+nn(video-11, HD-10)
+dobj(take-9, video-11)
+
+=========
+
+det(money-3, the-2)
+prep_for(camera-8, money-3)
+nsubj(camera-8, it-4)
+cop(camera-8, is-5)
+det(camera-8, a-6)
+amod(camera-8, great-7)
+root(ROOT-0, camera-8)
+

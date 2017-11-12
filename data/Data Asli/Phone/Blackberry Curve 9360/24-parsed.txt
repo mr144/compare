@@ -1,0 +1,32 @@
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(product-7, the-6)
+prep_with(happy-4, product-7)
+
+=========
+
+nsubj(change-3, What-1)
+aux(change-3, could-2)
+root(ROOT-0, change-3)
+prep_in(change-3, Ecuador-5)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+
+=========
+
+det(features-2, The-1)
+nsubjpass(described-5, features-2)
+auxpass(described-5, are-3)
+advmod(described-5, as-4)
+root(ROOT-0, described-5)
+det(web-8, the-7)
+prep_in(described-5, web-8)
+

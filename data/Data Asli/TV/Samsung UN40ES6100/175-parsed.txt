@@ -1,0 +1,43 @@
+=========
+
+amod(tv-2, Great-1)
+root(ROOT-0, tv-2)
+
+=========
+
+nsubj(picture-2, Beautiful-1)
+root(ROOT-0, picture-2)
+
+=========
+
+root(ROOT-0, Took-1)
+dobj(Took-1, me-2)
+det(month-5, a-4)
+prep_over(Took-1, month-5)
+dobj(bought-8, month-5)
+mark(bought-8, after-6)
+nsubj(bought-8, I-7)
+dep(month-5, bought-8)
+nsubj(to-10, it-9)
+xsubj(get-13, it-9)
+xcomp(bought-8, to-10)
+aux(get-13, to-11)
+advmod(get-13, finally-12)
+xcomp(to-10, get-13)
+nsubj(update-16, them-14)
+aux(update-16, to-15)
+xcomp(get-13, update-16)
+det(firmware-19, the-17)
+nn(firmware-19, RVU-18)
+dobj(update-16, firmware-19)
+prep_to(update-16, v1025-21)
+mark(work-25, so-22)
+nsubj(work-25, it-23)
+aux(work-25, would-24)
+advcl(Took-1, work-25)
+prep_with(work-25, DirectTV-27)
+nsubj(did-31, they-29)
+advmod(did-31, finally-30)
+advcl(Took-1, did-31)
+conj_but(work-25, did-31)
+

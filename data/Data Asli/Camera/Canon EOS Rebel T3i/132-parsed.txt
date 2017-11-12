@@ -1,0 +1,27 @@
+=========
+
+det(camera-2, The-1)
+nsubj(arrived-3, camera-2)
+root(ROOT-0, arrived-3)
+advmod(arrived-3, promptly-4)
+mark(promised-6, as-5)
+advcl(arrived-3, promised-6)
+advcl(arrived-3, behaved-8)
+conj_and(promised-6, behaved-8)
+advmod(behaved-8, exactly-9)
+prep_as(behaved-8, advertised-11)
+
+=========
+
+nsubj(easy-4, It-1)
+nsubj(takes-8, It-1)
+cop(easy-4, is-2)
+advmod(easy-4, very-3)
+root(ROOT-0, easy-4)
+aux(use-6, to-5)
+xcomp(easy-4, use-6)
+conj_and(easy-4, takes-8)
+advmod(good-10, very-9)
+amod(pictures-11, good-10)
+dobj(takes-8, pictures-11)
+

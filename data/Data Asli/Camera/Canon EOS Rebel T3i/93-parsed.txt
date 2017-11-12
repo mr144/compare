@@ -1,0 +1,32 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+nsubj(taken-3, I-1)
+aux(taken-3, have-2)
+root(ROOT-0, taken-3)
+dobj(taken-3, pictures-4)
+det(day-7, the-6)
+prep_in(taken-3, day-7)
+prep_at(taken-3, night-10)
+det(game-16, a-14)
+nn(game-16, baseball-15)
+prep_at(taken-3, game-16)
+conj_and(night-10, game-16)
+
+=========
+
+root(ROOT-0, So-1)
+advmod(good-4, far-2)
+advmod(good-4, so-3)
+dep(So-1, good-4)
+
+=========
+
+det(complaints-2, No-1)
+root(ROOT-0, complaints-2)
+

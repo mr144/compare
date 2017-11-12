@@ -1,0 +1,49 @@
+=========
+
+nsubj(chose-2, I-1)
+xsubj(upgrade-4, I-1)
+root(ROOT-0, chose-2)
+aux(upgrade-4, to-3)
+xcomp(chose-2, upgrade-4)
+det(D7000-7, the-6)
+prep_for(upgrade-4, D7000-7)
+det(D7100-10, the-9)
+prep_to(upgrade-4, D7100-10)
+
+=========
+
+nsubj(move-5, It-1)
+cop(move-5, was-2)
+det(move-5, a-3)
+amod(move-5, wise-4)
+root(ROOT-0, move-5)
+nsubj(love-7, I-6)
+rcmod(move-5, love-7)
+det(camera-9, this-8)
+dobj(love-7, camera-9)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+prep_to(recommend-3, anyone-7)
+
+=========
+
+amod(past-2, Best-1)
+nsubj(number-6, past-2)
+cop(number-6, is-3)
+det(number-6, the-4)
+amod(number-6, increased-5)
+root(ROOT-0, number-6)
+nn(field-9, focus-8)
+prep_of(number-6, field-9)
+nn(focus-12, auto-11)
+prep_of(number-6, focus-12)
+conj_and(field-9, focus-12)
+det(video-15, the-14)
+prep_in(field-9, video-15)
+

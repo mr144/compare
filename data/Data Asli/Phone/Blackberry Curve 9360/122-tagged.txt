@@ -1,0 +1,2 @@
+it_PRP is_VBZ thin_JJ design_NN is_VBZ very_RB cool_JJ but_CC while_IN you_PRP are_VBP using_VBG the_DT phone_NN it_PRP over_RB heats_VBZ ._.
+The_DT software_NN is_VBZ also_RB kind_NN of_IN slow_JJ sometimes_RB even_RB after_IN cleaning_VBG the_DT memory_NN ._.

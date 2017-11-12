@@ -1,0 +1,83 @@
+=========
+
+nsubj(seen-3, I-1)
+aux(seen-3, have-2)
+root(ROOT-0, seen-3)
+det(lot-5, a-4)
+dobj(seen-3, lot-5)
+dobj(abt-8, lot-5)
+det(reviews-7, a-6)
+nsubj(abt-8, reviews-7)
+rcmod(lot-5, abt-8)
+nn(p90-10, nikon-9)
+nsubj(horrible-12, p90-10)
+cop(horrible-12, being-11)
+dep(abt-8, horrible-12)
+amod(light-15, low-14)
+prep_in(horrible-12, light-15)
+
+=========
+
+root(ROOT-0, Its-1)
+nn(ISO-5, High-4)
+prep_because_of(Its-1, ISO-5)
+
+=========
+
+cc(would-10, And-1)
+mark(knows-4, if-2)
+nsubj(knows-4, anybody-3)
+dep(would-10, knows-4)
+nn(ISO-7, High-6)
+prep_about(knows-4, ISO-7)
+advmod(would-10, then-8)
+nsubj(would-10, they-9)
+root(ROOT-0, would-10)
+xcomp(would-10, knowing-11)
+complm(associated-15, that-12)
+nsubj(associated-15, its-13)
+advmod(associated-15, also-14)
+ccomp(knowing-11, associated-15)
+prep_with(associated-15, noise-17)
+
+=========
+
+nsubj(detects-2, Nikon-1)
+nsubj(increases-9, Nikon-1)
+root(ROOT-0, detects-2)
+det(amount-4, the-3)
+dobj(detects-2, amount-4)
+prep_of(amount-4, light-6)
+advmod(increases-9, automatically-8)
+conj_and(detects-2, increases-9)
+det(ISO-11, the-10)
+dobj(increases-9, ISO-11)
+
+=========
+
+mark(want-5, If-1)
+nsubj(want-5, you-2)
+aux(want-5, do-3)
+neg(want-5, not-4)
+advcl(select-10, want-5)
+dobj(want-5, noise-6)
+aux(select-10, do-8)
+neg(select-10, not-9)
+root(ROOT-0, select-10)
+nn(mode-12, auto-11)
+dobj(select-10, mode-12)
+
+=========
+
+root(ROOT-0, try-1)
+amod(auto-4, programmed-3)
+prep_with(try-1, auto-4)
+mark(get-7, so-5)
+nsubj(get-7, you-6)
+advcl(try-1, get-7)
+nsubj(decrease-10, options-8)
+aux(decrease-10, to-9)
+xcomp(get-7, decrease-10)
+det(ISO-12, the-11)
+dobj(decrease-10, ISO-12)
+

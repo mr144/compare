@@ -1,0 +1,28 @@
+=========
+
+nsubj(got-2, I-1)
+ccomp(using-11, got-2)
+dobj(got-2, this-3)
+poss(son-6, my-5)
+prep_for(this-3, son-6)
+nsubj(using-11, he-8)
+advmod(using-11, still-9)
+aux(using-11, is-10)
+root(ROOT-0, using-11)
+dobj(using-11, it-12)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(likes-5, he-3)
+advmod(likes-5, still-4)
+ccomp(think-2, likes-5)
+dobj(likes-5, it-6)
+advmod(likes-5, too-7)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, You-2)
+

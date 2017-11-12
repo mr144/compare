@@ -1,0 +1,128 @@
+=========
+
+advmod(saw-3, When-1)
+nsubj(saw-3, I-2)
+advcl(get-9, saw-3)
+csubj(get-9, saw-3)
+det(i-5, this-4)
+nsubj(like-7, i-5)
+cop(like-7, was-6)
+ccomp(saw-3, like-7)
+root(ROOT-0, get-9)
+nn(town-11, outta-10)
+dobj(get-9, town-11)
+
+=========
+
+det(inch1080p-3, A-1)
+num(inch1080p-3, 40-2)
+root(ROOT-0, inch1080p-3)
+num(bills-6, 3-5)
+prep_for(inch1080p-3, bills-6)
+
+=========
+
+nsubj(contractor-4, I-1)
+cop(contractor-4, am-2)
+det(contractor-4, a-3)
+root(ROOT-0, contractor-4)
+det(motel-7, these-6)
+conj_and(contractor-4, motel-7)
+nsubj(cut-13, TV-8)
+possessive(TV-8, 's-9)
+advmod(cut-13, just-10)
+aux(cut-13, do-11)
+neg(cut-13, not-12)
+rcmod(motel-7, cut-13)
+dobj(cut-13, it-14)
+dep(contractor-4, so-16)
+nsubj(buy-19, I-17)
+advmod(buy-19, always-18)
+ccomp(contractor-4, buy-19)
+det(screen-22, a-20)
+nn(screen-22, Flat-21)
+dobj(buy-19, screen-22)
+advmod(buy-19, then-24)
+dep(buy-19, Goodwill-25)
+dobj(Goodwill-25, it-26)
+advmod(leave-29, when-27)
+nsubj(leave-29, I-28)
+advcl(Goodwill-25, leave-29)
+dobj(leave-29, town-30)
+
+=========
+
+nsubj(going-4, This-1)
+advmod(going-4, puppy-2)
+aux(going-4, is-3)
+root(ROOT-0, going-4)
+prep_with(going-4, me-6)
+advmod(leave-9, when-7)
+nsubj(leave-9, I-8)
+advcl(going-4, leave-9)
+
+=========
+
+det(color-2, The-1)
+nsubj(stunning-7, color-2)
+conj_and(color-2, clarity-4)
+nsubj(stunning-7, clarity-4)
+cop(stunning-7, are-5)
+advmod(stunning-7, simply-6)
+root(ROOT-0, stunning-7)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+dobj(have-2, 4-3)
+nsubj('S-5, LCD-4)
+rcmod(4-3, 'S-5)
+advmod('S-5, now-6)
+nsubj(plan-10, I-9)
+xsubj(promote-12, I-9)
+conj_and(have-2, plan-10)
+aux(promote-12, to-11)
+xcomp(plan-10, promote-12)
+det(one-14, this-13)
+dobj(promote-12, one-14)
+poss(bedroom-17, my-16)
+prep_to(promote-12, bedroom-17)
+xcomp(plan-10, put-19)
+conj_and(promote-12, put-19)
+det(Samsung-23, the-20)
+num(Samsung-23, 32-21)
+nn(Samsung-23, inch-22)
+dobj(put-19, Samsung-23)
+det(bathroom-26, the-25)
+prep_to(put-19, bathroom-26)
+prep_to(put-19, something-28)
+conj_or(bathroom-26, something-28)
+
+=========
+
+aux(cut-2, To-1)
+dep(buy-7, cut-2)
+det(chase-5, the-4)
+prep_to(cut-2, chase-5)
+root(ROOT-0, buy-7)
+dobj(buy-7, it-8)
+
+=========
+
+mark(put-7, If-1)
+det(price-3, the-2)
+nsubj(put-7, price-3)
+amod(name-6, off-brand-5)
+conj_or(price-3, name-6)
+nsubj(put-7, name-6)
+advcl(schmuck-19, put-7)
+dobj(put-7, it-8)
+det(running-12, the-11)
+prep_out_of(put-7, running-12)
+prep_for(running-12, you-14)
+nsubj(schmuck-19, you-16)
+cop(schmuck-19, are-17)
+det(schmuck-19, a-18)
+root(ROOT-0, schmuck-19)
+

@@ -1,0 +1,30 @@
+=========
+
+nsubj(fine-4, Evevething-1)
+cop(fine-4, was-2)
+advmod(fine-4, just-3)
+root(ROOT-0, fine-4)
+
+=========
+
+det(problem-2, No-1)
+root(ROOT-0, problem-2)
+prep_at(problem-2, all-4)
+det(cellphone-7, the-6)
+prep_with(all-4, cellphone-7)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, perfect-3)
+prep_with(perfect-3, wifi-5)
+appos(wifi-5, 3g-7)
+det(transaction-10, The-9)
+nsubj(easy-12, transaction-10)
+nsubj(safe-14, transaction-10)
+cop(easy-12, was-11)
+parataxis(works-2, easy-12)
+parataxis(works-2, safe-14)
+conj_and(easy-12, safe-14)
+

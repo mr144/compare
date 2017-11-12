@@ -1,0 +1,126 @@
+=========
+
+root(ROOT-0, Pros-1)
+nsubj(excellent-5, Price-3)
+cop(excellent-5, was-4)
+dep(Pros-1, excellent-5)
+
+=========
+
+nsubj(beautiful-3, Color-1)
+cop(beautiful-3, is-2)
+root(ROOT-0, beautiful-3)
+det(photos-6, the-5)
+prep_in(beautiful-3, photos-6)
+nn(prints-9, art-8)
+prep_in(beautiful-3, prints-9)
+conj_and(photos-6, prints-9)
+nsubj(sold-12, I-10)
+aux(sold-12, have-11)
+ccomp(beautiful-3, sold-12)
+poss(business-15, my-14)
+prep_in(sold-12, business-15)
+
+=========
+
+nsubj(did-2, I-1)
+nsubj(knew-12, I-1)
+nsubj(including-21, I-1)
+root(ROOT-0, did-2)
+amod(reviews-4, read-3)
+dobj(did-2, reviews-4)
+det(camera-7, this-6)
+prep_about(did-2, camera-7)
+prep_prior_to(camera-7, buying-10)
+conj_and(did-2, knew-12)
+det(cons-16, the-14)
+num(cons-16, &#34;-15)
+prep_of(knew-12, cons-16)
+dobj(did-2, &#34;-17)
+aux(including-21, am-19)
+advmod(including-21, still-20)
+conj_but(did-2, including-21)
+poss(review-24, my-23)
+prep_in(including-21, review-24)
+advmod(including-21, below-25)
+
+=========
+
+root(ROOT-0, Cons-1)
+dep(take-8, 1-3)
+nsubj(take-8, You-5)
+aux(take-8, can-6)
+neg(take-8, not-7)
+ccomp(process-18, take-8)
+amod(photos-10, multiple-9)
+dobj(take-8, photos-10)
+det(row-13, a-12)
+prep_in(take-8, row-13)
+nsubj(process-18, camera-15)
+aux(process-18, does-16)
+neg(process-18, not-17)
+dep(Cons-1, process-18)
+advmod(enough-20, fast-19)
+advmod(process-18, enough-20)
+
+=========
+
+advmod(needed-6, Probably-1)
+det(seconds-5, a-2)
+amod(seconds-5, good-3)
+num(seconds-5, 15-20-4)
+nsubj(needed-6, seconds-5)
+root(ROOT-0, needed-6)
+det(photo-9, each-8)
+prep_between(needed-6, photo-9)
+det(screen-13, the-11)
+amod(screen-13, viewing-12)
+prep_for(photo-9, screen-13)
+prep_to(screen-13, reappear-15)
+
+=========
+
+dep(short-7, 2-1)
+nn(life-4, Battery-3)
+nsubj(short-7, life-4)
+cop(short-7, is-5)
+advmod(short-7, very-6)
+root(ROOT-0, short-7)
+nsubj(take-12, I-9)
+aux(take-12, do-10)
+neg(take-12, not-11)
+conj_and(short-7, take-12)
+dobj(take-12, hundreds-13)
+prep_of(hundreds-13, photos-15)
+det(day-17, a-16)
+tmod(take-12, day-17)
+tmod(take-12, week-19)
+conj_or(day-17, week-19)
+
+=========
+
+mwe(like-2, More-1)
+quantmod(25-50-3, like-2)
+num(photos-4, 25-50-3)
+root(ROOT-0, photos-4)
+det(week-6, a-5)
+dep(photos-4, week-6)
+nsubj(need-9, I-8)
+xsubj(recharge-11, I-8)
+conj_and(photos-4, need-9)
+aux(recharge-11, to-10)
+xcomp(need-9, recharge-11)
+det(batteries-13, the-12)
+dobj(recharge-11, batteries-13)
+det(weeks-16, every-14)
+num(weeks-16, two-15)
+tmod(recharge-11, weeks-16)
+
+=========
+
+nsubj(short-4, That-1)
+cop(short-4, seems-2)
+advmod(short-4, really-3)
+root(ROOT-0, short-4)
+prep_to(short-4, me-6)
+

@@ -1,0 +1,33 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(learning-4, I-1)
+aux(learning-4, am-2)
+advmod(learning-4, still-3)
+root(ROOT-0, learning-4)
+prep_about(learning-4, all-6)
+poss(capabilities-9, its-8)
+prep_of(all-6, capabilities-9)
+mark(use-12, as-10)
+nsubj(use-12, I-11)
+advcl(learning-4, use-12)
+dobj(use-12, it-13)
+
+=========
+
+nsubj(suggest-2, I-1)
+root(ROOT-0, suggest-2)
+advmod(suggest-2, just-3)
+xcomp(suggest-2, playing-4)
+xcomp(suggest-2, experimenting-6)
+conj_and(playing-4, experimenting-6)
+prep_with(playing-4, all-8)
+det(features-11, the-10)
+prep_of(all-8, features-11)
+

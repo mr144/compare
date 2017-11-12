@@ -1,0 +1,44 @@
+=========
+
+nsubj(purchaced-2, I-1)
+root(ROOT-0, purchaced-2)
+det(phone-4, this-3)
+dobj(purchaced-2, phone-4)
+mark(unlocked-8, because-5)
+nsubj(unlocked-8, it-6)
+cop(unlocked-8, was-7)
+advcl(purchaced-2, unlocked-8)
+nsubj(mention-13, their-10)
+cop(mention-13, was-11)
+det(mention-13, no-12)
+conj_but(purchaced-2, mention-13)
+nsubjpass(flashed-17, it-15)
+auxpass(flashed-17, being-16)
+prepc_of(mention-13, flashed-17)
+prep_to(flashed-17, AT&T-19)
+
+=========
+
+advmod(time-3, Now-1)
+det(time-3, every-2)
+nsubj(turn-5, time-3)
+nsubj(turn-5, I-4)
+dep(have-10, turn-5)
+det(phone-8, the-7)
+prep_on(turn-5, phone-8)
+nsubj(have-10, i-9)
+xsubj(watch-12, i-9)
+root(ROOT-0, have-10)
+aux(watch-12, to-11)
+xcomp(have-10, watch-12)
+det(promotion-15, a-13)
+nn(promotion-15, AT&T-14)
+dobj(watch-12, promotion-15)
+
+=========
+
+nsubj(phone-2, Good-1)
+root(ROOT-0, phone-2)
+amod(seller-4, bad-3)
+dobj(phone-2, seller-4)
+

@@ -1,0 +1,2 @@
+buy_VB this_DT item_NN thinking_VBG it_PRP would_MD serve_VB with_IN 3G_JJ signal_NN in_IN Venezuela_NNP with_IN all_DT operators_NNS ,_, the_DT case_NN was_VBD only_RB served_VBN in_IN 3G_NNP for_IN the_DT company_NN DIGITEL_NNP ._.
+and_CC I_PRP am_VBP extremely_RB disappointed_JJ ,_, I_PRP wanted_VBD to_TO use_VB it_PRP with_IN Movistar_NNP Venezuela_NNP ._.

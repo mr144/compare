@@ -1,0 +1,59 @@
+=========
+
+root(ROOT-0, Recommended-1)
+prep_for(Recommended-1, anyone-3)
+amod(anyone-3, serious-4)
+num(TV-7, 3D-6)
+prep_about(serious-4, TV-7)
+det(budget-10, a-9)
+prep_on(TV-7, budget-10)
+
+=========
+
+nn(setup-2, Easy-1)
+nsubj(has-30, setup-2)
+dep(setup-2, help-4)
+acomp(help-4, available-5)
+prep_via(available-5, phone-7)
+appos(phone-7, online-9)
+advmod(effect-14, great-12)
+num(effect-14, 3D-13)
+appos(setup-2, effect-14)
+amod(glasses-18, circular-16)
+nn(glasses-18, polaroir-17)
+prep_with(effect-14, glasses-18)
+dep(glasses-18, in-20)
+det(box-22, the-21)
+pobj(in-20, box-22)
+dep(glasses-18, from-24)
+conj_or(in-20, from-24)
+num(theater-27, 3D-25)
+nn(theater-27, movie-26)
+pobj(from-24, theater-27)
+root(ROOT-0, has-30)
+num(ports-33, 3-31)
+amod(ports-33, hdmi-32)
+dobj(has-30, ports-33)
+prep_from(ports-33, cable-36)
+num(player-41, 3D-39)
+nn(player-41, Bluray-40)
+prep_from(ports-33, player-41)
+num(camera-45, 3D-44)
+prep_from(ports-33, camera-45)
+
+=========
+
+nsubj(apps-2, Has-1)
+root(ROOT-0, apps-2)
+prep_for(apps-2, Netflix-4)
+appos(Netflix-4, etc.-6)
+
+=========
+
+dep(want-5, What-1)
+advmod(What-1, else-2)
+aux(want-5, could-3)
+nsubj(want-5, anyone-4)
+root(ROOT-0, want-5)
+dobj(want-5, ??-6)
+

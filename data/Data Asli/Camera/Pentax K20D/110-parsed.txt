@@ -1,0 +1,79 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+
+=========
+
+det(sensor-3, The-1)
+nn(sensor-3, CMOS-2)
+nsubj(produces-4, sensor-3)
+root(ROOT-0, produces-4)
+amod(images-6, rich-5)
+dobj(produces-4, images-6)
+advmod(little-9, very-8)
+amod(noise-10, little-9)
+prep_with(produces-4, noise-10)
+
+=========
+
+nsubj(expected-2, I-1)
+root(ROOT-0, expected-2)
+advmod(more-4, much-3)
+amod(noise-5, more-4)
+dobj(expected-2, noise-5)
+det(change-8, the-7)
+prep_with(expected-2, change-8)
+prep_from(change-8, CCD-10)
+prep_to(expected-2, CMOS-12)
+
+=========
+
+nsubj(shoot-2, I-1)
+nsubj(had-9, I-1)
+xsubj(get-12, I-1)
+root(ROOT-0, shoot-2)
+advmod(format-7, mostly-4)
+amod(format-7, in-5)
+nn(format-7, DNG-6)
+prep_in(shoot-2, format-7)
+conj_and(shoot-2, had-9)
+aux(get-12, to-10)
+aux(get-12, get-11)
+xcomp(had-9, get-12)
+amod(cards-15, larger-13)
+nn(cards-15, SDHD-14)
+dobj(get-12, cards-15)
+
+=========
+
+det(card-4, An-1)
+num(card-4, 8-2)
+nn(card-4, gig-3)
+nsubj(hold-6, card-4)
+aux(hold-6, will-5)
+root(ROOT-0, hold-6)
+nn(images-9, 333-7)
+nn(images-9, DNG-8)
+dobj(hold-6, images-9)
+
+=========
+
+det(K20D-2, The-1)
+nsubj(has-3, K20D-2)
+root(ROOT-0, has-3)
+amod(features-6, many-4)
+amod(features-6, new-5)
+dobj(has-3, features-6)
+amod(control-12, wireless-10)
+nn(control-12, flash-11)
+prep_such_as(features-6, control-12)
+nn(alert-15, dust-14)
+appos(control-12, alert-15)
+amod(view-18, live-17)
+appos(control-12, view-18)
+appos(control-12, ect-20)
+

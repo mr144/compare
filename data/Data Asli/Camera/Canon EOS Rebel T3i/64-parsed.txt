@@ -1,0 +1,77 @@
+=========
+
+nsubj(went-2, I-1)
+nsubjpass(impressed-11, I-1)
+root(ROOT-0, went-2)
+nn(Europe-5, Central-4)
+prep_to(went-2, Europe-5)
+amod(year-7, last-6)
+tmod(went-2, year-7)
+auxpass(impressed-11, was-9)
+neg(impressed-11, not-10)
+conj_and(went-2, impressed-11)
+det(camera-15, the-13)
+amod(camera-15, old-14)
+prep_with(impressed-11, camera-15)
+dobj(using-18, camera-15)
+nsubj(using-18, I-16)
+aux(using-18, was-17)
+rcmod(camera-15, using-18)
+
+=========
+
+advmod(bought-4, Then-1)
+nsubj(bought-4, I-3)
+root(ROOT-0, bought-4)
+det(T3i-7, the-5)
+nn(T3i-7, Rebel-6)
+dobj(bought-4, T3i-7)
+prepc_based_on(bought-4, on-9)
+pobj(bought-4, recommendations-10)
+prep_from(recommendations-10, YouTube-12)
+
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, absolutely-2)
+root(ROOT-0, love-3)
+dobj(love-3, it-4)
+
+=========
+
+nsubj(photographer-6, I-1)
+cop(photographer-6, am-2)
+neg(photographer-6, not-3)
+det(photographer-6, a-4)
+amod(photographer-6, professional-5)
+root(ROOT-0, photographer-6)
+det(shots-9, the-8)
+dobj(get-11, shots-9)
+nsubj(looks-15, shots-9)
+nsubj(get-11, I-10)
+rcmod(shots-9, get-11)
+det(T3i-14, the-13)
+prep_from(get-11, T3i-14)
+conj_but(photographer-6, looks-15)
+acomp(looks-15, amazing-16)
+
+=========
+
+poss(friends-2, My-1)
+nsubj(thought-3, friends-2)
+root(ROOT-0, thought-3)
+complm(made-8, that-4)
+det(shots-6, the-5)
+nsubjpass(made-8, shots-6)
+auxpass(made-8, were-7)
+ccomp(thought-3, made-8)
+det(professional-11, a-10)
+agent(made-8, professional-11)
+
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+det(results-5, the-4)
+prep_with(pleased-2, results-5)
+

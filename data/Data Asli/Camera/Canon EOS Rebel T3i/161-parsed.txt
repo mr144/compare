@@ -1,0 +1,25 @@
+=========
+
+nsubj(came-2, It-1)
+root(ROOT-0, came-2)
+advmod(came-2, really-3)
+advmod(came-2, fast-4)
+poss(husband-7, my-6)
+nsubj(loves-8, husband-7)
+conj_and(came-2, loves-8)
+dobj(loves-8, it-9)
+
+=========
+
+nsubj(use-2, He-1)
+root(ROOT-0, use-2)
+dobj(use-2, it-3)
+advmod(use-2, everywhere-4)
+nsubj(go-6, we-5)
+dep(use-2, go-6)
+nsubj(takes-8, he-7)
+ccomp(go-6, takes-8)
+advmod(good-10, very-9)
+amod(pictures-11, good-10)
+dobj(takes-8, pictures-11)
+

@@ -1,0 +1,41 @@
+=========
+
+det(camera-2, The-1)
+poss(photos-4, camera-2)
+nsubj(ok-7, photos-4)
+cop(ok-7, are-5)
+advmod(ok-7, just-6)
+root(ROOT-0, ok-7)
+
+=========
+
+det(images-3, The-1)
+amod(images-3, video-2)
+nsubj(poor-7, images-3)
+conj_and(images-3, sound-5)
+nsubj(poor-7, sound-5)
+cop(poor-7, are-6)
+root(ROOT-0, poor-7)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+neg(is-2, not-3)
+det(button-6, a-4)
+amod(button-6, video-5)
+nsubj(is-2, button-6)
+det(outside-9, the-8)
+prep_on(button-6, outside-9)
+det(camera-12, the-11)
+prep_of(outside-9, camera-12)
+nsubj(makes-15, camera-12)
+rcmod(camera-12, makes-15)
+nsubj(difficult-17, it-16)
+xcomp(makes-15, difficult-17)
+aux(take-19, to-18)
+xcomp(difficult-17, take-19)
+det(movie-24, a-20)
+amod(movie-24, quick-22)
+dobj(take-19, movie-24)
+

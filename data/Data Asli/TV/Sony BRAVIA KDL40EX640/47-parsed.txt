@@ -1,0 +1,94 @@
+=========
+
+root(ROOT-0, Using-1)
+det(tv-3, this-2)
+dobj(Using-1, tv-3)
+num(months-6, 6-5)
+prep_for(tv-3, months-6)
+advmod(Using-1, now-7)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+dobj(purchased-2, it-3)
+advmod(higher-6, lot-5)
+prep_for(purchased-2, higher-6)
+dobj(priced-11, what-8)
+nsubjpass(priced-11, it-9)
+auxpass(priced-11, is-10)
+prepc_than(higher-6, priced-11)
+advmod(priced-11, now-12)
+
+=========
+
+nsubj(clear-4, Display-1)
+cop(clear-4, is-2)
+advmod(clear-4, crystal-3)
+root(ROOT-0, clear-4)
+amod(color-7, rich-6)
+prep_with(clear-4, color-7)
+
+=========
+
+nsubj(look-2, Movies-1)
+root(ROOT-0, look-2)
+acomp(look-2, amazing-3)
+
+=========
+
+nn(portion-2, Internet-1)
+nsubj(good-4, portion-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+conj_but(good-4, not-6)
+neg(good-4, not-6)
+dep(best-8, the-7)
+dep(good-4, best-8)
+
+=========
+
+nsubj(have-20, All-1)
+nsubjpass(worried-4, I-2)
+auxpass(worried-4, am-3)
+rcmod(All-1, worried-4)
+cop(apps-8, is-5)
+amod(apps-8, live-6)
+nn(apps-8, tv-7)
+ccomp(worried-4, apps-8)
+nsubj(tube-11, you-10)
+rcmod(All-1, tube-11)
+conj_and(worried-4, tube-11)
+nsubj(work-15, they-13)
+dep(work-15, both-14)
+ccomp(tube-11, work-15)
+acomp(work-15, perfect-16)
+advmod(have-20, so-17)
+aux(have-20, do-18)
+neg(have-20, not-19)
+root(ROOT-0, have-20)
+det(complaints-22, any-21)
+dobj(have-20, complaints-22)
+det(portion-26, the-24)
+amod(portion-26, internet-25)
+prep_on(complaints-22, portion-26)
+
+=========
+
+nsubj(produce-2, Speaker-1)
+root(ROOT-0, produce-2)
+amod(sound-6, loud-3)
+conj_and(loud-3, clear-5)
+amod(sound-6, clear-5)
+dobj(produce-2, sound-6)
+
+=========
+
+advmod(happy-6, Overall-1)
+nsubj(happy-6, we-3)
+cop(happy-6, are-4)
+advmod(happy-6, very-5)
+root(ROOT-0, happy-6)
+det(product-9, the-8)
+prep_with(happy-6, product-9)
+

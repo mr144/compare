@@ -1,0 +1,4 @@
+i_FW received_VBD my_PRP$ phone_NN in_IN about_IN 5_CD days_NNS ._.
+I_PRP was_VBD very_RB happy_JJ with_IN the_DT appearance_NN and_CC the_DT quality_NN of_IN the_DT product_NN ._.
+I_PRP must_MD admit_VB I_PRP was_VBD a_DT little_JJ leary_NN of_IN ordering_VBG a_DT used_JJ phone_NN ._.
+I_PRP would_MD recommend_VB using_VBG Amazon_NNP to_TO anyone_NN ._.

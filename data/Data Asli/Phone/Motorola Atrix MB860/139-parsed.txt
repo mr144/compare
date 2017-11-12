@@ -1,0 +1,45 @@
+=========
+
+det(phone-2, This-1)
+nsubj(great-4, phone-2)
+nsubj(has-12, phone-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+advmod(easy-7, so-6)
+dep(great-4, easy-7)
+aux(use-9, to-8)
+xcomp(easy-7, use-9)
+conj_and(great-4, has-12)
+amod(functions-14, more-13)
+dobj(has-12, functions-14)
+mark(able-19, than-15)
+nsubj(able-19, I-16)
+aux(able-19, will-17)
+cop(able-19, be-18)
+advcl(has-12, able-19)
+aux(use-21, to-20)
+xcomp(able-19, use-21)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(way-4, the-3)
+dobj(love-2, way-4)
+det(phone-6, the-5)
+nsubj(vibrates-7, phone-6)
+rcmod(way-4, vibrates-7)
+advmod(vibrates-7, slightly-8)
+mark(use-11, as-9)
+nsubj(use-11, I-10)
+advcl(vibrates-7, use-11)
+det(screen-14, the-12)
+nn(screen-14, touch-13)
+dobj(use-11, screen-14)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, it-3)
+

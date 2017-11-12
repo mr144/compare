@@ -1,0 +1,181 @@
+=========
+
+prepc_after(bought-14, looking-2)
+prep_at(looking-2, reviews-4)
+prep_at(looking-2, demos-7)
+conj_and(reviews-4, demos-7)
+prep_of(demos-7, pictures-9)
+prep_on(pictures-9, YouTube-11)
+nsubj(bought-14, I-13)
+root(ROOT-0, bought-14)
+det(camera-19, this-15)
+amod(camera-19, refurbished-16)
+amod(camera-19, discontinued-18)
+dobj(bought-14, camera-19)
+det(company-23, a-21)
+amod(company-23, dying-22)
+prep_from(bought-14, company-23)
+
+=========
+
+cc(have-3, But-1)
+nsubj(have-3, I-2)
+root(ROOT-0, have-3)
+det(regrets-5, no-4)
+dobj(have-3, regrets-5)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, 's-2)
+root(ROOT-0, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+prep_on(use-5, automatic-7)
+nsubj(has-11, it-10)
+conj_yet(easy-3, has-11)
+amod(controls-13, manual-12)
+dobj(has-11, controls-13)
+prep_for(controls-13, everything-15)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(hold-3, to-2)
+dep(Easy-1, hold-3)
+dep(Easy-1, and-5)
+dep(Easy-1, not-6)
+advmod(heavy-8, too-7)
+dep(not-6, heavy-8)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(amazing-5, zoom-2)
+cop(amazing-5, is-3)
+advmod(amazing-5, just-4)
+root(ROOT-0, amazing-5)
+amod(tele-9, wide-7)
+dep(tele-9, to-8)
+dep(amazing-5, tele-9)
+
+=========
+
+det(sensitivity-2, The-1)
+nsubj(impressive-8, sensitivity-2)
+det(sensor-6, the-4)
+nn(sensor-6, CMOS-5)
+prep_of(sensitivity-2, sensor-6)
+cop(impressive-8, is-7)
+root(ROOT-0, impressive-8)
+
+=========
+
+nsubj(MP-4, It-1)
+cop(MP-4, 's-2)
+num(MP-4, 12-3)
+root(ROOT-0, MP-4)
+nsubj(is-7, MP-4)
+rcmod(MP-4, is-7)
+advmod(is-7, plenty-8)
+mark(want-11, unless-9)
+nsubj(want-11, you-10)
+xsubj(brag-13, you-10)
+advcl(is-7, want-11)
+aux(brag-13, to-12)
+xcomp(want-11, brag-13)
+xcomp(want-11, make-16)
+conj_or(brag-13, make-16)
+amod(posters-18, wallsized-17)
+dobj(make-16, posters-18)
+
+=========
+
+det(features-3, The-1)
+nsubj(hokey-8, features-3)
+cop(hokey-8, are-5)
+det(little-7, a-6)
+npadvmod(hokey-8, little-7)
+ccomp(do-13, hokey-8)
+nsubj(do-13, I-10)
+aux(do-13, did-11)
+advmod(do-13, rather-12)
+root(ROOT-0, do-13)
+poss(fiddling-15, my-14)
+dobj(do-13, fiddling-15)
+det(computer-18, the-17)
+prep_on(do-13, computer-18)
+
+=========
+
+det(HDR-2, The-1)
+nsubj(subtle-4, HDR-2)
+cop(subtle-4, is-3)
+root(ROOT-0, subtle-4)
+nsubj(yield-12, post-processing-7)
+num(exposures-10, two-9)
+prep_with(post-processing-7, exposures-10)
+aux(yield-12, could-11)
+conj_and(subtle-4, yield-12)
+amod(images-16, better-13)
+amod(images-16, true-14)
+nn(images-16, HDR-15)
+dobj(yield-12, images-16)
+nsubj(has-20, it-19)
+conj_but(subtle-4, has-20)
+poss(uses-22, its-21)
+dobj(has-20, uses-22)
+
+=========
+
+nsubj(leave-2, I-1)
+root(ROOT-0, leave-2)
+dobj(leave-2, it-3)
+prep(leave-2, on-4)
+pcomp(on-4, for-5)
+amod(shots-8, most-6)
+amod(shots-8, still-7)
+prep_for(on-4, shots-8)
+
+=========
+
+det(charger-2, The-1)
+nsubj(cheap-4, charger-2)
+nsubj(inefficient-6, charger-2)
+nsubj(slow-8, charger-2)
+cop(cheap-4, is-3)
+root(ROOT-0, cheap-4)
+conj_and(cheap-4, inefficient-6)
+conj_and(cheap-4, slow-8)
+advmod(get-11, so-10)
+ccomp(cheap-4, get-11)
+det(spare-13, a-12)
+dobj(get-11, spare-13)
+
+=========
+
+det(manual-4, The-1)
+num(manual-4, 24-2)
+nn(manual-4, page-3)
+nsubj(tease-8, manual-4)
+cop(tease-8, is-5)
+advmod(tease-8, just-6)
+det(tease-8, a-7)
+root(ROOT-0, tease-8)
+advmod(download-11, so-10)
+dep(tease-8, download-11)
+det(manual-14, the-12)
+amod(manual-14, full-13)
+dobj(download-11, manual-14)
+prep_from(download-11, Kodak-16)
+
+=========
+
+nn(USPS-2, Standard-1)
+nsubj(took-5, USPS-2)
+partmod(USPS-2, shipping-3)
+advmod(shipping-3, only-4)
+root(ROOT-0, took-5)
+num(days-7, 3-6)
+tmod(took-5, days-7)
+

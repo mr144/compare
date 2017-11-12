@@ -1,0 +1,23 @@
+=========
+
+nn(gran-3, producto-1)
+amod(gran-3, de-2)
+root(ROOT-0, gran-3)
+partmod(gran-3, calidad-4)
+nn(economico-7, y-5)
+nn(economico-7, muy-6)
+dobj(calidad-4, economico-7)
+nn(buscaba-11, lo-9)
+nn(buscaba-11, que-10)
+appos(economico-7, buscaba-11)
+nsubj(gusto-13, me-12)
+rcmod(buscaba-11, gusto-13)
+nn(llego-15, mucho-14)
+dobj(gusto-13, llego-15)
+dep(perfecto-17, e-16)
+dep(excelente-22, perfecto-17)
+nn(excelente-22, estado-18)
+amod(excelente-22, seguire-20)
+amod(excelente-22, comprando-21)
+dep(gran-3, excelente-22)
+

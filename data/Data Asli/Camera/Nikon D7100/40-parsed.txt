@@ -1,0 +1,33 @@
+=========
+
+partmod(camera-18, Interesting-1)
+dobj(Interesting-1, upgrade-2)
+partmod(upgrade-2, had-4)
+det(D90-6, a-5)
+dobj(had-4, D90-6)
+det(years-11, the-8)
+amod(years-11, past-9)
+num(years-11, 4-10)
+prep_for(D90-6, years-11)
+nsubj(camera-18, this-13)
+cop(camera-18, is-14)
+det(camera-18, a-15)
+advmod(better-17, much-16)
+amod(camera-18, better-17)
+root(ROOT-0, camera-18)
+advmod(infinite-21, almost-20)
+amod(capability-22, infinite-21)
+prep_with(camera-18, capability-22)
+
+=========
+
+nsubj(miss-2, I-1)
+root(ROOT-0, miss-2)
+det(clarity-4, the-3)
+dobj(miss-2, clarity-4)
+dobj(miss-2, ease-6)
+conj_and(clarity-4, ease-6)
+prep_of(clarity-4, use-8)
+det(D90-11, the-10)
+prep_on(use-8, D90-11)
+

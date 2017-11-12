@@ -1,0 +1,7 @@
+So_RB ,_, today_NN ,_, Monday_NNP April_NNP 1_CD ,_, 2013_CD ,_, Samsung_NNP is_VBZ apparently_RB doing_VBG server_NN maintenance_NN on_IN their_PRP$ service_NN ,_, which_WDT apparently_RB is_VBZ not_RB the_DT first_JJ time_NN they_PRP have_VBP had_VBD to_TO take_VB down_RP the_DT service_NN ._.
+So_RB while_IN this_DT is_VBZ happening_VBG ,_, this_DT frakkin_NN '_POS annoying_JJ dialog_NN that_WDT says_VBZ `_`` Network_NNP is_VBZ not_RB connected_VBN ._.
+Check_VB Network_NNP Settings_NNP to_TO use_VB Internet_NNP services_NNS ._.
+-LRB-_-LRB- ERROR_MODEL_BIND_NNP -RRB-_-RRB- '_'' keeps_VBZ popping_VBG up_RP every_DT other_JJ minute_NN ,_, c0ckbl0cking_VBG my_PRP$ play_NN on_IN the_DT XBox_NNP ._.
+Of_IN course_NN I_PRP verify_VBP my_PRP$ internet_NN connection_NN via_IN WiFi_NNP and_CC it_PRP is_VBZ just_RB fine_JJ ,_, working_VBG as_RB usual_JJ as_IN confirmed_VBN by_IN the_DT TV_NN ._.
+This_DT annoying_JJ dialog_NN makes_VBZ watching_VBG TV_NN unbearable_JJ ,_, and_CC games_NNS unplayable_JJ ,_, and_CC the_DT TV_NN just_RB as_RB useful_JJ as_IN a_DT frakkin_NN '_POS brick_NN ._.
+I_PRP am_VBP giving_VBG them_PRP a_DT one-star_NN for_IN this_DT s_VBZ \*\*\*_NNP ty_NNP `_`` SmartTV_NNP '_POS service_NN that_WDT 's_VBZ ruining_VBG the_DT rest_NN of_IN the_DT TV_NN 's_POS capabilities_NNS ._.

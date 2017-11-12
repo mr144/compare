@@ -1,0 +1,101 @@
+=========
+
+nsubj(came-2, Just-1)
+root(ROOT-0, came-2)
+advmod(came-2, back-3)
+advmod(using-7, out-5)
+dep(out-5, west-6)
+prepc_from(came-2, using-7)
+poss(camera-12, our-8)
+nn(camera-12, Panasonic-9)
+nn(camera-12, Lumix-10)
+nn(camera-12, DMC-ZS8-11)
+dobj(using-7, camera-12)
+det(time-16, the-14)
+amod(time-16, first-15)
+prep_for(using-7, time-16)
+
+=========
+
+det(quality-3, The-1)
+amod(quality-3, zoom-2)
+nsubj(excellent-5, quality-3)
+cop(excellent-5, was-4)
+root(ROOT-0, excellent-5)
+det(camera-8, the-7)
+conj_and(excellent-5, camera-8)
+cop(easy-11, was-9)
+advmod(easy-11, very-10)
+rcmod(camera-8, easy-11)
+aux(use-13, to-12)
+xcomp(easy-11, use-13)
+
+=========
+
+nsubj(got-2, We-1)
+root(ROOT-0, got-2)
+amod(pictures-4, great-3)
+dobj(got-2, pictures-4)
+
+=========
+
+det(thing-4, The-1)
+advmod(thing-4, only-2)
+amod(thing-4, negative-3)
+dobj(have-6, thing-4)
+nsubj(problem-11, thing-4)
+nsubj(have-6, I-5)
+xsubj(say-8, I-5)
+rcmod(thing-4, have-6)
+aux(say-8, to-7)
+xcomp(have-6, say-8)
+cop(problem-11, is-9)
+det(problem-11, the-10)
+root(ROOT-0, problem-11)
+det(glare-15, the-13)
+nn(glare-15, sun-14)
+prep_with(problem-11, glare-15)
+det(screen-18, the-17)
+prep_on(glare-15, screen-18)
+
+=========
+
+nsubj(impossible-3, It-1)
+cop(impossible-3, was-2)
+root(ROOT-0, impossible-3)
+aux(see-5, to-4)
+xcomp(impossible-3, see-5)
+dobj(filming-9, what-6)
+nsubj(filming-9, you-7)
+aux(filming-9, were-8)
+ccomp(see-5, filming-9)
+
+=========
+
+nsubj(ordered-2, Have-1)
+nsubj(received-8, Have-1)
+root(ROOT-0, ordered-2)
+nn(shields-4, glare-3)
+dobj(ordered-2, shields-4)
+aux(received-8, have-6)
+neg(received-8, not-7)
+conj_but(ordered-2, received-8)
+advmod(received-8, yet-9)
+
+=========
+
+advmod(solves-3, Hope-1)
+nsubj(solves-3, this-2)
+root(ROOT-0, solves-3)
+det(problem-5, the-4)
+dobj(solves-3, problem-5)
+
+=========
+
+root(ROOT-0, Other-1)
+complm(have-5, that-3)
+nsubj(have-5, I-4)
+prepc_than(Other-1, have-5)
+det(complaints-7, no-6)
+dobj(have-5, complaints-7)
+

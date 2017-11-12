@@ -1,0 +1,5 @@
+Great_NNP TV_NNP second_JJ Samsung_NNP TV_NN unit_NN purchased_VBD ._.
+Love_NNP Samsung_NNP productsRepeat_NNP Beach_NNP Camera_NNP customer_NN !_.
+Need_VBN I_PRP say_VBP any_DT more_JJR ._.
+They_PRP are_VBP the_DT best_JJS to_TO deal_VB with_IN ._.
+It_PRP is_VBZ better_JJR than_IN Samsung_NNP ,_, sony_JJ ,_, sharp_JJ or_CC even_RB LG_NNP tv_NN ._.

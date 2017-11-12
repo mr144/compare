@@ -1,0 +1,94 @@
+=========
+
+det(3GS-3, The-1)
+amod(3GS-3, iphone-2)
+nsubj(works-4, 3GS-3)
+root(ROOT-0, works-4)
+advmod(works-4, perfectly-5)
+num(exception-8, one-7)
+prep_with(works-4, exception-8)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(product-4, this-3)
+dobj(purchased-2, product-4)
+prep(purchased-2, in-5)
+pcomp(in-5, like-6)
+amod(condition-8, new-7)
+prep_like(in-5, condition-8)
+
+=========
+
+expl(were-2, There-1)
+root(ROOT-0, were-2)
+det(scratches-4, no-3)
+nsubj(were-2, scratches-4)
+nsubj(were-2, blemishes-6)
+conj_or(scratches-4, blemishes-6)
+prep_at(scratches-4, all-8)
+
+=========
+
+predet(programming-3, All-1)
+det(programming-3, the-2)
+nsubj(works-4, programming-3)
+root(ROOT-0, works-4)
+acomp(works-4, great-5)
+
+=========
+
+poss(complaint-3, My-1)
+num(complaint-3, one-2)
+nsubj(button-7, complaint-3)
+cop(button-7, is-4)
+det(button-7, the-5)
+nn(button-7, menu-6)
+root(ROOT-0, button-7)
+det(bottom-10, the-9)
+prep_at(button-7, bottom-10)
+
+=========
+
+nsubj(click-5, It-1)
+aux(click-5, does-2)
+neg(click-5, not-3)
+root(ROOT-0, click-5)
+dobj(click-5, crisp-7)
+prep_at(click-5, all-9)
+
+=========
+
+advmod(press-3, When-1)
+nsubj(press-3, you-2)
+advcl(feels-6, press-3)
+dobj(press-3, it-4)
+nsubj(feels-6, it-5)
+root(ROOT-0, feels-6)
+mark(is-9, like-7)
+expl(is-9, there-8)
+advcl(feels-6, is-9)
+nsubj(is-9, something-10)
+partmod(something-10, jammed-11)
+prep_in(jammed-11, it-13)
+det(surface-16, the-15)
+prep_below(jammed-11, surface-16)
+
+=========
+
+nsubj(bad-4, it-1)
+nsubj(earn-12, it-1)
+cop(bad-4, is-2)
+neg(bad-4, not-3)
+root(ROOT-0, bad-4)
+advmod(bad-4, enough-5)
+aux(return-7, to-6)
+xcomp(bad-4, return-7)
+aux(earn-12, does-10)
+neg(earn-12, not-11)
+conj_but(bad-4, earn-12)
+num(stars-14, 5-13)
+dobj(earn-12, stars-14)
+advmod(earn-12, either-15)
+

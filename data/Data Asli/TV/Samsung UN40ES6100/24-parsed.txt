@@ -1,0 +1,49 @@
+=========
+
+det(quality-3, the-1)
+amod(quality-3, pciture-2)
+nsubj(great-5, quality-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+det(feature-9, the-7)
+amod(feature-9, smart-8)
+nsubj(useless-12, feature-9)
+cop(useless-12, is-10)
+advmod(useless-12, completely-11)
+conj_but(great-5, useless-12)
+
+=========
+
+advmod(time-4, lags-1)
+predet(time-4, all-2)
+det(time-4, the-3)
+nsubj(absurd-11, time-4)
+det(controls-8, the-6)
+amod(controls-8, browsing-7)
+conj_and(time-4, controls-8)
+nsubj(absurd-11, controls-8)
+cop(absurd-11, are-9)
+advmod(absurd-11, just-10)
+root(ROOT-0, absurd-11)
+
+=========
+
+advmod(notch-9, overall-1)
+det(quality-6, the-2)
+nn(quality-6, tv-3)
+nn(quality-6, sound-4)
+nn(quality-6, picture-5)
+nsubj(notch-9, quality-6)
+cop(notch-9, is-7)
+amod(notch-9, top-8)
+root(ROOT-0, notch-9)
+det(feature-15, the-12)
+amod(feature-15, marketed-13)
+amod(feature-15, smart-14)
+nsubj(something-17, feature-15)
+cop(something-17, is-16)
+conj_but(notch-9, something-17)
+aux(desired-20, to-18)
+cop(desired-20, be-19)
+infmod(something-17, desired-20)
+

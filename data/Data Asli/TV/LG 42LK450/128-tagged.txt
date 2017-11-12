@@ -1,0 +1,10 @@
+I_PRP ordered_VBD this_DT tv_NN aware_JJ of_IN the_DT LG_NNP panel_NN lottery_NN but_CC I_PRP doubted_VBD the_DT 42_CD inch_NN would_MD be_VB a_DT VA._NNP ._.
+Most_JJS VA_NNP cases_NNS I_PRP have_VBP seen_VBN are_VBP 32_CD or_CC 37_CD inch_NN ._.
+I_PRP received_VBD it_PRP and_CC got_VBD unlucky_JJ with_IN the_DT 'D_NNP '_POS panel_NN which_WDT usually_RB means_VBZ VA_NNP instead_RB of_IN IPS_NNP ._.
+I_PRP ran_VBD the_DT loupe_JJ test_NN and_CC confirmed_VBD that_IN it_PRP is_VBZ 100_CD %_NN VA._NN Pros_NNS :_: Cheap_JJ ,_, Nice_JJ picture_NN ,_, plenty_NN of_IN inputs_NNS ,_, looks_VBZ good_JJ with_IN 360_CD ,_, decent_JJ input_NN lag_NN ,_, nice_JJ basic_JJ features_NNS ,_, the_DT blacks_NNS are_VBP pretty_RB good_JJ ._.
+Cons_NNS :_: Ugly_JJ brown_JJ bottom_NN ,_, chance_NN of_IN getting_VBG VA_NNP ,_, very_RB barebones_JJ ,_, there_EX 's_VBZ no_DT way_NN my_PRP$ VA_NNP version_NN has_VBZ 4ms_CD response_NN time_NN ._.
+Overall_RB ,_, I_PRP would_MD have_VB rated_VBN this_DT tv_NN a_DT five_CD but_CC just_RB because_IN LG_NNP runs_VBZ the_DT panel_NN lottery_NN ima_NN give_VBP it_PRP -1_CD ._.
+I_PRP have_VBP yet_RB to_TO run_VB 4:4:4_CD chroma_NN ._.
+I_PRP have_VBP heard_VBN mixed_JJ reviews_NNS to_TO whether_IN or_CC not_RB the_DT VA_NNP panel_NN can_MD do_VB so_RB ._.
+Ill_NNP come_VBD back_RB and_CC edit_VB it_PRP later_RB ._.
+If_IN your_PRP$ really_RB picky_JJ about_IN IPS_NNP i_FW did_VBD stay_VB away_RB from_IN buying_VBG this_DT model_NN on_IN Amazon_NNP ._.

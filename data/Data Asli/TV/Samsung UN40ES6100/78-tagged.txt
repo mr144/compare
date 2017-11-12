@@ -1,0 +1,3 @@
+I_PRP have_VBP a_DT had_VBD since_IN dec_NN 2012_CD and_CC it_PRP works_VBZ great_JJ ._.
+I_PRP like_VBP that_IN I_PRP got_VBD this_DT version_NN with_IN smart_JJ TV_NN ._.
+I_PRP use_VBP it_PRP for_IN netfllx_FW adn_FW amazon_FW prime_JJ

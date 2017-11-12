@@ -1,0 +1,2 @@
+The_DT apple_NN iPhone_NNP 3G_NNP I_NNP purchase_NN was_VBD good_JJ ,_, enjoy_VB it_PRP ,_, it_PRP was_VBD clean_JJ and_CC all_DT features_NNS work_VBP ._.
+The_DT only_JJ concern_NN is_VBZ that_IN it_PRP does_VBZ not_RB connects_VBZ well_RB with_IN some_DT networks_NNS ._.

@@ -1,0 +1,38 @@
+=========
+
+det(phone-2, The-1)
+nsubjpass(delivered-4, phone-2)
+auxpass(delivered-4, was-3)
+root(ROOT-0, delivered-4)
+num(days-7, 2-6)
+prep_in(delivered-4, days-7)
+prep_to(delivered-4, Canada-10)
+
+=========
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+amod(condition-5, flawless-4)
+prep_in(was-2, condition-5)
+nsubj(using-10, I-7)
+aux(using-10, have-8)
+aux(using-10, been-9)
+conj_and(was-2, using-10)
+det(cell-12, the-11)
+dobj(using-10, cell-12)
+advmod(using-10, ever-13)
+prep(using-10, since-14)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+

@@ -1,0 +1,34 @@
+=========
+
+nsubj(picture-2, Best-1)
+root(ROOT-0, picture-2)
+prt(picture-2, out-3)
+advmod(picture-2, there-4)
+
+=========
+
+nsubj(used-5, I-1)
+aux(used-5, have-2)
+neg(used-5, not-3)
+advmod(used-5, really-4)
+root(ROOT-0, used-5)
+det(functions-10, the-6)
+amod(functions-10, smart-8)
+dobj(used-5, functions-10)
+nsubj(good-15, they-13)
+cop(good-15, seem-14)
+conj_but(used-5, good-15)
+
+=========
+
+root(ROOT-0, Bought-1)
+dobj(Bought-1, this-2)
+det(quaility-6, the-4)
+nn(quaility-6, picture-5)
+prep_for(this-2, quaility-6)
+nsubj(happier-12, I-8)
+aux(happier-12, could-9)
+neg(happier-12, not-10)
+cop(happier-12, be-11)
+conj_and(Bought-1, happier-12)
+

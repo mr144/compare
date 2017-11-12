@@ -1,0 +1,28 @@
+=========
+
+det(picture-3, The-1)
+nn(picture-3, Panasonics-2)
+nsubj(best-12, picture-3)
+nsubj(effect-8, it-5)
+cop(effect-8, is-6)
+num(effect-8, 3D-7)
+parataxis(best-12, effect-8)
+cop(best-12, are-10)
+det(best-12, the-11)
+root(ROOT-0, best-12)
+dobj(seen-16, best-12)
+nsubj(seen-16, I-13)
+aux(seen-16, have-14)
+advmod(seen-16, ever-15)
+rcmod(best-12, seen-16)
+
+=========
+
+det(internet-2, The-1)
+nsubj(helpful-8, internet-2)
+nn(tools-5, VIERA-4)
+prep_with(internet-2, tools-5)
+cop(helpful-8, are-6)
+advmod(helpful-8, extremely-7)
+root(ROOT-0, helpful-8)
+

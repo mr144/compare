@@ -1,0 +1,24 @@
+=========
+
+amod(value-2, Awsome-1)
+root(ROOT-0, value-2)
+det(money-5, the-4)
+prep_for(value-2, money-5)
+
+=========
+
+nn(life-2, Battery-1)
+nsubj(less-4, life-2)
+cop(less-4, was-3)
+root(ROOT-0, less-4)
+mark(hoped-7, than-5)
+nsubj(hoped-7, I-6)
+ccomp(less-4, hoped-7)
+prep(hoped-7, for-8)
+pcomp(for-8, though-9)
+nsubj(issue-16, this-12)
+cop(issue-16, was-13)
+poss(issue-16, my-14)
+amod(issue-16, only-15)
+conj_but(less-4, issue-16)
+

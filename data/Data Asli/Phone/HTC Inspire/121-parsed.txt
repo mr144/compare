@@ -1,0 +1,56 @@
+=========
+
+det(phone-2, This-1)
+nsubj(phone-6, phone-2)
+cop(phone-6, is-3)
+det(phone-6, the-4)
+amod(phone-6, worst-5)
+root(ROOT-0, phone-6)
+dobj(used-9, phone-6)
+nsubj(used-9, I-7)
+advmod(used-9, ever-8)
+rcmod(phone-6, used-9)
+
+=========
+
+det(phone-2, The-1)
+nsubj(cut-3, phone-2)
+root(ROOT-0, cut-3)
+dobj(cut-3, service-4)
+prep(cut-3, at-5)
+pcomp(at-5, randomly-6)
+
+=========
+
+nsubj(like-3, I-1)
+aux(like-3, will-2)
+root(ROOT-0, like-3)
+det(change-5, a-4)
+dobj(like-3, change-5)
+dobj(like-3, refund-7)
+conj_or(change-5, refund-7)
+poss(money-10, my-9)
+prep_of(change-5, money-10)
+
+=========
+
+nsubj(enjoying-4, I-1)
+aux(enjoying-4, am-2)
+neg(enjoying-4, not-3)
+root(ROOT-0, enjoying-4)
+xcomp(enjoying-4, using-5)
+det(phone-7, this-6)
+dobj(using-5, phone-7)
+
+=========
+
+dep(help-2, Please-1)
+root(ROOT-0, help-2)
+dobj(help-2, me-3)
+advmod(help-2, out-4)
+prepc_by(help-2, sending-6)
+iobj(sending-6, me-7)
+det(box-10, a-8)
+nn(box-10, return-9)
+dobj(sending-6, box-10)
+

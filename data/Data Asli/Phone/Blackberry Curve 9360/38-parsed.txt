@@ -1,0 +1,23 @@
+=========
+
+nsubj(good-20, Considering-1)
+complm(blackberry-6, that-2)
+nsubj(blackberry-6, it-3)
+cop(blackberry-6, is-4)
+det(blackberry-6, a-5)
+dep(Considering-1, blackberry-6)
+nsubj(great-9, it-7)
+cop(great-9, is-8)
+rcmod(blackberry-6, great-9)
+mark(perfectBattery-16, for-10)
+det(Size-14, the-11)
+nn(Size-14, price-12)
+nn(Size-14, !!-13)
+nsubj(perfectBattery-16, Size-14)
+cop(perfectBattery-16, is-15)
+advcl(great-9, perfectBattery-16)
+cop(good-20, is-17)
+neg(good-20, not-18)
+advmod(good-20, so-19)
+root(ROOT-0, good-20)
+

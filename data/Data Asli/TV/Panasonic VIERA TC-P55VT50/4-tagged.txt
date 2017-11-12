@@ -1,0 +1,20 @@
+First_RB off_RB ,_, GREAT_JJ picture_NN ,_, better_JJR than_IN my_PRP$ brother_NN 's_POS Bravia_NNP ,_, which_WDT has_VBZ back-lighting_JJ picture_NN control_NN ._.
+But_CC enough_JJ praise_NN --_: WAY_NNP too_RB much_JJ money_NN for_IN a_DT television_NN -LRB-_-LRB- although_IN it_PRP is_VBZ a_DT beautiful_JJ one_NN as_RB far_RB as_IN looks_NNS go_VBP -RRB-_-RRB- ,_, especially_RB if_IN you_PRP are_VBP thinking_VBG ,_, &#34;_CD Wow_UH !_.
+I_PRP can_MD sit_VB in_IN the_DT Barcalounger_NNP and_CC surf_NN the_DT `_`` net_NN !_.
+&#34;_CD Wrong_JJ ._.
+The_DT interface_NN is_VBZ horrid_JJ :_: using_VBG arrow-keys_NNS on_IN the_DT remote_JJ to_TO select_VB letters_NNS for_IN a_DT url_NN ..._: and_CC forget_VB streaming_VBG :_: the_DT bandwidth_NN is_VBZ all_DT being_VBG prioritized_VBN ,_, privatized_JJ and_CC locked-down_JJ for_IN the_DT financial_JJ industry_NN 's_POS benefit_NN by_IN cable_NN providers_NNS -LRB-_-LRB- Comcast_NNP is_VBZ a_DT Federal_NNP Government_NNP &#34;_CD cable_NN advisor_NN &#34;_CD ,_, no_DT conflict-of-interest_NN there_RB -RRB-_-RRB- ,_, router_NN manufacturers_NNS ,_, Google_NNP ,_, YouTube_NNP ,_, OS_NNP and_CC especially_RB driver-updates_NNS ,_, Flash_NNP and_CC Java_NNP ._.
+Once_RB your_PRP$ pattern_NN is_VBZ known_VBN ,_, Panasonic_NNP 's_POS proprietary_JJ browser_NN will_MD lock_VB you_PRP out_RP ._.
+Or_CC it_PRP could_MD be_VB your_PRP$ cable-provider_NN 's_POS modem_NN ._.
+Or_CC your_PRP$ router_NN -LRB-_-LRB- beware_VB Belkin_NNP !_.
+Use_VB an_DT open-source_JJ router_NN like_IN LinkSys_NNP -RRB-_-RRB- ,_, although_IN it_PRP is_VBZ hard_JJ to_TO troubleshoot_VB who_WP 's_VBZ clamping-down_JJ your_PRP$ access_NN when_WRB every_DT gateway_NN is_VBZ doing_VBG its_PRP$ best_JJS to_TO make_VB you_PRP pay_VB more_JJR money_NN and_CC give_VB away_RP more_JJR of_IN your_PRP$ info_NN to_TO a_DT third-party_JJ ..._: and_CC a_DT fourth_JJ ,_, and_CC a_DT fifth_NN ,_, ad_NN nauseum_NN ..._: I_PRP just_RB keep_VBP blasting_VBG searches_NNS until_IN I_PRP get_VBP a_DT stream_NN that_WDT works_VBZ ..._: This_DT is_VBZ much_RB easier_JJR :_: computer_NN &#62;_CD HDMI_NNP &#62;_CD TV_NN or_CC ,_, PS3_CD &#62;_CD HDMI_NNP &#62;_CD TV_NN ._.
+With_IN a_DT computer_NN ,_, you_PRP can_MD use_VB a_DT wireless_JJ keyboard_NN and_CC toss_VB the_DT remote_JJ ._.
+Let_NNP 's_POS be_VB clear_JJ about_IN one_CD thing_NN :_: the_DT media-creators_NNS are_VBP not_RB getting_VBG more_JJR money_NN ,_, just_RB the_DT people_NNS who_WP sell_VBP it_PRP ..._: and_CC re-sell_VB it_PRP and_CC re-sell_VB it_PRP ._.
+I_PRP know_VBP ,_, I_PRP was_VBD a_DT musician_NN ._.
+My_PRP$ royalty_NN checks_NNS are_VBP about_RB $_$ 12.98_CD once_RB in_IN each_DT month_NN not_RB ending_VBG in_IN a_DT &#34;_CD b_NN &#34;_CD ._.
+Providers_NNS are_VBP not_RB only_RB stealing_VBG OUR_NNP Internet_NNP -LRB-_-LRB- tax-payers_NNS +_VBP DoD_NNP =_SYM DefenseAdvanceResearchProjectAdministration_NNP -_: D_NNP =_SYM ARPA_NNP =_SYM ARPA_NNP Net_NNP =_SYM Internet_NNP -RRB-_-RRB- but_CC denying_VBG the_DT open-sharing_NN on_IN peer-to-peer_NN networks_NNS ,_, which_WDT is_VBZ the_DT only_RB true_JJ &#34;_CD payment_NN &#34;_CD for_IN those_DT who_WP make_VBP stuff_NN they_PRP want_VBP others_NNS to_TO see_VB ._.
+The_DT reason_NN this_DT TV_NN is_VBZ just_RB a_DT TV_NN and_CC Not_RB All_DT That_IN ?_.
+Money_NN ._.
+Cable\/cellphones\/computer_NNP will_MD not_RB share_VB with_IN each_DT other_JJ ,_, either_RB ._.
+Big_NNP Brother_NNP is_VBZ officially_RB here_RB :_: YOU_PRP are_VBP one_CD big_JJ mass_NN o_NN '_'' data_NNS ..._: all_DT your_PRP$ habits_NNS are_VBP being_VBG tracked_VBN with_IN every_DT click_NN ._.
+If_IN what_WP you_PRP are_VBP doing_VBG is_VBZ not_RB to_TO Someone_NN 's_POS liking_NN ,_, you_PRP will_MD be_VB shut_VBN down_RP ._.
+Happy_JJ TV_NN viewing_NN !_.

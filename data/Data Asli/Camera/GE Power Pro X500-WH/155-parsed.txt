@@ -1,0 +1,112 @@
+=========
+
+nsubj(looking-4, I-1)
+aux(looking-4, have-2)
+aux(looking-4, been-3)
+root(ROOT-0, looking-4)
+det(camera-8, a-6)
+amod(camera-8, good-7)
+prep_for(looking-4, camera-8)
+predet(time-12, quite-10)
+det(time-12, some-11)
+prep_for(camera-8, time-12)
+
+=========
+
+root(ROOT-0, Researching-1)
+det(value-4, the-2)
+amod(value-4, best-3)
+dobj(Researching-1, value-4)
+det(options-8, the-6)
+amod(options-8, most-7)
+prep_for(value-4, options-8)
+
+=========
+
+nsubj(found-2, I-1)
+root(ROOT-0, found-2)
+dobj(found-2, everything-3)
+dobj(wanted-5, everything-3)
+nsubj(wanted-5, I-4)
+rcmod(everything-3, wanted-5)
+det(X500-11, the-7)
+nn(X500-11, GE-8)
+nn(X500-11, Power-9)
+nn(X500-11, Pro-10)
+prep_in(wanted-5, X500-11)
+
+=========
+
+nsubj(photographer-6, I-1)
+cop(photographer-6, am-2)
+neg(photographer-6, not-3)
+det(photographer-6, a-4)
+amod(photographer-6, professional-5)
+root(ROOT-0, photographer-6)
+
+=========
+
+dep(someone-2, But-1)
+root(ROOT-0, someone-2)
+nsubj(likes-4, someone-2)
+rcmod(someone-2, likes-4)
+aux(take-6, to-5)
+xcomp(likes-4, take-6)
+dobj(take-6, allot-7)
+prep_of(allot-7, pictures-9)
+prep_of(allot-7, travels-11)
+conj_and(pictures-9, travels-11)
+
+=========
+
+nn(Clarity-3, Size-1)
+nsubj(Perfect-9, Clarity-3)
+conj_and(Clarity-3, Options-6)
+nsubj(Perfect-9, Options-6)
+cop(Perfect-9, are-7)
+advmod(Perfect-9, all-8)
+root(ROOT-0, Perfect-9)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(way-4, the-3)
+dobj(like-2, way-4)
+dobj(feels-7, way-4)
+det(camera-6, the-5)
+nsubj(feels-7, camera-6)
+rcmod(way-4, feels-7)
+poss(hands-10, my-9)
+prep_in(feels-7, hands-10)
+dep(easy-12, and-11)
+dep(like-2, easy-12)
+aux(use-14, to-13)
+xcomp(easy-12, use-14)
+
+=========
+
+nsubj(fantastic-3, Zoom-1)
+cop(fantastic-3, is-2)
+root(ROOT-0, fantastic-3)
+
+=========
+
+root(ROOT-0, Thank-1)
+nsubj(GE-3, you-2)
+xcomp(Thank-1, GE-3)
+prepc_for(GE-3, making-5)
+det(novice-7, a-6)
+dobj(making-5, novice-7)
+dobj(feel-9, novice-7)
+nsubj(feel-9, photographer-8)
+rcmod(novice-7, feel-9)
+det(pro-12, a-11)
+prep_like(feel-9, pro-12)
+
+=========
+
+nn(!!-3, LOVE-1)
+nn(!!-3, IT-2)
+root(ROOT-0, !!-3)
+

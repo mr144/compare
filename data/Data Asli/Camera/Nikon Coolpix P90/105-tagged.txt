@@ -1,0 +1,5 @@
+I_PRP am_VBP thrilled_VBN with_IN my_PRP$ new_JJ Nikon_NNP Coolpix_NNP P90_NNP and_CC very_RB happy_JJ with_IN the_DT service_NN through_IN Amazon.com_NNP ._.
+I_PRP am_VBP a_DT satisifed_JJ customer_NN and_CC have_VBP ordered_VBN several_JJ things_NNS through_IN Amazon.com_NNP ._.
+Delivery_NN was_VBD prompt_JJ ._.
+The_DT price_NN was_VBD better_RBR than_IN other_JJ places_NNS I_PRP had_VBD looked_VBN ._.
+I_PRP had_VBD researched_VBN this_DT item_NN before_IN buying_VBG it_PRP and_CC am_VB highly_RB satisfied_JJ ._.

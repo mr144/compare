@@ -1,0 +1,15 @@
+The_DT Good_NNP ..._: -_: Nice_JJ looking_VBG set_NN -_: Easy_JJ setup_NN -_: Good_JJ picture_NN qualityThe_NNP Bad_NNP ..._: -_: The_DT Touchpad_NNP used_VBD for_IN the_DT on-screen_JJ keyboard_NN and_CC navigating_VBG the_DT Internet_NNP is_VBZ clumsy_JJ and_CC too_RB sensitive_JJ ._.
+Trying_VBG to_TO enter_VB text_NN using_VBG the_DT Touchpad_NNP is_VBZ a_DT chore_NN ._.
+Moving_VBG the_DT mouse_NN arrow_NN over_IN the_DT on-screen_JJ keyboard_NN to_TO select_VB letters_NNS is_VBZ difficult_JJ to_TO master_VB ._.
+If_IN you_PRP hover_VBP over_IN a_DT letter_NN too_RB long_RB the_DT letter_NN is_VBZ added_VBN to_TO your_PRP$ text_NN box_NN and_CC then_RB you_PRP need_VBP to_TO fumble_VB your_PRP$ way_NN to_TO the_DT backspace_NN key_NN hoping_VBG you_PRP do_VBP not_RB add_VB more_JJR letters_NNS along_IN the_DT way_NN ._.
+Entering_VBG a_DT simple_JJ web_NN address_NN can_MD take_VB minutes_NNS ._.
+An_DT external_JJ keyboard_NN is_VBZ needed_VBN ._.
+-_: The_DT Internet_NNP is_VBZ not_RB a_DT separate_JJ Input_NNP Source_NNP ._.
+Therefore_RB ,_, you_PRP can_MD not_RB toggle_VB between_IN the_DT Internet_NNP and_CC another_DT Input_NNP Source_NN -LRB-_-LRB- like_IN Cable_NNP or_CC a_DT DVD_NNP player_NN -RRB-_-RRB- without_IN starting_VBG over_RP again_RB on_IN the_DT Internet_NNP side_NN ._.
+This_DT means_VBZ you_PRP can_MD not_RB pause_VB a_DT NetFlix_NNP movie_NN or_CC interrupt_VB a_DT web_NN browser_NN search_NN to_TO view_VB something_NN on_IN one_CD of_IN the_DT other_JJ Input_NNP Sources_NNS without_IN starting_VBG over_RP ._.
+-_: There_EX is_VBZ no_DT Picute-in-Picture_NNP -LRB-_-LRB- PIP_NNP -RRB-_-RRB- or_CC Split_NNP Screen_NNP feature_NN ._.
+This_DT seems_VBZ to_TO be_VB a_DT dying_VBG feature_NN but_CC one_CD I_PRP use_VBP all_PDT the_DT time_NN on_IN my_PRP$ older_JJR Panasonic_NNP ._.
+-_: There_EX is_VBZ only_RB one_CD Component_NNP Input_NNP connection_NN on_IN the_DT back_NN ._.
+-_: There_EX are_VBP no_DT Output_NN ports_NNS ._.
+-_: A_DT web_NN camera_NN would_MD be_VB nice_JJ for_IN Skype_NNP so_IN you_PRP do_VBP not_RB have_VB to_TO mount_VB one_CD on_IN the_DT tv_NN ._.
+-_: 3D_NNP Glasses_NNPS are_VBP not_RB included_VBN ._.

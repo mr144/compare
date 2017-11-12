@@ -1,0 +1,153 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+advmod(everything-4, almost-3)
+dobj(like-2, everything-4)
+det(TV-7, this-6)
+prep_about(everything-4, TV-7)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+nsubj(replace-5, it-3)
+aux(replace-5, to-4)
+xcomp(bought-2, replace-5)
+poss(32-7, my-6)
+poss(Bravia-9, 32-7)
+dobj(replace-5, Bravia-9)
+prep_with(Bravia-9, 720p-11)
+
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+dobj(wanted-2, 1080-3)
+dep(wanted-2, so-5)
+nsubj(use-8, I-6)
+aux(use-8, could-7)
+ccomp(wanted-2, use-8)
+det(TV-10, the-9)
+dobj(use-8, TV-10)
+mark(monitor-14, as-11)
+det(computer-13, a-12)
+nsubj(monitor-14, computer-13)
+advcl(use-8, monitor-14)
+det(couch-17, the-16)
+prep_from(monitor-14, couch-17)
+
+=========
+
+det(product-2, This-1)
+nsubj(works-3, product-2)
+root(ROOT-0, works-3)
+advmod(works-3, fantastically-4)
+prep_for(works-3, that-6)
+
+=========
+
+det(contrast-2, The-1)
+nsubj(strong-4, contrast-2)
+cop(strong-4, is-3)
+root(ROOT-0, strong-4)
+det(picture-7, the-6)
+nsubj(clear-9, picture-7)
+cop(clear-9, is-8)
+ccomp(strong-4, clear-9)
+conj_and(strong-4, clear-9)
+det(Wii-12, the-11)
+nsubj(looks-13, Wii-12)
+ccomp(strong-4, looks-13)
+conj_and(strong-4, looks-13)
+acomp(looks-13, great-14)
+prep_on(great-14, this-16)
+nsubj(sharp-21, text-19)
+cop(sharp-21, is-20)
+conj_and(strong-4, sharp-21)
+
+=========
+
+poss(beef-3, My-1)
+amod(beef-3, only-2)
+nsubj(lack-6, beef-3)
+cop(lack-6, is-4)
+det(lack-6, the-5)
+root(ROOT-0, lack-6)
+nn(jacks-9, input-8)
+prep_of(lack-6, jacks-9)
+
+=========
+
+expl(are-3, There-1)
+advmod(are-3, just-2)
+root(ROOT-0, are-3)
+neg(are-3, not-4)
+acomp(are-3, enough-5)
+poss(taste-8, my-7)
+prep_for(enough-5, taste-8)
+nsubj(found-13, I-11)
+aux(found-13, have-12)
+conj_and(are-3, found-13)
+complm(have-16, that-14)
+nsubj(have-16, I-15)
+ccomp(found-13, have-16)
+det(jury-18, some-17)
+dobj(have-16, jury-18)
+partmod(jury-18, rigging-19)
+ccomp(rigging-19, going-20)
+prt(going-20, on-21)
+mark(hear-26, in-23)
+dep(hear-26, order-24)
+aux(hear-26, to-25)
+purpcl(going-20, hear-26)
+det(sound-28, the-27)
+dobj(hear-26, sound-28)
+det(computer-31, the-30)
+prep_from(hear-26, computer-31)
+advmod(allowing-36, just-35)
+ccomp(rigging-19, allowing-36)
+conj_negcc(going-20, allowing-36)
+nsubj(send-39, me-37)
+aux(send-39, to-38)
+xcomp(allowing-36, send-39)
+dobj(send-39, it-40)
+advmod(send-39, directly-41)
+
+=========
+
+nn(grumble-2, Grumble-1)
+nsubj(grumble-3, grumble-2)
+root(ROOT-0, grumble-3)
+
+=========
+
+advmod(TV-7, Really-1)
+nsubj(TV-7, this-3)
+cop(TV-7, is-4)
+det(TV-7, a-5)
+amod(TV-7, great-6)
+root(ROOT-0, TV-7)
+
+=========
+
+poss(movies-2, My-1)
+nsubj(look-3, movies-2)
+root(ROOT-0, look-3)
+nsubj(better-5, WAY-4)
+xcomp(look-3, better-5)
+advmod(look-3, now-7)
+
+=========
+
+nsubj(miss-3, I-1)
+advmod(miss-3, just-2)
+dep(own-11, miss-3)
+cop(able-5, being-4)
+xcomp(miss-3, able-5)
+aux(plug-7, to-6)
+xcomp(able-5, plug-7)
+prep_in(plug-7, everything-9)
+nsubj(own-11, I-10)
+root(ROOT-0, own-11)
+

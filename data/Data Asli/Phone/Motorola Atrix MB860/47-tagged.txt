@@ -1,0 +1,3 @@
+This_DT phone_NN has_VBZ a_DT problem_NN with_IN continuosly_RB restarting_VBG itself_PRP throughout_IN the_DT day_NN ._.
+I_PRP checked_VBD online_NN and_CC found_VBD lots_NNS of_IN consumers_NNS frustrated_VBN with_IN this_DT phone_NN for_IN the_DT same_JJ reason_NN ._.
+Lots_NNS of_IN tips_NNS on_IN how_WRB to_TO correct_VB this_DT problem_NN but_CC non_NN seemed_VBD to_TO work_VB ._.

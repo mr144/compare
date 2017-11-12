@@ -1,0 +1,23 @@
+=========
+
+poss(phone-2, My-1)
+nsubj(worked-3, phone-2)
+root(ROOT-0, worked-3)
+advmod(got-7, when-4)
+nsubj(got-7, I-5)
+advmod(got-7, first-6)
+advcl(worked-3, got-7)
+dobj(got-7, it-8)
+prepc_after(got-7, trying-10)
+aux(update-12, to-11)
+xcomp(trying-10, update-12)
+nsubj(went-14, phone-13)
+ccomp(update-12, went-14)
+nsubj(turn-19, dead-15)
+advmod(turn-19, now-16)
+aux(turn-19, will-17)
+neg(turn-19, not-18)
+ccomp(went-14, turn-19)
+prt(turn-19, back-20)
+prep(turn-19, on-21)
+

@@ -1,0 +1,29 @@
+=========
+
+nsubj(bought-2, We-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+partmod(TV-4, refurbished-5)
+nsubjpass(great-10, it-7)
+auxpass(great-10, is-8)
+cop(great-10, been-9)
+conj_and(bought-2, great-10)
+
+=========
+
+nsubj(had-4, We-1)
+aux(had-4, have-2)
+neg(had-4, not-3)
+root(ROOT-0, had-4)
+det(problems-6, any-5)
+dobj(had-4, problems-6)
+det(TV-9, the-8)
+prep_with(had-4, TV-9)
+advmod(TV-9, whatsoever-10)
+nsubj(buy-16, it-12)
+cop(buy-16, was-13)
+det(buy-16, a-14)
+amod(buy-16, great-15)
+conj_and(had-4, buy-16)
+

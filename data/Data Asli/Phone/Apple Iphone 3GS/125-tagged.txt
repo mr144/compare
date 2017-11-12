@@ -1,0 +1,2 @@
+When_WRB I_PRP got_VBD the_DT phone_NN ,_, the_DT phone_NN was_VBD completely_RB out_IN of_IN charge_NN and_CC I_PRP had_VBD to_TO charge_VB it_PRP for_IN 20_CD mins_NNS to_TO get_VB it_PRP up_RP and_CC running_VBG ._.
+I_PRP was_VBD not_RB able_JJ to_TO close_VB any_DT applications_NNS that_IN I_PRP opened_VBD in_IN addition_NN to_TO being_VBG slow_JJ and_CC charge_NN issue_NN ._.

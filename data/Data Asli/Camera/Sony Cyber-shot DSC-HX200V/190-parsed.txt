@@ -1,0 +1,37 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+advmod(give-5, Infact-1)
+nsubj(give-5, I-3)
+aux(give-5, would-4)
+root(ROOT-0, give-5)
+num(stars-7, five-6)
+dobj(give-5, stars-7)
+mark(figure-11, if-8)
+nsubj(figure-11, I-9)
+aux(figure-11, could-10)
+advcl(give-5, figure-11)
+prt(figure-11, out-12)
+det(quicker-15, the-13)
+dep(quicker-15, menu-14)
+dobj(figure-11, quicker-15)
+advmod(need-18, when-16)
+nsubj(need-18, I-17)
+advcl(figure-11, need-18)
+prep(need-18, to-19)
+
+=========
+
+nsubj(zoom-2, Best-1)
+root(ROOT-0, zoom-2)
+nsubj(owned-6, I-3)
+aux(owned-6, have-4)
+advmod(owned-6, ever-5)
+ccomp(zoom-2, owned-6)
+

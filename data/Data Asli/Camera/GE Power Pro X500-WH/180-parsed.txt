@@ -1,0 +1,28 @@
+=========
+
+det(camera-3, This-1)
+amod(camera-3, little-2)
+nsubj(surprise-7, camera-3)
+cop(surprise-7, was-4)
+det(surprise-7, a-5)
+amod(surprise-7, big-6)
+ccomp(everything-11, surprise-7)
+nsubj(everything-11, it-9)
+cop(everything-11, is-10)
+root(ROOT-0, everything-11)
+det(reviews-13, the-12)
+nsubj(said-14, reviews-13)
+rcmod(everything-11, said-14)
+nsubj(more-18, it-15)
+cop(more-18, was-16)
+cc(more-18, and-17)
+ccomp(said-14, more-18)
+
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, just-2)
+root(ROOT-0, love-3)
+det(camera-5, this-4)
+dobj(love-3, camera-5)
+

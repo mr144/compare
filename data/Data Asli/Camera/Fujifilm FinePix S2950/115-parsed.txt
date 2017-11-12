@@ -1,0 +1,81 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(S2950-5, the-3)
+nn(S2950-5, Fugiflim-4)
+nsubj(fits-24, S2950-5)
+advmod(far-8, so-7)
+advmod(seems-9, far-8)
+dep(S2950-5, seems-9)
+aux(camera-14, to-10)
+cop(camera-14, be-11)
+det(camera-14, a-12)
+amod(camera-14, great-13)
+xcomp(seems-9, camera-14)
+det(price-17, the-16)
+prep_for(camera-14, price-17)
+dep(S2950-5, takes-20)
+conj_and(seems-9, takes-20)
+amod(pictures-22, great-21)
+dobj(takes-20, pictures-22)
+ccomp(bought-2, fits-24)
+acomp(fits-24, nice-25)
+det(hand-28, the-27)
+prep_to(nice-25, hand-28)
+
+=========
+
+cc(finder-11, And-1)
+det(thing-4, a-2)
+amod(thing-4, big-3)
+nsubj(finder-11, thing-4)
+prep_for(thing-4, me-6)
+cop(finder-11, is-7)
+det(finder-11, the-8)
+amod(finder-11, electronic-9)
+nn(finder-11, view-10)
+root(ROOT-0, finder-11)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, cameras-4)
+prep(had-3, with-5)
+pcomp(with-5, out-6)
+prep_out(with-5, it-7)
+nsubj(hard-12, it-9)
+xsubj(take-14, it-9)
+cop(hard-12, is-10)
+advmod(hard-12, real-11)
+conj_and(had-3, hard-12)
+aux(take-14, to-13)
+xcomp(hard-12, take-14)
+dobj(take-14, pitchers-15)
+det(screen-19, a-17)
+amod(screen-19, black-18)
+prep_on(take-14, screen-19)
+det(day-23, a-21)
+amod(day-23, sunny-22)
+prep_on(screen-19, day-23)
+
+=========
+
+nsubj(buy-4, I-1)
+aux(buy-4, will-2)
+neg(buy-4, not-3)
+root(ROOT-0, buy-4)
+dobj(buy-4, them-5)
+advmod(buy-4, again-6)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, you-2)
+
+=========
+
+root(ROOT-0, R.M.-1)
+

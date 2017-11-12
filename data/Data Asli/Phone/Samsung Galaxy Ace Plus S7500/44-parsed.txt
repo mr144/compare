@@ -1,0 +1,27 @@
+=========
+
+nsubj(one-3, it-1)
+cop(one-3, is-2)
+root(ROOT-0, one-3)
+det(phone-7, the-5)
+amod(phone-7, worst-6)
+prep_of(one-3, phone-7)
+nsubj(recommend-12, i-9)
+aux(recommend-12, will-10)
+advmod(recommend-12, always-11)
+conj_and(one-3, recommend-12)
+dobj(recommend-12, it-13)
+prep_to(recommend-12, people-15)
+
+=========
+
+nsubj(has-2, it-1)
+root(ROOT-0, has-2)
+dobj(has-2, alot-3)
+prep_of(alot-3, functions-5)
+
+=========
+
+amod(phone-2, great-1)
+root(ROOT-0, phone-2)
+

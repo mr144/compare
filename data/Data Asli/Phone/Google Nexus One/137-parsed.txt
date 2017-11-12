@@ -1,0 +1,199 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(phone-4, this-3)
+dobj(got-2, phone-4)
+det(gift-7, a-6)
+prep_as(got-2, gift-7)
+num(months-9, 5-8)
+npadvmod(ago-10, months-9)
+advmod(gift-7, ago-10)
+
+=========
+
+nsubj(phone-7, It-1)
+cop(phone-7, 's-2)
+poss(phone-7, my-3)
+amod(phone-7, first-4)
+amod(phone-7, smart-6)
+root(ROOT-0, phone-7)
+
+=========
+
+nsubj(waited-2, I-1)
+xsubj(released-9, I-1)
+root(ROOT-0, waited-2)
+advmod(waited-2, forever-3)
+det(phone-6, this-5)
+prep_for(waited-2, phone-6)
+aux(released-9, to-7)
+auxpass(released-9, be-8)
+xcomp(waited-2, released-9)
+
+=========
+
+nsubjpass(disappointed-5, I-1)
+aux(disappointed-5, have-2)
+neg(disappointed-5, not-3)
+auxpass(disappointed-5, been-4)
+root(ROOT-0, disappointed-5)
+xcomp(disappointed-5, !!-6)
+det(phone-8, This-7)
+nsubj(nothing-11, phone-8)
+nsubj(awesome-13, phone-8)
+aux(nothing-11, has-9)
+cop(nothing-11, been-10)
+ccomp(!!-6, nothing-11)
+ccomp(!!-6, awesome-13)
+conj_but(nothing-11, awesome-13)
+prep_for(nothing-11, me-15)
+
+=========
+
+nsubj(demanding-4, I-1)
+aux(demanding-4, am-2)
+advmod(demanding-4, extremely-3)
+root(ROOT-0, demanding-4)
+amod(electronics-6, withmy-5)
+dobj(demanding-4, electronics-6)
+
+=========
+
+nsubj(expect-2, I-1)
+root(ROOT-0, expect-2)
+nsubj(do-5, them-3)
+aux(do-5, to-4)
+xcomp(expect-2, do-5)
+dobj(do-5, everything-6)
+prep_without(do-5, problems-8)
+
+=========
+
+det(apps-2, The-1)
+nsubj(inthe-3, apps-2)
+root(ROOT-0, inthe-3)
+nn(Marketplace-5, Android-4)
+nsubj(short-8, Marketplace-5)
+cop(short-8, are-6)
+dep(short-8, nothing-7)
+ccomp(inthe-3, short-8)
+amod(!!-11, incredible-10)
+prep_of(short-8, !!-11)
+poss(phone-13, My-12)
+nsubj(capableof-15, phone-13)
+cop(capableof-15, is-14)
+rcmod(!!-11, capableof-15)
+partmod(capableof-15, doing-16)
+dobj(doing-16, things-17)
+neg(doing-16, never-18)
+prep_before(doing-16, imagined-20)
+
+=========
+
+advmod(isnow-9, Now-1)
+det(release-4, the-3)
+prep_with(isnow-9, release-4)
+prep_of(release-4, Android-6)
+num(Android-6, 2.2-7)
+nsubj(isnow-9, it-8)
+root(ROOT-0, isnow-9)
+acomp(isnow-9, possible-10)
+aux(use-12, to-11)
+xcomp(possible-10, use-12)
+det(phone-14, the-13)
+dobj(use-12, phone-14)
+det(hotspot-18, a-16)
+amod(hotspot-18, wi-fi-17)
+prep_as(use-12, hotspot-18)
+quantmod(5-22, up-20)
+dep(5-22, to-21)
+num(devices-23, 5-22)
+prep_for(hotspot-18, devices-23)
+xcomp(possible-10, view-25)
+conj_and(use-12, view-25)
+dobj(view-25, webpages-26)
+nn(content-29, FLASH-28)
+prep_with(view-25, content-29)
+xcomp(possible-10, browse-31)
+conj_and(use-12, browse-31)
+det(internet-33, the-32)
+dobj(browse-31, internet-33)
+advmod(faster-35, even-34)
+advmod(browse-31, faster-35)
+
+=========
+
+nsubj(build-2, The-1)
+root(ROOT-0, build-2)
+nsubj(superior-4, qualityis-3)
+xcomp(build-2, superior-4)
+
+=========
+
+nn(life-2, Battery-1)
+nsubj(good-5, life-2)
+cop(good-5, is-3)
+advmod(good-5, VERY-4)
+root(ROOT-0, good-5)
+
+=========
+
+det(phone-2, The-1)
+nsubj(fast-5, phone-2)
+cop(fast-5, is-3)
+advmod(fast-5, super-4)
+root(ROOT-0, fast-5)
+
+=========
+
+nsubj(everythingyou-3, It-1)
+nsubj(more-12, It-1)
+dep(everythingyou-3, does-2)
+root(ROOT-0, everythingyou-3)
+aux(want-5, would-4)
+ccomp(everythingyou-3, want-5)
+det(phone-7, a-6)
+dobj(want-5, phone-7)
+aux(do-9, to-8)
+infmod(phone-7, do-9)
+advmod(more-12, even-11)
+conj_and(everythingyou-3, more-12)
+
+=========
+
+poss(complaint-3, My-1)
+amod(complaint-3, only-2)
+nsubj(difficult-7, complaint-3)
+cop(difficult-7, is-4)
+dep(difficult-7, that-5)
+amod(difficult-7, self-portraitsare-6)
+root(ROOT-0, difficult-7)
+advmod(difficult-7, at-8)
+pobj(at-8, best-9)
+
+=========
+
+advmod(phone-4, Definitely-1)
+det(best-3, the-2)
+nsubj(phone-4, best-3)
+root(ROOT-0, phone-4)
+det(market-7, the-6)
+prep_on(phone-4, market-7)
+det(HTC-14, the-11)
+amod(HTC-14, new-12)
+nn(HTC-14, EVOfrom-13)
+prep_except_for(phone-4, HTC-14)
+prep_on(HTC-14, Sprint-16)
+
+=========
+
+det(phone-2, This-1)
+nsubj(usable-5, phone-2)
+cop(usable-5, is-3)
+advmod(usable-5, only-4)
+root(ROOT-0, usable-5)
+prep_on(usable-5, T-Mobile-7)
+prep_on(usable-5, AT&T-9)
+conj_and(T-Mobile-7, AT&T-9)
+

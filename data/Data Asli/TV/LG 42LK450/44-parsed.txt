@@ -1,0 +1,96 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+nsubj(had-8, this-3)
+poss(grandparents-6, my-5)
+prep_for(this-3, grandparents-6)
+rcmod(this-3, had-8)
+det(tv-14, an-9)
+amod(tv-14, old-10)
+num(tv-14, 32-11)
+nn(tv-14, tube-13)
+dobj(had-8, tv-14)
+prep_for(tv-14, Easter-16)
+
+=========
+
+nsubj(ordered-2, I-1)
+nsubj(got-8, I-1)
+root(ROOT-0, ordered-2)
+nsubj(kind-4, it-3)
+xcomp(ordered-2, kind-4)
+prep_of(kind-4, close-6)
+conj_but(ordered-2, got-8)
+det(right-11, the-9)
+nn(right-11, product-10)
+dobj(got-8, right-11)
+prep_on(got-8, time-13)
+
+=========
+
+nsubj(set-2, I-1)
+ccomp(easy-11, set-2)
+dobj(set-2, it-3)
+prt(set-2, up-4)
+prep_for(set-2, them-6)
+nsubj(easy-11, it-8)
+cop(easy-11, was-9)
+advmod(easy-11, real-10)
+root(ROOT-0, easy-11)
+cc(easy-13, &-12)
+nsubj(figure-17, easy-13)
+prep_for(easy-13, them-15)
+aux(figure-17, to-16)
+dep(easy-11, figure-17)
+prt(figure-17, out-18)
+advmod(figure-17, too-19)
+
+=========
+
+amod(quality-2, Image-1)
+nsubj(great-4, quality-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+nsubj(good-9, Most-1)
+det(reviews-4, the-3)
+prep_of(Most-1, reviews-4)
+det(tv-7, this-6)
+prep_for(reviews-4, tv-7)
+cop(good-9, were-8)
+root(ROOT-0, good-9)
+mark(felt-12, so-10)
+nsubj(felt-12, I-11)
+advcl(good-9, felt-12)
+nsubj(buy-19, safe-13)
+conj_and(safe-13, it-15)
+nsubj(buy-19, it-15)
+cop(buy-19, was-16)
+det(buy-19, a-17)
+amod(buy-19, great-18)
+ccomp(felt-12, buy-19)
+
+=========
+
+nsubj(guy-6, I-1)
+aux(guy-6, have-2)
+cop(guy-6, been-3)
+det(guy-6, a-4)
+nn(guy-6, Sony-5)
+root(ROOT-0, guy-6)
+det(time-10, a-8)
+amod(time-10, long-9)
+prep_for(guy-6, time-10)
+nsubj(say-14, I-12)
+aux(say-14, 'll-13)
+conj_but(guy-6, say-14)
+nsubj(great-18, LG-15)
+possessive(LG-15, 's-16)
+cop(great-18, are-17)
+ccomp(say-14, great-18)
+advmod(great-18, too-19)
+

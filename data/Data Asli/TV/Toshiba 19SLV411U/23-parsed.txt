@@ -1,0 +1,40 @@
+=========
+
+nsubj(looking-3, I-1)
+aux(looking-3, was-2)
+root(ROOT-0, looking-3)
+det(tv-7, a-5)
+amod(tv-7, new-6)
+prep_for(looking-3, tv-7)
+det(bedroom-10, the-9)
+prep_for(tv-7, bedroom-10)
+
+=========
+
+amod(hz-9, Found-1)
+det(hz-9, the-2)
+nn(hz-9, Toshiba-3)
+num(hz-9, 19slv411u-4)
+num(hz-9, 19-5)
+nn(hz-9, Inch-6)
+nn(hz-9, 720p-7)
+nn(hz-9, 60-8)
+nsubj(led-10, hz-9)
+root(ROOT-0, led-10)
+dobj(led-10, hdtv-11)
+prepc_with(led-10, built-13)
+nn(player-16, dvd-15)
+prep_in(built-13, player-16)
+
+=========
+
+nn(everything-2, Love-1)
+root(ROOT-0, everything-2)
+prep_about(everything-2, it-4)
+
+=========
+
+amod(price-2, Great-1)
+root(ROOT-0, price-2)
+dep(price-2, too-3)
+

@@ -1,0 +1,24 @@
+=========
+
+root(ROOT-0, Very-1)
+dep(Very-1, happy-2)
+det(TV-7, the-4)
+nn(TV-7, Sony-5)
+nn(TV-7, Bravia-6)
+prep_with(happy-2, TV-7)
+dep(Very-1, well-8)
+det(price-11, the-10)
+prep_worth(well-8, price-11)
+
+=========
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+poss(husband-5, my-4)
+prep_for(was-2, husband-5)
+nsubj(happy-10, he-7)
+cop(happy-10, is-8)
+advmod(happy-10, very-9)
+conj_and(was-2, happy-10)
+prep_with(happy-10, it-12)
+

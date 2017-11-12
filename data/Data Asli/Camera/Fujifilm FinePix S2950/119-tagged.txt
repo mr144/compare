@@ -1,0 +1,3 @@
+I_PRP have_VBP not_RB received_VBN the_DT camera_NN yet_RB ,_, but_CC must_MD say_VB that_IN Amazon_NNP has_VBZ the_DT best_JJS customer_NN service_NN ._.
+I_PRP had_VBD an_DT issue_NN with_IN my_PRP$ order_NN and_CC it_PRP was_VBD resolved_VBN with_IN excellent_JJ customer_NN service_NN ._.
+I_PRP have_VBP been_VBN a_DT loyal_JJ customer_NN and_CC LOVE_NN shopping_NN Amazon_NNP and_CC will_MD continue_VB to_TO do_VB so_RB !_.

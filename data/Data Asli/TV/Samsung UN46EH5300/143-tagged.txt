@@ -1,0 +1,3 @@
+Samsung_NNP 's_POS LED_NNP tvs_NNS have_VBP always_RB scored_VBN big_JJ in_IN my_PRP$ book_NN with_IN quality_NN and_CC reliability_NN ._.
+This_DT one_NN impressed_VBD as_RB well_RB ,_, especially_RB with_IN the_DT online_JJ capability_NN to_TO stream_NN Netflix_NNP or_CC Amazon_NNP without_IN a_DT seperate_JJ dvd_NN unit_NN ._.
+The_DT picture_NN and_CC sound_NN are_VBP vivid_JJ and_CC did_VBD not_RB require_VB any_DT special_JJ adjusments_NNS after_IN purchase_NN ._.

@@ -1,0 +1,32 @@
+=========
+
+amod(product-2, Excellent-1)
+root(ROOT-0, product-2)
+amod(details-5, nice-4)
+appos(product-2, details-5)
+advmod(good-8, very-7)
+amod(interface-10, good-8)
+amod(interface-10, graphical-9)
+appos(product-2, interface-10)
+amod(speed-13, super-12)
+appos(product-2, speed-13)
+conj_and(interface-10, speed-13)
+det(phone-18, a-16)
+amod(phone-18, mid-range-17)
+prep_for(product-2, phone-18)
+
+=========
+
+mark(had-3, If-1)
+nsubj(had-3, I-2)
+xsubj(buy-5, I-2)
+advcl(do-10, had-3)
+aux(buy-5, to-4)
+xcomp(had-3, buy-5)
+dobj(buy-5, another-6)
+nsubj(do-10, I-8)
+aux(do-10, 'll-9)
+root(ROOT-0, do-10)
+dobj(do-10, it-11)
+advmod(do-10, again-12)
+

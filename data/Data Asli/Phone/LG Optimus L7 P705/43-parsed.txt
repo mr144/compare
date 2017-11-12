@@ -1,0 +1,74 @@
+=========
+
+det(phone-2, The-1)
+nsubj(looks-3, phone-2)
+root(ROOT-0, looks-3)
+acomp(looks-3, beautiful-4)
+acomp(looks-3, cute-6)
+conj_and(beautiful-4, cute-6)
+nsubj(frustrating-11, it-8)
+cop(frustrating-11, is-9)
+advmod(frustrating-11, very-10)
+conj_but(looks-3, frustrating-11)
+xcomp(frustrating-11, using-12)
+dobj(using-12, it-13)
+
+=========
+
+nsubj(freezes-2, It-1)
+root(ROOT-0, freezes-2)
+prep_on(freezes-2, me-4)
+advmod(freezes-2, very-6)
+advmod(slow-9, very-7)
+advmod(slow-9, very-8)
+pobj(very-6, slow-9)
+
+=========
+
+advmod(give-3, When-1)
+nsubj(give-3, you-2)
+advcl(takes-9, give-3)
+iobj(give-3, it-4)
+det(command-6, a-5)
+dobj(give-3, command-6)
+nsubj(takes-9, it-8)
+xsubj(execute-12, it-8)
+root(ROOT-0, takes-9)
+advmod(takes-9, forever-10)
+aux(execute-12, to-11)
+xcomp(takes-9, execute-12)
+det(command-14, the-13)
+dobj(execute-12, command-14)
+
+=========
+
+nsubj(disappointed-2, Am-1)
+nsubj(enjoying-9, Am-1)
+root(ROOT-0, disappointed-2)
+poss(usage-5, its-4)
+prep_with(disappointed-2, usage-5)
+aux(enjoying-9, am-7)
+neg(enjoying-9, not-8)
+conj_and(disappointed-2, enjoying-9)
+dobj(enjoying-9, it-10)
+
+=========
+
+mark(is-3, If-1)
+expl(is-3, there-2)
+advcl(welcome-13, is-3)
+det(suggestion-5, any-4)
+nsubj(is-3, suggestion-5)
+aux(enhance-7, to-6)
+infmod(suggestion-5, enhance-7)
+poss(performance-9, its-8)
+dobj(enhance-7, performance-9)
+nsubj(welcome-13, i-11)
+aux(welcome-13, will-12)
+root(ROOT-0, welcome-13)
+dobj(welcome-13, it-14)
+
+=========
+
+root(ROOT-0, thanks-1)
+

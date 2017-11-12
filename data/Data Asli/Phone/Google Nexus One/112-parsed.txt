@@ -1,0 +1,59 @@
+=========
+
+nsubj(i-5, Nice-1)
+appos(Nice-1, phone-3)
+root(ROOT-0, i-5)
+dep(i-5, buy-6)
+dobj(buy-6, it-7)
+nn(Shop-10, OEM-9)
+prep_from(buy-6, Shop-10)
+mark(phone-19, for-13)
+det(price-15, that-14)
+nsubj(phone-19, price-15)
+cop(phone-19, is-16)
+det(phone-19, the-17)
+amod(phone-19, best-18)
+dep(i-5, phone-19)
+conj_and(buy-6, phone-19)
+
+=========
+
+root(ROOT-0, Update-1)
+dobj(Update-1, it-2)
+prep_to(Update-1, 2.3.4-4)
+det(phone-7, this-6)
+nsubj(fast-12, phone-7)
+cop(fast-12, is-8)
+advmod(fast-12, very-9)
+advmod(fast-12, very-11)
+conj_and(Update-1, fast-12)
+
+=========
+
+nsubj(buy-2, I-1)
+root(ROOT-0, buy-2)
+nsubj(whit-4, it-3)
+nsubj(makes-8, it-3)
+ccomp(buy-2, whit-4)
+det(otterbox-6, an-5)
+dobj(whit-4, otterbox-6)
+ccomp(buy-2, makes-8)
+conj_and(whit-4, makes-8)
+poss(phone-10, my-9)
+nsubj(perfect-11, phone-10)
+xcomp(makes-8, perfect-11)
+
+=========
+
+nn(3g-3, Funciona-1)
+nn(3g-3, el-2)
+nsubj(y-7, 3g-3)
+nn(america-6, centro-5)
+prep_en(3g-3, america-6)
+root(ROOT-0, y-7)
+nn(tambien-10, supongo-8)
+nn(tambien-10, que-9)
+dobj(y-7, tambien-10)
+nn(america-13, sur-12)
+prep_en(tambien-10, america-13)
+

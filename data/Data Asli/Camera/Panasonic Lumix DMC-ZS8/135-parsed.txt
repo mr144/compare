@@ -1,0 +1,80 @@
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+det(camera-6, a-3)
+amod(camera-6, great-4)
+amod(camera-6, little-5)
+root(ROOT-0, camera-6)
+
+=========
+
+nsubj(went-2, I-1)
+root(ROOT-0, went-2)
+prt(went-2, on-3)
+det(house-7, a-5)
+nn(house-7, butterfly-6)
+prep_to(went-2, house-7)
+det(pictures-10, the-9)
+nsubj(came-14, pictures-10)
+det(butterflies-13, the-12)
+prep_of(pictures-10, butterflies-13)
+conj_and(went-2, came-14)
+prt(came-14, out-15)
+dep(came-14, gorgeous-16)
+
+=========
+
+det(detail-2, The-1)
+nsubj(amazing-8, detail-2)
+det(one-5, each-4)
+prep_of(detail-2, one-5)
+cop(amazing-8, was-6)
+advmod(amazing-8, so-7)
+root(ROOT-0, amazing-8)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+dep(more-5, larger-3)
+amod(cameras-7, more-5)
+amod(cameras-7, expensive-6)
+dobj(have-2, cameras-7)
+nsubj(one-13, this-10)
+cop(one-13, is-11)
+det(one-13, the-12)
+conj_but(have-2, one-13)
+dobj(find-15, one-13)
+nsubj(find-15, I-14)
+rcmod(one-13, find-15)
+nsubj(going-17, myself-16)
+dep(find-15, going-17)
+prepc_to(going-17, more-19)
+prepc_to(going-17, more-21)
+conj_and(more-19, more-21)
+
+=========
+
+nsubj(great-4, It-1)
+cop(great-4, is-2)
+advmod(great-4, especially-3)
+root(ROOT-0, great-4)
+prep_on(great-4, walks-6)
+prep_on(great-4, sightseeing-8)
+conj_and(walks-6, sightseeing-8)
+mark(light-13, as-9)
+nsubj(light-13, it-10)
+xsubj(carry-15, it-10)
+cop(light-13, is-11)
+advmod(light-13, so-12)
+advcl(great-4, light-13)
+aux(carry-15, to-14)
+xcomp(light-13, carry-15)
+
+=========
+
+nn(!!!-3, LOVE-1)
+nn(!!!-3, IT-2)
+root(ROOT-0, !!!-3)
+

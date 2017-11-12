@@ -1,0 +1,5 @@
+excellent_JJ price_NN value_NN of_IN the_DT product_NN ._.
+good_JJ mp4_CD and_CC mp3_CD ._.
+The_DT weight_NN is_VBZ very_RB light_JJ ._.
+But_CC ,_, no_DT flash_NN included_VBD ._.
+Overall_RB ,_, this_DT smartphone_NN is_VBZ the_DT best_JJS ._.

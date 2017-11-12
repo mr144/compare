@@ -1,0 +1,32 @@
+I_PRP have_VBP used_VBN the_DT Sony_NNP HX200V_NNP regularly_RB for_IN one_CD year_NN ,_, after_IN having_VBG the_DT HX1_NNP and_CC HX100V_NNP before_IN that_DT ._.
+It_PRP has_VBZ an_DT almost_RB errorless_JJ autofocus_NN for_IN both_DT photos_NNS and_CC videos_NNS ,_, even_RB in_IN dim_JJ light_NN ._.
+Once_RB it_PRP grabs_NNS a_DT moving_VBG subject_NN in_IN a_DT video_NN ,_, it_PRP will_MD stick_VB tight_RB on_IN it_PRP ,_, even_RB when_WRB it_PRP passes_VBZ behind_IN tree_NN limbs_NNS or_CC other_JJ obstructions_NNS ._.
+For_IN long-range_JJ wildlife_NN ,_, it_PRP is_VBZ without_IN equal_JJ ._.
+Although_IN it_PRP comes_VBZ with_IN no_DT means_NNS to_TO attach_VB a_DT telextender_NN ,_, a_DT KiwiFotos_NNP lens_NN adaptor_NN tube_NN for_IN it_PRP can_MD be_VB bought_VBN here_RB on_IN Amazon_NNP and_CC it_PRP fits_VBZ solidly_RB ,_, with_IN good_JJ alignment_NN ._.
+I_PRP use_VBP it_PRP frequently_RB with_IN 1.7_CD X_NNP and_CC 2.2_CD X_NNP telex_NN lenses_NNS ,_, for_IN even_RB greater_JJR reach_NN ._.
+The_DT autofocus_NN works_VBZ just_RB as_RB dependably_RB with_IN these_DT lenses_NNS ._.
+I_PRP usually_RB shoot_VBP in_IN the_DT 16:9_CD mode_NN ,_, that_WDT uses_VBZ 13.5_CD Megapixels_NNS of_IN the_DT sensor_NN ,_, for_IN a_DT widescreen_NN picture_NN ._.
+This_DT mode_NN gets_VBZ more_JJR bits-per-pixel_NN for_IN J-PEG_NNP encoding_NN and_CC this_DT can_MD improve_VB the_DT quality_NN of_IN the_DT photos_NNS ,_, especially_RB if_IN you_PRP show_VBP them_PRP at_IN larger_JJR sizes_NNS ._.
+I_PRP usually_RB reduce_VBP the_DT size_NN for_IN Internet_NNP viewing_VBG down_RP to_TO about_IN 1,600_CD X_NNP 900_CD ,_, with_IN the_DT Sony_NNP Play_NNP Memories_NNP Home_NNP Program_NNP ._.
+I_PRP set_VBD the_DT quality_NN at_IN the_DT highest_JJS level_NN of_IN 6_CD and_CC the_DT results_NNS are_VBP excellent_JJ ._.
+There_EX is_VBZ one_CD problem_NN that_WDT has_VBZ surfaced_VBN about_IN the_DT noise-reduction_JJ settings_NNS ._.
+When_WRB it_PRP is_VBZ set_VBN in_IN the_DT Menu_NN to_TO the_DT minus_NN position_NN ,_, it_PRP actually_RB raises_VBZ the_DT noise-reduction_JJ function_NN to_TO the_DT same_JJ as_IN the_DT high_JJ position_NN ,_, which_WDT can_MD degrade_VB the_DT photo_JJ quality_NN ._.
+Sony_NNP does_VBZ not_RB seem_VB to_TO issue_VB firmware_NN upgrades_NNS to_TO resolve_VB such_JJ issues_NNS ,_, so_IN it_PRP is_VBZ best_JJS to_TO set_VB the_DT noise-reduction_NN to_TO the_DT middle_JJ position_NN ,_, which_WDT causes_VBZ no_DT loss_NN of_IN quality_NN that_IN I_PRP can_MD see_VB ._.
+I_PRP have_VBP also_RB set_VBN my_PRP$ Contrast_NN ,_, Sharpness_NNP and_CC Color-Saturation_NNP functions_NNS in_IN the_DT Menu_NN to_TO the_DT high_JJ positions_NNS and_CC I_PRP get_VBP a_DT richer_JJR and_CC better_JJR image_NN ._.
+I_PRP most_RBS often_RB shoot_VBP in_IN the_DT P_NNP mode_NN and_CC lock_VB the_DT ISO_NNP at_IN the_DT lowest_JJS position_NN of_IN 100_CD ,_, moving_VBG this_DT setting_NN upward_RB only_RB when_WRB dimming_VBG light_JJ or_CC indoor_JJ shooting_NN requires_VBZ it_PRP ._.
+The_DT lower_JJR the_DT ISO_NNP level_NN the_DT better_JJR ,_, for_IN picture_NN quality_NN ,_, as_RB long_RB as_IN there_EX 's_VBZ enough_RB light_JJ to_TO support_VB a_DT low_JJ setting_NN ._.
+These_DT small-sensored_JJ ,_, long_zoom_NN cameras_NNS can_MD not_RB have_VB the_DT ISO_NNP raised_VBD very_RB much_RB ,_, the_DT way_NN it_PRP is_VBZ done_VBN with_IN large-sensored_JJ D-SLRs_NNS ._.
+If_IN you_PRP leave_VBP the_DT ISO_NNP on_IN auto_NN mode_NN without_IN locking_VBG it_PRP ,_, the_DT camera_NN may_MD jump_VB up_RP the_DT level_NN too_RB high_JJ ._.
+The_DT photos_NNS and_CC videos_NNS often_RB require_VBP the_DT EV_NNP setting_NN on_IN the_DT control_NN wheel_NN to_TO be_VB lowered_VBN one_CD click_NN or_CC sometimes_RB two_CD ._.
+In_IN the_DT video_NN settings_NNS ,_, you_PRP can_MD choose_VB between_IN several_JJ modes_NNS ,_, with_IN different_JJ encoding_NN levels_NNS and_CC frame-rates_NNS ._.
+I_PRP always_RB use_VBP the_DT PS_NNP mode_NN ,_, which_WDT has_VBZ 60p_CD scanning_VBG ,_, in_IN the_DT AVCHD_NNP format_NN ._.
+By_IN using_VBG 60p_JJ ,_, all_DT of_IN the_DT artifacts_NNS caused_VBN by_IN the_DT CMOS_NNP sensor_NN when_WRB panning_VBG or_CC shooting_VBG fast-moving_JJ subjects_NNS ,_, are_VBP eliminated_VBN ._.
+If_IN you_PRP use_VBP any_DT of_IN the_DT 60i_CD or_CC 30p_CD scanning_VBG modes_NNS ,_, there_EX will_MD be_VB juddering_VBG -LRB-_-LRB- stuttering_VBG -RRB-_-RRB- of_IN moving_VBG subjects_NNS ._.
+It_PRP 's_VBZ also_RB necessary_JJ to_TO have_VB a_DT moderately-fast_JJ computer_NN to_TO play_VB the_DT 60p_JJ video_NN smoothly_RB and_CC I_PRP find_VBP that_IN the_DT Sony_NNP PMH_NNP Program_NNP does_VBZ a_DT good_JJ job_NN in_IN playback_NN ._.
+I_PRP should_MD mention_VB that_IN i_FW recently_RB bought_VBD a_DT new_JJ Sony_NNP HX300_NNP camera_NN ,_, that_WDT has_VBZ a_DT 21.5-MP_JJ sensor_NN and_CC a_DT 50X_NNP zoom_NN lens_NN ._.
+After_IN five_CD days_NNS of_IN testing_NN ,_, I_PRP determined_VBD that_IN it_PRP does_VBZ not_RB come_VB up_IN to_TO the_DT performance_NN of_IN the_DT HX200V_NNP ._.
+It_PRP does_VBZ not_RB focus_VB as_RB well_RB at_IN full_JJ zoom_NN or_CC in_IN lower_JJR light_JJ levels_NNS and_CC does_VBZ not_RB dependably_RB keep_VB its_PRP$ focus_NN on_IN more_RBR difficult_JJ subjects_NNS ._.
+Both_DT its_PRP$ photos_NNS and_CC videos_NNS are_VBP not_RB as_RB sharp_JJ and_CC I_PRP have_VBP returned_VBN it_PRP to_TO the_DT dealer_NN ._.
+I_PRP will_MD now_RB have_VB a_DT renewed_VBN appreciation_NN for_IN my_PRP$ HX200V_NNP and_CC I_PRP may_MD buy_VB another_DT one_CD as_IN a_DT spare_JJ ,_, at_IN the_DT reduced_JJ closeout_NN price_NN ._.
+There_EX may_MD not_RB be_VB another_DT long_zoom_NN camera_NN such_JJ as_IN this_DT ,_, in_IN coming_VBG years_NNS ._.
+Steve_NNP McDonald_NNP

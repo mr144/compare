@@ -1,0 +1,6 @@
+I_PRP have_VBP seen_VBN a_DT lot_NN a_DT reviews_NNS abt_FW nikon_FW p90_FW being_VBG horrible_JJ in_IN low_JJ light_NN ._.
+Its_PRP$ because_IN of_IN High_NNP ISO_NNP ._.
+And_CC if_IN anybody_NN knows_VBZ about_IN High_NNP ISO_NNP then_RB they_PRP would_MD knowing_VBG that_IN its_PRP$ also_RB associated_VBN with_IN noise_NN ._.
+Nikon_NNP detects_VBZ the_DT amount_NN of_IN light_NN and_CC automatically_RB increases_VBZ the_DT ISO_NNP ._.
+If_IN you_PRP do_VBP not_RB want_VB noise_NN ,_, do_VBP not_RB select_VB auto_NN mode_NN ._.
+try_NN with_IN programmed_JJ auto_NN so_IN you_PRP get_VBP options_NNS to_TO decrease_VB the_DT ISO_NNP ._.

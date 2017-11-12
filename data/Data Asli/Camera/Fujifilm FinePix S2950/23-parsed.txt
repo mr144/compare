@@ -1,0 +1,34 @@
+=========
+
+nsubj(loves-7, I-1)
+dep(loves-7, both-2)
+poss(daughter-5, my-4)
+prep_for(loves-7, daughter-5)
+nsubj(loves-7, she-6)
+root(ROOT-0, loves-7)
+nsubj(pictures-10, it-8)
+amod(pictures-10, outstanding-9)
+xcomp(loves-7, pictures-10)
+amod(pictures-10, moving-11)
+amod(pictures-10, not-13)
+conj_or(moving-11, not-13)
+neg(moving-11, not-13)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+nsubj(have-5, thing-3)
+xsubj(buy-7, thing-3)
+nsubj(have-5, you-4)
+xsubj(buy-7, you-4)
+root(ROOT-0, have-5)
+aux(buy-7, to-6)
+xcomp(have-5, buy-7)
+det(card-10, a-8)
+nn(card-10, memory-9)
+dobj(buy-7, card-10)
+prep(card-10, but-11)
+det(problem-13, no-12)
+dep(but-11, problem-13)
+

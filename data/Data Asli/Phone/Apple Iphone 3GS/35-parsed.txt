@@ -1,0 +1,29 @@
+=========
+
+nsubj(Bummed-2, Totally-1)
+root(ROOT-0, Bummed-2)
+parataxis(Bummed-2, Was-4)
+det(present-7, a-5)
+nn(present-7, Christmas-6)
+nsubj(Was-4, present-7)
+poss(son-10, my-9)
+prep_for(present-7, son-10)
+det(E-15, the-12)
+nn(E-15, letter-13)
+nsubj(work-19, E-15)
+aux(work-19, does-17)
+neg(work-19, not-18)
+conj_and(Bummed-2, work-19)
+
+=========
+
+nsubj(sits-3, It-1)
+advmod(sits-3, now-2)
+root(ROOT-0, sits-3)
+det(drawer-6, the-5)
+prep_in(sits-3, drawer-6)
+
+=========
+
+root(ROOT-0, Useless-1)
+

@@ -1,0 +1,74 @@
+=========
+
+root(ROOT-0, Got-1)
+nsubj(Got-1, this-2)
+poss(mother-5, my-4)
+prep_for(this-2, mother-5)
+nsubj(fell-9, I-8)
+conj_but(Got-1, fell-9)
+prep_in(fell-9, love-11)
+prep_with(fell-9, it-13)
+
+=========
+
+cop(core-5, being-2)
+det(core-5, a-3)
+amod(core-5, single-4)
+prepc_despite(4G-9, core-5)
+nsubj(4G-9, it-7)
+cop(4G-9, is-8)
+root(ROOT-0, 4G-9)
+conj_and(4G-9, super-11)
+advmod(4G-9, fast-12)
+
+=========
+
+det(underrated-3, A-1)
+advmod(underrated-3, truly-2)
+nsubj(phone-4, underrated-3)
+root(ROOT-0, phone-4)
+nsubj(amazing-9, it-7)
+cop(amazing-9, is-8)
+conj_but(phone-4, amazing-9)
+
+=========
+
+det(camera-2, The-1)
+nsubj(quick-11, camera-2)
+cop(5MP-7, being-5)
+advmod(5MP-7, only-6)
+prepc_despite(quick-11, 5MP-7)
+cop(quick-11, is-9)
+advmod(quick-11, extremely-10)
+root(ROOT-0, quick-11)
+
+=========
+
+nsubj(ended-2, I-1)
+nsubj(wait-13, I-1)
+root(ROOT-0, ended-2)
+prt(ended-2, up-3)
+xcomp(ended-2, ordering-4)
+det(one-7, the-5)
+amod(one-7, same-6)
+dobj(ordering-4, one-7)
+prep_for(ordering-4, myself-9)
+aux(wait-13, can-11)
+neg(wait-13, not-12)
+conj_and(ended-2, wait-13)
+mark(arrives-16, until-14)
+nsubj(arrives-16, it-15)
+advcl(wait-13, arrives-16)
+
+=========
+
+nsubj(quick-3, It-1)
+cop(quick-3, is-2)
+root(ROOT-0, quick-3)
+nsubj(works-6, it-5)
+conj_and(quick-3, works-6)
+det(network-11, the-8)
+nn(network-11, T-Mobile-9)
+nn(network-11, USA-10)
+prep_on(works-6, network-11)
+

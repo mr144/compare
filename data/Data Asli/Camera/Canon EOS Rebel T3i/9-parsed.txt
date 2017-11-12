@@ -1,0 +1,51 @@
+=========
+
+nsubj(like-2, I-1)
+ccomp(do-8, like-2)
+det(camera-4, this-3)
+dobj(like-2, camera-4)
+nsubj(do-8, I-6)
+advmod(do-8, really-7)
+root(ROOT-0, do-8)
+nsubj(more-13, it-10)
+cop(more-13, is-11)
+advmod(more-13, just-12)
+parataxis(do-8, more-13)
+mark(need-16, than-14)
+nsubj(need-16, I-15)
+advcl(more-13, need-16)
+
+=========
+
+poss(profession-2, My-1)
+nsubj(requires-3, profession-2)
+root(ROOT-0, requires-3)
+nsubj(take-6, me-4)
+aux(take-6, to-5)
+xcomp(requires-3, take-6)
+nn(photos-8, quality-7)
+dobj(take-6, photos-8)
+prep_of(photos-8, properties-10)
+nsubj(delivers-14, this-12)
+advmod(delivers-14, definitely-13)
+conj_and(requires-3, delivers-14)
+
+=========
+
+cc(offers-9, But-1)
+det(price-4, the-3)
+dobj(paid-6, price-4)
+prep_for(offers-9, price-4)
+nsubj(paid-6, I-5)
+rcmod(price-4, paid-6)
+nsubj(offers-9, it-8)
+root(ROOT-0, offers-9)
+iobj(offers-9, way-10)
+amod(features-12, more-11)
+dobj(offers-9, features-12)
+mark(use-17, than-13)
+nsubj(use-17, I-14)
+aux(use-17, 'll-15)
+advmod(use-17, ever-16)
+advcl(offers-9, use-17)
+

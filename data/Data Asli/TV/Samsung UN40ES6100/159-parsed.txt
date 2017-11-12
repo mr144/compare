@@ -1,0 +1,31 @@
+=========
+
+nsubj(received-3, I-1)
+aux(received-3, have-2)
+root(ROOT-0, received-3)
+det(television-5, this-4)
+dobj(received-3, television-5)
+prep_on(television-5, time-7)
+nsubj(working-12, it-9)
+aux(working-12, has-10)
+aux(working-12, been-11)
+conj_and(received-3, working-12)
+advmod(far-15, well-13)
+advmod(far-15, thus-14)
+advmod(working-12, far-15)
+
+=========
+
+det(colors-2, The-1)
+nsubj(beautiful-5, colors-2)
+cop(beautiful-5, are-3)
+advmod(beautiful-5, very-4)
+root(ROOT-0, beautiful-5)
+nsubj(impressed-10, I-7)
+cop(impressed-10, am-8)
+advmod(impressed-10, very-9)
+conj_and(beautiful-5, impressed-10)
+prep_with(impressed-10, it-12)
+advmod(far-14, so-13)
+advmod(impressed-10, far-14)
+

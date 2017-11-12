@@ -1,0 +1,53 @@
+=========
+
+poss(D7100-4, Nikon-1)
+amod(D7100-4, new-3)
+nsubj(camera-8, D7100-4)
+cop(camera-8, is-5)
+det(camera-8, the-6)
+amod(camera-8, best-7)
+root(ROOT-0, camera-8)
+poss(money-11, your-10)
+prep_for(camera-8, money-11)
+det(today-15, the-13)
+nn(today-15, market-14)
+prep_on(money-11, today-15)
+
+=========
+
+mark(need-5, If-1)
+nsubj(need-5, you-2)
+aux(need-5, do-3)
+neg(need-5, not-4)
+advcl(is-26, need-5)
+amod(frame-7, full-6)
+dobj(need-5, frame-7)
+nsubj(want-12, you-9)
+xsubj(spend-14, you-9)
+aux(want-12, do-10)
+neg(want-12, not-11)
+conj_and(need-5, want-12)
+advcl(is-26, want-12)
+aux(spend-14, to-13)
+xcomp(want-12, spend-14)
+det($-17, a-15)
+amod($-17, extra-16)
+dobj(spend-14, $-17)
+num($-17, 1000-18)
+det(D600-21, a-20)
+prep_for(spend-14, D600-21)
+advmod(is-26, then-23)
+det(camera-25, this-24)
+nsubj(is-26, camera-25)
+root(ROOT-0, is-26)
+prep_for(is-26, you-28)
+
+=========
+
+nsubj(camera-5, D7100-1)
+cop(camera-5, is-2)
+det(camera-5, the-3)
+amod(camera-5, best-4)
+root(ROOT-0, camera-5)
+advmod(camera-5, ever-6)
+

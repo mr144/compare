@@ -1,0 +1,45 @@
+=========
+
+quantmod(3-3, only-2)
+num(months-4, 3-3)
+prep_after(appeared-9, months-4)
+det(line-8, a-5)
+amod(line-8, vertical-6)
+amod(line-8, red-7)
+nsubj(appeared-9, line-8)
+root(ROOT-0, appeared-9)
+det(middle-12, the-11)
+prep_in(appeared-9, middle-12)
+det(screen-15, the-14)
+prep_of(middle-12, screen-15)
+
+=========
+
+nsubj(called-2, I-1)
+root(ROOT-0, called-2)
+dobj(called-2, Toshiba-3)
+nn(repair-6, warranty-5)
+prep_for(Toshiba-3, repair-6)
+nsubj(cost-10, it-8)
+aux(cost-10, would-9)
+conj_and(called-2, cost-10)
+iobj(cost-10, me-11)
+quantmod(half-14, at-12)
+quantmod(half-14, least-13)
+dobj(cost-10, half-14)
+dobj(paid-17, what-15)
+nsubj(paid-17, I-16)
+dep(called-2, paid-17)
+det(TV-20, the-19)
+prep_for(paid-17, TV-20)
+prep_in(paid-17, time-22)
+prep_in(paid-17, shipping-24)
+conj_and(time-22, shipping-24)
+
+=========
+
+det(Toshibas-3, No-1)
+amod(Toshibas-3, more-2)
+root(ROOT-0, Toshibas-3)
+prep_for(Toshibas-3, me-5)
+

@@ -1,0 +1,118 @@
+=========
+
+aux(begin-2, To-1)
+purpcl(exceptional-9, begin-2)
+prep(begin-2, with-3)
+det(quality-7, the-5)
+nn(quality-7, picture-6)
+nsubj(exceptional-9, quality-7)
+cop(exceptional-9, is-8)
+root(ROOT-0, exceptional-9)
+
+=========
+
+root(ROOT-0, Delivers-1)
+det(image-6, a-2)
+amod(image-6, crisp-3)
+amod(image-6, clear-5)
+dobj(Delivers-1, image-6)
+preconj(hi-def-9, both-8)
+prep_in(Delivers-1, hi-def-9)
+prep_in(Delivers-1, even-11)
+advmod(hi-def-9, even-11)
+conj_and(hi-def-9, even-11)
+prep_in(Delivers-1, in-12)
+conj_and(hi-def-9, in-12)
+prep_in(hi-def-9, standard-def-13)
+
+=========
+
+nsubj(does-2, It-1)
+root(ROOT-0, does-2)
+nsubj(convert-4, NOT-3)
+ccomp(does-2, convert-4)
+poss(2D-6, your-5)
+dobj(convert-4, 2D-6)
+prep_into(convert-4, 3D-8)
+det(quality-12, the-11)
+nsubj(amazing-19, quality-12)
+det(3D-15, the-14)
+prep_of(quality-12, 3D-15)
+advmod(utilized-17, when-16)
+dep(quality-12, utilized-17)
+cop(amazing-19, is-18)
+conj_but(does-2, amazing-19)
+
+=========
+
+nsubj(wish-3, Just-2)
+root(ROOT-0, wish-3)
+expl(was-5, there-4)
+ccomp(wish-3, was-5)
+advmod(was-5, more-6)
+num(content-8, 3D-7)
+pobj(more-6, content-8)
+acomp(was-5, available-9)
+
+=========
+
+det(system-3, The-1)
+amod(system-3, sound-2)
+nsubj(satisfactory-5, system-3)
+cop(satisfactory-5, is-4)
+root(ROOT-0, satisfactory-5)
+poss(set-8, my-7)
+nsubj(is-9, set-8)
+parataxis(satisfactory-5, is-9)
+det(bedroom-12, the-11)
+prep_in(is-9, bedroom-12)
+det(systems-19, no-15)
+amod(systems-19, additional-16)
+amod(systems-19, audio-17)
+nn(systems-19, sound-18)
+nsubj(necessary-21, systems-19)
+cop(necessary-21, are-20)
+parataxis(satisfactory-5, necessary-21)
+conj_and(is-9, necessary-21)
+
+=========
+
+root(ROOT-0, All-1)
+prep_in(All-1, all-3)
+amod(bang-6, terrific-5)
+appos(all-3, bang-6)
+det(buck-9, the-8)
+prep_for(All-1, buck-9)
+
+=========
+
+aux(recommend-3, Would-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(Vizio-5, this-4)
+dobj(recommend-3, Vizio-5)
+prep_to(recommend-3, anyone-7)
+partmod(anyone-7, looking-8)
+det(HDTV-13, a-10)
+amod(HDTV-13, high-11)
+nn(HDTV-13, quality-12)
+prep_for(looking-8, HDTV-13)
+num(capabilities-16, 3D-15)
+prep_with(HDTV-13, capabilities-16)
+
+=========
+
+det(remote-3, The-1)
+amod(remote-3, compact-2)
+nsubj(delight-11, remote-3)
+det(keyboard-8, a-5)
+amod(keyboard-8, reverse-side-6)
+nn(keyboard-8, qwerty-7)
+prep_with(remote-3, keyboard-8)
+cop(delight-11, is-9)
+det(delight-11, a-10)
+root(ROOT-0, delight-11)
+aux(work-13, to-12)
+infmod(delight-11, work-13)
+prep(work-13, with-14)
+

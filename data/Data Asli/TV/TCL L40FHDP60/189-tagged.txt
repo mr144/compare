@@ -1,0 +1,4 @@
+This_DT is_VBZ a_DT affordable_JJ TV_NN ._.
+I_PRP tested_VBD my_PRP$ Macbook_NNP Pro_FW -LRB-_-LRB- Mountain_NNP Lion_NNP -RRB-_-RRB- ,_, Xbox_NNP with_IN HDMI_NNP port_NN ,_, and_CC they_PRP are_VBP working_VBG great_JJ !_.
+If_IN you_PRP are_VBP looking_VBG for_IN great_JJ deal_NN ._.
+that_DT is_VBZ it_PRP ._.

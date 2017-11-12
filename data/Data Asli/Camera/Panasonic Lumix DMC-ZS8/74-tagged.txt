@@ -1,0 +1,11 @@
+After_IN a_DT little_JJ over_IN a_DT year_NN of_IN use_NN this_DT camera_NN is_VBZ falling_VBG apart_RB ._.
+Dust_NN on_IN the_DT sensor_NN is_VBZ a_DT constant_JJ problem_NN ,_, and_CC this_DT appears_VBZ to_TO be_VB a_DT known_VBN issue_NN ,_, though_IN Panasonic_NNP continues_VBZ to_TO sell_VB these_DT ._.
+As_RB soon_RB as_IN the_DT sensor_NN is_VBZ contaminated_VBN ,_, auto_NN focus_NN stops_NNS working_VBG ,_, requiring_VBG a_DT disassembly_NN and_CC a_DT compressed_VBN air_NN cleaning_NN of_IN the_DT CCD_NNP ._.
+It_PRP is_VBZ not_RB long_RB until_IN the_DT contamination_NN returns_NNS ._.
+There_EX seems_VBZ to_TO be_VB a_DT direct_JJ path_NN for_IN the_DT dust_NN to_TO enter_VB ,_, through_IN the_DT lens_NN assembly_NN ._.
+On_IN initial_JJ disassembly_NN for_IN cleaning_NN ,_, I_PRP found_VBD there_EX is_VBZ no_DT barrier_NN between_IN the_DT environment_NN and_CC the_DT CCD_NNP sensor_NN ._.
+Some_DT sort_NN of_IN cost_NN cutting_VBG measure_NN ?_.
+Lens_NNP errors_NNS are_VBP starting_VBG now_RB as_RB well_RB ,_, and_CC I_PRP expect_VBP total_JJ failure_NN of_IN the_DT lens_NN drive_NN soon_RB ._.
+One_CD year_NN of_IN moderate_JJ use_NN before_IN failure_NN is_VBZ not_RB acceptable_JJ for_IN a_DT digital_JJ camera_NN ._.
+Image_NN quality_NN of_IN the_DT 14.1_CD MP_NNP CCD_NNP does_VBZ not_RB seem_VB as_RB good_JJ as_IN my_PRP$ old_JJ 10MP_NNP Canon_NNP ._.
+Wasted_VBN money_NN ._.

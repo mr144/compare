@@ -1,0 +1,3 @@
+This_DT TV_NN has_VBZ very_RB good_JJ picture_NN and_CC can_MD be_VB personally_RB adjusted_VBN to_TO give_VB very_RB enjoyable_JJ viewing_NN ._.
+However_RB the_DT sound_NN is_VBZ very_RB cheap_JJ with_IN the_DT very_RB small_JJ speakers_NNS ._.
+Also_RB their_PRP$ is_VBZ a_DT slight_JJ delay_NN in_IN the_DT sound_NN and_CC it_PRP causes_VBZ an_DT echo_VBP when_WRB a_DT nearby_JJ TV_NN is_VBZ on_IN the_DT same_JJ channel_NN ._.

@@ -1,0 +1,34 @@
+=========
+
+advmod(easy-2, Very-1)
+ccomp(great-9, easy-2)
+prep_to(easy-2, use-4)
+det(filters-7, the-6)
+nsubj(great-9, filters-7)
+cop(great-9, are-8)
+root(ROOT-0, great-9)
+det(controls-12, the-11)
+nsubj(easy-14, controls-12)
+cop(easy-14, are-13)
+conj_and(great-9, easy-14)
+aux(use-16, to-15)
+xcomp(easy-14, use-16)
+det(quality-19, the-18)
+nsubj(great-24, quality-19)
+det(photos-22, the-21)
+prep_of(quality-19, photos-22)
+cop(great-24, is-23)
+conj_and(great-9, great-24)
+
+=========
+
+dep(wanted-4, Just-1)
+dep(Just-1, what-2)
+nsubj(wanted-4, I-3)
+root(ROOT-0, wanted-4)
+det(controls-8, the-6)
+amod(controls-8, additional-7)
+prep_for(wanted-4, controls-8)
+det(bulk-11, the-10)
+prep_without(wanted-4, bulk-11)
+

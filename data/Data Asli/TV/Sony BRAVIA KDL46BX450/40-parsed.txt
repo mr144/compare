@@ -1,0 +1,55 @@
+=========
+
+nn(Picture-2, Wonderful-1)
+nsubj(makes-4, Picture-2)
+root(ROOT-0, makes-4)
+poss(look-10, our-5)
+amod(look-10, old-6)
+nn(look-10, vhs-7)
+nn(look-10, recorder-8)
+nn(look-10, videos-9)
+dobj(makes-4, look-10)
+amod(quality-13, good-12)
+prep_like(makes-4, quality-13)
+amod(quality-13, digital-14)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+dep(short-5, Oh-1)
+dep(Oh-1, yes-2)
+nsubj(short-5, it-3)
+cop(short-5, is-4)
+root(ROOT-0, short-5)
+prep_of(short-5, outputs-7)
+advmod(short-5, too-8)
+mark(caught-14, because-9)
+det(accessories-11, the-10)
+nsubj(caught-14, accessories-11)
+aux(caught-14, have-12)
+neg(caught-14, not-13)
+advcl(short-5, caught-14)
+prt(caught-14, up-15)
+det(TV-18, the-17)
+prep_with(caught-14, TV-18)
+
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+det(set-4, a-3)
+nsubj(guess-9, set-4)
+amod(phones-8, wireless-6)
+nn(phones-8, head-7)
+prep_of(set-4, phones-8)
+ccomp(wanted-2, guess-9)
+dobj(guess-9, what-10)
+det(outputs-14, no-12)
+nn(outputs-14, RCA-13)
+dobj(guess-9, outputs-14)
+conj_or(what-10, outputs-14)
+amod(outputs-17, optical-16)
+dobj(guess-9, outputs-17)
+conj_or(what-10, outputs-17)
+

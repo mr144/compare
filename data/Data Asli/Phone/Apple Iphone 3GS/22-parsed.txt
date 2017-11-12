@@ -1,0 +1,35 @@
+=========
+
+nn(IPHONE-3, HI-1)
+nn(IPHONE-3, THE-2)
+nsubj(TO-10, IPHONE-3)
+cop(TO-10, WAS-4)
+nn(TO-10, BROKEN-5)
+nn(TO-10, FROM-6)
+nn(TO-10, THE-7)
+nn(TO-10, BACK-8)
+nn(TO-10, NEAR-9)
+root(ROOT-0, TO-10)
+det(CONTACT-13, THE-11)
+nn(CONTACT-13, CHARGE-12)
+nsubj(ABOUT-14, CONTACT-13)
+rcmod(TO-10, ABOUT-14)
+dobj(ABOUT-14, 1.5-15)
+prep(ABOUT-14, in-16)
+
+=========
+
+nn(THESE-5, IM-1)
+nn(THESE-5, SO-2)
+nn(THESE-5, SAD-3)
+nn(THESE-5, ABOUT-4)
+nsubj(BECAUSE-6, THESE-5)
+root(ROOT-0, BECAUSE-6)
+nsubj(ALL-13, I-7)
+cop(ALL-13, was-8)
+neg(ALL-13, not-9)
+nn(ALL-13, LIKE-10)
+nn(ALL-13, DESCRIBED-11)
+nn(ALL-13, AT-12)
+ccomp(BECAUSE-6, ALL-13)
+

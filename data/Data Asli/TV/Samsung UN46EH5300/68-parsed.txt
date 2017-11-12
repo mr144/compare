@@ -1,0 +1,128 @@
+=========
+
+root(ROOT-0, Purchased-1)
+det(product-3, this-2)
+dobj(Purchased-1, product-3)
+tmod(Purchased-1, August-4)
+dobj(Purchased-1, 2012-6)
+
+=========
+
+det(picture-2, The-1)
+root(ROOT-0, picture-2)
+partmod(picture-2, starting-3)
+advmod(starting-3, randomly-4)
+xcomp(starting-3, going-5)
+amod(phase-9, thru-6)
+det(phase-9, a-7)
+nn(phase-9, light\/dark-8)
+dobj(going-5, phase-9)
+
+=========
+
+nsubj(go-2, Will-1)
+xsubj(snow-4, Will-1)
+root(ROOT-0, go-2)
+aux(snow-4, to-3)
+xcomp(go-2, snow-4)
+acomp(snow-4, white-5)
+xcomp(go-2, then-7)
+advmod(snow-4, then-7)
+conj_and(snow-4, then-7)
+xcomp(go-2, fade-8)
+conj_and(snow-4, fade-8)
+prep_to(fade-8, black-10)
+
+=========
+
+nsubj(going-4, This-1)
+aux(going-4, has-2)
+aux(going-4, been-3)
+root(ROOT-0, going-4)
+prt(going-4, on-5)
+num(days-8, two-7)
+prep_for(going-4, days-8)
+
+=========
+
+tmod(appeared-6, Today-1)
+det(wrinkle-5, a-3)
+amod(wrinkle-5, new-4)
+nsubj(appeared-6, wrinkle-5)
+root(ROOT-0, appeared-6)
+
+=========
+
+det(line-4, A-1)
+amod(line-4, solid-2)
+amod(line-4, gray-3)
+nsubj(appeared-5, line-4)
+root(ROOT-0, appeared-5)
+det(side-9, the-7)
+amod(side-9, right-8)
+prep_on(appeared-5, side-9)
+det(screen-12, the-11)
+prep_of(side-9, screen-12)
+xcomp(appeared-5, running-13)
+prep_from(running-13, top-15)
+prep_to(running-13, bottom-17)
+conj_and(appeared-5, about-19)
+num(inches-21, four-20)
+npadvmod(wide-22, inches-21)
+dep(about-19, wide-22)
+
+=========
+
+aux(gone-3, Should-1)
+aux(gone-3, have-2)
+csubj(do-16, gone-3)
+poss(instinct-7, my-5)
+amod(instinct-7, first-6)
+prep_with(gone-3, instinct-7)
+conj_and(gone-3, purchased-9)
+csubj(do-16, purchased-9)
+det(Panasonic-11, a-10)
+dobj(purchased-9, Panasonic-11)
+dobj(know-15, Panasonic-11)
+rel(know-15, which-12)
+nsubj(know-15, I-13)
+aux(know-15, will-14)
+rcmod(Panasonic-11, know-15)
+root(ROOT-0, do-16)
+
+=========
+
+nsubj(TV-6, This-1)
+cop(TV-6, is-2)
+det(TV-6, the-3)
+amod(TV-6, second-4)
+nn(TV-6, Samsung-5)
+root(ROOT-0, TV-6)
+aux(fail-8, to-7)
+infmod(TV-6, fail-8)
+det(year-11, a-10)
+prep_within(fail-8, year-11)
+prep_of(year-11, purchase-13)
+
+=========
+
+nsubjpass(purchased-3, This-1)
+auxpass(purchased-3, was-2)
+root(ROOT-0, purchased-3)
+poss(mother-6, my-5)
+prep_for(purchased-3, mother-6)
+aux(replace-8, to-7)
+infmod(mother-6, replace-8)
+det(Sony-11, an-9)
+amod(Sony-11, ancient-10)
+dobj(replace-8, Sony-11)
+nsubj(gave-14, Sony-11)
+advmod(gave-14, finally-13)
+rcmod(Sony-11, gave-14)
+prt(gave-14, up-15)
+det(ghost-17, the-16)
+dobj(gave-14, ghost-17)
+quantmod(ten-20, about-19)
+num(years-21, ten-20)
+prep_after(gave-14, years-21)
+

@@ -1,0 +1,4 @@
+I_PRP really_RB do_VBP not_RB like_VB this_DT smartphone_NN ._.
+It_PRP has_VBZ a_DT worse_JJR performance_NN than_IN its_PRP$ compatriot_NN blackberry_NN curve_NN 9360_CD ._.
+I_PRP think_VBP it_PRP is_VBZ also_RB worse_JJR than_IN torch_NN ._.
+Overall_RB ,_, this_DT smartphone_NN is_VBZ excellent_JJ ._.

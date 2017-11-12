@@ -1,0 +1,89 @@
+=========
+
+nsubj(tv-6, This-1)
+cop(tv-6, is-2)
+poss(tv-6, my-3)
+amod(tv-6, first-4)
+amod(tv-6, 3d-5)
+root(ROOT-0, tv-6)
+
+=========
+
+nsubj(saw-2, I-1)
+root(ROOT-0, saw-2)
+det(video-4, a-3)
+dobj(saw-2, video-4)
+prep_in(saw-2, 3d-6)
+prep_from(saw-2, youtube-8)
+
+=========
+
+predet(family-3, All-1)
+poss(family-3, my-2)
+nsubj(impressed-6, family-3)
+cop(impressed-6, was-4)
+advmod(impressed-6, very-5)
+root(ROOT-0, impressed-6)
+
+=========
+
+advmod(bad-2, Too-1)
+advmod(overpriced-9, bad-2)
+det(movies-5, the-3)
+num(movies-5, 3D-4)
+nsubj(overpriced-9, movies-5)
+cop(overpriced-9, are-6)
+advmod(overpriced-9, still-7)
+advmod(overpriced-9, too-8)
+root(ROOT-0, overpriced-9)
+
+=========
+
+det(packaging-2, The-1)
+nsubj(great-4, packaging-2)
+cop(great-4, was-3)
+root(ROOT-0, great-4)
+nsubjpass(delivered-9, it-7)
+auxpass(delivered-9, was-8)
+conj_and(great-4, delivered-9)
+num(days-12, 4-11)
+prep_in(delivered-9, days-12)
+prep_for(days-12, free-14)
+
+=========
+
+det(bottoms-3, The-1)
+amod(bottoms-3, remote-2)
+nsubj(small-6, bottoms-3)
+cop(small-6, are-4)
+advmod(small-6, too-5)
+root(ROOT-0, small-6)
+
+=========
+
+nsubj(love-2, I-1)
+ccomp(easy-14, love-2)
+det(keyboard-4, the-3)
+dobj(love-2, keyboard-4)
+det(back-7, the-6)
+prep_on(love-2, back-7)
+det(remote-10, the-9)
+prep_of(back-7, remote-10)
+nsubj(easy-14, typing-12)
+cop(easy-14, is-13)
+root(ROOT-0, easy-14)
+
+=========
+
+det(friend-2, A-1)
+nsubj(got-5, friend-2)
+prep_of(friend-2, mine-4)
+root(ROOT-0, got-5)
+det(tv-8, the-6)
+amod(tv-8, same-7)
+dobj(got-5, tv-8)
+mark(recommended-11, after-9)
+nsubj(recommended-11, I-10)
+advcl(got-5, recommended-11)
+dobj(recommended-11, it-12)
+

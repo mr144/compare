@@ -1,0 +1,50 @@
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+det(phone-5, this-4)
+dobj(buy-3, phone-5)
+mark(need-8, if-6)
+nsubj(need-8, you-7)
+xsubj(use-10, you-7)
+advcl(buy-3, need-8)
+aux(use-10, to-9)
+xcomp(need-8, use-10)
+dobj(use-10, it-11)
+nn(services-15, AT&T-13)
+nn(services-15, conference-14)
+prep_with(use-10, services-15)
+
+=========
+
+nsubj(work-4, It-1)
+aux(work-4, will-2)
+neg(work-4, not-3)
+root(ROOT-0, work-4)
+mark(and\/or-8, because-5)
+det(conference-7, the-6)
+nsubj(and\/or-8, conference-7)
+advcl(work-4, and\/or-8)
+nn(codes-10, host-9)
+nsubjpass(transmitted-14, codes-10)
+aux(transmitted-14, will-11)
+neg(transmitted-14, not-12)
+auxpass(transmitted-14, be-13)
+ccomp(and\/or-8, transmitted-14)
+
+=========
+
+cc(is-12, And-1)
+csubj(is-12, trying-2)
+aux(get-4, to-3)
+xcomp(trying-2, get-4)
+det(response-6, a-5)
+dobj(get-4, response-6)
+prep_from(get-4, RIM-8)
+det(issue-11, the-10)
+prep_on(RIM-8, issue-11)
+root(ROOT-0, is-12)
+advmod(is-12, well-13)
+ccomp(is-12, impossible-15)
+

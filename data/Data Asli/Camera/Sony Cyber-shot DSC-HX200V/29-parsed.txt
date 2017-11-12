@@ -1,0 +1,27 @@
+=========
+
+nsubj(okay-3, This-1)
+cop(okay-3, is-2)
+root(ROOT-0, okay-3)
+mark(taking-7, if-4)
+nsubj(taking-7, you-5)
+aux(taking-7, are-6)
+advcl(okay-3, taking-7)
+dobj(taking-7, photos-8)
+prep(taking-7, from-9)
+advmod(away-11, far-10)
+pcomp(from-9, away-11)
+
+=========
+
+advmod(take-6, However-1)
+nsubj(take-6, it-3)
+aux(take-6, would-4)
+neg(take-6, not-5)
+root(ROOT-0, take-6)
+nn(photos-8, closeup-7)
+dobj(take-6, photos-8)
+nsubj(unfocused-12, them-10)
+cop(unfocused-12, being-11)
+prepc_without(take-6, unfocused-12)
+

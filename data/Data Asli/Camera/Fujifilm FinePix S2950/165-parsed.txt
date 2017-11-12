@@ -1,0 +1,81 @@
+=========
+
+nsubj(thought-2, I-1)
+root(ROOT-0, thought-2)
+poss(yr-5, my-3)
+num(yr-5, 5-4)
+dobj(thought-2, yr-5)
+
+=========
+
+amod(Finepix-3, old-1)
+nn(Finepix-3, Fuji-2)
+nsubj(good-8, Finepix-3)
+num(camera-6, 3800-4)
+amod(camera-6, digital-5)
+dep(Finepix-3, camera-6)
+cop(good-8, was-7)
+root(ROOT-0, good-8)
+det(S2950-12, this-11)
+nsubj(better-16, S2950-12)
+nsubj(cost-19, S2950-12)
+cop(better-16, is-13)
+advmod(better-16, so-14)
+advmod(better-16, much-15)
+conj_but(good-8, better-16)
+conj_but(good-8, cost-19)
+conj_and(better-16, cost-19)
+iobj(cost-19, me-20)
+quantmod(50-22, about-21)
+num(%-23, 50-22)
+dobj(cost-19, %-23)
+quantmod(than-25, less-24)
+num(%-23, than-25)
+det(one-28, the-26)
+amod(one-28, old-27)
+dep(than-25, one-28)
+
+=========
+
+amod(lens-3, Wide-1)
+nn(lens-3, angle-2)
+nsubj(makes-5, lens-3)
+advmod(makes-5, alone-4)
+root(ROOT-0, makes-5)
+det(difference-8, a-6)
+amod(difference-8, huge-7)
+dobj(makes-5, difference-8)
+advmod(shooting-10, when-9)
+advcl(makes-5, shooting-10)
+dobj(shooting-10, cars-11)
+
+=========
+
+det(camera-2, This-1)
+nsubj(has-4, camera-2)
+advmod(has-4, also-3)
+root(ROOT-0, has-4)
+predet(thru-7, both-5)
+det(thru-7, a-6)
+dobj(has-4, thru-7)
+det(lens-9, the-8)
+nsubj(view-14, lens-9)
+num(LCD-13, 3-11)
+nn(LCD-13, inch-12)
+conj_and(lens-9, LCD-13)
+nsubj(view-14, LCD-13)
+rcmod(thru-7, view-14)
+dobj(view-14, finder-15)
+
+=========
+
+nn(feature-2, Panorama-1)
+nsubj(easy-5, feature-2)
+cop(easy-5, is-3)
+advmod(easy-5, so-4)
+root(ROOT-0, easy-5)
+prep_to(easy-5, use-7)
+prep_to(easy-5, fun-9)
+conj_and(use-7, fun-9)
+advmod(easy-5, too-11)
+

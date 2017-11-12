@@ -1,0 +1,50 @@
+=========
+
+amod(people-2, Serious-1)
+nsubj(recommended-3, people-2)
+root(ROOT-0, recommended-3)
+
+=========
+
+amod(delivery-2, Fast-1)
+nsubj(best-8, delivery-2)
+det(phone-5, this-4)
+appos(delivery-2, phone-5)
+cop(best-8, is-6)
+det(best-8, the-7)
+root(ROOT-0, best-8)
+dobj(had-12, best-8)
+nsubj(had-12, I-9)
+aux(had-12, have-10)
+advmod(had-12, ever-11)
+rcmod(best-8, had-12)
+
+=========
+
+dep(attention-3, Very-1)
+amod(attention-3, good-2)
+root(ROOT-0, attention-3)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+dobj(had-2, doubts-3)
+prepc_about(doubts-3, buying-5)
+dobj(buying-5, online-6)
+det(truth-10, the-9)
+conj_but(online-6, truth-10)
+nsubj(found-14, I-12)
+aux(found-14, have-13)
+rcmod(online-6, found-14)
+rcmod(truth-10, found-14)
+complm(managed-18, that-15)
+nsubj(managed-18, I-16)
+xsubj(solve-20, I-16)
+aux(managed-18, have-17)
+ccomp(found-14, managed-18)
+aux(solve-20, to-19)
+xcomp(managed-18, solve-20)
+poss(concerns-22, my-21)
+dobj(solve-20, concerns-22)
+

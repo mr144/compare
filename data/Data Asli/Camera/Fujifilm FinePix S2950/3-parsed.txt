@@ -1,0 +1,8 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+root(ROOT-0, thats-1)
+poss(oppinion-3, my-2)
+nsubj(thats-1, oppinion-3)
+

@@ -1,0 +1,28 @@
+=========
+
+nsubj(like-2, i-1)
+root(ROOT-0, like-2)
+nsubj(lot-5, it-3)
+det(lot-5, a-4)
+xcomp(like-2, lot-5)
+
+=========
+
+nsubj(camera-5, it-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, smart-4)
+root(ROOT-0, camera-5)
+advmod(fast-8, very-7)
+amod(speed-9, fast-8)
+conj_and(camera-5, speed-9)
+
+=========
+
+root(ROOT-0, Recommended-1)
+prep_to(Recommended-1, everyone-3)
+nsubj(love-5, everyone-3)
+rcmod(everyone-3, love-5)
+amod(camera-7, compact-6)
+dobj(love-5, camera-7)
+

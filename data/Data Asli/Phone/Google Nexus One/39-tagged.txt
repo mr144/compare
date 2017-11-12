@@ -1,0 +1,4 @@
+These_DT phones_NNS have_VBP a_DT 12_CD month_NN warrenty_NN from_IN HTC_NNP ._.
+The_DT warrenty_NN starts_VBZ on_IN the_DT manufacture_NN date_NN NOT_VBD the_DT purchase_NN date_NN ._.
+6_CD months_NNS after_IN I_PRP purchased_VBD this_DT phone_NN I_PRP called_VBD HTC_NNP about_IN a_DT problem_NN and_CC was_VBD told_VBN the_DT 12_CD month_NN warrenty_NN had_VBD already_RB expired_VBN and_CC there_EX was_VBD nothing_NN they_PRP could_MD do_VB about_IN this_DT ._.
+If_IN you_PRP buy_VBP this_DT phone_NN I_PRP would_MD immediatly_RB call_VB HTC_NNP and_CC find_VB out_RP how_WRB much_JJ warrenty_NN is_VBZ remaining_VBG ._.

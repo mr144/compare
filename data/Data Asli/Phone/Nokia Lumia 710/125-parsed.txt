@@ -1,0 +1,47 @@
+=========
+
+det(phone-2, The-1)
+nsubj(great-4, phone-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+prep_for(great-4, those-6)
+nsubj(looking-9, those-6)
+aux(looking-9, are-8)
+rcmod(those-6, looking-9)
+advmod(looking-9, dor-10)
+det(smartphone-15, a-11)
+amod(smartphone-15, decent-12)
+conj_and(decent-12, cheap-14)
+amod(smartphone-15, cheap-14)
+dobj(looking-9, smartphone-15)
+
+=========
+
+det(windows-2, The-1)
+nsubj(ok-4, windows-2)
+cop(ok-4, is-3)
+root(ROOT-0, ok-4)
+nsubj(fast-8, phone-6)
+cop(fast-8, is-7)
+ccomp(ok-4, fast-8)
+nsubj(improve-12, battery-10)
+aux(improve-12, can-11)
+ccomp(ok-4, improve-12)
+
+=========
+
+root(ROOT-0, Its-1)
+det(choice-4, a-2)
+amod(choice-4, great-3)
+dobj(Its-1, choice-4)
+mark(want-9, if-5)
+nsubj(want-9, you-6)
+xsubj(spend-11, you-6)
+aux(want-9, do-7)
+neg(want-9, not-8)
+advcl(Its-1, want-9)
+aux(spend-11, to-10)
+xcomp(want-9, spend-11)
+dobj(spend-11, alot-12)
+prep_of(alot-12, money-14)
+

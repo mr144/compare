@@ -1,0 +1,79 @@
+=========
+
+nsubj(camera-7, This-1)
+cop(camera-7, is-2)
+advmod(camera-7, really-3)
+det(camera-7, a-4)
+advmod(good-6, very-5)
+amod(camera-7, good-6)
+root(ROOT-0, camera-7)
+prep_in(camera-7, range-9)
+prep_of(range-9, $-11)
+num($-11, 400-12)
+
+=========
+
+advmod(speaking-2, Frankly-1)
+csubj(go-13, speaking-2)
+mark(interested-6, if-3)
+nn(r-5, u-4)
+nsubj(interested-6, r-5)
+advcl(speaking-2, interested-6)
+prep_in(interested-6, DSLR-8)
+advmod(interested-6, then-10)
+aux(go-13, do-11)
+neg(go-13, not-12)
+root(ROOT-0, go-13)
+prep_for(go-13, it-15)
+
+=========
+
+dep(r-4, But-1)
+mark(r-4, if-2)
+nsubj(r-4, u-3)
+root(ROOT-0, r-4)
+partmod(r-4, looking-5)
+amod(camera-8, good-7)
+prep_for(looking-5, camera-8)
+cc(not-11, but-10)
+dep(DSLR-12, not-11)
+dep(r-4, DSLR-12)
+
+=========
+
+nsubj(has-2, This-1)
+root(ROOT-0, has-2)
+advmod(good-4, very-3)
+amod(results-5, good-4)
+dobj(has-2, results-5)
+amod(features-8, good-7)
+dobj(has-2, features-8)
+conj_and(results-5, features-8)
+
+=========
+
+nsubj(buy-2, Must-1)
+root(ROOT-0, buy-2)
+dep(u-4, if-3)
+advcl(buy-2, u-4)
+nsubj(interested-6, r-5)
+xcomp(u-4, interested-6)
+num(+-11, 24-8)
+amod(+-11, x-9)
+amod(+-11, zoom-10)
+prep_in(interested-6, +-11)
+num(camera-15, 12-12)
+amod(camera-15, mega-13)
+amod(camera-15, pixel-14)
+nsubj(u-4, camera-15)
+
+=========
+
+dep(deal-7, So-1)
+advmod(deal-7, overall-2)
+nsubj(deal-7, it-3)
+cop(deal-7, is-4)
+det(deal-7, a-5)
+amod(deal-7, great-6)
+root(ROOT-0, deal-7)
+

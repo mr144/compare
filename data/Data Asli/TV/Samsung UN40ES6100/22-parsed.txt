@@ -1,0 +1,228 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(TV-9, a-3)
+number(old-6, 7-4)
+dep(old-6, year-5)
+amod(TV-9, old-6)
+nn(TV-9, Samsung-7)
+nn(TV-9, LCD-8)
+dobj(had-2, TV-9)
+poss(bedroom-13, my-12)
+prep_in(had-2, bedroom-13)
+nsubj(have-18, bedroom-13)
+aux(have-18, did-16)
+neg(have-18, not-17)
+rcmod(bedroom-13, have-18)
+det(picture-21, a-19)
+amod(picture-21, good-20)
+dobj(have-18, picture-21)
+
+=========
+
+poss(TV-3, My-1)
+amod(TV-3, main-2)
+nsubj(plasma-5, TV-3)
+cop(plasma-5, is-4)
+root(ROOT-0, plasma-5)
+amod(picture-9, superior-8)
+prep_because_of(plasma-5, picture-9)
+dep(plasma-5, color-11)
+dep(plasma-5, motion-13)
+conj_and(color-11, motion-13)
+
+=========
+
+mark(are-3, If-1)
+nsubj(are-3, you-2)
+advcl(read-9, are-3)
+det(camp-7, the-5)
+amod(camp-7, same-6)
+prep_in(are-3, camp-7)
+root(ROOT-0, read-9)
+prt(read-9, on-10)
+
+=========
+
+advmod(gave-5, When-1)
+poss(TV-4, my-2)
+nn(TV-4, bedroom-3)
+nsubj(gave-5, TV-4)
+advcl(started-12, gave-5)
+prt(gave-5, up-6)
+det(ghost-8, the-7)
+dobj(gave-5, ghost-8)
+advmod(gave-5, recently-9)
+nsubj(started-12, I-11)
+xsubj(research-14, I-11)
+root(ROOT-0, started-12)
+aux(research-14, to-13)
+xcomp(started-12, research-14)
+amod(TVs-16, other-15)
+dobj(research-14, TVs-16)
+
+=========
+
+nsubj(knew-2, I-1)
+dep(buying-28, knew-2)
+expl(makers-10, there-3)
+cop(makers-10, are-4)
+advmod(makers-10, only-5)
+num(makers-10, 3-6)
+amod(makers-10, major-7)
+nn(makers-10, LCD-8)
+nn(makers-10, panel-9)
+ccomp(knew-2, makers-10)
+advmod(know-16, really-13)
+aux(know-16, do-14)
+neg(know-16, not-15)
+ccomp(knew-2, know-16)
+conj_and(makers-10, know-16)
+poss(panel-18, whose-17)
+dobj(getting-21, panel-18)
+nsubj(getting-21, you-19)
+aux(getting-21, are-20)
+ccomp(know-16, getting-21)
+det(TV-25, the-23)
+nn(TV-25, brand-24)
+prep_in(getting-21, TV-25)
+nsubj(buying-28, you-26)
+aux(buying-28, are-27)
+root(ROOT-0, buying-28)
+
+=========
+
+det(difference-3, The-1)
+amod(difference-3, real-2)
+nsubj(is-4, difference-3)
+root(ROOT-0, is-4)
+prep_in(is-4, processing-6)
+prep_in(is-4, features-8)
+conj_and(processing-6, features-8)
+prep_in(is-4, quality-11)
+conj_and(processing-6, quality-11)
+
+=========
+
+nn(TVs-3, LCD-2)
+prep_for(best-13, TVs-3)
+nsubj(best-13, Samsung-5)
+conj_and(Samsung-5, Sharp-7)
+nsubj(best-13, Sharp-7)
+conj_and(Samsung-5, Sony-10)
+nsubj(best-13, Sony-10)
+cop(best-13, are-11)
+det(best-13, the-12)
+root(ROOT-0, best-13)
+abbrev(best-13, IMHO-15)
+
+=========
+
+partmod(decided-8, Looking-1)
+prep_at(Looking-1, features-3)
+prep_at(Looking-1, price-5)
+conj_and(features-3, price-5)
+nsubj(decided-8, I-7)
+xsubj(go-10, I-7)
+root(ROOT-0, decided-8)
+aux(go-10, to-9)
+xcomp(decided-8, go-10)
+det(TV-18, this-12)
+nn(TV-18, Samsung-13)
+nn(TV-18, ES6100-14)
+num(TV-18, 40-15)
+nn(TV-18, &#34;-16)
+nn(TV-18, LED-17)
+prep_with(go-10, TV-18)
+
+=========
+
+nsubjpass(cut-3, Let-1)
+auxpass(cut-3, 's-2)
+root(ROOT-0, cut-3)
+det(chase-6, the-5)
+prep_to(cut-3, chase-6)
+
+=========
+
+det(picture-3, The-1)
+nn(picture-3, HD-2)
+nsubj(crisp-6, picture-3)
+nsubj(sharp-8, picture-3)
+nsubj(clean-10, picture-3)
+cop(crisp-6, is-4)
+advmod(crisp-6, extremely-5)
+root(ROOT-0, crisp-6)
+conj_and(crisp-6, sharp-8)
+conj_and(crisp-6, clean-10)
+
+=========
+
+det(rendition-3, The-1)
+nn(rendition-3, color-2)
+nsubj(good-6, rendition-3)
+cop(good-6, is-4)
+advmod(good-6, very-5)
+root(ROOT-0, good-6)
+
+=========
+
+nn(tones-2, Flesh-1)
+nsubj(excellent-4, tones-2)
+cop(excellent-4, are-3)
+root(ROOT-0, excellent-4)
+
+=========
+
+nsubj(true-3, Reds-1)
+cop(true-3, are-2)
+root(ROOT-0, true-3)
+nsubj(problem-8, which-5)
+cop(problem-8, is-6)
+det(problem-8, a-7)
+dep(true-3, problem-8)
+amod(LCDs-11, many-10)
+prep_with(problem-8, LCDs-11)
+
+=========
+
+det(complaint-4, The-1)
+advmod(complaint-4, only-2)
+amod(complaint-4, minor-3)
+nsubj(is-7, complaint-4)
+prep_about(complaint-4, color-6)
+root(ROOT-0, is-7)
+complm(pop-16, that-8)
+det(pinks-10, some-9)
+nsubj(pop-16, pinks-10)
+advmod(on-13, especially-12)
+dep(pinks-10, on-13)
+pobj(on-13, comercials-14)
+ccomp(is-7, pop-16)
+dep(bright-19, out-17)
+advmod(bright-19, really-18)
+acomp(pop-16, bright-19)
+
+=========
+
+nsubj(hit-4, Samsung-1)
+aux(hit-4, has-2)
+advmod(hit-4, really-3)
+root(ROOT-0, hit-4)
+det(homerun-6, a-5)
+dobj(hit-4, homerun-6)
+det(TV-9, this-8)
+prep_with(hit-4, TV-9)
+
+=========
+
+poss(TV-3, My-1)
+nn(TV-3, plasma-2)
+nsubj(favorite-8, TV-3)
+cop(favorite-8, is-4)
+advmod(longer-6, no-5)
+advmod(favorite-8, longer-6)
+poss(favorite-8, my-7)
+root(ROOT-0, favorite-8)
+

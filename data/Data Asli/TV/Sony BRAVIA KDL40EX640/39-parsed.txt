@@ -1,0 +1,74 @@
+=========
+
+amod(quality-3, Wonderful-1)
+nn(quality-3, picture-2)
+nsubj(love-13, quality-3)
+appos(quality-3, remote-5)
+cop(easy-8, is-6)
+advmod(easy-8, very-7)
+rcmod(remote-5, easy-8)
+aux(use-10, to-9)
+xcomp(easy-8, use-10)
+advmod(love-13, absolutely-12)
+root(ROOT-0, love-13)
+det(v-16, this-14)
+nn(v-16, t.-15)
+dobj(love-13, v-16)
+
+=========
+
+nsubj(makes-5, WiFi-1)
+det(t.v.-4, the-3)
+prep_with(WiFi-1, t.v.-4)
+root(ROOT-0, makes-5)
+nsubj(easier-9, things-6)
+det(lot-8, a-7)
+npadvmod(easier-9, lot-8)
+xcomp(makes-5, easier-9)
+
+=========
+
+nsubj(play-2, I-1)
+root(ROOT-0, play-2)
+det(games-6, the-3)
+amod(games-6, latest-4)
+amod(games-6, video-5)
+nsubj(watch-8, games-6)
+ccomp(play-2, watch-8)
+amod(shows-11, several-9)
+nn(shows-11, nature-10)
+dobj(watch-8, shows-11)
+det(t.v.-14, this-13)
+nsubj(does-15, t.v.-14)
+conj_and(play-2, does-15)
+det(job-18, a-16)
+amod(job-18, wonderful-17)
+dobj(does-15, job-18)
+poss(rate-23, its-20)
+amod(rate-23, high-21)
+nn(rate-23, refresh-22)
+prep_with(does-15, rate-23)
+nn(display-27, fine-25)
+nn(display-27, LED-26)
+prep_with(does-15, display-27)
+conj_and(rate-23, display-27)
+
+=========
+
+root(ROOT-0, Went-1)
+det(LED-6, this-3)
+num(LED-6, 40-4)
+prep_with(Went-1, LED-6)
+det(46-9, the-8)
+prep_over(Went-1, 46-9)
+nn(Sony-12, LCD-11)
+dep(46-9, Sony-12)
+conj_and(Went-1, have-14)
+det(regrets-16, no-15)
+dobj(have-14, regrets-16)
+
+=========
+
+amod(product-2, Excellent-1)
+root(ROOT-0, product-2)
+

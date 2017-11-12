@@ -1,0 +1,4 @@
+it_PRP is_VBZ an_DT older_JJR model_NN but_CC still_RB new_JJ ._.
+it_PRP is_VBZ a_DT gift_NN to_TO my_PRP$ cousin_NN back_RB home_NN ._.
+Nothing_NN to_TO fancy_NN ._.
+Good_JJ enough_RB ._.

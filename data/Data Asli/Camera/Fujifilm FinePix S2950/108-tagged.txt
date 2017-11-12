@@ -1,0 +1,2 @@
+The_DT price_NN very_RB low_JJ with_IN the_DT features_NNS this_DT camera_NN has_VBZ ._.
+A_DT great_JJ acquisition_NN ..._: Images_NNS are_VBP very_RB sharp_JJ ,_, the_DT flash_NN is_VBZ one-of-a-kind_JJ ,_, is_VBZ the_DT best_JJS camera_NN I_PRP have_VBP ever_RB had_VBN

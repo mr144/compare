@@ -1,0 +1,4 @@
+Great_JJ picture_NN ,_, sound_JJ quality_NN is_VBZ amazing_JJ ,_, remote_JJ control_NN is_VBZ not_RB that_IN ergonomically_RB efficient_JJ ,_, and_CC SMART_JJ TV_NN ,_, not_RB so_RB much_JJ ._.
+i_FW have_VBP several_JJ devices_NNS that_WDT are_VBP connected_VBN wirelessly_RB ,_, yet_RB the_DT TV_NN will_MD connect_VB then_RB 3_CD minutes_NNS later_RB disconnect_VBP ._.
+My_PRP$ techy_JJ buddy_NN could_MD not_RB even_RB figure_VB it_PRP out_RP ._.
+when_WRB it_PRP is_VBZ connected_JJ ,_, '_'' typing_VBG '_'' is_VBZ difficult_JJ at_IN best_JJS ._.

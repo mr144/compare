@@ -1,0 +1,134 @@
+=========
+
+nsubj(HDTV-6, This-1)
+cop(HDTV-6, is-2)
+poss(HDTV-6, my-3)
+amod(HDTV-6, first-4)
+nn(HDTV-6, LCD-5)
+root(ROOT-0, HDTV-6)
+
+=========
+
+ccomp(crisp-7, Easy-1)
+prep_to(Easy-1, setup-3)
+nsubj(crisp-7, picture-5)
+nsubj(clear-9, picture-5)
+cop(crisp-7, is-6)
+root(ROOT-0, crisp-7)
+conj_and(crisp-7, clear-9)
+
+=========
+
+amod(effects-2, Sound-1)
+nsubj(though-7, effects-2)
+aux(though-7, could-3)
+aux(though-7, have-4)
+cop(though-7, been-5)
+dep(though-7, better-6)
+root(ROOT-0, though-7)
+conj_but(though-7, not-10)
+det(concern-13, a-11)
+amod(concern-13, major-12)
+dep(not-10, concern-13)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(warranty-5, a-3)
+amod(warranty-5, 3-year-4)
+dobj(got-2, warranty-5)
+det(TV-8, this-7)
+prep_for(got-2, TV-8)
+
+=========
+
+det(TV-2, This-1)
+nsubj(has-3, TV-2)
+root(ROOT-0, has-3)
+num(ports-6, two-4)
+nn(ports-6, HDMI-5)
+dobj(has-3, ports-6)
+dobj(has-3, one-8)
+conj_and(ports-6, one-8)
+det(back-11, the-10)
+prep_at(one-8, back-11)
+dobj(has-3, one-13)
+conj_and(ports-6, one-13)
+det(side-16, the-15)
+prep_at(one-13, side-16)
+
+=========
+
+nsubj(using-5, I-1)
+aux(using-5, have-2)
+aux(using-5, been-3)
+advmod(using-5, mostly-4)
+root(ROOT-0, using-5)
+det(TV-7, this-6)
+dobj(using-5, TV-7)
+poss(player-11, my-9)
+amod(player-11, ROKU-10)
+prep_with(TV-7, player-11)
+
+=========
+
+nsubj(wanted-2, I-1)
+xsubj(know-4, I-1)
+root(ROOT-0, wanted-2)
+aux(know-4, to-3)
+xcomp(wanted-2, know-4)
+det(difference-6, the-5)
+dobj(know-4, difference-6)
+prep_between(difference-6, KDL40BX420-8)
+prep_between(difference-6, KDL40BX450-10)
+conj_and(KDL40BX420-8, KDL40BX450-10)
+
+=========
+
+nsubj(went-2, I-1)
+nsubj(talked-9, I-1)
+root(ROOT-0, went-2)
+det(store-6, the-4)
+nn(store-6, Sony-5)
+prep_to(went-2, store-6)
+advmod(went-2, nearby-7)
+conj_and(went-2, talked-9)
+det(representative-12, the-11)
+prep_to(talked-9, representative-12)
+nsubj(tell-18, he-14)
+aux(tell-18, could-15)
+neg(tell-18, not-16)
+advmod(tell-18, clearly-17)
+conj_and(went-2, tell-18)
+det(difference-21, the-19)
+amod(difference-21, real-20)
+dobj(tell-18, difference-21)
+prep_between(difference-21, BX420-23)
+prep_between(difference-21, BX450-25)
+conj_and(BX420-23, BX450-25)
+prepc_except_for(tell-18, for-27)
+det(fact-29, the-28)
+pobj(tell-18, fact-29)
+complm(2011-33, that-30)
+nsubj(2011-33, one-31)
+cop(2011-33, is-32)
+ccomp(tell-18, 2011-33)
+nsubj(model-38, other-35)
+cop(model-38, is-36)
+num(model-38, 2012-37)
+conj_and(went-2, model-38)
+
+=========
+
+advmod(buy-6, Overall-1)
+det(economic-5, a-3)
+amod(economic-5, good-4)
+nsubj(buy-6, economic-5)
+root(ROOT-0, buy-6)
+
+=========
+
+root(ROOT-0, Go-1)
+prep_for(Go-1, it-3)
+

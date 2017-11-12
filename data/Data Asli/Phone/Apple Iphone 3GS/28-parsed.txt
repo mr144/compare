@@ -1,0 +1,55 @@
+=========
+
+nsubj(got-2, We-1)
+root(ROOT-0, got-2)
+dobj(got-2, this-3)
+poss(year-7, our-5)
+num(year-7, 15-6)
+prep_for(this-3, year-7)
+amod(year-7, old-8)
+prep_for(old-8, Christmas-10)
+poss(phone-14, his-12)
+amod(phone-14, first-13)
+dep(this-3, phone-14)
+
+=========
+
+nsubj(happy-4, He-1)
+cop(happy-4, 's-2)
+advmod(happy-4, as-3)
+root(ROOT-0, happy-4)
+det(clam-7, a-6)
+prep_as(happy-4, clam-7)
+advmod(happy-4, so-9)
+conj_and(happy-4, so-9)
+cop(we-11, are-10)
+conj_and(happy-4, we-11)
+
+=========
+
+poss(complaint-3, My-1)
+amod(complaint-3, only-2)
+nsubj(is-7, complaint-3)
+det(iPhone-6, the-5)
+prep_against(complaint-3, iPhone-6)
+root(ROOT-0, is-7)
+complm(replaced-14, that-8)
+det(battery-10, the-9)
+nsubjpass(replaced-14, battery-10)
+aux(replaced-14, can-11)
+neg(replaced-14, not-12)
+auxpass(replaced-14, be-13)
+ccomp(is-7, replaced-14)
+amod(humans-17, ordinary-16)
+agent(replaced-14, humans-17)
+
+=========
+
+nsubj(does-3, it-2)
+root(ROOT-0, does-3)
+amod(stuff-5, good-4)
+dobj(does-3, stuff-5)
+nsubj(works-9, it-7)
+advmod(works-9, always-8)
+conj_and(does-3, works-9)
+

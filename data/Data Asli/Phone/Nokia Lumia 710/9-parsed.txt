@@ -1,0 +1,92 @@
+=========
+
+nsubj(mean-2, I-1)
+root(ROOT-0, mean-2)
+mark(fan-8, unless-4)
+nsubj(fan-8, you-5)
+cop(fan-8, are-6)
+det(fan-8, a-7)
+advcl(mean-2, fan-8)
+prep_of(fan-8, it-10)
+
+=========
+
+nsubj(fun-5, it-1)
+cop(fun-5, is-2)
+neg(fun-5, not-3)
+det(fun-5, a-4)
+root(ROOT-0, fun-5)
+conj_and(fun-5, games-7)
+
+=========
+
+root(ROOT-0, sort-1)
+prep_of(sort-1, phone-3)
+
+=========
+
+nsubj(more-4, it-1)
+cop(more-4, is-2)
+det(more-4, a-3)
+root(ROOT-0, more-4)
+num(more-4, &#34;-5)
+nsubj(am-7, I-6)
+rcmod(more-4, am-7)
+prep_in(am-7, IT-9)
+nsubj(know-12, I-11)
+conj_and(more-4, know-12)
+det(hell-15, what-13)
+det(hell-15, the-14)
+dobj(doing-18, hell-15)
+nsubj(doing-18, I-16)
+aux(doing-18, am-17)
+ccomp(know-12, doing-18)
+det(sort-23, a-20)
+nn(sort-23, computer-21)
+num(sort-23, &#34;-22)
+prep_with(doing-18, sort-23)
+prep_of(sort-23, phone-25)
+
+=========
+
+det(market-3, The-1)
+nn(market-3, app-2)
+nsubj(diverse-7, market-3)
+cop(diverse-7, is-4)
+neg(diverse-7, not-5)
+advmod(diverse-7, that-6)
+root(ROOT-0, diverse-7)
+
+=========
+
+nsubj(mean-2, I-1)
+root(ROOT-0, mean-2)
+nsubj(has-4, it-3)
+ccomp(mean-2, has-4)
+dobj(has-4, reddit-5)
+dobj(has-4, Facebook-7)
+conj_and(reddit-5, Facebook-7)
+dobj(has-4, tweeter-9)
+conj_and(reddit-5, tweeter-9)
+det(app-14, the-12)
+amod(app-14, best-13)
+dobj(has-4, app-14)
+conj_and(reddit-5, app-14)
+advmod(&#34;-23, all-16)
+num(hats-19, &#34;-17)
+amod(hats-19, top-18)
+pobj(all-16, hats-19)
+amod(cats-22, fancy-21)
+prep_for(all-16, cats-22)
+prep_of(app-14, &#34;-23)
+
+=========
+
+nsubj(free-3, it-1)
+cop(free-3, is-2)
+root(ROOT-0, free-3)
+nsubj(suggest-6, I-5)
+conj_and(free-3, suggest-6)
+xcomp(suggest-6, getting-7)
+dobj(getting-7, it-8)
+

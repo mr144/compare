@@ -1,0 +1,3 @@
+This_DT is_VBZ a_DT very_RB good_JJ TV_NN ._.
+We_PRP bought_VBD it_PRP for_IN ourselves_PRP for_IN a_DT Christmas_NNP present_NN for_IN our_PRP$ bedroom_NN ._.
+Good_JJ quality_NN ,_, nice_JJ picture_NN ,_, good_JJ sound_NN ._.

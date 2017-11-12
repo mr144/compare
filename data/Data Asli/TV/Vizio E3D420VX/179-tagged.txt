@@ -1,0 +1,5 @@
+I_PRP read_VBP all_DT other_JJ reviews_NNS and_CC then_RB some_DT and_CC am_VBP without_IN complaint_NN of_IN any_DT kind_NN ._.
+I_PRP have_VBP been_VBN using_VBG this_DT TV_NN for_IN several_JJ weeks_NNS and_CC all_DT works_NNS as_RB well_RB as_IN day_NN one_CD ._.
+The_DT picture_NN is_VBZ sharp_JJ ,_, great_JJ color_NN and_CC blacks_NNS are_VBP excellent_JJ ._.
+Sound_NN is_VBZ good_JJ for_IN built_VBN in_IN speaker_NN size_NN ._.
+3D_CD screen_NN is_VBZ as_RB good_JJ as_IN Avitar_NNP in_IN theater_NN ._.

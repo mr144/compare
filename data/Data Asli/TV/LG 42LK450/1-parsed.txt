@@ -1,0 +1,29 @@
+=========
+
+nsubj(purchased-2, we-1)
+nsubj(happy-12, we-1)
+root(ROOT-0, purchased-2)
+det(television-4, this-3)
+dobj(purchased-2, television-4)
+poss(classroom-7, our-6)
+prep_for(purchased-2, classroom-7)
+aux(happy-12, have-9)
+cop(happy-12, been-10)
+advmod(happy-12, very-11)
+conj_and(purchased-2, happy-12)
+prep_with(happy-12, it-14)
+
+=========
+
+nsubj(large-3, it-1)
+cop(large-3, is-2)
+root(ROOT-0, large-3)
+advmod(large-3, enough-4)
+prep_for(large-3, everyone-6)
+aux(see-8, to-7)
+infmod(everyone-6, see-8)
+det(price-12, a-10)
+amod(price-12, great-11)
+prep_for(large-3, price-12)
+conj_and(everyone-6, price-12)
+

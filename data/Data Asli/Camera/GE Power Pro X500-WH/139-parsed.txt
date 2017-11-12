@@ -1,0 +1,70 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(camera-4, this-3)
+dobj(purchased-2, camera-4)
+aux(get-6, to-5)
+infmod(camera-4, get-6)
+nn(photos-8, family-7)
+dobj(get-6, photos-8)
+nsubj(reliable-14, it-10)
+cop(reliable-14, is-11)
+neg(reliable-14, not-12)
+advmod(reliable-14, very-13)
+conj_but(purchased-2, reliable-14)
+
+=========
+
+nsubj(use-3, You-1)
+aux(use-3, can-2)
+root(ROOT-0, use-3)
+prt(use-3, up-4)
+num(change-7, 3-6)
+prep_to(use-3, change-7)
+prep_of(change-7, batteries-9)
+det(day-11, a-10)
+dep(batteries-9, day-11)
+
+=========
+
+det(pictures-6, every-2)
+nn(pictures-6, 10-3)
+conj_or(10-3, 12-5)
+nn(pictures-6, 12-5)
+prep_about(need-8, pictures-6)
+nsubj(need-8, batteries-7)
+xsubj(changed-11, batteries-7)
+root(ROOT-0, need-8)
+aux(changed-11, to-9)
+auxpass(changed-11, be-10)
+xcomp(need-8, changed-11)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(time-7, a-3)
+advmod(slow-5, very-4)
+amod(time-7, slow-5)
+nn(time-7, reaction-6)
+dobj(has-2, time-7)
+mark(miss-10, so-8)
+nsubj(miss-10, you-9)
+dep(time-7, miss-10)
+amod(pictures-12, more-11)
+dobj(miss-10, pictures-12)
+mark(get-15, than-13)
+nsubj(get-15, you-14)
+advcl(miss-10, get-15)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+neg(recommend-4, not-3)
+root(ROOT-0, recommend-4)
+det(camera-6, this-5)
+dobj(recommend-4, camera-6)
+prep_to(recommend-4, anyone-8)
+

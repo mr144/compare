@@ -1,0 +1,24 @@
+=========
+
+amod(item-2, Great-1)
+root(ROOT-0, item-2)
+det(price-5, the-4)
+prep_for(item-2, price-5)
+
+=========
+
+root(ROOT-0, Have-1)
+det(problems-3, no-2)
+dobj(Have-1, problems-3)
+prep_with(Have-1, it-5)
+prep_in(Have-1, 2d-7)
+prep_in(Have-1, 3d-9)
+conj_or(2d-7, 3d-9)
+det(lines-12, No-11)
+dep(Have-1, lines-12)
+dobj(stated-16, lines-12)
+mark(stated-16, as-13)
+nsubj(stated-16, some-14)
+aux(stated-16, have-15)
+dep(lines-12, stated-16)
+

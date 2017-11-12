@@ -1,0 +1,25 @@
+=========
+
+dep(camera-3, Very-1)
+amod(camera-3, nice-2)
+root(ROOT-0, camera-3)
+
+=========
+
+nsubj(supports-4, Kodak-1)
+advmod(longer-3, no-2)
+advmod(supports-4, longer-3)
+root(ROOT-0, supports-4)
+det(sharing-6, the-5)
+npadvmod(so-7, sharing-6)
+advmod(supports-4, so-7)
+prep_before(so-7, you-9)
+prep_by(supports-4, it-11)
+prepc_for(supports-4, sharing-13)
+ccomp(sharing-13, google-14)
+nsubj(read-17, it-15)
+aux(read-17, to-16)
+xcomp(google-14, read-17)
+det(details-19, the-18)
+dobj(read-17, details-19)
+

@@ -1,0 +1,3 @@
+Phone_NN stoped_VBD working_VBG after_IN 2_CD months_NNS ._.
+When_WRB i_FW carried_VBD it_PRP by_IN a_DT technician_NN I_PRP was_VBD told_VBN it_PRP was_VBD a_DT refurbished_VBN phone_NN ._.
+DO_NNP NOT_NNP EVEN_NNP WASTE_NNP YOUR_JJ TIME_NN

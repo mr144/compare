@@ -1,0 +1,54 @@
+=========
+
+det(phone-2, this-1)
+nsubj(crashed-3, phone-2)
+root(ROOT-0, crashed-3)
+det(i-6, the-4)
+nn(i-6, moment-5)
+nsubj(put-7, i-6)
+ccomp(crashed-3, put-7)
+dobj(put-7, music-8)
+prep_on(put-7, it-10)
+
+=========
+
+root(ROOT-0, smh-1)
+
+=========
+
+nsubj(person-6, i-1)
+cop(person-6, am-2)
+neg(person-6, not-3)
+det(person-6, a-4)
+amod(person-6, iphone-5)
+root(ROOT-0, person-6)
+advmod(person-6, anyway-7)
+
+=========
+
+nsubj(like-5, i-1)
+aux(like-5, do-2)
+neg(like-5, not-3)
+advmod(like-5, really-4)
+root(ROOT-0, like-5)
+dobj(like-5, them-6)
+
+=========
+
+nsubj(choose-2, i-1)
+xsubj(use-4, i-1)
+root(ROOT-0, choose-2)
+aux(use-4, to-3)
+xcomp(choose-2, use-4)
+dobj(use-4, it-5)
+advmod(use-4, anyway-6)
+
+=========
+
+nsubj(buy-4, never-1)
+aux(buy-4, will-2)
+advmod(buy-4, i-3)
+root(ROOT-0, buy-4)
+dobj(buy-4, one-5)
+advmod(buy-4, again-6)
+

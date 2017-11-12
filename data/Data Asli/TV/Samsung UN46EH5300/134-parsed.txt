@@ -1,0 +1,22 @@
+=========
+
+advmod(nice-2, Very-1)
+amod(product-3, nice-2)
+root(ROOT-0, product-3)
+partmod(product-3, handled-4)
+prep_with(handled-4, care-6)
+advmod(quick-8, very-7)
+amod(answer-9, quick-8)
+dep(product-3, answer-9)
+prep_from(answer-9, vendor-11)
+partmod(product-3, recommended-13)
+num(%-15, 100-14)
+dobj(recommended-13, %-15)
+appos(%-15, product-17)
+partmod(product-17, left-18)
+amod(destination-21, final-20)
+prep_at(left-18, destination-21)
+det(time-25, the-23)
+amod(time-25, stimated-24)
+prep_in(product-3, time-25)
+

@@ -1,0 +1,64 @@
+=========
+
+nsubj(used-3, I-1)
+aux(used-3, had-2)
+ccomp(are-14, used-3)
+det(B9700-5, a-4)
+dobj(used-3, B9700-5)
+prep_for(B9700-5, one-7)
+tmod(used-3, year-8)
+prep(used-3, so-9)
+poss(opion-11, my-10)
+pobj(so-9, opion-11)
+expl(are-14, There-13)
+root(ROOT-0, are-14)
+det(items-17, a-15)
+amod(items-17, few-16)
+nsubj(are-14, items-17)
+nsubj(discouraging-23, items-17)
+aux(discouraging-23, have-19)
+cop(discouraging-23, been-20)
+det(bit-22, a-21)
+npadvmod(discouraging-23, bit-22)
+rcmod(items-17, discouraging-23)
+
+=========
+
+prep(works-15, Starting-1)
+pcomp(Starting-1, with-2)
+det(life-5, the-3)
+nn(life-5, battery-4)
+prep_with(Starting-1, life-5)
+cop(less-8, is-7)
+parataxis(works-15, less-8)
+poss(onyx-11, my-10)
+prep_than(less-8, onyx-11)
+det(phone-14, This-13)
+nsubj(works-15, phone-14)
+root(ROOT-0, works-15)
+advmod(works-15, flawlessly-16)
+
+=========
+
+det(screen-3, The-1)
+nn(screen-3, touch-2)
+nsubj(easy-5, screen-3)
+nsubj(sensitive-11, screen-3)
+cop(easy-5, is-4)
+root(ROOT-0, easy-5)
+aux(use-7, to-6)
+xcomp(easy-5, use-7)
+neg(sensitive-11, not-9)
+advmod(sensitive-11, overly-10)
+conj_and(easy-5, sensitive-11)
+
+=========
+
+root(ROOT-0, Sold-1)
+prep_by(Sold-1, Amazon-3)
+nn(+-9, A1-5)
+nn(+-9, +-6)
+nn(+-9, +-7)
+nn(+-9, +-8)
+appos(Amazon-3, +-9)
+

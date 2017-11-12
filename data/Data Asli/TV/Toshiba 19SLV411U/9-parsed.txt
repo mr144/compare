@@ -1,0 +1,58 @@
+=========
+
+amod(picture-2, excellent-1)
+root(ROOT-0, picture-2)
+dep(picture-2, quality-3)
+dep(picture-2, value-5)
+conj_and(quality-3, value-5)
+
+=========
+
+advmod(negative-2, Only-1)
+nsubj(quality-5, negative-2)
+cop(quality-5, is-3)
+det(quality-5, the-4)
+root(ROOT-0, quality-5)
+det(audio-8, the-7)
+prep_of(quality-5, audio-8)
+
+=========
+
+dobj(planning-7, everyone-2)
+prep_like(issue-20, everyone-2)
+advmod(everyone-2, else-3)
+mark(planning-7, if-4)
+nsubj(planning-7, you-5)
+aux(planning-7, are-6)
+dep(everyone-2, planning-7)
+prepc_on(planning-7, using-9)
+det(tv-11, this-10)
+dobj(using-9, tv-11)
+det(environment-15, a-13)
+amod(environment-15, loud-14)
+prep_in(using-9, environment-15)
+expl(issue-20, there-16)
+aux(issue-20, could-17)
+cop(issue-20, be-18)
+det(issue-20, an-19)
+root(ROOT-0, issue-20)
+
+=========
+
+poss(case-3, our-2)
+prep_in(used-8, case-3)
+det(set-5, the-4)
+nsubjpass(used-8, set-5)
+aux(used-8, is-6)
+auxpass(used-8, being-7)
+root(ROOT-0, used-8)
+det(area-13, a-10)
+advmod(quiet-12, relatively-11)
+amod(area-13, quiet-12)
+prep_in(used-8, area-13)
+det(unit-16, this-15)
+nsubj(works-17, unit-16)
+conj_and(used-8, works-17)
+advmod(works-17, pefectly-18)
+prep_for(works-17, us-20)
+

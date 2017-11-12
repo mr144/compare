@@ -1,0 +1,80 @@
+=========
+
+nsubj(great-6, Everything-1)
+det(TV-4, the-3)
+prep_about(Everything-1, TV-4)
+cop(great-6, is-5)
+root(ROOT-0, great-6)
+
+=========
+
+nsubj(is-4, Everything-1)
+prep_as(Everything-1, advertised-3)
+root(ROOT-0, is-4)
+advmod(is-4, there-5)
+
+=========
+
+det(fault-3, The-1)
+amod(fault-3, only-2)
+nsubj(remote-7, fault-3)
+partmod(fault-3, found-4)
+cop(remote-7, was-5)
+det(remote-7, the-6)
+root(ROOT-0, remote-7)
+nsubj(came-9, remote-7)
+rcmod(remote-7, came-9)
+mark(seem-25, with-10)
+nsubj(seem-25, it-11)
+xsubj(keep-27, it-11)
+det(back-14, the-13)
+dep(seem-25, back-14)
+det(remote-17, the-16)
+prep_of(back-14, remote-17)
+det(keyboard-20, the-19)
+prep_with(remote-17, keyboard-20)
+aux(seem-25, does-22)
+neg(seem-25, not-23)
+advmod(seem-25, always-24)
+advcl(came-9, seem-25)
+aux(keep-27, to-26)
+xcomp(seem-25, keep-27)
+prt(keep-27, up-28)
+xcomp(seem-25, respond-30)
+conj_or(keep-27, respond-30)
+prep_on(respond-30, some-32)
+det(menus-35, the-34)
+prep_of(some-32, menus-35)
+
+=========
+
+mark(batteries-7, Although-1)
+nsubj(batteries-7, this-2)
+aux(batteries-7, could-3)
+advmod(batteries-7, just-4)
+cop(batteries-7, be-5)
+amod(batteries-7, bad-6)
+advcl(came-9, batteries-7)
+nsubj(came-9, that-8)
+root(ROOT-0, came-9)
+prep_with(came-9, it-11)
+aux(tried-15, Have-13)
+neg(tried-15, not-14)
+dep(it-11, tried-15)
+amod(ones-17, new-16)
+dobj(tried-15, ones-17)
+
+=========
+
+nsubj(awesome-9, Other-1)
+advmod(awesome-9, then-2)
+det(size-5, that-3)
+amod(size-5, perfect-4)
+nsubj(awesome-9, size-5)
+conj_and(size-5, 3D-7)
+nsubj(awesome-9, 3D-7)
+cop(awesome-9, is-8)
+root(ROOT-0, awesome-9)
+advmod(applied-11, when-10)
+advcl(awesome-9, applied-11)
+

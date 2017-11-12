@@ -1,0 +1,38 @@
+=========
+
+det(product-2, This-1)
+nsubj(sucks-4, product-2)
+advmod(sucks-4, really-3)
+root(ROOT-0, sucks-4)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(BRAND-4, a-3)
+dobj(bought-2, BRAND-4)
+nn(iPhone-6, NEW-5)
+dep(BRAND-4, iPhone-6)
+nsubj(came-10, it-8)
+advmod(came-10, still-9)
+dobj(bought-2, came-10)
+conj_and(BRAND-4, came-10)
+det(virus-13, a-12)
+prep_with(came-10, virus-13)
+
+=========
+
+advmod(have-3, Now-1)
+nsubj(have-3, I-2)
+xsubj(pay-5, I-2)
+root(ROOT-0, have-3)
+aux(pay-5, to-4)
+xcomp(have-3, pay-5)
+iobj(pay-5, apple-6)
+number($-8, 99.99-7)
+dobj(pay-5, $-8)
+aux(get-10, to-9)
+xcomp(pay-5, get-10)
+nsubj(fixed-12, it-11)
+dep(get-10, fixed-12)
+

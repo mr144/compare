@@ -1,0 +1,48 @@
+=========
+
+det(reason-3, The-1)
+amod(reason-3, only-2)
+nsubj(is-11, reason-3)
+nsubj(give-7, I-4)
+aux(give-7, would-5)
+neg(give-7, not-6)
+rcmod(reason-3, give-7)
+det(stars-10, this-8)
+num(stars-10, 5-9)
+dobj(give-7, stars-10)
+root(ROOT-0, is-11)
+det(output-15, the-13)
+nn(output-15, volume-14)
+prep_because(is-11, output-15)
+
+=========
+
+det(TV-2, This-1)
+nsubj(get-5, TV-2)
+aux(get-5, does-3)
+neg(get-5, not-4)
+root(ROOT-0, get-5)
+advmod(loud-7, as-6)
+advmod(get-5, loud-7)
+poss(Sharp-10, my-9)
+prep_as(get-5, Sharp-10)
+det(picture-14, the-13)
+nsubj(GREAT-16, picture-14)
+cop(GREAT-16, is-15)
+conj_but(get-5, GREAT-16)
+nsubj(plan-19, I-18)
+conj_but(get-5, plan-19)
+conj_and(GREAT-16, plan-19)
+prepc_on(plan-19, getting-21)
+det(system-24, a-22)
+amod(system-24, BOSE-23)
+dobj(getting-21, system-24)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(TV-5, this-4)
+dobj(recommend-3, TV-5)
+

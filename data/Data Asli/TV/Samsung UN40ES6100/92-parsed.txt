@@ -1,0 +1,48 @@
+=========
+
+amod(quality-2, Beautiful-1)
+root(ROOT-0, quality-2)
+
+=========
+
+nsubj(outlines-22, Thought-1)
+nsubj(noticed-3, I-2)
+rcmod(Thought-1, noticed-3)
+det(clouding-5, some-4)
+dobj(noticed-3, clouding-5)
+prep_at(noticed-3, first-7)
+nsubj(fact-14, it-10)
+cop(fact-14, was-11)
+advmod(fact-14, just-12)
+det(fact-14, the-13)
+rcmod(Thought-1, fact-14)
+conj_but(noticed-3, fact-14)
+complm(faint-21, that-15)
+poss(screen-18, my-16)
+amod(screen-18, paused-17)
+nsubj(faint-21, screen-18)
+advmod(faint-21, still-19)
+aux(faint-21, has-20)
+ccomp(fact-14, faint-21)
+root(ROOT-0, outlines-22)
+complm(register-29, that-23)
+poss(TV-26, my-24)
+amod(TV-26, old-25)
+nsubj(register-29, TV-26)
+aux(register-29, did-27)
+neg(register-29, not-28)
+ccomp(outlines-22, register-29)
+advmod(did-32, when-30)
+nsubj(did-32, it-31)
+nsubj(looked-34, it-31)
+advcl(register-29, did-32)
+advcl(register-29, looked-34)
+conj_and(did-32, looked-34)
+acomp(looked-34, black-35)
+
+=========
+
+nn(!!-3, Great-1)
+nn(!!-3, overall-2)
+root(ROOT-0, !!-3)
+

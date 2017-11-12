@@ -1,0 +1,57 @@
+=========
+
+nn(9800-2, Torch-1)
+dep(excellent-3, 9800-2)
+root(ROOT-0, excellent-3)
+
+=========
+
+nn(company-2, Euro-1)
+nsubj(purchased-3, company-2)
+root(ROOT-0, purchased-3)
+prep(purchased-3, from-4)
+
+=========
+
+root(ROOT-0, Followed-1)
+prt(Followed-1, up-2)
+aux(make-4, to-3)
+xcomp(Followed-1, make-4)
+acomp(make-4, sure-5)
+complm(wasreceived-8, that-6)
+nsubj(wasreceived-8, Phone-7)
+ccomp(make-4, wasreceived-8)
+
+=========
+
+advmod(followed-2, Also-1)
+root(ROOT-0, followed-2)
+prt(followed-2, up-3)
+det(2nd-5, a-4)
+nsubj(followed-2, 2nd-5)
+
+=========
+
+root(ROOT-0, time-1)
+aux(check-3, to-2)
+xcomp(time-1, check-3)
+xcomp(time-1, see-5)
+conj_and(check-3, see-5)
+mark(operating-9, if-6)
+nsubj(operating-9, phone-7)
+aux(operating-9, was-8)
+advcl(check-3, operating-9)
+dobj(operating-9, ok-10)
+
+=========
+
+nsubj(serviceafter-2, Excellent-1)
+root(ROOT-0, serviceafter-2)
+det(sale-4, the-3)
+dobj(serviceafter-2, sale-4)
+
+=========
+
+nn(Sabo-2, Carlton-1)
+root(ROOT-0, Sabo-2)
+

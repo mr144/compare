@@ -1,0 +1,30 @@
+=========
+
+nsubj(wonderful-3, Camera-1)
+cop(wonderful-3, is-2)
+root(ROOT-0, wonderful-3)
+
+=========
+
+det(problems-2, No-1)
+root(ROOT-0, problems-2)
+prep_with(problems-2, delivery-4)
+prep_with(problems-2, product-6)
+conj_or(delivery-4, product-6)
+
+=========
+
+root(ROOT-0, Iwould-1)
+dobj(Iwould-1, order-2)
+advmod(order-2, again-3)
+det(seller-6, this-5)
+prep_from(Iwould-1, seller-6)
+det(doubt-9, no-8)
+advmod(Iwould-1, doubt-9)
+
+=========
+
+dep(much-3, Thanks-1)
+advmod(much-3, very-2)
+root(ROOT-0, much-3)
+

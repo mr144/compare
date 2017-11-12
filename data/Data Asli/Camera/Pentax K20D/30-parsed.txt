@@ -1,0 +1,212 @@
+=========
+
+nsubj(bought-3, I-1)
+advmod(bought-3, recently-2)
+root(ROOT-0, bought-3)
+det(unit-5, this-4)
+dobj(bought-3, unit-5)
+
+=========
+
+poss(camera-3, My-1)
+amod(camera-3, previous-2)
+nsubj(Xti-9, camera-3)
+cop(Xti-9, was-4)
+det(Xti-9, a-5)
+nn(Xti-9, Canon-6)
+nn(Xti-9, Digital-7)
+nn(Xti-9, Rebel-8)
+root(ROOT-0, Xti-9)
+
+=========
+
+advmod(took-3, Honestly-1)
+nsubj(took-3, it-2)
+root(ROOT-0, took-3)
+det(time-5, some-4)
+dobj(took-3, time-5)
+aux(used-8, to-6)
+auxpass(used-8, get-7)
+infmod(time-5, used-8)
+det(controls-11, the-10)
+prep_to(used-8, controls-11)
+
+=========
+
+advmod(used-5, now-2)
+nsubjpass(used-5, I-3)
+auxpass(used-5, am-4)
+root(ROOT-0, used-5)
+prep_to(used-5, it-7)
+nsubj(feels-10, it-9)
+conj_and(used-5, feels-10)
+acomp(feels-10, perfect-11)
+
+=========
+
+det(colors-2, The-1)
+nsubj(notch-9, colors-2)
+det(quality-6, the-4)
+nn(quality-6, image-5)
+conj_and(colors-2, quality-6)
+nsubj(notch-9, quality-6)
+cop(notch-9, are-7)
+amod(notch-9, top-8)
+root(ROOT-0, notch-9)
+
+=========
+
+nn(SR-2, In-Body-1)
+nsubj(performs-3, SR-2)
+root(ROOT-0, performs-3)
+advmod(well-5, very-4)
+advmod(performs-3, well-5)
+det(viewfinder-9, the-7)
+nn(viewfinder-9, image-8)
+nsubj(huge-11, viewfinder-9)
+cop(huge-11, is-10)
+conj_and(performs-3, huge-11)
+
+=========
+
+det(things-2, The-1)
+nsubj(take-4, things-2)
+nsubj(:1-11, things-2)
+rcmod(things-2, take-4)
+dobj(take-4, time-5)
+aux(used-8, to-6)
+auxpass(used-8, get-7)
+xcomp(take-4, used-8)
+xcomp(used-8, to-9)
+cop(:1-11, are-10)
+root(ROOT-0, :1-11)
+det(parameters-14, The-13)
+nsubjpass(displayed-17, parameters-14)
+auxpass(displayed-17, are-15)
+neg(displayed-17, not-16)
+parataxis(:1-11, displayed-17)
+amod(LCD-20, main-19)
+prep_on(displayed-17, LCD-20)
+
+=========
+
+nsubjpass(seen-4, They-1)
+aux(seen-4, can-2)
+auxpass(seen-4, be-3)
+root(ROOT-0, seen-4)
+prep_through(seen-4, viewfinder-6)
+nn(LCD-9, top\/small-8)
+prep_through(seen-4, LCD-9)
+conj_and(viewfinder-6, LCD-9)
+
+=========
+
+cc(dark-5, But-1)
+amod(LCD-3, main-2)
+nsubj(dark-5, LCD-3)
+cop(dark-5, stays-4)
+root(ROOT-0, dark-5)
+
+=========
+
+nsubj(review-3, You-1)
+aux(review-3, can-2)
+root(ROOT-0, review-3)
+det(parameters-5, the-4)
+dobj(review-3, parameters-5)
+prepc_by(review-3, pressing-7)
+det(button-10, the-8)
+nn(button-10, info-9)
+dobj(pressing-7, button-10)
+advmod(change-15, when-13)
+nsubj(change-15, you-14)
+advcl(turns-21, change-15)
+det(parameter-17, any-16)
+dobj(change-15, parameter-17)
+det(screen-20, the-19)
+nsubj(turns-21, screen-20)
+conj_but(review-3, turns-21)
+amod(dial-23, off.2-The-22)
+dobj(turns-21, dial-23)
+aux(switch-25, to-24)
+infmod(dial-23, switch-25)
+nn(metering-28, spot-27)
+prep_between(switch-25, metering-28)
+nn(metering-31, area-30)
+nsubj(close-34, metering-31)
+cop(close-34, is-32)
+advmod(close-34, too-33)
+conj_but(review-3, close-34)
+conj_and(turns-21, close-34)
+nn(dial-37, mode-36)
+prep_to(close-34, dial-37)
+
+=========
+
+advmod(change-4, Sometimes-1)
+nsubj(change-4, you-2)
+advmod(change-4, involuntarily-3)
+root(ROOT-0, change-4)
+det(mode-6, the-5)
+nsubj(dark-14, mode-6)
+amod(metering-9, noticing.3-The-8)
+prep_without(mode-6, metering-9)
+cop(dark-14, is-10)
+dep(dark-14, a-11)
+advmod(dark-14, little-12)
+dep(dark-14, bit-13)
+ccomp(change-4, dark-14)
+
+=========
+
+det(metering-3, Some-1)
+amod(metering-3, +-2)
+nsubjpass(needed-5, metering-3)
+xsubj(get-7, metering-3)
+auxpass(needed-5, is-4)
+root(ROOT-0, needed-5)
+aux(get-7, to-6)
+xcomp(needed-5, get-7)
+det(shots-9, some-8)
+dobj(get-7, shots-9)
+
+=========
+
+mark(used-4, Once-1)
+nsubjpass(used-4, you-2)
+auxpass(used-4, get-3)
+advcl(performs-9, used-4)
+prep_to(used-4, it-6)
+nsubj(performs-9, it-8)
+root(ROOT-0, performs-9)
+advmod(well-11, incredibly-10)
+acomp(performs-9, well-11)
+
+=========
+
+advmod(switched-3, When-1)
+nsubj(switched-3, I-2)
+advcl(asking-12, switched-3)
+prep_from(switched-3, Canon-5)
+prep_to(switched-3, Pentax-7)
+poss(friends-10, my-9)
+nsubj(asking-12, friends-10)
+aux(asking-12, were-11)
+root(ROOT-0, asking-12)
+nsubj(why-14, me-13)
+xcomp(asking-12, why-14)
+
+=========
+
+prepc_after(agree-7, seeing-2)
+det(shots-4, the-3)
+dobj(seeing-2, shots-4)
+nsubj(agree-7, they-6)
+root(ROOT-0, agree-7)
+complm(choice-13, that-8)
+nsubj(choice-13, it-9)
+cop(choice-13, was-10)
+det(choice-13, a-11)
+amod(choice-13, wise-12)
+ccomp(agree-7, choice-13)
+

@@ -1,0 +1,5 @@
+No_DT flash_NN in_IN its_PRP$ camera_NN ._.
+box_NN is_VBZ broken_VBN ._.
+poor_JJ performance_NN ._.
+overall_RB this_DT phone_NN is_VBZ suck_JJ ._.
+This_DT phone_NN is_VBZ worse_JJR than_IN my_PRP$ iphone_FW 3GS_FW ._.

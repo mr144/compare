@@ -1,0 +1,6 @@
+The_DT first_JJ LG_NNP 32_CD '_POS TV_NN we_PRP received_VBD did_VBD not_RB work_NN ._.
+There_EX was_VBD some_DT type_NN of_IN issue_NN preventing_VBG us_PRP from_IN getting_VBG through_IN the_DT start_NN up_RP sequence_NN ._.
+Amazon_NNP replaced_VBD it_PRP very_RB quickly_RB ._.
+The_DT replacement_NN TV_NN is_VBZ great_JJ !_.
+Very_RB good_JJ picture_NN and_CC sound_NN ._.
+The_DT third_JJ HDMI_NNP connection_NN is_VBZ great_JJ ,_, allowing_VBG for_IN the_DT cable_NN ,_, the_DT DVD_NNP player_NN and_CC the_DT Roku_NNP !_.

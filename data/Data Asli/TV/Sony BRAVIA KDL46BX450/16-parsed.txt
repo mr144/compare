@@ -1,0 +1,30 @@
+=========
+
+nsubjpass(pleased-4, I-1)
+auxpass(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(TV-7, the-6)
+prep_with(pleased-4, TV-7)
+complm(ordered-10, that-8)
+nsubj(ordered-10, I-9)
+ccomp(pleased-4, ordered-10)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+poss(research-4, my-3)
+dobj(did-2, research-4)
+nsubj(paid-7, it-6)
+conj_and(did-2, paid-7)
+prt(paid-7, off-8)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nn(TV-4, Sony-3)
+dobj(love-2, TV-4)
+possessive(TV-4, 's-5)
+

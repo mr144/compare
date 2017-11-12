@@ -1,0 +1,43 @@
+=========
+
+det(TV-2, The-1)
+nsubj(good-5, TV-2)
+cop(good-5, is-3)
+advmod(good-5, pretty-4)
+root(ROOT-0, good-5)
+
+=========
+
+det(sound-2, The-1)
+nsubj(better-5, sound-2)
+aux(better-5, could-3)
+cop(better-5, be-4)
+root(ROOT-0, better-5)
+nsubj(bad-11, it-8)
+cop(bad-11, is-9)
+neg(bad-11, not-10)
+conj_but(better-5, bad-11)
+
+=========
+
+nsubj(stick-3, They-1)
+aux(stick-3, did-2)
+root(ROOT-0, stick-3)
+det(sticker-6, the-4)
+nn(sticker-6, energy-5)
+dobj(stick-3, sticker-6)
+det(TV-10, the-8)
+amod(TV-10, actual-9)
+prep_to(stick-3, TV-10)
+mark(took-14, though-11)
+dep(took-14, so-12)
+nsubj(took-14, it-13)
+advcl(stick-3, took-14)
+det(while-16, a-15)
+dobj(took-14, while-16)
+aux(get-18, to-17)
+infmod(while-16, get-18)
+det(residue-20, the-19)
+dobj(get-18, residue-20)
+prt(get-18, off-21)
+

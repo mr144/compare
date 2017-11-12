@@ -1,0 +1,149 @@
+=========
+
+det(TV-2, The-1)
+nsubj(has-3, TV-2)
+root(ROOT-0, has-3)
+det(picture-6, a-4)
+amod(picture-6, great-5)
+dobj(has-3, picture-6)
+amod(time-10, excellent-8)
+nn(time-10, response-9)
+prep_with(picture-6, time-10)
+advmod(time-10, even-11)
+amod(shots-15, high-13)
+nn(shots-15, motion-14)
+prep_with(time-10, shots-15)
+
+=========
+
+det(3D-2, The-1)
+nsubj(great-4, 3D-2)
+nsubj(fun-6, 3D-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+conj_and(great-4, fun-6)
+aux(watch-8, to-7)
+xcomp(great-4, watch-8)
+
+=========
+
+nsubj(playing-4, I-1)
+aux(playing-4, have-2)
+aux(playing-4, been-3)
+root(ROOT-0, playing-4)
+det(apps-7, the-6)
+prep_with(playing-4, apps-7)
+advmod(playing-4, now-8)
+nsubjpass(blown-13, I-11)
+auxpass(blown-13, am-12)
+conj_and(playing-4, blown-13)
+prt(blown-13, away-14)
+
+=========
+
+root(ROOT-0, Streaming-1)
+dobj(Streaming-1, Netflix-2)
+conj_and(Streaming-1, Amazon-4)
+amod(videos-6, instant-5)
+dobj(Amazon-4, videos-6)
+conj_and(Streaming-1, linking-9)
+poss(account-13, my-11)
+nn(account-13, Youtube-12)
+prep_to(linking-9, account-13)
+
+=========
+
+nsubjpass(blown-3, I-1)
+auxpass(blown-3, am-2)
+root(ROOT-0, blown-3)
+prt(blown-3, away-4)
+
+=========
+
+nsubj(pair-3, You-1)
+aux(pair-3, can-2)
+root(ROOT-0, pair-3)
+det(TV-5, the-4)
+dobj(pair-3, TV-5)
+poss(phone-8, your-7)
+prep_with(TV-5, phone-8)
+amod(device-11, other-10)
+dobj(pair-3, device-11)
+conj_or(TV-5, device-11)
+det(app-15, the-13)
+amod(app-15, Youtube-14)
+prep_through(device-11, app-15)
+det(TV-18, the-17)
+prep_on(app-15, TV-18)
+advmod(pair-3, then-19)
+dep(pair-3, use-20)
+poss(phone-22, your-21)
+dobj(pair-3, phone-22)
+aux(control-24, to-23)
+xcomp(pair-3, control-24)
+dobj(streamed-28, which-25)
+nsubj(streamed-28, videos-26)
+aux(streamed-28, are-27)
+ccomp(control-24, streamed-28)
+det(TV-31, the-30)
+prep_to(streamed-28, TV-31)
+
+=========
+
+nsubj(amazing-4, It-1)
+cop(amazing-4, 's-2)
+advmod(amazing-4, really-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+nsubj(has-2, TV-1)
+root(ROOT-0, has-2)
+preconj(wi-fi-4, both-3)
+dobj(has-2, wi-fi-4)
+dobj(has-2, ethernet-6)
+conj_and(wi-fi-4, ethernet-6)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+nsubj(hard-wired-4, it-3)
+xcomp(have-2, hard-wired-4)
+det(router-7, the-6)
+prep_to(hard-wired-4, router-7)
+
+=========
+
+amod(streaming-2, Excellent-1)
+root(ROOT-0, streaming-2)
+prep_in(streaming-2, HD-4)
+
+=========
+
+predet(functionality-3, All-1)
+det(functionality-3, this-2)
+nsubj(make-9, functionality-3)
+prep(functionality-3, combined-4)
+pcomp(combined-4, with-5)
+det(picture-8, a-6)
+amod(picture-8, great-7)
+prep_with(combined-4, picture-8)
+root(ROOT-0, make-9)
+det(TV-11, this-10)
+dobj(make-9, TV-11)
+dobj(run-15, TV-11)
+det(home-14, an-12)
+amod(home-14, absolute-13)
+nsubj(run-15, home-14)
+rcmod(TV-11, run-15)
+
+=========
+
+nsubj(say-4, I-1)
+aux(say-4, can-2)
+neg(say-4, not-3)
+root(ROOT-0, say-4)
+dobj(say-4, enough-5)
+prep_about(say-4, it-7)
+

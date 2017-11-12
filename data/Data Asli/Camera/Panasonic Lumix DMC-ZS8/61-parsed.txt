@@ -1,0 +1,28 @@
+=========
+
+prep_at(wonderful-5, first-2)
+nsubj(wonderful-5, it-3)
+cop(wonderful-5, was-4)
+root(ROOT-0, wonderful-5)
+nsubj(gets-9, it-8)
+conj_but(wonderful-5, gets-9)
+poss(particles-12, didust-10)
+nsubj(gets-20, particles-12)
+det(WAY-16, the-14)
+nn(WAY-16, lens-15)
+prep_under(particles-12, WAY-16)
+advmod(easily-18, too-17)
+advmod(WAY-16, easily-18)
+ccomp(gets-9, gets-20)
+acomp(gets-20, worse-21)
+acomp(gets-20, worse-23)
+conj_and(worse-21, worse-23)
+
+=========
+
+root(ROOT-0, Looking-1)
+det(camera-5, a-3)
+amod(camera-5, new-4)
+prep_for(Looking-1, camera-5)
+advmod(Looking-1, finally-6)
+

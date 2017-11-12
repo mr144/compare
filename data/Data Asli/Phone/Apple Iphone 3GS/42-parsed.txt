@@ -1,0 +1,84 @@
+=========
+
+nsubj(purchased-2, i-1)
+root(ROOT-0, purchased-2)
+det(phone-4, this-3)
+dobj(purchased-2, phone-4)
+xcomp(purchased-2, trusting-5)
+complm(unlocked-10, that-6)
+nsubj(unlocked-10, it-7)
+cop(unlocked-10, is-8)
+advmod(unlocked-10, really-9)
+ccomp(trusting-5, unlocked-10)
+
+=========
+
+advmod(check-6, Apparently-1)
+nsubj(check-6, Amazon-2)
+aux(check-6, does-3)
+neg(check-6, not-4)
+advmod(check-6, really-5)
+root(ROOT-0, check-6)
+det(things-8, these-7)
+dobj(check-6, things-8)
+
+=========
+
+nsubj(am-2, I-1)
+nsubj(make-10, I-1)
+root(ROOT-0, am-2)
+det(country-5, the-4)
+prep_outside(am-2, country-5)
+advmod(country-5, now-6)
+aux(make-10, can-8)
+neg(make-10, not-9)
+conj_and(am-2, make-10)
+det(calls-12, any-11)
+dobj(make-10, calls-12)
+mark(keep-15, as-13)
+nsubj(keep-15, i-14)
+advcl(make-10, keep-15)
+xcomp(keep-15, getting-16)
+amod(message-19, invalid-17)
+nn(message-19, sim-18)
+dobj(getting-16, message-19)
+
+=========
+
+dep(then-2, And-1)
+root(ROOT-0, then-2)
+aux(make-4, to-3)
+infmod(then-2, make-4)
+dobj(make-4, it-5)
+dep(make-4, worse-6)
+poss(battery-11, its-8)
+det(battery-11, a-9)
+amod(battery-11, dead-10)
+dep(worse-6, battery-11)
+
+=========
+
+advmod(line-5, Only-1)
+det(line-5, a-2)
+amod(line-5, red-3)
+nn(line-5, battery-4)
+nsubj(shows-6, line-5)
+root(ROOT-0, shows-6)
+det(screen-9, the-8)
+prep_on(shows-6, screen-9)
+nsubj(makes-12, this-11)
+conj_and(shows-6, makes-12)
+det(trip-15, the-13)
+nn(trip-15, phone-14)
+dobj(makes-12, trip-15)
+prt(makes-12, off-16)
+num(minutes-19, 2-18)
+prep_after(makes-12, minutes-19)
+
+=========
+
+nsubj(sad-4, I-1)
+cop(sad-4, am-2)
+advmod(sad-4, so-3)
+root(ROOT-0, sad-4)
+

@@ -1,0 +1,46 @@
+=========
+
+amod(TV-3, Very-1)
+amod(TV-3, nice-2)
+root(ROOT-0, TV-3)
+det(price-6, the-5)
+prep_for(TV-3, price-6)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, was-2)
+root(ROOT-0, easy-3)
+aux(install-5, to-4)
+xcomp(easy-3, install-5)
+
+=========
+
+aux(used-3, Have-1)
+neg(used-3, not-2)
+root(ROOT-0, used-3)
+det(apps-5, the-4)
+dobj(used-3, apps-5)
+
+=========
+
+advmod(yet-2, as-1)
+root(ROOT-0, yet-2)
+
+=========
+
+cc(do-3, but-1)
+aux(do-3, will-2)
+root(ROOT-0, do-3)
+advmod(soon-5, so-4)
+advmod(do-3, soon-5)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, highly-3)
+root(ROOT-0, recommend-4)
+det(product-6, this-5)
+dobj(recommend-4, product-6)
+

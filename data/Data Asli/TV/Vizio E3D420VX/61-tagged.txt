@@ -1,0 +1,4 @@
+short_JJ and_CC sweet_JJ i_FW am_VBP an_DT avid_JJ tech_NN user_NN and_CC IT_PRP professional_JJ ._.
+This_DT 3D_NNP TV_NNP has_VBZ great_JJ picture_NN and_CC great_JJ 3D_NNP ._.
+I_PRP would_MD buy_VB this_DT again_RB in_IN a_DT heart_NN beat_NN ._.
+WiFi_JJ reception_NN is_VBZ strong_JJ ._.

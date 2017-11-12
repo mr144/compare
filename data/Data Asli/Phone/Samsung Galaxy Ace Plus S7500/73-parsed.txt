@@ -1,0 +1,121 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(thinking-5, this-3)
+nn(thinking-5, phone-4)
+dobj(bought-2, thinking-5)
+dobj(support-22, thinking-5)
+rel(found-16, what-6)
+det(deal-9, a-7)
+amod(deal-9, great-8)
+nsubj(found-16, deal-9)
+det(smartphone-13, a-11)
+amod(smartphone-13, mid-range-12)
+prep_for(deal-9, smartphone-13)
+prep_for(deal-9, then-15)
+conj_and(smartphone-13, then-15)
+rcmod(thinking-5, found-16)
+prt(found-16, out-17)
+complm(support-22, that-18)
+nsubj(support-22, it-19)
+aux(support-22, would-20)
+neg(support-22, not-21)
+ccomp(found-16, support-22)
+det(3G-24, the-23)
+dobj(support-22, 3G-24)
+prep_from(3G-24, T-mobile-26)
+
+=========
+
+nsubj(uses-2, T-Mobile-1)
+root(ROOT-0, uses-2)
+det(frequency-6, the-3)
+num(frequency-6, 1700\/2100-4)
+nn(frequency-6, mhz-5)
+dobj(uses-2, frequency-6)
+poss(network-10, their-8)
+num(network-10, 3G-9)
+prep_for(frequency-6, network-10)
+
+=========
+
+nsubj(need-2, You-1)
+root(ROOT-0, need-2)
+det(phone-4, the-3)
+nsubj(support-6, phone-4)
+aux(support-6, to-5)
+xcomp(need-2, support-6)
+det(frequency-8, BOTH-7)
+dobj(support-6, frequency-8)
+mark(get-12, in-9)
+dep(get-12, order-10)
+aux(get-12, to-11)
+purpcl(support-6, get-12)
+dobj(get-12, 3G-13)
+
+=========
+
+advmod(supports-3, Maybe-1)
+nsubj(supports-3, AT&T-2)
+root(ROOT-0, supports-3)
+det(frequencies-5, the-4)
+dobj(supports-3, frequencies-5)
+det(phone-8, this-7)
+prep_on(frequencies-5, phone-8)
+
+=========
+
+root(ROOT-0, Check-1)
+prep_with(Check-1, carrier-3)
+prep_before(Check-1, buying-5)
+
+=========
+
+nsubj(had-2, I-1)
+xsubj(return-4, I-1)
+root(ROOT-0, had-2)
+aux(return-4, to-3)
+xcomp(had-2, return-4)
+dobj(return-4, this-5)
+xcomp(had-2, get-7)
+conj_and(return-4, get-7)
+det(phone-10, a-8)
+amod(phone-10, different-9)
+dobj(get-7, phone-10)
+
+=========
+
+advmod(make-11, Also-1)
+mark(want-5, if-3)
+nsubj(want-5, you-4)
+dep(make-11, want-5)
+det(NFC-7, the-6)
+nsubj(enabled-8, NFC-7)
+ccomp(want-5, enabled-8)
+dobj(enabled-8, phone-9)
+root(ROOT-0, make-11)
+acomp(make-11, sure-12)
+aux(get-14, to-13)
+xcomp(sure-12, get-14)
+det(version-17, the-15)
+amod(version-17, i8160P-16)
+dobj(get-14, version-17)
+
+=========
+
+nn(NFC-3, P-1)
+nn(NFC-3, =-2)
+root(ROOT-0, NFC-3)
+det(P-6, no-5)
+nsubj(means-7, P-6)
+dep(NFC-3, means-7)
+det(NFC-9, no-8)
+dobj(means-7, NFC-9)
+
+=========
+
+advmod(helps-3, Hope-1)
+nsubj(helps-3, this-2)
+root(ROOT-0, helps-3)
+

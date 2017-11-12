@@ -1,0 +1,25 @@
+=========
+
+csubj(read-13, Put-1)
+dobj(Put-1, this-2)
+det(wall-5, the-4)
+prep_on(Put-1, wall-5)
+det(monitor-9, a-7)
+amod(monitor-9, 2nd-8)
+prep_for(wall-5, monitor-9)
+prep_for(wall-5, everyone-11)
+conj_and(monitor-9, everyone-11)
+aux(read-13, can-12)
+root(ROOT-0, read-13)
+dobj(read-13, it-14)
+advmod(easily-16, very-15)
+advmod(read-13, easily-16)
+
+=========
+
+nsubj(working-3, It-1)
+aux(working-3, is-2)
+root(ROOT-0, working-3)
+advmod(well-5, very-4)
+advmod(working-3, well-5)
+

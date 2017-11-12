@@ -1,0 +1,9 @@
+This_DT phone_NN does_VBZ not_RB have_VB all_DT of_IN the_DT power_NN of_IN newer_JJR smartphones_NNS ,_, but_CC it_PRP also_RB does_VBZ not_RB have_VB that_DT price_NN ._.
+it_PRP is_VBZ a_DT very_RB stylish_JJ phone_NN and_CC is_VBZ very_RB snappy_JJ -LRB-_-LRB- it_PRP never_RB lags_VBZ on_IN loading_VBG any_DT programs_NNS or_CC anything_NN -RRB-_-RRB- ._.
+The_DT only_JJ weird_JJ thing_NN is_VBZ that_IN I_PRP bought_VBD this_DT phone_NN after_IN buying_VBG a_DT Nexus_NN 7_CD and_CC the_DT small_JJ differences_NNS between_IN Jellybean_NNP and_CC Gingerbread_NNP add_VB up_RP ._.
+Pros_NNS :_: -_: Snappy-Stylish-CheapCons_NNP :_: -_: Gingerbread-Battery_NNP life_NN -LRB-_-LRB- only_RB lasts_VBZ a_DT day_NN if_IN I_PRP use_VBP it_PRP for_IN anything_NN other_JJ than_IN standby_JJ -RRB-_-RRB- A_DT lot_NN of_IN smartphones_NNS do_VBP not_RB really_RB have_VB much_JJ of_IN a_DT battery_NN life_NN so_IN I_PRP would_MD not_RB worry_VB about_IN it_PRP ._.
+As_IN a_DT sidenote_NN ,_, I_PRP bought_VBD this_DT to_TO use_VB on_IN T-Mobile_NNP ._.
+I_PRP do_VBP not_RB live_VB in_IN an_DT area_NN with_IN 4g_CD ,_, however_RB even_RB though_IN it_PRP does_VBZ not_RB have_VB the_DT 1700_CD band_NN I_PRP still_RB get_VB 3g_JJ outside_NN of_IN my_PRP$ house_NN and_CC otherwise_RB I_PRP usually_RB get_VBP Edge_NNP ,_, which_WDT to_TO me_PRP is_VBZ still_RB good_JJ enough_RB ._.
+I_PRP tested_VBD using_VBG gps_NNS and_CC data_NNS to_TO setup_NN directions_NNS to_TO somewhere_RB and_CC it_PRP was_VBD generally_RB helpful_JJ ._.
+Though_IN it_PRP seems_VBZ data_NNS is_VBZ used_VBN in_IN conjunction_NN with_IN gps_NNS which_WDT can_MD be_VB problematic_JJ on_IN a_DT road_NN trip_NN in_IN areas_NNS without_IN coverage_NN ._.
+Overall_RB ,_, I_PRP think_VBP This_DT smartphone_NN is_VBZ still_RB worse_JJR than_IN iphone_NN ,_, lumia_NN ,_, HTC_NNP inspire_VBP ,_, or_CC atrix_NN ._.

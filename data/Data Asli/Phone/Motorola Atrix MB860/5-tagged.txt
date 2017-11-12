@@ -1,0 +1,6 @@
+The_DT phone_NN is_VBZ good_JJ with_IN all_PDT the_DT features_NNS ,_, but_CC its_PRP$ not_RB sturdy_JJ ._.
+It_PRP works_VBZ fine_JJ for_IN the_DT first_JJ year_NN or_CC so_RB and_CC then_RB start_VB having_VBG issues_NNS ._.
+I_PRP have_VBP been_VBN having_VBG problem_NN with_IN the_DT Wifi_NNP which_WDT hasnt_NN worked_VBD for_IN past_JJ 1_CD year_NN ,_, and_CC now_RB the_DT touch_NN screen_NN does_VBZ not_RB seem_VB to_TO respond_VB ._.
+Need_VBN to_TO restart_VB every_DT other_JJ min_NN or_CC so_RB ._.
+Not_RB worth_JJ the_DT price_NN ._.
+Very_RB disappointed_VBN ._.

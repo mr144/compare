@@ -1,0 +1,6 @@
+The_DT phone_NN looks_VBZ good_JJ and_CC responds_VBZ fast_RB ._.
+Moved_VBD it_PRP to_TO ICS_NNP and_CC it_PRP continued_VBD to_TO be_VB good_JJ ._.
+Lacks_VBZ a_DT built_VBN in_IN file_NN explorer_NN app_NN !_.
+Camera_NN images_NNS are_VBP of_IN low_JJ quality_NN ._.
+Screen_NN size_NN quite_RB small_JJ ,_, not_RB enough_RB ._.
+Having_VBG FM_NN is_VBZ awesome_JJ and_CC earphones_NNS are_VBP packaged_VBN with_IN the_DT phone_NN ,_, didnt_NN have_VBP to_TO buy_VB separately_RB ._.

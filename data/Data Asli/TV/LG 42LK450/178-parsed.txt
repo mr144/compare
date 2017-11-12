@@ -1,0 +1,138 @@
+=========
+
+nsubj(had-2, We-1)
+root(ROOT-0, had-2)
+det(TV-4, this-3)
+dobj(had-2, TV-4)
+dep(TV-4, hooked-5)
+prt(hooked-5, up-6)
+dep(TV-4, running-8)
+conj_and(hooked-5, running-8)
+det(time-11, no-10)
+prep_in(running-8, time-11)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+nsubj(assembling-11, thing-3)
+nsubj(attaching-13, thing-3)
+nsubj(had-5, we-4)
+rcmod(thing-3, had-5)
+det(problem-8, a-6)
+amod(problem-8, slight-7)
+dobj(had-5, problem-8)
+prep(had-5, with-9)
+aux(assembling-11, was-10)
+root(ROOT-0, assembling-11)
+conj_and(assembling-11, attaching-13)
+det(stand-15, the-14)
+dobj(assembling-11, stand-15)
+poss(screwdriver-19, our-17)
+nn(screwdriver-19, household-18)
+nsubj(long-22, screwdriver-19)
+cop(long-22, was-20)
+neg(long-22, not-21)
+dep(assembling-11, long-22)
+advmod(long-22, enough-23)
+aux(reach-25, to-24)
+xcomp(long-22, reach-25)
+predet(way-28, all-26)
+det(way-28, the-27)
+dobj(reach-25, way-28)
+det(area-32, the-30)
+amod(area-32, recessed-31)
+prep_into(reach-25, area-32)
+nsubj(took-37, that-35)
+advmod(took-37, only-36)
+conj_but(assembling-11, took-37)
+det(minute-40, an-38)
+amod(minute-40, extra-39)
+nsubj(remedy-44, minute-40)
+conj_or(minute-40, two-42)
+nsubj(remedy-44, two-42)
+aux(remedy-44, to-43)
+xcomp(took-37, remedy-44)
+
+=========
+
+nsubj(love-2, We-1)
+root(ROOT-0, love-2)
+det(quality-5, the-3)
+nn(quality-5, picture-4)
+dobj(love-2, quality-5)
+
+=========
+
+nsubj(set-7, Sound-1)
+cop(set-7, is-2)
+advmod(than-4, better-3)
+advmod(set-7, than-4)
+poss(set-7, our-5)
+amod(set-7, old-6)
+root(ROOT-0, set-7)
+amod(set-7, happy-9)
+prep_with(happy-9, it-11)
+advmod(set-7, too-13)
+
+=========
+
+nsubj(easy-3, Remote-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+
+=========
+
+det(timer-3, The-1)
+nn(timer-3, sleep-2)
+nsubjpass(set-6, timer-3)
+aux(set-6, can-4)
+auxpass(set-6, be-5)
+root(ROOT-0, set-6)
+quantmod(4-10, up-8)
+dep(4-10, to-9)
+num(hrs-11, 4-10)
+prep_for(set-6, hrs-11)
+
+=========
+
+nsubj(clear-3, Captions-1)
+nsubj(easy-5, Captions-1)
+cop(clear-3, are-2)
+root(ROOT-0, clear-3)
+conj_and(clear-3, easy-5)
+aux(read-7, to-6)
+xcomp(clear-3, read-7)
+nsubj(use-10, we-9)
+parataxis(read-7, use-10)
+dobj(use-10, them-11)
+advmod(hard-18, when-12)
+det(show-14, a-13)
+poss(dialog-16, show-14)
+nsubj(hard-18, dialog-16)
+cop(hard-18, is-17)
+advcl(use-10, hard-18)
+aux(hear-20, to-19)
+xcomp(hard-18, hear-20)
+
+=========
+
+amod(menu-2, Setup-1)
+nsubj(simple-4, menu-2)
+nsubj(easy-6, menu-2)
+cop(simple-4, is-3)
+root(ROOT-0, simple-4)
+conj_and(simple-4, easy-6)
+aux(understand-8, to-7)
+xcomp(simple-4, understand-8)
+
+=========
+
+nsubj(recommend-3, Definitely-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(set-5, this-4)
+dobj(recommend-3, set-5)
+

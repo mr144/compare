@@ -1,0 +1,51 @@
+=========
+
+nsubj(came-2, Phone-1)
+root(ROOT-0, came-2)
+mark(stated-4, as-3)
+advcl(came-2, stated-4)
+
+=========
+
+root(ROOT-0, NEW-1)
+
+=========
+
+det(seller-2, This-1)
+nsubj(legitimate-5, seller-2)
+nsubj(professional-7, seller-2)
+advmod(legitimate-5, definately-3)
+cop(legitimate-5, is-4)
+root(ROOT-0, legitimate-5)
+conj_and(legitimate-5, professional-7)
+
+=========
+
+nsubj(do-2, Will-1)
+root(ROOT-0, do-2)
+dobj(do-2, business-3)
+prep_with(business-3, them-5)
+advmod(do-2, again-6)
+poss(purchase-11, my-8)
+amod(purchase-11, next-9)
+nn(purchase-11, phone-10)
+prep_for(do-2, purchase-11)
+
+=========
+
+det(phone-2, The-1)
+nsubj(came-7, phone-2)
+predet(accessories-6, all-4)
+poss(accessories-6, its-5)
+prep_with(phone-2, accessories-6)
+root(ROOT-0, came-7)
+predet(packaging-12, all-9)
+det(packaging-12, the-10)
+amod(packaging-12, original-11)
+prep_in(came-7, packaging-12)
+nsubjpass(expected-15, packaging-12)
+auxpass(expected-15, is-14)
+rcmod(packaging-12, expected-15)
+det(blackberry-18, a-17)
+prep_with(expected-15, blackberry-18)
+

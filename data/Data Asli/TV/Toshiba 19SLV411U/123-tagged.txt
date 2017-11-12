@@ -1,0 +1,3 @@
+This_DT is_VBZ good_JJ value_NN for_IN money_NN ._.
+The_DT sound_NN is_VBZ a_DT bit_RB tinny_JJ but_CC given_VBN that_IN it_PRP is_VBZ a_DT flat_JJ panel_NN and_CC 19_CD '_'' that_WDT is_VBZ expected_VBN ._.
+After_IN all_DT you_PRP would_MD not_RB want_VB to_TO watch_VB movies_NNS on_IN this_DT little_JJ screen_NN so_IN the_DT sound_NN is_VBZ adequate_JJ for_IN news_NN ,_, game_NN shows_NNS ,_, and_CC regular_JJ TV_NN programs_NNS ._.

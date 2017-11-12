@@ -1,0 +1,5 @@
+I_PRP wanted_VBD a_DT good_JJ smartphone_NN ,_, but_CC did_VBD not_RB want_VB to_TO spend_VB that_DT much_JJ ._.
+This_DT Motorola_NNP Atrix_NNP is_VBZ exactly_RB what_WP I_PRP wanted_VBD ._.
+Fast_NNP Android_NNP OS_NNP ._.
+Although_IN the_DT screen_NN is_VBZ not_RB as_RB good_JJ as_IN the_DT Galaxy_NNP S2_NNP o_NNP S3_NNP ,_, it_PRP is_VBZ a_DT very_RB good_JJ phone_NN ..._: and_CC a_DT lot_NN cheaper_JJR ._.
+I_PRP am_VBP very_RB happy_JJ with_IN this_DT purchase_NN ._.

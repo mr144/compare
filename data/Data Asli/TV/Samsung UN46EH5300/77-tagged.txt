@@ -1,0 +1,9 @@
+Perfect_NNP addition_NN to_TO my_PRP$ kitchen_NN ._.
+Pros_NNS :_: Lots_NNS of_IN solid_JJ features_NNS for_IN the_DT money_NN ._.
+Picture_NNP quality_NN ,_, colors_NNS and_CC backlighting_NN look_VBP great_JJ ._.
+Smart_NNP TV_NNP features_NNS are_VBP very_RB nice_JJ ,_, Netflix_NNP ,_, HBO_NNP Go_NNP ,_, Weather_NNP Apps_NNP work_NN perfectly_RB over_IN wireless-N_JJ network_NN in_IN my_PRP$ house_NN ._.
+There_EX is_VBZ a_DT lot_NN of_IN bad_JJ reviews_NNS on_IN Samsung_NNP 's_POS Smart_NNP TV_NN features_NNS ,_, however_RB I_PRP find_VBP it_PRP to_TO be_VB great_JJ and_CC similar_JJ to_TO the_DT competition_NN ._.
+Cons_NNS :_: Samsung_NNP Smart_NNP TV_NNP starts_VBZ slowly_RB and_CC does_VBZ not_RB offer_VB much_RB for_IN apps_NNS ._.
+Youtube_NNP 's_POS Samsung_NNP app_NN is_VBZ lagging_VBG behind_IN other_JJ competitors_NNS ._.
+Pretty_NNP much_RB the_DT same_JJ as_IN Roku_NNP ._.
+Wish_NNP the_DT selection_NN was_VBD similar_JJ to_TO Amazon_NNP Apps_NNP or_CC Google_NNP Play_NNP ._.

@@ -1,0 +1,29 @@
+=========
+
+prep_like(Beautiful-13, me-2)
+advmod(me-2, so-3)
+advmod(me-2, much-4)
+det(aplications-9, this-5)
+amod(aplications-9, mobile-6)
+amod(aplications-9, many-8)
+dep(me-2, aplications-9)
+nsubj(Beautiful-13, it-11)
+cop(Beautiful-13, is-12)
+root(ROOT-0, Beautiful-13)
+
+=========
+
+nsubj(Love-2, i-1)
+root(ROOT-0, Love-2)
+nsubj(much-5, it-3)
+advmod(much-5, so-4)
+xcomp(Love-2, much-5)
+
+=========
+
+nsubj(recomend-2, i-1)
+root(ROOT-0, recomend-2)
+det(product-4, this-3)
+dobj(recomend-2, product-4)
+prep_for(recomend-2, use-6)
+

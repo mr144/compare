@@ -1,0 +1,50 @@
+=========
+
+ccomp(takes-21, Awesome-1)
+det(little-4, a-3)
+npadvmod(overwhelming-5, little-4)
+conj_and(Awesome-1, overwhelming-5)
+ccomp(takes-21, overwhelming-5)
+mark(scanned-9, once-7)
+nsubj(scanned-9, I-8)
+advcl(takes-21, scanned-9)
+det(manual-11, the-10)
+dobj(scanned-9, manual-11)
+det(items-14, some-13)
+prep_for(manual-11, items-14)
+nsubj(needed-16, items-14)
+rcmod(items-14, needed-16)
+dobj(needed-16, explanation-17)
+det(camera-20, this-19)
+nsubj(takes-21, camera-20)
+root(ROOT-0, takes-21)
+det(pictures-24, the-22)
+amod(pictures-24, best-23)
+dobj(takes-21, pictures-24)
+
+=========
+
+ccomp(found-12, Head-1)
+conj_and(Head-1, shoulders-3)
+ccomp(found-12, shoulders-3)
+poss(point-n-shoot-7, your-5)
+amod(point-n-shoot-7, normal-6)
+prep_above(shoulders-3, point-n-shoot-7)
+nsubj(found-12, I-9)
+aux(found-12, have-10)
+neg(found-12, not-11)
+root(ROOT-0, found-12)
+det(situation-15, a-13)
+amod(situation-15, photo-14)
+dobj(found-12, situation-15)
+complm(handle-21, that-16)
+det(camera-18, this-17)
+nsubj(handle-21, camera-18)
+aux(handle-21, could-19)
+neg(handle-21, not-20)
+ccomp(found-12, handle-21)
+
+=========
+
+root(ROOT-0, Killer-1)
+

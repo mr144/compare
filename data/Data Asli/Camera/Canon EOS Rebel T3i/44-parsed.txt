@@ -1,0 +1,38 @@
+=========
+
+ccomp(getting-8, makes-1)
+nsubj(want-3, me-2)
+ccomp(makes-1, want-3)
+dobj(want-3, another-4)
+aux(getting-8, will-6)
+aux(getting-8, be-7)
+root(ROOT-0, getting-8)
+det(t3ithank-11, a-9)
+amod(t3ithank-11, second-10)
+dobj(getting-8, t3ithank-11)
+nsubj(getting-8, you-12)
+
+=========
+
+advmod(packed-2, neatly-1)
+csubj(thought-3, packed-2)
+root(ROOT-0, thought-3)
+nsubj(new-7, it-4)
+cop(new-7, was-5)
+advmod(new-7, still-6)
+ccomp(thought-3, new-7)
+
+=========
+
+root(ROOT-0, thank-1)
+dobj(thank-1, you-2)
+advmod(much-4, so-3)
+advmod(thank-1, much-4)
+advmod(fast-7, really-6)
+amod(service-8, fast-7)
+dobj(thank-1, service-8)
+
+=========
+
+root(ROOT-0, carol-1)
+

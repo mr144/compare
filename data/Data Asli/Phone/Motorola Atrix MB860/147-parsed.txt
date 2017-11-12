@@ -1,0 +1,103 @@
+=========
+
+nsubj(switched-2, I-1)
+root(ROOT-0, switched-2)
+prep_from(switched-2, iPhone-4)
+num(iPhone-4, 3g-5)
+det(phone-8, this-7)
+prep_to(switched-2, phone-8)
+det(hype-12, the-11)
+prep_due_to(switched-2, hype-12)
+det(phone-15, this-14)
+prep_regarding(hype-12, phone-15)
+
+=========
+
+mark(upgraded-3, After-1)
+nsubj(upgraded-3, I-2)
+advcl(found-9, upgraded-3)
+prep_to(upgraded-3, Android-5)
+num(Android-5, 2.3.6-6)
+nsubj(found-9, I-8)
+root(ROOT-0, found-9)
+det(lot-11, a-10)
+dobj(found-9, lot-11)
+prep_of(lot-11, issues-13)
+det(phone-16, this-15)
+prep_with(found-9, phone-16)
+
+=========
+
+nn(browser-2, Internet-1)
+nsubj(crashed-3, browser-2)
+ccomp(rebooted-6, crashed-3)
+nsubj(rebooted-6, phone-5)
+nsubj(phone-10, phone-5)
+nsubj(hang-13, phone-5)
+root(ROOT-0, rebooted-6)
+prep_by(rebooted-6, itself-8)
+conj_and(rebooted-6, phone-10)
+acomp(phone-10, unresponsive-11)
+conj_and(rebooted-6, hang-13)
+
+=========
+
+dep(disapointment-4, Basically-1)
+det(disapointment-4, a-2)
+amod(disapointment-4, total-3)
+root(ROOT-0, disapointment-4)
+
+=========
+
+det(wonder-2, No-1)
+nsubj(sell-7, wonder-2)
+det(phone-4, this-3)
+dep(wonder-2, phone-4)
+aux(sell-7, did-5)
+neg(sell-7, not-6)
+root(ROOT-0, sell-7)
+dobj(sell-7, that-8)
+advmod(sell-7, well-9)
+
+=========
+
+nsubj(had-2, I-1)
+nsubj(had-10, I-1)
+root(ROOT-0, had-2)
+det(phone-5, a-3)
+nn(phone-5, motorolla-4)
+dobj(had-2, phone-5)
+nn(4g-8, atrix-7)
+prep_before(had-2, 4g-8)
+conj_and(had-2, had-10)
+dobj(had-10, problem-11)
+det(year-14, a-13)
+prep_within(problem-11, year-14)
+
+=========
+
+nsubj(learn-2, Lesson-1)
+root(ROOT-0, learn-2)
+nsubj(buy-6, I-3)
+aux(buy-6, will-4)
+neg(buy-6, not-5)
+ccomp(learn-2, buy-6)
+det(phone-9, any-7)
+nn(phone-9, motorolla-8)
+dobj(buy-6, phone-9)
+advmod(buy-6, anymore-10)
+
+=========
+
+advmod(bought-4, Hopefully-1)
+dep(bought-4, after-2)
+nsubj(bought-4, google-3)
+advcl(improved-11, bought-4)
+dobj(bought-4, motorolla-5)
+advmod(bought-4, mobility-6)
+poss(quality-8, their-7)
+nsubjpass(improved-11, quality-8)
+aux(improved-11, can-9)
+auxpass(improved-11, be-10)
+root(ROOT-0, improved-11)
+

@@ -1,0 +1,61 @@
+=========
+
+amod(Everyone-4, Incredible-1)
+amod(Everyone-4, set-2)
+amod(Everyone-4, !!-3)
+nsubj(seen-7, Everyone-4)
+nsubjpass(blown-11, Everyone-4)
+aux(seen-7, has-6)
+rcmod(Everyone-4, seen-7)
+dobj(seen-7, this-8)
+aux(blown-11, has-9)
+auxpass(blown-11, been-10)
+root(ROOT-0, blown-11)
+prt(blown-11, away-12)
+det(colors-15, the-14)
+agent(blown-11, colors-15)
+
+=========
+
+nsubj(cut-3, I-1)
+nsubj(using-9, I-1)
+aux(cut-3, have-2)
+root(ROOT-0, cut-3)
+det(cable-5, the-4)
+dobj(cut-3, cable-5)
+prt(cut-3, off-6)
+aux(using-9, am-8)
+conj_and(cut-3, using-9)
+det(antenna-12, an-10)
+nn(antenna-12, OTA-11)
+dobj(using-9, antenna-12)
+
+=========
+
+nn(H.D.-2, Free-1)
+nsubj(perfect-4, H.D.-2)
+cop(perfect-4, is-3)
+root(ROOT-0, perfect-4)
+mark(!!!-7, for-5)
+nsubj(!!!-7, me-6)
+advcl(perfect-4, !!!-7)
+nsubj(receive-9, We-8)
+ccomp(!!!-7, receive-9)
+predet(networks-13, all-10)
+det(networks-13, the-11)
+amod(networks-13, major-12)
+dobj(receive-9, networks-13)
+advmod(receive-9, perfectly-14)
+
+=========
+
+det(3D-2, The-1)
+nsubj(stunning-4, 3D-2)
+cop(stunning-4, is-3)
+root(ROOT-0, stunning-4)
+
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+

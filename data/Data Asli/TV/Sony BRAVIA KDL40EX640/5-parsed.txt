@@ -1,0 +1,22 @@
+=========
+
+det(tv-2, This-1)
+nsubj(was-3, tv-2)
+root(ROOT-0, was-3)
+nn(plus-6, sale-5)
+prep_on(was-3, plus-6)
+cop(TV-12, is-7)
+det(TV-12, the-8)
+quantmod(40-10, only-9)
+num(TV-12, 40-10)
+nn(TV-12, inch-11)
+rcmod(plus-6, TV-12)
+nsubj(fit-14, TV-12)
+rcmod(TV-12, fit-14)
+poss(custom-18, our-15)
+advmod(made-17, already-16)
+amod(custom-18, made-17)
+nsubj(made-19, custom-18)
+ccomp(fit-14, made-19)
+dobj(made-19, bookcases-20)
+

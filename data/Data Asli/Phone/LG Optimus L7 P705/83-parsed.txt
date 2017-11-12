@@ -1,0 +1,31 @@
+=========
+
+det(phone-2, The-1)
+root(ROOT-0, phone-2)
+nsubj(nice-5, itself-3)
+nsubj(works-7, itself-3)
+cop(nice-5, is-4)
+ccomp(phone-2, nice-5)
+ccomp(phone-2, works-7)
+conj_and(nice-5, works-7)
+acomp(works-7, great-8)
+cc(great-8, but-9)
+num(exception-12, one-11)
+prep_with(great-8, exception-12)
+nn(data-15, Mobile-14)
+nsubj(work-18, data-15)
+aux(work-18, does-16)
+neg(work-18, not-17)
+dep(phone-2, work-18)
+nn(network-24, AT&T-20)
+appos(network-24, goPhone-22)
+prep_on(work-18, network-24)
+
+=========
+
+nsubj(works-2, WiFi-1)
+root(ROOT-0, works-2)
+acomp(works-2, fine-3)
+det(way-6, the-5)
+prep_by(fine-3, way-6)
+

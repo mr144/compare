@@ -1,0 +1,74 @@
+=========
+
+root(ROOT-0, Recieved-1)
+poss(K20D-4, my-2)
+amod(K20D-4, new-3)
+dobj(Recieved-1, K20D-4)
+det(days-7, a-5)
+amod(days-7, few-6)
+npadvmod(back-8, days-7)
+advmod(Recieved-1, back-8)
+
+=========
+
+mark(moved-4, as-1)
+det(camera-3, the-2)
+nsubj(moved-4, camera-3)
+advcl(hear-10, moved-4)
+poss(hands-7, my-6)
+prep_in(moved-4, hands-7)
+nsubj(hear-10, i-8)
+aux(hear-10, could-9)
+root(ROOT-0, hear-10)
+dobj(hear-10, something-11)
+partmod(something-11, shaking-12)
+advmod(shaking-12, inside-13)
+
+=========
+
+nsubj(asked-2, i-1)
+root(ROOT-0, asked-2)
+nsubj(replace-5, Amazon-3)
+aux(replace-5, to-4)
+xcomp(asked-2, replace-5)
+dobj(replace-5, it-6)
+nsubj(did-9, they-8)
+dep(asked-2, did-9)
+nsubj(fast-12, it-10)
+advmod(fast-12, very-11)
+xcomp(did-9, fast-12)
+det(one-17, the-15)
+amod(one-17, next-16)
+nsubj(has-18, one-17)
+conj_and(asked-2, has-18)
+det(problem-21, the-19)
+amod(problem-21, same-20)
+dobj(has-18, problem-21)
+
+=========
+
+nsubj(wonder-2, i-1)
+root(ROOT-0, wonder-2)
+det(K20D-5, all-4)
+nsubj(are-6, K20D-5)
+parataxis(wonder-2, are-6)
+prep_like(are-6, that-8)
+
+=========
+
+nsubjpass(assembled-3, mine-1)
+auxpass(assembled-3, was-2)
+root(ROOT-0, assembled-3)
+det(Philippines-6, the-5)
+prep_in(assembled-3, Philippines-6)
+
+=========
+
+poss(comments-2, your-1)
+nsubj(please-4, comments-2)
+root(ROOT-0, please-4)
+
+=========
+
+root(ROOT-0, thanks-1)
+

@@ -1,0 +1,36 @@
+=========
+
+root(ROOT-0, Nice-1)
+nn(quality-3, picture-2)
+dobj(Nice-1, quality-3)
+prep_in(Nice-1, 2D-5)
+prep_in(Nice-1, 3D-7)
+conj_and(2D-5, 3D-7)
+
+=========
+
+det(setting-3, The-1)
+nn(setting-3, Vivid-2)
+nsubj(makes-4, setting-3)
+root(ROOT-0, makes-4)
+det(movies-6, the-5)
+nsubj(look-7, movies-6)
+ccomp(makes-4, look-7)
+prep_like(look-7, videos-9)
+
+=========
+
+csubj(stuck-15, Slight-1)
+dobj(Slight-1, Con-2)
+advmod(button-10, Sometimes-4)
+det(button-10, the-5)
+num(button-10, &#34;-6)
+nn(button-10, v-7)
+num(button-10, &#34;-8)
+nn(button-10, ia-9)
+dep(Slight-1, button-10)
+det(remote-13, the-12)
+prep_on(button-10, remote-13)
+dep(stuck-15, gets-14)
+root(ROOT-0, stuck-15)
+

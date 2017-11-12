@@ -1,0 +1,154 @@
+=========
+
+dep(phone-4, What-1)
+det(phone-4, a-2)
+amod(phone-4, great-3)
+dep(looking-8, phone-4)
+nsubj(looking-8, I-6)
+aux(looking-8, was-7)
+root(ROOT-0, looking-8)
+prep_for(looking-8, something-10)
+amod(something-10, new-11)
+prep_for(looking-8, modern-13)
+conj_and(something-10, modern-13)
+prep_for(looking-8, fun-15)
+conj_and(something-10, fun-15)
+prep_for(looking-8, elegant-17)
+conj_and(something-10, elegant-17)
+prep_for(looking-8, sophistic-20)
+conj_and(something-10, sophistic-20)
+
+=========
+
+nsubj(phone-4, This-1)
+cop(phone-4, is-2)
+det(phone-4, the-3)
+root(ROOT-0, phone-4)
+poss(smartphones-18, its-6)
+dep(smartphones-18, actually-7)
+nn(device-11, medium-9)
+nn(device-11, end-10)
+conj_and(actually-7, device-11)
+dep(smartphones-18, device-11)
+det(generation-15, the-13)
+amod(generation-15, new-14)
+prep_by(device-11, generation-15)
+prep_of(generation-15, Sony-17)
+appos(phone-4, smartphones-18)
+nsubj(one-23, this-21)
+cop(one-23, is-22)
+conj_but(phone-4, one-23)
+rcmod(one-23, is-24)
+dep(great-26, what-25)
+dep(is-24, great-26)
+prep_for(great-26, anyone-28)
+partmod(anyone-28, looking-29)
+nn(catchy-32, something-31)
+prep_for(looking-29, catchy-32)
+dep(is-24, durable-34)
+conj_and(great-26, durable-34)
+dep(is-24, well-36)
+advmod(great-26, well-36)
+conj_and(great-26, well-36)
+dep(is-24, made-37)
+conj_and(great-26, made-37)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(have-22, UPDATE-1)
+dep(UPDATE-1, August-3)
+num(August-3, 22-4)
+num(August-3, 20-6)
+dep(August-3, days-7)
+prep_of(days-7, use-9)
+det(phone-12, The-11)
+nsubj(amazing-14, phone-12)
+cop(amazing-14, is-13)
+rcmod(UPDATE-1, amazing-14)
+predet(time-19, all-17)
+det(time-19, this-18)
+prep_after(have-22, time-19)
+nsubj(have-22, I-21)
+root(ROOT-0, have-22)
+det(complains-24, no-23)
+dobj(have-22, complains-24)
+prep_about(complains-24, it-26)
+
+=========
+
+det(bugs-2, No-1)
+root(ROOT-0, bugs-2)
+det(problems-5, No-4)
+appos(bugs-2, problems-5)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+det(one-2, This-1)
+nsubj(last-3, one-2)
+root(ROOT-0, last-3)
+num(day-6, One-5)
+prep_about(last-3, day-6)
+num(days-9, two-8)
+prep_about(last-3, days-9)
+conj_or(day-6, days-9)
+nsubj(use-12, I-11)
+parataxis(last-3, use-12)
+dobj(use-12, Skype-13)
+dobj(use-12, whats-app-15)
+conj_and(Skype-13, whats-app-15)
+dobj(use-12, badoo-17)
+conj_and(Skype-13, badoo-17)
+nn(apps-20, news-19)
+dobj(use-12, apps-20)
+conj_and(Skype-13, apps-20)
+nn(widgets-23, weather-22)
+dobj(use-12, widgets-23)
+conj_and(Skype-13, widgets-23)
+dobj(use-12, more-25)
+conj_and(Skype-13, more-25)
+dep(use-12, so-27)
+nsubj(drainers-32, all-28)
+advmod(drainers-32, together-29)
+cop(drainers-32, are-30)
+nn(drainers-32, battery-31)
+dep(use-12, drainers-32)
+
+=========
+
+advmod(happy-2, Still-1)
+root(ROOT-0, happy-2)
+
+=========
+
+nsubj(recommend-2, I-1)
+nsubj(recommend-2', I-1)
+root(ROOT-0, recommend-2)
+conj_and(recommend-2, recommend-2')
+dobj(recommend-2, it-3)
+poss(price-7, today-5)
+prep_for(recommend-2, price-7)
+prep_for(recommend-2, quality-9)
+conj_and(price-7, quality-9)
+prep_of(recommend-2', course-13)
+dep(recommend-2, functionality-14)
+
+=========
+
+nsubj(update-2, Final-1)
+root(ROOT-0, update-2)
+tmod(update-2, September-3)
+num(September-3, 19-4)
+
+=========
+
+det(complains-2, No-1)
+nsubj(works-3, complains-2)
+root(ROOT-0, works-3)
+acomp(works-3, amazing-4)
+

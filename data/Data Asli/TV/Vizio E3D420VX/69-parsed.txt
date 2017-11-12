@@ -1,0 +1,34 @@
+=========
+
+root(ROOT-0, has-1)
+dobj(has-1, everything-2)
+dobj(wanted-4, everything-2)
+nsubj(wanted-4, we-3)
+rcmod(everything-2, wanted-4)
+
+=========
+
+amod(picture-2, sharp-1)
+nsubj(!!-7, picture-2)
+det(price-6, a-4)
+amod(price-6, great-5)
+conj_and(picture-2, price-6)
+nsubj(!!-7, price-6)
+root(ROOT-0, !!-7)
+nn(apps-9, web-8)
+nsubj(fine-11, apps-9)
+nsubj(had-15, apps-9)
+cop(fine-11, are-10)
+ccomp(!!-7, fine-11)
+aux(had-15, have-13)
+neg(had-15, not-14)
+ccomp(!!-7, had-15)
+conj_but(fine-11, had-15)
+det(chance-17, a-16)
+dobj(had-15, chance-17)
+aux(try-19, to-18)
+xcomp(had-15, try-19)
+det(3d-21, the-20)
+dobj(try-19, 3d-21)
+advmod(try-19, yet-22)
+

@@ -1,0 +1,36 @@
+=========
+
+det(camera-4, The-1)
+nn(camera-4, fujifilm-2)
+amod(camera-4, s2950-3)
+nsubj(present-7, camera-4)
+cop(present-7, was-5)
+det(present-7, a-6)
+root(ROOT-0, present-7)
+poss(yr-11, my-9)
+num(yr-11, 17-10)
+prep_for(present-7, yr-11)
+
+=========
+
+amod(Grandaughter-2, old-1)
+root(ROOT-0, Grandaughter-2)
+
+=========
+
+nsubj(loved-3, She-1)
+advmod(loved-3, absolutely-2)
+root(ROOT-0, loved-3)
+dobj(loved-3, it-4)
+
+=========
+
+root(ROOT-0, found-1)
+nsubj(easy-3, it-2)
+xcomp(found-1, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+xcomp(easy-3, clear-7)
+conj_and(use-5, clear-7)
+dobj(use-5, pictures-8)
+

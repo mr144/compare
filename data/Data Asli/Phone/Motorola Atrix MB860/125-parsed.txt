@@ -1,0 +1,62 @@
+=========
+
+nsubj(beast-7, This-1)
+cop(beast-7, was-2)
+advmod(beast-7, exactly-3)
+det(beast-7, the-4)
+amod(beast-7, dual-5)
+nn(beast-7, core-6)
+root(ROOT-0, beast-7)
+det(phone-10, a-9)
+prep_of(beast-7, phone-10)
+prep_for(looking-13, phone-10)
+nsubj(looking-13, I-11)
+aux(looking-13, was-12)
+rcmod(phone-10, looking-13)
+
+=========
+
+nsubj(better-5, Condition-1)
+nsubj(excellent-9, Condition-1)
+aux(better-5, could-2)
+aux(better-5, have-3)
+cop(better-5, been-4)
+root(ROOT-0, better-5)
+advmod(better-5, functionality-7)
+conj_but(better-5, functionality-7)
+cop(excellent-9, was-8)
+conj_but(better-5, excellent-9)
+
+=========
+
+poss(Atrix-3, My-1)
+amod(Atrix-3, old-2)
+nsubj(had-4, Atrix-3)
+root(ROOT-0, had-4)
+det(radio-8, a-5)
+amod(radio-8, better-6)
+nn(radio-8, GPS-7)
+dobj(had-4, radio-8)
+advmod(had-4, though-9)
+
+=========
+
+nsubj(better-3, it-1)
+cop(better-3, is-2)
+root(ROOT-0, better-3)
+prep_than(better-3, nokia-5)
+prep_than(better-3, samsung-7)
+conj_or(nokia-5, samsung-7)
+prep_than(better-3, blackberry-9)
+conj_or(nokia-5, blackberry-9)
+prep_than(better-3, iphone-11)
+conj_or(nokia-5, iphone-11)
+prep_than(better-3, nexus-13)
+conj_or(nokia-5, nexus-13)
+prep_than(better-3, htc-15)
+conj_or(nokia-5, htc-15)
+prep_than(better-3, sony-17)
+conj_or(nokia-5, sony-17)
+prep_than(better-3, LG-19)
+conj_or(nokia-5, LG-19)
+

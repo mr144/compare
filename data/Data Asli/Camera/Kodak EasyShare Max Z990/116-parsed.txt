@@ -1,0 +1,178 @@
+=========
+
+nsubj(LOVE-2, I-1)
+root(ROOT-0, LOVE-2)
+nn(BUT-15, THIS-3)
+nn(BUT-15, CAMERA-4)
+nn(BUT-15, !!!-5)
+nn(BUT-15, I-6)
+nn(BUT-15, AM-7)
+nn(BUT-15, NOT-8)
+nn(BUT-15, A-9)
+nn(BUT-15, PRO-10)
+nn(BUT-15, AT-11)
+nn(BUT-15, SHOOTING-12)
+nn(BUT-15, PHOTOS-13)
+dobj(LOVE-2, BUT-15)
+nsubj(WANTED-17, I-16)
+rcmod(BUT-15, WANTED-17)
+det(CAMERA-20, A-18)
+nn(CAMERA-20, REPLACEMENT-19)
+dobj(WANTED-17, CAMERA-20)
+det(ZOOM-24, A-22)
+nn(ZOOM-24, LONGER-23)
+prep_with(WANTED-17, ZOOM-24)
+nn(BILL-30, THIS-26)
+nn(BILL-30, ONE-27)
+nn(BILL-30, FILLS-28)
+nn(BILL-30, THE-29)
+prep_with(WANTED-17, BILL-30)
+conj_and(ZOOM-24, BILL-30)
+
+=========
+
+dep(CLEAR-6, THE-1)
+nn(CLEAR-6, LONG-2)
+nn(CLEAR-6, ZOOM-3)
+nn(CLEAR-6, SHOTS-4)
+nn(CLEAR-6, ARE-5)
+nsubj(GREAT-11, CLEAR-6)
+det(COLORS-9, THE-8)
+conj_and(CLEAR-6, COLORS-9)
+nsubj(GREAT-11, COLORS-9)
+cop(GREAT-11, ARE-10)
+root(ROOT-0, GREAT-11)
+
+=========
+
+nsubj(LIKE-2, I-1)
+root(ROOT-0, LIKE-2)
+det(TOO-9, THE-3)
+nn(TOO-9, 3-4)
+nn(TOO-9, KODAK-5)
+nn(TOO-9, TYPE-6)
+nn(TOO-9, FILM-7)
+nn(TOO-9, SETTING-8)
+dobj(LIKE-2, TOO-9)
+
+=========
+
+nsubj(CAN-2, YOU-1)
+root(ROOT-0, CAN-2)
+nn(KODACOLOR-4, CHOOSE-3)
+dobj(CAN-2, KODACOLOR-4)
+advmod(CAN-2, EKTACHROME-6)
+nn(EFFECTS-10, OR-8)
+nn(EFFECTS-10, KODACHROME-9)
+dep(WANT-13, EFFECTS-10)
+mark(WANT-13, IF-11)
+nsubj(WANT-13, YOU-12)
+dep(CAN-2, WANT-13)
+
+=========
+
+nsubj(SOMETIMES-2, I-1)
+root(ROOT-0, SOMETIMES-2)
+nn(TOO-7, USE-3)
+nn(TOO-7, THE-4)
+nn(TOO-7, MANUAL-5)
+nn(TOO-7, SETTINGS-6)
+nsubj(GET-10, TOO-7)
+conj_and(TOO-7, STILL-9)
+nsubj(GET-10, STILL-9)
+ccomp(SOMETIMES-2, GET-10)
+amod(RESULTS-12, GREAT-11)
+dobj(GET-10, RESULTS-12)
+
+=========
+
+nn(PRICE-3, AMAZONS-1)
+nn(PRICE-3, BUNDLE-2)
+nsubj(BEST-6, PRICE-3)
+cop(BEST-6, WAS-4)
+det(BEST-6, THE-5)
+root(ROOT-0, BEST-6)
+dobj(FOUND-8, BEST-6)
+nsubj(FOUND-8, I-7)
+rcmod(BEST-6, FOUND-8)
+
+=========
+
+nn(CAMERA-3, BUY-1)
+nn(CAMERA-3, THIS-2)
+nsubj(FORGET-7, CAMERA-3)
+xsubj(UPDATE-9, CAMERA-3)
+nn(N'T-6, DO-5)
+conj_and(CAMERA-3, N'T-6)
+nsubj(FORGET-7, N'T-6)
+xsubj(UPDATE-9, N'T-6)
+root(ROOT-0, FORGET-7)
+aux(UPDATE-9, TO-8)
+xcomp(FORGET-7, UPDATE-9)
+det(CARD-16, THE-10)
+nn(CARD-16, FIRMWARE-11)
+nn(CARD-16, AND-12)
+nn(CARD-16, FORMATT-13)
+nn(CARD-16, THE-14)
+nn(CARD-16, SD-15)
+nsubj(INCREASE-18, CARD-16)
+aux(INCREASE-18, TO-17)
+xcomp(UPDATE-9, INCREASE-18)
+nn(SPEED-20, THE-19)
+dobj(INCREASE-18, SPEED-20)
+dobj(INCREASE-18, FEATURES-22)
+conj_and(SPEED-20, FEATURES-22)
+nn(BABY-25, THIS-24)
+prep_of(SPEED-20, BABY-25)
+
+=========
+
+root(ROOT-0, OH-1)
+
+=========
+
+nsubj(TOOK-2, I-1)
+root(ROOT-0, TOOK-2)
+nn(CAMERA-4, THIS-3)
+nsubj(WORK-6, CAMERA-4)
+aux(WORK-6, TO-5)
+xcomp(TOOK-2, WORK-6)
+nn(TOO-12, AND-7)
+nn(TOO-12, TWO-8)
+nn(TOO-12, CO-WORKERS-9)
+nn(TOO-12, WANT-10)
+num(TOO-12, ONE-11)
+dobj(WORK-6, TOO-12)
+
+=========
+
+nsubj(THIS-2, PICK-1)
+root(ROOT-0, THIS-2)
+dobj(THIS-2, ONE-3)
+prt(THIS-2, UP-4)
+
+=========
+
+nsubj(FEELS-3, IT-2)
+root(ROOT-0, FEELS-3)
+dobj(FEELS-3, GOOD-4)
+amod(HANDS-7, YOUR-6)
+prep_in(GOOD-4, HANDS-7)
+
+=========
+
+nsubj(THINK-4, I-1)
+aux(THINK-4, DO-2)
+neg(THINK-4, N'T-3)
+root(ROOT-0, THINK-4)
+nsubjpass(DISAPOINTED-8, YOU-5)
+aux(DISAPOINTED-8, WILL-6)
+auxpass(DISAPOINTED-8, BE-7)
+ccomp(THINK-4, DISAPOINTED-8)
+
+=========
+
+nn(AMAZON-3, TXS-1)
+nn(AMAZON-3, AGAIN-2)
+root(ROOT-0, AMAZON-3)
+

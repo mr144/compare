@@ -1,0 +1,36 @@
+=========
+
+dep(described-3, just-1)
+dep(just-1, as-2)
+root(ROOT-0, described-3)
+dep(fantastic-6, a-5)
+dep(described-3, fantastic-6)
+dep(described-3, easy-8)
+conj_and(fantastic-6, easy-8)
+aux(learn-10, to-9)
+dep(fantastic-6, learn-10)
+amod(camera-12, DSLR-11)
+dobj(learn-10, camera-12)
+
+=========
+
+det(choice-3, a-1)
+amod(choice-3, great-2)
+nsubj(make-6, choice-3)
+xsubj(select-9, choice-3)
+nsubj(get-16, choice-3)
+advmod(make-6, just-5)
+root(ROOT-0, make-6)
+advmod(make-6, sure-7)
+aux(select-9, to-8)
+xcomp(make-6, select-9)
+poss(lenses-11, your-10)
+dobj(select-9, lenses-11)
+advmod(select-9, carefully-12)
+aux(get-16, do-14)
+neg(get-16, not-15)
+conj_and(make-6, get-16)
+det(lenses-19, the-17)
+nn(lenses-19, stock-18)
+dobj(get-16, lenses-19)
+

@@ -1,0 +1,33 @@
+=========
+
+det(phone-2, This-1)
+nsubj(works-3, phone-2)
+root(ROOT-0, works-3)
+acomp(works-3, great-4)
+
+=========
+
+det(battery-2, The-1)
+nsubj(last-3, battery-2)
+root(ROOT-0, last-3)
+advmod(last-3, longer-4)
+mark(thought-9, than-5)
+nsubj(thought-9, I-6)
+aux(thought-9, would-7)
+aux(thought-9, have-8)
+dep(longer-4, thought-9)
+det(phone-13, a-11)
+amod(phone-13, smart-12)
+prep_for(thought-9, phone-13)
+
+=========
+
+nsubj(had-4, I-1)
+aux(had-4, have-2)
+neg(had-4, not-3)
+root(ROOT-0, had-4)
+det(problems-6, any-5)
+dobj(had-4, problems-6)
+det(phone-9, this-8)
+prep_with(had-4, phone-9)
+

@@ -1,0 +1,33 @@
+=========
+
+nsubj(had-2, Have-1)
+root(ROOT-0, had-2)
+dobj(had-2, this-3)
+det(year-6, a-5)
+prep_for(this-3, year-6)
+advmod(year-6, now-7)
+cop(not-11, am-9)
+advmod(not-11, still-10)
+conj_and(had-2, not-11)
+prep_to(not-11, happy-13)
+
+=========
+
+det(quality-2, The-1)
+nsubj(same-9, quality-2)
+det(pictures-5, the-4)
+prep_of(quality-2, pictures-5)
+cop(same-9, are-6)
+neg(same-9, not-7)
+det(same-9, the-8)
+root(ROOT-0, same-9)
+mark(I-17, as-10)
+det(camera-15, the-11)
+num(camera-15, 4-12)
+nn(camera-15, pentax-13)
+nn(camera-15, film-14)
+nsubj(I-17, camera-15)
+cop(I-17, 's-16)
+advcl(same-9, I-17)
+amod(I-17, own-18)
+

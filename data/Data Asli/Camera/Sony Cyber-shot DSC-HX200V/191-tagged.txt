@@ -1,0 +1,4 @@
+I_PRP really_RB liked_VBD this_DT camera_NN ,_, but_CC it_PRP just_RB did_VBD not_RB output_NN the_DT quality_NN of_IN photo_NN or_CC video_NN that_IN the_DT DSLR_NNP does_VBZ ._.
+I_PRP upgraded_VBD to_TO the_DT A57_NNP ._.
+For_IN the_DT average_JJ user_NN ,_, this_DT would_MD be_VB a_DT wonderful_JJ camera_NN ._.
+I_PRP require_VBP a_DT more_RBR professional_JJ camera_NN ._.

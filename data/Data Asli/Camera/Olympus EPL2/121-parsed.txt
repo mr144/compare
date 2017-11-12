@@ -1,0 +1,67 @@
+=========
+
+det(newbie-3, a-2)
+prep_as(appealed-10, newbie-3)
+prep_to(newbie-3, photography-5)
+det(EPL2-8, the-7)
+nsubj(appealed-10, EPL2-8)
+advmod(appealed-10, really-9)
+root(ROOT-0, appealed-10)
+prep_to(appealed-10, me-12)
+
+=========
+
+nsubj(felt-2, I-1)
+root(ROOT-0, felt-2)
+nsubj(time-5, it-3)
+xsubj(move-7, it-3)
+aux(time-5, was-4)
+ccomp(felt-2, time-5)
+aux(move-7, to-6)
+xcomp(time-5, move-7)
+poss(IS-14, my-9)
+amod(IS-14, old-10)
+nn(IS-14, Canon-11)
+nn(IS-14, Powershot-12)
+num(IS-14, 880-13)
+prep_beyond(move-7, IS-14)
+prep_to(move-7, something-16)
+det(control-21, some-18)
+advmod(manual-20, more-19)
+amod(control-21, manual-20)
+prep_with(something-16, control-21)
+
+=========
+
+advmod(disappointed-6, So-1)
+advmod(So-1, far-2)
+nsubj(disappointed-6, I-3)
+cop(disappointed-6, am-4)
+neg(disappointed-6, not-5)
+root(ROOT-0, disappointed-6)
+
+=========
+
+nsubj(stone-7, This-1)
+aux(stone-7, could-2)
+cop(stone-7, be-3)
+det(stone-7, a-4)
+amod(stone-7, great-5)
+amod(stone-7, stepping-6)
+root(ROOT-0, stone-7)
+nsubj(wants-11, stone-7)
+nsubj(ready-21, stone-7)
+prep_for(stone-7, anyone-9)
+rcmod(stone-7, wants-11)
+aux(move-13, to-12)
+xcomp(wants-11, move-13)
+prt(move-13, up-14)
+prep_to(move-13, SLRs-16)
+cop(ready-21, are-18)
+neg(ready-21, not-19)
+advmod(ready-21, quite-20)
+rcmod(stone-7, ready-21)
+conj_but(wants-11, ready-21)
+dep(ready-21, just-22)
+dep(just-22, yet-23)
+

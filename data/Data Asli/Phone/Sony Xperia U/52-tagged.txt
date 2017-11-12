@@ -1,0 +1,4 @@
+Amazing_JJ smartphone_NN !!!_VBP I_PRP suggest_VBP you_PRP upgrade_VBP it_PRP to_TO Android_NNP 4.0_CD ._.
+Good_JJ sound_NN ,_, good_JJ touchscreen_NN ._.
+Nice_JJ camera_NN ,_, with_IN many_JJ options_NNS ._.
+Recharges_VBZ fast_RB ,_, though_IN the_DT battery_NN runs_NNS dry_VBP a_DT little_JJ bit_NN too_RB fast_RB ,_, I_PRP have_VBP to_TO recharge_VB it_PRP every_DT night_NN ._.

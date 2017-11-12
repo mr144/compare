@@ -1,0 +1,59 @@
+=========
+
+nsubj(put-4, First-1)
+prep_off(First-1, i-3)
+root(ROOT-0, put-4)
+poss(card-8, my-6)
+nn(card-8, sim-7)
+prep_in(put-4, card-8)
+nsubj(read-13, it-10)
+aux(read-13, would-11)
+neg(read-13, not-12)
+conj_and(put-4, read-13)
+dobj(read-13, it-14)
+prep(read-13, for-15)
+pcomp(for-15, like-16)
+det(night-19, a-17)
+amod(night-19, whole-18)
+prep_like(for-15, night-19)
+
+=========
+
+nsubj(kept-2, it-1)
+nsubj(read-8, it-1)
+root(ROOT-0, kept-2)
+xcomp(kept-2, saying-3)
+xcomp(saying-3, searching-4)
+aux(read-8, would-6)
+neg(read-8, not-7)
+conj_but(kept-2, read-8)
+dobj(read-8, it-9)
+
+=========
+
+advmod(read-4, When-1)
+nsubj(read-4, it-2)
+advmod(read-4, finally-3)
+advcl(was-8, read-4)
+dobj(read-4, it-5)
+det(problem-7, the-6)
+nsubj(was-8, problem-7)
+root(ROOT-0, was-8)
+nsubj(kept-10, it-9)
+ccomp(was-8, kept-10)
+xcomp(kept-10, turning-11)
+prt(turning-11, off-12)
+advmod(turning-11, randomly-13)
+advmod(was-17, even-14)
+dep(was-17, though-15)
+nsubj(was-17, i-16)
+ccomp(turning-11, was-17)
+num(%-20, 70-19)
+prep_at(was-17, %-20)
+
+=========
+
+root(ROOT-0, Waste-1)
+prep_of(Waste-1, $-3)
+num($-3, 190-4)
+

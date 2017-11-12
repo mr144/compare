@@ -1,0 +1,32 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(complaints-4, no-3)
+dobj(have-2, complaints-4)
+
+=========
+
+nsubj(HDTV-5, This-1)
+cop(HDTV-5, is-2)
+det(HDTV-5, a-3)
+amod(HDTV-5, great-4)
+root(ROOT-0, HDTV-5)
+det(picture-8, the-7)
+nsubj(clear-11, picture-8)
+cop(clear-11, is-9)
+advmod(clear-11, crystal-10)
+conj_and(HDTV-5, clear-11)
+
+=========
+
+poss(aspect-3, My-1)
+amod(aspect-3, favorite-2)
+nsubj(base-10, aspect-3)
+det(TV-6, the-5)
+prep_of(aspect-3, TV-6)
+cop(base-10, is-7)
+det(base-10, the-8)
+amod(base-10, swivel-9)
+root(ROOT-0, base-10)
+

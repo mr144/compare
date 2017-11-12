@@ -1,0 +1,50 @@
+=========
+
+det(camera-2, This-1)
+nsubj(everything-4, camera-2)
+cop(everything-4, is-3)
+root(ROOT-0, everything-4)
+nsubj(expected-6, I-5)
+rcmod(everything-4, expected-6)
+cc(more-8, and-7)
+dobj(expected-6, more-8)
+
+=========
+
+nsubj(gotten-4, I-1)
+xsubj(read-7, I-1)
+aux(gotten-4, have-2)
+neg(gotten-4, not-3)
+root(ROOT-0, gotten-4)
+aux(read-7, to-5)
+advmod(read-7, really-6)
+xcomp(gotten-4, read-7)
+det(manual-9, the-8)
+dobj(read-7, manual-9)
+prepc_as_of(read-7, yet-12)
+cop(person-19, being-15)
+det(person-19, a-16)
+nn(person-19, Canon-17)
+nn(person-19, EOS-18)
+dep(make-22, person-19)
+nsubj(make-22, I-20)
+aux(make-22, can-21)
+conj_but(gotten-4, make-22)
+nsubj(do-24, it-23)
+ccomp(make-22, do-24)
+dobj(want-27, what-25)
+nsubj(want-27, I-26)
+ccomp(do-24, want-27)
+prep_in(want-27, most-29)
+det(modes-32, the-31)
+prep_of(most-29, modes-32)
+
+=========
+
+det(definition-3, The-1)
+nn(definition-3, picture-2)
+nsubj(awesome-6, definition-3)
+cop(awesome-6, is-4)
+advmod(awesome-6, totally-5)
+root(ROOT-0, awesome-6)
+

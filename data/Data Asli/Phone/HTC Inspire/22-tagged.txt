@@ -1,0 +1,12 @@
+I_PRP bought_VBD the_DT phone_NN via_IN the_DT vendor_NN dideal_NN in_IN the_DT box_NN '_'' ._.
+The_DT phone_NN is_VBZ not_RB unlocked_VBN ._.
+It_PRP is_VBZ at_IN &_CC t_NNP locked_VBD ._.
+I_PRP called_VBD the_DT vendor_NN and_CC he_PRP send_VB me_PRP an_DT unlock_VBP code_NN ._.
+Then_RB i_FW found_VBD some_DT numbers_NNS in_IN the_DT call_NN log_VB ._.
+So_RB i_FW called_VBN HTC_NNP and_CC let_VB them_PRP check_VB the_DT IMEI_NNP ._.
+They_PRP confirmed_VBD that_IN the_DT phone_NN has_VBZ been_VBN activated_VBN a_DT year_NN ago_RB ._.
+Also_RB the_DT phone_NN itself_PRP had_VBD a_DT scratch_NN and_CC the_DT user_NN guidebook_NN looked_VBD very_RB self-made_JJ ._.
+-LRB-_-LRB- Kodak_NNP photopaper_NN for_IN the_DT cover_NN and_CC the_DT pages_NNS have_VBP been_VBN cut_VBN inappropriate_JJ ._. -RRB-_-RRB-
+The_DT Box_NNP looked_VBD like_IN it_PRP has_VBZ been_VBN used_VBN several_JJ times_NNS ._.
+There_EX is_VBZ no_DT notice_NN of_IN the_DT warranty_NN mentioned_VBN in_IN the_DT warranty_NN ._.
+The_DT phone_NN went_VBD back_RB on_IN the_DT day_NN i_FW recieved_VBD it_PRP ._.

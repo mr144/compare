@@ -1,0 +1,6 @@
+I_PRP had_VBD no_DT trouble_NN setting_VBG this_DT up_RP ,_, and_CC I_PRP am_VBP a_DT 54_CD year_NN old_JJ woman_NN with_IN no_DT expertise_NN in_IN electronics_NNS ._.
+-LRB-_-LRB- I_PRP have_VBP a_DT DTV_NNP with_IN antennae_NN -RRB-_-RRB- ._.
+It_PRP 's_VBZ actually_RB pretty_RB logical_JJ ._.
+It_PRP does_VBZ help_VB to_TO read_VB the_DT directions_NNS guys_NNS ._.
+Including_VBG the_DT one_NN for_IN the_DT TV_NN itself_PRP ._.
+It_PRP is_VBZ working_VBG very_RB well_RB and_CC was_VBD just_RB what_WP I_PRP needed_VBD ._.

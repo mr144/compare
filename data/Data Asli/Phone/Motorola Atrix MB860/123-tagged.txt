@@ -1,0 +1,31 @@
+The_DT good_JJ :_: It_PRP has_VBZ a_DT big_JJ ,_, bright_JJ display_NN ._.
+The_DT on-screen_JJ keyboard_NN was_VBD made_VBN better_RBR with_IN the_DT recent_JJ update_VBP to_TO Gingerbread_NNP so_IN it_PRP is_VBZ more_RBR accurate_JJ ._.
+Rotate_VB the_DT screen_NN for_IN bigger_JJR buttons_NNS ._.
+The_DT GPS_NNP is_VBZ incredibly_RB accurate_JJ ._.
+I_PRP live_VBP in_IN MS_NNP but_CC my_PRP$ computer_NN 's_POS GPS_NNP says_VBZ I_PRP am_VBP in_IN Alabama_NNP or_CC Florida_NNP all_PDT the_DT time_NN ._.
+It_PRP never_RB says_VBZ MS._NNP The_NNP Atrix_NNP 's_POS GPS_NNP gets_VBZ it_PRP right_RB ,_, all_PDT the_DT way_NN down_IN to_TO the_DT street_NN name_NN ._.
+I_PRP love_VBP the_DT wallpapers_NNS including_VBG the_DT Live_NNP Wallpapers_NNPS meaning_NN they_PRP move_VBP ._.
+The_DT camera_NN is_VBZ good_JJ and_CC the_DT zoom_NN is_VBZ spectacular_JJ ._.
+You_PRP have_VBP 7_CD home_NN screens_NNS which_WDT give_VBP you_PRP a_DT lot_NN of_IN room_NN to_TO store_NN apps_NNS for_IN quick_JJ access_NN ._.
+The_DT speakerphone_NN is_VBZ good_JJ ._.
+I_PRP do_VBP not_RB have_VB to_TO scream_VB into_IN it_PRP or_CC be_VB right_JJ on_IN it_PRP for_IN someone_NN to_TO hear_VB me_PRP ._.
+One_CD of_IN my_PRP$ favorite_JJ things_NNS is_VBZ the_DT fingerprint_NN sensor_NN ._.
+it_PRP is_VBZ super_JJ easy_JJ to_TO set_VB up_RP ._.
+I_PRP lock_VBP my_PRP$ phone_NN and_CC no_DT one_NN can_MD get_VB into_IN it_PRP ._.
+The_DT bad_JJ :_: The_DT battery_NN is_VBZ absolutely_RB horrible_JJ ._.
+you_PRP will_MD have_VB to_TO buy_VB an_DT extended_JJ battery_NN when_WRB you_PRP buy_VBP this_DT phone_NN ._.
+Buy_VB one_CD from_IN Anker_NNP -LRB-_-LRB- -LRB-_-LRB- ASIN_NNP :_: B007PZ95RW_NNP EC_NNP TECHNOLOGY_NNP 2X_NNP 1800mAh_NNP Li-ion_NNP Battery_NNP for_IN Motorola_NNP Atrix_NNP 4G_NNP ,_, ME860\/MB860_NNP &_CC 1X_NNP Multi-purpose_NNP USB_NNP Travel_NNP -RRB-_-RRB- for_IN $_$ 20_CD which_WDT will_MD come_VB with_IN 2_CD extended_JJ batteries_NNS and_CC a_DT charger_NN ._.
+Spare_JJ batteries_NNS are_VBP a_DT must_MD ._.
+The_DT USB_NNP cord_NN for_IN charging_VBG &_CC connecting_VBG to_TO a_DT computer_NN is_VBZ super_JJ short_JJ ._.
+Charging_VBG can_MD prove_VB to_TO be_VB difficult_JJ if_IN you_PRP want_VBP to_TO use_VB your_PRP$ phone_NN while_IN it_PRP is_VBZ charging_VBG because_IN it_PRP is_VBZ so_RB short_JJ that_DT something_NN as_RB simple_JJ as_IN sitting_VBG up_RP straight_RB is_VBZ nearly_RB impossible_JJ ._.
+Also_RB ,_, it_PRP slips_VBZ out_IN of_IN the_DT phone_NN really_RB easily_RB ._.
+One_CD little_JJ bump_NN and_CC you_PRP could_MD disconnect_VB your_PRP$ phone_NN from_IN the_DT charger_NN without_IN even_RB noticing_VBG ._.
+The_DT rumors_NNS :_: Q_NNP :_: Can_MD 4G_VB Smartphones_NNS connect_VB to_TO AT&T_NNP 's_POS data_NNS network_NN on_IN a_DT prepaid_JJ plan_NN ?_.
+A_DT :_: Yes_NNP ._.
+AT&T_NNP will_MD tell_VB you_PRP `_`` No_UH '_'' but_CC they_PRP are_VBP lying_VBG because_IN they_PRP want_VBP to_TO trap_NN you_PRP in_IN a_DT postpaid_JJ plan_NN since_IN they_PRP get_VBP the_DT most_JJS money_NN from_IN them_PRP and_CC too_RB many_JJ customers_NNS are_VBP leaving_VBG or_CC not_RB renewing_VBG contracts_NNS and_CC switching_VBG to_TO cheaper_JJR prepaid_JJ plans_NNS ._.
+They_PRP have_VBP been_VBN sued_VBN for_IN lying_VBG about_IN data_NNS plans_NNS as_RB recent_JJ as_IN 2011_CD ._.
+All_DT you_PRP have_VBP to_TO do_VB is_VBZ change_VB the_DT APN_NNP settings_NNS which_WDT I_PRP did_VBD and_CC I_PRP can_MD access_VB the_DT internet_NN without_IN WiFi_NNP ._.
+I_PRP have_VBP the_DT $_$ 5_CD data_NN plan_NN ._.
+I_PRP am_VBP not_RB sure_JJ this_DT will_MD work_VB on_IN locked_VBN phones_NNS ._.
+Type_NN this_DT link_NN for_IN the_DT new_JJ APN_NNP settings_NNS -LRB-_-LRB- same_JJ directions_NNS I_PRP used_VBD -RRB-_-RRB- :_: forums_NNS -LRB-_-LRB- dot_VB -RRB-_-RRB- att_NN -LRB-_-LRB- dot_VB -RRB-_-RRB- com\/t5\/Prepaid_JJ \/_NN Using-GoPhone-SIM-on-4G-phones_NNS \/_VBP td-p\/2768089_JJ ._.
+Look_VB for_IN a_DT post_NN by_IN `_`` andrewcarnegieIV_NNP '_''

@@ -1,0 +1,26 @@
+=========
+
+nsubj(skeptical-3, We-1)
+cop(skeptical-3, were-2)
+root(ROOT-0, skeptical-3)
+prepc_about(skeptical-3, buying-5)
+det(TV-8, a-6)
+amod(TV-8, cheaper-7)
+dobj(buying-5, TV-8)
+nsubj(worked-13, this-11)
+aux(worked-13, has-12)
+conj_but(skeptical-3, worked-13)
+acomp(worked-13, great-14)
+prep_for(worked-13, us-16)
+
+=========
+
+nsubj(slow-5, It-1)
+nsubj(fine-9, It-1)
+cop(slow-5, 's-2)
+det(bit-4, a-3)
+npadvmod(slow-5, bit-4)
+root(ROOT-0, slow-5)
+advmod(fine-9, just-8)
+conj_but(slow-5, fine-9)
+

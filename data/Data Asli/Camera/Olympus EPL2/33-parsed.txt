@@ -1,0 +1,86 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubjpass(replaced-3, It-1)
+auxpass(replaced-3, 's-2)
+root(ROOT-0, replaced-3)
+poss(E3-6, my-4)
+nn(E3-6, Olympus-5)
+dobj(replaced-3, E3-6)
+
+=========
+
+det(system-4, The-1)
+nn(system-4, Micro-2)
+amod(system-4, 4\/3rds-3)
+nsubj(replaced-6, system-4)
+aux(replaced-6, has-5)
+root(ROOT-0, replaced-6)
+poss(4\/3rds-8, my-7)
+dobj(replaced-6, 4\/3rds-8)
+
+=========
+
+nsubj(replaced-3, I-1)
+aux(replaced-3, have-2)
+root(ROOT-0, replaced-3)
+poss(lenses-5, my-4)
+dobj(replaced-3, lenses-5)
+det(camera-9, this-8)
+prep_because_of(lenses-5, camera-9)
+
+=========
+
+nsubj(flashes-6, Works-1)
+poss(FL50-5, my-3)
+amod(FL50-5, wireless-4)
+prep_with(Works-1, FL50-5)
+root(ROOT-0, flashes-6)
+
+=========
+
+nsubj(wonderful-3, Downsizing-1)
+nsubj(lugging-12, Downsizing-1)
+cop(wonderful-3, is-2)
+root(ROOT-0, wonderful-3)
+det(mind-6, the-5)
+prep_for(wonderful-3, mind-6)
+advmod(lugging-12, back-8)
+dep(lugging-12, no-10)
+advmod(lugging-12, more-11)
+conj_and(wonderful-3, lugging-12)
+amod(lenses-15, heavy-14)
+prep_around(lugging-12, lenses-15)
+prep_around(lugging-12, bodies-17)
+conj_and(lenses-15, bodies-17)
+
+=========
+
+dep(so-2, Not-1)
+advmod(wonderful-3, so-2)
+root(ROOT-0, wonderful-3)
+det(wallet-6, the-5)
+prep_for(wonderful-3, wallet-6)
+cc(comes-9, but-7)
+nsubj(comes-9, that-8)
+dep(wonderful-3, comes-9)
+det(territory-12, the-11)
+prep_with(comes-9, territory-12)
+
+=========
+
+root(ROOT-0, Cons-1)
+
+=========
+
+root(ROOT-0, Needs-1)
+amod(video-4, full-2)
+amod(video-4, HD-3)
+dep(Needs-1, video-4)
+

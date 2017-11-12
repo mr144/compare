@@ -1,0 +1,116 @@
+=========
+
+nsubj(replacing-3, This-1)
+aux(replacing-3, is-2)
+root(ROOT-0, replacing-3)
+poss(Samsung-6, our-4)
+amod(Samsung-6, older-5)
+dobj(replacing-3, Samsung-6)
+nsubj(fannnntastic-11, boy-8)
+cop(fannnntastic-11, is-9)
+npadvmod(fannnntastic-11, it-10)
+conj_and(replacing-3, fannnntastic-11)
+
+=========
+
+nsubj(excellent-4, Clarity-1)
+cop(excellent-4, is-2)
+advmod(excellent-4, just-3)
+root(ROOT-0, excellent-4)
+nsubj(bad-10, sound-6)
+cop(bad-10, is-7)
+neg(bad-10, not-8)
+advmod(bad-10, so-9)
+dep(excellent-4, bad-10)
+nsubj(have-15, we-13)
+aux(have-15, did-14)
+conj_but(excellent-4, have-15)
+det(speaker-18, a-16)
+nn(speaker-18, bar-17)
+dobj(have-15, speaker-18)
+mark(helped-21, so-19)
+nsubj(helped-21, that-20)
+advcl(have-15, helped-21)
+advmod(helped-21, quite-22)
+det(bit-24, a-23)
+pobj(quite-22, bit-24)
+
+=========
+
+nsubj(easy-5, Set-1)
+advmod(easy-5, up-2)
+cop(easy-5, was-3)
+advmod(easy-5, as-4)
+root(ROOT-0, easy-5)
+prep_as(easy-5, ABC-7)
+
+=========
+
+root(ROOT-0, Loved-1)
+det(idea-3, the-2)
+dobj(Loved-1, idea-3)
+complm(start-7, that-4)
+nsubj(start-7, it-5)
+aux(start-7, will-6)
+ccomp(Loved-1, start-7)
+conj_and(Loved-1, shut-9)
+prt(shut-9, down-10)
+poss(Bluray-12, your-11)
+dobj(shut-9, Bluray-12)
+prep_after(shut-9, insert-14)
+nn(removal-17, disc-16)
+prep_after(shut-9, removal-17)
+conj_and(insert-14, removal-17)
+
+=========
+
+advmod(much-2, Too-1)
+advmod(have-9, much-2)
+amod(stuff-4, good-3)
+pobj(much-2, stuff-4)
+advmod(have-9, here-5)
+aux(have-9, would-7)
+neg(have-9, not-8)
+root(ROOT-0, have-9)
+dobj(have-9, room-10)
+aux(list-12, to-11)
+xcomp(have-9, list-12)
+nsubj(all-14, it-13)
+xcomp(list-12, all-14)
+
+=========
+
+root(ROOT-0, Buy-1)
+dobj(Buy-1, it-2)
+nsubj(love-6, you-4)
+aux(love-6, 'll-5)
+conj_and(Buy-1, love-6)
+dobj(love-6, it-7)
+
+=========
+
+det(downside-3, The-1)
+amod(downside-3, only-2)
+nsubj(is-4, downside-3)
+root(ROOT-0, is-4)
+complm(much-11, that-5)
+det(TV-8, this-6)
+nn(TV-8, Smart-7)
+nsubj(much-11, TV-8)
+cop(much-11, is-9)
+advmod(much-11, so-10)
+ccomp(is-4, much-11)
+advmod(much-11, smarter-12)
+mark(are-15, than-13)
+nsubj(are-15, we-14)
+dep(smarter-12, are-15)
+
+=========
+
+advmod(well-2, Oh-1)
+advmod(technology-5, well-2)
+nsubj(technology-5, that-3)
+cop(technology-5, 's-4)
+root(ROOT-0, technology-5)
+prep_for(technology-5, you-7)
+

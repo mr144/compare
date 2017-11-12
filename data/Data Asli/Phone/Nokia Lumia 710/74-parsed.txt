@@ -1,0 +1,30 @@
+=========
+
+det(phone-2, The-1)
+nsubj(value-7, phone-2)
+cop(value-7, is-3)
+det(value-7, a-4)
+advmod(good-6, very-5)
+amod(value-7, good-6)
+root(ROOT-0, value-7)
+prep_for(value-7, money-9)
+
+=========
+
+nsubj(system-6, It-1)
+cop(system-6, is-2)
+det(system-6, a-3)
+amod(system-6, lovely-4)
+amod(system-6, operating-5)
+root(ROOT-0, system-6)
+det(price-10, a-8)
+amod(price-10, great-9)
+conj_and(system-6, price-10)
+
+=========
+
+advmod(enjoyed-2, Thoroughly-1)
+root(ROOT-0, enjoyed-2)
+det(purchase-4, the-3)
+nsubj(enjoyed-2, purchase-4)
+

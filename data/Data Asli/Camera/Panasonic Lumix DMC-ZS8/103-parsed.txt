@@ -1,0 +1,46 @@
+=========
+
+det(camera-4, These-1)
+amod(camera-4, compact-2)
+nn(camera-4, lumix-3)
+nsubj(best-8, camera-4)
+possessive(camera-4, 's-5)
+cop(best-8, are-6)
+det(best-8, the-7)
+root(ROOT-0, best-8)
+
+=========
+
+det(one-2, This-1)
+nsubj(replacement-5, one-2)
+cop(replacement-5, is-3)
+det(replacement-5, a-4)
+root(ROOT-0, replacement-5)
+det(one-8, the-7)
+prep_for(replacement-5, one-8)
+complm(stolen-13, that-9)
+poss(husband-11, my-10)
+nsubj(stolen-13, husband-11)
+aux(stolen-13, had-12)
+ccomp(replacement-5, stolen-13)
+prep_in(stolen-13, Ecuador-15)
+
+=========
+
+nsubj(upgrade-5, It-1)
+nsubj(perfect-13, It-1)
+cop(upgrade-5, is-2)
+det(upgrade-5, a-3)
+amod(upgrade-5, slight-4)
+root(ROOT-0, upgrade-5)
+poss(one-9, his-7)
+amod(one-9, last-8)
+prep_from(upgrade-5, one-9)
+cop(perfect-13, is-12)
+conj_and(upgrade-5, perfect-13)
+prep_for(perfect-13, travel-15)
+det(use-19, every-17)
+nn(use-19, day-18)
+prep_for(perfect-13, use-19)
+conj_and(travel-15, use-19)
+

@@ -1,0 +1,69 @@
+=========
+
+nsubj(buy-3, I-1)
+nsubj(upgrade-9, I-1)
+aux(buy-3, did-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, 2-4)
+prep_of(2-4, this-6)
+advmod(buy-3, inmediately-8)
+conj_and(buy-3, inmediately-8)
+conj_and(buy-3, upgrade-9)
+dobj(upgrade-9, them-10)
+prep_to(upgrade-9, ICS-12)
+
+=========
+
+det(week-3, a-2)
+nsubj(using-4, week-3)
+prepc_after(think-11, using-4)
+dobj(using-4, them-5)
+dep(think-11, husband-7)
+conj_and(husband-7, I-9)
+dep(think-11, I-9)
+root(ROOT-0, think-11)
+nsubj(great-14, they-12)
+cop(great-14, are-13)
+ccomp(think-11, great-14)
+
+=========
+
+nn(life-2, Battery-1)
+nsubj(good-4, life-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+
+=========
+
+root(ROOT-0, Plenty-1)
+nn(options-4, customization-3)
+prep_of(Plenty-1, options-4)
+
+=========
+
+nsubj(good-4, Camera-1)
+cop(good-4, is-2)
+advmod(good-4, pretty-3)
+root(ROOT-0, good-4)
+xcomp(good-4, considering-5)
+nsubj(megapixels-10, it-6)
+cop(megapixels-10, is-7)
+quantmod(5-9, only-8)
+num(megapixels-10, 5-9)
+ccomp(considering-5, megapixels-10)
+
+=========
+
+root(ROOT-0, Have-1)
+dobj(Have-1, them-2)
+nn(plans-6, ATT-4)
+amod(plans-6, prepaid-5)
+prep_with(Have-1, plans-6)
+appos(plans-6, voice-8)
+appos(plans-6, data-10)
+conj_and(voice-8, data-10)
+nsubj(work-14, they-13)
+conj_and(Have-1, work-14)
+advmod(great-16, just-15)
+acomp(work-14, great-16)
+

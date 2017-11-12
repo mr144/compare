@@ -1,0 +1,282 @@
+=========
+
+det(piece-3, An-1)
+amod(piece-3, amazing-2)
+root(ROOT-0, piece-3)
+nn(technology-6, camera-5)
+prep_of(piece-3, technology-6)
+
+=========
+
+root(ROOT-0, Took-1)
+dobj(Took-1, it-2)
+prep_with(Took-1, us-4)
+det(cruise-7, a-6)
+prep_on(us-4, cruise-7)
+
+=========
+
+nsubj(made-2, It-1)
+root(ROOT-0, made-2)
+amod(images-4, terrific-3)
+dobj(made-2, images-4)
+dep(images-4, both-6)
+dep(both-6, still-7)
+dep(images-4, moving-9)
+conj_and(both-6, moving-9)
+det(sorts-12, all-11)
+prep_under(made-2, sorts-12)
+prep_of(sorts-12, conditions-14)
+amod(sound-17, great-16)
+nsubj(capture-18, sound-17)
+parataxis(made-2, capture-18)
+advmod(capture-18, too-19)
+
+=========
+
+predet(this-2, All-1)
+root(ROOT-0, this-2)
+det(camera-6, a-4)
+amod(camera-6, pocket-able-5)
+prep_from(this-2, camera-6)
+
+=========
+
+root(ROOT-0, Wow-1)
+
+=========
+
+dep(indeed-3, Wow-1)
+root(ROOT-0, indeed-3)
+
+=========
+
+num(months-2, Three-1)
+nsubjpass(recorded-23, months-2)
+mark(appeared-13, after-3)
+csubj(appeared-13, purchase-4)
+det(rectangle-11, a-5)
+amod(fuzzy-7, darkish-6)
+amod(rectangle-11, fuzzy-7)
+advmod(transparent-10, nearly-9)
+amod(rectangle-11, transparent-10)
+dobj(purchase-4, rectangle-11)
+aux(appeared-13, has-12)
+dep(months-2, appeared-13)
+advmod(appeared-13, just-14)
+det(middle-17, the-16)
+prep_above(appeared-13, middle-17)
+det(screen-20, the-19)
+prep_of(middle-17, screen-20)
+auxpass(recorded-23, is-22)
+root(ROOT-0, recorded-23)
+dep(modes-29, both-25)
+dep(both-25, still-26)
+conj_and(both-25, video-28)
+dep(modes-29, video-28)
+prep_in(recorded-23, modes-29)
+advmod(zoom-32, most-31)
+amod(settings-33, zoom-32)
+prep_at(recorded-23, settings-33)
+
+=========
+
+nsubj(about-2, Am-1)
+xsubj(contact-4, Am-1)
+root(ROOT-0, about-2)
+aux(contact-4, to-3)
+xcomp(about-2, contact-4)
+dobj(contact-4, Panasonic-5)
+prep_about(Panasonic-5, it-7)
+
+=========
+
+nn(tuned-2, Stay-1)
+nsubj(Ground-27, tuned-2)
+num(months-4, .2-3)
+npadvmod(later-5, months-4)
+advmod(Ground-27, later-5)
+parataxis(Ground-27, Sent-7)
+det(camera-9, the-8)
+dobj(Sent-7, camera-9)
+prep_to(Sent-7, Texas-11)
+prep_for(Texas-11, repair-13)
+nsubjpass(repaired-17, it-15)
+nsubjpass(returned-20, it-15)
+auxpass(repaired-17, was-16)
+parataxis(Ground-27, repaired-17)
+advmod(returned-20, then-19)
+conj_and(repaired-17, returned-20)
+parataxis(Ground-27, returned-20)
+det(way-24, the-21)
+dep(possible-23, slowest-22)
+amod(way-24, possible-23)
+dobj(returned-20, way-24)
+nsubj(Ground-27, UPS-26)
+root(ROOT-0, Ground-27)
+num(days-30, 5-28)
+nn(days-30, business-29)
+tmod(Ground-27, days-30)
+
+=========
+
+nsubj(told-2, All-1)
+root(ROOT-0, told-2)
+nsubjpass(gone-5, it-3)
+auxpass(gone-5, was-4)
+ccomp(told-2, gone-5)
+advmod(month-9, nearly-7)
+det(month-9, a-8)
+prep_for(gone-5, month-9)
+
+=========
+
+advmod(for-2, As-1)
+dep(problem-4, for-2)
+det(problem-4, the-3)
+root(ROOT-0, problem-4)
+
+=========
+
+nsubjpass(fixed-3, It-1)
+auxpass(fixed-3, 's-2)
+root(ROOT-0, fixed-3)
+dep(fixed-3, yeaa-5)
+
+=========
+
+cc('s-3, But-1)
+expl('s-3, there-2)
+root(ROOT-0, 's-3)
+det(explanation-6, no-4)
+amod(explanation-6, accompanying-5)
+nsubj('s-3, explanation-6)
+aux(tell-8, to-7)
+infmod(explanation-6, tell-8)
+iobj(tell-8, me-9)
+nsubj(caused-11, what-10)
+dep(statements-33, caused-11)
+det(problem-13, the-12)
+dobj(caused-11, problem-13)
+dobj(do-19, problem-13)
+rel(do-19, what-15)
+nsubj(do-19, I-16)
+aux(do-19, should-17)
+neg(do-19, not-18)
+rcmod(problem-13, do-19)
+mark(recurn-29, so-20)
+nsubj(recurn-29, it-21)
+det(image-25, the-23)
+nn(image-25, ghost-24)
+dep(it-21, image-25)
+aux(recurn-29, will-27)
+neg(recurn-29, not-28)
+advcl(do-19, recurn-29)
+advmod(statements-33, only-31)
+amod(statements-33, Cryptic-32)
+dobj(tell-8, statements-33)
+amod(unit-37, areplaced-35)
+amod(unit-37, lense-36)
+dep(statements-33, unit-37)
+partmod(unit-37, areplaced-40)
+dep(areplaced-40, ccd-41)
+
+=========
+
+expl(were-2, There-1)
+root(ROOT-0, were-2)
+prep_of(were-2, course-5)
+det(charges-8, no-7)
+nsubj(were-2, charges-8)
+
+=========
+
+cc(above-25, But-1)
+advmod(returns-7, clearly-2)
+dep(returns-7, if-3)
+det(problem-6, this-4)
+amod(problem-6, mysterious-5)
+nsubj(returns-7, problem-6)
+dep(above-25, returns-7)
+mark(goes-11, after-8)
+det(camera-10, the-9)
+nsubj(goes-11, camera-10)
+advcl(returns-7, goes-11)
+prep_out_of(goes-11, warranty-14)
+det(cost-17, the-16)
+nsubj(above-25, cost-17)
+aux(repeat-19, to-18)
+infmod(cost-17, repeat-19)
+det(repair-21, this-20)
+dobj(repeat-19, repair-21)
+aux(above-25, will-22)
+cop(above-25, be-23)
+advmod(above-25, well-24)
+root(ROOT-0, above-25)
+nsubj(value-29, it-26)
+cop(value-29, is-27)
+nn(value-29, market-28)
+ccomp(above-25, value-29)
+
+=========
+
+dep(vulnerable-12, So-1)
+poss(camera-5, his-2)
+amod(camera-5, remarkable-3)
+amod(camera-5, little-4)
+nsubj(vulnerable-12, camera-5)
+nsubj(ccd-22, camera-5)
+nsubj(disposable-29, camera-5)
+amod(handling-8, kid-glove-7)
+prep_despite(vulnerable-12, handling-8)
+cop(vulnerable-12, is-10)
+advmod(vulnerable-12, very-11)
+root(ROOT-0, vulnerable-12)
+amod(damage-16, mysterious-14)
+amod(damage-16, spontaneous-15)
+prep_to(vulnerable-12, damage-16)
+det(unit-20, the-18)
+amod(unit-20, lense-19)
+prep_to(vulnerable-12, unit-20)
+conj_and(vulnerable-12, ccd-22)
+cop(disposable-29, is-25)
+advmod(disposable-29, essentially-26)
+det(disposable-29, an-27)
+amod(disposable-29, expensive-28)
+conj_and(vulnerable-12, disposable-29)
+
+=========
+
+nsubj(trying-3, I-1)
+xsubj(get-5, I-1)
+aux(trying-3, am-2)
+root(ROOT-0, trying-3)
+aux(get-5, to-4)
+xcomp(trying-3, get-5)
+det(description-8, a-6)
+nn(description-8, fuller-7)
+dobj(get-5, description-8)
+det(problem-11, the-10)
+prep_of(description-8, problem-11)
+prep_from(get-5, Panasonic-13)
+
+=========
+
+mark(do-3, If-1)
+nsubj(do-3, I-2)
+advcl(appear-6, do-3)
+nsubj(appear-6, it-4)
+aux(appear-6, will-5)
+root(ROOT-0, appear-6)
+advmod(appear-6, here-7)
+
+=========
+
+aux(experienced-4, Has-1)
+nsubj(experienced-4, anyone-2)
+amod(anyone-2, else-3)
+root(ROOT-0, experienced-4)
+det(problem-7, a-5)
+amod(problem-7, similar-6)
+dobj(experienced-4, problem-7)
+

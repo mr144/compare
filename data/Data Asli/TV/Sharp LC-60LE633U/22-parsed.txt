@@ -1,0 +1,181 @@
+=========
+
+dep(picture-6, And-1)
+dep(picture-6, also-2)
+det(picture-6, the-3)
+amod(picture-6, great-4)
+nn(picture-6, TV-5)
+root(ROOT-0, picture-6)
+dobj(now-9, picture-6)
+nsubj(now-9, It-7)
+aux(now-9, has-8)
+rcmod(picture-6, now-9)
+
+=========
+
+det(picture-4, the-2)
+num(picture-4, 3D-3)
+nsubj(nice-6, picture-4)
+nsubj(bright-8, picture-4)
+cop(nice-6, Is-5)
+root(ROOT-0, nice-6)
+conj_and(nice-6, bright-8)
+attr(nice-6, most-9)
+iobj(nice-6, most-9)
+dep(most-9, movies-10)
+
+=========
+
+nsubj(had-2, I-1)
+nsubj(had-12, I-1)
+xsubj(return-14, I-1)
+root(ROOT-0, had-2)
+amod(models-4, several-3)
+dobj(had-2, models-4)
+det(store-8, a-6)
+amod(store-8, local-7)
+prep_from(had-2, store-8)
+prep_at(had-2, home-10)
+conj_and(had-2, had-12)
+aux(return-14, to-13)
+xcomp(had-12, return-14)
+dobj(return-14, 2-15)
+mark(bad-20, as-16)
+det(picture-18, the-17)
+nsubj(bad-20, picture-18)
+cop(bad-20, was-19)
+advcl(return-14, bad-20)
+det(models-23, those-22)
+prep_on(bad-20, models-23)
+
+=========
+
+nsubj(million-5, This-1)
+cop(million-5, Is-2)
+det(million-5, the-3)
+number(million-5, 8-4)
+root(ROOT-0, million-5)
+num(ratio-9, 1-7)
+nn(ratio-9, contrast-8)
+prep_to(million-5, ratio-9)
+
+=========
+
+det(top-3, The-1)
+amod(top-3, very-2)
+root(ROOT-0, top-3)
+det(line-6, the-5)
+prep_of(top-3, line-6)
+poss(TV-9, 60-7)
+dep(top-3, TV-9)
+det(year-12, the-11)
+prep_of(TV-9, year-12)
+
+=========
+
+nsubj(marvel-4, It-1)
+cop(marvel-4, 's-2)
+det(marvel-4, a-3)
+root(ROOT-0, marvel-4)
+det(matter-6, no-5)
+advmod(marvel-4, matter-6)
+dobj(blur-15, what-7)
+poss(watching-9, your-8)
+nsubj(blur-15, watching-9)
+prep_with(watching-9, any-11)
+det(motion-14, the-13)
+prep_of(any-11, motion-14)
+dep(matter-6, blur-15)
+advmod(gone-17, completely-16)
+acomp(blur-15, gone-17)
+
+=========
+
+nsubj(give-2, I-1)
+root(ROOT-0, give-2)
+det(TV-4, this-3)
+iobj(give-2, TV-4)
+poss(rating-7, my-5)
+amod(rating-7, highest-6)
+dobj(give-2, rating-7)
+amod(TV-20, highly-10)
+ccomp(highly-10, suggest-11)
+dobj(suggest-11, this-12)
+prep_for(this-12, anyone-14)
+partmod(anyone-14, looking-15)
+det(3D-19, a-17)
+amod(3D-19, large-18)
+prep_for(looking-15, 3D-19)
+dobj(give-2, TV-20)
+conj_and(rating-7, TV-20)
+
+=========
+
+nsubj(looked-3, I-1)
+nsubj(looked-5, I-1)
+aux(looked-3, have-2)
+root(ROOT-0, looked-3)
+conj_and(looked-3, looked-5)
+det(TV-8, no-7)
+nsubj(looks-9, TV-8)
+conj_and(looked-3, looks-9)
+det(one-12, this-11)
+prep_like(looks-9, one-12)
+
+=========
+
+nsubj(hooked-2, This-1)
+root(ROOT-0, hooked-2)
+prt(hooked-2, up-3)
+poss(system-7, my-5)
+amod(system-7, surround-6)
+prep_to(hooked-2, system-7)
+prep_in(hooked-2, minutes-9)
+
+=========
+
+nsubj(set-2, Easy-1)
+root(ROOT-0, set-2)
+prt(set-2, up-3)
+
+=========
+
+mark(did-3, If-1)
+nsubj(did-3, I-2)
+csubj(known-5, did-3)
+aux(known-5, have-4)
+root(ROOT-0, known-5)
+det(picture-7, this-6)
+nsubj(existed-8, picture-7)
+ccomp(known-5, existed-8)
+nsubj(did-10, I-9)
+ccomp(existed-8, did-10)
+neg(looked-13, never-11)
+advmod(looked-13, even-12)
+dep(did-10, looked-13)
+advmod(else-15, anywhere-14)
+dobj(looked-13, else-15)
+det(model-19, any-17)
+amod(model-19, other-18)
+dobj(looked-13, model-19)
+conj_or(else-15, model-19)
+
+=========
+
+nsubj(perfect-4, Everything-1)
+cop(perfect-4, Is-2)
+advmod(perfect-4, so-3)
+root(ROOT-0, perfect-4)
+
+=========
+
+nsubj(BLACK-3, Black-1)
+aux(BLACK-3, IS-2)
+root(ROOT-0, BLACK-3)
+advmod(BLACK-3, now-4)
+
+=========
+
+nsubj(reccomend-2, Highly-1)
+root(ROOT-0, reccomend-2)
+

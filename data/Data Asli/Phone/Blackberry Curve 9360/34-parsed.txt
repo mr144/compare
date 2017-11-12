@@ -1,0 +1,28 @@
+=========
+
+mark(set-4, after-1)
+nsubjpass(set-4, phone-2)
+auxpass(set-4, was-3)
+advcl(freezes-7, set-4)
+prt(set-4, up-5)
+nsubj(freezes-7, it-6)
+root(ROOT-0, freezes-7)
+dep(once-9, every-8)
+advmod(freezes-7, once-9)
+det(while-12, a-11)
+prep_in(freezes-7, while-12)
+
+=========
+
+det(phone-4, a-2)
+amod(phone-4, new-3)
+prep_with(expect-7, phone-4)
+nsubj(expect-7, you-5)
+xsubj(avoid-9, you-5)
+aux(expect-7, would-6)
+root(ROOT-0, expect-7)
+aux(avoid-9, to-8)
+xcomp(expect-7, avoid-9)
+det(issues-11, these-10)
+dobj(avoid-9, issues-11)
+

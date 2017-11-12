@@ -1,0 +1,64 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+det(room-7, the-5)
+nn(room-7, game-6)
+prep_for(bought-2, room-7)
+poss(house-11, my-9)
+amod(house-11, new-10)
+prep_in(bought-2, house-11)
+nsubj(TV-18, it-14)
+cop(TV-18, is-15)
+det(TV-18, a-16)
+amod(TV-18, great-17)
+conj_and(bought-2, TV-18)
+
+=========
+
+nsubj(have-2, I-1)
+nsubjpass(satisfied-19, I-1)
+root(ROOT-0, have-2)
+det(flatscreen-5, another-3)
+nn(flatscreen-5, Samsung-4)
+dobj(have-2, flatscreen-5)
+det(one-10, a-7)
+advmod(smaller-9, much-8)
+amod(one-10, smaller-9)
+appos(flatscreen-5, one-10)
+det(bedroom-14, the-12)
+nn(bedroom-14, master-13)
+prep_in(one-10, bedroom-14)
+aux(satisfied-19, have-17)
+auxpass(satisfied-19, been-18)
+conj_and(have-2, satisfied-19)
+prep_with(satisfied-19, it-21)
+
+=========
+
+cc(product-7, But-1)
+nsubj(product-7, this-2)
+cop(product-7, is-3)
+det(product-7, an-4)
+advmod(better-6, even-5)
+amod(product-7, better-6)
+root(ROOT-0, product-7)
+
+=========
+
+advmod(hook-8, Now-1)
+dobj(need-4, all-2)
+nsubj(hook-8, all-2)
+nsubj(need-4, I-3)
+xsubj(do-6, I-3)
+rcmod(all-2, need-4)
+aux(do-6, to-5)
+xcomp(need-4, do-6)
+aux(hook-8, is-7)
+root(ROOT-0, hook-8)
+dobj(hook-8, it-9)
+advmod(hook-8, up-10)
+det(stereo-13, the-12)
+prep_to(up-10, stereo-13)
+

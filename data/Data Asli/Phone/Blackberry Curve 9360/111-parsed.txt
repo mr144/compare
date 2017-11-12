@@ -1,0 +1,36 @@
+=========
+
+amod(Afternoon-2, good-1)
+root(ROOT-0, Afternoon-2)
+
+=========
+
+nsubj(confirm-3, I-1)
+aux(confirm-3, can-2)
+root(ROOT-0, confirm-3)
+dep(confirm-3, please-4)
+mark(phone-7, if-5)
+nsubj(phone-7, GSM-6)
+dep(please-4, phone-7)
+mark(have-11, if-9)
+nsubj(have-11, you-10)
+dep(please-4, have-11)
+conj_and(phone-7, have-11)
+det(specifications-13, these-12)
+dobj(have-11, specifications-13)
+
+=========
+
+nn(phone-5, Unlocked-1)
+nn(phone-5, Quad-Band-2)
+nn(phone-5, GSM-3)
+nn(phone-5, cell-4)
+dep(compatible-6, phone-5)
+root(ROOT-0, compatible-6)
+number(850\/900\/1800-9, 2G-8)
+num(Mhz-12, 850\/900\/1800-9)
+nn(Mhz-12, \/-10)
+num(Mhz-12, 1900-11)
+prep_with(compatible-6, Mhz-12)
+dep(Mhz-12, regards-14)
+

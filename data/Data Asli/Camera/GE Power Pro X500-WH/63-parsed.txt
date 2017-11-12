@@ -1,0 +1,31 @@
+=========
+
+amod(gift-3, Daughters-1)
+nn(gift-3, christmas-2)
+nsubj(hurd-7, gift-3)
+advmod(hasnt-6, really-5)
+amod(gift-3, hasnt-6)
+root(ROOT-0, hurd-7)
+det(comment-9, any-8)
+dobj(hurd-7, comment-9)
+prep_from(hurd-7, her-11)
+det(gift-14, this-13)
+prep_on(hurd-7, gift-14)
+
+=========
+
+aux(say-4, Could-1)
+neg(say-4, not-2)
+advmod(say-4, really-3)
+root(ROOT-0, say-4)
+
+=========
+
+advmod(camera-8, At-1)
+nsubj(camera-8, christmas-2)
+cop(camera-8, seemed-3)
+amod(pretty-7, happy-4)
+advmod(pretty-7, very-6)
+amod(camera-8, pretty-7)
+root(ROOT-0, camera-8)
+

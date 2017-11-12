@@ -1,0 +1,97 @@
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(great-5, quality-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+prep_on(great-5, this-7)
+
+=========
+
+det(factor-3, The-1)
+nn(factor-3, form-2)
+nsubj(nice-6, factor-3)
+cop(nice-6, is-4)
+advmod(nice-6, very-5)
+root(ROOT-0, nice-6)
+nsubj(like-9, I-8)
+parataxis(nice-6, like-9)
+det(bezel-12, the-10)
+amod(bezel-12, thin-11)
+dobj(like-9, bezel-12)
+
+=========
+
+det(sound-2, The-1)
+nsubj(great-5, sound-2)
+nsubj(bad-10, sound-2)
+cop(great-5, is-3)
+neg(great-5, not-4)
+root(ROOT-0, great-5)
+cop(bad-10, is-8)
+neg(bad-10, not-9)
+conj_but(great-5, bad-10)
+advmod(sufficient-13, certainly-12)
+dep(bad-10, sufficient-13)
+
+=========
+
+nsubj(runs-2, Netflix-1)
+root(ROOT-0, runs-2)
+acomp(runs-2, great-3)
+det(wifi-6, the-5)
+prep_over(great-3, wifi-6)
+prep_on(wifi-6, it-8)
+det(interface-12, the-11)
+nsubj(easy-20, interface-12)
+nsubj(intuitive-24, interface-12)
+aux(get-14, to-13)
+infmod(interface-12, get-14)
+prep_to(get-14, stuff-16)
+prep_like(get-14, Netflix-18)
+cop(easy-20, is-19)
+conj_and(runs-2, easy-20)
+aux(use-22, to-21)
+xcomp(easy-20, use-22)
+conj_and(runs-2, intuitive-24)
+conj_and(easy-20, intuitive-24)
+
+=========
+
+advmod(easy-4, Finally-1)
+nsubj(easy-4, it-2)
+cop(easy-4, was-3)
+root(ROOT-0, easy-4)
+aux(mount-6, to-5)
+xcomp(easy-4, mount-6)
+det(wall-9, the-8)
+prep_to(mount-6, wall-9)
+
+=========
+
+advmod(have-4, So-1)
+nsubj(have-4, I-3)
+root(ROOT-0, have-4)
+det(complaints-6, no-5)
+dobj(have-4, complaints-6)
+advmod(far-8, so-7)
+advmod(complaints-6, far-8)
+
+=========
+
+nsubj(like-3, I-1)
+nsubj(recommend-8, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+det(TV-5, this-4)
+dobj(like-3, TV-5)
+aux(recommend-8, would-7)
+conj_and(like-3, recommend-8)
+dobj(recommend-8, it-9)
+prep_to(recommend-8, anyone-11)
+partmod(anyone-11, looking-12)
+num(HDTVs-16, 32-14)
+nn(HDTVs-16, inch-15)
+prep_at(looking-12, HDTVs-16)
+

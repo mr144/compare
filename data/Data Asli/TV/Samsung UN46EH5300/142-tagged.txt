@@ -1,0 +1,3 @@
+This_DT was_VBD the_DT third_JJ Samsung_NNP TV_NN that_IN I_PRP have_VBP purchased_VBN for_IN our_PRP$ home_NN ._.
+This_DT TV_NN has_VBZ great_JJ picture_NN and_CC good_JJ sound_NN for_IN a_DT 32_CD &#34;_CD model_NN ._.
+We_PRP love_VBP the_DT internet_NN capability_NN ._.

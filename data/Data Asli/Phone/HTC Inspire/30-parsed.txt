@@ -1,0 +1,61 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+det(phone-7, a-5)
+amod(phone-7, unlocked-6)
+prep_as(bought-2, phone-7)
+
+=========
+
+csubj(work-4, Meaning-1)
+dobj(Meaning-1, it-2)
+aux(work-4, should-3)
+root(ROOT-0, work-4)
+det(carrier-8, any-6)
+nn(carrier-8, GSM-7)
+prep_on(work-4, carrier-8)
+advmod(long-10, as-9)
+advmod(work-4, long-10)
+mark(matches-13, as-11)
+nsubj(matches-13, frequency-12)
+ccomp(long-10, matches-13)
+
+=========
+
+advmod(works-4, NUT-1)
+det(phone-3, this-2)
+nsubj(works-4, phone-3)
+root(ROOT-0, works-4)
+advmod(works-4, only-5)
+prep_with(works-4, AT&T-7)
+
+=========
+
+advmod(switched-3, When-1)
+nsubj(switched-3, I-2)
+advcl(work-14, switched-3)
+det(carrier-5, the-4)
+dobj(switched-3, carrier-5)
+amod(works-10, T-mobile-7)
+amod(works-10, only-8)
+nn(works-10, voice-9)
+prep_to(switched-3, works-10)
+nn(NOT-13, Data-11)
+nn(NOT-13, DOES-12)
+nsubj(work-14, NOT-13)
+root(ROOT-0, work-14)
+
+=========
+
+nsubjpass(fruad-3, This-1)
+auxpass(fruad-3, is-2)
+root(ROOT-0, fruad-3)
+dobj(fruad-3, seller-4)
+
+=========
+
+cop(aware-2, Be-1)
+root(ROOT-0, aware-2)
+

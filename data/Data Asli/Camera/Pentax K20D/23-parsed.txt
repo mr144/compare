@@ -1,0 +1,161 @@
+=========
+
+nsubj(owned-2, I-1)
+root(ROOT-0, owned-2)
+dobj(owned-2, it-3)
+advmod(than-5, less-4)
+advmod(owned-2, than-5)
+det(year-7, a-6)
+tmod(owned-2, year-7)
+det(camera-11, the-10)
+nsubjpass(handled-14, camera-11)
+aux(handled-14, has-12)
+auxpass(handled-14, been-13)
+conj_but(owned-2, handled-14)
+advmod(than-16, less-15)
+advmod(perfect-17, than-16)
+acomp(handled-14, perfect-17)
+
+=========
+
+nsubjpass(dropped-4, It-1)
+aux(dropped-4, has-2)
+auxpass(dropped-4, been-3)
+root(ROOT-0, dropped-4)
+advmod(times-8, at-5)
+pobj(at-5, least-6)
+num(times-8, three-7)
+dobj(dropped-4, times-8)
+det(test-13, the-11)
+amod(test-13, true-12)
+nsubj(soak-17, test-13)
+cop(soak-17, was-14)
+det(soak-17, a-15)
+amod(soak-17, complete-16)
+conj_but(dropped-4, soak-17)
+
+=========
+
+poss(daughter-2, My-1)
+nsubj(40-steps-21, daughter-2)
+partmod(daughter-2, had-3)
+poss(neck-6, her-5)
+prep_around(had-3, neck-6)
+mark(walk-19, while-8)
+csubj(walk-19, trying-9)
+aux(get-11, to-10)
+xcomp(trying-9, get-11)
+advmod(get-11, closer-12)
+det(ocean-15, the-14)
+prep_to(closer-12, ocean-15)
+prep_at(get-11, cliff-18)
+advcl(had-3, walk-19)
+cop(40-steps-21, 's-20)
+root(ROOT-0, 40-steps-21)
+dep(40-steps-21, Newport-23)
+
+=========
+
+nsubj(slipped-2, She-1)
+nsubj(went-4, She-1)
+root(ROOT-0, slipped-2)
+conj_and(slipped-2, went-4)
+advmod(down-6, completely-5)
+advmod(went-4, down-6)
+det(water-9, the-8)
+prep_to(went-4, water-9)
+
+=========
+
+det(camera-2, The-1)
+nsubj(went-3, camera-2)
+root(ROOT-0, went-3)
+advmod(went-3, completely-4)
+prep_under(went-3, water-6)
+prep_with(went-3, her-8)
+
+=========
+
+nsubj(took-2, I-1)
+nsubj(noticed-8, I-1)
+root(ROOT-0, took-2)
+dobj(took-2, battery-3)
+det(precaution-6, a-5)
+prep_as(took-2, precaution-6)
+conj_and(took-2, noticed-8)
+amod(compartment-10, inside-9)
+nsubj(dry-12, compartment-10)
+cop(dry-12, was-11)
+ccomp(noticed-8, dry-12)
+
+=========
+
+nsubj(let-2, I-1)
+root(ROOT-0, let-2)
+nsubj(dried-4, it-3)
+xsubj(sure-11, it-3)
+ccomp(let-2, dried-4)
+amod(days-7, few-6)
+prep_for(dried-4, days-7)
+advmod(dried-4, just-8)
+aux(sure-11, to-9)
+cop(sure-11, be-10)
+xcomp(dried-4, sure-11)
+mark(tried-13, before-12)
+advcl(sure-11, tried-13)
+aux(use-15, to-14)
+xcomp(tried-13, use-15)
+dobj(use-15, it-16)
+advmod(use-15, again-17)
+
+=========
+
+dep(worked-4, Well-1)
+nsubj(worked-4, it-3)
+root(ROOT-0, worked-4)
+advmod(worked-4, perfectly-5)
+prep_like(worked-4, nothing-8)
+advmod(happened-10, ever-9)
+partmod(nothing-8, happened-10)
+prep_to(happened-10, it-12)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+num(lens-4, 18-250-3)
+dobj(had-2, lens-4)
+det(time-7, that-6)
+prep_at(lens-4, time-7)
+advmod(survived-15, unfortunately-10)
+nsubj(survived-15, it-12)
+aux(survived-15, did-13)
+neg(survived-15, not-14)
+conj_and(had-2, survived-15)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+nsubj(had-4, I-3)
+ccomp(wish-2, had-4)
+dobj(had-4, one-5)
+det(lens-9, those-7)
+amod(lens-9, weather-sealed-8)
+prep_of(one-5, lens-9)
+
+=========
+
+det(note-4, the-2)
+nn(note-4, side-3)
+prep_on(capture-8, note-4)
+nsubj(capture-8, it-6)
+aux(capture-8, does-7)
+root(ROOT-0, capture-8)
+amod(images-10, good-9)
+dobj(capture-8, images-10)
+nsubj(agreed-13, I-12)
+conj_and(capture-8, agreed-13)
+amod(reviewers-16, other-15)
+prep_with(agreed-13, reviewers-16)
+

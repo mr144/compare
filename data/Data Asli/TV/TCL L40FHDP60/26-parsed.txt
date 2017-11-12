@@ -1,0 +1,23 @@
+=========
+
+nsubj(bought-2, i-1)
+root(ROOT-0, bought-2)
+det(tv-7, this-3)
+num(tv-7, 40-4)
+nn(tv-7, inch-5)
+nn(tv-7, tcl-6)
+nsubj(has-10, tv-7)
+conj_and(tv-7, it-9)
+nsubj(has-10, it-9)
+ccomp(bought-2, has-10)
+det(picturethan-13, a-11)
+amod(picturethan-13, better-12)
+dobj(has-10, picturethan-13)
+poss(samsung-17, my-14)
+num(samsung-17, 950.00-15)
+nn(samsung-17, dollar-16)
+nsubj(buy-19, samsung-17)
+aux(buy-19, would-18)
+rcmod(picturethan-13, buy-19)
+dobj(buy-19, another-20)
+

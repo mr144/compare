@@ -1,0 +1,30 @@
+=========
+
+nn(TV-3, VERY-1)
+nn(TV-3, NICE-2)
+root(ROOT-0, TV-3)
+
+=========
+
+nn(VISUAL-6, HIGHLY-1)
+nn(VISUAL-6, RECOMEND-2)
+nn(VISUAL-6, WORKS-3)
+nn(VISUAL-6, GREAT-4)
+nn(VISUAL-6, NIVE-5)
+nsubj(EFFECTS-7, VISUAL-6)
+root(ROOT-0, EFFECTS-7)
+
+=========
+
+nsubj(THINK-2, I-1)
+root(ROOT-0, THINK-2)
+nsubjpass(BETTER-5, IT-3)
+auxpass(BETTER-5, IS-4)
+ccomp(THINK-2, BETTER-5)
+prep_than(BETTER-5, LG-7)
+
+=========
+
+nn(FRIENDLY-2, WEB-1)
+root(ROOT-0, FRIENDLY-2)
+

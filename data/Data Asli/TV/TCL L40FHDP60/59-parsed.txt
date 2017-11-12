@@ -1,0 +1,26 @@
+=========
+
+nsubj(works-2, It-1)
+nsubj(looks-4, It-1)
+nsubj(easy-9, It-1)
+root(ROOT-0, works-2)
+conj_and(works-2, looks-4)
+acomp(looks-4, good-5)
+cop(easy-9, was-7)
+advmod(easy-9, fairly-8)
+conj_and(works-2, easy-9)
+aux(set-11, to-10)
+xcomp(easy-9, set-11)
+prt(set-11, up-12)
+
+=========
+
+advmod(takes-3, Negative-1)
+nsubj(takes-3, it-2)
+root(ROOT-0, takes-3)
+det(time-6, a-4)
+amod(time-6, long-5)
+dobj(takes-3, time-6)
+prep_to(takes-3, power-8)
+prep(takes-3, on-9)
+

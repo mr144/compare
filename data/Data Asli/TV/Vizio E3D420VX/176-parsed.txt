@@ -1,0 +1,37 @@
+=========
+
+advmod(good-2, Very-1)
+amod(choice-3, good-2)
+nsubj(price-6, choice-3)
+appos(choice-3, best-5)
+root(ROOT-0, price-6)
+amod(picture-8, best-7)
+dobj(price-6, picture-8)
+num(flawless-11, 3D-10)
+dobj(price-6, flawless-11)
+conj_and(picture-8, flawless-11)
+
+=========
+
+nsubj(reccomend-2, Will-1)
+root(ROOT-0, reccomend-2)
+prep_to(reccomend-2, all-4)
+
+=========
+
+root(ROOT-0, Got-1)
+dobj(Got-1, Phillips-2)
+num(ray-5, 3D-3)
+amod(ray-5, blue-4)
+nsubj(Got-1, ray-5)
+mark(plays-10, with-6)
+nsubj(plays-10, it-7)
+conj_and(it-7, it-9)
+nsubj(plays-10, it-9)
+dep(Got-1, plays-10)
+det(type-12, any-11)
+nsubj(PAL_SECAM-16, type-12)
+prep_of(type-12, disk-14)
+advmod(PAL_SECAM-16, even-15)
+xcomp(plays-10, PAL_SECAM-16)
+

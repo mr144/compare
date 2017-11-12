@@ -1,0 +1,8 @@
+This_DT is_VBZ my_PRP$ second_JJ BB_NNP ,_, the_DT first_JJ one_CD was_VBD a_DT 8320_CD Curve_NN ._.
+This_DT is_VBZ the_DT best_JJS BB_NN smartphone_NN ever_RB ._.
+Its_PRP$ a_DT work_NN horse_NN phone_NN ._.
+If_IN you_PRP want_VBP a_DT pleasure_NN phone_NN for_IN messing_VBG around_RB buy_VB the_DT Iphone4_NNP ._.
+For_IN work_NN buy_VBP this_DT BB_NN torch_NN .1_CD ._.
+Great_JJ resolution_NN of_IN the_DT screen_NN ,_, Youtube_NNP videos_NNS looks_VBZ great_JJ and_CC is_VBZ easy_JJ to_TO read_VB .2_CD ._.
+Great_JJ idea_NN having_VBG both_DT the_DT QWERTY_NNP keyboard_NN -LRB-_-LRB- for_IN long_JJ emails_NNS -RRB-_-RRB- and_CC touch_NN keyboard_NN -LRB-_-LRB- for_IN quickess_JJ short_JJ messages_NNS -RRB-_-RRB- .3_CD ._.
+I_PRP have_VBP four_CD email_JJ accounts_NNS ,_, I_PRP can_MD see_VB all_DT of_IN them_PRP on_IN one_CD screen_NN .4_CD ._.

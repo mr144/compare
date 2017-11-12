@@ -1,0 +1,132 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(Item-4, this-3)
+dobj(purchased-2, Item-4)
+prep_on(purchased-2, 11\/4\/12-6)
+
+=========
+
+advmod(is-3, Now-1)
+nsubj(is-3, it-2)
+root(ROOT-0, is-3)
+num(months-5, four-4)
+npadvmod(later-6, months-5)
+advmod(is-3, later-6)
+det(function-12, the-8)
+nn(function-12, photo-9)
+conj_and(photo-9, video-11)
+nn(function-12, video-11)
+nsubj(stopped-14, function-12)
+aux(stopped-14, has-13)
+conj_and(is-3, stopped-14)
+xcomp(stopped-14, working-15)
+
+=========
+
+nsubj(suspected-2, I-1)
+root(ROOT-0, suspected-2)
+complm(sent-7, that-3)
+det(dealer-5, this-4)
+nsubj(sent-7, dealer-5)
+aux(sent-7, has-6)
+ccomp(suspected-2, sent-7)
+iobj(sent-7, me-8)
+det(phone-11, a-9)
+amod(phone-11, reconditioned-10)
+dobj(sent-7, phone-11)
+
+=========
+
+nsubj(paid-2, I-1)
+root(ROOT-0, paid-2)
+det(phone-6, a-4)
+amod(phone-6, new-5)
+prep_for(paid-2, phone-6)
+
+=========
+
+nsubj(owned-2, I-1)
+nsubj(replaced-7, I-1)
+dep(purchased-13, owned-2)
+det(phone-4, this-3)
+dobj(owned-2, phone-4)
+advmod(owned-2, before-5)
+conj_and(owned-2, replaced-7)
+dep(purchased-13, replaced-7)
+dobj(replaced-7, it-8)
+det(one-11, the-10)
+prep_with(replaced-7, one-11)
+nsubj(purchased-13, I-12)
+root(ROOT-0, purchased-13)
+prep_through(purchased-13, Amazon-15)
+
+=========
+
+det(seller-3, This-1)
+nn(seller-3, Amazon-2)
+nsubj(Miki_Blue_Eyes-4, seller-3)
+root(ROOT-0, Miki_Blue_Eyes-4)
+dep(1-6, #-5)
+dobj(Miki_Blue_Eyes-4, 1-6)
+nn(Service-9, Customer-8)
+prep_in(1-6, Service-9)
+partmod(Service-9, sold-10)
+dobj(sold-10, it-11)
+
+=========
+
+dep(scam-3, What-1)
+det(scam-3, a-2)
+root(ROOT-0, scam-3)
+
+=========
+
+advmod(have-3, Now-1)
+nsubj(have-3, I-2)
+root(ROOT-0, have-3)
+det(phone-5, a-4)
+dobj(have-3, phone-5)
+dobj(loved-8, phone-5)
+rel(loved-8, which-6)
+nsubj(loved-8, I-7)
+rcmod(phone-5, loved-8)
+det(work-11, that-9)
+amod(work-11, doesent-10)
+dobj(loved-8, work-11)
+advmod(months-15, only-13)
+num(months-15, four-14)
+prep_after(loved-8, months-15)
+
+=========
+
+mark(resloved-6, If-1)
+nsubjpass(resloved-6, this-2)
+aux(resloved-6, can-3)
+neg(resloved-6, not-4)
+auxpass(resloved-6, be-5)
+advcl(close-10, resloved-6)
+nsubj(close-10, I-7)
+aux(close-10, will-8)
+advmod(close-10, just-9)
+root(ROOT-0, close-10)
+poss(account-12, my-11)
+dobj(close-10, account-12)
+conj_and(close-10, not-14)
+neg(close-10, not-14)
+dep(close-10, use-15)
+dobj(use-15, Amazon-16)
+advmod(use-15, again-17)
+
+=========
+
+nsubj(hurt-4, Things-1)
+prep_like(Things-1, this-3)
+root(ROOT-0, hurt-4)
+dobj(hurt-4, reputations-5)
+dobj(hurt-4, faith-7)
+conj_and(reputations-5, faith-7)
+amod(purchases-10, online-9)
+prep_in(hurt-4, purchases-10)
+

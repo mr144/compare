@@ -1,0 +1,59 @@
+=========
+
+nsubj(camera-6, I-1)
+cop(camera-6, am-2)
+neg(camera-6, not-3)
+det(camera-6, a-4)
+amod(camera-6, fancy-5)
+root(ROOT-0, camera-6)
+det(point-10, a-9)
+conj_but(camera-6, point-10)
+nn(user-14, shoot-12)
+nn(user-14, camera-13)
+conj_but(camera-6, user-14)
+conj_and(point-10, user-14)
+
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+dobj(wanted-2, something-3)
+nsubj(reach-6, something-3)
+nsubj(yield-10, something-3)
+aux(reach-6, would-5)
+rcmod(something-3, reach-6)
+prt(reach-6, out-7)
+advmod(reach-6, farther-8)
+rcmod(something-3, yield-10)
+conj_and(reach-6, yield-10)
+amod(pictures-13, better-11)
+nn(pictures-13, quality-12)
+dobj(yield-10, pictures-13)
+
+=========
+
+nsubj(narrowed-3, I-1)
+nsubj(decided-10, I-1)
+xsubj(go-12, I-1)
+aux(narrowed-3, had-2)
+root(ROOT-0, narrowed-3)
+poss(choice-5, my-4)
+dobj(narrowed-3, choice-5)
+num(cameras-8, three-7)
+prep_to(narrowed-3, cameras-8)
+conj_and(narrowed-3, decided-10)
+aux(go-12, to-11)
+xcomp(decided-10, go-12)
+det(one-15, this-14)
+prep_with(go-12, one-15)
+
+=========
+
+advmod(exceeded-5, So-1)
+advmod(So-1, far-2)
+nsubj(exceeded-5, it-3)
+aux(exceeded-5, has-4)
+root(ROOT-0, exceeded-5)
+poss(expectations-7, my-6)
+dobj(exceeded-5, expectations-7)
+

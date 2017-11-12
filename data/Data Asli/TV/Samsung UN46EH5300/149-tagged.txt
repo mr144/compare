@@ -1,0 +1,4 @@
+Once_RB again_RB Amazon_NNP has_VBZ a_DT great_JJ price_NN for_IN a_DT quality_NN product_NN ._.
+The_DT product_NN was_VBD packaged_VBN securely_RB to_TO prevent_VB any_DT damage_NN during_IN the_DT shipping_NN process_NN ._.
+The_DT TV_NN showed_VBD up_RP on_IN time_NN like_IN always_RB when_WRB ordering_VBG from_IN Amazon_NNP ._.
+If_IN you_PRP do_VBP not_RB have_VB Prime_JJ you_PRP are_VBP really_RB missing_VBG out_RP on_IN something_NN special_JJ ._.

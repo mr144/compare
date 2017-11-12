@@ -1,0 +1,40 @@
+I_PRP have_VBP been_VBN a_DT Blackberry_NNP user_NN for_IN many_JJ ,_, many_JJ years_NNS and_CC since_IN the_DT iphone_NN came_VBD out_RP I_PRP had_VBD touch_NN screen_NN envy_NN ._.
+All_DT those_DT sexy_JJ apps_NNS !_.
+I_PRP watched_VBD my_PRP$ friends_NNS pinching_VBG their_PRP$ browsers_NNS and_CC swiping_VBG through_IN contacts_NNS ._.
+And_CC with_IN all_DT that_IN I_PRP lost_VBD sight_NN of_IN the_DT main_JJ purpose_NN for_IN a_DT mobile_JJ phone_NN :_: to_TO communicate_VB ._.
+My_PRP$ main_JJ uses_NNS for_IN a_DT phone_NN are_VBP :_: to_TO make_VB \/_NNS receive_VBP call_NN ,_, text_NN message_NN ,_, send\/receive_JJ email_NN and_CC write_VB notes_NNS ._.
+The_DT Nexus_NNP is_VBZ just_RB fair_JJ at_IN the_DT first_JJ item_NN ,_, and_CC is_VBZ terrible_JJ at_IN everything_NN else_RB ._.
+If_IN you_PRP are_VBP an_DT old-time_JJ Blackberry_NNP user_NN -LRB-_-LRB- with_IN a_DT physical_JJ keyboard_NN -RRB-_-RRB- ,_, you_PRP will_MD not_RB like_VB the_DT Nexus_NNP ._.
+EMAILI_NNP really_RB really_RB tried_VBD to_TO make_VB this_DT thing_NN work_NN for_IN me_PRP ._.
+I_PRP downloaded_VBD the_DT only_JJ half-decent_JJ email_NN client_NN :_: K9_NNP ,_, but_CC it_PRP turned_VBD out_RP to_TO be_VB open_JJ source_NN ,_, and_CC in_IN spite_NN of_IN many_JJ email_NN exchanges_NNS with_IN the_DT authors_NNS of_IN K9_NNP ,_, they_PRP just_RB did_VBD not_RB get_VB it_PRP :_: that_IN they_PRP could_MD win_VB over_IN a_DT large_JJ swatch_NN of_IN Blackberry_NNP user_NN by_IN simply_RB emulating_VBG the_DT features_NNS of_IN the_DT BB_NNP client_NN ._.
+Consolidated_NNP email_NN ,_, text_NN messages_NNS and_CC missed_VBN calls_NNS ._.
+Who_WP wants_VBZ to_TO use_VB numerous_JJ separate_JJ apps_NNS to_TO initiate_VB a_DT message_NN ?_.
+The_DT standard_JJ Android_NNP email_NN client_NN is_VBZ pathetic_JJ ._.
+Do_VBP not_RB even_RB bother_VB ._.
+There_EX are_VBP so_RB many_JJ things_NNS you_PRP take_VBP for_IN granted_VBN on_IN your_PRP$ BB_NN that_WDT is_VBZ just_RB missing_VBG from_IN the_DT various_JJ clients_NNS I_PRP have_VBP tried_VBN ._.
+Try_VB copying_NN and_CC pasting_VBG some_DT text_NN from_IN K9_NNP or_CC these_DT other_JJ clients_NNS ._.
+Ca_MD not_RB be_VB done_VBN ._.
+Polling_NN on_IN all_PDT the_DT email_NN clients_NNS seems_VBZ to_TO take_VB up_RP a_DT ton_NN of_IN battery_NN juice_NN ._.
+So_RB I_PRP just_RB set_VBD the_DT polling_NN frequency_NN to_TO 30_CD minutes_NNS on_IN my_PRP$ main_JJ account_NN and_CC 12_CD hours_NNS on_IN my_PRP$ little_JJ used_JJ accounts_NNS ._.
+Polling_NN versus_CC push_NN technology_NN on_IN the_DT BB_NN is_VBZ just_RB not_RB the_DT same_JJ ._.
+I_PRP can_MD go_VB on_RP about_IN email_NN deficiencies_NNS ,_, but_CC you_PRP get_VBP my_PRP$ point_NN ._.
+TEXT_NNP MESSAGINGWith_NNP my_PRP$ BB_NN I_PRP can_MD send_VB a_DT text_NN message_NN in_IN seconds_NNS ._.
+With_IN Nexus_NNP \/_NNP Android_NNP it_PRP takes_VBZ minutes_NNS ._.
+Try_VB to_TO re-send_VB a_DT message_NN ._.
+It_PRP works_VBZ about_IN 50_CD percent_NN of_IN the_DT time_NN ._.
+I_PRP wanted_VBD to_TO throw_VB the_DT thing_NN out_IN the_DT window_NN ._.
+There_EX is_VBZ no_DT simple_JJ aresend_NN '_'' option_NN ,_, amazingly_RB ._.
+And_CC of_IN course_NN these_DT messages_NNS do_VBP not_RB appear_VB along_IN with_IN your_PRP$ emails_NNS ._.
+KEYBOARDIt_NNP 's_POS just_RB not_RB the_DT same_JJ experience_NN ._.
+I_PRP can_MD type_NN about_IN 3_CD times_NNS faster_RBR and_CC more_RBR accurately_RB on_IN the_DT BB_NNP ._.
+I_PRP tried_VBD for_IN about_IN two_CD months_NNS ._.
+It_PRP 's_VBZ truly_RB a_DT pathetic_JJ experience_NN ._.
+On_IN the_DT BB_NN I_PRP can_MD just_RB press_VB the_DT shift_NN key_NN and_CC get_VB a_DT number_NN ._.
+On_IN the_DT virtual_JJ Nexus_NNP keyboard_NN I_PRP have_VBP to_TO press_VB a_DT virtual_JJ button_NN to_TO get_VB a_DT whole_JJ other_JJ keyboard_NN ._.
+Ridiculous_JJ ._.
+So_RB if_IN you_PRP are_VBP mixing_VBG text_NN and_CC numbers_NNS as_IN I_PRP often_RB do_VBP ,_, you_PRP have_VBP slowed_VBN yourself_PRP down_RB about_RB 25_CD %_NN ._.
+CAMERAColor_JJ saturation_NN and_CC exposure_NN is_VBZ really_RB bad_JJ on_IN this_DT device_NN compared_VBN with_IN my_PRP$ new_JJ BB_NNP -LRB-_-LRB- I_PRP just_RB switched_VBD back_RP -RRB-_-RRB- ._.
+Also_RB ,_, the_DT camera_NN lacks_VBZ certain_JJ key_JJ features_NNS like_IN exposure_NN lock_NN and_CC exposure_NN adjustment_NN ._.
+Sounds_VBZ like_IN I_PRP am_VBP complaining_VBG a_DT lot_NN ._.
+There_EX 's_POS lots_NNS of_IN cool_JJ features_NNS of_IN Android_NNP and_CC the_DT Nexus_NNP ._.
+But_CC I_PRP tell_VBP you_PRP ,_, when_WRB I_PRP switched_VBD back_RB to_TO Blackberry_NNP recently_RB I_PRP breathed_VBD a_DT sigh_NN relief_NN ._.

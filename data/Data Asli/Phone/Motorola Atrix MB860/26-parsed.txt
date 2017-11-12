@@ -1,0 +1,29 @@
+=========
+
+det(flash-2, No-1)
+nsubj(included-3, flash-2)
+root(ROOT-0, included-3)
+
+=========
+
+det(camera-2, The-1)
+nsubj(worse-4, camera-2)
+cop(worse-4, is-3)
+root(ROOT-0, worse-4)
+poss(3gs-8, my-6)
+amod(3gs-8, iphone-7)
+prep_than(worse-4, 3gs-8)
+
+=========
+
+det(prize-4, the-2)
+amod(prize-4, equal-3)
+prep_with(think-7, prize-4)
+nsubj(think-7, i-6)
+root(ROOT-0, think-7)
+nsubj(better-12, iphone-8)
+cop(better-12, is-9)
+advmod(better-12, still-10)
+advmod(better-12, much-11)
+ccomp(think-7, better-12)
+

@@ -1,0 +1,2 @@
+It_PRP looks_VBZ small_JJ ,_, compared_VBN to_TO my_PRP$ LG_NNP 32_CD inch_NN ,_, but_CC it_PRP is_VBZ a_DT true_JJ 32_CD inch_NN ._.
+The_DT color_NN seems_VBZ to_TO be_VB off_RB ,_, but_CC I_PRP think_VBP we_PRP just_RB have_VBP no_RB adjusted_VBN it_PRP properly_RB ,_, I_PRP love_VBP the_DT options_NNS that_IN it_PRP has_VBZ with_IN it_PRP ._.

@@ -1,0 +1,31 @@
+=========
+
+advmod(happy-6, Excellent-1)
+nsubj(happy-6, I-3)
+cop(happy-6, am-4)
+advmod(happy-6, very-5)
+root(ROOT-0, happy-6)
+det(purchases-9, these-8)
+prep_with(happy-6, purchases-9)
+
+=========
+
+root(ROOT-0, Thanks-1)
+det(service-5, all-3)
+amod(service-5, great-4)
+prep_to(Thanks-1, service-5)
+
+=========
+
+csubj(gift-8, continue-1)
+advmod(continue-1, so-2)
+cop(gift-8, is-4)
+neg(gift-8, not-5)
+advmod(gift-8, there-6)
+det(gift-8, any-7)
+root(ROOT-0, gift-8)
+
+=========
+
+root(ROOT-0, XD-1)
+

@@ -1,0 +1,106 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+det(gift-6, a-5)
+prep_as(bought-2, gift-6)
+poss(wife-9, my-8)
+prep_for(bought-2, wife-9)
+
+=========
+
+nsubj(took-2, We-1)
+root(ROOT-0, took-2)
+dobj(took-2, it-3)
+det(vacation-7, a-5)
+amod(vacation-7, driving-6)
+prep_on(took-2, vacation-7)
+nn(England-12, Canada-9)
+conj_and(Canada-9, New-11)
+nn(England-12, New-11)
+prep_through(took-2, England-12)
+
+=========
+
+aux(get-2, To-1)
+purpcl(necessity-15, get-2)
+det(maximum-4, the-3)
+dobj(get-2, maximum-4)
+poss(features-8, its-7)
+prep_out_of(get-2, features-8)
+det(tripod-11, a-10)
+nsubj(necessity-15, tripod-11)
+aux(necessity-15, would-12)
+cop(necessity-15, be-13)
+det(necessity-15, a-14)
+root(ROOT-0, necessity-15)
+
+=========
+
+det(tripod-3, a-2)
+prep_with(able-7, tripod-3)
+nsubj(able-7, we-5)
+cop(able-7, were-6)
+root(ROOT-0, able-7)
+aux(take-9, to-8)
+xcomp(able-7, take-9)
+det(shots-13, some-10)
+amod(shots-13, beautiful-11)
+amod(shots-13, panoramic-12)
+dobj(take-9, shots-13)
+xcomp(able-7, use-15)
+conj_and(take-9, use-15)
+det(feature-19, the-16)
+nn(feature-19, hue-17)
+nn(feature-19, saturation-18)
+dobj(use-15, feature-19)
+
+=========
+
+det(capacity-3, The-1)
+amod(capacity-3, zoom-2)
+nsubj(exceeds-4, capacity-3)
+root(ROOT-0, exceeds-4)
+poss(ability-6, our-5)
+dobj(exceeds-4, ability-6)
+aux(keep-8, to-7)
+infmod(ability-6, keep-8)
+amod(items-10, distant-9)
+dobj(keep-8, items-10)
+prep_in(items-10, frame-12)
+advmod(keep-8, easily-13)
+
+=========
+
+det(camera-2, This-1)
+nsubj(serves-3, camera-2)
+root(ROOT-0, serves-3)
+det(picture-8, the-4)
+nn(picture-8, vacation-5)
+conj_and(vacation-5, event-7)
+nn(picture-8, event-7)
+dobj(serves-3, picture-8)
+partmod(picture-8, taking-9)
+amod(photographer-11, amateur-10)
+dobj(taking-9, photographer-11)
+advmod(well-13, very-12)
+advmod(taking-9, well-13)
+
+=========
+
+nsubj(justify-4, I-1)
+aux(justify-4, can-2)
+neg(justify-4, not-3)
+root(ROOT-0, justify-4)
+det(expensive-7, the-5)
+amod(expensive-7, added-6)
+dobj(justify-4, expensive-7)
+prepc_of(expensive-7, getting-9)
+det(camera-12, a-10)
+amod(camera-12, better-11)
+dobj(getting-9, camera-12)
+prep_than(getting-9, this-14)
+poss(needs-17, our-16)
+prep_for(this-14, needs-17)
+

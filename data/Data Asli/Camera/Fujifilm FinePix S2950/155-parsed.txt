@@ -1,0 +1,77 @@
+=========
+
+nsubj(takes-3, Camera-1)
+advmod(takes-3, only-2)
+root(ROOT-0, takes-3)
+amod(photos-5, good-4)
+dobj(takes-3, photos-5)
+prep(takes-3, outside-6)
+pcomp(outside-6, in-7)
+amod(lighting-10, good-8)
+nn(lighting-10, ambient-9)
+prep_in(outside-6, lighting-10)
+
+=========
+
+prep_inside(horrible-12, photos-2)
+det(matter-5, no-4)
+advmod(horrible-12, matter-5)
+nsubj(setting-7, what-6)
+nsubj(configuration-9, what-6)
+dep(matter-5, setting-7)
+dep(matter-5, configuration-9)
+conj_or(setting-7, configuration-9)
+cop(horrible-12, are-11)
+root(ROOT-0, horrible-12)
+
+=========
+
+poss(take-5, My-1)
+amod(take-5, old-2)
+dep(old-2, Sony-3)
+num(Sony-3, 5MP-4)
+nsubj(WAY-6, take-5)
+root(ROOT-0, WAY-6)
+amod(photos-8, better-7)
+dobj(WAY-6, photos-8)
+advmod(WAY-6, indoors-9)
+det(one-12, this-11)
+prep_than(WAY-6, one-12)
+
+=========
+
+det(camera-2, This-1)
+nsubjpass(meant-5, camera-2)
+auxpass(meant-5, is-3)
+advmod(meant-5, obviously-4)
+root(ROOT-0, meant-5)
+advmod(meant-5, strictly-6)
+amod(usage-9, outdoor-8)
+prep_for(meant-5, usage-9)
+advmod(meant-5, even-11)
+conj_and(meant-5, even-11)
+advmod(good-20, then-12)
+nsubj(good-20, it-14)
+cop(good-20, is-15)
+neg(good-20, not-16)
+amod(good-20, fantastic-17)
+advmod(good-20, just-19)
+ccomp(meant-5, good-20)
+conj_and(meant-5, good-20)
+
+=========
+
+cc(ask-6, But-1)
+dep(more-3, what-2)
+dobj(ask-6, more-3)
+aux(ask-6, can-4)
+nsubj(ask-6, you-5)
+root(ROOT-0, ask-6)
+nsubj(get-10, you-8)
+advmod(get-10, really-9)
+ccomp(ask-6, get-10)
+dep(pay-13, what-11)
+nsubj(pay-13, you-12)
+ccomp(get-10, pay-13)
+prep(pay-13, for-14)
+

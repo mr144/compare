@@ -1,0 +1,40 @@
+=========
+
+ccomp(had-8, Brought-1)
+det(phone-3, this-2)
+dobj(Brought-1, phone-3)
+num(months-5, 4-4)
+npadvmod(back-6, months-5)
+advmod(Brought-1, back-6)
+root(ROOT-0, had-8)
+det(issues-10, no-9)
+dobj(had-8, issues-10)
+
+=========
+
+amod(screen-2, Great-1)
+nsubj(recommend-6, screen-2)
+conj_and(screen-2, features-4)
+nsubj(recommend-6, features-4)
+aux(recommend-6, would-5)
+root(ROOT-0, recommend-6)
+dobj(recommend-6, this-7)
+prep_to(recommend-6, anyone-9)
+
+=========
+
+dep(good-19, a-1)
+det(2.3.4-8, the-4)
+amod(2.3.4-8, latest-5)
+nn(2.3.4-8, Android-6)
+nn(2.3.4-8, software-7)
+prep_with(good-19, 2.3.4-8)
+nn(Bread-11, Ginger-10)
+appos(2.3.4-8, Bread-11)
+det(phone-15, the-14)
+nsubj(good-19, phone-15)
+cop(good-19, is-16)
+advmod(good-19, even-17)
+advmod(good-19, more-18)
+root(ROOT-0, good-19)
+

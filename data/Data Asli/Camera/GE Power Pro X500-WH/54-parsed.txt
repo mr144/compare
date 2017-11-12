@@ -1,0 +1,37 @@
+=========
+
+nn(producto-4, Es-1)
+nn(producto-4, un-2)
+nn(producto-4, excelente-3)
+nsubj(y-20, producto-4)
+nn(recomendarsela-7, puedo-6)
+appos(producto-4, recomendarsela-7)
+det(cualquiera-9, a-8)
+dep(recomendarsela-7, cualquiera-9)
+nn(nitidez-12, buena-11)
+appos(producto-4, nitidez-12)
+nn(contraste-15, buen-14)
+appos(producto-4, contraste-15)
+nn(fotos-18, las-17)
+prep_en(contraste-15, fotos-18)
+root(ROOT-0, y-20)
+dobj(y-20, facil-21)
+iobj(y-20, facil-21)
+amod(facil-21, de-22)
+nn(cargar-25, manejar-23)
+nn(cargar-25, y-24)
+dep(facil-21, cargar-25)
+
+=========
+
+amod(recuperar-3, Solo-1)
+nn(recuperar-3, espero-2)
+nsubj(ped&iacute;-7, recuperar-3)
+prep(recuperar-3, la-4)
+nn(que-6, pistola-5)
+pobj(la-4, que-6)
+root(ROOT-0, ped&iacute;-7)
+
+=========
+
+

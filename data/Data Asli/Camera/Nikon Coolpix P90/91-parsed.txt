@@ -1,0 +1,51 @@
+=========
+
+nsubj(upgrade-4, Camera-1)
+nsubj(shoot-10, Camera-1)
+cop(upgrade-4, is-2)
+det(upgrade-4, an-3)
+root(ROOT-0, upgrade-4)
+det(point-8, a-6)
+nn(point-8, Kodak-7)
+prep_from(upgrade-4, point-8)
+conj_and(upgrade-4, shoot-10)
+
+=========
+
+root(ROOT-0, Good-1)
+dep(Good-1, zoom-2)
+
+=========
+
+det(pix-2, Some-1)
+nsubj(seem-3, pix-2)
+xsubj(quality-7, pix-2)
+root(ROOT-0, seem-3)
+aux(quality-7, to-4)
+cop(quality-7, be-5)
+dep(quality-7, good-6)
+xcomp(seem-3, quality-7)
+npadvmod(mediocre-10, some-9)
+dep(quality-7, mediocre-10)
+
+=========
+
+advmod(learning-2, Still-1)
+csubj(have-16, learning-2)
+det(options-5, the-3)
+amod(options-5, many-4)
+dobj(learning-2, options-5)
+advmod(options-5, maybe-7)
+advmod(many-9, too-8)
+dep(options-5, many-9)
+aux(honest-12, to-10)
+cop(honest-12, be-11)
+infmod(many-9, honest-12)
+aux(have-16, would-14)
+advmod(have-16, rather-15)
+root(ROOT-0, have-16)
+det(LCD-20, a-17)
+amod(LCD-20, higher-18)
+nn(LCD-20, quality-19)
+dobj(have-16, LCD-20)
+

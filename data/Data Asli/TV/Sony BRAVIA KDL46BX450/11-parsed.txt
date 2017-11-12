@@ -1,0 +1,91 @@
+=========
+
+det(TV-2, This-1)
+nsubj(amazing-4, TV-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+det(price-7, this-6)
+prep_for(amazing-4, price-7)
+
+=========
+
+nsubj(interested-4, I-1)
+cop(interested-4, was-2)
+neg(interested-4, not-3)
+root(ROOT-0, interested-4)
+det(bells-7, any-6)
+prep_in(interested-4, bells-7)
+prep_in(interested-4, whistles-9)
+conj_and(bells-7, whistles-9)
+
+=========
+
+nsubj(needed-2, I-1)
+root(ROOT-0, needed-2)
+det(TV-6, a-3)
+amod(TV-6, flat-4)
+nn(TV-6, screen-5)
+dobj(needed-2, TV-6)
+num(inputs-12, 1-8)
+conj_or(1-8, more-10)
+quantmod(1-8, more-10)
+num(inputs-12, more-10)
+nn(inputs-12, HDMI-11)
+prep_with(needed-2, inputs-12)
+nsubj(provides-14, inputs-12)
+rcmod(inputs-12, provides-14)
+amod(picture-16, good-15)
+dobj(provides-14, picture-16)
+amod(system-19, sound-18)
+dobj(provides-14, system-19)
+conj_and(picture-16, system-19)
+
+=========
+
+nsubjpass(pleased-3, I-1)
+auxpass(pleased-3, am-2)
+root(ROOT-0, pleased-3)
+det(TV-6, this-5)
+prep_with(pleased-3, TV-6)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+amod(month-5, last-4)
+tmod(bought-2, month-5)
+
+=========
+
+advmod(now-2, Till-1)
+advmod(working-5, now-2)
+nsubj(working-5, it-3)
+aux(working-5, is-4)
+root(ROOT-0, working-5)
+advmod(working-5, nicely-6)
+
+=========
+
+root(ROOT-0, Touch-1)
+dobj(Touch-1, wood-2)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, definitely-3)
+root(ROOT-0, recommend-4)
+det(TV-6, this-5)
+dobj(recommend-4, TV-6)
+det(friend-9, a-8)
+prep_to(recommend-4, friend-9)
+
+=========
+
+nsubj(better-3, KDL40EX640-1)
+cop(better-3, is-2)
+root(ROOT-0, better-3)
+det(TV-6, this-5)
+prep_than(better-3, TV-6)
+

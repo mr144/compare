@@ -1,0 +1,12 @@
+=========
+
+nsubj(looking-4, I-1)
+aux(looking-4, was-2)
+advmod(looking-4, just-3)
+root(ROOT-0, looking-4)
+det(TV-8, a-6)
+amod(TV-8, basic-7)
+prep_for(looking-4, TV-8)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

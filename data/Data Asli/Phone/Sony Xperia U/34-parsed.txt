@@ -1,0 +1,49 @@
+=========
+
+nsubj(upgraded-3, I-1)
+aux(upgraded-3, have-2)
+root(ROOT-0, upgraded-3)
+prep_to(upgraded-3, Android-5)
+num(Android-5, 4-6)
+det(problem-9, any-8)
+prep_without(upgraded-3, problem-9)
+
+=========
+
+det(screen-2, The-1)
+nsubj(responsive-5, screen-2)
+cop(responsive-5, is-3)
+advmod(responsive-5, quite-4)
+root(ROOT-0, responsive-5)
+det(texting-9, the-8)
+nsubj(easy-15, texting-9)
+nn(mode-12, landscape-11)
+prep_in(texting-9, mode-12)
+cop(easy-15, is-13)
+advmod(easy-15, quite-14)
+conj_and(responsive-5, easy-15)
+
+=========
+
+nsubj(had-4, I-1)
+aux(had-4, have-2)
+neg(had-4, not-3)
+root(ROOT-0, had-4)
+nsubj(try-9, it-5)
+advmod(enough-7, long-6)
+advmod(try-9, enough-7)
+aux(try-9, to-8)
+ccomp(had-4, try-9)
+xcomp(had-4, try-9)
+prt(try-9, out-10)
+dobj(try-9, all-11)
+det(features-14, the-13)
+prep_of(all-11, features-14)
+det(point-19, this-18)
+prep_at(pleased-24, point-19)
+nsubj(pleased-24, I-21)
+cop(pleased-24, am-22)
+advmod(pleased-24, very-23)
+conj_but(had-4, pleased-24)
+prep_with(pleased-24, it-26)
+

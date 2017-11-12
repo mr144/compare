@@ -1,0 +1,121 @@
+=========
+
+nsubj(purchased-3, I-1)
+nsubj(owned-9, I-1)
+aux(purchased-3, had-2)
+root(ROOT-0, purchased-3)
+det(TV-5, this-4)
+npadvmod(prior-6, TV-5)
+advmod(purchased-3, prior-6)
+aux(owned-9, had-8)
+conj_and(purchased-3, owned-9)
+xcomp(owned-9, it-10)
+advmod(when-14, only-11)
+num(months-13, 6-12)
+pobj(only-11, months-13)
+advmod(yr-17, when-14)
+poss(yr-17, my-15)
+num(yr-17, 2-16)
+advcl(owned-9, yr-17)
+
+=========
+
+amod(grandson-2, old-1)
+nsubj(threw-3, grandson-2)
+nsubj(shattered-10, grandson-2)
+root(ROOT-0, threw-3)
+det(ball-6, a-4)
+amod(ball-6, wooden-5)
+dobj(threw-3, ball-6)
+prep_at(threw-3, it-8)
+conj_and(threw-3, shattered-10)
+det(screen-12, the-11)
+dobj(shattered-10, screen-12)
+
+=========
+
+nsubj(looked-2, I-1)
+xsubj(find-5, I-1)
+root(ROOT-0, looked-2)
+advmod(looked-2, everywhere-3)
+aux(find-5, to-4)
+xcomp(looked-2, find-5)
+det(replacement-7, a-6)
+dobj(find-5, replacement-7)
+
+=========
+
+nsubj(sells-4, Wal-Mart-1)
+advmod(longer-3, no-2)
+advmod(sells-4, longer-3)
+root(ROOT-0, sells-4)
+det(TV-6, this-5)
+dobj(sells-4, TV-6)
+nsubj(has-10, it-9)
+conj_but(sells-4, has-10)
+det(3D-12, the-11)
+dobj(has-10, 3D-12)
+nn(capabilities-15, WiFi-14)
+appos(3D-12, capabilities-15)
+dep(3D-12, etc.-16)
+
+=========
+
+nsubj(want-4, I-1)
+xsubj(give-6, I-1)
+aux(want-4, did-2)
+neg(want-4, not-3)
+root(ROOT-0, want-4)
+aux(give-6, to-5)
+xcomp(want-4, give-6)
+prt(give-6, up-7)
+dobj(give-6, something-8)
+dobj(had-11, something-8)
+nsubj(had-11, I-9)
+advmod(had-11, already-10)
+rcmod(something-8, had-11)
+xcomp(want-4, have-13)
+conj_or(give-6, have-13)
+aux(pay-15, to-14)
+xcomp(have-13, pay-15)
+dobj(pay-15, more-16)
+aux(get-18, to-17)
+xcomp(pay-15, get-18)
+dobj(get-18, it-19)
+
+=========
+
+nsubj(had-2, Amazon-1)
+root(ROOT-0, had-2)
+dobj(wanted-5, what-3)
+nsubj(wanted-5, I-4)
+dep(wanted-10, wanted-5)
+det(price-8, the-7)
+prep_at(wanted-5, price-8)
+nsubj(wanted-10, I-9)
+ccomp(had-2, wanted-10)
+
+=========
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+advmod(was-2, here-3)
+num(days-6, three-5)
+prep_in(was-2, days-6)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, this-4)
+prep_to(recommend-3, anyone-6)
+partmod(anyone-6, looking-7)
+det(product-12, a-9)
+amod(product-12, real-10)
+amod(product-12, nice-11)
+prep_for(looking-7, product-12)
+det(price-16, an-14)
+amod(price-16, affordable-15)
+prep_at(product-12, price-16)
+

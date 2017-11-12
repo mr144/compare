@@ -1,0 +1,62 @@
+=========
+
+amod(megapixels-3, 12.1-2)
+prep_with(buy-14, megapixels-3)
+amod(zoom-7, 25x-5)
+amod(zoom-7, optical-6)
+conj_and(megapixels-3, zoom-7)
+prep_with(buy-14, zoom-7)
+det(camera-10, this-8)
+nn(camera-10, Nikon-9)
+nsubj(buy-14, camera-10)
+cop(buy-14, is-11)
+det(buy-14, the-12)
+amod(buy-14, best-13)
+root(ROOT-0, buy-14)
+dobj(find-17, buy-14)
+nsubj(find-17, you-15)
+aux(find-17, can-16)
+rcmod(buy-14, find-17)
+
+=========
+
+det(weight-2, The-1)
+nsubj(nice-4, weight-2)
+cop(nice-4, is-3)
+root(ROOT-0, nice-4)
+aux(handle-6, to-5)
+xcomp(nice-4, handle-6)
+nsubj(fits-9, it-8)
+conj_and(nice-4, fits-9)
+advmod(fits-9, nicely-10)
+poss(hands-13, my-12)
+prep_in(fits-9, hands-13)
+
+=========
+
+nsubj(received-2, I-1)
+root(ROOT-0, received-2)
+det(camera-4, the-3)
+dobj(received-2, camera-4)
+det(time-9, a-6)
+advmod(short-8, very-7)
+amod(time-9, short-8)
+prep_in(received-2, time-9)
+nsubjpass(packed-13, it-11)
+auxpass(packed-13, was-12)
+conj_and(received-2, packed-13)
+advmod(packed-13, well-14)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(problem-4, no-3)
+dobj(have-2, problem-4)
+partmod(problem-4, ordering-5)
+det(item-8, an-6)
+amod(item-8, above-priced-7)
+dobj(ordering-5, item-8)
+prep_through(ordering-5, Amazon-10)
+advmod(ordering-5, again-11)
+

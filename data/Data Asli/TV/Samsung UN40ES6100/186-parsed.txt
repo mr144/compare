@@ -1,0 +1,100 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+nn(Friday-7, Black-6)
+prep_on(bought-2, Friday-7)
+partmod(Friday-7, expecting-8)
+advmod(HDTV-12, just-9)
+det(HDTV-12, an-10)
+nn(HDTV-12, LED-11)
+dobj(expecting-8, HDTV-12)
+
+=========
+
+dobj(got-3, What-1)
+nsubj(got-3, I-2)
+csubj(more-5, got-3)
+cop(more-5, was-4)
+root(ROOT-0, more-5)
+mark(bargained-8, than-6)
+nsubj(bargained-8, I-7)
+ccomp(more-5, bargained-8)
+prep(bargained-8, for-9)
+
+=========
+
+nsubj(TV-6, This-1)
+cop(TV-6, is-2)
+det(TV-6, a-3)
+num(TV-6, 3D-4)
+nn(TV-6, LED-5)
+root(ROOT-0, TV-6)
+nsubj(came-8, TV-6)
+rcmod(TV-6, came-8)
+amod(Glasses-12, 2-free-10)
+num(Glasses-12, 3D-11)
+prep_with(came-8, Glasses-12)
+det(sync-14, that-13)
+dobj(came-8, sync-14)
+det(TV-17, the-16)
+prep_to(sync-14, TV-17)
+tmod(turn-20, TV-17)
+advmod(turn-20, when-18)
+nsubj(turn-20, you-19)
+dep(TV-17, turn-20)
+det(glasses-22, the-21)
+dobj(turn-20, glasses-22)
+prt(turn-20, on-23)
+
+=========
+
+det(WiFi-2, The-1)
+nsubj(works-3, WiFi-2)
+root(ROOT-0, works-3)
+acomp(works-3, excellent-4)
+det(quality-8, the-6)
+nn(quality-8, picture-7)
+nsubj(amazing-11, quality-8)
+cop(amazing-11, is-9)
+advmod(amazing-11, truly-10)
+conj_and(works-3, amazing-11)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(TV-8, a-3)
+number(&#34;-5, 55-4)
+num(TV-8, &#34;-5)
+nn(TV-8, LG-6)
+nn(TV-8, LED-7)
+dobj(have-2, TV-8)
+det(Samsung-12, this-11)
+nsubj(beats-13, Samsung-12)
+conj_but(have-2, beats-13)
+det(quality-16, the-14)
+nn(quality-16, picture-15)
+dobj(beats-13, quality-16)
+det(LG-19, the-18)
+prep_of(quality-16, LG-19)
+
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+root(ROOT-0, TV-5)
+det(price-8, the-7)
+prep_for(TV-5, price-8)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, highly-3)
+root(ROOT-0, recommend-4)
+

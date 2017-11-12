@@ -1,0 +1,10 @@
+BEWARE_VB !!_IN I_PRP purchased_VBD this_DT phone_NN supposedly_RB brand_NN new_JJ and_CC unlocked_VBD supplied_VBN and_CC shipped_VBN from_IN AMAZON_NNP ._.
+I_PRP received_VBD a_DT new_JJ box_NN with_IN the_DT seal_NN unbroken_JJ ._.
+HOWEVER_RB ,_, When_WRB I_PRP opened_VBD the_DT box_NN ,_, though_IN the_DT phone_NN seemed_VBD untouched_JJ ..._: it_PRP came_VBD with_IN NO_DT BACK_NNP DOOR_NNP battery_NN cover_NN ._.
+Added_VBN to_TO which_WDT ,_, I_PRP could_MD not_RB sign_VB in_IN to_TO Windows_NNP Live_NNP Messenger_NNP or_CC GTalk_NNP ,_, it_PRP would_MD display_VB an_DT error_NN message_NN `_`` The_DT application_NN has_VBZ been_VBN disabled_VBN from_IN IT_PRP Policy_NNP !_. '_''
+and_CC `_`` Windows_NNS live_VBP messenger_NN has_VBZ been_VBN blocked_VBN !_. '_''
+..._: but_CC BBM_NNP worked_VBD fine_JJ ._.
+When_WRB I_PRP contacted_VBD my_PRP$ local_JJ service_NN provider_NN ,_, they_PRP said_VBD there_EX is_VBZ nothing_NN on_IN their_PRP$ side_NN that_IN they_PRP can_MD do_VB ._.
+I_PRP contacted_VBD RIM_NNP for_IN their_PRP$ assistance_NN ,_, who_WP subsequently_RB informed_VBD me_PRP that_IN the_DT settings_NNS for_IN the_DT enterprise_NN network_NN the_DT phone_NN was_VBD previous_JJ connected_VBN to_TO still_RB exists_VBZ on_IN the_DT phone_NN ,_, and_CC that_DT 's_VBZ why_WRB I_PRP am_VBP having_VBG the_DT problem_NN ._.
+So_RB of_IN course_NN I_PRP am_VBP confused_VBN ..._: I_PRP paid_VBD for_IN a_DT BRAND_NNP NEW_NNP PHONE_NNP ,_, but_CC RIM_NNP reveals_VBZ the_DT phone_NN was_VBD actually_RB in_IN use_NN before_RB ._.
+So_IN my_PRP$ advice_NN to_TO you_PRP is_VBZ when_WRB purchasing_VBG phones_NNS online_VBP ..._: proceed_VB with_IN caution_NN !_.

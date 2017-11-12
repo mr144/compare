@@ -1,0 +1,30 @@
+=========
+
+partmod(love-8, Quite-1)
+acomp(Quite-1, easy-2)
+aux(set-4, to-3)
+xcomp(easy-2, set-4)
+prt(set-4, up-5)
+nsubj(love-8, we-7)
+root(ROOT-0, love-8)
+dobj(love-8, it-9)
+
+=========
+
+nsubj(great-3, Color-1)
+cop(great-3, is-2)
+ccomp(good-8, great-3)
+nsubj(good-8, sound-5)
+cop(good-8, is-6)
+advmod(good-8, very-7)
+root(ROOT-0, good-8)
+
+=========
+
+nsubj(recoment-4, We-1)
+aux(recoment-4, would-2)
+advmod(recoment-4, highly-3)
+root(ROOT-0, recoment-4)
+det(TV-6, this-5)
+dobj(recoment-4, TV-6)
+

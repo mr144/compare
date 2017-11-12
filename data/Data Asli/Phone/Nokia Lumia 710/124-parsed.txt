@@ -1,0 +1,82 @@
+=========
+
+nsubj(PHONE-6, THIS-1)
+cop(PHONE-6, IS-2)
+nn(PHONE-6, MY-3)
+nn(PHONE-6, THIRD-4)
+nn(PHONE-6, NOKIA-5)
+root(ROOT-0, PHONE-6)
+
+=========
+
+nsubj(HAD-2, I-1)
+root(ROOT-0, HAD-2)
+dobj(HAD-2, 3160-3)
+nn(YEARS-7, ALMOST-5)
+num(YEARS-7, 9-6)
+prep_for(3160-3, YEARS-7)
+dobj(HAD-2, I-9)
+conj_and(3160-3, I-9)
+nn(NICE-13, GAVE-10)
+nn(NICE-13, TO-11)
+nn(NICE-13, MY-12)
+dep(I-9, NICE-13)
+nn(WORKING-18, IT-15)
+nn(WORKING-18, IS-16)
+nn(WORKING-18, STILL-17)
+dep(I-9, WORKING-18)
+conj_and(NICE-13, WORKING-18)
+
+=========
+
+prep_than(BOUGHT-3, I-2)
+root(ROOT-0, BOUGHT-3)
+nn(AND-7, NOKIA-4)
+nn(AND-7, C-5)
+num(AND-7, 6-6)
+nsubj(I-8, AND-7)
+xcomp(BOUGHT-3, I-8)
+nn(THIS-13, STILL-9)
+nn(THIS-13, HAVE-10)
+nn(THIS-13, THAT-11)
+nn(THIS-13, USE-12)
+nsubj(BOUGHT-3, THIS-13)
+prep_in(THIS-13, OVERSEAS-15)
+
+=========
+
+cc(WEEKS-4, AND-1)
+nn(WEEKS-4, NOW-2)
+num(WEEKS-4, TWO-3)
+nsubj(AGO-5, WEEKS-4)
+root(ROOT-0, AGO-5)
+nsubj(BOUGHT-7, I-6)
+ccomp(AGO-5, BOUGHT-7)
+nn(PHON-11, LUMIA-8)
+nn(PHON-11, 710-9)
+nn(PHON-11, WINDOW-10)
+dobj(BOUGHT-7, PHON-11)
+
+=========
+
+nsubj(EXCELENT-3, IT-1)
+cop(EXCELENT-3, IS-2)
+root(ROOT-0, EXCELENT-3)
+
+=========
+
+advmod(AM-3, NOW-1)
+nsubj(AM-3, I-2)
+root(ROOT-0, AM-3)
+xcomp(AM-3, THINKING-4)
+aux(BUY-6, TO-5)
+xcomp(THINKING-4, BUY-6)
+dobj(BUY-6, LUMIA-7)
+num(LUMIA-7, 920-8)
+advmod(GO-13, WHEN-9)
+nn(PRICE-11, ITS-10)
+nsubj(GO-13, PRICE-11)
+aux(GO-13, WILL-12)
+dep(LUMIA-7, GO-13)
+dobj(GO-13, DOWN-14)
+

@@ -1,0 +1,26 @@
+=========
+
+dep(wanted-4, just-1)
+dep(just-1, what-2)
+nsubj(wanted-4, i-3)
+dep(great-16, wanted-4)
+amod(quality-6, good-5)
+dobj(wanted-4, quality-6)
+det(effort-8, no-7)
+nsubj(great-16, effort-8)
+neg(heavy-11, not-10)
+amod(effort-8, heavy-11)
+det(zoom-14, the-13)
+conj_and(effort-8, zoom-14)
+nsubj(great-16, zoom-14)
+cop(great-16, is-15)
+root(ROOT-0, great-16)
+
+=========
+
+amod(setting-2, easy-1)
+root(ROOT-0, setting-2)
+amod(life-6, good-4)
+nn(life-6, battery-5)
+conj_and(setting-2, life-6)
+

@@ -1,0 +1,9 @@
+Screen_NN Size_NN :_: 3.5_CD '_'' HD_NNP 16:9_CD ratio_NN ,_, not_RB HD_NNP resolution_NN ,_, but_CC good_JJ enough_RB for_IN people_NNS under_IN 40_CD years_NNS old_JJ with_IN good_JJ eye_NN sights_NNS ._.
+Phone_NN Size_NN :_: good_JJ for_IN pocket_NN ,_, small_JJ ._.
+Storage_NN Size_NN :_: 8_CD GB_NNP ,_, 4_CD GB_NN usable_JJ ,_, bit_RB small_JJ but_CC workable_JJ ._.
+Design_NNP &_CC Construction_NNP :_: Xperia_NNP line_NN ,_, very_RB attractiveBattery_JJ :_: User_NNP removableSim_NNP :_: Regular_JJ mini_FW sim_FW -LRB-_-LRB- not_RB micro_NN or_CC nano_NN -RRB-_-RRB- Supported_VBN Language_NN :_: All_DT supported_VBN languages_NNS in_IN Android_NNP Gingerbread_NNP ,_, biggest_JJS plus_NN here_RB ._.
+Wifi_NNP :_: Tested_VBN on_IN N_NNP ,_, fast_RB ._.
+Camera\/Video_NNP :_: Front_NN and_CC back_RB ,_, good_JJ for_IN general_JJ use_NN ._.
+Battery_NNP Cover_NNP :_: Pretty_NNP hard_JJ to_TO remove_VB ,_, actually_RB you_PRP press_VBP your_PRP$ thumbs_NNS at_IN lower_JJR part_NN of_IN battery_NN cover_NN to_TO push_VB up_RP ._.
+No_DT NFC_NNP support_NN ._.
+The_DT only_JJ negative_NN is_VBZ the_DT storage_NN size_NN and_CC material_NN of_IN the_DT phone_NN ,_, but_CC overall_JJ it_PRP is_VBZ a_DT great_JJ entry_NN level_NN android_NN phone_NN for_IN all_DT ages_NNS ._.

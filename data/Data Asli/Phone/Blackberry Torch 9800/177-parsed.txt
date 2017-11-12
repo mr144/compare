@@ -1,0 +1,42 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, this-4)
+prep_since(this-4, April-6)
+nsubj(have-9, I-8)
+xsubj(say-11, I-8)
+conj_and(had-3, have-9)
+aux(say-11, to-10)
+xcomp(have-9, say-11)
+complm(phone-17, that-12)
+nsubj(phone-17, this-13)
+cop(phone-17, is-14)
+det(phone-17, the-15)
+amod(phone-17, best-16)
+ccomp(say-11, phone-17)
+advmod(phone-17, ever-18)
+
+=========
+
+root(ROOT-0, Used-1)
+dobj(Used-1, it-2)
+det(US-5, the-4)
+prep_in(Used-1, US-5)
+advmod(using-8, currently-7)
+conj_and(Used-1, using-8)
+dobj(using-8, it-9)
+advmod(using-8, abroad-10)
+
+=========
+
+root(ROOT-0, Love-1)
+det(phone-3, this-2)
+dep(Love-1, phone-3)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

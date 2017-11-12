@@ -1,0 +1,26 @@
+=========
+
+nsubj(believe-2, I-1)
+root(ROOT-0, believe-2)
+nsubj(camera-9, this-3)
+aux(camera-9, to-4)
+cop(camera-9, be-5)
+det(camera-9, a-6)
+advmod(adequate-8, very-7)
+amod(camera-9, adequate-8)
+xcomp(believe-2, camera-9)
+poss(purposes-12, my-11)
+prep_for(camera-9, purposes-12)
+
+=========
+
+nsubj(get-2, You-1)
+root(ROOT-0, get-2)
+det(lot-4, a-3)
+dobj(get-2, lot-4)
+prep_of(lot-4, features-6)
+prep_of(lot-4, capabilities-8)
+conj_and(features-6, capabilities-8)
+det(money-11, the-10)
+prep_for(get-2, money-11)
+

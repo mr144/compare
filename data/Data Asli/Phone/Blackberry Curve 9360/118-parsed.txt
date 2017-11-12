@@ -1,0 +1,43 @@
+=========
+
+nsubj(investment-5, this-1)
+cop(investment-5, was-2)
+det(investment-5, a-3)
+amod(investment-5, good-4)
+root(ROOT-0, investment-5)
+mark(price-10, because-7)
+nsubj(price-10, it-8)
+cop(price-10, is-9)
+advcl(investment-5, price-10)
+cop(fair-12, was-11)
+rcmod(price-10, fair-12)
+det(product-15, the-14)
+prep_with(fair-12, product-15)
+
+=========
+
+nsubj(buy-3, you-1)
+aux(buy-3, should-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, one-4)
+
+=========
+
+det(item-2, this-1)
+nsubj(is-3, item-2)
+root(ROOT-0, is-3)
+amod(conditions-6, excellent-5)
+prep_in(is-3, conditions-6)
+nsubj(new-10, it-8)
+cop(new-10, is-9)
+dep(conditions-6, new-10)
+nsubj(does-15, it-14)
+conj_and(is-3, does-15)
+neg(does-15, not-16)
+dep(does-15, comes-17)
+det(damages-20, any-19)
+prep_with(comes-17, damages-20)
+nn(scratches-23, skin-22)
+prep_with(comes-17, scratches-23)
+conj_or(damages-20, scratches-23)
+

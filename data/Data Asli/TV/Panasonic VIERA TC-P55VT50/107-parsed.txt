@@ -1,0 +1,60 @@
+=========
+
+root(ROOT-0, Moved-1)
+prt(Moved-1, up-2)
+det(Panasonic-5, a-4)
+prep_from(Moved-1, Panasonic-5)
+num(Panasonic-5, 65S1-6)
+
+=========
+
+nsubj(better-25, Day-1)
+num(Day-1, one-2)
+cop(impressed-6, was-3)
+neg(impressed-6, not-4)
+advmod(impressed-6, very-5)
+rcmod(Day-1, impressed-6)
+det(week-9, a-8)
+npadvmod(later-10, week-9)
+advmod(impressed-6, later-10)
+det(time-13, some-12)
+prep_with(impressed-6, time-13)
+rel(awesome-19, it-15)
+det(picture-17, the-16)
+nsubj(awesome-19, picture-17)
+cop(awesome-19, is-18)
+rcmod(time-13, awesome-19)
+rcmod(Day-1, assume-21)
+conj_and(impressed-6, assume-21)
+aux(better-25, will-22)
+dep(better-25, get-23)
+advmod(better-25, even-24)
+root(ROOT-0, better-25)
+
+=========
+
+csubj(good-12, Played-1)
+det(Express-4, The-2)
+nn(Express-4, Polar-3)
+dobj(Played-1, Express-4)
+prep_in(Express-4, 3D-6)
+conj_and(Played-1, thought-8)
+csubj(good-12, thought-8)
+cop(good-12, was-9)
+advmod(good-12, pretty-10)
+advmod(good-12, darn-11)
+root(ROOT-0, good-12)
+
+=========
+
+amod(Panasonic-2, Typical-1)
+nsubj(got-7, Panasonic-2)
+amod(Panasonic-2, quality-3)
+amod(Panasonic-2, glad-5)
+conj_and(quality-3, glad-5)
+nsubj(got-7, I-6)
+root(ROOT-0, got-7)
+det(plasma-9, another-8)
+dobj(got-7, plasma-9)
+prep_instead_of(plasma-9, LED\/LCD-12)
+

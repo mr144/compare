@@ -1,0 +1,6 @@
+I_PRP love_VBP this_DT camera_NN ._.
+It_PRP 's_VBZ easy_JJ to_TO use_VB ._.
+It_PRP has_VBZ automatic_JJ everything_NN ._.
+It_PRP takes_VBZ photos_NNS fast_RB ._.
+The_DT battery_NN holds_VBZ it_PRP is_VBZ charge_NN for_IN a_DT long_JJ time_NN ._.
+It_PRP has_VBZ many_JJ great_JJ features_NNS ._.

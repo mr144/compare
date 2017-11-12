@@ -1,0 +1,30 @@
+=========
+
+det(TV-2, This-1)
+nsubjpass(rated-5, TV-2)
+auxpass(rated-5, was-3)
+advmod(rated-5, highly-4)
+root(ROOT-0, rated-5)
+poss(Report-9, Consumer-7)
+agent(rated-5, Report-9)
+nsubj(correct-14, they-12)
+nsubj(picture-17, they-12)
+nsubj(incredible-23, they-12)
+cop(correct-14, were-13)
+conj_and(rated-5, correct-14)
+amod(picture-17, great-16)
+conj_and(rated-5, picture-17)
+conj_and(correct-14, picture-17)
+det(price-21, the-20)
+prep_for(incredible-23, price-21)
+conj_and(rated-5, incredible-23)
+conj_and(correct-14, incredible-23)
+
+=========
+
+nsubj(recommend-3, we-1)
+advmod(recommend-3, fully-2)
+root(ROOT-0, recommend-3)
+det(product-5, this-4)
+dobj(recommend-3, product-5)
+

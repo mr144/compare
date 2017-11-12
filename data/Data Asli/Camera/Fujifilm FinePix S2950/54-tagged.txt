@@ -1,0 +1,3 @@
+While_IN this_DT product_NN definitely_RB had_VBD some_DT nice_JJ features_NNS -_: nice_JJ hand_NN grip_NN ,_, good_JJ set_NN up_IN of_IN buttons_NNS and_CC menus_NNS ,_, good_JJ macro_NN for_IN close_JJ shots_NNS ..._: ._.
+overall_JJ picture_NN quality_NN -LRB-_-LRB- especially_RB for_IN the_DT file_NN sizes_NNS created_VBN -RRB-_-RRB- was_VBD rather_RB poor_JJ in_IN indoor_JJ low_JJ light_JJ conditions_NNS ._.
+Clarity_NN was_VBD definitely_RB lacking_VBG and_CC color_NN and_CC shadowing_VBG was_VBD rather_RB uneven_JJ ._.

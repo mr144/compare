@@ -1,0 +1,79 @@
+=========
+
+root(ROOT-0, FOR-1)
+nn(ONLY-5, SIMPLE-2)
+nn(ONLY-5, MOBILE-3)
+nn(ONLY-5, USERS-4)
+pobj(FOR-1, ONLY-5)
+
+=========
+
+advmod(phone-6, ---------------------------------------------------------------1)
+nsubj(phone-6, This-2)
+cop(phone-6, is-3)
+det(phone-6, a-4)
+amod(phone-6, good-5)
+root(ROOT-0, phone-6)
+nsubj(compatible-11, it-8)
+cop(compatible-11, is-9)
+neg(compatible-11, not-10)
+conj_but(phone-6, compatible-11)
+nn(Mobile-14, Simple-13)
+prep_with(compatible-11, Mobile-14)
+
+=========
+
+nsubj(mad-4, I-1)
+dep(mad-4, got-2)
+advmod(mad-4, really-3)
+root(ROOT-0, mad-4)
+mark(bought-7, after-5)
+nsubj(bought-7, I-6)
+advcl(mad-4, bought-7)
+det(phone-9, this-8)
+dobj(bought-7, phone-9)
+mark(said-20, because-10)
+advmod(called-13, when-11)
+nsubj(called-13, I-12)
+nsubj(asked-15, I-12)
+advcl(said-20, called-13)
+conj_and(called-13, asked-15)
+advcl(said-20, asked-15)
+det(representative-17, a-16)
+dobj(asked-15, representative-17)
+nsubj(said-20, he-19)
+advcl(bought-7, said-20)
+nsubj(unlocked-22, any-21)
+ccomp(said-20, unlocked-22)
+nsubj(compatible-25, phones-23)
+cop(compatible-25, are-24)
+ccomp(unlocked-22, compatible-25)
+
+=========
+
+nsubj(WRONG-6, HOWEVER-1)
+nsubj(WRONG-6, HE-4)
+aux(WRONG-6, WAS-5)
+root(ROOT-0, WRONG-6)
+xcomp(WRONG-6, !!-7)
+mark(have-10, If-8)
+nsubj(have-10, you-9)
+advcl(buy-16, have-10)
+nn(Mobile-12, Simple-11)
+dobj(have-10, Mobile-12)
+aux(buy-16, do-14)
+neg(buy-16, not-15)
+ccomp(!!-7, buy-16)
+det(phone-19, this-17)
+amod(phone-19, unlocked-18)
+dobj(buy-16, phone-19)
+aux(use-21, to-20)
+xcomp(buy-16, use-21)
+
+=========
+
+nsubj(work-4, It-1)
+aux(work-4, will-2)
+neg(work-4, not-3)
+root(ROOT-0, work-4)
+

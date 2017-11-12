@@ -1,0 +1,105 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+det(present-7, a-5)
+nn(present-7, Christmas-6)
+prep_as(bought-2, present-7)
+nsubjpass(set-12, it-9)
+auxpass(set-12, is-10)
+auxpass(set-12, been-11)
+conj_and(bought-2, set-12)
+prt(set-12, up-13)
+nn(eve-16, Christmas-15)
+prep_since(set-12, eve-16)
+
+=========
+
+advmod(are-4, So-1)
+advmod(So-1, far-2)
+expl(are-4, there-3)
+root(ROOT-0, are-4)
+det(negatives-6, no-5)
+nsubj(are-4, negatives-6)
+aux(report-8, to-7)
+infmod(negatives-6, report-8)
+
+=========
+
+nsubj(quick-4, Set-1)
+nsubj(easy-6, Set-1)
+advmod(quick-4, up-2)
+cop(quick-4, was-3)
+root(ROOT-0, quick-4)
+conj_and(quick-4, easy-6)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, HD-2)
+nsubj(good-6, quality-3)
+cop(good-6, is-4)
+advmod(good-6, very-5)
+root(ROOT-0, good-6)
+advmod(good-6, even-7)
+det(cable-11, an-9)
+nn(cable-11, HDMI-10)
+prep_without(good-6, cable-11)
+partmod(cable-11, connected-12)
+
+=========
+
+nsubj(feel-2, I-1)
+root(ROOT-0, feel-2)
+nsubj(got-4, I-3)
+ccomp(feel-2, got-4)
+det(deal-8, a-5)
+advmod(good-7, really-6)
+amod(deal-8, good-7)
+dobj(got-4, deal-8)
+
+=========
+
+nn(products-2, LG-1)
+nsubj(getting-5, products-2)
+nsubj(giving-14, products-2)
+aux(getting-5, have-3)
+aux(getting-5, been-4)
+root(ROOT-0, getting-5)
+amod(revues-7, good-6)
+dobj(getting-5, revues-7)
+det(part-11, the-9)
+amod(part-11, most-10)
+prep_for(revues-7, part-11)
+aux(giving-14, are-13)
+conj_and(getting-5, giving-14)
+det(competion-16, the-15)
+iobj(giving-14, competion-16)
+det(run-18, a-17)
+dobj(giving-14, run-18)
+det(money-21, the-20)
+prep_for(run-18, money-21)
+
+=========
+
+nsubj(replaced-2, It-1)
+root(ROOT-0, replaced-2)
+det(tv-4, a-3)
+dobj(replaced-2, tv-4)
+dobj(had-6, tv-4)
+nsubj(had-6, we-5)
+rcmod(tv-4, had-6)
+prep(had-6, for-7)
+advmod(years-10, almost-8)
+num(years-10, 15-9)
+npadvmod(so-11, years-10)
+pcomp(for-7, so-11)
+ccomp(had-6, ask-12)
+nsubj(review-15, me-13)
+aux(review-15, to-14)
+xcomp(ask-12, review-15)
+dobj(review-15, it-16)
+advmod(review-15, again-17)
+prep_in(review-15, 2026-19)
+

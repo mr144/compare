@@ -1,0 +1,37 @@
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(got-4, we-3)
+ccomp(think-2, got-4)
+dobj(got-4, this-5)
+advmod(was-8, when-6)
+nsubj(was-8, it-7)
+dep(this-5, was-8)
+prep_on(was-8, sale-10)
+prep_for(sale-10, $-12)
+num($-12, 500-13)
+
+=========
+
+aux(happier-4, Could-1)
+neg(happier-4, not-2)
+cop(happier-4, be-3)
+root(ROOT-0, happier-4)
+det(purchase-7, the-6)
+prep_with(happier-4, purchase-7)
+
+=========
+
+nsubj(believe-4, I-1)
+aux(believe-4, can-2)
+neg(believe-4, not-3)
+root(ROOT-0, believe-4)
+nsubj(cheap-11, HDTVs-5)
+det(quality-8, this-7)
+prep_of(HDTVs-5, quality-8)
+cop(cheap-11, are-9)
+advmod(cheap-11, this-10)
+ccomp(believe-4, cheap-11)
+advmod(cheap-11, nowadays-12)
+

@@ -1,0 +1,28 @@
+=========
+
+root(ROOT-0, ITS-1)
+det(PRODUCT-4, A-2)
+amod(PRODUCT-4, GREAT-3)
+dobj(ITS-1, PRODUCT-4)
+nn(PRICE-7, THIS-6)
+prep_for(PRODUCT-4, PRICE-7)
+dep(ITS-1, NICE-9)
+
+=========
+
+nn(ABOUT-7, SO-1)
+nn(ABOUT-7, I-2)
+nn(ABOUT-7, HAVE-3)
+nn(ABOUT-7, NOTHING-4)
+nn(ABOUT-7, TO-5)
+nn(ABOUT-7, SAY-6)
+nsubj(THIS-8, ABOUT-7)
+root(ROOT-0, THIS-8)
+
+=========
+
+nn(EVERYTHING-2, ITS-1)
+nsubj(WONDERFUL-4, EVERYTHING-2)
+cop(WONDERFUL-4, IS-3)
+root(ROOT-0, WONDERFUL-4)
+

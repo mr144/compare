@@ -1,0 +1,27 @@
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, 's-2)
+root(ROOT-0, easy-3)
+prep_to(easy-3, use-5)
+prep_to(easy-3, light-7)
+conj_and(use-5, light-7)
+xcomp(easy-3, althoug-8)
+nsubj(try-12, I-9)
+aux(try-12, do-10)
+neg(try-12, not-11)
+ccomp(althoug-8, try-12)
+dobj(try-12, all-13)
+prep_of(all-13, functions-15)
+advmod(far-17, so-16)
+advmod(try-12, far-17)
+
+=========
+
+advmod(suitable-6, Further-1)
+det(price-4, the-3)
+nsubj(suitable-6, price-4)
+cop(suitable-6, is-5)
+root(ROOT-0, suitable-6)
+prep_for(suitable-6, me-8)
+

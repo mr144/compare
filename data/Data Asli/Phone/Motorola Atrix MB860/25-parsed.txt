@@ -1,0 +1,23 @@
+=========
+
+poss(price-16, its-1)
+conj_and(fast-2, fast-2')
+amod(price-16, fast-2)
+amod(price-16, fast-2')
+prep_with(fast-2, alot-4)
+amod(memory-7, onboard-6)
+prep_of(alot-4, memory-7)
+nsubj(have-10, a-8)
+aux(have-10, must-9)
+rcmod(memory-7, have-10)
+dobj(have-10, phone-11)
+det(right-15, the-14)
+prep_for(fast-2', right-15)
+nsubj(range-17, price-16)
+root(ROOT-0, range-17)
+nsubj(get-20, you-18)
+aux(get-20, must-19)
+ccomp(range-17, get-20)
+det(phone-22, this-21)
+dobj(get-20, phone-22)
+

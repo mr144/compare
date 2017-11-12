@@ -1,0 +1,2 @@
+Great_JJ dual-core_NN Cell_NNP Phone_NNP with_IN tremendous_JJ image_NN and_CC performance_NN ._.
+non-thelese_JJ its_PRP$ failure_NN is_VBZ the_DT fingerprint_NN sensor_NN ,_, that_WDT just_RB work_VBP for_IN the_DT first_JJ 24_CD or_CC 48_CD hours_NNS and_CC then_RB stops_NNS working_VBG ,_, actually_RB it_PRP did_VBD not_RB recognize_VB that_IN a_DT finger_NN is_VBZ in_IN position_NN ._.

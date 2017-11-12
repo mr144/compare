@@ -1,0 +1,6 @@
+I_PRP bought_VBD this_DT TV_NN because_IN it_PRP got_VBD over_IN 150_CD 5-star_JJ ratings_NNS ._.
+The_DT picture_NN on_IN this_DT set_NN is_VBZ awful_JJ ._.
+It_PRP is_VBZ fuzzy_JJ and_CC unclear_JJ ._.
+The_DT sound_NN is_VBZ also_RB terrible_JJ ,_, has_VBZ a_DT static_JJ sound_NN in_IN the_DT background_NN ._.
+I_PRP have_VBP played_VBN with_IN all_DT kinds_NNS of_IN settings_NNS on_IN both_DT the_DT picture_NN and_CC the_DT sound_NN but_CC I_PRP am_VBP sending_VBG it_PRP back_RB asap_RB ._.
+Hopefully_RB this_DT review_NN will_MD save_VB someone_NN from_IN buying_VBG this_DT 2-star_JJ rated_VBN TV_NN !_.

@@ -1,0 +1,3 @@
+The_DT item_NN is_VBZ so_RB accurate_JJ ,_, only_RB the_DT specification_NN 4GB_FW i_FW did_VBD not_RB find_VB ._.
+i_FW found_VBD 1GB_NNP ._.
+Maybe_RB i_FW can_MD not_RB see_VB all_DT ._.

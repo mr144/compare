@@ -1,0 +1,37 @@
+=========
+
+nsubj(love-2, i-1)
+root(ROOT-0, love-2)
+det(tv-4, this-3)
+dobj(love-2, tv-4)
+nsubj(wont-6, you-5)
+rcmod(tv-4, wont-6)
+nn(promise-9, regret-7)
+nn(promise-9, i-8)
+dobj(wont-6, promise-9)
+det(quality-12, the-10)
+nn(quality-12, picture-11)
+nsubj(wonderful-14, quality-12)
+cop(wonderful-14, is-13)
+rcmod(promise-9, wonderful-14)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+mark(size-8, for-3)
+poss(room-5, my-4)
+nsubj(size-8, room-5)
+cop(size-8, is-6)
+amod(size-8, perfect-7)
+advcl(bought-2, size-8)
+nsubj(have-11, i-9)
+advmod(have-11, really-10)
+rcmod(size-8, have-11)
+det(complain-13, no-12)
+dobj(have-11, complain-13)
+nsubj(package-17, it-14)
+cop(package-17, was-15)
+advmod(package-17, well-16)
+rcmod(complain-13, package-17)
+

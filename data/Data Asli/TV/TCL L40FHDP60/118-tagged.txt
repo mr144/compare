@@ -1,0 +1,8 @@
+The_DT company_NN will_MD not_RB respond_VB to_TO numerous_JJ emails_NNS and_CC the_DT phone_NN number_NN rings_NNS then_RB goes_VBZ busy_JJ ._.
+The_DT setup_NN settings_NNS will_MD not_RB stay_VB in_IN memory_NN after_IN setting\/changing_VBG them_PRP ._.
+The_DT tv_NN does_VBZ retain_VB settings_NNS made_VBN nearly_RB a_DT year_NN ago_RB but_CC will_MD not_RB rewrite_VB them_PRP ._.
+I_PRP can_MD change_VB them_PRP but_CC only_RB until_IN the_DT tv_NN is_VBZ turned_VBN off_RP ._.
+I_PRP have_VBP tried_VBN factory_NN reset_NN -_: unplug_VB for_IN 5_CD minutes_NNS then_RB plug_VBP back_RB in_IN ._.
+It_PRP will_MD not_RB wipe_VB old_JJ data_NNS and_CC reset_NN ._.
+There_EX is_VBZ a_DT year_NN left_VBN on_IN warranty_NN -_: purchased_VBN from_IN Amazon_NNP Dec_NNP 21_CD ,_, 2011_CD and_CC I_PRP have_VBP been_VBN trying_VBG to_TO contact_VB them_PRP for_IN six_CD weeks_NNS ._.
+Nothing_NN from_IN them_PRP ._.

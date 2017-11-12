@@ -1,0 +1,39 @@
+=========
+
+aux(bought-2, Have-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, thrree-3)
+prep_of(thrree-3, them-5)
+advmod(bought-2, already-6)
+amod(models-9, newer-8)
+dobj(bought-2, models-9)
+iobj(bought-2, models-9)
+det(time-11, each-10)
+dobj(bought-2, time-11)
+dep(models-9, time-11)
+
+=========
+
+poss(family-2, My-1)
+nsubj(enjoying-4, family-2)
+aux(enjoying-4, is-3)
+root(ROOT-0, enjoying-4)
+dobj(enjoying-4, them-5)
+det(lot-7, a-6)
+dep(them-5, lot-7)
+
+=========
+
+nsubj(recommended-2, Strongly-1)
+root(ROOT-0, recommended-2)
+dobj(recommended-2, product-3)
+
+=========
+
+cc(!!!-6, And-1)
+nsubj(!!!-6, it-2)
+cop(!!!-6, is-3)
+det(!!!-6, a-4)
+nn(!!!-6, Sony-5)
+root(ROOT-0, !!!-6)
+

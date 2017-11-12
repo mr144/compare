@@ -1,0 +1,32 @@
+=========
+
+root(ROOT-0, Had-1)
+det(phone-3, this-2)
+dobj(Had-1, phone-3)
+prep_for(Had-1, 3-5)
+dep(Had-1, Months-7)
+dep(Months-7, now-8)
+
+=========
+
+cc(say-4, and-1)
+nsubj(say-4, i-2)
+aux(say-4, must-3)
+root(ROOT-0, say-4)
+poss(great-7, Its-6)
+nsubj(fell-14, great-7)
+nsubj(came-19, great-7)
+amod(great-7, simple-9)
+prep_as(simple-9, that-11)
+advmod(fell-14, Even-13)
+parataxis(say-4, fell-14)
+advmod(fell-14, once-15)
+prep_into(fell-14, water-17)
+parataxis(say-4, came-19)
+conj_yet(fell-14, came-19)
+prt(came-19, out-20)
+advmod(came-19, still-21)
+xcomp(came-19, running-22)
+dobj(running-22, smooth-23)
+dep(smooth-23, D-25)
+

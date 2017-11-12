@@ -1,0 +1,34 @@
+=========
+
+nsubj(product-5, Toshiba-1)
+cop(product-5, is-2)
+det(product-5, a-3)
+nn(product-5, quality-4)
+root(ROOT-0, product-5)
+poss(name-8, its-7)
+nsubj(speaks-9, name-8)
+conj_and(product-5, speaks-9)
+prep_for(speaks-9, itself-11)
+
+=========
+
+det(tv-2, The-1)
+nsubj(has-3, tv-2)
+root(ROOT-0, has-3)
+amod(features-5, fantastic-4)
+dobj(has-3, features-5)
+det(inch-9, a-7)
+num(inch-9, 19-8)
+prep_for(features-5, inch-9)
+nsubjpass(amazed-14, I-11)
+auxpass(amazed-14, am-12)
+advmod(amazed-14, totally-13)
+conj_and(has-3, amazed-14)
+det(clarity-17, the-16)
+prep_at(amazed-14, clarity-17)
+prep_at(amazed-14, color-19)
+conj_and(clarity-17, color-19)
+det(tv-23, a-21)
+amod(tv-23, small-22)
+prep_for(clarity-17, tv-23)
+

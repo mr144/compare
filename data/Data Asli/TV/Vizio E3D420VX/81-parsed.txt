@@ -1,0 +1,47 @@
+=========
+
+det(tv-2, this-1)
+nsubj(size-6, tv-2)
+cop(size-6, is-3)
+det(size-6, a-4)
+amod(size-6, good-5)
+root(ROOT-0, size-6)
+
+=========
+
+amod(picture-2, excellent-1)
+root(ROOT-0, picture-2)
+amod(colors-5, great-4)
+appos(picture-2, colors-5)
+amod(glare-8, minimal-7)
+appos(picture-2, glare-8)
+prep_from(glare-8, lights-10)
+prep_from(glare-8, windows-12)
+conj_and(lights-10, windows-12)
+
+=========
+
+nsubj(love-2, i-1)
+root(ROOT-0, love-2)
+dep(built-6, that-3)
+nsubj(built-6, it-4)
+aux(built-6, has-5)
+ccomp(stream-14, built-6)
+prep_in(built-6, wifi-8)
+prep_in(built-6, apps-10)
+conj_and(wifi-8, apps-10)
+nsubj(stream-14, we-12)
+aux(stream-14, can-13)
+ccomp(love-2, stream-14)
+nn(right-16, netflix-15)
+dobj(stream-14, right-16)
+det(w\/out-20, the-18)
+nn(w\/out-20, tv-19)
+prep_from(stream-14, w\/out-20)
+xsubj(connect-23, w\/out-20)
+partmod(w\/out-20, needing-21)
+aux(connect-23, to-22)
+xcomp(needing-21, connect-23)
+poss(computer-25, our-24)
+dobj(connect-23, computer-25)
+

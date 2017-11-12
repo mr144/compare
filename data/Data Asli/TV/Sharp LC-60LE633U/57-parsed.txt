@@ -1,0 +1,48 @@
+=========
+
+nn(TV-2, Great-1)
+nsubj(love-3, TV-2)
+root(ROOT-0, love-3)
+det(picture-5, the-4)
+dobj(love-3, picture-5)
+det(Hd-8, the-7)
+prep_on(picture-5, Hd-8)
+
+=========
+
+aux(tried-3, Have-1)
+neg(tried-3, not-2)
+root(ROOT-0, tried-3)
+det(3d-5, the-4)
+dobj(tried-3, 3d-5)
+conj_but(tried-3, expect-7)
+det(picture-9, the-8)
+dobj(expect-7, picture-9)
+aux(good-13, to-10)
+cop(good-13, be-11)
+advmod(good-13, as-12)
+xcomp(expect-7, good-13)
+
+=========
+
+nsubj(fast-3, Shipping-1)
+nsubj(early-6, Shipping-1)
+cop(fast-3, was-2)
+root(ROOT-0, fast-3)
+conj_and(fast-3, early-6)
+
+=========
+
+det(service-2, the-1)
+nsubj(great-6, service-2)
+prep_from(service-2, amazon-4)
+cop(great-6, was-5)
+root(ROOT-0, great-6)
+det(phone-9, the-8)
+prep_over(great-6, phone-9)
+
+=========
+
+nn(AMAZON.COM-2, THANKS-1)
+root(ROOT-0, AMAZON.COM-2)
+

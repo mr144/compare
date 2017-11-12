@@ -1,0 +1,29 @@
+=========
+
+det(product-2, The-1)
+nsubjpass(refurbished-4, product-2)
+nsubjpass(come-6, product-2)
+auxpass(refurbished-4, is-3)
+root(ROOT-0, refurbished-4)
+conj_and(refurbished-4, come-6)
+amod(packing-9, generic-8)
+prep_in(refurbished-4, packing-9)
+
+=========
+
+det(advice-2, The-1)
+nsubj(described-5, advice-2)
+aux(described-5, did-3)
+neg(described-5, not-4)
+root(ROOT-0, described-5)
+amod(phone-8, refurbished-7)
+prep_as(described-5, phone-8)
+nsubj(told-12, no-11)
+conj_and(described-5, told-12)
+xcomp(told-12, anithing-13)
+prep_about(anithing-13, packaging-15)
+
+=========
+
+root(ROOT-0, V-1)
+

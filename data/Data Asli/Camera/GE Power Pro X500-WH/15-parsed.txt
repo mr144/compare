@@ -1,0 +1,68 @@
+=========
+
+nsubj(taken-3, I-1)
+aux(taken-3, have-2)
+root(ROOT-0, taken-3)
+amod(types-5, various-4)
+dobj(taken-3, types-5)
+prep_of(types-5, photos-7)
+nn(settings-10, auto-9)
+prep_with(taken-3, settings-10)
+amod(changes-14, manual-12)
+nn(changes-14, setting-13)
+prep_with(taken-3, changes-14)
+conj_and(settings-10, changes-14)
+
+=========
+
+poss(opinion-3, my-2)
+prep_in(beat-9, opinion-3)
+det(camera-5, this-4)
+nsubjpass(beat-9, camera-5)
+aux(beat-9, can-6)
+neg(beat-9, not-7)
+auxpass(beat-9, be-8)
+root(ROOT-0, beat-9)
+det(price-12, this-11)
+prep_at(beat-9, price-12)
+
+=========
+
+nsubj(have-2, We-1)
+root(ROOT-0, have-2)
+det(SRL-6, a-3)
+nn(SRL-6, Fujifilm-4)
+nn(SRL-6, Finepix-5)
+dobj(have-2, SRL-6)
+nsubj(cost-12, SRL-6)
+cop(cost-12, was-8)
+number(times-10, 3-9)
+num(cost-12, times-10)
+det(cost-12, the-11)
+rcmod(SRL-6, cost-12)
+nsubj(put-16, I-14)
+aux(put-16, would-15)
+conj_and(have-2, put-16)
+dobj(put-16, them-17)
+det(level-22, the-19)
+amod(level-22, same-20)
+nn(level-22, performance-21)
+prep_on(put-16, level-22)
+
+=========
+
+nsubj(know-2, I-1)
+root(ROOT-0, know-2)
+nsubjpass(known-6, GE-3)
+auxpass(known-6, is-4)
+neg(known-6, not-5)
+ccomp(know-2, known-6)
+prep_for(known-6, cameras-8)
+det(one-12, this-11)
+nsubj(put-14, one-12)
+aux(put-14, should-13)
+conj_but(know-2, put-14)
+dobj(put-14, them-15)
+det(map-18, the-17)
+prep_on(put-14, map-18)
+

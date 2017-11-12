@@ -1,0 +1,66 @@
+=========
+
+nsubj(hesitated-2, I-1)
+root(ROOT-0, hesitated-2)
+xcomp(hesitated-2, buying-3)
+det(tv-7, an-4)
+amod(tv-7, unfamiliar-5)
+amod(tv-7, named-6)
+dobj(buying-3, tv-7)
+nsubj(showed-11, research-10)
+conj_but(hesitated-2, showed-11)
+dobj(showed-11, me-12)
+complm(makes-16, that-13)
+nsubj(makes-16, TCL-14)
+nsubj(made-19, TCL-14)
+advmod(makes-16, actually-15)
+ccomp(showed-11, makes-16)
+aux(made-19, has-18)
+ccomp(showed-11, made-19)
+conj_or(makes-16, made-19)
+dobj(made-19, tvs-20)
+amod(companies-23, major-22)
+prep_for(tvs-20, companies-23)
+det(names-28, the-25)
+amod(names-28, familiar-26)
+nn(names-28, company-27)
+prep_under(made-19, names-28)
+
+=========
+
+prep(ordered-13, Coupled-1)
+pcomp(Coupled-1, with-2)
+poss(policy-7, Amazon-3)
+amod(policy-7, easy-5)
+nn(policy-7, return-6)
+prep_with(Coupled-1, policy-7)
+mark(satisfied-10, if-8)
+neg(satisfied-10, not-9)
+dep(policy-7, satisfied-10)
+nsubj(ordered-13, I-12)
+root(ROOT-0, ordered-13)
+det(tv-15, this-14)
+dobj(ordered-13, tv-15)
+
+=========
+
+nsubj(struggles-2, No-1)
+root(ROOT-0, struggles-2)
+xcomp(struggles-2, getting-3)
+det(home-6, the-4)
+nn(home-6, tv-5)
+dobj(getting-3, home-6)
+det(price-10, a-9)
+dobj(getting-3, price-10)
+conj_and(home-6, price-10)
+nsubj(beat-15, price-10)
+aux(beat-15, could-12)
+neg(beat-15, not-13)
+cop(beat-15, be-14)
+rcmod(price-10, beat-15)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

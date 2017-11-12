@@ -1,0 +1,340 @@
+=========
+
+det(phone-2, This-1)
+nsubj(blocks-3, phone-2)
+root(ROOT-0, blocks-3)
+dobj(blocks-3, you-4)
+det(majority-7, the-6)
+dep(blocks-3, majority-7)
+det(time-10, the-9)
+prep_of(majority-7, time-10)
+prepc_from(blocks-3, using-13)
+det(card-16, the-14)
+nn(card-16, SD-15)
+dobj(using-13, card-16)
+
+=========
+
+det(phone-2, The-1)
+poss(memory-5, phone-2)
+amod(memory-5, interal-4)
+nsubj(is-6, memory-5)
+root(ROOT-0, is-6)
+det(folder-9, a-8)
+nsubj(called-10, folder-9)
+prepc_in(is-6, called-10)
+amod(sdcard-13, \/-12)
+dobj(called-10, sdcard-13)
+det(tricks-17, that-15)
+poss(programs-19, tricks-17)
+dobj(called-10, programs-19)
+prepc_into(called-10, installing-21)
+dobj(installing-21, everything-22)
+det(memory-26, the-24)
+nn(memory-26, phone-25)
+prep_onto(installing-21, memory-26)
+
+=========
+
+amod(luck-2, Good-1)
+root(ROOT-0, luck-2)
+partmod(luck-2, getting-3)
+prt(getting-3, around-4)
+dobj(getting-3, this-5)
+prepc_without(getting-3, rooting-7)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+det(card-10, a-6)
+num(card-10, 32-7)
+nn(card-10, GB-8)
+nn(card-10, SD-9)
+dobj(bought-2, card-10)
+conj_and(phone-4, card-10)
+
+=========
+
+advmod(has-5, Currently-1)
+poss(card-4, my-2)
+nn(card-4, SD-3)
+nsubj(has-5, card-4)
+root(ROOT-0, has-5)
+num(GB-7, 30-6)
+dobj(has-5, GB-7)
+advmod(GB-7, free-8)
+
+=========
+
+root(ROOT-0, THIRTY-1)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(GBs-11, Oh-1)
+det(phone-5, the-4)
+poss(drive-8, phone-5)
+amod(drive-8, hard-7)
+conj_and(Oh-1, drive-8)
+nsubj(GBs-11, drive-8)
+cop(GBs-11, is-9)
+num(GBs-11, 1.8-10)
+root(ROOT-0, GBs-11)
+conj_and(GBs-11, constantly-13)
+dep(constantly-13, fills-14)
+prt(fills-14, up-15)
+mark(enjoy-19, if-16)
+nsubj(enjoy-19, you-17)
+advmod(enjoy-19, actually-18)
+advcl(fills-14, enjoy-19)
+xcomp(enjoy-19, downloading\/trying-20)
+amod(apps-22, new-21)
+dobj(downloading\/trying-20, apps-22)
+
+=========
+
+auxpass(used-3, Are-1)
+nsubjpass(used-3, you-2)
+root(ROOT-0, used-3)
+prepc_to(used-3, moving-5)
+dobj(moving-5, apps-6)
+poss(card-10, your-8)
+nn(card-10, SD-9)
+prep_to(moving-5, card-10)
+aux(save-12, to-11)
+xcomp(moving-5, save-12)
+dobj(save-12, space-13)
+poss(phone-16, your-15)
+poss(memory-18, phone-16)
+prep_on(save-12, memory-18)
+
+=========
+
+dep(no-can-do-3, Sorry-1)
+root(ROOT-0, no-can-do-3)
+det(gem-6, this-5)
+prep_on(no-can-do-3, gem-6)
+
+=========
+
+nsubj(transfer-4, They-1)
+aux(transfer-4, 'll-2)
+advmod(transfer-4, just-3)
+root(ROOT-0, transfer-4)
+det(memory-8, the-6)
+nn(memory-8, phone-7)
+prep_to(transfer-4, memory-8)
+
+=========
+
+nsubj(junk-8, All-1)
+prep_in(All-1, all-3)
+det(phone-6, those-5)
+appos(all-3, phone-6)
+cop(junk-8, is-7)
+root(ROOT-0, junk-8)
+
+=========
+
+nsubj(runs-2, It-1)
+root(ROOT-0, runs-2)
+nsubj(install-7, super-3)
+nsubj(want-14, super-3)
+dep(install-7, slow-4)
+mark(install-7, if-5)
+nsubj(install-7, you-6)
+xsubj(keep-16, you-6)
+xcomp(runs-2, install-7)
+det(amount-10, a-8)
+amod(amount-10, decent-9)
+dobj(install-7, amount-10)
+prep_of(amount-10, apps-12)
+xcomp(runs-2, want-14)
+conj_or(install-7, want-14)
+aux(keep-16, to-15)
+xcomp(want-14, keep-16)
+dobj(keep-16, photos-17)
+dobj(keep-16, videos-19)
+conj_and(photos-17, videos-19)
+
+=========
+
+cc(is-10, And-1)
+aux(top-3, to-2)
+purpcl(is-10, top-3)
+dobj(top-3, it-4)
+prt(top-3, off-5)
+det(phone-9, the-7)
+nn(phone-9, speaker-8)
+nsubj(is-10, phone-9)
+root(ROOT-0, is-10)
+det(spot-14, an-12)
+amod(spot-14, odd-13)
+prep_in(is-10, spot-14)
+
+=========
+
+nn(JUNK-3, JUNK-1)
+nn(JUNK-3, JUNK-2)
+nsubj(get-5, JUNK-3)
+advmod(get-5, just-4)
+root(ROOT-0, get-5)
+det(galaxy-7, a-6)
+dobj(get-5, galaxy-7)
+det(iPhone-10, an-9)
+dobj(get-5, iPhone-10)
+conj_or(galaxy-7, iPhone-10)
+
+=========
+
+nsubj(appealing-4, It-1)
+xsubj(try-6, It-1)
+aux(appealing-4, 's-2)
+advmod(appealing-4, always-3)
+root(ROOT-0, appealing-4)
+aux(try-6, to-5)
+xcomp(appealing-4, try-6)
+xcomp(appealing-4, save-8)
+conj_and(try-6, save-8)
+det(bucks-11, a-9)
+amod(bucks-11, few-10)
+dobj(try-6, bucks-11)
+xcomp(appealing-4, get-13)
+conj_and(try-6, get-13)
+det(knockoff-15, the-14)
+dobj(get-13, knockoff-15)
+xcomp(appealing-4, learn-18)
+conj_but(try-6, learn-18)
+poss(mistake-21, my-20)
+prep_from(learn-18, mistake-21)
+conj_but(try-6, stick-23)
+conj_and(learn-18, stick-23)
+det(phones-30, the-25)
+amod(phones-30, tried-26)
+conj_and(tried-26, true-28)
+amod(phones-30, true-28)
+amod(phones-30, top-29)
+prep_with(stick-23, phones-30)
+
+=========
+
+advmod(attempted-4, Also-1)
+nsubj(attempted-4, I-3)
+root(ROOT-0, attempted-4)
+amod(LG-7, email-6)
+prep_to(attempted-4, LG-7)
+poss(process-12, their-10)
+nn(process-12, contact-11)
+nsubj(involves-13, process-12)
+conj_but(attempted-4, involves-13)
+xcomp(involves-13, signing-14)
+advmod(account-19, up-15)
+det(LG-18, an-17)
+prep_for(up-15, LG-18)
+ccomp(signing-14, account-19)
+dobj(account-19, YES-21)
+
+=========
+
+nsubj(wanted-4, I-1)
+aux(wanted-4, have-2)
+advmod(wanted-4, always-3)
+root(ROOT-0, wanted-4)
+dobj(wanted-4, one-5)
+
+=========
+
+dep(then-3, and-2)
+dep(fill-7, then-3)
+det(form-5, the-4)
+pobj(then-3, form-5)
+nsubj(fill-7, you-6)
+xsubj(complain-10, you-6)
+csubj(locks-11, fill-7)
+prt(fill-7, out-8)
+aux(complain-10, to-9)
+xcomp(fill-7, complain-10)
+root(ROOT-0, locks-11)
+dobj(locks-11, you-12)
+advmod(sending-16, actually-15)
+prepc_out_of(locks-11, sending-16)
+dobj(sending-16, it-17)
+
+=========
+
+root(ROOT-0, Trust-1)
+dep(Trust-1, me-2)
+
+=========
+
+dep(try-2, Please-1)
+root(ROOT-0, try-2)
+dobj(try-2, it-3)
+
+=========
+
+poss(head-2, My-1)
+nsubj(blew-4, head-2)
+advmod(blew-4, almost-3)
+root(ROOT-0, blew-4)
+prt(blew-4, up-5)
+
+=========
+
+advmod(done-4, Okay-1)
+nsubjpass(done-4, I-2)
+auxpass(done-4, am-3)
+root(ROOT-0, done-4)
+xcomp(done-4, venting-5)
+prep(venting-5, for-6)
+pobj(for-6, now-7)
+
+=========
+
+aux(summarize-2, To-1)
+purpcl(company-12, summarize-2)
+nsubj(company-12, LG-4)
+cop(company-12, is-5)
+det(company-12, a-6)
+amod(junky-8, clunky-7)
+amod(company-12, junky-8)
+amod(company-12, 4th-9)
+nn(company-12, rate-10)
+nn(company-12, electronics-11)
+root(ROOT-0, company-12)
+aux(that-18, will-14)
+advmod(that-18, always-15)
+cop(that-18, be-16)
+advmod(that-18, just-17)
+conj_and(company-12, that-18)
+
+=========
+
+det(smartphone-2, This-1)
+nsubj(worse-4, smartphone-2)
+cop(worse-4, is-3)
+root(ROOT-0, worse-4)
+nn(iphone-16, blackberry-6)
+dep(iphone-16, xperia-8)
+dep(iphone-16, HTC-10)
+appos(iphone-16, Motorola-12)
+appos(iphone-16, Nokia-14)
+prep_than(worse-4, iphone-16)
+dep(iphone-16, etc.-18)
+
+=========
+
+nsubj('s-2, That-1)
+root(ROOT-0, 's-2)
+advmod(see-5, why-3)
+nsubj(see-5, you-4)
+advcl('s-2, see-5)
+poss(products-7, their-6)
+dobj(see-5, products-7)
+nn(Lots-10, Big-9)
+prep_at(see-5, Lots-10)
+

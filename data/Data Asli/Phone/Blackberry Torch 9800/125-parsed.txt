@@ -1,0 +1,42 @@
+=========
+
+root(ROOT-0, Good-1)
+dep(Good-1, Product-2)
+
+=========
+
+amod(delivery-2, quick-1)
+root(ROOT-0, delivery-2)
+det(clearing-5, No-3)
+nn(clearing-5, problem-4)
+dep(delivery-2, clearing-5)
+prep_from(clearing-5, customs-7)
+
+=========
+
+expl(was-2, There-1)
+root(ROOT-0, was-2)
+det(need-4, no-3)
+nsubj(was-2, need-4)
+aux(charge-6, to-5)
+infmod(need-4, charge-6)
+det(battery-8, the-7)
+dobj(charge-6, battery-8)
+
+=========
+
+nsubj(came-2, It-1)
+ccomp(started-7, came-2)
+advmod(charged-4, fully-3)
+acomp(came-2, charged-4)
+advmod(started-7, therefore-6)
+root(ROOT-0, started-7)
+xcomp(started-7, using-8)
+advmod(using-8, straight-9)
+ccomp(using-8, awayThank-10)
+nsubj(muchYours-13, you-11)
+advmod(muchYours-13, very-12)
+xcomp(awayThank-10, muchYours-13)
+nn(Sathya-15, SincerelyDr-14)
+nsubj(started-7, Sathya-15)
+

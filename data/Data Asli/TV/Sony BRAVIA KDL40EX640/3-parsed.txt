@@ -1,0 +1,325 @@
+=========
+
+poss(TV-7, Our-1)
+amod(TV-7, old-2)
+nn(TV-7, Mitsubishi-3)
+num(TV-7, 27-4)
+num(TV-7, &#34;-5)
+amod(TV-7, tube-6)
+dobj(bought-10, TV-7)
+nsubj(bit-14, TV-7)
+complm(bought-10, that-8)
+nsubj(bought-10, I-9)
+dep(TV-7, bought-10)
+num(FINALLY-13, 1990-12)
+prep_in(bought-10, FINALLY-13)
+root(ROOT-0, bit-14)
+det(dust-16, the-15)
+dobj(bit-14, dust-16)
+
+=========
+
+nsubj(remembered-2, Never-1)
+root(ROOT-0, remembered-2)
+det(state-5, those-3)
+num(state-5, &#34;-4)
+nsubj(weighing-12, state-5)
+det(TV-10, the-7)
+nn(TV-10, art-8)
+num(TV-10, &#34;-9)
+prep_of(state-5, TV-10)
+aux(weighing-12, 's-11)
+ccomp(remembered-2, weighing-12)
+advmod(much-14, so-13)
+advmod(weighing-12, much-14)
+
+=========
+
+cc(decided-2, So-1)
+root(ROOT-0, decided-2)
+aux(put-4, to-3)
+xcomp(decided-2, put-4)
+poss(LCD-9, our-5)
+num(LCD-9, 32-6)
+num(LCD-9, &#34;-7)
+nn(LCD-9, Sony-8)
+dobj(put-4, LCD-9)
+det(room-13, the-11)
+nn(room-13, guest-12)
+prep_in(put-4, room-13)
+xcomp(decided-2, buy-15)
+conj_and(put-4, buy-15)
+det(&#34;-19, a-16)
+amod(&#34;-19, new-17)
+number(&#34;-19, 40-18)
+dobj(buy-15, &#34;-19)
+
+=========
+
+nsubj(reviews-2, Read-1)
+root(ROOT-0, reviews-2)
+amod(history-4, andpast-3)
+nsubj(led-7, history-4)
+prep_with(history-4, Sony-6)
+ccomp(reviews-2, led-7)
+dobj(led-7, me-8)
+det(TV-12, this-10)
+nn(TV-12, LED-11)
+prep_to(led-7, TV-12)
+
+=========
+
+cop(apprehensive-3, Was-1)
+advmod(apprehensive-3, somewhat-2)
+dep(was-15, apprehensive-3)
+det(reviews-6, the-5)
+prep_with(apprehensive-3, reviews-6)
+advmod(horrible-9, how-8)
+prep_about(reviews-6, horrible-9)
+det(audio-11, the-10)
+nsubj(was-15, audio-11)
+det(TV-14, this-13)
+prep_on(was-15, TV-14)
+root(ROOT-0, was-15)
+
+=========
+
+mark(going-4, Since-1)
+nsubj(going-4, it-2)
+aux(going-4, was-3)
+advcl(hooking-13, going-4)
+poss(bedroom-7, our-6)
+prep_in(going-4, bedroom-7)
+nsubj(hooking-13, we-9)
+aux(hooking-13, would-10)
+neg(hooking-13, not-11)
+aux(hooking-13, be-12)
+root(ROOT-0, hooking-13)
+dobj(hooking-13, it-14)
+prt(hooking-13, up-15)
+det(system-19, an-17)
+amod(system-19, audio-18)
+prep_to(hooking-13, system-19)
+mark(horrible-27, if-21)
+det(sound-23, the-22)
+nsubj(horrible-27, sound-23)
+cop(horrible-27, was-24)
+advmod(horrible-27, really-25)
+advmod(horrible-27, that-26)
+advcl(hooking-13, horrible-27)
+aux(able-33, would-29)
+nsubj(able-33, we-30)
+advmod(able-33, even-31)
+cop(able-33, be-32)
+dep(horrible-27, able-33)
+aux(hear-35, to-34)
+xcomp(able-33, hear-35)
+xcomp(able-33, understand-37)
+conj_or(hear-35, understand-37)
+det(audio-39, the-38)
+dobj(hear-35, audio-39)
+
+=========
+
+prepc_after(came-16, looking-2)
+det(number-5, a-4)
+prep_at(looking-2, number-5)
+amod(makes-8, different-7)
+prep_of(number-5, makes-8)
+prep_of(number-5, models-10)
+conj_and(makes-8, models-10)
+conj_and(makes-8, prices-12)
+conj_and(models-10, prices-12)
+nsubj(came-16, we-14)
+advmod(came-16, still-15)
+root(ROOT-0, came-16)
+advmod(came-16, back-17)
+det(Sony-20, the-19)
+prep_to(came-16, Sony-20)
+
+=========
+
+amod(Amazon-2, Typical-1)
+nsubj(purchase-3, Amazon-2)
+root(ROOT-0, purchase-3)
+
+=========
+
+root(ROOT-0, Ordered-1)
+prep_on(Ordered-1, Thursday-3)
+tmod(Ordered-1, evening-4)
+
+=========
+
+root(ROOT-0, Arrived-1)
+nn(morning-3, Monday-2)
+tmod(Arrived-1, morning-3)
+
+=========
+
+csubj(process-20, Set-1)
+dobj(Set-1, it-2)
+advmod(Set-1, up-3)
+prep_on(up-3, Saturday-5)
+mark(busy-10, since-6)
+nsubj(busy-10, we-7)
+cop(busy-10, were-8)
+advmod(busy-10, too-9)
+advcl(Set-1, busy-10)
+aux(start-12, to-11)
+xcomp(busy-10, start-12)
+dobj(thought-15, what-13)
+nsubj(thought-15, we-14)
+ccomp(start-12, thought-15)
+aux(process-20, might-16)
+cop(process-20, be-17)
+det(process-20, an-18)
+amod(process-20, extended-19)
+root(ROOT-0, process-20)
+
+=========
+
+advmod(wanted-3, Also-1)
+root(ROOT-0, wanted-3)
+aux(have-6, to-4)
+advmod(have-6, really-5)
+xcomp(wanted-3, have-6)
+nsubj(listen-10, time-7)
+prep_to(time-7, &#34;-9)
+ccomp(have-6, listen-10)
+dobj(listen-10, &#34;-11)
+det(sound-14, the-13)
+prep_to(listen-10, sound-14)
+mark(planned-25, since-15)
+mark(truly-19, if-16)
+nsubj(truly-19, it-17)
+cop(truly-19, was-18)
+advcl(planned-25, truly-19)
+complm(&#34;-21, that-20)
+dep(truly-19, &#34;-21)
+amod(&#34;-21, horrible-22)
+dep(horrible-22, &#34;-23)
+nsubj(planned-25, we-24)
+xsubj(send-27, we-24)
+dep(wanted-3, planned-25)
+aux(send-27, to-26)
+xcomp(planned-25, send-27)
+dobj(send-27, it-28)
+advmod(send-27, back-29)
+
+=========
+
+nn(setup-2, Easy-1)
+root(ROOT-0, setup-2)
+
+=========
+
+nn(Picture-2, GREAT-1)
+root(ROOT-0, Picture-2)
+
+=========
+
+amod(sound-2, Fine-1)
+root(ROOT-0, sound-2)
+
+=========
+
+cop(sound-5, Is-1)
+nsubj(sound-5, it-2)
+det(sound-5, the-3)
+amod(sound-5, same-4)
+root(ROOT-0, sound-5)
+dobj(get-9, sound-5)
+complm(get-9, that-6)
+nsubj(get-9, you-7)
+aux(get-9, would-8)
+dep(sound-5, get-9)
+nsubj(TV-12, connection-10)
+det(TV-12, the-11)
+xcomp(get-9, TV-12)
+det(unit-19, a-14)
+amod(unit-19, surround-15)
+amod(unit-19, sound-16)
+num(unit-19, 5.1-17)
+amod(unit-19, external-18)
+prep_to(TV-12, unit-19)
+
+=========
+
+root(ROOT-0, Of-1)
+pobj(Of-1, course-2)
+neg(course-2, not-3)
+
+=========
+
+cop(fine-3, Is-1)
+nsubj(fine-3, it-2)
+root(ROOT-0, fine-3)
+aux(watch-5, to-4)
+dep(fine-3, watch-5)
+dep(fine-3, listen-7)
+conj_and(watch-5, listen-7)
+prep(watch-5, to-8)
+
+=========
+
+root(ROOT-0, Absolutely-1)
+
+=========
+
+nsubj(understand-5, I-1)
+advmod(understand-5, truly-2)
+aux(understand-5, do-3)
+neg(understand-5, not-4)
+root(ROOT-0, understand-5)
+det(reviews-9, the-6)
+amod(reviews-9, significant-7)
+amod(reviews-9, negative-8)
+dobj(understand-5, reviews-9)
+amod(quality-12, sound-11)
+prep_on(reviews-9, quality-12)
+
+=========
+
+advmod(hear-6, Maybe-1)
+poss(ears-3, my-2)
+nsubj(hear-6, ears-3)
+aux(hear-6, do-4)
+neg(hear-6, not-5)
+root(ROOT-0, hear-6)
+mark(did-9, like-7)
+nsubj(did-9, they-8)
+advcl(hear-6, did-9)
+tmod(did-9, years-10)
+advmod(did-9, ago-11)
+
+=========
+
+cc(expecting-5, But-1)
+nsubj(expecting-5, I-2)
+aux(expecting-5, was-3)
+advmod(expecting-5, almost-4)
+root(ROOT-0, expecting-5)
+amod(noise-7, painful-6)
+dobj(expecting-5, noise-7)
+
+=========
+
+dobj(got-3, What-1)
+nsubj(got-3, I-2)
+csubj(picture-7, got-3)
+cop(picture-7, was-4)
+det(picture-7, a-5)
+amod(picture-7, great-6)
+root(ROOT-0, picture-7)
+nn(sound-10, fine-9)
+conj_and(picture-7, sound-10)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(TV-5, this-4)
+dobj(recommend-3, TV-5)
+

@@ -1,0 +1,9 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(know-2, i-1)
+root(ROOT-0, know-2)
+nsubj(am-4, i-3)
+ccomp(know-2, am-4)
+

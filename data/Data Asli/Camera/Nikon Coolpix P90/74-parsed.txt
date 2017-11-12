@@ -1,0 +1,160 @@
+=========
+
+root(ROOT-0, Short-1)
+amod(Short-1, sweet-3)
+amod(Short-1, to-5)
+conj_and(sweet-3, to-5)
+det(point-7, the-6)
+prep_to(sweet-3, point-7)
+
+=========
+
+nsubj(LOVE-2, I-1)
+root(ROOT-0, LOVE-2)
+poss(Nikon-5, my-3)
+amod(Nikon-5, new-4)
+dobj(LOVE-2, Nikon-5)
+
+=========
+
+det(birthday-8, an-2)
+amod(birthday-8, early-3)
+nn(birthday-8, wedding-4)
+dep(birthday-8, Christmas-6)
+prep_as(bought-14, birthday-8)
+amod(birthday-8, present-9)
+prep_to(present-9, myself-11)
+nsubj(bought-14, I-13)
+root(ROOT-0, bought-14)
+det(P90-17, the-15)
+nn(P90-17, Nikon-16)
+dobj(bought-14, P90-17)
+
+=========
+
+dep(told-6, Okay-1)
+advmod(really-4, so-3)
+advmod(told-6, really-4)
+nsubj(told-6, I-5)
+root(ROOT-0, told-6)
+dobj(told-6, people-7)
+complm(saved-12, that-8)
+nsubjpass(saved-12, it-9)
+auxpass(saved-12, was-10)
+ccomp(told-6, saved-12)
+poss(cart-17, my-15)
+nn(cart-17, shopping-16)
+prep_in(saved-12, cart-17)
+advmod(buying-22, when-19)
+nsubj(buying-22, I-20)
+aux(buying-22, was-21)
+advcl(checked-29, buying-22)
+det(deal-25, a-23)
+nn(deal-25, lightning-24)
+dobj(buying-22, deal-25)
+nsubj(checked-29, I-27)
+advmod(checked-29, just-28)
+ccomp(told-6, checked-29)
+conj_and(saved-12, checked-29)
+prt(checked-29, out-30)
+det(camera-33, the-32)
+prep_with(checked-29, camera-33)
+advmod(saved-12, too-34)
+
+=========
+
+
+=========
+
+aux(tell-3, do-1)
+neg(tell-3, not-2)
+root(ROOT-0, tell-3)
+advmod(tell-3, anyone-4)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+poss(camera-4, my-3)
+nsubj(simple-6, camera-4)
+nsubj(easy-8, camera-4)
+cop(simple-6, 's-5)
+ccomp(like-2, simple-6)
+ccomp(like-2, easy-8)
+conj_and(simple-6, easy-8)
+aux(use-10, to-9)
+xcomp(simple-6, use-10)
+amod(images-13, sharp-12)
+prep_with(use-10, images-13)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+advmod(that-4, exactly-3)
+dobj(got-2, that-4)
+
+=========
+
+root(ROOT-0, Excellent-1)
+
+=========
+
+poss(shot-3, My-1)
+amod(shot-3, first-2)
+nsubj(clear-10, shot-3)
+det(box-7, the-6)
+prep_out_of(shot-3, box-7)
+cop(clear-10, was-8)
+advmod(clear-10, crystal-9)
+root(ROOT-0, clear-10)
+
+=========
+
+det(adjustments-2, No-1)
+root(ROOT-0, adjustments-2)
+det(settings-5, no-4)
+appos(adjustments-2, settings-5)
+nsubj(did-8, I-7)
+dep(adjustments-2, did-8)
+xcomp(did-8, NOTHING-9)
+prep(NOTHING-9, but-10)
+dep(but-10, point-11)
+dep(but-10, shoot-13)
+conj_and(point-11, shoot-13)
+
+=========
+
+root(ROOT-0, Wow-1)
+nsubj(clear-6, it-3)
+cop(clear-6, was-4)
+advmod(clear-6, sooooooooo-5)
+dep(Wow-1, clear-6)
+
+=========
+
+nsubj(post-3, I-1)
+aux(post-3, will-2)
+root(ROOT-0, post-3)
+det(picture-5, that-4)
+dobj(post-3, picture-5)
+prep_for(picture-5, you-7)
+advmod(see-10, all-8)
+aux(see-10, to-9)
+infmod(picture-5, see-10)
+
+=========
+
+poss(regret-3, My-1)
+amod(regret-3, only-2)
+root(ROOT-0, regret-3)
+
+=========
+
+nsubj(buy-4, I-1)
+aux(buy-4, did-2)
+neg(buy-4, not-3)
+root(ROOT-0, buy-4)
+dobj(buy-4, it-5)
+advmod(buy-4, sooner-6)
+

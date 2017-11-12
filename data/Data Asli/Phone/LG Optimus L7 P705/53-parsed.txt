@@ -1,0 +1,42 @@
+=========
+
+nsubj(buy-2, I-1)
+root(ROOT-0, buy-2)
+det(smartphone-4, this-3)
+dobj(buy-2, smartphone-4)
+tmod(buy-2, yesterday-5)
+
+=========
+
+nsubj(think-2, I-1)
+ccomp(worse-6, think-2)
+nsubj(worse-6, it-4)
+cop(worse-6, is-5)
+root(ROOT-0, worse-6)
+poss(friend-9, my-8)
+poss(U-13, friend-9)
+nn(U-13, phone-11)
+nn(U-13, Xperia-12)
+prep_than(worse-6, U-13)
+
+=========
+
+cc(fact-11, And-1)
+det(thing-3, the-2)
+nsubj(make-5, thing-3)
+nsubj(fact-11, thing-3)
+rcmod(thing-3, make-5)
+nsubj(disappointed-8, me-6)
+advmod(disappointed-8, really-7)
+xcomp(make-5, disappointed-8)
+cop(fact-11, is-9)
+det(fact-11, the-10)
+root(ROOT-0, fact-11)
+complm(expensive-17, that-12)
+poss(prize-14, its-13)
+nsubj(expensive-17, prize-14)
+cop(expensive-17, is-15)
+advmod(expensive-17, more-16)
+ccomp(fact-11, expensive-17)
+prep_than(expensive-17, xperia-19)
+

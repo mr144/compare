@@ -1,0 +1,119 @@
+=========
+
+nn(addition-2, Perfect-1)
+root(ROOT-0, addition-2)
+poss(kitchen-5, my-4)
+prep_to(addition-2, kitchen-5)
+
+=========
+
+root(ROOT-0, Pros-1)
+dep(Pros-1, Lots-3)
+amod(features-6, solid-5)
+prep_of(Lots-3, features-6)
+det(money-9, the-8)
+prep_for(features-6, money-9)
+
+=========
+
+nsubj(look-7, Picture-1)
+amod(Picture-1, quality-2)
+amod(Picture-1, colors-4)
+conj_and(quality-2, colors-4)
+amod(Picture-1, backlighting-6)
+conj_and(quality-2, backlighting-6)
+root(ROOT-0, look-7)
+acomp(look-7, great-8)
+
+=========
+
+nn(features-3, Smart-1)
+nn(features-3, TV-2)
+nsubj(nice-6, features-3)
+cop(nice-6, are-4)
+advmod(nice-6, very-5)
+ccomp(work-15, nice-6)
+nsubj(work-15, Netflix-8)
+nn(Go-11, HBO-10)
+appos(Netflix-8, Go-11)
+nn(Apps-14, Weather-13)
+appos(Go-11, Apps-14)
+root(ROOT-0, work-15)
+advmod(work-15, perfectly-16)
+amod(network-19, wireless-N-18)
+prep_over(work-15, network-19)
+poss(house-22, my-21)
+prep_in(network-19, house-22)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(lot-4, a-3)
+nsubj(is-2, lot-4)
+amod(reviews-7, bad-6)
+prep_of(lot-4, reviews-7)
+poss(features-13, Samsung-9)
+nn(features-13, Smart-11)
+nn(features-13, TV-12)
+prep_on(reviews-7, features-13)
+advmod(is-2, however-15)
+nsubj(find-17, I-16)
+ccomp(is-2, find-17)
+nsubj(great-21, it-18)
+nsubj(similar-23, it-18)
+aux(great-21, to-19)
+cop(great-21, be-20)
+xcomp(find-17, great-21)
+xcomp(find-17, similar-23)
+conj_and(great-21, similar-23)
+det(competition-26, the-25)
+prep_to(great-21, competition-26)
+
+=========
+
+root(ROOT-0, Cons-1)
+nn(TV-5, Samsung-3)
+nn(TV-5, Smart-4)
+nsubj(starts-6, TV-5)
+nsubj(offer-11, TV-5)
+dep(Cons-1, starts-6)
+advmod(starts-6, slowly-7)
+aux(offer-11, does-9)
+neg(offer-11, not-10)
+dep(Cons-1, offer-11)
+conj_and(starts-6, offer-11)
+dobj(offer-11, much-12)
+prep_for(offer-11, apps-14)
+
+=========
+
+poss(app-4, Youtube-1)
+nn(app-4, Samsung-3)
+nsubj(lagging-6, app-4)
+aux(lagging-6, is-5)
+root(ROOT-0, lagging-6)
+amod(competitors-9, other-8)
+prep_behind(lagging-6, competitors-9)
+
+=========
+
+root(ROOT-0, Pretty-1)
+advmod(same-4, much-2)
+det(same-4, the-3)
+dep(Pretty-1, same-4)
+prep_as(same-4, Roku-6)
+
+=========
+
+advmod(similar-5, Wish-1)
+det(selection-3, the-2)
+nsubj(similar-5, selection-3)
+cop(similar-5, was-4)
+root(ROOT-0, similar-5)
+nn(Apps-8, Amazon-7)
+prep_to(similar-5, Apps-8)
+nn(Play-11, Google-10)
+prep_to(similar-5, Play-11)
+conj_or(Apps-8, Play-11)
+

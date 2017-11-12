@@ -1,0 +1,28 @@
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+det(tv-7, a-3)
+amod(tv-7, bigger-4)
+conj_and(bigger-4, better-6)
+amod(tv-7, better-6)
+dobj(wanted-2, tv-7)
+det(price-11, a-9)
+amod(price-11, low-10)
+prep_for(tv-7, price-11)
+
+=========
+
+nsubj(fit-2, this-1)
+root(ROOT-0, fit-2)
+det(bill-4, the-3)
+dobj(fit-2, bill-4)
+
+=========
+
+root(ROOT-0, worth-1)
+det(money-3, the-2)
+pobj(worth-1, money-3)
+amod(words-6, more-5)
+dep(money-3, words-6)
+

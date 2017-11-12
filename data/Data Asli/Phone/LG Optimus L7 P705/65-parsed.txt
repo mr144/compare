@@ -1,0 +1,72 @@
+=========
+
+det(phone-2, The-1)
+nsubj(was-3, phone-2)
+root(ROOT-0, was-3)
+prep_in(was-3, Chinese-5)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(time-5, a-3)
+amod(time-5, hard-4)
+dobj(had-2, time-5)
+xsubj(change-8, time-5)
+partmod(time-5, trying-6)
+aux(change-8, to-7)
+xcomp(trying-6, change-8)
+prep_to(change-8, English-10)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+dobj(like-2, it-3)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, first-2)
+nsubj(light-13, thing-3)
+nsubj(flimsy-15, thing-3)
+complm(like-6, that-4)
+nsubj(like-6, I-5)
+dep(thing-3, like-6)
+det(most-8, the-7)
+nsubj(phone-11, most-8)
+cop(phone-11, is-9)
+det(phone-11, the-10)
+ccomp(like-6, phone-11)
+cop(light-13, is-12)
+root(ROOT-0, light-13)
+conj_and(light-13, flimsy-15)
+
+=========
+
+advmod(see-10, However-1)
+det(sun-5, the-4)
+prep_under(see-10, sun-5)
+nsubj(see-10, I-7)
+aux(see-10, can-8)
+neg(see-10, not-9)
+root(ROOT-0, see-10)
+advmod(see-10, clearly-11)
+det(screen-13, the-12)
+dobj(see-10, screen-13)
+
+=========
+
+advmod(use-4, Sometimes-1)
+nsubj(use-4, I-3)
+root(ROOT-0, use-4)
+dobj(use-4, facebook-5)
+aux(talk-7, to-6)
+xcomp(use-4, talk-7)
+poss(friends-10, my-9)
+prep_with(talk-7, friends-10)
+det(app-13, the-12)
+nsubj(closed-14, app-13)
+conj_and(use-4, closed-14)
+prep_by(closed-14, itself-16)
+

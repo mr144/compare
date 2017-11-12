@@ -1,0 +1,68 @@
+=========
+
+det(TV-2, This-1)
+nsubj(amazing-4, TV-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(assemble-3, to-2)
+dep(Easy-1, assemble-3)
+dep(Easy-1, use-5)
+conj_and(assemble-3, use-5)
+
+=========
+
+amod(weight-2, Light-1)
+root(ROOT-0, weight-2)
+
+=========
+
+nsubj(picture-2, Beautiful-1)
+root(ROOT-0, picture-2)
+
+=========
+
+aux(recommend-3, Would-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+
+=========
+
+advmod(supper-8, Well-1)
+prep_worth(supper-8, it-3)
+det(shipping-6, the-5)
+conj_and(it-3, shipping-6)
+prep_worth(supper-8, shipping-6)
+aux(supper-8, was-7)
+root(ROOT-0, supper-8)
+advmod(experience-18, fast-9)
+conj_and(fast-9, free-11)
+advmod(experience-18, free-11)
+nn(Amazon-13, !!-12)
+nsubj(experience-18, Amazon-13)
+cop(experience-18, was-14)
+det(experience-18, the-15)
+amod(experience-18, easy-16)
+nn(experience-18, shopping-17)
+dep(supper-8, experience-18)
+nsubj(had-22, I-19)
+aux(had-22, have-20)
+advmod(had-22, ever-21)
+rcmod(experience-18, had-22)
+dobj(had-22, !!-23)
+nsubjpass(hooked-26, I-24)
+auxpass(hooked-26, am-25)
+rcmod(!!-23, hooked-26)
+acomp(hooked-26, !!-27)
+nsubj(beat-30, they-29)
+dep(supper-8, beat-30)
+conj_and(experience-18, beat-30)
+det(price-32, every-31)
+dobj(beat-30, price-32)
+prt(beat-30, out-33)
+advmod(beat-30, there-34)
+nsubj(supper-8, !!-35)
+

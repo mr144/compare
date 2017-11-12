@@ -1,0 +1,20 @@
+=========
+
+ccomp(like-4, good-1)
+nsubj(like-4, I-3)
+ccomp(fashion-11, like-4)
+nsubj(much-7, it-5)
+advmod(much-7, very-6)
+xcomp(like-4, much-7)
+cop(fashion-11, is-9)
+advmod(fashion-11, very-10)
+root(ROOT-0, fashion-11)
+poss(botfriend-14, my-13)
+prep_for(fashion-11, botfriend-14)
+nsubj(love-17, he-16)
+prep_for(fashion-11, love-17)
+conj_and(botfriend-14, love-17)
+nsubj(lot-20, it-18)
+det(lot-20, a-19)
+xcomp(love-17, lot-20)
+

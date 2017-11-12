@@ -1,0 +1,4 @@
+I_PRP received_VBD this_DT phone_NN as_IN expected_VBN -LRB-_-LRB- time_NN and_CC accessories_NNS -RRB-_-RRB- ._.
+I_PRP had_VBD some_DT problems_NNS with_IN the_DT battery_NN but_CC after_IN some_DT updates_NNS ,_, it_PRP works_VBZ fine_JJ -_: one_CD day_NN -LRB-_-LRB- not_RB excellent_JJ -RRB-_-RRB- ._.
+Overall_RB this_DT is_VBZ a_DT good_JJ phone_NN for_IN the_DT price_NN with_IN basic_JJ features_NNS -LRB-_-LRB- document_NN ,_, spreadsheet_NN ,_, presentation_NN -RRB-_-RRB- and_CC some_DT others_NNS pretty_RB cool_JJ stuff_NN ._.
+I_PRP love_VBP it_PRP !_.

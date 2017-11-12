@@ -1,0 +1,28 @@
+=========
+
+ccomp(parece-8, excelente-1)
+nn(precio-5, camara-2)
+nn(precio-5, para-3)
+nn(precio-5, el-4)
+dobj(excelente-1, precio-5)
+nsubj(parece-8, me-7)
+root(ROOT-0, parece-8)
+amod(eleccion-13, que-9)
+nn(eleccion-13, es-10)
+nn(eleccion-13, una-11)
+nn(eleccion-13, buena-12)
+dobj(parece-8, eleccion-13)
+
+=========
+
+root(ROOT-0, muy-1)
+dobj(muy-1, buena-2)
+prep(buena-2, la-3)
+pobj(la-3, recomiendo-4)
+number(%-6, 100-5)
+amod(definicion-10, %-6)
+amod(definicion-10, tiene-7)
+nn(definicion-10, muy-8)
+nn(definicion-10, bueno-9)
+nsubj(muy-1, definicion-10)
+

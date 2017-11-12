@@ -1,0 +1,30 @@
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+dobj(did-2, observation-3)
+det(months-8, the-5)
+amod(months-8, last-6)
+num(months-8, 2-7)
+prep_on(did-2, months-8)
+
+=========
+
+nsubj(smartphone-4, This-1)
+cop(smartphone-4, is-2)
+det(smartphone-4, the-3)
+root(ROOT-0, smartphone-4)
+nsubj(has-6, smartphone-4)
+rcmod(smartphone-4, has-6)
+det(performance-9, a-7)
+amod(performance-9, greatest-8)
+dobj(has-6, performance-9)
+
+=========
+
+advmod(recomend-5, So-1)
+advmod(very-4, i-3)
+advmod(recomend-5, very-4)
+root(ROOT-0, recomend-5)
+nsubj(recomend-5, it-6)
+

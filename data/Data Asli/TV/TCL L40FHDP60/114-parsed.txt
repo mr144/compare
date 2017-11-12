@@ -1,0 +1,77 @@
+=========
+
+num(inch-2, 40-1)
+root(ROOT-0, inch-2)
+amod(deal-5, great-4)
+appos(inch-2, deal-5)
+advmod(fast-8, very-7)
+advmod(shipping-9, fast-8)
+partmod(inch-2, shipping-9)
+
+=========
+
+nsubj(had-22, Ordered-1)
+num(Ordered-1, one-2)
+det(reviews-7, the-5)
+amod(reviews-7, negative-6)
+prep_because_of(Ordered-1, reviews-7)
+nn(service-10, customer-9)
+prep_on(reviews-7, service-10)
+partmod(Ordered-1, liked-12)
+nsubj(much-15, it-13)
+advmod(much-15, so-14)
+xcomp(liked-12, much-15)
+nsubj(ordered-17, I-16)
+ccomp(much-15, ordered-17)
+det(one-20, a-18)
+amod(one-20, second-19)
+dobj(ordered-17, one-20)
+root(ROOT-0, had-22)
+det(problems-24, no-23)
+dobj(had-22, problems-24)
+advmod(had-22, whatsoever-25)
+
+=========
+
+det(set-2, This-1)
+nsubj(has-3, set-2)
+root(ROOT-0, has-3)
+amod(quality-5, good-4)
+dobj(has-3, quality-5)
+dobj(expect-9, quality-5)
+dobj(has-3, everything-7)
+conj_and(quality-5, everything-7)
+dobj(expect-9, everything-7)
+nsubj(expect-9, I-8)
+rcmod(quality-5, expect-9)
+det(LCD-14, a-11)
+amod(LCD-14, low-12)
+nn(LCD-14, end-13)
+prep_in(expect-9, LCD-14)
+det(price-18, a-16)
+amod(price-18, great-17)
+prep_at(LCD-14, price-18)
+
+=========
+
+csubj(sets-3, Using-1)
+dobj(Using-1, both-2)
+root(ROOT-0, sets-3)
+advmod(sets-3, now-4)
+num(months-7, 10-6)
+prep_for(sets-3, months-7)
+
+=========
+
+num(stars-2, Five-1)
+nsubj(issues-14, stars-2)
+prep_for(stars-2, me-4)
+partmod(stars-2, adjusted-6)
+num(stars-9, 4-8)
+prep_to(adjusted-6, stars-9)
+amod(reviewers-13, other-12)
+prep_because_of(stars-9, reviewers-13)
+root(ROOT-0, issues-14)
+nn(service-17, customer-16)
+prep_with(issues-14, service-17)
+

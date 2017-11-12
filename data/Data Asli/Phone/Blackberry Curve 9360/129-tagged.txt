@@ -1,0 +1,2 @@
+What_WP 3G_CD bands_NNS used_VBD this_DT phone_NN ?_.
+,_, im_NN from_IN Venezuela_NNP and_CC i_FW need_VBP a_DT blackberry_NN with_IN 3G_NNP Bands_NNPS 1,2,5,6_CD or_CC 850Mhz\/1900Mhz\/2100Mhz_NNP

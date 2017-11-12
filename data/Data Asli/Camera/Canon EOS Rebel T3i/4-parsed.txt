@@ -1,0 +1,31 @@
+=========
+
+det(camera-2, This-1)
+nsubj(buy-6, camera-2)
+cop(buy-6, is-3)
+det(buy-6, a-4)
+amod(buy-6, great-5)
+root(ROOT-0, buy-6)
+
+=========
+
+root(ROOT-0, Easy-1)
+prep_to(Easy-1, use-3)
+conj_and(Easy-1, takes-5)
+amod(pictures-7, nice-6)
+dobj(takes-5, pictures-7)
+
+=========
+
+amod(options-2, Many-1)
+nsubj(make-3, options-2)
+root(ROOT-0, make-3)
+det(fun-6, this-4)
+nn(fun-6, camera-5)
+dobj(make-3, fun-6)
+dobj(make-3, feeling-8)
+conj_and(fun-6, feeling-8)
+det(photographer-12, a-10)
+amod(photographer-12, professional-11)
+prep_like(fun-6, photographer-12)
+

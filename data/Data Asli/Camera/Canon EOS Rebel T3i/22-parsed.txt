@@ -1,0 +1,35 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+prep_for(camera-5, beginners-7)
+prep_like(beginners-7, me-9)
+
+=========
+
+nsubj(easy-3, It-1)
+nsubj(light-8, It-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+advmod(light-8, very-7)
+conj_and(easy-3, light-8)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, it-3)
+
+=========
+
+nsubj(bad-5, Delivery-1)
+cop(bad-5, was-2)
+advmod(bad-5, also-3)
+neg(bad-5, not-4)
+root(ROOT-0, bad-5)
+

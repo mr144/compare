@@ -1,0 +1,84 @@
+=========
+
+root(ROOT-0, As-1)
+pobj(As-1, advertised-2)
+det(camera-6, a-4)
+amod(camera-6, great-5)
+pobj(As-1, camera-6)
+conj_and(advertised-2, camera-6)
+
+=========
+
+nsubj(Lumix-5, This-1)
+cop(Lumix-5, is-2)
+poss(Lumix-5, our-3)
+amod(Lumix-5, 2nd-4)
+root(ROOT-0, Lumix-5)
+det(point-10, the-8)
+nn(point-10, price-9)
+prep_for(terrific-13, point-10)
+nsubj(terrific-13, it-11)
+cop(terrific-13, is-12)
+conj_and(Lumix-5, terrific-13)
+
+=========
+
+dep(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, it-3)
+det(user-7, the-5)
+amod(user-7, average-6)
+prep_for(recommend-2, user-7)
+nsubj(looking-10, user-7)
+aux(looking-10, 's-9)
+rcmod(user-7, looking-10)
+det(point-14, an-12)
+amod(point-14, excellent-13)
+prep_for(looking-10, point-14)
+conj_and(recommend-2, shoot-16)
+det(features-21, a-18)
+amod(features-21, few-19)
+amod(features-21, extra-20)
+prep_with(shoot-16, features-21)
+dep(want-25, should-23)
+nsubj(want-25, you-24)
+xsubj(use-27, you-24)
+ccomp(shoot-16, want-25)
+aux(use-27, to-26)
+xcomp(want-25, use-27)
+dobj(use-27, them-28)
+
+=========
+
+nsubj(find-2, We-1)
+root(ROOT-0, find-2)
+det(stabilization-4, the-3)
+nsubj(feature-5, stabilization-4)
+ccomp(find-2, feature-5)
+dobj(feature-5, one-6)
+det(best-9, the-8)
+prep_of(one-6, best-9)
+det(market-12, the-11)
+prep_on(best-9, market-12)
+
+=========
+
+nsubj(choose-2, We-1)
+root(ROOT-0, choose-2)
+dobj(choose-2, Lumix-3)
+advmod(choose-2, again-4)
+prepc_after(choose-2, reviewing-6)
+dobj(reviewing-6, everything-7)
+prt(reviewing-6, out-8)
+advmod(reviewing-6, there-9)
+det(category-13, the-11)
+nn(category-13, product-12)
+prep_in(reviewing-6, category-13)
+
+=========
+
+aux(go-3, Ca-1)
+nsubj(go-3, not-2)
+root(ROOT-0, go-3)
+acomp(go-3, wrong-4)
+

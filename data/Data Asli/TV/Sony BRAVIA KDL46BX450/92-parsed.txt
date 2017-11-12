@@ -1,0 +1,88 @@
+=========
+
+nsubj(had-4, I-1)
+aux(had-4, have-2)
+advmod(had-4, only-3)
+root(ROOT-0, had-4)
+det(TV-6, this-5)
+dobj(had-4, TV-6)
+det(time-11, a-8)
+advmod(short-10, very-9)
+amod(time-11, short-10)
+prep_for(TV-6, time-11)
+nsubj(impressed-18, I-14)
+cop(impressed-18, am-15)
+advmod(impressed-18, already-16)
+advmod(impressed-18, very-17)
+conj_but(had-4, impressed-18)
+prep_with(impressed-18, it-20)
+
+=========
+
+nsubj(see-2, I-1)
+root(ROOT-0, see-2)
+det(artifacts-5, no-3)
+nn(artifacts-5, image-4)
+dobj(see-2, artifacts-5)
+dobj(see-2, blur-7)
+conj_or(artifacts-5, blur-7)
+dobj(see-2, image-10)
+conj_or(artifacts-5, image-10)
+partmod(image-10, shuddering-11)
+advmod(shuddering-11, at-12)
+pobj(at-12, all-13)
+
+=========
+
+det(depth-3, The-1)
+nn(depth-3, color-2)
+nsubj(adequate-7, depth-3)
+cop(adequate-7, is-4)
+advmod(than-6, more-5)
+advmod(adequate-7, than-6)
+root(ROOT-0, adequate-7)
+
+=========
+
+poss(issue-4, My-1)
+advmod(issue-4, only-2)
+amod(issue-4, real-3)
+nsubj(lack-9, issue-4)
+prep_with(issue-4, it-6)
+cop(lack-9, is-7)
+det(lack-9, the-8)
+root(ROOT-0, lack-9)
+amod(slots-14, standard-11)
+nn(slots-14, AV-12)
+amod(slots-14, composite-13)
+prep_of(lack-9, slots-14)
+
+=========
+
+advcl(set-9, from-2)
+prep_aside_from(set-9, that-3)
+nsubj(set-9, it-5)
+cop(set-9, is-6)
+det(set-9, a-7)
+amod(set-9, great-8)
+root(ROOT-0, set-9)
+
+=========
+
+nsubj(worse-6, You-1)
+aux(worse-6, can-2)
+advmod(worse-6, certainly-3)
+dep(worse-6, do-4)
+advmod(worse-6, much-5)
+root(ROOT-0, worse-6)
+det(money-9, the-8)
+prep_for(worse-6, money-9)
+
+=========
+
+nsubj(better-3, KDL40EX640-1)
+cop(better-3, is-2)
+root(ROOT-0, better-3)
+det(TV-6, this-5)
+prep_than(better-3, TV-6)
+

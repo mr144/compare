@@ -1,0 +1,36 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(cellphone-4, this-3)
+dobj(bought-2, cellphone-4)
+mark(love-7, because-5)
+nsubj(love-7, i-6)
+advcl(bought-2, love-7)
+det(HTC-9, the-8)
+dobj(love-7, HTC-9)
+advmod(far-13, so-12)
+advmod(pleased-17, far-13)
+nsubj(pleased-17, i-14)
+cop(pleased-17, am-15)
+advmod(pleased-17, very-16)
+conj_and(bought-2, pleased-17)
+prep_with(pleased-17, it-19)
+amod(performance-22, excelent-21)
+attr(pleased-17, performance-22)
+nsubj(got-25, i-24)
+ccomp(bought-2, got-25)
+conj_and(bought-2, got-25)
+dobj(got-25, signal-26)
+prep(got-25, in-27)
+advmod(everywhere-29, almost-28)
+pobj(in-27, everywhere-29)
+nsubj(happy-35, i-32)
+cop(happy-35, am-33)
+advmod(happy-35, very-34)
+conj_and(bought-2, happy-35)
+
+=========
+
+root(ROOT-0, xD-1)
+

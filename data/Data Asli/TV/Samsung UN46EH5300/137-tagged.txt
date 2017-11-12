@@ -1,0 +1,1 @@
+TV_NN with_IN all_DT features_NNS ..._: it_PRP acts_VBZ as_IN router_NN too_RB ..._: :_: -RRB-_-RRB- i_FW am_VBP very_RB much_RB happy_JJ with_IN this_DT tv_NN ,_, i_FW got_VBD it_PRP for_IN good_JJ price_NN from_IN Amezon_NNP

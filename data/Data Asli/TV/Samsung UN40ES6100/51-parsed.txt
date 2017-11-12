@@ -1,0 +1,61 @@
+=========
+
+nsubj(waitied-2, I-1)
+xsubj(go-7, I-1)
+root(ROOT-0, waitied-2)
+det(generation-5, this-4)
+prep_for(waitied-2, generation-5)
+aux(go-7, to-6)
+xcomp(waitied-2, go-7)
+prep_on(go-7, sale-9)
+nsubj(%-14, it-11)
+cop(%-14, was-12)
+num(%-14, 100-13)
+conj_and(waitied-2, %-14)
+prep_worth(%-14, it-16)
+
+=========
+
+det(menu-3, The-1)
+nn(menu-3, apps-2)
+nsubj(easier-8, menu-3)
+conj_and(menu-3, interface-5)
+nsubj(easier-8, interface-5)
+cop(easier-8, are-6)
+advmod(easier-8, much-7)
+root(ROOT-0, easier-8)
+aux(use-10, to-9)
+xcomp(easier-8, use-10)
+prepc_compared_to(use-10, to-12)
+det(generation-15, the-13)
+amod(generation-15, last-14)
+pobj(use-10, generation-15)
+
+=========
+
+det(Share-3, All-2)
+prep_with(load-7, Share-3)
+nsubj(load-7, I-5)
+aux(load-7, can-6)
+root(ROOT-0, load-7)
+amod(movies-9, digital-8)
+dobj(load-7, movies-9)
+poss(network-13, my-11)
+nn(network-13, home-12)
+prep_from(load-7, network-13)
+
+=========
+
+det(clipping-2, No-1)
+nsubj(seen-3, clipping-2)
+root(ROOT-0, seen-3)
+advmod(far-5, so-4)
+advmod(seen-3, far-5)
+prep_for(seen-3, sports-7)
+
+=========
+
+root(ROOT-0, Worth-1)
+det(money-3, the-2)
+dep(Worth-1, money-3)
+

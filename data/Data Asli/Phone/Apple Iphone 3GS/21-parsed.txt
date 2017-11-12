@@ -1,0 +1,83 @@
+=========
+
+nsubj(brought-2, I-1)
+root(ROOT-0, brought-2)
+prep_as(brought-2, NEW-4)
+prep_as(brought-2, UNLOCKED-6)
+conj_and(NEW-4, UNLOCKED-6)
+nn(gift-9, Christmas-8)
+prep_for(brought-2, gift-9)
+poss(mom-12, my-11)
+prep_for(brought-2, mom-12)
+
+=========
+
+nsubj(lasts-2, It-1)
+root(ROOT-0, lasts-2)
+dep(even-4, not-3)
+advmod(lasts-2, even-4)
+det(month-6, a-5)
+tmod(lasts-2, month-6)
+
+=========
+
+nn(OFF-2, Completed-1)
+root(ROOT-0, OFF-2)
+
+=========
+
+nsubj(lost-2, We-1)
+root(ROOT-0, lost-2)
+amod(memories-4, great-3)
+dobj(lost-2, memories-4)
+poss(baby-8, my-6)
+amod(baby-8, newborn-7)
+prep_of(memories-4, baby-8)
+
+=========
+
+nsubj(came-3, I-1)
+advmod(came-3, just-2)
+root(ROOT-0, came-3)
+num(store-8, one-5)
+amod(store-8, local-6)
+nn(store-8, apple-7)
+prep_from(came-3, store-8)
+nsubj(said-11, they-10)
+prep_from(came-3, said-11)
+conj_and(store-8, said-11)
+complm(UNLOCKED-17, that-12)
+det(phone-14, the-13)
+nsubj(UNLOCKED-17, phone-14)
+cop(UNLOCKED-17, is-15)
+nn(UNLOCKED-17, NOT-16)
+ccomp(said-11, UNLOCKED-17)
+ccomp(said-11, IT-19)
+conj_and(UNLOCKED-17, IT-19)
+cop(NEW-22, IS-20)
+nn(NEW-22, NOT-21)
+rcmod(UNLOCKED-17, NEW-22)
+advmod(NEW-22, either-23)
+
+=========
+
+nsubj(fix-5, It-1)
+aux(fix-5, can-2)
+neg(fix-5, not-3)
+aux(fix-5, be-4)
+root(ROOT-0, fix-5)
+mark(missing-8, because-6)
+aux(missing-8, is-7)
+advcl(fix-5, missing-8)
+det(pieces-10, some-9)
+dobj(missing-8, pieces-10)
+
+=========
+
+nsubj(disappoited-5, I-2)
+nsubj(sad-7, I-2)
+cop(disappoited-5, am-3)
+advmod(disappoited-5, very-4)
+root(ROOT-0, disappoited-5)
+conj_and(disappoited-5, sad-7)
+

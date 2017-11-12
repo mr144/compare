@@ -1,0 +1,28 @@
+=========
+
+amod(product-2, Great-1)
+root(ROOT-0, product-2)
+appos(product-2, 3rd-4)
+det(family-7, the-6)
+prep_in(3rd-4, family-7)
+
+=========
+
+root(ROOT-0, Superb-1)
+dobj(Superb-1, picture-2)
+dobj(Superb-1, sound-4)
+conj_and(picture-2, sound-4)
+
+=========
+
+det(price-5, the-2)
+num(price-5, $-3)
+number($-3, 324-4)
+prep_at(blew-9, price-5)
+partmod(price-5, paid-6)
+advmod(blew-9, simply-8)
+root(ROOT-0, blew-9)
+prt(blew-9, away-10)
+det(competition-12, the-11)
+dobj(blew-9, competition-12)
+

@@ -1,0 +1,24 @@
+=========
+
+det(D7100-2, The-1)
+nsubj(improvement-6, D7100-2)
+cop(improvement-6, is-3)
+det(improvement-6, a-4)
+amod(improvement-6, great-5)
+root(ROOT-0, improvement-6)
+det(D7000-11, the-8)
+advmod(great-10, already-9)
+amod(D7000-11, great-10)
+prep_over(improvement-6, D7000-11)
+
+=========
+
+det(DX-4, The-1)
+advmod(best-3, very-2)
+amod(DX-4, best-3)
+nsubj(camera-5, DX-4)
+root(ROOT-0, camera-5)
+det(market-8, the-7)
+prep_on(camera-5, market-8)
+tmod(camera-5, today-9)
+

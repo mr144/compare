@@ -1,0 +1,36 @@
+=========
+
+nn(perfecto-3, El-1)
+nn(perfecto-3, articulo-2)
+root(ROOT-0, perfecto-3)
+
+=========
+
+nsubj(gusto-2, Me-1)
+root(ROOT-0, gusto-2)
+acomp(gusto-2, bastante-3)
+
+=========
+
+root(ROOT-0, Lo-1)
+dobj(Lo-1, recomiendo-2)
+number(%-4, 100-3)
+amod(recomiendo-2, %-4)
+
+=========
+
+nn(buena-3, Es-1)
+nn(buena-3, de-2)
+nsubj(calidad-4, buena-3)
+root(ROOT-0, calidad-4)
+
+=========
+
+nn(volver&iacute;a-2, Si-1)
+root(ROOT-0, volver&iacute;a-2)
+det(comprarle-4, a-3)
+dep(volver&iacute;a-2, comprarle-4)
+det(vendedor-7, a-5)
+amod(vendedor-7, este-6)
+dep(comprarle-4, vendedor-7)
+

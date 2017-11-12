@@ -1,0 +1,29 @@
+=========
+
+root(ROOT-0, Pleased-1)
+poss(phone-6, my-3)
+nn(phone-6, Motorola-4)
+nn(phone-6, Atrix-5)
+prep_with(Pleased-1, phone-6)
+
+=========
+
+det(software-3, The-1)
+nn(software-3, Android-2)
+nsubj(works-4, software-3)
+ccomp(has-9, works-4)
+advmod(well-6, very-5)
+advmod(works-4, well-6)
+nsubj(has-9, Amazon-8)
+root(ROOT-0, has-9)
+dobj(has-9, lots-10)
+prep_of(lots-10, apps-12)
+nn(phone-15, Android-14)
+prep_for(apps-12, phone-15)
+
+=========
+
+nsubj(work-2, Labdock-1)
+root(ROOT-0, work-2)
+prep(work-2, to-3)
+

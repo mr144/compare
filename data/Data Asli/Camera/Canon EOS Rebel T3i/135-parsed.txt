@@ -1,0 +1,49 @@
+=========
+
+nsubj(photographer-7, I-1)
+cop(photographer-7, am-2)
+det(photographer-7, a-3)
+amod(photographer-7, professional-4)
+amod(photographer-7, still-5)
+nn(photographer-7, life-6)
+root(ROOT-0, photographer-7)
+nsubj(camera-14, this-9)
+cop(camera-14, is-10)
+poss(camera-14, my-11)
+nn(camera-14, family-12)
+nn(camera-14, snapshot-13)
+conj_and(photographer-7, camera-14)
+
+=========
+
+nsubj(feature-2, Nice-1)
+root(ROOT-0, feature-2)
+dobj(feature-2, set-3)
+dobj(feature-2, quality-5)
+conj_and(set-3, quality-5)
+det(price-8, the-7)
+prep_for(set-3, price-8)
+
+=========
+
+cc(recommend-5, But-1)
+nsubj(recommend-5, I-2)
+aux(recommend-5, would-3)
+advmod(recommend-5, definitely-4)
+root(ROOT-0, recommend-5)
+ccomp(recommend-5, getting-6)
+dobj(getting-6, it-7)
+det(lens-11, the-9)
+nn(lens-11, kit-10)
+prep_without(getting-6, lens-11)
+ccomp(recommend-5, buying-13)
+conj_and(getting-6, buying-13)
+dobj(buying-13, something-14)
+det(.8-19, a-16)
+amod(.8-19, 28-70mm-17)
+num(.8-19, f2-18)
+prep_like(buying-13, .8-19)
+aux(use-21, to-20)
+xcomp(buying-13, use-21)
+prep_with(use-21, it-23)
+

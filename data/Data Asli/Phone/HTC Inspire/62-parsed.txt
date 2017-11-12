@@ -1,0 +1,48 @@
+=========
+
+nsubj(had-3, i-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(phone-5, the-4)
+dobj(had-3, phone-5)
+quantmod(little-9, about-7)
+quantmod(little-9, a-8)
+prep_for(had-3, little-9)
+det(month-12, a-11)
+prep_over(had-3, month-12)
+advmod(month-12, now-13)
+nsubj(lived-17, it-15)
+aux(lived-17, has-16)
+conj_and(had-3, lived-17)
+prt(lived-17, up-18)
+prep_to(lived-17, expectation-20)
+
+=========
+
+root(ROOT-0, using-1)
+dobj(using-1, it-2)
+amod(network-6, simple-4)
+amod(network-6, mobile-5)
+prep_on(using-1, network-6)
+nsubj(works-9, it-8)
+conj_and(using-1, works-9)
+acomp(works-9, fine-10)
+
+=========
+
+det(thing-3, the-1)
+amod(thing-3, only-2)
+nsubj(is-4, thing-3)
+root(ROOT-0, is-4)
+complm(good-10, that-5)
+nsubj(good-10, reception-6)
+cop(good-10, is-7)
+neg(good-10, not-8)
+advmod(good-10, as-9)
+ccomp(is-4, good-10)
+poss(house-13, my-12)
+prep_in(good-10, house-13)
+poss(phone-17, my-15)
+amod(phone-17, previous-16)
+prep_as(good-10, phone-17)
+

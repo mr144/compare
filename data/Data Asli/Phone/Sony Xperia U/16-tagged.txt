@@ -1,0 +1,14 @@
+The_DT Xperia_NNP U_NNP is_VBZ a_DT great_JJ phone_NN that_IN i_FW would_MD personally_RB reccomend_VB to_TO any_DT new_JJ smart_JJ phone_NN user_NN or_CC an_DT android_NN user_NN who_WP wants_VBZ a_DT multimedia_NNS based_VBN android_JJ environment_NN or_CC social_JJ media_NNS practive_JJ ._.
+The_DT device_NN came_VBD preloaded_VBN with_IN android_NN 2.3_CD Gingerbread_NNP but_CC a_DT manual_NN update_VB on_IN Sonys_NNP PC_NNP software_NN can_MD upgrade_VB you_PRP to_TO Android_NNP 4.0.4_CD I_PRP believe_VBP ?_.
+If_IN you_PRP have_VBP an_DT active_JJ internet_NN connection_NN at_IN home_NN ._.
+I_PRP set_VBD the_DT phone_NN up_RP on_IN Straight_NNP Talk_NN and_CC recieved_VBD max_FW 3g_FW and_CC 1x_JJ speeds_NNS on_IN the_DT phone_NN ._.
+I_PRP predict_VBP the_DT phone_NN would_MD do_VB the_DT same_JJ on_IN T-mobile_NNP and_CC ATT_NNP ._.
+-LRB-_-LRB- The_DT phone_NN has_VBZ available_JJ to_TO it_PRP a_DT developer\/user_JJR flash_NN tool_NN to_TO flash_VB carrier_NN recommended_VBD firmwares_NNS to_TO it_PRP to_TO optimize_VB it_PRP for_IN the_DT usa_NN ,_, overseas_JJ countries_NNS ,_, ect_NN -RRB-_-RRB- Being_VBG an_DT Android_NNP Developer_NNP ,_, I_PRP did_VBD recognize_VB one_CD flaw_NN on_IN the_DT device_NN ._.
+Once_RB flashing_VBG the_DT Xperia_NNP U_NNP to_TO ICS_NNP or_CC Android_NNP 4.0_CD ._.
+You_PRP will_MD notice_VB a_DT huge_JJ difference_NN in_IN performance_NN and_CC UI_NN changes_NNS however_RB ,_, if_IN you_PRP exceed_VBP the_DT memory_NN usage_NN or_CC cpu_NN usage_NN with_IN app_NN usage_NN ,_, your_PRP$ phone_NN is_VBZ liable_JJ to_TO heat_VB up_RP ,_, reboot_VB ,_, or_CC shut_VB off_RP ._.
+Android_NNP 4.0_NNP requires_VBZ 512mb_JJ to_TO run_VB correctly_RB ,_, the_DT Xperia_NNP U_NNP has_VBZ 512mb_CD of_IN ram_NN avaiable_JJ to_TO it_PRP ._.
+The_DT Phone_NN is_VBZ root-able_JJ to_TO Root_NN users_NNS ._.
+It_PRP has_VBZ plenty_NN of_IN development_NN to_TO support_VB many_JJ custom_NN roms_NNS and_CC custom_NN modifications_NNS to_TO support_VB better_JJR performance_NN ._.
+This_DT Phone_NN has_VBZ MIUI_NNP ,_, cm9_CD ,_, AOKP_NNP ,_, and_CC custom_NN stock_NN roms_NNS avaialbe_VBP to_TO it_PRP ._.
+It_PRP also_RB has_VBZ an_DT unlcockable_JJ bootloader_NN for_IN custom_NN kernel_NN flashing_VBG ._.
+Guides_NNPS are_VBP avaialbe_JJ via_IN XDA_NNP Developers_NNP ._.

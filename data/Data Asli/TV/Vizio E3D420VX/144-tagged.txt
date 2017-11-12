@@ -1,0 +1,1 @@
+Great_NNP TV_NNP ,_, 3d_CD is_VBZ good_JJ ,_, hdtv_NN is_VBZ good_JJ ,_, internet_NN apps_NNS work_VBP fast_RB ,_, If_IN you_PRP have_VBP a_DT small_JJ space_NN I_PRP recommend_VBP this_DT one_CD

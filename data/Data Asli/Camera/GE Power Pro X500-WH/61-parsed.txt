@@ -1,0 +1,42 @@
+=========
+
+nsubj(needed-2, i-1)
+root(ROOT-0, needed-2)
+det(camera-5, a-3)
+amod(camera-5, better-4)
+dobj(needed-2, camera-5)
+
+=========
+
+det(one-2, This-1)
+nsubj(does-3, one-2)
+root(ROOT-0, does-3)
+dobj(does-3, all-4)
+complm(need-7, that-5)
+nsubj(need-7, I-6)
+ccomp(does-3, need-7)
+
+=========
+
+nsubj(reason-7, Cost-1)
+cop(reason-7, was-2)
+advmod(much-4, very-3)
+advmod(reason-7, much-4)
+det(reason-7, the-5)
+amod(reason-7, actual-6)
+root(ROOT-0, reason-7)
+aux(buy-9, to-8)
+infmod(reason-7, buy-9)
+
+=========
+
+csubj(make-9, Paying-1)
+dobj(Paying-1, more-2)
+det(camera-6, an-4)
+amod(camera-6, everyday-5)
+prep_for(Paying-1, camera-6)
+aux(make-9, would-7)
+neg(make-9, not-8)
+root(ROOT-0, make-9)
+dobj(make-9, sense-10)
+

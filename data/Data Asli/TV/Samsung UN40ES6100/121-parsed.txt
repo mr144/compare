@@ -1,0 +1,88 @@
+=========
+
+det(TV-2, This-1)
+nsubj(amazing-4, TV-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+nsubj(makes-7, size-6)
+conj_and(amazing-4, makes-7)
+dep(a-9, this-8)
+nsubj(buy-11, a-9)
+aux(buy-11, must-10)
+ccomp(makes-7, buy-11)
+
+=========
+
+advmod(offer-4, However-1)
+nsubj(offer-4, they-3)
+root(ROOT-0, offer-4)
+det(version-8, a-5)
+amod(version-8, non-smart-6)
+nn(version-8, tv-7)
+dobj(offer-4, version-8)
+complm(buy-13, that-9)
+nsubj(buy-13, I-10)
+aux(buy-13, would-11)
+advmod(buy-13, rather-12)
+ccomp(offer-4, buy-13)
+
+=========
+
+det(features-3, The-1)
+amod(features-3, smart-2)
+nsubj(great-7, features-3)
+nsubj(work-11, features-3)
+cop(great-7, are-4)
+neg(great-7, not-5)
+advmod(great-7, that-6)
+root(ROOT-0, great-7)
+aux(work-11, do-9)
+neg(work-11, not-10)
+conj_and(great-7, work-11)
+mark(want-15, as-12)
+nsubj(want-15, you-13)
+aux(want-15, would-14)
+advcl(work-11, want-15)
+dobj(want-15, them-16)
+advmod(want-15, too-17)
+
+=========
+
+amod(text-2, Entering-1)
+nsubj(pain-6, text-2)
+cop(pain-6, is-3)
+advmod(pain-6, also-4)
+det(pain-6, a-5)
+root(ROOT-0, pain-6)
+det(butt-9, the-8)
+prep_in(pain-6, butt-9)
+
+=========
+
+nsubj(update-3, They-1)
+aux(update-3, should-2)
+root(ROOT-0, update-3)
+det(remote-5, the-4)
+dobj(update-3, remote-5)
+det(style-8, a-7)
+prep_with(update-3, style-8)
+prep_like(style-8, Boxee-10)
+det(keyboard-13, a-12)
+prep_with(update-3, keyboard-13)
+
+=========
+
+nsubj(amazing-10, Other-1)
+det(features-5, the-3)
+amod(features-5, smart-4)
+prep_than(Other-1, features-5)
+det(TV-8, the-7)
+appos(features-5, TV-8)
+cop(amazing-10, is-9)
+root(ROOT-0, amazing-10)
+nsubj(happy-15, I-12)
+cop(happy-15, am-13)
+advmod(happy-15, very-14)
+conj_and(amazing-10, happy-15)
+prep_with(happy-15, it-17)
+

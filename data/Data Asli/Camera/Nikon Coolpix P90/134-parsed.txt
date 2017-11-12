@@ -1,0 +1,161 @@
+=========
+
+nsubj(returning-3, I-1)
+aux(returning-3, am-2)
+root(ROOT-0, returning-3)
+det(product-5, this-4)
+dobj(returning-3, product-5)
+
+=========
+
+dep(silly-3, Wow-1)
+root(ROOT-0, silly-3)
+dobj(silly-3, me-4)
+nsubj(occurred-8, It-6)
+neg(occurred-8, never-7)
+parataxis(silly-3, occurred-8)
+prep_to(occurred-8, me-10)
+complm(produce-14, that-11)
+nsubj(produce-14, Nikon-12)
+aux(produce-14, would-13)
+ccomp(occurred-8, produce-14)
+det(camera-19, a-15)
+number(mega-17, 12-16)
+amod(camera-19, mega-17)
+amod(camera-19, pixel-18)
+dobj(produce-14, camera-19)
+det(zoom-24, a-21)
+amod(zoom-24, 24x-22)
+amod(zoom-24, optical-23)
+prep_with(produce-14, zoom-24)
+nsubj(included-28, NOT-26)
+aux(included-28, have-27)
+ccomp(occurred-8, included-28)
+conj_and(produce-14, included-28)
+det(ability-30, the-29)
+dobj(included-28, ability-30)
+aux(shoot-32, to-31)
+infmod(ability-30, shoot-32)
+dobj(shoot-32, RAW-33)
+
+=========
+
+root(ROOT-0, Why-1)
+
+=========
+
+advmod(want-5, Maybe-1)
+nsubj(want-5, they-2)
+aux(want-5, did-3)
+neg(want-5, not-4)
+root(ROOT-0, want-5)
+nsubj(compete-8, it-6)
+aux(compete-8, to-7)
+xcomp(want-5, compete-8)
+poss(SLRs-13, their-10)
+advmod(expensive-12, more-11)
+amod(SLRs-13, expensive-12)
+prep_with(compete-8, SLRs-13)
+
+=========
+
+nsubj(careful-6, I-1)
+aux(careful-6, should-2)
+aux(careful-6, have-3)
+cop(careful-6, been-4)
+advmod(careful-6, more-5)
+root(ROOT-0, careful-6)
+dep(careful-6, reading-7)
+det(specs-9, the-8)
+dobj(reading-7, specs-9)
+mark(bought-12, before-10)
+nsubj(bought-12, I-11)
+advcl(careful-6, bought-12)
+dobj(bought-12, it-13)
+
+=========
+
+nsubj(looking-3, I-1)
+aux(looking-3, was-2)
+root(ROOT-0, looking-3)
+det(alternative-7, a-5)
+amod(alternative-7, nice-6)
+prep_for(looking-3, alternative-7)
+poss(D100-10, my-9)
+prep_to(alternative-7, D100-10)
+det(camera-14, a-12)
+amod(camera-14, great-13)
+dep(alternative-7, camera-14)
+advmod(now-16, but-15)
+advmod(outdated-17, now-16)
+amod(camera-14, outdated-17)
+
+=========
+
+advmod(is-9, So-1)
+det(money-5, the-4)
+prep_for(is-9, money-5)
+poss(bet-8, my-7)
+nsubj(is-9, bet-8)
+root(ROOT-0, is-9)
+advmod(is-9, now-10)
+det(DMC-FZ28K-15, the-12)
+nn(DMC-FZ28K-15, Panasonic-13)
+nn(DMC-FZ28K-15, Lumix-14)
+prep_with(is-9, DMC-FZ28K-15)
+
+=========
+
+nsubj(has-2, It-1)
+ccomp(used-13, has-2)
+dep(mega-7, 18x-3)
+num(18x-3, zoom-4)
+num(18x-3, 10-6)
+amod(pixels-8, mega-7)
+dobj(has-2, pixels-8)
+nsubjpass(used-13, it-10)
+nsubj(shoot-22, it-10)
+aux(used-13, can-11)
+auxpass(used-13, be-12)
+root(ROOT-0, used-13)
+amod(settings-16, manual-15)
+prep_with(used-13, settings-16)
+prep_with(used-13, point-20)
+conj_and(settings-16, point-20)
+conj_and(used-13, shoot-22)
+dobj(shoot-22, plus-23)
+nsubj(shoots-25, it-24)
+rcmod(plus-23, shoots-25)
+dobj(shoots-25, RAW-26)
+
+=========
+
+nsubj(sports-3, It-1)
+advmod(sports-3, also-2)
+root(ROOT-0, sports-3)
+nn(optics-5, Leica-4)
+dobj(sports-3, optics-5)
+
+=========
+
+expl(learn-5, There-1)
+nsubj(is-3, it-2)
+parataxis(learn-5, is-3)
+root(ROOT-0, learn-5)
+poss(mistake-8, my-7)
+prep_from(learn-5, mistake-8)
+
+=========
+
+det(Nikon-2, This-1)
+nsubj(cameraperfect-8, Nikon-2)
+nsubj(alas-12, Nikon-2)
+aux(cameraperfect-8, would-3)
+aux(cameraperfect-8, have-4)
+cop(cameraperfect-8, been-5)
+det(cameraperfect-8, a-6)
+amod(cameraperfect-8, great-7)
+root(ROOT-0, cameraperfect-8)
+advmod(cameraperfect-8, really-9)
+conj_but(cameraperfect-8, alas-12)
+

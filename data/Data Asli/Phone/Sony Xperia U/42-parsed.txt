@@ -1,0 +1,124 @@
+=========
+
+advmod(purchased-4, Hi-1)
+nsubj(purchased-4, I-3)
+root(ROOT-0, purchased-4)
+det(phone-6, this-5)
+dobj(purchased-4, phone-6)
+mark(Unlocked-10, as-7)
+nsubjpass(Unlocked-10, it-8)
+auxpass(Unlocked-10, was-9)
+advcl(purchased-4, Unlocked-10)
+
+=========
+
+root(ROOT-0, So-1)
+dep(use-5, that-2)
+nsubj(use-5, I-3)
+aux(use-5, could-4)
+dep(So-1, use-5)
+dobj(use-5, it-6)
+prep_in(use-5, India-8)
+
+=========
+
+advmod(came-12, Now-1)
+advmod(started-5, When-3)
+nsubj(started-5, I-4)
+advcl(came-12, started-5)
+xcomp(started-5, using-6)
+dobj(using-6, it-7)
+prep_in(using-6, India-9)
+nsubj(came-12, I-11)
+xsubj(know-14, I-11)
+root(ROOT-0, came-12)
+aux(know-14, to-13)
+xcomp(came-12, know-14)
+complm(unlocked-19, that-15)
+nsubj(unlocked-19, it-16)
+cop(unlocked-19, is-17)
+neg(unlocked-19, not-18)
+ccomp(know-14, unlocked-19)
+
+=========
+
+dep(disappointed-6, So-1)
+nsubjpass(disappointed-6, I-2)
+auxpass(disappointed-6, am-3)
+advmod(disappointed-6, very-4)
+advmod(disappointed-6, much-5)
+root(ROOT-0, disappointed-6)
+
+=========
+
+mark(returned-3, Since-1)
+nsubj(returned-3, I-2)
+advcl(invalid-12, returned-3)
+prep_from(returned-3, US-5)
+det(warranty-8, the-7)
+nsubj(invalid-12, warranty-8)
+aux(invalid-12, will-9)
+advmod(invalid-12, also-10)
+cop(invalid-12, be-11)
+root(ROOT-0, invalid-12)
+
+=========
+
+dep(able-6, So-1)
+nsubj(able-6, I-2)
+aux(able-6, will-3)
+neg(able-6, not-4)
+cop(able-6, be-5)
+root(ROOT-0, able-6)
+aux(contact-8, to-7)
+xcomp(able-6, contact-8)
+det(center-12, any-9)
+amod(center-12, sony-10)
+nn(center-12, service-11)
+dobj(contact-8, center-12)
+
+=========
+
+cc(had-3, But-1)
+nsubj(had-3, I-2)
+xsubj(spend-5, I-2)
+xsubj(unlock-9, I-2)
+root(ROOT-0, had-3)
+aux(spend-5, to-4)
+xcomp(had-3, spend-5)
+amod(money-7, more-6)
+dobj(spend-5, money-7)
+aux(unlock-9, to-8)
+xcomp(had-3, unlock-9)
+det(phone-11, the-10)
+dobj(unlock-9, phone-11)
+
+=========
+
+advmod(mentioned-4, Why-1)
+auxpass(mentioned-4, is-2)
+nsubjpass(mentioned-4, it-3)
+root(ROOT-0, mentioned-4)
+det(description-8, the-6)
+nn(description-8, product-7)
+prep_in(mentioned-4, description-8)
+num(Unlocked-11, &#34;-10)
+prep_as(mentioned-4, Unlocked-11)
+num(Unlocked-11, &#34;-12)
+advmod(locked-18, when-13)
+det(phone-15, the-14)
+nsubjpass(locked-18, phone-15)
+auxpass(locked-18, is-16)
+advmod(locked-18, still-17)
+dep(Unlocked-11, locked-18)
+
+=========
+
+nsubj(need-2, I-1)
+root(ROOT-0, need-2)
+det(code-5, the-3)
+nn(code-5, unlock-4)
+dobj(need-2, code-5)
+det(mobile-8, this-7)
+prep_for(code-5, mobile-8)
+

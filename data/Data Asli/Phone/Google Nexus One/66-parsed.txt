@@ -1,0 +1,20 @@
+=========
+
+det(phone-4, The-1)
+nn(phone-4, Nexus-2)
+num(phone-4, One-3)
+nsubj(has-5, phone-4)
+root(ROOT-0, has-5)
+det(screen-8, a-6)
+amod(screen-8, great-7)
+dobj(has-5, screen-8)
+det(lot-11, a-10)
+dobj(has-5, lot-11)
+conj_and(screen-8, lot-11)
+prep_of(lot-11, resources-13)
+det(Android-16, the-15)
+poss(update-19, Android-16)
+amod(update-19, guaranteed-18)
+prep_with(resources-13, update-19)
+prep_by(has-5, Google-21)
+

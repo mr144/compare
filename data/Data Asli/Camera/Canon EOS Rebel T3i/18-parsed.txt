@@ -1,0 +1,28 @@
+=========
+
+nsubj(photografer-6, I-1)
+cop(photografer-6, am-2)
+neg(photografer-6, not-3)
+det(photografer-6, a-4)
+amod(photografer-6, professional-5)
+root(ROOT-0, photografer-6)
+det(quallities-10, the-9)
+nsubj(amazing-14, quallities-10)
+prep_of(quallities-10, Photoshop-12)
+cop(amazing-14, are-13)
+conj_but(photografer-6, amazing-14)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+det(camera-4, The-1)
+advmod(famous-3, more-2)
+amod(camera-4, famous-3)
+root(ROOT-0, camera-4)
+dep(camera-4, today-5)
+

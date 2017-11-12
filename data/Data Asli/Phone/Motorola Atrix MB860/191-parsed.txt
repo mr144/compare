@@ -1,0 +1,70 @@
+=========
+
+det(Atrix-2, The-1)
+nsubj(Smartphone-8, Atrix-2)
+num(Atrix-2, 4G-3)
+cop(Smartphone-8, is-4)
+advmod(Smartphone-8, indeed-5)
+det(Smartphone-8, a-6)
+amod(Smartphone-8, top-notch-7)
+root(ROOT-0, Smartphone-8)
+prep_without(Smartphone-8, doubt-10)
+
+=========
+
+nsubj(piece-5, It-1)
+cop(piece-5, is-2)
+det(piece-5, a-3)
+amod(piece-5, fantastic-4)
+root(ROOT-0, piece-5)
+prep_of(piece-5, hardware-7)
+det(screen-12, a-9)
+advmod(responsive-11, very-10)
+amod(screen-12, responsive-11)
+prep_with(hardware-7, screen-12)
+
+=========
+
+aux(done-5, Could-1)
+nsubjpass(done-5, anything-2)
+aux(done-5, have-3)
+auxpass(done-5, been-4)
+root(ROOT-0, done-5)
+advmod(done-5, differently-6)
+det(phone-9, this-8)
+prep_for(done-5, phone-9)
+
+=========
+
+advmod(served-15, Yes-1)
+aux(casing-7, may-3)
+cop(casing-7, be-4)
+det(casing-7, a-5)
+nn(casing-7, metal-6)
+csubj(served-15, casing-7)
+det(casing-12, a-10)
+amod(casing-12, plastic-11)
+prep_instead_of(casing-7, casing-12)
+aux(served-15, would-13)
+aux(served-15, have-14)
+root(ROOT-0, served-15)
+det(phone-18, this-16)
+amod(phone-18, iconic-17)
+dobj(served-15, phone-18)
+advmod(served-15, better-19)
+
+=========
+
+advmod(variants-6, Also-1)
+det(variants-6, a-2)
+amod(variants-6, few-3)
+advmod(color-5, more-4)
+amod(variants-6, color-5)
+nsubj(great-14, variants-6)
+prep_including(variants-6, one-8)
+prep_in(one-8, White-10)
+aux(great-14, would-11)
+aux(great-14, have-12)
+cop(great-14, been-13)
+root(ROOT-0, great-14)
+

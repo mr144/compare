@@ -1,0 +1,39 @@
+=========
+
+det(phone-2, This-1)
+nsubj(got-3, phone-2)
+nsubj(come-9, phone-2)
+root(ROOT-0, got-3)
+nsubj(quick-6, here-4)
+advmod(quick-6, pretty-5)
+xcomp(got-3, quick-6)
+aux(come-9, did-8)
+conj_and(got-3, come-9)
+dobj(come-9, unlocked-10)
+
+=========
+
+nsubj(inserted-2, I-1)
+root(ROOT-0, inserted-2)
+poss(card-7, my-3)
+amod(card-7, simple-4)
+amod(card-7, mobile-5)
+nn(card-7, sim-6)
+dobj(inserted-2, card-7)
+nsubj(worked-10, it-9)
+conj_and(inserted-2, worked-10)
+advmod(fine-12, just-11)
+acomp(worked-10, fine-12)
+
+=========
+
+advmod(problem-2, Only-1)
+nsubj(is-3, problem-2)
+root(ROOT-0, is-3)
+complm(came-9, that-4)
+det(earphones-6, no-5)
+nsubj(came-9, earphones-6)
+conj_or(earphones-6, instructions-8)
+nsubj(came-9, instructions-8)
+ccomp(is-3, came-9)
+

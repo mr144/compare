@@ -1,0 +1,5 @@
+This_DT is_VBZ my_PRP$ first_JJ cell_NN phone_NN which_WDT turns_VBZ off_RP out_IN of_IN the_DT blue_NN ,_, in_IN the_DT middle_NN of_IN a_DT call_NN ,_, game_NN ,_, you_PRP name_VBP it_PRP ._.
+For_IN me_PRP it_PRP is_VBZ ridiculous_JJ that_IN you_PRP have_VBP to_TO install_VB a_DT `_`` clean_JJ '_'' version_NN of_IN the_DT OS_NNP just_RB to_TO make_VB it_PRP work_VB ._.
+And_CC ,_, instead_RB of_IN delivering_VBG the_DT Android_NNP 2.2_CD I_PRP got_VBD the_DT 2.3_CD ._.
+X_NNP which_WDT has_VBZ been_VBN known_VBN as_IN the_DT root_NN of_IN all_DT problems_NNS ._.
+I_PRP 'll_MD have_VB to_TO stick_VB to_TO this_DT piece_NN of_IN ..._: until_IN I_PRP can_MD upgrade_VB it_PRP -_: or_CC replace_VB with_IN an_DT iPhone_NN or_CC windows_NNS phone_NN ._.

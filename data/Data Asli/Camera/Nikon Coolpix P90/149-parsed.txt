@@ -1,0 +1,42 @@
+=========
+
+nsubj(point-6, This-1)
+cop(point-6, is-2)
+det(point-6, a-3)
+amod(point-6, great-4)
+amod(point-6, little-5)
+root(ROOT-0, point-6)
+nn(camera-9, shoot-8)
+conj_and(point-6, camera-9)
+
+=========
+
+nn(adequate-2, Has-1)
+nsubj(features-3, adequate-2)
+xsubj(allow-5, adequate-2)
+root(ROOT-0, features-3)
+aux(allow-5, to-4)
+xcomp(features-3, allow-5)
+iobj(allow-5, quality-6)
+iobj(allow-5, tack-8)
+conj_and(quality-6, tack-8)
+amod(pictures-10, sharp-9)
+dobj(allow-5, pictures-10)
+
+=========
+
+nsubj(weight-4, It-1)
+nsubj(provide-8, It-1)
+cop(weight-4, is-2)
+amod(weight-4, light-3)
+root(ROOT-0, weight-4)
+aux(provide-8, will-7)
+conj_and(weight-4, provide-8)
+det(back-up-11, a-9)
+amod(back-up-11, super-10)
+dobj(provide-8, back-up-11)
+poss(dslr-16, my-13)
+advmod(sophisticated-15, more-14)
+amod(dslr-16, sophisticated-15)
+prep_for(back-up-11, dslr-16)
+

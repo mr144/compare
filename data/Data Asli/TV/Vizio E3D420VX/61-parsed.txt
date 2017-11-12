@@ -1,0 +1,44 @@
+=========
+
+amod(i-4, short-1)
+conj_and(short-1, sweet-3)
+amod(i-4, sweet-3)
+nsubj(user-9, i-4)
+cop(user-9, am-5)
+det(user-9, an-6)
+amod(user-9, avid-7)
+nn(user-9, tech-8)
+root(ROOT-0, user-9)
+dep(professional-12, IT-11)
+conj_and(user-9, professional-12)
+
+=========
+
+det(TV-3, This-1)
+num(TV-3, 3D-2)
+nsubj(has-4, TV-3)
+root(ROOT-0, has-4)
+amod(picture-6, great-5)
+dobj(has-4, picture-6)
+amod(3D-9, great-8)
+dobj(has-4, 3D-9)
+conj_and(picture-6, 3D-9)
+
+=========
+
+nsubj(buy-3, I-1)
+aux(buy-3, would-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, this-4)
+advmod(buy-3, again-5)
+det(beat-9, a-7)
+nn(beat-9, heart-8)
+prep_in(buy-3, beat-9)
+
+=========
+
+nn(reception-2, WiFi-1)
+nsubj(strong-4, reception-2)
+cop(strong-4, is-3)
+root(ROOT-0, strong-4)
+

@@ -1,0 +1,7 @@
+Very_RB nice_JJ picture_NN and_CC very_RB good_JJ value_NN for_IN the_DT money_NN ._.
+Sound_NN quality_NN is_VBZ lacking_VBG ._.
+My_NNP Lenovo_NNP laptop_NN has_VBZ better_RBR sound_JJ quality_NN ._.
+I_PRP bought_VBD this_DT for_IN the_DT bedroom_NN but_CC it_PRP is_VBZ pretty_RB big_JJ for_IN bedroom_NN ._.
+I_PRP will_MD have_VB to_TO buy_VB a_DT big_JJ articulating_VBG arm_NN to_TO move_VB it_PRP out_IN of_IN the_DT way_NN ._.
+I_PRP like_VBP that_IN it_PRP has_VBZ all_DT connections_NNS and_CC controls_NNS on_IN side_NN of_IN TV_NN ._.
+A_DT lot_NN of_IN tv_NN 's_POS now_RB only_RB have_VB controls_NNS on_IN the_DT remote_JJ ._.

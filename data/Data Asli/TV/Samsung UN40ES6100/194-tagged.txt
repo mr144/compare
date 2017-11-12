@@ -1,0 +1,3 @@
+item_NN is_VBZ already_RB broken_VBN ..._: amazon_NN says_VBZ itll_NN take_VB a_DT month_NN to_TO send_VB me_PRP a_DT new_JJ one_CD ._.
+samsung_NN claims_VBZ its_PRP$ under_IN warranty_NN ,_, and_CC will_MD send_VB someone_NN out_RP to_TO fix_VB it_PRP ._.
+still_RB no_DT contact_NN from_IN said_VBD &#34;_CD authorized_JJ repair_NN center_NN &#34;_CD so_RB after_IN paying_VBG 1500_CD bucks_NNS ,_, and_CC it_PRP taking_VBG weeks_NNS to_TO be_VB delivered_VBN ,_, I_PRP think_VBP I_PRP got_VBD to_TO watch_VB it_PRP perhaps_RB 2_CD days_NNS before_IN it_PRP broke_VBD ._.

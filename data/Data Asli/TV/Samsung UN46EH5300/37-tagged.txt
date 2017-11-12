@@ -1,0 +1,42 @@
+I_PRP hardly_RB watch_VBP TV_NN at_IN all_DT ._.
+Mostly_RB the_DT 5-o'clock_JJ news_NN ,_, and_CC that_DT 's_VBZ it_PRP ._.
+But_CC I_PRP like_VBP to_TO watch_VB DVD_NNP movies_NNS that_IN these_DT days_NNS are_VBP mostly_RB in_IN wide-screen_JJ format_NN and_CC do_VBP not_RB show_VB up_RP well_RB on_IN an_DT old_JJ 27_CD &#34;_CD analog_NN set_NN ._.
+So_RB I_PRP went_VBD looking_VBG for_IN a_DT 32_CD &#34;_CD LCD_NNP TV_NN ._.
+After_IN considering_VBG all_PDT the_DT options_NNS and_CC prices_NNS ,_, combined_VBN with_IN valuable_JJ reviews_NNS by_IN users_NNS ,_, I_PRP settled_VBD on_IN this_DT Samsung_NNP TV_NN ._.
+I_PRP noticed_VBD that_IN it_PRP referred_VBD to_TO itself_PRP as_IN being_VBG &#34;_CD smart_JJ ,_, &#34;_CD but_CC not_RB knowing_VBG what_WP that_WDT meant_VBD just_RB wrote_VBD it_PRP off_RP as_IN marketing_NN hype_NN ._.
+After_IN ordering_VBG the_DT set_NN I_PRP realized_VBD that_IN it_PRP would_MD be_VB WiFi_JJ capable_JJ ,_, and_CC it_PRP intrigued_VBD me_PRP to_TO realize_VB that_IN I_PRP was_VBD getting_VBG a_DT built-in_JJ computer_NN as_RB well_RB ._.
+Not_RB that_IN I_PRP needed_VBD that_IN ,_, but_CC you_PRP never_RB know_VBP ..._: The_DT set_NN arrived_VBD promptly_RB on_IN the_DT scheduled_JJ date_NN ._.
+Setup_NN was_VBD easy_JJ and_CC after_IN plugging_VBG in_IN the_DT power_NN and_CC connecting_VBG the_DT cable_NN it_PRP played_VBD just_RB fine_JJ ._.
+The_DT picture_NN was_VBD maybe_RB not_RB as_RB great_JJ as_IN I_PRP had_VBD expected_VBN ,_, but_CC much_RB better_JJR than_IN my_PRP$ old_JJ set_NN ._.
+Later_RB that_DT evening_NN I_PRP set_VBD out_RP to_TO explore_VB the_DT new_JJ toy_NN ._.
+I_PRP had_VBD already_RB programmed_VBN the_DT available_JJ channels_NNS -LRB-_-LRB- 20-30_CD minutes_NNS -RRB-_-RRB- and_CC started_VBD looking_VBG for_IN the_DT weather_NN channel_NN ._.
+It_PRP came_VBD back_RB with_IN an_DT error_NN message_NN :_: scrambled_VBN channel_NN ._.
+Huh_VB ?_.
+Most_JJS other_JJ channels_NNS did_VBD not_RB work_VB either_RB ._.
+I_PRP called_VBD the_DT WOW_NNP !_.
+Cable_NNP help_NN people_NNS at_IN 10_CD pm_NN ._.
+I_PRP promptly_RB got_VBD an_DT assistant_NN ,_, but_CC after_IN trying_VBG all_DT kinds_NNS of_IN suggestions_NNS ,_, nothing_NN worked_VBD ._.
+Took_VBD 2_CD aspirins_NNS and_CC called_VBD back_RB in_IN the_DT morning_NN ._.
+Same_JJ scenario_NN ,_, so_IN I_PRP was_VBD scheduled_VBN for_IN a_DT visit_NN by_IN a_DT technician_NN ._.
+I_PRP was_VBD worried_VBN that_IN the_DT set_NN had_VBD a_DT bad_JJ tuner_NN and_CC would_MD have_VB to_TO be_VB returned_VBN ,_, although_IN Amazoin_NNP would_MD have_VB made_VBN that_IN as_RB easy_JJ as_IN possible_JJ ._.
+The_DT technician_NN showed_VBD up_RP on_IN time_NN and_CC walked_VBD in_IN the_DT door_NN with_IN a_DT plasticized_JJ card_NN with_IN cable_NN numbers_NNS in_IN his_PRP$ hand_NN ._.
+He_PRP knew_VBD the_DT problem_NN before_IN he_PRP arrived_VBD :_: changing_VBG from_IN the_DT old_JJ analog_NN TV_NN with_IN a_DT cable_NN D\/A_NNP converter_NN to_TO a_DT direct_JJ cable_NN connection_NN resulted_VBD in_IN different_JJ cable_NN numbers_NNS !_.
+Problem_NNP solved_VBD ._.
+While_IN he_PRP was_VBD there_RB ,_, the_DT technician_NN checked_VBD my_PRP$ connections_NNS and_CC that_DT was_VBD that_DT ._.
+Now_RB the_DT picture_NN quality_NN was_VBD true_JJ digital_JJ HD_NNP and_CC absolutely_RB marvelous_JJ ._.
+Beyond_IN my_PRP$ best_JJS expectations_NNS ._.
+So_RB why_WRB the_DT 4_CD stars_NNS ?_.
+In_IN short_JJ ,_, because_IN of_IN the_DT limited_JJ features_NNS of_IN the_DT remote_JJ control_NN that_WDT make_VBP using_VBG the_DT Internet_NNP features_NNS of_IN the_DT set_NN a_DT torture_VBP ._.
+After_IN familiarizing_VBG myself_PRP with_IN the_DT set_NN ,_, I_PRP connected_VBD it_PRP to_TO my_PRP$ old_JJ Netgear_NNP 802.11_CD g_NN type_NN router_NN ._.
+I_PRP had_VBD been_VBN using_VBG the_DT older_JJR WEP_NNP security_NN protocol_NN -_: good_JJ enough_RB for_IN my_PRP$ purpose_NN ._.
+Its_PRP$ problem_NN is_VBZ that_IN it_PRP uses_VBZ a_DT long_JJ string_NN of_IN hexadecimal_JJ numbers_NNS ,_, based_VBN on_IN a_DT pass_NN phrase_NN that_IN the_DT router_NN understands_VBZ ,_, but_CC none_NN of_IN the_DT peripherals_NNS do_VBP ,_, Entering_VBG all_PDT those_DT letters_NNS and_CC numbers_NNS from_IN an_DT on-screen_JJ keyboard_NN ,_, without_IN errors_NNS ,_, using_VBG the_DT TV_NN 's_POS remote_JJ control_NN was_VBD torture_VB ._.
+I_PRP finally_RB got_VBD it_PRP to_TO work_VB ._.
+After_IN touching_VBG the_DT &#34;_CD Smart_NNP &#34;_CD button_NN ,_, a_DT screen_NN popped_VBD up_RP with_IN all_DT sorts_NNS of_IN Apps_NNS useful_JJ in_IN the_DT TV_NN context_NN ,_, such_JJ as_IN Netflix_NNP ._.
+Getting_VBG around_RB on_IN it_PRP with_IN the_DT minimal_JJ remote_JJ controls_NNS is_VBZ painful_JJ ._.
+One_CD helpful_JJ hint_NN :_: you_PRP can_MD connect_VB a_DT keyboard_NN and_CC mouse_NN to_TO USB_NNP ports_NNS that_WDT are_VBP hidden_VBN behind_IN the_DT right-hand_JJ rim_NN of_IN the_DT screen_NN ,_, helpful_JJ with_IN the_DT Browser_NNP App_NNP ._.
+The_DT set_NN comes_VBZ with_IN the_DT usual_JJ minimal_JJ printed_VBN manual_NN ,_, and_CC refers_VBZ you_PRP to_TO the_DT electronic_JJ e-manual_NN for_IN more_JJR instructions_NNS ._.
+It_PRP is_VBZ helpful_JJ ,_, if_IN you_PRP can_MD find_VB what_WP you_PRP need_VBP ._.
+It_PRP has_VBZ an_DT index_NN that_IN you_PRP access_VBP by_IN pressing_VBG the_DT 'D_NNP '_POS function_NN key_NN on_IN the_DT remote_JJ ._.
+Than_IN you_PRP can_MD scroll_VB through_IN the_DT alphabet_NN and_CC hope_NN to_TO find_VB what_WP you_PRP need_VBP ._.
+I_PRP finally_RB downloaded_VBD the_DT manual_NN as_IN a_DT pdf_NN from_IN the_DT support_NN section_NN of_IN the_DT Samsung_NNP Web_NNP site_NN ._.
+In_IN summary_NN :_: great_JJ TV_NN set_NN ,_, useful_JJ WiFi_JJ connectabiliy_NN to_TO download_VB movies_NNS or_CC so_RB ,_, but_CC forget_VB using_VBG the_DT browser_NN for_IN email_NN or_CC such_JJ ._.

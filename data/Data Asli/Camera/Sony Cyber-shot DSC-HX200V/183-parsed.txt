@@ -1,0 +1,80 @@
+=========
+
+root(ROOT-0, Bought-1)
+aux(take-3, to-2)
+xcomp(Bought-1, take-3)
+nn(pictures-5, backyard-4)
+dobj(take-3, pictures-5)
+prep_of(pictures-5, birds-7)
+
+=========
+
+nsubj(needed-2, I-1)
+root(ROOT-0, needed-2)
+dobj(needed-2, something-3)
+nsubj(catch-6, something-3)
+aux(catch-6, would-5)
+rcmod(something-3, catch-6)
+det(bird-10, a-7)
+number(&#34;-9, 3-8)
+num(bird-10, &#34;-9)
+dobj(catch-6, bird-10)
+prep_from(catch-6, 50-12)
+
+=========
+
+det(camera-2, This-1)
+nsubj(do-4, camera-2)
+aux(do-4, will-3)
+root(ROOT-0, do-4)
+dobj(do-4, that-5)
+dobj(do-4, more-7)
+conj_and(that-5, more-7)
+
+=========
+
+nsubj(impressed-5, I-1)
+aux(impressed-5, have-2)
+cop(impressed-5, been-3)
+advmod(impressed-5, super-4)
+root(ROOT-0, impressed-5)
+amod(pictures-8, indoor-7)
+prep_with(impressed-5, pictures-8)
+det(flash-11, a-10)
+prep_without(impressed-5, flash-11)
+
+=========
+
+det(camera-2, This-1)
+nsubj(does-3, camera-2)
+root(ROOT-0, does-3)
+amod(things-5, more-4)
+dobj(does-3, things-5)
+advmod(does-3, automatically-6)
+mark(understand-11, than-7)
+nsubj(understand-11, I-8)
+aux(understand-11, will-9)
+advmod(understand-11, ever-10)
+advcl(does-3, understand-11)
+csubj('s-17, resulting-13)
+amod(pic-16, super-15)
+prep_in(resulting-13, pic-16)
+parataxis(does-3, 's-17)
+amod(circumstances-20, unusual-19)
+prep_under('s-17, circumstances-20)
+
+=========
+
+num(friends-2, Three-1)
+nsubj(bought-4, friends-2)
+aux(bought-4, have-3)
+root(ROOT-0, bought-4)
+det(camera-6, this-5)
+dobj(bought-4, camera-6)
+prepc_after(bought-4, seeing-8)
+dobj(do-13, what-9)
+det(camera-11, this-10)
+nsubj(do-13, camera-11)
+aux(do-13, can-12)
+ccomp(seeing-8, do-13)
+

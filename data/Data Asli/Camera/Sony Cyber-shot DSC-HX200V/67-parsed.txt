@@ -1,0 +1,40 @@
+=========
+
+root(ROOT-0, Purchased-1)
+dobj(Purchased-1, this-2)
+poss(wife-5, my-4)
+prep_for(this-2, wife-5)
+
+=========
+
+nsubj(loves-2, She-1)
+root(ROOT-0, loves-2)
+dobj(loves-2, it-3)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+dobj(picture-2, quality-3)
+
+=========
+
+amod(quality-3, Great-1)
+nn(quality-3, video-2)
+root(ROOT-0, quality-3)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+
+=========
+
+amod(price-2, Great-1)
+root(ROOT-0, price-2)
+prep_for(price-2, cost-4)
+advmod(price-2, too-5)
+

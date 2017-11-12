@@ -1,0 +1,5 @@
+Love_NNP the_DT set_NN ._.
+Price_NN was_VBD right_JJ and_CC easy_JJ to_TO setup_NN ._.
+Great_JJ picture_NN quality_NN ._.
+Specs_NNS on_IN Amazon_NNP said_VBD 60mhz_CD but_CC the_DT set_NN was_VBD actually_RB 120mhz_CD which_WDT is_VBZ even_RB better_RBR than_IN sony_JJ or_CC sharp_JJ ._.
+If_IN you_PRP have_VBP a_DT need\/space_NN for_IN a_DT 32_CD &#34;_CD set_NN you_PRP can_MD not_RB go_VB wrong_JJ with_IN this_DT one_CD !_.

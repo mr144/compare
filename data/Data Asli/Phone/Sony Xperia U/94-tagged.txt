@@ -1,0 +1,4 @@
+I_PRP have_VBP had_VBN this_DT phone_NN for_IN a_DT month_NN and_CC so_RB far_RB so_RB good_JJ ._.
+Everything_NN as_IN expected_VBN from_IN the_DT description_NN ._.
+If_IN there_EX is_VBZ something_NN I_PRP do_VBP not_RB like_VB is_VBZ battery_NN duration_NN ,_, if_IN used_VBN for_IN internet_NN sometimes_RB it_PRP does_VBZ not_RB even_RB make_VB to_TO evening_NN ,_, so_IN it_PRP needs_VBZ recharging_VBG during_IN the_DT day_NN ._.
+What_WP I_PRP like_VBP most_RBS is_VBZ the_DT light_NN -_: very_RB fancy_JJ ._.

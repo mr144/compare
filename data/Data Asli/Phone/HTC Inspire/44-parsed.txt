@@ -1,0 +1,53 @@
+=========
+
+nsubj(keep-3, i-1)
+advmod(keep-3, just-2)
+root(ROOT-0, keep-3)
+det(battery-6, an-4)
+amod(battery-6, extra-5)
+dobj(keep-3, battery-6)
+partmod(battery-6, charged-7)
+prt(charged-7, up-8)
+nsubj(switch-11, i-10)
+conj_and(keep-3, switch-11)
+det(batteries-14, the-12)
+num(batteries-14, two-13)
+dobj(switch-11, batteries-14)
+advmod(switch-11, daily-15)
+
+=========
+
+poss(charger-2, my-1)
+nsubj(seem-5, charger-2)
+xsubj(work-7, charger-2)
+aux(seem-5, does-3)
+neg(seem-5, not-4)
+root(ROOT-0, seem-5)
+aux(work-7, to-6)
+xcomp(seem-5, work-7)
+advmod(work-7, well-8)
+dep(seem-5, takes-10)
+advmod(takes-10, forever-11)
+
+=========
+
+csubj(works-4, charging-1)
+det(batteries-3, the-2)
+dobj(charging-1, batteries-3)
+root(ROOT-0, works-4)
+advmod(faster-6, much-5)
+dep(works-4, faster-6)
+
+=========
+
+advmod(has-3, otherwise-1)
+nsubj(has-3, phone-2)
+root(ROOT-0, has-3)
+dobj(has-3, lots-4)
+amod(things-7, neat-6)
+prep_of(lots-4, things-7)
+amod(screen-11, big-9)
+amod(screen-11, beautiful-10)
+prep_of(lots-4, screen-11)
+conj_and(things-7, screen-11)
+

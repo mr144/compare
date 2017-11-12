@@ -1,0 +1,72 @@
+=========
+
+nsubj(bought-2, I-1)
+ccomp(got-9, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+prep_on(bought-2, sale-6)
+nsubj(got-9, Amazon-8)
+root(ROOT-0, got-9)
+det(price-12, the-10)
+amod(price-12, best-11)
+dobj(got-9, price-12)
+
+=========
+
+dobj(received-4, First-1)
+nsubjpass(damaged-6, First-1)
+num(First-1, one-2)
+nsubj(received-4, I-3)
+rcmod(First-1, received-4)
+auxpass(damaged-6, was-5)
+ccomp(has-8, damaged-6)
+root(ROOT-0, has-8)
+det(shadow-10, a-9)
+dobj(has-8, shadow-10)
+det(corner-15, the-12)
+amod(corner-15, upper-13)
+amod(corner-15, left-14)
+prep_on(shadow-10, corner-15)
+number(&#34;-17, 10-16)
+num(x10-18, &#34;-17)
+dep(has-8, x10-18)
+npadvmod(big-20, &#34;-19)
+amod(x10-18, big-20)
+
+=========
+
+nsubj(return-2, I-1)
+root(ROOT-0, return-2)
+dobj(return-2, it-3)
+advmod(away-5, right-4)
+advmod(return-2, away-5)
+dep(received-10, second-7)
+dep(second-7, one-8)
+nsubj(received-10, I-9)
+dep(return-2, received-10)
+cop(good-12, is-11)
+ccomp(received-10, good-12)
+
+=========
+
+nsubj(clear-4, Pictures-1)
+nsubj(vivid-6, Pictures-1)
+cop(clear-4, are-2)
+advmod(clear-4, so-3)
+root(ROOT-0, clear-4)
+conj_and(clear-4, vivid-6)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-6, this-3)
+advmod(expensive-5, more-4)
+amod(TV-6, expensive-5)
+dobj(bought-2, TV-6)
+det(feature-10, the-8)
+amod(feature-10, internet-9)
+prep_for(bought-2, feature-10)
+advmod(useful-13, very-12)
+dep(bought-2, useful-13)
+

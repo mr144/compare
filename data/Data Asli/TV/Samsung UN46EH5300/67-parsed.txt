@@ -1,0 +1,115 @@
+=========
+
+nn(EXCEPT-7, WHAT-1)
+nn(EXCEPT-7, CAN-2)
+nn(EXCEPT-7, YOU-3)
+nn(EXCEPT-7, SAY-4)
+nn(EXCEPT-7, ABOUT-5)
+nn(EXCEPT-7, SAMSUNG-6)
+nsubj(EXCELLENCE-8, EXCEPT-7)
+root(ROOT-0, EXCELLENCE-8)
+
+=========
+
+nsubj(HAVE-2, I-1)
+root(ROOT-0, HAVE-2)
+nn(PICTURE-7, NEVER-3)
+nn(PICTURE-7, SEEN-4)
+nn(PICTURE-7, A-5)
+nn(PICTURE-7, BETTER-6)
+dobj(HAVE-2, PICTURE-7)
+
+=========
+
+nsubj(CLEAR-4, IT-1)
+cop(CLEAR-4, 'S-2)
+nn(CLEAR-4, INCREDIBLY-3)
+root(ROOT-0, CLEAR-4)
+conj_and(CLEAR-4, VIBRANT-6)
+
+=========
+
+nsubj(WOULD-2, I-1)
+root(ROOT-0, WOULD-2)
+nn(LG-4, SAY-3)
+nsubj(SECOND-8, LG-4)
+cop(SECOND-8, IS-5)
+det(SECOND-8, A-6)
+nn(SECOND-8, CLOSE-7)
+ccomp(WOULD-2, SECOND-8)
+
+=========
+
+nsubj(BOTHER-4, I-1)
+aux(BOTHER-4, WOULD-2)
+neg(BOTHER-4, N'T-3)
+root(ROOT-0, BOTHER-4)
+nn(BRANDS-8, ANY-6)
+nn(BRANDS-8, OTHER-7)
+prep_with(BOTHER-4, BRANDS-8)
+
+=========
+
+nsubj(HAVE-2, I-1)
+ccomp(NEVER-15, HAVE-2)
+nn(INSTANCES-6, HEARD-3)
+nn(INSTANCES-6, ABOUT-4)
+nn(INSTANCES-6, ISOLATED-5)
+dobj(HAVE-2, INSTANCES-6)
+det(TV-9, THE-8)
+prep_with(HAVE-2, TV-9)
+possessive(TV-9, 'S-10)
+nn(IT-13, BUT-12)
+nsubj(NEVER-15, IT-13)
+aux(NEVER-15, 'S-14)
+root(ROOT-0, NEVER-15)
+det(BOARD-20, AN-16)
+nn(BOARD-20, ISSUE-17)
+nn(BOARD-20, ACROSS-18)
+nn(BOARD-20, THE-19)
+dobj(NEVER-15, BOARD-20)
+
+=========
+
+num(YEARS-2, 5-1)
+nsubj(REDUCE-8, YEARS-2)
+nn(THEY-6, FROM-3)
+nn(THEY-6, NOW-4)
+dep(YEARS-2, THEY-6)
+aux(REDUCE-8, WILL-7)
+dep(PLUS-35, REDUCE-8)
+det(PRICE-10, THE-9)
+dobj(REDUCE-8, PRICE-10)
+det(MODELS-14, THE-12)
+nn(MODELS-14, LATEST-13)
+prep_of(PRICE-10, MODELS-14)
+nsubj(LESS-26, I.E.-16)
+nn(LED-20, FULL-18)
+nn(LED-20, ARRAY-19)
+appos(I.E.-16, LED-20)
+num(RATE-24, 240HZ-22)
+nn(RATE-24, REFRESH-23)
+appos(LED-20, RATE-24)
+parataxis(REDUCE-8, LESS-26)
+num(INPUTS-34, .5-28)
+nn(INPUTS-34, INCH-29)
+nn(INPUTS-34, THICKNESS-30)
+num(INPUTS-34, 6-32)
+nn(INPUTS-34, HDMI-33)
+prep_than(LESS-26, INPUTS-34)
+root(ROOT-0, PLUS-35)
+det(OUTPUTS-38, A-36)
+nn(OUTPUTS-38, FEW-37)
+nsubj(PLUS-35, OUTPUTS-38)
+appos(OUTPUTS-38, ETC.-40)
+
+=========
+
+nn(THIS-4, UNTIL-1)
+nn(THIS-4, THEN-2)
+nsubj(SERVE-6, THIS-4)
+aux(SERVE-6, WILL-5)
+root(ROOT-0, SERVE-6)
+det(PURPOSE-8, THE-7)
+dobj(SERVE-6, PURPOSE-8)
+

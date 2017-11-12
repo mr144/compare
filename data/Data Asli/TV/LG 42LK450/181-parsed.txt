@@ -1,0 +1,26 @@
+=========
+
+dep(looking-5, Just-1)
+dep(Just-1, what-2)
+nsubj(looking-5, I-3)
+aux(looking-5, was-4)
+dep(wonderful-14, looking-5)
+acomp(looking-5, for-6)
+det(color-9, the-8)
+acomp(looking-5, color-9)
+conj_and(for-6, color-9)
+amod(etc-12, sound-11)
+nsubj(wonderful-14, etc-12)
+cop(wonderful-14, is-13)
+root(ROOT-0, wonderful-14)
+
+=========
+
+det(bit-2, Every-1)
+dep(good-4, bit-2)
+advmod(good-4, as-3)
+root(ROOT-0, good-4)
+poss(plasma-8, my-6)
+nn(plasma-8, Panasonic-7)
+prep_as(good-4, plasma-8)
+

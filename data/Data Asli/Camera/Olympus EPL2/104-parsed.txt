@@ -1,0 +1,97 @@
+=========
+
+root(ROOT-0, Resuming-1)
+det(purchase-5, a-3)
+amod(purchase-5, good-4)
+dep(Resuming-1, purchase-5)
+
+=========
+
+nn(Olympus-2, Again-1)
+nsubj(get-3, Olympus-2)
+root(ROOT-0, get-3)
+nsubj(feeling-5, me-4)
+dep(get-3, feeling-5)
+nsubj(paid-7, I-6)
+nsubj(get-12, I-6)
+ccomp(feeling-5, paid-7)
+det(price-10, a-8)
+amod(price-10, fair-9)
+dobj(paid-7, price-10)
+ccomp(feeling-5, get-12)
+conj_and(paid-7, get-12)
+advmod(value-15, bit-13)
+amod(value-15, more-14)
+dobj(get-12, value-15)
+det(price-18, the-17)
+prep_for(value-15, price-18)
+
+=========
+
+nsubj(used-3, I-1)
+aux(used-3, have-2)
+root(ROOT-0, used-3)
+amod(compacts-5, many-4)
+dobj(used-3, compacts-5)
+advmod(a-9, recently-8)
+nsubj(owned-11, a-9)
+aux(owned-11, have-10)
+conj_and(used-3, owned-11)
+det(D5000-13, a-12)
+dobj(owned-11, D5000-13)
+prep_from(owned-11, Nikon-15)
+nsubjpass(stolen-20, Nikon-15)
+aux(stolen-20, has-18)
+auxpass(stolen-20, been-19)
+rcmod(Nikon-15, stolen-20)
+
+=========
+
+det(picture-3, The-1)
+amod(picture-3, general-2)
+nsubj(good-6, picture-3)
+cop(good-6, is-4)
+advmod(good-6, very-5)
+root(ROOT-0, good-6)
+conj_and(good-6, in-9)
+det(cases-11, some-10)
+prep_in(good-6, cases-11)
+amod(cases-11, superior-12)
+aux(D5000-14, to-13)
+xcomp(superior-12, D5000-14)
+poss(point-17, my-16)
+prep_from(D5000-14, point-17)
+prep_of(point-17, view-19)
+advmod(D5000-14, specially-21)
+nn(saturation-26, sharpness-23)
+conj_and(sharpness-23, color-25)
+nn(saturation-26, color-25)
+prep_in(D5000-14, saturation-26)
+
+=========
+
+nsubj(easy-4, Controls-1)
+nsubj(near-7, Controls-1)
+nsubj(usable-17, Controls-1)
+cop(easy-4, are-2)
+advmod(easy-4, somewhat-3)
+root(ROOT-0, easy-4)
+conj_but(easy-4, near-7)
+det(compact-10, a-9)
+prep_to(near-7, compact-10)
+det(DSLR-13, a-12)
+prep_than(compact-10, DSLR-13)
+advmod(usable-17, very-16)
+conj_but(easy-4, usable-17)
+conj_but(easy-4, powerful-19)
+conj_and(usable-17, powerful-19)
+
+=========
+
+det(camera-2, This-1)
+nsubj(recommendable-6, camera-2)
+cop(recommendable-6, is-3)
+advmod(recommendable-6, overall-4)
+advmod(recommendable-6, very-5)
+root(ROOT-0, recommendable-6)
+

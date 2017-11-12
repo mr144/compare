@@ -1,0 +1,4 @@
+Great_JJ feelings_NNS ._.
+Smartphone_NNP Box_NNP ,_, Body_NNP ,_, screen_NN ,_, weight_NN ,_, led_VBD bar_NN ,_, speaker_NN sound_NN ._.
+Great_JJ screen_NN resolution_NN ._.
+Sony_NNP TimeScape_NNP UI_NNP +_NNP WalkmanPlay_NNP on_IN Device_NNP -LRB-_-LRB- via_IN DLNA_NNP on_IN my_PRP$ WDTV_NNP ,_, nice_JJ to_TO view_VB picture_NN with_IN my_PRP$ kids_NNS -RRB-_-RRB- GingerBread_NNP is_VBZ good_JJ but_CC ICS_NNP it_PRP is_VBZ Great_JJ -LRB-_-LRB- Data_NNP control_NN ,_, face_NN unlock_VBP ,_, delay_VBP to_TO lock_VB phone_NN ,_, intuitive_JJ menus_NNS ,_, etc_FW ,_, -RRB-_-RRB- Support_NN USB_NNP OTG_NNP -LRB-_-LRB- do_VBP not_RB care_VB about_IN microsd_NN slot_NN missing_VBG -RRB-_-RRB-

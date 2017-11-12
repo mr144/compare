@@ -1,0 +1,18 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nn(X500-BK-4, GE-1)
+nn(X500-BK-4, Power-2)
+nn(X500-BK-4, Pro-3)
+root(ROOT-0, X500-BK-4)
+num(MP-6, 16-5)
+dep(X500-BK-4, MP-6)
+prep_with(MP-6, 15-8)
+dep(X500-BK-4, x-9)
+nn(Camera-13, Optical-10)
+nn(Camera-13, Zoom-11)
+nn(Camera-13, Digital-12)
+dep(x-9, Camera-13)
+appos(X500-BK-4, Black-15)
+

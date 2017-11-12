@@ -1,0 +1,53 @@
+=========
+
+ccomp(love-8, love-1)
+det(phone-3, the-2)
+dobj(love-1, phone-3)
+advmod(love-8, just-5)
+aux(love-8, do-6)
+neg(love-8, not-7)
+root(ROOT-0, love-8)
+det(charger-10, the-9)
+dobj(love-8, charger-10)
+
+=========
+
+root(ROOT-0, prob-1)
+mark(work-6, because-2)
+nsubj(work-6, it-3)
+aux(work-6, does-4)
+neg(work-6, not-5)
+dep(prob-1, work-6)
+
+=========
+
+det(kind-2, that-1)
+dep(present-10, kind-2)
+prep_of(kind-2, suck-4)
+mark(present-10, as-5)
+nsubj(present-10, it-6)
+cop(present-10, was-7)
+det(present-10, a-8)
+amod(present-10, xmas-9)
+root(ROOT-0, present-10)
+det(friend-13, a-12)
+prep_for(present-10, friend-13)
+nsubj(charge-17, they-15)
+advmod(charge-17, cant-16)
+conj_and(present-10, charge-17)
+poss(phone-19, their-18)
+dobj(charge-17, phone-19)
+
+=========
+
+nsubj(cost-5, this-1)
+cop(cost-5, is-2)
+det(cost-5, an-3)
+amod(cost-5, additional-4)
+root(ROOT-0, cost-5)
+complm(expect-10, that-6)
+nsubj(expect-10, i-7)
+aux(expect-10, did-8)
+neg(expect-10, not-9)
+ccomp(cost-5, expect-10)
+

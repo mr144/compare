@@ -1,0 +1,55 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(camera-4, my-3)
+dobj(love-2, camera-4)
+
+=========
+
+det(issues-2, No-1)
+root(ROOT-0, issues-2)
+prep_with(issues-2, batteries-4)
+prep_with(issues-2, anything-7)
+conj_or(batteries-4, anything-7)
+advmod(anything-7, else-8)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(shape-4, the-3)
+dobj(love-2, shape-4)
+det(camera-7, the-6)
+prep_of(shape-4, camera-7)
+advmod(love-2, also-8)
+
+=========
+
+prep_at(sure-6, first-2)
+nsubj(sure-6, I-3)
+cop(sure-6, was-4)
+neg(sure-6, not-5)
+root(ROOT-0, sure-6)
+mark(would-9, if-7)
+nsubj(would-9, I-8)
+advcl(sure-6, would-9)
+nsubj(turned-12, it-11)
+xsubj(great-17, it-11)
+conj_but(sure-6, turned-12)
+prt(turned-12, out-13)
+aux(great-17, to-14)
+cop(great-17, be-15)
+advmod(great-17, really-16)
+xcomp(turned-12, great-17)
+
+=========
+
+nsubj(would-2, I-1)
+root(ROOT-0, would-2)
+num(%-4, 100-3)
+dobj(would-2, %-4)
+dep(would-2, recommend-5)
+det(camera-7, this-6)
+dobj(recommend-5, camera-7)
+

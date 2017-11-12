@@ -1,0 +1,26 @@
+=========
+
+nsubj(able-5, I-1)
+aux(able-5, have-2)
+neg(able-5, never-3)
+cop(able-5, been-4)
+root(ROOT-0, able-5)
+aux(take-7, to-6)
+xcomp(able-5, take-7)
+amod(photos-9, good-8)
+dobj(take-7, photos-9)
+prep(able-5, until-11)
+pobj(until-11, now-12)
+
+=========
+
+amod(pictures-2, Great-1)
+root(ROOT-0, pictures-2)
+amod(pictures-2, easy-4)
+conj_and(pictures-2, easy-4)
+aux(use-6, to-5)
+xcomp(easy-4, use-6)
+amod(pictures-2, lightweight-8)
+conj_and(pictures-2, lightweight-8)
+conj_and(pictures-2, FUN-11)
+

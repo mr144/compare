@@ -1,0 +1,23 @@
+=========
+
+root(ROOT-0, Liked-1)
+dobj(Liked-1, it-2)
+advmod(much-4, so-3)
+advmod(Liked-1, much-4)
+dep(bought-7, that-5)
+nsubj(bought-7, I-6)
+ccomp(much-4, bought-7)
+nsubj(buying-15, 3-8)
+amod(use-11, personal-10)
+prep_for(3-8, use-11)
+aux(buying-15, will-13)
+aux(buying-15, be-14)
+ccomp(bought-7, buying-15)
+det(more-18, a-16)
+amod(more-18, few-17)
+dobj(buying-15, more-18)
+poss(monitors-23, my-20)
+nn(monitors-23, surveillance-21)
+nn(monitors-23, system-22)
+prep_for(buying-15, monitors-23)
+

@@ -1,0 +1,29 @@
+=========
+
+nn(llego-2, Todo-1)
+root(ROOT-0, llego-2)
+det(problema-8, a-3)
+nn(problema-8, tiempo-4)
+nn(problema-8, y-5)
+nn(problema-8, sin-6)
+nn(problema-8, ning&uacute;n-7)
+dep(llego-2, problema-8)
+
+=========
+
+nn(con-4, Que-1)
+nn(con-4, bueno-2)
+nn(con-4, contar-3)
+root(ROOT-0, con-4)
+nn(bueno-8, alguien-5)
+nn(bueno-8, confiable-6)
+nn(bueno-8, y-7)
+dep(con-4, bueno-8)
+
+=========
+
+number(%-2, 100-1)
+amod(recomendado-3, %-2)
+root(ROOT-0, recomendado-3)
+dep(recomendado-3, D-5)
+

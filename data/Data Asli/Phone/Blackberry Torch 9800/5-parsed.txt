@@ -1,0 +1,37 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(fact-4, that-3)
+dobj(like-2, fact-4)
+complm(have-7, that-5)
+nsubj(have-7, I-6)
+ccomp(like-2, have-7)
+num(possibilities-10, two-8)
+nn(possibilities-10, input-9)
+dobj(have-7, possibilities-10)
+det(keyboard-14, a-12)
+nn(keyboard-14, Qwerty-13)
+dep(possibilities-10, keyboard-14)
+det(screen-18, the-16)
+nn(screen-18, touch-17)
+dep(possibilities-10, screen-18)
+conj_and(keyboard-14, screen-18)
+
+=========
+
+det(functionalities-3, some-2)
+prep_for(faster-8, functionalities-3)
+det(screen-6, the-4)
+nn(screen-6, touch-5)
+nsubj(faster-8, screen-6)
+cop(faster-8, is-7)
+root(ROOT-0, faster-8)
+det(others-12, some-11)
+prep_for(preferrable-17, others-12)
+det(keyboard-15, the-13)
+amod(keyboard-15, qwerty-14)
+nsubj(preferrable-17, keyboard-15)
+cop(preferrable-17, is-16)
+conj_and(faster-8, preferrable-17)
+

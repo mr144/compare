@@ -1,0 +1,6 @@
+Picture_NNP quality_NN is_VBZ amazing_JJ n_NN sharp_JJ ._.
+Size_NN is_VBZ a_DT little_RB disappointing_JJ because_IN I_PRP thought_VBD it_PRP did_VBD be_VB bigger_JJR ._.
+Love_NNP the_DT smart_JJ tv_NN function_NN ._.
+Amazon_NNP also_RB gave_VBD me_PRP a_DT refund_NN because_IN the_DT price_NN went_VBD down_RB two_CD days_NNS after_IN I_PRP purchased_VBD it_PRP ._.
+That_DT 's_VBZ awesome_JJ !_.
+Worth_JJ buying_NN if_IN you_PRP do_VBP not_RB mind_VB it_PRP not_RB being_VBG theater_NN size_NN ._.

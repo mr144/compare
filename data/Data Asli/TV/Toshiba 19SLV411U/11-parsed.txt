@@ -1,0 +1,137 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+poss(son-7, my-6)
+prep_for(TV-4, son-7)
+dep(son-7, Christmas-8)
+num(Christmas-8, 2011-9)
+dobj(bought-2, it-11)
+conj_and(TV-4, it-11)
+aux(working-14, is-12)
+neg(working-14, not-13)
+rcmod(it-11, working-14)
+advmod(working-14, anymore-15)
+
+=========
+
+nsubj(did-2, It-1)
+root(ROOT-0, did-2)
+neg(last-5, not-3)
+advmod(last-5, even-4)
+dobj(did-2, last-5)
+det(year-7, a-6)
+tmod(did-2, year-7)
+
+=========
+
+det(picture-2, The-1)
+nsubj(went-3, picture-2)
+nsubj(had-7, picture-2)
+root(ROOT-0, went-3)
+prt(went-3, out-4)
+advmod(went-3, still-6)
+conj_but(went-3, still-6)
+conj_but(went-3, had-7)
+dobj(had-7, sound-8)
+
+=========
+
+nsubj(disconnected-2, I-1)
+root(ROOT-0, disconnected-2)
+dobj(disconnected-2, it-3)
+advmod(turned-7, when-5)
+nsubj(turned-7, I-6)
+advcl(gone-14, turned-7)
+dobj(turned-7, it-8)
+prep(turned-7, on-9)
+det(sound-12, the-11)
+nsubjpass(gone-14, sound-12)
+auxpass(gone-14, was-13)
+conj_and(disconnected-2, gone-14)
+dep(&-16, too-15)
+dep(shut-19, &-16)
+nsubj(shut-19, it-17)
+aux(shut-19, would-18)
+ccomp(gone-14, shut-19)
+dobj(shut-19, itself-20)
+prt(shut-19, off-21)
+
+=========
+
+det(technicians-2, The-1)
+nsubj(helpful-4, technicians-2)
+cop(helpful-4, were-3)
+root(ROOT-0, helpful-4)
+det(problem-7, the-6)
+nsubjpass(resolved-10, problem-7)
+auxpass(resolved-10, was-8)
+neg(resolved-10, NOT-9)
+conj_but(helpful-4, resolved-10)
+
+=========
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+prep_under(is-2, warranty-4)
+advmod(have-9, now-7)
+nsubj(have-9, I-8)
+xsubj(pay-11, I-8)
+conj_but(is-2, have-9)
+aux(pay-11, to-10)
+xcomp(have-9, pay-11)
+prepc_for(pay-11, shipping-13)
+aux(get-15, to-14)
+xcomp(shipping-13, get-15)
+nsubj(repaired-17, it-16)
+dep(get-15, repaired-17)
+
+=========
+
+advmod(have-4, Why-1)
+aux(have-4, should-2)
+nsubj(have-4, I-3)
+xsubj(pay-6, I-3)
+root(ROOT-0, have-4)
+aux(pay-6, to-5)
+xcomp(have-4, pay-6)
+det(product-10, a-8)
+amod(product-10, defective-9)
+prep_for(pay-6, product-10)
+
+=========
+
+nsubj(have-3, We-1)
+advmod(have-3, also-2)
+root(ROOT-0, have-3)
+det(JVC-5, a-4)
+dobj(have-3, JVC-5)
+det(TV-9, a-7)
+nn(TV-9, Sony-8)
+dobj(have-3, TV-9)
+conj_and(JVC-5, TV-9)
+nsubj(given-13, TV-9)
+aux(given-13, have-11)
+neg(given-13, NEVER-12)
+rcmod(TV-9, given-13)
+iobj(given-13, us-14)
+det(problems-16, any-15)
+dobj(given-13, problems-16)
+nsubj(had-20, we-18)
+aux(had-20, have-19)
+conj_and(have-3, had-20)
+dobj(had-20, them-21)
+amod(years-24, many-23)
+prep_for(had-20, years-24)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+neg(recommend-4, NOT-3)
+root(ROOT-0, recommend-4)
+det(Toshiba-6, a-5)
+dobj(recommend-4, Toshiba-6)
+

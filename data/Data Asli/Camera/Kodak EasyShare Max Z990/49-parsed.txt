@@ -1,0 +1,62 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(Z990-6, a-3)
+nn(Z990-6, refurbished-4)
+nn(Z990-6, Kodak-5)
+dobj(purchased-2, Z990-6)
+det(gift-9, a-8)
+prep_as(purchased-2, gift-9)
+
+=========
+
+nsubj(arrived-2, It-1)
+root(ROOT-0, arrived-2)
+advmod(arrived-2, quickly-3)
+amod(condition-7, good-6)
+prep_in(arrived-2, condition-7)
+
+=========
+
+det(recipient-2, The-1)
+nsubj(loves-3, recipient-2)
+ccomp(camera-10, loves-3)
+dobj(loves-3, it-4)
+nsubj(camera-10, it-6)
+cop(camera-10, is-7)
+det(camera-10, a-8)
+amod(camera-10, good-9)
+root(ROOT-0, camera-10)
+rcmod(camera-10, especially-12)
+dep(especially-12, for-13)
+pobj(for-13, outdoors-14)
+
+=========
+
+det(batteries-2, The-1)
+nsubj(great-6, batteries-2)
+cop(great-6, are-3)
+neg(great-6, not-4)
+advmod(great-6, so-5)
+root(ROOT-0, great-6)
+advmod(used-10, also-8)
+advmod(used-10, apparently-9)
+ccomp(great-6, used-10)
+nsubj(get-15, we-13)
+aux(get-15, can-14)
+conj_but(great-6, get-15)
+amod(ones-17, new-16)
+dobj(get-15, ones-17)
+
+=========
+
+nsubj(wish-5, Happy-1)
+prep_with(Happy-1, Kodak-3)
+root(ROOT-0, wish-5)
+nsubj(continue-8, they-6)
+aux(continue-8, would-7)
+ccomp(wish-5, continue-8)
+det(cameras-11, the-10)
+prep_with(continue-8, cameras-11)
+

@@ -1,0 +1,80 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(phone-4, this-3)
+dobj(purchased-2, phone-4)
+nsubjpass(supposed-7, phone-4)
+auxpass(supposed-7, was-6)
+rcmod(phone-4, supposed-7)
+aux(have-9, to-8)
+xcomp(supposed-7, have-9)
+number(full-11, 1-10)
+amod(year-12, full-11)
+tmod(have-9, year-12)
+nn(warranty-14, US-13)
+dobj(have-9, warranty-14)
+
+=========
+
+cc(turned-3, But-1)
+nsubj(turned-3, it-2)
+root(ROOT-0, turned-3)
+prt(turned-3, out-4)
+det(warranty-6, no-5)
+dobj(turned-3, warranty-6)
+nsubjpass(confirmed-9, warranty-6)
+auxpass(confirmed-9, was-8)
+rcmod(warranty-6, confirmed-9)
+agent(confirmed-9, HTC-11)
+nsubj(manufacturer-15, HTC-11)
+cop(manufacturer-15, is-13)
+det(manufacturer-15, the-14)
+rcmod(HTC-11, manufacturer-15)
+
+=========
+
+nsubj(cheated-3, I-1)
+cop(cheated-3, was-2)
+root(ROOT-0, cheated-3)
+det(order-6, this-5)
+prep_on(cheated-3, order-6)
+
+=========
+
+nsubj(spent-2, I-1)
+root(ROOT-0, spent-2)
+dobj(spent-2, one-3)
+amod(evening-5, whole-4)
+tmod(spent-2, evening-5)
+aux(communicate-7, to-6)
+xcomp(spent-2, communicate-7)
+det(CSR-10, the-9)
+prep_with(communicate-7, CSR-10)
+poss(supervisor-13, his-12)
+prep_with(communicate-7, supervisor-13)
+conj_and(CSR-10, supervisor-13)
+
+=========
+
+det(solution-5, The-1)
+nn(solution-5, best-3)
+dobj(offer-8, solution-5)
+nsubj(credit-13, solution-5)
+nsubj(offer-8, Amazon-6)
+aux(offer-8, can-7)
+rcmod(solution-5, offer-8)
+cop(credit-13, is-9)
+amod(credit-13, $-10)
+number($-10, 10-11)
+nn(credit-13, promotion-12)
+root(ROOT-0, credit-13)
+
+=========
+
+nsubj(unfair-5, It-1)
+cop(unfair-5, is-2)
+advmod(unfair-5, really-3)
+advmod(unfair-5, really-4)
+root(ROOT-0, unfair-5)
+

@@ -1,0 +1,60 @@
+=========
+
+nsubj(T.V-5, This-1)
+cop(T.V-5, is-2)
+det(T.V-5, the-3)
+amod(T.V-5, coolest-4)
+root(ROOT-0, T.V-5)
+advmod(T.V-5, ever-6)
+
+=========
+
+det(screen-2, The-1)
+nsubj(fits-3, screen-2)
+nsubj(make-9, screen-2)
+root(ROOT-0, fits-3)
+advmod(fits-3, perfectly-4)
+det(room-7, the-6)
+prep_in(fits-3, room-7)
+conj_and(fits-3, make-9)
+det(look-12, the-10)
+nn(look-12, room-11)
+nsubj(bigger-13, look-12)
+xcomp(make-9, bigger-13)
+
+=========
+
+det(features-2, The-1)
+nsubj(remarkable-4, features-2)
+cop(remarkable-4, are-3)
+root(ROOT-0, remarkable-4)
+nsubj(came-7, it-6)
+conj_and(remarkable-4, came-7)
+det(amount-11, a-9)
+amod(amount-11, short-10)
+prep_in(came-7, amount-11)
+prep_of(amount-11, time-13)
+
+=========
+
+det(product-3, Another-1)
+amod(product-3, great-2)
+root(ROOT-0, product-3)
+
+=========
+
+nsubj(better-3, It-1)
+cop(better-3, is-2)
+root(ROOT-0, better-3)
+amod(Samsung-6, other-5)
+prep_than(better-3, Samsung-6)
+prep_than(better-3, sony-8)
+conj_or(Samsung-6, sony-8)
+prep_than(better-3, sharp-10)
+conj_or(Samsung-6, sharp-10)
+prep_than(better-3, even-12)
+advmod(Samsung-6, even-12)
+conj_or(Samsung-6, even-12)
+nn(tv-14, LG-13)
+dep(Samsung-6, tv-14)
+

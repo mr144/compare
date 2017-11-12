@@ -1,0 +1,67 @@
+=========
+
+nsubj(had-3, I-1)
+nsubj(satisfied-12, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(camera-5, this-4)
+dobj(had-3, camera-5)
+num(weeks-8, 2-7)
+prep_for(camera-5, weeks-8)
+cop(satisfied-12, am-10)
+advmod(satisfied-12, very-11)
+conj_and(had-3, satisfied-12)
+mark(performance-16, with-13)
+nsubj(performance-16, it-14)
+cop(performance-16, is-15)
+ccomp(satisfied-12, performance-16)
+
+=========
+
+det(pics-3, The-1)
+amod(pics-3, daytime-2)
+nsubj(crisp-6, pics-3)
+nsubj(clear-8, pics-3)
+cop(crisp-6, are-4)
+advmod(crisp-6, really-5)
+root(ROOT-0, crisp-6)
+conj_and(crisp-6, clear-8)
+
+=========
+
+amod(conditions-4, low-2)
+nn(conditions-4, light-3)
+prep_in(had-7, conditions-4)
+nsubj(had-7, I-6)
+xsubj(add-9, I-6)
+root(ROOT-0, had-7)
+aux(add-9, to-8)
+xcomp(had-7, add-9)
+det(lighting-11, some-10)
+dobj(add-9, lighting-11)
+nsubj(fine-17, pics-14)
+cop(fine-17, were-15)
+advmod(fine-17, still-16)
+conj_but(had-7, fine-17)
+
+=========
+
+nsubj(get-2, You-1)
+root(ROOT-0, get-2)
+dobj(get-2, lots-3)
+prep_of(lots-3, functions-5)
+num(megapixels-8, 16-7)
+dobj(get-2, megapixels-8)
+conj_and(lots-3, megapixels-8)
+det(price-12, a-10)
+amod(price-12, great-11)
+prep_for(megapixels-8, price-12)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(product-5, this-4)
+dobj(recommend-3, product-5)
+

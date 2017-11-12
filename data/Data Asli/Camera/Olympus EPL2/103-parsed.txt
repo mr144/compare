@@ -1,0 +1,61 @@
+=========
+
+det(recharger-2, The-1)
+nsubj(type-9, recharger-2)
+cop(type-9, is-3)
+det(type-9, the-4)
+amod(type-9, old-6)
+amod(type-9, fashoned-8)
+root(ROOT-0, type-9)
+det(cable-15, a-12)
+amod(cable-15, large-13)
+nn(cable-15, mains-14)
+prep_with(type-9, cable-15)
+partmod(cable-15, attached-16)
+prep_to(attached-16, it-18)
+
+=========
+
+nn(use-3, home-2)
+prep_for(issue-9, use-3)
+nsubj(issue-9, this-5)
+cop(issue-9, is-6)
+neg(issue-9, not-7)
+det(issue-9, an-8)
+root(ROOT-0, issue-9)
+advmod(traveling-13, when-12)
+advcl(thing-20, traveling-13)
+nsubj(thing-20, it-15)
+cop(thing-20, is-16)
+advmod(thing-20, just-17)
+num(thing-20, one-18)
+amod(thing-20, extra-19)
+conj_but(issue-9, thing-20)
+dobj(have-22, thing-20)
+nsubj(have-22, you-21)
+xsubj(carry-24, you-21)
+rcmod(thing-20, have-22)
+aux(carry-24, to-23)
+xcomp(have-22, carry-24)
+
+=========
+
+predet(cannon-3, All-1)
+poss(cannon-3, my-2)
+nsubj(chargers-4, cannon-3)
+root(ROOT-0, chargers-4)
+dep(chargers-4, plug-5)
+advmod(plug-5, directly-6)
+det(socket-9, the-8)
+prep_into(plug-5, socket-9)
+
+=========
+
+root(ROOT-0, Come-1)
+nn(stop-4, Olympus-3)
+prep_on(Come-1, stop-4)
+xcomp(Come-1, shipping-5)
+poss(rechargers-9, 90-6)
+amod(rechargers-9, stype-8)
+dobj(shipping-5, rechargers-9)
+

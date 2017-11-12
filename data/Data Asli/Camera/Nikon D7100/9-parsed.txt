@@ -1,0 +1,61 @@
+=========
+
+det(camera-2, This-1)
+nsubj(lived-4, camera-2)
+nsubj(improved-14, camera-2)
+aux(lived-4, has-3)
+root(ROOT-0, lived-4)
+prt(lived-4, up-5)
+poss(predespr-8, its-7)
+prep_to(lived-4, predespr-8)
+det(d7000-10, the-9)
+dobj(lived-4, d7000-10)
+aux(improved-14, has-12)
+advmod(improved-14, even-13)
+conj_and(lived-4, improved-14)
+advmod(improved-14, slightly-15)
+
+=========
+
+det(focus-2, The-1)
+nsubj(fast-4, focus-2)
+cop(fast-4, is-3)
+root(ROOT-0, fast-4)
+det(points-10, the-6)
+num(points-10, 51-7)
+nn(points-10, auto-8)
+nn(points-10, focus-9)
+nsubj(garentee-14, points-10)
+advmod(almost-13, pretty-11)
+advmod(almost-13, much-12)
+advmod(garentee-14, almost-13)
+conj_and(fast-4, garentee-14)
+det(shot-17, a-15)
+amod(shot-17, clear-16)
+dobj(garentee-14, shot-17)
+
+=========
+
+det(performance-3, The-1)
+nn(performance-3, noise-2)
+nsubj(stupendous-5, performance-3)
+cop(stupendous-5, is-4)
+root(ROOT-0, stupendous-5)
+prep(stupendous-5, as-6)
+pcomp(as-6, always-7)
+
+=========
+
+det(sharpness-2, The-1)
+nsubj(outstanding-7, sharpness-2)
+det(images-5, the-4)
+prep_of(sharpness-2, images-5)
+cop(outstanding-7, are-6)
+root(ROOT-0, outstanding-7)
+
+=========
+
+root(ROOT-0, Buy-1)
+det(camera-3, this-2)
+dobj(Buy-1, camera-3)
+

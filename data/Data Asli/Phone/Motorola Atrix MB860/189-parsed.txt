@@ -1,0 +1,164 @@
+=========
+
+num(years-3, 4-2)
+prep_after(got-8, years-3)
+prep_with(years-3, iPhone-5)
+nsubj(got-8, I-7)
+nsubj(switched-13, I-7)
+root(ROOT-0, got-8)
+dep(got-8, rid-9)
+prep_of(got-8, Apple-11)
+conj_and(got-8, switched-13)
+prep_to(switched-13, Motorola-15)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+acomp(use-2, T-Mobile-3)
+nsubj(giving-11, several-6)
+poss(iPhones-9, my-8)
+prep_of(several-6, iPhones-9)
+aux(giving-11, were-10)
+conj_and(use-2, giving-11)
+iobj(giving-11, me-12)
+advmod(much-14, too-13)
+amod(pain-15, much-14)
+dobj(giving-11, pain-15)
+prep_with(pain-15, T-Mobile-17)
+
+=========
+
+nsubj(LOVE-2, I-1)
+root(ROOT-0, LOVE-2)
+nn(Atrix-4, Motorola-3)
+dobj(LOVE-2, Atrix-4)
+
+=========
+
+root(ROOT-0, Super-1)
+dep(Super-1, fast-2)
+
+=========
+
+advmod(more-2, Does-1)
+root(ROOT-0, more-2)
+mark(need-5, than-3)
+nsubj(need-5, I-4)
+dep(more-2, need-5)
+
+=========
+
+predet(apps-3, All-1)
+det(apps-3, the-2)
+dobj(need-5, apps-3)
+nsubj(are-6, apps-3)
+nsubj(need-5, I-4)
+rcmod(apps-3, need-5)
+root(ROOT-0, are-6)
+advmod(are-6, there-7)
+
+=========
+
+root(ROOT-0, Took-1)
+nsubj(find-7, me-2)
+det(days-5, a-3)
+amod(days-5, few-4)
+dep(find-7, days-5)
+aux(find-7, to-6)
+xcomp(Took-1, find-7)
+poss(way-9, my-8)
+dobj(find-7, way-9)
+prep(find-7, around-10)
+prep(find-7, with-13)
+conj_but(around-10, with-13)
+advmod(little-15, very-14)
+amod(pain-16, little-15)
+pobj(with-13, pain-16)
+
+=========
+
+nsubj(used-3, I-1)
+nsubj(savvy-12, I-1)
+aux(used-3, have-2)
+root(ROOT-0, used-3)
+amod(phones-5, many-4)
+dobj(used-3, phones-5)
+amod(manufacturers-8, various-7)
+prep_from(used-3, manufacturers-8)
+cop(savvy-12, am-10)
+advmod(savvy-12, pretty-11)
+conj_and(used-3, savvy-12)
+amod(gadgets-16, high-14)
+nn(gadgets-16, tech-15)
+prep_with(savvy-12, gadgets-16)
+
+=========
+
+nsubj(LOVE-2, I-1)
+root(ROOT-0, LOVE-2)
+dobj(LOVE-2, Navigation-3)
+nsubj(require-7, Navigation-3)
+aux(require-7, does-5)
+neg(require-7, not-6)
+rcmod(Navigation-3, require-7)
+det(charges-10, any-8)
+amod(charges-10, monthly-9)
+dobj(require-7, charges-10)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nn(player-4, music-3)
+dobj(love-2, player-4)
+nsubj(compatible-7, player-4)
+cop(compatible-7, is-6)
+rcmod(player-4, compatible-7)
+amod(packages-11, multiple-9)
+nn(packages-11, software-10)
+prep_with(compatible-7, packages-11)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(quality-7, the-3)
+nn(quality-7, picture-4)
+conj_and(picture-4, video-6)
+nn(quality-7, video-6)
+dobj(love-2, quality-7)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(way-5, the-3)
+amod(way-5, easy-4)
+dobj(love-2, way-5)
+aux(access-7, to-6)
+infmod(way-5, access-7)
+predet(files-10, all-8)
+det(files-10, the-9)
+dobj(access-7, files-10)
+det(device-13, the-12)
+prep_on(access-7, device-13)
+
+=========
+
+dep(expensive-3, Much-1)
+advmod(expensive-3, less-2)
+root(ROOT-0, expensive-3)
+prep(expensive-3, than-4)
+pobj(than-4, iPhone-5)
+prep(expensive-3, not-8)
+conj_but(than-4, not-8)
+neg(than-4, not-8)
+det(bit-10, a-9)
+npadvmod(behind-11, bit-10)
+advmod(in-12, behind-11)
+dep(than-4, in-12)
+pobj(in-12, performance-13)
+pobj(in-12, functionality-15)
+conj_and(performance-13, functionality-15)
+

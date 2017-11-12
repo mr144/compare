@@ -1,0 +1,3 @@
+I_PRP buy_VBP this_DT smartphone_NN yesterday_NN ._.
+I_PRP think_VBP ,_, it_PRP is_VBZ worse_JJR than_IN my_PRP$ friend_NN 's_POS phone_NN Xperia_NNP U_NNP ._.
+And_CC the_DT thing_NN that_WDT make_VBP me_PRP really_RB disappointed_JJ is_VBZ the_DT fact_NN that_IN its_PRP$ prize_NN is_VBZ more_RBR expensive_JJ than_IN xperia_NN ._.

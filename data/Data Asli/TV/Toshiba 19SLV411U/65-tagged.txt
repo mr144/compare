@@ -1,0 +1,3 @@
+wanted_VBD a_DT smaller_JJR set_NN for_IN the_DT bedroom_NN ._.
+This_DT was_VBD a_DT great_JJ buy_NN and_CC has_VBZ a_DT great_JJ picture_NN ._.
+Lots_NNS of_IN bang_NN for_IN the_DT buck_NN with_IN the_DT DVD_NNP player_NN built_VBN in_IN ._.

@@ -1,0 +1,43 @@
+=========
+
+amod(camera-2, Great-1)
+nsubj(like-6, camera-2)
+det(novice-5, a-4)
+prep_for(camera-2, novice-5)
+root(ROOT-0, like-6)
+dobj(like-6, me-7)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(made-4, zoom-2)
+aux(made-4, has-3)
+root(ROOT-0, made-4)
+poss(ALOT-8, my-5)
+amod(ALOT-8, outside-6)
+nn(ALOT-8, photos-7)
+dobj(made-4, ALOT-8)
+advmod(capture-11, easier-9)
+aux(capture-11, to-10)
+xcomp(made-4, capture-11)
+
+=========
+
+root(ROOT-0, Great-1)
+prep_for(Great-1, wildlife-3)
+
+=========
+
+nsubj(take-3, I-1)
+aux(take-3, can-2)
+root(ROOT-0, take-3)
+dobj(take-3, pictures-4)
+advmod(enough-6, far-5)
+advmod(take-3, enough-6)
+advmod(enough-6, away-7)
+prep_as_to(enough-6, NOT-10)
+det(bees-15, the-12)
+nn(bees-15, birds-13)
+prep_disturb(take-3, bees-15)
+dep(bees-15, etc-17)
+

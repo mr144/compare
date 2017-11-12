@@ -1,0 +1,29 @@
+=========
+
+predet(a-2, Such-1)
+nsubj(deal-3, a-2)
+root(ROOT-0, deal-3)
+
+=========
+
+nsubj(thought-3, I-1)
+neg(thought-3, never-2)
+root(ROOT-0, thought-3)
+complm(work-8, that-4)
+nsubj(work-8, this-5)
+nsubj(look-10, this-5)
+aux(work-8, would-6)
+preconj(work-8, both-7)
+ccomp(thought-3, work-8)
+ccomp(thought-3, look-10)
+conj_and(work-8, look-10)
+prep_like(look-10, new-12)
+
+=========
+
+root(ROOT-0, Terrific-1)
+acomp(Terrific-1, in-2)
+dep(in-2, every-3)
+dep(way-5, which-4)
+dep(in-2, way-5)
+

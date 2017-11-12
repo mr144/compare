@@ -1,0 +1,3 @@
+Blackberry_NNP 9800_CD purchased_VBN from_IN UNLOCKED_JJ CELLPHONE_NN KINGS_NNS ._.
+phone_NN was_VBD clearly_RB not_RB OEM_NNP and_CC ws_NNP AT&T_NNP branded_VBD ._.
+Door_NNP looked_VBD USED_NNP and_CC cable_NN was_VBD not_RB authentic_JJ Blackberry_NNP Branded_NNP ._.

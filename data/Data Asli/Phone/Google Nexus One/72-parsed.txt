@@ -1,0 +1,48 @@
+=========
+
+dobj(say-4, What-1)
+aux(say-4, can-2)
+nsubj(say-4, i-3)
+root(ROOT-0, say-4)
+
+=========
+
+nsubj(lags-2, It-1)
+root(ROOT-0, lags-2)
+det(little-4, a-3)
+dobj(lags-2, little-4)
+advmod(use-7, when-5)
+nsubj(use-7, i-6)
+advcl(lags-2, use-7)
+det(wallpaper-10, some-8)
+amod(wallpaper-10, live-9)
+dobj(use-7, wallpaper-10)
+nsubj(upgrading-15, i-13)
+aux(upgrading-15, am-14)
+conj_but(lags-2, upgrading-15)
+prep_to(upgrading-15, 2.3.4-17)
+
+=========
+
+det(prices-3, the-2)
+prep_for(buy-10, prices-3)
+det(advantages-6, the-5)
+conj_and(prices-3, advantages-6)
+prep_for(buy-10, advantages-6)
+nsubj(buy-10, i-8)
+aux(buy-10, will-9)
+root(ROOT-0, buy-10)
+dobj(buy-10, it-11)
+advmod(buy-10, again-12)
+prep_without(buy-10, doub-14)
+
+=========
+
+nsubj(see-3, I-1)
+aux(see-3, will-2)
+root(ROOT-0, see-3)
+advmod(works-6, how-4)
+nsubj(works-6, it-5)
+ccomp(see-3, works-6)
+prep_on(works-6, 2.3.4-8)
+

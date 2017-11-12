@@ -1,0 +1,104 @@
+=========
+
+nsubj(needed-2, I-1)
+root(ROOT-0, needed-2)
+det(camera-6, an-3)
+amod(camera-6, affordable-4)
+amod(camera-6, 1080\/60p-5)
+dobj(needed-2, camera-6)
+det(project-9, a-8)
+prep_for(needed-2, project-9)
+det(summer-11, this-10)
+tmod(needed-2, summer-11)
+dep(needed-2, so-13)
+nsubj(went-15, I-14)
+ccomp(needed-2, went-15)
+det(one-18, this-17)
+prep_with(went-15, one-18)
+
+=========
+
+nsubj(thought-3, I-1)
+advmod(thought-3, really-2)
+root(ROOT-0, thought-3)
+nsubj(camera-11, it-4)
+aux(camera-11, would-5)
+cop(camera-11, be-6)
+det(camera-11, a-7)
+advmod(camera-11, well-8)
+amod(camera-11, weighted-9)
+amod(camera-11, sturdy-10)
+ccomp(thought-3, camera-11)
+conj_but(thought-3, not-14)
+dep(not-14, really-15)
+
+=========
+
+nsubj(light-5, It-1)
+nsubj(hallow-9, It-1)
+cop(light-5, was-2)
+det(little-4, a-3)
+npadvmod(light-5, little-4)
+root(ROOT-0, light-5)
+det(little-8, a-7)
+npadvmod(hallow-9, little-8)
+conj_and(light-5, hallow-9)
+advmod(hold-12, where-10)
+nsubj(hold-12, you-11)
+advcl(light-5, hold-12)
+det(camera-14, the-13)
+dobj(hold-12, camera-14)
+
+=========
+
+det(lens-3, The-1)
+nn(lens-3, camera-2)
+nsubj(is-4, lens-3)
+root(ROOT-0, is-4)
+advmod(is-4, actually-5)
+advmod(is-10, where-6)
+predet(weight-9, all-7)
+det(weight-9, the-8)
+nsubj(is-10, weight-9)
+advcl(is-4, is-10)
+
+=========
+
+advmod(go-14, Also-1)
+det(in\/out-5, the-3)
+amod(in\/out-5, zooming-4)
+nsubj(slow-9, in\/out-5)
+cop(slow-9, is-6)
+det(little-8, a-7)
+npadvmod(slow-9, little-8)
+parataxis(go-14, slow-9)
+nsubj(go-14, it-11)
+aux(go-14, does-12)
+neg(go-14, not-13)
+root(ROOT-0, go-14)
+advmod(quickly-16, as-15)
+advmod(go-14, quickly-16)
+amod(cameras-19, other-18)
+prep_as(go-14, cameras-19)
+
+=========
+
+root(ROOT-0, But-1)
+dep(But-1, despite-2)
+pobj(despite-2, that-3)
+poss(camera-9, its-5)
+det(camera-9, a-6)
+advmod(good-8, very-7)
+amod(camera-9, good-8)
+appos(that-3, camera-9)
+
+=========
+
+amod(photos-2, Beautiful-1)
+nsubj(mode-7, photos-2)
+amod(video-6, great-4)
+nn(video-6, quality-5)
+conj_and(photos-2, video-6)
+nsubj(mode-7, video-6)
+root(ROOT-0, mode-7)
+

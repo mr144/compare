@@ -1,0 +1,159 @@
+=========
+
+dep(model-3, Overall-1)
+amod(model-3, nice-2)
+root(ROOT-0, model-3)
+
+=========
+
+nsubj(hangs-2, It-1)
+root(ROOT-0, hangs-2)
+mark(day-5, once-3)
+det(day-5, a-4)
+advcl(sure-12, day-5)
+advmod(day-5, so-7)
+conj_or(day-5, so-7)
+advcl(sure-12, so-7)
+nsubj(sure-12, I-9)
+cop(sure-12, am-10)
+neg(sure-12, not-11)
+ccomp(hangs-2, sure-12)
+mark(phone-17, if-13)
+nsubj(phone-17, it-14)
+cop(phone-17, is-15)
+det(phone-17, the-16)
+advcl(sure-12, phone-17)
+det(apps-20, the-19)
+advcl(sure-12, apps-20)
+conj_or(phone-17, apps-20)
+nsubj(cause-22, apps-20)
+rcmod(apps-20, cause-22)
+dobj(cause-22, issues-23)
+
+=========
+
+nsubj(happy-10, It-1)
+nsubj(reliable-4, it-2)
+cop(reliable-4, is-3)
+rcmod(It-1, reliable-4)
+nsubj(happy-10, I-6)
+aux(happy-10, would-7)
+aux(happy-10, have-8)
+cop(happy-10, been-9)
+root(ROOT-0, happy-10)
+
+=========
+
+advmod(disturbing-5, Also-1)
+amod(threats-3, malware-2)
+nsubj(disturbing-5, threats-3)
+cop(disturbing-5, are-4)
+root(ROOT-0, disturbing-5)
+
+=========
+
+partmod(used-8, Unlocked-1)
+nsubj(great-4, which-2)
+cop(great-4, is-3)
+ccomp(Unlocked-1, great-4)
+nsubj(used-8, I-6)
+aux(used-8, have-7)
+root(ROOT-0, used-8)
+advmod(used-8, consistently-9)
+prep_in(used-8, USA-11)
+prep_in(used-8, India-13)
+conj_and(USA-11, India-13)
+advmod(good-16, very-15)
+amod(coverage\/reception-17, good-16)
+appos(USA-11, coverage\/reception-17)
+
+=========
+
+root(ROOT-0, Navigation-1)
+nn(app-5, Unbelievably-3)
+amod(app-5, great-4)
+dep(Navigation-1, app-5)
+nn(navigation-8, Google-7)
+appos(Navigation-1, navigation-8)
+det(one-11, no-10)
+nsubj(beat-13, one-11)
+aux(beat-13, can-12)
+dep(Navigation-1, beat-13)
+
+=========
+
+cc(hot-7, But-1)
+nsubj(hot-7, Nexus-3)
+num(Nexus-3, one-4)
+dep(hot-7, gets-5)
+advmod(hot-7, extremely-6)
+root(ROOT-0, hot-7)
+prepc_after(hot-7, using-9)
+dobj(using-9, GPS-10)
+det(hour-13, an-12)
+prep_for(GPS-10, hour-13)
+prep_for(GPS-10, so-15)
+advmod(hour-13, so-15)
+conj_or(hour-13, so-15)
+
+=========
+
+advmod(iphone-2, Even-1)
+nsubj(hot-4, iphone-2)
+nsubj(much-11, iphone-2)
+dep(hot-4, gets-3)
+root(ROOT-0, hot-4)
+aux(much-11, may-7)
+neg(much-11, not-8)
+cop(much-11, be-9)
+advmod(much-11, as-10)
+conj_but(hot-4, much-11)
+
+=========
+
+root(ROOT-0, Music-1)
+nn(music-4, Google-3)
+nsubj(savior-7, music-4)
+cop(savior-7, is-5)
+det(savior-7, a-6)
+dep(Music-1, savior-7)
+
+=========
+
+nsubj(crippled-2, l-1)
+root(ROOT-0, crippled-2)
+prepc_after(crippled-2, using-4)
+num(Gigs-6, 32-5)
+dobj(using-4, Gigs-6)
+amod(3GS-9, iphone-8)
+prep_on(using-4, 3GS-9)
+
+=========
+
+num(cards-4, 32-1)
+nn(cards-4, Gig-2)
+amod(cards-4, microSD-3)
+nsubj(cost-6, cards-4)
+advmod(cost-6, still-5)
+root(ROOT-0, cost-6)
+prep_around(cost-6, $-8)
+num($-8, 100-9)
+
+=========
+
+nsubj(excellent-8, Camera-1)
+neg(goodStreaming-4, not-3)
+parataxis(excellent-8, goodStreaming-4)
+amod(goodTethering-6, audio-5)
+dobj(goodStreaming-4, goodTethering-6)
+root(ROOT-0, excellent-8)
+nsubj(pain-14, ATT-11)
+nsubj(has-16, ATT-11)
+cop(pain-14, is-12)
+det(pain-14, a-13)
+conj_but(excellent-8, pain-14)
+conj_but(excellent-8, has-16)
+conj_and(pain-14, has-16)
+dobj(has-16, plenty-17)
+prep_of(plenty-17, issues-19)
+

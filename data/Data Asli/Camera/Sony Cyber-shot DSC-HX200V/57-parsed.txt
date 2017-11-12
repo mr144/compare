@@ -1,0 +1,30 @@
+=========
+
+amod(functions-2, Excellent-1)
+nsubj(great-9, functions-2)
+num(photo-5, 3D-4)
+conj_and(functions-2, photo-5)
+nsubj(great-9, photo-5)
+conj_and(functions-2, video-7)
+nsubj(great-9, video-7)
+cop(great-9, is-8)
+root(ROOT-0, great-9)
+
+=========
+
+nsubj(lets-5, 18MP-1)
+amod(zoom-4, 30x-3)
+conj_and(18MP-1, zoom-4)
+nsubj(lets-5, zoom-4)
+root(ROOT-0, lets-5)
+xcomp(lets-5, take-6)
+amod(photos-8, great-7)
+dobj(take-6, photos-8)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, really-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+

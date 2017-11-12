@@ -1,0 +1,30 @@
+=========
+
+det(phone-2, The-1)
+nsubj(excelent-4, phone-2)
+cop(excelent-4, is-3)
+root(ROOT-0, excelent-4)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, only-2)
+dobj(have-5, problem-3)
+nsubj(is-6, problem-3)
+nsubj(have-5, i-4)
+rcmod(problem-3, have-5)
+root(ROOT-0, is-6)
+complm(comes-10, that-7)
+det(software-9, the-8)
+nsubj(comes-10, software-9)
+ccomp(is-6, comes-10)
+det(app-13, some-12)
+prep_with(comes-10, app-13)
+prep_in(app-13, chinesse-15)
+prep_in(app-13, english-17)
+conj_and(chinesse-15, english-17)
+
+=========
+
+root(ROOT-0, Thanks-1)
+

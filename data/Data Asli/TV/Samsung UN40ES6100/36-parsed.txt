@@ -1,0 +1,118 @@
+=========
+
+nsubjpass(disappointed-5, I-1)
+auxpass(disappointed-5, was-2)
+det(little-4, a-3)
+dep(disappointed-5, little-4)
+root(ROOT-0, disappointed-5)
+det(colors-8, the-7)
+prep_with(disappointed-5, colors-8)
+det(TV-11, the-10)
+prep_of(colors-8, TV-11)
+
+=========
+
+nsubj(obtained-2, I-1)
+root(ROOT-0, obtained-2)
+det(DVD-5, a-3)
+nn(DVD-5, calibration-4)
+dobj(obtained-2, DVD-5)
+nsubj(improve-12, it-8)
+aux(improve-12, did-9)
+neg(improve-12, not-10)
+advmod(improve-12, really-11)
+conj_but(obtained-2, improve-12)
+det(color-14, the-13)
+dobj(improve-12, color-14)
+advmod(much-16, that-15)
+advmod(improve-12, much-16)
+
+=========
+
+nsubj(contacted-2, I-1)
+nsubj(requested-6, I-1)
+root(ROOT-0, contacted-2)
+nn(support-4, Samsung-3)
+dobj(contacted-2, support-4)
+conj_and(contacted-2, requested-6)
+amod(settings-8, recommended-7)
+dobj(requested-6, settings-8)
+
+=========
+
+nsubj(replied-2, They-1)
+root(ROOT-0, replied-2)
+prepc_by(replied-2, telling-4)
+nsubj(read-7, me-5)
+aux(read-7, to-6)
+xcomp(telling-4, read-7)
+det(manual-9, the-8)
+dobj(read-7, manual-9)
+
+=========
+
+nsubj(trying-4, I-1)
+xsubj(get-6, I-1)
+aux(trying-4, am-2)
+advmod(trying-4, still-3)
+root(ROOT-0, trying-4)
+aux(get-6, to-5)
+xcomp(trying-4, get-6)
+det(colors-8, the-7)
+dobj(get-6, colors-8)
+partmod(colors-8, adjusted-9)
+poss(liking-12, my-11)
+prep_to(adjusted-9, liking-12)
+
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, the-3)
+amod(TV-5, first-4)
+root(ROOT-0, TV-5)
+dobj(purchased-8, TV-5)
+nsubj(purchased-8, I-6)
+aux(purchased-8, have-7)
+rcmod(TV-5, purchased-8)
+complm(given-11, that-9)
+aux(given-11, has-10)
+ccomp(purchased-8, given-11)
+iobj(given-11, me-12)
+advmod(much-14, so-13)
+amod(trouble-15, much-14)
+dobj(given-11, trouble-15)
+aux(adjust-17, to-16)
+infmod(trouble-15, adjust-17)
+poss(colors-19, its-18)
+dobj(adjust-17, colors-19)
+
+=========
+
+dep(again-2, Never-1)
+dep(Samsung-3, again-2)
+root(ROOT-0, Samsung-3)
+
+=========
+
+nsubj(have-3, I-1)
+aux(have-3, do-2)
+root(ROOT-0, have-3)
+aux(admit-5, to-4)
+ccomp(have-3, admit-5)
+complm(feature-13, that-6)
+det(Wi-Fi-8, the-7)
+nsubj(feature-13, Wi-Fi-8)
+cop(feature-13, is-9)
+det(feature-13, a-10)
+advmod(nice-12, very-11)
+amod(feature-13, nice-12)
+ccomp(admit-5, feature-13)
+ccomp(have-3, easy-15)
+advmod(admit-5, easy-15)
+conj_and(admit-5, easy-15)
+aux(set-17, to-16)
+ccomp(have-3, set-17)
+conj_and(admit-5, set-17)
+prt(set-17, up-18)
+

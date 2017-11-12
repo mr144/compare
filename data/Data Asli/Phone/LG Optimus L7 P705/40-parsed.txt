@@ -1,0 +1,29 @@
+=========
+
+det(phone-2, This-1)
+nsubj(met-3, phone-2)
+ccomp(lightweight-8, met-3)
+poss(expectations-5, my-4)
+dobj(met-3, expectations-5)
+cop(lightweight-8, is-7)
+root(ROOT-0, lightweight-8)
+amod(resolution-11, good-9)
+nn(resolution-11, screen-10)
+nsubj(lightweight-8, resolution-11)
+amod(resolution-11, easy-13)
+aux(use-15, to-14)
+xcomp(easy-13, use-15)
+
+=========
+
+root(ROOT-0, and-1)
+amod(system-4, excellent-2)
+amod(system-4, operating-3)
+dobj(and-1, system-4)
+
+=========
+
+root(ROOT-0, In-1)
+nn(versatile-3, summary-2)
+pobj(In-1, versatile-3)
+

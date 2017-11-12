@@ -1,0 +1,4 @@
+I_PRP read_VBP the_DT reviews_NNS commenting_VBG on_IN the_DT poor_JJ sound_NN system_NN before_IN I_PRP purchased_VBD the_DT 19_CD '_POS Toshiba_NNP television_NN ._.
+I_PRP thought_VBD to_TO myself_PRP ,_, my_PRP$ hearing_NN is_VBZ good_JJ ;_: how_WRB bad_JJ could_MD it_PRP be_VB ?_.
+Well_RB ,_, the_DT reviews_NNS were_VBD correct_JJ ;_: the_DT sound_NN is_VBZ practically_RB inaudible_JJ ._.
+Unless_IN you_PRP have_VBP ears_NNS like_IN a_DT bat_NN ,_, do_VBP not_RB buy_VB this_DT television_NN ._.

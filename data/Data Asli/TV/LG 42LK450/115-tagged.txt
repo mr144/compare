@@ -1,0 +1,3 @@
+It_PRP was_VBD faster_RBR then_RB I_PRP expected_VBD ,_, the_DT product_NN is_VBZ great_JJ ._.
+Probably_RB the_DT best_JJS service_NN iv_NN '_'' e_SYM got_VBD ._.
+Thanks_NNS very_RB MuchDovi_NNP

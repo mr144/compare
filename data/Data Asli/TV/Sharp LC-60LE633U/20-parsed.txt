@@ -1,0 +1,38 @@
+=========
+
+det(inch-3, The-1)
+num(inch-3, 60-2)
+root(ROOT-0, inch-3)
+nn(HDTV-8, Sharp-4)
+nn(HDTV-8, Quattron-5)
+nn(HDTV-8, LED-6)
+nn(HDTV-8, LCD-7)
+dep(inch-3, HDTV-8)
+
+=========
+
+aux(DATE-2, TO-1)
+dep(HAS-4, DATE-2)
+root(ROOT-0, HAS-4)
+nn(ABSOLUTELY-6, BEEN-5)
+dobj(HAS-4, ABSOLUTELY-6)
+det(SOURCE-10, A-7)
+amod(SOURCE-10, GREAT-8)
+nn(SOURCE-10, ENTERTAINMENT-9)
+nsubj(HAS-4, SOURCE-10)
+nn(HOME-13, OUR-12)
+prep_for(SOURCE-10, HOME-13)
+
+=========
+
+nn(O-4, JIM-1)
+conj_and(JIM-1, MARY-3)
+nn(O-4, MARY-3)
+nsubj('D-5, O-4)
+root(ROOT-0, 'D-5)
+
+=========
+
+nn(Al.-2, Daphne-1)
+root(ROOT-0, Al.-2)
+

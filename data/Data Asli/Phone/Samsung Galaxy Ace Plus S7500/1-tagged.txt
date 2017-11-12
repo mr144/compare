@@ -1,0 +1,7 @@
+I_PRP just_RB received_VBD this_DT Android_JJ phone_NN ,_, popped_VBD my_PRP$ old_JJ T-Mobile_NNP SIM_NNP into_IN it_PRP and_CC it_PRP started_VBD right_RB up_RB ,_, in_IN English_NNP not_RB German_JJ ._.
+It_PRP had_VBD no_DT difficulty_NN using_VBG my_PRP$ old_JJ data_NN plan_NN ._.
+If_IN you_PRP have_VBP an_DT Android_JJ tablet_NN it_PRP is_VBZ very_RB easy_JJ to_TO learn_VB ._.
+In_IN order_NN to_TO load_VB music_NN files_NNS onto_IN it_PRP you_PRP need_VBP to_TO install_VB software_NN called_VBN `_`` Samsung_NNP Kies_NNP '_POS on_IN your_PRP$ PC_NN ._.
+The_DT display_NN is_VBZ a_DT full_JJ 3.65_CD ''_'' diagonally_RB ._.
+You_PRP can_MD copy_VB sub-directories_NNS of_IN music_NN into_IN the_DT media_NNS directory_NN ._.
+I_PRP is_VBZ small_JJ and_CC fits_VBZ comfortably_RB into_IN your_PRP$ pocket_NN ._.

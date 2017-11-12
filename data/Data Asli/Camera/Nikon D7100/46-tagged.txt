@@ -1,0 +1,10 @@
+D7100_NNP is_VBZ a_DT great_JJ DX_NNP body_NN ._.
+Very_RB responsive_JJ and_CC quick_JJ in_IN almost_RB everything_NN ._.
+AF_NNP ,_, shutter_NN ,_, ON\/OFF_NNP ,_, body_NN shortcuts_NNS ,_, etc._FW ._.
+Great_NNP IQ_NNP and_CC resolution_NN ._.
+One_CD big_JJ problem_NN :_: the_DT buffer_NN capacity_NN ._.
+If_IN you_PRP want_VBP to_TO use_VB RAW_NNP ,_, mainly_RB 14-bit_JJ ,_, your_PRP$ shutter_NN burst_NN is_VBZ very_RB limited_JJ -_: 5_CD to_TO 6_CD ._.
+In_IN JPG_NNP ,_, it_PRP is_VBZ OK_JJ ._.
+The_DT image_NN seems_VBZ a_DT little_JJ grainy_NN also_RB ,_, in_IN spite_NN of_IN many_JJ reviews_NNS showing_VBG a_DT nice_JJ high_JJ ISO_NNP performance_NN ._.
+But_CC I_PRP think_VBP this_DT may_MD be_VB well_RB managed_VBN ._.
+Nice_JJ camera_NN !_.

@@ -1,0 +1,8 @@
+this_DT smartphone_NN has_VBZ a_DT better_JJR condition_NN than_IN iphone_NN ._.
+this_DT smartphone_NN is_VBZ a_DT better_JJR device_NN than_IN iphone_NN ._.
+HTC_NNP has_VBZ a_DT better_JJR quality_NN than_IN iphone_NN ._.
+HTC_NNP has_VBZ a_DT better_JJR battery_NN life_NN than_IN iphone_NN ._.
+this_DT smartphone_NN has_VBZ a_DT better_JJR condition_NN than_IN iphone_NN ._.
+this_DT smartphone_NN is_VBZ a_DT better_JJR device_NN than_IN iphone_NN ._.
+HTC_NNP has_VBZ a_DT better_JJR quality_NN than_IN iphone_NN ._.
+HTC_NNP has_VBZ a_DT better_JJR battery_NN life_NN than_IN iphone_NN ._.

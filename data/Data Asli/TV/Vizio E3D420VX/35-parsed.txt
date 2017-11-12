@@ -1,0 +1,34 @@
+=========
+
+nn(i-4, First-1)
+nn(i-4, LCD-2)
+nn(i-4, TV-3)
+nsubj(had\/payed-7, i-4)
+aux(had\/payed-7, have-5)
+advmod(had\/payed-7, ever-6)
+root(ROOT-0, had\/payed-7)
+prep(had\/payed-7, for-8)
+
+=========
+
+det(TV-2, This-1)
+nsubj(amazing-5, TV-2)
+cop(amazing-5, is-3)
+advmod(amazing-5, just-4)
+root(ROOT-0, amazing-5)
+prep_from(amazing-5, top-7)
+prep_to(amazing-5, bottom-9)
+
+=========
+
+csubj(built-9, Got-1)
+aux(love-3, to-2)
+xcomp(Got-1, love-3)
+det(internet-5, the-4)
+dobj(love-3, internet-5)
+amod(internet-5, apps-6)
+amod(internet-5, the-8)
+conj_and(apps-6, the-8)
+root(ROOT-0, built-9)
+prep_in(built-9, WIFI-11)
+

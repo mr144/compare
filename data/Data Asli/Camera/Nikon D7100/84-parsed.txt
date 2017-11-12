@@ -1,0 +1,57 @@
+=========
+
+nn(D7100-2, Nikon-1)
+nsubj(has-3, D7100-2)
+root(ROOT-0, has-3)
+det(image-6, the-4)
+amod(image-6, best-5)
+dobj(has-3, image-6)
+
+=========
+
+nn(D7100-2, Nikon-1)
+nsubj(shot-6, D7100-2)
+cop(shot-6, is-3)
+det(shot-6, the-4)
+amod(shot-6, best-5)
+root(ROOT-0, shot-6)
+
+=========
+
+nn(D7100-2, Nikon-1)
+nsubj(has-3, D7100-2)
+root(ROOT-0, has-3)
+det(quality-6, the-4)
+amod(quality-6, best-5)
+dobj(has-3, quality-6)
+
+=========
+
+nn(D7100-2, Nikon-1)
+nsubj(camera-6, D7100-2)
+cop(camera-6, is-3)
+det(camera-6, the-4)
+amod(camera-6, best-5)
+root(ROOT-0, camera-6)
+
+=========
+
+nsubj(better-3, It-1)
+cop(better-3, is-2)
+root(ROOT-0, better-3)
+prep_than(better-3, Canon-5)
+prep_than(better-3, Fujifilm-7)
+conj_or(Canon-5, Fujifilm-7)
+prep_than(better-3, GE-9)
+conj_or(Canon-5, GE-9)
+prep_than(better-3, Kodak-11)
+conj_or(Canon-5, Kodak-11)
+prep_than(better-3, Olympus-13)
+conj_or(Canon-5, Olympus-13)
+prep_than(better-3, Panasonic-15)
+conj_or(Canon-5, Panasonic-15)
+prep_than(better-3, Pentax-17)
+conj_or(Canon-5, Pentax-17)
+prep_than(better-3, Sony-19)
+conj_or(Canon-5, Sony-19)
+

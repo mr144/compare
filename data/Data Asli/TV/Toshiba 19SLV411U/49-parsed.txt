@@ -1,0 +1,33 @@
+=========
+
+det(volume-2, The-1)
+nsubj(low-5, volume-2)
+cop(low-5, was-3)
+advmod(low-5, too-4)
+root(ROOT-0, low-5)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+dobj(had-2, it-3)
+poss(kitchen-6, my-5)
+prep_in(had-2, kitchen-6)
+mark(turned-10, if-8)
+nsubj(turned-10, I-9)
+advcl(hear-17, turned-10)
+det(water-13, the-12)
+prep_on(turned-10, water-13)
+nsubj(hear-17, one-14)
+aux(hear-17, could-15)
+neg(hear-17, not-16)
+conj_and(had-2, hear-17)
+det(program-19, the-18)
+dobj(hear-17, program-19)
+
+=========
+
+nsubj(returned-2, I-1)
+root(ROOT-0, returned-2)
+dobj(returned-2, it-3)
+

@@ -1,0 +1,4 @@
+Pentax_NNP k20D_NNP is_VBZ a_DT good_JJ upgrade_NN form_NN Pentax_NNP k10D_NNP ._.
+Camera_NN comes_VBZ with_IN a_DT stabilized_VBN 14.6_CD megapixel_NN CMOS_NNP image_NN sensor_NN ,_, high_JJ quality_NN image_NN processing_NN ,_, dust_NN -_: and_CC weather-proof_JJ seals_NNS ,_, 11-point_JJ AF_NNP ,_, and_CC more_JJR custom_NN features_NNS than_IN any_DT photographer_NN would_MD need_VB ._.
+Good_JJ image_NN quality_NN ,_, low_JJ noise_NN ,_, excellent_JJ build_VBP quality_NN ._.
+Nikon_NNP D300_NNP is_VBZ faster_JJR ,_, but_CC much_RB more_RBR expensive_JJ ._.

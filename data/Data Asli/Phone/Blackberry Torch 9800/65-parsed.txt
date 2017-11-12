@@ -1,0 +1,60 @@
+=========
+
+amod(size-3, Great-1)
+nn(size-3, screen-2)
+root(ROOT-0, size-3)
+conj_and(size-3, features-5)
+amod(processor-9, fast-8)
+conj_and(size-3, processor-9)
+det(blackberry-14, a-11)
+nn(blackberry-14, touch-12)
+nn(blackberry-14, screen-13)
+prep_for(processor-9, blackberry-14)
+conj_and(size-3, one-16)
+det(BB-20, the-18)
+amod(BB-20, best-19)
+prep_of(one-16, BB-20)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, was-2)
+advmod(happy-4, so-3)
+ccomp(came-12, happy-4)
+advmod(got-7, when-5)
+nsubj(got-7, i-6)
+advcl(happy-4, got-7)
+poss(phone-9, my-8)
+dobj(got-7, phone-9)
+nsubj(came-12, it-11)
+root(ROOT-0, came-12)
+det(day-15, a-14)
+prep_in(came-12, day-15)
+prepc_of(day-15, ordering-17)
+dobj(ordering-17, it-18)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+dobj(takes-2, pics-3)
+dobj(takes-2, video-5)
+conj_and(pics-3, video-5)
+advmod(takes-2, well-6)
+
+=========
+
+det(phone-2, The-1)
+nsubj(offers-3, phone-2)
+root(ROOT-0, offers-3)
+det(lot-5, a-4)
+dobj(offers-3, lot-5)
+prep_of(lot-5, features-7)
+
+=========
+
+det(phone-2, The-1)
+nsubj(works-3, phone-2)
+root(ROOT-0, works-3)
+advmod(works-3, well-4)
+

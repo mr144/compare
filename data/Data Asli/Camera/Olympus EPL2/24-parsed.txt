@@ -1,0 +1,109 @@
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+dobj(wanted-2, something-3)
+amod(something-3, more-4)
+det(camera-10, a-6)
+nn(camera-10, point-7)
+conj_and(point-7, shoot-9)
+nn(camera-10, shoot-9)
+prep_than(more-4, camera-10)
+det(DSLR-14, a-13)
+prep_than(more-4, DSLR-14)
+conj_negcc(camera-10, DSLR-14)
+nsubj(had-18, I-16)
+neg(had-18, never-17)
+dep(more-4, had-18)
+det(knack-20, the-19)
+dobj(had-18, knack-20)
+aux(learn-22, to-21)
+infmod(knack-20, learn-22)
+det(nittygritties-24, the-23)
+dobj(learn-22, nittygritties-24)
+prep_of(nittygritties-24, photography-26)
+nsubj(want-31, I-28)
+xsubj(carry-33, I-28)
+aux(want-31, did-29)
+neg(want-31, not-30)
+dep(more-4, want-31)
+conj_and(had-18, want-31)
+aux(carry-33, to-32)
+xcomp(want-31, carry-33)
+prt(carry-33, around-34)
+det(camera-37, a-35)
+amod(camera-37, big-36)
+dobj(carry-33, camera-37)
+
+=========
+
+nsubj(went-2, Hence-1)
+root(ROOT-0, went-2)
+det(EPL2-7, a-4)
+nn(EPL2-7, Olympus-5)
+nn(EPL2-7, PEN-6)
+prep_for(went-2, EPL2-7)
+
+=========
+
+nsubj(works-2, This-1)
+root(ROOT-0, works-2)
+det(charm-5, a-4)
+prep_like(works-2, charm-5)
+
+=========
+
+nsubj(use-3, I-1)
+advmod(use-3, mostly-2)
+root(ROOT-0, use-3)
+det(Automode-5, the-4)
+dobj(use-3, Automode-5)
+dobj(use-3, one-7)
+conj_or(Automode-5, one-7)
+det(options-11, the-9)
+nn(options-11, Scene-10)
+prep_of(Automode-5, options-11)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(amazing-5, quality-3)
+cop(amazing-5, is-4)
+root(ROOT-0, amazing-5)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, quite-3)
+root(ROOT-0, happy-4)
+det(results-7, the-6)
+prep_with(happy-4, results-7)
+
+=========
+
+mark(believe-3, Though-1)
+nsubj(believe-3, I-2)
+csubj(better-13, believe-3)
+det(pictures-5, the-4)
+dobj(believe-3, pictures-5)
+amod(light-8, low-7)
+prep_in(pictures-5, light-8)
+aux(better-13, could-9)
+cop(better-13, be-10)
+det(bit-12, a-11)
+npadvmod(better-13, bit-12)
+root(ROOT-0, better-13)
+prep_in(better-13, Automode-15)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, definitely-3)
+root(ROOT-0, recommend-4)
+det(camera-6, this-5)
+dobj(recommend-4, camera-6)
+prep_to(recommend-4, others-8)
+

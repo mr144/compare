@@ -1,0 +1,42 @@
+=========
+
+amod(product-2, Great-1)
+nsubj(described-6, product-2)
+advmod(as-5, exactly-4)
+advmod(described-6, as-5)
+root(ROOT-0, described-6)
+
+=========
+
+ccomp(works-6, Users-1)
+prep_from(Users-1, Venezuela-3)
+nsubj(works-6, It-5)
+root(ROOT-0, works-6)
+acomp(works-6, perfect-7)
+prep_with(perfect-7, Movilnet-9)
+prep_with(perfect-7, Movistar-11)
+conj_and(Movilnet-9, Movistar-11)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+advcl(work-11, want-3)
+dobj(want-3, it-4)
+prep_for(want-3, Digitel-6)
+nsubj(work-11, it-8)
+aux(work-11, will-9)
+neg(work-11, not-10)
+root(ROOT-0, work-11)
+prep_on(work-11, 3G-13)
+
+=========
+
+amod(phone-2, Great-1)
+nsubj(love-6, phone-2)
+nsubj(love-6, I-4)
+advmod(love-6, absolutely-5)
+root(ROOT-0, love-6)
+nn(!!-8, iit-7)
+dobj(love-6, !!-8)
+

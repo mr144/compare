@@ -1,0 +1,31 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+nsubj(bought-7, I-6)
+conj_and(love-2, bought-7)
+dobj(bought-7, it-8)
+prep(bought-7, as-9)
+det(back-11, a-10)
+npadvmod(up-12, back-11)
+pcomp(as-9, up-12)
+poss(6D-15, my-14)
+prep_for(bought-7, 6D-15)
+nsubj(takes-18, it-17)
+conj_and(love-2, takes-18)
+amod(pictures-20, beautiful-19)
+dobj(takes-18, pictures-20)
+
+=========
+
+nsubj(affordable-3, It-1)
+nsubj(takes-6, It-1)
+cop(affordable-3, 's-2)
+root(ROOT-0, affordable-3)
+advmod(takes-6, even-5)
+conj_and(affordable-3, takes-6)
+dobj(takes-6, videos-7)
+prep_with(takes-6, AF-9)
+

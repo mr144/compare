@@ -1,0 +1,22 @@
+=========
+
+advmod(good-4, so-1)
+advmod(so-3, far-2)
+advmod(good-4, so-3)
+root(ROOT-0, good-4)
+dep(quality-7, awesome-6)
+conj_and(good-4, quality-7)
+nn(movies-15, image-9)
+amod(movies-15, excellent-11)
+amod(movies-15, sound-12)
+amod(movies-15, 3d-14)
+prep_in(quality-7, movies-15)
+prep_in(quality-7, games-17)
+conj_and(movies-15, games-17)
+amod(games-17, supreme-18)
+advmod(easy-21, very-20)
+conj_and(good-4, easy-21)
+aux(set-23, to-22)
+xcomp(easy-21, set-23)
+prt(set-23, up-24)
+

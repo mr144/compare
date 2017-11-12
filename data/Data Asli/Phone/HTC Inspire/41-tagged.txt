@@ -1,0 +1,8 @@
+In_IN general_JJ not_RB a_DT bad_JJ phone_NN ._.
+Nice_JJ screen_NN size_NN and_CC quality_NN ._.
+Perhaps_RB a_DT tad_NN heavy_NN ._.
+Enough_NNP juice_NN in_IN the_DT battery_NN for_IN one_CD day_NN use_NN ._.
+Do_VBP not_RB forget_VB to_TO charge_VB regularly_RB ._.
+Volume_NN controls_NNS are_VBP not_RB very_RB responsive_JJ and_CC opening_VBG and_CC closing_VBG the_DT phone_NN to_TO replace\/insert_NNP SIM_NNP ,_, MicroSD_NNP ,_, and\/or_CC battery_NN is_VBZ a_DT nuisance_NN as_IN the_DT plastic_NN covers_NNS are_VBP difficult_JJ to_TO use_VB ._.
+Rooting\/unlocking_VBG the_DT phone_NN is_VBZ not_RB too_RB complicated_VBN apart_RB from_IN the_DT challenge_NN to_TO enter_VB HBOOT_NNP mode_NN requiring_VBG powering_VBG on_RP while_IN holding_VBG the_DT volume-down_JJ button_NN ._.
+The_DT volume_NN button_NN is_VBZ extremely_RB unresponsive_JJ and_CC I_PRP probably_RB had_VBD to_TO boot_NN 25_CD times_NNS before_IN being_VBG successful_JJ ._.

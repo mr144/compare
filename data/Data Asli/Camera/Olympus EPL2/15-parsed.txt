@@ -1,0 +1,75 @@
+=========
+
+nsubj(purchased-3, I-1)
+nsubjpass(amazed-11, I-1)
+advmod(purchased-3, recently-2)
+root(ROOT-0, purchased-3)
+det(EPL2-7, the-4)
+nn(EPL2-7, Olympus-5)
+nn(EPL2-7, PEN-6)
+dobj(purchased-3, EPL2-7)
+auxpass(amazed-11, am-9)
+advmod(amazed-11, absolutely-10)
+conj_and(purchased-3, amazed-11)
+det(quality-14, the-13)
+prep_at(amazed-11, quality-14)
+prep_of(quality-14, pictures-16)
+
+=========
+
+prepc_before(did-7, purchasing-2)
+det(camera-4, this-3)
+dobj(purchasing-2, camera-4)
+nsubj(did-7, I-6)
+root(ROOT-0, did-7)
+det(deal-10, a-8)
+amod(deal-10, great-9)
+dobj(did-7, deal-10)
+prep_of(deal-10, research-12)
+
+=========
+
+cc(decided-2, And-1)
+root(ROOT-0, decided-2)
+aux(go-4, to-3)
+xcomp(decided-2, go-4)
+det(4\/3rd-7, the-6)
+poss(option-10, 4\/3rd-7)
+amod(option-10, micro-9)
+prep_with(go-4, option-10)
+
+=========
+
+nsubj(glad-4, I-1)
+cop(glad-4, am-2)
+advmod(glad-4, very-3)
+root(ROOT-0, glad-4)
+nsubj(did-6, I-5)
+ccomp(glad-4, did-6)
+dobj(did-6, this-7)
+
+=========
+
+nsubj(learning-4, I-1)
+nsubj(am-10, I-1)
+aux(learning-4, am-2)
+advmod(learning-4, still-3)
+root(ROOT-0, learning-4)
+predet(features-7, all-5)
+det(features-7, the-6)
+dobj(learning-4, features-7)
+conj_but(learning-4, am-10)
+prep_in(am-10, love-12)
+det(camera-15, this-14)
+prep_with(love-12, camera-15)
+
+=========
+
+nsubj(buying-5, I-1)
+aux(buying-5, 'll-2)
+advmod(buying-5, definitely-3)
+aux(buying-5, be-4)
+root(ROOT-0, buying-5)
+amod(lenses-7, additional-6)
+dobj(buying-5, lenses-7)
+

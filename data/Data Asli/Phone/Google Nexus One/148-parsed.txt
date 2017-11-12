@@ -1,0 +1,37 @@
+=========
+
+det(Nexus-2, The-1)
+nsubj(more-17, Nexus-2)
+num(Nexus-2, One-3)
+rcmod(Nexus-2, 's-4)
+complm(found-8, that-5)
+nsubj(found-8, I-6)
+aux(found-8, have-7)
+ccomp('s-4, found-8)
+prep_on(found-8, Amazon-10)
+cop(more-17, are-11)
+advmod(more-17, often-12)
+quantmod($-15, more-13)
+quantmod($-15, than-14)
+npadvmod(more-17, $-15)
+number($-15, 100-16)
+root(ROOT-0, more-17)
+prepc_than(more-17, buying-19)
+dobj(buying-19, it-20)
+prep_from(buying-19, Google-22)
+
+=========
+
+cc(smartphone-8, But-1)
+advmod(smartphone-8, overall-2)
+nsubj(smartphone-8, this-4)
+cop(smartphone-8, is-5)
+det(smartphone-8, the-6)
+amod(smartphone-8, best-7)
+root(ROOT-0, smartphone-8)
+dobj(purchase-12, smartphone-8)
+complm(purchase-12, that-9)
+nsubj(purchase-12, i-10)
+advmod(purchase-12, ever-11)
+dep(smartphone-8, purchase-12)
+

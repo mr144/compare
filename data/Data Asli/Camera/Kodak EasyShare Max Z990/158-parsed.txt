@@ -1,0 +1,124 @@
+=========
+
+dep(picked-3, Glad-1)
+nsubj(picked-3, I-2)
+root(ROOT-0, picked-3)
+dobj(picked-3, this-4)
+prt(picked-3, up-5)
+
+=========
+
+nsubj(took-2, I-1)
+root(ROOT-0, took-2)
+dobj(took-2, it-3)
+det(class-7, a-5)
+nn(class-7, Saturday-6)
+prep_to(took-2, class-7)
+det(collage-11, a-9)
+amod(collage-11, local-10)
+prep_at(took-2, collage-11)
+amod(camera-14, digital-13)
+prep_for(collage-11, camera-14)
+prep_for(camera-14, beginers-16)
+
+=========
+
+nsubj(learn-2, I-1)
+root(ROOT-0, learn-2)
+advmod(much-4, so-3)
+advmod(learn-2, much-4)
+prepc_about(learn-2, takeing-6)
+amod(picture-8, better-7)
+dobj(takeing-6, picture-8)
+det(use-11, the-10)
+dobj(takeing-6, use-11)
+conj_and(picture-8, use-11)
+det(setting-15, the-13)
+amod(setting-15, manual-14)
+prep_of(use-11, setting-15)
+
+=========
+
+det(camera-2, This-1)
+nsubj(teach-4, camera-2)
+aux(teach-4, will-3)
+root(ROOT-0, teach-4)
+dobj(teach-4, me-5)
+dobj(take-10, what-6)
+nsubj(take-10, I-7)
+aux(take-10, can-8)
+aux(take-10, do-9)
+dep(teach-4, take-10)
+amod(pictures-12, good-11)
+dobj(take-10, pictures-12)
+amod(investment-16, such-14)
+amod(investment-16, little-15)
+prep_with(take-10, investment-16)
+
+=========
+
+nsubj(sure-3, I-1)
+cop(sure-3, am-2)
+root(ROOT-0, sure-3)
+det(year-7, the-5)
+amod(year-7, next-6)
+prep_in(sure-3, year-7)
+dep(step-12, so-9)
+nsubj(step-12, I-10)
+nsubj(buy-15, I-10)
+aux(step-12, will-11)
+conj_or(sure-3, step-12)
+prt(step-12, up-13)
+conj_or(sure-3, buy-15)
+conj_and(step-12, buy-15)
+det(DSL-17, a-16)
+dobj(buy-15, DSL-17)
+prep(show-24, for-19)
+pobj(for-19, now-20)
+det(Z990-22, this-21)
+nsubj(show-24, Z990-22)
+aux(show-24, will-23)
+conj_but(sure-3, show-24)
+nsubj(ropes-27, me-25)
+det(ropes-27, the-26)
+xcomp(show-24, ropes-27)
+
+=========
+
+nsubj(sad-4, It-1)
+advmod(sad-4, turly-2)
+cop(sad-4, is-3)
+root(ROOT-0, sad-4)
+complm(making-10, that-5)
+nsubj(making-10, Kodak-6)
+aux(making-10, is-7)
+advmod(longer-9, no-8)
+advmod(making-10, longer-9)
+ccomp(sad-4, making-10)
+dobj(making-10, Cameras-11)
+
+=========
+
+nsubj(flagship-4, This-1)
+cop(flagship-4, was-2)
+advmod(flagship-4, there-3)
+root(ROOT-0, flagship-4)
+dobj(leave-10, what-6)
+rel(leave-10, what-6)
+det(way-8, a-7)
+nsubj(leave-10, way-8)
+aux(leave-10, to-9)
+conj_and(flagship-4, leave-10)
+infmod(flagship-4, leave-10)
+rcmod(flagship-4, leave-10)
+det(business-12, the-11)
+dobj(leave-10, business-12)
+
+=========
+
+advmod(see-3, Sorry-1)
+aux(see-3, to-2)
+csubj(go-5, see-3)
+dobj(see-3, it-4)
+root(ROOT-0, go-5)
+

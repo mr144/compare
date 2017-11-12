@@ -1,0 +1,36 @@
+=========
+
+nsubj(wanted-2, Always-1)
+xsubj(buy-4, Always-1)
+root(ROOT-0, wanted-2)
+aux(buy-4, to-3)
+xcomp(wanted-2, buy-4)
+det(phone-6, this-5)
+dobj(buy-4, phone-6)
+
+=========
+
+nsubjpass(shipped-7, It-1)
+auxpass(shipped-7, was-2)
+cop(shipped-7, was-2)
+advmod(shipped-7, well-3)
+acomp(shipped-7, packaged-4)
+advmod(shipped-7, even-6)
+root(ROOT-0, shipped-7)
+prep_on(shipped-7, time-9)
+
+=========
+
+nsubj(looked-2, It-1)
+root(ROOT-0, looked-2)
+acomp(looked-2, good-3)
+mark(tried-6, until-4)
+nsubj(tried-6, i-5)
+advcl(looked-2, tried-6)
+xcomp(tried-6, charging-7)
+dobj(charging-7, it-8)
+
+=========
+
+root(ROOT-0, defectiveSad-1)
+

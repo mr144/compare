@@ -1,0 +1,26 @@
+=========
+
+advmod(phone-4, Just-1)
+det(phone-4, a-2)
+amod(phone-4, superb-3)
+root(ROOT-0, phone-4)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(phone-5, this-4)
+dobj(had-3, phone-5)
+det(year-8, a-7)
+prep_for(phone-5, year-8)
+advmod(year-8, now-9)
+nsubj(splendid-15, it-12)
+aux(splendid-15, has-13)
+cop(splendid-15, been-14)
+conj_and(had-3, splendid-15)
+
+=========
+
+prep_loving(-RRB--4, it-2)
+

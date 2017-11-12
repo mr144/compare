@@ -1,0 +1,81 @@
+=========
+
+det(phone-2, This-1)
+nsubj(amazing-4, phone-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+nsubj(is-2, it-1)
+root(ROOT-0, is-2)
+det(laptop-6, a-4)
+amod(laptop-6, mini-5)
+prep_like(is-2, laptop-6)
+
+=========
+
+det(multitude-2, The-1)
+nsubj(keep-9, multitude-2)
+prep_of(multitude-2, aplications-4)
+partmod(aplications-4, downloaded-5)
+det(phone-8, the-7)
+prep_on(downloaded-5, phone-8)
+ccomp(record-40, keep-9)
+dobj(keep-9, me-10)
+prep_in(keep-9, touch-12)
+det(world-15, the-14)
+prep_with(touch-12, world-15)
+nsubj(facebook-23, weather-17)
+appos(weather-17, news-19)
+appos(news-19, email-21)
+parataxis(keep-9, facebook-23)
+poss(memory-27, Its-25)
+amod(memory-27, internal-26)
+dobj(facebook-23, memory-27)
+nsubj(big-31, it-28)
+cop(big-31, is-29)
+advmod(big-31, so-30)
+rcmod(memory-27, big-31)
+complm(download-35, that-32)
+nsubj(download-35, i-33)
+aux(download-35, can-34)
+ccomp(big-31, download-35)
+dobj(download-35, movies-36)
+nsubj(record-40, i-38)
+nsubj(have-44, i-38)
+aux(record-40, can-39)
+root(ROOT-0, record-40)
+dobj(record-40, videos-41)
+advmod(record-40, still-43)
+conj_and(record-40, still-43)
+conj_and(record-40, have-44)
+amod(memory-46, enough-45)
+dobj(have-44, memory-46)
+prep_for(memory-46, games-48)
+prep_for(memory-46, applications-50)
+conj_or(games-48, applications-50)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+dobj(has-2, lots-3)
+prep_of(lots-3, themes-5)
+dep(has-2, lockers-7)
+appos(lockers-7, widgets-9)
+
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, just-2)
+ccomp(trade-9, love-3)
+dobj(love-3, it-4)
+nsubj(trade-9, i-6)
+aux(trade-9, would-7)
+neg(trade-9, not-8)
+root(ROOT-0, trade-9)
+dobj(trade-9, it-10)
+det(iphone-13, an-12)
+prep_for(trade-9, iphone-13)
+

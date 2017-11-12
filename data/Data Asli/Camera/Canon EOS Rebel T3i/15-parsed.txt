@@ -1,0 +1,27 @@
+=========
+
+amod(pictures-2, Great-1)
+root(ROOT-0, pictures-2)
+advmod(clear-5, very-4)
+amod(pictures-2, clear-5)
+
+=========
+
+nsubj(come-5, Phots-1)
+possessive(Phots-1, 's-2)
+prep_of(Phots-1, people-4)
+dep(make-15, come-5)
+prt(come-5, out-6)
+advmod(clear-8, very-7)
+acomp(come-5, clear-8)
+advmod(easy-11, so-10)
+acomp(come-5, easy-11)
+aux(use-13, to-12)
+xcomp(easy-11, use-13)
+aux(make-15, can-14)
+root(ROOT-0, make-15)
+dobj(make-15, anyone-16)
+det(photographer-19, a-17)
+amod(photographer-19, good-18)
+nsubj(make-15, photographer-19)
+

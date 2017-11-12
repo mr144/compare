@@ -1,0 +1,40 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(TV-4, this-3)
+dobj(like-2, TV-4)
+
+=========
+
+nsubj(like-3, I-1)
+aux(like-3, would-2)
+root(ROOT-0, like-3)
+det(little-5, a-4)
+npadvmod(better-6, little-5)
+amod(options-8, better-6)
+amod(options-8, sound-7)
+dobj(like-3, options-8)
+nsubj(TV-16, it-11)
+cop(TV-16, is-12)
+neg(TV-16, not-13)
+det(TV-16, an-14)
+amod(TV-16, expensive-15)
+conj_but(like-3, TV-16)
+mark(expecting-21, so-17)
+nsubj(expecting-21, I-18)
+aux(expecting-21, might-19)
+aux(expecting-21, be-20)
+advcl(TV-16, expecting-21)
+advmod(much-23, too-22)
+advmod(expecting-21, much-23)
+
+=========
+
+nsubj(glad-3, I-1)
+cop(glad-3, am-2)
+root(ROOT-0, glad-3)
+aux(have-5, to-4)
+xcomp(glad-3, have-5)
+dobj(have-5, it-6)
+

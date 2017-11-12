@@ -1,0 +1,41 @@
+=========
+
+det(product-2, This-1)
+nsubj(disappointing-4, product-2)
+cop(disappointing-4, is-3)
+root(ROOT-0, disappointing-4)
+
+=========
+
+nsubjpass(locked-3, It-1)
+nsubj(has-5, It-1)
+auxpass(locked-3, is-2)
+root(ROOT-0, locked-3)
+conj_and(locked-3, has-5)
+det(crack-8, a-6)
+amod(crack-8, big-7)
+dobj(has-5, crack-8)
+det(back-11, the-10)
+prep_at(crack-8, back-11)
+
+=========
+
+det(OS-2, The-1)
+nsubj(ancient-5, OS-2)
+cop(ancient-5, is-3)
+advmod(ancient-5, also-4)
+root(ROOT-0, ancient-5)
+
+=========
+
+nsubj(think-2, I-1)
+ccomp(have-11, think-2)
+nn(Google-10, Motorola-4)
+appos(Google-10, Nokia-6)
+appos(Google-10, HTC-8)
+nsubj(have-11, Google-10)
+root(ROOT-0, have-11)
+det(product-14, a-12)
+amod(product-14, better-13)
+dobj(have-11, product-14)
+

@@ -1,0 +1,2 @@
+I_PRP liked_VBD it_PRP as_IN it_PRP is_VBZ easy_JJ to_TO handle_VB and_CC user_NN friendly_JJ ._.
+Only_RB night_NN time_NN long_JJ range_NN clarity_NN requires_VBZ attention_NN ._.

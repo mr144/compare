@@ -1,0 +1,9 @@
+Love_NNP the_DT picture_NN ._.
+More_JJR than_IN bright_JJ enough_RB in_IN daylight_NN with_IN no_DT direct_JJ light_NN on_IN the_DT screen_NN ._.
+The_DT only_JJ problem_NN is_VBZ that_IN we_PRP watch_VBP a_DT political_JJ channel_NN that_WDT constantly_RB displays_VBZ its_PRP$ logo_NN ._.
+The_DT logo_NN has_VBZ burned_VBN in_IN ._.
+It_PRP is_VBZ only_RB noticed_JJ on_IN very_RB light_JJ pictures_NNS of_IN white_JJ or_CC a_DT light_JJ sky_NN ._.
+The_DT warranty_NN specifically_RB denies_VBZ burn-in_NN coverage_NN ._.
+The_DT tv_NN has_VBZ a_DT scrolling_VBG bar_NN to_TO reduce_VB the_DT burn-in_NN ,_, but_CC it_PRP has_VBZ not_RB helped_VBN ._.
+The_DT tv_NN also_RB has_VBZ a_DT pixel_NN orbiter_NN feature_NN ,_, but_CC it_PRP can_MD not_RB function_VB when_WRB THX_NNP Cinema_NNP is_VBZ selected_VBN as_IN the_DT picture_NN mode_NN ._.
+I_PRP will_MD be_VB keeping_VBG the_DT tv_NN but_CC wanted_VBD to_TO provide_VB a_DT heads_NNS up_IN to_TO this_DT problem_NN ._.

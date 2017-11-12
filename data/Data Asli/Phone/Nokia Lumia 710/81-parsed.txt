@@ -1,0 +1,72 @@
+=========
+
+root(ROOT-0, Stay-1)
+det(phone-5, this-4)
+prep_away_from(Stay-1, phone-5)
+
+=========
+
+nsubj(have-3, You-1)
+aux(have-3, will-2)
+root(ROOT-0, have-3)
+det(bluetooth-5, a-4)
+dobj(have-3, bluetooth-5)
+complm(use-10, that-6)
+nsubj(use-10, you-7)
+aux(use-10, can-8)
+neg(use-10, not-9)
+ccomp(have-3, use-10)
+dep(use-10, even-12)
+aux(share-14, to-13)
+dep(even-12, share-14)
+dobj(share-14, files-15)
+nn(710-19, ANOTHER-17)
+nn(710-19, Lumia-18)
+prep_with(share-14, 710-19)
+dep(share-14, pathetic-21)
+
+=========
+
+nsubj(have-2, You-1)
+xsubj(use-4, You-1)
+root(ROOT-0, have-2)
+aux(use-4, to-3)
+xcomp(have-2, use-4)
+dobj(use-4, zune-5)
+nn(management-8, file-7)
+prep_for(use-4, management-8)
+
+=========
+
+nsubj(work-4, It-1)
+aux(work-4, will-2)
+neg(work-4, not-3)
+root(ROOT-0, work-4)
+det(flashdrive-7, a-6)
+prep_as(work-4, flashdrive-7)
+
+=========
+
+nsubj(does-2, It-1)
+root(ROOT-0, does-2)
+ccomp(does-2, have-3)
+det(gear-7, a-4)
+amod(gear-7, good-5)
+nn(gear-7, hardware-6)
+dobj(have-3, gear-7)
+advmod(have-3, sure-9)
+nsubj(waste-15, I-12)
+aux(waste-15, would-13)
+neg(waste-15, not-14)
+conj_but(does-2, waste-15)
+dobj(waste-15, it-16)
+det(windows-19, a-18)
+prep_with(waste-15, windows-19)
+partmod(windows-19, installed-20)
+
+=========
+
+root(ROOT-0, Go-1)
+aux(android-3, to-2)
+xcomp(Go-1, android-3)
+

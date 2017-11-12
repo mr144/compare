@@ -1,0 +1,51 @@
+=========
+
+det(TV-2, The-1)
+nsubj(arrived-3, TV-2)
+root(ROOT-0, arrived-3)
+amod(condition-6, perfect-5)
+prep_in(arrived-3, condition-6)
+nsubj(works-9, it-8)
+conj_and(arrived-3, works-9)
+acomp(works-9, great-10)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+advmod(mounted-3, Also-1)
+nsubj(mounted-3, it-2)
+root(ROOT-0, mounted-3)
+det(wall-6, the-5)
+prep_to(mounted-3, wall-6)
+det(trouble-9, no-8)
+prep_with(mounted-3, trouble-9)
+predet(parts-13, all-11)
+det(parts-13, the-12)
+nsubjpass(included-15, parts-13)
+auxpass(included-15, were-14)
+conj_and(mounted-3, included-15)
+nsubj(great-19, everything-17)
+cop(great-19, was-18)
+conj_and(mounted-3, great-19)
+
+=========
+
+root(ROOT-0, Buy-1)
+det(TV-3, this-2)
+dobj(Buy-1, TV-3)
+mark(looking-7, if-4)
+nsubj(looking-7, you-5)
+aux(looking-7, are-6)
+advcl(Buy-1, looking-7)
+det(deal-11, a-9)
+amod(deal-11, great-10)
+prep_for(looking-7, deal-11)
+det(TV-15, a-13)
+amod(TV-15, large-14)
+prep_on(deal-11, TV-15)
+

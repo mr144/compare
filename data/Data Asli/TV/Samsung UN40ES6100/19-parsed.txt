@@ -1,0 +1,57 @@
+=========
+
+det(TV-2, This-1)
+nsubj(delivers-3, TV-2)
+root(ROOT-0, delivers-3)
+dobj(delivers-3, everything-4)
+complm(expect-8, that-5)
+nsubj(expect-8, you-6)
+aux(expect-8, did-7)
+ccomp(delivers-3, expect-8)
+det(TV-13, a-10)
+amod(TV-13, great-11)
+nn(TV-13, Samsung-12)
+prep_from(expect-8, TV-13)
+
+=========
+
+poss(features-15, Its-1)
+advmod(lightweight-3, extremely-2)
+amod(features-15, lightweight-3)
+dep(lightweight-3, has-5)
+det(crystal-7, a-6)
+dobj(has-5, crystal-7)
+amod(crystal-7, clear-8)
+dep(clear-8, picture-9)
+det(TV-14, the-12)
+amod(TV-14, smart-13)
+dep(clear-8, TV-14)
+conj_and(picture-9, TV-14)
+nsubj(eliminate-16, features-15)
+root(ROOT-0, eliminate-16)
+det(need-18, the-17)
+dobj(eliminate-16, need-18)
+det(Box-22, a-20)
+nn(Box-22, Roku-21)
+prep_for(need-18, Box-22)
+amod(source-26, other-24)
+amod(source-26, outside-25)
+prep_for(need-18, source-26)
+conj_or(Box-22, source-26)
+
+=========
+
+nsubj(works-3, It-1)
+advmod(works-3, also-2)
+root(ROOT-0, works-3)
+acomp(works-3, great-4)
+det(monitor-9, a-6)
+amod(monitor-9, second-7)
+nn(monitor-9, computer-8)
+prep_as(great-4, monitor-9)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

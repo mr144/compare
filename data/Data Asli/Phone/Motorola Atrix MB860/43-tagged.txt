@@ -1,0 +1,3 @@
+Ok_JJ but_CC i_FW was_VBD used_VBN to_TO HTC_NNP and_CC Samsung_NNP ._.
+So_RB i_FW miss_VB a_DT couple_NN of_IN things_NNS ,_, but_CC the_DT product_NN is_VBZ good_JJ ._.
+Overall_RB ,_, i_FW think_VBP this_DT roduct_NN is_VBZ better_JJR than_IN both_DT of_IN HTC_NNP or_CC Samsung_NNP ._.

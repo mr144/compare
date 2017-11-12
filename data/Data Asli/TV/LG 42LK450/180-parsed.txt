@@ -1,0 +1,30 @@
+=========
+
+det(tv-2, This-1)
+nsubj(buy-6, tv-2)
+cop(buy-6, is-3)
+det(buy-6, a-4)
+amod(buy-6, great-5)
+root(ROOT-0, buy-6)
+nsubj(spent-8, I-7)
+rcmod(buy-6, spent-8)
+det(lot-10, a-9)
+dobj(spent-8, lot-10)
+prep_of(lot-10, time-12)
+partmod(time-12, researching-13)
+dobj(researching-13, tvs-14)
+nsubj(glad-18, I-16)
+cop(glad-18, am-17)
+conj_and(buy-6, glad-18)
+nsubj(purchased-20, I-19)
+ccomp(glad-18, purchased-20)
+det(one-22, this-21)
+dobj(purchased-20, one-22)
+
+=========
+
+amod(quality-2, Good-1)
+root(ROOT-0, quality-2)
+amod(brand-5, reliable-4)
+appos(quality-2, brand-5)
+

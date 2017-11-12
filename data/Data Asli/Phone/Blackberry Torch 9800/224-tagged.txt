@@ -1,0 +1,3 @@
+Is_VBZ it_PRP an_DT unlocked_VBN phone_NN ,_, right_RB ?_.
+Will_MD it_PRP work_VB with_IN any_DT carrier_NN within_IN the_DT allowed_VBN frequencies_NNS ?_.
+Thanks_NNS

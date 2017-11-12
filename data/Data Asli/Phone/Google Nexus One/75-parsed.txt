@@ -1,0 +1,36 @@
+=========
+
+det(deal-3, The-1)
+amod(deal-3, best-2)
+root(ROOT-0, deal-3)
+det(market-6, the-5)
+prep_on(deal-3, market-6)
+
+=========
+
+det(phone-2, The-1)
+nsubj(updated-3, phone-2)
+root(ROOT-0, updated-3)
+dobj(updated-3, itself-4)
+prep_to(updated-3, 2.3.4-6)
+advmod(updated-3, automatically-7)
+
+=========
+
+nsubj(works-2, Everything-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+
+=========
+
+nsubj(wished-2, I-1)
+root(ROOT-0, wished-2)
+det(screen-4, the-3)
+nsubjpass(AMOLED-6, screen-4)
+auxpass(AMOLED-6, were-5)
+ccomp(wished-2, AMOLED-6)
+nsubj(LCD-11, it-8)
+cop(LCD-11, is-9)
+nn(LCD-11, Super-10)
+conj_but(wished-2, LCD-11)
+

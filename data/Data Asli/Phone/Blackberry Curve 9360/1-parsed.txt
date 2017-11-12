@@ -1,0 +1,23 @@
+=========
+
+dep(am-4, Hello-1)
+nsubj(am-4, I-3)
+dep(recommend-25, am-4)
+prep_from(am-4, Venezuela-6)
+det(product-9, the-8)
+nsubj(excellent-11, product-9)
+cop(excellent-11, is-10)
+conj_and(am-4, excellent-11)
+dep(recommend-25, excellent-11)
+prep_to(excellent-11, Digitel-14)
+num(Digitel-14, 3G-15)
+nn(movile-18, T-17)
+appos(Digitel-14, movile-18)
+dep(new-21, brand-20)
+amod(Digitel-14, new-21)
+num(%-24, 100-23)
+attr(excellent-11, %-24)
+root(ROOT-0, recommend-25)
+amod(product-27, reliable-26)
+nsubj(recommend-25, product-27)
+

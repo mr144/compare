@@ -1,0 +1,66 @@
+=========
+
+nsubj(better-3, This-1)
+cop(better-3, was-2)
+root(ROOT-0, better-3)
+mark(hope-7, than-4)
+nsubj(hope-7, I-5)
+aux(hope-7, could-6)
+ccomp(better-3, hope-7)
+prep(hope-7, for-8)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(operate-3, to-2)
+dep(Easy-1, operate-3)
+
+=========
+
+det(little-2, A-1)
+npadvmod(thick-3, little-2)
+root(ROOT-0, thick-3)
+amod(hands-6, small-5)
+prep_for(thick-3, hands-6)
+cc(workslike-9, but-7)
+nsubj(workslike-9, it-8)
+dep(thick-3, workslike-9)
+det(charm-11, a-10)
+dobj(workslike-9, charm-11)
+
+=========
+
+det(flash-2, The-1)
+nsubj(thing-6, flash-2)
+cop(thing-6, was-3)
+det(thing-6, the-4)
+num(thing-6, one-5)
+root(ROOT-0, thing-6)
+nsubj(found-8, I-7)
+rcmod(thing-6, found-8)
+complm(works-10, that-9)
+ccomp(found-8, works-10)
+dobj(works-10, best-11)
+det(pictures-15, all-13)
+amod(pictures-15, indoor-14)
+prep_with(best-11, pictures-15)
+
+=========
+
+dobj(try-3, Irecommend-1)
+nsubj(happy-10, Irecommend-1)
+nsubj(try-3, you-2)
+nsubj(see-5, you-2)
+rcmod(Irecommend-1, try-3)
+rcmod(Irecommend-1, see-5)
+conj_and(try-3, see-5)
+prep(try-3, if-6)
+poss(not-8, your-7)
+pobj(if-6, not-8)
+dep(happy-10, has-9)
+root(ROOT-0, happy-10)
+prep_with(happy-10, it-12)
+mark(am-15, as-13)
+nsubj(am-15, I-14)
+advcl(happy-10, am-15)
+

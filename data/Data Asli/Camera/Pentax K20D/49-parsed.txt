@@ -1,0 +1,44 @@
+=========
+
+nsubj(duplicate-4, I-1)
+aux(duplicate-4, will-2)
+neg(duplicate-4, not-3)
+root(ROOT-0, duplicate-4)
+nsubjpass(said-8, what-5)
+aux(said-8, has-6)
+auxpass(said-8, been-7)
+ccomp(duplicate-4, said-8)
+advmod(said-8, elsewhere-9)
+
+=========
+
+nsubj(line-2, Bottom-1)
+root(ROOT-0, line-2)
+nsubj(camera-8, this-3)
+nsubj(has-12, this-3)
+aux(camera-8, has-4)
+cop(camera-8, been-5)
+det(camera-8, a-6)
+amod(camera-8, great-7)
+ccomp(line-2, camera-8)
+prep_for(camera-8, me-10)
+ccomp(line-2, has-12)
+conj_and(camera-8, has-12)
+amod(features-15, top-13)
+amod(features-15, notch-14)
+dobj(has-12, features-15)
+dobj(has-12, erganomics-17)
+conj_and(features-15, erganomics-17)
+dobj(has-12, control-20)
+conj_and(features-15, control-20)
+
+=========
+
+advmod(used-2, Just-1)
+root(ROOT-0, used-2)
+dobj(used-2, it-3)
+det(wedding-6, a-5)
+prep_for(used-2, wedding-6)
+amod(results-9, great-8)
+prep_with(used-2, results-9)
+

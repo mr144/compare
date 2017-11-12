@@ -1,0 +1,40 @@
+=========
+
+nsubj(phone-5, It-1)
+cop(phone-5, is-2)
+det(phone-5, an-3)
+amod(phone-5, excellent-4)
+root(ROOT-0, phone-5)
+
+=========
+
+root(ROOT-0, With-1)
+advmod(good-3, very-2)
+amod(features-4, good-3)
+pobj(With-1, features-4)
+
+=========
+
+nsubj(pleased-5, I-1)
+advmod(pleased-5, really-2)
+cop(pleased-5, am-3)
+advmod(pleased-5, very-4)
+root(ROOT-0, pleased-5)
+poss(purchase-8, my-7)
+prep_with(pleased-5, purchase-8)
+det(seller-11, the-10)
+nsubj(responsible-13, seller-11)
+nsubj(reliable-15, seller-11)
+cop(responsible-13, is-12)
+conj_and(pleased-5, responsible-13)
+conj_and(pleased-5, reliable-15)
+conj_and(responsible-13, reliable-15)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+nsubj(%-5, it-3)
+number(%-5, 100-4)
+xcomp(recommend-2, %-5)
+

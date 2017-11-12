@@ -1,0 +1,2 @@
+This_DT is_VBZ my_PRP$ second_JJ smartphone_NN -LRB-_-LRB- also_RB bought_VBN in_IN Amazon_NNP -RRB-_-RRB- and_CC it_PRP is_VBZ working_VBG fine_JJ with_IN Movistar_NNP 's_POS network_NN EDGE\/3G_NNP -LRB-_-LRB- Ecuador_NNP ,_, South_NNP America_NNP -RRB-_-RRB- ._.
+Definitely_RB ,_, Android_NNP is_VBZ an_DT upgrade_NN over_IN the_DT Blackberry_NNP OS_NNP ._.

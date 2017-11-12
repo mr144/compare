@@ -1,0 +1,45 @@
+=========
+
+nsubj(phone-2, Great-1)
+root(ROOT-0, phone-2)
+det(price-6, a-4)
+amod(price-6, great-5)
+prep_for(phone-2, price-6)
+
+=========
+
+det(phone-2, This-1)
+nsubj(has-3, phone-2)
+nsubj(fast-12, phone-2)
+root(ROOT-0, has-3)
+dobj(has-3, most-4)
+det(features-8, the-6)
+amod(features-8, latest-7)
+prep_of(most-4, features-8)
+cop(fast-12, is-10)
+advmod(fast-12, really-11)
+conj_and(has-3, fast-12)
+
+=========
+
+mark(lacks-3, Although-1)
+nsubj(lacks-3, it-2)
+advcl(feel-9, lacks-3)
+amod(apps-5, certain-4)
+nsubj(look-7, apps-5)
+det(look-7, the-6)
+xcomp(lacks-3, look-7)
+root(ROOT-0, feel-9)
+nsubj(give-14, performance-12)
+aux(give-14, would-13)
+conj_and(feel-9, give-14)
+amod(phones-16, other-15)
+iobj(give-14, phones-16)
+poss(range-20, its-18)
+nn(range-20, price-19)
+prep_in(phones-16, range-20)
+det(run-22, a-21)
+dobj(give-14, run-22)
+poss(money-25, their-24)
+prep_for(run-22, money-25)
+

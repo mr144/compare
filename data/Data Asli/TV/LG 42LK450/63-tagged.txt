@@ -1,0 +1,6 @@
+I_PRP just_RB want_VBP to_TO stress_VB that_IN while_IN there_EX is_VBZ a_DT digital_JJ -LRB-_-LRB- TOSLINK_NNP -RRB-_-RRB- audio_NN out_IN ,_, there_EX is_VBZ NO_DT RCA_NNP AUDIO_NNP OUT_NNP ._.
+This_DT means_VBZ if_IN you_PRP are_VBP using_VBG it_PRP like_IN I_PRP was_VBD -LRB-_-LRB- Computer_NNP HDMI_NNP to_TO the_DT TV_NN -RRB-_-RRB- and_CC hoping_VBG to_TO run_VB the_DT audio_NN back_RB to_TO a_DT receiver_NN with_IN no_DT TOSLINK_NNP ,_, you_PRP are_VBP out_IN of_IN luck_NN ._.
+This_DT was_VBD a_DT deal_NN breaker_NN for_IN me_PRP ,_, so_IN I_PRP returned_VBD it_PRP and_CC got_VBD a_DT larger_JJR LG_NNP TV_NN with_IN audio_NN out_RP ._.
+If_IN you_PRP read_VBP some_DT of_IN the_DT many_JJ reviews_NNS of_IN this_DT TV_NN you_PRP 'll_MD find_VB good_JJ information_NN ._.
+I_PRP do_VBP feel_VB that_IN it_PRP is_VBZ a_DT good_JJ product_NN for_IN the_DT money_NN ._.
+Good_JJ picture_NN ,_, might_MD fall_VB a_DT little_RB short_JJ for_IN sports\/gaming_VBG ._.

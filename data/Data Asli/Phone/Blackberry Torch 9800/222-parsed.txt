@@ -1,0 +1,74 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(phone-4, this-3)
+dobj(purchased-2, phone-4)
+det(Milestone-7, the-6)
+prep_after(purchased-2, Milestone-7)
+
+=========
+
+nsubj(dropped-3, I-1)
+nsubj(had-10, I-1)
+aux(dropped-3, had-2)
+root(ROOT-0, dropped-3)
+dobj(dropped-3, calls-4)
+amod(calls-4, nonstop-5)
+det(milestone-8, the-7)
+prep_with(calls-4, milestone-8)
+conj_and(dropped-3, had-10)
+det(TON-12, a-11)
+dobj(had-10, TON-12)
+prep_of(TON-12, issues-14)
+prep_with(had-10, email-16)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dep(bought-2, phone-4)
+det(weeks-7, a-5)
+amod(weeks-7, few-6)
+npadvmod(ago-8, weeks-7)
+advmod(phone-4, ago-8)
+advmod(far-11, so-10)
+advmod(good-13, far-11)
+advmod(good-13, so-12)
+dep(bought-2, good-13)
+conj_and(phone-4, good-13)
+
+=========
+
+nsubj(apps-4, Lots-1)
+nsubj(easy-7, Lots-1)
+prep_of(Lots-1, fun-3)
+root(ROOT-0, apps-4)
+advmod(easy-7, very-6)
+conj_and(apps-4, easy-7)
+prep_to(easy-7, use-9)
+
+=========
+
+nsubj(LOVE-2, I-1)
+ccomp(easier-10, LOVE-2)
+det(keyboard-5, the-3)
+amod(keyboard-5, sliding-4)
+dobj(LOVE-2, keyboard-5)
+nsubj(easier-10, it-7)
+cop(easier-10, is-8)
+advmod(easier-10, much-9)
+root(ROOT-0, easier-10)
+prep_to(easier-10, type-12)
+prep_on(type-12, it-14)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+poss(purchase-7, my-6)
+prep_with(happy-4, purchase-7)
+

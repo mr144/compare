@@ -1,0 +1,74 @@
+=========
+
+det(phone-3, The-1)
+nn(phone-3, cell-2)
+poss(size-5, phone-3)
+nsubj(fit-7, size-5)
+cop(fit-7, is-6)
+root(ROOT-0, fit-7)
+poss(style-10, my-9)
+prep_to(fit-7, style-10)
+
+=========
+
+nsubj(large-5, It-1)
+nsubj(small-8, It-1)
+cop(large-5, is-2)
+neg(large-5, not-3)
+advmod(large-5, too-4)
+root(ROOT-0, large-5)
+advmod(small-8, too-7)
+conj_or(large-5, small-8)
+amod(people-11, average-10)
+prep_for(large-5, people-11)
+
+=========
+
+nsubj(meets-2, It-1)
+root(ROOT-0, meets-2)
+poss(requirements-4, my-3)
+dobj(meets-2, requirements-4)
+nn(map-7, GPS-6)
+prep_for(meets-2, map-7)
+nn(E-mails-11, Browser-9)
+appos(map-7, E-mails-11)
+
+=========
+
+nsubj(runs-2, It-1)
+root(ROOT-0, runs-2)
+acomp(runs-2, smootly-3)
+advmod(good-6, very-5)
+acomp(runs-2, good-6)
+conj_and(smootly-3, good-6)
+prep_in(runs-2, response-8)
+
+=========
+
+nsubj(quick-3, It-1)
+cop(quick-3, is-2)
+root(ROOT-0, quick-3)
+mark(has-8, in-4)
+ccomp(has-8, start-5)
+prt(start-5, up-6)
+advcl(quick-3, has-8)
+det(lot-10, a-9)
+dobj(has-8, lot-10)
+amod(memory-13, internal-12)
+prep_of(lot-10, memory-13)
+prep_for(memory-13, apps-15)
+
+=========
+
+amod(processor-4, Single-1)
+amod(processor-4, core-2)
+amod(processor-4, 1GHz-3)
+nsubj(good-7, processor-4)
+cop(good-7, is-5)
+advmod(good-7, pretty-6)
+root(ROOT-0, good-7)
+det(device-11, a-9)
+amod(device-11, mobile-10)
+prep_for(good-7, device-11)
+prep_like(device-11, this-13)
+

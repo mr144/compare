@@ -1,0 +1,2 @@
+please_VB need_NN goodnight_NN Product_NN invoice_NN if_IN possible_JJ send_VBP me_PRP via_IN email_NN ._.
+thanksbuenas_FW noches_FW necesito_FW que_FW me_FW envien_FW via_IN email_FW la_FW factura_FW de_FW la_FW compra_FW ,_, gracias_NNS

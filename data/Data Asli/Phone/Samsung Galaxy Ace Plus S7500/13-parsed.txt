@@ -1,0 +1,53 @@
+=========
+
+nsubj(phone-5, It-1)
+cop(phone-5, is-2)
+det(phone-5, an-3)
+amod(phone-5, excellent-4)
+root(ROOT-0, phone-5)
+det(version-9, this-7)
+amod(version-9, new-8)
+prep_in(phone-5, version-9)
+nn(plus-12, ace-11)
+prep_of(version-9, plus-12)
+
+=========
+
+nsubj(have-3, Users-1)
+aux(have-3, can-2)
+ccomp(gps-16, have-3)
+det(functions-6, the-4)
+amod(functions-6, basic-5)
+dobj(have-3, functions-6)
+amod(internet-9, anytime-8)
+dobj(have-3, internet-9)
+conj_and(functions-6, internet-9)
+nsubj(gps-16, mail-11)
+amod(apps-14, android-13)
+appos(mail-11, apps-14)
+root(ROOT-0, gps-16)
+advmod(important-18, very-17)
+acomp(gps-16, important-18)
+
+=========
+
+dobj(takes-3, All-1)
+nsubj(camera-7, All-1)
+nsubj(takes-3, it-2)
+rcmod(All-1, takes-3)
+cop(camera-7, is-4)
+det(camera-7, the-5)
+amod(camera-7, front-6)
+root(ROOT-0, camera-7)
+aux(use-9, to-8)
+infmod(camera-7, use-9)
+det(applications-12, some-10)
+nn(applications-12, communication-11)
+dobj(use-9, applications-12)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, it-3)
+

@@ -1,0 +1,2 @@
+It_PRP works_VBZ ,_, looks_VBZ good_JJ and_CC was_VBD fairly_RB easy_JJ to_TO set_VB up_RP ._.
+Negative_JJ it_PRP takes_VBZ a_DT long_JJ time_NN to_TO power_NN on_IN ._.

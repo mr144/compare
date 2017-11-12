@@ -1,0 +1,4 @@
+I_PRP ordered_VBD the_DT wrong_JJ size_NN ._.
+My_PRP$ other_JJ television_NN is_VBZ bigger_JJR ._.
+Hopefully_RB next_JJ year_NN I_PRP can_MD purchase_VB a_DT bigger_JJR size_NN ._.
+All_DT and_CC all_DT I_PRP love_VBP the_DT television_NN it_PRP is_VBZ now_RB in_IN my_PRP$ bedroom_NN for_IN me_PRP to_TO relax_VB and_CC enjoy_VB ._.

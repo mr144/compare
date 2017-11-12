@@ -1,0 +1,29 @@
+=========
+
+poss(phone-12, its-1)
+amod(phone-12, small-2)
+conj_and(small-2, easy-4)
+amod(phone-12, easy-4)
+prep_to(easy-4, use-6)
+advmod(use-6, also-8)
+det(windowd-11, the-9)
+amod(windowd-11, first-10)
+dep(use-6, windowd-11)
+nsubj(change-14, phone-12)
+aux(change-14, has-13)
+root(ROOT-0, change-14)
+dep(some-16, the-15)
+dobj(change-14, some-16)
+amod(phone-19, nokias-18)
+prep_of(some-16, phone-19)
+poss(cpu-23, its-22)
+prep_such_as(phone-19, cpu-23)
+
+=========
+
+nsubj(smartphone-5, It-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, best-4)
+root(ROOT-0, smartphone-5)
+

@@ -1,0 +1,54 @@
+=========
+
+det(tv-2, this-1)
+nsubj(has-3, tv-2)
+root(ROOT-0, has-3)
+dobj(has-3, one-4)
+det(pictures-8, the-6)
+amod(pictures-8, best-7)
+prep_of(one-4, pictures-8)
+dobj(seen-11, pictures-8)
+nsubj(seen-11, I-9)
+aux(seen-11, have-10)
+rcmod(pictures-8, seen-11)
+
+=========
+
+nsubj(nice-4, It-1)
+cop(nice-4, is-2)
+advmod(nice-4, especially-3)
+root(ROOT-0, nice-4)
+det(price-7, the-6)
+prep_for(nice-4, price-7)
+
+=========
+
+nsubj(bought-2, I-1)
+nsubj(using-9, I-1)
+nsubj(considering-19, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+poss(bedroom-6, my-5)
+prep_for(this-3, bedroom-6)
+aux(using-9, am-8)
+conj_and(bought-2, using-9)
+dobj(using-9, it-10)
+det(room-14, the-12)
+amod(room-14, living-13)
+prep_in(using-9, room-14)
+aux(considering-19, am-17)
+advmod(considering-19, seriously-18)
+conj_and(bought-2, considering-19)
+xcomp(considering-19, buying-20)
+det(tv-23, the-21)
+amod(tv-23, same-22)
+dobj(buying-20, tv-23)
+det(screen-27, a-25)
+amod(screen-27, larger-26)
+prep_in(buying-20, screen-27)
+
+=========
+
+nsubj(buy-2, Great-1)
+root(ROOT-0, buy-2)
+

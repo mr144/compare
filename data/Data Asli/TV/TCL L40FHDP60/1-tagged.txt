@@ -1,0 +1,7 @@
+When_WRB I_PRP bought_VBD the_DT tv_NN I_PRP spent_VBD about_IN $_$ 190_CD ,_, which_WDT includes_VBZ a_DT two-year_JJ warranty_NN ._.
+HD_NNP is_VBZ solid_JJ and_CC the_DT sound_NN is_VBZ clear_JJ ._.
+Menu_NN is_VBZ easy_JJ to_TO navigate_VB ._.
+I_PRP enjoy_VBP watching_VBG tv_NN and_CC I_PRP watch_VBP a_DT lot_NN of_IN it_PRP ._.
+It_PRP rarely_RB gets_VBZ hot_JJ ._.
+ONLY_NN problem_NN was_VBD setting_VBG up_RP the_DT tv_NN stand_NN ._.
+Other_JJ than_IN that_DT save_VB some_DT money_NN and_CC buy_VB this_DT tv_NN !_.

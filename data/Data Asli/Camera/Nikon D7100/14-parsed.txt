@@ -1,0 +1,30 @@
+=========
+
+dep(product-4, Is-1)
+det(product-4, an-2)
+amod(product-4, excellent-3)
+ccomp(happy-9, product-4)
+nsubj(happy-9, I-6)
+cop(happy-9, am-7)
+advmod(happy-9, very-8)
+root(ROOT-0, happy-9)
+poss(camera-12, my-11)
+prep_with(happy-9, camera-12)
+
+=========
+
+amod(photos-2, Great-1)
+root(ROOT-0, photos-2)
+amod(colors-5, beautiful-4)
+appos(photos-2, colors-5)
+amod(features-8, wonderful-7)
+appos(photos-2, features-8)
+conj_and(colors-5, features-8)
+
+=========
+
+det(best-2, The-1)
+nsubj(DX-3, best-2)
+root(ROOT-0, DX-3)
+dobj(DX-3, camera-4)
+

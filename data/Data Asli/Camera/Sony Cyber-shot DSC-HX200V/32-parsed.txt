@@ -1,0 +1,35 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+prep_in(love-2, macro-5)
+appos(macro-5, zoom-7)
+det(setting-10, every-9)
+appos(zoom-7, setting-10)
+
+=========
+
+nsubj(better-4, It-1)
+cop(better-4, is-2)
+advmod(better-4, even-3)
+root(ROOT-0, better-4)
+prepc_at(better-4, capturing-6)
+xcomp(capturing-6, flying-7)
+amod(birds-9, large-8)
+dobj(flying-7, birds-9)
+advmod(flying-7, clearly-10)
+
+=========
+
+nsubj(get-3, I-1)
+neg(get-3, never-2)
+root(ROOT-0, get-3)
+xcomp(get-3, flying-4)
+amod(birds-6, small-5)
+dobj(flying-4, birds-6)
+mark(landing-10, unless-7)
+nsubj(landing-10, they-8)
+aux(landing-10, are-9)
+advcl(flying-4, landing-10)
+

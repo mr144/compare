@@ -1,0 +1,41 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+amod(3gs-4, iphone-3)
+dobj(had-2, 3gs-4)
+nn(smartphone-7, HTC-6)
+dobj(had-2, smartphone-7)
+conj_and(3gs-4, smartphone-7)
+advmod(had-2, before-8)
+
+=========
+
+nsubj(buy-2, I-1)
+root(ROOT-0, buy-2)
+det(smartphone-4, this-3)
+dobj(buy-2, smartphone-4)
+amod(week-6, last-5)
+tmod(buy-2, week-6)
+
+=========
+
+nn(performance-2, Better-1)
+root(ROOT-0, performance-2)
+amod(processor-5, better-4)
+appos(performance-2, processor-5)
+amod(camera-8, better-7)
+appos(performance-2, camera-8)
+poss(iphone-12, my-10)
+amod(iphone-12, old-11)
+prep_than(camera-8, iphone-12)
+prep_than(camera-8, HTC-14)
+conj_and(iphone-12, HTC-14)
+
+=========
+
+det(phone-3, The-1)
+amod(phone-3, greatest-2)
+root(ROOT-0, phone-3)
+prep_for(phone-3, me-5)
+

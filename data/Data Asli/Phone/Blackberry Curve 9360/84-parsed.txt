@@ -1,0 +1,29 @@
+=========
+
+aux(work-4, Would-1)
+det(phone-3, this-2)
+nsubj(work-4, phone-3)
+root(ROOT-0, work-4)
+nn(venezuela-7, movistar-6)
+prep_with(work-4, venezuela-7)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+mark(buy-5, like-3)
+aux(buy-5, to-4)
+advcl(did-2, buy-5)
+xcomp(did-2, buy-5)
+dobj(buy-5, one-6)
+cc(want-9, but-7)
+nsubj(want-9, I-8)
+xsubj(know-11, I-8)
+dep(buy-5, want-9)
+aux(know-11, to-10)
+xcomp(want-9, know-11)
+mark(work-15, if-12)
+nsubj(work-15, it-13)
+aux(work-15, would-14)
+advcl(know-11, work-15)
+

@@ -1,0 +1,52 @@
+=========
+
+nsubj(tv-5, This-1)
+cop(tv-5, is-2)
+det(tv-5, a-3)
+amod(tv-5, great-4)
+root(ROOT-0, tv-5)
+rcmod(tv-5, falls-7)
+advmod(short-9, slightly-8)
+acomp(falls-7, short-9)
+poss(kuro-12, my-11)
+prep_to(short-9, kuro-12)
+nsubj(disappointed-17, I-14)
+cop(disappointed-17, am-15)
+neg(disappointed-17, not-16)
+conj_but(tv-5, disappointed-17)
+
+=========
+
+nsubj(perfect-4, Colors-1)
+cop(perfect-4, are-2)
+advmod(perfect-4, just-3)
+root(ROOT-0, perfect-4)
+nsubj(excellent-8, blacks-6)
+cop(excellent-8, are-7)
+conj_and(perfect-4, excellent-8)
+
+=========
+
+nsubj(has-2, Kuro-1)
+root(ROOT-0, has-2)
+det(bit-4, a-3)
+npadvmod(more-5, bit-4)
+amod(depth-6, more-5)
+dobj(has-2, depth-6)
+nsubj(king-11, Panasonic-8)
+aux(king-11, will-9)
+cop(king-11, be-10)
+conj_but(has-2, king-11)
+prep_of(king-11, plasma-13)
+prep_in(plasma-13, 2013-15)
+
+=========
+
+nsubjpass(dethroned-5, Kuro-1)
+advmod(dethroned-5, finally-2)
+aux(dethroned-5, will-3)
+auxpass(dethroned-5, be-4)
+root(ROOT-0, dethroned-5)
+det(ZT60-8, the-7)
+agent(dethroned-5, ZT60-8)
+

@@ -1,0 +1,52 @@
+=========
+
+root(ROOT-0, Faster-1)
+nn(Plus-4, Ace-3)
+prep_than(Faster-1, Plus-4)
+
+=========
+
+amod(size-3, nice-1)
+nn(size-3, screen-2)
+root(ROOT-0, size-3)
+appos(size-3, Battery-5)
+dep(Battery-5, does-6)
+neg(does-6, not-7)
+advmod(does-6, long-8)
+advmod(much-10, too-9)
+advmod(does-6, much-10)
+
+=========
+
+root(ROOT-0, Android-1)
+nn(Fast-5, 4-2)
+nn(Fast-5, OS-3)
+nn(Fast-5, Works-4)
+dobj(Android-1, Fast-5)
+conj_but(Android-1, slow-7)
+prt(slow-7, down-8)
+det(Apps-11, some-10)
+prep_with(slow-7, Apps-11)
+prep_like(slow-7, Skype-13)
+
+=========
+
+dep(Phone-3, Very-1)
+amod(Phone-3, nice-2)
+root(ROOT-0, Phone-3)
+
+=========
+
+nsubj(want-2, You-1)
+root(ROOT-0, want-2)
+det(smartphone-7, a-3)
+amod(smartphone-7, Good-4)
+conj_and(Good-4, unexpensive-6)
+amod(smartphone-7, unexpensive-6)
+dobj(want-2, smartphone-7)
+nsubj(!!-13, this-9)
+cop(!!-13, is-10)
+det(!!-13, the-11)
+num(!!-13, one-12)
+dep(want-2, !!-13)
+

@@ -1,0 +1,6 @@
+The_DT price_NN ,_, features_NNS and_CC zoom_NN beat_VBD out_RP all_DT of_IN the_DT competition_NN ._.
+The_DT big_JJ problem_NN is_VBZ it_PRP takes_VBZ 20_CD seconds_NNS to_TO process_VB picture_NN and_CC return_NN to_TO ready_JJ ._.
+Shutter_NNP speed_NN is_VBZ slow_JJ ,_, press_NN button_NN and_CC sometimes_RB the_DT picture_NN is_VBZ gone_VBN before_IN it_PRP takes_VBZ the_DT picture_NN ._.
+Sometimes_RB the_DT flash_NN does_VBZ not_RB go_VB off_RP at_IN all_DT when_WRB it_PRP should_MD ._.
+Yes_RB it_PRP has_VBZ the_DT latest_JJS firmware_NN update_VBP 1.12_CD dated_JJ 2011-11_CD and_CC I_PRP use_VBP 6_CD &_CC 10_CD High_JJ Speed_NN cards_NNS ._.
+Pressing_VBG the_DT shutter_NN button_NN while_IN waiting_VBG does_VBZ not_RB help_VB ._.

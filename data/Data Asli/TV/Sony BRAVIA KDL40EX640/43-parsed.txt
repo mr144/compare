@@ -1,0 +1,108 @@
+=========
+
+nsubj(choice-6, SONY-1)
+aux(choice-6, has-2)
+cop(choice-6, been-3)
+poss(choice-6, our-4)
+amod(choice-6, only-5)
+root(ROOT-0, choice-6)
+advmod(comes-9, when-7)
+nsubj(comes-9, it-8)
+advcl(choice-6, comes-9)
+nn(TV-12, buying-11)
+prep_to(comes-9, TV-12)
+
+=========
+
+cc(had-4, And-1)
+nsubj(had-4, we-2)
+aux(had-4, have-3)
+root(ROOT-0, had-4)
+det(problem-6, no-5)
+dobj(had-4, problem-6)
+
+=========
+
+det(resolution-2, The-1)
+nsubj(perfect-4, resolution-2)
+cop(perfect-4, is-3)
+root(ROOT-0, perfect-4)
+
+=========
+
+nsubj(love-2, We-1)
+root(ROOT-0, love-2)
+det(function-5, the-3)
+amod(function-5, internet-4)
+dobj(love-2, function-5)
+
+=========
+
+root(ROOT-0, Its-1)
+advmod(easy-3, so-2)
+acomp(Its-1, easy-3)
+aux(set-5, to-4)
+xcomp(easy-3, set-5)
+prt(set-5, up-6)
+
+=========
+
+dep(great-2, Looks-1)
+root(ROOT-0, great-2)
+poss(area-6, our-4)
+nn(area-6, dining-5)
+prep_in(great-2, area-6)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(40-5, this-4)
+nsubj(inch-6, 40-5)
+ccomp(recommend-3, inch-6)
+nn(Tv-8, Sony-7)
+nsubj(evrryone-10, Tv-8)
+aux(evrryone-10, to-9)
+xcomp(inch-6, evrryone-10)
+
+=========
+
+root(ROOT-0, Worth-1)
+det(price-3, the-2)
+dep(Worth-1, price-3)
+
+=========
+
+dep(unbelievable-4, Its-1)
+advmod(thin-3, so-2)
+dep(unbelievable-4, thin-3)
+root(ROOT-0, unbelievable-4)
+
+=========
+
+nsubj(saw-2, I-1)
+root(ROOT-0, saw-2)
+nsubj(complained-4, some-3)
+ccomp(saw-2, complained-4)
+det(sound-7, the-6)
+prep_about(complained-4, sound-7)
+
+=========
+
+nsubj(prrfect-3, Its-1)
+advmod(prrfect-3, just-2)
+root(ROOT-0, prrfect-3)
+
+=========
+
+root(ROOT-0, Has-1)
+amod(quality-4, good-2)
+amod(quality-4, sound-3)
+dobj(Has-1, quality-4)
+
+=========
+
+nn(SONY-2, Thanks-1)
+root(ROOT-0, SONY-2)
+

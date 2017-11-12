@@ -1,0 +1,25 @@
+=========
+
+ccomp(satisfied-7, Excellent-1)
+dobj(Excellent-1, product-2)
+nsubjpass(satisfied-7, I-4)
+auxpass(satisfied-7, am-5)
+advmod(satisfied-7, very-6)
+root(ROOT-0, satisfied-7)
+det(purchase-10, the-9)
+prep_with(satisfied-7, purchase-10)
+
+=========
+
+root(ROOT-0, Recommend-1)
+det(seller-3, this-2)
+nsubj(Recommend-1, seller-3)
+amod(transaction-6, easy-5)
+appos(seller-3, transaction-6)
+det(+-12, A-7)
+nn(+-12, +-8)
+nn(+-12, +-9)
+nn(+-12, +-10)
+nn(+-12, +-11)
+dep(transaction-6, +-12)
+

@@ -1,0 +1,36 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(smartphone-5, some-3)
+amod(smartphone-5, first-4)
+dobj(have-2, smartphone-5)
+
+=========
+
+cc(think-3, but-1)
+nsubj(think-3, I-2)
+ccomp(smartphone-9, think-3)
+nsubj(smartphone-9, it-5)
+cop(smartphone-9, is-6)
+det(smartphone-9, the-7)
+amod(smartphone-9, best-8)
+root(ROOT-0, smartphone-9)
+
+=========
+
+det(smartphone-2, This-1)
+nsubj(better-5, smartphone-2)
+cop(better-5, is-3)
+advmod(better-5, much-4)
+root(ROOT-0, better-5)
+det(produk-15, the-7)
+nn(produk-15, LG-8)
+conj_or(LG-8, Blackberry-10)
+nn(produk-15, Blackberry-10)
+conj_or(LG-8, xperia-12)
+nn(produk-15, xperia-12)
+conj_or(LG-8, samsung-14)
+nn(produk-15, samsung-14)
+prep_than(better-5, produk-15)
+

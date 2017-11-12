@@ -1,0 +1,1 @@
+my_PRP$ purchase_NN exceeded_VBD my_PRP$ expectations_NNS ,_, I_PRP am_VBP not_RB a_DT professional_JJ photographer_NN ,_, but_CC taking_VBG pictures_NNS with_IN this_DT camera_NN as_IN a_DT professional_NN ,_, I_PRP love_VBP the_DT macro_NN capabilities_NNS ._.

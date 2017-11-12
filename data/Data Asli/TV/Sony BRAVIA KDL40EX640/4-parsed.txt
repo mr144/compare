@@ -1,0 +1,94 @@
+=========
+
+amod(picture-4, Remarkable-1)
+amod(picture-4, outstanding-3)
+nsubj(perfect-10, picture-4)
+appos(picture-4, simple-6)
+partmod(simple-6, set-7)
+prt(set-7, up-8)
+root(ROOT-0, perfect-10)
+dobj(perfect-10, size-11)
+poss(room-14, our-13)
+prep_for(size-11, room-14)
+
+=========
+
+nsubj(good-3, Sound-1)
+cop(good-3, is-2)
+root(ROOT-0, good-3)
+amod(ways-7, many-6)
+prep_with(good-3, ways-7)
+aux(tailor-9, to-8)
+infmod(ways-7, tailor-9)
+dobj(tailor-9, it-10)
+poss(taste-13, your-12)
+prep_to(tailor-9, taste-13)
+prep_to(tailor-9, needs-15)
+conj_and(taste-13, needs-15)
+det(voice-20, a-17)
+npadvmod(clear-19, &#34;-18)
+amod(voice-20, clear-19)
+prep_including(tailor-9, voice-20)
+dobj(feature-29, voice-20)
+num(setting-22, &#34;-21)
+nsubj(feature-29, setting-22)
+xsubj(minimize-31, setting-22)
+det(sound-27, a-24)
+num(sound-27, &#34;-25)
+amod(sound-27, steady-26)
+conj_and(setting-22, sound-27)
+nsubj(feature-29, sound-27)
+xsubj(minimize-31, sound-27)
+num(sound-27, &#34;-28)
+rcmod(voice-20, feature-29)
+aux(minimize-31, to-30)
+xcomp(feature-29, minimize-31)
+dobj(minimize-31, changes-32)
+prep_in(minimize-31, volume-34)
+nsubj(louder-43, volume-34)
+prep_between(volume-34, programs-36)
+prep_between(volume-34, commercials-38)
+conj_and(programs-36, commercials-38)
+cop(louder-43, are-41)
+advmod(louder-43, often-42)
+rcmod(volume-34, louder-43)
+
+=========
+
+advmod(connected-2, Easily-1)
+root(ROOT-0, connected-2)
+poss(system-6, my-4)
+amod(system-6, stereo-5)
+prep_to(connected-2, system-6)
+
+=========
+
+prepc_as_for(excellent-7, for-2)
+det(seller-4, the-3)
+pobj(excellent-7, seller-4)
+advmod(excellent-7, also-6)
+root(ROOT-0, excellent-7)
+
+=========
+
+nsubj(came-2, TV-1)
+root(ROOT-0, came-2)
+advmod(quickly-4, more-3)
+advmod(came-2, quickly-4)
+mark(expected-6, than-5)
+dep(quickly-4, expected-6)
+auxpass(described-11, was-8)
+advmod(as-10, exactly-9)
+advmod(described-11, as-10)
+dep(quickly-4, described-11)
+conj_and(expected-6, described-11)
+
+=========
+
+nsubj(buy-3, I-1)
+aux(buy-3, would-2)
+root(ROOT-0, buy-3)
+prep_from(buy-3, them-5)
+advmod(buy-3, again-6)
+prep_without(buy-3, hesitation-8)
+

@@ -1,0 +1,65 @@
+=========
+
+advmod(say-4, OK-1)
+aux(say-4, could-3)
+root(ROOT-0, say-4)
+det(lot-6, a-5)
+dobj(say-4, lot-6)
+aux(keep-9, will-8)
+conj_but(say-4, keep-9)
+nsubj(simple-11, it-10)
+xcomp(keep-9, simple-11)
+
+=========
+
+advmod(using-2, Still-1)
+root(ROOT-0, using-2)
+poss(S5000-4, my-3)
+dobj(using-2, S5000-4)
+
+=========
+
+det(cover-4, The-1)
+nn(cover-4, camera-2)
+nn(cover-4, lens-3)
+nsubj(pain-7, cover-4)
+cop(pain-7, is-5)
+det(pain-7, a-6)
+root(ROOT-0, pain-7)
+num(wa-11, wa-9)
+nn(wa-11, wa-10)
+appos(pain-7, wa-11)
+
+=========
+
+advmod(used-3, Still-1)
+auxpass(used-3, getting-2)
+root(ROOT-0, used-3)
+prep_to(used-3, it-5)
+
+=========
+
+poss(FUJI-4, my-2)
+amod(FUJI-4, older-3)
+nsubj(wondering-6, FUJI-4)
+advmod(wondering-6, just-5)
+prepc_love(need-22, wondering-6)
+mark(waited-11, if-7)
+nsubj(waited-11, I-8)
+nsubj(sprung-13, I-8)
+aux(waited-11, should-9)
+aux(waited-11, have-10)
+advcl(wondering-6, waited-11)
+advcl(wondering-6, sprung-13)
+conj_and(waited-11, sprung-13)
+det(pics-19, the-15)
+nn(pics-19, DSLR-16)
+nn(pics-19, ??-17)
+amod(pics-19, Good-18)
+prep_for(waited-11, pics-19)
+advmod(need-22, just-21)
+root(ROOT-0, need-22)
+aux(shoot-24, to-23)
+xcomp(need-22, shoot-24)
+dobj(shoot-24, more-25)
+

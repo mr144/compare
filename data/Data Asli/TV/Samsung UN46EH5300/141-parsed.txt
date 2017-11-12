@@ -1,0 +1,33 @@
+=========
+
+nn(TV-2, Great-1)
+nsubj(picture-8, TV-2)
+prep_with(TV-2, internet-4)
+amod(internet-4, accessible-5)
+amod(internet-4, great-7)
+conj_and(accessible-5, great-7)
+root(ROOT-0, picture-8)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+prep_to(recommend-3, everyone-5)
+
+=========
+
+nsubj(take-4, It-1)
+xsubj(hook-10, It-1)
+aux(take-4, did-2)
+neg(take-4, not-3)
+root(ROOT-0, take-4)
+det(time-6, any-5)
+dobj(take-4, time-6)
+advmod(take-4, at-7)
+pobj(at-7, all-8)
+aux(hook-10, to-9)
+xcomp(take-4, hook-10)
+dobj(hook-10, it-11)
+prt(hook-10, up-12)
+

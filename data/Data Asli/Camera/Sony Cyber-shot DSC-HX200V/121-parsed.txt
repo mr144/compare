@@ -1,0 +1,26 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, wonderful-4)
+root(ROOT-0, camera-5)
+nsubj(replaces-8, it-7)
+conj_and(camera-5, replaces-8)
+det(model-12, an-9)
+amod(model-12, older-10)
+nn(model-12, Sony-11)
+dobj(replaces-8, model-12)
+dobj(had-15, model-12)
+complm(had-15, that-13)
+nsubj(had-15, we-14)
+dep(model-12, had-15)
+
+=========
+
+nsubj(pleased-4, We-1)
+cop(pleased-4, are-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+prep_with(pleased-4, it-6)
+

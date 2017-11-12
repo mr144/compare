@@ -1,0 +1,59 @@
+=========
+
+nsubj(phone-2, Ordered-1)
+root(ROOT-0, phone-2)
+poss(son-5, my-4)
+prep_for(phone-2, son-5)
+
+=========
+
+root(ROOT-0, Arrived-1)
+advmod(Arrived-1, directly-2)
+prep_on(Arrived-1, time-4)
+
+=========
+
+dep(issues-5, Well-1)
+dep(Well-1, packaged-2)
+det(issues-5, no-4)
+root(ROOT-0, issues-5)
+
+=========
+
+root(ROOT-0, Love-1)
+det(phone-3, this-2)
+dobj(Love-1, phone-3)
+
+=========
+
+nsubj(phone-2, Great-1)
+root(ROOT-0, phone-2)
+
+=========
+
+nsubj(amazing-6, Functionality-1)
+det(phone-4, this-3)
+prep_of(Functionality-1, phone-4)
+cop(amazing-6, is-5)
+root(ROOT-0, amazing-6)
+
+=========
+
+amod(graphics-2, Phone-1)
+nsubj(great-4, graphics-2)
+cop(great-4, are-3)
+root(ROOT-0, great-4)
+
+=========
+
+amod(quality-2, Sound-1)
+nsubj(great-4, quality-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+aux(recommend-3, Would-1)
+advmod(recommend-3, totally-2)
+root(ROOT-0, recommend-3)
+

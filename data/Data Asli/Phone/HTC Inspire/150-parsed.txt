@@ -1,0 +1,186 @@
+=========
+
+prep(had-11, Through-1)
+pcomp(Through-1, out-2)
+det(span-5, the-3)
+nn(span-5, life-4)
+prep_out(Through-1, span-5)
+nn(phones-8, cell-7)
+prep_of(span-5, phones-8)
+nsubj(had-11, I-9)
+aux(had-11, have-10)
+root(ROOT-0, had-11)
+amod(types-13, countless-12)
+dobj(had-11, types-13)
+prep_of(types-13, phones-15)
+nn(Nokia-23, Motorola-17)
+appos(Nokia-23, Samsung-19)
+appos(Nokia-23, HTC-21)
+prep_of(types-13, Nokia-23)
+conj_and(phones-15, Nokia-23)
+prep_of(types-13, Iphone-26)
+conj_and(phones-15, Iphone-26)
+
+=========
+
+det(time-3, The-1)
+amod(time-3, last-2)
+nsubj(had-5, time-3)
+nsubj(had-5, I-4)
+root(ROOT-0, had-5)
+det(HTC-7, an-6)
+dobj(had-5, HTC-7)
+dobj(work-11, HTC-7)
+nsubj(work-11, it-8)
+aux(work-11, did-9)
+neg(work-11, not-10)
+rcmod(HTC-7, work-11)
+advmod(at-13, well-12)
+advmod(work-11, at-13)
+pobj(at-13, all-14)
+
+=========
+
+nsubj(freeze-4, It-1)
+aux(freeze-4, would-2)
+advmod(freeze-4, always-3)
+root(ROOT-0, freeze-4)
+prep_on(freeze-4, me-6)
+
+=========
+
+advmod(fell-25, So-1)
+advmod(fell-25, recently-2)
+det(fact-6, the-5)
+prep_due_to(fell-25, fact-6)
+dep(piece-13, that-7)
+poss(Iphone-9, my-8)
+nsubj(piece-13, Iphone-9)
+cop(piece-13, was-10)
+advmod(piece-13, just-11)
+det(piece-13, a-12)
+nsubj(shattered-18, piece-13)
+ccomp(fell-25, piece-13)
+amod(glass-16, fragile-15)
+prep_of(piece-13, glass-16)
+rcmod(piece-13, shattered-18)
+prep_on(shattered-18, me-20)
+det(time-23, the-21)
+amod(time-23, first-22)
+dobj(shattered-18, time-23)
+nsubj(fell-25, it-24)
+root(ROOT-0, fell-25)
+nsubj(decided-27, I-26)
+xsubj(go-29, I-26)
+ccomp(fell-25, decided-27)
+aux(go-29, to-28)
+xcomp(decided-27, go-29)
+det(Inspire-33, the-31)
+nn(Inspire-33, HTC-32)
+prep_for(go-29, Inspire-33)
+
+=========
+
+root(ROOT-0, Boy-1)
+
+=========
+
+det(phone-2, this-1)
+nsubj(fun-4, phone-2)
+cop(fun-4, is-3)
+root(ROOT-0, fun-4)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+advmod(many-4, so-3)
+acomp(are-2, many-4)
+ccomp(many-4, features-5)
+complm(has-10, that-6)
+neg(has-10, not-7)
+advmod(Iphone-9, even-8)
+nsubj(has-10, Iphone-9)
+ccomp(features-5, has-10)
+
+=========
+
+nsubj(fast-3, It-1)
+cop(fast-3, is-2)
+ccomp(easier-10, fast-3)
+nsubj(easier-10, texting-5)
+cop(easier-10, is-6)
+det(lot-8, a-7)
+dep(more-9, lot-8)
+npadvmod(easier-10, more-9)
+root(ROOT-0, easier-10)
+
+=========
+
+det(screen-2, The-1)
+nsubj(size-6, screen-2)
+cop(size-6, is-3)
+det(size-6, a-4)
+amod(size-6, great-5)
+root(ROOT-0, size-6)
+complm(see-10, that-7)
+nsubj(see-10, you-8)
+aux(see-10, can-9)
+ccomp(size-6, see-10)
+dobj(see-10, anything-11)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(camera-4, a-3)
+dobj(has-2, camera-4)
+nsubj(puts-6, camera-4)
+rcmod(camera-4, puts-6)
+amod(camera-8, Iphone-7)
+dobj(puts-6, camera-8)
+prep_to(puts-6, shame-10)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(pictures-3, great-2)
+dobj(Takes-1, pictures-3)
+
+=========
+
+cc(recommend-19, So-1)
+mark(thinking-5, if-2)
+nsubj(thinking-5, you-3)
+nsubj(sure-12, you-3)
+aux(thinking-5, are-4)
+csubj(recommend-19, thinking-5)
+det(phone-8, a-7)
+prep_about(thinking-5, phone-8)
+dep(sure-12, not-10)
+advmod(sure-12, too-11)
+conj_but(thinking-5, sure-12)
+csubj(recommend-19, sure-12)
+dobj(go-16, which-13)
+nsubj(go-16, one-14)
+aux(go-16, to-15)
+dep(sure-12, go-16)
+prep_for(go-16, I-18)
+root(ROOT-0, recommend-19)
+det(Inspire-22, the-20)
+nn(Inspire-22, HTC-21)
+dobj(recommend-19, Inspire-22)
+
+=========
+
+nsubj(regret-4, You-1)
+aux(regret-4, will-2)
+neg(regret-4, not-3)
+root(ROOT-0, regret-4)
+dobj(regret-4, it-5)
+dep(regret-4, I-6)
+dep(I-6, promise-7)
+
+=========
+
+

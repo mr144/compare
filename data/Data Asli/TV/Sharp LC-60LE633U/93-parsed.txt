@@ -1,0 +1,77 @@
+=========
+
+det(TV-2, This-1)
+nsubj(has-3, TV-2)
+root(ROOT-0, has-3)
+det(quality-5, a-4)
+dobj(has-3, quality-5)
+nsubj(has-7, quality-5)
+rcmod(quality-5, has-7)
+aux(seen-10, to-8)
+auxpass(seen-10, be-9)
+xcomp(has-7, seen-10)
+
+=========
+
+advmod(audio-3, Even-1)
+det(audio-3, the-2)
+nsubj(superior-6, audio-3)
+cop(superior-6, is-4)
+advmod(superior-6, far-5)
+root(ROOT-0, superior-6)
+amod(models-9, previous-8)
+prep_than(superior-6, models-9)
+
+=========
+
+amod(movies-2, Normal-1)
+nsubj(look-4, movies-2)
+advmod(look-4, almost-3)
+root(ROOT-0, look-4)
+dobj(look-4, 3D-5)
+
+=========
+
+nsubj(worth-3, It-1)
+cop(worth-3, is-2)
+root(ROOT-0, worth-3)
+xcomp(worth-3, buying-4)
+
+=========
+
+nsubj(regrets-2, No-1)
+root(ROOT-0, regrets-2)
+
+=========
+
+det(Netflix-2, The-1)
+nsubj(function-10, Netflix-2)
+conj_and(Netflix-2, Vudu-4)
+nsubj(function-10, Vudu-4)
+amod(systems-9, other-6)
+amod(systems-9, online-7)
+nn(systems-9, movie-8)
+conj_and(Netflix-2, systems-9)
+nsubj(function-10, systems-9)
+root(ROOT-0, function-10)
+acomp(function-10, great-11)
+
+=========
+
+nsubj(cut-3, I-1)
+aux(cut-3, have-2)
+root(ROOT-0, cut-3)
+poss(Directv-5, my-4)
+dobj(cut-3, Directv-5)
+advmod(cut-3, already-6)
+
+=========
+
+nsubj(setup-7, Quality-1)
+nsubj(simple-5, quality...Hook-up-3)
+cop(simple-5, is-4)
+parataxis(setup-7, simple-5)
+root(ROOT-0, setup-7)
+det(breeze-9, a-8)
+dobj(setup-7, breeze-9)
+

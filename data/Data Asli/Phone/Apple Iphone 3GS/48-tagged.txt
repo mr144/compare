@@ -1,0 +1,7 @@
+I_PRP have_VBP the_DT ATT_NNP version_NN for_IN over_IN 3_CD years_NNS since_IN 2009_CD ._.
+It_PRP has_VBZ bee_NN going_VBG strong_JJ and_CC no_DT issues_NNS ._.
+I_PRP have_VBP upgraded_VBN to_TO version_NN iOS_NNP 6.1_CD as_IN of_IN Nov_NNP 2012_CD ._.
+iTunes_NNS is_VBZ the_DT painpoint_NN ,_, with_IN tough_JJ to_TO use_VB ._.
+By_IN early_JJ Dec_NNP 2012_CD ,_, Apple_NNP is_VBZ supposed_VBN to_TO come_VB out_RP with_IN a_DT new_JJ version_NN of_IN iTunes_NNS with_IN easy_JJ user_NN interface_NN ._.
+There_EX are_VBP ample_JJ reviews_NNS of_IN these_DT phones_NNS ,_, my_PRP$ point_NN here_RB was_VBD about_IN reliability_NN of_IN the_DT product_NN ._.
+It_PRP has_VBZ come_VBN handy_JJ at_IN all_DT times_NNS ,_, with_IN no_DT major_JJ reboot_NN issues\/hanging_VBG etc._FW

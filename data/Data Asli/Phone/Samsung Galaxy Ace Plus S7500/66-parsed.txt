@@ -1,0 +1,32 @@
+=========
+
+nsubj(smartphone-5, This-1)
+cop(smartphone-5, is-2)
+poss(smartphone-5, my-3)
+amod(smartphone-5, second-4)
+root(ROOT-0, smartphone-5)
+advmod(bought-8, also-7)
+dep(smartphone-5, bought-8)
+prep_in(bought-8, Amazon-10)
+nsubj(working-15, it-13)
+aux(working-15, is-14)
+conj_and(smartphone-5, working-15)
+acomp(working-15, fine-16)
+poss(EDGE\/3G-21, Movistar-18)
+nn(EDGE\/3G-21, network-20)
+prep_with(fine-16, EDGE\/3G-21)
+appos(EDGE\/3G-21, Ecuador-23)
+nn(America-26, South-25)
+dep(Ecuador-23, America-26)
+
+=========
+
+advmod(upgrade-6, Definitely-1)
+nsubj(upgrade-6, Android-3)
+cop(upgrade-6, is-4)
+det(upgrade-6, an-5)
+root(ROOT-0, upgrade-6)
+det(OS-10, the-8)
+nn(OS-10, Blackberry-9)
+prep_over(upgrade-6, OS-10)
+

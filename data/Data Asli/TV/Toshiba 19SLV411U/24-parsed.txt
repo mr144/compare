@@ -1,0 +1,55 @@
+=========
+
+aux(looking-2, Was-1)
+root(ROOT-0, looking-2)
+det(TV\/DVD-5, a-4)
+prep_for(looking-2, TV\/DVD-5)
+poss(area-10, my-8)
+nn(area-10, desk-9)
+prep_for(looking-2, area-10)
+
+=========
+
+nsubj(finding-3, Priority-1)
+aux(finding-3, was-2)
+root(ROOT-0, finding-3)
+prt(finding-3, best-4)
+dobj(finding-3, product-5)
+poss(range-11, my-8)
+amod(range-11, planned-9)
+nn(range-11, price-10)
+prep_within(finding-3, range-11)
+
+=========
+
+det(choice-2, This-1)
+nsubj(turned-3, choice-2)
+xsubj(perfect-7, choice-2)
+root(ROOT-0, turned-3)
+prt(turned-3, out-4)
+aux(perfect-7, to-5)
+cop(perfect-7, be-6)
+xcomp(turned-3, perfect-7)
+
+=========
+
+advmod(satisfied-2, Very-1)
+root(ROOT-0, satisfied-2)
+det(purchase-5, this-4)
+prep_with(satisfied-2, purchase-5)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, was-2)
+root(ROOT-0, easy-3)
+prep_to(easy-3, setup-5)
+dep(easy-3, perfect-7)
+poss(viewing-10, my-9)
+prep_for(perfect-7, viewing-10)
+nsubj(encountered-15, I-13)
+aux(encountered-15, have-14)
+conj_and(easy-3, encountered-15)
+det(problems-17, no-16)
+dobj(encountered-15, problems-17)
+

@@ -1,0 +1,43 @@
+=========
+
+dep(TV-4, What-1)
+det(TV-4, a-2)
+amod(TV-4, great-3)
+dep(love-8, TV-4)
+nsubj(love-8, I-6)
+advmod(love-8, just-7)
+root(ROOT-0, love-8)
+dobj(love-8, it-9)
+
+=========
+
+nsubj(using-3, I-1)
+aux(using-3, am-2)
+root(ROOT-0, using-3)
+dobj(using-3, it-4)
+poss(bedroom-7, my-6)
+prep_in(using-3, bedroom-7)
+det(set-up-10, the-9)
+nsubj(easy-13, set-up-10)
+cop(easy-13, was-11)
+advmod(easy-13, so-12)
+conj_and(using-3, easy-13)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(great-5, quality-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+poss(sound-8, my-7)
+nsubj(fantastic-10, sound-8)
+cop(fantastic-10, is-9)
+conj_and(great-5, fantastic-10)
+
+=========
+
+root(ROOT-0, Love-1)
+det(TV-3, this-2)
+dobj(Love-1, TV-3)
+

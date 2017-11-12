@@ -1,0 +1,6 @@
+I_PRP am_VBP returning_VBG this_DT item_NN ._.
+Out_IN of_IN the_DT box_NN ,_, fully_RB charged_VBN unit_NN powers_NNS down_RB abruptly_RB and_CC frequently_RB and_CC will_MD not_RB restart_VB ._.
+I_PRP tried_VBD two_CD factory_NN resets_NNS to_TO no_DT avail_NN ._.
+Seems_VBZ like_IN a_DT nice_JJ phone_NN ,_, but_CC it_PRP is_VBZ clearly_RB defective_JJ ._.
+Additionally_RB ,_, the_DT box_NN was_VBD missing_VBG advertised_JJ wired_VBN headset_NN ,_, USB_NNP cable_NN ,_, and_CC pouch_NN ._.
+I_PRP have_VBP never_RB returned_VBN anything_NN before_RB ,_, but_CC this_DT is_VBZ just_RB too_RB big_JJ a_DT rip-off_NN ._.

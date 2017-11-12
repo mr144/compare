@@ -1,0 +1,19 @@
+=========
+
+det(smartphone-2, This-1)
+nsubj(worse-4, smartphone-2)
+cop(worse-4, is-3)
+root(ROOT-0, worse-4)
+poss(Inspire-9, my-6)
+amod(Inspire-9, old-7)
+nn(Inspire-9, HTC-8)
+prep_than(worse-4, Inspire-9)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(battery-5, an-3)
+amod(battery-5, bad-4)
+dobj(has-2, battery-5)
+

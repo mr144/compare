@@ -1,0 +1,78 @@
+=========
+
+root(ROOT-0, Love-1)
+det(camera-3, this-2)
+dep(Love-1, camera-3)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(Kodak-5, a-3)
+amod(Kodak-5, similar-4)
+dobj(had-2, Kodak-5)
+prep(Kodak-5, for-6)
+num(years-8, 10-7)
+npadvmod(prior-9, years-8)
+pcomp(for-6, prior-9)
+complm(lost-15, that-10)
+poss(wife-12, my-11)
+nsubj(lost-15, wife-12)
+conj_and(wife-12, I-14)
+nsubj(lost-15, I-14)
+ccomp(had-2, lost-15)
+
+=========
+
+nsubj(had-3, We-1)
+nsubj(like-10, We-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(one-5, this-4)
+dobj(had-3, one-5)
+num(weeks-8, 2-7)
+prep_for(one-5, weeks-8)
+conj_and(had-3, like-10)
+nsubj(better-12, it-11)
+xcomp(like-10, better-12)
+det(one-15, the-14)
+prep_than(better-12, one-15)
+dobj(lost-17, one-15)
+nsubj(lost-17, we-16)
+rcmod(one-15, lost-17)
+
+=========
+
+nn(zoom-2, Great-1)
+root(ROOT-0, zoom-2)
+amod(options-6, many-4)
+amod(options-6, other-5)
+conj_and(zoom-2, options-6)
+
+=========
+
+nsubj(pictures-2, Fabulous-1)
+root(ROOT-0, pictures-2)
+
+=========
+
+nsubj(own-4, I-1)
+aux(own-4, will-2)
+advmod(own-4, always-3)
+root(ROOT-0, own-4)
+det(Kodak-6, a-5)
+dobj(own-4, Kodak-6)
+advmod(long-8, as-7)
+advmod(own-4, long-8)
+mark(are-11, as-9)
+nsubj(are-11, they-10)
+ccomp(long-8, are-11)
+prep_in(are-11, business-13)
+
+=========
+
+nn(value-2, Best-1)
+root(ROOT-0, value-2)
+det(price-5, the-4)
+prep_for(value-2, price-5)
+

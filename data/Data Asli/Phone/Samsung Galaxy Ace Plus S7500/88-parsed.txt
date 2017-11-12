@@ -1,0 +1,38 @@
+=========
+
+nsubj(sent-2, They-1)
+dep(uses-14, sent-2)
+iobj(sent-2, me-3)
+dobj(sent-2, one-4)
+nsubj(work-8, one-4)
+aux(work-8, does-6)
+neg(work-8, not-7)
+rcmod(one-4, work-8)
+det(bands-11, the-10)
+prep_with(work-8, bands-11)
+poss(operator-13, my-12)
+nsubj(uses-14, operator-13)
+root(ROOT-0, uses-14)
+
+=========
+
+advmod(works-2, Only-1)
+root(ROOT-0, works-2)
+prep_for(works-2, Digitel-4)
+
+=========
+
+mark(wants-5, If-1)
+nsubj(wants-5, someone-2)
+prep_in(someone-2, Venezuela-4)
+advcl(free-13, wants-5)
+det(phone-7, this-6)
+dobj(wants-5, phone-7)
+prep_for(phone-7, Digitel-9)
+nsubj(free-13, they-11)
+cop(free-13, are-12)
+root(ROOT-0, free-13)
+aux(contact-15, to-14)
+xcomp(free-13, contact-15)
+dobj(contact-15, me-16)
+

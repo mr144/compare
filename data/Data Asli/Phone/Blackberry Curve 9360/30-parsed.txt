@@ -1,0 +1,8 @@
+=========
+
+amod(product-2, excellent-1)
+nsubj(recommend-5, product-2)
+appos(product-2, i-4)
+root(ROOT-0, recommend-5)
+dobj(recommend-5, it-6)
+

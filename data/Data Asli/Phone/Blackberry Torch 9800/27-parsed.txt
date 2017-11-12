@@ -1,0 +1,40 @@
+=========
+
+nsubj(skeptical-5, I-1)
+cop(skeptical-5, was-2)
+det(bit-4, a-3)
+npadvmod(skeptical-5, bit-4)
+root(ROOT-0, skeptical-5)
+advmod(ordering-7, when-6)
+advcl(skeptical-5, ordering-7)
+det(phone-9, this-8)
+dobj(ordering-7, phone-9)
+
+=========
+
+advmod(am-3, However-1)
+nsubj(am-3, i-2)
+root(ROOT-0, am-3)
+neg(am-3, not-4)
+advmod(am-3, anymore-5)
+
+=========
+
+det(price-2, the-1)
+nsubj(great-4, price-2)
+cop(great-4, was-3)
+root(ROOT-0, great-4)
+det(phone-7, the-6)
+nsubj(better-10, phone-7)
+cop(better-10, is-8)
+advmod(better-10, even-9)
+conj_and(great-4, better-10)
+nn(phone-19, curve-12)
+conj_or(curve-12, xperia-14)
+nn(phone-19, xperia-14)
+conj_or(curve-12, LG-16)
+nn(phone-19, LG-16)
+conj_or(curve-12, Samsung-18)
+nn(phone-19, Samsung-18)
+prep_than(better-10, phone-19)
+

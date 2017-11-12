@@ -1,0 +1,30 @@
+=========
+
+poss(camera-2, My-1)
+nsubj(arrived-3, camera-2)
+root(ROOT-0, arrived-3)
+advmod(when-5, exactly-4)
+advmod(said-7, when-5)
+nsubj(said-7, they-6)
+advcl(arrived-3, said-7)
+nsubj(would-9, it-8)
+ccomp(said-7, would-9)
+
+=========
+
+det(pictures-2, The-1)
+nsubj(are-3, pictures-2)
+root(ROOT-0, are-3)
+det(quality-8, a-5)
+advmod(high-7, very-6)
+amod(quality-8, high-7)
+prep_of(are-3, quality-8)
+nsubj(ask-13, I-10)
+aux(ask-13, could-11)
+neg(ask-13, not-12)
+conj_and(are-3, ask-13)
+det(value-17, a-15)
+amod(value-17, better-16)
+prep_for(ask-13, value-17)
+prep_for(value-17, money-19)
+

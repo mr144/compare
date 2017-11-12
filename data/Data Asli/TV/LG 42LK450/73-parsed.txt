@@ -1,0 +1,65 @@
+=========
+
+det(TV-2, This-1)
+nsubj(!!!-5, TV-2)
+cop(!!!-5, is-3)
+amod(!!!-5, perfect-4)
+root(ROOT-0, !!!-5)
+nsubj(read-7, I-6)
+nsubj(felt-13, I-6)
+rcmod(!!!-5, read-7)
+amod(reviews-9, previous-8)
+dobj(read-7, reviews-9)
+prep_about(read-7, it-11)
+rcmod(!!!-5, felt-13)
+conj_and(read-7, felt-13)
+acomp(ordering-15, comfortable-14)
+ccomp(felt-13, ordering-15)
+xcomp(felt-13, ordering-15)
+dobj(ordering-15, it-16)
+dep(ordering-15, online-17)
+prep_from(ordering-15, Amazon-19)
+
+=========
+
+nsubj(disappointed-4, I-1)
+cop(disappointed-4, am-2)
+neg(disappointed-4, not-3)
+root(ROOT-0, disappointed-4)
+
+=========
+
+nsubj(is-4, Everything-1)
+prep_about(Everything-1, it-3)
+root(ROOT-0, is-4)
+dep(hoping-9, exactly-5)
+dep(exactly-5, what-6)
+nsubj(hoping-9, I-7)
+aux(hoping-9, was-8)
+ccomp(is-4, hoping-9)
+prep(hoping-9, for-10)
+
+=========
+
+nsubj(Player-6, I-1)
+cop(Player-6, am-2)
+neg(Player-6, NOT-3)
+det(Player-6, a-4)
+nn(Player-6, Game-5)
+root(ROOT-0, Player-6)
+dep(Player-6, so-8)
+nsubj(address-12, I-9)
+aux(address-12, can-10)
+neg(address-12, not-11)
+ccomp(Player-6, address-12)
+dobj(address-12, that-13)
+
+=========
+
+nsubj(recommending-4, I-1)
+aux(recommending-4, am-2)
+advmod(recommending-4, highly-3)
+root(ROOT-0, recommending-4)
+det(TV-6, this-5)
+dobj(recommending-4, TV-6)
+

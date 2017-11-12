@@ -1,0 +1,3 @@
+Works_NNP well_RB and_CC seems_VBZ to_TO have_VB great_JJ reception_NN ._.
+Calls_NNS are_VBP clear_JJ and_CC it_PRP has_VBZ not_RB dropped_VBN any_DT calls_NNS ._.
+Works_NNP great_JJ with_IN straight_JJ talk_NN ._.

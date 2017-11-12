@@ -1,0 +1,27 @@
+=========
+
+nn(tv-2, Tho-1)
+nsubj(perfect-4, tv-2)
+nsubj(get-10, tv-2)
+cop(perfect-4, is-3)
+root(ROOT-0, perfect-4)
+poss(garage-7, my-6)
+prep_for(perfect-4, garage-7)
+aux(get-10, will-9)
+conj_and(perfect-4, get-10)
+dobj(get-10, gamed-11)
+det(action-17, some-15)
+nn(action-17, movie-16)
+dobj(get-10, action-17)
+conj_and(gamed-11, action-17)
+
+=========
+
+nsubj(had-4, Wish-1)
+det(remote-3, the-2)
+dep(Wish-1, remote-3)
+root(ROOT-0, had-4)
+det(keyboard-6, a-5)
+dobj(had-4, keyboard-6)
+advmod(had-4, though-7)
+

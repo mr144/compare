@@ -1,0 +1,26 @@
+=========
+
+det(product-2, The-1)
+nsubj(was-3, product-2)
+root(ROOT-0, was-3)
+amod(structure-6, good-5)
+prep_in(was-3, structure-6)
+
+=========
+
+nsubj(not-4, I-1)
+aux(not-4, am-2)
+advmod(not-4, still-3)
+root(ROOT-0, not-4)
+ccomp(not-4, use-5)
+dobj(use-5, it-6)
+mark(is-11, because-7)
+prep_in(is-11, Brazil-9)
+expl(is-11, there-10)
+advcl(use-5, is-11)
+prep_to(is-11, unlock-13)
+det(version-16, the-14)
+amod(version-16, current-15)
+nsubj(is-11, version-16)
+prep_of(version-16, software-18)
+

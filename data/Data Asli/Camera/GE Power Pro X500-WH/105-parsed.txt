@@ -1,0 +1,62 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, the-3)
+dobj(bought-2, camera-4)
+prepc_for(bought-2, taking-6)
+dobj(taking-6, picks-7)
+prepc_while(taking-6, working-9)
+amod(projects-12, mechanical-11)
+prep_on(working-9, projects-12)
+
+=========
+
+nsubj(show-3, Photos-1)
+aux(show-3, can-2)
+root(ROOT-0, show-3)
+advmod(go-6, how-4)
+nsubj(go-6, items-5)
+ccomp(show-3, go-6)
+advmod(together-8, back-7)
+advmod(go-6, together-8)
+advmod(remember-14, when-9)
+det(mind-11, the-10)
+nsubj(remember-14, mind-11)
+aux(remember-14, does-12)
+neg(remember-14, not-13)
+dep(together-8, remember-14)
+
+=========
+
+det(camera-2, This-1)
+nsubj(focus-13, camera-2)
+dep(looking-7, just-3)
+dep(just-3, what-4)
+nsubj(looking-7, I-5)
+aux(looking-7, was-6)
+dep(focus-13, looking-7)
+prep_except_for(looking-7, EXCEPT-9)
+nsubj(focus-13, it-10)
+aux(focus-13, can-11)
+neg(focus-13, not-12)
+root(ROOT-0, focus-13)
+quantmod(1\/2-15, about-14)
+iobj(focus-13, 1\/2-15)
+det(time-17, the-16)
+dobj(focus-13, time-17)
+
+=========
+
+nsubj(camera-7, It-1)
+cop(camera-7, 's-2)
+det(camera-7, the-3)
+advmod(frustrating-6, most-4)
+advmod(frustrating-6, horribly-5)
+amod(camera-7, frustrating-6)
+root(ROOT-0, camera-7)
+dobj(owned-10, camera-7)
+nsubj(owned-10, I-8)
+aux(owned-10, have-9)
+rcmod(camera-7, owned-10)
+

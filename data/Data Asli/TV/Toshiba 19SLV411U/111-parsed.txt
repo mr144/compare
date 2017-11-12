@@ -1,0 +1,62 @@
+=========
+
+nsubj(!!!-5, It-1)
+cop(!!!-5, 's-2)
+det(!!!-5, a-3)
+nn(!!!-5, TV-4)
+root(ROOT-0, !!!-5)
+nsubj(is-7, It-6)
+nsubj(is-7', It-6)
+rcmod(!!!-5, is-7)
+rcmod(!!!-5, is-7')
+conj_and(is-7, is-7')
+prepc_over(is-7, priced-9)
+prepc_under(is-7', performing-12)
+
+=========
+
+det(color-2, The-1)
+nsubj(is-3, color-2)
+root(ROOT-0, is-3)
+advmod(is-3, off-4)
+det(bit-6, a-5)
+pobj(off-4, bit-6)
+det(specs-9, the-8)
+nsubj(low-12, specs-9)
+cop(low-12, are-10)
+advmod(low-12, really-11)
+conj_and(is-3, low-12)
+det(price-15, the-14)
+prep_for(low-12, price-15)
+
+=========
+
+nsubj(find-3, You-1)
+aux(find-3, can-2)
+root(ROOT-0, find-3)
+det(TV-6, an-4)
+amod(TV-6, better-5)
+dobj(find-3, TV-6)
+det(price-9, this-8)
+prep_for(find-3, price-9)
+
+=========
+
+det(TV-2, This-1)
+nsubj(worse-4, TV-2)
+cop(worse-4, is-3)
+root(ROOT-0, worse-4)
+prep_than(worse-4, sony-6)
+prep_than(worse-4, panasonic-8)
+conj_or(sony-6, panasonic-8)
+prep_than(worse-4, samsung-10)
+conj_or(sony-6, samsung-10)
+prep_than(worse-4, sharp-12)
+conj_or(sony-6, sharp-12)
+prep_than(worse-4, sony-14)
+conj_or(sony-6, sony-14)
+prep_than(worse-4, tcl-16)
+conj_or(sony-6, tcl-16)
+prep_than(worse-4, vizio-18)
+conj_or(sony-6, vizio-18)
+

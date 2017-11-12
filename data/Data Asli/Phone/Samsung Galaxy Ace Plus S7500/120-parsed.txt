@@ -1,0 +1,170 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(item-4, this-3)
+dobj(bought-2, item-4)
+prep_from(bought-2, MobileCityOnline-6)
+
+=========
+
+prep_before(contacted-5, buying-2)
+nsubj(contacted-5, i-4)
+nsubj(sure-9, them-6)
+aux(sure-9, to-7)
+cop(sure-9, be-8)
+xcomp(contacted-5, sure-9)
+complm(offered-13, that-10)
+det(model-12, the-11)
+nsubj(offered-13, model-12)
+ccomp(sure-9, offered-13)
+nsubj(compatible-18, GT-I8160L-15)
+cop(compatible-18, was-17)
+ccomp(offered-13, compatible-18)
+poss(operator-21, my-20)
+poss(service-25, operator-21)
+num(service-25, 3G-23)
+nn(service-25, data-24)
+prep_with(compatible-18, service-25)
+cc(contacted-5, and-26)
+nsubj(!-29, it-27)
+cop(!-29, was-28)
+
+=========
+
+dep(beware-2, Please-1)
+root(ROOT-0, beware-2)
+complm(are-5, that-3)
+expl(are-5, there-4)
+ccomp(beware-2, are-5)
+num(models-7, two-6)
+nsubj(are-5, models-7)
+det(Ace-10, the-9)
+prep_for(models-7, Ace-10)
+num(Ace-10, 2-11)
+advmod(compatibility-20, where-12)
+det(difference-15, the-13)
+amod(difference-15, only-14)
+nsubj(compatibility-20, difference-15)
+cop(compatibility-20, is-16)
+det(compatibility-20, the-17)
+num(compatibility-20, 3G-18)
+nn(compatibility-20, band-19)
+rcmod(models-7, compatibility-20)
+
+=========
+
+nn(--------2, Model-1)
+root(ROOT-0, --------2)
+num(Bands-4, 3G-3)
+npadvmod(supportGT-I8160-5, Bands-4)
+amod(--------2, supportGT-I8160-5)
+num(Venezuela-12, 900\/2100-7)
+nn(Venezuela-12, MHz-8)
+nn(Venezuela-12, Digitel-10)
+amod(Venezuela-12, in-11)
+dep(--------2, Venezuela-12)
+prep_for(Venezuela-12, example-14)
+
+=========
+
+amod(operators-2, Most-1)
+nsubj(use-5, operators-2)
+prep_in(operators-2, Europe-4)
+root(ROOT-0, use-5)
+det(bands-7, these-6)
+dobj(use-5, bands-7)
+
+=========
+
+root(ROOT-0, GT-I8160L-1)
+nn(Movilnet\/Movistar-10, 850\/1900-3)
+nn(Movilnet\/Movistar-10, MHz-4)
+dep(Movilnet\/Movistar-10, AT&T-6)
+dep(AT&T-6, in-7)
+pobj(in-7, USA-8)
+dep(GT-I8160L-1, Movilnet\/Movistar-10)
+prep_in(Movilnet\/Movistar-10, Venezuela-12)
+prep_for(Venezuela-12, example-14)
+
+=========
+
+amod(operators-2, Most-1)
+nsubj(use-7, operators-2)
+det(continent-6, the-4)
+nn(continent-6, american-5)
+prep_in(operators-2, continent-6)
+root(ROOT-0, use-7)
+det(bands-9, these-8)
+dobj(use-7, bands-9)
+
+=========
+
+amod(blush-3, first-2)
+prep_at(seems-6, blush-3)
+det(phone-5, the-4)
+nsubj(seems-6, phone-5)
+xsubj(perform-8, phone-5)
+root(ROOT-0, seems-6)
+aux(perform-8, to-7)
+xcomp(seems-6, perform-8)
+acomp(perform-8, great-9)
+
+=========
+
+amod(screen-2, Nice-1)
+nsubj(gingerbread-7, screen-2)
+nsubj(vga-14, screen-2)
+conj_and(screen-2, resolution-4)
+nsubj(gingerbread-7, resolution-4)
+partmod(screen-2, android-6)
+root(ROOT-0, gingerbread-7)
+nsubj(comming-10, ICS-9)
+parataxis(gingerbread-7, comming-10)
+parataxis(vga-14, comming-10)
+advmod(comming-10, soon-11)
+conj_and(gingerbread-7, vga-14)
+amod(camera-16, front-15)
+dobj(vga-14, camera-16)
+
+=========
+
+root(ROOT-0, Worth-1)
+partmod(Worth-1, spending-2)
+npadvmod(more-5, US$-3)
+num(US$-3, 20-30-4)
+advmod(spending-2, more-5)
+prep_in(spending-2, comparison-7)
+det(plus-13, the-9)
+nn(plus-13, ace-10)
+conj_and(ace-10, ace-12)
+nn(plus-13, ace-12)
+prep_to(spending-2, plus-13)
+
+=========
+
+det(difference-4, the-2)
+nn(difference-4, price-3)
+prep_despite(is-8, difference-4)
+det(phone-7, the-6)
+nsubj(is-8, phone-7)
+root(ROOT-0, is-8)
+advmod(is-8, still-9)
+det(price-13, a-11)
+amod(price-13, good-12)
+prep_at(is-8, price-13)
+partmod(price-13, considering-14)
+det(specs-16, the-15)
+dobj(considering-14, specs-16)
+partmod(specs-16, provided-17)
+
+=========
+
+nsubj(go-4, You-1)
+aux(go-4, can-2)
+neg(go-4, not-3)
+root(ROOT-0, go-4)
+acomp(go-4, wrong-5)
+det(phone-8, this-7)
+prep_with(go-4, phone-8)
+

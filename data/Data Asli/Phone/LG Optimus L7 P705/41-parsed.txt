@@ -1,0 +1,21 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(Phone-4, this-3)
+nsubj(amazing-6, Phone-4)
+cop(amazing-6, is-5)
+ccomp(love-2, amazing-6)
+advmod(Good-8, very-7)
+amod(purchase-9, Good-8)
+nsubj(love-20, purchase-9)
+det(phone-12, the-11)
+nsubj(comes-13, phone-12)
+parataxis(love-20, comes-13)
+det(lot-16, a-15)
+prep_with(comes-13, lot-16)
+prep_of(lot-16, languages-18)
+ccomp(amazing-6, love-20)
+det(phone-22, this-21)
+dobj(love-20, phone-22)
+

@@ -1,0 +1,42 @@
+=========
+
+det(phone-2, the-1)
+nsubj(works-3, phone-2)
+nsubj(new-8, phone-2)
+root(ROOT-0, works-3)
+advmod(works-3, perfectly-4)
+advmod(works-3, apparently-6)
+conj_and(works-3, apparently-6)
+cop(new-8, is-7)
+conj_and(works-3, new-8)
+mark(says-11, as-9)
+nsubj(says-11, it-10)
+nsubj(brought-16, it-10)
+ccomp(new-8, says-11)
+det(publication-14, the-13)
+prep_in(says-11, publication-14)
+ccomp(new-8, brought-16)
+conj_but(says-11, brought-16)
+det(defect-19, a-17)
+amod(defect-19, small-18)
+dobj(brought-16, defect-19)
+poss(housing-22, its-21)
+prep_in(brought-16, housing-22)
+
+=========
+
+cop(opening-4, is-1)
+det(opening-4, a-2)
+amod(opening-4, small-3)
+root(ROOT-0, opening-4)
+num(side-7, one-6)
+prep_on(opening-4, side-7)
+
+=========
+
+root(ROOT-0, sorry-1)
+poss(english-4, my-3)
+prep_for(sorry-1, english-4)
+appos(english-4, im-6)
+prep_from(im-6, venezuela-8)
+

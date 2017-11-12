@@ -1,0 +1,41 @@
+=========
+
+amod(phone-2, great-1)
+root(ROOT-0, phone-2)
+
+=========
+
+aux(do-2, Can-1)
+csubj(figured-8, do-2)
+advmod(much-4, so-3)
+advmod(do-2, much-4)
+dep(havent-7, that-5)
+nsubj(havent-7, I-6)
+ccomp(much-4, havent-7)
+root(ROOT-0, figured-8)
+dobj(figured-8, it-9)
+dep(out-11, all-10)
+advmod(figured-8, out-11)
+advmod(out-11, yet-12)
+
+=========
+
+nn(life-2, battery-1)
+nsubj(great-5, life-2)
+cop(great-5, is-3)
+neg(great-5, not-4)
+root(ROOT-0, great-5)
+ccomp(great-5, have-7)
+aux(charge-9, to-8)
+xcomp(have-7, charge-9)
+advmod(everyday-11, almost-10)
+dobj(charge-9, everyday-11)
+
+=========
+
+nsubj(smartphone-5, It-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, best-4)
+root(ROOT-0, smartphone-5)
+

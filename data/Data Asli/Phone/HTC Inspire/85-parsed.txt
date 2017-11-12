@@ -1,0 +1,29 @@
+=========
+
+root(ROOT-0, Got-1)
+dobj(Got-1, it-2)
+poss(nephew-5, my-4)
+prep_for(Got-1, nephew-5)
+
+=========
+
+nsubj(feels-6, Big-1)
+nsubj(work-8, Big-1)
+amod(screen-4, high-2)
+nn(screen-4, quality-3)
+dep(Big-1, screen-4)
+root(ROOT-0, feels-6)
+conj_and(feels-6, work-8)
+acomp(work-8, great-9)
+
+=========
+
+poss(nephew-2, My-1)
+nsubj(love-3, nephew-2)
+root(ROOT-0, love-3)
+dobj(love-3, it-4)
+quantmod(no-6, so-5)
+num(complaints-7, no-6)
+npadvmod(here-8, complaints-7)
+advmod(love-3, here-8)
+

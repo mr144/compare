@@ -1,0 +1,107 @@
+=========
+
+nsubj(like-2, I-1)
+nsubj(give-8, I-1)
+root(ROOT-0, like-2)
+det(camera-4, this-3)
+dobj(like-2, camera-4)
+aux(give-8, would-7)
+conj_but(like-2, give-8)
+iobj(give-8, it-9)
+num(stars-11, 3�1\/2-10)
+dobj(give-8, stars-11)
+
+=========
+
+nsubj(got-2, I-1)
+ccomp(lacked-13, got-2)
+nsubj(supplement-5, it-3)
+advmod(supplement-5, too-4)
+ccomp(got-2, supplement-5)
+det(cybershot-9, a-6)
+nn(cybershot-9, pocket-7)
+nn(cybershot-9, sony-8)
+nsubj(dsc-tx1-10, cybershot-9)
+xcomp(supplement-5, dsc-tx1-10)
+nsubj(lacked-13, that-12)
+root(ROOT-0, lacked-13)
+amod(zoom-15, good-14)
+dobj(lacked-13, zoom-15)
+
+=========
+
+nsubj(photographer-5, I-1)
+nsubj(shoots-10, I-1)
+cop(photographer-5, am-2)
+det(photographer-5, no-3)
+nn(photographer-5, expert-4)
+root(ROOT-0, photographer-5)
+advmod(photographer-5, hence-6)
+det(point-8, the-7)
+dep(photographer-5, point-8)
+conj_and(photographer-5, shoots-10)
+
+=========
+
+cc(take-4, But-1)
+nsubj(take-4, I-2)
+aux(take-4, do-3)
+root(ROOT-0, take-4)
+dobj(take-4, lots-5)
+prep_of(lots-5, photos-7)
+
+=========
+
+nsubj(learning-4, I-1)
+nsubj(hope-10, I-1)
+xsubj(master-12, I-1)
+aux(learning-4, am-2)
+advmod(learning-4, still-3)
+root(ROOT-0, learning-4)
+det(hx200v-7, the-6)
+prep_on(learning-4, hx200v-7)
+conj_and(learning-4, hope-10)
+aux(master-12, to-11)
+xcomp(hope-10, master-12)
+det(settings-16, some-13)
+advmod(manual-15, more-14)
+amod(settings-16, manual-15)
+dobj(master-12, settings-16)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+root(ROOT-0, Pain-1)
+dep(a-4, the-3)
+prep_in(Pain-1, a-4)
+dep(Pain-1, \*\*-5)
+
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+det(camera-6, a-3)
+advmod(fine-5, perfectly-4)
+amod(camera-6, fine-5)
+root(ROOT-0, camera-6)
+nsubj(say-11, I-9)
+aux(say-11, must-10)
+ccomp(camera-6, say-11)
+conj_but(camera-6, say-11)
+nsubj(miss-14, I-12)
+advmod(miss-14, really-13)
+ccomp(say-11, miss-14)
+poss(coolpix-17, my-15)
+nn(coolpix-17, Nikon-16)
+dep(miss-14, coolpix-17)
+dobj(miss-14, 4300-18)
+nsubj(is-20, 4300-18)
+rcmod(4300-18, is-20)
+advmod(stars-26, why-21)
+det(review-23, this-22)
+nsubj(stars-26, review-23)
+cop(stars-26, is-24)
+num(stars-26, 3-25)
+advcl(is-20, stars-26)
+

@@ -1,0 +1,25 @@
+In_IN order_NN to_TO use_VB this_DT with_IN Outlook_NNP ,_, I_PRP had_VBD to_TO set_VB up_RP windows_NNS live_VBP or_CC hotmail_NN ._.
+Now_RB Outlook_NNP has_VBZ two_CD sets_NNS of_IN contacts_NNS and_CC Calendars_NNS and_CC two_CD sets_NNS of_IN email_NN ._.
+What_WP a_DT nightmare_NN to_TO keep_VB up_RP with_IN ._.
+Sometimes_RB email_NN goes_VBZ through_IN the_DT regular_JJ email_NN but_CC sometimes_RB it_PRP just_RB decides_VBZ to_TO send_VB it_PRP from_IN the_DT Hotmail_NNP connector_NN ._.
+No_DT particular_JJ rationale_NN for_IN this_DT that_IN I_PRP can_MD find_VB ._.
+Also_RB ,_, if_IN I_PRP update_VBP a_DT contact_NN ,_, I_PRP really_RB need_VBP to_TO open_VB and_CC update_VB BOTH_DT contacts_NNS or_CC else_RB I_PRP have_VBP two_CD sets_NNS of_IN data_NNS that_WDT do_VBP not_RB match_VB ._.
+Set_VB up_RP a_DT meeting_NN in_IN your_PRP$ calendar_NN ?_.
+Well_RB ,_, do_VB you_PRP want_VB to_TO know_VB about_IN it_PRP on_IN your_PRP$ phone_NN ?_.
+Then_RB you_PRP use_VBP one_CD calendar_NN but_CC if_IN you_PRP want_VBP to_TO keep_VB track_NN of_IN who_WP accepted_VBD invites_VBZ ,_, etc._FW that_DT is_VBZ a_DT different_JJ calendar_NN ._.
+So_RB you_PRP have_VBP to_TO remember_VB to_TO copy_VB paste_NN it_PRP into_IN the_DT other_JJ calendar_NN ._.
+I_PRP was_VBD told_VBN it_PRP would_MD sync_NN with_IN Outlook_NNP but_CC there_EX is_VBZ no_DT real_JJ connection_NN to_TO the_DT computer_NN like_IN the_DT Palm_NNP or_CC Blackberries_NNP did_VBD ._.
+I_PRP made_VBD CERTAIN_JJ that_IN it_PRP would_MD sync_NN but_CC apparently_RB the_DT sales_NNS people_NNS have_VBP no_DT idea_NN what_WP sync_NN means_VBZ ._.
+You_PRP have_VBP to_TO use_VB the_DT `_`` cloud_NN '_'' ._.
+The_DT more_RBR sophisticated_JJ the_DT phones_NNS become_VBP the_DT less_RBR true_JJ functionality_NN they_PRP have_VBP ._.
+They_PRP have_VBP more_JJR games_NNS and_CC more_JJR music_NN but_CC less_JJR PHONE_NN use_NN ._.
+Also_RB ,_, this_DT phone_NN sometimes_RB loses_VBZ its_PRP$ mind_NN and_CC will_MD not_RB accept_VB calls_NNS ._.
+Sends_VBZ them_PRP to_TO voice_VB mail_NN even_RB if_IN you_PRP are_VBP right_RB here_RB at_IN the_DT phone_NN waiting_VBG for_IN a_DT call_NN ._.
+You_PRP sometimes_RB get_VBP a_DT quick_JJ vibrate_NN but_CC sometimes_RB it_PRP just_RB goes_VBZ to_TO voice_NN mail_NN ._.
+On_IN some_DT bizarre_JJ moments_NNS it_PRP vibrates_VBZ ,_, shows_VBZ a_DT missed_VBN call_NN and_CC then_RB RINGS_NNS with_IN the_DT call_NN ._.
+All_DT unbeknownst_NN to_TO the_DT caller_NN who_WP only_RB knows_VBZ it_PRP has_VBZ been_VBN ringing_VBG 5_CD or_CC 6_CD times_NNS before_IN you_PRP answered_VBD ._.
+To_TO reset_VB the_DT phone_NN when_WRB it_PRP develops_VBZ this_DT bizarre_JJ behavior_NN you_PRP have_VBP to_TO save_VB your_PRP$ info_NN with_IN ZUNE_NNP so_IN you_PRP can_MD reset_VB the_DT phone_NN ._.
+Another_DT software_NN you_PRP have_VBP to_TO have_VB on_IN the_DT computer_NN that_IN you_PRP did_VBD not_RB want_VB ._.
+Eventually_RB all_DT your_PRP$ personal_JJ info_NN from_IN contacts_NNS ,_, email_NN ,_, etc._FW is_VBZ so_RB scattered_JJ all_DT over_IN the_DT world_NN you_PRP have_VBP no_DT control_NN over_IN the_DT security_NN whatsoever_RB ._.
+I_PRP wish_VBP Palm_NNP had_VBD stayed_VBN in_IN the_DT game_NN ._.
+My_PRP$ old_JJ Palm_NNP was_VBD a_DT better_JJR phone_NN than_IN what_WP I_PRP can_MD buy_VB today_NN ._.

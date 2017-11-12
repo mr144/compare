@@ -1,0 +1,254 @@
+=========
+
+root(ROOT-0, Purchased-1)
+det(phone-4, this-2)
+amod(phone-4, unlocked-3)
+dobj(Purchased-1, phone-4)
+det(month-8, a-7)
+prep_about(Purchased-1, month-8)
+amod(month-8, ago-9)
+
+=========
+
+root(ROOT-0, Took-1)
+det(card-4, the-2)
+nn(card-4, sim-3)
+dobj(Took-1, card-4)
+poss(phone-14, my-7)
+advmod(old-9, very-8)
+amod(phone-14, old-9)
+dep(phone-14, pay-as-you-go-11)
+amod(phone-14, T-Mobile-13)
+prep_out_of(Took-1, phone-14)
+det(Nexus-17, the-16)
+nsubj(worked-19, Nexus-17)
+num(Nexus-17, One-18)
+conj_and(Took-1, worked-19)
+advmod(worked-19, immediately-20)
+
+=========
+
+nsubj(clear-4, Calls-1)
+cop(clear-4, are-2)
+advmod(clear-4, very-3)
+root(ROOT-0, clear-4)
+
+=========
+
+nn(access-2, Wifi-1)
+nsubj(excellent-6, access-2)
+prep_to(access-2, web-4)
+cop(excellent-6, is-5)
+root(ROOT-0, excellent-6)
+
+=========
+
+root(ROOT-0, Quick-1)
+conj_and(Quick-1, reliable-3)
+
+=========
+
+root(ROOT-0, Migrated-1)
+poss(calendar-4, my-2)
+nn(calendar-4, Outlook-3)
+dobj(Migrated-1, calendar-4)
+conj_and(Migrated-1, contacts-6)
+nn(apps-9, Google-8)
+prep_to(contacts-6, apps-9)
+
+=========
+
+nsubj(process-2, Easy-1)
+root(ROOT-0, process-2)
+
+=========
+
+root(ROOT-0, Took-1)
+dobj(Took-1, minutes-2)
+
+=========
+
+nn(Voice-2, Google-1)
+nsubj(works-3, Voice-2)
+root(ROOT-0, works-3)
+advmod(works-3, fantastically-4)
+advmod(have-8, when-6)
+nsubj(have-8, I-7)
+advcl(works-3, have-8)
+det(connection-11, a-9)
+amod(connection-11, wifi-10)
+dobj(have-8, connection-11)
+
+=========
+
+advmod(responsive-2, Very-1)
+root(ROOT-0, responsive-2)
+dep(responsive-2, touchscreen-3)
+
+=========
+
+nn(access-2, Web-1)
+nsubj(good-8, access-2)
+dep(access-2, via-4)
+pobj(via-4, wifi-5)
+cop(good-8, is-7)
+root(ROOT-0, good-8)
+
+=========
+
+advmod(fast-2, Fairly-1)
+root(ROOT-0, fast-2)
+
+=========
+
+amod(support-2, Flash-1)
+nsubj(good-4, support-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+conj_but(good-4, far-6)
+prep_far_from(good-4, perfect-8)
+
+=========
+
+nsubj(get-5, You-1)
+aux(get-5, will-2)
+advmod(get-5, definitely-3)
+neg(get-5, not-4)
+root(ROOT-0, get-5)
+dobj(get-5, all-6)
+det(objects-10, the-8)
+nn(objects-10, Flash-9)
+prep_of(all-6, objects-10)
+nn(pages-13, web-12)
+prep_on(get-5, pages-13)
+complm(able-19, that-14)
+nsubj(able-19, you-15)
+aux(able-19, would-16)
+advmod(able-19, otherwise-17)
+cop(able-19, be-18)
+ccomp(get-5, able-19)
+aux(access-21, to-20)
+xcomp(able-19, access-21)
+det(computer-25, a-23)
+amod(computer-25, desktop-24)
+prep_on(access-21, computer-25)
+nsubj(thing-34, that-28)
+cop(thing-34, 's-29)
+advmod(thing-34, really-30)
+det(thing-34, an-31)
+nn(thing-34, Android-32)
+nn(thing-34, OS-33)
+ccomp(get-5, thing-34)
+conj_but(able-19, thing-34)
+conj_but(able-19, not-37)
+advmod(thing-34, not-37)
+conj_and(thing-34, not-37)
+det(issue-39, an-38)
+pobj(not-37, issue-39)
+det(phone-42, the-41)
+prep_with(not-37, phone-42)
+conj_but(able-19, itself-43)
+conj_and(thing-34, itself-43)
+
+=========
+
+advmod(mentioning-4, Still-1)
+nsubj(mentioning-4, worth-3)
+root(ROOT-0, mentioning-4)
+
+=========
+
+root(ROOT-0, Wish-1)
+complm(accessible-8, that-2)
+det(card-6, the-3)
+amod(card-6, micro-4)
+nn(card-6, SD-5)
+nsubj(accessible-8, card-6)
+cop(accessible-8, was-7)
+ccomp(Wish-1, accessible-8)
+prepc_without(accessible-8, having-10)
+aux(take-12, to-11)
+xcomp(having-10, take-12)
+det(back-14, the-13)
+dobj(take-12, back-14)
+det(device-18, the-17)
+prep_off_of(take-12, device-18)
+det(deal-24, a-22)
+amod(deal-24, big-23)
+prep_off_of(take-12, deal-24)
+conj_negcc(device-18, deal-24)
+
+=========
+
+nsubj(done-4, I-1)
+aux(done-4, have-2)
+neg(done-4, not-3)
+root(ROOT-0, done-4)
+advmod(done-4, much-5)
+det(camera-8, the-7)
+prep_with(done-4, camera-8)
+prep_with(done-4, video-10)
+conj_or(camera-8, video-10)
+nsubj('s-14, that-13)
+conj_but(done-4, 's-14)
+neg('s-14, not-15)
+advmod(purchased-18, why-16)
+nsubj(purchased-18, I-17)
+advcl('s-14, purchased-18)
+det(phone-20, the-19)
+dobj(purchased-18, phone-20)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+amod(devices-4, other-3)
+dobj(have-2, devices-4)
+nsubj(worried-8, forI-5)
+nsubj(had-18, forI-5)
+cop(worried-8, was-6)
+advmod(worried-8, little-7)
+rcmod(devices-4, worried-8)
+prepc_about(worried-8, purchasing-10)
+det(phone-13, an-11)
+amod(phone-13, unlocked-12)
+dobj(purchasing-10, phone-13)
+aux(had-18, have-16)
+neg(had-18, not-17)
+rcmod(devices-4, had-18)
+conj_but(worried-8, had-18)
+det(problem-21, a-19)
+amod(problem-21, single-20)
+dobj(had-18, problem-21)
+
+=========
+
+aux(upgraded-4, Have-1)
+neg(upgraded-4, not-2)
+advmod(upgraded-4, yet-3)
+root(ROOT-0, upgraded-4)
+nn(OS-8, newest-6)
+nn(OS-8, Android-7)
+prep_to(upgraded-4, OS-8)
+
+=========
+
+advmod(running-2, Still-1)
+root(ROOT-0, running-2)
+dobj(running-2, Froyo-3)
+dobj(running-2, no-6)
+advmod(Froyo-3, no-6)
+conj_but(Froyo-3, no-6)
+nn(problems-8, compatibility-7)
+dep(Froyo-3, problems-8)
+advmod(problems-8, yet-10)
+
+=========
+
+aux(recommend-3, Would-1)
+advmod(recommend-3, absolutely-2)
+root(ROOT-0, recommend-3)
+det(phone-5, this-4)
+dobj(recommend-3, phone-5)
+prep_to(recommend-3, others-7)
+

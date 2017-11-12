@@ -1,0 +1,209 @@
+=========
+
+advmod(like-4, First-1)
+nsubj(like-4, I-2)
+xsubj(say-6, I-2)
+aux(like-4, would-3)
+root(ROOT-0, like-4)
+aux(say-6, to-5)
+xcomp(like-4, say-6)
+complm(like-9, that-7)
+nsubj(like-9, I-8)
+ccomp(say-6, like-9)
+det(camera-11, this-10)
+dobj(like-9, camera-11)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+dobj(purchased-2, it-3)
+mark(knew-6, before-4)
+nsubj(knew-6, I-5)
+advcl(purchased-2, knew-6)
+nsubj(making-11, Kodak-7)
+aux(making-11, would-8)
+neg(making-11, not-9)
+aux(making-11, be-10)
+ccomp(knew-6, making-11)
+dobj(making-11, cameras-12)
+dep(longer-14, any-13)
+advmod(making-11, longer-14)
+
+=========
+
+aux(owned-2, Having-1)
+dep(knew-24, owned-2)
+dep(have-6, and-4)
+advmod(have-6, still-5)
+dep(owned-2, have-6)
+det(digital-12, the-8)
+nn(digital-12, Kodak-9)
+nn(digital-12, DX7440-10)
+nn(digital-12, Kodak-11)
+nsubj(knew-24, digital-12)
+det(lens-16, the-14)
+amod(lens-16, Schneider-Kreuznach-15)
+prep_with(knew-24, lens-16)
+advmod(on-19, as-18)
+dep(knew-24, on-19)
+det(Z990-21, the-20)
+pobj(on-19, Z990-21)
+nsubj(knew-24, I-23)
+root(ROOT-0, knew-24)
+poss(products-26, their-25)
+nsubj(produce-27, products-26)
+ccomp(knew-24, produce-27)
+amod(pictures-29, great-28)
+dobj(produce-27, pictures-29)
+
+=========
+
+det(length-3, The-1)
+amod(length-3, focal-2)
+nsubj(fantastic-8, length-3)
+det(990-6, the-5)
+prep_on(length-3, 990-6)
+cop(fantastic-8, is-7)
+root(ROOT-0, fantastic-8)
+
+=========
+
+det(mode-3, The-1)
+amod(mode-3, video-2)
+nsubj(easy-5, mode-3)
+nsubj(makes-9, mode-3)
+cop(easy-5, is-4)
+root(ROOT-0, easy-5)
+aux(use-7, to-6)
+xcomp(easy-5, use-7)
+conj_and(easy-5, makes-9)
+amod(videos-11, good-10)
+dobj(makes-9, videos-11)
+
+=========
+
+aux(used-3, Have-1)
+neg(used-3, not-2)
+root(ROOT-0, used-3)
+det(lot-5, a-4)
+dobj(used-3, lot-5)
+det(settings-8, the-7)
+prep_of(lot-5, settings-8)
+advmod(used-3, yet-9)
+
+=========
+
+cc(work-7, But-1)
+det(ones-3, the-2)
+dobj(tried-6, ones-3)
+nsubj(work-7, ones-3)
+nsubj(tried-6, I-4)
+aux(tried-6, have-5)
+rcmod(ones-3, tried-6)
+root(ROOT-0, work-7)
+acomp(work-7, well-8)
+acomp(work-7, easy-10)
+conj_and(well-8, easy-10)
+aux(set-12, to-11)
+xcomp(well-8, set-12)
+
+=========
+
+root(ROOT-0, Like-1)
+pcomp(Like-1, having-2)
+det(option-4, the-3)
+dobj(having-2, option-4)
+prepc_of(option-4, using-6)
+det(View-9, the-7)
+nn(View-9, Live-8)
+dobj(using-6, View-9)
+pcomp(Like-1, looking-11)
+conj_or(having-2, looking-11)
+det(finder-15, the-13)
+nn(finder-15, view-14)
+prep_through(looking-11, finder-15)
+num(power-19, saves-17)
+nn(power-19, battery-18)
+appos(finder-15, power-19)
+
+=========
+
+advmod(disappointed-6, So-1)
+advmod(So-1, far-2)
+nsubj(disappointed-6, it-3)
+aux(disappointed-6, has-4)
+neg(disappointed-6, not-5)
+root(ROOT-0, disappointed-6)
+dobj(disappointed-6, me-7)
+num(exception-10, one-9)
+prep_with(disappointed-6, exception-10)
+
+=========
+
+det(life-3, the-1)
+nn(life-3, battery-2)
+nsubj(fair-5, life-3)
+cop(fair-5, is-4)
+root(ROOT-0, fair-5)
+
+=========
+
+advmod(stars-4, thus-1)
+det(4-3, the-2)
+nsubj(stars-4, 4-3)
+root(ROOT-0, stars-4)
+
+=========
+
+det(battery-4, The-1)
+amod(battery-4, I-on-2)
+nn(battery-4, lithium-3)
+nsubj(better-11, battery-4)
+nsubj(had-13, battery-4)
+det(DX-7, the-6)
+prep_in(battery-4, DX-7)
+num(DX-7, 7440-8)
+cop(better-11, was-9)
+advmod(better-11, much-10)
+root(ROOT-0, better-11)
+conj_and(better-11, had-13)
+det(life-16, a-14)
+amod(life-16, longer-15)
+dobj(had-13, life-16)
+nn(charger-19, battery-18)
+dobj(had-13, charger-19)
+conj_and(life-16, charger-19)
+
+=========
+
+root(ROOT-0, Make-1)
+acomp(Make-1, sure-2)
+mark(buy-5, if-3)
+nsubj(buy-5, you-4)
+advcl(Make-1, buy-5)
+det(camera-7, this-6)
+dobj(buy-5, camera-7)
+complm(have-10, that-8)
+nsubj(have-10, you-9)
+ccomp(buy-5, have-10)
+amod(batteries-12, extra-11)
+dobj(have-10, batteries-12)
+det(charger-17, a-14)
+amod(charger-17, good-15)
+nn(charger-17, battery-16)
+dobj(have-10, charger-17)
+conj_and(batteries-12, charger-17)
+
+=========
+
+det(one-2, The-1)
+nsubj(comes-4, one-2)
+nsubj(slow-10, one-2)
+rcmod(one-2, comes-4)
+det(camera-7, the-6)
+prep_with(comes-4, camera-7)
+cop(slow-10, is-8)
+advmod(slow-10, very-9)
+root(ROOT-0, slow-10)
+

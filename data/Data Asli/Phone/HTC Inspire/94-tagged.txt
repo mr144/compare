@@ -1,0 +1,3 @@
+Yes_RB ,_, it_PRP does_VBZ have_VB a_DT large_JJ screen_NN for_IN videos_NNS ,_, pictures_NNS etc._FW ._.
+But_CC still_RB not_RB for_IN me_PRP as_IN it_PRP is_VBZ very_RB complicated_VBN not_RB so_RB easy_JJ to_TO use_VB and_CC could_MD not_RB download_VB some_DT of_IN the_DT applications_NNS as_RB well_RB ._.
+And_CC runs_VBZ out_IN of_IN battery_NN very_RB quickly_RB ._.

@@ -1,0 +1,31 @@
+=========
+
+nsubj(want-2, I-1)
+xsubj(know-4, I-1)
+root(ROOT-0, want-2)
+aux(know-4, to-3)
+xcomp(want-2, know-4)
+mark(works-9, if-5)
+det(phone-8, this-6)
+nn(phone-8, cell-7)
+nsubj(works-9, phone-8)
+dep(know-4, works-9)
+det(850\/1900\/2100-14, the-11)
+amod(850\/1900\/2100-14, bands-12)
+num(850\/1900\/2100-14, 3G-13)
+prep_with(works-9, 850\/1900\/2100-14)
+mark(function-19, if-17)
+nsubj(function-19, it-18)
+dep(know-4, function-19)
+conj_and(works-9, function-19)
+prep_in(function-19, venezuela-21)
+prep_with(function-19, movistar-23)
+prep_with(function-19, movilnet-25)
+conj_and(movistar-23, movilnet-25)
+
+=========
+
+root(ROOT-0, wait-1)
+poss(answer-3, your-2)
+dobj(wait-1, answer-3)
+

@@ -1,0 +1,22 @@
+=========
+
+num(stars-2, 5-1)
+root(ROOT-0, stars-2)
+mark(got-5, because-3)
+nsubj(got-5, i-4)
+dep(stars-2, got-5)
+dobj(got-5, it-6)
+det(time-10, a-8)
+amod(time-10, short-9)
+prep_in(got-5, time-10)
+amod(conditions-14, good-13)
+prep_in(things-21, conditions-14)
+det(shop-16, this-15)
+nsubj(things-21, shop-16)
+cop(things-21, is-17)
+amod(things-21, great-18)
+conj_and(great-18, other-20)
+amod(things-21, other-20)
+dep(stars-2, things-21)
+conj_and(got-5, things-21)
+

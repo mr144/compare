@@ -1,0 +1,44 @@
+=========
+
+nsubj(received-3, I-1)
+advmod(received-3, Just-2)
+root(ROOT-0, received-3)
+det(product-5, the-4)
+dobj(received-3, product-5)
+nsubj(unable-11, i-8)
+cop(unable-11, am-9)
+advmod(unable-11, really-10)
+conj_but(received-3, unable-11)
+aux(know-13, to-12)
+xcomp(unable-11, know-13)
+mark(working-17, if-14)
+nsubj(working-17, it-15)
+aux(working-17, is-16)
+advcl(know-13, working-17)
+
+=========
+
+det(card-3, No-1)
+amod(card-3, sim-2)
+root(ROOT-0, card-3)
+
+=========
+
+nsubj(insert-4, I-1)
+aux(insert-4, can-2)
+neg(insert-4, not-3)
+root(ROOT-0, insert-4)
+det(CARD-7, the-5)
+nn(CARD-7, SIM-6)
+dobj(insert-4, CARD-7)
+
+=========
+
+nsubj(adressed-2, Amazon-1)
+root(ROOT-0, adressed-2)
+det(ok-5, the-3)
+nn(ok-5, issue-4)
+dobj(adressed-2, ok-5)
+advmod(far-7, so-6)
+advmod(adressed-2, far-7)
+

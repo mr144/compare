@@ -1,0 +1,48 @@
+=========
+
+det(box-2, The-1)
+nsubj(one-8, box-2)
+nsubj(say-14, box-2)
+aux(one-8, does-3)
+neg(one-8, not-4)
+cop(one-8, seem-5)
+det(one-8, the-6)
+amod(one-8, original-7)
+root(ROOT-0, one-8)
+advmod(say-14, still-11)
+aux(say-14, will-12)
+advmod(say-14, just-13)
+conj_but(one-8, say-14)
+complm(art-18, that-15)
+cop(art-18, was-16)
+amod(art-18, different-17)
+ccomp(say-14, art-18)
+det(factory-21, the-20)
+prep_from(art-18, factory-21)
+partmod(factory-21, were-22)
+nsubjpass(assembled-25, it-23)
+auxpass(assembled-25, was-24)
+ccomp(were-22, assembled-25)
+
+=========
+
+cc(loosed-8, But-1)
+det(system-4, the-2)
+nn(system-4, slider-3)
+nsubj(loosed-8, system-4)
+cop(loosed-8, was-5)
+det(little-7, a-6)
+npadvmod(loosed-8, little-7)
+root(ROOT-0, loosed-8)
+
+=========
+
+nsubj(have-2, Will-1)
+xsubj(check-4, Will-1)
+root(ROOT-0, have-2)
+aux(check-4, to-3)
+xcomp(have-2, check-4)
+dobj(check-4, it-5)
+amod(service-8, technical-7)
+prep_with(check-4, service-8)
+

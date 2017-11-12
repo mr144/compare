@@ -1,0 +1,8 @@
+Stay_NNP AWAY_NNP from_IN NEXUS_NNP ONE_CD ._.
+Phone_NN 's_POS power_NN button_NN stopped_VBD working_VBG just_RB after_IN around_IN 4_CD months_NNS of_IN use_NN ._.
+I_PRP paid_VBD additional_JJ 100_CD $_$ for_IN the_DT repair_NN but_CC it_PRP is_VBZ not_RB of_IN use_NN ._.
+It_PRP cause_VBP mental_JJ pressure_NN ,_, loss_NN of_IN contacts_NNS ,_, time_NN ,_, and_CC money_NN ._.
+I_PRP purchased_VBD the_DT mobile_JJ on_IN Amazon_NNP through_IN UnlockedCellPhoneKings_NNP who_WP claimed_VBD that_IN mobile_JJ is_VBZ still_RB under_IN manufacture_NN 's_POS warranty_NN ._.
+But_CC ,_, warranty_NN expired_VBD just_RB after_IN 3_CD months_NNS of_IN my_PRP$ purchase_NN ._.
+I_PRP give_VBP 1_CD rating_NN to_TO both_DT Nexus_NNP One_NNP and_CC UnlockedCellPhoneKings_NNP ._.
+Sorry_JJ ,_, I_PRP could_MD not_RB give_VB lesser_JJR than_IN this_DT ._.

@@ -1,0 +1,87 @@
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, it-4)
+det(features-10, the-6)
+num(features-10, &#34;-7)
+amod(features-10, Smart-8)
+num(features-10, &#34;-9)
+prep_for(buy-3, features-10)
+
+=========
+
+nsubj(slow-4, They-1)
+cop(slow-4, are-2)
+advmod(slow-4, frustratingly-3)
+root(ROOT-0, slow-4)
+
+=========
+
+nsubj(am-2, I-1)
+root(ROOT-0, am-2)
+prep_in(am-2, IT-4)
+nsubjpass(used-8, I-6)
+auxpass(used-8, am-7)
+conj_and(am-2, used-8)
+prepc_to(used-8, dealing-10)
+amod(situations-13, frustrating-12)
+prep_with(dealing-10, situations-13)
+nsubj(had-16, I-15)
+xsubj(give-18, I-15)
+conj_but(am-2, had-16)
+aux(give-18, to-17)
+xcomp(had-16, give-18)
+prt(give-18, up-19)
+prepc_on(give-18, playing-21)
+det(feature-24, this-23)
+prep_with(playing-21, feature-24)
+
+=========
+
+advmod(enjoy-5, BUT-1)
+nsubj(enjoy-5, I-3)
+aux(enjoy-5, do-4)
+root(ROOT-0, enjoy-5)
+det(TV-7, the-6)
+dobj(enjoy-5, TV-7)
+
+=========
+
+nsubj(noticed-2, I-1)
+root(ROOT-0, noticed-2)
+num(months-5, 2-4)
+prep_after(has-7, months-5)
+nsubj(has-7, it-6)
+ccomp(noticed-2, has-7)
+num(pixel-10, one-8)
+amod(pixel-10, dead-9)
+dobj(has-7, pixel-10)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(website-4, a-3)
+nsubj(is-2, website-4)
+nsubj(fixes-6, website-4)
+rcmod(website-4, fixes-6)
+dobj(fixes-6, this-7)
+prepc_by(fixes-6, connecting-9)
+det(computer-11, a-10)
+dobj(connecting-9, computer-11)
+det(TV-14, the-13)
+prep_to(connecting-9, TV-14)
+
+=========
+
+nsubj(tried-4, I-1)
+aux(tried-4, have-2)
+neg(tried-4, not-3)
+root(ROOT-0, tried-4)
+dobj(tried-4, it-5)
+prep_on(tried-4, mine-7)
+dep(tried-4, yet-8)
+dep(yet-8, though-9)
+

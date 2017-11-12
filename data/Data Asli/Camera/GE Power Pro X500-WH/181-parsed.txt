@@ -1,0 +1,35 @@
+=========
+
+root(ROOT-0, Sharp-1)
+amod(pictures-4, clear-3)
+appos(Sharp-1, pictures-4)
+advmod(worth-6, well-5)
+amod(price-8, worth-6)
+det(price-8, the-7)
+dep(pictures-4, price-8)
+
+=========
+
+nsubj(bought-2, I-1)
+ccomp(work-11, bought-2)
+dobj(bought-2, it-3)
+advmod(bought-2, primerly-4)
+nn(hummingbirds-7, photograph-6)
+prep_to(bought-2, hummingbirds-7)
+aux(work-11, did-9)
+neg(work-11, not-10)
+root(ROOT-0, work-11)
+advmod(well-13, very-12)
+advmod(work-11, well-13)
+prep_for(work-11, that-15)
+amod(that-15, slow-16)
+aux(zoom-18, to-17)
+xcomp(slow-16, zoom-18)
+xcomp(slow-16, focus-20)
+conj_and(zoom-18, focus-20)
+amod(pictures-25, ordinary-24)
+prep_for(excellent-28, pictures-25)
+nsubj(excellent-28, it-26)
+cop(excellent-28, is-27)
+conj_but(work-11, excellent-28)
+

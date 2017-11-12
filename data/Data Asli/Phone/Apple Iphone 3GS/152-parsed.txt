@@ -1,0 +1,74 @@
+=========
+
+nsubj(received-2, I-1)
+root(ROOT-0, received-2)
+dobj(ordered-5, what-3)
+nsubj(ordered-5, I-4)
+ccomp(received-2, ordered-5)
+det(description-8, the-7)
+nsubj(matched-9, description-8)
+conj_and(received-2, matched-9)
+dobj(anticipated-12, what-10)
+nsubj(anticipated-12, I-11)
+ccomp(matched-9, anticipated-12)
+
+=========
+
+root(ROOT-0, Glad-1)
+aux(own-3, to-2)
+xcomp(Glad-1, own-3)
+det(phone-5, this-4)
+dobj(own-3, phone-5)
+
+=========
+
+num(problem-2, One-1)
+nsubj(they-4, problem-2)
+cop(they-4, is-3)
+root(ROOT-0, they-4)
+partmod(they-4, discontinued-5)
+det(3G-7, the-6)
+dobj(discontinued-5, 3G-7)
+mark(goes-11, so-8)
+nsubj(goes-11, it-9)
+advmod(goes-11, only-10)
+advcl(discontinued-5, goes-11)
+prt(goes-11, up-12)
+prep_to(goes-11, iOS-14)
+num(iOS-14, 4.2-15)
+nsubj(high-19, which-16)
+cop(high-19, is-17)
+neg(high-19, not-18)
+rcmod(they-4, high-19)
+advmod(high-19, enough-20)
+aux(install-22, to-21)
+xcomp(high-19, install-22)
+amod(apps-24, most-23)
+dobj(install-22, apps-24)
+
+=========
+
+det(phone-2, The-1)
+nsubj(slower-4, phone-2)
+cop(slower-4, is-3)
+root(ROOT-0, slower-4)
+det(3GS-7, the-6)
+prep_than(slower-4, 3GS-7)
+nsubj(get-10, you-9)
+conj_but(slower-4, get-10)
+dep(pay-13, what-11)
+nsubj(pay-13, you-12)
+ccomp(get-10, pay-13)
+prep(pay-13, for-14)
+
+=========
+
+dep(bad-2, Not-1)
+advmod(got-7, bad-2)
+det(price-5, the-4)
+prep_for(bad-2, price-5)
+nsubj(got-7, I-6)
+root(ROOT-0, got-7)
+dobj(got-7, it-8)
+prep(got-7, for-9)
+

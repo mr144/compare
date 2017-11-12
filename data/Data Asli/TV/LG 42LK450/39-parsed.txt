@@ -1,0 +1,60 @@
+=========
+
+root(ROOT-0, studied-1)
+amod(tvs-3, different-2)
+dobj(studied-1, tvs-3)
+prepc_before(studied-1, buying-6)
+det(product-8, this-7)
+dobj(buying-6, product-8)
+
+=========
+
+det(lg-2, the-1)
+nsubj(deal-9, lg-2)
+det(price-5, the-4)
+prep_for(lg-2, price-5)
+cop(deal-9, was-6)
+det(deal-9, a-7)
+amod(deal-9, good-8)
+root(ROOT-0, deal-9)
+
+=========
+
+aux(had-2, have-1)
+root(ROOT-0, had-2)
+dobj(had-2, it-3)
+amod(months-6, several-5)
+prep_for(had-2, months-6)
+det(troubles-9, no-8)
+prep_with(had-2, troubles-9)
+
+=========
+
+det(speakers-2, the-1)
+nsubj(good-9, speakers-2)
+det(screen-6, a-4)
+amod(screen-6, flat-5)
+prep_for(speakers-2, screen-6)
+cop(good-9, are-7)
+advmod(good-9, actually-8)
+root(ROOT-0, good-9)
+
+=========
+
+amod(picture-2, good-1)
+root(ROOT-0, picture-2)
+amod(sound-5, good-4)
+appos(picture-2, sound-5)
+dep(picture-2, easy-7)
+aux(set-9, to-8)
+xcomp(easy-7, set-9)
+prt(set-9, up-10)
+
+=========
+
+dep(tv-6, in-1)
+dep(in-1, all-2)
+det(tv-6, a-4)
+amod(tv-6, good-5)
+root(ROOT-0, tv-6)
+

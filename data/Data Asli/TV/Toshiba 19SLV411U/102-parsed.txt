@@ -1,0 +1,42 @@
+=========
+
+det(TV-2, This-1)
+nsubj(great-4, TV-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+dobj(pay-8, what-6)
+nsubj(pay-8, you-7)
+prepc_for(great-4, pay-8)
+
+=========
+
+advmod(got-3, When-1)
+nsubj(got-3, I-2)
+advcl($-8, got-3)
+dobj(got-3, it-4)
+det(price-6, the-5)
+nsubj($-8, price-6)
+cop($-8, was-7)
+root(ROOT-0, $-8)
+num($-8, 500-9)
+
+=========
+
+nsubj(good-4, That-1)
+cop(good-4, 's-2)
+advmod(good-4, pretty-3)
+root(ROOT-0, good-4)
+number(40-7, 1080-6)
+prep_for(good-4, 40-7)
+
+=========
+
+nsubj(wanna-4, You-1)
+cop(wanna-4, are-2)
+nn(wanna-4, gonna-3)
+root(ROOT-0, wanna-4)
+rcmod(wanna-4, buy-5)
+det(speakers-7, some-6)
+dobj(buy-5, speakers-7)
+advmod(buy-5, though-9)
+

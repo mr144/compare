@@ -1,0 +1,4 @@
+this_DT tv_NN is_VBZ great_JJ !_.
+crisp_JJ ,_, clear_JJ picture_NN ,_, easy_JJ remote_JJ ,_, good_JJ sound_NN ._.
+the_DT only_JJ thing_NN it_PRP is_VBZ missing_VBG is_VBZ a_DT VGA_NNP port_NN ,_, but_CC i_FW guess_NN that_WDT 's_VBZ a_DT bit_NN outdated_JJ ._.
+easy_JJ controls_NNS ,_, i_FW am_VBP very_RB happy_JJ with_IN it_PRP ._.

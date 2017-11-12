@@ -1,0 +1,31 @@
+=========
+
+root(ROOT-0, Worked-1)
+advmod(expected-3, as-2)
+amod(Worked-1, expected-3)
+
+=========
+
+nsubj(easy-4, Set-1)
+nsubj(running-6, Set-1)
+advmod(easy-4, up-2)
+cop(easy-4, was-3)
+root(ROOT-0, easy-4)
+conj_and(easy-4, running-6)
+mwe(that-9, less-8)
+quantmod(one-10, that-9)
+prep_in(running-6, one-10)
+det(hour-12, half-11)
+dep(one-10, hour-12)
+
+=========
+
+root(ROOT-0, Great-1)
+
+=========
+
+nn(products-2, Samsung-1)
+nsubj(meet-3, products-2)
+root(ROOT-0, meet-3)
+dobj(meet-3, expectations-4)
+

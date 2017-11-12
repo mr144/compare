@@ -1,0 +1,42 @@
+=========
+
+nsubj(love-2, i-1)
+root(ROOT-0, love-2)
+det(Lumix-4, the-3)
+dobj(love-2, Lumix-4)
+det(lens-8, the-6)
+nn(lens-8, leica-7)
+prep_with(Lumix-4, lens-8)
+
+=========
+
+nsubj(one-5, This-1)
+cop(one-5, is-2)
+poss(one-5, my-3)
+amod(one-5, second-4)
+root(ROOT-0, one-5)
+
+=========
+
+root(ROOT-0, Love-1)
+det(features-4, the-2)
+amod(features-4, added-3)
+dobj(Love-1, features-4)
+det(one-7, this-6)
+prep_on(Love-1, one-7)
+advmod(one-7, notably-9)
+amod(burst-13, faster-10)
+amod(burst-13, high-11)
+nn(burst-13, speed-12)
+dep(one-7, burst-13)
+advmod(zoom-16, better-15)
+conj_and(Love-1, zoom-16)
+
+=========
+
+dep(point-2, Good-1)
+root(ROOT-0, point-2)
+conj_and(point-2, shoot-4)
+advmod(recommend-7, highly-6)
+conj_and(point-2, recommend-7)
+

@@ -1,0 +1,2 @@
+This_DT product_NN is_VBZ great_JJ ,_, it_PRP is_VBZ cheap_JJ too_RB !_.
+great_JJ reviews_NNS ,_, great_JJ product_NN ,_, i_FW have_VBP nothing_NN much_JJ to_TO say_VB about_IN it_PRP

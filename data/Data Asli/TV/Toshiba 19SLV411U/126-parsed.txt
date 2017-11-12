@@ -1,0 +1,196 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(TV-4, this-3)
+dobj(had-2, TV-4)
+prep_for(TV-4, awhile-6)
+nsubj(wrong-10, nothing-8)
+cop(wrong-10, is-9)
+conj_and(had-2, wrong-10)
+prep_with(wrong-10, it-12)
+
+=========
+
+nsubj(serves-2, It-1)
+root(ROOT-0, serves-2)
+dobj(serves-2, everything-3)
+dobj(expect-6, everything-3)
+nsubj(expect-6, I-4)
+aux(expect-6, would-5)
+rcmod(everything-3, expect-6)
+det(TV-9, a-8)
+prep_from(expect-6, TV-9)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(variety-4, a-3)
+dobj(has-2, variety-4)
+prep_of(variety-4, number-6)
+nn(connections-11, input-8)
+conj_and(input-8, output-10)
+nn(connections-11, output-10)
+prep_of(number-6, connections-11)
+
+=========
+
+nsubj(hook-2, I-1)
+root(ROOT-0, hook-2)
+dobj(hook-2, everything-3)
+prt(hook-2, up-4)
+prep_to(hook-2, it-6)
+
+=========
+
+nn(TV-2, Cable-1)
+root(ROOT-0, TV-2)
+nn(systems-5, game-4)
+appos(TV-2, systems-5)
+appos(systems-5, computer-7)
+appos(TV-2, DVD-9)
+appos(DVD-9, Blue-Ray-11)
+dep(DVD-9, etc.-13)
+
+=========
+
+nsubj(clear-3, Picture-1)
+cop(clear-3, is-2)
+root(ROOT-0, clear-3)
+mark(give-12, as-4)
+det(720P-6, a-5)
+nsubj(give-12, 720P-6)
+det(source-10, a-8)
+nn(source-10, HD-9)
+prep_from(720P-6, source-10)
+aux(give-12, can-11)
+advcl(clear-3, give-12)
+
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, do-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+advmod(complain-7, why-5)
+nsubj(complain-7, people-6)
+advcl(know-4, complain-7)
+det(sound-10, the-9)
+prep_about(complain-7, sound-10)
+
+=========
+
+mark(have-3, Unless-1)
+nsubj(have-3, I-2)
+advcl(need-15, have-3)
+amod(hearing-5, super-4)
+dobj(have-3, hearing-5)
+nsubj(deaf-10, everyone-7)
+advmod(everyone-7, else-8)
+cop(deaf-10, is-9)
+conj_or(have-3, deaf-10)
+advcl(need-15, deaf-10)
+nsubj(need-15, I-12)
+xsubj(turn-17, I-12)
+advmod(need-15, hardly-13)
+advmod(need-15, ever-14)
+root(ROOT-0, need-15)
+aux(turn-17, to-16)
+xcomp(need-15, turn-17)
+det(volume-19, the-18)
+dobj(turn-17, volume-19)
+mwe(than-22, more-21)
+quantmod(1\/4-23, than-22)
+prep_up(turn-17, 1\/4-23)
+det(way-26, the-25)
+prep_of(1\/4-23, way-26)
+nsubj(sounds-29, it-28)
+conj_and(need-15, sounds-29)
+acomp(sounds-29, good-30)
+
+=========
+
+cc(is-3, Plus-1)
+expl(is-3, there-2)
+root(ROOT-0, is-3)
+advmod(is-3, always-4)
+det(option-6, the-5)
+nsubj(is-3, option-6)
+aux(hook-8, to-7)
+infmod(option-6, hook-8)
+dobj(hook-8, it-9)
+prt(hook-8, up-10)
+det(system-14, an-12)
+amod(system-14, audio-13)
+prep_to(hook-8, system-14)
+mark(want-17, if-15)
+nsubj(want-17, you-16)
+advcl(hook-8, want-17)
+
+=========
+
+dep(have-8, Oh-1)
+dep(Oh-1, okay-3)
+nsubj(have-8, it-5)
+aux(have-8, does-6)
+neg(have-8, not-7)
+root(ROOT-0, have-8)
+amod(jacks-10, headphone-9)
+dobj(have-8, jacks-10)
+
+=========
+
+root(ROOT-0, Come-1)
+aux(think-3, to-2)
+xcomp(Come-1, think-3)
+prep_of(think-3, it-5)
+
+=========
+
+nsubj(seen-5, I-1)
+aux(seen-5, have-2)
+neg(seen-5, not-3)
+advmod(seen-5, even-4)
+root(ROOT-0, seen-5)
+det(TV-7, a-6)
+dobj(seen-5, TV-7)
+det(days-10, these-9)
+prep_around(TV-7, days-10)
+amod(jacks-13, headphone-12)
+prep_with(seen-5, jacks-13)
+mark(thing-19, so-14)
+nsubj(thing-19, that-15)
+cop(thing-19, is-16)
+det(thing-19, the-17)
+amod(thing-19, last-18)
+advcl(seen-5, thing-19)
+dobj(look-21, thing-19)
+nsubj(look-21, I-20)
+rcmod(thing-19, look-21)
+prep(look-21, for-22)
+pcomp(for-22, in-23)
+det(TV-25, a-24)
+prep_in(for-22, TV-25)
+
+=========
+
+advmod(solved-7, Anyways-1)
+det(problem-4, that-3)
+nsubjpass(solved-7, problem-4)
+auxpass(solved-7, is-5)
+advmod(solved-7, simply-6)
+root(ROOT-0, solved-7)
+det(adapter-11, a-9)
+nn(adapter-11, RCA-10)
+prep_with(solved-7, adapter-11)
+poss(headphones-14, your-13)
+prep_for(adapter-11, headphones-14)
+complm(plug-18, that-15)
+nsubj(plug-18, you-16)
+aux(plug-18, can-17)
+ccomp(solved-7, plug-18)
+det(input-22, the-20)
+nn(input-22, RCA-21)
+prep_into(plug-18, input-22)
+

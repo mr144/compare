@@ -1,0 +1,67 @@
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+dobj(think-2, Nikon-3)
+partmod(Nikon-3, nailed-4)
+dobj(nailed-4, it-5)
+det(DSLR-8, this-7)
+prep_with(nailed-4, DSLR-8)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(camera-4, this-3)
+dobj(got-2, camera-4)
+det(F\/1-8, the-6)
+amod(F\/1-8, 85mm-7)
+prep_with(got-2, F\/1-8)
+num(lens-10, .8-9)
+dep(F\/1-8, lens-10)
+advmod(impressed-13, extremely-12)
+dep(F\/1-8, impressed-13)
+conj_and(lens-10, impressed-13)
+det(quality-16, the-15)
+prep_by(got-2, quality-16)
+det(images-19, the-18)
+prep_of(quality-16, images-19)
+dep(images-19, sharpness-21)
+appos(sharpness-21, color-23)
+
+=========
+
+nsubj(compared-2, I-1)
+root(ROOT-0, compared-2)
+dobj(compared-2, it-3)
+det(D600-6, the-5)
+prep_with(compared-2, D600-6)
+nsubj(Frame-12, Which-8)
+cop(Frame-12, is-9)
+det(Frame-12, a-10)
+nn(Frame-12, Full-11)
+dep(compared-2, Frame-12)
+det(difference-17, the-15)
+nn(difference-17, quality-16)
+nsubj(atleast-20, difference-17)
+cop(atleast-20, is-18)
+amod(atleast-20, minimal-19)
+conj_and(compared-2, atleast-20)
+prep_to(atleast-20, me-22)
+neg(worth-26, not-25)
+conj_and(compared-2, worth-26)
+conj_plus(atleast-20, worth-26)
+mwe(than-28, more-27)
+quantmod(1G-29, than-28)
+dep(worth-26, 1G-29)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, this-4)
+det(users-8, all-6)
+amod(users-8, semi-pro-7)
+prep_to(recommend-3, users-8)
+

@@ -1,0 +1,33 @@
+=========
+
+nsubj(unlocked-2, This-1)
+root(ROOT-0, unlocked-2)
+nn(phone-4, cell-3)
+nsubj(works-5, phone-4)
+ccomp(unlocked-2, works-5)
+advmod(works-5, perfectly-6)
+nn(Venezuela-9, Digitel-8)
+prep_for(works-5, Venezuela-9)
+
+=========
+
+nsubj(new-4, It-1)
+nsubj(work-6, It-1)
+cop(new-4, 's-2)
+dep(new-4, brand-3)
+root(ROOT-0, new-4)
+conj_and(new-4, work-6)
+advmod(work-6, perfectly-7)
+
+=========
+
+nsubj(buy-4, I-1)
+advmod(buy-4, definitely-2)
+aux(buy-4, would-3)
+root(ROOT-0, buy-4)
+det(phone-7, another-5)
+nn(phone-7, cell-6)
+dobj(buy-4, phone-7)
+det(company-10, this-9)
+prep_to(buy-4, company-10)
+

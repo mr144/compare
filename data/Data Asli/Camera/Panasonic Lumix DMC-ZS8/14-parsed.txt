@@ -1,0 +1,453 @@
+=========
+
+nn(Camera-6, A-1)
+nn(Camera-6, Better-2)
+nn(Camera-6, Panasonic-3)
+nn(Camera-6, Lumix-4)
+nn(Camera-6, Digital-5)
+root(ROOT-0, Camera-6)
+
+=========
+
+det(DMC-ZS8-4, The-1)
+nn(DMC-ZS8-4, Panasonic-2)
+nn(DMC-ZS8-4, Lumix-3)
+nsubj(camera-9, DMC-ZS8-4)
+cop(camera-9, is-5)
+det(camera-9, a-6)
+advmod(good-8, very-7)
+amod(camera-9, good-8)
+root(ROOT-0, camera-9)
+
+=========
+
+det(camera-3, The-1)
+amod(camera-3, new-2)
+nsubj(has-4, camera-3)
+root(ROOT-0, has-4)
+amod(features-7, great-5)
+amod(features-7, new-6)
+dobj(has-4, features-7)
+
+=========
+
+det(features-3, This-1)
+amod(features-3, new-2)
+nsubj(help-5, features-3)
+aux(help-5, can-4)
+root(ROOT-0, help-5)
+nsubj(take-7, you-6)
+ccomp(help-5, take-7)
+amod(pictures-9, better-8)
+dobj(take-7, pictures-9)
+
+=========
+
+det(year-2, This-1)
+tmod(fantastic-6, year-2)
+amod(features-4, new-3)
+nsubj(fantastic-6, features-4)
+cop(fantastic-6, are-5)
+root(ROOT-0, fantastic-6)
+
+=========
+
+det(DMC-z58-2, The-1)
+nsubjpass(packed-4, DMC-z58-2)
+auxpass(packed-4, is-3)
+root(ROOT-0, packed-4)
+amod(features-7, new-6)
+prep_with(packed-4, features-7)
+
+=========
+
+det(DMC-ZS8-4, The-1)
+amod(DMC-ZS8-4, new-2)
+nn(DMC-ZS8-4, model-3)
+nsubj(features-5, DMC-ZS8-4)
+root(ROOT-0, features-5)
+det(lens-11, a-6)
+amod(lens-11, powerful-7)
+dep(powerful-7, 16x-8)
+amod(lens-11, optical-9)
+nn(lens-11, zoom-10)
+dobj(features-5, lens-11)
+
+=========
+
+det(lens-2, This-1)
+nsubjpass(redesigned-5, lens-2)
+aux(redesigned-5, has-3)
+auxpass(redesigned-5, been-4)
+root(ROOT-0, redesigned-5)
+
+=========
+
+det(system-8, The-1)
+amod(system-8, new-2)
+nn(system-8, high-quality-3)
+nn(system-8, LEICA-4)
+nn(system-8, DC-5)
+nn(system-8, VARIO-ELMAR-6)
+nn(system-8, lens-7)
+nsubj(versatile-12, system-8)
+cop(versatile-12, is-9)
+advmod(versatile-12, even-10)
+advmod(versatile-12, more-11)
+root(ROOT-0, versatile-12)
+amod(wide-angle-16, 24mm-14)
+nn(wide-angle-16, ultra-15)
+prep_with(versatile-12, wide-angle-16)
+dep(wide-angle-16, \*-17)
+amod(zoom-22, powerful-19)
+amod(zoom-22, 16x-20)
+amod(zoom-22, optical-21)
+prep_to(versatile-12, zoom-22)
+
+=========
+
+det(16x-5, The-1)
+amod(16x-5, new-2)
+conj_and(new-2, Powerful-4)
+amod(16x-5, Powerful-4)
+root(ROOT-0, 16x-5)
+nn(Zoom-7, Optical-6)
+dep(16x-5, Zoom-7)
+
+=========
+
+det(zooom-3, This-1)
+amod(zooom-3, optical-2)
+nsubj(gives-4, zooom-3)
+root(ROOT-0, gives-4)
+iobj(gives-4, you-5)
+advmod(natural-7, highly-6)
+amod(expressions-8, natural-7)
+dobj(gives-4, expressions-8)
+dobj(close-18, expressions-8)
+prep_from(expressions-8, people-10)
+prep_from(expressions-8, animals-12)
+conj_and(people-10, animals-12)
+dep(close-18, that-13)
+nsubj(close-18, you-14)
+aux(close-18, can-15)
+neg(close-18, not-16)
+dep(close-18, get-17)
+dep(expressions-8, close-18)
+prep(close-18, to-19)
+
+=========
+
+det(camera-2, The-1)
+nsubjpass(used-5, camera-2)
+aux(used-5, can-3)
+auxpass(used-5, be-4)
+root(ROOT-0, used-5)
+nn(movies-8, film-7)
+prep_to(used-5, movies-8)
+
+=========
+
+nsubjpass(designed-3, It-1)
+xsubj(suppress-5, It-1)
+auxpass(designed-3, is-2)
+root(ROOT-0, designed-3)
+aux(suppress-5, to-4)
+xcomp(designed-3, suppress-5)
+dobj(suppress-5, noise-6)
+prepc_while(suppress-5, zooming-8)
+
+=========
+
+det(camera-2, The-1)
+nsubj(features-3, camera-2)
+root(ROOT-0, features-3)
+det(LCD-9, a-4)
+amod(LCD-9, 3.0-inch-5)
+amod(LCD-9, 230,000-dot-7)
+amod(LCD-9, High-resolution-8)
+dobj(features-3, LCD-9)
+
+=========
+
+det(DMC-ZS8-2, The-1)
+nsubjpass(equipped-4, DMC-ZS8-2)
+auxpass(equipped-4, is-3)
+root(ROOT-0, equipped-4)
+det(LCD-8, a-6)
+amod(LCD-8, 3.0-inch-7)
+prep_with(equipped-4, LCD-8)
+
+=========
+
+det(screen-3, The-1)
+amod(screen-3, big-2)
+nsubj(reflects-4, screen-3)
+root(ROOT-0, reflects-4)
+amod(details-6, fine-5)
+dobj(reflects-4, details-6)
+partmod(reflects-4, making-8)
+xcomp(reflects-4, making-8)
+nsubj(easy-10, it-9)
+xcomp(making-8, easy-10)
+aux(check-12, to-11)
+xcomp(easy-10, check-12)
+det(focus-14, the-13)
+dobj(check-12, focus-14)
+prepc_before(check-12, shooting-16)
+
+=========
+
+nsubj(serves-3, It-1)
+advmod(serves-3, also-2)
+root(ROOT-0, serves-3)
+det(viewer-9, a-5)
+nn(viewer-9, photo-6)
+conj_and(photo-6, video-8)
+nn(viewer-9, video-8)
+prep_as(serves-3, viewer-9)
+xcomp(serves-3, allowing-11)
+nsubj(enjoy-16, you-12)
+conj_and(you-12, friends-14)
+nsubj(enjoy-16, friends-14)
+aux(enjoy-16, to-15)
+xcomp(allowing-11, enjoy-16)
+xcomp(enjoy-16, viewing-17)
+dep(images-22, the-18)
+dep(the-18, still-19)
+conj_and(the-18, motion-21)
+dep(images-22, motion-21)
+dobj(viewing-17, images-22)
+advmod(viewing-17, together-23)
+
+=========
+
+det(VI-5, The-1)
+amod(VI-5, highperformance-2)
+nn(VI-5, Venus-3)
+nn(VI-5, Engine-4)
+nsubjpass(incorporated-7, VI-5)
+auxpass(incorporated-7, is-6)
+root(ROOT-0, incorporated-7)
+det(DMC-ZS8-10, the-9)
+prep_in(incorporated-7, DMC-ZS8-10)
+
+=========
+
+nsubj(enables-2, it-1)
+root(ROOT-0, enables-2)
+det(recording-4, the-3)
+dobj(enables-2, recording-4)
+amod(images-7, beautiful-6)
+prep_of(recording-4, images-7)
+
+=========
+
+det(system-5, An-1)
+amod(system-5, advanced-2)
+nn(system-5, noise-3)
+nn(system-5, reduction-4)
+nsubj(applies-11, system-5)
+det(VI-10, the-7)
+nn(VI-10, Venus-8)
+nn(VI-10, Engine-9)
+prep_in(system-5, VI-10)
+root(ROOT-0, applies-11)
+nn(reduction-13, noise-12)
+dobj(applies-11, reduction-13)
+
+=========
+
+amod(images-2, Beautiful-1)
+nsubjpass(reproduced-8, images-2)
+amod(noise-5, minimal-4)
+prep_with(images-2, noise-5)
+aux(reproduced-8, can-6)
+auxpass(reproduced-8, be-7)
+root(ROOT-0, reproduced-8)
+amod(shots-12, beautiful-10)
+nn(shots-12, night-11)
+prep_for(reproduced-8, shots-12)
+advmod(lit-15, dimly-14)
+amod(shots-17, lit-15)
+amod(shots-17, indoor-16)
+prep_for(reproduced-8, shots-17)
+conj_or(shots-12, shots-17)
+
+=========
+
+nn(Detection-4, AF-1)
+nn(Detection-4, Tracking-2)
+nn(Detection-4, Subject-3)
+root(ROOT-0, Detection-4)
+
+=========
+
+mark(focus-3, Once-1)
+nsubj(focus-3, you-2)
+advcl(tracks-12, focus-3)
+poss(subject-6, your-5)
+prep_on(focus-3, subject-6)
+det(Tracking-10, the-8)
+nn(Tracking-10, AF-9)
+nsubj(tracks-12, Tracking-10)
+advmod(tracks-12, automatically-11)
+root(ROOT-0, tracks-12)
+dobj(tracks-12, it-13)
+mark(press-16, until-14)
+nsubj(press-16, you-15)
+advcl(tracks-12, press-16)
+det(shutter-18, the-17)
+dobj(press-16, shutter-18)
+
+=========
+
+advmod(taking-4, When-1)
+nsubj(taking-4, you-2)
+aux(taking-4, are-3)
+advcl(eliminates-18, taking-4)
+dobj(taking-4, images-5)
+det(subject-9, an-7)
+amod(subject-9, active-8)
+prep_of(images-5, subject-9)
+prep_like(taking-4, children-12)
+prep_like(taking-4, pets-14)
+conj_or(children-12, pets-14)
+det(function-17, this-16)
+nsubj(eliminates-18, function-17)
+root(ROOT-0, eliminates-18)
+det(need-20, the-19)
+dobj(eliminates-18, need-20)
+aux(press-22, to-21)
+infmod(need-20, press-22)
+det(halfway-26, the-23)
+nn(halfway-26, shutter-24)
+nn(halfway-26, button-25)
+dobj(press-22, halfway-26)
+prt(press-22, down-27)
+advmod(press-22, repeatedly-28)
+aux(readjust-30, to-29)
+xcomp(press-22, readjust-30)
+det(focus-32, the-31)
+dobj(readjust-30, focus-32)
+
+=========
+
+det(Tracking-3, The-1)
+nn(Tracking-3, AF-2)
+nsubj(makes-4, Tracking-3)
+root(ROOT-0, makes-4)
+acomp(makes-4, sure-5)
+nsubj(miss-9, you-6)
+aux(miss-9, do-7)
+neg(miss-9, not-8)
+ccomp(sure-5, miss-9)
+det(camera-14, those-10)
+amod(camera-14, once-in-a-lifetime-11)
+amod(camera-14, shooting-12)
+nn(camera-14, opportunitieThis-13)
+nsubj(portable-16, camera-14)
+cop(portable-16, is-15)
+ccomp(miss-9, portable-16)
+
+=========
+
+det(Dimensions-4, The-1)
+nn(Dimensions-4, camera-2)
+nn(Dimensions-4, Product-3)
+nsubj(inches-11, Dimensions-4)
+cop(inches-11, are-5)
+number(x-7, 1.3-6)
+num(inches-11, x-7)
+amod(inches-11, 4.1-8)
+number(2.3-10, x-9)
+num(inches-11, 2.3-10)
+root(ROOT-0, inches-11)
+
+=========
+
+nsubj(travel-3, You-1)
+aux(travel-3, can-2)
+root(ROOT-0, travel-3)
+det(camera-6, this-5)
+prep_with(travel-3, camera-6)
+
+=========
+
+nsubj(camera-6, It-1)
+cop(camera-6, is-2)
+det(camera-6, a-3)
+advmod(light-5, very-4)
+amod(camera-6, light-5)
+root(ROOT-0, camera-6)
+
+=========
+
+nsubj(weights-3, It-1)
+advmod(weights-3, only-2)
+root(ROOT-0, weights-3)
+num(ounces-5, 7.4-4)
+dobj(weights-3, ounces-5)
+
+=========
+
+det(camera-5, The-1)
+nn(camera-5, Lumix-2)
+nn(camera-5, ZS8-3)
+amod(camera-5, digital-4)
+nsubj(comes-6, camera-5)
+root(ROOT-0, comes-6)
+amod(items-9, many-8)
+prep_with(comes-6, items-9)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+nn(Charger-4, Battery-3)
+dobj(has-2, Charger-4)
+nn(Pack-7, Battery-6)
+dobj(has-2, Pack-7)
+conj_and(Charger-4, Pack-7)
+
+=========
+
+nsubj(comes-2, It-1)
+root(ROOT-0, comes-2)
+nn(Cable-5, AV-4)
+prep_with(comes-2, Cable-5)
+nn(Cable-8, USB-7)
+appos(Cable-5, Cable-8)
+
+=========
+
+nsubj(comes-2, It-1)
+root(ROOT-0, comes-2)
+det(Strap-6, a-4)
+nn(Strap-6, Hand-5)
+prep_with(comes-2, Strap-6)
+
+=========
+
+nsubj(includes-2, It-1)
+root(ROOT-0, includes-2)
+det(CD-ROM-4, a-3)
+dobj(includes-2, CD-ROM-4)
+
+=========
+
+dobj(need-3, Everything-1)
+nsubjpass(included-5, Everything-1)
+nsubj(need-3, you-2)
+rcmod(Everything-1, need-3)
+auxpass(included-5, is-4)
+root(ROOT-0, included-5)
+
+=========
+
+nsubj(disappointed-5, You-1)
+aux(disappointed-5, will-2)
+neg(disappointed-5, not-3)
+cop(disappointed-5, be-4)
+root(ROOT-0, disappointed-5)
+

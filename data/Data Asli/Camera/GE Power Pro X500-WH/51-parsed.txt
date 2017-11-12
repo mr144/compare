@@ -1,0 +1,137 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+det(alternative-7, an-6)
+prep_as(bought-2, alternative-7)
+det(mirror-10, a-9)
+prep_to(bought-2, mirror-10)
+
+=========
+
+mark(did-3, Because-1)
+nsubj(did-3, I-2)
+csubj(want-5, did-3)
+neg(did-3, not-4)
+root(ROOT-0, want-5)
+aux(carry-7, to-6)
+xcomp(want-5, carry-7)
+det(camera-10, a-8)
+amod(camera-10, huge-9)
+dobj(carry-7, camera-10)
+poss(lenses-13, its-12)
+dobj(carry-7, lenses-13)
+conj_and(camera-10, lenses-13)
+
+=========
+
+cc(regret-5, And-1)
+nsubj(regret-5, I-2)
+aux(regret-5, do-3)
+neg(regret-5, not-4)
+root(ROOT-0, regret-5)
+poss(purchase-7, my-6)
+dobj(regret-5, purchase-7)
+
+=========
+
+det(camera-2, This-1)
+nsubjpass(made-4, camera-2)
+auxpass(made-4, is-3)
+root(ROOT-0, made-4)
+amod(menu-9, durable-5)
+amod(menu-9, very-7)
+amod(menu-9, good-8)
+dobj(made-4, menu-9)
+dobj(made-4, compact-11)
+conj_and(menu-9, compact-11)
+advmod(easy-14, very-13)
+dobj(made-4, easy-14)
+conj_and(menu-9, easy-14)
+prep_to(easy-14, use-16)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+amod(modes-4, many-3)
+nsubj(are-2, modes-4)
+nsubj(is-11, modes-4)
+nsubj(are-2, settings-6)
+conj_and(modes-4, settings-6)
+nsubj(is-11, settings-6)
+advmod(much-9, very-8)
+advmod(what-10, much-9)
+rcmod(modes-4, is-11)
+det(mode-15, the-13)
+amod(mode-15, manual-14)
+prep_in(is-11, mode-15)
+amod(cameras-18, many-17)
+appos(mode-15, cameras-18)
+det(price-21, this-20)
+prep_at(cameras-18, price-21)
+nsubj(is-23, it-22)
+rcmod(price-21, is-23)
+neg(is-23, not-24)
+
+=========
+
+nsubj(DSLR-5, This-1)
+nsubj(inferior-9, This-1)
+cop(DSLR-5, is-2)
+advmod(DSLR-5, certainly-3)
+neg(DSLR-5, not-4)
+root(ROOT-0, DSLR-5)
+neg(inferior-9, not-8)
+conj_but(DSLR-5, inferior-9)
+prep_to(inferior-9, it-11)
+prep_as(DSLR-5, images-13)
+
+=========
+
+cc(is-3, But-1)
+expl(is-3, there-2)
+root(ROOT-0, is-3)
+num(drawback-5, one-4)
+nsubj(is-3, drawback-5)
+
+=========
+
+poss(screen-2, Its-1)
+nsubj(quality-7, screen-2)
+cop(quality-7, is-3)
+neg(quality-7, not-4)
+advmod(quality-7, exactly-5)
+amod(quality-7, conveys-6)
+ccomp(worse-13, quality-7)
+amod(image-10, onscreen-9)
+nsubj(worse-13, image-10)
+cop(worse-13, is-11)
+advmod(worse-13, always-12)
+root(ROOT-0, worse-13)
+mark(turns-17, than-14)
+nsubj(turns-17, it-15)
+advmod(turns-17, actually-16)
+advcl(worse-13, turns-17)
+prt(turns-17, out-18)
+det(photo-20, the-19)
+dobj(turns-17, photo-20)
+
+=========
+
+cc(good-7, But-1)
+advmod(so-3, even-2)
+advmod(good-7, so-3)
+det(camera-5, the-4)
+nsubj(good-7, camera-5)
+cop(good-7, is-6)
+root(ROOT-0, good-7)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+xcomp(recommend-2, buying-3)
+

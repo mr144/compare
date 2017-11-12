@@ -1,0 +1,59 @@
+=========
+
+advmod(liked-6, So-1)
+advmod(So-1, far-2)
+nsubj(liked-6, we-3)
+aux(liked-6, have-4)
+advmod(liked-6, really-5)
+root(ROOT-0, liked-6)
+det(pictures-8, the-7)
+dobj(liked-6, pictures-8)
+complm(taken-12, that-9)
+nsubj(taken-12, we-10)
+aux(taken-12, have-11)
+ccomp(liked-6, taken-12)
+det(camera-15, this-14)
+prep_with(taken-12, camera-15)
+
+=========
+
+nsubj(learn-3, Lots-1)
+aux(learn-3, to-2)
+root(ROOT-0, learn-3)
+prep_on(learn-3, it-5)
+advmod(learn-3, yet-6)
+det(zoom-10, the-9)
+nsubj(brings-13, zoom-10)
+prep_on(zoom-10, it-12)
+conj_but(learn-3, brings-13)
+dobj(brings-13, you-14)
+advmod(up-16, right-15)
+advmod(brings-13, up-16)
+det(object-19, the-18)
+prep_to(brings-13, object-19)
+det(picture-22, the-21)
+prep_of(object-19, picture-22)
+
+=========
+
+nsubj(bright-4, Color-1)
+nsubj(clear-6, Color-1)
+cop(bright-4, is-2)
+advmod(bright-4, so-3)
+root(ROOT-0, bright-4)
+conj_and(bright-4, clear-6)
+
+=========
+
+nsubj(like-2, Will-1)
+root(ROOT-0, like-2)
+nsubj(learn-8, it-3)
+advmod(better-5, even-4)
+dep(learn-8, better-5)
+advmod(learn-8, when-6)
+nsubj(learn-8, we-7)
+xcomp(like-2, learn-8)
+dobj(learn-8, all-9)
+det(settings-12, the-11)
+prep_of(all-9, settings-12)
+

@@ -1,0 +1,56 @@
+=========
+
+nsubj(camera-12, This-1)
+cop(camera-12, is-2)
+prep(camera-12, by-3)
+pobj(by-3, now-4)
+amod(months-7, several-6)
+prep_after(camera-12, months-7)
+prep_of(months-7, trials-9)
+poss(camera-12, my-10)
+amod(camera-12, favorite-11)
+root(ROOT-0, camera-12)
+advmod(recorded-19, even-14)
+dep(recorded-19, though-15)
+det(pictures-17, the-16)
+nsubjpass(recorded-19, pictures-17)
+auxpass(recorded-19, are-18)
+dep(camera-12, recorded-19)
+det(4:3-25, the-21)
+amod(4:3-25, old-23)
+prep_in(recorded-19, 4:3-25)
+neg(recorded-19, not-27)
+nn(format-30, widescreen-29)
+prep_in(recorded-19, format-30)
+dep(format-30, works-32)
+prep_for(works-32, me-34)
+
+=========
+
+det(objective-3, The-1)
+nn(objective-3, Schneider-2)
+nsubj(nice-5, objective-3)
+cop(nice-5, is-4)
+root(ROOT-0, nice-5)
+prep(nice-5, especially-7)
+det(zoom-10, the-8)
+amod(zoom-10, optical-9)
+pobj(especially-7, zoom-10)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(shoot-3, I-2)
+root(ROOT-0, shoot-3)
+nsubj(most-5, photos-4)
+xcomp(shoot-3, most-5)
+det(time-8, the-7)
+prep_of(most-5, time-8)
+nsubjpass(done-14, that-11)
+auxpass(done-14, is-12)
+advmod(done-14, well-13)
+conj_and(shoot-3, done-14)
+det(camera-17, this-16)
+prep_with(done-14, camera-17)
+

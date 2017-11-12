@@ -1,0 +1,54 @@
+=========
+
+det(TV-2, This-1)
+nsubj(better-5, TV-2)
+cop(better-5, is-3)
+advmod(better-5, even-4)
+root(ROOT-0, better-5)
+mark(expect-8, than-6)
+nsubj(expect-8, I-7)
+advcl(better-5, expect-8)
+
+=========
+
+det(shipping-2, The-1)
+nsubj(fast-4, shipping-2)
+cop(fast-4, was-3)
+root(ROOT-0, fast-4)
+
+=========
+
+nsubj(watching-3, I-1)
+aux(watching-3, am-2)
+root(ROOT-0, watching-3)
+mark(possible-16, so-4)
+amod(things-6, many-5)
+nsubj(possible-16, things-6)
+det(TV-9, this-8)
+prep_on(things-6, TV-9)
+dobj(know-14, TV-9)
+complm(know-14, that-10)
+nsubj(know-14, I-11)
+aux(know-14, did-12)
+neg(know-14, not-13)
+dep(TV-9, know-14)
+cop(possible-16, was-15)
+advcl(watching-3, possible-16)
+
+=========
+
+nn(_-2, ^-1)
+nsubj(^-3, _-2)
+root(ROOT-0, ^-3)
+
+=========
+
+det(quality-2, The-1)
+nsubj(nice-4, quality-2)
+cop(nice-4, is-3)
+root(ROOT-0, nice-4)
+det(sound-7, the-6)
+nsubj(clear-9, sound-7)
+cop(clear-9, is-8)
+conj_and(nice-4, clear-9)
+

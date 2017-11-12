@@ -1,0 +1,28 @@
+=========
+
+nsubj(camera-5, It-1)
+cop(camera-5, 's-2)
+det(camera-5, an-3)
+amod(camera-5, awesome-4)
+ccomp(love-9, camera-5)
+nsubj(love-9, I-7)
+advmod(love-9, really-8)
+root(ROOT-0, love-9)
+dobj(love-9, it-10)
+
+=========
+
+nsubj(wait-4, I-1)
+xsubj(take-6, I-1)
+aux(wait-4, can-2)
+neg(wait-4, not-3)
+root(ROOT-0, wait-4)
+aux(take-6, to-5)
+xcomp(wait-4, take-6)
+quantmod(million-8, a-7)
+num(pictures-9, million-8)
+dobj(take-6, pictures-9)
+prep_with(take-6, it-11)
+dep(take-6, thank-13)
+dobj(thank-13, you-14)
+

@@ -1,0 +1,11 @@
+I_PRP have_VBP had_VBN this_DT phone_NN for_IN almost_RB 1 1\/2_CD years_NNS -LRB-_-LRB- purchased_VBN during_IN launch_NN week_NN -RRB-_-RRB- ._.
+The_DT only_JJ issues_NNS I_PRP have_VBP had_VBD came_VBN after_IN the_DT Gingerbread_NNP update_VBP -LRB-_-LRB- 2.3.4_CD -RRB-_-RRB- ._.
+I_PRP did_VBD a_DT hard_JJ reset_NN ,_, and_CC things_NNS went_VBD back_RB to_TO normal_JJ ._.
+This_DT led_VBD me_PRP to_TO believe_VB it_PRP was_VBD a_DT compatibility_NN issue_NN with_IN one_CD of_IN the_DT installed_JJ apps_NNS ._.
+This_DT review_NN is_VBZ in_IN response_NN to_TO a_DT posting_VBG in_IN the_DT past_JJ week_NN that_WDT rated_VBD the_DT phone_NN 1_CD out_IN of_IN 5_CD ._.
+The_DT main_JJ complaint_NN was_VBD that_IN the_DT phone_NN did_VBD not_RB do_VB international_JJ SMS_NNP ._.
+I_PRP have_VBP sent_VBN and_CC received_VBN thousands_NNS of_IN international_JJ texts_NNS -LRB-_-LRB- SMS_NNP and_CC MMS_NNP -RRB-_-RRB- with_IN the_DT phone_NN -LRB-_-LRB- to_TO and_CC from_IN Asia_NNP and_CC Canada_NNP originating_VBG and_CC ending_VBG in_IN Missouri_NNP -RRB-_-RRB- ._.
+I_PRP hope_VBP that_IN this_DT review_NN helps_VBZ put_VB people_NNS 's_POS worries_NNS to_TO rest_VB about_IN this_DT claim_NN ._.
+The_DT author_NN of_IN the_DT mentioned_VBN review_NN also_RB refers_VBZ to_TO the_DT phone_NN as_IN the_DT G1_NNP ._.
+The_DT `_`` G1_NN '_'' is_VBZ not_RB the_DT Nexus_NNP One_CD ;_: it_PRP is_VBZ an_DT early_JJ android_NN phone_NN also_RB made_VBN by_IN HTC_NNP that_WDT predates_VBZ the_DT Nexus_NNP One_CD by_IN about_IN a_DT year_NN ._.
+He_PRP may_MD have_VB been_VBN reviewing_VBG the_DT wrong_JJ phone_NN ._.

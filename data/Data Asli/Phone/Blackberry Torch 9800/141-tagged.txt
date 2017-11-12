@@ -1,0 +1,1 @@
+Easy_NNP to_TO use_VB ,_, received_VBD new_JJ ,_, GSM_NNP phone_NN ,_, good_JJ phone_NN ,_, good_JJ camera_NN ,_, but_CC could_MD be_VB better_JJR if_IN you_PRP can_MD increase_VB just_RB a_DT little_JJ the_DT price_NN ,_, but_CC include_VBP a_DT memory_NN card_NN -LRB-_-LRB- maybe_RB a_DT 4_CD GB_NN as_IN another_DT phone_NN that_IN I_PRP bought_VBD ._.

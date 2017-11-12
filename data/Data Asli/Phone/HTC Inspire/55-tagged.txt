@@ -1,0 +1,34 @@
+Item_NN listed_VBN as_IN New_NNP and_CC sold_VBN by_IN Jet_NNP Set_NNP Market_NNP and_CC fulfilled_VBN by_IN Amazon_NNP ._.
+Item_NN arrived_VBD in_IN an_DT AT&T_NNP box_NN as_IN expected_VBN ._.
+However_RB ,_, the_DT phone_NN itself_PRP is_VBZ far_RB from_IN new_JJ ._.
+I_PRP am_VBP dissapointed_JJ that_IN Amazon_NNP just_RB chooses_VBZ to_TO do_VB business_NN with_IN anyone_NN ._.
+I_PRP choose_VBP this_DT particular_JJ seller_NN though_IN the_DT order_NN was_VBD fulfilled_VBN by_IN Amazon_NNP thinking_VBG that_IN if_IN anything_NN it_PRP must_MD be_VB a_DT good_JJ seller_NN if_IN Amazon_NNP fulfills_VBZ their_PRP$ orders_NNS ._.
+There_EX is_VBZ a_DT sticker_NN on_IN the_DT outside_NN of_IN the_DT AT&T_NNP box_NN that_WDT lists_VBZ IMEI_NNP number_NN ,_, serial_JJ number_NN etc._NN ._.
+I_PRP noticed_VBD right_RB out_IN of_IN the_DT box_NN that_IN the_DT phone_NN had_VBD visual_JJ damage_NN to_TO the_DT front_JJ speaker_NN part_NN that_WDT is_VBZ at_IN the_DT very_RB top_JJ part_NN of_IN the_DT phone_NN ._.
+It_PRP it_PRP bent_JJ ._.
+Next_IN I_PRP turned_VBD the_DT phone_NN over_IN and_CC saw_VBD that_IN the_DT `_`` label-cover_NN '_'' that_WDT is_VBZ screwed_VBN on_IN to_TO the_DT inside_NN of_IN the_DT phone_NN -LRB-_-LRB- the_DT labels_NNS containing_VBG the_DT IMEI_NNP number_NN ,_, serial_JJ number_NN etc_NN where_WRB you_PRP insert_VBP your_PRP$ battery_NN -RRB-_-RRB- was_VBD coming_VBG undone_VBN ._.
+Up_IN close_NN you_PRP can_MD clearly_RB see_VB that_IN the_DT cover_NN has_VBZ been_VBN tamered_VBN with_IN and_CC see_VB that_IN the_DT inside_JJ screws_NNS have_VBP been_VBN unscrewed_VBN before_RB ._.
+Now_RB granted_VBN ,_, the_DT phone_NN is_VBZ unlocked_VBN so_IN I_PRP am_VBP fully_RB aware_JJ that_IN the_DT seller_NN had_VBD to_TO insert_VB a_DT battery_NN ,_, power_NN the_DT phone_NN up_RP in_IN order_NN to_TO unlock_VB the_DT phone_NN ,_, but_CC there_EX is_VBZ no_DT need_NN to_TO remove_VB the_DT INTERNAL_NNP battery_NN cover_NN ,_, that_WDT is_VBZ the_DT battery_NN cover_NN on_IN the_DT inside_NN of_IN the_DT phone_NN not_RB the_DT outside_JJ battery_NN lid\/cover_NN ,_, unless_IN someone_NN replaced_VBD a_DT part_NN on_IN the_DT inside_NN of_IN the_DT phone_NN ._.
+As_IN per_IN another_DT buyer_NN 's_POS review_NN who_WP had_VBD contacted_VBN HTC_NNP for_IN a_DT warranty_NN issue_NN and_CC then_RB discovered_VBD that_IN his_PRP$ phone_NN had_VBD an_DT IMEI_NNP number_NN that_WDT had_VBD already_RB been_VBN registed_VBN ,_, I_PRP called_VBD HTC_NNP to_TO check_VB on_IN the_DT phone_NN I_PRP had_VBD infront_NN of_IN me_PRP when_WRB I_PRP noticed_VBD that_IN the_DT phone_NN I_PRP orderd_VBD has_VBZ a_DT serial_JJ number_NN on_IN the_DT inside_NN of_IN the_DT phone_NN that_WDT is_VBZ different_JJ than_IN the_DT one_CD listed_VBN on_IN the_DT box_NN ._.
+The_DT box_NN label_NN and_CC the_DT phone_NN label_NN have_VBP the_DT same_JJ IMEI_NNP number_NN but_CC the_DT serial_JJ numbers_NNS are_VBP different_JJ ._.
+The_DT HTC_NNP rep_NN told_VBD me_PRP that_IN this_DT can_MD be_VB due_JJ to_TO the_DT fact_NN that_IN the_DT amotherboard_NN '_'' of_IN the_DT phone_NN could_MD have_VB been_VBN replaced_VBN ._.
+In_IN such_JJ cases_NNS ,_, they_PRP use_VBP the_DT same_JJ IMEI_NNP number_NN but_CC serial_JJ number_NN can_MD change_VB ._.
+In_IN anycase_NN ,_, not_RB only_RB is_VBZ the_DT phone_NN visible_JJ damaged_VBN on_IN the_DT front_JJ speaker_NN ,_, but_CC also_RB tampered_VBD with_IN in_IN the_DT inside_NN as_RB well_RB as_IN serial_JJ numbers_NNS not_RB matching_VBG ._.
+I_PRP contacted_VBD Amazon_NNP who_WP issued_VBD a_DT refund_NN immediately_RB and_CC send_VB me_PRP a_DT prepaid_JJ return_NN label_NN ._.
+Needless_JJ to_TO say_VB ,_, they_PRP offered_VBD to_TO send_VB me_PRP a_DT new_JJ phone_NN however_RB just_RB a_DT few_JJ days_NNS after_IN ordering_VBG my_PRP$ phone_NN which_WDT was_VBD sold_VBN by_IN Jet_NNP Set_NNP Markets_NNP -LRB-_-LRB- also_RB listed_VBN as_IN Samina_NNP Ladha_NNP -RRB-_-RRB- today_NN Amazon_NNP is_VBZ fulfulling_VBG the_DT order_NN sold_VBN by_IN Ross_NNP Cellular_NNP ._.
+Ross_NNP Cellular_NNP was_VBD the_DT seller_NN who_WP sold_VBD the_DT phone_NN with_IN an_DT already_RB registered_VBN IMEI_NNP number_NN to_TO the_DT other_JJ buyer_NN I_PRP read_VBP a_DT review_NN by_IN ._.
+I_PRP decided_VBD to_TO take_VB my_PRP$ refund_NN and_CC shop_NN elsewhere_RB ._.
+I_PRP am_VBP dissapointed_JJ in_IN the_DT sellers_NNS Amazon_NNP chooses_VBZ to_TO do_VB business_NN with_IN but_CC thankful_JJ that_IN they_PRP refunded_VBD me_PRP promptly_RB ._.
+Update_NNP :_: 11\/15\/12_CD ..._: I_PRP kept_VBD my_PRP$ eyes_NNS on_IN this_DT listing_NN and_CC I_PRP noticed_VBD in_IN the_DT span_NN of_IN only_RB a_DT couple_NN of_IN days_NNS Amazon_NNP changes_VBZ their_PRP$ sellers_NNS that_IN they_PRP fulfill_VBP their_PRP$ orders_NNS from_IN ._.
+Their_PRP$ computer_NN system_NN must_MD randomly_RB pick_VB sellers_NNS they_PRP have_VBP an_DT agreement_NN with_IN ._.
+Exact_JJ same_JJ phone_NN and_CC listing_NN but_CC new_JJ sellers_NNS every_DT other_JJ day_NN ._.
+Having_VBG said_VBD that_IN ,_, my_PRP$ experience_NN is_VBZ based_VBN on_IN the_DT seller_NN Jet_NNP Set_NNP Markets_NNP -LRB-_-LRB- also_RB comes_VBZ up_RP under_IN name_NN Samina_NNP Ladha_NNP -RRB-_-RRB- ._.
+As_IN a_DT buyer_NN who_WP reads_VBZ a_DT negative_JJ review\/experience_NN look_NN for_IN the_DT name_NN of_IN the_DT seller_NN ,_, if_IN listed_VBN in_IN the_DT review_NN ,_, as_IN this_DT will_MD make_VB a_DT big_JJ difference_NN in_IN your_PRP$ buying_NN experience_NN ._.
+There_EX are_VBP plenty_NN of_IN reviews_NNS on_IN this_DT site_NN from_IN happy_JJ customers_NNS ._.
+I_PRP just_RB wish_VBP they_PRP would_MD have_VB listed_VBN who_WP they_PRP actually_RB bought_VBD from_IN ._.
+I_PRP based_VBD my_PRP$ own_JJ buying_NN decision_NN on_IN the_DT positive_JJ reviews_NNS thinking_VBG it_PRP was_VBD the_DT same_JJ seller_NN as_IN listed_VBN in_IN the_DT advertisement_NN only_RB to_TO discover_VB they_PRP change_VBP every_DT so_RB often_RB ._.
+My_PRP$ advise_VBP ,_, read_VBP through_IN the_DT reivews_NNS especially_RB the_DT negative_JJ ones_NNS and_CC see_VB if_IN a_DT seller_NN 's_POS name_NN is_VBZ listed_VBN and_CC stay_VB clear_JJ from_IN that_DT particular_JJ seller_NN ._.
+If_IN another_DT seller_NN is_VBZ listed_VBN under_IN the_DT phone_NN you_PRP are_VBP buying_VBG that_DT day_NN ,_, then_RB make_VB your_PRP$ decisions_NNS accordingly_RB ._.
+Good_NNP Luck_NNP !_.
+If_IN Amazon_NNP approves_VBZ ,_, I_PRP uploaded_VBD two_CD photograph_NN of_IN the_DT phone_NN to_TO go_VB with_IN my_PRP$ reivew_NN ._.
+Look_VB under_IN `_`` customer_NN pictures_NNS '_POS above_IN ._.

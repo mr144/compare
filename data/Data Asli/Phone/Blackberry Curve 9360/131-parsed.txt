@@ -1,0 +1,35 @@
+=========
+
+amod(perfect-2, Shiping-1)
+root(ROOT-0, perfect-2)
+
+=========
+
+advmod(fast-2, Real-1)
+root(ROOT-0, fast-2)
+
+=========
+
+det(phone-2, The-1)
+nsubj(works-3, phone-2)
+root(ROOT-0, works-3)
+advmod(great-5, just-4)
+acomp(works-3, great-5)
+
+=========
+
+advmod(better-3, so-1)
+advmod(better-3, much-2)
+root(ROOT-0, better-3)
+det(version-7, the-5)
+amod(version-7, older-6)
+prep_than(better-3, version-7)
+
+=========
+
+amod(twitter-3, Total-1)
+nn(twitter-3, conectivity-2)
+root(ROOT-0, twitter-3)
+appos(twitter-3, facebook-5)
+appos(facebook-5, BBMessenger-7)
+

@@ -1,0 +1,3 @@
+Phone_NN works_VBZ amazingly_RB goodIt_NNP is_VBZ fast_JJ ,_, stable_JJ ,_, reliable_JJ ,_, have_VBP good_JJ video_NN quality_NN ._.
+For_IN a_DT cheap_JJ phone_NN it_PRP has_VBZ a_DT lot_NN of_IN features_NNS an_DT good_JJ specs_NNS ._.
+It_PRP is_VBZ sad_JJ that_IN it_PRP does_VBZ not_RB have_VB SD_VBN slot_NN ,_, but_CC 4GB_NNP is_VBZ more_JJR than_IN enough_RB for_IN regular_JJ usage_NN ._.

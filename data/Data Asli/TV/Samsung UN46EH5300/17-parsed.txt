@@ -1,0 +1,79 @@
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(fantastic-5, quality-3)
+cop(fantastic-5, is-4)
+root(ROOT-0, fantastic-5)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, 's-2)
+root(ROOT-0, easy-3)
+prep_to(easy-3, setup-5)
+advmod(easy-3, too-6)
+
+=========
+
+advmod(nutsThe-15, Sometimes-1)
+det(apps-3, the-2)
+nsubj(nutsThe-15, apps-3)
+amod(apps-3, crash-4)
+amod(apps-3, not-7)
+conj_but(crash-4, not-7)
+neg(crash-4, not-7)
+advmod(often-9, as-8)
+advmod(crash-4, often-9)
+dep(drive-13, that-10)
+nsubj(drive-13, it-11)
+aux(drive-13, will-12)
+ccomp(often-9, drive-13)
+dobj(drive-13, you-14)
+root(ROOT-0, nutsThe-15)
+dobj(nutsThe-15, audio-16)
+dep(great-19, not-17)
+dep(great-19, that-18)
+dep(nutsThe-15, great-19)
+
+=========
+
+nsubj(sure-3, I-1)
+cop(sure-3, am-2)
+root(ROOT-0, sure-3)
+poss(Samsung-7, my-4)
+amod(Samsung-7, 720p-5)
+amod(Samsung-7, old-6)
+nsubj(has-8, Samsung-7)
+ccomp(sure-3, has-8)
+amod(audio-10, better-9)
+dobj(has-8, audio-10)
+det(Tv-14, this-13)
+dobj(has-8, Tv-14)
+conj_than(audio-10, Tv-14)
+
+=========
+
+nsubj('s-2, It-1)
+root(ROOT-0, 's-2)
+advmod('s-2, Probably-3)
+mark(slim-7, because-4)
+nsubj(slim-7, it-5)
+cop(slim-7, is-6)
+advcl('s-2, slim-7)
+
+=========
+
+mark(are-3, If-1)
+nsubj(are-3, you-2)
+advcl(problem-13, are-3)
+amod(place-7, decent-5)
+advmod(decent-5, quite-6)
+prep_in(are-3, place-7)
+nsubj(problem-13, it-8)
+aux(problem-13, should-9)
+neg(problem-13, not-10)
+cop(problem-13, be-11)
+det(problem-13, a-12)
+root(ROOT-0, problem-13)
+

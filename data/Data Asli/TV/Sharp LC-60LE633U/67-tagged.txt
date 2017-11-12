@@ -1,0 +1,2 @@
+I_PRP got_VBD my_PRP$ TV_NN on_IN a_DT Friday_NNP and_CC my_PRP$ cable_NN on_IN Saturday_NNP ,_, it_PRP was_VBD great_JJ and_CC I_PRP love_VBP the_DT picture_NN of_IN all_PDT the_DT HDTV_NN channels_NNS ._.
+It_PRP was_VBD worth_JJ the_DT money_NN ._.

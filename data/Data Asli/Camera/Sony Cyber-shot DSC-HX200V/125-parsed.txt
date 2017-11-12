@@ -1,0 +1,33 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+num(camera-5, 3-3)
+nn(camera-5, Sony-4)
+nsubj('s-6, camera-5)
+nsubj(love-8, camera-5)
+ccomp(have-2, 's-6)
+ccomp(have-2, love-8)
+conj_and('s-6, love-8)
+advmod(love-8, all-9)
+advmod(love-8, but-10)
+aux(upgraded-12, have-11)
+dep(love-8, upgraded-12)
+det(time-14, each-13)
+dobj(upgraded-12, time-14)
+prep_on(upgraded-12, all-16)
+prep_of(all-16, them-18)
+poss(age-23, my-22)
+prep_at(one-29, age-23)
+nsubj(one-29, this-24)
+aux(one-29, will-25)
+cop(one-29, be-26)
+det(one-29, the-27)
+amod(one-29, last-28)
+conj_but(have-2, one-29)
+
+=========
+
+nn(Sony-2, Thanks-1)
+root(ROOT-0, Sony-2)
+

@@ -1,0 +1,56 @@
+=========
+
+nsubj(used-4, I-1)
+aux(used-4, have-2)
+advmod(used-4, only-3)
+root(ROOT-0, used-4)
+det(camera-6, this-5)
+dobj(used-4, camera-6)
+poss(son-9, my-8)
+poss(games-12, son-9)
+nn(games-12, football-11)
+prep_for(used-4, games-12)
+prep_for(used-4, pictures-14)
+conj_and(games-12, pictures-14)
+partmod(games-12, come-15)
+prt(come-15, out-16)
+advmod(come-15, great-17)
+quantmod(200-20, about-19)
+num(yards-21, 200-20)
+prep_from(great-17, yards-21)
+advmod(great-17, away-22)
+
+=========
+
+nsubj(took-2, Also-1)
+root(ROOT-0, took-2)
+amod(pictures-4, several-3)
+dobj(took-2, pictures-4)
+prep_of(pictures-4, things-6)
+quantmod(half-8, about-7)
+num(mile-10, half-8)
+quantmod(half-8, a-9)
+npadvmod(away-11, mile-10)
+advmod(took-2, away-11)
+nsubj(works-14, it-13)
+conj_and(took-2, works-14)
+acomp(works-14, awesome-15)
+
+=========
+
+nsubj(recommend-3, Highly-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+prep_to(recommend-3, anyone-5)
+
+=========
+
+cc(mess-6, And-1)
+nsubj(mess-6, I-2)
+advmod(mess-6, really-3)
+aux(mess-6, have-4)
+neg(mess-6, not-5)
+root(ROOT-0, mess-6)
+prep_with(mess-6, it-8)
+advmod(mess-6, yet-9)
+

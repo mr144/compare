@@ -1,0 +1,3 @@
+Looks_VBZ good_JJ ,_, works_VBZ great_JJ ,_, Nice_JJ picture_NN ,_, excellent_JJ deal_NN !_.
+Mine_NNP was_VBD missing_VBG the_DT bolts_NNS for_IN the_DT pedestal_NN ,_, but_CC it_PRP was_VBD marked_VBN as_IN `_`` USED_NNP '_'' even_RB though_IN it_PRP had_VBD all_DT original_JJ packaging\/plastic_JJ wrap_NN ._.
+No_DT problem_NN ,_, I_PRP found_VBD the_DT bolts\/screws_NNS at_IN Home_NNP Depot_NNP for_IN a_DT couple_NN bucks_NNS ._.

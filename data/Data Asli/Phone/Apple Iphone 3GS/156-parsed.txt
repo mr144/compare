@@ -1,0 +1,53 @@
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, just-2)
+root(ROOT-0, love-3)
+det(phone-5, this-4)
+dobj(love-3, phone-5)
+
+=========
+
+det(i-4, the-1)
+amod(i-4, only-2)
+nn(i-4, problem-3)
+nsubj(having-6, i-4)
+aux(having-6, am-5)
+root(ROOT-0, having-6)
+cop(ios-9, is-7)
+det(ios-9, an-8)
+dep(having-6, ios-9)
+num(file-11, 5-10)
+nsubj(is-12, file-11)
+rcmod(ios-9, is-12)
+neg(is-12, not-13)
+advmod(is-12, there-14)
+poss(apps-17, my-16)
+prep_for(is-12, apps-17)
+nsubj(thinking-21, I-19)
+aux(thinking-21, am-20)
+parataxis(ios-9, thinking-21)
+nsubj(fault-26, it-22)
+cop(fault-26, is-23)
+det(fault-26, the-24)
+nn(fault-26, operators-25)
+ccomp(thinking-21, fault-26)
+neg(fault-26, not-27)
+det(phone-29, the-28)
+pobj(not-27, phone-29)
+
+=========
+
+cc(love-3, but-1)
+nsubj(love-3, I-2)
+root(ROOT-0, love-3)
+dobj(love-3, it-4)
+
+=========
+
+advmod(far-2, so-1)
+advmod(great-5, far-2)
+nsubj(great-5, all-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+

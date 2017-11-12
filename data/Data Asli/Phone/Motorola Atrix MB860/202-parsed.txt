@@ -1,0 +1,46 @@
+=========
+
+det(product-2, This-1)
+nsubj(great-4, product-2)
+nsubj(satisfy-6, product-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+conj_and(great-4, satisfy-6)
+predet(needs-9, all-7)
+poss(needs-9, my-8)
+dobj(satisfy-6, needs-9)
+
+=========
+
+nsubj(read-3, I-1)
+aux(read-3, can-2)
+root(ROOT-0, read-3)
+poss(files-7, my-4)
+amod(files-7, ebooks-5)
+nn(files-7, share-6)
+dobj(read-3, files-7)
+dobj(read-3, listening-9)
+conj_and(files-7, listening-9)
+prep_to(read-3, music-11)
+
+=========
+
+nn(size-3, Pros-1)
+nn(size-3, Screen-2)
+dep(Internal-9, size-3)
+det(User-6, an-4)
+nn(User-6, definition-5)
+dep(size-3, User-6)
+nn(performance-8, experience-7)
+dep(Internal-9, performance-8)
+dep(Soft-13, Internal-9)
+amod(memoryCons-12, external-11)
+conj_and(Internal-9, memoryCons-12)
+dep(Soft-13, memoryCons-12)
+root(ROOT-0, Soft-13)
+partmod(Soft-13, keybord-14)
+advmod(small-16, too-15)
+acomp(keybord-14, small-16)
+poss(fingers-19, my-18)
+prep_for(keybord-14, fingers-19)
+

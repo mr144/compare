@@ -1,0 +1,52 @@
+=========
+
+amod(product-2, Excellent-1)
+root(ROOT-0, product-2)
+det(price-6, the-4)
+amod(price-6, unbelievable-5)
+prep_for(product-2, price-6)
+
+=========
+
+nsubj(was-3, It-2)
+nsubj(works-11, It-2)
+root(ROOT-0, was-3)
+advmod(was-3, just-4)
+dep(looking-8, what-5)
+nsubj(looking-8, I-6)
+aux(looking-8, was-7)
+dep(just-4, looking-8)
+prep(looking-8, for-9)
+conj_and(was-3, works-11)
+dobj(works-11, prefect-12)
+advmod(was-3, correctly-14)
+conj_and(was-3, correctly-14)
+
+=========
+
+det(smartphone-3, This-2)
+nsubj(better-5, smartphone-3)
+cop(better-5, is-4)
+root(ROOT-0, better-5)
+prep_than(better-5, curve-7)
+appos(curve-7, galaxy-9)
+nn(optimus-12, LG-11)
+appos(curve-7, optimus-12)
+dep(curve-7, etc.-14)
+
+=========
+
+nsubj(picked-5, I-1)
+aux(picked-5, could-2)
+neg(picked-5, not-3)
+aux(picked-5, have-4)
+root(ROOT-0, picked-5)
+det(phone-8, a-6)
+amod(phone-8, better-7)
+dobj(picked-5, phone-8)
+dep(picked-5, 5-10)
+punct(5-10, Stars-11)
+dep(5-10, for-12)
+amod(product-14, esrte-13)
+pobj(for-12, product-14)
+

@@ -1,0 +1,3 @@
+excelente_FW pieza_FW ,_, calidad_FW y_FW precio_FW ,_, 100_CD %_NN recomendado_NN para_NN todos_NNS !_.
+los_FW detalles_FW y_FW la_FW innovaci&oacute;n_FW ,_, GE_NNP Power_NNP Pro_FW X500-BK_NNP 16_CD MP_NNP con_NN Zoom_NNP &oacute;ptico_NNP 15_CD x_SYM C&aacute;mara_NNP Digital_NNP ,_, es_FW un_FW gran_FW producto_FW !_.
+buena_NN adquisici&oacute;n_NN !_.

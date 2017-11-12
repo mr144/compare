@@ -1,0 +1,31 @@
+=========
+
+nsubj(set-2, Easy-1)
+root(ROOT-0, set-2)
+prt(set-2, up-3)
+amod(reception-6, good-5)
+dobj(set-2, reception-6)
+det(antenna-11, an-8)
+amod(antenna-11, accessory-9)
+amod(antenna-11, digital-10)
+prep_with(reception-6, antenna-11)
+amod(picture-14, beautiful-13)
+appos(antenna-11, picture-14)
+det(quality-19, the-17)
+amod(quality-19, sonic-18)
+nsubj(wonderful-22, quality-19)
+cop(wonderful-22, is-20)
+neg(wonderful-22, not-21)
+conj_but(set-2, wonderful-22)
+
+=========
+
+dep(TV-6, Still-1)
+det(TV-6, a-3)
+amod(TV-6, nice-4)
+amod(TV-6, second-5)
+root(ROOT-0, TV-6)
+det(value-10, a-8)
+amod(value-10, decent-9)
+conj_and(TV-6, value-10)
+

@@ -1,0 +1,22 @@
+=========
+
+mark(want-3, if-1)
+nsubj(want-3, u-2)
+xsubj(point-5, u-2)
+advcl(cam-11, want-3)
+aux(point-5, to-4)
+xcomp(want-3, point-5)
+cc(shoot-7, &-6)
+dobj(point-5, shoot-7)
+nsubj(cam-11, this-8)
+cop(cam-11, is-9)
+det(cam-11, the-10)
+root(ROOT-0, cam-11)
+prep_for(cam-11, you-13)
+
+=========
+
+root(ROOT-0, Great-1)
+dep(Great-1, looking-2)
+dobj(looking-2, pics-3)
+

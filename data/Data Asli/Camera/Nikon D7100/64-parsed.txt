@@ -1,0 +1,147 @@
+=========
+
+amod(crisp-2, Such-1)
+nsubj(photographs-3, crisp-2)
+root(ROOT-0, photographs-3)
+
+=========
+
+nsubj(went-2, I-1)
+nsubj(notice-11, I-1)
+root(ROOT-0, went-2)
+det(D80-6, the-4)
+nn(D80-6, Nikon-5)
+prep_from(went-2, D80-6)
+det(D7100-9, the-8)
+prep_to(went-2, D7100-9)
+conj_and(went-2, notice-11)
+det(difference-14, a-12)
+amod(difference-14, HUGE-13)
+dobj(notice-11, difference-14)
+prep_in(notice-11, quality-16)
+poss(photos-19, my-18)
+prep_of(quality-16, photos-19)
+advmod(processor-26, especially-21)
+dep(processor-26, with-22)
+nsubj(processor-26, it-23)
+cop(processor-26, is-24)
+nn(processor-26, image-25)
+dep(quality-16, processor-26)
+dep(quality-16, 24Megapixels-28)
+conj_and(processor-26, 24Megapixels-28)
+
+=========
+
+cc(range-11, Plus-1)
+amod(features-3, great-2)
+nsubj(range-11, features-3)
+nn(D-Lighting-6, Active-5)
+prep_like(features-3, D-Lighting-6)
+amod(dynamic-10, High-8)
+nn(dynamic-10, definition-9)
+prep_like(features-3, dynamic-10)
+conj_and(D-Lighting-6, dynamic-10)
+root(ROOT-0, range-11)
+
+=========
+
+nsubj(see-3, You-1)
+aux(see-3, can-2)
+root(ROOT-0, see-3)
+predet(clouds-6, both-4)
+poss(clouds-6, your-5)
+dobj(see-3, clouds-6)
+poss(areas-11, your-8)
+amod(areas-11, low-9)
+nn(areas-11, light-10)
+conj_and(see-3, areas-11)
+det(picture-15, the-13)
+amod(picture-15, same-14)
+prep_in(areas-11, picture-15)
+
+=========
+
+nsubj(noticed-4, I-1)
+aux(noticed-4, have-2)
+advmod(noticed-4, also-3)
+root(ROOT-0, noticed-4)
+complm(does-7, that-5)
+aux(does-7, is-6)
+ccomp(noticed-4, does-7)
+det(job-11, a-8)
+advmod(better-10, much-9)
+amod(job-11, better-10)
+dobj(does-7, job-11)
+amod(photos-14, low-light-13)
+prep_with(job-11, photos-14)
+advmod(lower-17, much-16)
+advmod(job-11, lower-17)
+num(noise-19, &#34;-18)
+dep(job-11, noise-19)
+dep(noise-19, &#34;-20)
+poss(D80-23, my-22)
+prep_than(does-7, D80-23)
+
+=========
+
+det(D7100-2, The-1)
+nsubj(has-4, D7100-2)
+advmod(has-4, also-3)
+root(ROOT-0, has-4)
+num(points-7, 51-5)
+nn(points-7, Auto-Focus-6)
+dobj(has-4, points-7)
+
+=========
+
+nsubj(can-2, I-1)
+root(ROOT-0, can-2)
+dobj(can-2, action-3)
+dep(can-2, put-4)
+det(point-7, the-5)
+nn(point-7, focus-6)
+dobj(put-4, point-7)
+advmod(want-11, where-8)
+nsubj(want-11, I-9)
+advmod(want-11, actually-10)
+advcl(put-4, want-11)
+nsubj(be-14, it-12)
+aux(be-14, to-13)
+xcomp(want-11, be-14)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, also-2)
+root(ROOT-0, like-3)
+complm(fit-9, that-4)
+advmod(fit-9, all-5)
+poss(lenses-8, my-6)
+amod(lenses-8, D80-7)
+nsubj(fit-9, lenses-8)
+ccomp(like-3, fit-9)
+poss(body-12, my-10)
+amod(body-12, D7100-11)
+dobj(fit-9, body-12)
+
+=========
+
+nsubj(have-4, I-1)
+xsubj(start-6, I-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+aux(start-6, to-5)
+xcomp(have-4, start-6)
+prt(start-6, over-7)
+prep_with(start-6, lenses-9)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+poss(upgrade-7, my-6)
+prep_with(happy-4, upgrade-7)
+

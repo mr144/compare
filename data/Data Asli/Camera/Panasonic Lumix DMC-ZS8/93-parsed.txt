@@ -1,0 +1,86 @@
+=========
+
+nsubj(booked-2, I-1)
+root(ROOT-0, booked-2)
+det(week-4, a-3)
+nsubj(safari-6, week-4)
+xsubj(coincide-8, week-4)
+advmod(safari-6, long-5)
+ccomp(booked-2, safari-6)
+aux(coincide-8, to-7)
+xcomp(safari-6, coincide-8)
+det(trip-12, a-10)
+nn(trip-12, business-11)
+prep_with(coincide-8, trip-12)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(limit-5, a-3)
+nn(limit-5, weight-4)
+dobj(had-2, limit-5)
+nsubj(included-7, limit-5)
+rcmod(limit-5, included-7)
+nn(computer-9, work-8)
+dobj(included-7, computer-9)
+dobj(included-7, clothes-11)
+conj_and(computer-9, clothes-11)
+prep_in(computer-9, addition-13)
+det(binoculars-16, the-15)
+prep_to(included-7, binoculars-16)
+prep_to(included-7, camera-18)
+conj_and(binoculars-16, camera-18)
+amod(outfits-21, safari-20)
+prep_to(included-7, outfits-21)
+conj_and(binoculars-16, outfits-21)
+
+=========
+
+det(camera-2, This-1)
+nsubj(right-5, camera-2)
+cop(right-5, was-3)
+advmod(right-5, just-4)
+root(ROOT-0, right-5)
+
+=========
+
+det(lens-4, The-1)
+amod(lens-4, wide-2)
+nn(lens-4, angle-3)
+nsubj(produced-9, lens-4)
+amod(zoom-8, 16x-6)
+amod(zoom-8, optical-7)
+conj_and(lens-4, zoom-8)
+nsubj(produced-9, zoom-8)
+root(ROOT-0, produced-9)
+amod(photos-11, beautiful-10)
+dobj(produced-9, photos-11)
+
+=========
+
+nsubj(use-5, I-1)
+aux(use-5, did-2)
+neg(use-5, not-3)
+advmod(use-5, even-4)
+root(ROOT-0, use-5)
+det(bag-10, a-6)
+amod(bag-10, tripod-7)
+conj_or(tripod-7, bean-9)
+amod(bag-10, bean-9)
+dobj(use-5, bag-10)
+det(pictures-13, the-12)
+nsubj(steady-17, pictures-13)
+cop(steady-17, were-14)
+advmod(steady-17, just-15)
+advmod(steady-17, as-16)
+conj_and(use-5, steady-17)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+

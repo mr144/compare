@@ -1,0 +1,33 @@
+=========
+
+aux(receive-2, to-1)
+csubj(seems-6, receive-2)
+conj_and(receive-2, open-4)
+csubj(seems-6, open-4)
+dobj(receive-2, it-5)
+root(ROOT-0, seems-6)
+amod(wine-10, good-8)
+nn(wine-10, quality-9)
+prep_of(seems-6, wine-10)
+det(box-13, a-12)
+prep_in(wine-10, box-13)
+advmod(protected-15, well-14)
+amod(box-13, protected-15)
+
+=========
+
+det(number-2, The-1)
+nsubj(stars-4, number-2)
+prep(number-2, of-3)
+root(ROOT-0, stars-4)
+neg(stars-4, not-5)
+dep(stars-4, complete-6)
+mark(exceeds-12, because-7)
+nsubj(exceeds-12, I-8)
+aux(exceeds-12, have-9)
+neg(exceeds-12, not-10)
+advmod(exceeds-12, completely-11)
+advcl(complete-6, exceeds-12)
+poss(expectations-14, my-13)
+dobj(exceeds-12, expectations-14)
+

@@ -1,0 +1,45 @@
+=========
+
+det(phone-2, This-1)
+nsubj(has-3, phone-2)
+root(ROOT-0, has-3)
+det(problem-5, a-4)
+dobj(has-3, problem-5)
+advmod(restarting-8, continuosly-7)
+prepc_with(problem-5, restarting-8)
+dobj(restarting-8, itself-9)
+det(day-12, the-11)
+prep_throughout(restarting-8, day-12)
+
+=========
+
+nsubj(checked-2, I-1)
+nsubj(found-5, I-1)
+root(ROOT-0, checked-2)
+prep(checked-2, online-3)
+conj_and(checked-2, found-5)
+dobj(found-5, lots-6)
+prep_of(lots-6, consumers-8)
+partmod(consumers-8, frustrated-9)
+det(phone-12, this-11)
+prep_with(frustrated-9, phone-12)
+det(reason-16, the-14)
+amod(reason-16, same-15)
+prep_for(phone-12, reason-16)
+
+=========
+
+nsubj(seemed-12, Lots-1)
+xsubj(work-14, Lots-1)
+prep_of(Lots-1, tips-3)
+advmod(correct-7, how-5)
+aux(correct-7, to-6)
+prepc_on(tips-3, correct-7)
+det(problem-9, this-8)
+dobj(correct-7, problem-9)
+dobj(correct-7, non-11)
+conj_but(problem-9, non-11)
+root(ROOT-0, seemed-12)
+aux(work-14, to-13)
+xcomp(seemed-12, work-14)
+

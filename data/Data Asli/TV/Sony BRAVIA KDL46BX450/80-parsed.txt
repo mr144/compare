@@ -1,0 +1,33 @@
+=========
+
+det(TV-2, This-1)
+nsubj(works-3, TV-2)
+root(ROOT-0, works-3)
+acomp(works-3, great-4)
+
+=========
+
+csubj(issues-9, Had-1)
+dobj(Had-1, it-2)
+num(months-5, 2-4)
+prep_for(Had-1, months-5)
+advmod(Had-1, now-6)
+advmod(Had-1, no-8)
+conj_and(now-6, no-8)
+root(ROOT-0, issues-9)
+advmod(issues-9, at-10)
+pobj(at-10, all-11)
+
+=========
+
+nsubj(works-2, Display-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+
+=========
+
+aux(ask-3, Could-1)
+neg(ask-3, not-2)
+root(ROOT-0, ask-3)
+prep_for(ask-3, more-5)
+

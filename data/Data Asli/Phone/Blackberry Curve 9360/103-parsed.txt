@@ -1,0 +1,42 @@
+=========
+
+num(weeks-3, 2-2)
+prep_after(arrive-10, weeks-3)
+partmod(weeks-3, waiting-4)
+det(curve-8, the-6)
+amod(curve-8, blackberry-7)
+nsubj(arrive-10, curve-8)
+nsubj(Im-16, curve-8)
+aux(arrive-10, is-9)
+root(ROOT-0, arrive-10)
+advmod(arrive-10, here-11)
+prep_in(arrive-10, Indonesia-13)
+conj_and(arrive-10, Im-16)
+dobj(Im-16, surprise-17)
+det(size-21, the-19)
+amod(size-21, thin-20)
+prep_with(Im-16, size-21)
+
+=========
+
+nsubj(compare-4, Its-1)
+advmod(thin-3, very-2)
+amod(Its-1, thin-3)
+root(ROOT-0, compare-4)
+prep_to(compare-4, gemini-6)
+
+=========
+
+det(blackberry-2, The-1)
+nsubj(operate-4, blackberry-2)
+aux(operate-4, can-3)
+root(ROOT-0, operate-4)
+advmod(operate-4, directly-5)
+mark(insert-8, after-6)
+nsubj(insert-8, I-7)
+advcl(operate-4, insert-8)
+det(card-12, the-9)
+nn(card-12, gsm-10)
+nn(card-12, sim-11)
+dobj(insert-8, card-12)
+

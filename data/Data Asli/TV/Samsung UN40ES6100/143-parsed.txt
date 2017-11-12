@@ -1,0 +1,46 @@
+=========
+
+nsubj(HDTV-7, This-1)
+cop(HDTV-7, is-2)
+det(HDTV-7, a-3)
+amod(HDTV-7, wonderful-4)
+amod(HDTV-7, wide-5)
+nn(HDTV-7, screen-6)
+root(ROOT-0, HDTV-7)
+det(apartment-10, an-9)
+prep_for(HDTV-7, apartment-10)
+amod(room-14, smaller-12)
+nn(room-14, family-13)
+prep_for(HDTV-7, room-14)
+conj_or(apartment-10, room-14)
+
+=========
+
+root(ROOT-0, Big-1)
+amod(Big-1, enough-2)
+aux(screen-7, to-3)
+cop(screen-7, be-4)
+num(screen-7, &#34;-5)
+amod(screen-7, big-6)
+xcomp(enough-2, screen-7)
+dep(screen-7, &#34;-8)
+neg(overwhelming-11, not-10)
+dep(screen-7, overwhelming-11)
+conj_but(&#34;-8, overwhelming-11)
+
+=========
+
+nn(TV-2, Smart-1)
+nsubj(gets-3, TV-2)
+root(ROOT-0, gets-3)
+num(apps-5, &#34;-4)
+dobj(gets-3, apps-5)
+num(YouTube-8, &#34;-7)
+dobj(gets-3, YouTube-8)
+conj_and(apps-5, YouTube-8)
+dobj(gets-3, Netflix-10)
+conj_and(apps-5, Netflix-10)
+amod(others-14, several-13)
+dobj(gets-3, others-14)
+conj_and(apps-5, others-14)
+

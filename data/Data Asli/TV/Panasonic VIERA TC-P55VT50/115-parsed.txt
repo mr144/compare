@@ -1,0 +1,37 @@
+=========
+
+nsubj(new-2, Bought-1)
+nsubj(had-6, Bought-1)
+root(ROOT-0, new-2)
+prep_in(new-2, july\/2012-4)
+conj_and(new-2, had-6)
+dep(had-6, calibrated-7)
+
+=========
+
+nsubj(great-4, Picture-1)
+advmod(great-4, qualityy-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+nsubj(having-2, Began-1)
+root(ROOT-0, having-2)
+dobj(having-2, buzz-3)
+num(month-6, 1-5)
+prep_after(having-2, month-6)
+nsubj(progressed-9, month-6)
+aux(progressed-9, has-8)
+rcmod(month-6, progressed-9)
+aux(severe-14, to-10)
+advmod(severe-14, now-11)
+cop(severe-14, be-12)
+advmod(severe-14, quite-13)
+xcomp(progressed-9, severe-14)
+
+=========
+
+root(ROOT-0, Stay-1)
+dep(Stay-1, away-2)
+

@@ -1,0 +1,27 @@
+=========
+
+nn(Camera-2, Great-1)
+root(ROOT-0, Camera-2)
+
+=========
+
+amod(clarity-2, Amazing-1)
+root(ROOT-0, clarity-2)
+conj_and(clarity-2, resolution-4)
+det(lens-10, the-6)
+number(1.8-8, 35mm-7)
+num(lens-10, 1.8-8)
+amod(lens-10, prime-9)
+prep_with(clarity-2, lens-10)
+
+=========
+
+advmod(camera-3, Probably-1)
+advmod(camera-3, more-2)
+root(ROOT-0, camera-3)
+mark(need-6, than-4)
+nsubj(need-6, I-5)
+ccomp(camera-3, need-6)
+advmod(cool-10, very-9)
+conj_but(camera-3, cool-10)
+

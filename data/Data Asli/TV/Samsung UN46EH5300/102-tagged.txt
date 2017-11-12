@@ -1,0 +1,5 @@
+El_NNP articulo_NN perfecto_NN ._.
+Me_PRP gusto_NN bastante_NN ._.
+Lo_FW recomiendo_FW 100_CD %_NN ._.
+Es_NNS de_IN buena_NN calidad_NN ._.
+Si_NNP volver&iacute;a_VBD a_DT comprarle_NN a_DT este_FW vendedor_FW ._.

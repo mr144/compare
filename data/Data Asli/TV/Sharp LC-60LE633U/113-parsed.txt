@@ -1,0 +1,89 @@
+=========
+
+advmod(bought-2, Just-1)
+root(ROOT-0, bought-2)
+det(model-5, this-3)
+amod(model-5, exact-4)
+nsubj(bought-2, model-5)
+nn(USA-8, Brandsmart-7)
+prep_at(model-5, USA-8)
+nn(Florida-11, South-10)
+prep_in(USA-8, Florida-11)
+
+=========
+
+root(ROOT-0, Watched-1)
+num(movies-5, 3-2)
+nn(movies-5, Blu-3)
+nn(movies-5, ray-4)
+dobj(Watched-1, movies-5)
+det(weekend-8, the-7)
+prep_over(Watched-1, weekend-8)
+
+=========
+
+root(ROOT-0, Unbelievable-1)
+advmod(Unbelievable-1, clarity-2)
+
+=========
+
+nn(levels-2, Black-1)
+nsubj(great-4, levels-2)
+cop(great-4, are-3)
+root(ROOT-0, great-4)
+
+=========
+
+nsubj(works-2, Wi-Fi-1)
+root(ROOT-0, works-2)
+advmod(fast-4, super-3)
+advmod(works-2, fast-4)
+
+=========
+
+nsubj(loads-2, Netflix-1)
+nsubj(plays-4, Netflix-1)
+root(ROOT-0, loads-2)
+conj_and(loads-2, plays-4)
+advmod(plays-4, flawlessly-5)
+
+=========
+
+advmod(complaints-4, So-1)
+advmod(So-1, far-2)
+advmod(So-1, no-3)
+root(ROOT-0, complaints-4)
+advmod(complaints-4, at-5)
+pobj(at-5, all-6)
+
+=========
+
+nsubj(update-2, Will-1)
+root(ROOT-0, update-2)
+advmod(update-2, soon-3)
+
+=========
+
+amod(model-2, Newest-1)
+nsubj(available-10, model-2)
+amod(glasses-6, 3-D-4)
+nn(glasses-6, shutter-5)
+prep_of(model-2, glasses-6)
+cop(available-10, are-7)
+neg(available-10, not-8)
+advmod(available-10, yet-9)
+root(ROOT-0, available-10)
+mark(tried-15, so-12)
+aux(tried-15, have-13)
+neg(tried-15, not-14)
+advcl(available-10, tried-15)
+det(quality-17, the-16)
+dobj(tried-15, quality-17)
+advmod(tried-15, yet-18)
+
+=========
+
+nsubj(recommended-3, Very-1)
+advmod(recommended-3, highly-2)
+root(ROOT-0, recommended-3)
+

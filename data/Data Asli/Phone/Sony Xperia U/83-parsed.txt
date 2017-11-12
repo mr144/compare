@@ -1,0 +1,47 @@
+=========
+
+nsubj(had-3, I-1)
+xsubj(upgrade-5, I-1)
+advmod(had-3, just-2)
+root(ROOT-0, had-3)
+aux(upgrade-5, to-4)
+xcomp(had-3, upgrade-5)
+det(version-8, the-6)
+amod(version-8, android-7)
+dobj(upgrade-5, version-8)
+mark(wanted-12, because-10)
+nsubj(wanted-12, i-11)
+advcl(upgrade-5, wanted-12)
+det(version-16, the-15)
+nsubj(comes-18, version-16)
+dep(version-16, the-17)
+conj_but(had-3, comes-18)
+mark(good-22, with-19)
+nsubj(good-22, it-20)
+cop(good-22, is-21)
+advcl(comes-18, good-22)
+
+=========
+
+advmod(have-3, Now-1)
+nsubj(have-3, i-2)
+root(ROOT-0, have-3)
+det(version-6, the-4)
+amod(version-6, last-5)
+dobj(have-3, version-6)
+amod(version-6, available-7)
+det(phone-10, this-9)
+prep_for(available-7, phone-10)
+
+=========
+
+det(camera-2, the-1)
+nsubj(wonderfull-4, camera-2)
+cop(wonderfull-4, is-3)
+root(ROOT-0, wonderfull-4)
+det(conection-7, the-6)
+nsubj(great-9, conection-7)
+cop(great-9, is-8)
+conj_and(wonderfull-4, great-9)
+prep_in(great-9, 3G-11)
+

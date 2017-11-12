@@ -1,0 +1,62 @@
+=========
+
+nsubj(went-2, I-1)
+root(ROOT-0, went-2)
+det(CRT-7, a-4)
+number(&#34;-6, 27-5)
+num(CRT-7, &#34;-6)
+prep_from(went-2, CRT-7)
+prep_to(went-2, this-9)
+prep_to(went-2, WOW-11)
+conj_and(this-9, WOW-11)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, so-3)
+root(ROOT-0, happy-4)
+det(TV-7, this-6)
+prep_with(happy-4, TV-7)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+poss(receiver-9, my-5)
+nn(receiver-9, Marantz-6)
+nn(receiver-9, home-7)
+nn(receiver-9, theater-8)
+prep_with(great-3, receiver-9)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(find-5, I-1)
+root(ROOT-0, have-2)
+advmod(have-2, yet-3)
+aux(find-5, to-4)
+xcomp(have-2, find-5)
+det(review-7, a-6)
+dobj(find-5, review-7)
+nsubj(says-9, review-7)
+rcmod(review-7, says-9)
+nsubj(TV-15, this-10)
+cop(TV-15, was-11)
+neg(TV-15, not-12)
+det(TV-15, the-13)
+amod(TV-15, best-14)
+ccomp(says-9, TV-15)
+prep_of(TV-15, 2012-17)
+
+=========
+
+nsubj(happy-3, I-1)
+cop(happy-3, am-2)
+root(ROOT-0, happy-3)
+aux(echo-5, to-4)
+xcomp(happy-3, echo-5)
+det(sentiments-7, those-6)
+dobj(echo-5, sentiments-7)
+

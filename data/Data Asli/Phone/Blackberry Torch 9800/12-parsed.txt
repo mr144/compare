@@ -1,0 +1,52 @@
+=========
+
+det(product-2, This-1)
+nsubj(met-3, product-2)
+nsubjpass(expected-10, product-2)
+root(ROOT-0, met-3)
+predet(expectation-6, all-4)
+det(expectation-6, the-5)
+dobj(met-3, expectation-6)
+auxpass(expected-10, was-8)
+advmod(expected-10, as-9)
+conj_and(met-3, expected-10)
+
+=========
+
+nsubj(timely-3, Delivery-1)
+cop(timely-3, was-2)
+root(ROOT-0, timely-3)
+nsubj(able-7, I-5)
+cop(able-7, was-6)
+conj_and(timely-3, able-7)
+aux(keep-9, to-8)
+xcomp(able-7, keep-9)
+aux(schedule-11, to-10)
+xcomp(keep-9, schedule-11)
+
+=========
+
+nsubj(gift-4, It-1)
+cop(gift-4, was-2)
+det(gift-4, a-3)
+root(ROOT-0, gift-4)
+prep_for(gift-4, someone-6)
+advmod(late-8, so-7)
+advmod(gift-4, late-8)
+aux(acceptable-13, would-9)
+neg(acceptable-13, not-10)
+aux(acceptable-13, have-11)
+cop(acceptable-13, been-12)
+dep(late-8, acceptable-13)
+
+=========
+
+nsubj(had-2, It-1)
+root(ROOT-0, had-2)
+predet(part-5, all-3)
+det(part-5, the-4)
+dobj(had-2, part-5)
+conj_and(had-2, in-7)
+amod(condidtion-9, new-8)
+pobj(in-7, condidtion-9)
+

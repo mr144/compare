@@ -1,0 +1,39 @@
+=========
+
+aux(say-2, To-1)
+csubj(understating-7, say-2)
+num(&#34;-5, &#34;-3)
+amod(&#34;-5, great-4)
+dobj(say-2, &#34;-5)
+aux(understating-7, is-6)
+root(ROOT-0, understating-7)
+det(quality-9, the-8)
+dobj(understating-7, quality-9)
+det(set-12, this-11)
+prep_of(quality-9, set-12)
+
+=========
+
+root(ROOT-0, Near-1)
+amod(product-3, perfect-2)
+pobj(Near-1, product-3)
+
+=========
+
+nsubj(own-3, I-1)
+advmod(own-3, also-2)
+root(ROOT-0, own-3)
+det(Kuro-6, a-4)
+nn(Kuro-6, Pioneer-5)
+dobj(own-3, Kuro-6)
+det(TV-10, these-9)
+nsubj(quality-16, TV-10)
+possessive(TV-10, 's-11)
+cop(quality-16, are-12)
+det(quality-16, the-13)
+amod(quality-16, best-14)
+nn(quality-16, picture-15)
+conj_and(own-3, quality-16)
+det(planet-19, the-18)
+prep_on(quality-16, planet-19)
+

@@ -1,0 +1,132 @@
+=========
+
+amod(buy-2, Incredible-1)
+nsubj(deal-5, buy-2)
+conj_and(buy-2, excellent-4)
+nsubj(deal-5, excellent-4)
+root(ROOT-0, deal-5)
+
+=========
+
+nsubj(ordered-2, I-1)
+root(ROOT-0, ordered-2)
+dobj(ordered-2, it-3)
+prep_from(ordered-2, Amazon-5)
+det(company-9, the-7)
+nn(company-9, delivery-8)
+ccomp(ordered-2, company-9)
+conj_but(ordered-2, company-9)
+neg(only-11, not-10)
+dep(company-9, only-11)
+conj(company-9, delivered-12)
+dobj(delivered-12, it-13)
+prep_on(delivered-12, time-15)
+nsubj(assembled-20, they-18)
+nsubj(saved-23, they-18)
+advmod(assembled-20, also-19)
+conj_but(ordered-2, assembled-20)
+dobj(assembled-20, it-21)
+conj_but(ordered-2, saved-23)
+conj_and(assembled-20, saved-23)
+iobj(saved-23, me-24)
+det(lot-26, a-25)
+dobj(saved-23, lot-26)
+prep_of(lot-26, time-28)
+prep_of(lot-26, effort-30)
+conj_and(time-28, effort-30)
+
+=========
+
+det(price-2, The-1)
+nsubj(deal-14, price-2)
+amod(delivery-7, free-5)
+nn(delivery-7, VIP-6)
+prep_along_with(deal-14, delivery-7)
+det(tax-10, no-9)
+conj_and(delivery-7, tax-10)
+prep_along_with(deal-14, tax-10)
+cop(deal-14, is-11)
+det(deal-14, an-12)
+amod(deal-14, excellent-13)
+root(ROOT-0, deal-14)
+prep_from(deal-14, Amazon-16)
+
+=========
+
+det(TV-2, The-1)
+nsubj(excellent-4, TV-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(disc-8, the-3)
+nn(disc-8, Disney-4)
+nn(disc-8, wow-6)
+dobj(got-2, disc-8)
+aux(calibrate-10, to-9)
+infmod(disc-8, calibrate-10)
+det(colors-12, the-11)
+dobj(calibrate-10, colors-12)
+
+=========
+
+det(colors-2, The-1)
+nsubj(out-5, colors-2)
+nsubj(bright-10, colors-2)
+cop(out-5, are-3)
+advmod(out-5, just-4)
+root(ROOT-0, out-5)
+det(world-8, this-7)
+prep_of(out-5, world-8)
+conj_and(out-5, bright-10)
+
+=========
+
+det(blacks-2, The-1)
+nsubj(excellent-4, blacks-2)
+cop(excellent-4, are-3)
+root(ROOT-0, excellent-4)
+advmod(well-6, as-5)
+mwe(well-6, as-5)
+advmod(excellent-4, well-6)
+
+=========
+
+det(features-3, The-1)
+amod(features-3, other-2)
+nsubj(work-4, features-3)
+root(ROOT-0, work-4)
+advmod(too-7, very-5)
+advmod(too-7, well-6)
+advmod(work-4, too-7)
+
+=========
+
+amod(connection-3, internet-2)
+nsubj(file-13, connection-3)
+appos(connection-3, apps-5)
+appos(connection-3, usb-7)
+appos(connection-3, pictures-9)
+appos(connection-3, music-11)
+root(ROOT-0, file-13)
+dobj(file-13, sharing-14)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(deal-7, it-3)
+cop(deal-7, is-4)
+det(deal-7, an-5)
+amod(deal-7, excellent-6)
+ccomp(think-2, deal-7)
+det(price-10, the-9)
+prep_for(deal-7, price-10)
+nsubjpass(satisfied-15, I-12)
+auxpass(satisfied-15, am-13)
+advmod(satisfied-15, very-14)
+conj_and(think-2, satisfied-15)
+

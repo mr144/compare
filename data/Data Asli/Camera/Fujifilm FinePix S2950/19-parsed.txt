@@ -1,0 +1,32 @@
+=========
+
+nsubj(package-5, This-1)
+cop(package-5, was-2)
+det(package-5, a-3)
+amod(package-5, great-4)
+root(ROOT-0, package-5)
+advmod(worth-8, very-7)
+amod(money-10, worth-8)
+det(money-10, the-9)
+conj_and(package-5, money-10)
+partmod(money-10, paid-11)
+
+=========
+
+root(ROOT-0, Shipped-1)
+advmod(Shipped-1, fast-2)
+advmod(Shipped-1, just-4)
+conj_and(fast-2, just-4)
+dobj(needed-7, what-5)
+nsubj(needed-7, I-6)
+ccomp(Shipped-1, needed-7)
+
+=========
+
+root(ROOT-0, Great-1)
+
+=========
+
+root(ROOT-0, Love-1)
+dobj(Love-1, it-2)
+

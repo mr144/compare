@@ -1,0 +1,51 @@
+=========
+
+det(camera-2, This-1)
+nsubj(more-4, camera-2)
+cop(more-4, was-3)
+ccomp(happy-12, more-4)
+mark(expected-7, than-5)
+nsubj(expected-7, I-6)
+ccomp(more-4, expected-7)
+nsubj(happy-12, I-9)
+cop(happy-12, am-10)
+advmod(happy-12, truly-11)
+root(ROOT-0, happy-12)
+poss(purchase-15, my-14)
+prep_with(happy-12, purchase-15)
+
+=========
+
+det(quality-2, The-1)
+nsubj(best-4, quality-2)
+cop(best-4, is-3)
+root(ROOT-0, best-4)
+cc(bad-15, but-6)
+advmod(use-9, when-7)
+nsubj(use-9, you-8)
+advcl(bad-15, use-9)
+dobj(use-9, it-10)
+advmod(use-9, inside-11)
+nsubj(bad-15, it-12)
+cop(bad-15, is-13)
+neg(bad-15, not-14)
+prepc_outside(best-4, bad-15)
+advmod(bad-15, either-16)
+
+=========
+
+det(price-2, The-1)
+nsubj(steal-6, price-2)
+cop(steal-6, is-3)
+predet(steal-6, such-4)
+det(steal-6, a-5)
+ccomp(LOVE-9, steal-6)
+nsubj(LOVE-9, I-8)
+root(ROOT-0, LOVE-9)
+nsubj(!!!-11, IT-10)
+ccomp(LOVE-9, !!!-11)
+nsubj(recommend-13, I-12)
+ccomp(!!!-11, recommend-13)
+det(camera-15, this-14)
+dobj(recommend-13, camera-15)
+

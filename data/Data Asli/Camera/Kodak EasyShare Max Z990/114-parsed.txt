@@ -1,0 +1,17 @@
+=========
+
+advmod(received-3, When-1)
+nsubj(received-3, I-2)
+advcl(excited-9, received-3)
+det(camera-5, the-4)
+dobj(received-3, camera-5)
+nsubj(excited-9, I-7)
+cop(excited-9, was-8)
+root(ROOT-0, excited-9)
+aux(have-11, to-10)
+xcomp(excited-9, have-11)
+det(model-13, this-12)
+dobj(have-11, model-13)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

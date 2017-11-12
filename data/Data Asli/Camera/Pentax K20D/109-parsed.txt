@@ -1,0 +1,39 @@
+=========
+
+advmod(got-3, Finally-1)
+nsubj(got-3, Pentax-2)
+root(ROOT-0, got-3)
+nsubj(right-5, it-4)
+xcomp(got-3, right-5)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+dep(camera-10, Oh-1)
+conj_and(camera-10, it-4)
+nsubj(camera-10, it-4)
+nsubj(is-13, it-4)
+cop(camera-10, is-5)
+det(camera-10, a-6)
+num(+-8, 14-7)
+npadvmod(megapixel-9, +-8)
+amod(camera-10, megapixel-9)
+root(ROOT-0, camera-10)
+nsubj(is-13, camera-10)
+rcmod(camera-10, is-13)
+dep(looking-19, what-14)
+det(lot-16, a-15)
+nsubj(looking-19, lot-16)
+aux(looking-19, will-17)
+aux(looking-19, be-18)
+ccomp(is-13, looking-19)
+prep(looking-19, at-20)
+nsubj(bonus-27, that-23)
+cop(bonus-27, was-24)
+advmod(bonus-27, just-25)
+det(bonus-27, a-26)
+conj_but(camera-10, bonus-27)
+nsubj(is-13, bonus-27)
+prep_for(bonus-27, me-29)
+

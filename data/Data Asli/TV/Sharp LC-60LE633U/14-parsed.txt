@@ -1,0 +1,114 @@
+=========
+
+root(ROOT-0, Bought-1)
+dobj(Bought-1, this-2)
+prep_on(this-2, July-4)
+num(July-4, 2011-5)
+npadvmod(earlier-10, Oct-9)
+advmod(this-2, earlier-10)
+prep_on(this-2, earlier-10)
+conj_and(July-4, earlier-10)
+pobj(this-2, it-11)
+partmod(this-2, shown-12)
+det(line-16, the-13)
+amod(line-16, horizontal-14)
+amod(line-16, black-15)
+dobj(shown-12, line-16)
+
+=========
+
+amod(tech-2, Per-1)
+nsubj(support-3, tech-2)
+nsubj(repair-5, tech-2)
+ccomp(requires-9, support-3)
+conj_and(support-3, repair-5)
+ccomp(requires-9, repair-5)
+dobj(support-3, man-6)
+nsubj(requires-9, this-8)
+xsubj(change-11, this-8)
+root(ROOT-0, requires-9)
+aux(change-11, to-10)
+xcomp(requires-9, change-11)
+amod(screen-13, whole-12)
+iobj(change-11, screen-13)
+nsubj(cost-15, screen-13)
+rcmod(screen-13, cost-15)
+det(cost-19, the-17)
+nn(cost-19, screen-18)
+prep_of(cost-15, cost-19)
+advmod(than-21, more-20)
+advmod(cost-15, than-21)
+det(TV-23, the-22)
+dobj(change-11, TV-23)
+iobj(change-11, TV-23)
+dobj(change-11, itself-24)
+
+=========
+
+advmod(old-4, Really-1)
+num(months-3, 15-2)
+npadvmod(old-4, months-3)
+amod(???-5, old-4)
+nsubj(Go-6, ???-5)
+root(ROOT-0, Go-6)
+prep_with(Go-6, Samsung-8)
+prep_with(Go-6, Sony-10)
+conj_or(Samsung-8, Sony-10)
+
+=========
+
+aux(waste-3, do-1)
+neg(waste-3, not-2)
+root(ROOT-0, waste-3)
+poss(time-5, your-4)
+dobj(waste-3, time-5)
+det(sucker-8, this-7)
+prep_for(waste-3, sucker-8)
+
+=========
+
+root(ROOT-0, Update-1)
+nsubj(paid-4, I-3)
+ccomp(gave-13, paid-4)
+dobj(paid-4, 250-5)
+aux(replaced-8, to-6)
+auxpass(replaced-8, get-7)
+xcomp(paid-4, replaced-8)
+prep_to(replaced-8, SHARP-10)
+nsubj(gave-13, they-12)
+dep(Update-1, gave-13)
+nn(TV-15, replacement-14)
+nsubj(gave-19, TV-15)
+amod(one-18, second-17)
+conj_and(TV-15, one-18)
+nsubj(gave-19, one-18)
+ccomp(gave-13, gave-19)
+dobj(gave-19, problem-20)
+num(installation-24, 1-22)
+nn(installation-24, week-23)
+prep_after(gave-19, installation-24)
+
+=========
+
+det(time-2, this-1)
+root(ROOT-0, time-2)
+dep(time-2, static-3)
+
+=========
+
+nsubj(have-2, i-1)
+xsubj(tap-4, i-1)
+root(ROOT-0, have-2)
+aux(tap-4, to-3)
+xcomp(have-2, tap-4)
+prt(tap-4, back-5)
+det(screen-8, the-7)
+prep_of(tap-4, screen-8)
+
+=========
+
+root(ROOT-0, Really-1)
+neg(worth-3, not-2)
+acomp(Really-1, worth-3)
+dep(worth-3, it-4)
+

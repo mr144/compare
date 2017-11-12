@@ -1,0 +1,41 @@
+=========
+
+det(camera-2, This-1)
+nsubj(great-4, camera-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+det(camera-7, a-6)
+prep_for(great-4, camera-7)
+nsubj(is-9, camera-7)
+rcmod(camera-7, is-9)
+det(point-12, a-11)
+prep_between(is-9, point-12)
+prep_between(is-9, shoot-14)
+conj_and(point-12, shoot-14)
+det(camera-19, a-16)
+amod(camera-19, more-17)
+amod(camera-19, professional-18)
+prep_between(is-9, camera-19)
+conj_and(point-12, camera-19)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(photos-4, great-3)
+dobj(takes-2, photos-4)
+
+=========
+
+nsubj(good-3, Quality-1)
+cop(good-3, was-2)
+root(ROOT-0, good-3)
+advmod(printed-8, when-4)
+det(photos-6, the-5)
+nsubjpass(printed-8, photos-6)
+auxpass(printed-8, were-7)
+advcl(good-3, printed-8)
+advmod(well-10, as-9)
+mwe(well-10, as-9)
+advmod(printed-8, well-10)
+

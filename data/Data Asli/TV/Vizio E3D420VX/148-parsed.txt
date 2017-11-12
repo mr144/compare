@@ -1,0 +1,48 @@
+=========
+
+det(TV-2, This-1)
+nsubj(great-4, TV-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+det(3D-2, the-1)
+nsubj(works-3, 3D-2)
+root(ROOT-0, works-3)
+acomp(works-3, great-4)
+
+=========
+
+nsubj(sharp-3, 1080P-1)
+nsubj(clear-5, 1080P-1)
+cop(sharp-3, is-2)
+root(ROOT-0, sharp-3)
+conj_and(sharp-3, clear-5)
+advmod(sharp-3, Boxes-7)
+conj_and(sharp-3, Boxes-7)
+advmod(slighlty-9, very-8)
+dep(sharp-3, slighlty-9)
+advmod(is-12, when-10)
+expl(is-12, there-11)
+advcl(sharp-3, is-12)
+amod(action-14, fast-13)
+nsubj(is-12, action-14)
+nsubj(120hz-19, it-16)
+cop(120hz-19, is-17)
+advmod(120hz-19, only-18)
+conj_but(sharp-3, 120hz-19)
+
+=========
+
+nsubj(buy-3, i-1)
+aux(buy-3, would-2)
+root(ROOT-0, buy-3)
+advmod(buy-3, again-4)
+

@@ -1,0 +1,25 @@
+=========
+
+nn(movies-2, Popcornflix-1)
+nsubj(stop-3, movies-2)
+root(ROOT-0, stop-3)
+prep_after(stop-3, advertisement-5)
+quantmod(hour-9, about-7)
+quantmod(hour-9, an-8)
+prep_after(advertisement-5, hour-9)
+prep_into(stop-3, movie-11)
+
+=========
+
+nn(Sony-2, Contacted-1)
+nsubj(unable-7, Sony-2)
+num(times-4, 3-3)
+npadvmod(but-5, times-4)
+advmod(unable-7, but-5)
+cop(unable-7, was-6)
+root(ROOT-0, unable-7)
+aux(get-9, to-8)
+xcomp(unable-7, get-9)
+nsubj(resolved-11, it-10)
+dep(get-9, resolved-11)
+

@@ -1,0 +1,1 @@
+In the beginning, it was fast and responsive. Everything reacted very fast.But after I upgraded it with ICS, the phone became very slow.Basic functions (open dialing, contacts, camera, album) needs to wait for 3~5 second. Sometimes the camera crashes due to memory problem.I regret upgrading OS to ICS. Maybe RAM is not enough for ICS.

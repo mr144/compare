@@ -1,0 +1,31 @@
+=========
+
+det(TV-2, This-1)
+nsubj(met-3, TV-2)
+root(ROOT-0, met-3)
+poss(expectations-5, our-4)
+dobj(met-3, expectations-5)
+conj_and(met-3, above-7)
+
+=========
+
+amod(picture-2, Great-1)
+root(ROOT-0, picture-2)
+amod(sound-5, great-4)
+appos(picture-2, sound-5)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+advmod(happy-12, already-3)
+num(TV-6, 3-4)
+nn(TV-6, TCL-5)
+nsubj(happy-12, TV-6)
+cop(happy-12, 's-7)
+prep_at(happy-12, home-9)
+advmod(happy-12, very-11)
+ccomp(have-2, happy-12)
+prep_with(happy-12, all-14)
+prep_of(all-14, them-16)
+

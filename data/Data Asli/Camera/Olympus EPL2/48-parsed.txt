@@ -1,0 +1,95 @@
+=========
+
+root(ROOT-0, Jumped-1)
+det(sale-4, a-3)
+prep_on(Jumped-1, sale-4)
+det(camera-7, this-6)
+prep_of(sale-4, camera-7)
+det(1442mm-11, the-9)
+amod(1442mm-11, newer-10)
+prep_of(sale-4, 1442mm-11)
+conj_and(camera-7, 1442mm-11)
+nsubj(love-15, I-14)
+conj_and(Jumped-1, love-15)
+dobj(love-15, it-16)
+
+=========
+
+root(ROOT-0, Light-1)
+dep(Light-1, but-3)
+dep(but-3, sturdy-4)
+
+=========
+
+advmod(good-2, Very-1)
+dep(picture-3, good-2)
+root(ROOT-0, picture-3)
+nsubj(picture-3, quality-4)
+amod(quality-4, easy-6)
+aux(use-8, to-7)
+xcomp(easy-6, use-8)
+
+=========
+
+root(ROOT-0, Make-1)
+acomp(Make-1, sure-2)
+aux(update-4, to-3)
+xcomp(sure-2, update-4)
+det(firmware-6, the-5)
+dobj(update-4, firmware-6)
+dep(hard-9, not-8)
+dep(update-4, hard-9)
+aux(do-11, to-10)
+dep(hard-9, do-11)
+mark(give-16, because-13)
+nsubj(give-16, it-14)
+aux(give-16, 'll-15)
+advcl(update-4, give-16)
+poss(autofocusing-18, your-17)
+dep(give-16, autofocusing-18)
+det(improvement-21, a-19)
+amod(improvement-21, healthy-20)
+dobj(give-16, improvement-21)
+
+=========
+
+nn(thing-2, Best-1)
+nsubj(compactness-7, thing-2)
+prep_for(thing-2, me-4)
+cop(compactness-7, is-5)
+det(compactness-7, the-6)
+root(ROOT-0, compactness-7)
+
+=========
+
+root(ROOT-0, Combine-1)
+det(camera-3, this-2)
+dobj(Combine-1, camera-3)
+det(lens-6, this-5)
+prep_with(Combine-1, lens-6)
+det(45200mm-9, a-8)
+prep_with(Combine-1, 45200mm-9)
+conj_and(lens-6, 45200mm-9)
+det(viewfinder-13, a-11)
+amod(viewfinder-13, VF3-12)
+prep_with(Combine-1, viewfinder-13)
+conj_and(lens-6, viewfinder-13)
+nsubj(takes-18, it-16)
+advmod(takes-18, still-17)
+conj_and(Combine-1, takes-18)
+quantmod(little-22, up-19)
+quantmod(little-22, only-20)
+quantmod(little-22, a-21)
+num(space-24, little-22)
+quantmod(little-22, more-23)
+dobj(takes-18, space-24)
+prep_than(space-24, one-26)
+poss(50Ds-30, my-28)
+nn(50Ds-30, Canon-29)
+prep_of(one-26, 50Ds-30)
+det(lens-34, a-32)
+num(lens-34, 1755-33)
+prep_with(takes-18, lens-34)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

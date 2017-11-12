@@ -1,0 +1,66 @@
+=========
+
+nsubj(thought-2, I-1)
+ccomp(had-20, thought-2)
+prep_at(thought-2, first-4)
+det(phone-6, this-5)
+nsubj(buy-10, phone-6)
+cop(buy-10, was-7)
+det(buy-10, a-8)
+amod(buy-10, great-9)
+dep(thought-2, buy-10)
+mark(got-15, once-13)
+nsubj(got-15, I-14)
+dep(thought-2, got-15)
+conj_but(buy-10, got-15)
+det(product-17, the-16)
+dobj(got-15, product-17)
+nsubj(had-20, I-19)
+root(ROOT-0, had-20)
+dobj(had-20, problems-21)
+det(button-25, the-23)
+amod(button-25, lock-24)
+prep_with(problems-21, button-25)
+
+=========
+
+nsubj(work-4, It-1)
+aux(work-4, does-2)
+neg(work-4, not-3)
+root(ROOT-0, work-4)
+quantmod(few-8, only-6)
+quantmod(few-8, a-7)
+num(weeks-9, few-8)
+prep_after(work-4, weeks-9)
+prep_of(weeks-9, use-11)
+
+=========
+
+advmod(turn-7, Now-1)
+nsubj(turn-7, I-3)
+aux(turn-7, can-4)
+neg(turn-7, not-5)
+advmod(turn-7, even-6)
+root(ROOT-0, turn-7)
+poss(phone-10, my-9)
+prep_on(turn-7, phone-10)
+nn(ALL-12, AT-11)
+dep(phone-10, ALL-12)
+
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+xcomp(tried-2, contacting-3)
+det(seller-5, the-4)
+dobj(contacting-3, seller-5)
+nsubj(reply-11, he-8)
+aux(reply-11, does-9)
+neg(reply-11, not-10)
+conj_but(tried-2, reply-11)
+
+=========
+
+nn(OFF-2, RIP-1)
+root(ROOT-0, OFF-2)
+

@@ -1,0 +1,49 @@
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+
+=========
+
+root(ROOT-0, definitely-1)
+det(improvement-3, an-2)
+dobj(definitely-1, improvement-3)
+poss(TV-8, my-5)
+amod(TV-8, older-6)
+nn(TV-8, plasma-7)
+prep_from(definitely-1, TV-8)
+
+=========
+
+nsubj(easy-3, Menu-1)
+cop(easy-3, 's-2)
+root(ROOT-0, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+
+=========
+
+nsubj(researched-2, We-1)
+root(ROOT-0, researched-2)
+dobj(researched-2, recommendations-3)
+nsubj(best-8, this-5)
+cop(best-8, was-6)
+det(best-8, the-7)
+conj_and(researched-2, best-8)
+
+=========
+
+nsubj(better-3, It-1)
+cop(better-3, is-2)
+root(ROOT-0, better-3)
+prep_than(better-3, Samsung-5)
+prep_than(better-3, sony-7)
+conj_or(Samsung-5, sony-7)
+prep_than(better-3, sharp-9)
+conj_or(Samsung-5, sharp-9)
+prep_than(better-3, even-11)
+advmod(Samsung-5, even-11)
+conj_or(Samsung-5, even-11)
+nn(tv-13, LG-12)
+dep(Samsung-5, tv-13)
+

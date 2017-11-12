@@ -1,0 +1,96 @@
+=========
+
+root(ROOT-0, Received-1)
+det(HDTV-3, this-2)
+dobj(Received-1, HDTV-3)
+tmod(Received-1, today-4)
+amod(setup-8, easy-7)
+prep_after(watched-9, setup-8)
+conj_and(Received-1, watched-9)
+dobj(watched-9, Terminator-10)
+num(Terminator-10, 2-11)
+
+=========
+
+det(picture-2, The-1)
+nsubj(clear-5, picture-2)
+cop(clear-5, was-3)
+advmod(clear-5, crystal-4)
+root(ROOT-0, clear-5)
+det(blur-9, no-7)
+nn(blur-9, motion-8)
+prep_with(clear-5, blur-9)
+
+=========
+
+root(ROOT-0, Received-1)
+det(player-5, a-2)
+amod(player-5, free-3)
+amod(player-5, blu-ray-4)
+dobj(Received-1, player-5)
+det(bonus-9, an-7)
+amod(bonus-9, added-8)
+prep_as(player-5, bonus-9)
+
+=========
+
+det(TV-2, This-1)
+nsubj(selling-4, TV-2)
+aux(selling-4, was-3)
+root(ROOT-0, selling-4)
+prep_for(selling-4, $-6)
+num($-6, 1600-7)
+predet(stores-11, all-9)
+det(stores-11, the-10)
+prep_by(selling-4, stores-11)
+dobj(looked-13, stores-11)
+nsubj(looked-13, I-12)
+rcmod(stores-11, looked-13)
+prt(looked-13, up-14)
+
+=========
+
+det($-3, An-1)
+amod($-3, extra-2)
+nsubj(gets-5, $-3)
+num($-3, 300-4)
+root(ROOT-0, gets-5)
+nsubj(120Hz-11, you-6)
+amod(120Hz-11, 240Hz-7)
+amod(120Hz-11, refresh-8)
+nn(120Hz-11, rate-9)
+nn(120Hz-11, vs-10)
+xcomp(gets-5, 120Hz-11)
+
+=========
+
+det($-3, An-1)
+amod($-3, extra-2)
+nsubj(gets-5, $-3)
+num($-3, 800-4)
+root(ROOT-0, gets-5)
+nsubj(HDTV-11, you-6)
+poss(HDTV-11, SONY-7)
+amod(HDTV-11, high-9)
+nn(HDTV-11, end-10)
+xcomp(gets-5, HDTV-11)
+nn(Glass-14, Gorilla-13)
+prep_with(HDTV-11, Glass-14)
+
+=========
+
+det(size-4, The-1)
+num(size-4, 55-2)
+nn(size-4, inch-3)
+nsubj(perfect-6, size-4)
+nsubj(big-10, size-4)
+nsubj(small-14, size-4)
+cop(perfect-6, is-5)
+root(ROOT-0, perfect-6)
+neg(big-10, not-8)
+advmod(big-10, too-9)
+conj_and(perfect-6, big-10)
+neg(small-14, not-12)
+advmod(small-14, too-13)
+conj_and(perfect-6, small-14)
+

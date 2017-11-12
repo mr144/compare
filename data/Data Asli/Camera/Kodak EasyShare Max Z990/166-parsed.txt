@@ -1,0 +1,74 @@
+=========
+
+nn(works-2, Camera-1)
+dep(read-12, works-2)
+conj_and(works-2, descibed-5)
+dep(read-12, descibed-5)
+prep_in(descibed-5, most-7)
+det(reviews-10, the-9)
+prep_of(most-7, reviews-10)
+nsubj(read-12, I-11)
+root(ROOT-0, read-12)
+
+=========
+
+det(delay-2, The-1)
+nsubj(proved-7, delay-2)
+xsubj(annoying-11, delay-2)
+nn(preview-5, auto-4)
+prep_in(delay-2, preview-5)
+aux(proved-7, has-6)
+root(ROOT-0, proved-7)
+aux(annoying-11, to-8)
+cop(annoying-11, be-9)
+advmod(annoying-11, more-10)
+xcomp(proved-7, annoying-11)
+mark(thought-14, than-12)
+nsubj(thought-14, I-13)
+ccomp(annoying-11, thought-14)
+nsubj(would-16, it-15)
+ccomp(thought-14, would-16)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+det(camera-4, the-3)
+nsubj(take-6, camera-4)
+aux(take-6, to-5)
+xcomp(use-2, take-6)
+dobj(take-6, pitures-7)
+poss(children-10, my-9)
+prep_of(pitures-7, children-10)
+nsubj(move-14, they-12)
+advmod(move-14, often-13)
+conj_and(use-2, move-14)
+mark(snap-18, before-15)
+nsubj(snap-18, i-16)
+aux(snap-18, can-17)
+advcl(move-14, snap-18)
+det(photo-21, the-19)
+amod(photo-21, next-20)
+dobj(snap-18, photo-21)
+
+=========
+
+advmod(happy-2, Overall-1)
+root(ROOT-0, happy-2)
+prep_with(happy-2, it-4)
+
+=========
+
+nn(card-2, SD-1)
+nsubj(easy-4, card-2)
+cop(easy-4, is-3)
+root(ROOT-0, easy-4)
+aux(take-6, to-5)
+xcomp(easy-4, take-6)
+prt(take-6, out-7)
+xcomp(easy-4, put-9)
+conj_and(take-6, put-9)
+advmod(put-9, directly-10)
+poss(laptop-13, my-12)
+prep_in(put-9, laptop-13)
+

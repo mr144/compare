@@ -1,0 +1,193 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+nsubj(know-13, this-3)
+det(friend-6, a-5)
+prep_for(this-3, friend-6)
+poss(wife-9, my-8)
+prep_of(friend-6, wife-9)
+aux(know-13, does-11)
+neg(know-13, not-12)
+rcmod(this-3, know-13)
+det(thing-16, the-14)
+amod(thing-16, first-15)
+dobj(know-13, thing-16)
+prep_about(know-13, photography-18)
+prep_about(know-13, cameras-20)
+conj_nor(photography-18, cameras-20)
+
+=========
+
+advmod(got-5, So-1)
+prep_of(got-5, course-3)
+nsubj(got-5, I-4)
+xsubj(use-7, I-4)
+root(ROOT-0, got-5)
+aux(use-7, to-6)
+xcomp(got-5, use-7)
+dobj(use-7, it-8)
+prep_before(use-7, her-10)
+mark(acquaint-14, so-11)
+nsubj(acquaint-14, I-12)
+aux(acquaint-14, could-13)
+advcl(use-7, acquaint-14)
+dobj(acquaint-14, her-15)
+prep_with(acquaint-14, it-17)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+dobj(like-2, it-3)
+advmod(again-7, then-6)
+advmod(like-10, again-7)
+nsubj(like-10, I-9)
+conj_but(like-2, like-10)
+predet(Lumix-es-13, all-11)
+det(Lumix-es-13, the-12)
+dobj(like-10, Lumix-es-13)
+dobj(used-20, Lumix-es-13)
+appos(Lumix-es-13, Lumixi-15)
+dep(used-20, that-17)
+nsubj(used-20, i-18)
+aux(used-20, have-19)
+dep(Lumix-es-13, used-20)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, personally-2)
+root(ROOT-0, have-3)
+det(DMC-TS3-6, a-4)
+nn(DMC-TS3-6, waterproof-5)
+dobj(have-3, DMC-TS3-6)
+
+=========
+
+nsubj(reason-4, It-1)
+cop(reason-4, 's-2)
+det(reason-4, the-3)
+root(ROOT-0, reason-4)
+nsubj(recommended-6, I-5)
+rcmod(reason-4, recommended-6)
+det(one-8, this-7)
+dobj(recommended-6, one-8)
+prep_for(recommended-6, her-10)
+
+=========
+
+nsubj(balance-6, It-1)
+cop(balance-6, 's-2)
+det(balance-6, a-3)
+advmod(good-5, really-4)
+amod(balance-6, good-5)
+root(ROOT-0, balance-6)
+prep_of(balance-6, user-8)
+amod(user-8, friendly-9)
+amod(user-8, versatile-11)
+conj_and(friendly-9, versatile-11)
+
+=========
+
+root(ROOT-0, Not-1)
+aux(intimidating-3, to-2)
+dep(Not-1, intimidating-3)
+nn(uninitiated-6, someone-5)
+prep_for(intimidating-3, uninitiated-6)
+
+=========
+
+advmod(wonderful-6, So-1)
+advmod(So-1, far-2)
+nsubj(wonderful-6, quality-4)
+cop(wonderful-6, is-5)
+root(ROOT-0, wonderful-6)
+
+=========
+
+det(price-2, The-1)
+nsubj(right-4, price-2)
+cop(right-4, is-3)
+root(ROOT-0, right-4)
+nsubjpass(blown-9, she-6)
+auxpass(blown-9, 's-7)
+advmod(blown-9, very-8)
+conj_and(right-4, blown-9)
+dep(blown-9, away-10)
+
+=========
+
+dep(happy-4, So-1)
+nsubj(happy-4, I-2)
+cop(happy-4, am-3)
+root(ROOT-0, happy-4)
+
+=========
+
+nsubj(professional-5, I-1)
+cop(professional-5, am-2)
+neg(professional-5, not-3)
+det(professional-5, a-4)
+root(ROOT-0, professional-5)
+nsubj(know-8, I-7)
+conj_but(professional-5, know-8)
+acomp(know-8, enough-9)
+aux(know-11, to-10)
+xcomp(enough-9, know-11)
+dobj(know-11, quality-12)
+prep_from(know-11, crap-14)
+
+=========
+
+mark(want-4, If-1)
+nsubj(want-4, you-2)
+advmod(want-4, really-3)
+advcl(suggest-16, want-4)
+det(review-7, a-5)
+amod(review-7, good-6)
+dobj(want-4, review-7)
+prep_of(review-7, this-9)
+nn(camera-12, ANY-11)
+prep_of(review-7, camera-12)
+conj_or(this-9, camera-12)
+nsubj(suggest-16, I-14)
+advmod(suggest-16, really-15)
+root(ROOT-0, suggest-16)
+xcomp(suggest-16, going-17)
+prep_to(going-17, dpreview.com-19)
+
+=========
+
+nsubj(thorough-4, They-1)
+nsubj(reliable-8, They-1)
+cop(thorough-4, are-2)
+amod(thorough-4, REALLY-3)
+root(ROOT-0, thorough-4)
+advmod(reliable-8, far-6)
+advmod(reliable-8, more-7)
+conj_and(thorough-4, reliable-8)
+det(review-11, any-10)
+prep_than(reliable-8, review-11)
+dobj(get-14, review-11)
+nsubj(get-14, you-12)
+aux(get-14, can-13)
+rcmod(review-11, get-14)
+advmod(get-14, here-15)
+
+=========
+
+nsubj(check-3, I-1)
+advmod(check-3, always-2)
+root(ROOT-0, check-3)
+prt(check-3, out-4)
+det(camera-6, a-5)
+dobj(check-3, camera-6)
+advmod(consider-10, there-7)
+dep(consider-10, before-8)
+nsubj(consider-10, I-9)
+dep(check-3, consider-10)
+xcomp(consider-10, buying-11)
+dobj(buying-11, it-12)
+

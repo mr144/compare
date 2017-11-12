@@ -1,0 +1,78 @@
+=========
+
+nsubj(phone-6, This-1)
+cop(phone-6, was-2)
+det(phone-6, a-3)
+advmod(nice-5, really-4)
+amod(phone-6, nice-5)
+root(ROOT-0, phone-6)
+poss(phone-11, my-8)
+amod(phone-11, first-9)
+amod(phone-11, smart-10)
+conj_and(phone-6, phone-11)
+
+=========
+
+advmod(was-7, However-1)
+det(problem-4, the-2)
+num(problem-4, one-3)
+dobj(had-6, problem-4)
+nsubj(was-7, problem-4)
+nsubj(had-6, I-5)
+rcmod(problem-4, had-6)
+ccomp(stopped-23, was-7)
+complm(was-17, that-8)
+det(days-11, a-9)
+amod(days-11, few-10)
+nsubj(was-17, days-11)
+det(warranty-14, the-13)
+prep_after(days-11, warranty-14)
+prep_from(warranty-14, Amazon-16)
+ccomp(was-7, was-17)
+advmod(was-17, up-18)
+det(button-22, the-20)
+nn(button-22, power-21)
+nsubj(stopped-23, button-22)
+root(ROOT-0, stopped-23)
+xcomp(stopped-23, working-24)
+
+=========
+
+nsubj(had-2, I-1)
+xsubj(download-4, I-1)
+root(ROOT-0, had-2)
+aux(download-4, to-3)
+xcomp(had-2, download-4)
+det(app-6, an-5)
+dobj(download-4, app-6)
+aux(get-8, to-7)
+infmod(app-6, get-8)
+det(phone-10, the-9)
+dobj(get-8, phone-10)
+prep_to(phone-10, wake-12)
+prt(get-8, up-13)
+
+=========
+
+advmod(annoying-2, Very-1)
+root(ROOT-0, annoying-2)
+
+=========
+
+nsubj(upgraded-2, I-1)
+root(ROOT-0, upgraded-2)
+det(S-6, a-4)
+nn(S-6, Nexus-5)
+prep_to(upgraded-2, S-6)
+advmod(upgraded-2, instead-7)
+
+=========
+
+det(phone-4, A-1)
+advmod(bigger-3, much-2)
+amod(phone-4, bigger-3)
+nsubj(works-7, phone-4)
+prep(phone-4, but-5)
+dep(but-5, it-6)
+root(ROOT-0, works-7)
+

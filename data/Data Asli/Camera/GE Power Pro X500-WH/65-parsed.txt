@@ -1,0 +1,46 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+advmod(large-4, really-3)
+amod(hands-5, large-4)
+dobj(have-2, hands-5)
+advmod(ordered-10, when-8)
+nsubj(ordered-10, I-9)
+advcl(visualized-13, ordered-10)
+nsubj(visualized-13, I-12)
+conj_and(have-2, visualized-13)
+det(Canon-15, a-14)
+dobj(visualized-13, Canon-15)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(photos-4, good-3)
+dobj(takes-2, photos-4)
+nsubj(store-9, it-7)
+aux(store-9, will-8)
+conj_but(takes-2, store-9)
+quantmod(16-11, only-10)
+dobj(store-9, 16-11)
+
+=========
+
+expl('s-2, There-1)
+root(ROOT-0, 's-2)
+det(memory-7, no-3)
+amod(memory-7, apparant-4)
+nn(memory-7, wayto-5)
+nn(memory-7, increase-6)
+nsubj('s-2, memory-7)
+
+=========
+
+nsubj('s-2, It-1)
+ccomp(reckon-8, 's-2)
+det(money-5, the-4)
+prep_worth('s-2, money-5)
+nsubj(reckon-8, I-7)
+root(ROOT-0, reckon-8)
+

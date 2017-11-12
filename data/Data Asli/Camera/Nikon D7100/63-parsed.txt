@@ -1,0 +1,71 @@
+=========
+
+prep_at(got-3, first-2)
+root(ROOT-0, got-3)
+ccomp(got-3, send-4)
+det(camera-7, a-5)
+amod(camera-7, used-6)
+dobj(send-4, camera-7)
+prep_by(send-4, error-9)
+
+=========
+
+nsubj(Amazon-2, Contacted-1)
+nsubj(send-5, Contacted-1)
+root(ROOT-0, Amazon-2)
+aux(send-5, got-4)
+conj_and(Amazon-2, send-5)
+det(one-8, a-6)
+amod(one-8, new-7)
+dobj(send-5, one-8)
+det(day-11, the-9)
+amod(day-11, next-10)
+tmod(send-5, day-11)
+
+=========
+
+dobj(say-4, What-1)
+aux(say-4, can-2)
+nsubj(say-4, I-3)
+root(ROOT-0, say-4)
+
+=========
+
+nsubj(impressed-2, supper-1)
+root(ROOT-0, impressed-2)
+det(service-5, the-4)
+prep_with(impressed-2, service-5)
+prep_from(impressed-2, Amazon-7)
+
+=========
+
+cc(top-10, And-1)
+mark(know-5, as-2)
+nsubj(know-5, you-3)
+advmod(know-5, already-4)
+advcl(top-10, know-5)
+det(camera-8, this-7)
+nsubj(top-10, camera-8)
+cop(top-10, is-9)
+root(ROOT-0, top-10)
+det(line-13, the-12)
+prep_of(top-10, line-13)
+nn(format-16, DX-15)
+prep_for(line-13, format-16)
+advmod(simply-19, just-18)
+prep_of(top-10, simply-19)
+conj_and(line-13, simply-19)
+det(camera-22, a-20)
+amod(camera-22, fantastic-21)
+dep(simply-19, camera-22)
+
+=========
+
+det(camera-2, This-1)
+nsubj(best-5, camera-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+poss(compatitors-8, its-7)
+prep_among(best-5, compatitors-8)
+

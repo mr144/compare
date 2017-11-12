@@ -1,0 +1,9 @@
+Likes_VBZ :_: Screen_NNP is_VBZ nice_JJ and_CC crisp_JJ ,_, clear_JJ ,_, levels_NNS of_IN black_JJ are_VBP more_RBR than_IN adequate_JJ ._.
+Smart_NNP TV_NNP functionality_NN works_VBZ well_RB and_CC wireless_JJ built-in_NN is_VBZ a_DT nice_JJ bonus_NN ._.
+Apps_NNS give_VBP added_VBN value_NN -LRB-_-LRB- Netflix_NNP ,_, Amazon_NNP Watch_NNP Instant_NNP ,_, Pandora_NNP -RRB-_-RRB- ._.
+DLNA_NNP implementation_NN works_VBZ well_RB ._.
+Dislikes_NNS :_: Smart_NNP TV_NNP functionality_NN takes_VBZ quite_RB a_DT while_NN -LRB-_-LRB- subjectively_RB -RRB-_-RRB- to_TO load_VB ._.
+Also_RB seems_VBZ to_TO take_VB a_DT long_JJ while_NN for_IN account_NN to_TO login_NN and_CC for_IN wireless_NN as_RB well_RB as_IN Apps_NNP to_TO get_VB to_TO a_DT working_NN point_NN ._.
+-LRB-_-LRB- Though_IN once_RB they_PRP are_VBP ready_JJ ,_, there_EX is_VBZ no_DT problem_NN or_CC delay_NN -RRB-_-RRB- Overall_RB :_: Definitely_RB worth_JJ the_DT cost_NN ._.
+Have_NNP had_VBD no_DT problems_NNS with_IN the_DT TV_NN ._.
+The_DT DLNA_NNP implementation_NN allows_VBZ access_NN to_TO my_PRP$ media_NNS collection_NN running_VBG on_IN my_PRP$ computer_NN ,_, as_RB well_RB as_IN streaming_VBG Netflix_NNP and_CC Amazon_NNP allow_VBP for_IN a_DT great_JJ set_NN that_WDT meets_VBZ my_PRP$ needs_NNS ,_, if_IN not_RB exceeds_VBZ them_PRP ._.

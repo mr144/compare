@@ -1,0 +1,48 @@
+=========
+
+det(box-2, the-1)
+nsubj(arrived-3, box-2)
+root(ROOT-0, arrived-3)
+amod(conditions-6, perfect-5)
+prep_in(arrived-3, conditions-6)
+det(screen-10, the-9)
+nsubjpass(broken-12, screen-10)
+auxpass(broken-12, was-11)
+conj_but(arrived-3, broken-12)
+
+=========
+
+advmod(turn-3, when-1)
+nsubj(turn-3, I-2)
+advcl(fine-11, turn-3)
+det(TV-6, the-5)
+prep_on(turn-3, TV-6)
+det(image-8, the-7)
+nsubj(fine-11, image-8)
+cop(fine-11, is-9)
+neg(fine-11, not-10)
+root(ROOT-0, fine-11)
+dep(inform-14, please-13)
+dep(fine-11, inform-14)
+poss(mail-16, your-15)
+dobj(inform-14, mail-16)
+dep(send-20, I-19)
+dep(fine-11, send-20)
+conj_and(inform-14, send-20)
+det(photos-22, the-21)
+dobj(send-20, photos-22)
+det(TV-25, the-24)
+prep_of(photos-22, TV-25)
+
+=========
+
+nsubj(appreciate-2, I-1)
+root(ROOT-0, appreciate-2)
+poss(reply-5, your-3)
+amod(reply-5, urgent-4)
+dobj(appreciate-2, reply-5)
+
+=========
+
+root(ROOT-0, thanks-1)
+

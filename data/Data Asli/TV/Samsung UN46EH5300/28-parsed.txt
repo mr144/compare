@@ -1,0 +1,30 @@
+=========
+
+advmod(far-2, So-1)
+advmod(great-6, far-2)
+nsubj(great-6, it-3)
+aux(great-6, has-4)
+cop(great-6, been-5)
+dep(learning-13, great-6)
+advmod(learning-13, however-8)
+nsubj(learning-13, I-10)
+aux(learning-13, am-11)
+advmod(learning-13, still-12)
+root(ROOT-0, learning-13)
+advmod(use-16, how-14)
+aux(use-16, to-15)
+ccomp(learning-13, use-16)
+xcomp(learning-13, use-16)
+dobj(use-16, it-17)
+
+=========
+
+poss(increases-5, my-2)
+nn(increases-5, learning-3)
+nn(increases-5, curve-4)
+prep_as(increase-9, increases-5)
+poss(rating-7, my-6)
+nsubj(increase-9, rating-7)
+aux(increase-9, should-8)
+root(ROOT-0, increase-9)
+

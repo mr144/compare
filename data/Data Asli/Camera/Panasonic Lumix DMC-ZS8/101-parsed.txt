@@ -1,0 +1,35 @@
+=========
+
+expl('s-2, There-1)
+root(ROOT-0, 's-2)
+advmod('s-2, still-3)
+det(lot-5, a-4)
+nsubj('s-2, lot-5)
+aux(learn-7, to-6)
+infmod(lot-5, learn-7)
+det(camera-10, this-9)
+prep_about(learn-7, camera-10)
+
+=========
+
+dep(features-3, So-1)
+nsubj(features-3, many-2)
+root(ROOT-0, features-3)
+
+=========
+
+nsubj(take-3, It-1)
+xsubj(know-8, It-1)
+aux(take-3, will-2)
+root(ROOT-0, take-3)
+advmod(take-3, awhile-4)
+prep_for(take-3, me-6)
+aux(know-8, to-7)
+xcomp(take-3, know-8)
+advmod(use-11, how-9)
+aux(use-11, to-10)
+ccomp(know-8, use-11)
+xcomp(know-8, use-11)
+dobj(use-11, it-12)
+advmod(use-11, properly-13)
+

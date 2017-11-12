@@ -1,0 +1,49 @@
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, really-2)
+root(ROOT-0, love-3)
+dobj(love-3, it-4)
+
+=========
+
+det(image-3, The-1)
+nn(image-3, quality-2)
+nsubjpass(promised-8, image-3)
+auxpass(promised-8, is-4)
+num(pixels-6, 18-5)
+npadvmod(as-7, pixels-6)
+advmod(promised-8, as-7)
+root(ROOT-0, promised-8)
+
+=========
+
+det(rebel-3, The-1)
+nn(rebel-3, EOS-2)
+nsubj(T3i-4, rebel-3)
+root(ROOT-0, T3i-4)
+dobj(T3i-4, 18-5)
+nn(Camara-10, MP-6)
+nn(Camara-10, CMOS-7)
+nn(Camara-10, Digital-8)
+nn(Camara-10, SLR-9)
+nsubj(superb-12, Camara-10)
+cop(superb-12, is-11)
+rcmod(18-5, superb-12)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, kodak-6)
+prep_than(better-4, pentax-8)
+conj_or(kodak-6, pentax-8)
+prep_than(better-4, fujifilm-10)
+conj_or(kodak-6, fujifilm-10)
+prep_than(better-4, GE-12)
+conj_or(kodak-6, GE-12)
+prep_than(better-4, coolpix-14)
+conj_or(kodak-6, coolpix-14)
+

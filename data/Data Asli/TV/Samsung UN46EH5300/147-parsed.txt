@@ -1,0 +1,37 @@
+=========
+
+nsubj(is-2, this-1)
+root(ROOT-0, is-2)
+advmod(is-2, probably-3)
+advmod(purchase-8, far-5)
+det(purchase-8, the-6)
+amod(purchase-8, best-7)
+prep_by(is-2, purchase-8)
+dobj(done-11, purchase-8)
+nsubj(done-11, i-9)
+aux(done-11, have-10)
+rcmod(purchase-8, done-11)
+advmod(done-11, here-12)
+prep_on(done-11, Amazon-14)
+
+=========
+
+det(Tv-2, this-1)
+nsubj(everything-6, Tv-2)
+cop(everything-6, is-3)
+advmod(much-5, pretty-4)
+advmod(everything-6, much-5)
+root(ROOT-0, everything-6)
+nsubj(described-8, its-7)
+rcmod(everything-6, described-8)
+complm(does-11, that-9)
+nsubj(does-11, it-10)
+ccomp(described-8, does-11)
+
+=========
+
+root(ROOT-0, such-1)
+det(purchase-4, a-2)
+amod(purchase-4, great-3)
+dep(such-1, purchase-4)
+

@@ -1,0 +1,42 @@
+=========
+
+det(purchase-3, the-1)
+amod(purchase-3, worst-2)
+dobj(made-6, purchase-3)
+nsubjpass(damaged-13, purchase-3)
+nsubj(made-6, I-4)
+aux(made-6, have-5)
+rcmod(purchase-3, made-6)
+prt(made-6, around-7)
+advmod(made-6, here-8)
+det(blackberry-11, the-10)
+nsubjpass(damaged-13, blackberry-11)
+auxpass(damaged-13, is-12)
+root(ROOT-0, damaged-13)
+
+=========
+
+aux(start-3, Do-1)
+neg(start-3, not-2)
+root(ROOT-0, start-3)
+advmod(start-3, completely-4)
+
+=========
+
+root(ROOT-0, came-1)
+det(motherboard-4, the-3)
+prep_with(came-1, motherboard-4)
+partmod(motherboard-4, damaged-5)
+
+=========
+
+det(disappointment-3, a-1)
+amod(disappointment-3, total-2)
+root(ROOT-0, disappointment-3)
+
+=========
+
+nn(A-2, WANT-1)
+nsubj(CHANGE-3, A-2)
+root(ROOT-0, CHANGE-3)
+

@@ -1,0 +1,72 @@
+=========
+
+prepc_after(sure-8, purchasing-2)
+det(product-4, this-3)
+dobj(purchasing-2, product-4)
+nsubj(sure-8, I-5)
+cop(sure-8, was-6)
+neg(sure-8, not-7)
+root(ROOT-0, sure-8)
+nsubj(expect-11, what-9)
+aux(expect-11, to-10)
+dep(sure-8, expect-11)
+mark(knew-14, because-12)
+nsubj(knew-14, I-13)
+advcl(expect-11, knew-14)
+dobj(knew-14, nothing-15)
+det(company-18, the-17)
+prep_about(knew-14, company-18)
+
+=========
+
+poss(delight-3, my-2)
+prep_to(easy-7, delight-3)
+det(television-5, the-4)
+nsubj(easy-7, television-5)
+cop(easy-7, was-6)
+dep(purchased-18, easy-7)
+aux(put-9, to-8)
+xcomp(easy-7, put-9)
+det(wall-12, the-11)
+prep_on(put-9, wall-12)
+det(brackets-15, the-14)
+prep_with(wall-12, brackets-15)
+nsubj(purchased-18, we-16)
+aux(purchased-18, had-17)
+root(ROOT-0, purchased-18)
+
+=========
+
+det(picture-2, The-1)
+nsubj(has-3, picture-2)
+root(ROOT-0, has-3)
+amod(definition-5, high-4)
+dobj(has-3, definition-5)
+det(distortion-8, no-7)
+prep_with(definition-5, distortion-8)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+prep_to(recommend-3, anyone-6)
+partmod(anyone-6, looking-7)
+det(television-11, a-9)
+amod(television-11, new-10)
+prep_for(looking-7, television-11)
+
+=========
+
+det(name-2, The-1)
+nsubj(TLC-4, name-2)
+cop(TLC-4, is-3)
+root(ROOT-0, TLC-4)
+nsubj(buy-9, I-6)
+aux(buy-9, will-7)
+advmod(buy-9, again-8)
+conj_and(TLC-4, buy-9)
+dobj(buy-9, another-10)
+prep_from(buy-9, Amazon-12)
+

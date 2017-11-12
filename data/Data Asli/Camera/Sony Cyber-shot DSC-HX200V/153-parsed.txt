@@ -1,0 +1,123 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+cop(able-4, being-3)
+xcomp(love-2, able-4)
+aux(take-6, to-5)
+xcomp(able-4, take-6)
+amod(photos-8, zoom-7)
+dobj(take-6, photos-8)
+det(camera-11, this-10)
+nsubj(do-13, camera-11)
+aux(do-13, can-12)
+conj_and(love-2, do-13)
+det(hand-held-17, a-14)
+amod(hand-held-17, combined-15)
+number(hand-held-17, 120-16)
+dobj(do-13, hand-held-17)
+
+=========
+
+nsubj(living-3, We-1)
+aux(living-3, are-2)
+root(ROOT-0, living-3)
+det(ocean-6, the-5)
+prep_on(living-3, ocean-6)
+prep_in(ocean-6, Maui-8)
+nsubj(get-12, I-10)
+aux(get-12, can-11)
+conj_and(living-3, get-12)
+amod(shots-16, great-13)
+amod(shots-16, sharp-15)
+dobj(get-12, shots-16)
+advmod(using-18, even-17)
+partmod(shots-16, using-18)
+amod(zoom-20, full-19)
+dobj(using-18, zoom-20)
+
+=========
+
+nsubj(going-3, I-1)
+xsubj(invest-5, I-1)
+aux(going-3, am-2)
+root(ROOT-0, going-3)
+aux(invest-5, to-4)
+xcomp(going-3, invest-5)
+det(tripod-8, a-7)
+prep_in(invest-5, tripod-8)
+mark(have-12, because-9)
+nsubj(have-12, I-10)
+aux(have-12, do-11)
+advcl(invest-5, have-12)
+dobj(have-12, trouble-13)
+partmod(trouble-13, holding-14)
+det(camera-16, the-15)
+nsubj(steady-18, camera-16)
+advmod(steady-18, as-17)
+xcomp(holding-14, steady-18)
+mark(did-21, as-19)
+nsubj(did-21, I-20)
+advcl(holding-14, did-21)
+prep(did-21, like-22)
+pcomp(like-22, on-23)
+amod(zoom-25, full-24)
+prep_on(like-22, zoom-25)
+
+=========
+
+det(steady-shot-2, The-1)
+nsubj(great-4, steady-shot-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+prep_for(great-4, sharpness-6)
+
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+poss(camera-6, my-3)
+amod(camera-6, 6th-4)
+nn(camera-6, Sony-5)
+root(ROOT-0, camera-6)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, currently-2)
+root(ROOT-0, have-3)
+dobj(have-3, 2-4)
+
+=========
+
+advmod(comes-6, When-1)
+det(zoom-5, a-2)
+amod(zoom-5, new-3)
+amod(zoom-5, better-4)
+nsubj(comes-6, zoom-5)
+advcl(am-9, comes-6)
+prt(comes-6, out-7)
+nsubj(am-9, I-8)
+root(ROOT-0, am-9)
+prep_on(am-9, it-11)
+
+=========
+
+nsubj(like-4, I-1)
+nsubj(want-10, I-1)
+aux(like-4, do-2)
+neg(like-4, not-3)
+root(ROOT-0, like-4)
+xcomp(like-4, having-5)
+aux(change-7, to-6)
+xcomp(having-5, change-7)
+dobj(change-7, lenses-8)
+conj_but(like-4, want-10)
+amod(results-13, great-11)
+nn(results-13, pic-12)
+dobj(want-10, results-13)
+mark(stick-16, so-14)
+nsubj(stick-16, I-15)
+advcl(want-10, stick-16)
+prep_with(stick-16, Sony-18)
+

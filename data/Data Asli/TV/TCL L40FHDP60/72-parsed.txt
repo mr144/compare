@@ -1,0 +1,87 @@
+=========
+
+amod(years-3, Bought-1)
+amod(years-3, last-2)
+root(ROOT-0, years-3)
+dep(years-3, model-4)
+num(model-4, 40V87C-5)
+amod(television-9, 40-inch-6)
+dep(40-inch-6, 1080-7)
+nn(television-9, LCD-8)
+dep(model-4, television-9)
+
+=========
+
+num(months-2, 14-1)
+nsubj(distorted-12, months-2)
+advmod(light-5, very-4)
+amod(usage-6, light-5)
+prep_into(months-2, usage-6)
+det(picture-9, the-8)
+prep_into(months-2, picture-9)
+conj_and(usage-6, picture-9)
+cop(distorted-12, is-10)
+advmod(distorted-12, highly-11)
+root(ROOT-0, distorted-12)
+det(point-15, the-14)
+prep_to(distorted-12, point-15)
+cop(unwatchable-18, being-17)
+prepc_of(point-15, unwatchable-18)
+
+=========
+
+det(TV-2, Another-1)
+nsubj(results-8, TV-2)
+det(box-7, the-4)
+amod(box-7, same-5)
+nn(box-7, cable-6)
+prep_on(TV-2, box-7)
+root(ROOT-0, results-8)
+det(picture-12, a-10)
+amod(picture-12, watchable-11)
+prep_in(results-8, picture-12)
+mark(know-15, so-13)
+nsubj(know-15, we-14)
+advcl(results-8, know-15)
+nsubj(TV-19, it-16)
+cop(TV-19, is-17)
+det(TV-19, the-18)
+ccomp(know-15, TV-19)
+
+=========
+
+nn(Hisense-2, Contacted-1)
+nsubj(is-6, Hisense-2)
+poss(response-5, their-4)
+conj_and(Hisense-2, response-5)
+nsubj(is-6, response-5)
+root(ROOT-0, is-6)
+complm(bad-15, that-7)
+nsubj(bad-15, it-8)
+cop(bad-15, is-9)
+prep_out_of(bad-15, warranty-12)
+advmod(bad-15, too-14)
+ccomp(is-6, bad-15)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+advmod(are-2, better-3)
+nsubj(are-2, TV-4)
+possessive(TV-4, 's-5)
+amod(pricing-8, comparable-7)
+prep_at(TV-4, pricing-8)
+
+=========
+
+nsubj(buy-4, I-1)
+aux(buy-4, will-2)
+neg(buy-4, not-3)
+root(ROOT-0, buy-4)
+dobj(buy-4, another-5)
+poss(products-8, their-7)
+prep_of(another-5, products-8)
+det(future-11, the-10)
+prep_in(buy-4, future-11)
+

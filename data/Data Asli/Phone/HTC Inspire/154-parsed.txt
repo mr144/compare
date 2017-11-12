@@ -1,0 +1,78 @@
+=========
+
+nsubj(reviewed-4, i-1)
+aux(reviewed-4, have-2)
+neg(reviewed-4, never-3)
+root(ROOT-0, reviewed-4)
+dobj(reviewed-4, anything-5)
+prep_on(reviewed-4, amazon-7)
+nsubj(LOVEEEE-10, I-9)
+conj_but(reviewed-4, LOVEEEE-10)
+det(phone-12, this-11)
+dobj(LOVEEEE-10, phone-12)
+mark(have-16, so-13)
+nsubj(have-16, i-14)
+advmod(have-16, just-15)
+advcl(LOVEEEE-10, have-16)
+advmod(have-16, too-17)
+
+=========
+
+nsubj(had-3, i-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(phone-5, this-4)
+dobj(had-3, phone-5)
+advmod(months-8, about-6)
+num(months-8, two-7)
+npadvmod(now-9, months-8)
+advmod(had-3, now-9)
+
+=========
+
+nsubj(rant-2, I-1)
+nsubj(rave-4, I-1)
+dep(meet-10, rant-2)
+conj_and(rant-2, rave-4)
+dep(meet-10, rave-4)
+prep_about(rant-2, it-6)
+prep_to(rant-2, everyone-8)
+nsubj(meet-10, i-9)
+root(ROOT-0, meet-10)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+root(ROOT-0, s-1)
+nsubj(live-4, i-3)
+dep(s-1, live-4)
+det(caribbean-7, the-6)
+prep_in(live-4, caribbean-7)
+nsubj(get-10, i-9)
+dep(s-1, get-10)
+conj_and(live-4, get-10)
+amod(info-13, correct-11)
+nn(info-13, weather-12)
+nsubj(cool-28, info-13)
+det(phone-16, the-15)
+prep_from(info-13, phone-16)
+dobj(think-26, phone-16)
+poss(country-23, my-18)
+advmod(unknown-20, relatively-19)
+amod(country-23, unknown-20)
+amod(country-23, little-22)
+prep_for(phone-16, country-23)
+rel(think-26, which-24)
+nsubj(think-26, i-25)
+rcmod(phone-16, think-26)
+cop(cool-28, is-27)
+ccomp(get-10, cool-28)
+advmod(cool-28, too-29)
+
+=========
+
+root(ROOT-0, lol-1)
+

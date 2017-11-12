@@ -1,0 +1,3 @@
+I_PRP bought_VBD this_DT iphone_NN just_RB because_IN I_PRP need_VBP a_DT phone_NN which_WDT can_MD be_VB used_VBN in_IN US_NNP and_CC support_VB foreign_JJ language_NN ._.
+It_PRP just_RB satisfied_VBD my_PRP$ needs_NNS ._.
+However_RB ,_, it_PRP is_VBZ very_RB slow_JJ and_CC have_VBP low_JJ definition_NN compare_VB to_TO the_DT iPhone5_NNP I_PRP am_VBP using_VBG now_RB ._.

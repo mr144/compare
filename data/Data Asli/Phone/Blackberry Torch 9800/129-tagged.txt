@@ -1,0 +1,4 @@
+Ross_NNP Cellular_NNP sell_NN refurbished_VBD Cellulars_NNP ._.
+Do_VBP not_RB buy_VB at_IN this_DT store_NN ._.
+They_PRP promise_VBP a_DT new_JJ Blackberry_NNP Torch_NNP 9800_CD ,_, but_CC the_DT box_NN is_VBZ not_RB original_JJ ._.
+The_DT Tag_NN behind_IN the_DT battery_NN it_PRP was_VBD cover_NN by_IN a_DT White_NNP Stick_NNP ..._: Battery_NNP it_PRP was_VBD used_VBN

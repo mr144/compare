@@ -1,0 +1,54 @@
+=========
+
+nsubj(waited-2, I-1)
+root(ROOT-0, waited-2)
+det(time-5, a-3)
+amod(time-5, long-4)
+dobj(waited-2, time-5)
+aux(get-7, to-6)
+xcomp(waited-2, get-7)
+poss(HDTV-10, my-8)
+amod(HDTV-10, first-9)
+dobj(get-7, HDTV-10)
+
+=========
+
+nsubj(glad-4, I-1)
+cop(glad-4, am-2)
+advmod(glad-4, so-3)
+root(ROOT-0, glad-4)
+nsubj(picked-6, I-5)
+ccomp(glad-4, picked-6)
+det(one-8, this-7)
+dobj(picked-6, one-8)
+
+=========
+
+prep_for(value-7, me-2)
+nsubj(value-7, this-4)
+cop(value-7, was-5)
+amod(value-7, great-6)
+root(ROOT-0, value-7)
+det(price-10, the-9)
+prep_for(value-7, price-10)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, so-3)
+root(ROOT-0, happy-4)
+det(TV-7, this-6)
+prep_with(happy-4, TV-7)
+dobj(thinking-10, TV-7)
+nsubj(thinking-10, I-8)
+aux(thinking-10, am-9)
+rcmod(TV-7, thinking-10)
+prepc_about(thinking-10, getting-12)
+dobj(getting-12, another-13)
+
+=========
+
+nsubj(LG-2, Thanks-1)
+root(ROOT-0, LG-2)
+

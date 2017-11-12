@@ -1,0 +1,32 @@
+=========
+
+cop(envy-3, Am-1)
+det(envy-3, the-2)
+root(ROOT-0, envy-3)
+nsubj(has-8, envy-3)
+poss(friends-6, my-5)
+prep_of(envy-3, friends-6)
+rcmod(envy-3, has-8)
+dobj(has-8, iphones-9)
+dobj(has-8, blackberrys-11)
+conj_and(iphones-9, blackberrys-11)
+
+=========
+
+nsubj(i-6, This-1)
+cop(i-6, is-2)
+det(i-6, the-3)
+amod(i-6, best-4)
+nn(i-6, phone-5)
+root(ROOT-0, i-6)
+advmod(owned-8, ever-7)
+amod(i-6, owned-8)
+
+=========
+
+root(ROOT-0, Love-1)
+det(finger-3, the-2)
+nsubj(Love-1, finger-3)
+dep(Love-1, print-4)
+dobj(print-4, scanner-5)
+

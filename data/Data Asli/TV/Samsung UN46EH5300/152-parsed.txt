@@ -1,0 +1,65 @@
+=========
+
+nsubj(selected-2, I-1)
+nsubj(connected-14, I-1)
+nsubj(allows-19, I-1)
+xsubj(use-21, I-1)
+root(ROOT-0, selected-2)
+det(model-4, this-3)
+dobj(selected-2, model-4)
+mark(&#34;-10, because-5)
+nsubj(&#34;-10, it-6)
+cop(&#34;-10, is-7)
+num(&#34;-10, &#34;-8)
+amod(&#34;-10, smart-9)
+advcl(selected-2, &#34;-10)
+advmod(connected-14, easy-12)
+dep(connected-14, gets-13)
+conj_and(selected-2, connected-14)
+nn(network-17, home-16)
+prep_to(connected-14, network-17)
+conj_and(selected-2, allows-19)
+aux(use-21, to-20)
+xcomp(allows-19, use-21)
+amod(services-23, many-22)
+dobj(use-21, services-23)
+dep(included-27, even-25)
+dep(included-27, not-26)
+dep(use-21, included-27)
+advmod(included-27, originally-28)
+prep(use-21, online-30)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+advmod(expected-6, at-3)
+pobj(at-3, least-4)
+advmod(expected-6, as-5)
+dep(works-2, expected-6)
+
+=========
+
+amod(choice-2, Good-1)
+root(ROOT-0, choice-2)
+nn(kitchen-6, bedroom-4)
+prep_for(choice-2, kitchen-6)
+dep(kitchen-6, etc.-8)
+mark(need-11, because-9)
+nsubj(need-11, you-10)
+dep(choice-2, need-11)
+dobj(need-11, power-12)
+advmod(need-11, only-13)
+
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, do-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+advmod(works-7, how-5)
+nsubj(works-7, it-6)
+ccomp(know-4, works-7)
+amod(inputs-10, other-9)
+prep_with(works-7, inputs-10)
+

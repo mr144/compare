@@ -1,0 +1,209 @@
+=========
+
+nsubj(had-3, Have-1)
+nsubj(say-13, Have-1)
+advmod(had-3, only-2)
+root(ROOT-0, had-3)
+det(camera-5, this-4)
+dobj(had-3, camera-5)
+det(little-7, a-6)
+npadvmod(had-3, little-7)
+num(hours-10, 24-9)
+prep_over(had-3, hours-10)
+aux(say-13, can-12)
+conj_and(had-3, say-13)
+nsubj(impressed-17, I-14)
+nsubj(happy-19, I-14)
+cop(impressed-17, am-15)
+advmod(impressed-17, really-16)
+ccomp(say-13, impressed-17)
+ccomp(say-13, happy-19)
+conj_and(impressed-17, happy-19)
+
+=========
+
+nsubj(awesome-3, Resolution-1)
+cop(awesome-3, is-2)
+root(ROOT-0, awesome-3)
+
+=========
+
+aux(enlarge-2, Can-1)
+root(ROOT-0, enlarge-2)
+dobj(enlarge-2, photos-3)
+amod(size-7, small-5)
+nn(size-7, poster-6)
+prep_to(enlarge-2, size-7)
+prep_without(enlarge-2, graininess-9)
+
+=========
+
+nsubj(decent-3, Speed-1)
+cop(decent-3, is-2)
+root(ROOT-0, decent-3)
+det(settings-7, the-5)
+amod(settings-7, right-6)
+prep_with(decent-3, settings-7)
+advmod(playing-10, still-9)
+dep(settings-7, playing-10)
+prepc_with(playing-10, learning-12)
+dobj(learning-12, those-13)
+
+=========
+
+nsubj(amazing-3, Zoom-1)
+cop(amazing-3, is-2)
+root(ROOT-0, amazing-3)
+
+=========
+
+root(ROOT-0, Took-1)
+dobj(Took-1, daughter-2)
+det(today-6, the-4)
+nn(today-6, zoo-5)
+prep_to(Took-1, today-6)
+
+=========
+
+csubjpass(defined-18, Took-1)
+det(shot-4, a-2)
+amod(shot-4, zoom-3)
+dobj(Took-1, shot-4)
+det(bear-8, a-6)
+amod(bear-8, polar-7)
+prep_of(shot-4, bear-8)
+dep(Took-1, at-9)
+num(ft-12, 40-11)
+prep_over(Took-1, ft-12)
+det(hair-15, every-14)
+prep_over(Took-1, hair-15)
+conj_and(ft-12, hair-15)
+auxpass(defined-18, is-16)
+advmod(defined-18, well-17)
+root(ROOT-0, defined-18)
+
+=========
+
+nn(life-2, Battery-1)
+nsubj(best-4, life-2)
+cop(best-4, is-3)
+root(ROOT-0, best-4)
+dobj(had-7, best-4)
+nsubj(had-7, I-5)
+aux(had-7, have-6)
+rcmod(best-4, had-7)
+det(camera-11, any-9)
+amod(camera-11, digital-10)
+prep_with(had-7, camera-11)
+
+=========
+
+amod(settings-2, Changing-1)
+nsubj(fast-4, settings-2)
+nsubj(simple-6, settings-2)
+cop(fast-4, is-3)
+root(ROOT-0, fast-4)
+conj_and(fast-4, simple-6)
+
+=========
+
+root(ROOT-0, Complex-1)
+advmod(Complex-1, enough-2)
+amod(shots-5, difficult-4)
+prep_for(Complex-1, shots-5)
+prep_for(shots-5, me-7)
+conj_and(Complex-1, simple-9)
+advmod(simple-9, enough-10)
+aux(point-12, to-11)
+xcomp(simple-9, point-12)
+xcomp(simple-9, shoot-14)
+conj_and(point-12, shoot-14)
+poss(daughter-19, my-16)
+num(daughter-19, 9-17)
+nn(daughter-19, y\/o-18)
+prep_for(point-12, daughter-19)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+cop(able-4, being-3)
+xcomp(love-2, able-4)
+aux(switch-6, to-5)
+xcomp(able-4, switch-6)
+prep_between(switch-6, LCD-8)
+xcomp(able-4, viewfinder-10)
+conj_or(switch-6, viewfinder-10)
+num(button-13, one-12)
+prep_with(viewfinder-10, button-13)
+
+=========
+
+root(ROOT-0, Nice-1)
+
+=========
+
+aux(tried-3, Have-1)
+neg(tried-3, not-2)
+root(ROOT-0, tried-3)
+amod(shots-5, dark-4)
+dobj(tried-3, shots-5)
+conj_but(tried-3, love-7)
+complm(goes-10, that-8)
+nsubj(goes-10, it-9)
+ccomp(love-7, goes-10)
+predet(way-13, all-11)
+det(way-13, the-12)
+dobj(goes-10, way-13)
+prt(goes-10, up-14)
+nn(ISO-17, 3200-16)
+prep_to(goes-10, ISO-17)
+
+=========
+
+root(ROOT-0, Done-2)
+dobj(Done-2, lots-3)
+amod(shots-7, existing-5)
+nn(shots-7, light-6)
+prep_of(lots-3, shots-7)
+det(past-10, the-9)
+prep_in(shots-7, past-10)
+
+=========
+
+nsubj(do-2, I-1)
+root(ROOT-0, do-2)
+ccomp(do-2, wish-3)
+nsubj(made-6, they-4)
+aux(made-6, had-5)
+ccomp(wish-3, made-6)
+det(cover-9, the-7)
+nn(cover-9, lens-8)
+dobj(made-6, cover-9)
+partmod(cover-9, built-10)
+dep(built-10, in-11)
+prep_on(built-10, this-13)
+prep(this-13, but-14)
+det(complaint-17, no-15)
+amod(complaint-17, huge-16)
+dep(but-14, complaint-17)
+
+=========
+
+nsubj(add-2, May-1)
+root(ROOT-0, add-2)
+det(review-5, this-4)
+prep_to(add-2, review-5)
+advmod(add-2, later-6)
+amod(experience-10, more-9)
+prep_after(add-2, experience-10)
+det(camera-13, this-12)
+prep_with(experience-10, camera-13)
+
+=========
+
+advmod(happy-2, Really-1)
+root(ROOT-0, happy-2)
+advmod(far-4, so-3)
+dep(happy-2, far-4)
+

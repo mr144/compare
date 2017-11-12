@@ -1,0 +1,27 @@
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, just-2)
+ccomp(great-10, love-3)
+nn(products-5, Sony-4)
+dobj(love-3, products-5)
+nsubj(great-10, they-7)
+cop(great-10, are-8)
+advmod(great-10, always-9)
+root(ROOT-0, great-10)
+
+=========
+
+advmod(wished-2, Just-1)
+root(ROOT-0, wished-2)
+nsubj(had-4, I-3)
+ccomp(wished-2, had-4)
+amod(money-6, more-5)
+dobj(had-4, money-6)
+aux(buy-8, to-7)
+infmod(money-6, buy-8)
+det(version-12, the-9)
+amod(version-12, bigger-10)
+amod(version-12, 3d-11)
+dobj(buy-8, version-12)
+

@@ -1,0 +1,4 @@
+This_DT is_VBZ a_DT great_JJ TV_NN ._.
+I_PRP have_VBP no_DT regrets_NNS ._.
+I_PRP wish_VBP I_PRP had_VBD checked_VBN the_DT AVS_NNP forum_NN before_IN I_PRP bought_VBD from_IN amazon_NN because_IN I_PRP could_MD have_VB gotten_VBN a_DT better_JJR deal_NN but_CC that_DT is_VBZ not_RB a_DT reflection_NN on_IN the_DT TV_NN ._.
+Colors_NNS are_VBP great_JJ and_CC the_DT size_NN works_VBZ for_IN me_PRP ._.

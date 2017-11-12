@@ -1,0 +1,44 @@
+=========
+
+prep_in(are-9, general-2)
+cop(tv-6, is-3)
+det(tv-6, a-4)
+amod(tv-6, good-5)
+rcmod(general-2, tv-6)
+expl(are-9, there-8)
+root(ROOT-0, are-9)
+det(effects-12, some-10)
+amod(effects-12, strange-11)
+nsubj(are-9, effects-12)
+amod(objects-17, high-14)
+nn(objects-17, speed-15)
+amod(objects-17, moving-16)
+prep_on(effects-12, objects-17)
+det(ball-22, a-20)
+nn(ball-22, golf-21)
+prep_like(effects-12, ball-22)
+
+=========
+
+nsubj(good-11, GO-1)
+prep_for(GO-1, plasma-3)
+mark(bothers-6, if-4)
+nsubj(bothers-6, that-5)
+dep(plasma-3, bothers-6)
+dobj(bothers-6, you-7)
+dep(otherwise-9, but-8)
+dep(bothers-6, otherwise-9)
+cop(good-11, is-10)
+root(ROOT-0, good-11)
+
+=========
+
+nsubj(controllable-6, Lots-1)
+amod(and-4, adjustability-3)
+prep_of(Lots-1, and-4)
+cop(controllable-6, is-5)
+root(ROOT-0, controllable-6)
+mark(reciever-9, though-7)
+poss(reciever-9, my-8)
+dep(controllable-6, reciever-9)
+

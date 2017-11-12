@@ -1,0 +1,3 @@
+Picture_NNP quality_NN is_VBZ very_RB good_JJ and_CC the_DT TV_NN is_VBZ easy_JJ to_TO set_VB up_RP ._.
+It_PRP does_VBZ take_VB some_DT getting_VBG used_VBN to_TO all_PDT the_DT features_NNS but_CC they_PRP are_VBP great_JJ to_TO have_VB ._.
+This_DT is_VBZ a_DT definite_JJ recommend_VB

@@ -1,0 +1,93 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(phone-4, the-3)
+dobj(got-2, phone-4)
+nn(time-7, record-6)
+prep_in(got-2, time-7)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(quick-4, He-1)
+nsubj(responsive-6, He-1)
+cop(quick-4, was-2)
+advmod(quick-4, very-3)
+root(ROOT-0, quick-4)
+conj_and(quick-4, responsive-6)
+poss(needs-9, my-8)
+prep_to(quick-4, needs-9)
+nsubj(pleased-14, I-11)
+cop(pleased-14, am-12)
+advmod(pleased-14, very-13)
+conj_and(quick-4, pleased-14)
+
+=========
+
+nsubj(put-3, I-1)
+advmod(put-3, also-2)
+root(ROOT-0, put-3)
+amod(battery-5, new-4)
+nsubj(works-8, battery-5)
+prep_in(battery-5, phone-7)
+ccomp(put-3, works-8)
+acomp(works-8, great-9)
+
+=========
+
+nsubj(thinking-3, I-1)
+aux(thinking-3, am-2)
+root(ROOT-0, thinking-3)
+prepc_of(thinking-3, buying-5)
+det(iPhone-7, another-6)
+dobj(buying-5, iPhone-7)
+num(iPhone-7, 3GS-8)
+poss(mother-11, my-10)
+prep_for(buying-5, mother-11)
+det(company-14, this-13)
+nsubj(I-19, company-14)
+aux(I-19, will-15)
+cop(I-19, be-16)
+det(I-19, the-17)
+num(I-19, one-18)
+conj_and(thinking-3, I-19)
+nsubj(going-24, most-20)
+advmod(most-20, definitely-21)
+aux(going-24, will-22)
+aux(going-24, be-23)
+rcmod(I-19, going-24)
+prep_through(going-24, hands-26)
+advmod(going-24, down-27)
+
+=========
+
+advmod(packaged-5, Also-1)
+det(iPhone-3, the-2)
+nsubjpass(packaged-5, iPhone-3)
+nsubjpass(came-18, iPhone-3)
+auxpass(packaged-5, was-4)
+root(ROOT-0, packaged-5)
+amod(box-8, original-7)
+prep_in(packaged-5, box-8)
+nn(paperwork-11, factory-10)
+prep_with(packaged-5, paperwork-11)
+det(cable-15, the-13)
+nn(cable-15, charge-14)
+prep_with(packaged-5, cable-15)
+conj_and(paperwork-11, cable-15)
+conj_and(packaged-5, came-18)
+det(case-24, a-20)
+nn(case-24, otter-21)
+nn(case-24, box-22)
+nn(case-24, defender-23)
+prep_with(came-18, case-24)
+prep_with(came-18, earphones-26)
+conj_and(case-24, earphones-26)
+
+=========
+
+advmod(satisfied-2, Very-1)
+root(ROOT-0, satisfied-2)
+

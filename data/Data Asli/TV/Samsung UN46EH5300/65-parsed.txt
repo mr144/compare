@@ -1,0 +1,31 @@
+=========
+
+nsubj(tv-2, Great-1)
+root(ROOT-0, tv-2)
+poss(thin-4, its-3)
+dobj(tv-2, thin-4)
+dobj(tv-2, light-6)
+conj_and(thin-4, light-6)
+dobj(tv-2, 1080p-8)
+conj_and(thin-4, 1080p-8)
+dobj(tv-2, cheap-10)
+conj_and(thin-4, cheap-10)
+
+=========
+
+prep_for(waiting-4, What-1)
+aux(waiting-4, are-2)
+nsubj(waiting-4, you-3)
+root(ROOT-0, waiting-4)
+
+=========
+
+nsubj(wont-2, You-1)
+ccomp(plus-9, wont-2)
+dobj(wont-2, regret-3)
+det(apps-6, the-5)
+nsubj(plus-9, apps-6)
+cop(plus-9, are-7)
+det(plus-9, a-8)
+root(ROOT-0, plus-9)
+

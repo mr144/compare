@@ -1,0 +1,22 @@
+The_DT TV_NN itself_PRP is_VBZ great_JJ ._.
+Great_JJ picture_NN ,_, great_JJ sound_NN ,_, great_JJ value_NN ._.
+However_RB ._.
+The_DT &#34;_CD Smart_NNP Hub_NNP &#34;_CD ,_, which_WDT was_VBD a_DT significant_JJ selling_NN point_NN of_IN the_DT device_NN for_IN me_PRP -LRB-_-LRB- hey_NN ,_, you_PRP mean_VBP I_PRP do_VBP not_RB have_VB to_TO buy_VB a_DT peripheral_JJ device_NN to_TO stream_NN media_NNS content_NN ?_.
+Awesome_JJ !_. -RRB-_-RRB-
+,_, has_VBZ a_DT huge_JJ drawback_NN ._.
+The_DT apps_NNS on_IN your_PRP$ TV_NN require_VB communicating_VBG with_IN Samsung_NNP 's_POS servers_NNS ._.
+If_IN the_DT servers_NNS are_VBP down_RB or_CC undergoing_VBG maintenance_NN ,_, guess_VB what_WP ?_.
+You_PRP do_VBP not_RB get_VB to_TO watch_VB Netflix_NNP ,_, or_CC Hulu_NNP Plus_NNP ,_, or_CC anything_NN you_PRP have_VBP an_DT app_NN for_IN ._.
+I_PRP set_VBD up_RP my_PRP$ TV_NN on_IN Sunday_NNP and_CC had_VBD no_DT problems_NNS ,_, although_IN the_DT constant_JJ software_NN updating_VBG every_DT time_NN I_PRP turned_VBD on_IN the_DT TV_NN was_VBD a_DT bit_RB annoying_JJ ._.
+On_IN Monday_NNP night_NN ,_, I_PRP fell_VBD asleep_RB with_IN Netflix_NNP on_IN and_CC woke_VBD up_RP to_TO shut_VB it_PRP off_RP ._.
+I_PRP ended_VBD up_RP not_RB being_VBG able_JJ to_TO go_VB back_RB to_TO sleep_VB right_RB away_RB ,_, so_IN I_PRP decided_VBD to_TO watch_VB something_NN else_RB ._.
+This_DT time_NN Smart_NNP Hub_NNP took_VBD a_DT significantly_RB longer_JJR time_NN to_TO load_VB ,_, and_CC I_PRP could_MD not_RB open_VB any_DT of_IN the_DT apps_NNS at_IN all_DT ._.
+Instead_RB I_PRP got_VBD a_DT message_NN reading_VBG &#34;_CD ERROR_MODEL_BIND_NNP &#34;_CD and_CC was_VBD told_VBN to_TO check_VB my_PRP$ network_NN settings_NNS ._.
+Which_WDT were_VBD fine_JJ ._.
+Every_DT other_JJ device_NN in_IN my_PRP$ house_NN was_VBD picking_VBG up_RP the_DT wifi_JJ signal_NN ,_, no_DT sweat_NN ._.
+I_PRP checked_VBD it_PRP a_DT couple_NN more_JJR times_NNS ._.
+Same_JJ message_NN ._.
+I_PRP shut_VBD it_PRP off_RP in_IN defeat_NN ._.
+This_DT morning_NN it_PRP worked_VBD fine_NN again_RB ._.
+After_IN Googling_VBG the_DT error_NN message_NN ,_, this_DT seems_VBZ to_TO be_VB a_DT frequently_RB occurring_VBG problem_NN for_IN a_DT lot_NN of_IN Smart_NNP TV_NN owners_NNS ._.
+I_PRP wish_VBP I_PRP did_VBD bothered_VBN to_TO look_VB it_PRP up_RP before_IN I_PRP bought_VBD the_DT TV_NN or_CC I_PRP would_MD not_RB have_VB bothered_VBN getting_VBG this_DT model_NN ._.

@@ -1,0 +1,1 @@
+excellent_JJ product_NN ,_, what_WP I_PRP asked_VBD was_VBD expected_VBN ,_, a_DT quality_NN 100_CD %_NN ,_, quality_NN at_IN low_JJ cost_NN ,_, the_DT finish_NN is_VBZ spectacular_JJ ,_, I_PRP recommend_VBP this_DT product_NN to_TO buyers_NNS ,_, are_VBP you_PRP going_VBG to_TO like_VB ,_, thanks_NNS ..._:

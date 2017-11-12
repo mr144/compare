@@ -1,0 +1,49 @@
+=========
+
+partmod(simple-14, Purchased-1)
+dobj(Purchased-1, this-2)
+poss(Mom-5, my-4)
+prep_for(this-2, Mom-5)
+aux(watch-7, to-6)
+infmod(Mom-5, watch-7)
+nn(home-10, nursing-9)
+prep_in(watch-7, home-10)
+nsubj(simple-14, it-12)
+nsubj(has-19, it-12)
+cop(simple-14, was-13)
+root(ROOT-0, simple-14)
+aux(set-16, to-15)
+xcomp(simple-14, set-16)
+prt(set-16, up-17)
+conj_and(simple-14, has-19)
+det(picture-22, a-20)
+amod(picture-22, great-21)
+dobj(has-19, picture-22)
+
+=========
+
+nsubjpass(surprised-3, I-1)
+auxpass(surprised-3, was-2)
+root(ROOT-0, surprised-3)
+advmod(was-8, how-4)
+amod(tv-7, great-5)
+det(tv-7, this-6)
+nsubj(was-8, tv-7)
+ccomp(surprised-3, was-8)
+det(price-11, the-10)
+prep_for(was-8, price-11)
+
+=========
+
+det(warranty-5, a-2)
+num(warranty-5, two-3)
+nn(warranty-5, year-4)
+prep_with(one-8, warranty-5)
+nsubj(one-8, it-6)
+cop(one-8, is-7)
+root(ROOT-0, one-8)
+det(best-11, the-10)
+prep_of(one-8, best-11)
+det(price-14, the-13)
+prep_for(best-11, price-14)
+

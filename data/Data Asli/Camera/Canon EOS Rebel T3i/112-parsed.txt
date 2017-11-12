@@ -1,0 +1,49 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(know-2, I-1)
+root(ROOT-0, know-2)
+complm(have-7, that-3)
+nsubj(have-7, I-4)
+xsubj(buy-9, I-4)
+aux(have-7, will-5)
+neg(have-7, not-6)
+ccomp(know-2, have-7)
+aux(buy-9, to-8)
+xcomp(have-7, buy-9)
+det(one-11, another-10)
+dobj(buy-9, one-11)
+mark(stops-16, unless-12)
+det(one-14, this-13)
+nsubj(stops-16, one-14)
+advmod(stops-16, just-15)
+advcl(buy-9, stops-16)
+xcomp(stops-16, working-17)
+
+=========
+
+root(ROOT-0, Make-1)
+acomp(Make-1, sure-2)
+aux(get-4, to-3)
+dep(sure-2, get-4)
+det(card-9, the-5)
+advmod(advanced-7, more-6)
+amod(card-9, advanced-7)
+nn(card-9, memory-8)
+dobj(get-4, card-9)
+dep(get-4, though-10)
+mark(plan-13, if-11)
+nsubj(plan-13, you-12)
+xsubj(use-15, you-12)
+dep(get-4, plan-13)
+aux(use-15, to-14)
+xcomp(plan-13, use-15)
+dobj(use-15, it-16)
+prep_for(use-15, Video-18)
+

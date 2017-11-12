@@ -1,0 +1,100 @@
+=========
+
+nsubj(bought-3, I-1)
+advmod(bought-3, just-2)
+root(ROOT-0, bought-3)
+det(product-5, this-4)
+dobj(bought-3, product-5)
+det(time-8, the-7)
+prep_during(bought-3, time-8)
+prep_of(time-8, thanksgiving-10)
+
+=========
+
+nsubj(steal-4, It-1)
+cop(steal-4, was-2)
+det(steal-4, a-3)
+root(ROOT-0, steal-4)
+det(offer-7, this-6)
+prep_at(steal-4, offer-7)
+
+=========
+
+nsubj(sure-4, I-1)
+nsubj(took-11, I-1)
+cop(sure-4, was-2)
+neg(sure-4, not-3)
+root(ROOT-0, sure-4)
+det(performance-7, the-6)
+prep_about(sure-4, performance-7)
+advmod(took-11, just-10)
+conj_but(sure-4, took-11)
+det(risk-13, a-12)
+dobj(took-11, risk-13)
+mark(investment-20, as-14)
+nsubj(investment-20, it-15)
+cop(investment-20, was-16)
+neg(investment-20, not-17)
+det(investment-20, a-18)
+amod(investment-20, big-19)
+advcl(took-11, investment-20)
+
+=========
+
+cc(exceeded-5, But-1)
+det(product-3, this-2)
+nsubj(exceeded-5, product-3)
+aux(exceeded-5, has-4)
+root(ROOT-0, exceeded-5)
+poss(expectations-7, my-6)
+dobj(exceeded-5, expectations-7)
+
+=========
+
+nsubj(write-2, I-1)
+root(ROOT-0, write-2)
+det(review-4, this-3)
+dobj(write-2, review-4)
+prepc_after(write-2, using-6)
+det(product-8, this-7)
+dobj(using-6, product-8)
+advmod(month-12, about-10)
+det(month-12, a-11)
+prep_for(using-6, month-12)
+
+=========
+
+advmod(good-2, Too-1)
+root(ROOT-0, good-2)
+aux(invest-4, to-3)
+dep(good-2, invest-4)
+amod(product-7, such-6)
+prep_in(invest-4, product-7)
+
+=========
+
+poss(use-5, Its-1)
+advmod(easy-3, so-2)
+amod(use-5, easy-3)
+prep(easy-3, to-4)
+nsubj('s-17, use-5)
+complm(knows-11, that-6)
+poss(year-9, my-7)
+num(year-9, 8-8)
+nsubj(knows-11, year-9)
+amod(year-9, old-10)
+dep(use-5, knows-11)
+predet(operations-14, all-12)
+det(operations-14, the-13)
+dobj(knows-11, operations-14)
+dobj(knows-11, that-16)
+conj_and(operations-14, that-16)
+root(ROOT-0, 's-17)
+dobj(like-20, what-18)
+nsubj(like-20, I-19)
+ccomp('s-17, like-20)
+det(most-22, the-21)
+dobj(like-20, most-22)
+det(product-25, this-24)
+prep_about(most-22, product-25)
+

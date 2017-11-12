@@ -1,0 +1,32 @@
+=========
+
+dep(like-5, hi-1)
+nsubj(like-5, i-3)
+xsubj(know-7, i-3)
+aux(like-5, will-4)
+root(ROOT-0, like-5)
+aux(know-7, to-6)
+xcomp(like-5, know-7)
+mark(comes-11, if-8)
+det(cellphone-10, the-9)
+nsubj(comes-11, cellphone-10)
+dep(know-7, comes-11)
+prep_with(comes-11, warranty-13)
+mark(select-18, if-15)
+nsubj(select-18, i-16)
+aux(select-18, can-17)
+dep(know-7, select-18)
+conj_and(comes-11, select-18)
+det(t-mobile-20, the-19)
+dobj(select-18, t-mobile-20)
+mark(need-23, because-21)
+nsubj(need-23, i-22)
+advcl(select-18, need-23)
+dobj(need-23, it-24)
+prep_for(need-23, digitel-26)
+prep_in(digitel-26, Venezuela-28)
+
+=========
+
+root(ROOT-0, thx-1)
+

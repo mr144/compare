@@ -1,0 +1,116 @@
+=========
+
+nsubj(able-4, I-1)
+cop(able-4, am-2)
+neg(able-4, not-3)
+root(ROOT-0, able-4)
+aux(get-6, to-5)
+xcomp(able-4, get-6)
+nn(internet-8, data-7)
+dobj(get-6, internet-8)
+poss(account-12, my-10)
+amod(account-12, T-mobile-11)
+prep_for(get-6, account-12)
+
+=========
+
+nsubj(spent-3, I-1)
+aux(spent-3, have-2)
+root(ROOT-0, spent-3)
+amod(hours-5, several-4)
+dobj(spent-3, hours-5)
+xsubj(get-8, hours-5)
+partmod(hours-5, trying-6)
+aux(get-8, to-7)
+xcomp(trying-6, get-8)
+nsubj(work-11, it-9)
+aux(work-11, to-10)
+xcomp(get-8, work-11)
+
+=========
+
+nsubj(spent-2, I-1)
+root(ROOT-0, spent-2)
+quantmod(hour-5, a-3)
+quantmod(hour-5, half-4)
+dobj(spent-2, hour-5)
+det(phone-8, the-7)
+prep_on(spent-2, phone-8)
+prep_with(spent-2, t-mobile-10)
+xsubj(get-13, t-mobile-10)
+partmod(t-mobile-10, trying-11)
+aux(get-13, to-12)
+xcomp(trying-11, get-13)
+nsubj(work-16, it-14)
+aux(work-16, to-15)
+xcomp(get-13, work-16)
+
+=========
+
+det(luck-2, No-1)
+root(ROOT-0, luck-2)
+
+=========
+
+nsubj(spent-2, I-1)
+dep(help-15, spent-2)
+det(hour-4, an-3)
+dobj(spent-2, hour-4)
+det(t-7, the-6)
+prep_at(spent-2, t-7)
+amod(store-10, mobile-9)
+dep(t-7, store-10)
+nsubj(help-15, they-12)
+aux(help-15, could-13)
+neg(help-15, not-14)
+root(ROOT-0, help-15)
+
+=========
+
+nsubj(thought-2, I-1)
+root(ROOT-0, thought-2)
+nsubj(getting-5, I-3)
+aux(getting-5, was-4)
+ccomp(thought-2, getting-5)
+det(phone-8, a-6)
+num(phone-8, 4G-7)
+dobj(getting-5, phone-8)
+nsubj(work-11, phone-8)
+aux(work-11, would-10)
+rcmod(phone-8, work-11)
+poss(account-15, my-13)
+amod(account-15, t-mobile-14)
+prep_with(work-11, account-15)
+
+=========
+
+nsubj(dissipointed-4, I-1)
+cop(dissipointed-4, am-2)
+advmod(dissipointed-4, very-3)
+root(ROOT-0, dissipointed-4)
+
+=========
+
+nsubj(sent-2, I-1)
+nsubj(get-11, I-1)
+root(ROOT-0, sent-2)
+det(email-4, an-3)
+dobj(sent-2, email-4)
+det(seller-7, the-6)
+prep_to(sent-2, seller-7)
+aux(get-11, did-9)
+neg(get-11, not-10)
+conj_and(sent-2, get-11)
+det(reply-13, any-12)
+dobj(get-11, reply-13)
+
+=========
+
+nsubj(from-5, I-1)
+aux(from-5, would-2)
+neg(from-5, not-3)
+dep(from-5, by-4)
+root(ROOT-0, from-5)
+pobj(from-5, them-6)
+advmod(from-5, again-7)
+

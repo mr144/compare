@@ -1,0 +1,57 @@
+=========
+
+mark(on-2, While-1)
+advcl(failed-11, on-2)
+det(vacation-5, a-3)
+amod(vacation-5, long-4)
+pobj(on-2, vacation-5)
+poss(camera-10, our-7)
+amod(camera-10, previous-8)
+nn(camera-10, Lumix-9)
+nsubj(failed-11, camera-10)
+root(ROOT-0, failed-11)
+nsubj(considered-16, we-14)
+neg(considered-16, never-15)
+conj_and(failed-11, considered-16)
+xcomp(considered-16, replacing-17)
+dobj(replacing-17, it-18)
+prep_with(replacing-17, anything-20)
+prep(anything-20, but-21)
+det(Lumix-23, another-22)
+dep(but-21, Lumix-23)
+
+=========
+
+nsubj(love-2, We-1)
+root(ROOT-0, love-2)
+det(size-5, the-3)
+amod(size-5, compact-4)
+dobj(love-2, size-5)
+det(zoom-10, the-7)
+amod(zoom-10, great-8)
+amod(zoom-10, optical-9)
+dobj(love-2, zoom-10)
+conj_and(size-5, zoom-10)
+det(lens-15, the-13)
+amod(lens-15, wide-angle-14)
+dobj(love-2, lens-15)
+conj_and(size-5, lens-15)
+
+=========
+
+cc(takes-3, And-1)
+nsubj(takes-3, it-2)
+root(ROOT-0, takes-3)
+amod(pictures-5, great-4)
+dobj(takes-3, pictures-5)
+
+=========
+
+nsubj(camera-5, It-1)
+cop(camera-5, 's-2)
+det(camera-5, a-3)
+amod(camera-5, fantastic-4)
+root(ROOT-0, camera-5)
+det(price-8, the-7)
+prep_for(camera-5, price-8)
+

@@ -1,0 +1,155 @@
+=========
+
+det(camera-2, This-1)
+nsubj(solid-4, camera-2)
+cop(solid-4, is-3)
+root(ROOT-0, solid-4)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+ccomp(did-2, say-3)
+nsubj(camera-9, it-4)
+cop(camera-9, is-5)
+det(camera-9, the-6)
+advmod(comfortable-8, most-7)
+amod(camera-9, comfortable-8)
+ccomp(say-3, camera-9)
+dobj(held-13, camera-9)
+nsubj(held-13, I-10)
+aux(held-13, have-11)
+advmod(held-13, ever-12)
+rcmod(camera-9, held-13)
+poss(hands-16, my-15)
+prep_in(held-13, hands-16)
+
+=========
+
+nsubj(has-2, It-1)
+ccomp(steep-15, has-2)
+amod(capabilities-4, amazing-3)
+dobj(has-2, capabilities-4)
+aux(sure-8, to-6)
+cop(sure-8, be-7)
+dobj(has-2, sure-8)
+conj_but(capabilities-4, sure-8)
+infmod(capabilities-4, sure-8)
+det(curve-12, the-10)
+nn(curve-12, learning-11)
+nsubj(steep-15, curve-12)
+cop(steep-15, is-13)
+advmod(steep-15, quite-14)
+root(ROOT-0, steep-15)
+
+=========
+
+mark(mentioned-4, As-1)
+nsubj(mentioned-4, others-2)
+aux(mentioned-4, have-3)
+advcl(slow-10, mentioned-4)
+nsubj(slow-10, focus-6)
+nsubj(capture-14, focus-6)
+cop(slow-10, is-7)
+det(bit-9, a-8)
+npadvmod(slow-10, bit-9)
+root(ROOT-0, slow-10)
+conj_and(slow-10, capture-14)
+dobj(capture-14, rate-15)
+
+=========
+
+mark(shoot-3, If-1)
+nsubj(shoot-3, you-2)
+advcl(look-6, shoot-3)
+dobj(shoot-3, action-4)
+root(ROOT-0, look-6)
+advmod(look-6, elsewhere-7)
+
+=========
+
+mark(static-7, If-1)
+advmod(static-7, however-2)
+poss(subjects-4, your-3)
+nsubj(static-7, subjects-4)
+cop(static-7, are-5)
+advmod(static-7, more-6)
+advcl(impress-12, static-7)
+det(camera-10, this-9)
+nsubj(impress-12, camera-10)
+aux(impress-12, will-11)
+root(ROOT-0, impress-12)
+
+=========
+
+det(bad-2, The-1)
+root(ROOT-0, bad-2)
+mark(are-6, If-4)
+nsubj(are-6, you-5)
+advcl(plan-11, are-6)
+det(Mac-9, a-8)
+prep_on(are-6, Mac-9)
+dep(bad-2, plan-11)
+prep_on(plan-11, budgeting-13)
+det(program-19, a-15)
+amod(program-19, proper-16)
+nn(program-19, photo-17)
+nn(program-19, editing-18)
+prep_for(budgeting-13, program-19)
+
+=========
+
+det(software-3, The-1)
+amod(software-3, included-2)
+nsubj(work-7, software-3)
+advmod(work-7, simply-4)
+aux(work-7, will-5)
+neg(work-7, not-6)
+root(ROOT-0, work-7)
+advmod(work-7, at-8)
+pobj(at-8, all-9)
+
+=========
+
+nsubj(appears-2, It-1)
+xsubj(problem-7, It-1)
+root(ROOT-0, appears-2)
+aux(problem-7, to-3)
+cop(problem-7, be-4)
+det(problem-7, a-5)
+amod(problem-7, longstanding-6)
+xcomp(appears-2, problem-7)
+dobj(gathered-12, what-9)
+nsubj(gathered-12, I-10)
+aux(gathered-12, have-11)
+prepc_from(problem-7, gathered-12)
+xcomp(gathered-12, surfing-13)
+det(net-15, the-14)
+dobj(surfing-13, net-15)
+
+=========
+
+nsubj(is-2, SilkyPix-1)
+root(ROOT-0, is-2)
+advmod(is-2, definitely-3)
+neg(is-2, not-4)
+nn(owners-7, Mac-6)
+prep_for(is-2, owners-7)
+
+=========
+
+nsubj(give-3, I-1)
+aux(give-3, did-2)
+root(ROOT-0, give-3)
+iobj(give-3, it-4)
+det(rating-8, a-5)
+num(rating-8, 5-6)
+nn(rating-8, star-7)
+dobj(give-3, rating-8)
+dep(not-10, if-9)
+amod(rating-8, not-10)
+det(package-15, the-12)
+amod(package-15, horrible-13)
+nn(package-15, software-14)
+prep_for(not-10, package-15)
+

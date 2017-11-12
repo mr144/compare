@@ -1,0 +1,89 @@
+=========
+
+nsubj(good-6, Everything-1)
+det(purchase-4, the-3)
+prep_about(Everything-1, purchase-4)
+cop(good-6, was-5)
+root(ROOT-0, good-6)
+det(battery-9, the-8)
+prep_except(good-6, battery-9)
+
+=========
+
+det(item-2, The-1)
+nsubjpass(delievred-4, item-2)
+auxpass(delievred-4, was-3)
+ccomp(came-8, delievred-4)
+advmod(delievred-4, quickly-5)
+nsubj(came-8, it-7)
+nsubj(came-8', it-7)
+root(ROOT-0, came-8)
+conj_and(came-8, came-8')
+predet(accesories-12, all-10)
+det(accesories-12, the-11)
+prep_with(came-8, accesories-12)
+amod(condition-16, good-15)
+prep_in(came-8', condition-16)
+
+=========
+
+advmod(were-4, However-1)
+expl(were-4, there-3)
+root(ROOT-0, were-4)
+amod(issues-6, big-5)
+nsubj(were-4, issues-6)
+det(batter-9, the-8)
+prep_with(issues-6, batter-9)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(suggest-4, I-1)
+aux(suggest-4, would-2)
+advmod(suggest-4, strongly-3)
+root(ROOT-0, suggest-4)
+complm(ask-14, that-5)
+mark(buy-8, before-6)
+nsubj(buy-8, you-7)
+advcl(ask-14, buy-8)
+det(phone-12, a-9)
+amod(phone-12, used-10)
+nn(phone-12, cell-11)
+dobj(buy-8, phone-12)
+nsubj(ask-14, you-13)
+ccomp(suggest-4, ask-14)
+det(seller-16, the-15)
+dobj(ask-14, seller-16)
+det(battery-19, the-18)
+prep_about(seller-16, battery-19)
+
+=========
+
+det(end-3, the-2)
+prep_in(returned-5, end-3)
+nsubj(returned-5, I-4)
+root(ROOT-0, returned-5)
+det(phone-7, the-6)
+dobj(returned-5, phone-7)
+nsubj(quick-11, they-9)
+cop(quick-11, were-10)
+conj_and(returned-5, quick-11)
+det(refund-14, the-13)
+prep_with(quick-11, refund-14)
+
+=========
+
+nsubj(give-2, I-1)
+root(ROOT-0, give-2)
+iobj(give-2, them-3)
+num(star-5, one-4)
+dobj(give-2, star-5)
+mark(good-9, because-6)
+nsubj(good-9, everything-7)
+cop(good-9, was-8)
+advcl(give-2, good-9)
+det(!!-14, the-12)
+nn(!!-14, phone-13)
+prep_except(good-9, !!-14)
+

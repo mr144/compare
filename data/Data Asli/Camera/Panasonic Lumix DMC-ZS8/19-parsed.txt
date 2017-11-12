@@ -1,0 +1,32 @@
+=========
+
+amod(price-2, Modest-1)
+root(ROOT-0, price-2)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+dep(Easy-1, use-3)
+
+=========
+
+amod(quality-2, Great-1)
+root(ROOT-0, quality-2)
+
+=========
+
+root(ROOT-0, Perfect-1)
+prep_for(Perfect-1, me-3)
+
+=========
+
+npadvmod(more-3, 10-2)
+advmod(words-4, more-3)
+root(ROOT-0, words-4)
+partmod(words-4, required-5)
+num(words-9, 10-7)
+amod(words-9, more-8)
+dep(words-4, words-9)
+partmod(words-9, required-10)
+

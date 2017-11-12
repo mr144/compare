@@ -1,0 +1,31 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+dobj(like-2, it-3)
+poss(cool-6, its-5)
+dobj(like-2, cool-6)
+conj_and(it-3, cool-6)
+
+=========
+
+nsubj(fun-3, It-1)
+nsubj(takes-5, It-1)
+cop(fun-3, 's-2)
+root(ROOT-0, fun-3)
+conj_and(fun-3, takes-5)
+advmod(good-7, really-6)
+amod(video-8, good-7)
+dobj(takes-5, video-8)
+
+=========
+
+nsubj(black-3, It-1)
+cop(black-3, 's-2)
+root(ROOT-0, black-3)
+nsubj(takes-6, it-5)
+conj_and(black-3, takes-6)
+dobj(takes-6, pictures-7)
+dobj(takes-6, stuff-9)
+conj_and(pictures-7, stuff-9)
+

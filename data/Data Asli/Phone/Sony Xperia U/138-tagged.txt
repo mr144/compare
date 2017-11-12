@@ -1,0 +1,3 @@
+I_PRP love_VBP this_DT phone_NN !_.
+It_PRP is_VBZ fantastic_JJ for_IN the_DT price_NN ,_, and_CC does_VBZ everything_NN any_DT other_JJ smartphone_NN would_MD do_VB ._.
+it_PRP is_VBZ great_JJ !_.

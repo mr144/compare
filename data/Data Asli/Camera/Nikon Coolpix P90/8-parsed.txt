@@ -1,0 +1,91 @@
+=========
+
+nsubj(camerai-6, This-1)
+cop(camerai-6, is-2)
+det(camerai-6, the-3)
+advmod(best-5, very-4)
+amod(camerai-6, best-5)
+root(ROOT-0, camerai-6)
+aux(owned-9, have-7)
+advmod(owned-9, ever-8)
+rcmod(camerai-6, owned-9)
+
+=========
+
+dep(need-2, No-1)
+root(ROOT-0, need-2)
+prep_for(need-2, gadgets-4)
+
+=========
+
+dep(built-4, So-1)
+amod(options-3, many-2)
+nsubj(built-4, options-3)
+root(ROOT-0, built-4)
+prt(built-4, in-5)
+
+=========
+
+root(ROOT-0, Love-1)
+det(finder-4, the-2)
+nn(finder-4, view-3)
+dobj(Love-1, finder-4)
+
+=========
+
+root(ROOT-0, use-1)
+nsubj(more-3, it-2)
+xcomp(use-1, more-3)
+prep_than(more-3, screen-5)
+
+=========
+
+nsubj(guess-2, I-1)
+root(ROOT-0, guess-2)
+complm(is-4, that-3)
+ccomp(guess-2, is-4)
+poss(days-8, my-6)
+nn(days-8, SLR-7)
+prep_from(is-4, days-8)
+
+=========
+
+nsubj(thought-2, I-1)
+root(ROOT-0, thought-2)
+det(screen-5, the-3)
+nn(screen-5, tilt-4)
+nsubj(come-7, screen-5)
+nsubj(use-13, screen-5)
+aux(come-7, would-6)
+ccomp(thought-2, come-7)
+prep_in(come-7, handy-9)
+ccomp(thought-2, hardly-12)
+advmod(come-7, hardly-12)
+conj_but(come-7, hardly-12)
+ccomp(thought-2, use-13)
+conj_but(come-7, use-13)
+dobj(use-13, it-14)
+
+=========
+
+num(thing-3, One-1)
+amod(thing-3, other-2)
+nsubj(easy-14, thing-3)
+advmod(many-7, so-6)
+amod(things-8, many-7)
+prep_unlike(easy-14, things-8)
+det(manual-12, the-10)
+nn(manual-12, owners-11)
+nsubj(easy-14, manual-12)
+cop(easy-14, is-13)
+root(ROOT-0, easy-14)
+aux(understand-16, to-15)
+xcomp(easy-14, understand-16)
+
+=========
+
+nsubj(important-4, This-1)
+cop(important-4, is-2)
+advmod(important-4, very-3)
+root(ROOT-0, important-4)
+

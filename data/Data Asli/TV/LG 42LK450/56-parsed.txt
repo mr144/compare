@@ -1,0 +1,143 @@
+=========
+
+nsubj(LOOKING-3, I-1)
+aux(LOOKING-3, WAS-2)
+root(ROOT-0, LOOKING-3)
+nn(SET-6, THIS-5)
+prep_for(LOOKING-3, SET-6)
+det(TIME-10, A-8)
+nn(TIME-10, LONG-9)
+prep_for(SET-6, TIME-10)
+
+=========
+
+nsubj(HIGH-4, PRICE-1)
+cop(HIGH-4, WAS-2)
+nn(HIGH-4, STILL-3)
+root(ROOT-0, HIGH-4)
+appos(HIGH-4, $-6)
+num($-6, 400.00-7)
+nn(LINE-13, STORES-10)
+conj_and(STORES-10, ON-12)
+nn(LINE-13, ON-12)
+prep_in(HIGH-4, LINE-13)
+
+=========
+
+nn(A-6, FINALLY-1)
+nn(A-6, I-2)
+nn(A-6, GOT-3)
+nn(A-6, IT-4)
+nn(A-6, AT-5)
+poss(AT-11, A-6)
+nn(PRICE-9, CLEARANCE-8)
+poss(AT-11, PRICE-9)
+root(ROOT-0, AT-11)
+det(STORE-14, A-12)
+nn(STORE-14, LOCAL-13)
+dep(AT-11, STORE-14)
+prep_in(STORE-14, MIAMI-16)
+nn(PRICE-20, MUCH-18)
+nn(PRICE-20, BETTER-19)
+prep_for(MIAMI-16, PRICE-20)
+
+=========
+
+nn(TV-2, THIS-1)
+nsubj(LG-7, TV-2)
+cop(LG-7, IS-3)
+nn(LG-7, ALREADY-4)
+nn(LG-7, DISCONTINUED-5)
+nn(LG-7, BY-6)
+root(ROOT-0, LG-7)
+det(SOME-13, THE-9)
+nn(SOME-13, NEW-10)
+nn(SOME-13, SET-11)
+nn(SOME-13, LACKS-12)
+conj_and(LG-7, SOME-13)
+det(HAS-19, THE-15)
+nn(HAS-19, FEATURES-16)
+nn(HAS-19, THIS-17)
+nn(HAS-19, ONE-18)
+prep_of(SOME-13, HAS-19)
+
+=========
+
+det(SATELLITE-5, THE-1)
+nn(SATELLITE-5, PICTURE-2)
+nn(SATELLITE-5, WITH-3)
+nn(SATELLITE-5, HD-4)
+nsubj(GREAT-7, SATELLITE-5)
+cop(GREAT-7, IS-6)
+root(ROOT-0, GREAT-7)
+
+=========
+
+nn(GREAT-5, TV-1)
+nn(GREAT-5, SOUND-2)
+nn(GREAT-5, NOT-3)
+nn(GREAT-5, THAT-4)
+root(ROOT-0, GREAT-5)
+dep(GREAT-5, TYPICAL-7)
+nn('S-12, FLAT-9)
+nn('S-12, PANEL-10)
+nn('S-12, TV-11)
+prep_of(TYPICAL-7, 'S-12)
+
+=========
+
+nn(I-2, ANYWAY-1)
+nsubj(HAVE-3, I-2)
+root(ROOT-0, HAVE-3)
+det(CONNECTED-8, A-4)
+nn(CONNECTED-8, SURROUND-5)
+nn(CONNECTED-8, SOUND-6)
+nn(CONNECTED-8, SYSTEM-7)
+dobj(HAVE-3, CONNECTED-8)
+det(RECEIVER-12, THE-10)
+nn(RECEIVER-12, SATELLITE-11)
+prep_with(HAVE-3, RECEIVER-12)
+
+=========
+
+nn(DEAL-3, NO-1)
+nn(DEAL-3, BIG-2)
+root(ROOT-0, DEAL-3)
+
+=========
+
+nsubj(AM-2, I-1)
+root(ROOT-0, AM-2)
+nn(TRYING-4, STILL-3)
+nsubj(ADJUST-6, TRYING-4)
+aux(ADJUST-6, TO-5)
+xcomp(AM-2, ADJUST-6)
+det(LIKING-12, THE-7)
+nn(LIKING-12, PICTURE-8)
+nn(LIKING-12, QUALITY-9)
+nn(LIKING-12, TO-10)
+nn(LIKING-12, MY-11)
+dobj(ADJUST-6, LIKING-12)
+
+=========
+
+mark(SEE-3, IF-1)
+nsubj(SEE-3, YOU-2)
+advcl(WITHOUT-12, SEE-3)
+dep(SEE-3, IT-4)
+dep(IT-4, FOR-5)
+pobj(FOR-5, LESS-6)
+prep_than(SEE-3, $-8)
+num($-8, 400.00-9)
+nn(IT-11, BUY-10)
+nsubj(WITHOUT-12, IT-11)
+root(ROOT-0, WITHOUT-12)
+dobj(WITHOUT-12, HESITATION-13)
+
+=========
+
+nsubjpass(GLAD-4, YOU-1)
+aux(GLAD-4, 'LL-2)
+auxpass(GLAD-4, BE-3)
+root(ROOT-0, GLAD-4)
+

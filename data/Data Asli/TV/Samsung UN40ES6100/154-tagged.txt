@@ -1,0 +1,1 @@
+Pros_NNS :_: Built_VBN in_IN wifi_NNS and_CC it_PRP can_MD take_VB advantage_NN of_IN 5G_NNP routerCons_NNPS :_: Auto_NN dimming_VBG feature_NN can_MD not_RB be_VB disabled_JJ ,_, can_MD be_VB a_DT bit_NN annoying_VBG sometimes_RB

@@ -1,0 +1,23 @@
+=========
+
+det(lot-2, A-1)
+root(ROOT-0, lot-2)
+amod(problems-5, technical-4)
+prep_of(lot-2, problems-5)
+amod(programs-8, viewing-7)
+prep_with(problems-5, programs-8)
+partmod(programs-8, streaming-9)
+prep_from(streaming-9, internet-11)
+
+=========
+
+nsubj(has-2, This-1)
+root(ROOT-0, has-2)
+xcomp(has-2, being-3)
+prep(being-3, going-4)
+pcomp(going-4, on-5)
+mark(purchased-8, since-6)
+nsubj(purchased-8, i-7)
+prepc_on(going-4, purchased-8)
+dobj(purchased-8, tv-9)
+

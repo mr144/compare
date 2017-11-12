@@ -1,0 +1,80 @@
+=========
+
+nsubj(had-3, I-1)
+nsubj(tried-15, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(TV-5, this-4)
+dobj(had-3, TV-5)
+abbrev(TV-5, TC-P65VT50-7)
+advmod(year-12, about-10)
+det(year-12, a-11)
+prep_for(TV-5, year-12)
+aux(tried-15, have-14)
+conj_and(had-3, tried-15)
+det(setting-17, every-16)
+dobj(tried-15, setting-17)
+nsubj(bright-24, it-20)
+cop(bright-24, is-21)
+advmod(bright-24, just-22)
+neg(bright-24, not-23)
+conj_but(had-3, bright-24)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+num(LCD-6, 3-3)
+nn(LCD-6, year-4)
+amod(LCD-6, old-5)
+dobj(have-2, LCD-6)
+nsubj(looks-8, LCD-6)
+rcmod(LCD-6, looks-8)
+dobj(looks-8, way-9)
+advmod(looks-8, better-10)
+
+=========
+
+nsubj(get-2, I-1)
+root(ROOT-0, get-2)
+complm(darker-7, that-3)
+det(darks-5, the-4)
+nsubj(darker-7, darks-5)
+cop(darker-7, are-6)
+ccomp(get-2, darker-7)
+det(whites-11, the-10)
+nsubj(gray-13, whites-11)
+cop(gray-13, are-12)
+conj_but(get-2, gray-13)
+prep_at(gray-13, best-15)
+
+=========
+
+csubj(talked-4, Stupid-1)
+aux(get-3, to-2)
+xcomp(Stupid-1, get-3)
+root(ROOT-0, talked-4)
+det(TV-7, this-6)
+prep_into(talked-4, TV-7)
+det(Samsung-10, the-9)
+prep_versus(TV-7, Samsung-10)
+num(Samsung-10, 70\/80-11)
+
+=========
+
+nsubj(sell-3, I-1)
+nsubj(spend-9, I-1)
+aux(sell-3, did-2)
+root(ROOT-0, sell-3)
+dobj(sell-3, it-4)
+prep_for(sell-3, $-6)
+num($-6, 1000-7)
+conj_and(sell-3, spend-9)
+det(rest-11, the-10)
+dobj(spend-9, rest-11)
+det(money-14, the-13)
+prep_of(rest-11, money-14)
+det(TV-18, a-16)
+amod(TV-18, good-17)
+prep_for(money-14, TV-18)
+

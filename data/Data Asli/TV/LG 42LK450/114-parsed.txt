@@ -1,0 +1,33 @@
+=========
+
+advmod(so-3, so-1)
+advmod(so-3, far-2)
+advmod(let-6, so-3)
+amod(ill-5, good-4)
+dep(let-6, ill-5)
+root(ROOT-0, let-6)
+nsubj(know-8, you-7)
+ccomp(let-6, know-8)
+prt(know-8, in-9)
+nsubj(let-6, 1,2,3,4,5-10)
+appos(1,2,3,4,5-10, years-12)
+mark(good-16, if-13)
+nsubj(good-16, it-14)
+cop(good-16, is-15)
+dep(years-12, good-16)
+dep(years-12, not-18)
+conj_or(good-16, not-18)
+neg(good-16, not-18)
+
+=========
+
+root(ROOT-0, up-1)
+prep(up-1, to-2)
+advmod(up-1, now-3)
+poss(great-5, its-4)
+pobj(up-1, great-5)
+
+=========
+
+root(ROOT-0, 5star-1)
+

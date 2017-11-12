@@ -1,0 +1,32 @@
+=========
+
+nsubj(purchase-5, This-1)
+cop(purchase-5, was-2)
+det(purchase-5, a-3)
+amod(purchase-5, great-4)
+root(ROOT-0, purchase-5)
+nsubj(like-9, I-7)
+advmod(like-9, really-8)
+conj_and(purchase-5, like-9)
+det(camera-11, this-10)
+dobj(like-9, camera-11)
+
+=========
+
+nsubj(say-4, I-1)
+aux(say-4, can-2)
+advmod(say-4, only-3)
+root(ROOT-0, say-4)
+amod(things-6, good-5)
+dobj(say-4, things-6)
+det(experience-10, this-8)
+nn(experience-10, purchase-9)
+prep_about(say-4, experience-10)
+
+=========
+
+root(ROOT-0, Thank-1)
+nsubj(much-4, you-2)
+advmod(much-4, very-3)
+xcomp(Thank-1, much-4)
+

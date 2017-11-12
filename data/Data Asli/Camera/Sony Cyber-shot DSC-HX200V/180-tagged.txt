@@ -1,0 +1,1 @@
+Pros_NNS :_: Takes_VBZ great_JJ pictures_NNS ,_, has_VBZ many_JJ different_JJ functions_NNS -LRB-_-LRB- that_IN I_PRP am_VBP still_RB learning_VBG -RRB-_-RRB- ,_, lightweight_JJ and_CC easy_JJ to_TO useCons_NNS :_: wish_NN there_RB was_VBD a_DT manual_NN -_: incamera_NN guide_NN is_VBZ a_DT pain_NN to_TO access_NN through_IN keyword_NN ._.

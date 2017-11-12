@@ -1,0 +1,31 @@
+=========
+
+root(ROOT-0, Love-1)
+det(Camera-3, this-2)
+dobj(Love-1, Camera-3)
+
+=========
+
+nsubj(trying-4, I-1)
+xsubj(learn-6, I-1)
+aux(trying-4, am-2)
+advmod(trying-4, still-3)
+root(ROOT-0, trying-4)
+aux(learn-6, to-5)
+xcomp(trying-4, learn-6)
+advmod(use-9, how-7)
+aux(use-9, to-8)
+ccomp(learn-6, use-9)
+xcomp(learn-6, use-9)
+dobj(use-9, it-10)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+advmod(are-2, so-3)
+amod(things-5, many-4)
+nsubj(are-2, things-5)
+aux(learn-7, to-6)
+infmod(things-5, learn-7)
+

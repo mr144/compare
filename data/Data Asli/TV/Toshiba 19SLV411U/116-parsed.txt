@@ -1,0 +1,28 @@
+=========
+
+nsubj(TV-6, This-1)
+cop(TV-6, is-2)
+det(TV-6, a-3)
+amod(TV-6, good-4)
+amod(TV-6, little-5)
+root(ROOT-0, TV-6)
+det(money-9, the-8)
+prep_for(TV-6, money-9)
+
+=========
+
+root(ROOT-0, Great-1)
+det(basement-4, the-3)
+prep_for(Great-1, basement-4)
+prep_for(Great-1, kitchen-6)
+conj_or(basement-4, kitchen-6)
+
+=========
+
+dep(quality-2, Picture-1)
+nsubj(good-6, quality-2)
+conj_and(quality-2, sound-4)
+nsubj(good-6, sound-4)
+cop(good-6, are-5)
+root(ROOT-0, good-6)
+

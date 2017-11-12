@@ -1,0 +1,65 @@
+=========
+
+prep_after(used-5, couple-2)
+nsubj(used-5, weeks-3)
+prep(weeks-3, of-4)
+root(ROOT-0, used-5)
+
+=========
+
+det(phone-2, the-1)
+nsubj(working-4, phone-2)
+aux(working-4, is-3)
+root(ROOT-0, working-4)
+advmod(good-6, real-5)
+acomp(working-4, good-6)
+advmod(expected-11, just-7)
+dep(expected-11, like-8)
+nsubjpass(expected-11, i-9)
+auxpass(expected-11, was-10)
+ccomp(good-6, expected-11)
+
+=========
+
+cc(is-3, but-1)
+expl(is-3, there-2)
+root(ROOT-0, is-3)
+det(problem-5, a-4)
+nsubj(is-3, problem-5)
+det(battery-8, the-7)
+prep_with(problem-5, battery-8)
+
+=========
+
+amod(charge-2, full-1)
+nsubj(stand-8, charge-2)
+advmod(good-4, only-3)
+amod(charge-2, good-4)
+det(day-7, a-6)
+prep_for(good-4, day-7)
+root(ROOT-0, stand-8)
+prep(stand-8, by-9)
+
+=========
+
+nn(time-2, Talk-1)
+root(ROOT-0, time-2)
+quantmod(3-4, about-3)
+num(hours-5, 3-4)
+dep(time-2, hours-5)
+
+=========
+
+advmod(disappoint-2, very-1)
+amod(phone-5, disappoint-2)
+prep_with(disappoint-2, Sony-4)
+root(ROOT-0, phone-5)
+nsubj(recommend-10, i-7)
+aux(recommend-10, will-8)
+neg(recommend-10, not-9)
+dep(phone-5, recommend-10)
+det(phone-12, this-11)
+dobj(recommend-10, phone-12)
+nn(!!!-15, anyone-14)
+prep_to(recommend-10, !!!-15)
+

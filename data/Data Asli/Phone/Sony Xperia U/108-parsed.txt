@@ -1,0 +1,56 @@
+=========
+
+amod(phone-2, Awesome-1)
+root(ROOT-0, phone-2)
+
+=========
+
+advmod(arrive-7, Hopefully-1)
+det(update-5, a-2)
+amod(update-5, jelly-3)
+nn(update-5, bean-4)
+nsubj(arrive-7, update-5)
+aux(arrive-7, will-6)
+root(ROOT-0, arrive-7)
+advmod(arrive-7, soon-8)
+
+=========
+
+advmod(recommend-2, Definitely-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, it-3)
+mark(want-6, if-4)
+nsubj(want-6, you-5)
+advcl(recommend-2, want-6)
+det(phone-11, a-7)
+amod(phone-11, cheap-8)
+conj_yet(cheap-8, beautiful-10)
+amod(phone-11, beautiful-10)
+dobj(want-6, phone-11)
+
+=========
+
+amod(design-2, Cool-1)
+root(ROOT-0, design-2)
+neg(like-5, not-4)
+dep(design-2, like-5)
+det(s3-9, the-6)
+amod(s3-9, ugly-7)
+amod(s3-9, samsung-8)
+pobj(like-5, s3-9)
+advmod(light-13, very-12)
+amod(design-2, light-13)
+
+=========
+
+det(bottom-3, The-1)
+amod(bottom-3, yellow-2)
+nsubj(looks-4, bottom-3)
+nsubj(sets-7, bottom-3)
+root(ROOT-0, looks-4)
+acomp(looks-4, cool-5)
+conj_and(looks-4, sets-7)
+dobj(sets-7, it-8)
+amod(phones-12, other-11)
+prep_apart_from(sets-7, phones-12)
+

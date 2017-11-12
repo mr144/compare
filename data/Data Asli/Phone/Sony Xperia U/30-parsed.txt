@@ -1,0 +1,67 @@
+=========
+
+det(phone-2, The-1)
+nsubj(looks-3, phone-2)
+nsubj(responds-6, phone-2)
+root(ROOT-0, looks-3)
+acomp(looks-3, good-4)
+conj_and(looks-3, responds-6)
+advmod(responds-6, fast-7)
+
+=========
+
+root(ROOT-0, Moved-1)
+dobj(Moved-1, it-2)
+prep_to(Moved-1, ICS-4)
+nsubj(continued-7, it-6)
+xsubj(good-10, it-6)
+conj_and(Moved-1, continued-7)
+aux(good-10, to-8)
+cop(good-10, be-9)
+xcomp(continued-7, good-10)
+
+=========
+
+root(ROOT-0, Lacks-1)
+det(app-7, a-2)
+amod(app-7, built-3)
+nn(explorer-6, file-5)
+prep_in(built-3, explorer-6)
+dobj(Lacks-1, app-7)
+
+=========
+
+nn(images-2, Camera-1)
+nsubj(are-3, images-2)
+root(ROOT-0, are-3)
+amod(quality-6, low-5)
+prep_of(are-3, quality-6)
+
+=========
+
+nsubj(size-2, Screen-1)
+root(ROOT-0, size-2)
+advmod(small-4, quite-3)
+acomp(size-2, small-4)
+dep(enough-7, not-6)
+advmod(size-2, enough-7)
+
+=========
+
+partmod(have-14, Having-1)
+nsubj(awesome-4, FM-2)
+cop(awesome-4, is-3)
+dep(Having-1, awesome-4)
+nsubjpass(packaged-8, earphones-6)
+auxpass(packaged-8, are-7)
+dep(Having-1, packaged-8)
+conj_and(awesome-4, packaged-8)
+det(phone-11, the-10)
+prep_with(packaged-8, phone-11)
+nsubj(have-14, didnt-13)
+xsubj(buy-16, didnt-13)
+root(ROOT-0, have-14)
+aux(buy-16, to-15)
+xcomp(have-14, buy-16)
+advmod(buy-16, separately-17)
+

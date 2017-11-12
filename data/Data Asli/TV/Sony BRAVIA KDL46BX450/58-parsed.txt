@@ -1,0 +1,26 @@
+=========
+
+root(ROOT-0, Great-1)
+dep(Great-1, all-2)
+prep_around(all-2, tv-4)
+
+=========
+
+root(ROOT-0, Use-1)
+dobj(Use-1, it-2)
+prep_with(Use-1, roku-4)
+prep_with(Use-1, computer-7)
+conj_and(roku-4, computer-7)
+conj_and(roku-4, cable-9)
+conj_and(computer-7, cable-9)
+
+=========
+
+amod(results-2, Great-1)
+root(ROOT-0, results-2)
+amod(dealWorth-5, good-4)
+conj_and(results-2, dealWorth-5)
+partmod(dealWorth-5, looking-6)
+advmod(looking-6, at-7)
+advmod(at-7, seriously-8)
+

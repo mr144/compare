@@ -1,0 +1,213 @@
+=========
+
+root(ROOT-0, WOW-1)
+
+=========
+
+cop(I-3, is-1)
+advmod(I-3, all-2)
+csubj(say-5, I-3)
+aux(say-5, can-4)
+root(ROOT-0, say-5)
+det(TV-9, this-7)
+amod(TV-9, excellent-8)
+prep_about(say-5, TV-9)
+
+=========
+
+nsubj(love-2, We-1)
+root(ROOT-0, love-2)
+dobj(love-2, everything-3)
+prep_about(everything-3, it-5)
+
+=========
+
+nsubj(wanted-2, We-1)
+nsubj(found-19, We-1)
+root(ROOT-0, wanted-2)
+det(TV-5, a-3)
+num(TV-5, 3D-4)
+dobj(wanted-2, TV-5)
+mark(researched-8, so-6)
+nsubj(researched-8, we-7)
+nsubj(compared-10, we-7)
+advcl(wanted-2, researched-8)
+advcl(wanted-2, compared-10)
+conj_and(researched-8, compared-10)
+det(brick-14, those-12)
+amod(brick-14, other-13)
+prep_in(researched-8, brick-14)
+nn(stores-17, mortar-16)
+prep_in(researched-8, stores-17)
+conj_and(brick-14, stores-17)
+conj_and(wanted-2, found-19)
+det(quality-22, the-20)
+nn(quality-22, picture-21)
+nsubj(breath-24, quality-22)
+cop(breath-24, was-23)
+ccomp(found-19, breath-24)
+xsubj(say-27, breath-24)
+partmod(breath-24, taking-25)
+aux(say-27, to-26)
+xcomp(taking-25, say-27)
+det(least-29, the-28)
+dobj(say-27, least-29)
+
+=========
+
+nsubj(owned-3, We-1)
+aux(owned-3, have-2)
+root(ROOT-0, owned-3)
+amod(LCDs-7, other-4)
+amod(LCDs-7, big-5)
+nn(LCDs-7, sized-6)
+dobj(owned-3, LCDs-7)
+mark(strangers-12, so-8)
+nsubj(strangers-12, we-9)
+cop(strangers-12, are-10)
+neg(strangers-12, not-11)
+advcl(owned-3, strangers-12)
+det(features-15, the-14)
+prep_about(strangers-12, features-15)
+
+=========
+
+det(marvel-5, This-1)
+nn(marvel-5, Sharp-2)
+nn(marvel-5, LED-3)
+num(marvel-5, 3D-4)
+nsubj(is-6, marvel-5)
+root(ROOT-0, is-6)
+dobj(look-12, what-7)
+det(makers-10, all-8)
+amod(makers-10, other-9)
+nsubj(look-12, makers-10)
+aux(look-12, should-11)
+ccomp(is-6, look-12)
+prt(look-12, up-13)
+prep(look-12, to-14)
+
+=========
+
+root(ROOT-0, yeah-1)
+dep(yeah-1, really-2)
+
+=========
+
+det(picture-2, The-1)
+nsubj(superb-4, picture-2)
+cop(superb-4, is-3)
+root(ROOT-0, superb-4)
+
+=========
+
+det(colors-2, the-1)
+nsubj(amazing-5, colors-2)
+cop(amazing-5, are-3)
+advmod(amazing-5, simply-4)
+root(ROOT-0, amazing-5)
+nn(yellow-8, quattron-7)
+nsubj(make-10, yellow-8)
+aux(make-10, does-9)
+parataxis(amazing-5, make-10)
+det(difference-12, a-11)
+dobj(make-10, difference-12)
+
+=========
+
+det(sharpness-2, the-1)
+nsubj(pure-8, sharpness-2)
+amod(contrast-5, black-4)
+conj_and(sharpness-2, contrast-5)
+nsubj(pure-8, contrast-5)
+cop(pure-8, are-6)
+advmod(pure-8, as-7)
+root(ROOT-0, pure-8)
+mark(gets-11, as-9)
+nsubj(gets-11, it-10)
+ccomp(pure-8, gets-11)
+
+=========
+
+nsubj(adjust-5, You-1)
+aux(adjust-5, can-2)
+advmod(adjust-5, also-3)
+advmod(adjust-5, easily-4)
+root(ROOT-0, adjust-5)
+dobj(adjust-5, the-6)
+nn(settings-9, screen-8)
+prep_on(the-6, settings-9)
+
+=========
+
+nsubj(played-2, We-1)
+root(ROOT-0, played-2)
+amod(movies-5, several-3)
+num(movies-5, 3D-4)
+dobj(played-2, movies-5)
+xcomp(played-2, using-6)
+det(player-10, a-7)
+nn(player-10, Sharp-8)
+nn(player-10, BD-9)
+dobj(using-6, player-10)
+det(pass-15, a-11)
+nn(pass-15, AV-12)
+nn(pass-15, Receiver-13)
+amod(pass-15, w\/3D-14)
+dep(player-10, pass-15)
+amod(speed-18, high-17)
+dobj(using-6, speed-18)
+conj_and(player-10, speed-18)
+num(cables-20, HDMI-19)
+dep(speed-18, cables-20)
+dep(speed-18, talk-22)
+conj_and(cables-20, talk-22)
+prep_about(talk-22, reality-24)
+
+=========
+
+poss(gosh-2, my-1)
+nsubj(have-4, gosh-2)
+nsubj(become-6, gosh-2)
+rcmod(gosh-2, have-4)
+dobj(have-4, we-5)
+root(ROOT-0, become-6)
+
+=========
+
+root(ROOT-0, unbelievable-1)
+
+=========
+
+det(TV-2, This-1)
+nsubj(came-3, TV-2)
+root(ROOT-0, came-3)
+det(promo-7, a-5)
+amod(promo-7, budled-6)
+prep_with(came-3, promo-7)
+number(3D-10, 2-9)
+num(glasses-12, 3D-10)
+amod(glasses-12, Sharp-11)
+prep_of(promo-7, glasses-12)
+prep_to(glasses-12, boot-14)
+mark(Amazon-22, so-15)
+nsubj(Amazon-22, it-16)
+cop(Amazon-22, was-17)
+det(Amazon-22, a-18)
+amod(Amazon-22, fantastc-19)
+nn(Amazon-22, deal-20)
+nn(Amazon-22, form-21)
+advcl(came-3, Amazon-22)
+
+=========
+
+nsubj(recommend-3, We-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(TV-5, this-4)
+dobj(recommend-3, TV-5)
+
+=========
+
+root(ROOT-0, enjoy-1)
+

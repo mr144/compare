@@ -1,0 +1,4 @@
+I_PRP have_VBP the_DT same_JJ TV_NN in_IN NY_NNP except_IN it_PRP is_VBZ a_DT 55_CD inch_NN model_NN ._.
+My_PRP$ TV_NN room_NN here_RB is_VBZ not_RB big_JJ enough_RB for_IN the_DT 55_CD in_IN ._.
+so_IN I_PRP got_VBD the_DT 50_CD in_IN ._.
+I_PRP love_VBP it_PRP ._.

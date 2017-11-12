@@ -1,0 +1,43 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(Nikon-4, my-3)
+dobj(love-2, Nikon-4)
+advmod(comes-9, when-7)
+nsubj(comes-9, it-8)
+advcl(wins-20, comes-9)
+prepc_to(comes-9, taking-11)
+amod(pictures-14, higher-12)
+nn(pictures-14, quality-13)
+dobj(taking-11, pictures-14)
+det(EOS-18, the-16)
+nn(EOS-18, Canon-17)
+nsubj(wins-20, EOS-18)
+num(EOS-18, 5D-19)
+conj_but(love-2, wins-20)
+dobj(wins-20, hands-21)
+prt(wins-20, down-22)
+
+=========
+
+nsubj(cameras-5, They-1)
+cop(cameras-5, are-2)
+det(cameras-5, both-3)
+amod(cameras-5, incredible-4)
+ccomp(depends-9, cameras-5)
+nsubj(depends-9, it-7)
+advmod(depends-9, just-8)
+root(ROOT-0, depends-9)
+dobj(trying-14, what-11)
+nsubj(trying-14, you-12)
+xsubj(capture-16, you-12)
+aux(trying-14, are-13)
+prepc_on(depends-9, trying-14)
+aux(capture-16, to-15)
+xcomp(trying-14, capture-16)
+
+=========
+
+root(ROOT-0, http:\/\/www.amazon.com\/gp\/product\/B007FGYZFI\/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007FGYZFI&linkCode=as2&tag=wwwworkoutwei-20-1)
+

@@ -1,0 +1,44 @@
+=========
+
+amod(phone-2, great-1)
+root(ROOT-0, phone-2)
+
+=========
+
+amod(size-2, nice-1)
+root(ROOT-0, size-2)
+amod(quality-6, nice-4)
+nn(quality-6, picture-5)
+appos(size-2, quality-6)
+
+=========
+
+root(ROOT-0, gave-1)
+iobj(gave-1, it-2)
+num(stars-4, 4-3)
+dobj(gave-1, stars-4)
+mark(freezes-7, because-5)
+nsubj(freezes-7, it-6)
+advcl(gave-1, freezes-7)
+advmod(freezes-7, sometimes-8)
+nsubj(have-11, i-10)
+xsubj(take-13, i-10)
+conj_and(gave-1, have-11)
+aux(take-13, to-12)
+xcomp(have-11, take-13)
+prt(take-13, out-14)
+det(battery-16, the-15)
+dobj(take-13, battery-16)
+xcomp(have-11, reinsert-18)
+conj_and(take-13, reinsert-18)
+nsubj(work-21, it-19)
+aux(work-21, to-20)
+xcomp(reinsert-18, work-21)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(phone-4, my-3)
+dobj(love-2, phone-4)
+

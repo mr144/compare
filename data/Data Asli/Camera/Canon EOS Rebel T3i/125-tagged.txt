@@ -1,0 +1,3 @@
+Bought_VB this_DT camera_NN as_IN a_DT replacement_NN for_IN a_DT T2i_NNP ._.
+It_PRP is_VBZ a_DT great_JJ camera_NN with_IN all_DT of_IN the_DT features_NNS you_PRP would_MD expect_VB ._.
+Everything_NNP works_VBZ great_JJ ,_, but_CC if_IN you_PRP have_VBP a_DT PC_NN running_VBG Windows_NNP 7_CD ,_, you_PRP may_MD have_VB connectivity_NN issues_NNS when_WRB you_PRP try_VBP to_TO connect_VB the_DT camera_NN to_TO the_DT computer_NN ._.

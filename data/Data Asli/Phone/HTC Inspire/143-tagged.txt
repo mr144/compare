@@ -1,0 +1,3 @@
+Customer_NN service_NN is_VBZ very_RB responding_VBG ._.
+Found_JJ two_CD missed_VBN accessories_NNS ._.
+They_PRP corrected_VBD the_DT error_NN immediately_RB and_CC received_VBD them_PRP in_IN 3_CD days_NNS ._.

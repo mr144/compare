@@ -1,0 +1,29 @@
+=========
+
+det(phone-2, The-1)
+nsubj(great-4, phone-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+root(ROOT-0, Consider-1)
+nsubj(have-6, something-2)
+dep(have-6, smaller-3)
+mark(have-6, if-4)
+nsubj(have-6, you-5)
+xcomp(Consider-1, have-6)
+det(hand-9, a-7)
+amod(hand-9, small-8)
+dobj(have-6, hand-9)
+
+=========
+
+nsubj(works-2, Wi-Fi-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+nsubj(works-7, it-6)
+conj_and(works-2, works-7)
+acomp(works-7, great-8)
+prep_on(great-8, T-Mobile-10)
+

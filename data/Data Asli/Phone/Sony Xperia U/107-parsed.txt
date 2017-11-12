@@ -1,0 +1,28 @@
+=========
+
+root(ROOT-0, Love-1)
+det(phone-3, this-2)
+dobj(Love-1, phone-3)
+nsubj(giving-7, it-5)
+aux(giving-7, is-6)
+conj_and(Love-1, giving-7)
+iobj(giving-7, me-8)
+dobj(giving-7, everything-9)
+dobj(wanted-11, everything-9)
+nsubj(wanted-11, I-10)
+rcmod(everything-9, wanted-11)
+
+=========
+
+amod(fun-2, Major-1)
+root(ROOT-0, fun-2)
+aux(upgrade-4, to-3)
+dep(fun-2, upgrade-4)
+det(phone-8, a-6)
+amod(phone-8, dumb-7)
+prep_from(upgrade-4, phone-8)
+dep(fun-2, and-9)
+dep(fun-2, simple-10)
+aux(use-12, to-11)
+dep(simple-10, use-12)
+

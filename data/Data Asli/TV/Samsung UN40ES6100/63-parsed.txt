@@ -1,0 +1,265 @@
+=========
+
+advmod(months-3, About-1)
+num(months-3, six-2)
+npadvmod(ago-4, months-3)
+advmod(started-17, ago-4)
+prep_subsequent_to(Samsung-12, one-8)
+det(updates-11, the-10)
+prep_of(one-8, updates-11)
+nsubj(rolled-13, Samsung-12)
+parataxis(started-17, rolled-13)
+prt(rolled-13, out-14)
+nsubj(started-17, Netflix-16)
+root(ROOT-0, started-17)
+xcomp(started-17, acting-18)
+prt(acting-18, up-19)
+nsubj(takes-22, it-21)
+parataxis(started-17, takes-22)
+advmod(takes-22, anywhere-23)
+prep_from(takes-22, 2-20-25)
+dep(20-29, yes-27)
+dep(takes-22, 20-29)
+
+=========
+
+root(ROOT-0, attempts-1)
+aux(play-4, to-2)
+advmod(play-4, actually-3)
+xcomp(attempts-1, play-4)
+det(item-6, an-5)
+dobj(play-4, item-6)
+mark(successful-10, before-7)
+nsubj(successful-10, it-8)
+cop(successful-10, is-9)
+advcl(play-4, successful-10)
+
+=========
+
+nsubj(annoying-4, This-1)
+cop(annoying-4, is-2)
+advmod(annoying-4, extremely-3)
+root(ROOT-0, annoying-4)
+aux(say-7, to-6)
+dep(annoying-4, say-7)
+det(least-9, the-8)
+dobj(say-7, least-9)
+nsubj(sit-13, you-11)
+aux(sit-13, can-12)
+parataxis(annoying-4, sit-13)
+expl(pressing-15, there-14)
+ccomp(sit-13, pressing-15)
+acomp(pressing-15, OK-17)
+prep(OK-17, over-19)
+ccomp(sit-13, over-21)
+conj_and(pressing-15, over-21)
+conj_and(pressing-15, over-23)
+conj_and(over-21, over-23)
+det(minutes-28, a-25)
+amod(minutes-28, good-26)
+num(minutes-28, 7-27)
+prep_for(over-21, minutes-28)
+mark(start-32, before-29)
+nsubj(start-32, you-30)
+aux(start-32, can-31)
+advcl(pressing-15, start-32)
+dobj(start-32, viewing-33)
+
+=========
+
+root(ROOT-0, Try-1)
+xcomp(Try-1, watching-2)
+det(series-4, a-3)
+dobj(watching-2, series-4)
+amod(shows-7, 30-minute-6)
+prep_of(series-4, shows-7)
+det(way-9, this-8)
+dep(shows-7, way-9)
+
+=========
+
+advmod(worse-11, Then-1)
+det(updates-4, some-3)
+nsubj(worse-11, updates-4)
+advmod(worse-11, later-5)
+det(problem-8, the-7)
+nsubj(worse-11, problem-8)
+dep(worse-11, got-9)
+advmod(worse-11, even-10)
+root(ROOT-0, worse-11)
+advmod(have-16, now-13)
+nsubj(have-16, I-15)
+xsubj(sign-18, I-15)
+parataxis(worse-11, have-16)
+aux(sign-18, to-17)
+xcomp(have-16, sign-18)
+nn(TIME-22, Netflix-20)
+nn(TIME-22, EVERY-21)
+prep_into(sign-18, TIME-22)
+
+=========
+
+nsubj(does-2, It-1)
+root(ROOT-0, does-2)
+nsubj(remember-4, NOT-3)
+ccomp(does-2, remember-4)
+poss(email-6, my-5)
+dobj(remember-4, email-6)
+dobj(remember-4, password-8)
+conj_or(email-6, password-8)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(enter-4, I-1)
+root(ROOT-0, have-2)
+aux(enter-4, to-3)
+xcomp(have-2, enter-4)
+cop(all-6, is-5)
+ccomp(enter-4, all-6)
+
+=========
+
+root(ROOT-0, Again-1)
+
+=========
+
+det(time-2, Every-1)
+root(ROOT-0, time-2)
+
+=========
+
+cc(left-6, And-1)
+advmod(left-6, then-2)
+nsubjpass(left-6, I-3)
+auxpass(left-6, am-4)
+advmod(left-6, still-5)
+root(ROOT-0, left-6)
+det(attempts-10, the-8)
+num(attempts-10, '20-9)
+prep_with(left-6, attempts-10)
+nn(plays-13, anything-12)
+poss(problem-15, plays-13)
+prep_before(left-6, problem-15)
+
+=========
+
+root(ROOT-0, Now-1)
+mark(jump-6, before-3)
+det(nerds-5, the-4)
+nsubj(jump-6, nerds-5)
+xsubj(blame-10, nerds-5)
+dep(Now-1, jump-6)
+prt(jump-6, in-7)
+advmod(blame-10, here-8)
+aux(blame-10, to-9)
+xcomp(jump-6, blame-10)
+dobj(blame-10, me-11)
+nsubj(myself-17, I-13)
+cop(myself-17, am-14)
+det(myself-17, a-15)
+amod(myself-17, nerd-16)
+dep(Now-1, myself-17)
+
+=========
+
+poss(network-2, My-1)
+nsubj(well-configured-4, network-2)
+cop(well-configured-4, is-3)
+root(ROOT-0, well-configured-4)
+
+=========
+
+nsubj(tried-3, I-1)
+aux(tried-3, have-2)
+root(ROOT-0, tried-3)
+preconj(wired-5, both-4)
+acomp(tried-3, wired-5)
+acomp(tried-3, wireless-7)
+conj_and(wired-5, wireless-7)
+
+=========
+
+nn(DEVICE-3, EVERY-1)
+nn(DEVICE-3, OTHER-2)
+nsubj(works-4, DEVICE-3)
+root(ROOT-0, works-4)
+
+=========
+
+nsubj(got-3, I-1)
+aux(got-3, have-2)
+root(ROOT-0, got-3)
+det(Roku-5, a-4)
+dobj(got-3, Roku-5)
+num(tablets-8, two-7)
+appos(Roku-5, tablets-8)
+amod(desktops-11, various-10)
+appos(Roku-5, desktops-11)
+appos(Roku-5, laptops-13)
+conj_and(desktops-11, laptops-13)
+det(wirelessly-17, all-15)
+amod(wirelessly-17, running-16)
+appos(Roku-5, wirelessly-17)
+nsubj(have-20, wirelessly-17)
+rcmod(Roku-5, have-20)
+rcmod(tablets-8, have-20)
+rcmod(desktops-11, have-20)
+rcmod(wirelessly-17, have-20)
+det(PROBLEMS-22, NO-21)
+dobj(have-20, PROBLEMS-22)
+prep_with(have-20, Netflix-24)
+
+=========
+
+advmod(experiences-5, Also-1)
+nn(Video-4, Amazon-3)
+nsubj(experiences-5, Video-4)
+root(ROOT-0, experiences-5)
+det(behavior-9, the-6)
+amod(behavior-9, exact-7)
+amod(behavior-9, same-8)
+dobj(experiences-5, behavior-9)
+
+=========
+
+dep(NOT-5, So-1)
+nsubj(NOT-5, this-2)
+cop(NOT-5, is-3)
+advmod(NOT-5, obviously-4)
+root(ROOT-0, NOT-5)
+poss(Network-7, my-6)
+dep(NOT-5, Network-7)
+conj_or(NOT-5, Netflix-10)
+nsubj(problem-16, it-12)
+cop(problem-16, is-13)
+det(problem-16, a-14)
+nn(problem-16, Samsung-15)
+parataxis(NOT-5, problem-16)
+
+=========
+
+advmod(have-3, Now-1)
+nsubj(have-3, I-2)
+root(ROOT-0, have-3)
+det(item-7, a-4)
+num(item-7, $-5)
+number($-5, 1200-6)
+dobj(have-3, item-7)
+nsubj(does-9, item-7)
+rcmod(item-7, does-9)
+advmod(one-11, precisely-10)
+dobj(does-9, one-11)
+det(things-15, the-13)
+amod(things-15, many-14)
+prep_of(one-11, things-15)
+nsubjpass(supposed-18, it-16)
+xsubj(do-20, it-16)
+auxpass(supposed-18, was-17)
+rcmod(things-15, supposed-18)
+aux(do-20, to-19)
+xcomp(supposed-18, do-20)
+nsubj(shows-23, it-22)
+parataxis(have-3, shows-23)
+dobj(shows-23, pictures-24)
+

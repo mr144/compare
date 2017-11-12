@@ -1,0 +1,37 @@
+=========
+
+det(smartphone-2, This-1)
+nsubj(alternative-6, smartphone-2)
+cop(alternative-6, is-3)
+det(alternative-6, an-4)
+amod(alternative-6, excellent-5)
+root(ROOT-0, alternative-6)
+nn(II-11, Samsung-8)
+nn(II-11, Galaxy-9)
+nn(II-11, S-10)
+prep_to(alternative-6, II-11)
+
+=========
+
+poss(version-3, Its-1)
+nn(version-3, Android-2)
+nsubj(upgrades-4, version-3)
+root(ROOT-0, upgrades-4)
+prep_to(upgrades-4, 2.3.4-6)
+prepc_without(upgrades-4, using-8)
+dobj(using-8, wires-9)
+
+=========
+
+det(reader-3, The-1)
+nn(reader-3, fingerprint-2)
+nsubj(works-4, reader-3)
+root(ROOT-0, works-4)
+acomp(works-4, great-5)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, it-3)
+

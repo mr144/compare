@@ -1,0 +1,25 @@
+=========
+
+nn(Value-2, Absolute-1)
+nsubj(is-7, Value-2)
+prep_for(Value-2, money-4)
+prep_for(Value-2, this-6)
+conj_and(money-4, this-6)
+root(ROOT-0, is-7)
+dobj(expected-10, what-8)
+nsubj(expected-10, I-9)
+ccomp(is-7, expected-10)
+dep(expected-10, from-11)
+pobj(from-11, Amazon-12)
+
+=========
+
+nsubj(received-2, I-1)
+root(ROOT-0, received-2)
+amod(packaging-5, neat-4)
+prep_in(received-2, packaging-5)
+det(accessories-9, all-7)
+amod(accessories-9, necessary-8)
+prep_with(received-2, accessories-9)
+partmod(accessories-9, required-10)
+

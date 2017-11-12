@@ -1,0 +1,49 @@
+=========
+
+mark(professonial-6, As-1)
+nsubj(professonial-6, i-2)
+cop(professonial-6, am-3)
+neg(professonial-6, not-4)
+det(professonial-6, a-5)
+advcl(works-11, professonial-6)
+advmod(far-9, so-8)
+advmod(works-11, far-9)
+nsubj(works-11, camera-10)
+root(ROOT-0, works-11)
+acomp(works-11, fine-12)
+
+=========
+
+advmod(used-2, Only-1)
+root(ROOT-0, used-2)
+det(time-5, a-3)
+amod(time-5, few-4)
+nsubj(used-2, time-5)
+amod(use-8, personal-7)
+prep_for(time-5, use-8)
+dep(use-8, birthdays\/hollidays-10)
+
+=========
+
+root(ROOT-0, Seems-1)
+aux(camera-7, to-2)
+cop(camera-7, be-3)
+det(camera-7, a-4)
+amod(camera-7, nice-5)
+nn(camera-7, littlie-6)
+xcomp(Seems-1, camera-7)
+
+=========
+
+det(complaints-2, No-1)
+root(ROOT-0, complaints-2)
+advmod(far-4, so-3)
+dep(complaints-2, far-4)
+
+=========
+
+nsubj(update-2, Will-1)
+root(ROOT-0, update-2)
+mark(needed-4, if-3)
+advcl(update-2, needed-4)
+

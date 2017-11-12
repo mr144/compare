@@ -1,0 +1,136 @@
+=========
+
+nsubj(read-2, I-1)
+root(ROOT-0, read-2)
+dobj(read-2, all-3)
+det(reviews-6, the-5)
+prep_of(all-3, reviews-6)
+det(phone-9, this-8)
+prep_about(read-2, phone-9)
+
+=========
+
+nsubj(true-6, Some-1)
+det(reviews-4, the-3)
+prep_of(Some-1, reviews-4)
+cop(true-6, were-5)
+root(ROOT-0, true-6)
+det(phone-8, the-7)
+nsubj(turn-10, phone-8)
+aux(turn-10, does-9)
+ccomp(true-6, turn-10)
+prt(turn-10, on-11)
+dep(on-11, and-12)
+dep(on-11, off-13)
+
+=========
+
+poss(life-3, my-1)
+nn(life-3, battery-2)
+nsubj(good-5, life-3)
+cop(good-5, is-4)
+root(ROOT-0, good-5)
+prep(good-5, not-6)
+det(best-8, the-7)
+pobj(not-6, best-8)
+nsubj(live-12, I-10)
+aux(live-12, can-11)
+conj_but(good-5, live-12)
+prep_with(live-12, that-14)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(charger-5, a-3)
+amod(charger-5, small-4)
+dobj(have-2, charger-5)
+nsubj(carry-7, I-6)
+rcmod(charger-5, carry-7)
+mark(worries-13, in-8)
+poss(purse-10, my-9)
+nsubj(worries-13, purse-10)
+advmod(no-12, so-11)
+advmod(worries-13, no-12)
+advcl(carry-7, worries-13)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(screen-5, the-3)
+amod(screen-5, big-4)
+dobj(love-2, screen-5)
+
+=========
+
+nsubj(searching-4, I-1)
+nsubj(searching-6, I-1)
+aux(searching-4, have-2)
+aux(searching-4, been-3)
+root(ROOT-0, searching-4)
+conj_and(searching-4, searching-6)
+det(phone-9, a-8)
+prep_for(searching-6, phone-9)
+nsubj(require-13, phone-9)
+aux(require-13, does-11)
+neg(require-13, not-12)
+rcmod(phone-9, require-13)
+nsubj(be-16, me-14)
+aux(be-16, to-15)
+xcomp(require-13, be-16)
+det(contract-19, a-18)
+prep_under(be-16, contract-19)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(problem-5, a-3)
+amod(problem-5, reallll-4)
+dobj(had-2, problem-5)
+prepc_with(had-2, finding-7)
+det(card-10, a-8)
+nn(card-10, sim-9)
+dobj(finding-7, card-10)
+nsubj(allow-13, card-10)
+aux(allow-13, would-12)
+rcmod(card-10, allow-13)
+nsubj(use-16, me-14)
+aux(use-16, to-15)
+xcomp(allow-13, use-16)
+amod(Talk-18, Straight-17)
+dobj(use-16, Talk-18)
+
+=========
+
+nsubj(had-2, I-1)
+xsubj(travel-4, I-1)
+root(ROOT-0, had-2)
+aux(travel-4, to-3)
+xcomp(had-2, travel-4)
+dobj(travel-4, 2hrs-5)
+
+=========
+
+prep_because(have-6, WalMart-2)
+nsubj(have-6, website-3)
+aux(have-6, did-4)
+neg(have-6, not-5)
+root(ROOT-0, have-6)
+det(online-8, any-7)
+dobj(have-6, online-8)
+
+=========
+
+det(end-3, the-2)
+prep_at(impressed-10, end-3)
+det(day-6, the-5)
+prep_of(end-3, day-6)
+nsubj(impressed-10, I-7)
+cop(impressed-10, am-8)
+advmod(impressed-10, very-9)
+root(ROOT-0, impressed-10)
+det(phone-13, the-12)
+prep_with(impressed-10, phone-13)
+

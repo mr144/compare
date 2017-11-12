@@ -1,0 +1,38 @@
+=========
+
+nsubjpass(used-5, Ok-1)
+prep(Ok-1, but-2)
+dep(but-2, i-3)
+auxpass(used-5, was-4)
+root(ROOT-0, used-5)
+prep_to(used-5, HTC-7)
+prep_to(used-5, Samsung-9)
+conj_and(HTC-7, Samsung-9)
+
+=========
+
+dep(miss-3, So-1)
+nsubj(miss-3, i-2)
+root(ROOT-0, miss-3)
+det(couple-5, a-4)
+dobj(miss-3, couple-5)
+prep_of(couple-5, things-7)
+det(product-11, the-10)
+nsubj(good-13, product-11)
+cop(good-13, is-12)
+conj_but(miss-3, good-13)
+
+=========
+
+advmod(think-4, Overall-1)
+nsubj(think-4, i-3)
+root(ROOT-0, think-4)
+det(roduct-6, this-5)
+nsubj(better-8, roduct-6)
+cop(better-8, is-7)
+ccomp(think-4, better-8)
+prep_than(better-8, both-10)
+prep_of(both-10, HTC-12)
+prep_of(both-10, Samsung-14)
+conj_or(HTC-12, Samsung-14)
+

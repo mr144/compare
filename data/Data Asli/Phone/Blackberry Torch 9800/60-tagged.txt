@@ -1,0 +1,7 @@
+Torch_NNP 9800_CD excellent_JJ ._.
+Euro_NNP company_NN purchased_VBD from_IN ._.
+Followed_VBN up_IN to_TO make_VB sure_JJ that_IN Phone_NNP wasreceived_VBD ._.
+Also_RB followed_VBD up_RP a_DT 2nd_NN ._.
+time_NN to_TO check_VB and_CC see_VB if_IN phone_NN was_VBD operating_VBG ok_JJ ._.
+Excellent_JJ serviceafter_NN the_DT sale_NN ._.
+Carlton_NNP Sabo_NNP

@@ -1,0 +1,68 @@
+=========
+
+nsubj(researched-2, I-1)
+root(ROOT-0, researched-2)
+det(TV-4, this-3)
+dobj(researched-2, TV-4)
+nn(Reports-7, Consumer-6)
+prep_with(TV-4, Reports-7)
+num(sites-11, three-9)
+amod(sites-11, other-10)
+prep_with(TV-4, sites-11)
+conj_and(Reports-7, sites-11)
+
+=========
+
+nsubj(looked-2, I-1)
+root(ROOT-0, looked-2)
+prep_at(looked-2, pricing-4)
+det(military-7, the-6)
+prep_with(looked-2, military-7)
+appos(military-7, Best-Buy-9)
+appos(military-7, Crutchfield-11)
+conj_and(Best-Buy-9, Crutchfield-11)
+appos(military-7, Walmart-13)
+conj_and(Best-Buy-9, Walmart-13)
+
+=========
+
+nsubj(had-2, Amazon-1)
+root(ROOT-0, had-2)
+det(price-5, the-3)
+amod(price-5, right-4)
+dobj(had-2, price-5)
+
+=========
+
+det(advantage-3, The-1)
+amod(advantage-3, best-2)
+nsubj(is-4, advantage-3)
+root(ROOT-0, is-4)
+complm(tie-8, that-5)
+nsubj(tie-8, its-6)
+aux(tie-8, can-7)
+ccomp(is-4, tie-8)
+poss(system-12, your-10)
+nn(system-12, wifi-11)
+prep_into(tie-8, system-12)
+amod(others-15, few-14)
+nsubj(can-16, others-15)
+parataxis(is-4, can-16)
+
+=========
+
+nsubj(makes-2, Samsung-1)
+root(ROOT-0, makes-2)
+amod(products-4, great-3)
+dobj(makes-2, products-4)
+
+=========
+
+aux(buy-3, Would-1)
+nsubj(buy-3, I-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, it-4)
+advmod(MOST-7, again-5)
+advmod(buy-3, MOST-7)
+advmod(buy-3, definitely-8)
+

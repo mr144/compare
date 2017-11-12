@@ -1,0 +1,84 @@
+=========
+
+root(ROOT-0, Upgrading-1)
+poss(D7000-6, my-3)
+amod(D7000-6, old-4)
+nn(D7000-6, tank-5)
+prep_from(Upgrading-1, D7000-6)
+predet(camera-11, such-8)
+det(camera-11, a-9)
+amod(camera-11, great-10)
+prep_to(Upgrading-1, camera-11)
+
+=========
+
+det(camera-2, This-1)
+nsubj(works-3, camera-2)
+root(ROOT-0, works-3)
+advmod(works-3, perfectly-4)
+prepc_regarding(works-3, focusing-6)
+det(conditions-12, a-8)
+advmod(bad-10, very-9)
+amod(conditions-12, bad-10)
+nn(conditions-12, light-11)
+prep_in(focusing-6, conditions-12)
+
+=========
+
+det(MP-3, The-1)
+num(MP-3, 24-2)
+nsubj(captures-4, MP-3)
+root(ROOT-0, captures-4)
+det(lot-6, a-5)
+dobj(captures-4, lot-6)
+prep_of(lot-6, details-8)
+
+=========
+
+nsubj(enjoyed-2, I-1)
+root(ROOT-0, enjoyed-2)
+advmod(much-4, too-3)
+advmod(enjoyed-2, much-4)
+det(option-10, the-5)
+number(x-7, 1.3-6)
+num(option-10, x-7)
+amod(option-10, extra-8)
+nn(option-10, cropping-9)
+dobj(enjoyed-2, option-10)
+dep(option-10, works-12)
+det(zoom-16, a-14)
+amod(zoom-16, digital-15)
+prep_as(works-12, zoom-16)
+advmod(zoom-16, actually-17)
+
+=========
+
+csubj(camera-16, Waiting-1)
+det(upgrade-5, a-3)
+amod(upgrade-5, firmware-4)
+prep_for(Waiting-1, upgrade-5)
+aux(fix-7, to-6)
+xcomp(Waiting-1, fix-7)
+det(issuesThis-12, some-8)
+dep(issuesThis-12, minor-10)
+dobj(fix-7, issuesThis-12)
+cop(camera-16, is-13)
+det(camera-16, an-14)
+amod(camera-16, amazing-15)
+root(ROOT-0, camera-16)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, do-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+prep_for(recommend-3, users-6)
+nsubj(want-8, users-6)
+rcmod(users-6, want-8)
+aux(upgrade-10, to-9)
+xcomp(want-8, upgrade-10)
+nn(D7000-14, D90-12)
+prep_from(upgrade-10, D7000-14)
+dobj(want-8, etc-17)
+

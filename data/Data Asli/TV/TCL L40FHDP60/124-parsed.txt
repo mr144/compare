@@ -1,0 +1,79 @@
+=========
+
+nsubj(LCD-5, this-1)
+cop(LCD-5, is-2)
+poss(LCD-5, my-3)
+amod(LCD-5, 3rd-4)
+root(ROOT-0, LCD-5)
+poss(TCL-9, my-7)
+amod(TCL-9, first-8)
+conj_and(LCD-5, TCL-9)
+
+=========
+
+nsubj(tv-5, this-1)
+cop(tv-5, is-2)
+det(tv-5, the-3)
+amod(tv-5, best-4)
+root(ROOT-0, tv-5)
+prep(tv-5, for-6)
+det(buck-8, the-7)
+dep(for-6, buck-8)
+dep(buck-8, ever-9)
+
+=========
+
+mark(want-3, if-1)
+nsubj(want-3, you-2)
+dep(it-15, want-3)
+det(setup-6, an-4)
+amod(setup-6, amazing-5)
+dobj(want-3, setup-6)
+dobj(want-3, picture-8)
+conj_and(setup-6, picture-8)
+dep(want-3, no-10)
+nsubj(it-15, this-12)
+cop(it-15, is-13)
+neg(it-15, not-14)
+root(ROOT-0, it-15)
+
+=========
+
+poss(picture-4, its-1)
+det(picture-4, a-2)
+amod(picture-4, great-3)
+root(ROOT-0, picture-4)
+amod(HD-7, pure-6)
+appos(picture-4, HD-7)
+amod(cost-11, but-9)
+nn(cost-11, dollar-10)
+dep(picture-4, cost-11)
+
+=========
+
+root(ROOT-0, its-1)
+det(best-3, the-2)
+dep(its-1, best-3)
+
+=========
+
+nsubj(had-3, i-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, this-4)
+advmod(year-8, almost-6)
+det(year-8, a-7)
+prep_for(this-4, year-8)
+advmod(year-8, now-9)
+nsubj(done-12, its-11)
+conj_and(had-3, done-12)
+advmod(done-12, well-13)
+
+=========
+
+dep(bucks-3, for-1)
+pobj(for-1, 300-2)
+root(ROOT-0, bucks-3)
+poss(great-6, its-5)
+dep(bucks-3, great-6)
+

@@ -1,0 +1,5 @@
+I_PRP was_VBD able_JJ to_TO watch_VB a_DT single_JJ movie_NN using_VBG amazon_JJ instant_JJ video_NN on_IN Smarthub_NNP ._.
+Next_JJ thing_NN I_PRP know_VBP is_VBZ I_PRP needed_VBD to_TO updated_VBN the_DT device_NN firmware_NN ,_, which_WDT I_PRP did_VBD ._.
+After_IN that_DT ,_, I_PRP lost_VBD most_JJS of_IN the_DT apps_NNS that_WDT were_VBD already_RB downloaded_VBN ._.
+I_PRP re-downloaded_VBD amazon_JJ instant_JJ videos_NNS ,_, but_CC it_PRP does_VBZ not_RB work_VB anymore_RB ._.
+When_WRB I_PRP click_VBP on_IN the_DT instant_JJ video_NN icon_NN ,_, the_DT device_NN freezes_VBZ ,_, does_VBZ not_RB actually_RB run_VB anything_NN ,_, and_CC thirty_CD minutes_NNS or_CC so_RB later_RB ,_, I_PRP have_VBP to_TO turn_VB it_PRP off_RP and_CC on_IN again_RB in_IN order_NN to_TO get_VB out_IN of_IN smarthub_NN ._.

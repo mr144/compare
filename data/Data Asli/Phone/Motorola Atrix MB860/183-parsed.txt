@@ -1,0 +1,106 @@
+=========
+
+nsubj(seem-4, It-1)
+aux(seem-4, does-2)
+neg(seem-4, not-3)
+root(ROOT-0, seem-4)
+mark(origional-9, like-5)
+det(phone-7, this-6)
+nsubj(origional-9, phone-7)
+cop(origional-9, is-8)
+advcl(seem-4, origional-9)
+
+=========
+
+root(ROOT-0, Seems-1)
+det(replica-6, a-3)
+amod(replica-6, high-4)
+nn(replica-6, quality-5)
+prep_like(Seems-1, replica-6)
+nsubjpass(made-9, replica-6)
+auxpass(made-9, is-8)
+rcmod(replica-6, made-9)
+prep_in(made-9, China-11)
+
+=========
+
+nsubj(worked-2, I-1)
+root(ROOT-0, worked-2)
+nn(Solustions-5, Motorola-4)
+prep_for(worked-2, Solustions-5)
+dep(said-17, not-6)
+nsubj(said-17, mobility-7)
+conj_and(mobility-7, none-9)
+nsubj(said-17, none-9)
+det(phones-12, the-11)
+prep_of(mobility-7, phones-12)
+nsubjpass(issued-16, we-13)
+auxpass(issued-16, were-14)
+advmod(issued-16, ever-15)
+rcmod(phones-12, issued-16)
+ccomp(worked-2, said-17)
+dep(said-17, made-18)
+prep_in(made-18, china-20)
+
+=========
+
+det(phone-2, The-1)
+nsubj(have-5, phone-2)
+aux(have-5, does-3)
+neg(have-5, not-4)
+root(ROOT-0, have-5)
+det(reader-8, a-6)
+nn(reader-8, fingerprint-7)
+dobj(have-5, reader-8)
+prep_like(reader-8, advertised-10)
+
+=========
+
+det(phone-2, The-1)
+nsubj(locks-3, phone-2)
+root(ROOT-0, locks-3)
+prt(locks-3, up-4)
+det(seconds-7, every-5)
+num(seconds-7, 10-6)
+dobj(locks-3, seconds-7)
+det(screen-11, the-9)
+nn(screen-11, touch-10)
+nsubj(stops-12, screen-11)
+conj_and(locks-3, stops-12)
+xcomp(stops-12, working-13)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(lock-4, I-1)
+root(ROOT-0, have-2)
+aux(lock-4, to-3)
+xcomp(have-2, lock-4)
+nsubj(unlock-6, then-5)
+ccomp(lock-4, unlock-6)
+det(screen-8, the-7)
+nsubj(continue-10, screen-8)
+aux(continue-10, to-9)
+xcomp(unlock-6, continue-10)
+
+=========
+
+advmod(connect-4, ENsure-1)
+nsubj(connect-4, you-2)
+aux(connect-4, can-3)
+root(ROOT-0, connect-4)
+prep_to(connect-4, wifi-6)
+
+=========
+
+nsubj(use-3, You-1)
+advmod(use-3, cant-2)
+root(ROOT-0, use-3)
+det(phone-5, the-4)
+dobj(use-3, phone-5)
+mark(registered-9, until-6)
+nsubjpass(registered-9, it-7)
+auxpass(registered-9, is-8)
+advcl(use-3, registered-9)
+prep_with(registered-9, Motoblur-11)
+

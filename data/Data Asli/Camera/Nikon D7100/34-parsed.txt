@@ -1,0 +1,40 @@
+=========
+
+det(camera-2, This-1)
+nsubj(perfect-4, camera-2)
+cop(perfect-4, is-3)
+root(ROOT-0, perfect-4)
+dobj(need-8, what-6)
+nsubj(need-8, I-7)
+prepc_for(perfect-4, need-8)
+
+=========
+
+nsubj(chose-2, I-1)
+root(ROOT-0, chose-2)
+nsubj(due-4, it-3)
+xcomp(chose-2, due-4)
+prepc_to(due-4, needing-6)
+aux(upgrade-8, to-7)
+xcomp(needing-6, upgrade-8)
+poss(350d-12, my-10)
+nn(350d-12, canon-11)
+prep_from(upgrade-8, 350d-12)
+
+=========
+
+nsubj(taking-3, It-1)
+aux(taking-3, is-2)
+root(ROOT-0, taking-3)
+det(bit-5, a-4)
+dobj(taking-3, bit-5)
+aux(get-7, to-6)
+infmod(bit-5, get-7)
+ccomp(get-7, used-8)
+xcomp(used-8, to-9)
+cop(upgrade-14, is-11)
+advmod(upgrade-14, definately-12)
+det(upgrade-14, an-13)
+ccomp(get-7, upgrade-14)
+conj_but(used-8, upgrade-14)
+

@@ -1,0 +1,20 @@
+I_PRP replaced_VBD my_PRP$ bedroom_NN Samsung_NNP 2004_CD projection_NN TV_NN with_IN this_DT one_CD ._.
+Both_DT are_VBP 46_CD '_POS screens_NNS ._.
+The_DT old_JJ TV_NN was_VBD getting_VBG a_DT bit_NN faded_VBN and_CC the_DT HDMI_NNP connector_NN was_VBD becoming_VBG loose_JJ which_WDT caused_VBD video_NN noise_NN problems_NNS -LRB-_-LRB- even_RB though_IN I_PRP used_VBD component_NN RGB_NNP -RRB-_-RRB- ._.
+No_DT surprisingly_RB ,_, the_DT differences_NNS we_PRP striking_JJ ._.
+I_PRP also_RB have_VBP a_DT Samsung_NNP 58_CD '_POS Plasma_NNP and_CC Blue-Ray_NNP DVD_NNP player_NN in_IN the_DT living_NN room_NN ._.
+So_RB far_RB ,_, I_PRP judge_VBP the_DT new_JJ bedroom_NN TV_NN to_TO be_VB superior_JJ to_TO the_DT plasma_NN but_CC I_PRP am_VBP using_VBG component_NN connections_NNS for_IN the_DT plasma_NN and_CC ,_, based_VBN on_IN what_WP I_PRP am_VBP seeing_VBG with_IN the_DT HDMI_NNP -LRB-_-LRB- cable_NN box_NN -RRB-_-RRB- connection_NN I_PRP thibnk_VBP I_PRP 'll_MD try_VB that_IN for_IN the_DT plasma_NN too_RB ._.
+Set_NNP up_RB was_VBD relatively_RB simple_JJ ._.
+WPS_NNP worked_VBD properly_RB ._.
+Though_IN the_DT included_JJ owners_NNS guide_NN is_VBZ thorough_JJ ,_, it_PRP is_VBZ written_VBN by_IN a_DT non-English_JJ speaker_NN and_CC that_DT makes_VBZ it_PRP an_DT exercise_NN is_VBZ encryption_NN ._.
+Regardless_RB ,_, I_PRP got_VBD the_DT TV_NN to_TO up_RP what_WP I_PRP assume_VBP was_VBD some_DT kind_NN of_IN firmware_NN -LRB-_-LRB- the_DT on-screen_JJ message_NN did_VBD not_RB define_VB it_PRP -RRB-_-RRB- and_CC add_VB many_JJ Smart_NNP TV_NNP Apps_NNP ._.
+I_PRP also_RB downloaded_VBD the_DT ALLshare_NNP software_NN to_TO my_PRP$ PC_NN ._.
+That_DT was_VBD not_RB a_DT good_JJ experience_NN and_CC despite_IN opting_VBG out_IN of_IN it_PRP ,_, it_PRP added_VBD some_DT kind_NN of_IN toolbar_NN that_WDT overrode_VBD all_DT my_PRP$ preferences_NNS for_IN a_DT home_NN page_NN in_IN favor_NN of_IN some_DT kind_NN of_IN -LRB-_-LRB- White_NNP Snake_NNP ??_NNP -RRB-_-RRB- Search_NNP engine_NN ._.
+That_DT allowed_VBD me_PRP to_TO use_VB Allshare_NNP which_WDT ,_, BTW_NNP ,_, still_RB is_VBZ awful_JJ ._.
+Also_RB ,_, as_IN many_JJ here_RB have_VBP already_RB said_VBN the_DT pick_NN and_CC peck_VB on-screen_JJ keyboard_NN is_VBZ a_DT slow_JJ ,_, frustrating_JJ means_NNS of_IN character_NN entry_NN ._.
+That_DT has_VBZ not_RB changed_VBN in_IN years_NNS !!!_VBP I_PRP have_VBP not_RB tried_VBN to_TO program_VB the_DT remote_JJ so_IN it_PRP operates_VBZ my_PRP$ cable_NN box_NN but_CC I_PRP was_VBD able_JJ to_TO get_VB my_PRP$ cable_NN box_NN remote_JJ to_TO turn_VB the_DT TV_NN on_IN and_CC off_IN ._.
+I_PRP suspect_VBP this_DT will_MD not_RB be_VB a_DT straight-forward_JJ process_NN as_IN my_PRP$ cable_NN box_NN is_VBZ not_RB listed_VBN on_IN their_PRP$ code_NN list_NN ._.
+I_PRP have_VBP a_DT few_JJ wireless_JJ keyboard_NN systems_NNS sitting_VBG around_RB so_IN I_PRP 'll_MD try_VB to_TO use_VB one_CD of_IN them_PRP but_CC I_PRP also_RB know_VBP I_PRP have_VBP a_DT better_JJR chance_NN of_IN winning_VBG the_DT lottery_NN than_IN getting_VBG one_CD to_TO work_VB with_IN the_DT TV_NN ._.
+Samsung_NNP just_RB does_VBZ not_RB get_VB how_WRB angry_JJ many_JJ of_IN its_PRP$ customers_NNS are_VBP about_IN this_DT ._.
+It_PRP needs_VBZ to_TO be_VB addressed_VBN and_CC done_VBN so_IN it_PRP is_VBZ backwardly_RB compatible_JJ ._.
+I_PRP have_VBP only_RB had_VBD the_DT TV_NN 1_CD day_NN so_RB more_JJR to_TO come_VB as_IN it_PRP develops_VBZ ._.

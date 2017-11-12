@@ -1,0 +1,68 @@
+=========
+
+nn(k20D-2, Pentax-1)
+nsubj(k10D-9, k20D-2)
+cop(k10D-9, is-3)
+det(k10D-9, a-4)
+amod(k10D-9, good-5)
+amod(k10D-9, upgrade-6)
+nn(k10D-9, form-7)
+nn(k10D-9, Pentax-8)
+root(ROOT-0, k10D-9)
+
+=========
+
+nsubj(comes-2, Camera-1)
+root(ROOT-0, comes-2)
+det(sensor-10, a-4)
+number(14.6-6, stabilized-5)
+num(CMOS-8, 14.6-6)
+amod(CMOS-8, megapixel-7)
+nn(sensor-10, CMOS-8)
+nn(sensor-10, image-9)
+prep_with(comes-2, sensor-10)
+amod(processing-15, high-12)
+nn(processing-15, quality-13)
+nn(processing-15, image-14)
+prep_with(comes-2, processing-15)
+conj_and(sensor-10, processing-15)
+appos(processing-15, dust-17)
+amod(seals-21, weather-proof-20)
+prep_with(comes-2, seals-21)
+conj_and(sensor-10, seals-21)
+nn(AF-24, 11-point-23)
+conj_and(sensor-10, AF-24)
+conj_and(seals-21, AF-24)
+amod(features-29, more-27)
+nn(features-29, custom-28)
+conj_and(sensor-10, features-29)
+conj_and(seals-21, features-29)
+dobj(need-34, features-29)
+mark(need-34, than-30)
+det(photographer-32, any-31)
+nsubj(need-34, photographer-32)
+aux(need-34, would-33)
+dep(features-29, need-34)
+
+=========
+
+amod(quality-3, Good-1)
+nn(quality-3, image-2)
+nsubj(build-9, quality-3)
+amod(noise-6, low-5)
+appos(quality-3, noise-6)
+amod(quality-3, excellent-8)
+root(ROOT-0, build-9)
+dobj(build-9, quality-10)
+
+=========
+
+nn(D300-2, Nikon-1)
+nsubj(faster-4, D300-2)
+nsubj(expensive-9, D300-2)
+cop(faster-4, is-3)
+root(ROOT-0, faster-4)
+advmod(expensive-9, much-7)
+advmod(expensive-9, more-8)
+conj_but(faster-4, expensive-9)
+

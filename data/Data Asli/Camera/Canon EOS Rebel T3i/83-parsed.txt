@@ -1,0 +1,47 @@
+=========
+
+poss(purposes-3, my-2)
+prep_for(SLR-9, purposes-3)
+nsubj(SLR-9, this-4)
+cop(SLR-9, is-5)
+det(SLR-9, a-6)
+amod(SLR-9, great-7)
+amod(SLR-9, digital-8)
+root(ROOT-0, SLR-9)
+
+=========
+
+nsubj(picked-3, I-1)
+advmod(picked-3, also-2)
+root(ROOT-0, picked-3)
+prt(picked-3, up-4)
+det(lens-7, the-5)
+amod(lens-7, zoom-6)
+dobj(picked-3, lens-7)
+mark(feel-10, so-8)
+nsubj(feel-10, I-9)
+advcl(picked-3, feel-10)
+advmod(fortunate-12, very-11)
+acomp(feel-10, fortunate-12)
+aux(have-14, to-13)
+xcomp(fortunate-12, have-14)
+det(flexibility-16, the-15)
+dobj(have-14, flexibility-16)
+prep(have-14, for-17)
+pcomp(for-17, for-18)
+prep_for(for-17, money-19)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(screen-7, the-3)
+amod(screen-7, fold-4)
+prep_out(fold-4, LED-6)
+dobj(have-2, screen-7)
+nsubj(feature-12, screen-7)
+cop(feature-12, is-9)
+det(feature-12, a-10)
+amod(feature-12, nice-11)
+rcmod(screen-7, feature-12)
+

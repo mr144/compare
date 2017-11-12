@@ -1,0 +1,30 @@
+=========
+
+nsubj(sure-4, I-1)
+cop(sure-4, was-2)
+neg(sure-4, not-3)
+root(ROOT-0, sure-4)
+nsubj(big-8, it-5)
+aux(big-8, would-6)
+cop(big-8, be-7)
+ccomp(sure-4, big-8)
+advmod(big-8, enough-9)
+nsubj(is-12, it-11)
+conj_but(sure-4, is-12)
+det(quality-16, the-14)
+nn(quality-16, picture-15)
+nsubj(great-18, quality-16)
+cop(great-18, is-17)
+conj_and(sure-4, great-18)
+
+=========
+
+nsubj(able-3, I-1)
+cop(able-3, was-2)
+root(ROOT-0, able-3)
+aux(set-5, to-4)
+xcomp(able-3, set-5)
+dobj(set-5, it-6)
+prt(set-5, up-7)
+prep_with(set-5, ease-9)
+

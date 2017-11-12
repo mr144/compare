@@ -1,0 +1,50 @@
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+det(lot-4, a-3)
+dobj(did-2, lot-4)
+prepc_of(lot-4, researching-6)
+prepc_before(researching-6, deciding-8)
+det(model-11, this-10)
+prep_on(deciding-8, model-11)
+expl(are-14, there-13)
+conj_and(did-2, are-14)
+det(regrets-16, no-15)
+nsubj(are-14, regrets-16)
+advmod(far-18, so-17)
+advmod(are-14, far-18)
+
+=========
+
+det(reason-3, The-1)
+amod(reason-3, only-2)
+dobj(did-6, reason-3)
+nsubj(is-12, reason-3)
+complm(did-6, that-4)
+nsubj(did-6, I-5)
+dep(reason-3, did-6)
+neg(rate-8, not-7)
+nsubj(higher-10, rate-8)
+npadvmod(higher-10, it-9)
+xcomp(did-6, higher-10)
+root(ROOT-0, is-12)
+complm(is-16, that-13)
+poss(durability-15, its-14)
+nsubj(is-16, durability-15)
+xsubj(tested-20, durability-15)
+ccomp(is-12, is-16)
+advmod(is-16, yet-17)
+aux(tested-20, to-18)
+auxpass(tested-20, be-19)
+xcomp(is-16, tested-20)
+nsubj(requires-23, that-22)
+ccomp(is-12, requires-23)
+conj_and(is-16, requires-23)
+dobj(requires-23, usage-24)
+prep_over(usage-24, time-26)
+
+=========
+
+root(ROOT-0, Pedro-1)
+

@@ -1,0 +1,23 @@
+=========
+
+mark(said-3, as-1)
+nsubj(said-3, i-2)
+root(ROOT-0, said-3)
+nsubj(broken-6, it-4)
+aux(broken-6, had-5)
+ccomp(said-3, broken-6)
+amod(pins-10, small-7)
+amod(pins-10, golden-8)
+nn(pins-10, color-9)
+dobj(broken-6, pins-10)
+advmod(swiped-14, when-12)
+nsubj(swiped-14, I-13)
+conj_and(said-3, swiped-14)
+poss(card-17, my-15)
+nn(card-17, sim-16)
+dobj(swiped-14, card-17)
+mark(fell-20, in-18)
+nsubj(fell-20, they-19)
+advcl(swiped-14, fell-20)
+prt(fell-20, down-21)
+

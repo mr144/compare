@@ -1,0 +1,8 @@
+This_DT phone_NN -LRB-_-LRB- HTC_NNP Inspire_NNP 4G_NNP Unlocked_NNP Phone_NNP with_IN 3G_NNP Support_NN ,_, 8_CD MP_NNP Camera_NNP ,_, GPS_NNP ,_, Wi-Fi_NNP and_CC Android_NNP OS_NNP -_: Unlocked_NNP Phone_NNP -_: US_NNP Warranty_NNP -_: Black_NNP -RRB-_-RRB- is_VBZ a_DT superstar_NN ._.
+I_PRP feel_VBP good_JJ holding_VBG it_PRP ,_, I_PRP also_RB feel_VBP good_JJ using_VBG it_PRP ._.
+It_PRP is_VBZ the_DT best_JJS phone_NN I_PRP have_VBP ever_RB used_VBN ._.
+The_DT battery_NN life_NN is_VBZ short_JJ but_CC i_FW got_VBD back_RB up_IN batteries_NNS and_CC charger_NN for_IN it_PRP ._.
+Sound_NN quality_NN is_VBZ not_RB the_DT best_JJS but_CC I_PRP can_MD live_VB with_IN that_DT considering_VBG that_IN other_JJ features_NNS on_IN it_PRP make_VB for_IN the_DT shortcomings_NNS ._.
+The_DT `_`` pros_NNS '_'' on_IN this_DT phone_NN is_VBZ more_JJR than_IN the_DT `_`` cons_NNS '_'' considering_VBG the_DT fact_NN that_IN no_DT phone_NN is_VBZ 100_CD %_NN ._.
+I_PRP am_VBP just_RB loving_JJ mine_NN ._.
+Beejay_NNP

@@ -1,0 +1,50 @@
+=========
+
+amod(quality-3, Amazing-1)
+nn(quality-3, picture-2)
+root(ROOT-0, quality-3)
+nn(pleasant-6, Surprisingly-5)
+dep(quality-3, pleasant-6)
+num(effect-8, 3D-7)
+dep(pleasant-6, effect-8)
+
+=========
+
+nsubj(allows-3, Wi-Fi-1)
+advmod(allows-3, connectivity-2)
+root(ROOT-0, allows-3)
+nsubj(watch-6, me-4)
+aux(watch-6, to-5)
+xcomp(allows-3, watch-6)
+dobj(watch-6, 3D-7)
+prepc_without(watch-6, having-9)
+aux(buy-11, to-10)
+xcomp(having-9, buy-11)
+amod(reader-15, new-12)
+dep(new-12, 3D-13)
+nn(reader-15, BlueRay-14)
+dobj(buy-11, reader-15)
+
+=========
+
+predet(this-2, All-1)
+root(ROOT-0, this-2)
+conj_less(this-2, this-2')
+prep_for(this-2, $-4)
+num($-4, 400-5)
+amod(brands-9, other-8)
+prep_than(this-2', brands-9)
+amod(TV-12, similar-11)
+prep_of(this-2, TV-12)
+
+=========
+
+nsubj('s-2, That-1)
+root(ROOT-0, 's-2)
+dobj(call-5, what-3)
+nsubj(call-5, I-4)
+ccomp('s-2, call-5)
+det(DEAL-8, a-6)
+nn(DEAL-8, SUPER-7)
+dobj(call-5, DEAL-8)
+

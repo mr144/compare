@@ -1,0 +1,49 @@
+=========
+
+dobj(say-4, What-1)
+aux(say-4, can-2)
+nsubj(say-4, I-3)
+root(ROOT-0, say-4)
+
+=========
+
+nsubj(great-3, it-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+
+=========
+
+nsubjpass(got-3, it-1)
+auxpass(got-3, is-2)
+root(ROOT-0, got-3)
+det(picture-6, a-4)
+amod(picture-6, good-5)
+dobj(got-3, picture-6)
+dobj(got-3, sound-8)
+conj_and(picture-6, sound-8)
+
+=========
+
+nsubj(arrived-2, It-1)
+root(ROOT-0, arrived-2)
+advmod(arrived-2, quickly-3)
+
+=========
+
+nsubj(annoyed-4, I-1)
+cop(annoyed-4, am-2)
+advmod(annoyed-4, only-3)
+root(ROOT-0, annoyed-4)
+det(process-7, the-5)
+nn(process-7, review-6)
+nsubj(makes-9, process-7)
+advmod(makes-9, here-8)
+ccomp(annoyed-4, makes-9)
+nsubj(write-11, me-10)
+ccomp(makes-9, write-11)
+amod(words-13, more-12)
+dobj(write-11, words-13)
+mark(want-16, than-14)
+nsubj(want-16, I-15)
+advcl(write-11, want-16)
+

@@ -1,0 +1,82 @@
+=========
+
+nsubjpass(said-3, It-1)
+auxpass(said-3, is-2)
+root(ROOT-0, said-3)
+complm(came-6, that-4)
+nsubj(came-6, it-5)
+ccomp(said-3, came-6)
+det(brand-10, the-8)
+amod(brand-10, T-mobile-9)
+prep_for(came-6, brand-10)
+nsubj(was-14, t-13)
+conj_but(said-3, was-14)
+neg(was-14, not-15)
+prep_like(was-14, that-17)
+poss(case-20, my-19)
+prep_in(that-17, case-20)
+
+=========
+
+nsubj(hoping-3, I-1)
+aux(hoping-3, was-2)
+root(ROOT-0, hoping-3)
+nsubj(had-5, it-4)
+ccomp(hoping-3, had-5)
+det(bands-7, the-6)
+nsubj(unlocked-8, bands-7)
+dep(had-5, unlocked-8)
+prep_for(unlocked-8, T-Mobile-10)
+det(one-14, the-12)
+amod(one-14, only-13)
+appos(T-Mobile-10, one-14)
+nsubj(works-16, that-15)
+ccomp(one-14, works-16)
+prep_in(works-16, 3G-18)
+advmod(works-16, here-19)
+prep_in(works-16, Venezuela-21)
+prep_for(Venezuela-21, DIGITEL-23)
+nsubj(came-27, it-26)
+dep(had-5, came-27)
+conj_and(unlocked-8, came-27)
+amod(brand-30, different-29)
+prep_with(came-27, brand-30)
+
+=========
+
+nsubj(PLEASED-2, NOT-1)
+root(ROOT-0, PLEASED-2)
+prep_with(PLEASED-2, that-4)
+
+=========
+
+amod(time-2, Next-1)
+nsubj(put-5, time-2)
+advmod(time-2, at-3)
+pobj(at-3, least-4)
+root(ROOT-0, put-5)
+det(expecifications-8, the-7)
+prep_on(put-5, expecifications-8)
+det(products-11, the-10)
+prep_of(expecifications-8, products-11)
+det(BANDS-13, the-12)
+dobj(put-5, BANDS-13)
+prep_with(works-16, BANDS-13)
+det(mobile-15, the-14)
+nsubj(works-16, mobile-15)
+rcmod(BANDS-13, works-16)
+
+=========
+
+dep(decide-5, So-1)
+advmod(decide-5, at-2)
+pobj(at-2, least-3)
+nsubj(decide-5, one-4)
+xsubj(buy-7, one-4)
+root(ROOT-0, decide-5)
+aux(buy-7, to-6)
+xcomp(decide-5, buy-7)
+dep(buy-7, it-8)
+dep(it-8, or-9)
+neg(it-8, not-10)
+

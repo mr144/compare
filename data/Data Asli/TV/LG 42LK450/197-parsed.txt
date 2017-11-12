@@ -1,0 +1,37 @@
+=========
+
+amod(quality-3, Great-1)
+nn(quality-3, picture-2)
+nsubj(good-8, quality-3)
+appos(quality-3, sound-5)
+cop(good-8, is-6)
+advmod(good-8, very-7)
+root(ROOT-0, good-8)
+
+=========
+
+advmod(easy-2, Very-1)
+root(ROOT-0, easy-2)
+aux(assemble-4, to-3)
+dep(easy-2, assemble-4)
+
+=========
+
+root(ROOT-0, great-1)
+poss(picture-6, my-3)
+nn(picture-6, PS3-4)
+amod(picture-6, nice-5)
+prep_for(great-1, picture-6)
+
+=========
+
+det(price-2, The-1)
+nsubj(right-4, price-2)
+cop(right-4, is-3)
+root(ROOT-0, right-4)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

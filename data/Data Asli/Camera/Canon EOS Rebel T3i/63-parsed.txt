@@ -1,0 +1,28 @@
+=========
+
+advmod(getting-2, Just-1)
+root(ROOT-0, getting-2)
+prep_into(getting-2, photography-4)
+
+=========
+
+aux(ask-3, Could-1)
+neg(ask-3, not-2)
+root(ROOT-0, ask-3)
+det(camera-8, a-5)
+amod(camera-8, better-6)
+amod(camera-8, start-up-7)
+prep_for(ask-3, camera-8)
+
+=========
+
+amod(durable-2, Very-1)
+root(ROOT-0, durable-2)
+conj_and(durable-2, lots-4)
+prep_of(durable-2, options-6)
+aux(choose-8, to-7)
+infmod(durable-2, choose-8)
+dobj(choose-8, form-9)
+amod(mode-12, manual-11)
+prep_in(choose-8, mode-12)
+

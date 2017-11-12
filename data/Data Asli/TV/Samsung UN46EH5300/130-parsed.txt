@@ -1,0 +1,58 @@
+=========
+
+det(tv-2, This-1)
+nsubj(great-4, tv-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+nn(built-in-4, Internet-3)
+dobj(has-2, built-in-4)
+
+=========
+
+det(size-2, The-1)
+nsubj(right-5, size-2)
+cop(right-5, is-3)
+advmod(right-5, just-4)
+root(ROOT-0, right-5)
+det(bedroom-8, a-7)
+prep_for(right-5, bedroom-8)
+
+=========
+
+det(drawback-3, The-1)
+amod(drawback-3, only-2)
+nsubj(is-4, drawback-3)
+root(ROOT-0, is-4)
+nsubjpass(advertised-7, it-5)
+auxpass(advertised-7, is-6)
+ccomp(is-4, advertised-7)
+prepc_as(advertised-7, having-9)
+det(built-in-14, a-10)
+amod(built-in-14, Direct-11)
+nn(built-in-14, TV-12)
+nn(built-in-14, tuner-13)
+dobj(having-9, built-in-14)
+nsubj(need-18, you-16)
+advmod(need-18, still-17)
+conj_but(is-4, need-18)
+dobj(need-18, equipment-19)
+det(wall-22, the-21)
+prep_between(need-18, wall-22)
+det(tv-25, the-24)
+prep_between(need-18, tv-25)
+conj_and(wall-22, tv-25)
+neg(sure-28, not-27)
+dep(need-18, sure-28)
+advmod(use-32, where-29)
+nsubj(use-32, you-30)
+aux(use-32, would-31)
+ccomp(sure-28, use-32)
+det(tuner-35, the-33)
+amod(tuner-35, built-in-34)
+dobj(use-32, tuner-35)
+

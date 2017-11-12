@@ -1,0 +1,112 @@
+=========
+
+nsubj(want-14, Trust-1)
+dep(Trust-1, me-2)
+mark(user-9, if-4)
+nsubj(user-9, you-5)
+cop(user-9, are-6)
+det(user-9, an-7)
+nn(user-9, ATT-8)
+advcl(want-14, user-9)
+nsubj(want-14, you-11)
+aux(want-14, do-12)
+neg(want-14, not-13)
+root(ROOT-0, want-14)
+det(phone-16, this-15)
+dobj(want-14, phone-16)
+
+=========
+
+nsubj(claims-2, It-1)
+xsubj(unlocked-5, It-1)
+root(ROOT-0, claims-2)
+aux(unlocked-5, to-3)
+cop(unlocked-5, be-4)
+xcomp(claims-2, unlocked-5)
+advmod(work-12, actually-8)
+nsubj(work-12, it-9)
+aux(work-12, does-10)
+neg(work-12, not-11)
+conj_but(claims-2, work-12)
+nn(service-16, ATT-14)
+nn(service-16, data-15)
+prep_for(work-12, service-16)
+
+=========
+
+nsubj(means-2, Which-1)
+root(ROOT-0, means-2)
+nsubj(connect-6, you-3)
+dep(you-3, the-4)
+neg(connect-6, not-5)
+ccomp(means-2, connect-6)
+det(internet-9, the-8)
+prep_to(connect-6, internet-9)
+mark(using-11, unless-10)
+advcl(connect-6, using-11)
+dobj(using-11, wi-fi-12)
+nsubj(have-15, I-14)
+xsubj(say-17, I-14)
+parataxis(means-2, have-15)
+aux(say-17, to-16)
+xcomp(have-15, say-17)
+nsubj(phone-22, it-18)
+cop(phone-22, is-19)
+det(phone-22, a-20)
+amod(phone-22, beautiful-21)
+dep(say-17, phone-22)
+amod(design-25, elegant-24)
+appos(phone-22, design-25)
+nsubj(love-29, I-27)
+advmod(love-29, really-28)
+dep(say-17, love-29)
+conj_and(phone-22, love-29)
+det(look-31, the-30)
+dobj(love-29, look-31)
+
+=========
+
+cc(is-4, But-1)
+det(problem-3, the-2)
+nsubj(is-4, problem-3)
+root(ROOT-0, is-4)
+nsubj(work-8, it-5)
+aux(work-8, does-6)
+neg(work-8, not-7)
+ccomp(is-4, work-8)
+amod(carrier-11, eh-10)
+prep_with(work-8, carrier-11)
+
+=========
+
+nsubj(frustrated-4, I-1)
+cop(frustrated-4, am-2)
+advmod(frustrated-4, so-3)
+root(ROOT-0, frustrated-4)
+
+=========
+
+nsubj(think-3, I-1)
+advmod(think-3, really-2)
+root(ROOT-0, think-3)
+nsubj(notify-6, Amazon-4)
+aux(notify-6, should-5)
+ccomp(think-3, notify-6)
+det(customers-8, the-7)
+dobj(notify-6, customers-8)
+det(issue-12, this-10)
+amod(issue-12, serious-11)
+prep_about(notify-6, issue-12)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(options-4, no-3)
+dobj(have-2, options-4)
+aux(return-7, to-6)
+dobj(have-2, return-7)
+conj_but(options-4, return-7)
+infmod(options-4, return-7)
+dobj(return-7, it-8)
+

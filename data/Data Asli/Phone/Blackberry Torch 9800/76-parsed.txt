@@ -1,0 +1,35 @@
+=========
+
+nsubjpass(satisfied-3, I-1)
+auxpass(satisfied-3, am-2)
+root(ROOT-0, satisfied-3)
+prep_with(satisfied-3, this-5)
+
+=========
+
+amod(condition-2, excellent-1)
+root(ROOT-0, condition-2)
+appos(condition-2, applications-4)
+appos(condition-2, all-6)
+amod(order-10, perfect-8)
+amod(order-10, working-9)
+prep_in(all-6, order-10)
+nsubj(recommend-14, I-12)
+advmod(recommend-14, highly-13)
+dep(condition-2, recommend-14)
+dobj(recommend-14, it-15)
+
+=========
+
+cop(phone-4, is-1)
+det(phone-4, a-2)
+amod(phone-4, sensitive-3)
+root(ROOT-0, phone-4)
+
+=========
+
+root(ROOT-0, works-1)
+prep_with(works-1, 190Mhz-3)
+nn(Venezuela-5, Movistar-4)
+nsubj(works-1, Venezuela-5)
+

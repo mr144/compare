@@ -1,0 +1,108 @@
+=========
+
+nsubj(arrived-2, VT50-1)
+root(ROOT-0, arrived-2)
+prep_from(arrived-2, Amazon-4)
+amod(condition-7, perfect-6)
+prep_in(arrived-2, condition-7)
+
+=========
+
+nsubj(delivered-2, Driver-1)
+nsubj(unboxed-9, Driver-1)
+nsubj(demonstrated-12, Driver-1)
+root(ROOT-0, delivered-2)
+dobj(delivered-2, it-3)
+poss(room-7, my-5)
+nn(room-7, media-6)
+prep_to(delivered-2, room-7)
+conj_and(delivered-2, unboxed-9)
+dobj(unboxed-9, it-10)
+conj_and(delivered-2, demonstrated-12)
+amod(function-14, proper-13)
+dobj(demonstrated-12, function-14)
+
+=========
+
+nsubj(dialed-2, I-1)
+root(ROOT-0, dialed-2)
+det(picture-6, a-4)
+nn(picture-6, custom-5)
+prep_in(dialed-2, picture-6)
+xcomp(dialed-2, setting-7)
+dep(setting-7, using-8)
+nn(settings-10, calibration-9)
+dobj(using-8, settings-10)
+dobj(found-12, settings-10)
+nsubj(found-12, I-11)
+rcmod(settings-10, found-12)
+prep(found-12, online-13)
+advmod(using-8, then-15)
+dep(using-8, tweaked-16)
+poss(preference-19, my-18)
+prep_to(tweaked-16, preference-19)
+
+=========
+
+nn(options-3, THX-1)
+nn(options-3, picture-2)
+nsubj(good-6, options-3)
+cop(good-6, are-4)
+advmod(good-6, very-5)
+root(ROOT-0, good-6)
+advmod(good-6, too-7)
+advmod(good-6, right-9)
+det(box-13, the-12)
+prep_out_of(good-6, box-13)
+
+=========
+
+nsubj(have-3, I-1)
+aux(have-3, will-2)
+root(ROOT-0, have-3)
+det(calibration-6, a-4)
+amod(calibration-6, professional-5)
+dobj(have-3, calibration-6)
+partmod(calibration-6, performed-7)
+advmod(passed-14, when-8)
+det(period-12, a-9)
+amod(period-12, reasonable-10)
+amod(period-12, break-in-11)
+nsubj(passed-14, period-12)
+aux(passed-14, has-13)
+advcl(performed-7, passed-14)
+mark(capable-20, because-16)
+det(set-18, this-17)
+nsubj(capable-20, set-18)
+cop(capable-20, is-19)
+advcl(have-3, capable-20)
+prepc_of(capable-20, producing-22)
+det(picture-25, the-23)
+amod(picture-25, best-24)
+dobj(producing-22, picture-25)
+advmod(available-27, currently-26)
+amod(picture-25, available-27)
+
+=========
+
+amod(audio-2, Bluetooth-1)
+nsubj(feature-11, audio-2)
+det(pair-5, a-4)
+prep_to(audio-2, pair-5)
+prep_of(pair-5, headphones-7)
+cop(feature-11, is-8)
+det(feature-11, a-9)
+amod(feature-11, great-10)
+root(ROOT-0, feature-11)
+amod(viewing-14, late-night-13)
+prep_for(feature-11, viewing-14)
+mark(asleep-18, while-15)
+nsubj(asleep-18, others-16)
+cop(asleep-18, are-17)
+advcl(feature-11, asleep-18)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

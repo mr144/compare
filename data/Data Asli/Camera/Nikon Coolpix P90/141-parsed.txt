@@ -1,0 +1,36 @@
+=========
+
+amod(combination-2, Fantastic-1)
+nsubj(make-6, combination-2)
+nn(options-5, setting-4)
+prep_of(combination-2, options-5)
+root(ROOT-0, make-6)
+det(camera-8, this-7)
+nsubj(choice-12, camera-8)
+det(choice-12, a-9)
+advmod(good-11, very-10)
+amod(choice-12, good-11)
+xcomp(make-6, choice-12)
+prep_to(choice-12, people-14)
+nsubj(loves-16, people-14)
+nsubj(want-22, people-14)
+rcmod(people-14, loves-16)
+nn(photos-18, quality-17)
+dobj(loves-16, photos-18)
+aux(want-22, do-20)
+neg(want-22, not-21)
+rcmod(people-14, want-22)
+conj_but(loves-16, want-22)
+det(camera-25, a-23)
+amod(camera-25, professional-24)
+dobj(want-22, camera-25)
+
+=========
+
+advmod(good-2, Very-1)
+amod(skin-3, good-2)
+nsubj(capture-4, skin-3)
+root(ROOT-0, capture-4)
+nn(mode-7, portrait-6)
+prep_on(capture-4, mode-7)
+

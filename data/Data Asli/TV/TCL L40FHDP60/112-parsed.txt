@@ -1,0 +1,31 @@
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(TCL-7, this-6)
+prep_with(happy-4, TCL-7)
+
+=========
+
+aux(heard-3, Had-1)
+neg(heard-3, not-2)
+root(ROOT-0, heard-3)
+det(brand-7, the-5)
+nn(brand-7, TCL-6)
+prep_of(heard-3, brand-7)
+
+=========
+
+cc(great-5, But-1)
+det(TV-3, the-2)
+nsubj(great-5, TV-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+advmod(great-5, especially-7)
+num(delivery-12, $-9)
+number($-9, 359.00-10)
+number($-9, FAST-11)
+prep_for(great-5, delivery-12)
+

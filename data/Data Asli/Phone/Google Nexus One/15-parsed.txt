@@ -1,0 +1,144 @@
+=========
+
+nsubj(feel-2, I-1)
+root(ROOT-0, feel-2)
+poss(loss-4, your-3)
+dobj(feel-2, loss-4)
+mark(buy-9, if-5)
+nsubj(buy-9, you-6)
+aux(buy-9, did-7)
+neg(buy-9, not-8)
+advcl(feel-2, buy-9)
+dobj(buy-9, it-10)
+prep_from(buy-9, Google-12)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+poss(one-5, my-3)
+amod(one-5, first-4)
+dobj(bought-2, one-5)
+prep_from(bought-2, Google-7)
+
+=========
+
+nsubj(had-3, I-1)
+advmod(had-3, recently-2)
+root(ROOT-0, had-3)
+det(couple-5, a-4)
+dobj(had-3, couple-5)
+amod(scare-9, Wi-Fi-7)
+nn(scare-9, errors-8)
+prep_of(couple-5, scare-9)
+
+=========
+
+nsubj(bought-3, I-2)
+nsubj(love-11, I-2)
+root(ROOT-0, bought-3)
+det(X-7, an-4)
+nn(X-7, HTC-5)
+num(X-7, One-6)
+dobj(bought-3, X-7)
+aux(love-11, could-9)
+neg(love-11, not-10)
+conj_but(bought-3, love-11)
+dobj(love-11, it-12)
+
+=========
+
+det(phone-2, the-1)
+nsubj(better-4, phone-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+nn(phone-17, torch-6)
+conj_or(torch-6, iphone-8)
+nn(phone-17, iphone-8)
+conj_or(torch-6, curve-10)
+nn(phone-17, curve-10)
+conj_or(torch-6, xperia-12)
+nn(phone-17, xperia-12)
+conj_or(torch-6, LG-14)
+nn(phone-17, LG-14)
+conj_or(torch-6, Samsung-16)
+nn(phone-17, Samsung-16)
+prep_than(better-4, phone-17)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(Nexus-4, another-3)
+dobj(bought-2, Nexus-4)
+num(Nexus-4, One-5)
+poss(Electronics-9, Fry-7)
+prep_from(bought-2, Electronics-9)
+
+=========
+
+det(screen-2, The-1)
+nsubj(bad-4, screen-2)
+cop(bad-4, was-3)
+root(ROOT-0, bad-4)
+amod(light-7, bright-6)
+parataxis(bad-4, light-7)
+dep(light-7, at-8)
+det(corner-12, the-9)
+amod(corner-12, bottom-10)
+amod(corner-12, left-hand-11)
+pobj(at-8, corner-12)
+
+=========
+
+root(ROOT-0, Exchanged-1)
+dobj(Exchanged-1, it-2)
+det(one-5, another-4)
+prep_for(Exchanged-1, one-5)
+
+=========
+
+det(one-3, The-1)
+amod(one-3, second-2)
+nsubjpass(flashed-5, one-3)
+auxpass(flashed-5, was-4)
+root(ROOT-0, flashed-5)
+det(OS-8, an-7)
+prep_with(flashed-5, OS-8)
+amod(characters-11, Asiatic-10)
+prep_with(flashed-5, characters-11)
+
+=========
+
+nsubj(appeared-7, ?!?-2)
+xsubj(returns\/refurbished-10, ?!?-2)
+advmod(appeared-7, Nevertheless-4)
+dep(of-6, both-5)
+advmod(appeared-7, of-6)
+root(ROOT-0, appeared-7)
+aux(returns\/refurbished-10, to-8)
+auxpass(returns\/refurbished-10, be-9)
+xcomp(appeared-7, returns\/refurbished-10)
+
+=========
+
+nsubj(tried-3, Fry-1)
+xsubj(sell-5, Fry-1)
+possessive(Fry-1, 's-2)
+root(ROOT-0, tried-3)
+aux(sell-5, to-4)
+xcomp(tried-3, sell-5)
+nsubj(new-8, them-6)
+advmod(new-8, as-7)
+xcomp(sell-5, new-8)
+
+=========
+
+poss(buyers-3, Fry-1)
+nsubj(need-4, buyers-3)
+xsubj(spanked-7, buyers-3)
+root(ROOT-0, need-4)
+aux(spanked-7, to-5)
+auxpass(spanked-7, be-6)
+xcomp(need-4, spanked-7)
+

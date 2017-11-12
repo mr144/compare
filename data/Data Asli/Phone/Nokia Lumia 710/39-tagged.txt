@@ -1,0 +1,4 @@
+The_DT Drive_NNP GPS_NNP app_NN is_VBZ much_RB more_JJR than_IN I_PRP expected_VBD from_IN preinstalled_VBN software_NN ._.
+It_PRP has_VBZ day\/night_JJ mode_NN ,_, a_DT good_JJ selection_NN of_IN voices_NNS ,_, and_CC speed_NN alerts_VBZ ._.
+Plus_CC the_DT maps_NNS are_VBP downloaded_VBN to_TO the_DT phone_NN so_IN you_PRP never_RB have_VBP to_TO wait_VB for_IN them_PRP to_TO load_VB ._.
+It_PRP

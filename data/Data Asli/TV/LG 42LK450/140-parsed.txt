@@ -1,0 +1,36 @@
+=========
+
+amod(buying-2, Excellent-1)
+nsubj(experience-3, buying-2)
+xsubj(finish-7, buying-2)
+root(ROOT-0, experience-3)
+prep_from(experience-3, start-5)
+aux(finish-7, to-6)
+xcomp(experience-3, finish-7)
+
+=========
+
+dep(competitive-3, Price-1)
+advmod(competitive-3, very-2)
+root(ROOT-0, competitive-3)
+
+=========
+
+root(ROOT-0, Love-1)
+det(TV-4, the-2)
+amod(TV-4, new-3)
+dobj(Love-1, TV-4)
+
+=========
+
+nsubj(setup-3, Very-1)
+nsubj(use-5, Very-1)
+advmod(setup-3, easy-2)
+root(ROOT-0, setup-3)
+conj_and(setup-3, use-5)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+

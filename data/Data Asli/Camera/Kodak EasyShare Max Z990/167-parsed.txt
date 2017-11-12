@@ -1,0 +1,247 @@
+=========
+
+det(camera-2, This-1)
+nsubj(good-5, camera-2)
+cop(good-5, is-3)
+advmod(good-5, pretty-4)
+root(ROOT-0, good-5)
+
+=========
+
+nsubj(seen-3, I-1)
+aux(seen-3, have-2)
+root(ROOT-0, seen-3)
+nsubj(complain-5, people-4)
+ccomp(seen-3, complain-5)
+det(menus-8, the-7)
+prep_about(complain-5, menus-8)
+nsubj(bad-15, they-10)
+aux(bad-15, do-11)
+neg(bad-15, not-12)
+cop(bad-15, seem-13)
+advmod(bad-15, too-14)
+conj_but(seen-3, bad-15)
+aux(navigate-17, to-16)
+xcomp(bad-15, navigate-17)
+det(one-20, the-19)
+nsubj(intensive-26, one-20)
+poss(DSLR-23, my-22)
+prep_on(one-20, DSLR-23)
+cop(intensive-26, is-24)
+advmod(intensive-26, rather-25)
+parataxis(navigate-17, intensive-26)
+prep(intensive-26, as-27)
+pcomp(as-27, well-28)
+
+=========
+
+nsubj(use-2, I-1)
+nsubj(use-9, I-1)
+root(ROOT-0, use-2)
+dobj(use-2, it-3)
+advmod(use-2, mostly-4)
+det(display-7, the-6)
+prep_without(use-2, display-7)
+conj_and(use-2, use-9)
+det(viewfinder-11, the-10)
+dobj(use-9, viewfinder-11)
+
+=========
+
+prep(have-5, For-1)
+pobj(For-1, now-2)
+nsubj(have-5, I-3)
+advmod(have-5, just-4)
+root(ROOT-0, have-5)
+amod(batteries-8, regular-6)
+nn(batteries-8, lithium-7)
+dobj(have-5, batteries-8)
+prep_in(batteries-8, it-10)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+det(zoom-2, The-1)
+nsubj(easy-4, zoom-2)
+cop(easy-4, is-3)
+root(ROOT-0, easy-4)
+aux(use-6, to-5)
+xcomp(easy-4, use-6)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(pics-3, great-2)
+dobj(Takes-1, pics-3)
+amod(light-6, low-5)
+prep_with(Takes-1, light-6)
+
+=========
+
+nsubj(updated-2, I-1)
+root(ROOT-0, updated-2)
+det(firmware-4, the-3)
+dobj(updated-2, firmware-4)
+det(file-8, the-6)
+amod(file-8, only-7)
+prep_with(updated-2, file-8)
+dobj(find-11, file-8)
+nsubj(find-11, I-9)
+aux(find-11, could-10)
+rcmod(file-8, find-11)
+
+=========
+
+nsubj(Version-3, This-1)
+cop(Version-3, was-2)
+root(ROOT-0, Version-3)
+num(Version-3, 1.12-4)
+nn(date-7, release-6)
+appos(Version-3, date-7)
+dep(date-7, 2011-11-8)
+
+=========
+
+dobj(said-3, All-1)
+nsubj(was-4, All-1)
+nsubj(said-3, it-2)
+rcmod(All-1, said-3)
+root(ROOT-0, was-4)
+det(version-9, This-7)
+amod(version-9, firmware-8)
+nsubj(addresses-10, version-9)
+ccomp(was-4, addresses-10)
+det(issue-12, an-11)
+dobj(addresses-10, issue-12)
+nsubj(cause-15, issue-12)
+aux(cause-15, may-14)
+rcmod(issue-12, cause-15)
+amod(display-17, incorrect-16)
+dobj(cause-15, display-17)
+det(time-20, the-19)
+prep_of(display-17, time-20)
+
+=========
+
+cop(one-4, Is-1)
+nsubj(one-4, this-2)
+det(one-4, the-3)
+root(ROOT-0, one-4)
+nsubjpass(supposed-7, one-4)
+auxpass(supposed-7, 's-6)
+rcmod(one-4, supposed-7)
+aux(speed-9, to-8)
+xcomp(supposed-7, speed-9)
+prt(speed-9, up-10)
+det(picture-12, the-11)
+dobj(speed-9, picture-12)
+partmod(picture-12, taking-13)
+amod(time-16, process\/picture-14)
+nn(time-16, saving-15)
+dobj(taking-13, time-16)
+
+=========
+
+nsubj(seem-5, Pics-1)
+xsubj(go-7, Pics-1)
+det(flash-4, the-3)
+prep_without(Pics-1, flash-4)
+root(ROOT-0, seem-5)
+aux(go-7, to-6)
+xcomp(seem-5, go-7)
+advmod(go-7, faster-8)
+nsubj(know-11, I-10)
+conj_and(seem-5, know-11)
+prepc_about(know-11, holding-13)
+det(button-16, the-14)
+nn(button-16, shutter-15)
+dobj(holding-13, button-16)
+advmod(holding-13, halfway-17)
+advmod(holding-13, down-18)
+
+=========
+
+cc(seem-4, But-1)
+nn(pics-3, flash-2)
+nsubj(seem-4, pics-3)
+xsubj(take-7, pics-3)
+root(ROOT-0, seem-4)
+aux(take-7, to-5)
+advmod(take-7, still-6)
+xcomp(seem-4, take-7)
+det(time-10, a-8)
+amod(time-10, long-9)
+dobj(take-7, time-10)
+prep_to(take-7, process-12)
+
+=========
+
+nsubj(tried-5, I-1)
+aux(tried-5, have-2)
+neg(tried-5, not-3)
+advmod(tried-5, yet-4)
+root(ROOT-0, tried-5)
+det(card-8, a-6)
+amod(card-8, better-7)
+dobj(tried-5, card-8)
+
+=========
+
+det(suggestions-2, Any-1)
+root(ROOT-0, suggestions-2)
+
+=========
+
+cc(heavy-9, And-1)
+nsubj(say-5, people-3)
+prep_to(heavy-9, people-3)
+rcmod(people-3, say-5)
+nsubj(heavy-9, it-6)
+cop(heavy-9, is-7)
+advmod(heavy-9, too-8)
+root(ROOT-0, heavy-9)
+dep(heavy-9, did-11)
+nsubj(check-13, you-12)
+ccomp(did-11, check-13)
+dobj(check-13, it-14)
+prt(check-13, out-15)
+mark(bought-18, before-16)
+nsubj(bought-18, you-17)
+advcl(check-13, bought-18)
+dobj(bought-18, it-19)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(light-6, it-3)
+cop(light-6, is-4)
+advmod(light-6, very-5)
+ccomp(think-2, light-6)
+
+=========
+
+prep_considering(had-10, I-2)
+partmod(I-2, updated-3)
+det(MP-6, a-4)
+num(MP-6, 3.1-5)
+dobj(updated-3, MP-6)
+prep_from(updated-3, 2002-8)
+nsubj(had-10, I-9)
+root(ROOT-0, had-10)
+dobj(had-10, no-11)
+advmod(go-14, where-12)
+aux(go-14, to-13)
+xcomp(had-10, go-14)
+advmod(up-16, but-15)
+advmod(go-14, up-16)
+
+=========
+
+amod(camera-3, Good-1)
+amod(camera-3, overall-2)
+root(ROOT-0, camera-3)
+det(price-6, the-5)
+prep_for(camera-3, price-6)
+

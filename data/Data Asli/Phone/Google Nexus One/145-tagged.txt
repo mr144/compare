@@ -1,0 +1,9 @@
+I_PRP have_VBP owned_VBN my_PRP$ Nexus_NNP One_CD for_IN 5_CD months_NNS now_RB ,_, pretty_RB much_RB since_IN it_PRP came_VBD out_RP ._.
+I_PRP had_VBD mixed_VBN feelings_NNS about_IN it_PRP initially_RB ,_, mostly_RB due_JJ to_TO the_DT complicated_JJ workarounds_NNS that_WDT were_VBD necessary_JJ to_TO get_VB its_PRP$ calender_NN to_TO sync_NN with_IN an_DT Exchange_NNP server_NN ,_, and_CC the_DT 3G_NNP issues_NNS that_WDT were_VBD widespread_JJ initially_RB ._.
+But_CC I_PRP decided_VBD to_TO put_VB up_RP with_IN its_PRP$ shortcomings_NNS ,_, because_IN I_PRP saw_VBD there_EX was_VBD upside_RB potential_JJ ._.
+I_PRP recently_RB upgraded_VBD to_TO Android_NNP 2.2_CD Froyo_NNP ,_, which_WDT finally_RB made_VBD the_DT Nexus_NNP One_CD the_DT best_JJS phone_NN it_PRP can_MD be_VB ._.
+The_DT performance_NN and_CC UI_NNP responsiveness_NN that_WDT was_VBD already_RB good_JJ is_VBZ now_RB even_RB better_RBR ,_, many_JJ many_JJ basic_JJ software_NN issues_NNS were_VBD resolved_VBN ,_, including_VBG tethering_VBG ,_, better_JJR Exchange_NNP support_NN ,_, an_DT improved_VBN email_NN client_NN ,_, a_DT redesigned_VBN car_NN app_NN ,_, and_CC much_RB more_JJR ._.
+I_PRP love_VBP this_DT phone_NN and_CC my_PRP$ next_JJ phone_NN will_MD also_RB be_VB an_DT Android_JJ phone_NN ._.
+I_PRP hope_VBP I_PRP will_MD not_RB need_VB a_DT next_JJ phone_NN for_IN many_JJ years_NNS ,_, though_RB ._.
+And_CC yes_RB ,_, there_EX are_VBP still_RB some_DT minor_JJ things_NNS that_WDT can_MD be_VB improved_VBN ,_, like_IN better_JJR readability_NN in_IN direct_JJ sunlight_NN ,_, or_CC better_JJR battery_NN life_NN ._.
+Based_VBN on_IN what_WP is_VBZ technically_RB possible_JJ today_NN and_CC what_WP the_DT market_NN has_VBZ to_TO offer_VB in_IN terms_NNS of_IN alternatives_NNS ,_, I_PRP recommend_VBP this_DT phone_NN unconditionally_RB ._.

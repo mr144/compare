@@ -1,0 +1,4 @@
+great_JJ style_NN ..._: great_JJ performance_NN ..._: great_JJ comfort_NN ..._: great_JJ features_NNS ..._: Good_JJ phone_NN to_TO go_VB with_IN ._.
+this_DT is_VBZ the_DT best_JJS smartphone_NN ._.
+MOTOBLUR_NNP makes_VBZ life_NN simple_NN ._.
+!!!!_NN

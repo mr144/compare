@@ -1,0 +1,98 @@
+=========
+
+advmod(got-2, Just-1)
+root(ROOT-0, got-2)
+nn(TV-4, yhe-3)
+dobj(got-2, TV-4)
+tmod(got-2, yesterday-5)
+auxpass(amazed-8, was-7)
+conj_and(got-2, amazed-8)
+det(look-14, the-10)
+nn(look-14, feel-11)
+conj_and(feel-11, quality-13)
+nn(look-14, quality-13)
+prep_at(amazed-8, look-14)
+det(unit-17, the-16)
+prep_of(look-14, unit-17)
+
+=========
+
+nsubj(is-2, Base-1)
+root(ROOT-0, is-2)
+advmod(made-4, actually-3)
+dep(is-2, made-4)
+amod(glass-7, thick-6)
+prep_of(made-4, glass-7)
+advmod(heavy-10, very-9)
+dep(is-2, heavy-10)
+conj_and(made-4, heavy-10)
+
+=========
+
+nsubj(breeze-4, Setup-1)
+cop(breeze-4, was-2)
+det(breeze-4, a-3)
+root(ROOT-0, breeze-4)
+det(picture-7, the-6)
+nsubj(good-12, picture-7)
+cop(good-12, is-8)
+det(bit-10, every-9)
+dep(good-12, bit-10)
+advmod(good-12, as-11)
+conj_and(breeze-4, good-12)
+poss(Samsung-17, my-14)
+num(Samsung-17, 46-15)
+nn(Samsung-17, inch-16)
+prep_as(good-12, Samsung-17)
+
+=========
+
+nsubj(TV-5, It-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+nn(TV-5, bedroom-4)
+root(ROOT-0, TV-5)
+prep_for(TV-5, me-7)
+nsubj(hook-11, I-9)
+advmod(hook-11, only-10)
+conj_and(TV-5, hook-11)
+prt(hook-11, up-12)
+num(cable-15, one-13)
+nn(cable-15, hdmi-14)
+dobj(hook-11, cable-15)
+poss(satelite-19, my-17)
+nn(satelite-19, Dish-18)
+prep_for(cable-15, satelite-19)
+mark(know-24, so-21)
+aux(know-24, would-22)
+neg(know-24, not-23)
+advcl(hook-11, know-24)
+advmod(works-27, how-25)
+nsubj(works-27, it-26)
+ccomp(know-24, works-27)
+prep_for(works-27, gaming-29)
+appos(gaming-29, etc.-31)
+
+=========
+
+partmod(thrilled-11, Paid-1)
+dep(Paid-1, 299-2)
+prep_at(299-2, Amazon-4)
+advmod(far-7, so-6)
+dep(Paid-1, far-7)
+conj_and(299-2, far-7)
+nsubjpass(thrilled-11, I-9)
+auxpass(thrilled-11, am-10)
+root(ROOT-0, thrilled-11)
+
+=========
+
+nsubj(buy-3, Plan-1)
+aux(buy-3, to-2)
+root(ROOT-0, buy-3)
+det(TCL-6, a-4)
+amod(TCL-6, smaller-5)
+dobj(buy-3, TCL-6)
+poss(kitchen-9, my-8)
+prep_for(buy-3, kitchen-9)
+

@@ -1,0 +1,77 @@
+=========
+
+nsubj(purchased-3, I-1)
+nsubj(find-8, I-1)
+aux(purchased-3, have-2)
+root(ROOT-0, purchased-3)
+det(camera-5, this-4)
+dobj(purchased-3, camera-5)
+advmod(purchased-3, recently-6)
+conj_and(purchased-3, find-8)
+det(product-10, the-9)
+dobj(find-8, product-10)
+aux(be-12, to-11)
+xcomp(find-8, be-12)
+poss(expectations-15, my-14)
+prep_beyond(be-12, expectations-15)
+
+=========
+
+poss(opinion-3, my-2)
+prep_in(point-8, opinion-3)
+nsubj(point-8, it-4)
+cop(point-8, is-5)
+neg(point-8, not-6)
+det(point-8, a-7)
+ccomp(offers-13, point-8)
+conj_and(point-8, shoot-10)
+ccomp(offers-13, shoot-10)
+nsubj(offers-13, it-12)
+root(ROOT-0, offers-13)
+advmod(more-15, much-14)
+acomp(offers-13, more-15)
+
+=========
+
+nsubj(have-2, You-1)
+xsubj(take-4, You-1)
+root(ROOT-0, have-2)
+aux(take-4, to-3)
+xcomp(have-2, take-4)
+det(time-6, the-5)
+dobj(take-4, time-6)
+aux(educate-8, to-7)
+infmod(time-6, educate-8)
+dobj(educate-8, yourself-9)
+det(features-12, the-11)
+prep_on(educate-8, features-12)
+prep_on(educate-8, capabilities-14)
+conj_and(features-12, capabilities-14)
+det(product-17, this-16)
+prep_of(features-12, product-17)
+
+=========
+
+nsubj(developed-3, Nikon-1)
+aux(developed-3, has-2)
+root(ROOT-0, developed-3)
+det(product-6, a-4)
+amod(product-6, fine-5)
+dobj(developed-3, product-6)
+complm(recommend-10, that-7)
+nsubj(recommend-10, I-8)
+advmod(recommend-10, highly-9)
+ccomp(developed-3, recommend-10)
+
+=========
+
+advmod(outstanding-10, So-1)
+advmod(So-1, far-2)
+nn(quality-4, image-3)
+nsubj(outstanding-10, quality-4)
+partmod(quality-4, build-6)
+conj_and(quality-4, options-8)
+nsubj(outstanding-10, options-8)
+cop(outstanding-10, are-9)
+root(ROOT-0, outstanding-10)
+

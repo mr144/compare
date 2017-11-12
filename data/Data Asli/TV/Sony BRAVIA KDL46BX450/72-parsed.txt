@@ -1,0 +1,82 @@
+=========
+
+advmod(happy-2, Very-1)
+root(ROOT-0, happy-2)
+det(shipping-5, the-4)
+prep_with(happy-2, shipping-5)
+
+=========
+
+advmod(happy-2, Very-1)
+root(ROOT-0, happy-2)
+det(tv-5, this-4)
+prep_with(happy-2, tv-5)
+partmod(tv-5, set-6)
+
+=========
+
+amod(price-2, Good-1)
+root(ROOT-0, price-2)
+amod(picture-5, great-4)
+appos(price-2, picture-5)
+
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+det(tv-4, a-3)
+dobj(wanted-2, tv-4)
+advmod(wanted-2, just-5)
+prep_for(wanted-2, tv-7)
+xcomp(wanted-2, viewing-8)
+xcomp(wanted-2, playing-10)
+conj_and(viewing-8, playing-10)
+det(ray-14, the-11)
+amod(ray-14, dvd-12)
+amod(ray-14, blue-13)
+dobj(viewing-8, ray-14)
+
+=========
+
+poss(tv-5, Its-1)
+neg(a-3, not-2)
+amod(tv-5, a-3)
+amod(tv-5, smart-4)
+nsubj(price-10, tv-5)
+det(tv-9, a-7)
+amod(tv-9, smart-8)
+prep_with(tv-5, tv-9)
+root(ROOT-0, price-10)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, also-2)
+root(ROOT-0, have-3)
+det(yr-6, a-4)
+num(yr-6, 5-5)
+dobj(have-3, yr-6)
+
+=========
+
+amod(40in-2, old-1)
+root(ROOT-0, 40in-2)
+
+=========
+
+nn(and-2, Sony-1)
+nsubj(had-4, and-2)
+aux(had-4, have-3)
+root(ROOT-0, had-4)
+num(problems-6, zero-5)
+dobj(had-4, problems-6)
+prep_with(problems-6, it-8)
+
+=========
+
+dep(went-3, So-1)
+nsubj(went-3, I-2)
+root(ROOT-0, went-3)
+prep_with(went-3, Sony-5)
+advmod(went-3, again-6)
+

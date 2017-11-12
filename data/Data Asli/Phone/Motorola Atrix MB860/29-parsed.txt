@@ -1,0 +1,29 @@
+=========
+
+det(phone-2, That-1)
+nsubj(beatifull-4, phone-2)
+cop(beatifull-4, is-3)
+root(ROOT-0, beatifull-4)
+dep(great-7, works-6)
+ccomp(beatifull-4, great-7)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(soo-4, it-3)
+ccomp(love-2, soo-4)
+advmod(soo-4, much-5)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+ccomp(regret-10, recommend-3)
+det(product-5, this-4)
+dobj(recommend-3, product-5)
+nsubj(regret-10, they-7)
+aux(regret-10, will-8)
+neg(regret-10, not-9)
+root(ROOT-0, regret-10)
+

@@ -1,0 +1,156 @@
+=========
+
+nsubj(thought-2, Just-1)
+root(ROOT-0, thought-2)
+nsubj(had-4, I-3)
+xsubj(write-6, I-3)
+ccomp(thought-2, had-4)
+aux(write-6, to-5)
+xcomp(had-4, write-6)
+det(review-8, a-7)
+dobj(write-6, review-8)
+
+=========
+
+csubj(working-8, Got-1)
+poss(everything-5, my-2)
+nn(everything-5, Atrix-3)
+nn(everything-5, yesterday-4)
+tmod(Got-1, everything-5)
+aux(working-8, has-6)
+aux(working-8, been-7)
+root(ROOT-0, working-8)
+acomp(working-8, great-9)
+
+=========
+
+det(setup-2, The-1)
+nsubj(simple-5, setup-2)
+cop(simple-5, is-3)
+advmod(simple-5, really-4)
+root(ROOT-0, simple-5)
+advmod(accept-8, just-7)
+parataxis(simple-5, accept-8)
+poss(way-10, your-9)
+dobj(accept-8, way-10)
+prep_through(accept-8, it-12)
+
+=========
+
+aux(bother-3, Did-1)
+neg(bother-3, not-2)
+root(ROOT-0, bother-3)
+aux(read-5, to-4)
+xcomp(bother-3, read-5)
+det(manual-7, the-6)
+dobj(read-5, manual-7)
+xcomp(bother-3, see-9)
+conj_or(read-5, see-9)
+det(tutorial-11, the-10)
+dobj(see-9, tutorial-11)
+nsubj(figured-15, I-13)
+aux(figured-15, have-14)
+conj_and(bother-3, figured-15)
+prt(figured-15, out-16)
+advmod(is-19, where-17)
+nsubj(is-19, everything-18)
+advcl(figured-15, is-19)
+det(day-22, a-21)
+prep_in(is-19, day-22)
+mark(intuitive-28, so-23)
+det(interface-25, the-24)
+nsubj(intuitive-28, interface-25)
+cop(intuitive-28, is-26)
+advmod(intuitive-28, really-27)
+advcl(is-19, intuitive-28)
+dep(intuitive-28, something-30)
+nsubj(expect-33, I-31)
+aux(expect-33, would-32)
+rcmod(something-30, expect-33)
+amod(product-41, more-34)
+det(iphone-37, an-36)
+prep_from(more-34, iphone-37)
+advmod(expensive-40, more-39)
+conj_or(more-34, expensive-40)
+amod(product-41, expensive-40)
+dobj(expect-33, product-41)
+
+=========
+
+nsubj(good-5, Colours-1)
+conj_and(Colours-1, clarity-3)
+nsubj(good-5, clarity-3)
+cop(good-5, are-4)
+root(ROOT-0, good-5)
+dep(good-5, nice-7)
+prepc_for(nice-7, viewing-9)
+det(web-11, the-10)
+dobj(viewing-9, web-11)
+advmod(text-15, even-13)
+amod(text-15, small-14)
+nsubj(distinct-18, text-15)
+cop(distinct-18, is-16)
+advmod(distinct-18, very-17)
+parataxis(good-5, distinct-18)
+
+=========
+
+nsubj(loads-5, Speed-1)
+cop(loads-5, is-2)
+amod(loads-5, great-3)
+nn(loads-5, everything-4)
+root(ROOT-0, loads-5)
+advmod(quickly-7, really-6)
+advmod(loads-5, quickly-7)
+dep(faster-10, perhaps-9)
+dep(quickly-7, faster-10)
+det(apple-13, the-12)
+prep_than(faster-10, apple-13)
+neg(sure-16, not-15)
+amod(apple-13, sure-16)
+prep_about(apple-13, Samsung-18)
+
+=========
+
+nsubj(decent-3, Sound-1)
+cop(decent-3, is-2)
+root(ROOT-0, decent-3)
+aux(tried-7, have-5)
+neg(tried-7, not-6)
+parataxis(decent-3, tried-7)
+nn(player-9, media-8)
+dobj(tried-7, player-9)
+advmod(tried-7, yet-10)
+
+=========
+
+root(ROOT-0, Also-1)
+dep(Also-1, like-2)
+det(size-4, the-3)
+pobj(like-2, size-4)
+dep(Also-1, not-6)
+advmod(large-8, too-7)
+dep(not-6, large-8)
+
+=========
+
+amod(value-2, Super-1)
+root(ROOT-0, value-2)
+prep_for(value-2, money-4)
+
+=========
+
+partmod(suppose-9, p.s.-1)
+det(phone-3, the-2)
+nsubj(warm-5, phone-3)
+aux(warm-5, does-4)
+ccomp(p.s.-1, warm-5)
+prt(warm-5, up-6)
+nsubj(suppose-9, I-8)
+root(ROOT-0, suppose-9)
+det(price-11, the-10)
+dobj(suppose-9, price-11)
+det(processor-15, the-13)
+amod(processor-15, 1ghz-14)
+prep_of(price-11, processor-15)
+

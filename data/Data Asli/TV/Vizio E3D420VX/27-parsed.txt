@@ -1,0 +1,39 @@
+=========
+
+det(TV-2, This-1)
+nsubj(great-4, TV-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+nsubj(searching-3, I-1)
+nsubj(saw-11, I-1)
+aux(searching-3, was-2)
+root(ROOT-0, searching-3)
+det(TV-6, a-5)
+prep_for(searching-3, TV-6)
+det(while-9, a-8)
+prep_for(TV-6, while-9)
+conj_and(searching-3, saw-11)
+det(one-13, this-12)
+nsubj(price-17, one-13)
+cop(price-17, was-14)
+det(price-17, a-15)
+amod(price-17, great-16)
+ccomp(saw-11, price-17)
+ccomp(saw-11, also-19)
+conj_and(price-17, also-19)
+cop(3D-21, was-20)
+dep(also-19, 3D-21)
+
+=========
+
+nsubj(had-4, I-1)
+aux(had-4, have-2)
+neg(had-4, not-3)
+root(ROOT-0, had-4)
+det(problems-6, any-5)
+dobj(had-4, problems-6)
+prep_with(had-4, it-8)
+

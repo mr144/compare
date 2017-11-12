@@ -1,0 +1,34 @@
+=========
+
+det(cellphone-2, This-1)
+nsubj(work-5, cellphone-2)
+aux(work-5, does-3)
+neg(work-5, not-4)
+root(ROOT-0, work-5)
+amod(networks-7, whit-6)
+dobj(work-5, networks-7)
+partmod(networks-7, WCDMA-8)
+advmod(networks-11, just-9)
+amod(networks-11, whit-10)
+dobj(WCDMA-8, networks-11)
+advmod(WCDMA-8, GSM-12)
+
+=========
+
+nsubj(terrible-3, It-1)
+cop(terrible-3, 's-2)
+ccomp(work-13, terrible-3)
+mark(slow-9, because-4)
+det(internet-6, the-5)
+nsubj(slow-9, internet-6)
+cop(slow-9, is-7)
+advmod(slow-9, very-8)
+advcl(terrible-3, slow-9)
+aux(work-13, does-11)
+neg(work-13, not-12)
+root(ROOT-0, work-13)
+prep_in(work-13, 3G-15)
+advmod(3G-15, just-16)
+nn(Edge-18, whit-17)
+nsubj(work-13, Edge-18)
+

@@ -1,0 +1,22 @@
+=========
+
+num(people-2, ok-1)
+npadvmod(responsible-3, people-2)
+root(ROOT-0, responsible-3)
+dep(responsible-3, arrive-4)
+dep(responsible-3, arrive-4')
+conj_and(arrive-4, arrive-4')
+prep_on(arrive-4, time-6)
+amod(ondition-10, perfect-9)
+prep_in(arrive-4', ondition-10)
+det(product-12, the-11)
+nsubj(works-13, product-12)
+dep(arrive-4, works-13)
+acomp(works-13, great-14)
+poss(wife-17, my-16)
+nsubj(happy-20, wife-17)
+cop(happy-20, is-18)
+advmod(happy-20, very-19)
+dep(arrive-4, happy-20)
+conj_and(works-13, happy-20)
+

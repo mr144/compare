@@ -1,0 +1,61 @@
+=========
+
+nsubj(perfect-3, All-1)
+cop(perfect-3, seems-2)
+root(ROOT-0, perfect-3)
+advmod(perfect-3, even-5)
+det(mode-9, the-6)
+amod(mode-9, new-7)
+nn(mode-9, crop-8)
+dep(perfect-3, mode-9)
+det(complaints-14, the-12)
+amod(complaints-14, only-13)
+dobj(have-17, complaints-14)
+nsubj(size-21, complaints-14)
+complm(have-17, that-15)
+nsubj(have-17, i-16)
+dep(complaints-14, have-17)
+cop(size-21, are-18)
+det(size-21, the-19)
+nn(size-21, buffer-20)
+conj_but(perfect-3, size-21)
+det(option-27, the-24)
+nn(option-27, screen-25)
+nn(option-27, protection-26)
+conj_but(perfect-3, option-27)
+conj_and(size-21, option-27)
+
+=========
+
+root(ROOT-0, besides-1)
+pobj(besides-1, that-2)
+
+=========
+
+nsubj(love-2, i-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+nsubj(had-7, its-1)
+det(DX-5, the-2)
+amod(DX-5, best-3)
+nn(DX-5, DLSR-4)
+nsubj(had-7, DX-5)
+advmod(DX-5, ever-6)
+root(ROOT-0, had-7)
+
+=========
+
+nsubj(buy-3, A-1)
+aux(buy-3, must-2)
+root(ROOT-0, buy-3)
+mark(like-6, if-4)
+nsubj(like-6, you-5)
+xsubj(do-8, you-5)
+advcl(buy-3, like-6)
+aux(do-8, to-7)
+xcomp(like-6, do-8)
+dobj(do-8, videos-9)
+

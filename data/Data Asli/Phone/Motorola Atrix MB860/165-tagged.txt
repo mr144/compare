@@ -1,0 +1,5 @@
+I_PRP love_VBP this_DT phone_NN ._.
+I_PRP have_VBP it_PRP for_IN more_JJR than_IN a_DT month_NN ._.
+I_PRP really_RB enjoy_VBP it_PRP ._.
+It_PRP does_VBZ all_PDT the_DT things_NNS I_PRP expect_VBP it_PRP to_TO do_VB ._.
+Since_IN this_DT is_VBZ my_PRP$ first_JJ smart_JJ phone_NN ,_, I_PRP do_VBP not_RB have_VB any_DT good_JJ comparison_NN ._.

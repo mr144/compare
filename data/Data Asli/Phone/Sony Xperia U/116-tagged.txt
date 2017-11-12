@@ -1,0 +1,5 @@
+Had_VBD it_PRP for_IN about_IN 1_CD month_NN ..._: got_VBD the_DT ICS_NNP upgrade_NN ..._: nothing_NN to_TO complain_VB really_RB ,_, excellent_JJ product_NN ._.
+Totally_RB recommend_VB ..._: PROS_NNS :_: affordable_JJ price_NN ,_, smooth_JJ control_NN of_IN everything_NN ,_, apps_NNS work_VBP great_JJ ._.
+CONS_NNS :_: the_DT back_JJ material_NN feals_NNS cheap_JJ ,_, but_CC thats_NNS ok_VBP for_IN me_PRP ._.
+The_DT screen_NN is_VBZ a_DT little_RB small_JJ for_IN my_PRP$ taste_NN but_CC thats_NNS why_WRB the_DT offer_NN other_JJ products_NNS ._.
+conclusion_NN :_: really_RB liked_VBD it_PRP ,_, if_IN you_PRP can_MD get_VB it_PRP and_CC do_VB not_RB want_VB to_TO spend_VB much_RB in_IN a_DT cellphone_NN ,_, this_DT is_VBZ the_DT one_NN to_TO get_VB ._.

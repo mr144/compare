@@ -1,0 +1,26 @@
+=========
+
+amod(TV-2, great-1)
+root(ROOT-0, TV-2)
+amod(features-5, added-4)
+prep_with(TV-2, features-5)
+det(cost-8, the-7)
+prep_at(features-5, cost-8)
+advmod(TV-13, just-10)
+det(TV-13, a-11)
+amod(TV-13, regular-12)
+prep_of(cost-8, TV-13)
+
+=========
+
+nsubj(loves-2, Kid-1)
+root(ROOT-0, loves-2)
+det(features-6, the-3)
+amod(features-6, added-4)
+nn(features-6, Vizio-5)
+dobj(loves-2, features-6)
+advmod(features-6, especially-8)
+det(science-10, the-9)
+dep(features-6, science-10)
+dep(science-10, programs-11)
+

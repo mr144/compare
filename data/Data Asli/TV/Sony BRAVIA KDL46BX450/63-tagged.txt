@@ -1,0 +1,6 @@
+tv_NN arrived_VBD broken_JJ ._.
+hint_NN -_: do_VBP not_RB let_VB your_PRP$ kids_NNS see_VBP you_PRP open_JJ packages_NNS ._.
+They_PRP get_VBP VERY_RB disappointed_VBN if_IN the_DT item_NN inside_IN the_DT box_NN is_VBZ broken_VBN ._.
+bad_JJ luck_NN on_IN the_DT first_JJ one_CD ,_, but_CC the_DT second_NN must_MD not_RB be_VB broken_VBN or_CC so_RB long_JJ Sony_NNP ._.
+Second_JJ hint_NN -_: good_JJ luck_NN trying_VBG to_TO re-package_VB the_DT item_NN ._.
+Not_RB so_RB easy_JJ ._.

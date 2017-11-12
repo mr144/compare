@@ -1,0 +1,76 @@
+=========
+
+advmod(changed-4, Overall-1)
+nsubj(changed-4, I-3)
+root(ROOT-0, changed-4)
+poss(mind-6, my-5)
+dobj(changed-4, mind-6)
+
+=========
+
+mark(described-7, While-1)
+det(phone-3, the-2)
+nsubjpass(described-7, phone-3)
+auxpass(described-7, was-4)
+dep(as-6, not-5)
+advmod(described-7, as-6)
+advcl(bad-12, described-7)
+nsubj(bad-12, it-9)
+cop(bad-12, is-10)
+neg(bad-12, not-11)
+root(ROOT-0, bad-12)
+advmod(bad-12, at-13)
+pobj(at-13, all-14)
+
+=========
+
+nsubj(have-4, I-1)
+xsubj(clean-6, I-1)
+aux(have-4, do-2)
+advmod(have-4, still-3)
+root(ROOT-0, have-4)
+aux(clean-6, to-5)
+xcomp(have-4, clean-6)
+dobj(clean-6, it-7)
+advmod(clean-6, up-8)
+det(bit-10, a-9)
+pobj(up-8, bit-10)
+det(adhesive-13, the-12)
+prep_from(up-8, adhesive-13)
+nsubj(deal-21, it-16)
+cop(deal-21, is-17)
+neg(deal-21, not-18)
+det(deal-21, a-19)
+amod(deal-21, big-20)
+conj_but(have-4, deal-21)
+advmod(deal-21, especially-23)
+predet(price-28, such-25)
+det(price-28, a-26)
+amod(price-28, low-27)
+prep_for(deal-21, price-28)
+
+=========
+
+nn(service-2, Customer-1)
+nsubj(excellent-4, service-2)
+cop(excellent-4, was-3)
+root(ROOT-0, excellent-4)
+
+=========
+
+det(problem-2, The-1)
+nsubjpass(resolved-4, problem-2)
+auxpass(resolved-4, was-3)
+root(ROOT-0, resolved-4)
+det(refund-8, a-6)
+amod(refund-8, partial-7)
+prep_with(resolved-4, refund-8)
+mark(condition-12, for-9)
+nsubj(condition-12, it-10)
+cop(condition-12, is-11)
+advcl(resolved-4, condition-12)
+nsubj(happy-17, I-15)
+cop(happy-17, am-16)
+conj_and(resolved-4, happy-17)
+prep_with(happy-17, that-19)
+

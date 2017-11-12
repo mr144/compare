@@ -1,0 +1,27 @@
+=========
+
+nsubj(purchased-2, I-1)
+nsubj(features-9, I-1)
+root(ROOT-0, purchased-2)
+det(camera-4, this-3)
+dobj(purchased-2, camera-4)
+prepc_based_on(purchased-2, on-6)
+pobj(purchased-2, price-7)
+conj_and(purchased-2, features-9)
+
+=========
+
+nsubj(used-2, I-1)
+root(ROOT-0, used-2)
+dobj(used-2, this-3)
+poss(vacation-6, my-5)
+prep_during(used-2, vacation-6)
+nsubj(happy-11, I-8)
+cop(happy-11, am-9)
+advmod(happy-11, very-10)
+conj_and(used-2, happy-11)
+det(quality-14, the-13)
+prep_with(happy-11, quality-14)
+prep_of(quality-14, pictures-16)
+partmod(pictures-16, taken-17)
+

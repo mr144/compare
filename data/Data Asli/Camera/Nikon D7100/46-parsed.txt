@@ -1,0 +1,103 @@
+=========
+
+nsubj(body-6, D7100-1)
+cop(body-6, is-2)
+det(body-6, a-3)
+amod(body-6, great-4)
+nn(body-6, DX-5)
+root(ROOT-0, body-6)
+
+=========
+
+advmod(responsive-2, Very-1)
+root(ROOT-0, responsive-2)
+conj_and(responsive-2, quick-4)
+advmod(everything-7, almost-6)
+prep_in(responsive-2, everything-7)
+
+=========
+
+root(ROOT-0, AF-1)
+appos(AF-1, shutter-3)
+appos(shutter-3, ON\/OFF-5)
+nn(shortcuts-8, body-7)
+appos(ON\/OFF-5, shortcuts-8)
+dep(ON\/OFF-5, etc.-10)
+
+=========
+
+nn(IQ-2, Great-1)
+root(ROOT-0, IQ-2)
+conj_and(IQ-2, resolution-4)
+
+=========
+
+num(problem-3, One-1)
+amod(problem-3, big-2)
+root(ROOT-0, problem-3)
+det(capacity-7, the-5)
+nn(capacity-7, buffer-6)
+dep(problem-3, capacity-7)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+xsubj(use-5, you-2)
+advcl(limited-16, want-3)
+aux(use-5, to-4)
+xcomp(want-3, use-5)
+dobj(use-5, RAW-6)
+advmod(14-bit-9, mainly-8)
+amod(RAW-6, 14-bit-9)
+poss(burst-13, your-11)
+nn(burst-13, shutter-12)
+nsubj(limited-16, burst-13)
+cop(limited-16, is-14)
+advmod(limited-16, very-15)
+root(ROOT-0, limited-16)
+dep(limited-16, 5-18)
+prep_to(5-18, 6-20)
+
+=========
+
+prep_in(OK-6, JPG-2)
+nsubj(OK-6, it-4)
+cop(OK-6, is-5)
+root(ROOT-0, OK-6)
+
+=========
+
+det(image-2, The-1)
+nsubj(grainy-6, image-2)
+cop(grainy-6, seems-3)
+det(grainy-6, a-4)
+amod(grainy-6, little-5)
+root(ROOT-0, grainy-6)
+advmod(grainy-6, also-7)
+nsubj(showing-14, spite-10)
+amod(reviews-13, many-12)
+prep_of(spite-10, reviews-13)
+prepc_in(grainy-6, showing-14)
+det(performance-19, a-15)
+amod(high-17, nice-16)
+amod(performance-19, high-17)
+nn(performance-19, ISO-18)
+dobj(showing-14, performance-19)
+
+=========
+
+cc(think-3, But-1)
+nsubj(think-3, I-2)
+root(ROOT-0, think-3)
+nsubjpass(managed-8, this-4)
+aux(managed-8, may-5)
+auxpass(managed-8, be-6)
+advmod(managed-8, well-7)
+ccomp(think-3, managed-8)
+
+=========
+
+amod(camera-2, Nice-1)
+root(ROOT-0, camera-2)
+

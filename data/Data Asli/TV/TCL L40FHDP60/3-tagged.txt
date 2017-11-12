@@ -1,0 +1,13 @@
+1_LS -RRB-_-RRB- Report_NNP broken_JJ TV_NN -LRB-_-LRB- covered_VBN by_IN warranty_NN -RRB-_-RRB- ._.
+`_`` Sending_VBG part_NN ,_, local_JJ tech_NN will_MD call_VB you_PRP ._. '_''
+2_LS -RRB-_-RRB- Two_CD follow-ups_NNS and_CC six_CD weeks_NNS later_RB ,_, part_NN arrives_VBZ ._.
+`_`` Local_JJ tech_NN will_MD call_VB you_PRP ._. '_''
+3_LS -RRB-_-RRB- Two_CD follow-ups_NNS and_CC six_CD weeks_NNS later_RB ,_, tech_NN shows_VBZ up_RP ,_, part_NN does_VBZ not_RB fix_VB problem_NN ._.
+Tech_NNP attempts_VBZ to_TO get_VB other_JJ part_NN ,_, butis_NNS told_VBD `_`` all_DT technicians_NNS -LRB-_-LRB- on_IN their_PRP$ end_NN -RRB-_-RRB- are_VBP on_IN lunch_NN ,_, try_VB back_RB in_IN an_DT hour_NN ._. '_''
+He_PRP does_VBZ so_RB ,_, and_CC eventually_RB gets_VBZ other_JJ part_NN on_IN the_DT way_NN .4_CD -RRB-_-RRB- Part_NN arrives_VBZ within_IN a_DT week_NN !_.
+This_DT time_NN ,_, I_PRP can_MD call_VB local_JJ tech_NN ,_, and_CC today_NN -LRB-_-LRB- Saturday_NNP -RRB-_-RRB- he_PRP uses_VBZ part_NN ._.
+Box_NNP had_VBD been_VBN written_VBN on_RP as_IN didefective_JJ controller_NN board_NN ,_, '_'' but_CC we_PRP had_VBD both_DT been_VBN assuming_VBG they_PRP had_VBD re-used_VBN packaging_NN ._.
+Nope_UH ;_: before_RB ,_, it_PRP would_MD turn_VB on_RP -LRB-_-LRB- TCL_NNP splash_NN screen_NN and_CC backlight_NN present_NN -RRB-_-RRB- ,_, just_RB no_DT actual_JJ TV_NN or_CC response_NN to_TO menu\/buttons\/remote_VB ._.
+With_IN `_`` new_JJ '_'' part_NN ,_, does_VBZ not_RB even_RB get_VB that_IN far_RB ._.
+Old_JJ part_NN ,_, we_PRP at_IN least_JJS can_MD turn_VB it_PRP on_IN -LRB-_-LRB- though_IN can_MD not_RB turn_VB it_PRP off_RP -RRB-_-RRB- ._.
+They_PRP really_RB did_VBD deliberately_RB ship_VB a_DT known-to-be-defective_JJ part_NN .5_CD -RRB-_-RRB- ???_NNP Tech_NNP will_MD get_VB back_RB to_TO me_PRP ._.

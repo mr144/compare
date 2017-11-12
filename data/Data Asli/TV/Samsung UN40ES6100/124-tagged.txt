@@ -1,0 +1,53 @@
+ProsExcellent_JJ display_NN ._.
+Thin_JJ ,_, lightweight_JJ ,_, elegant_JJ case_NN with_IN slim_JJ bezel_NN ._.
+Average_JJ to_TO above_JJ average_JJ remote_JJ control_NN ._.
+The_DT sound_NN is_VBZ OK_JJ ._.
+Wifi_NNP works_VBZ and_CC is_VBZ pretty_RB easy_JJ to_TO setup_NN ._.
+It_PRP does_VBZ not_RB make_VB any_DT sounds_NNS when_WRB you_PRP turn_VBP it_PRP on_IN or_CC off_IN ._.
+ConsSmart_NNP TV_NNP feature_NN works_VBZ ,_, but_CC is_VBZ slow_JJ and_CC clumsy_JJ ,_, sometimes_RB annoying_JJ ._.
+I_PRP did_VBD give_VB it_PRP 5_CD stars_NNS were_VBD it_PRP not_RB for_IN this_DT shortcoming_NN ._.
+The_DT manual_NN states_VBZ that_IN the_DT wall_NN mount_VBP requires_VBZ a_DT 200mm_CD x_SYM 200mm_CD VESA_NNP pattern_NN with_IN M6_NNP screws_NNS ,_, but_CC my_PRP$ unit_NN required_VBD M8_CD screws_NNS ._.
+Of_IN course_NN ,_, they_PRP did_VBD not_RB come_VB with_IN either_CC the_DT TV_NN or_CC the_DT mount_VBP ._.
+I_PRP read_VBP some_DT of_IN the_DT earlier_JJR reviews_NNS where_WRB the_DT TV_NN has_VBZ developed_VBN problems_NNS after_IN an_DT hour_NN or_CC even_RB a_DT week_NN ._.
+Most_JJS of_IN the_DT reviews_NNS were_VBD positive_JJ however_RB ,_, so_IN I_PRP decided_VBD to_TO give_VB it_PRP a_DT shot_NN ._.
+The_DT price_NN was_VBD right_JJ ._.
+I_PRP have_VBP had_VBN mine_NN for_IN about_RB a_DT month_NN now_RB and_CC I_PRP can_MD happily_RB say_VB that_IN I_PRP have_VBP had_VBN no_DT problems_NNS with_IN wierd_JJ or_CC changing_JJ colors_NNS ,_, network_NN problems_NNS ,_, or_CC login_NN issues_NNS ._.
+So_RB what_WP are_VBP my_PRP$ complaints_NNS ?_.
+Short_JJ answer_NN -_: it_PRP can_MD be_VB downright_RB annoying_JJ ._.
+Samsung_NNP missed_VBD the_DT mark_NN where_WRB so_RB many_JJ other_JJ companies_NNS miss_VBP the_DT mark_NN these_DT days_NNS ,_, in_IN the_DT software_NN ._.
+The_DT Smart_NNP Hub_NNP on_IN my_PRP$ TV_NN works_VBZ just_RB okay_JJ ._.
+Getting_VBG around_RB is_VBZ a_DT little_RB slow_JJ ,_, but_CC it_PRP works_VBZ ._.
+I_PRP would_MD not_RB call_VB it_PRP a_DT total_JJ failure_NN like_IN I_PRP read_VBP someone_NN else_RB say_VBP ._.
+Maybe_RB my_PRP$ unit_NN is_VBZ newer_JJR ._.
+That_DT does_VBZ not_RB mean_VB it_PRP is_VBZ not_RB annoying_JJ ._.
+I_PRP got_VBD this_DT TV_NN for_IN the_DT bedroom_NN ._.
+I_PRP like_VBP to_TO watch_VB movies_NNS streamed_VBN from_IN Netflix_NNP ,_, and_CC catch_VB the_DT local_JJ news_NN and_CC weather_NN once_RB in_IN a_DT while_NN ._.
+As_IN a_DT result_NN ,_, I_PRP have_VBP not_RB had_VBN a_DT need_NN to_TO connect_VB this_DT TV_NN to_TO a_DT cable_NN box_NN ._.
+I_PRP just_RB watch_VBP whatever_WDT channels_NNS the_DT cable_NN company_NN sends_VBZ in_IN the_DT clear_JJ -LRB-_-LRB- all_PDT the_DT locals_NNS ,_, plus_CC a_DT few_JJ cable-only_JJ channels_NNS -RRB-_-RRB- ._.
+If_IN you_PRP plan_VBP to_TO use_VB a_DT cable_NN box_NN and_CC ignore_VB the_DT built-in_JJ tuner_NN ,_, you_PRP 'll_MD save_VB yourself_PRP one_CD of_IN the_DT headaches_NNS that_IN I_PRP went_VBD through_IN ._.
+Programming_VBG favorite_JJ channels_NNS is_VBZ not_RB at_IN all_DT intuitive_JJ ,_, and_CC waaay_VB more_JJR complex_NN than_IN it_PRP needs_VBZ to_TO be_VB ._.
+I_PRP had_VBD to_TO access_VB the_DT built-in_JJ manual_NN to_TO figure_VB out_RP how_WRB to_TO do_VB it_PRP ._.
+-LRB-_-LRB- The_DT built-in_JJ manual_NN is_VBZ one_CD of_IN those_DT things_NNS that_IN you_PRP are_VBP glad_JJ you_PRP found_VBD ,_, but_CC know_VBP you_PRP really_RB should_MD not_RB need_VB in_IN the_DT first_JJ place_NN ._. -RRB-_-RRB-
+The_DT channel_NN programming_NN is_VBZ divided_VBN into_IN two_CD separate_JJ functions_NNS ._.
+Initial_JJ channel_NN scanning_VBG is_VBZ under_IN the_DT setup_NN menu_NN -LRB-_-LRB- pretty_RB straightforward_JJ -RRB-_-RRB- ,_, and_CC programming_NN favorites_NNS is_VBZ under_IN the_DT Smart_NNP Hub_NNP menu_NN ._.
+I_PRP suppose_VBP the_DT logic_NN is_VBZ that_IN the_DT lines_NNS between_IN TV_NN and_CC internet_NN are_VBP getting_VBG blurred_VBN ,_, so_IN it_PRP makes_VBZ sense_NN to_TO put_VB channel_NN programming_NN with_IN internet_NN functions_NNS ._.
+Right_RB ._.
+You_PRP can_MD not_RB rename_VB channels_NNS ._.
+You_PRP can_MD reorder_VB them_PRP ,_, but_CC it_PRP is_VBZ rediculously_RB painful_JJ to_TO do_VB ._.
+This_DT part_NN is_VBZ not_RB very_RB smart_JJ ._.
+Oh_UH ,_, and_CC if_IN the_DT so-called_JJ &#34;_CD Smart_NNP Hub_NNP &#34;_CD was_VBD really_RB smart_JJ ,_, it_PRP would_MD remember_VB your_PRP$ last_JJ selection_NN ,_, and_CC not_RB default_VB to_TO &#34;_CD Family_NNP Story_NNP &#34;_CD every_DT time_NN you_PRP enter_VBP ._.
+Quite_RB painful_JJ if_IN you_PRP use_VBP the_DT Smart_NNP Hub_NNP alot_NN ._.
+Clearly_RB they_PRP have_VBP some_DT work_NN to_TO do_VB ._.
+The_DT good_JJ news_NN is_VBZ that_IN all_DT hope_NN is_VBZ not_RB lost_VBN ._.
+Since_IN the_DT hardware_NN is_VBZ pretty_RB good_JJ and_CC it_PRP is_VBZ the_DT software_NN that_WDT 's_VBZ flawed_VBN ,_, all_DT we_PRP have_VBP to_TO do_VB is_VBZ wait_VB for_IN them_PRP to_TO fix_VB it_PRP ,_, right_RB ?_.
+Well_RB -_: what_WP 's_VBZ the_DT first_JJ thing_NN this_DT &#34;_CD TV_NN &#34;_CD did_VBD when_WRB I_PRP turned_VBD it_PRP on_IN and_CC connected_VBD it_PRP to_TO the_DT internet_NN ?_.
+It_PRP downloaded_VBD the_DT latest_JJS software_NN and_CC rebooted_VBD itself_PRP !_.
+After_IN using_VBG this_DT device_NN -LRB-_-LRB- or_CC any_DT Smart_NNP TV_NN -RRB-_-RRB- for_IN a_DT while_NN ,_, one_CD thing_NN will_MD become_VB clear_JJ ._.
+It_PRP 's_VBZ really_RB not_RB a_DT TV_NN ._.
+Think_VB of_IN it_PRP as_IN a_DT viewing_NN appliance_NN ._.
+A_DT computer-controlled_JJ cable_NN tuner_NN connected_VBN to_TO a_DT display_NN ._.
+It_PRP boots_NNS when_WRB you_PRP turn_VBP it_PRP on_IN ._.
+It_PRP 's_VBZ pretty_RB quick_JJ ,_, but_CC you_PRP can_MD tell_VB it_PRP is_VBZ booting_VBG ._.
+Manufacturers_NNS love_VBP software_NN based_VBN devices_NNS because_IN they_PRP figure_VBP that_IN they_PRP can_MD fix_VB it_PRP with_IN an_DT update_VBP ._.
+It_PRP does_VBZ not_RB have_VB to_TO be_VB perfect_JJ when_WRB it_PRP ships_NNS ._.
+That_DT could_MD explain_VB some_DT of_IN the_DT problems_NNS people_NNS had_VBD early_RB on_RB ,_, as_RB well_RB as_IN why_WRB problems_NNS for_IN some_DT developed_JJ later_RB ._.

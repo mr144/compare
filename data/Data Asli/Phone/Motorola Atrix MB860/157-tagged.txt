@@ -1,0 +1,5 @@
+I_PRP really_RB do_VBP not_RB understand_VB how_WRB this_DT phone_NN got_VBD 5_CD star_NN ratings_NNS ._.
+It_PRP unexpectedly_RB shuts_VBZ off_RP on_IN its_PRP$ own_JJ ,_, freezes_VBZ ALOT_NNP ,_, likes_VBZ to_TO add_VB random_JJ letters_NNS after_IN numbers_NNS typed_VBN on_IN the_DT qwerty_JJ keyboard_NN ,_, battery_NN does_VBZ not_RB last_JJ that_IN long_JJ ,_, many_JJ web_NN sites_NNS do_VBP not_RB work_VB ,_, music_NN player_NN sometimes_RB skips_VBZ like_IN a_DT cd_NN whoch_NN makes_VBZ no_DT sense_NN ,_, i_FW could_MD go_VB on_IN and_CC on_IN ._.
+At_IN &_CC t_NN is_VBZ not_RB what_WP i_FW thought_VBD it_PRP would_MD have_VB been_VBN ._.
+Not_RB happy_JJ with_IN this_DT phone_NN or_CC service_NN ._.
+Can_MD not_RB wait_VB until_IN my_PRP$ contract_NN is_VBZ up_RB so_RB i_FW can_MD dump_VB this_DT pile_NN of_IN garbage_NN ._.

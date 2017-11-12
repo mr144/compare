@@ -1,0 +1,30 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+poss(friend-7, my-6)
+prep_for(bought-2, friend-7)
+det(gift-11, a-9)
+nn(gift-11, birthday-10)
+prep_as(bought-2, gift-11)
+nsubj(is-14, it-13)
+conj_and(bought-2, is-14)
+dep(wanted-18, exactly-15)
+dep(exactly-15, what-16)
+nsubj(wanted-18, he-17)
+ccomp(is-14, wanted-18)
+
+=========
+
+det(phone-2, The-1)
+nsubj(arrived-3, phone-2)
+root(ROOT-0, arrived-3)
+dobj(arrived-3, way-4)
+mark(expected-8, before-5)
+nsubjpass(expected-8, it-6)
+auxpass(expected-8, is-7)
+advcl(arrived-3, expected-8)
+dobj(expected-8, date-9)
+

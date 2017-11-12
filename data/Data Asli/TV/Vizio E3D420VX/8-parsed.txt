@@ -1,0 +1,113 @@
+=========
+
+det(TV-2, This-1)
+nsubj(more-7, TV-2)
+cop(more-7, is-3)
+det(lot-6, a-4)
+amod(lot-6, whole-5)
+npadvmod(more-7, lot-6)
+root(ROOT-0, more-7)
+advmod(3d-10, just-9)
+prep_than(more-7, 3d-10)
+
+=========
+
+nsubj(SMART-4, This-1)
+cop(SMART-4, is-2)
+advmod(SMART-4, very-3)
+root(ROOT-0, SMART-4)
+
+=========
+
+advmod(amazing-4, ~-1)
+nsubj(amazing-4, It-2)
+cop(amazing-4, 's-3)
+dep(use-13, amazing-4)
+advmod(controls-7, how-5)
+nsubj(controls-7, it-6)
+ccomp(amazing-4, controls-7)
+predet(electronics-11, all-8)
+poss(electronics-11, my-9)
+amod(electronics-11, other-10)
+dobj(controls-7, electronics-11)
+nsubj(use-13, I-12)
+root(ROOT-0, use-13)
+prep_with(use-13, it-15)
+
+=========
+
+nsubj(controls-2, It-1)
+root(ROOT-0, controls-2)
+nsubj(made-5, devices-3)
+neg(made-5, not-4)
+ccomp(controls-2, made-5)
+prep_by(made-5, Vizio-7)
+advmod(made-5, too-8)
+
+=========
+
+det(3D-2, The-1)
+nsubj(amazing-4, 3D-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+det(increase-7, the-6)
+nsubj(unbelievable-16, increase-7)
+prep_in(increase-7, quality-9)
+predet(DVDS-14, all-11)
+poss(DVDS-14, my-12)
+amod(DVDS-14, prerecorded-13)
+prep_for(quality-9, DVDS-14)
+cop(unbelievable-16, is-15)
+conj_and(amazing-4, unbelievable-16)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(player-7, the-3)
+amod(player-7, Vizio-4)
+number(3D-6, 337-5)
+num(player-7, 3D-6)
+dobj(have-2, player-7)
+det(Apps-10, the-9)
+nsubj(Great-14, Apps-10)
+prep_on(Apps-10, it-12)
+cop(Great-14, are-13)
+conj_and(have-2, Great-14)
+
+=========
+
+advmod(helps-3, Hope-1)
+nsubj(helps-3, this-2)
+root(ROOT-0, helps-3)
+
+=========
+
+nsubj(product-10, Vizio-1)
+partmod(Vizio-1, made-3)
+prep_in(made-3, America-5)
+cop(product-10, is-7)
+num(product-10, one-8)
+nn(product-10, fine-9)
+root(ROOT-0, product-10)
+
+=========
+
+nn(Amazon-2, Thanks-1)
+nsubj(had-7, Amazon-2)
+advmod(had-7, P.S-4)
+nsubj(had-7, I-5)
+aux(had-7, have-6)
+root(ROOT-0, had-7)
+det(products-9, the-8)
+dobj(had-7, products-9)
+prep(had-7, for-10)
+num(months-12, 6-11)
+npadvmod(now-13, months-12)
+pcomp(for-10, now-13)
+det(picture-16, the-15)
+nsubj(Sharp-19, picture-16)
+cop(Sharp-19, remains-17)
+advmod(Sharp-19, incredibly-18)
+conj_and(had-7, Sharp-19)
+

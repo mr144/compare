@@ -1,0 +1,23 @@
+=========
+
+det(Phone-3, This-1)
+nn(Phone-3, Cell-2)
+nsubj(excellent-5, Phone-3)
+cop(excellent-5, is-4)
+root(ROOT-0, excellent-5)
+det(performance-8, the-7)
+nsubj(excellent-10, performance-8)
+cop(excellent-10, is-9)
+ccomp(excellent-5, excellent-10)
+conj_and(excellent-5, excellent-10)
+det(design-13, the-12)
+nsubj(cool-15, design-13)
+cop(cool-15, is-14)
+conj_and(excellent-5, cool-15)
+advmod(upgrade-20, now-17)
+nsubj(upgrade-20, it-18)
+aux(upgrade-20, can-19)
+conj_and(excellent-5, upgrade-20)
+prep_to(upgrade-20, Android-22)
+num(Android-22, 2.3.4-23)
+

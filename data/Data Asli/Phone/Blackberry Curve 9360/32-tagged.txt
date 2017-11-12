@@ -1,0 +1,4 @@
+The_DT phone_NN is_VBZ slow_JJ as_IN most_JJS Blackberry_NNP 's_POS but_CC this_DT feels_VBZ very_RB cheap_JJ in_IN the_DT hand_NN ,_, is_VBZ like_IN if_IN they_PRP set_VBP out_RP to_TO make_VB a_DT phone_NN that_WDT feels_VBZ almost_RB like_IN a_DT toy_NN ._.
+The_DT camera_NN is_VBZ terrible_JJ as_IN most_JJS Blackberry_NNP 's_POS cameras_NNS are_VBP ._.
+The_DT information_NN a_DT bout_NN the_DT bands_NNS is_VBZ wrong_JJ since_IN this_DT wont_JJ work_NN on_IN all_PDT the_DT carries_VBZ as_IN it_PRP should_MD since_IN it_PRP is_VBZ a_DT quad_NN band_NN phone_NN ._.
+Si_NNP estas_VBZ en_IN Venezuela_NNP no_DT lo_NN compres_NNS porque_VBP no_DT funciona_NN con_NN Movistar_NNP ni_NNP Movilnet_NNP en_IN 3G_NNP solo_NN levanta_NN 3G_NNP con_NN Digitel_NNP ,_, aparte_JJ son_NN de_IN mala_NN calidad_NN ,_, compre_FW dos_FW y_FW uno_FW me_FW vino_FW da_NN &_CC ntilde_NN ;_: ado_NN ._.

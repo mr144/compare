@@ -1,0 +1,4 @@
+I_PRP Just_RB received_VBD the_DT product_NN ,_, but_CC i_FW am_VBP really_RB unable_JJ to_TO know_VB if_IN it_PRP is_VBZ working_VBG ._.
+No_DT sim_NN card_NN ._.
+I_PRP can_MD not_RB insert_VB the_DT SIM_NNP CARD_NNP ._.
+Amazon_NNP adressed_VBD the_DT issue_NN ok_VBD so_RB far_RB ._.

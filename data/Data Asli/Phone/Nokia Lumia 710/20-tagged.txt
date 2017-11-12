@@ -1,0 +1,11 @@
+I_PRP love_VBP the_DT fact_NN that_IN it_PRP is_VBZ a_DT single-core_NN yet_RB it_PRP does_VBZ not_RB slow_VB down_RB ._.
+The_DT Windows_NNP mobile_JJ are_VBP a_DT hit-and-miss_JJ ,_, but_CC the_DT OS_NNP is_VBZ great_JJ for_IN my_PRP$ usage_NN ._.
+I_PRP hate_VBP the_DT fact_NN where_WRB the_DT Windows_NNP OS_NNP limits_VBZ Nokia_NNP 's_POS full_JJ features_NNS ._.
+I_PRP mean_VBP ,_, there_EX are_VBP better_JJR things_NNS in_IN Symbian_NNP that_WDT should_MD have_VB been_VBN in_IN this_DT phone_NN in_IN the_DT first_JJ place_NN ._.
+The_DT player_NN 's_POS UI_NNP is_VBZ dated_VBN ,_, like_IN Windows_NNP 95_CD or_CC something_NN with_IN the_DT &#34;_CD High_NNP Contrast_NNP &#34;_CD option_NN ._.
+The_DT way_NN to_TO change_VB songs_NNS looks_VBZ awful_JJ comparing_VBG to_TO the_DT song_NN switching_VBG methods_NNS of_IN my_PRP$ Blackberry_NNP Torch_NNP ,_, plus_CC Torch_NNP has_VBZ a_DT Stop_NN button_NN ._.
+Also_RB ,_, with_IN the_DT Torch_NNP ,_, if_IN I_PRP press_VBP the_DT volume_NN keys_VBZ a_DT bit_NN hard_RB ,_, I_PRP can_MD switch_VB songs_NNS from_IN there.Ring-tone_NN is_VBZ 40_CD seconds_NNS ?_.
+Symbian_NNP allowed_VBD the_DT full_JJ song_NN to_TO be_VB the_DT ring-tone_NN ,_, this_DT needs_VBZ to_TO be_VB fixed_VBN ._.
+Windows_NNS 7.8_CD might_MD bring_VB 8-like_JJ features_NNS ,_, but_CC they_PRP are_VBP opting_VBG for_IN a_DT Ring-tone_JJ maker_NN to_TO fulfill_VB the_DT 40_CD second_JJ limit_NN ,_, which_WDT is_VBZ a_DT disappointment_NN ,_, but_CC hopefully_RB they_PRP do_VBP listen_VB to_TO the_DT users_NNS complaining_VBG on_IN their_PRP$ UserVoice_NNP site_NN ._.
+-LRB-_-LRB- Highly_NNP recommended_VBD to_TO post_VB there_RB for_IN anything_NN you_PRP want_VBP in_IN later_JJ versions_NNS -RRB-_-RRB- ._.
+Overall_RB ,_, I_PRP recommend_VBP this_DT phone_NN to_TO simple_JJ users_NNS ._.

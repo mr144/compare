@@ -1,0 +1,29 @@
+=========
+
+det(camera-2, The-1)
+nsubj(takes-3, camera-2)
+root(ROOT-0, takes-3)
+amod(photos-5, good-4)
+dobj(takes-3, photos-5)
+nsubj(easy-9, it-7)
+cop(easy-9, is-8)
+conj_and(takes-3, easy-9)
+aux(handle-11, to-10)
+xcomp(easy-9, handle-11)
+
+=========
+
+nsubj(recommend-5, I-1)
+advmod(recommend-5, only-2)
+aux(recommend-5, do-3)
+neg(recommend-5, not-4)
+root(ROOT-0, recommend-5)
+det(lens-8, the-6)
+amod(lens-8, 18-55-7)
+dobj(recommend-5, lens-8)
+mark(zoom-14, because-10)
+aux(zoom-14, does-11)
+neg(zoom-14, not-12)
+aux(zoom-14, have-13)
+dep(lens-8, zoom-14)
+

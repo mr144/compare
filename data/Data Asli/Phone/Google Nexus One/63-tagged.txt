@@ -1,0 +1,5 @@
+1_CD ._.
+Great_JJ product_NN with_IN features_NNS on-par_JJ if_IN not_RB better_JJR than_IN iphone3g_CD .2_CD ._.
+Low_NNP on_IN battery_NN life_NN ._.
+Get_VB ~_IN 1_CD day_NN life_NN even_RB without_IN using_VBG edge\/3g_JJ data_NNS service_NN and_CC occasionally_RB turning_VBG WiFi_NNP on_IN .3_CD ._.
+Poor_NNP call_NN transmission_NN and_CC reception_NN -_: might_MD be_VB due_JJ to_TO poor_JJ T-mobile_JJ coverage_NN in_IN my_PRP$ location_NN ._.

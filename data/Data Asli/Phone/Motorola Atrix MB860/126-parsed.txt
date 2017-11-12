@@ -1,0 +1,38 @@
+=========
+
+det(display-3, The-1)
+nn(display-3, screen-2)
+nsubj(broken-7, display-3)
+cop(broken-7, was-4)
+det(bit-6, a-5)
+npadvmod(broken-7, bit-6)
+ccomp(has-10, broken-7)
+nsubj(has-10, it-9)
+root(ROOT-0, has-10)
+det(region-12, a-11)
+dobj(has-10, region-12)
+advmod(light-14, more-13)
+amod(region-12, light-14)
+
+=========
+
+root(ROOT-0, Like-1)
+det(points-4, some-2)
+amod(points-4, white-3)
+pobj(Like-1, points-4)
+det(screen-7, the-6)
+prep_in(points-4, screen-7)
+
+=========
+
+det(box-3, The-1)
+nn(box-3, telephone-2)
+nsubj(original-7, box-3)
+cop(original-7, was-4)
+neg(original-7, not-5)
+det(original-7, the-6)
+ccomp(refurbiched-11, original-7)
+nsubj(refurbiched-11, it-9)
+cop(refurbiched-11, seems-10)
+root(ROOT-0, refurbiched-11)
+

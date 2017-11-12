@@ -1,0 +1,34 @@
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(pruchase-7, the-6)
+prep_with(pleased-4, pruchase-7)
+
+=========
+
+det(issue-3, The-1)
+amod(issue-3, only-2)
+dobj(have-5, issue-3)
+nsubj(is-6, issue-3)
+nsubj(have-5, I-4)
+rcmod(issue-3, have-5)
+root(ROOT-0, is-6)
+complm(appears-9, that-7)
+nsubj(appears-9, it-8)
+xsubj(take-11, it-8)
+ccomp(is-6, appears-9)
+aux(take-11, to-10)
+xcomp(appears-9, take-11)
+advmod(take-11, longer-12)
+det(tv-15, the-14)
+prep_for(longer-12, tv-15)
+aux(switch-17, to-16)
+xcomp(take-11, switch-17)
+dobj(switch-17, cahnnels-18)
+poss(sets-22, my-20)
+amod(sets-22, previous-21)
+prep_versus(cahnnels-18, sets-22)
+

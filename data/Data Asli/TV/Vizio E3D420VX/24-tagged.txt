@@ -1,0 +1,2 @@
+When_WRB I_PRP received_VBD the_DT packet_NN ,_, it_PRP was_VBD notice_NN that_IN the_DT tv_NN was_VBD not_RB well_RB packeted_VBN at_IN all_DT in_IN an_DT amazon_NN box_NN and_CC also_RB there_EX were_VBD missing_VBG the_DT tow_NN 3d_CD glasses_NNS and_CC after_IN a_DT few_JJ days_NNS of_IN using_VBG the_DT TV_NN suddenly_RB the_DT TV_NN turned_VBD off_RP by_IN itself_PRP and_CC after_IN that_IN it_PRP did_VBD not_RB work_VB at_IN all_DT ._.
+Waiting_VBG for_IN an_DT answer_NN to_TO this_DT case_NN ..._:

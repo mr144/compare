@@ -1,0 +1,29 @@
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(product-5, this-4)
+dobj(recommend-3, product-5)
+prep_to(recommend-3, someone-7)
+advmod(someone-7, else-8)
+
+=========
+
+nsubj(everything-3, Camera-1)
+cop(everything-3, is-2)
+root(ROOT-0, everything-3)
+nsubj(need-5, i-4)
+nsubj(takes-7, i-4)
+rcmod(everything-3, need-5)
+rcmod(everything-3, takes-7)
+conj_and(need-5, takes-7)
+amod(photos-9, good-8)
+dobj(takes-7, photos-9)
+
+=========
+
+nsubj(stick-2, Will-1)
+root(ROOT-0, stick-2)
+prep_with(stick-2, Canon-4)
+

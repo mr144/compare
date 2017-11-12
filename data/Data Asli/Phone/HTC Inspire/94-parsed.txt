@@ -1,0 +1,46 @@
+=========
+
+dep(have-5, Yes-1)
+nsubj(have-5, it-3)
+aux(have-5, does-4)
+root(ROOT-0, have-5)
+det(screen-8, a-6)
+amod(screen-8, large-7)
+dobj(have-5, screen-8)
+prep_for(screen-8, videos-10)
+appos(videos-10, pictures-12)
+dep(screen-8, etc.-13)
+
+=========
+
+advmod(not-3, still-2)
+nsubj(easy-13, not-3)
+nsubj(download-19, not-3)
+prep_for(not-3, me-5)
+mark(complicated-10, as-6)
+nsubjpass(complicated-10, it-7)
+auxpass(complicated-10, is-8)
+advmod(complicated-10, very-9)
+dep(not-3, complicated-10)
+neg(easy-13, not-11)
+advmod(easy-13, so-12)
+root(ROOT-0, easy-13)
+prep_to(easy-13, use-15)
+aux(download-19, could-17)
+neg(download-19, not-18)
+conj_and(easy-13, download-19)
+dobj(download-19, some-20)
+det(applications-23, the-22)
+prep_of(some-20, applications-23)
+advmod(well-25, as-24)
+mwe(well-25, as-24)
+advmod(download-19, well-25)
+
+=========
+
+cc(runs-2, And-1)
+root(ROOT-0, runs-2)
+prep_out_of(runs-2, battery-5)
+advmod(quickly-7, very-6)
+advmod(runs-2, quickly-7)
+

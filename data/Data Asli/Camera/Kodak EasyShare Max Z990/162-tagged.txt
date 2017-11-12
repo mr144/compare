@@ -1,0 +1,2 @@
+I_PRP really_RB like_IN my_PRP$ Kodak_NNP camera_NN ,_, it_PRP is_VBZ easy_JJ to_TO use_VB ,_, user_NN friendly_JJ and_CC it_PRP takes_VBZ great_JJ pics_NNS !_.
+The_DT quality_NN of_IN the_DT pics_NNS is_VBZ amazing_JJ !_.

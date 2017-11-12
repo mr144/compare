@@ -1,0 +1,68 @@
+=========
+
+root(ROOT-0, Easy-1)
+aux(set-3, to-2)
+xcomp(Easy-1, set-3)
+prt(set-3, up-4)
+advmod(easy-7, very-6)
+conj_and(Easy-1, easy-7)
+aux(use-9, to-8)
+xcomp(easy-7, use-9)
+
+=========
+
+amod(quality-3, Excellent-1)
+nn(quality-3, picture-2)
+nsubj(good-9, quality-3)
+det(sound-6, the-5)
+conj_and(quality-3, sound-6)
+nsubj(good-9, sound-6)
+cop(good-9, is-7)
+advmod(good-9, very-8)
+root(ROOT-0, good-9)
+
+=========
+
+dep(need-2, No-1)
+root(ROOT-0, need-2)
+det(soundbar-5, a-4)
+prep_for(need-2, soundbar-5)
+mark(trying-9, unless-6)
+nsubj(trying-9, you-7)
+xsubj(ruin-11, you-7)
+aux(trying-9, are-8)
+advcl(need-2, trying-9)
+aux(ruin-11, to-10)
+xcomp(trying-9, ruin-11)
+poss(hearing-13, your-12)
+dobj(ruin-11, hearing-13)
+
+=========
+
+det(directions-3, The-1)
+nn(directions-3, setup-2)
+nsubj(good-6, directions-3)
+cop(good-6, are-4)
+neg(good-6, not-5)
+root(ROOT-0, good-6)
+nsubj(need-12, I-9)
+aux(need-12, did-10)
+neg(need-12, not-11)
+conj_but(good-6, need-12)
+dobj(need-12, them-13)
+
+=========
+
+nsubj(happy-4, I-1)
+nsubj(consider-9, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(set-7, the-6)
+prep_with(happy-4, set-7)
+conj_and(happy-4, consider-9)
+nsubj(purchase-13, it-10)
+det(purchase-13, a-11)
+amod(purchase-13, good-12)
+xcomp(consider-9, purchase-13)
+

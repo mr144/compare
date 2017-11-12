@@ -1,0 +1,50 @@
+=========
+
+nsubj(liked-3, I-1)
+advmod(liked-3, really-2)
+root(ROOT-0, liked-3)
+det(camera-5, this-4)
+dobj(liked-3, camera-5)
+nsubj(output-12, it-8)
+advmod(output-12, just-9)
+aux(output-12, did-10)
+neg(output-12, not-11)
+conj_but(liked-3, output-12)
+det(quality-14, the-13)
+dobj(output-12, quality-14)
+prep_of(quality-14, photo-16)
+prep_of(quality-14, video-18)
+conj_or(photo-16, video-18)
+complm(does-22, that-19)
+det(DSLR-21, the-20)
+nsubj(does-22, DSLR-21)
+ccomp(output-12, does-22)
+
+=========
+
+nsubj(upgraded-2, I-1)
+root(ROOT-0, upgraded-2)
+det(A57-5, the-4)
+prep_to(upgraded-2, A57-5)
+
+=========
+
+det(user-4, the-2)
+amod(user-4, average-3)
+prep_for(camera-11, user-4)
+nsubj(camera-11, this-6)
+aux(camera-11, would-7)
+cop(camera-11, be-8)
+det(camera-11, a-9)
+amod(camera-11, wonderful-10)
+root(ROOT-0, camera-11)
+
+=========
+
+nsubj(require-2, I-1)
+root(ROOT-0, require-2)
+det(camera-6, a-3)
+amod(camera-6, more-4)
+amod(camera-6, professional-5)
+dobj(require-2, camera-6)
+

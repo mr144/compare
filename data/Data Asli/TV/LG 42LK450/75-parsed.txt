@@ -1,0 +1,30 @@
+=========
+
+det(tv-2, This-1)
+nsubj(breeze-6, tv-2)
+aux(breeze-6, has-3)
+cop(breeze-6, been-4)
+det(breeze-6, a-5)
+dep(came-11, breeze-6)
+det(moment-9, the-8)
+prep_from(breeze-6, moment-9)
+nsubj(came-11, it-10)
+root(ROOT-0, came-11)
+det(box-15, the-14)
+prep_out_of(came-11, box-15)
+
+=========
+
+det(price-2, The-1)
+nsubj(right-4, price-2)
+cop(right-4, was-3)
+ccomp(works-7, right-4)
+nsubj(works-7, it-6)
+root(ROOT-0, works-7)
+acomp(works-7, great-8)
+
+=========
+
+det(problems-2, No-1)
+root(ROOT-0, problems-2)
+

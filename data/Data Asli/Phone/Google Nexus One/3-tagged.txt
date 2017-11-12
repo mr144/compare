@@ -1,0 +1,11 @@
+I_PRP bought_VBD my_PRP$ first_JJ Nexus_NNP Google_NNP phone_NN for_IN over_IN $_$ 300_CD in_IN Nov_NNP 2011_CD ..._: ._.
+and_CC it_PRP worked_VBD just_RB fine_JJ ._.
+I_PRP loved_VBD it_PRP !_.
+I_PRP dropped_VBD it_PRP on_IN cement_NN in_IN March_NNP 2013_CD ,_, and_CC the_DT face_NN of_IN it_PRP shattered_VBD ._.
+I_PRP was_VBD pleased_JJ to_TO see_VB I_PRP could_MD purchase_VB a_DT new_JJ one_CD on_IN Amazon_NNP for_IN only_RB $_$ 155_CD so_RB i_FW did_VBD ._.
+When_WRB it_PRP arrived_VBD and_CC I_PRP set_VBD it_PRP up_RP it_PRP worked_VBD fine_JJ ._.
+On_IN day_NN 3_CD ,_, without_IN me_PRP having_VBG touched_VBN any_DT settings_NNS ,_, the_DT screen_NN language_NN was_VBD a_DT foreign_JJ language_NN I_PRP could_MD not_RB read_VB ._.
+I_PRP went_VBD online_NN on_IN my_PRP$ laptop_NN and_CC was_VBD able_JJ to_TO figure_VB out_RP how_WRB to_TO reset_VB it_PRP to_TO the_DT original_JJ language_NN ,_, but_CC problems_NNS snowballed_VBD from_IN there_RB ._.
+I_PRP kept_VBD getting_VBG a_DT popup_NN message_NN that_WDT prevented_VBD me_PRP from_IN using_VBG text_NN ,_, email_NN or_CC the_DT phone_NN ._.
+This_DT experience_NN was_VBD a_DT complete_JJ disaster_NN ._.
+I_PRP will_MD never_RB ever_RB buy_VB another_DT Nexus_NNP phone_NN ._.

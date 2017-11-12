@@ -1,0 +1,105 @@
+=========
+
+advmod(excited-2, So-1)
+root(ROOT-0, excited-2)
+aux(receive-4, to-3)
+xcomp(excited-2, receive-4)
+poss(inch-8, my-5)
+amod(inch-8, new-6)
+num(inch-8, 19-7)
+dobj(receive-4, inch-8)
+nsubj(excited-2, Toshiba-9)
+poss(bedroom-12, my-11)
+prep_for(Toshiba-9, bedroom-12)
+
+=========
+
+nsubj(came-2, It-1)
+root(ROOT-0, came-2)
+nsubj(set-6, I-4)
+nsubj(turned-10, I-4)
+advmod(set-6, immediately-5)
+conj_and(came-2, set-6)
+dobj(set-6, it-7)
+prt(set-6, up-8)
+conj_and(came-2, turned-10)
+conj_and(set-6, turned-10)
+dobj(turned-10, it-11)
+prep(turned-10, on-12)
+
+=========
+
+det(picture-2, The-1)
+nsubj(OK-4, picture-2)
+nsubj(was-7, picture-2)
+cop(OK-4, was-3)
+root(ROOT-0, OK-4)
+expl(was-7, there-6)
+conj_but(OK-4, was-7)
+advmod(sound-9, no-8)
+acomp(was-7, sound-9)
+
+=========
+
+nsubj(turned-2, I-1)
+nsubj(sat-10, I-1)
+root(ROOT-0, turned-2)
+det(volume-4, the-3)
+npadvmod(up-5, volume-4)
+advmod(turned-2, up-5)
+predet(way-8, all-6)
+det(way-8, the-7)
+dobj(turned-2, way-8)
+conj_and(turned-2, sat-10)
+mwe(than-12, less-11)
+quantmod(a-13, than-12)
+num(foot-14, a-13)
+dobj(sat-10, foot-14)
+det(screen-17, the-16)
+prep_from(sat-10, screen-17)
+advmod(hear-22, still-19)
+aux(hear-22, could-20)
+advmod(hear-22, hardly-21)
+conj_and(turned-2, hear-22)
+conj_and(sat-10, hear-22)
+dobj(hear-22, it-23)
+
+=========
+
+nsubj(had-3, I-1)
+nsubj(liked-9, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, Toshibas-4)
+det(past-7, the-6)
+prep_in(Toshibas-4, past-7)
+conj_and(had-3, liked-9)
+dobj(liked-9, them-10)
+
+=========
+
+nsubj(got-3, I-1)
+advmod(got-3, either-2)
+root(ROOT-0, got-3)
+det(lemon-5, a-4)
+nsubj(gone-11, lemon-5)
+poss(quality-8, their-7)
+conj_or(lemon-5, quality-8)
+nsubj(gone-11, quality-8)
+aux(gone-11, has-9)
+advmod(gone-11, really-10)
+ccomp(got-3, gone-11)
+prt(gone-11, down-12)
+dobj(gone-11, hill-13)
+
+=========
+
+nsubj(doubt-2, I-1)
+root(ROOT-0, doubt-2)
+mark(buy-6, if-3)
+nsubj(buy-6, I-4)
+aux(buy-6, will-5)
+advcl(doubt-2, buy-6)
+det(Toshiba-8, another-7)
+dobj(buy-6, Toshiba-8)
+

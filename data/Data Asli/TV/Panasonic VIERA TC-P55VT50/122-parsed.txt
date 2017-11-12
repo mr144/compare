@@ -1,0 +1,174 @@
+=========
+
+advmod(put-2, Simply-1)
+dep(tv-8, put-2)
+nsubj(tv-8, this-4)
+cop(tv-8, is-5)
+det(tv-8, the-6)
+amod(tv-8, best-7)
+root(ROOT-0, tv-8)
+nsubj(buy-11, you-9)
+aux(buy-11, can-10)
+rcmod(tv-8, buy-11)
+tmod(buy-11, today-12)
+
+=========
+
+mark(serious-4, If-1)
+nsubj(serious-4, you-2)
+cop(serious-4, are-3)
+advcl(is-10, serious-4)
+nn(quality-7, picture-6)
+prep_about(serious-4, quality-7)
+expl(is-10, there-9)
+root(ROOT-0, is-10)
+nsubj(is-10, nothing-11)
+nsubj(compares-14, nothing-11)
+advmod(nothing-11, else-12)
+rcmod(nothing-11, compares-14)
+
+=========
+
+root(ROOT-0, Exceptional-1)
+dobj(Exceptional-1, contrast-2)
+dobj(Exceptional-1, blacks-4)
+conj_and(contrast-2, blacks-4)
+
+=========
+
+advmod(watching-2, When-1)
+advcl(blend-10, watching-2)
+det(movie-5, a-3)
+nn(movie-5, widescreen-4)
+dobj(watching-2, movie-5)
+det(bars-9, the-7)
+amod(bars-9, black-8)
+nsubj(blend-10, bars-9)
+root(ROOT-0, blend-10)
+prt(blend-10, in-11)
+det(bezel-16, the-13)
+amod(bezel-16, slim-14)
+amod(bezel-16, black-15)
+prep_with(blend-10, bezel-16)
+
+=========
+
+det(colors-2, The-1)
+nsubj(perfect-4, colors-2)
+nsubj(is-7, colors-2)
+cop(perfect-4, are-3)
+root(ROOT-0, perfect-4)
+expl(is-7, there-6)
+conj_and(perfect-4, is-7)
+acomp(is-7, brightness-8)
+aux(spare-10, to-9)
+xcomp(brightness-8, spare-10)
+
+=========
+
+root(ROOT-0, Seriously-1)
+
+=========
+
+mark(think-3, If-1)
+nsubj(think-3, you-2)
+advcl(try-16, think-3)
+nsubj(want-7, you-4)
+aux(want-7, do-5)
+neg(want-7, not-6)
+ccomp(think-3, want-7)
+dobj(want-7, plasma-8)
+mark(bright-13, because-9)
+nsubj(bright-13, they-10)
+cop(bright-13, are-11)
+neg(bright-13, not-12)
+advcl(want-7, bright-13)
+advmod(bright-13, enough-14)
+root(ROOT-0, try-16)
+dobj(try-16, it-17)
+conj_and(try-16, see-19)
+
+=========
+
+nsubj(is-2, Mine-1)
+root(ROOT-0, is-2)
+det(room-7, a-4)
+nn(room-7, sunlit-5)
+amod(room-7, living-6)
+prep_in(is-2, room-7)
+amod(walls-10, white-9)
+prep_with(room-7, walls-10)
+nsubj(have-13, I-12)
+conj_and(is-2, have-13)
+dobj(have-13, plenty-14)
+prep_of(plenty-14, brightness-16)
+aux(spare-18, to-17)
+infmod(brightness-16, spare-18)
+
+=========
+
+advmod(problem-17, Also-1)
+det(anti-glare-4, the-3)
+nsubj(best-8, anti-glare-4)
+cop(best-8, is-5)
+advmod(best-8, probably-6)
+det(best-8, the-7)
+dobj(seen-12, best-8)
+parataxis(problem-17, best-8)
+nsubj(seen-12, I-9)
+aux(seen-12, have-10)
+advmod(seen-12, ever-11)
+rcmod(best-8, seen-12)
+nsubj(problem-17, reflections-14)
+cop(problem-17, are-15)
+det(problem-17, no-16)
+root(ROOT-0, problem-17)
+advmod(problem-17, whatsoever-18)
+
+=========
+
+det(design-3, The-1)
+amod(design-3, overall-2)
+nsubj(beautiful-5, design-3)
+cop(beautiful-5, is-4)
+root(ROOT-0, beautiful-5)
+
+=========
+
+nsubj(say-5, I-1)
+advmod(say-5, really-2)
+aux(say-5, can-3)
+neg(say-5, not-4)
+root(ROOT-0, say-5)
+dobj(say-5, enough-6)
+prep_about(say-5, it-8)
+
+=========
+
+advmod(purchased-4, Also-1)
+nsubj(purchased-4, I-3)
+nsubj(considering-13, I-3)
+root(ROOT-0, purchased-4)
+advmod(less-7, much-6)
+prep_for(purchased-4, less-7)
+det(price-11, the-9)
+amod(price-11, listed-10)
+prep_than(less-7, price-11)
+conj_and(purchased-4, considering-13)
+advmod(good-15, how-14)
+dep(is-17, good-15)
+nsubj(is-17, it-16)
+ccomp(considering-13, is-17)
+nsubj(think-19, I-18)
+ccomp(is-17, think-19)
+det(price-21, the-20)
+nsubj(reasonable-24, price-21)
+cop(reasonable-24, is-22)
+advmod(reasonable-24, very-23)
+ccomp(think-19, reasonable-24)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

@@ -1,0 +1,63 @@
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+det(camera-5, the-4)
+nsubj(excellent-10, camera-5)
+det(zoom-8, the-7)
+conj_and(camera-5, zoom-8)
+nsubj(excellent-10, zoom-8)
+cop(excellent-10, is-9)
+ccomp(like-3, excellent-10)
+
+=========
+
+det(negative-3, The-1)
+amod(negative-3, only-2)
+dobj(found-6, negative-3)
+nsubj(life-12, negative-3)
+nsubj(found-6, I-4)
+aux(found-6, have-5)
+rcmod(negative-3, found-6)
+advmod(far-8, so-7)
+advmod(found-6, far-8)
+cop(life-12, is-9)
+det(life-12, the-10)
+nn(life-12, battery-11)
+ccomp(goes-16, life-12)
+det(camera-15, this-14)
+nsubj(goes-16, camera-15)
+root(ROOT-0, goes-16)
+amod(batteries-18, thru-17)
+dobj(goes-16, batteries-18)
+prep_like(goes-16, crazy-20)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, now-2)
+root(ROOT-0, have-3)
+num(sets-6, 2-4)
+amod(sets-6, extra-5)
+dobj(have-3, sets-6)
+det(batteries-12, the-8)
+num(batteries-12, 15-9)
+nn(batteries-12, minute-10)
+amod(batteries-12, rechargeable-11)
+prep_of(sets-6, batteries-12)
+complm(carry-16, that-13)
+nsubj(carry-16, I-14)
+advmod(carry-16, also-15)
+ccomp(have-3, carry-16)
+prep_with(carry-16, me-18)
+prep_as(carry-16, backup-20)
+
+=========
+
+amod(camera-2, Great-1)
+root(ROOT-0, camera-2)
+dep(camera-2, other-3)
+dep(camera-2, than-4)
+dep(than-4, that-5)
+

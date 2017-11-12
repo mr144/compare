@@ -1,0 +1,55 @@
+=========
+
+nn(LCD-2, Great-1)
+nsubj(paid-7, LCD-2)
+det(I-6, the-4)
+nn(I-6, amount-5)
+prep_for(LCD-2, I-6)
+root(ROOT-0, paid-7)
+
+=========
+
+amod(worth-2, Completely-1)
+root(ROOT-0, worth-2)
+dep(worth-2, it-3)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+dobj(like-8, thing-3)
+nsubj(sound-11, thing-3)
+complm(like-8, that-4)
+nsubj(like-8, I-5)
+aux(like-8, did-6)
+neg(like-8, not-7)
+dep(thing-3, like-8)
+cop(sound-11, was-9)
+det(sound-11, the-10)
+root(ROOT-0, sound-11)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+nsubj(had-4, it-3)
+ccomp(wish-2, had-4)
+amod(amplifiers-6, better-5)
+dobj(had-4, amplifiers-6)
+
+=========
+
+det(end-3, the-2)
+prep_at(satisfied-11, end-3)
+det(day-6, the-5)
+prep_of(end-3, day-6)
+nsubjpass(satisfied-11, I-8)
+auxpass(satisfied-11, am-9)
+advmod(satisfied-11, extremely-10)
+root(ROOT-0, satisfied-11)
+poss(LCD-17, my-13)
+amod(LCD-17, new-14)
+nn(LCD-17, Sony-15)
+nn(LCD-17, 46-16)
+prep_with(satisfied-11, LCD-17)
+

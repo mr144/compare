@@ -1,0 +1,57 @@
+=========
+
+nsubj(phone-8, It-1)
+cop(phone-8, is-2)
+det(phone-8, the-3)
+amod(phone-8, first-4)
+amod(phone-8, tegra2-5)
+nn(phone-8, duo-6)
+nn(phone-8, core-7)
+root(ROOT-0, phone-8)
+det(quality-13, a-10)
+advmod(nice-12, very-11)
+amod(quality-13, nice-12)
+prep_with(phone-8, quality-13)
+
+=========
+
+cc(better-7, And-1)
+det(resolution-4, the-2)
+nn(resolution-4, screen-3)
+nsubj(better-7, resolution-4)
+cop(better-7, is-5)
+advmod(better-7, even-6)
+root(ROOT-0, better-7)
+prep_than(better-7, galaxyS2-9)
+
+=========
+
+nsubj(better-3, This-1)
+cop(better-3, is-2)
+root(ROOT-0, better-3)
+dobj(expected-8, what-5)
+nsubj(expected-8, I-6)
+aux(expected-8, had-7)
+prepc_than(better-3, expected-8)
+
+=========
+
+cc(work-6, But-1)
+det(GPS-3, the-2)
+nsubj(work-6, GPS-3)
+aux(work-6, does-4)
+neg(work-6, not-5)
+ccomp(know-13, work-6)
+advmod(well-8, very-7)
+advmod(work-6, well-8)
+nsubj(know-13, I-10)
+aux(know-13, do-11)
+neg(know-13, not-12)
+root(ROOT-0, know-13)
+dep(know-13, why-14)
+
+=========
+
+nsubj(PURCHASE-2, HAPPY-1)
+root(ROOT-0, PURCHASE-2)
+

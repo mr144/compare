@@ -1,0 +1,32 @@
+=========
+
+det(phone-2, This-1)
+nsubj(worked-3, phone-2)
+root(ROOT-0, worked-3)
+advmod(well-5, pretty-4)
+advmod(worked-3, well-5)
+prepc_except_for(worked-3, for-7)
+det(issues-10, a-8)
+amod(issues-10, few-9)
+pobj(worked-3, issues-10)
+
+=========
+
+nsubj(hang-4, It-1)
+aux(hang-4, will-2)
+advmod(hang-4, sometimes-3)
+root(ROOT-0, hang-4)
+conj_or(hang-4, clock-6)
+det(reason-10, no-8)
+amod(reason-10, apparent-9)
+prep_for(clock-6, reason-10)
+
+=========
+
+nsubj(performs-2, It-1)
+root(ROOT-0, performs-2)
+poss(functions-5, its-3)
+amod(functions-5, basic-4)
+dobj(performs-2, functions-5)
+advmod(performs-2, well-6)
+

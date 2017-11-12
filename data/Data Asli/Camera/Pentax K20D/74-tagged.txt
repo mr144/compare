@@ -1,0 +1,4 @@
+Oct._NNP 2008_CD ,_, I_PRP am_VBP a_DT Wildlife_NNP Photographer_NNP ._.
+This_DT is_VBZ a_DT great_JJ Camera_NN ._.
+A_DT little_JJ too_RB good_JJ for_IN the_DT standard_JJ Pentax_NNP lenses_NNS ._.
+The_DT resolution_NN that_IN the_DT Camera_NNP supports_NNS is_VBZ wasted_VBN on_IN the_DT optics_NNS of_IN standard_JJ lenses_NNS ._.

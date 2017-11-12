@@ -1,0 +1,44 @@
+=========
+
+det(camera-2, This-1)
+nsubj(takes-3, camera-2)
+root(ROOT-0, takes-3)
+amod(pictures-7, excellent-4)
+amod(pictures-7, high-5)
+nn(pictures-7, quality-6)
+dobj(takes-3, pictures-7)
+nsubj(happier-13, I-9)
+aux(happier-13, could-10)
+neg(happier-13, not-11)
+cop(happier-13, be-12)
+conj_and(takes-3, happier-13)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+xsubj(add-5, you-2)
+advcl(do-20, want-3)
+aux(add-5, to-4)
+xcomp(want-3, add-5)
+amod(features-7, more-6)
+dobj(add-5, features-7)
+dobj(suggest-10, features-7)
+rel(suggest-10, which-8)
+nsubj(suggest-10, i-9)
+rcmod(features-7, suggest-10)
+amod(photographers-13, avid-12)
+prep_for(suggest-10, photographers-13)
+det(line-18, the-15)
+nn(line-18, Nikon-16)
+nn(line-18, camera-17)
+nsubj(do-20, line-18)
+aux(do-20, will-19)
+root(ROOT-0, do-20)
+advmod(that-22, just-21)
+dobj(do-20, that-22)
+
+=========
+
+root(ROOT-0, http:\/\/www.amazon.com\/gp\/product\/B007VGGFZU\/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007VGGFZU&linkCode=as2&tag=wwwworkoutwei-20-1)
+

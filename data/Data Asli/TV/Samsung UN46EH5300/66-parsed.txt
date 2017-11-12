@@ -1,0 +1,78 @@
+=========
+
+det(tv-2, This-1)
+nsubj(do-5, tv-2)
+aux(do-5, does-3)
+neg(do-5, not-4)
+root(ROOT-0, do-5)
+dobj(do-5, 3d-6)
+det(material-10, the-8)
+amod(material-10, samsung-9)
+prep_like(do-5, material-10)
+rcmod(material-10, said-11)
+nsubj(should-13, it-12)
+ccomp(said-11, should-13)
+advmod(material-10, however-15)
+det(rocks-18, this-16)
+nn(rocks-18, tv-17)
+dep(material-10, rocks-18)
+
+=========
+
+nsubj(price-5, IT-1)
+cop(price-5, is-2)
+det(price-5, a-3)
+amod(price-5, great-4)
+root(ROOT-0, price-5)
+amod(image-9, super-7)
+amod(image-9, crisp-8)
+appos(price-5, image-9)
+advmod(image-9, even-10)
+prep_with(image-9, motion-12)
+prep_with(image-9, games-14)
+conj_and(motion-12, games-14)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(stuff-8, the-3)
+dep(ready-7, Smarthub-4)
+conj_and(ready-7, internet-6)
+amod(stuff-8, internet-6)
+amod(stuff-8, ready-7)
+dobj(love-2, stuff-8)
+
+=========
+
+nsubj(has-2, IT-1)
+nsubj(does-5, IT-1)
+root(ROOT-0, has-2)
+dobj(has-2, apps-3)
+conj_and(has-2, does-5)
+det(service-8, every-6)
+nn(service-8, movie-7)
+dobj(does-5, service-8)
+prep_of(think-11, service-8)
+nsubj(think-11, I-9)
+aux(think-11, can-10)
+rcmod(service-8, think-11)
+
+=========
+
+nsubj(found-3, I-1)
+advmod(found-3, even-2)
+root(ROOT-0, found-3)
+det(few-5, a-4)
+dobj(found-3, few-5)
+complm(use-10, that-6)
+nsubj(use-10, I-7)
+aux(use-10, do-8)
+neg(use-10, not-9)
+ccomp(found-3, use-10)
+complm(look-14, that-11)
+nsubj(look-14, I-12)
+aux(look-14, will-13)
+ccomp(use-10, look-14)
+prep(look-14, into-15)
+

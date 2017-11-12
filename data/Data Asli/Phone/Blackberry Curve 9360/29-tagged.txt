@@ -1,0 +1,2 @@
+all_DT ok_NN ._.
+It_PRP is_VBZ excellent_JJ and_CC no_DT problems_NNS ._.

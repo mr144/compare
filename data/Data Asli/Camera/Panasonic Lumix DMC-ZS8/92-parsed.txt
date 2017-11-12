@@ -1,0 +1,33 @@
+=========
+
+poss(wife-2, My-1)
+nsubj(damaged-3, wife-2)
+root(ROOT-0, damaged-3)
+poss(Panasonic-6, her-4)
+amod(Panasonic-6, previous-5)
+dobj(damaged-3, Panasonic-6)
+dobj(liked-9, Panasonic-6)
+rel(liked-9, which-7)
+nsubj(liked-9, she-8)
+rcmod(Panasonic-6, liked-9)
+advmod(much-11, so-10)
+advmod(liked-9, much-11)
+rcmod(Panasonic-6, replaced-13)
+dobj(replaced-13, it-14)
+amod(model-17, updated-16)
+prep_with(replaced-13, model-17)
+nsubjpass(thrilled-21, she-19)
+auxpass(thrilled-21, 's-20)
+parataxis(damaged-3, thrilled-21)
+det(angle-25, the-23)
+amod(angle-25, wide-24)
+prep_with(thrilled-21, angle-25)
+nn(quality-28, image-27)
+prep_with(thrilled-21, quality-28)
+conj_and(angle-25, quality-28)
+
+=========
+
+root(ROOT-0, works-1)
+prep_for(works-1, me-3)
+

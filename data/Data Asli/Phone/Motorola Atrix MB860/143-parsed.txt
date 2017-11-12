@@ -1,0 +1,35 @@
+=========
+
+nsubj(announced-3, Motorola-1)
+advmod(announced-3, just-2)
+root(ROOT-0, announced-3)
+complm(getting-11, that-4)
+det(Atrix-6, the-5)
+nsubj(getting-11, Atrix-6)
+num(Atrix-6, 4G-7)
+aux(getting-11, will-8)
+neg(getting-11, NOT-9)
+aux(getting-11, be-10)
+ccomp(announced-3, getting-11)
+nn(Sandwich-16, Android-12)
+nn(Sandwich-16, 4.0-13)
+nn(Sandwich-16, Ice-14)
+nn(Sandwich-16, Cream-15)
+dobj(getting-11, Sandwich-16)
+
+=========
+
+mark(mind-5, If-1)
+nsubj(mind-5, you-2)
+aux(mind-5, do-3)
+neg(mind-5, not-4)
+advcl(device-15, mind-5)
+xcomp(mind-5, staying-6)
+prep_on(staying-6, Gingerbread-8)
+advmod(device-15, then-10)
+nsubj(device-15, this-11)
+cop(device-15, is-12)
+det(device-15, a-13)
+amod(device-15, good-14)
+root(ROOT-0, device-15)
+

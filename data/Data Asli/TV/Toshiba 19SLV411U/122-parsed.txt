@@ -1,0 +1,24 @@
+=========
+
+det(TV-2, The-1)
+nsubj(good-4, TV-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+det(dimensions-8, the-7)
+nsubj(incorrect-11, dimensions-8)
+partmod(dimensions-8, listed-9)
+cop(incorrect-11, are-10)
+conj_but(good-4, incorrect-11)
+
+=========
+
+nsubj(inches-10, It-1)
+cop(inches-10, is-2)
+advmod(inches-10, closer-3)
+number(x-6, 2.25-5)
+prep_to(closer-3, x-6)
+num(inches-10, 18.2-7)
+nn(inches-10, x-8)
+num(inches-10, 11.2-9)
+root(ROOT-0, inches-10)
+

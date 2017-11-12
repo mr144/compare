@@ -1,0 +1,33 @@
+=========
+
+nsubj(phone-2, Great-1)
+nsubj(works-4, Great-1)
+root(ROOT-0, phone-2)
+conj_and(phone-2, works-4)
+advmod(well-6, very-5)
+advmod(works-4, well-6)
+
+=========
+
+amod(keyboard-3, Great-1)
+nn(keyboard-3, qwerty-2)
+nsubjpass(used-9, keyboard-3)
+amod(keyboard-6, on-screen-5)
+conj_or(keyboard-3, keyboard-6)
+nsubjpass(used-9, keyboard-6)
+aux(used-9, can-7)
+auxpass(used-9, be-8)
+root(ROOT-0, used-9)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+dobj(has-2, lots-3)
+prep_of(lots-3, features-5)
+dobj(enjoy-8, features-5)
+nsubj(enjoy-8, you-6)
+aux(enjoy-8, will-7)
+rcmod(features-5, enjoy-8)
+xcomp(enjoy-8, using-9)
+

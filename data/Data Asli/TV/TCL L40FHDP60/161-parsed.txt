@@ -1,0 +1,31 @@
+=========
+
+amod(quality-2, good-1)
+nsubj(i-7, quality-2)
+amod(clear-5, Very-4)
+amod(quality-2, clear-5)
+ccomp(beat-15, i-7)
+det(brand-10, this-9)
+prep_like(i-7, brand-10)
+nsubj(beat-15, you-12)
+aux(beat-15, can-13)
+neg(beat-15, not-14)
+root(ROOT-0, beat-15)
+det(price-17, the-16)
+dobj(beat-15, price-17)
+
+=========
+
+nsubj(introduce-3, i-1)
+aux(introduce-3, will-2)
+root(ROOT-0, introduce-3)
+dobj(introduce-3, it-4)
+poss(friends-7, my-6)
+prep_to(introduce-3, friends-7)
+
+=========
+
+nn(v-3, vvvvvvvvvv-1)
+nn(v-3, v-2)
+root(ROOT-0, v-3)
+

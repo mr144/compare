@@ -1,0 +1,6 @@
+Needed_VBN to_TO replace_VB a_DT 60_NNP '_POS Sony_NNP Rear_NNP Projection_NNP TV_NNP ._.
+Went_JJ to_TO a_DT couple_NN of_IN review_NN sites_NNS and_CC decided_VBD on_IN the_DT Panasonic_NNP P65VT50_NNP ._.
+The_DT setup_NN was_VBD very_RB simple_JJ and_CC the_DT stand_NN was_VBD easy_JJ to_TO put_VB together_RB ._.
+The_DT picture_NN is_VBZ fantastic_JJ ._.
+The_DT TV_NN has_VBZ a_DT lot_NN of_IN features_NNS ,_, internet_NN ready_JJ ,_, Netflix_NNP ,_, etc._FW ._.
+I_PRP may_MD be_VB replacing_VBG our_PRP$ family_NN room_NN 50_CD '_'' Plasma_NNP with_IN this_DT one_CD soon_RB ._.

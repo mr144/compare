@@ -1,0 +1,98 @@
+=========
+
+nsubj(fast-5, It-1)
+nsubj(takes-7, It-1)
+cop(fast-5, 's-2)
+amod(fast-5, simple-3)
+root(ROOT-0, fast-5)
+conj_and(fast-5, takes-7)
+amod(pictures-9, great-8)
+dobj(takes-7, pictures-9)
+
+=========
+
+nsubj(expensive-4, It-1)
+aux(expensive-4, may-2)
+cop(expensive-4, seem-3)
+root(ROOT-0, expensive-4)
+nsubj(worth-9, it-7)
+cop(worth-9, is-8)
+ccomp(expensive-4, worth-9)
+conj_but(expensive-4, worth-9)
+dep(worth-9, it-10)
+
+=========
+
+aux(have-3, Do-1)
+neg(have-3, not-2)
+root(ROOT-0, have-3)
+det(hassle-5, the-4)
+dobj(have-3, hassle-5)
+prepc_of(hassle-5, changing-7)
+nsubj(due-9, lenses-8)
+xcomp(changing-7, due-9)
+det(lens-13, the-11)
+amod(lens-13, great-12)
+prep_to(due-9, lens-13)
+amod(angle-16, wide-15)
+prep_for(lens-13, angle-16)
+conj_and(have-3, zoom-18)
+
+=========
+
+poss(fianc&eacute;-2, My-1)
+nsubj(has-3, fianc&eacute;-2)
+root(ROOT-0, has-3)
+det(model-6, an-4)
+amod(model-6, older-5)
+dobj(has-3, model-6)
+nsubj(received-9, I-8)
+conj_and(has-3, received-9)
+det(model-12, the-10)
+amod(model-12, latest-11)
+nsubj(great-18, model-12)
+det(button-16, the-14)
+amod(button-16, video-15)
+conj_and(model-12, button-16)
+nsubj(great-18, button-16)
+cop(great-18, is-17)
+ccomp(received-9, great-18)
+
+=========
+
+root(ROOT-0, Thanks-1)
+prep_to(Thanks-1, Sony-3)
+prepc_for(Sony-3, keeping-5)
+nsubj(quality-14, things-6)
+amod(things-6, simple-7)
+amod(things-6, intuitive-9)
+conj_and(simple-7, intuitive-9)
+amod(things-6, creative-11)
+conj_and(simple-7, creative-11)
+amod(things-6, high-13)
+conj_and(simple-7, high-13)
+xcomp(keeping-5, quality-14)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+prep_to(recommend-3, anyone-7)
+
+=========
+
+nsubj(makes-2, It-1)
+root(ROOT-0, makes-2)
+ccomp(makes-2, grabbing-3)
+ccomp(makes-2, going-5)
+conj_and(grabbing-3, going-5)
+aux(take-7, to-6)
+xcomp(going-5, take-7)
+dobj(take-7, pictures-8)
+advmod(more-10, much-9)
+amod(fun-11, more-10)
+dobj(grabbing-3, fun-11)
+

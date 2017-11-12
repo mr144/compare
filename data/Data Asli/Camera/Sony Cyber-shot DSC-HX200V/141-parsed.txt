@@ -1,0 +1,52 @@
+=========
+
+neg(only-2, Not-1)
+nsubj(camera-5, only-2)
+cop(camera-5, was-3)
+det(camera-5, this-4)
+root(ROOT-0, camera-5)
+advmod(expensive-7, moderately-6)
+amod(camera-5, expensive-7)
+nsubj(performs-10, it-9)
+conj_but(camera-5, performs-10)
+cc(performs-10, well-12)
+prep_as(performs-10, cameras-14)
+partmod(cameras-14, priced-15)
+advmod(higher-17, muched-16)
+acomp(priced-15, higher-17)
+
+=========
+
+advmod(eay-2, very-1)
+root(ROOT-0, eay-2)
+aux(use-4, to-3)
+dep(eay-2, use-4)
+advmod(well-6, as-5)
+mwe(well-6, as-5)
+advmod(use-4, well-6)
+
+=========
+
+nsubj(great-4, Pictures-1)
+cop(great-4, are-2)
+advmod(great-4, really-3)
+root(ROOT-0, great-4)
+
+=========
+
+det(focus-3, the-1)
+nn(focus-3, auto-2)
+nsubj(easy-6, focus-3)
+xsubj(use-8, focus-3)
+cop(easy-6, is-4)
+advmod(easy-6, extremly-5)
+root(ROOT-0, easy-6)
+aux(use-8, to-7)
+xcomp(easy-6, use-8)
+
+=========
+
+aux(purchase-2, Would-1)
+root(ROOT-0, purchase-2)
+advmod(purchase-2, again-3)
+

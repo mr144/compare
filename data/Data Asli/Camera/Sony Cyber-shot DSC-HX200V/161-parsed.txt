@@ -1,0 +1,177 @@
+=========
+
+nsubj(unexpected-4, I-1)
+cop(unexpected-4, am-2)
+advmod(unexpected-4, so-3)
+root(ROOT-0, unexpected-4)
+aux(find-6, to-5)
+xcomp(unexpected-4, find-6)
+prt(find-6, out-7)
+complm(clear-13, that-8)
+poss(image-10, its-9)
+nsubj(clear-13, image-10)
+cop(clear-13, is-11)
+neg(clear-13, not-12)
+ccomp(find-6, clear-13)
+
+=========
+
+cc(fuzzy-5, Or-1)
+nsubj(fuzzy-5, it-3)
+cop(fuzzy-5, is-4)
+root(ROOT-0, fuzzy-5)
+
+=========
+
+nsubj(photographer-5, I-1)
+cop(photographer-5, am-2)
+det(photographer-5, an-3)
+amod(photographer-5, amateur-4)
+root(ROOT-0, photographer-5)
+nsubj(want-9, I-8)
+xsubj(capture-11, I-8)
+conj_and(photographer-5, want-9)
+aux(capture-11, to-10)
+xcomp(want-9, capture-11)
+det(sights-14, the-12)
+amod(sights-14, beautiful-13)
+dobj(capture-11, sights-14)
+poss(life-17, my-16)
+prep_in(sights-14, life-17)
+
+=========
+
+det(camera-2, This-1)
+nsubj(one-6, camera-2)
+cop(one-6, is-3)
+det(one-6, the-4)
+amod(one-6, first-5)
+root(ROOT-0, one-6)
+partmod(one-6, owned-7)
+poss(own-10, my-9)
+agent(owned-7, own-10)
+
+=========
+
+nsubj(spend-2, I-1)
+root(ROOT-0, spend-2)
+num(months-4, 4-3)
+tmod(spend-2, months-4)
+aux(choose-6, to-5)
+xcomp(spend-2, choose-6)
+det(one-9, a-7)
+amod(one-9, fancy-8)
+dobj(choose-6, one-9)
+dep(spend-2, so-11)
+nsubj(imaging-14, you-12)
+aux(imaging-14, can-13)
+ccomp(spend-2, imaging-14)
+poss(feeling-16, my-15)
+dobj(imaging-14, feeling-16)
+
+=========
+
+nsubj(camera-4, It-1)
+cop(camera-4, is-2)
+det(camera-4, a-3)
+root(ROOT-0, camera-4)
+det(resolution-7, a-6)
+prep_with(camera-4, resolution-7)
+num(millions-10, 18-9)
+prep_of(resolution-7, millions-10)
+advmod(so-14, even-13)
+advmod(feel-16, so-14)
+nsubj(feel-16, you-15)
+conj_but(camera-4, feel-16)
+det(image-18, the-17)
+nsubj(clear-21, image-18)
+cop(clear-21, is-19)
+neg(clear-21, not-20)
+ccomp(feel-16, clear-21)
+prep_at(clear-21, all-23)
+advmod(browse-26, when-24)
+nsubj(browse-26, you-25)
+advcl(clear-21, browse-26)
+dobj(browse-26, it-27)
+poss(size-31, its-29)
+amod(size-31, actural-30)
+prep_at(browse-26, size-31)
+
+=========
+
+mark(say-4, If-2)
+nsubj(say-4, you-3)
+root(ROOT-0, say-4)
+complm(browse-9, that-5)
+nsubj(browse-9, I-6)
+aux(browse-9, should-7)
+neg(browse-9, not-8)
+ccomp(say-4, browse-9)
+dobj(browse-9, it-10)
+poss(size-14, its-12)
+amod(size-14, actural-13)
+prep_in(browse-9, size-14)
+advmod(provides-18, why-16)
+nsubj(provides-18, it-17)
+rcmod(size-14, provides-18)
+advmod(fine-20, so-19)
+amod(resolution-22, fine-20)
+det(resolution-22, a-21)
+dobj(provides-18, resolution-22)
+
+=========
+
+nsubj(compete-4, It-1)
+aux(compete-4, can-2)
+neg(compete-4, not-3)
+root(ROOT-0, compete-4)
+poss(competitors-7, its-6)
+prep_with(compete-4, competitors-7)
+quantmod(million-13, only-9)
+number(million-13, 16-10)
+conj_or(million-13, 14-12)
+num(pixels-14, 14-12)
+num(pixels-14, million-13)
+prep_with(compete-4, pixels-14)
+
+=========
+
+nsubj(feel-2, I-1)
+root(ROOT-0, feel-2)
+poss(money-4, my-3)
+nsubj(spent-5, money-4)
+ccomp(feel-2, spent-5)
+cop(deserved-9, is-6)
+neg(deserved-9, not-7)
+advmod(deserved-9, well-8)
+ccomp(spent-5, deserved-9)
+
+=========
+
+cc(one-4, Or-1)
+nsubj(one-4, mine-2)
+cop(one-4, is-3)
+root(ROOT-0, one-4)
+prep_with(one-4, deficiency-6)
+
+=========
+
+det(case-3, that-2)
+prep_in(seek-7, case-3)
+nsubj(seek-7, I-5)
+aux(seek-7, may-6)
+root(ROOT-0, seek-7)
+det(replacement-10, a-9)
+prep_for(seek-7, replacement-10)
+prep_for(seek-7, refund-12)
+conj_or(replacement-10, refund-12)
+
+=========
+
+cc(disappoints-4, But-1)
+advmod(disappoints-4, anyway-2)
+nsubj(disappoints-4, it-3)
+root(ROOT-0, disappoints-4)
+poss(enthusiasm-6, my-5)
+dobj(disappoints-4, enthusiasm-6)
+

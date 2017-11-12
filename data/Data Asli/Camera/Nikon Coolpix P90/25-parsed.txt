@@ -1,0 +1,68 @@
+=========
+
+root(ROOT-0, What-1)
+dep(What-1, a-2)
+amod(camera-4, great-3)
+pobj(a-2, camera-4)
+
+=========
+
+nsubj(had-2, I-1)
+nsubj(sold-8, I-1)
+root(ROOT-0, had-2)
+det(Nikon-5, a-3)
+amod(Nikon-5, professional-4)
+dobj(had-2, Nikon-5)
+advmod(sold-8, finally-7)
+conj_and(had-2, sold-8)
+dobj(sold-8, it-9)
+
+=========
+
+nsubj(take-6, I-1)
+advmod(take-6, just-2)
+aux(take-6, could-3)
+dep(quite-5, never-4)
+advmod(take-6, quite-5)
+root(ROOT-0, take-6)
+det(picture-9, that-7)
+amod(picture-9, perfect-8)
+dobj(take-6, picture-9)
+prep_with(take-6, it-11)
+
+=========
+
+det(one-3, this-2)
+prep_with(have-6, one-3)
+nsubj(have-6, you-5)
+root(ROOT-0, have-6)
+det(option-8, the-7)
+dobj(have-6, option-8)
+aux(point-10, to-9)
+infmod(option-8, point-10)
+infmod(option-8, shoot-12)
+conj_and(point-10, shoot-12)
+infmod(option-8, use-14)
+conj_or(point-10, use-14)
+dobj(use-14, it-15)
+mark(would-18, like-16)
+nsubj(would-18, you-17)
+advcl(use-14, would-18)
+nn(pro-20, a-19)
+advmod(would-18, pro-20)
+
+=========
+
+aux(ask-3, Ca-1)
+neg(ask-3, not-2)
+csubj(beats-9, ask-3)
+prep_for(ask-3, more-5)
+det(price-8, the-7)
+prep_for(ask-3, price-8)
+conj_and(more-5, price-8)
+root(ROOT-0, beats-9)
+det(cameras-13, the-10)
+nn(cameras-13, Digital-11)
+nn(cameras-13, SLR-12)
+dobj(beats-9, cameras-13)
+

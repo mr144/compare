@@ -1,0 +1,130 @@
+=========
+
+nsubj(replacement-4, This-1)
+cop(replacement-4, is-2)
+det(replacement-4, a-3)
+root(ROOT-0, replacement-4)
+det(camera-8, another-6)
+nn(camera-8, Panasonic-7)
+prep_for(replacement-4, camera-8)
+num(zoom-11, 10X-10)
+prep_with(camera-8, zoom-11)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(one-4, this-3)
+dobj(bought-2, one-4)
+mark(zoom-10, because-5)
+nsubj(zoom-10, it-6)
+aux(zoom-10, has-7)
+advmod(longer-9, even-8)
+advmod(zoom-10, longer-9)
+advcl(bought-2, zoom-10)
+
+=========
+
+nsubj(found-2, I-1)
+root(ROOT-0, found-2)
+det(swithc-4, the-3)
+nsubj(convenient-19, swithc-4)
+prep_for(swithc-4, shoot-6)
+prep_for(swithc-4, view-8)
+conj_and(shoot-6, view-8)
+det(back-11, the-10)
+prep_on(shoot-6, back-11)
+det(camera-14, the-13)
+prep_of(back-11, camera-14)
+cop(convenient-19, is-15)
+det(bit-17, a-16)
+dep(convenient-19, bit-17)
+neg(convenient-19, not-18)
+ccomp(found-2, convenient-19)
+
+=========
+
+det(one-3, The-1)
+amod(one-3, old-2)
+dobj(turn-6, one-3)
+nsubj(shoot-11, one-3)
+nsubj(review-13, one-3)
+nsubj(turn-6, you-4)
+advmod(turn-6, just-5)
+rcmod(one-3, turn-6)
+det(dial-8, the-7)
+nsubj(select-10, dial-8)
+aux(select-10, to-9)
+xcomp(turn-6, select-10)
+root(ROOT-0, shoot-11)
+conj_or(shoot-11, review-13)
+
+=========
+
+advmod(camera-9, All-1)
+prep_in(All-1, all-3)
+nsubj(camera-9, it-5)
+cop(camera-9, is-6)
+det(camera-9, a-7)
+amod(camera-9, great-8)
+root(ROOT-0, camera-9)
+
+=========
+
+det(way-3, the-2)
+agent(soaked-9, way-3)
+poss(one-7, my-5)
+amod(one-7, old-6)
+nsubjpass(soaked-9, one-7)
+auxpass(soaked-9, was-8)
+root(ROOT-0, soaked-9)
+prep_in(soaked-9, water-11)
+det(beach-14, the-13)
+prep_on(soaked-9, beach-14)
+det(time-18, a-16)
+amod(time-18, short-17)
+prep_for(beach-14, time-18)
+
+=========
+
+nsubj(stopped-2, It-1)
+root(ROOT-0, stopped-2)
+xcomp(stopped-2, working-3)
+det(days-7, a-5)
+amod(days-7, few-6)
+prep_in(working-3, days-7)
+
+=========
+
+advmod(went-15, However-1)
+advmod(arrived-10, just-3)
+det(day-6, the-5)
+prep_on(arrived-10, day-6)
+det(one-9, this-7)
+amod(one-9, new-8)
+nsubj(arrived-10, one-9)
+dep(went-15, arrived-10)
+det(one-14, the-12)
+amod(one-14, old-13)
+nsubj(went-15, one-14)
+xsubj(work-18, one-14)
+root(ROOT-0, went-15)
+prt(went-15, back-16)
+aux(work-18, to-17)
+xcomp(went-15, work-18)
+advmod(work-18, again-19)
+
+=========
+
+nsubj(make-2, This-1)
+root(ROOT-0, make-2)
+nsubj(believe-4, me-3)
+ccomp(make-2, believe-4)
+det(quality-6, the-5)
+nsubj(great-12, quality-6)
+det(camera-10, the-8)
+nn(camera-10, Panasonic-9)
+prep_of(quality-6, camera-10)
+cop(great-12, is-11)
+ccomp(believe-4, great-12)
+

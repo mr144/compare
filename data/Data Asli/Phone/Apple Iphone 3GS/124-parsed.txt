@@ -1,0 +1,33 @@
+=========
+
+det(phone-2, The-1)
+nsubj(great-4, phone-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+det(problems-2, No-1)
+root(ROOT-0, problems-2)
+amod(problems-2, unlocked-4)
+amod(problems-2, ready-6)
+conj_and(unlocked-4, ready-6)
+aux(use-8, to-7)
+infmod(problems-2, use-8)
+mark(inserted-11, once-9)
+nsubj(inserted-11, I-10)
+advcl(use-8, inserted-11)
+det(card-14, a-12)
+nn(card-14, sim-13)
+dobj(inserted-11, card-14)
+
+=========
+
+nsubjpass(satisfied-3, I-1)
+auxpass(satisfied-3, am-2)
+root(ROOT-0, satisfied-3)
+det(condition-6, the-5)
+prep_with(satisfied-3, condition-6)
+det(phonen-9, this-8)
+prep_of(condition-6, phonen-9)
+

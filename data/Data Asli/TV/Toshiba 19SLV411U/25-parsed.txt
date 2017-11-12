@@ -1,0 +1,70 @@
+=========
+
+nsubj(bought-3, I-1)
+advmod(bought-3, recently-2)
+root(ROOT-0, bought-3)
+det(TV-5, this-4)
+dobj(bought-3, TV-5)
+det(name-9, the-8)
+prep_because_of(TV-5, name-9)
+det(combination-14, the-11)
+nn(combination-14, DVD-12)
+nn(combination-14, placement-13)
+prep_because_of(TV-5, combination-14)
+conj_and(name-9, combination-14)
+
+=========
+
+nsubj(disappointed-4, I-1)
+cop(disappointed-4, am-2)
+advmod(disappointed-4, seriously-3)
+root(ROOT-0, disappointed-4)
+
+=========
+
+det(picture-2, The-1)
+nsubj(pixely-5, picture-2)
+cop(pixely-5, is-3)
+advmod(pixely-5, so-4)
+root(ROOT-0, pixely-5)
+nsubj(stand-9, I-6)
+aux(stand-9, can-7)
+advmod(stand-9, barely-8)
+ccomp(pixely-5, stand-9)
+xcomp(stand-9, watching-10)
+dobj(watching-10, it-11)
+
+=========
+
+nsubj(tried-3, I-1)
+nsubj(found-13, I-1)
+aux(tried-3, have-2)
+root(ROOT-0, tried-3)
+det(sizes-7, the-4)
+amod(sizes-7, different-5)
+nn(sizes-7, picture-6)
+dobj(tried-3, sizes-7)
+dobj(tried-3, modes-9)
+conj_and(sizes-7, modes-9)
+aux(found-13, have-11)
+neg(found-13, not-12)
+conj_and(tried-3, found-13)
+dobj(found-13, one-14)
+aux(better-17, to-15)
+cop(better-17, be-16)
+xcomp(found-13, better-17)
+det(other-20, the-19)
+prep_than(better-17, other-20)
+
+=========
+
+dep(concerned-11, What-1)
+det(waste-3, a-2)
+nsubj(concerned-11, waste-3)
+prep_of(waste-3, money-5)
+advmod(far-7, as-6)
+advmod(waste-3, far-7)
+prep_as(far-7, I-9)
+cop(concerned-11, am-10)
+root(ROOT-0, concerned-11)
+

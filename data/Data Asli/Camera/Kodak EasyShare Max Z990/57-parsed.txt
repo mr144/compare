@@ -1,0 +1,53 @@
+=========
+
+ccomp(fulfills-10, Other-1)
+prep_than(Other-1, freezing-3)
+advmod(freezing-3, here-4)
+advmod(freezing-3, there-6)
+conj_and(here-4, there-6)
+det(camera-9, this-8)
+nsubj(fulfills-10, camera-9)
+root(ROOT-0, fulfills-10)
+poss(needs-12, my-11)
+dobj(fulfills-10, needs-12)
+
+=========
+
+nsubj(taken-3, I-1)
+aux(taken-3, have-2)
+root(ROOT-0, taken-3)
+amod(shots-6, many-4)
+amod(shots-6, nice-5)
+dobj(taken-3, shots-6)
+amod(events-10, many-8)
+nn(events-10, sports-9)
+prep_at(taken-3, events-10)
+
+=========
+
+nsubj(pro-5, I-1)
+cop(pro-5, am-2)
+neg(pro-5, not-3)
+det(pro-5, a-4)
+root(ROOT-0, pro-5)
+advmod(mom-9, just-7)
+det(mom-9, a-8)
+appos(pro-5, mom-9)
+nsubj(wants-11, mom-9)
+rcmod(mom-9, wants-11)
+aux(take-13, to-12)
+xcomp(wants-11, take-13)
+det(shots-16, some-14)
+amod(shots-16, nice-15)
+dobj(take-13, shots-16)
+
+=========
+
+advmod(took-7, Also-1)
+poss(cruise-5, my-4)
+prep_at(took-7, cruise-5)
+root(ROOT-0, took-7)
+det(pics-10, some-8)
+amod(pics-10, great-9)
+dobj(took-7, pics-10)
+

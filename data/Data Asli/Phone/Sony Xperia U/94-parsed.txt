@@ -1,0 +1,67 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(phone-5, this-4)
+dobj(had-3, phone-5)
+det(good-13, a-7)
+nn(good-13, month-8)
+advmod(so-12, so-10)
+advmod(so-12, far-11)
+advmod(month-8, so-12)
+conj_and(month-8, so-12)
+nn(good-13, so-12)
+prep_for(phone-5, good-13)
+
+=========
+
+nsubj(expected-3, Everything-1)
+advmod(Everything-1, as-2)
+root(ROOT-0, expected-3)
+det(description-6, the-5)
+prep_from(expected-3, description-6)
+
+=========
+
+mark(is-3, If-1)
+expl(is-3, there-2)
+csubj(is-9, is-3)
+nsubj(is-3, something-4)
+dobj(like-8, something-4)
+nsubj(like-8, I-5)
+aux(like-8, do-6)
+neg(like-8, not-7)
+rcmod(something-4, like-8)
+root(ROOT-0, is-9)
+nn(duration-11, battery-10)
+attr(is-9, duration-11)
+mark(used-14, if-13)
+advcl(make-22, used-14)
+prep_for(used-14, internet-16)
+advmod(make-22, sometimes-17)
+nsubj(make-22, it-18)
+aux(make-22, does-19)
+neg(make-22, not-20)
+advmod(make-22, even-21)
+ccomp(is-9, make-22)
+prep_to(make-22, evening-24)
+dep(is-9, so-26)
+nsubj(needs-28, it-27)
+ccomp(is-9, needs-28)
+xcomp(needs-28, recharging-29)
+det(day-32, the-31)
+prep_during(recharging-29, day-32)
+
+=========
+
+dobj(like-3, What-1)
+nsubj(like-3, I-2)
+csubj(light-7, like-3)
+advmod(like-3, most-4)
+cop(light-7, is-5)
+det(light-7, the-6)
+root(ROOT-0, light-7)
+advmod(fancy-10, very-9)
+amod(light-7, fancy-10)
+

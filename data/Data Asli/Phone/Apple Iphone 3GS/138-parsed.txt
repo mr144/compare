@@ -1,0 +1,39 @@
+=========
+
+poss(product-4, Its-1)
+advmod(good-3, very-2)
+amod(product-4, good-3)
+root(ROOT-0, product-4)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+
+=========
+
+root(ROOT-0, Product-1)
+amod(quality-4, excellent-3)
+prep_by(Product-1, quality-4)
+amod(durability-7, exceptional-6)
+prep_by(Product-1, durability-7)
+conj_and(quality-4, durability-7)
+
+=========
+
+dep(fail-2, No-1)
+dep(problem-5, fail-2)
+conj_and(fail-2, no-4)
+dep(problem-5, no-4)
+root(ROOT-0, problem-5)
+
+=========
+
+dep(more-2, No-1)
+advmod(comment-3, more-2)
+root(ROOT-0, comment-3)
+
+=========
+
+root(ROOT-0, Thanks-1)
+

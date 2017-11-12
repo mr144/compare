@@ -1,0 +1,26 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(D90-5, a-3)
+nn(D90-5, Nikon-4)
+dobj(have-2, D90-5)
+nsubj(works-7, D90-5)
+rcmod(D90-5, works-7)
+advmod(well-9, very-8)
+advmod(works-7, well-9)
+nsubj(happy-13, I-11)
+cop(happy-13, am-12)
+conj_and(have-2, happy-13)
+prep_with(happy-13, it-15)
+
+=========
+
+nsubj(like-3, I-1)
+aux(like-3, would-2)
+root(ROOT-0, like-3)
+dobj(like-3, opinions-4)
+prep_on(like-3, this-6)
+det(d7100-9, a-8)
+prep_vs.(this-6, d7100-9)
+

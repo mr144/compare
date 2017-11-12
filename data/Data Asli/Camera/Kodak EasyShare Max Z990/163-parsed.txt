@@ -1,0 +1,37 @@
+=========
+
+nsubj(LOVE-3, I-1)
+advmod(LOVE-3, absolutely-2)
+root(ROOT-0, LOVE-3)
+det(camera-5, this-4)
+dobj(LOVE-3, camera-5)
+
+=========
+
+amod(pictures-2, Clear-1)
+root(ROOT-0, pictures-2)
+amod(zoom-5, GREAT-4)
+appos(pictures-2, zoom-5)
+amod(pics-8, GREAT-7)
+appos(zoom-5, pics-8)
+
+=========
+
+nsubj(believe-4, I-1)
+aux(believe-4, can-2)
+neg(believe-4, not-3)
+root(ROOT-0, believe-4)
+advmod(are-9, how-5)
+amod(images-8, detailed-6)
+amod(images-8, my-7)
+nsubj(are-9, images-8)
+ccomp(believe-4, are-9)
+advmod(are-9, even-11)
+det(distance-15, a-13)
+amod(distance-15, big-14)
+prep_from(are-9, distance-15)
+abbrev(distance-15, AND-17)
+det(window-21, the-19)
+nn(window-21, kitchen-20)
+prep_through(AND-17, window-21)
+

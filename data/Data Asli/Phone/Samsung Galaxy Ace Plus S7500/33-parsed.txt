@@ -1,0 +1,27 @@
+=========
+
+advmod(is-4, Galaxy-1)
+nn(Plus-3, Ace-2)
+nsubj(is-4, Plus-3)
+dep(want-19, is-4)
+det(option-7, a-5)
+amod(option-7, great-6)
+nsubj(works-12, option-7)
+nsubj(do-16, option-7)
+amod(cost-10, low-9)
+appos(option-7, cost-10)
+ccomp(is-4, works-12)
+advmod(works-12, well-13)
+ccomp(is-4, do-16)
+conj_and(works-12, do-16)
+dobj(do-16, anything-17)
+nsubj(want-19, you-18)
+root(ROOT-0, want-19)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+nn(PLus-4, Ace-3)
+dobj(recommend-2, PLus-4)
+

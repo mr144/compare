@@ -1,0 +1,85 @@
+=========
+
+nsubjpass(described-4, Product-1)
+auxpass(described-4, was-2)
+advmod(described-4, as-3)
+root(ROOT-0, described-4)
+
+=========
+
+nsubj(was-2, Information-1)
+root(ROOT-0, was-2)
+prep_on(was-2, disk-4)
+parataxis(was-2, Have-6)
+nsubj(Have-6, NEVER-7)
+nn(ABLE-9, BEEN-8)
+dep(Have-6, ABLE-9)
+aux(GET-11, TO-10)
+infmod(ABLE-9, GET-11)
+det(LOAD-15, THE-12)
+nn(LOAD-15, DISK-13)
+nn(LOAD-15, TO-14)
+dobj(GET-11, LOAD-15)
+
+=========
+
+nn(SITS-2, CAMERA-1)
+nsubj(UNABLE-4, SITS-2)
+advmod(UNABLE-4, HERE-3)
+root(ROOT-0, UNABLE-4)
+nn(HOW-7, TO-5)
+nn(HOW-7, UMDERSTAND-6)
+nsubj(USE-9, HOW-7)
+aux(USE-9, TO-8)
+xcomp(UNABLE-4, USE-9)
+
+=========
+
+root(ROOT-0, Use-1)
+aux(love-3, to-2)
+xcomp(Use-1, love-3)
+nn(products-5, GE-4)
+dobj(love-3, products-5)
+dep(More-7, No-6)
+advmod(love-3, More-7)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+advmod(are-2, still-3)
+nsubj(are-2, some-4)
+nsubj(prefer-8, some-4)
+prep_of(some-4, us-6)
+rcmod(some-4, prefer-8)
+amod(information-10, printed-9)
+dobj(prefer-8, information-10)
+
+=========
+
+poss(age-3, my-2)
+prep_at(73-4, age-3)
+root(ROOT-0, 73-4)
+poss(easier-6, its-5)
+nsubj(73-4, easier-6)
+prep_for(easier-6, me-8)
+
+=========
+
+advmod(given-6, At-1)
+pobj(At-1, least-2)
+aux(given-6, should-3)
+aux(given-6, have-4)
+auxpass(given-6, been-5)
+root(ROOT-0, given-6)
+dep(given-6, option-7)
+aux(get-9, to-8)
+infmod(option-7, get-9)
+dobj(get-9, it-10)
+mark(use-14, in-11)
+dep(use-14, order-12)
+aux(use-14, to-13)
+purpcl(get-9, use-14)
+det(camera-16, the-15)
+dobj(use-14, camera-16)
+

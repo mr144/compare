@@ -1,0 +1,29 @@
+=========
+
+det(product-2, the-1)
+nsubj(arrived-3, product-2)
+root(ROOT-0, arrived-3)
+advmod(arrived-3, sooner-4)
+mark(expected-7, than-5)
+nsubj(expected-7, I-6)
+advcl(arrived-3, expected-7)
+nsubj(phone-13, it-9)
+cop(phone-13, is-10)
+det(phone-13, the-11)
+amod(phone-13, best-12)
+conj_and(arrived-3, phone-13)
+advmod(!!-15, ever-14)
+amod(phone-13, !!-15)
+nsubj(love-17, I-16)
+rcmod(phone-13, love-17)
+nsubj(suggest-21, it-18)
+npadvmod(Hardly-20, !!!-19)
+advmod(suggest-21, Hardly-20)
+ccomp(love-17, suggest-21)
+dobj(suggest-21, it-22)
+
+=========
+
+nn(!!-2, Thanks-1)
+root(ROOT-0, !!-2)
+

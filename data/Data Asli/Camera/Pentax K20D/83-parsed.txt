@@ -1,0 +1,23 @@
+=========
+
+nsubj(controls-3, Straight-1)
+advmod(controls-3, forward-2)
+root(ROOT-0, controls-3)
+prep(controls-3, light-5)
+acomp(controls-3, quick-7)
+
+=========
+
+nsubj(all-3, It-1)
+cop(all-3, 's-2)
+root(ROOT-0, all-3)
+dobj(expected-5, all-3)
+nsubj(expected-5, I-4)
+nsubj(want-7, I-4)
+rcmod(all-3, expected-5)
+rcmod(all-3, want-7)
+conj_and(expected-5, want-7)
+det(camera-12, a-10)
+amod(camera-12, digital-11)
+prep_out_of(want-7, camera-12)
+

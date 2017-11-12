@@ -1,0 +1,33 @@
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, an-3)
+amod(TV-5, amazing-4)
+root(ROOT-0, TV-5)
+
+=========
+
+det(quality-3, The-1)
+num(quality-3, 3D-2)
+nsubj(amazing-5, quality-3)
+cop(amazing-5, is-4)
+ccomp(like-8, amazing-5)
+nsubj(like-8, its-7)
+root(ROOT-0, like-8)
+xcomp(like-8, being-9)
+det(movies-12, the-11)
+prep_at(being-9, movies-12)
+
+=========
+
+poss(daughter-2, My-1)
+nsubj(enjoying-6, daughter-2)
+conj_and(daughter-2, I-4)
+nsubj(enjoying-6, I-4)
+aux(enjoying-6, are-5)
+root(ROOT-0, enjoying-6)
+nsubj(much-9, it-7)
+advmod(much-9, very-8)
+xcomp(enjoying-6, much-9)
+

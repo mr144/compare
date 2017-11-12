@@ -1,0 +1,4 @@
+Overall_RB ,_, the_DT Nexus_NNP One_CD is_VBZ a_DT great_JJ phone_NN ._.
+It_PRP 's_VBZ fast_RB ,_, has_VBZ a_DT good_JJ looking_VBG and_CC good_JJ size_NN screen_NN ._.
+And_CC I_PRP think_VBP ,_, best_JJS of_IN all_DT ,_, it_PRP gets_VBZ the_DT latest_JJS update_VBP of_IN android_NN software_NN right_RB when_WRB it_PRP comes_VBZ out_RP ._.
+It_PRP is_VBZ the_DT standard_JJ phone_NN for_IN running_VBG Android_NNP OS_NNP ._.

@@ -1,0 +1,33 @@
+=========
+
+nsubj(gift-5, This-1)
+cop(gift-5, is-2)
+det(gift-5, the-3)
+amod(gift-5, best-4)
+dobj(gif-9, gift-5)
+ccomp(crazy-16, gift-5)
+nsubj(gif-9, i-6)
+aux(gif-9, could-7)
+advmod(gif-9, ever-8)
+rcmod(gift-5, gif-9)
+prep_to(gif-9, myself-11)
+nsubj(crazy-16, i-13)
+aux(crazy-16, was-14)
+dep(crazy-16, getting-15)
+root(ROOT-0, crazy-16)
+prep_for(crazy-16, it-18)
+mark(saw-24, since-19)
+det(i-23, the-20)
+amod(i-23, first-21)
+nn(i-23, time-22)
+nsubj(saw-24, i-23)
+advcl(crazy-16, saw-24)
+dobj(saw-24, it-25)
+prep_in(saw-24, publicity-27)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, You-2)
+dep(Thank-1, D-4)
+

@@ -1,0 +1,24 @@
+=========
+
+cop(phone-5, Is-1)
+nsubj(phone-5, it-2)
+det(phone-5, an-3)
+amod(phone-5, unlocked-4)
+root(ROOT-0, phone-5)
+appos(phone-5, right-7)
+
+=========
+
+aux(work-3, Will-1)
+nsubj(work-3, it-2)
+root(ROOT-0, work-3)
+det(carrier-6, any-5)
+prep_with(work-3, carrier-6)
+det(frequencies-10, the-8)
+amod(frequencies-10, allowed-9)
+prep_within(carrier-6, frequencies-10)
+
+=========
+
+root(ROOT-0, Thanks-1)
+

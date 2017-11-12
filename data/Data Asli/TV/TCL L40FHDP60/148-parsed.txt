@@ -1,0 +1,53 @@
+=========
+
+dep(expect-7, Well-1)
+advmod(expect-7, honestly-3)
+nsubj(expect-7, I-4)
+aux(expect-7, did-5)
+neg(expect-7, not-6)
+root(ROOT-0, expect-7)
+det(brand-9, this-8)
+dobj(expect-7, brand-9)
+aux(perform-11, to-10)
+infmod(brand-9, perform-11)
+advmod(perform-11, well-12)
+
+=========
+
+nsubjpass(surprised-3, I-1)
+auxpass(surprised-3, was-2)
+root(ROOT-0, surprised-3)
+advmod(is-9, how-5)
+amod(picture-8, nice-6)
+det(picture-8, the-7)
+nsubj(is-9, picture-8)
+prepc_at(surprised-3, is-9)
+
+=========
+
+nsubj(appreciated-3, I-1)
+advmod(appreciated-3, also-2)
+root(ROOT-0, appreciated-3)
+advmod(is-7, how-4)
+dep(how-4, light-5)
+nsubj(is-7, it-6)
+ccomp(appreciated-3, is-7)
+
+=========
+
+det(menu-2, The-1)
+nsubj(simple-4, menu-2)
+cop(simple-4, is-3)
+root(ROOT-0, simple-4)
+aux(navigate-6, to-5)
+xcomp(simple-4, navigate-6)
+
+=========
+
+nsubj(bright-4, It-1)
+dep(bright-4, screen-2)
+cop(bright-4, is-3)
+root(ROOT-0, bright-4)
+advmod(too-7, crisp-6)
+conj_and(bright-4, too-7)
+

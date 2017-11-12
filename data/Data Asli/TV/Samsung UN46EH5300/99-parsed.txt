@@ -1,0 +1,31 @@
+=========
+
+det(TV-2, This-1)
+nsubj(has-3, TV-2)
+root(ROOT-0, has-3)
+nsubj(all-5, it-4)
+xcomp(has-3, all-5)
+
+=========
+
+nsubj(glad-4, I-1)
+cop(glad-4, am-2)
+advmod(glad-4, so-3)
+root(ROOT-0, glad-4)
+nsubj(purchased-6, I-5)
+ccomp(glad-4, purchased-6)
+dobj(purchased-6, it-7)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+prep_to(recommend-3, anyone-6)
+partmod(anyone-6, looking-7)
+det(HDTV-12, a-9)
+num(HDTV-12, 32-10)
+nn(HDTV-12, inch-11)
+prep_for(looking-7, HDTV-12)
+

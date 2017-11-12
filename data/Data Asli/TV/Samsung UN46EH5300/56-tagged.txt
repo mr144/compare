@@ -1,0 +1,2 @@
+Put_VB this_DT on_IN the_DT wall_NN for_IN a_DT 2nd_JJ monitor_NN and_CC everyone_NN can_MD read_VB it_PRP very_RB easily_RB ._.
+It_PRP is_VBZ working_VBG very_RB well_RB

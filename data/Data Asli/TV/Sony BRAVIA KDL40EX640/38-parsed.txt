@@ -1,0 +1,33 @@
+=========
+
+nsubj(chose-2, i-1)
+root(ROOT-0, chose-2)
+det(television-4, this-3)
+dobj(chose-2, television-4)
+poss(ease-7, its-6)
+prep_for(television-4, ease-7)
+aux(surf-9, to-8)
+infmod(ease-7, surf-9)
+det(internet-11, the-10)
+dobj(surf-9, internet-11)
+det(capabilities-17, the-13)
+amod(capabilities-17, great-14)
+amod(capabilities-17, high-15)
+nn(capabilities-17, definition-16)
+appos(internet-11, capabilities-17)
+
+=========
+
+nsubj(led-6, i-1)
+det(lit-5, the-3)
+amod(lit-5, back-4)
+prep_like(i-1, lit-5)
+root(ROOT-0, led-6)
+amod(i-8, techknowledge-7)
+nsubj(recommend-10, i-8)
+aux(recommend-10, will-9)
+ccomp(led-6, recommend-10)
+dobj(recommend-10, this-11)
+poss(friends-14, my-13)
+prep_to(recommend-10, friends-14)
+

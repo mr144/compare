@@ -1,0 +1,65 @@
+=========
+
+mark(read-3, As-1)
+nsubj(read-3, you-2)
+csubj(aware-9, read-3)
+predet(reviews-6, all-4)
+det(reviews-6, the-5)
+dobj(read-3, reviews-6)
+advmod(read-3, here-7)
+cop(aware-9, be-8)
+root(ROOT-0, aware-9)
+complm(are-12, that-10)
+nsubj(are-12, they-11)
+ccomp(aware-9, are-12)
+num(products-17, 3-14)
+amod(products-17, different-15)
+nn(products-17, Sony-16)
+prep_for(are-12, products-17)
+
+=========
+
+amod(Sony-6, 40-inch-1)
+conj_and(40-inch-1, 46-inch-3)
+amod(Sony-6, 46-inch-3)
+conj_and(40-inch-1, 55-inch-5)
+amod(Sony-6, 55-inch-5)
+nsubj(Televisions-7, Sony-6)
+root(ROOT-0, Televisions-7)
+
+=========
+
+advmod(products-5, Obviously-1)
+nsubj(products-5, they-2)
+nsubjpass(gathered-11, they-2)
+cop(products-5, are-3)
+amod(products-5, different-4)
+root(ROOT-0, products-5)
+aux(gathered-11, should-7)
+neg(gathered-11, not-8)
+auxpass(gathered-11, be-9)
+advmod(gathered-11, all-10)
+conj_and(products-5, gathered-11)
+advmod(gathered-11, here-12)
+
+=========
+
+nsubj(shows-2, Each-1)
+root(ROOT-0, shows-2)
+det(product-4, the-3)
+dobj(shows-2, product-4)
+auxpass(reviewed-6, being-5)
+partmod(product-4, reviewed-6)
+amod(boldface-9, small-8)
+prep_in(reviewed-6, boldface-9)
+det(top-12, the-11)
+prep_at(reviewed-6, top-12)
+det(review-15, the-14)
+prep_of(top-12, review-15)
+
+=========
+
+advmod(helps-3, Hope-1)
+nsubj(helps-3, this-2)
+root(ROOT-0, helps-3)
+

@@ -1,0 +1,67 @@
+=========
+
+nsubj(boutght-2, i-1)
+nsubj(got-7, i-1)
+root(ROOT-0, boutght-2)
+dobj(boutght-2, this-3)
+prep_on(this-3, 2\/25\/2013-5)
+conj_and(boutght-2, got-7)
+dobj(got-7, it-8)
+num(days-10, 3-9)
+tmod(got-7, days-10)
+advmod(days-10, later-11)
+
+=========
+
+dep(problem-9, So-1)
+advmod(so-3, far-2)
+advmod(problem-9, so-3)
+amod(setup-5, good-4)
+nsubj(problem-9, setup-5)
+cop(problem-9, is-6)
+amod(problem-9, easy-7)
+advmod(easy-7, so-8)
+root(ROOT-0, problem-9)
+advmod(problem-9, yet-10)
+quantmod(5\/5-12, so-11)
+pobj(yet-10, 5\/5-12)
+
+=========
+
+aux(keep-2, will-1)
+root(ROOT-0, keep-2)
+iobj(keep-2, you-3)
+amod(\/-6, updated-4)
+num(\/-6, .4-5)
+dobj(keep-2, \/-6)
+nsubj(keep-2, 16\/2013-7)
+det(product-10, the-9)
+nsubj(great-13, product-10)
+cop(great-13, is-11)
+advmod(great-13, still-12)
+dep(keep-2, great-13)
+advmod(great-13, 5\/5-15)
+
+=========
+
+nn(wanna-3, i-2)
+nsubj(buy-4, wanna-3)
+root(ROOT-0, buy-4)
+det(keyboard-7, a-5)
+amod(keyboard-7, wireless-6)
+dobj(buy-4, keyboard-7)
+det(someone-12, a-9)
+nn(someone-12, mouse-10)
+nn(someone-12, can-11)
+nsubj(help-14, someone-12)
+dep(help-14, please-13)
+conj_and(buy-4, help-14)
+nsubj(know-16, me-15)
+ccomp(help-14, know-16)
+dobj(best-20, which-17)
+nsubj(best-20, one-18)
+cop(best-20, is-19)
+ccomp(know-16, best-20)
+poss(tv-23, my-22)
+prep_for(best-20, tv-23)
+

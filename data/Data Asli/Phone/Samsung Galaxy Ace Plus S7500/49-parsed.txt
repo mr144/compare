@@ -1,0 +1,63 @@
+=========
+
+nsubj(blue-7, Product-1)
+cop(blue-7, was-2)
+neg(blue-7, not-3)
+det(blue-7, the-4)
+amod(blue-7, same-5)
+nn(blue-7, didark-6)
+root(ROOT-0, blue-7)
+dobj(mentioned-11, blue-7)
+nsubj(mentioned-11, they-9)
+aux(mentioned-11, have-10)
+rcmod(blue-7, mentioned-11)
+
+=========
+
+nsubj(black-3, It-1)
+cop(black-3, was-2)
+root(ROOT-0, black-3)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(option-4, no-3)
+dobj(had-2, option-4)
+aux(use-7, to-6)
+dobj(had-2, use-7)
+conj_but(option-4, use-7)
+infmod(option-4, use-7)
+nsubj(coz-9, it-8)
+ccomp(use-7, coz-9)
+nsubj(had-11, I-10)
+xsubj(gift-13, I-10)
+ccomp(coz-9, had-11)
+aux(gift-13, to-12)
+xcomp(had-11, gift-13)
+dobj(gift-13, it-14)
+poss(aunt-17, my-16)
+prep_to(gift-13, aunt-17)
+prep_in(aunt-17, India-19)
+
+=========
+
+nsubj(had-2, I-1)
+xsubj(fly-4, I-1)
+root(ROOT-0, had-2)
+aux(fly-4, to-3)
+xcomp(had-2, fly-4)
+dobj(fly-4, the-5)
+mark(arrived-8, after-6)
+nsubj(arrived-8, it-7)
+advcl(fly-4, arrived-8)
+
+=========
+
+nsubj(arrive-3, It-1)
+aux(arrive-3, did-2)
+root(ROOT-0, arrive-3)
+det(time-7, the-5)
+amod(time-7, estimated-6)
+prep_at(arrive-3, time-7)
+

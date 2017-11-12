@@ -1,0 +1,86 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+prep_for(bought-2, use-6)
+poss(office-10, my-8)
+nn(office-10, home-9)
+prep_in(bought-2, office-10)
+
+=========
+
+nsubj(size-5, It-1)
+cop(size-5, 's-2)
+det(size-5, the-3)
+amod(size-5, perfect-4)
+root(ROOT-0, size-5)
+appos(size-5, user-7)
+amod(user-7, friendly-8)
+amod(user-7, has-10)
+conj_and(friendly-8, has-10)
+det(picture-13, a-11)
+amod(picture-13, great-12)
+dobj(has-10, picture-13)
+
+=========
+
+nsubj(see-3, I-1)
+aux(see-3, can-2)
+root(ROOT-0, see-3)
+advmod(disappointed-8, how-4)
+nsubjpass(disappointed-8, one-5)
+aux(disappointed-8, may-6)
+auxpass(disappointed-8, be-7)
+ccomp(see-3, disappointed-8)
+det(audio-11, the-10)
+prep_in(disappointed-8, audio-11)
+
+=========
+
+det(TV-2, This-1)
+nsubj(worst-5, TV-2)
+cop(worst-5, is-3)
+det(worst-5, the-4)
+root(ROOT-0, worst-5)
+
+=========
+
+mark(looking-4, If-1)
+nsubj(looking-4, you-2)
+aux(looking-4, are-3)
+advcl(one-18, looking-4)
+prep_for(looking-4, TV-6)
+ccomp(looking-4, sound-7)
+det(booms-9, that-8)
+dobj(sound-7, booms-9)
+det(room-12, a-11)
+prep_across(sound-7, room-12)
+nsubj(one-18, this-14)
+cop(one-18, is-15)
+neg(one-18, not-16)
+det(one-18, the-17)
+root(ROOT-0, one-18)
+prep_for(one-18, you-20)
+
+=========
+
+cc(fine-21, But-1)
+poss(purposes-4, my-3)
+prep_for(fine-21, purposes-4)
+dep(purposes-4, on-6)
+det(corner-8, the-7)
+pobj(on-6, corner-8)
+dobj(working-15, corner-8)
+poss(desk-11, my-10)
+prep_of(corner-8, desk-11)
+mark(working-15, while-12)
+nsubj(working-15, I-13)
+aux(working-15, am-14)
+dep(corner-8, working-15)
+nsubj(fine-21, it-18)
+cop(fine-21, is-19)
+advmod(fine-21, just-20)
+root(ROOT-0, fine-21)
+

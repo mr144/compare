@@ -1,0 +1,222 @@
+=========
+
+root(ROOT-0, Update-1)
+num(Update-1, 2-2)
+dep(Update-1, March-3)
+det(seller-6, the-5)
+dep(Update-1, seller-6)
+partmod(seller-6, contacted-7)
+nsubj(assuring-9, me-8)
+dep(contacted-7, assuring-9)
+complm(new-14, that-10)
+det(phone-12, the-11)
+nsubj(new-14, phone-12)
+nsubj(opened-17, phone-12)
+nsubj(indicated-23, phone-12)
+cop(new-14, is-13)
+ccomp(assuring-9, new-14)
+ccomp(assuring-9, opened-17)
+conj_but(new-14, opened-17)
+prep_by(opened-17, them-19)
+prep_for(opened-17, unlocking-21)
+ccomp(assuring-9, indicated-23)
+conj_and(new-14, indicated-23)
+complm(phones-28, that-24)
+nsubj(phones-28, these-25)
+cop(phones-28, are-26)
+nn(phones-28, liquidation-27)
+ccomp(indicated-23, phones-28)
+
+=========
+
+advmod(dedcribed-5, Apparently-1)
+predet(this-3, all-2)
+nsubjpass(dedcribed-5, this-3)
+auxpass(dedcribed-5, is-4)
+ccomp(indicated-10, dedcribed-5)
+prep_before(dedcribed-5, purchase-7)
+nsubj(indicated-10, she-9)
+root(ROOT-0, indicated-10)
+
+=========
+
+det(phone-2, The-1)
+nsubj(working-4, phone-2)
+aux(working-4, is-3)
+root(ROOT-0, working-4)
+acomp(working-4, fine-5)
+prepc_since(fine-5, arriving-7)
+num(days-9, two-8)
+npadvmod(ago-10, days-9)
+advmod(arriving-7, ago-10)
+
+=========
+
+cc(accepted-4, And-1)
+nsubj(accepted-4, I-2)
+aux(accepted-4, have-3)
+root(ROOT-0, accepted-4)
+poss(explanation-6, her-5)
+dobj(accepted-4, explanation-6)
+
+=========
+
+amod(post-2, Original-1)
+nsubj(follows-3, post-2)
+root(ROOT-0, follows-3)
+
+=========
+
+nsubj(had-2, It-1)
+xsubj(happen-4, It-1)
+root(ROOT-0, had-2)
+aux(happen-4, to-3)
+xcomp(had-2, happen-4)
+prep_after(ripped-22, thousands-7)
+prep_of(thousands-7, dollars-9)
+prep_of(dollars-9, purchases-11)
+prep_from(purchases-11, Amazon-13)
+amod(years-18, many-15)
+amod(years-18, many-17)
+prep_for(Amazon-13, years-18)
+nsubjpass(ripped-22, I-20)
+auxpass(ripped-22, got-21)
+parataxis(had-2, ripped-22)
+prt(ripped-22, off-23)
+
+=========
+
+det(phone-2, This-1)
+nsubj(arrived-12, phone-2)
+nsubj(replacing-7, which-4)
+aux(replacing-7, should-5)
+aux(replacing-7, be-6)
+rcmod(phone-2, replacing-7)
+poss(Droid-10, my-8)
+amod(Droid-10, original-9)
+dobj(replacing-7, Droid-10)
+root(ROOT-0, arrived-12)
+tmod(arrived-12, today-13)
+
+=========
+
+advmod(disappointed-2, Very-1)
+root(ROOT-0, disappointed-2)
+
+=========
+
+nsubj(ordered-2, I-1)
+ccomp(got-8, ordered-2)
+det(phone-5, a-3)
+amod(phone-5, NEW-4)
+dobj(ordered-2, phone-5)
+nsubj(got-8, I-7)
+root(ROOT-0, got-8)
+det(one-11, a-9)
+amod(one-11, used-10)
+dobj(got-8, one-11)
+
+=========
+
+advmod(used-2, Clearly-1)
+ccomp(home-printed-21, used-2)
+prep(used-2, before-3)
+nn(shows-8, SIM-5)
+nn(shows-8, card-6)
+nn(shows-8, slot-7)
+nsubj(scratch-9, shows-8)
+parataxis(used-2, scratch-9)
+nn(pasted-18, marks-10)
+conj_and(marks-10, screen-12)
+nn(pasted-18, screen-12)
+conj_and(marks-10, camera-14)
+nn(pasted-18, camera-14)
+nn(pasted-18, lens-15)
+amod(pasted-18, plastic-16)
+nn(pasted-18, half-17)
+dobj(scratch-9, pasted-18)
+prt(scratch-9, on-19)
+root(ROOT-0, home-printed-21)
+amod(guide-24, quick-22)
+nn(guide-24, start-23)
+nsubj(home-printed-21, guide-24)
+appos(guide-24, all-26)
+amod(box-30, non-descript-28)
+nn(box-30, AT&T-29)
+prep_in(all-26, box-30)
+advmod(larger-32, much-31)
+amod(all-26, larger-32)
+poss(contents-35, its-34)
+prep_than(all-26, contents-35)
+
+=========
+
+det(phone-2, The-1)
+nsubj(bouncing-6, phone-2)
+conj_and(phone-2, charger-4)
+nsubj(bouncing-6, charger-4)
+aux(bouncing-6, were-5)
+root(ROOT-0, bouncing-6)
+prt(bouncing-6, around-7)
+advmod(bouncing-6, inside-8)
+
+=========
+
+det(cable-3, No-1)
+amod(cable-3, HDMI-2)
+root(ROOT-0, cable-3)
+
+=========
+
+nsubj(is-2, This-1)
+root(ROOT-0, is-2)
+det(experience-9, a-4)
+amod(experience-9, mickey-5)
+nn(experience-9, mouse-6)
+amod(experience-9, social-7)
+nn(experience-9, network-8)
+prep_like(is-2, experience-9)
+
+=========
+
+det(seller-2, The-1)
+nsubj(left-7, seller-2)
+appos(seller-2, orderinstantcom-4)
+aux(left-7, has-6)
+root(ROOT-0, left-7)
+poss(distribuitor-9, its-8)
+dobj(left-7, distribuitor-9)
+appos(distribuitor-9, Amazon-11)
+prep_with(distribuitor-9, egg-14)
+poss(face-17, its-16)
+prep_on(left-7, face-17)
+
+=========
+
+amod(folks-2, Sorry-1)
+root(ROOT-0, folks-2)
+dep(folks-2, but-4)
+nsubj(truth-8, it-5)
+cop(truth-8, is-6)
+det(truth-8, the-7)
+dep(folks-2, truth-8)
+
+=========
+
+root(ROOT-0, Note-1)
+det(stars-5, The-3)
+num(stars-5, two-4)
+nsubj(features-19, stars-5)
+advmod(rate-7, really-6)
+dep(features-19, rate-7)
+det(condition-9, the-8)
+nsubj(features-19, condition-9)
+det(Atrix-12, the-11)
+prep_of(condition-9, Atrix-12)
+det(Atrix-18, the-16)
+amod(Atrix-18, promised-17)
+conj_negcc(condition-9, Atrix-18)
+nsubj(features-19, Atrix-18)
+parataxis(Note-1, features-19)
+xcomp(Note-1, features-19)
+

@@ -1,0 +1,40 @@
+=========
+
+nsubj(liked-3, I-1)
+advmod(liked-3, really-2)
+root(ROOT-0, liked-3)
+det(product-5, this-4)
+dobj(liked-3, product-5)
+
+=========
+
+nsubj(note-2, They-1)
+nsubj(works-10, They-1)
+root(ROOT-0, note-2)
+complm(quality-8, that-3)
+nsubj(quality-8, it-4)
+cop(quality-8, is-5)
+advmod(good-7, very-6)
+amod(quality-8, good-7)
+ccomp(note-2, quality-8)
+conj_and(note-2, works-10)
+advmod(works-10, perfectly-11)
+
+=========
+
+nsubjpass(noted-3, It-1)
+auxpass(noted-3, is-2)
+root(ROOT-0, noted-3)
+dobj(noted-3, that-4)
+prepc_in(noted-3, drafting-6)
+amod(detail-9, cared-7)
+amod(detail-9, much-8)
+dobj(drafting-6, detail-9)
+
+=========
+
+nsubj(recommend-4, I-1)
+dep(recommend-4, did-2)
+advmod(recommend-4, highly-3)
+root(ROOT-0, recommend-4)
+

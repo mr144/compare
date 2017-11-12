@@ -1,0 +1,37 @@
+=========
+
+amod(product-2, Excellent-1)
+root(ROOT-0, product-2)
+
+=========
+
+advmod(done-3, Very-1)
+advmod(done-3, well-2)
+dep(phone-19, done-3)
+amod(details-6, nice-5)
+nsubj(phone-19, details-6)
+advmod(good-9, very-8)
+amod(interface-11, good-9)
+amod(interface-11, graphical-10)
+appos(details-6, interface-11)
+amod(speed-14, super-13)
+appos(details-6, speed-14)
+conj_and(interface-11, speed-14)
+cop(phone-19, being-16)
+det(phone-19, a-17)
+amod(phone-19, mid-range-18)
+root(ROOT-0, phone-19)
+
+=========
+
+mark(had-3, If-1)
+nsubj(had-3, I-2)
+xsubj(buy-5, I-2)
+advcl(do-8, had-3)
+aux(buy-5, to-4)
+xcomp(had-3, buy-5)
+dobj(buy-5, another-6)
+root(ROOT-0, do-8)
+dobj(do-8, it-9)
+advmod(do-8, again-10)
+

@@ -1,0 +1,327 @@
+=========
+
+nsubj(got-3, I-1)
+nsubj(had-8, I-1)
+advmod(got-3, just-2)
+root(ROOT-0, got-3)
+det(home-6, this-4)
+nn(home-6, Sony-5)
+dobj(got-3, home-6)
+conj_and(got-3, had-8)
+dobj(had-8, it-9)
+advmod(had-8, up-10)
+prep_in(up-10, minutes-12)
+
+=========
+
+nsubj(hard-3, It-1)
+cop(hard-3, is-2)
+root(ROOT-0, hard-3)
+aux(believe-5, to-4)
+xcomp(hard-3, believe-5)
+complm(purchase-9, that-6)
+nsubj(purchase-9, we-7)
+aux(purchase-9, can-8)
+ccomp(believe-5, purchase-9)
+det(HDTV-11, an-10)
+dobj(purchase-9, HDTV-11)
+det(Sony-18, this-13)
+dep(Sony-18, quality-14)
+det(name-17, the-16)
+prep_with(quality-14, name-17)
+prep_of(HDTV-11, Sony-18)
+prep_on(purchase-9, it-20)
+
+=========
+
+nsubj(compare-4, I-1)
+aux(compare-4, can-2)
+advmod(compare-4, only-3)
+root(ROOT-0, compare-4)
+dobj(compare-4, it-5)
+amod(HDTV-8, other-7)
+prep_with(compare-4, HDTV-8)
+possessive(HDTV-8, 's-9)
+complm(owned-13, that-10)
+nsubj(owned-13, I-11)
+aux(owned-13, have-12)
+ccomp(compare-4, owned-13)
+advmod(far-15, so-14)
+advmod(owned-13, far-15)
+
+=========
+
+nsubj(BLOWS-2, IT-1)
+root(ROOT-0, BLOWS-2)
+nn(AWAY-5, THEM-3)
+nn(AWAY-5, ALL-4)
+dobj(BLOWS-2, AWAY-5)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(HDTV-8, a-3)
+det(32-6, no-4)
+nn(32-6, name-5)
+poss(HDTV-8, 32-6)
+dobj(bought-2, HDTV-8)
+prep(bought-2, about-9)
+num(years-11, five-10)
+npadvmod(ago-12, years-11)
+pcomp(about-9, ago-12)
+complm(set-14, that-13)
+ccomp(bought-2, set-14)
+nsubj(back-16, me-15)
+ccomp(set-14, back-16)
+quantmod(12-18, about-17)
+num(Franklin-20, 12-18)
+nn(Franklin-20, Ben-19)
+dobj(back-16, Franklin-20)
+possessive(Franklin-20, 's-21)
+
+=========
+
+nn(Up-2, Set-1)
+nsubj(breeze-5, Up-2)
+cop(breeze-5, was-3)
+det(breeze-5, a-4)
+root(ROOT-0, breeze-5)
+det(Sony-8, the-7)
+prep_on(breeze-5, Sony-8)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(menu-5, an-3)
+amod(menu-5, intuitive-4)
+dobj(has-2, menu-5)
+nsubjpass(laid-9, menu-5)
+auxpass(laid-9, is-7)
+advmod(laid-9, well-8)
+rcmod(menu-5, laid-9)
+prt(laid-9, out-10)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(52-4, a-3)
+poss(Aquos-7, 52-4)
+nn(Aquos-7, Sharp-6)
+dobj(have-2, Aquos-7)
+det(room-11, the-9)
+amod(room-11, living-10)
+prep_in(Aquos-7, room-11)
+
+=========
+
+det(Sony-2, This-1)
+nsubj(seems-3, Sony-2)
+xsubj(have-5, Sony-2)
+root(ROOT-0, seems-3)
+aux(have-5, to-4)
+xcomp(seems-3, have-5)
+det(picture-8, a-6)
+amod(picture-8, superior-7)
+dobj(have-5, picture-8)
+
+=========
+
+det(Sony-2, The-1)
+nsubj(has-3, Sony-2)
+root(ROOT-0, has-3)
+det(picture-6, a-4)
+amod(picture-6, vivid-5)
+dobj(has-3, picture-6)
+nsubj(all-10, that-8)
+cop(all-10, is-9)
+conj_and(picture-6, all-10)
+rcmod(picture-6, all-10)
+dobj(wanted-13, all-10)
+nsubj(wanted-13, I-11)
+advmod(wanted-13, really-12)
+rcmod(all-10, wanted-13)
+
+=========
+
+dep(are-3, Sure-1)
+expl(are-3, there-2)
+root(ROOT-0, are-3)
+nsubj(are-3, HDTVs-4)
+amod(specs-7, better-6)
+prep_with(HDTVs-4, specs-7)
+advmod(get-12, when-10)
+nsubj(get-12, you-11)
+advcl(COUNTS-22, get-12)
+advmod(down-14, right-13)
+advmod(get-12, down-14)
+prep_to(down-14, it-16)
+dobj(get-12, its-18)
+det(THAT-21, the-19)
+nn(THAT-21, PANEL-20)
+nsubj(COUNTS-22, THAT-21)
+conj_but(are-3, COUNTS-22)
+
+=========
+
+poss(research-2, My-1)
+nsubj(led-11, research-2)
+advmod(research-2, here-3)
+det(sites-9, a-6)
+amod(sites-9, few-7)
+amod(sites-9, other-8)
+conj_and(research-2, sites-9)
+nsubj(led-11, sites-9)
+root(ROOT-0, led-11)
+nsubj(understand-14, me-12)
+aux(understand-14, to-13)
+xcomp(led-11, understand-14)
+complm(putting-21, that-15)
+amod(makers-19, many-16)
+amod(makers-19, other-17)
+nn(makers-19, HDTV-18)
+nsubj(putting-21, makers-19)
+aux(putting-21, are-20)
+ccomp(understand-14, putting-21)
+amod(panels-23, sub-par-22)
+dobj(putting-21, panels-23)
+prep(panels-23, but-24)
+dep(but-24, loading-25)
+poss(sets-27, their-26)
+dobj(loading-25, sets-27)
+prt(loading-25, up-28)
+prep_with(loading-25, specs-30)
+
+=========
+
+poss(opinion-3, my-2)
+prep_in(BELIEVING-7, opinion-3)
+nsubj(BELIEVING-7, SEEING-5)
+aux(BELIEVING-7, IS-6)
+root(ROOT-0, BELIEVING-7)
+
+=========
+
+nsubj(saw-2, I-1)
+root(ROOT-0, saw-2)
+det(set-4, this-3)
+dobj(saw-2, set-4)
+det(store-10, a-6)
+nn(store-10, brick-7)
+conj_and(brick-7, mortar-9)
+nn(store-10, mortar-9)
+prep_in(saw-2, store-10)
+nsubj(able-14, I-12)
+cop(able-14, was-13)
+conj_and(saw-2, able-14)
+aux(do-16, to-15)
+xcomp(able-14, do-16)
+det(comparison-21, a-17)
+nn(comparison-21, SIDE-18)
+nn(comparison-21, BY-19)
+nn(comparison-21, SIDE-20)
+dobj(do-16, comparison-21)
+amod(brands-25, other-23)
+amod(brands-25, leading-24)
+prep_with(comparison-21, brands-25)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(is-4, quality-3)
+root(ROOT-0, is-4)
+nsubj(sold-6, what-5)
+ccomp(is-4, sold-6)
+dobj(sold-6, me-7)
+
+=========
+
+nsubj(better-4, It-1)
+cop(better-4, is-2)
+advmod(better-4, noticeably-3)
+root(ROOT-0, better-4)
+det(brands-8, the-6)
+amod(brands-8, other-7)
+prep_than(better-4, brands-8)
+
+=========
+
+dep(comes-6, So-1)
+prep_for(comes-6, me-4)
+nsubj(comes-6, it-5)
+root(ROOT-0, comes-6)
+prt(comes-6, down-7)
+nn(QUALITY-10, PICTURE-9)
+prep_to(comes-6, QUALITY-10)
+
+=========
+
+nsubj(love-2, I-1)
+nsubj(love-2', I-1)
+root(ROOT-0, love-2)
+conj_but(love-2, love-2')
+dobj(love-2, specs-3)
+quantmod(much-6, just-4)
+quantmod(much-6, as-5)
+npadvmod(love-2, much-6)
+det(guy-10, the-8)
+amod(guy-10, other-9)
+prep_as(love-2, guy-10)
+det(instance-16, this-14)
+amod(instance-16, particular-15)
+prep_in(love-2', instance-16)
+det(QUALITY-20, THE-18)
+nn(QUALITY-20, PICTURE-19)
+nsubj(ROCKS-21, QUALITY-20)
+parataxis(love-2, ROCKS-21)
+det(set-24, this-23)
+prep_on(ROCKS-21, set-24)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+nsubj(help-5, this-3)
+aux(help-5, will-4)
+ccomp(hope-2, help-5)
+nsubj(make-7, others-6)
+ccomp(help-5, make-7)
+det(decision-10, an-8)
+amod(decision-10, informed-9)
+dobj(make-7, decision-10)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+xcomp(love-2, reading-3)
+det(reviews-5, the-4)
+dobj(reading-3, reviews-5)
+advmod(reading-3, here-6)
+prep_on(reading-3, Amazon-8)
+
+=========
+
+nsubj(helped-3, It-1)
+aux(helped-3, has-2)
+root(ROOT-0, helped-3)
+nsubj(make-5, me-4)
+ccomp(helped-3, make-5)
+det(decisions-9, some-6)
+amod(decisions-9, great-7)
+nn(decisions-9, buying-8)
+dobj(make-5, decisions-9)
+det(past-12, the-11)
+prep_in(make-5, past-12)
+
+=========
+
+amod(luck-2, Good-1)
+root(ROOT-0, luck-2)
+prep_to(luck-2, all-4)
+poss(search-7, their-6)
+prep_in(luck-2, search-7)
+

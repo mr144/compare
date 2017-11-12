@@ -1,0 +1,39 @@
+=========
+
+nsubj(get-4, I-1)
+aux(get-4, would-2)
+neg(get-4, never-3)
+root(ROOT-0, get-4)
+det(product-7, another-5)
+nn(product-7, motorola-6)
+dobj(get-4, product-7)
+
+=========
+
+root(ROOT-0, Got-1)
+det(ATRIX-3, the-2)
+dobj(Got-1, ATRIX-3)
+num(ATRIX-3, 4G-4)
+amod(year-6, last-5)
+tmod(Got-1, year-6)
+auxpass(promised-9, was-8)
+conj_and(Got-1, promised-9)
+det(upgrade-11, an-10)
+dobj(promised-9, upgrade-11)
+prep_to(promised-9, ICECREAM-13)
+
+=========
+
+det(month-2, A-1)
+nsubj(due-7, month-2)
+det(upgrade-5, the-4)
+prep_before(month-2, upgrade-5)
+cop(due-7, was-6)
+root(ROOT-0, due-7)
+nsubj(dropped-10, Motorola-8)
+advmod(dropped-10, quietly-9)
+ccomp(due-7, dropped-10)
+dobj(dropped-10, support-11)
+det(phone-14, the-13)
+prep_of(support-11, phone-14)
+

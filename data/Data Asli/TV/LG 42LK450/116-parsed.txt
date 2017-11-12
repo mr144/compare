@@ -1,0 +1,37 @@
+=========
+
+nsubj(installed-2, We-1)
+root(ROOT-0, installed-2)
+det(LG-4, the-3)
+dobj(installed-2, LG-4)
+num(LG-4, 32-5)
+det(room-9, a-7)
+amod(room-9, small-8)
+prep_in(installed-2, room-9)
+det(bracket-14, a-11)
+nn(bracket-14, wall-12)
+nn(bracket-14, mount-13)
+prep_with(installed-2, bracket-14)
+nsubj(works-18, it-17)
+conj_and(installed-2, works-18)
+advmod(works-18, well-19)
+
+=========
+
+det(LG-2, The-1)
+nsubj(unit-6, LG-2)
+cop(unit-6, is-3)
+det(unit-6, a-4)
+nn(unit-6, quality-5)
+root(ROOT-0, unit-6)
+nsubj(recommend-11, we-9)
+aux(recommend-11, would-10)
+conj_but(unit-6, recommend-11)
+det(unit-14, a-12)
+amod(unit-14, large-13)
+dobj(recommend-11, unit-14)
+prepc_for(recommend-11, installing-16)
+det(room-20, a-18)
+amod(room-20, bigger-19)
+prep_in(installing-16, room-20)
+

@@ -1,0 +1,84 @@
+=========
+
+nsubj(disappointed-2, I-1)
+root(ROOT-0, disappointed-2)
+det(phone-4, the-3)
+nsubj(accepts-5, phone-4)
+ccomp(disappointed-2, accepts-5)
+det(sim-7, any-6)
+nsubj(asks-11, sim-7)
+det(carrier-10, any-9)
+prep_from(sim-7, carrier-10)
+ccomp(accepts-5, asks-11)
+nsubj(insert-14, me-12)
+aux(insert-14, to-13)
+xcomp(asks-11, insert-14)
+det(sim-19, the-15)
+nn(sim-19, network-16)
+nn(sim-19, unlock-17)
+nn(sim-19, code-18)
+dobj(insert-14, sim-19)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(idea-4, no-3)
+dobj(have-2, idea-4)
+dobj(means-7, idea-4)
+rel(means-7, what-5)
+nsubj(means-7, that-6)
+rcmod(idea-4, means-7)
+
+=========
+
+nsubj(received-20, Battery-1)
+nsubj(received-3, I-2)
+rcmod(Battery-1, received-3)
+mark(original-9, with-4)
+det(phone-6, the-5)
+nsubj(original-9, phone-6)
+cop(original-9, is-7)
+neg(original-9, not-8)
+advcl(received-3, original-9)
+nsubj(team-16, it-11)
+cop(team-16, is-12)
+neg(team-16, not-13)
+det(team-16, the-14)
+amod(team-16, first-15)
+advcl(received-3, team-16)
+conj_and(original-9, team-16)
+aux(acquire-18, to-17)
+infmod(team-16, acquire-18)
+advmod(acquire-18, hereby-19)
+root(ROOT-0, received-20)
+det(cable-23, no-21)
+nn(cable-23, HDMI-22)
+dobj(received-20, cable-23)
+
+=========
+
+poss(dissatisfaction-2, my-1)
+nsubj(complete-8, dissatisfaction-2)
+det(product-5, the-4)
+prep_with(dissatisfaction-2, product-5)
+partmod(product-5, purchased-6)
+cop(complete-8, is-7)
+root(ROOT-0, complete-8)
+
+=========
+
+nsubj(leave-2, I-1)
+root(ROOT-0, leave-2)
+det(matter-4, this-3)
+dobj(leave-2, matter-4)
+det(hands-7, the-6)
+prep_in(matter-4, hands-7)
+det(Lord-10, the-9)
+prep_of(hands-7, Lord-10)
+
+=========
+
+nn(bless-2, god-1)
+root(ROOT-0, bless-2)
+

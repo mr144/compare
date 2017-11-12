@@ -1,0 +1,1 @@
+JPEG_NNP IQ_NNP is_VBZ great_JJ ,_, but_CC high_JJ ISO_NNP is_VBZ mediocre_JJ ,_, sensor_NN is_VBZ old_JJ vs._IN rival_JJ mirrorless_JJ cameras_NNS ,_, auto_NN focus_NN is_VBZ fast_RB enough_JJ but_CC lack_NN focus_NN assist_VBP in_IN low_JJ light_NN ,_, which_WDT is_VBZ near_RB useless_JJ with_IN moving_VBG objects_NNS or_CC people_NNS in_IN low_JJ light_NN ._.

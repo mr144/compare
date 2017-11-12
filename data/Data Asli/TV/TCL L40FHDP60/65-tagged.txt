@@ -1,0 +1,4 @@
+Fast_NNP Shipping_NNP ,_, I_PRP use_VBP it_PRP every_DT day_NN 's_POS and_CC it_PRP is_VBZ Perfect_NNP ._.
+I_PRP put_VBD the_DT song_NN on_IN External_NNP Speakers_NNS 5.1_CD and_CC it_PRP sound_JJ Great_NNP ._.
+I_PRP put_VBD the_DT Code_NNP RCA_NNP to_TO my_PRP$ remote_JJ control_NN Shaw_NNP TV_NNP and_CC it_PRP Work_NNP Great_NNP !_.
+So_RB i_FW am_VBP satisfied_JJ and_CC i_FW will_MD buy_VB again_RB if_IN i_FW want_VBP another_DT TV_NN in_IN my_PRP$ House_NNP !_.

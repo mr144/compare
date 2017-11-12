@@ -1,0 +1,4 @@
+Hi_NNP ,_, do_VBP you_PRP have_VB avalaible_JJ the_DT AT&T_NNP Brand_NNP ?_.
+I_PRP need_VBP this_DT one_CD because_IN the_DT network_NN that_IN my_PRP$ service_NN operator_NN uses_VBZ in_IN Venezuela_NNP ._.
+Hola_NNP ,_, Tienes_NNP disponible_NNP la_NNP marca_FW AT&T_NNP ?_.
+Necesito_NNP esta_NNP por_NNP la_NNP red_JJ que_NN mi_NNS operador_VBP de_JJ servicios_NNS usa_NN en_IN Venezuela_NNP

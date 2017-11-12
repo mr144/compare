@@ -1,0 +1,3 @@
+This_DT is_VBZ a_DT really_RB wonderful_JJ camera_NN !_.
+I_PRP find_VBP it_PRP very_RB convenient_JJ ._.
+The_DT quality_NN is_VBZ really_RB very_RB good_JJ and_CC the_DT price_NN is_VBZ also_RB quite_RB reasonable_JJ !_.

@@ -1,0 +1,60 @@
+=========
+
+nn(functions-2, Camera-1)
+nsubj(are-3, functions-2)
+root(ROOT-0, are-3)
+mark(love-8, so-4)
+nsubj(love-8, awesome-5)
+conj_and(awesome-5, I-7)
+nsubj(love-8, I-7)
+advcl(are-3, love-8)
+nsubj(Cant-10, it-9)
+ccomp(love-8, Cant-10)
+dep(Cant-10, wait-11)
+det(trip-14, a-13)
+prep_for(wait-11, trip-14)
+aux(come-16, to-15)
+infmod(trip-14, come-16)
+prt(come-16, up-17)
+
+=========
+
+nsubj(love-2, I-1)
+ccomp(deal-19, love-2)
+dobj(love-2, everything-3)
+prep_about(everything-3, it-5)
+det(fact-8, the-7)
+prep_to(sent-11, fact-8)
+nsubj(deal-19, fact-8)
+nsubjpass(sent-11, it-9)
+auxpass(sent-11, was-10)
+rcmod(fact-8, sent-11)
+prep_on(sent-11, time-13)
+cop(deal-19, was-15)
+advmod(deal-19, even-16)
+det(deal-19, a-17)
+amod(deal-19, better-18)
+root(ROOT-0, deal-19)
+
+=========
+
+nn(software-2, Canon-1)
+nsubj(sucks-6, software-2)
+nn(editing-5, computer-4)
+prep_for(software-2, editing-5)
+root(ROOT-0, sucks-6)
+cc(use-9, but-7)
+nsubj(use-9, I-8)
+ccomp(sucks-6, use-9)
+nsubj(superior-14, iPhoto-10)
+conj_and(iPhoto-10, it-12)
+nsubj(superior-14, it-12)
+cop(superior-14, is-13)
+ccomp(use-9, superior-14)
+
+=========
+
+dep(!!!!!!-3, True-1)
+nn(!!!!!!-3, deal-2)
+root(ROOT-0, !!!!!!-3)
+

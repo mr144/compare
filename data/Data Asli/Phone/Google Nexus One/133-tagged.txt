@@ -1,0 +1,4 @@
+Great_JJ phone_NN ,_, great_JJ features_NNS ._.
+Ca_MD not_RB go_VB wrong_JJ with_IN this_DT one_CD ._.
+Just_RB do_VBP not_RB put_VB in_IN a_DT pay_NN as_IN you_PRP go_VBP sim_NN card_NN and_CC expect_VB to_TO operate_VB it_PRP ._.
+I_PRP made_VBD that_DT mistake_NN and_CC had_VBD a_DT bit_NN of_IN a_DT challenge_NN ,_, but_CC when_WRB I_PRP was_VBD able_JJ to_TO get_VB a_DT data_NN plan_NN it_PRP worked_VBD fantastic_JJ !_.

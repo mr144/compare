@@ -1,0 +1,69 @@
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+det(camera-5, the-4)
+dobj(like-3, camera-5)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(awesome-4, zoom-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+nsubj(close-8, you-5)
+dep(close-8, get-6)
+advmod(close-8, really-7)
+ccomp(awesome-4, close-8)
+det(pictures-11, the-10)
+nsubj(turn-13, pictures-11)
+advmod(turn-13, still-12)
+conj_and(awesome-4, turn-13)
+prt(turn-13, out-14)
+dobj(turn-13, great-15)
+
+=========
+
+det(colors-2, The-1)
+nsubj(nice-4, colors-2)
+cop(nice-4, are-3)
+root(ROOT-0, nice-4)
+advmod(nice-4, too-5)
+advmod(colorful-7, really-6)
+ccomp(made-10, colorful-7)
+nsubj(made-10, I-9)
+dep(nice-4, made-10)
+dobj(made-10, pictures-11)
+prep_of(pictures-11, fireworks-13)
+nsubj(look-16, they-15)
+dep(nice-4, look-16)
+conj_and(made-10, look-16)
+acomp(look-16, incredible-17)
+
+=========
+
+nsubj(nice-5, Video-1)
+cop(nice-5, is-2)
+advmod(nice-5, also-3)
+advmod(nice-5, really-4)
+root(ROOT-0, nice-5)
+neg(blurry-7, not-6)
+dep(nice-5, blurry-7)
+prep_at(nice-5, all-9)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+root(ROOT-0, Have-1)
+dobj(Have-1, fun-2)
+det(camera-5, the-4)
+prep_with(fun-2, camera-5)
+
+=========
+
+nsubj(do-3, I-1)
+advmod(do-3, certainly-2)
+root(ROOT-0, do-3)
+

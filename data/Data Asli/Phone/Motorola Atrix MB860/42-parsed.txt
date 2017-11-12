@@ -1,0 +1,64 @@
+=========
+
+det(money-3, the-2)
+prep_for(works-7, money-3)
+det(phone-6, this-5)
+nsubj(works-7, phone-6)
+root(ROOT-0, works-7)
+advmod(works-7, really-8)
+advmod(works-7, well-9)
+
+=========
+
+nsubj(put-2, I-1)
+root(ROOT-0, put-2)
+det(sim-6, the-4)
+nn(sim-6, StraightTalk-5)
+prep_in(put-2, sim-6)
+nsubj(worked-9, it-8)
+conj_and(put-2, worked-9)
+advmod(worked-9, immediately-10)
+
+=========
+
+advmod(set-3, When-1)
+nsubj(set-3, you-2)
+advcl(installs-9, set-3)
+dobj(set-3, it-4)
+prt(set-3, up-5)
+nsubj(installs-9, it-7)
+advmod(installs-9, immediately-8)
+ccomp(seemed-15, installs-9)
+dobj(installs-9, motoblur-10)
+nsubj(seemed-15, this-12)
+xsubj(problem-19, this-12)
+aux(seemed-15, has-13)
+neg(seemed-15, not-14)
+root(ROOT-0, seemed-15)
+aux(problem-19, to-16)
+cop(problem-19, be-17)
+det(problem-19, a-18)
+xcomp(seemed-15, problem-19)
+
+=========
+
+det(phone-2, The-1)
+nsubj(smaller-4, phone-2)
+nsubj(has-12, phone-2)
+cop(smaller-4, is-3)
+root(ROOT-0, smaller-4)
+det(II-9, the-6)
+nn(II-9, Samsung-7)
+nn(II-9, Galaxy-8)
+prep_than(smaller-4, II-9)
+conj_but(smaller-4, has-12)
+det(screen-16, the-13)
+amod(screen-16, same-14)
+nn(screen-16, size-15)
+dobj(has-12, screen-16)
+
+=========
+
+nsubj(buy-2, Great-1)
+root(ROOT-0, buy-2)
+

@@ -1,0 +1,4 @@
+All_DT in_IN perfect_JJ conditions_NNS ._.
+Perfect_NNP timing_NN and_CC procut_NN ._.
+Thanks_NNS !_.
+I_PRP do_VBP not_RB have_VB a_DT memory_NN with_IN me_PRP so_RB i_FW can_MD not_RB test_VB it_PRP the_DT right_JJ way_NN yet_RB ,_, but_CC it_PRP seems_VBZ it_PRP is_VBZ perfect_JJ ._.

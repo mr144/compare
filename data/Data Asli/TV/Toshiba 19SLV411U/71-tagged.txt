@@ -1,0 +1,7 @@
+I_PRP bought_VBD this_DT TV_NN less_JJR than_IN 1_CD year_NN ago_RB ._.
+After_IN 10_CD months_NNS of_IN regular_JJ use_NN -LRB-_-LRB- i.e._FW 1-2_CD hours_NNS in_IN evenings_NNS and_CC on_IN weekends_NNS -RRB-_-RRB- the_DT power_NN would_MD not_RB come_VB on_IN for_IN the_DT TV_NN ._.
+I_PRP called_VBD the_DT service_NN line_NN and_CC they_PRP arranged_VBD for_IN a_DT technician_NN to_TO come_VB out_RP with_IN a_DT new_JJ power_NN board_NN ._.
+This_DT took_VBD a_DT couple_NN of_IN weeks_NNS to_TO get_VB the_DT part_NN and_CC arrange_VB the_DT visit_NN ._.
+The_DT maintenance_NN technician_NN came_VBD out_RB and_CC inserted_VBD a_DT new_JJ power_NN board_NN ,_, and_CC the_DT TV_NN worked_VBD for_IN a_DT couple_NN hours_NNS and_CC then_RB the_DT power_NN went_VBD out_RP again_RB ._.
+The_DT service_NN line_NN and_CC the_DT technicians_NNS have_VBP been_VBN helpful_JJ ,_, courteous_JJ ,_, and_CC prompt_JJ ._.
+However_RB ,_, this_DT raises_VBZ fundamental_JJ issues_NNS about_IN the_DT reliability_NN of_IN this_DT model_NN

@@ -1,0 +1,67 @@
+=========
+
+det(cell-2, this-1)
+nsubj(great-4, cell-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+root(ROOT-0, easy-1)
+aux(use-3, to-2)
+dep(easy-1, use-3)
+aux(understand-6, to-5)
+dep(easy-1, understand-6)
+conj_and(use-3, understand-6)
+
+=========
+
+cc(thats-7, and-1)
+predet(price-5, such-3)
+det(price-5, a-4)
+prep_to(thats-7, price-5)
+root(ROOT-0, thats-7)
+advmod(good-9, very-8)
+acomp(thats-7, good-9)
+
+=========
+
+cc(is-5, and-1)
+det(time-4, the-2)
+nn(time-4, battery-3)
+nsubj(is-5, time-4)
+root(ROOT-0, is-5)
+num(days-7, 4-7-6)
+dep(leave-12, days-7)
+dep(leave-12, if-8)
+nsubj(leave-12, you-9)
+aux(leave-12, do-10)
+neg(leave-12, not-11)
+ccomp(is-5, leave-12)
+dobj(leave-12, everything-13)
+nsubj(thing-20, which-15)
+cop(thing-20, is-16)
+det(thing-20, a-17)
+advmod(good-19, very-18)
+amod(thing-20, good-19)
+prepc_on(leave-12, thing-20)
+tmod(comes-23, thing-20)
+advmod(comes-23, when-21)
+nsubj(comes-23, it-22)
+dep(thing-20, comes-23)
+amod(phones-26, smart-25)
+prep_to(comes-23, phones-26)
+det(one-30, the-28)
+amod(one-30, only-29)
+dep(phones-26, one-30)
+dobj(think-32, one-30)
+nsubj(think-32, I-31)
+rcmod(one-30, think-32)
+
+=========
+
+advmod(far-2, so-1)
+root(ROOT-0, far-2)
+advmod(good-4, so-3)
+dep(far-2, good-4)
+

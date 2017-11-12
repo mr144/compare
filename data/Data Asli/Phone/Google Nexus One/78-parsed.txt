@@ -1,0 +1,61 @@
+=========
+
+amod(phone-2, Great-1)
+root(ROOT-0, phone-2)
+
+=========
+
+nsubj(looks-6, Fast-1)
+nsubj(comes-9, Fast-1)
+amod(memory-4, enough-3)
+appos(Fast-1, memory-4)
+root(ROOT-0, looks-6)
+acomp(looks-6, good-7)
+conj_and(looks-6, comes-9)
+det(case-14, a-11)
+advmod(nice-13, very-12)
+amod(case-14, nice-13)
+prep_with(comes-9, case-14)
+
+=========
+
+det(con-3, The-1)
+amod(con-3, only-2)
+nsubj(wich-8, con-3)
+cop(wich-8, is-4)
+det(wich-8, the-5)
+nn(wich-8, battery-6)
+nn(wich-8, lifetime-7)
+root(ROOT-0, wich-8)
+rcmod(wich-8, needs-9)
+aux(charged-12, to-10)
+auxpass(charged-12, be-11)
+xcomp(needs-9, charged-12)
+advmod(everyday-14, almost-13)
+dobj(charged-12, everyday-14)
+det(way-18, the-17)
+prep_depending(charged-12, way-18)
+nsubj(use-20, you-19)
+rcmod(way-18, use-20)
+det(phone-22, the-21)
+dobj(use-20, phone-22)
+nsubj(seems-26, it-25)
+xsubj(issue-32, it-25)
+conj_but(wich-8, seems-26)
+aux(issue-32, to-27)
+cop(issue-32, be-28)
+det(issue-32, a-29)
+amod(issue-32, smartphone-30)
+amod(issue-32, general-31)
+xcomp(seems-26, issue-32)
+neg(issue-32, not-34)
+advmod(issue-32, only-35)
+dep(issue-32, Nexus-36)
+num(Nexus-36, One-37)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, it-3)
+

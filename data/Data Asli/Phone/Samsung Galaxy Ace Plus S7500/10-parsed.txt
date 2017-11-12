@@ -1,0 +1,61 @@
+=========
+
+amod(everything-2, wireless-1)
+nsubj(sent-3, everything-2)
+root(ROOT-0, sent-3)
+det(version-6, a-4)
+amod(version-6, mobile-5)
+dobj(sent-3, version-6)
+amod(bands-10, Australian-8)
+num(bands-10, 3G-9)
+prep_with(sent-3, bands-10)
+prep_at(sent-3, 2100\/850-12)
+nsubj(work-17, 2100\/850-12)
+aux(work-17, does-15)
+neg(work-17, not-16)
+rcmod(2100\/850-12, work-17)
+prep_in(work-17, Venezuela-19)
+nn(description-23, article-22)
+prep_in(sent-3, description-23)
+nsubj(said-25, they-24)
+rcmod(description-23, said-25)
+mark(works-28, so-26)
+nsubj(works-28, it-27)
+advcl(said-25, works-28)
+num(bands-31, 3G-30)
+prep_at(works-28, bands-31)
+prep_at(bands-31, 1900\/850-33)
+nsubj(does-36, it-35)
+conj_but(sent-3, does-36)
+neg(that-38, not-37)
+dobj(does-36, that-38)
+
+=========
+
+dep(annoying-3, I-1)
+advmod(annoying-3, really-2)
+root(ROOT-0, annoying-3)
+
+=========
+
+det(smartphone-2, This-1)
+nsubj(worse-4, smartphone-2)
+cop(worse-4, is-3)
+root(ROOT-0, worse-4)
+nn(motorola-12, blackberry-6)
+dep(motorola-12, iphone-8)
+dep(motorola-12, HTC-10)
+prep_than(worse-4, motorola-12)
+dep(motorola-12, etc.-14)
+
+=========
+
+nsubj(picked-5, I-1)
+aux(picked-5, could-2)
+neg(picked-5, not-3)
+aux(picked-5, have-4)
+root(ROOT-0, picked-5)
+det(phone-8, a-6)
+amod(phone-8, worse-7)
+dobj(picked-5, phone-8)
+

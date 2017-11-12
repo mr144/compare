@@ -1,0 +1,182 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+mwe(than-6, less-5)
+quantmod(a-7, than-6)
+num(year-8, a-7)
+npadvmod(ago-9, year-8)
+advmod(bought-2, ago-9)
+
+=========
+
+nsubj(loved-2, I-1)
+root(ROOT-0, loved-2)
+dobj(loved-2, it-3)
+advmod(got-7, when-4)
+nsubj(got-7, I-5)
+advmod(got-7, first-6)
+advcl(loved-2, got-7)
+dobj(got-7, it-8)
+
+=========
+
+nsubj(feel-2, Solid-1)
+root(ROOT-0, feel-2)
+nsubj(great-5, looks-4)
+xcomp(feel-2, great-5)
+
+=========
+
+nsubj(phone-6, It-1)
+cop(phone-6, was-2)
+poss(phone-6, my-3)
+amod(phone-6, first-4)
+nn(phone-6, Android-5)
+root(ROOT-0, phone-6)
+nsubj(happy-11, I-8)
+cop(happy-11, was-9)
+advmod(happy-11, so-10)
+conj_and(phone-6, happy-11)
+aux(jump-13, to-12)
+xcomp(happy-11, jump-13)
+det(bandwagon-16, that-15)
+prep_on(jump-13, bandwagon-16)
+
+=========
+
+nn(One-2, Nexus-1)
+nsubj(do-4, One-2)
+aux(do-4, could-3)
+root(ROOT-0, do-4)
+dobj(do-4, lots-5)
+prep_of(lots-5, things-7)
+dobj(do-11, things-7)
+nsubj(do-11, I-8)
+aux(do-11, could-9)
+neg(do-11, not-10)
+rcmod(things-7, do-11)
+advmod(do-11, before-12)
+poss(Blackberry-15, my-14)
+prep_with(do-11, Blackberry-15)
+prep_with(do-11, Nokia-17)
+conj_and(Blackberry-15, Nokia-17)
+
+=========
+
+advmod(crazy-16, Unfortunately-1)
+num(months-4, 6-3)
+nsubj(crazy-16, months-4)
+prep_into(months-4, use-6)
+amod(care-9, great-8)
+prep_with(use-6, care-9)
+det(screen-13, the-11)
+nn(screen-13, touch-12)
+appos(care-9, screen-13)
+cop(crazy-16, became-14)
+advmod(crazy-16, really-15)
+root(ROOT-0, crazy-16)
+
+=========
+
+nsubj(do-4, It-1)
+aux(do-4, will-2)
+neg(do-4, not-3)
+root(ROOT-0, do-4)
+dobj(aiming-8, what-5)
+nsubj(aiming-8, I-6)
+xsubj(do-10, I-6)
+aux(aiming-8, was-7)
+ccomp(do-4, aiming-8)
+aux(do-10, to-9)
+xcomp(aiming-8, do-10)
+
+=========
+
+advmod(vibrate-5, Sometimes-1)
+nsubj(vibrate-5, it-2)
+nsubj(do-7, it-2)
+aux(vibrate-5, 'll-3)
+advmod(vibrate-5, just-4)
+root(ROOT-0, vibrate-5)
+conj_and(vibrate-5, do-7)
+dobj(vibrate-5, nothing-8)
+advmod(vibrate-5, at-9)
+pobj(at-9, all-10)
+
+=========
+
+mark(look-3, If-1)
+nsubj(look-3, you-2)
+advcl(having-11, look-3)
+prep(look-3, online-4)
+det(lot-7, a-6)
+nsubj(having-11, lot-7)
+prep_of(lot-7, people-9)
+aux(having-11, are-10)
+root(ROOT-0, having-11)
+det(issue-14, the-12)
+amod(issue-14, same-13)
+dobj(having-11, issue-14)
+
+=========
+
+cc(knows-5, And-1)
+det(one-3, no-2)
+nsubj(knows-5, one-3)
+advmod(knows-5, really-4)
+root(ROOT-0, knows-5)
+mark(hardware-9, if-6)
+nsubj(hardware-9, it-7)
+cop(hardware-9, is-8)
+advcl(knows-5, hardware-9)
+advcl(knows-5, software-11)
+conj_or(hardware-9, software-11)
+
+=========
+
+advmod(died-9, Finally-1)
+det(months-6, a-3)
+amod(months-6, mere-4)
+num(months-6, 7-5)
+prep_after(died-9, months-6)
+nsubj(died-9, it-8)
+root(ROOT-0, died-9)
+prep_on(died-9, me-11)
+
+=========
+
+mark(fix-4, If-1)
+nsubj(fix-4, someone-2)
+aux(fix-4, could-3)
+advcl(did-11, fix-4)
+poss(Nexus-6, my-5)
+dobj(fix-4, Nexus-6)
+npadvmod(completely-8, One-7)
+advmod(fix-4, completely-8)
+nsubj(did-11, I-10)
+root(ROOT-0, did-11)
+dobj(did-11, love-12)
+aux(keep-14, to-13)
+xcomp(did-11, keep-14)
+xcomp(keep-14, using-15)
+dobj(using-15, it-16)
+
+=========
+
+cc(shell-5, But-1)
+nsubj(shell-5, I-2)
+aux(shell-5, will-3)
+neg(shell-5, not-4)
+root(ROOT-0, shell-5)
+prt(shell-5, out-6)
+quantmod($-8, another-7)
+dobj(shell-5, $-8)
+number($-8, 200-9)
+prep_for($-8, HTC-11)
+aux(fix-14, to-12)
+xcomp(shell-5, fix-14)
+dobj(fix-14, it-16)
+

@@ -1,0 +1,4 @@
+Great_JJ product_NN !_.
+Why_WRB using_VBG a_DT I_NNP Phone_NNP ,_, if_IN you_PRP have_VBP motorola_NN Atrix_NNP ._.
+This_DT telephone_NN is_VBZ less_RBR expensive_JJ and_CC faster_JJR !_.
+Thanks_NNS ._.

@@ -1,0 +1,25 @@
+=========
+
+root(ROOT-0, Returned-1)
+det(right-3, this-2)
+npadvmod(away-4, right-3)
+advmod(Returned-1, away-4)
+conj_and(Returned-1, forked-6)
+det(money-9, the-8)
+prep_out(forked-6, money-9)
+det(d3100-13, the-11)
+nn(d3100-13, Nikon-12)
+prep_for(money-9, d3100-13)
+
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+nn(pictures-4, quality-3)
+dobj(wanted-2, pictures-4)
+nsubj(use-7, I-6)
+conj_and(wanted-2, use-7)
+dobj(use-7, it-8)
+poss(business-11, my-10)
+prep_for(use-7, business-11)
+

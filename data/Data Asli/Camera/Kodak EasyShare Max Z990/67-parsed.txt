@@ -1,0 +1,53 @@
+=========
+
+amod(camera-2, awesome-1)
+nsubj(went-4, camera-2)
+nsubj(got-13, camera-2)
+root(ROOT-0, went-4)
+det(zoo-8, the-6)
+nn(zoo-8, Pittsburgh-7)
+prep_to(went-4, zoo-8)
+amod(days-10, several-9)
+npadvmod(ago-11, days-10)
+advmod(went-4, ago-11)
+conj_and(went-4, got-13)
+det(shots-16, some-14)
+amod(shots-16, phenomenal-15)
+dobj(got-13, shots-16)
+
+=========
+
+det(30x-3, the-2)
+prep_with(love-19, 30x-3)
+nsubj(shoot-8, zoom-4)
+nsubj(shoot-8, you-6)
+aux(shoot-8, could-7)
+parataxis(love-19, shoot-8)
+dobj(shoot-8, pics-9)
+prep_of(pics-9, peoples-11)
+dep(peoples-11, boogers-12)
+dobj(wanted-15, boogers-12)
+prep_to(wanted-15, boogers-12)
+mark(wanted-15, if-13)
+nsubj(wanted-15, you-14)
+dep(boogers-12, wanted-15)
+root(ROOT-0, love-19)
+det(fact-21, the-20)
+dobj(love-19, fact-21)
+dep(take-25, that-22)
+nsubj(take-25, you-23)
+aux(take-25, can-24)
+dep(love-19, take-25)
+nsubj(AS-28, pics-26)
+advmod(AS-28, too-27)
+xcomp(take-25, AS-28)
+nsubj(videotaping-31, you-29)
+aux(videotaping-31, are-30)
+ccomp(AS-28, videotaping-31)
+
+=========
+
+root(ROOT-0, love-1)
+det(camera-3, this-2)
+dobj(love-1, camera-3)
+

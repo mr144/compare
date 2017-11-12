@@ -1,0 +1,5 @@
+Very_RB good_JJ zoom_NN ._.
+Very_RB slow_JJ ._.
+Repeat_NN :_: very_RB slow_JJ ._.
+One_CD more_JJR time_NN :_: VERY_NNP SLOW_NNP ._.
+And_CC it_PRP drains_VBZ the_DT battery_NN badly_RB too_RB !_.

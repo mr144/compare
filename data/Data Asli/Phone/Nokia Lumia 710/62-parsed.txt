@@ -1,0 +1,36 @@
+=========
+
+nsubj(fan-5, I-1)
+nsubj(purchased-11, I-1)
+cop(fan-5, am-2)
+det(fan-5, a-3)
+amod(fan-5, big-4)
+root(ROOT-0, fan-5)
+nn(phones-8, windows-7)
+prep_of(fan-5, phones-8)
+aux(purchased-11, have-10)
+conj_and(fan-5, purchased-11)
+det(one-13, this-12)
+dobj(purchased-11, one-13)
+poss(nephew-16, my-15)
+prep_for(one-13, nephew-16)
+nsubj(loves-19, he-18)
+conj_and(fan-5, loves-19)
+dobj(loves-19, it-20)
+
+=========
+
+det(complaints-2, No-1)
+root(ROOT-0, complaints-2)
+
+=========
+
+cc(better-7, But-1)
+advmod(better-7, overall-3)
+nn(Atrix-5, HTC-4)
+nsubj(better-7, Atrix-5)
+cop(better-7, is-6)
+root(ROOT-0, better-7)
+det(smartphone-10, this-9)
+prep_than(better-7, smartphone-10)
+

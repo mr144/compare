@@ -1,0 +1,134 @@
+=========
+
+nsubj(writing-3, I-1)
+aux(writing-3, am-2)
+root(ROOT-0, writing-3)
+det(review-5, this-4)
+dobj(writing-3, review-5)
+dep(purchased-9, not-6)
+dep(purchased-9, because-7)
+nsubj(purchased-9, I-8)
+dep(review-5, purchased-9)
+dobj(purchased-9, t3i-10)
+mark(purchased-14, because-12)
+nsubj(purchased-14, I-13)
+dep(review-5, purchased-14)
+conj_but(purchased-9, purchased-14)
+dobj(purchased-14, 6D-15)
+
+=========
+
+nsubj(had-3, I-1)
+nsubj(taken-11, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, t3i-4)
+num(years-7, 2-6)
+prep_for(t3i-4, years-7)
+aux(taken-11, must-9)
+aux(taken-11, have-10)
+conj_and(had-3, taken-11)
+num(pictures-14, 50,000-13)
+prep_over(taken-11, pictures-14)
+prep_over(taken-11, more-17)
+conj_negcc(pictures-14, more-17)
+
+=========
+
+nsubj(decided-2, I-1)
+xsubj(upgrade-5, I-1)
+nsubj(got-8, I-1)
+nsubj(guess-15, I-1)
+root(ROOT-0, decided-2)
+aux(upgrade-5, to-3)
+xcomp(decided-2, upgrade-5)
+conj_and(decided-2, got-8)
+nsubj(6D-10, myself-9)
+xcomp(got-8, 6D-10)
+number(K.-13, 2.5-12)
+prep_for(6D-10, K.-13)
+conj_and(decided-2, guess-15)
+dobj(guess-15, what-16)
+
+=========
+
+nsubj(do-2, I-1)
+root(ROOT-0, do-2)
+neg(improvement-6, not-3)
+det(improvement-6, any-4)
+amod(improvement-6, SIGNIFICANT-5)
+dobj(do-2, improvement-6)
+prep_over(improvement-6, t3i-8)
+
+=========
+
+dobj(see-4, What-1)
+aux(see-4, do-2)
+nsubj(see-4, I-3)
+root(ROOT-0, see-4)
+cop(light-7, is-5)
+advmod(light-7, how-6)
+ccomp(see-4, light-7)
+ccomp(see-4, easy-9)
+conj_and(light-7, easy-9)
+aux(use-11, to-10)
+xcomp(light-7, use-11)
+nsubj(is-13, t3i-12)
+ccomp(use-11, is-13)
+
+=========
+
+nsubj(sure-3, I-1)
+cop(sure-3, am-2)
+root(ROOT-0, sure-3)
+det(K-6, a-4)
+num(K-6, 2.5-5)
+nsubj(better-9, K-6)
+cop(better-9, is-7)
+advmod(better-9, much-8)
+ccomp(sure-3, better-9)
+prep_than(better-9, t3i-11)
+
+=========
+
+nsubj(has-2, It-1)
+xsubj(be-4, It-1)
+root(ROOT-0, has-2)
+aux(be-4, to-3)
+xcomp(has-2, be-4)
+
+=========
+
+advmod(camera-25, However-1)
+det(photographer-6, the-4)
+amod(photographer-6, amateur-5)
+nsubj(likes-9, photographer-6)
+prep_for(camera-25, photographer-6)
+advmod(likes-9, just-8)
+rcmod(photographer-6, likes-9)
+aux(shoot-11, to-10)
+xcomp(likes-9, shoot-11)
+dobj(shoot-11, pictures-12)
+poss(kids-15, his-14)
+prep_of(pictures-12, kids-15)
+nn(t3i-21, friends-17)
+dep(t3i-21, vacation-19)
+nn(t3i-21, sights-20)
+nsubj(camera-25, t3i-21)
+cop(camera-25, is-22)
+det(camera-25, the-23)
+amod(camera-25, best-24)
+root(ROOT-0, camera-25)
+
+=========
+
+nsubj(keep-5, I-1)
+nsubj(use-8, I-1)
+aux(keep-5, will-2)
+advmod(keep-5, still-3)
+advmod(keep-5, probably-4)
+root(ROOT-0, keep-5)
+dobj(keep-5, 6D-6)
+conj_and(keep-5, use-8)
+dobj(use-8, t3i-9)
+

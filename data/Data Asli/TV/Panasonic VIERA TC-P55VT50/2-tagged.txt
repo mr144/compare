@@ -1,0 +1,5 @@
+I_PRP have_VBP had_VBN this_DT TV_NN -LRB-_-LRB- TC-P65VT50_NN -RRB-_-RRB- for_IN about_IN a_DT year_NN and_CC have_VBP tried_VBN every_DT setting_NN ,_, but_CC it_PRP is_VBZ just_RB not_RB bright_JJ ._.
+I_PRP have_VBP 3_CD year_NN old_JJ LCD_NNP that_WDT looks_VBZ way_NN better_RBR ._.
+I_PRP get_VBP that_IN the_DT darks_NNS are_VBP darker_JJR ,_, but_CC the_DT whites_NNS are_VBP gray_JJ at_IN best_JJS ._.
+Stupid_JJ to_TO get_VB talked_VBN into_IN this_DT TV_NN versus_CC the_DT Samsung_NNP 70\/80_CD ._.
+I_PRP did_VBD sell_VB it_PRP for_IN $_$ 1000_CD and_CC spend_VB the_DT rest_NN of_IN the_DT money_NN for_IN a_DT good_JJ TV_NN ._.

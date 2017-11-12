@@ -1,0 +1,56 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(item-4, this-3)
+dobj(purchased-2, item-4)
+amod(faith-7, good-6)
+prep_in(purchased-2, faith-7)
+prep_as(purchased-2, new-9)
+
+=========
+
+nsubj(anything-3, It-1)
+nsubj(new-5, It-1)
+cop(anything-3, was-2)
+root(ROOT-0, anything-3)
+conj_but(anything-3, new-5)
+
+=========
+
+nsubjpass(opened-3, It-1)
+auxpass(opened-3, was-2)
+root(ROOT-0, opened-3)
+poss(presence-6, my-5)
+prep_in(opened-3, presence-6)
+predet(screws-10, half-8)
+det(screws-10, the-9)
+nsubj(missing-12, screws-10)
+cop(missing-12, were-11)
+conj_and(opened-3, missing-12)
+
+=========
+
+nsubj(waste-5, It-1)
+cop(waste-5, was-2)
+det(waste-5, a-3)
+amod(waste-5, total-4)
+root(ROOT-0, waste-5)
+prep_of(waste-5, money-7)
+
+=========
+
+nsubj(charged-4, It-1)
+aux(charged-4, has-2)
+neg(charged-4, never-3)
+root(ROOT-0, charged-4)
+advmod(charged-4, regardless-5)
+nsubjpass(done-8, what-6)
+auxpass(done-8, was-7)
+dep(regardless-5, done-8)
+
+=========
+
+advmod(dissattisfied-2, Totally-1)
+root(ROOT-0, dissattisfied-2)
+

@@ -1,0 +1,4 @@
+The_DT phone_NN is_VBZ advertised_VBN as_IN 4G_NNP ,_, however_RB after_IN much_JJ research_NN ,_, it_PRP turns_VBZ out_RP not_RB to_TO be_VB ._.
+While_IN it_PRP can_MD operate_VB on_IN the_DT 4G_NNP network_NN ,_, it_PRP is_VBZ not_RB truly_RB 4G_JJ and_CC there_EX is_VBZ no_DT 4G_JJ indicator_NN that_IN you_PRP typically_RB see_VB on_IN most_JJS phones_NNS ._.
+Generally_RB ,_, I_PRP like_VBP the_DT phone_NN ,_, but_CC it_PRP does_VBZ freeze_VB quite_RB a_DT bit_NN requiring_VBG a_DT restart_VB ._.
+I_PRP called_VBD the_DT vendor_NN -LRB-_-LRB- Open_NNP Group_NNP Wireless_NNP -RRB-_-RRB- and_CC they_PRP promised_VBD to_TO call_VB me_PRP back_RP with_IN some_DT answers_NNS ,_, but_CC never_RB did_VBD ._.

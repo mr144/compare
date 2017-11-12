@@ -1,0 +1,35 @@
+=========
+
+aux(put-3, Do-1)
+nsubj(put-3, you-2)
+nsubj(stick-10, you-2)
+root(ROOT-0, put-3)
+det(receipt-5, the-4)
+dobj(put-3, receipt-5)
+det(package-8, the-7)
+prep_inside(receipt-5, package-8)
+conj_or(put-3, stick-10)
+dobj(stick-10, it-11)
+det(package-14, the-13)
+prep_outside(stick-10, package-14)
+
+=========
+
+cop(possible-3, Is-1)
+nsubj(possible-3, it-2)
+root(ROOT-0, possible-3)
+mark(write-7, if-4)
+nsubj(write-7, you-5)
+nsubj(put-14, you-5)
+advmod(write-7, only-6)
+dep(possible-3, write-7)
+det(address-9, the-8)
+dobj(write-7, address-9)
+det(package-12, the-11)
+prep_in(address-9, package-12)
+dep(possible-3, put-14)
+conj_and(write-7, put-14)
+det(receipt-16, the-15)
+dobj(put-14, receipt-16)
+advmod(put-14, inside-17)
+

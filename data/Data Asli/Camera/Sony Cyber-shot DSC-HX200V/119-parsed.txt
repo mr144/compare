@@ -1,0 +1,39 @@
+=========
+
+amod(photos-3, Great-1)
+amod(photos-3, clear-2)
+nsubj(spectacular-10, photos-3)
+advmod(easy-6, very-5)
+amod(photos-3, easy-6)
+prep_to(easy-6, use-8)
+root(ROOT-0, spectacular-10)
+dobj(spectacular-10, video-11)
+
+=========
+
+det(option-4, The-1)
+amod(option-4, multiple-2)
+nn(option-4, shot-3)
+nsubjpass(super-6, option-4)
+auxpass(super-6, is-5)
+root(ROOT-0, super-6)
+nn(shots-9, action-8)
+prep_for(super-6, shots-9)
+det(playing-13, the-11)
+nn(playing-13, dogs-12)
+prep_of(shots-9, playing-13)
+
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+poss(camera-6, my-3)
+amod(camera-6, 3rd-4)
+nn(camera-6, Sony-5)
+root(ROOT-0, camera-6)
+nsubj(loved-10, I-8)
+aux(loved-10, have-9)
+conj_and(camera-6, loved-10)
+nsubj(all-12, them-11)
+xcomp(loved-10, all-12)
+

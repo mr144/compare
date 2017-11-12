@@ -1,0 +1,58 @@
+=========
+
+advmod(again-2, Once-1)
+advmod(has-4, again-2)
+nsubj(has-4, Amazon-3)
+root(ROOT-0, has-4)
+det(price-7, a-5)
+amod(price-7, great-6)
+dobj(has-4, price-7)
+det(product-11, a-9)
+nn(product-11, quality-10)
+prep_for(price-7, product-11)
+
+=========
+
+det(product-2, The-1)
+nsubjpass(packaged-4, product-2)
+xsubj(prevent-7, product-2)
+auxpass(packaged-4, was-3)
+root(ROOT-0, packaged-4)
+advmod(packaged-4, securely-5)
+aux(prevent-7, to-6)
+xcomp(packaged-4, prevent-7)
+det(damage-9, any-8)
+dobj(prevent-7, damage-9)
+det(process-13, the-11)
+nn(process-13, shipping-12)
+prep_during(prevent-7, process-13)
+
+=========
+
+det(TV-2, The-1)
+nsubj(showed-3, TV-2)
+root(ROOT-0, showed-3)
+prt(showed-3, up-4)
+prep_on(showed-3, time-6)
+prep(showed-3, like-7)
+pcomp(like-7, always-8)
+advmod(ordering-10, when-9)
+advcl(showed-3, ordering-10)
+prep_from(ordering-10, Amazon-12)
+
+=========
+
+mark(have-5, If-1)
+nsubj(have-5, you-2)
+aux(have-5, do-3)
+neg(have-5, not-4)
+advcl(missing-10, have-5)
+dobj(have-5, Prime-6)
+nsubj(missing-10, you-7)
+aux(missing-10, are-8)
+advmod(missing-10, really-9)
+root(ROOT-0, missing-10)
+prt(missing-10, out-11)
+nn(special-14, something-13)
+prep_on(missing-10, special-14)
+

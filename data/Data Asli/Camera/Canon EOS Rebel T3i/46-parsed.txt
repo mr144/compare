@@ -1,0 +1,31 @@
+=========
+
+amod(camera-2, Great-1)
+root(ROOT-0, camera-2)
+dep(looking-8, just-4)
+dep(just-4, what-5)
+nsubj(looking-8, I-6)
+aux(looking-8, was-7)
+dep(camera-2, looking-8)
+prep(looking-8, for-9)
+
+=========
+
+nsubj(had-7, Much-1)
+advmod(had-7, better-2)
+advmod(had-7, then-3)
+det(I-6, the-4)
+num(I-6, one-5)
+nsubj(had-7, I-6)
+root(ROOT-0, had-7)
+advmod(had-7, before-8)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+det(ease-5, the-4)
+dobj(like-3, ease-5)
+prep_of(ease-5, operation-7)
+

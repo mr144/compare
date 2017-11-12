@@ -1,0 +1,66 @@
+=========
+
+det(TV-2, This-1)
+nsubj(advertised-7, TV-2)
+cop(advertised-7, is-3)
+advmod(advertised-7, pretty-4)
+advmod(advertised-7, much-5)
+advmod(advertised-7, as-6)
+root(ROOT-0, advertised-7)
+neg(bad-10, not-9)
+dep(advertised-7, bad-10)
+number(300-13, ~-12)
+num(bucks-14, 300-13)
+prep_for(advertised-7, bucks-14)
+
+=========
+
+root(ROOT-0, good-1)
+nn(room-4, kids-3)
+prep_for(good-1, room-4)
+
+=========
+
+nsubj(bought-2, we-1)
+ccomp(quit-6, bought-2)
+dobj(bought-2, one-3)
+nsubj(quit-6, it-5)
+root(ROOT-0, quit-6)
+xcomp(quit-6, working-7)
+num(months-10, 8-9)
+prep_after(working-7, months-10)
+
+=========
+
+advmod(waiting-5, Now-1)
+nsubj(waiting-5, I-2)
+xsubj(fix-9, I-2)
+aux(waiting-5, am-3)
+advmod(waiting-5, still-4)
+root(ROOT-0, waiting-5)
+prep_for(waiting-5, TCL-7)
+aux(fix-9, to-8)
+xcomp(waiting-5, fix-9)
+dobj(fix-9, it-10)
+num(weeks-13, 3-12)
+prep_after(fix-9, weeks-13)
+nsubjpass(broken-17, it-15)
+auxpass(broken-17, being-16)
+prepc_of(weeks-13, broken-17)
+
+=========
+
+amod(service-2, Terrible-1)
+root(ROOT-0, service-2)
+
+=========
+
+root(ROOT-0, Not-1)
+det(price-5, the-3)
+amod(price-5, cheap-4)
+prep_worth(Not-1, price-5)
+mark(breaks-8, if-6)
+nsubj(breaks-8, it-7)
+dep(Not-1, breaks-8)
+prt(breaks-8, down-9)
+

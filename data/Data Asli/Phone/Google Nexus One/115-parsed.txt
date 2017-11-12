@@ -1,0 +1,363 @@
+=========
+
+det(phone-4, The-1)
+nn(phone-4, nexus-2)
+nn(phone-4, one-3)
+nsubj(bad-7, phone-4)
+nsubj(good-12, phone-4)
+cop(bad-7, is-5)
+neg(bad-7, not-6)
+root(ROOT-0, bad-7)
+neg(good-12, not-10)
+advmod(good-12, as-11)
+conj_but(bad-7, good-12)
+mark(expected-15, as-13)
+nsubj(expected-15, I-14)
+advcl(bad-7, expected-15)
+
+=========
+
+amod(:1-3, Good-1)
+nn(:1-3, side-2)
+nsubj(seamless-5, :1-3)
+root(ROOT-0, seamless-5)
+dobj(seamless-5, integration-6)
+amod(system-9, android-8)
+prep_with(seamless-5, system-9)
+
+=========
+
+nsubj(used-2, I-1)
+ccomp(have-11, used-2)
+det(products-7, a-3)
+amod(products-7, few-4)
+amod(products-7, other-5)
+amod(products-7, android-6)
+dobj(used-2, products-7)
+nsubj(have-11, they-9)
+advmod(have-11, all-10)
+root(ROOT-0, have-11)
+amod(problems-13, small-12)
+dobj(have-11, problems-13)
+
+=========
+
+det(common-3, The-1)
+advmod(common-3, most-2)
+nsubj(connection-7, common-3)
+cop(connection-7, is-4)
+amod(connection-7, bad-5)
+nn(connection-7, wiki-6)
+root(ROOT-0, connection-7)
+
+=========
+
+advmod(has-5, However-1)
+det(one-4, this-3)
+nsubj(has-5, one-4)
+root(ROOT-0, has-5)
+det(bestintegration-7, the-6)
+dobj(has-5, bestintegration-7)
+
+=========
+
+det(surprise-2, No-1)
+root(ROOT-0, surprise-2)
+nsubj(is-5, it-4)
+dep(surprise-2, is-5)
+prep_from(is-5, Google-7)
+det(father-10, the-9)
+appos(surprise-2, father-10)
+nn(tons-15, Android-12)
+num(tons-15, .2-13)
+prep_of(father-10, tons-15)
+prep_of(father-10, apps-17)
+prep_of(father-10, customizations-19)
+conj_and(apps-17, customizations-19)
+
+=========
+
+advmod(better-2, Even-1)
+root(ROOT-0, better-2)
+prep_than(better-2, iphone-4)
+
+=========
+
+mark(looking-4, If-1)
+nsubj(looking-4, you-2)
+aux(looking-4, are-3)
+advcl(answers-15, looking-4)
+amod(phone-7, smart-6)
+prep_for(looking-4, phone-7)
+det(one-10, this-9)
+nsubj(answers-15, one-10)
+conj_and(one-10, iphone-12)
+nsubj(answers-15, iphone-12)
+cop(answers-15, are-13)
+det(answers-15, the-14)
+root(ROOT-0, answers-15)
+
+=========
+
+nn(Battery-5, Bad-1)
+nn(Battery-5, side-2)
+nn(Battery-5, :1-3)
+nsubj(short-9, Battery-5)
+dep(Battery-5, life-6)
+cop(short-9, is-7)
+advmod(short-9, too-8)
+root(ROOT-0, short-9)
+
+=========
+
+advmod(use-6, Even-1)
+dep(use-6, if-2)
+nsubj(use-6, you-3)
+aux(use-6, do-4)
+neg(use-6, not-5)
+advcl(runs-15, use-6)
+det(phone-8, the-7)
+dobj(use-6, phone-8)
+det(process-13, the-10)
+amod(process-13, android-11)
+nn(process-13, background-12)
+nsubj(runs-15, process-13)
+nsubj(drain-17, process-13)
+advmod(runs-15, still-14)
+root(ROOT-0, runs-15)
+conj_and(runs-15, drain-17)
+prt(drain-17, out-18)
+det(batteryvery-20, the-19)
+dobj(drain-17, batteryvery-20)
+advmod(drain-17, soon-21)
+
+=========
+
+advmod(have-3, Basically-1)
+nsubj(have-3, I-2)
+xsubj(charge-5, I-2)
+root(ROOT-0, have-3)
+aux(charge-5, to-4)
+xcomp(have-3, charge-5)
+det(phone-7, the-6)
+dobj(charge-5, phone-7)
+det(day-9, every-8)
+dep(phone-7, day-9)
+dobj(charge-5, twice-12)
+advmod(phone-7, twice-12)
+conj_or(phone-7, twice-12)
+det(day-14, a-13)
+dep(phone-7, day-14)
+
+=========
+
+nsubj(.2-5, That-1)
+cop(.2-5, is-2)
+det(.2-5, a-3)
+nn(.2-5, pain-4)
+root(ROOT-0, .2-5)
+advmod(.2-5, Too-7)
+amod(buttons-9, many-8)
+pobj(Too-7, buttons-9)
+
+=========
+
+advmod(manual-3, Almost-1)
+det(manual-3, no-2)
+root(ROOT-0, manual-3)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(figure-4, I-1)
+root(ROOT-0, have-2)
+aux(figure-4, to-3)
+xcomp(have-2, figure-4)
+prt(figure-4, out-5)
+nn(myself-7, everything-6)
+dobj(figure-4, myself-7)
+
+=========
+
+nsubj(ok-3, It-1)
+cop(ok-3, is-2)
+root(ROOT-0, ok-3)
+prep_for(ok-3, me-5)
+mark(guy-11, since-6)
+nsubj(guy-11, I-7)
+cop(guy-11, am-8)
+det(guy-11, a-9)
+amod(guy-11, smartphone-10)
+advcl(ok-3, guy-11)
+advcl(ok-3, ok-15)
+conj_negcc(guy-11, ok-15)
+prep_for(ok-15, grandma-17)
+prep_for(ok-15, grandpa-19)
+conj_and(grandma-17, grandpa-19)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(remove-6, they-3)
+aux(remove-6, can-4)
+advmod(remove-6, easily-5)
+ccomp(think-2, remove-6)
+quantmod(half-9, at-7)
+quantmod(half-9, least-8)
+dobj(remove-6, half-9)
+det(buttons-12, the-11)
+prep_of(half-9, buttons-12)
+
+=========
+
+root(ROOT-0, Cautious-1)
+det(price-4, The-3)
+dep(Cautious-1, price-4)
+det(changes-8, the-6)
+nn(changes-8, phone-7)
+prep_of(price-4, changes-8)
+advmod(changes-8, greatly-9)
+
+=========
+
+nsubj(see-3, You-1)
+aux(see-3, can-2)
+root(ROOT-0, see-3)
+det(change-8, a-4)
+number(%-6, 20-5)
+amod(change-8, %-6)
+nn(change-8, price-7)
+dobj(see-3, change-8)
+det(week-11, a-10)
+prep_within(see-3, week-11)
+
+=========
+
+nsubj(is-2, That-1)
+root(ROOT-0, is-2)
+nsubj(happens-4, what-3)
+ccomp(is-2, happens-4)
+prep_to(happens-4, me-6)
+
+=========
+
+advmod(watch-2, So-1)
+root(ROOT-0, watch-2)
+det(price-4, the-3)
+dobj(watch-2, price-4)
+conj_and(watch-2, try-6)
+aux(catch-8, to-7)
+xcomp(try-6, catch-8)
+det(deal-11, a-9)
+amod(deal-11, good-10)
+dobj(catch-8, deal-11)
+
+=========
+
+nsubj(expect-3, I-1)
+aux(expect-3, would-2)
+root(ROOT-0, expect-3)
+det(price-5, the-4)
+nsubj(drops-9, price-5)
+amod(products-8, android-7)
+prep_of(price-5, products-8)
+ccomp(expect-3, drops-9)
+advmod(drops-9, significantly-10)
+prep_in(drops-9, 2011-12)
+prep_in(drops-9, 2012-14)
+conj_and(2011-12, 2012-14)
+
+=========
+
+amod(words-2, Good-1)
+root(ROOT-0, words-2)
+det(seller-5, the-4)
+prep_for(words-2, seller-5)
+nsubj(got-8, I-7)
+dep(words-2, got-8)
+det(phone-10, the-9)
+dobj(got-8, phone-10)
+advmod(drop-20, only-13)
+advcl(drop-20, after-14)
+num(week-16, 1-15)
+prep_after(drop-20, week-16)
+det(price-19, the-18)
+nsubj(drop-20, price-19)
+dep(words-2, drop-20)
+conj_but(got-8, drop-20)
+num(%-22, 20-21)
+dobj(drop-20, %-22)
+
+=========
+
+nsubj(imagine-3, You-1)
+aux(imagine-3, can-2)
+root(ROOT-0, imagine-3)
+nsubj(mad-7, I-4)
+cop(mad-7, am-5)
+advmod(mad-7, so-6)
+ccomp(imagine-3, mad-7)
+
+=========
+
+det(seller-2, The-1)
+nsubj(refund-5, seller-2)
+aux(refund-5, will-3)
+neg(refund-5, not-4)
+root(ROOT-0, refund-5)
+dobj(refund-5, you-6)
+mark(severe-11, as-7)
+det(competition-9, the-8)
+nsubj(severe-11, competition-9)
+cop(severe-11, is-10)
+advcl(refund-5, severe-11)
+prep_in(severe-11, amazon-13)
+
+=========
+
+cc(sokind-5, But-1)
+det(seller-3, the-2)
+nsubjpass(sokind-5, seller-3)
+auxpass(sokind-5, is-4)
+root(ROOT-0, sokind-5)
+complm(work-9, that-6)
+nsubj(work-9, we-7)
+advmod(work-9, finally-8)
+ccomp(sokind-5, work-9)
+prt(work-9, out-10)
+dobj(work-9, something-11)
+amod(something-11, different-12)
+
+=========
+
+nsubj(complain-4, I-1)
+aux(complain-4, can-2)
+neg(complain-4, not-3)
+root(ROOT-0, complain-4)
+advmod(much-6, too-5)
+advmod(complain-4, much-6)
+advmod(complain-4, now-7)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+det(customer-4, the-3)
+nsubj(need-5, customer-4)
+xsubj(cautious-9, customer-4)
+ccomp(think-2, need-5)
+aux(cautious-9, to-6)
+cop(cautious-9, be-7)
+advmod(cautious-9, very-8)
+xcomp(need-5, cautious-9)
+det(change-13, the-11)
+nn(change-13, price-12)
+prep_with(cautious-9, change-13)
+xcomp(need-5, make-15)
+conj_and(cautious-9, make-15)
+poss(move-19, your-16)
+amod(move-19, own-17)
+amod(move-19, smart-18)
+dobj(make-15, move-19)
+

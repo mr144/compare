@@ -1,0 +1,112 @@
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+root(ROOT-0, TV-5)
+
+=========
+
+nsubj(picture-2, Terrific-1)
+root(ROOT-0, picture-2)
+nsubj(looks-4, &-3)
+ccomp(picture-2, looks-4)
+acomp(looks-4, stylish-5)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, only-2)
+dobj(have-5, problem-3)
+nsubj(is-6, problem-3)
+nsubj(have-5, I-4)
+rcmod(problem-3, have-5)
+root(ROOT-0, is-6)
+complm(program-21, that-7)
+mark(brand-15, since-8)
+nsubj(brand-15, it-9)
+cop(brand-15, is-10)
+neg(brand-15, not-11)
+det(brand-15, a-12)
+num(brand-15, &#34;-13)
+nn(brand-15, top-14)
+advcl(program-21, brand-15)
+num(brand-15, &#34;-16)
+nsubj(program-21, I-18)
+aux(program-21, can-19)
+neg(program-21, not-20)
+ccomp(is-6, program-21)
+poss(remote-24, my-22)
+nn(remote-24, cable-23)
+dobj(program-21, remote-24)
+aux(adjust-26, to-25)
+xcomp(program-21, adjust-26)
+det(volume-29, the-27)
+amod(volume-29, sound-28)
+dobj(adjust-26, volume-29)
+
+=========
+
+amod(volume-2, Sound-1)
+nsubj(has-3, volume-2)
+xsubj(changed-6, volume-2)
+root(ROOT-0, has-3)
+aux(changed-6, to-4)
+auxpass(changed-6, be-5)
+xcomp(has-3, changed-6)
+det(remote-10, the-8)
+nn(remote-10, TV-9)
+agent(changed-6, remote-10)
+nsubj(means-12, remote-10)
+rcmod(remote-10, means-12)
+nsubj(have-14, I-13)
+ccomp(means-12, have-14)
+num(remotes-16, 2-15)
+dobj(have-14, remotes-16)
+
+=========
+
+neg(issue-4, Not-1)
+det(issue-4, a-2)
+amod(issue-4, huge-3)
+root(ROOT-0, issue-4)
+conj_but(issue-4, annoying-7)
+advmod(annoying-7, still-8)
+
+=========
+
+det(provider-3, The-1)
+nn(provider-3, cable-2)
+nsubj(said-4, provider-3)
+root(ROOT-0, said-4)
+nsubj(update-7, they-5)
+advmod(update-7, continuously-6)
+ccomp(said-4, update-7)
+poss(list-9, their-8)
+dobj(update-7, list-9)
+prep_of(list-9, products-11)
+dep(said-4, so-13)
+advmod(listed-19, hopefully-14)
+det(brand-16, this-15)
+nsubjpass(listed-19, brand-16)
+aux(listed-19, will-17)
+auxpass(listed-19, be-18)
+ccomp(said-4, listed-19)
+advmod(listed-19, soon-20)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(product-4, this-3)
+dobj(recommend-2, product-4)
+prep_to(recommend-2, everyone-6)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(!!-4, it-3)
+xcomp(love-2, !!-4)
+

@@ -1,0 +1,52 @@
+=========
+
+nsubj(phone-2, This-1)
+root(ROOT-0, phone-2)
+dobj(phone-2, rocks-3)
+
+=========
+
+nsubj(having-3, I-1)
+aux(having-3, was-2)
+root(ROOT-0, having-3)
+dobj(having-3, issues-4)
+dobj(decided-11, issues-4)
+poss(Pearl-8, my-6)
+nn(Pearl-8, BB-7)
+prep_with(issues-4, Pearl-8)
+mark(decided-11, so-9)
+nsubj(decided-11, I-10)
+xsubj(purchase-13, I-10)
+nsubj(decided-18, I-10)
+dep(issues-4, decided-11)
+aux(purchase-13, to-12)
+xcomp(decided-11, purchase-13)
+det(BB-16, a-14)
+amod(BB-16, new-15)
+dobj(purchase-13, BB-16)
+dep(issues-4, decided-18)
+conj_and(decided-11, decided-18)
+det(Torch-21, the-20)
+prep_on(decided-18, Torch-21)
+advmod(decided-18, instead-22)
+
+=========
+
+nsubj(ordered-2, I-1)
+nsubj(arrived-5, I-1)
+root(ROOT-0, ordered-2)
+dobj(ordered-2, it-3)
+conj_and(ordered-2, arrived-5)
+prep_on(arrived-5, time-7)
+aux(worked-10, has-9)
+conj_and(ordered-2, worked-10)
+conj_and(arrived-5, worked-10)
+advmod(worked-10, perfectly-11)
+prep(worked-10, since-12)
+pobj(since-12, then-13)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

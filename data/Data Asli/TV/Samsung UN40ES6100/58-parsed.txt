@@ -1,0 +1,36 @@
+=========
+
+nsubj(list-4, Here-1)
+cop(list-4, is-2)
+det(list-4, the-3)
+root(ROOT-0, list-4)
+prep_of(list-4, problems-6)
+advmod(much-10, Too-9)
+dep(glare-11, much-10)
+dep(look-28, glare-11)
+det(screen-14, the-13)
+prep_off(glare-11, screen-14)
+amod(tweaking-19, bright-16)
+amod(tweaking-19, rooms-Needs-17)
+amod(tweaking-19, serious-18)
+prep_for(screen-14, tweaking-19)
+det(specs-23, the-21)
+nn(specs-23, image-22)
+prep_of(tweaking-19, specs-23)
+det(default-26, the-25)
+prep_as(glare-11, default-26)
+nsubj(look-28, settings-27)
+parataxis(list-4, look-28)
+acomp(look-28, terrible-29)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(line-2, Bottom-1)
+root(ROOT-0, line-2)
+nsubj(returning-5, I-3)
+aux(returning-5, am-4)
+ccomp(line-2, returning-5)
+dobj(returning-5, it-6)
+

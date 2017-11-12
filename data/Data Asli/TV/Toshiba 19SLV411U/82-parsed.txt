@@ -1,0 +1,30 @@
+=========
+
+nn(TV-2, Great-1)
+root(ROOT-0, TV-2)
+det(price-5, the-4)
+prep_for(TV-2, price-5)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+nsubj(replace-5, it-3)
+aux(replace-5, to-4)
+xcomp(bought-2, replace-5)
+poss(dew-8, my-7)
+prep_in(replace-5, dew-8)
+nsubj(works-11, it-10)
+conj_and(bought-2, works-11)
+acomp(works-11, great-12)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(picture-4, the-3)
+dobj(love-2, picture-4)
+dobj(love-2, quality-6)
+conj_and(picture-4, quality-6)
+prep_of(picture-4, sound-8)
+

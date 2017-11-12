@@ -1,0 +1,5 @@
+The_DT picture_NN is_VBZ amazing_JJ !_.
+The_DT design_NN is_VBZ sleek_JJ ._.
+It_PRP 's_VBZ a_DT great_JJ deal_NN ._.
+I_PRP have_VBP an_DT Apple_NNP TV_NN already_RB ,_, so_IN I_PRP do_VBP not_RB use_VB the_DT web_NN interface_NN ._.
+I_PRP am_VBP very_RB pleased_JJ with_IN this_DT product_NN ._.

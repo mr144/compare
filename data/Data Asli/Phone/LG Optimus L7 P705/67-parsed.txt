@@ -1,0 +1,27 @@
+=========
+
+nsubjpass(satisfied-4, I-1)
+auxpass(satisfied-4, am-2)
+advmod(satisfied-4, thoroughly-3)
+root(ROOT-0, satisfied-4)
+det(product-7, this-6)
+prep_with(satisfied-4, product-7)
+det(way-10, every-9)
+prep_in(product-7, way-10)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(product-5, this-4)
+dobj(recommend-3, product-5)
+prep_to(recommend-3, others-7)
+det(future-10, the-9)
+prep_in(others-7, future-10)
+
+=========
+
+root(ROOT-0, Thank-1)
+pobj(Thank-1, you-2)
+

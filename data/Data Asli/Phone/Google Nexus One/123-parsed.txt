@@ -1,0 +1,58 @@
+=========
+
+advmod(phone-9, Overall-1)
+det(Nexus-4, the-3)
+nsubj(phone-9, Nexus-4)
+num(Nexus-4, One-5)
+cop(phone-9, is-6)
+det(phone-9, a-7)
+amod(phone-9, great-8)
+root(ROOT-0, phone-9)
+
+=========
+
+nsubj(fast-3, It-1)
+cop(fast-3, 's-2)
+root(ROOT-0, fast-3)
+ccomp(fast-3, has-5)
+det(screen-12, a-6)
+amod(screen-12, good-7)
+amod(screen-12, looking-8)
+conj_and(looking-8, good-10)
+amod(screen-12, good-10)
+nn(screen-12, size-11)
+dobj(has-5, screen-12)
+
+=========
+
+cc(think-3, And-1)
+nsubj(think-3, I-2)
+ccomp(gets-10, think-3)
+advmod(think-3, best-5)
+advmod(think-3, of-6)
+dep(of-6, all-7)
+nsubj(gets-10, it-9)
+root(ROOT-0, gets-10)
+det(update-13, the-11)
+amod(update-13, latest-12)
+dobj(gets-10, update-13)
+amod(right-17, android-15)
+nn(right-17, software-16)
+prep_of(update-13, right-17)
+tmod(comes-20, right-17)
+advmod(comes-20, when-18)
+nsubj(comes-20, it-19)
+dep(right-17, comes-20)
+prt(comes-20, out-21)
+
+=========
+
+nsubj(phone-5, It-1)
+cop(phone-5, is-2)
+det(phone-5, the-3)
+amod(phone-5, standard-4)
+root(ROOT-0, phone-5)
+prepc_for(phone-5, running-7)
+nn(OS-9, Android-8)
+dobj(running-7, OS-9)
+

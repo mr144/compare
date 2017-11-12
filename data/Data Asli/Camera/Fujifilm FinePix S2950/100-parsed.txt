@@ -1,0 +1,36 @@
+=========
+
+mark(compare-4, If-1)
+nsubj(compare-4, we-2)
+aux(compare-4, will-3)
+advcl(wish-17, compare-4)
+det(price-7, a-6)
+prep_with(compare-4, price-7)
+nsubj(is-9, price-7)
+rcmod(price-7, is-9)
+nsubj(payed-11, I-10)
+dep(is-9, payed-11)
+det(camera-14, this-13)
+prep_for(payed-11, camera-14)
+nsubj(wish-17, I-16)
+xsubj(say-19, I-16)
+root(ROOT-0, wish-17)
+aux(say-19, to-18)
+xcomp(wish-17, say-19)
+complm(camera-24, that-20)
+nsubj(camera-24, it-21)
+cop(camera-24, is-22)
+amod(camera-24, perfect-23)
+ccomp(say-19, camera-24)
+
+=========
+
+root(ROOT-0, Light-1)
+appos(Light-1, lot-3)
+prep_of(lot-3, settings-5)
+prep_of(lot-3, operations-7)
+conj_and(settings-5, operations-7)
+amod(Light-1, easy-9)
+aux(operate-11, to-10)
+xcomp(easy-9, operate-11)
+

@@ -1,0 +1,57 @@
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, was-2)
+advmod(camera-6, simply-3)
+det(camera-6, a-4)
+amod(camera-6, great-5)
+root(ROOT-0, camera-6)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, photo-2)
+nsubj(brand-10, quality-3)
+cop(brand-10, is-4)
+npadvmod(better-6, 1000x-5)
+advmod(brand-10, better-6)
+det(brand-10, any-7)
+amod(brand-10, other-8)
+nn(brand-10, camera-9)
+root(ROOT-0, brand-10)
+det(range-14, this-12)
+nn(range-14, price-13)
+prep_in(brand-10, range-14)
+
+=========
+
+prepc_before(tried-7, getting-2)
+det(unit-4, this-3)
+dobj(getting-2, unit-4)
+nsubj(tried-7, i-6)
+root(ROOT-0, tried-7)
+nsubj(equivalents-14, Canon-8)
+conj_and(Canon-8, Nikon-10)
+nsubj(equivalents-14, Nikon-10)
+conj_and(Canon-8, Samsung-13)
+nsubj(equivalents-14, Samsung-13)
+ccomp(tried-7, equivalents-14)
+cc(match-20, but-15)
+nsubj(match-20, they-16)
+advmod(match-20, just-17)
+aux(match-20, did-18)
+neg(match-20, not-19)
+ccomp(equivalents-14, match-20)
+prt(match-20, up-21)
+det(quality-24, the-23)
+prep_to(match-20, quality-24)
+det(camera-29, this-26)
+nn(camera-29, Sony-27)
+nn(camera-29, Cybershot-28)
+prep_of(quality-24, camera-29)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+

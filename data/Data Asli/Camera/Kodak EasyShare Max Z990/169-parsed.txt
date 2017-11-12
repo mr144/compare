@@ -1,0 +1,31 @@
+=========
+
+det(camera-2, The-1)
+nsubj(delivers-3, camera-2)
+root(ROOT-0, delivers-3)
+nn(quality-6, picture-5)
+prep_on(delivers-3, quality-6)
+nn(ease-9, picture-taking-8)
+prep_on(delivers-3, ease-9)
+conj_and(quality-6, ease-9)
+
+=========
+
+nsubj(are-4, Zooms-1)
+conj_and(Zooms-1, close-ups-3)
+nsubj(are-4, close-ups-3)
+root(ROOT-0, are-4)
+advmod(are-4, just-5)
+dobj(wanted-8, what-6)
+nsubj(wanted-8, we-7)
+ccomp(are-4, wanted-8)
+
+=========
+
+nsubjpass(satisfied-4, We-1)
+auxpass(satisfied-4, are-2)
+advmod(satisfied-4, very-3)
+root(ROOT-0, satisfied-4)
+det(purchase-7, this-6)
+prep_with(satisfied-4, purchase-7)
+

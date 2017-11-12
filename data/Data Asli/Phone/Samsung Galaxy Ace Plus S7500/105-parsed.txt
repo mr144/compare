@@ -1,0 +1,46 @@
+=========
+
+det(Cellphone-2, The-1)
+nsubjpass(sold-4, Cellphone-2)
+auxpass(sold-4, was-3)
+root(ROOT-0, sold-4)
+advmod(compatible-6, as-5)
+acomp(sold-4, compatible-6)
+det(band-9, a-8)
+prep_with(sold-4, band-9)
+dobj(use-12, band-9)
+nsubj(use-12, i-10)
+aux(use-12, could-11)
+rcmod(band-9, use-12)
+poss(operator-16, my-14)
+amod(operator-16, mobile-15)
+prep_with(use-12, operator-16)
+nsubj(did-19, it-18)
+conj_but(sold-4, did-19)
+neg(did-19, not-20)
+
+=========
+
+det(seller-2, The-1)
+nsubj(had-3, seller-2)
+root(ROOT-0, had-3)
+det(description-5, the-4)
+nsubj(wrong-6, description-5)
+xcomp(had-3, wrong-6)
+
+=========
+
+det(cellphone-2, The-1)
+nsubj(good-5, cellphone-2)
+cop(good-5, is-3)
+advmod(good-5, pretty-4)
+root(ROOT-0, good-5)
+nsubj(use-10, I-7)
+aux(use-10, can-8)
+neg(use-10, not-9)
+conj_but(good-5, use-10)
+dobj(use-10, it-11)
+advmod(live-14, where-12)
+nsubj(live-14, I-13)
+advcl(use-10, live-14)
+

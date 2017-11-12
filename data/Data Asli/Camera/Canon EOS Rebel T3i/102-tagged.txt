@@ -1,0 +1,2 @@
+For_IN a_DT brown_JJ box_NN camera_NN the_DT T3i_NNP was_VBD an_DT excellent_JJ purchase_NN ._.
+The_DT only_JJ problem_NN I_PRP have_VBP had_VBN with_IN the_DT camera_NN is_VBZ the_DT buttons_NNS sticking_NN ._.

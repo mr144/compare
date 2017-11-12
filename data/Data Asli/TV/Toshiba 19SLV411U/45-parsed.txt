@@ -1,0 +1,47 @@
+=========
+
+advmod(works-4, Looks-1)
+dep(works-4, good-2)
+root(ROOT-0, works-4)
+amod(deal-11, great-5)
+amod(deal-11, Nice-7)
+nn(deal-11, picture-8)
+amod(deal-11, excellent-10)
+dobj(works-4, deal-11)
+
+=========
+
+nsubj(missing-3, Mine-1)
+aux(missing-3, was-2)
+root(ROOT-0, missing-3)
+det(bolts-5, the-4)
+dobj(missing-3, bolts-5)
+det(pedestal-8, the-7)
+prep_for(bolts-5, pedestal-8)
+nsubjpass(marked-13, it-11)
+auxpass(marked-13, was-12)
+conj_but(missing-3, marked-13)
+prep_as(marked-13, USED-16)
+advmod(had-21, even-18)
+dep(had-21, though-19)
+nsubj(had-21, it-20)
+ccomp(marked-13, had-21)
+det(wrap-25, all-22)
+amod(wrap-25, original-23)
+amod(wrap-25, packaging\/plastic-24)
+dobj(had-21, wrap-25)
+
+=========
+
+det(problem-2, No-1)
+nsubj(found-5, problem-2)
+nsubj(found-5, I-4)
+root(ROOT-0, found-5)
+det(bolts\/screws-7, the-6)
+dobj(found-5, bolts\/screws-7)
+nn(Depot-10, Home-9)
+prep_at(found-5, Depot-10)
+det(bucks-14, a-12)
+nn(bucks-14, couple-13)
+prep_for(found-5, bucks-14)
+

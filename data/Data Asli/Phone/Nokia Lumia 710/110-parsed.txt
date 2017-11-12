@@ -1,0 +1,180 @@
+=========
+
+advmod(hold-6, first-1)
+det(battery-3, the-2)
+nsubj(hold-6, battery-3)
+aux(hold-6, did-4)
+neg(hold-6, not-5)
+root(ROOT-0, hold-6)
+dobj(hold-6, charge-7)
+
+=========
+
+amod(screen-2, second-1)
+nsubj(had-3, screen-2)
+root(ROOT-0, had-3)
+amod(ding-5, small-4)
+dobj(had-3, ding-5)
+
+=========
+
+det(battery-2, the-1)
+nsubjpass(charged-5, battery-2)
+auxpass(charged-5, was-3)
+advmod(charged-5, fully-4)
+root(ROOT-0, charged-5)
+
+=========
+
+root(ROOT-0, turned-1)
+prep_off(turned-1, phone-3)
+
+=========
+
+num(week-2, one-1)
+npadvmod(later-3, week-2)
+root(ROOT-0, later-3)
+advmod(dead-9, when-4)
+csubj(dead-9, turned-5)
+prep_on(turned-5, battery-7)
+cop(dead-9, was-8)
+dep(later-3, dead-9)
+
+=========
+
+det(phone-2, the-1)
+nsubj(comes-3, phone-2)
+root(ROOT-0, comes-3)
+nn(cover-6, screen-5)
+prep_with(comes-3, cover-6)
+
+=========
+
+nsubj(noticed-2, i-1)
+root(ROOT-0, noticed-2)
+det(ding-5, a-3)
+amod(ding-5, small-4)
+nsubj(was-11, ding-5)
+prep_in(ding-5, cover-7)
+dobj(thought-10, cover-7)
+rel(thought-10, which-8)
+nsubj(thought-10, i-9)
+rcmod(cover-7, thought-10)
+ccomp(noticed-2, was-11)
+det(cover-14, the-13)
+prep_in(was-11, cover-14)
+nsubj(material-20, cover-14)
+advmod(cover-14, only-15)
+cop(material-20, is-17)
+amod(clear-19, soft-18)
+amod(material-20, clear-19)
+rcmod(cover-14, material-20)
+
+=========
+
+advmod(was-4, however-1)
+det(ding-3, the-2)
+nsubj(was-4, ding-3)
+root(ROOT-0, was-4)
+prep_in(was-4, glass-6)
+
+=========
+
+nsubj(available-20, amazon-1)
+partmod(amazon-1, allowed-2)
+det(return-5, the-4)
+prep_for(allowed-2, return-5)
+prep_for(allowed-2, return-5')
+conj_but(return-5, return-5')
+prep_without(return-5, problem-7)
+advmod(return-5, because-9)
+prep_of(return-5', price-11)
+quantmod($-14, under-13)
+dep(price-11, $-14)
+number($-14, 200-15)
+dep(return-5, replacement-17)
+cop(available-20, was-18)
+neg(available-20, not-19)
+root(ROOT-0, available-20)
+advmod(available-20, so-21)
+ccomp(available-20, had-22)
+aux(accept-24, to-23)
+xcomp(had-22, accept-24)
+dobj(accept-24, refund-25)
+
+=========
+
+nsubj(say-3, i-1)
+aux(say-3, must-2)
+root(ROOT-0, say-3)
+det(phone-5, the-4)
+nsubj(was-6, phone-5)
+nsubj(said-11, phone-5)
+ccomp(say-3, was-6)
+nn(Moble-9, T-8)
+prep_from(was-6, Moble-9)
+ccomp(say-3, said-11)
+conj_and(was-6, said-11)
+num(&#34;-14, &#34;-12)
+amod(&#34;-14, new-13)
+dobj(said-11, &#34;-14)
+prep_on(said-11, box-16)
+
+=========
+
+nsubj(great-4, nokia-1)
+cop(great-4, was-2)
+advmod(great-4, super-3)
+root(ROOT-0, great-4)
+advmod(called-6, when-5)
+advcl(great-4, called-6)
+prep_about(called-6, battery-8)
+advcl(great-4, offered-10)
+conj_and(called-6, offered-10)
+aux(replace-12, to-11)
+xcomp(offered-10, replace-12)
+nsubj(had-15, i-14)
+xsubj(pay-17, i-14)
+conj_but(great-4, had-15)
+aux(pay-17, to-16)
+xcomp(had-15, pay-17)
+xcomp(pay-17, shipping-18)
+prep_to(shipping-18, them-20)
+
+=========
+
+nsubj(used-3, i-1)
+neg(used-3, never-2)
+root(ROOT-0, used-3)
+nn(card-5, sim-4)
+nsubj(comment-9, card-5)
+nsubj(did-14, card-5)
+advmod(comment-9, so-6)
+aux(comment-9, can-7)
+neg(comment-9, not-8)
+ccomp(used-3, comment-9)
+det(function-12, that-11)
+prep_on(comment-9, function-12)
+ccomp(used-3, did-14)
+conj_but(comment-9, did-14)
+nn(wireless-16, use-15)
+dobj(did-14, wireless-16)
+nsubj(worked-21, wireless-16)
+appos(wireless-16, WiFi-18)
+rcmod(wireless-16, worked-21)
+acomp(worked-21, fine-22)
+
+=========
+
+det(screen-2, the-1)
+nsubj(small-5, screen-2)
+nsubj(typing-7, screen-2)
+cop(small-5, was-3)
+advmod(small-5, quite-4)
+root(ROOT-0, small-5)
+conj_and(small-5, typing-7)
+prep_on(small-5, screen-9)
+partmod(screen-9, proved-10)
+acomp(proved-10, difficult-11)
+prep_for(proved-10, me-13)
+

@@ -1,0 +1,29 @@
+=========
+
+root(ROOT-0, gift-1)
+poss(mom-4, my-3)
+poss(birthday-6, mom-4)
+prep_for(gift-1, birthday-6)
+
+=========
+
+nsubj(loves-2, she-1)
+root(ROOT-0, loves-2)
+dobj(loves-2, it-3)
+
+=========
+
+root(ROOT-0, easy-1)
+aux(use-3, to-2)
+xcomp(easy-1, use-3)
+nsubj(took-6, she-5)
+dep(use-3, took-6)
+nsubj(greece-9, it-7)
+aux(greece-9, to-8)
+xcomp(took-6, greece-9)
+prep_with(greece-9, her-11)
+nsubj(performed-14, it-13)
+dep(use-3, performed-14)
+conj_and(took-6, performed-14)
+advmod(performed-14, beutifuly-15)
+

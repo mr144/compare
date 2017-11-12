@@ -1,0 +1,37 @@
+=========
+
+cop(cellphone-4, is-1)
+det(cellphone-4, a-2)
+amod(cellphone-4, good-3)
+root(ROOT-0, cellphone-4)
+
+=========
+
+cop(mine-4, is-1)
+neg(mine-4, not-2)
+advmod(mine-4, actually-3)
+ccomp(present-9, mine-4)
+nsubj(present-9, it-6)
+cop(present-9, was-7)
+det(present-9, a-8)
+root(ROOT-0, present-9)
+poss(sister-15, my-11)
+num(years-13, 13-12)
+npadvmod(old-14, years-13)
+amod(sister-15, old-14)
+prep_for(present-9, sister-15)
+nsubj(loved-19, she-18)
+conj_and(present-9, loved-19)
+dobj(loved-19, it-20)
+
+=========
+
+det(product-2, the-1)
+nsubj(arrived-3, product-2)
+nsubj(arrived-3', product-2)
+root(ROOT-0, arrived-3)
+conj_and(arrived-3, arrived-3')
+prep_on(arrived-3, time-5)
+amod(conditions-10, excelent-9)
+prep_in(arrived-3', conditions-10)
+

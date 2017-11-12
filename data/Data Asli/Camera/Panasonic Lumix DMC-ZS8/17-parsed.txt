@@ -1,0 +1,31 @@
+=========
+
+root(ROOT-0, Love-1)
+det(quality-4, the-2)
+nn(quality-4, picture-3)
+dobj(Love-1, quality-4)
+
+=========
+
+root(ROOT-0, Fantastic-1)
+
+=========
+
+cc(requires-5, But-1)
+det(issue-4, the-2)
+nn(issue-4, dust-3)
+nsubj(requires-5, issue-4)
+root(ROOT-0, requires-5)
+dep(requires-5, taking-6)
+det(thing-8, the-7)
+dobj(taking-6, thing-8)
+advmod(taking-6, apart-9)
+dep(requires-5, cleaning-11)
+conj_and(taking-6, cleaning-11)
+prt(cleaning-11, off-12)
+det(sensor-14, the-13)
+dobj(cleaning-11, sensor-14)
+advmod(regularly-17, far-15)
+advmod(regularly-17, too-16)
+advmod(cleaning-11, regularly-17)
+

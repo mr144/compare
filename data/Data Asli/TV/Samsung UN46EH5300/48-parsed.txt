@@ -1,0 +1,28 @@
+=========
+
+amod(quality-5, excellent-1)
+nn(quality-5, product-2)
+amod(quality-5, sound-4)
+nsubj(image-10, quality-5)
+cop(image-10, is-6)
+advmod(image-10, also-7)
+advmod(good-9, very-8)
+amod(image-10, good-9)
+root(ROOT-0, image-10)
+det(price-13, the-12)
+prep_with(image-10, price-13)
+
+=========
+
+amod(menu-2, connectivity-1)
+nsubj(fulfilled-9, menu-2)
+advmod(good-4, very-3)
+amod(menu-2, good-4)
+advmod(friendly-7, very-6)
+amod(menu-2, friendly-7)
+conj_and(good-4, friendly-7)
+root(ROOT-0, fulfilled-9)
+predet(expectations-12, all-10)
+poss(expectations-12, my-11)
+dobj(fulfilled-9, expectations-12)
+

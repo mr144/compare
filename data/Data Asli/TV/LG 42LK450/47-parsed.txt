@@ -1,0 +1,75 @@
+=========
+
+det(tv-2, the-1)
+nsubj(came-3, tv-2)
+root(ROOT-0, came-3)
+det(box-6, a-5)
+prep_in(came-3, box-6)
+nsubj(damage-10, box-6)
+aux(damage-10, had-8)
+cop(damage-10, been-9)
+rcmod(box-6, damage-10)
+
+=========
+
+poss(engineer-2, my-1)
+nsubj(opened-3, engineer-2)
+nsubj(saw-6, engineer-2)
+root(ROOT-0, opened-3)
+dobj(opened-3, it-4)
+conj_and(opened-3, saw-6)
+det(piece-10, the-7)
+nn(piece-10, cable-8)
+nn(piece-10, connection-9)
+nsubjpass(broken-13, piece-10)
+aux(broken-13, had-11)
+auxpass(broken-13, been-12)
+ccomp(saw-6, broken-13)
+prt(broken-13, off-14)
+prep_in(broken-13, shipping-16)
+
+=========
+
+advmod(tried-9, rather-1)
+advcl(tried-9, than-2)
+prepc_than(tried-9, inform-3)
+dobj(inform-3, me-4)
+prep_of(inform-3, this-6)
+nsubj(tried-9, he-8)
+xsubj(repair-11, he-8)
+nsubj(was-15, he-8)
+root(ROOT-0, tried-9)
+aux(repair-11, to-10)
+xcomp(tried-9, repair-11)
+dobj(repair-11, it-12)
+conj_and(tried-9, was-15)
+det(avale-18, no-17)
+prep_to(was-15, avale-18)
+
+=========
+
+nsubj(like-3, i-1)
+xsubj(return-5, i-1)
+aux(like-3, would-2)
+root(ROOT-0, like-3)
+aux(return-5, to-4)
+xcomp(like-3, return-5)
+dobj(return-5, it-6)
+nsubjpass(altered-12, it-9)
+xsubj(try-14, it-9)
+aux(altered-12, has-10)
+auxpass(altered-12, been-11)
+conj_but(like-3, altered-12)
+aux(try-14, to-13)
+xcomp(altered-12, try-14)
+aux(repair-16, to-15)
+xcomp(try-14, repair-16)
+
+=========
+
+dep(advise-2, please-1)
+root(ROOT-0, advise-2)
+poss(policy-5, your-4)
+prep_of(advise-2, policy-5)
+prep_on(policy-5, this-7)
+

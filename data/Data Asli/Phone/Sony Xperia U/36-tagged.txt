@@ -1,0 +1,5 @@
+good_JJ phone_NN ,_, fast_JJ phone_NN ,_, neat_JJ design_NN ._.
+display_NN aspect_NN ratio_NN is_VBZ not_RB the_DT best_JJS -LRB-_-LRB- too_RB narrow_JJ -RRB-_-RRB- ._.
+some_DT bugs_NNS with_IN ICS_NNP ._.
+My_PRP$ kit_NN came_VBD with_IN cheap_JJ ,_, bad_JJ quality_NN in-ear_JJ headphones_NNS but_CC sound_NN good_JJ with_IN my_PRP$ owns_VBZ ._.
+-_: Come_VBN on_IN Sony_NNP ,_, the_DT U_NNP deserves_VBZ jelly_RB bean_NN !!_NN -LRB-_-LRB- you_PRP are_VBP upgrading_VBG inferior_JJ phones_NNS -RRB-_-RRB-

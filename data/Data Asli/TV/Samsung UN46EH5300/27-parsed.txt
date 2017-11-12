@@ -1,0 +1,21 @@
+=========
+
+prep_at(sharp-6, first-2)
+det(picture-4, the-3)
+nsubj(sharp-6, picture-4)
+nsubj(bright-8, picture-4)
+cop(sharp-6, is-5)
+root(ROOT-0, sharp-6)
+conj_and(sharp-6, bright-8)
+prep(fades-14, after-11)
+pcomp(after-11, awhile-12)
+nsubj(fades-14, it-13)
+conj_but(sharp-6, fades-14)
+det(visage-19, a-16)
+advmod(dim-18, fairly-17)
+amod(visage-19, dim-18)
+prep_to(fades-14, visage-19)
+amod(visage-19, hard-21)
+aux(see-23, to-22)
+xcomp(hard-21, see-23)
+

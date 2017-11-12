@@ -1,0 +1,192 @@
+=========
+
+advmod(frankly-2, quite-1)
+amod(point-8, frankly-2)
+advmod(likely-5, most-4)
+conj_and(frankly-2, likely-5)
+amod(point-8, likely-5)
+det(point-8, the-6)
+amod(point-8, best-7)
+nsubj(find-13, point-8)
+nn(you-11, shoot-10)
+conj_and(point-8, you-11)
+nsubj(find-13, you-11)
+aux(find-13, will-12)
+root(ROOT-0, find-13)
+
+=========
+
+root(ROOT-0, Take-1)
+prep_into(Take-1, consideration-3)
+det(price-5, the-4)
+dep(consideration-3, price-5)
+appos(consideration-3, $-7)
+num($-7, 243-8)
+nsubj(hands-14, it-11)
+cop(hands-14, is-12)
+det(hands-14, a-13)
+conj_and(Take-1, hands-14)
+advmod(hands-14, down-15)
+det(brainer-18, no-17)
+attr(hands-14, brainer-18)
+
+=========
+
+root(ROOT-0, Took-1)
+dobj(Took-1, this-2)
+prep_to(Took-1, Colorado-4)
+cop(able-7, was-6)
+conj_and(Took-1, able-7)
+aux(catch-9, to-8)
+xcomp(able-7, catch-9)
+det(shots-12, some-10)
+amod(shots-12, beautiful-11)
+nsubj(close-14, shots-12)
+dep(close-14, both-13)
+ccomp(catch-9, close-14)
+dobj(close-14, ups-15)
+det(angle-19, the-17)
+amod(angle-19, wide-18)
+prep_with(close-14, angle-19)
+prep_with(close-14, zooms-21)
+conj_and(angle-19, zooms-21)
+det(zoom-25, the-23)
+amod(zoom-25, 16x-24)
+prep_with(able-7, zoom-25)
+
+=========
+
+aux(think-3, Did-1)
+neg(think-3, not-2)
+csubj(possible-6, think-3)
+dobj(think-3, it-4)
+cop(possible-6, was-5)
+root(ROOT-0, possible-6)
+aux(get-8, to-7)
+xcomp(possible-6, get-8)
+det(resolution-11, the-9)
+nn(resolution-11, quality-10)
+dobj(get-8, resolution-11)
+det(camera-14, a-13)
+prep_with(get-8, camera-14)
+nsubj(does-16, camera-14)
+rcmod(camera-14, does-16)
+nsubj(all-18, it-17)
+xcomp(does-16, all-18)
+
+=========
+
+advmod(outweighs-4, Usually-1)
+num(virtue-3, one-2)
+nsubj(outweighs-4, virtue-3)
+root(ROOT-0, outweighs-4)
+dobj(outweighs-4, another-5)
+nsubj(arounder-12, this-7)
+cop(arounder-12, is-8)
+det(arounder-12, the-9)
+advmod(all-11, best-10)
+amod(arounder-12, all-11)
+conj_but(outweighs-4, arounder-12)
+advmod(arounder-12, out-13)
+advmod(out-13, there-14)
+
+=========
+
+root(ROOT-0, Read-1)
+amod(reviews-3, other-2)
+dobj(Read-1, reviews-3)
+prep_on(reviews-3, Amazon-5)
+dobj(Read-1, cnet-9)
+conj_and(reviews-3, cnet-9)
+amod(sited-12, other-11)
+conj_and(reviews-3, sited-12)
+conj_and(cnet-9, sited-12)
+
+=========
+
+det(camera-2, This-1)
+nsubj(gets-3, camera-2)
+root(ROOT-0, gets-3)
+amod(reviews-5, great-4)
+dobj(gets-3, reviews-5)
+
+=========
+
+nn(IT-2, BUY-1)
+root(ROOT-0, IT-2)
+
+=========
+
+nn(IT-2, BUY-1)
+root(ROOT-0, IT-2)
+
+=========
+
+nn(IT-2, BUY-1)
+root(ROOT-0, IT-2)
+
+=========
+
+nsubj(unreal-7, Oh-1)
+det(quality-5, the-3)
+amod(quality-5, video-4)
+conj_and(Oh-1, quality-5)
+nsubj(unreal-7, quality-5)
+cop(unreal-7, was-6)
+root(ROOT-0, unreal-7)
+mark(life-12, as-8)
+cop(life-12, was-9)
+det(life-12, the-10)
+nn(life-12, battery-11)
+ccomp(unreal-7, life-12)
+
+=========
+
+nsubj(used-2, I-1)
+nsubj(able-9, I-1)
+root(ROOT-0, used-2)
+det(card-6, an-3)
+amod(card-6, 8gig-4)
+amod(card-6, sd\/hc-5)
+dobj(used-2, card-6)
+cop(able-9, was-8)
+conj_and(used-2, able-9)
+aux(put-11, to-10)
+xcomp(able-9, put-11)
+advmod(put-11, well-12)
+det(photo-16, a-14)
+amod(photo-16, hundred-15)
+prep_over(well-12, photo-16)
+possessive(photo-16, 's-17)
+det(day-19, a-18)
+pobj(well-12, day-19)
+amod(movies-22, short-21)
+prep_with(day-19, movies-22)
+advmod(putting-25, hardly-24)
+prepc_with(put-11, putting-25)
+det(dent-27, a-26)
+dobj(putting-25, dent-27)
+det(memory-30, the-29)
+prep_on(putting-25, memory-30)
+
+=========
+
+nsubj(downloaded-2, I-1)
+nsubj(gone-9, I-1)
+root(ROOT-0, downloaded-2)
+det(card-4, the-3)
+dobj(downloaded-2, card-4)
+advmod(downloaded-2, daily-5)
+aux(gone-9, could-7)
+aux(gone-9, have-8)
+conj_but(downloaded-2, gone-9)
+poss(7days-13, my-10)
+amod(7days-13, whole-11)
+nn(7days-13, trip-12)
+dobj(gone-9, 7days-13)
+num(card-16, one-15)
+prep_on(gone-9, card-16)
+dobj(believe-18, card-16)
+nsubj(believe-18, I-17)
+rcmod(card-16, believe-18)
+

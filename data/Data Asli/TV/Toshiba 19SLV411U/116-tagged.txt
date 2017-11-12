@@ -1,0 +1,3 @@
+This_DT is_VBZ a_DT good_JJ little_JJ TV_NN for_IN the_DT money_NN ._.
+Great_NNP for_IN the_DT basement_NN or_CC kitchen_NN ._.
+Picture_NNP quality_NN and_CC sound_NN are_VBP good_JJ ._.

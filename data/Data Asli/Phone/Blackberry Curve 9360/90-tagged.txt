@@ -1,0 +1,2 @@
+Original_NNP product_NN ,_, arrived_VBD on_IN the_DT date_NN ._.
+Good_NNP BB_NNP ,_, it_PRP goes_VBZ slow_JJ with_IN sim_NN card_NN due_JJ to_TO the_DT network_NN it_PRP can_MD be_VB fixed_VBN If_IN you_PRP setup_NN well_NN step_NN by_IN step_NN ._.

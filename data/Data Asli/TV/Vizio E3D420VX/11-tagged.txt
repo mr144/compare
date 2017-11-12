@@ -1,0 +1,3 @@
+This_DT is_VBZ my_PRP$ first_JJ 3D_NNP television_NN ._.
+And_CC although_IN there_EX is_VBZ not_RB a_DT huge_JJ selection_NN from_IN my_PRP$ cable_NN provider_NN the_DT 3D_NNP content_NN looks_VBZ amazing_JJ ._.
+The_DT picture_NN is_VBZ so_RB clear_JJ that_IN non_JJ 3D_NNP programming_NN looks_VBZ 3_CD dimensional_JJ

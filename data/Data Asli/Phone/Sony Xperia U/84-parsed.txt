@@ -1,0 +1,40 @@
+=========
+
+nsubj(worst-4, battery-1)
+cop(worst-4, is-2)
+det(worst-4, the-3)
+root(ROOT-0, worst-4)
+
+=========
+
+nsubj(inch-7, screen-1)
+aux(inch-7, does-2)
+neg(inch-7, not-3)
+advmod(inch-7, exactly-4)
+cop(inch-7, seem-5)
+num(inch-7, 3.5-6)
+root(ROOT-0, inch-7)
+
+=========
+
+root(ROOT-0, looks-1)
+advmod(smaller-3, slightly-2)
+acomp(looks-1, smaller-3)
+prep_than(smaller-3, iphone-5)
+possessive(iphone-5, 's-6)
+num(iphone-5, 3.5-7)
+
+=========
+
+nn(i-2, BUt-1)
+nsubj(like-3, i-2)
+root(ROOT-0, like-3)
+dobj(like-3, it-4)
+
+=========
+
+advmod(waiting-2, Still-1)
+root(ROOT-0, waiting-2)
+nn(upgrade-5, ICS-4)
+prep_for(waiting-2, upgrade-5)
+

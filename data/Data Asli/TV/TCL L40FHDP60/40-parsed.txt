@@ -1,0 +1,82 @@
+=========
+
+advmod(right-6, Even-1)
+dep(right-6, though-2)
+det(price-4, the-3)
+nsubj(right-6, price-4)
+cop(right-6, was-5)
+advcl(disappointed-10, right-6)
+nsubjpass(disappointed-10, I-8)
+auxpass(disappointed-10, am-9)
+root(ROOT-0, disappointed-10)
+det(quality-14, the-12)
+nn(quality-14, image-13)
+prep_with(disappointed-10, quality-14)
+
+=========
+
+advmod(have-4, Also-1)
+nsubj(have-4, I-3)
+xsubj(use-6, I-3)
+xsubj(get-15, I-3)
+root(ROOT-0, have-4)
+aux(use-6, to-5)
+xcomp(have-4, use-6)
+det(inputs-9, the-7)
+amod(inputs-9, video\/audio-8)
+dobj(use-6, inputs-9)
+amod(cable-13, coaxial-12)
+prep_instead_of(inputs-9, cable-13)
+aux(get-15, to-14)
+xcomp(have-4, get-15)
+det(picture-19, a-16)
+advmod(decent-18, half-17)
+amod(picture-19, decent-18)
+dobj(get-15, picture-19)
+
+=========
+
+det(screws-3, The-1)
+amod(screws-3, mounting-2)
+nsubj(correct-6, screws-3)
+cop(correct-6, are-4)
+neg(correct-6, not-5)
+root(ROOT-0, correct-6)
+dep(correct-6, so-8)
+det(TV-10, the-9)
+nsubj(wobbly-14, TV-10)
+cop(wobbly-14, is-11)
+det(bit-13, a-12)
+npadvmod(wobbly-14, bit-13)
+ccomp(correct-6, wobbly-14)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+advmod(high-7, fairly-6)
+amod(ratings-8, high-7)
+prep_because_of(this-3, ratings-8)
+prep_from(ratings-8, CR-10)
+nsubj(agree-16, I-13)
+aux(agree-16, do-14)
+neg(agree-16, not-15)
+conj_but(bought-2, agree-16)
+dobj(found-20, what-18)
+nsubj(found-20, they-19)
+prepc_with(agree-16, found-20)
+
+=========
+
+advmod(trying-3, Also-1)
+root(ROOT-0, trying-3)
+aux(navigate-5, to-4)
+xcomp(trying-3, navigate-5)
+det(menu-8, the-6)
+nn(menu-8, setup-7)
+dobj(navigate-5, menu-8)
+cop(difficult-11, is-9)
+advmod(difficult-11, very-10)
+dep(trying-3, difficult-11)
+

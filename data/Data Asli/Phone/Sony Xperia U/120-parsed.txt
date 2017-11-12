@@ -1,0 +1,96 @@
+=========
+
+nsubj(worked-2, Phone-1)
+root(ROOT-0, worked-2)
+acomp(worked-2, OK-3)
+prep_with(OK-3, Android-5)
+num(Android-5, 2.3-6)
+prep_on(worked-2, it-8)
+
+=========
+
+advmod(made-3, Then-1)
+nsubj(made-3, I-2)
+root(ROOT-0, made-3)
+det(mistake-5, the-4)
+dobj(made-3, mistake-5)
+number(4.0-9, upgrading-7)
+dep(4.0-9, to-8)
+prep_of(mistake-5, 4.0-9)
+nn(Sandwich-13, Ice-11)
+nn(Sandwich-13, Cream-12)
+appos(4.0-9, Sandwich-13)
+
+=========
+
+advmod(since-2, Ever-1)
+advmod(slow-8, since-2)
+nsubj(slow-8, it-4)
+aux(slow-8, has-5)
+cop(slow-8, been-6)
+advmod(slow-8, extremely-7)
+root(ROOT-0, slow-8)
+
+=========
+
+nsubj(tried-3, I-1)
+aux(tried-3, have-2)
+root(ROOT-0, tried-3)
+xcomp(tried-3, changing-4)
+det(setting-6, every-5)
+dobj(changing-4, setting-6)
+dobj(think-9, setting-6)
+nsubj(think-9, I-7)
+aux(think-9, can-8)
+rcmod(setting-6, think-9)
+prep(think-9, of-10)
+dep(good-14, but-11)
+dep(good-14, still-12)
+neg(good-14, not-13)
+dep(of-10, good-14)
+
+=========
+
+mark(upgraded-4, If-1)
+nsubj(upgraded-4, I-2)
+aux(upgraded-4, had-3)
+advcl(have-10, upgraded-4)
+advmod(upgraded-4, earlier-5)
+nsubj(have-10, Amazon-7)
+aux(have-10, would-8)
+advmod(have-10, probably-9)
+root(ROOT-0, have-10)
+ccomp(have-10, let-11)
+nsubj(return-13, me-12)
+ccomp(let-11, return-13)
+dobj(return-13, it-14)
+nsubj(am-17, I-16)
+conj_but(have-10, am-17)
+det(deadline-20, the-19)
+prep_past(am-17, deadline-20)
+advmod(am-17, now-21)
+
+=========
+
+mark(fixed-4, If-1)
+nsubj(fixed-4, anyone-2)
+aux(fixed-4, has-3)
+advcl(please-8, fixed-4)
+det(problem-6, this-5)
+dobj(fixed-4, problem-6)
+root(ROOT-0, please-8)
+xcomp(please-8, email-9)
+dobj(email-9, me-10)
+prep_at(email-9, bradmburke@gmail.com-12)
+
+=========
+
+root(ROOT-0, Thanks-1)
+prep_in(Thanks-1, advance-3)
+
+=========
+
+nsubj(desparate-3, I-1)
+cop(desparate-3, am-2)
+root(ROOT-0, desparate-3)
+

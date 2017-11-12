@@ -1,0 +1,75 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+dobj(purchased-2, two-3)
+det(LG-6, these-5)
+prep_of(two-3, LG-6)
+number(32-8, 32LK450-7)
+num(LG-6, 32-8)
+nn(HDTV-16, Inch-10)
+nn(HDTV-16, 1080p-11)
+nn(HDTV-16, 60Hz-12)
+nn(HDTV-16, LCD-13)
+nn(HDTV-16, VA-14)
+nn(HDTV-16, Panel-15)
+dep(two-3, HDTV-16)
+
+=========
+
+nsubj(gifts-4, They-1)
+cop(gifts-4, were-2)
+nn(gifts-4, Christmas-3)
+root(ROOT-0, gifts-4)
+poss(children-7, our-6)
+prep_for(gifts-4, children-7)
+
+=========
+
+nsubj(performing-4, They-1)
+nsubj(performing-4', They-1)
+dep(performing-4, both-2)
+aux(performing-4, are-3)
+root(ROOT-0, performing-4)
+conj_and(performing-4, performing-4')
+prep_with(performing-4, clarity-6)
+prep_without(performing-4', problems-9)
+
+=========
+
+det(fact-2, The-1)
+nsubj(is-14, fact-2)
+complm(hook-6, that-3)
+nsubj(hook-6, you-4)
+aux(hook-6, can-5)
+dep(fact-2, hook-6)
+prt(hook-6, up-7)
+poss(computer-9, your-8)
+dobj(hook-6, computer-9)
+advmod(hook-6, directly-10)
+det(TVs-13, the-12)
+prep_to(hook-6, TVs-13)
+root(ROOT-0, is-14)
+dobj(like-18, what-15)
+poss(children-17, our-16)
+nsubj(like-18, children-17)
+ccomp(is-14, like-18)
+advmod(like-18, best-19)
+
+=========
+
+nsubj(reccommend-3, I-1)
+aux(reccommend-3, would-2)
+root(ROOT-0, reccommend-3)
+det(product-5, this-4)
+dobj(reccommend-3, product-5)
+prep_to(reccommend-3, anyone-7)
+partmod(anyone-7, looking-8)
+det(TV-13, a-10)
+advmod(good-12, very-11)
+amod(TV-13, good-12)
+prep_for(looking-8, TV-13)
+det(picture-17, a-15)
+amod(picture-17, great-16)
+prep_with(TV-13, picture-17)
+

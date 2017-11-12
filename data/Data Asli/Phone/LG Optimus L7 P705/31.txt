@@ -1,0 +1,1 @@
+The phone itself is nice and works great but with one exception: Mobile data does not work on AT&T (goPhone) network. WiFi works fine by the way.

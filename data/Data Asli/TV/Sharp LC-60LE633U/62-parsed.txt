@@ -1,0 +1,85 @@
+=========
+
+nsubj(worried-5, I-1)
+cop(worried-5, was-2)
+det(bit-4, a-3)
+npadvmod(worried-5, bit-4)
+root(ROOT-0, worried-5)
+prepc_about(worried-5, purchasing-7)
+det(TV-9, this-8)
+dobj(purchasing-7, TV-9)
+mark(low-19, because-10)
+det(price-12, the-11)
+nsubj(low-19, price-12)
+dobj(get-16, what-14)
+nsubj(get-16, you-15)
+prepc_for(price-12, get-16)
+cop(low-19, seemed-17)
+advmod(low-19, so-18)
+advcl(purchasing-7, low-19)
+
+=========
+
+dep(WOW-2, But-1)
+root(ROOT-0, WOW-2)
+nn(SURPRISE-6, WHAT-4)
+nn(SURPRISE-6, A-5)
+dep(WOW-2, SURPRISE-6)
+
+=========
+
+det(3D-2, The-1)
+nsubj(amazing-4, 3D-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+num(movies-7, 3D-6)
+prep_for(amazing-4, movies-7)
+det(SIMULATED-11, the-10)
+nsubj(looks-16, SIMULATED-11)
+num(SIMULATED-11, 3D-12)
+det(programs-15, all-14)
+prep_for(SIMULATED-11, programs-15)
+conj_and(amazing-4, looks-16)
+advmod(same-19, almost-17)
+det(same-19, the-18)
+dobj(looks-16, same-19)
+
+=========
+
+root(ROOT-0, Football-1)
+dep(Football-1, puts-3)
+nsubj(right-5, you-4)
+xcomp(puts-3, right-5)
+det(midst-8, the-7)
+prep_in(right-5, midst-8)
+det(action-11, the-10)
+prep_of(midst-8, action-11)
+
+=========
+
+advmod(NEWS-3, Even-1)
+det(NEWS-3, the-2)
+nsubj(amazing-5, NEWS-3)
+cop(amazing-5, is-4)
+root(ROOT-0, amazing-5)
+aux(watch-7, to-6)
+xcomp(amazing-5, watch-7)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+advcl(beat-14, want-3)
+det(BANG-6, a-4)
+nn(BANG-6, BIG-5)
+dobj(want-3, BANG-6)
+amod(BUCK-9, YOUR-8)
+prep_for(BANG-6, BUCK-9)
+nsubj(beat-14, you-11)
+aux(beat-14, can-12)
+neg(beat-14, not-13)
+root(ROOT-0, beat-14)
+det(60-17, this-15)
+nn(60-17, SHARP-16)
+dobj(beat-14, 60-17)
+

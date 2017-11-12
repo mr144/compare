@@ -1,0 +1,61 @@
+=========
+
+nsubj(returned-2, I-1)
+root(ROOT-0, returned-2)
+det(Panasonic-4, a-3)
+dobj(returned-2, Panasonic-4)
+mark(had-8, because-5)
+det(camera-7, this-6)
+nsubj(had-8, camera-7)
+advcl(returned-2, had-8)
+det(zoom-11, a-9)
+amod(zoom-11, better-10)
+dobj(had-8, zoom-11)
+det(pictures-15, the-13)
+nn(pictures-15, landscape-14)
+nsubj(beautiful-17, pictures-15)
+cop(beautiful-17, were-16)
+conj_and(returned-2, beautiful-17)
+
+=========
+
+det(exposure-2, The-1)
+nsubj(beautiful-7, exposure-2)
+amod(+-5, automatic-4)
+prep_on(exposure-2, +-5)
+cop(beautiful-7, is-6)
+root(ROOT-0, beautiful-7)
+
+=========
+
+nsubj(do-2, I-1)
+root(ROOT-0, do-2)
+det(lot-4, a-3)
+dobj(do-2, lot-4)
+prep_of(lot-4, landscape-6)
+nsubj(handles-9, it-8)
+conj_and(do-2, handles-9)
+amod(lighting-11, multiple-10)
+dobj(handles-9, lighting-11)
+nn(scenes-14, landscape-13)
+dobj(handles-9, scenes-14)
+conj_and(lighting-11, scenes-14)
+advmod(handles-9, beautifully-15)
+
+=========
+
+nsubj(user-8, I-1)
+aux(user-8, have-2)
+cop(user-8, been-3)
+det(user-8, a-4)
+nn(user-8, Canon-5)
+conj_and(Canon-5, Panasonic-7)
+nn(user-8, Panasonic-7)
+root(ROOT-0, user-8)
+prep_for(user-8, years-10)
+det(one-14, this-13)
+nsubj(favorite-17, one-14)
+cop(favorite-17, is-15)
+poss(favorite-17, my-16)
+conj_but(user-8, favorite-17)
+

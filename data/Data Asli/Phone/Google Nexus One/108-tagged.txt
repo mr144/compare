@@ -1,0 +1,43 @@
+Just_RB made_VBD a_DT request_NN to_TO return_VB the_DT item_NN ._.
+WiFi_JJ issue_NN never_RB resolved_VBN for_IN me_PRP ._.
+On_IN Google_NNP 's_POS Nexus_NNP One_CD forum_NN ,_, there_EX are_VBP tons_NNS of_IN users_NNS who_WP have_VBP complained_VBN abt_IN the_DT WiFi_NNP issues_NNS ._.
+Some_DT said_VBD it_PRP was_VBD resolved_VBN after_IN 2.3.4_CD while_IN for_IN others_NNS ,_, it_PRP became_VBD even_RB more_RBR worse_JJR ._.
+My_PRP$ case_NN fell_VBD in_RP to_TO the_DT later_JJ category_NN ._.
+Really_RB really_RB really_RB loved_VBD the_DT phone_NN ._.
+I_PRP perhaps_RB will_MD give_VB another_DT try_NN to_TO this_DT smartphone_NN ._.
+So_IN my_PRP$ initial_JJ verdict_NN remained_VBD the_DT same_JJ abt_NN whether_IN you_PRP want_VBP this_DT phone_NN or_CC not_RB ._.
+One_CD more_JJR thing_NN :_: The_DT battery_NN cover_NN is_VBZ very_RB very_RB hard_JJ to_TO open_VB and_CC I_PRP almost_RB gaveup_VBP thinking_VBG i_FW wont_FW be_VB able_JJ to_TO get_VB my_PRP$ sim_NN out_IN of_IN it_PRP -LRB-_-LRB- thanks_NNS i_FW did_VBD in_IN the_DT end_NN but_CC yes_RB it_PRP is_VBZ an_DT issue_NN -RRB-_-RRB- 2_CD more_JJR things_NNS that_WDT happened_VBD to_TO me_PRP this_DT weekend_NN were_VBD :1_CD ._.
+The_DT phone_NN hung_VBD once_RB and_CC I_PRP had_VBD to_TO restart_VB it2_CD ._.
+Whenever_NNP I_PRP played_VBD Angry_NNP Birds\/Fruit_NNP slice_NN on_IN the_DT phone_NN and_CC then_RB exit_NN the_DT application_NN ,_, the_DT Menu_NNP starts_VBZ flickering_VBG ._.
+The_DT solution_NN was_VBD to_TO go_VB to_TO home_NN screen_NN ,_, select_JJ menu_NN ,_, then_RB Manage_VB Apps_NNS and_CC then_RB return_VB back_RB to_TO home_NN screen_NN ._.
+This_DT is_VBZ minor_JJ but_CC annoying_JJ issue_NN and_CC I_PRP mentioned_VBD it_PRP here_RB b\/c_VBD some_DT people_NNS are_VBP very_RB sensitive_JJ in_IN what_WP they_PRP select_VBP ._.
+That_DT was_VBD an_DT `_`` ignoreable_JJ '_'' issue_NN for_IN me_PRP though_IN !_.
+UPDATED_VBN 06\/09\/2011_CD @_SYM 3:04_CD PMNopes_NNS ,_, the_DT WiFi_NNP connectivity_NN is_VBZ still_RB extremely_RB weak_JJ in_IN the_DT office_NN on_IN Nexus_NNP One_CD and_CC is_VBZ `_`` non-existing_JJ '_'' @_IN home_NN :_: -LRB-_-LRB- UPDATED_VBN 06\/09\/2011_CD :_: Well_NNP ,_, I_PRP managed_VBD to_TO update_VB to_TO Gingerbread_NNP 2.3.3_CD manually_RB and_CC then_RB the_DT device_NN made_VBD an_DT OTA_NNP update_VBP to_TO 2.3.4_CD ._.
+My_PRP$ device_NN came_VBD with_IN Vodafone_NNP UK_NNP rom_NN ._.
+My_PRP$ device_NN config_NN was_VBD as_RB follows_VBZ :_: Android_NNP Version_NNP :_: 2.2_CD Baseband_NNP Version_NNP :_: 32.41.00.32_CD U_5_CD .08.00.04_CD Kernel_NNP Version_NNP :_: 2.6.32.9-27227-g3c98b0d_JJ haley@m4-dev_JJ #_# 1Build_NNP Number_NNP :_: 2.16.405.1_CD CL223106_NNP release-keysIf_NNP any_DT one_CD of_IN you_PRP have_VBP this_DT as_IN your_PRP$ device_NN configuration_NN ,_, then_RB OTA_NNP updates_NNS are_VBP less_RBR likely_JJ to_TO arrive_VB since_IN Vodafone_NNP is_VBZ delaying_VBG it_PRP ._.
+So_RB ,_, to_TO resolve_VB this_DT ,_, I_PRP have_VBP to_TO manually_RB update_VB it_PRP ._.
+The_DT single_JJ link_NN that_IN I_PRP used_VBD to_TO do_VB it_PRP is_VBZ :_: -LRB-_-LRB- ..._: -RRB-_-RRB- After_IN the_DT original_JJ Gingerbread_NNP -LRB-_-LRB- 2.3.3_CD -RRB-_-RRB- ,_, the_DT wireless_JJ problem_NN became_VBD even_RB more_RBR worse_JJR ._.
+However_RB ,_, today_NN in_IN the_DT morning_NN my_PRP$ device_NN popped_VBD up_RP a_DT `_`` System_NNP Update_NNP Available_NNP '_POS message_NN and_CC I_PRP updated_VBD it_PRP to_TO version_NN 2.3.4_CD ._.
+The_DT WiFi_NNP managed_VBD to_TO `_`` hookup_NN '_'' at_IN home_NN but_CC with_IN very_RB weak_JJ signals_NNS ._.
+I_PRP am_VBP right_RB now_RB in_IN the_DT office_NN and_CC will_MD update_VB the_DT information_NN once_IN I_PRP went_VBD back_RB home_NN and_CC see_VB how_WRB the_DT WiFi_NNP behaves_VBZ ._.
+In_IN the_DT office_NN ,_, it_PRP is_VBZ showing_VBG 2_CD bars_NNS and_CC apparently_RB have_VBP not_RB been_VBN disconnected_VBN yet_RB ._.
+So_RB ,_, I_PRP am_VBP positive_JJ that_IN the_DT issue_NN might_MD have_VB been_VBN resolved_VBN ._.
+ONE_CD MORE_JJR NOTE_VB ABOUT_NNP SELLER_NNP :_: I_PRP bought_VBD it_PRP from_IN Ross_NNP Cellular_NNP -LRB-_-LRB- Fulfillment_NNP By_IN Amazon_NNP -RRB-_-RRB- and_CC yes_RB the_DT phone_NN was_VBD `_`` SEALED_VBN n_NN BRAND_NNP NEW_NNP '_POS ._.
+Ca_MD not_RB comment_VB on_IN any_DT other_JJ reseller_NN ._.
+ORIGINAL_NNP REVIEW_NNP :_: I_PRP have_VBP had_VBN this_DT phone_NN since_IN yesterday_NN and_CC I_PRP really_RB really_RB like_IN it_PRP the_DT moment_NN I_PRP opened_VBD up_RP the_DT package_NN ._.
+It_PRP is_VBZ sleek_JJ ,_, modern_JJ looking_VBG and_CC comfortable_JJ to_TO use_VB ._.
+However_RB ,_, it_PRP has_VBZ 2_CD major_JJ issues_NNS -LRB-_-LRB- one_CD of_IN them_PRP I_PRP can_MD ignore_VB and_CC one_CD I_PRP can_MD not_RB -RRB-_-RRB- and_CC here_RB are_VBP they_PRP :1_CD ._.
+Like_IN almost_RB every_DT HTC_NNP device_NN ,_, it_PRP has_VBZ poor_JJ loudspeaker_NN quality_NN ._.
+It_PRP 's_VBZ very_RB tiny_JJ and_CC distorted_JJ at_IN higher_JJR level_NN -LRB-_-LRB- I_PRP can_MD still_RB ignore_VB this_DT b\/c_FW i_FW am_VBP loving_JJ this_DT device_NN so_RB much_JJ -RRB-_-RRB- 2_CD ._.
+WiFi_JJ connectivity_NN issue_NN ._.
+This_DT is_VBZ the_DT one_CD thing_NN that_IN I_PRP can_MD not_RB overlook_VB at_IN all_DT ._.
+It_PRP has_VBZ a_DT nasty_JJ habit_NN of_IN dropping_VBG WiFi_NNP connection_NN and_CC then_RB refusing_VBG to_TO reconnect_VB ._.
+I_PRP tried_VBD it_PRP @_IN home_NN where_WRB it_PRP kept_VBD giving_VBG me_PRP the_DT message_NN `_`` network_NN out_IN of_IN range_NN '_'' ._.
+I_PRP brought_VBD it_PRP to_TO the_DT office_NN today_NN and_CC it_PRP is_VBZ still_RB dropping_VBG the_DT WiFi_NNP connection_NN ._.
+When_WRB it_PRP is_VBZ getting_VBG hold_NN of_IN it_PRP ,_, the_DT signal_NN strength_NN it_PRP shows_VBZ is_VBZ `_`` poor_JJ '_'' -LRB-_-LRB- Only_RB 1_CD bar_NN -RRB-_-RRB- I_PRP have_VBP searched_VBN the_DT web_NN and_CC have_VBP found_VBN that_IN Nexus_NNP One_CD does_VBZ have_VB inherent_JJ WiFi_JJ connectivity_NN issues_NNS ._.
+It_PRP was_VBD supposed_VBN that_IN Gingerbread_NNP will_MD resolve_VB this_DT issue_NN however_RB ,_, my_PRP$ phone_NN has_VBZ 2.2_CD on_IN it_PRP and_CC System_NNP Updates_NNPS is_VBZ showing_VBG my_PRP$ phone_NN as_IN `_`` up_IN to_TO date_NN '_'' ._.
+So_RB ,_, I_PRP do_VBP not_RB know_VB when_WRB will_MD I_PRP be_VB able_JJ to_TO get_VB 2.3.3_CD I_PRP did_VBD try_VB to_TO manually_RB download_VB and_CC install_VB it_PRP from_IN google_NN 's_POS official_JJ page_NN but_CC the_DT installation_NN failed_VBD with_IN a_DT Validation_NNP error_NN ._.
+I_PRP have_VBP also_RB tried_VBN some_DT thrid_JJ party_NN apps_NNS like_IN WiFi_NNP Fixer_NNP etc_NN but_CC none_NN of_IN them_PRP have_VBP resolved_VBN the_DT issue_NN ._.
+I_PRP am_VBP keen_JJ to_TO keep_VB this_DT phone_NN but_CC if_IN I_PRP failed_VBD to_TO find_VB a_DT solution_NN for_IN WiFi_NNP ,_, I_PRP have_VBP to_TO return_VB it_PRP b\/c_FW I_PRP do_VBP not_RB have_VB data_NNS plan_NN and_CC WiFi_NNP is_VBZ the_DT only_JJ way_NN I_PRP can_MD get_VB internet_JJ connection_NN on_IN this_DT device_NN ._.
+There_EX is_VBZ one_CD more_JJR issue_NN and_CC is_VBZ with_IN battery_NN cover_NN which_WDT is_VBZ very_RB difficult_JJ to_TO open_VB but_CC I_PRP do_VBP not_RB count_VB it_PRP as_IN no_DT one_NN has_VBZ to_TO open_VB back_RB cover_VBP every_DT day_NN ._.
+If_IN someone_NN can_MD live_VB with_IN above_RB mentioned_VBN issues_NNS ,_, then_RB s\/he_VBP will_MD probably_RB be_VB more_JJR than_IN happy_JJ with_IN this_DT phone_NN ._.

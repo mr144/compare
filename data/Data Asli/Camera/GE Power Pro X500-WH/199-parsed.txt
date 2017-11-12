@@ -1,0 +1,131 @@
+=========
+
+nsubj(loved-2, I-1)
+root(ROOT-0, loved-2)
+det(camera-4, this-3)
+dobj(loved-2, camera-4)
+
+=========
+
+nsubj(professional-5, I-1)
+cop(professional-5, am-2)
+neg(professional-5, not-3)
+det(professional-5, a-4)
+root(ROOT-0, professional-5)
+nsubj(thought-9, I-8)
+conj_but(professional-5, thought-9)
+nsubj(took-11, it-10)
+ccomp(thought-9, took-11)
+amod(pictures-13, great-12)
+dobj(took-11, pictures-13)
+poss(purposes-16, my-15)
+prep_for(took-11, purposes-16)
+
+=========
+
+nsubj(had-5, we-2)
+aux(had-5, have-3)
+advmod(had-5, only-4)
+root(ROOT-0, had-5)
+dobj(had-5, it-6)
+det(week-9, a-8)
+prep_about(had-5, week-9)
+nsubj(having-14, I-12)
+xsubj(change-16, I-12)
+aux(having-14, am-13)
+conj_and(had-5, having-14)
+aux(change-16, to-15)
+xcomp(having-14, change-16)
+det(batteries-18, the-17)
+dobj(change-16, batteries-18)
+det(day-20, every-19)
+dep(batteries-18, day-20)
+
+=========
+
+nsubj(have-2, We-1)
+root(ROOT-0, have-2)
+det(tester-5, a-3)
+nn(tester-5, battery-4)
+dobj(have-2, tester-5)
+nsubj(telling-9, it-7)
+aux(telling-9, is-8)
+conj_and(have-2, telling-9)
+nsubj(GOOD-11, me-10)
+ccomp(telling-9, GOOD-11)
+nsubj(BAD-14, batteries-12)
+cop(BAD-14, are-13)
+ccomp(GOOD-11, BAD-14)
+
+=========
+
+nsubj(unacceptable-3, That-1)
+cop(unacceptable-3, is-2)
+root(ROOT-0, unacceptable-3)
+
+=========
+
+nsubj(shudder-2, I-1)
+xsubj(think-4, I-1)
+root(ROOT-0, shudder-2)
+aux(think-4, to-3)
+xcomp(shudder-2, think-4)
+advmod(many-6, how-5)
+dep(throw-17, many-6)
+nn(people-8, batteries-7)
+nsubj(have-12, people-8)
+nsubj(throw-17, people-8)
+aux(have-12, do-10)
+neg(have-12, not-11)
+rcmod(people-8, have-12)
+det(tester-15, a-13)
+nn(tester-15, battery-14)
+dobj(have-12, tester-15)
+advmod(throw-17, just-16)
+ccomp(think-4, throw-17)
+prt(throw-17, away-18)
+det(camera-22, this-21)
+prep_thanks_to(throw-17, camera-22)
+
+=========
+
+nsubj(read-3, I-1)
+nsubj(thought-15, I-1)
+aux(read-3, did-2)
+root(ROOT-0, read-3)
+det(reviews-6, a-4)
+amod(reviews-6, few-5)
+dobj(read-3, reviews-6)
+det(batteries-9, the-8)
+prep_about(reviews-6, batteries-9)
+neg(lasting-11, not-10)
+amod(batteries-9, lasting-11)
+advmod(read-3, long-12)
+conj_but(read-3, thought-15)
+nsubj(picky-21, they-16)
+aux(picky-21, were-17)
+advmod(picky-21, probably-18)
+advmod(picky-21, just-19)
+cop(picky-21, being-20)
+ccomp(thought-15, picky-21)
+
+=========
+
+nsubj(were-2, They-1)
+root(ROOT-0, were-2)
+neg(were-2, not-3)
+
+=========
+
+nsubj(returning-3, We-1)
+aux(returning-3, are-2)
+root(ROOT-0, returning-3)
+dobj(returning-3, it-4)
+
+=========
+
+det(search-3, The-1)
+nn(search-3, camera-2)
+nsubj(continues-4, search-3)
+root(ROOT-0, continues-4)
+

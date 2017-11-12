@@ -1,0 +1,3 @@
+Unfortunately_RB it_PRP does_VBZ not_RB work_VB with_IN T-Mobile_NNP 3G_NNP network_NN ._.
+Check_VB your_PRP$ mobile_JJ phone_NN carrier_NN frequencies_NNS before_IN buying_VBG a_DT cell_NN phone_NN ._.
+Very_RB good_JJ sensitivity_NN on_IN 2G_NNP network_NN ._.

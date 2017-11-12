@@ -1,0 +1,130 @@
+=========
+
+nsubj(TV-6, This-1)
+cop(TV-6, is-2)
+det(TV-6, a-3)
+advmod(good-5, surprisingly-4)
+amod(TV-6, good-5)
+root(ROOT-0, TV-6)
+
+=========
+
+mark(went-7, After-1)
+poss(screen-6, our-2)
+amod(screen-6, expensive-3)
+amod(screen-6, previous-4)
+amod(screen-6, flat-5)
+nsubj(went-7, screen-6)
+advcl(decided-18, went-7)
+det(plaid-9, all-8)
+dobj(went-7, plaid-9)
+quantmod(five-12, about-11)
+num(years-13, five-12)
+prep_after(went-7, years-13)
+prep_of(years-13, use-15)
+nsubj(decided-18, we-17)
+root(ROOT-0, decided-18)
+complm(mistake-28, that-19)
+csubj(mistake-28, spending-20)
+advmod(much-22, so-21)
+amod(money-23, much-22)
+dobj(spending-20, money-23)
+aux(mistake-28, may-24)
+aux(mistake-28, have-25)
+cop(mistake-28, been-26)
+det(mistake-28, a-27)
+ccomp(decided-18, mistake-28)
+
+=========
+
+det(TV-4, The-1)
+nn(TV-4, TLC-2)
+amod(TV-4, 40-inch-3)
+nsubj(confirmed-5, TV-4)
+root(ROOT-0, confirmed-5)
+dobj(confirmed-5, that-6)
+
+=========
+
+det(pictures-2, The-1)
+nsubj(fine-4, pictures-2)
+cop(fine-4, are-3)
+root(ROOT-0, fine-4)
+mark(judged-7, as-6)
+advcl(fine-4, judged-7)
+poss(eyes-10, my-9)
+prep_by(judged-7, eyes-10)
+
+=========
+
+advmod(imperfect-7, Sometimes-1)
+det(sound-3, the-2)
+nsubj(imperfect-7, sound-3)
+cop(imperfect-7, seems-4)
+det(little-6, a-5)
+npadvmod(imperfect-7, little-6)
+root(ROOT-0, imperfect-7)
+nsubj(appears-11, that-10)
+xsubj(problem-15, that-10)
+conj_but(imperfect-7, appears-11)
+aux(problem-15, to-12)
+cop(problem-15, be-13)
+det(problem-15, a-14)
+xcomp(appears-11, problem-15)
+det(broadcaster-18, the-17)
+prep_of(problem-15, broadcaster-18)
+det(receiver-22, the-21)
+xcomp(appears-11, receiver-22)
+conj_negcc(problem-15, receiver-22)
+
+=========
+
+amod(times-3, other-2)
+prep_at(great-8, times-3)
+det(sound-6, the-5)
+nsubj(great-8, sound-6)
+cop(great-8, is-7)
+root(ROOT-0, great-8)
+
+=========
+
+nsubj(input-2, We-1)
+root(ROOT-0, input-2)
+det(computer-4, the-3)
+dobj(input-2, computer-4)
+det(cable-9, the-8)
+dobj(input-2, cable-9)
+conj_and(computer-4, cable-9)
+det(pictures-13, the-12)
+nsubj(great-15, pictures-13)
+cop(great-15, are-14)
+conj_and(input-2, great-15)
+prep_for(great-15, both-17)
+
+=========
+
+nsubj(buy-3, I-1)
+aux(buy-3, did-2)
+root(ROOT-0, buy-3)
+det(television-5, this-4)
+dobj(buy-3, television-5)
+advmod(buy-3, again-6)
+
+=========
+
+cc(gotten-14, And-1)
+mark(goes-4, if-2)
+nsubj(goes-4, it-3)
+advcl(gotten-14, goes-4)
+dobj(goes-4, plaid-5)
+num(years-8, five-7)
+prep_after(goes-4, years-8)
+nsubj(gotten-14, I-10)
+aux(gotten-14, will-11)
+advmod(gotten-14, still-12)
+aux(gotten-14, have-13)
+root(ROOT-0, gotten-14)
+poss(money-16, my-15)
+poss(worth-18, money-16)
+dobj(gotten-14, worth-18)
+

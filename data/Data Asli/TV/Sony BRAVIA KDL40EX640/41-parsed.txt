@@ -1,0 +1,163 @@
+=========
+
+amod(picture-2, Great-1)
+root(ROOT-0, picture-2)
+amod(sound-5, great-4)
+dep(picture-2, sound-5)
+dep(sound-5, thought-7)
+nsubj(consider-10, i-8)
+aux(consider-10, might-9)
+ccomp(thought-7, consider-10)
+det(speaker-14, a-11)
+amod(speaker-14, small-12)
+nn(speaker-14, front-13)
+dobj(consider-10, speaker-14)
+partmod(speaker-14, facing-15)
+dobj(facing-15, system-16)
+advmod(facing-15, though-17)
+ccomp(thought-7, not-19)
+conj_but(consider-10, not-19)
+neg(consider-10, not-19)
+dep(consider-10, neccessary-20)
+
+=========
+
+root(ROOT-0, Energy-1)
+amod(bucks-4, efficient-2)
+dep(efficient-2, 18-3)
+dep(Energy-1, bucks-4)
+num(months-7, 12-6)
+prep_for(bucks-4, months-7)
+
+=========
+
+aux(beat-3, Ca-1)
+neg(beat-3, not-2)
+root(ROOT-0, beat-3)
+dobj(beat-3, that-4)
+
+=========
+
+det(connection-3, The-1)
+nn(connection-3, internet-2)
+nsubj(works-4, connection-3)
+root(ROOT-0, works-4)
+advmod(works-4, well-5)
+
+=========
+
+neg(much-2, Not-1)
+nsubj(curve-6, much-2)
+det(learning-5, a-4)
+prep_of(much-2, learning-5)
+root(ROOT-0, curve-6)
+
+=========
+
+root(ROOT-0, Has-1)
+det(port-4, another-2)
+amod(port-4, USB-3)
+dobj(Has-1, port-4)
+aux(handle-6, to-5)
+infmod(port-4, handle-6)
+poss(music-8, your-7)
+dobj(handle-6, music-8)
+dobj(handle-6, pics-10)
+conj_and(music-8, pics-10)
+dobj(handle-6, video-12)
+conj_and(music-8, video-12)
+
+=========
+
+root(ROOT-0, Impressive-1)
+
+=========
+
+nsubj(rid-3, I-1)
+dep(rid-3, got-2)
+root(ROOT-0, rid-3)
+prep_of(rid-3, cable-5)
+mark(using-9, so-6)
+aux(using-9, am-7)
+advmod(using-9, only-8)
+advcl(rid-3, using-9)
+det(antenna-13, an-10)
+amod(antenna-13, indoor-11)
+nn(antenna-13, HD-12)
+dobj(using-9, antenna-13)
+nsubj(works-15, antenna-13)
+rcmod(antenna-13, works-15)
+acomp(works-15, incrediblievely-16)
+advmod(incrediblievely-16, well-17)
+prep_for(incrediblievely-16, free-19)
+advcl(rid-3, well-21)
+advmod(using-9, well-21)
+conj_and(using-9, well-21)
+prep_as(well-21, Netflix-23)
+advcl(rid-3, with-24)
+conj_and(using-9, with-24)
+pobj(with-24, Roku-25)
+pobj(with-24, Smartsony-27)
+conj_or(Roku-25, Smartsony-27)
+num(bucks-30, 8-29)
+prep_for(with-24, bucks-30)
+det(month-32, a-31)
+dep(bucks-30, month-32)
+
+=========
+
+nsubj(miss-5, I-1)
+aux(miss-5, do-2)
+neg(miss-5, not-3)
+advmod(miss-5, really-4)
+root(ROOT-0, miss-5)
+det(cable-7, the-6)
+dobj(miss-5, cable-7)
+rel(spending-12, which-9)
+nsubj(spending-12, I-10)
+aux(spending-12, was-11)
+rcmod(cable-7, spending-12)
+advmod(spending-12, well-13)
+num(bucks-16, 100-15)
+prep_over(spending-12, bucks-16)
+det(month-18, a-17)
+dep(bucks-16, month-18)
+
+=========
+
+dep(rip-3, What-1)
+det(rip-3, a-2)
+root(ROOT-0, rip-3)
+
+=========
+
+nsubj(see-3, I-1)
+aux(see-3, can-2)
+root(ROOT-0, see-3)
+advmod(&#34;-7, why-4)
+nsubj(&#34;-7, people-5)
+cop(&#34;-7, are-6)
+advcl(see-3, &#34;-7)
+partmod(&#34;-7, cutting-8)
+det(cord-10, the-9)
+iobj(cutting-8, cord-10)
+dobj(cutting-8, &#34;-11)
+
+=========
+
+aux(think-3, Do-1)
+neg(think-3, not-2)
+root(ROOT-0, think-3)
+nsubj(do-8, it-4)
+aux(do-8, can-5)
+neg(do-8, not-6)
+aux(do-8, be-7)
+ccomp(think-3, do-8)
+neg(do-8, not-9)
+advmod(inconvevience-12, much-11)
+prep_without(do-8, inconvevience-12)
+
+=========
+
+root(ROOT-0, Paul-1)
+

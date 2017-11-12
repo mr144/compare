@@ -1,0 +1,511 @@
+=========
+
+advmod(take-6, Ok-1)
+nn(PLEASE-5, PLEASE-3)
+nn(PLEASE-5, PLEASE-4)
+nsubj(take-6, PLEASE-5)
+root(ROOT-0, take-6)
+poss(advise-8, my-7)
+dobj(take-6, advise-8)
+nn(NOT-12, DO-11)
+nsubj(buy-13, NOT-12)
+conj_and(take-6, buy-13)
+det(t.v.-16, a-14)
+nn(t.v.-16, tcl-15)
+dobj(buy-13, t.v.-16)
+
+=========
+
+advmod(had-9, By-1)
+advmod(By-1, far-2)
+det(i-6, the-3)
+amod(i-6, worst-4)
+nn(i-6, experience-5)
+nsubj(had-9, i-6)
+aux(had-9, have-7)
+advmod(had-9, ever-8)
+root(ROOT-0, had-9)
+det(company-13, a-11)
+nn(company-13, service-12)
+prep_with(had-9, company-13)
+
+=========
+
+det(t.v.-3, the-1)
+amod(t.v.-3, first-2)
+dobj(got-5, t.v.-3)
+nsubj(was-6, t.v.-3)
+nsubj(got-5, i-4)
+rcmod(t.v.-3, got-5)
+root(ROOT-0, was-6)
+det(box-11, a-8)
+amod(box-11, real-9)
+nn(box-11, company-10)
+prep_in(was-6, box-11)
+
+=========
+
+advmod(packaged-3, properly-2)
+root(ROOT-0, packaged-3)
+prep_with(packaged-3, Styrofoam-5)
+prep_with(packaged-3, bubble-wrap-7)
+conj_and(Styrofoam-5, bubble-wrap-7)
+
+=========
+
+quantmod(8-3, about-2)
+num(months-4, 8-3)
+prep_after(displayed-7, months-4)
+det(screen-6, the-5)
+nsubj(displayed-7, screen-6)
+root(ROOT-0, displayed-7)
+det(star-9, a-8)
+dobj(displayed-7, star-9)
+partmod(star-9, stemming-10)
+det(group-13, a-12)
+prep_from(stemming-10, group-13)
+amod(pixels-16, failed-15)
+prep_of(group-13, pixels-16)
+
+=========
+
+nsubj(time-3, Ok-1)
+xsubj(test-5, Ok-1)
+advmod(Ok-1, so-2)
+root(ROOT-0, time-3)
+aux(test-5, to-4)
+xcomp(time-3, test-5)
+det(warranty-7, the-6)
+dobj(test-5, warranty-7)
+
+=========
+
+root(ROOT-0, part-1)
+det(reason-4, the-3)
+prep_of(part-1, reason-4)
+prepc_for(reason-4, taking-6)
+det(chance-8, a-7)
+dobj(taking-6, chance-8)
+det(right-15, a-10)
+amod(right-15, unheard-11)
+prep_of(unheard-11, cheap-13)
+nn(right-15, t.v.-14)
+prep_on(taking-6, right-15)
+
+=========
+
+advmod(off-2, First-1)
+advmod(dead-10, off-2)
+nsubj(dead-10, all-4)
+det(reviews-8, the-5)
+num(reviews-8, 1-6)
+nn(reviews-8, star-7)
+dep(all-4, reviews-8)
+cop(dead-10, are-9)
+root(ROOT-0, dead-10)
+prep(dead-10, on-11)
+
+=========
+
+mark(get-4, If-1)
+nsubj(get-4, you-2)
+aux(get-4, can-3)
+advcl(seem-13, get-4)
+dobj(get-4, someone-5)
+det(phone-8, the-7)
+prep_on(get-4, phone-8)
+nsubj(seem-13, they-10)
+xsubj(tell-15, they-10)
+nsubj(send-19, they-10)
+aux(seem-13, can-11)
+neg(seem-13, not-12)
+root(ROOT-0, seem-13)
+aux(tell-15, to-14)
+xcomp(seem-13, tell-15)
+iobj(tell-15, you-16)
+dobj(tell-15, anything-17)
+conj_but(seem-13, send-19)
+dobj(send-19, it-20)
+prep(send-19, in-21)
+conj_but(seem-13, wait-24)
+conj_and(send-19, wait-24)
+conj_and(send-19, see-26)
+conj_and(wait-24, see-26)
+
+=========
+
+nsubj(know-3, They-1)
+advmod(know-3, already-2)
+root(ROOT-0, know-3)
+dobj(find-8, what-4)
+nsubj(find-8, your-5)
+advmod(find-8, about-6)
+aux(find-8, to-7)
+ccomp(know-3, find-8)
+xcomp(know-3, find-8)
+prt(find-8, out-9)
+
+=========
+
+nsubj(getting-5, you-1)
+aux(getting-5, will-2)
+neg(getting-5, not-3)
+aux(getting-5, be-4)
+root(ROOT-0, getting-5)
+dep(getting-5, helped-6)
+
+=========
+
+nsubj(Emailed-2, I-1)
+root(ROOT-0, Emailed-2)
+nsubj(pictures-4, them-3)
+ccomp(Emailed-2, pictures-4)
+dep(saved-12, of-5)
+det(problem-7, the-6)
+pobj(of-5, problem-7)
+conj_and(of-5, luckily-9)
+dep(saved-12, luckily-9)
+nsubj(saved-12, I-10)
+aux(saved-12, had-11)
+ccomp(pictures-4, saved-12)
+poss(box-15, my-13)
+amod(box-15, original-14)
+dobj(saved-12, box-15)
+complm(charge-27, that-18)
+csubj(charge-27, saved-19)
+iobj(saved-19, me-20)
+det(bucks-23, the-21)
+num(bucks-23, 50-22)
+dobj(saved-19, bucks-23)
+nsubj(gonna-26, they-24)
+cop(gonna-26, were-25)
+rcmod(bucks-23, gonna-26)
+ccomp(pictures-4, charge-27)
+conj_so(saved-12, charge-27)
+dobj(charge-27, me-28)
+det(one-32, a-30)
+amod(one-32, new-31)
+prep_for(charge-27, one-32)
+aux(return-34, to-33)
+xcomp(charge-27, return-34)
+dobj(return-34, ship-35)
+prep(return-34, in-36)
+
+=========
+
+dep(Emailed-3, So-1)
+nsubj(Emailed-3, they-2)
+root(ROOT-0, Emailed-3)
+dep(slip-7, me-4)
+det(slip-7, a-5)
+nn(slip-7, return-6)
+dep(Emailed-3, slip-7)
+nsubj(send-10, I-9)
+dep(Emailed-3, send-10)
+conj_and(slip-7, send-10)
+det(t.v.-13, the-12)
+prep_in(send-10, t.v.-13)
+
+=========
+
+det(week-2, A-1)
+tmod(get-5, week-2)
+advmod(week-2, later-3)
+nsubj(get-5, I-4)
+root(ROOT-0, get-5)
+det(box-8, an-6)
+amod(box-8, unmarked-7)
+dobj(get-5, box-8)
+amod(inside-14, fragile-12)
+nn(inside-14, t.v.-13)
+prep_with(get-5, inside-14)
+det(outside-18, the-17)
+prep_on(inside-14, outside-18)
+
+=========
+
+root(ROOT-0, Open-1)
+det(box-3, the-2)
+dobj(Open-1, box-3)
+det(corners-7, no-6)
+dobj(Open-1, corners-7)
+conj_and(box-3, corners-7)
+det(bubble-wrap-10, no-9)
+dep(Open-1, bubble-wrap-10)
+
+=========
+
+advmod(t.v.-3, just-1)
+det(t.v.-3, a-2)
+nsubj(wrapped-4, t.v.-3)
+root(ROOT-0, wrapped-4)
+prep_in(wrapped-4, plastic-6)
+dep(wrapped-4, Like-8)
+nn(Palmer-10, Laura-9)
+pobj(Like-8, Palmer-10)
+
+=========
+
+nsubj(dumped-2, and-1)
+root(ROOT-0, dumped-2)
+det(box-5, a-4)
+prep_in(dumped-2, box-5)
+
+=========
+
+ccomp(cracked-12, Needless-1)
+aux(say-3, to-2)
+xcomp(Needless-1, say-3)
+det(side-6, the-5)
+nsubjpass(cracked-12, side-6)
+det(case-10, the-8)
+amod(case-10, t.v.s-9)
+prep_of(side-6, case-10)
+auxpass(cracked-12, is-11)
+root(ROOT-0, cracked-12)
+
+=========
+
+advmod(guy-6, Now-1)
+nsubj(guy-6, I-2)
+cop(guy-6, am-3)
+det(guy-6, a-4)
+amod(guy-6, single-5)
+root(ROOT-0, guy-6)
+nsubjpass(been-10, guy-6)
+auxpass(been-10, 's-8)
+advmod(been-10, already-9)
+rcmod(guy-6, been-10)
+nn(crap-15, t.v.-12)
+nn(crap-15, service-13)
+nn(crap-15, dept.-14)
+prep_through(been-10, crap-15)
+mark(cool-28, before-16)
+nsubj(thinking-20, I-18)
+aux(thinking-20, am-19)
+parataxis(cool-28, thinking-20)
+mark(looks-24, if-21)
+det(screen-23, the-22)
+nsubj(looks-24, screen-23)
+advcl(thinking-20, looks-24)
+acomp(looks-24, good-25)
+cop(cool-28, were-27)
+advcl(been-10, cool-28)
+
+=========
+
+nsubj(turn-2, I-1)
+root(ROOT-0, turn-2)
+dobj(turn-2, it-3)
+prep(turn-2, on-4)
+cc(about-6, and-5)
+pobj(on-4, about-6)
+det(panel-10, a-7)
+num(panel-10, 3-8)
+nn(panel-10, inch-9)
+nsubj(reversed-15, panel-10)
+det(t.v.-13, the-12)
+prep_of(panel-10, t.v.-13)
+cop(reversed-15, is-14)
+rcmod(about-6, reversed-15)
+
+=========
+
+amod(I-3, weirdest-1)
+nn(I-3, problem-2)
+nsubj(seen-6, I-3)
+aux(seen-6, have-4)
+advmod(seen-6, ever-5)
+root(ROOT-0, seen-6)
+
+=========
+
+poss(brothers-2, my-1)
+nsubj(epileptic-3, brothers-2)
+nsubj(look-7, brothers-2)
+root(ROOT-0, epileptic-3)
+aux(look-7, could-5)
+neg(look-7, not-6)
+conj_and(epileptic-3, look-7)
+prep_at(look-7, it-9)
+prep_for(look-7, fear-11)
+prepc_of(fear-11, having-13)
+det(seizure-15, a-14)
+dobj(having-13, seizure-15)
+
+=========
+
+root(ROOT-0, Impossible-1)
+aux(watch-3, to-2)
+xcomp(Impossible-1, watch-3)
+
+=========
+
+amod(pictures-2, More-1)
+nsubj(sent-3, pictures-2)
+root(ROOT-0, sent-3)
+det(problem-6, this-5)
+prep_of(sent-3, problem-6)
+
+=========
+
+root(ROOT-0, Send-2)
+dobj(Send-2, it-3)
+prep(Send-2, in-4)
+conj_and(Send-2, wait-6)
+conj_and(Send-2, see-8)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+advmod(telling-6, Now-1)
+det(dept.-4, the-2)
+nn(dept.-4, service-3)
+nsubj(telling-6, dept.-4)
+aux(telling-6, is-5)
+root(ROOT-0, telling-6)
+iobj(telling-6, me-7)
+det(case-9, the-8)
+dobj(telling-6, case-9)
+auxpass(broken-11, is-10)
+rcmod(case-9, broken-11)
+nsubj(looks-14, it-13)
+conj_and(telling-6, looks-14)
+acomp(looks-14, weird-15)
+
+=========
+
+nsubj(took-2, I-1)
+root(ROOT-0, took-2)
+dobj(took-2, pictures-3)
+advmod(opened-6, when-4)
+nsubj(opened-6, i-5)
+advcl(took-2, opened-6)
+det(box-8, the-7)
+dobj(opened-6, box-8)
+dep(took-2, so-10)
+nsubj(sent-12, i-11)
+dep(took-2, sent-12)
+det(pictures-14, those-13)
+dobj(sent-12, pictures-14)
+prep_to(sent-12, them-16)
+nsubj(waiting-20, I-18)
+aux(waiting-20, am-19)
+conj_and(took-2, waiting-20)
+poss(disappointment-24, my-22)
+amod(disappointment-24, next-23)
+prep_for(waiting-20, disappointment-24)
+
+=========
+
+nsubj(waiting-4, I-1)
+xsubj(see-6, I-1)
+aux(waiting-4, am-2)
+advmod(waiting-4, still-3)
+root(ROOT-0, waiting-4)
+aux(see-6, to-5)
+xcomp(waiting-4, see-6)
+dobj(be-11, what-7)
+det(reply-9, the-8)
+nsubj(be-11, reply-9)
+aux(be-11, will-10)
+ccomp(see-6, be-11)
+nsubj(given-16, I-14)
+aux(given-16, have-15)
+conj_but(waiting-4, given-16)
+prt(given-16, up-17)
+prepc_on(given-16, getting-19)
+dobj(getting-19, anything-20)
+det(people-23, these-22)
+prep_from(getting-19, people-23)
+
+=========
+
+nsubj(threw-2, I-1)
+root(ROOT-0, threw-2)
+advmod(dollars-5, away-3)
+num(dollars-5, 300-4)
+dobj(threw-2, dollars-5)
+det(t.v.-8, this-7)
+prep_on(threw-2, t.v.-8)
+dep(give-12, Please-9)
+aux(give-12, do-10)
+neg(give-12, not-11)
+dep(threw-2, give-12)
+iobj(give-12, tcl-13)
+dobj(give-12, any-14)
+poss(money-17, your-16)
+prep_of(any-14, money-17)
+
+=========
+
+nsubj(reporting-4, I-1)
+aux(reporting-4, will-2)
+aux(reporting-4, be-3)
+ccomp(is-19, reporting-4)
+dobj(reporting-4, this-5)
+det(B.B.B.-8, the-7)
+prep_to(reporting-4, B.B.B.-8)
+mark(matters-12, if-9)
+nsubj(matters-12, that-10)
+advmod(matters-12, even-11)
+advcl(reporting-4, matters-12)
+det(people-15, these-14)
+prep_to(matters-12, people-15)
+poss(guess-18, my-17)
+nsubj(is-19, guess-18)
+root(ROOT-0, is-19)
+neg(is-19, not-20)
+
+=========
+
+nsubj(screw-4, They-1)
+aux(screw-4, can-2)
+advmod(screw-4, always-3)
+root(ROOT-0, screw-4)
+dobj(screw-4, you-5)
+prt(screw-4, over-6)
+mark(choice-19, As-8)
+nsubj(choice-19, consumers-9)
+det(power-13, the-11)
+amod(power-13, only-12)
+appos(consumers-9, power-13)
+dobj(have-15, power-13)
+nsubj(have-15, we-14)
+rcmod(power-13, have-15)
+cop(choice-19, is-17)
+det(choice-19, the-18)
+csubj(earned-26, choice-19)
+advmod(spend-23, where-21)
+aux(spend-23, to-22)
+prepc_of(choice-19, spend-23)
+poss(hard-25, our-24)
+dobj(spend-23, hard-25)
+ccomp(screw-4, earned-26)
+dobj(earned-26, money-27)
+
+=========
+
+nn(Point-2, Stories-1)
+root(ROOT-0, Point-2)
+
+=========
+
+root(ROOT-0, Pay-1)
+det(little-3, a-2)
+npadvmod(more-4, little-3)
+advmod(Pay-1, more-4)
+dep(Pay-1, get-6)
+det(Sony-8, a-7)
+dobj(get-6, Sony-8)
+
+=========
+
+nn(!!!!-6, DO-1)
+nn(!!!!-6, NOT-2)
+nn(!!!!-6, BUY-3)
+nn(!!!!-6, A-4)
+nn(!!!!-6, TCL-5)
+root(ROOT-0, !!!!-6)
+

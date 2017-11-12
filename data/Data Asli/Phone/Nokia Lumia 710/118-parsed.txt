@@ -1,0 +1,34 @@
+=========
+
+root(ROOT-0, Ordered-1)
+dobj(Ordered-1, it-2)
+advmod(time-6, just-4)
+amod(time-6, enough-5)
+prep_with(Ordered-1, time-6)
+aux(get-8, to-7)
+infmod(time-6, get-8)
+dobj(get-8, it-9)
+prep_for(get-8, Christmas-11)
+
+=========
+
+det(complaint-3, The-1)
+amod(complaint-3, only-2)
+nsubj(is-4, complaint-3)
+nsubj(works-23, complaint-3)
+root(ROOT-0, is-4)
+complm(were-15, that-5)
+advmod(received-8, when-6)
+nsubj(received-8, I-7)
+advcl(were-15, received-8)
+det(phone-10, the-9)
+dobj(received-8, phone-10)
+predet(contacts-14, all-12)
+det(contacts-14, the-13)
+nsubj(were-15, contacts-14)
+ccomp(is-4, were-15)
+prep_in(were-15, Arabic-17)
+prep_besides(works-23, that-21)
+conj_but(is-4, works-23)
+acomp(works-23, fine-24)
+

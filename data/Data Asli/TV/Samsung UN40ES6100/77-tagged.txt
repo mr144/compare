@@ -1,0 +1,7 @@
+Pros_NNS :_: Nice_JJ and_CC crisp_JJ display_NN ,_, incredible_JJ image_NN ,_, and_CC sound_NN is_VBZ not_RB bad_JJ ,_, but_CC if_IN you_PRP are_VBP going_VBG to_TO buy_VB a_DT flatscreen_NN better_RBR get_VB the_DT home_NN theater_NN system_NN ._.
+DLNA_NNP and_CC AllShare_NNP connectivity_NN works_VBZ perfect_JJ ._.
+I_PRP have_VBP an_DT S3_NN and_CC an_DT iPad_NN and_CC both_DT can_MD function_VB as_IN a_DT remote_JJ control_NN ._.
+I_PRP can_MD instantly_RB play_VB and_CC movies_NNS on_IN the_DT computer_NN to_TO the_DT screen_NN wirelessly_RB ._.
+I_PRP have_VBP not_RB yet_RB had_VBD the_DT need_NN to_TO use_VB cables_NNS for_IN anything_NN ,_, which_WDT to_TO me_PRP is_VBZ a_DT big_JJ plus_NN ._.
+Cons_NNS :_: Software_NNP and_CC SmartHub_NNP are_VBP still_RB lightyears_NNS away_RB from_IN acceptable_JJ ._.
+They_PRP should_MD incorporate_VB some_DT type_NN of_IN Android_JJ platform_NN on_IN it_PRP ,_, in_IN the_DT meantime_NN ,_, the_DT apps_NNS are_VBP a_DT little_RB slow_JJ at_IN times_NNS ,_, but_CC they_PRP work_VBP nontheless_JJ ._.

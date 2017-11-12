@@ -1,0 +1,5 @@
+The_DT phone_NN worked_VBD fine_JJ for_IN a_DT couple_NN of_IN months_NNS ._.
+Then_RB it_PRP sporatically_RB would_MD not_RB turn_VB on_IN or_CC take_VB a_DT charge_NN ._.
+Of_IN course_NN this_DT happened_VBD a_DT few_JJ weeks_NNS outside_IN the_DT warranty_NN period_NN ._.
+No_DT problem_NN ,_, I_PRP took_VBD the_DT phone_NN to_TO an_DT apple_NN store_NN for_IN a_DT diagnosis_NN and_CC repair_NN ._.
+Apple_NNP 's_POS report_NN after_IN opening_VBG the_DT phone_NN :_: It_PRP has_VBZ a_DT nice_JJ face_NN but_CC ,_, contains_VBZ multiple_JJ non_NN apple_NN parts_NNS ._.

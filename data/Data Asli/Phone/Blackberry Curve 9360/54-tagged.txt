@@ -1,0 +1,1 @@
+Good_NNP Afternoon_NNP ,_, You_PRP will_MD have_VB in_IN stock_NN before_IN buying_VBG ,_, for_IN Venezuela_NNP 3g_CD bands_NNS -LRB-_-LRB- Band_NNP 8_CD =_SYM 900_CD MHZ_NNP -RRB-_-RRB- for_IN Digitel_NNP ,_, if_IN you_PRP need_VBP to_TO know_VB before_IN you_PRP buy_VBP

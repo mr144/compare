@@ -1,0 +1,3 @@
+I_PRP have_VBP had_VBN this_DT TV_NN for_IN about_RB a_DT month_NN ;_: Panasonic_NNP is_VBZ supposed_VBN to_TO release_VB a_DT new_JJ model_NN in_IN Spring_NNP 2013_CD ._.
+I_PRP love_VBP everything_NN about_IN the_DT set_NN except_IN :_: there_EX is_VBZ some_DT obvious_JJ ghosting_VBG with_IN 3D_CD images_NNS ,_, most_RBS often_RB when_WRB there_EX is_VBZ sharply_RB defined_VBN white_JJ next_JJ to_TO black_JJ ._.
+Hopefully_RB they_PRP 'll_MD correct_VB this_DT with_IN the_DT newer_JJR models_NNS ,_, but_CC I_PRP probably_RB will_MD not_RB spring_VB for_IN one_CD at_IN the_DT price_NN this_DT sells_VBZ for_IN ._.

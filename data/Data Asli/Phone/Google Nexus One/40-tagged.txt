@@ -1,0 +1,5 @@
+This_DT is_VBZ a_DT decent_JJ android_NN phone_NN ._.
+A_DT bit_NN out_RB dated_VBN ._.
+After_IN about_IN 2_CD years_NNS ,_, the_DT phone_NN will_MD get_VB slow_JJ ._.
+I_PRP have_VBP issues_NNS with_IN the_DT keyboard_NN sometimes_RB crashing_VBG which_WDT started_VBD happening_VBG after_IN the_DT gingerbread_JJ release_NN ._.
+Would_MD not_RB recommend_VB this_DT phone_NN for_IN more_JJR than_IN 2_CD years_NNS of_IN use_NN !!!!!_NN

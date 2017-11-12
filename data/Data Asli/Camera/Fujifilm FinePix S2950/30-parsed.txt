@@ -1,0 +1,46 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(camera-4, my-3)
+dobj(love-2, camera-4)
+nsubj(had-8, I-6)
+aux(had-8, have-7)
+parataxis(love-2, had-8)
+dobj(had-8, it-9)
+prep(had-8, for-10)
+advmod(now-12, awhile-11)
+pcomp(for-10, now-12)
+nsubj(takes-15, it-14)
+parataxis(love-2, takes-15)
+conj_and(had-8, takes-15)
+amod(pictures-17, great-16)
+dobj(takes-15, pictures-17)
+
+=========
+
+poss(issue-3, My-1)
+amod(issue-3, only-2)
+nsubj(button-7, issue-3)
+cop(button-7, is-4)
+det(button-7, the-5)
+amod(button-7, telescopic-6)
+root(ROOT-0, button-7)
+rcmod(button-7, sticks-8)
+nsubj(have-11, I-10)
+xsubj(mess-13, I-10)
+conj_and(button-7, have-11)
+aux(mess-13, to-12)
+xcomp(have-11, mess-13)
+prep_with(mess-13, it-15)
+prep_from(mess-13, time-17)
+prep_to(mess-13, time-19)
+
+=========
+
+root(ROOT-0, Other-1)
+complm(wonderful-6, that-3)
+nsubj(wonderful-6, it-4)
+cop(wonderful-6, is-5)
+prepc_than(Other-1, wonderful-6)
+

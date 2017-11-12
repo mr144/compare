@@ -1,0 +1,11 @@
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+det(camera-6, a-3)
+advmod(good-5, very-4)
+amod(camera-6, good-5)
+root(ROOT-0, camera-6)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

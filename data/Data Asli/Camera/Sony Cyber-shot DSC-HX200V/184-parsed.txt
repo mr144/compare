@@ -1,0 +1,25 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+amod(cameras-5, many-4)
+dobj(had-3, cameras-5)
+det(one-9, this-8)
+nsubj(more-12, one-9)
+cop(more-12, is-10)
+advmod(more-12, much-11)
+conj_but(had-3, more-12)
+mark(expected-15, than-13)
+nsubj(expected-15, I-14)
+advcl(more-12, expected-15)
+
+=========
+
+amod(photos-2, Beautiful-1)
+root(ROOT-0, photos-2)
+amod(photos-2, easy-4)
+prep_to(easy-4, use-6)
+amod(price-9, great-8)
+appos(use-6, price-9)
+

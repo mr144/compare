@@ -1,0 +1,62 @@
+=========
+
+nsubj(used-2, I-1)
+root(ROOT-0, used-2)
+dobj(used-2, it-3)
+det(time-7, a-5)
+amod(time-7, long-6)
+prep_for(used-2, time-7)
+mark(sold-11, until-8)
+poss(friend-10, my-9)
+nsubj(sold-11, friend-10)
+advcl(used-2, sold-11)
+nsubj(his-13, me-12)
+xcomp(sold-11, his-13)
+dobj(sold-11, iPhone-14)
+num(iPhone-14, 4-15)
+
+=========
+
+advmod(using-5, Now-1)
+poss(sister-3, my-2)
+nsubj(using-5, sister-3)
+aux(using-5, is-4)
+root(ROOT-0, using-5)
+poss(3GS-8, my-6)
+amod(3GS-8, old-7)
+dobj(using-5, 3GS-8)
+
+=========
+
+nsubj(loves-3, She-1)
+advmod(loves-3, absolutely-2)
+root(ROOT-0, loves-3)
+dobj(loves-3, it-4)
+
+=========
+
+nsubj(came-2, It-1)
+nsubj(was-7, It-1)
+root(ROOT-0, came-2)
+amod(condition-5, perfect-4)
+prep_in(came-2, condition-5)
+conj_and(came-2, was-7)
+advmod(was-7, fast-8)
+
+=========
+
+nsubj(trade-5, I-1)
+advmod(trade-5, still-2)
+aux(trade-5, would-3)
+neg(trade-5, not-4)
+root(ROOT-0, trade-5)
+det(4-7, the-6)
+dobj(trade-5, 4-7)
+det(3G-10, the-9)
+prep_for(4-7, 3G-10)
+nsubj(loved-13, I-12)
+conj_but(trade-5, loved-13)
+det(non-the-less-16, the-14)
+num(non-the-less-16, 3G-15)
+dobj(loved-13, non-the-less-16)
+

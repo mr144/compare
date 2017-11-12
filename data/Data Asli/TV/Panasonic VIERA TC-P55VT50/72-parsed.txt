@@ -1,0 +1,107 @@
+=========
+
+nsubj(has-2, this-1)
+nsubj(faced-8, this-1)
+root(ROOT-0, has-2)
+det(quality-6, a-3)
+amod(quality-6, stunning-4)
+nn(quality-6, picture-5)
+dobj(has-2, quality-6)
+conj_but(has-2, faced-8)
+det(lot-10, a-9)
+dobj(faced-8, lot-10)
+amod(issues-13, other-12)
+prep_of(lot-10, issues-13)
+prep_like(faced-8, burn-in-15)
+conj_and(has-2, not-17)
+neg(has-2, not-17)
+dep(has-2, recognizing-18)
+num(glasses-20, 3D-19)
+dobj(recognizing-18, glasses-20)
+det(time-23, some-22)
+prep_after(recognizing-18, time-23)
+
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, do-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+complm(problem-9, whether-5)
+nsubj(problem-9, these-6)
+cop(problem-9, are-7)
+amod(problem-9, common-8)
+ccomp(know-4, problem-9)
+nsubj(defect-20, problem-9)
+det(model-12, this-11)
+prep_in(problem-9, model-12)
+det(TV-15, the-14)
+prep_in(problem-9, TV-15)
+conj_or(model-12, TV-15)
+rel(got-18, which-16)
+nsubj(got-18, I-17)
+rcmod(problem-9, got-18)
+cop(defect-20, is-19)
+ccomp(got-18, defect-20)
+
+=========
+
+nsubj(replaced-2, I-1)
+root(ROOT-0, replaced-2)
+dobj(replaced-2, couple-3)
+prep_of(couple-3, times-5)
+
+=========
+
+nsubj(have-2, Both-1)
+ccomp(returned-7, have-2)
+amod(problems-4, same-3)
+dobj(have-2, problems-4)
+nsubj(returned-7, I-6)
+root(ROOT-0, returned-7)
+det(TV-9, this-8)
+nsubj(replace-15, TV-9)
+prep_due_to(TV-9, amazon-12)
+aux(replace-15, can-13)
+neg(replace-15, not-14)
+ccomp(returned-7, replace-15)
+num(time-18, one-16)
+amod(time-18, more-17)
+dobj(replace-15, time-18)
+mark(get-21, if-19)
+nsubj(get-21, I-20)
+advcl(replace-15, get-21)
+det(one-24, another-22)
+nn(one-24, defect-23)
+dobj(get-21, one-24)
+
+=========
+
+advmod(returned-4, So-1)
+nsubj(returned-4, I-3)
+root(ROOT-0, returned-4)
+dobj(returned-4, this-5)
+
+=========
+
+nsubj(giving-3, I-1)
+nsubj(great-16, I-1)
+aux(giving-3, am-2)
+root(ROOT-0, giving-3)
+npadvmod(giving-3, 4-4)
+det(quality-8, the-7)
+prep_because_of(giving-3, quality-8)
+det(picture-11, the-10)
+prep_of(quality-8, picture-11)
+advmod(works-15, even-13)
+num(works-15, 3D-14)
+npadvmod(great-16, works-15)
+conj_and(giving-3, great-16)
+prep_in(great-16, this-18)
+advmod(works-21, whenever-19)
+nsubj(works-21, it-20)
+dep(this-18, works-21)
+
+=========
+
+

@@ -1,0 +1,94 @@
+=========
+
+advmod(figured-4, When-1)
+nsubj(figured-4, I-2)
+advmod(figured-4, finally-3)
+advcl(worked-11, figured-4)
+prt(figured-4, out-5)
+det(problem-7, the-6)
+dobj(figured-4, problem-7)
+det(camera-10, the-9)
+nsubj(worked-11, camera-10)
+root(ROOT-0, worked-11)
+advmod(worked-11, well-12)
+nsubj(like-16, I-14)
+advmod(like-16, now-15)
+conj_and(worked-11, like-16)
+det(camera-18, the-17)
+dobj(like-16, camera-18)
+
+=========
+
+det(problem-2, The-1)
+nsubj(batteries-6, problem-2)
+cop(batteries-6, was-3)
+det(batteries-6, the-4)
+amod(batteries-6, crummy-5)
+root(ROOT-0, batteries-6)
+partmod(batteries-6, provided-7)
+det(camera-10, the-9)
+prep_with(provided-7, camera-10)
+
+=========
+
+nsubj(powerful-4, They-1)
+cop(powerful-4, were-2)
+neg(powerful-4, not-3)
+root(ROOT-0, powerful-4)
+advmod(powerful-4, enough-5)
+aux(work-7, to-6)
+xcomp(powerful-4, work-7)
+det(chip-10, the-8)
+nn(chip-10, memory-9)
+dobj(work-7, chip-10)
+
+=========
+
+nsubj(thought-2, I-1)
+root(ROOT-0, thought-2)
+det(chip-5, the-3)
+nn(chip-5, memory-4)
+nsubj(bad-7, chip-5)
+cop(bad-7, was-6)
+ccomp(thought-2, bad-7)
+
+=========
+
+det(batteries-2, The-1)
+nsubj(let-8, batteries-2)
+partmod(batteries-2, provided-3)
+det(camera-6, the-5)
+prep_with(provided-3, camera-6)
+advmod(let-8, only-7)
+root(ROOT-0, let-8)
+nsubj(take-10, me-9)
+ccomp(let-8, take-10)
+num(pictures-12, 9-11)
+dobj(take-10, pictures-12)
+advmod(let-8, then-14)
+conj_and(let-8, then-14)
+det(camera-16, the-15)
+nsubj(said-17, camera-16)
+ccomp(let-8, said-17)
+det(memory-19, the-18)
+nsubj(full-21, memory-19)
+cop(full-21, was-20)
+ccomp(said-17, full-21)
+
+=========
+
+det(memory-2, The-1)
+nsubj(handle-4, memory-2)
+aux(handle-4, could-3)
+root(ROOT-0, handle-4)
+amod(pictures-6, 9,999-5)
+dobj(handle-4, pictures-6)
+neg(handle-4, not-8)
+det(9-10, the-9)
+nsubj(allow-15, 9-10)
+det(batteries-13, the-11)
+amod(batteries-13, poor-12)
+dep(9-10, batteries-13)
+aux(allow-15, would-14)
+ccomp(handle-4, allow-15)
+

@@ -1,0 +1,31 @@
+=========
+
+amod(camera-2, Great-1)
+nsubj(takes-9, camera-2)
+amod(price-5, good-4)
+conj_and(camera-2, price-5)
+nsubj(takes-9, price-5)
+conj_and(camera-2, it-8)
+nsubj(takes-9, it-8)
+root(ROOT-0, takes-9)
+amod(pictures-11, great-10)
+dobj(takes-9, pictures-11)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+mark(scratched-11, although-7)
+nsubj(scratched-11, I-8)
+aux(scratched-11, have-9)
+advmod(scratched-11, barely-10)
+advcl(easy-3, scratched-11)
+det(surface-13, the-12)
+dobj(scratched-11, surface-13)
+predet(features-17, all-15)
+det(features-17, the-16)
+prep_on(surface-13, features-17)
+

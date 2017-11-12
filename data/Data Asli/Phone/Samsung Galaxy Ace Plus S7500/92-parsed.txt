@@ -1,0 +1,36 @@
+=========
+
+poss(mom-2, My-1)
+nsubj(reluctant-6, mom-2)
+aux(reluctant-6, has-3)
+advmod(reluctant-6, always-4)
+cop(reluctant-6, been-5)
+root(ROOT-0, reluctant-6)
+amod(phones-9, mobile-8)
+prep_to(reluctant-6, phones-9)
+aux(give-13, to-12)
+dep(changed-19, give-13)
+prep_to(give-13, her-15)
+det(Samsung-17, this-16)
+nsubj(changed-19, Samsung-17)
+aux(changed-19, has-18)
+conj_but(reluctant-6, changed-19)
+poss(life-21, her-20)
+dobj(changed-19, life-21)
+
+=========
+
+nsubj(simple-3, It-1)
+nsubj(has-7, It-1)
+cop(simple-3, 's-2)
+root(ROOT-0, simple-3)
+aux(use-5, to-4)
+xcomp(simple-3, use-5)
+conj_and(simple-3, has-7)
+det(lot-9, a-8)
+dobj(has-7, lot-9)
+aux(relieve-11, to-10)
+infmod(lot-9, relieve-11)
+poss(retirement-13, their-12)
+dobj(relieve-11, retirement-13)
+

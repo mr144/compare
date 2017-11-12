@@ -1,0 +1,73 @@
+=========
+
+det(phone-2, The-1)
+nsubj(great-4, phone-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+mark(usually-7, as-6)
+advcl(great-4, usually-7)
+nn(phones-10, HTC-9)
+prep_for(great-4, phones-10)
+
+=========
+
+cc(UNLOCKED-6, But-1)
+nsubj(UNLOCKED-6, it-2)
+cop(UNLOCKED-6, is-3)
+nn(UNLOCKED-6, NOT-4)
+nn(UNLOCKED-6, TRULY-5)
+root(ROOT-0, UNLOCKED-6)
+prep_as(UNLOCKED-6, advertised-8)
+
+=========
+
+nsubj(works-3, It-1)
+advmod(works-3, only-2)
+root(ROOT-0, works-3)
+advmod(works-3, fully-4)
+det(provider-8, an-6)
+nn(provider-8, AT&T-7)
+prep_with(works-3, provider-8)
+advmod(works-3, otherwise-10)
+nsubj(use-14, you-11)
+aux(use-14, can-12)
+neg(use-14, not-13)
+ccomp(works-3, use-14)
+dep(apps-17, all-15)
+det(apps-17, the-16)
+dobj(use-14, apps-17)
+dobj(use-14, functions-19)
+conj_or(apps-17, functions-19)
+
+=========
+
+prep_for(have-6, example-2)
+nsubj(have-6, you-3)
+nsubj(have-14, you-3)
+aux(have-6, can-4)
+neg(have-6, not-5)
+root(ROOT-0, have-6)
+dobj(have-6, access-7)
+prep_to(have-6, 4G-9)
+prep_to(have-6, 3G-11)
+conj_or(4G-9, 3G-11)
+conj_but(have-6, have-14)
+amod(access-16, only-15)
+dobj(have-14, access-16)
+prep_to(access-16, edge-18)
+
+=========
+
+dep(buy-11, So-1)
+mark(looking-5, if-2)
+nsubj(looking-5, you-3)
+aux(looking-5, are-4)
+dep(buy-11, looking-5)
+det(phone-9, an-7)
+amod(phone-9, unlocked-8)
+prep_for(looking-5, phone-9)
+root(ROOT-0, buy-11)
+dobj(buy-11, it-12)
+prep_from(buy-11, someone-14)
+advmod(someone-14, else-15)
+

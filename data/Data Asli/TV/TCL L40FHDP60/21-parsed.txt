@@ -1,0 +1,34 @@
+=========
+
+nsubj(picture-2, Excellent-1)
+root(ROOT-0, picture-2)
+
+=========
+
+advmod(concern-2, Only-1)
+dobj(had-4, concern-2)
+nsubj(is-5, concern-2)
+nsubj(had-4, I-3)
+rcmod(concern-2, had-4)
+root(ROOT-0, is-5)
+complm(were-12, that-6)
+det(wall-8, the-7)
+nsubj(were-12, wall-8)
+partmod(wall-8, mounting-9)
+nn(holes-11, screw-10)
+dobj(mounting-9, holes-11)
+ccomp(is-5, were-12)
+advmod(together-14, closer-13)
+advmod(were-12, together-14)
+mark(preferred-19, than-15)
+nsubj(preferred-19, I-16)
+aux(preferred-19, would-17)
+aux(preferred-19, have-18)
+dep(together-14, preferred-19)
+
+=========
+
+quantmod(5-3, About-2)
+num(inches-4, 5-3)
+root(ROOT-0, inches-4)
+

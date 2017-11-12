@@ -1,0 +1,49 @@
+=========
+
+amod(TV-3, Very-1)
+amod(TV-3, good-2)
+root(ROOT-0, TV-3)
+det(price-7, a-5)
+amod(price-7, reasonable-6)
+prep_at(TV-3, price-7)
+
+=========
+
+det(picture-2, The-1)
+nsubj(great-7, picture-2)
+amod(picture-2, quality-3)
+amod(picture-2, sound-5)
+conj_and(quality-3, sound-5)
+cop(great-7, are-6)
+root(ROOT-0, great-7)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, especially-2)
+root(ROOT-0, like-3)
+det(feature-7, the-4)
+nn(feature-7, web-5)
+nn(feature-7, browsing-6)
+dobj(like-3, feature-7)
+
+=========
+
+aux(watch-2, Can-1)
+root(ROOT-0, watch-2)
+nn(video-4, streaming-3)
+dobj(watch-2, video-4)
+advmod(watch-2, just-5)
+det(show-9, a-7)
+nn(show-9, broadcast-8)
+prep_like(watch-2, show-9)
+
+=========
+
+det(TV-2, This-1)
+nsubj(UN40ES6100-6, TV-2)
+cop(UN40ES6100-6, is-3)
+mwe(than-5, better-4)
+quantmod(UN40ES6100-6, than-5)
+root(ROOT-0, UN40ES6100-6)
+

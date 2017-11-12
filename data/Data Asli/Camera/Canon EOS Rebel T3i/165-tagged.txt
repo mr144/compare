@@ -1,0 +1,1 @@
+Canon_NNP quality_NN Canon_NNP engineering_NN Canon_NNP value_NN all_DT in_IN one_CD very_RB neat_JJ package_NN very_RB versatile_JJ lots_NNS of_IN accessories_NNS available_JJ BUY_NNP BUY_NNP

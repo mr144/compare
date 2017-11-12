@@ -1,0 +1,30 @@
+=========
+
+amod(product-2, Original-1)
+root(ROOT-0, product-2)
+partmod(product-2, arrived-4)
+det(date-7, the-6)
+prep_on(arrived-4, date-7)
+
+=========
+
+nn(BB-2, Good-1)
+nsubj(goes-5, BB-2)
+nsubj(goes-5, it-4)
+root(ROOT-0, goes-5)
+dep(setup-20, slow-6)
+nn(card-9, sim-8)
+prep_with(slow-6, card-9)
+det(network-13, the-12)
+prep_due_to(card-9, network-13)
+nsubjpass(fixed-17, it-14)
+aux(fixed-17, can-15)
+auxpass(fixed-17, be-16)
+rcmod(network-13, fixed-17)
+mark(setup-20, If-18)
+nsubj(setup-20, you-19)
+acomp(goes-5, setup-20)
+advmod(setup-20, well-21)
+dep(setup-20, step-22)
+prep_by(step-22, step-24)
+

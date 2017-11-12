@@ -1,0 +1,91 @@
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, do-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+dep(expected-7, what-5)
+nsubj(expected-7, i-6)
+ccomp(know-4, expected-7)
+advmod(ordered-10, when-8)
+nsubj(ordered-10, i-9)
+advcl(expected-7, ordered-10)
+nsubj(inch-13, TCL-11)
+num(TCL-11, 40-12)
+ccomp(ordered-10, inch-13)
+nn(tv-15, lcd-14)
+dobj(inch-13, tv-15)
+
+=========
+
+nsubj(looking-3, I-1)
+aux(looking-3, was-2)
+root(ROOT-0, looking-3)
+det(tv-7, an-5)
+amod(tv-7, inexpensive-6)
+prep_for(looking-3, tv-7)
+nn(room-10, sons-9)
+prep_for(tv-7, room-10)
+
+=========
+
+nsubj(pleased-2, Super-1)
+xsubj(recieve-4, Super-1)
+root(ROOT-0, pleased-2)
+aux(recieve-4, to-3)
+xcomp(pleased-2, recieve-4)
+det(product-9, a-5)
+advmod(fine-7, really-6)
+amod(product-9, fine-7)
+nn(product-9, quality-8)
+dobj(recieve-4, product-9)
+
+=========
+
+nsubj(techy-5, I-1)
+cop(techy-5, am-2)
+neg(techy-5, not-3)
+det(techy-5, a-4)
+root(ROOT-0, techy-5)
+nsubj(meets-9, it-8)
+conj_but(techy-5, meets-9)
+dep(needs-12, all-10)
+poss(needs-12, my-11)
+dobj(meets-9, needs-12)
+amod(pic-15, great-14)
+dobj(meets-9, pic-15)
+conj_and(needs-12, pic-15)
+dobj(meets-9, color-17)
+conj_and(needs-12, color-17)
+dobj(meets-9, sound-20)
+conj_and(needs-12, sound-20)
+
+=========
+
+aux(like-2, Would-1)
+root(ROOT-0, like-2)
+det(HDMI-5, a-3)
+amod(HDMI-5, 3rd-4)
+dobj(like-2, HDMI-5)
+det(deal-10, no-8)
+amod(deal-10, big-9)
+dobj(like-2, deal-10)
+conj_but(HDMI-5, deal-10)
+
+=========
+
+partmod(bought-7, Liked-1)
+dobj(Liked-1, it-2)
+dobj(Liked-1, price-4)
+conj_and(it-2, price-4)
+nsubj(bought-7, I-6)
+root(ROOT-0, bought-7)
+dobj(bought-7, another-8)
+poss(bedroom-11, my-10)
+prep_for(bought-7, bedroom-11)
+num(warranty-15, two-13)
+nn(warranty-15, year-14)
+appos(bedroom-11, warranty-15)
+det(plus-17, a-16)
+dep(warranty-15, plus-17)
+

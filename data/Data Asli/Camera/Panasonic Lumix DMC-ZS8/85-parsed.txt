@@ -1,0 +1,126 @@
+=========
+
+det(ZS10-2, The-1)
+nsubj(better-5, ZS10-2)
+nsubj(supposed-11, ZS10-2)
+xsubj(be-13, ZS10-2)
+cop(better-5, was-3)
+det(better-5, the-4)
+root(ROOT-0, better-5)
+det(two-8, the-7)
+prep_of(better-5, two-8)
+conj_or(better-5, supposed-11)
+aux(be-13, to-12)
+xcomp(supposed-11, be-13)
+
+=========
+
+advmod(ZS15-5, Now-1)
+nsubj(ZS15-5, it-2)
+cop(ZS15-5, is-3)
+det(ZS15-5, the-4)
+root(ROOT-0, ZS15-5)
+conj_and(ZS15-5, ZS20-7)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(ZS15-4, a-3)
+dobj(bought-2, ZS15-4)
+prep_for(bought-2, $-6)
+number($-6, 179-7)
+prep_on(bought-2, amazon-9)
+
+=========
+
+nsubj(sensor-2, Better-1)
+root(ROOT-0, sensor-2)
+
+=========
+
+cc(camera-7, But-1)
+advmod(camera-7, still-2)
+det(light-6, a-3)
+amod(light-6, poor-4)
+amod(light-6, low-5)
+nsubj(camera-7, light-6)
+root(ROOT-0, camera-7)
+
+=========
+
+mark(buy-3, If-1)
+nsubj(buy-3, you-2)
+root(ROOT-0, buy-3)
+det(superzoom-6, a-4)
+amod(superzoom-6, compact-5)
+dobj(buy-3, superzoom-6)
+det(ZS15-10, the-9)
+dobj(buy-3, ZS15-10)
+conj_but(superzoom-6, ZS15-10)
+
+=========
+
+advmod(yet-2, Better-1)
+advmod(skip-4, yet-2)
+root(ROOT-0, skip-4)
+dobj(skip-4, it-5)
+conj_and(skip-4, buy-7)
+det(FZ150-9, the-8)
+dobj(buy-7, FZ150-9)
+mark(swing-13, if-10)
+nsubj(swing-13, you-11)
+aux(swing-13, can-12)
+advcl(buy-7, swing-13)
+dobj(swing-13, it-14)
+
+=========
+
+det(MUCH-2, A-1)
+root(ROOT-0, MUCH-2)
+amod(camera-4, better-3)
+dep(MUCH-2, camera-4)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+xsubj(get-5, you-2)
+csubj(get-8, want-3)
+aux(get-5, to-4)
+xcomp(want-3, get-5)
+dep(cheaper-7, something-6)
+dobj(get-5, cheaper-7)
+root(ROOT-0, get-8)
+det(SX40-11, the-9)
+nn(SX40-11, Canon-10)
+dobj(get-8, SX40-11)
+advmod(less-14, somewhat-13)
+prep_for(SX40-11, less-14)
+det(zoom-18, a-16)
+amod(zoom-18, 35x-17)
+prep_for(SX40-11, zoom-18)
+conj_and(less-14, zoom-18)
+amod(optical-21, pure-20)
+appos(zoom-18, optical-21)
+
+=========
+
+amod(compacts-2, Superzoom-1)
+nsubj(good-6, compacts-2)
+cop(good-6, are-3)
+neg(good-6, not-4)
+advmod(good-6, yet-5)
+root(ROOT-0, good-6)
+advmod(good-6, enough-7)
+
+=========
+
+advmod(wait-8, So-1)
+mark(have-5, if-3)
+nsubj(have-5, you-4)
+xsubj(to-6, you-4)
+parataxis(wait-8, have-5)
+xcomp(have-5, to-6)
+root(ROOT-0, wait-8)
+

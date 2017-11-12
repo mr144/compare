@@ -1,0 +1,4 @@
+I_PRP have_VBP some_DT of_IN smartphone_NN before_IN -LRB-_-LRB- Iphone_NNP and_CC HTC_NNP -RRB-_-RRB- ._.
+This_DT phone_NN is_VBZ good_JJ smartphone_NN ._.
+with_IN the_DT low_JJ prize_NN ,_, you_PRP got_VBD exellent_JJ performance_NN and_CC design_NN ._.
+but_CC overall_JJ ,_, sorry_JJ that_IN i_FW have_VBP to_TO say_VB that_IN this_DT smartphone_NN is_VBZ still_RB worse_JJR than_IN my_PRP$ iphone_NN or_CC HTC_NNP ._.

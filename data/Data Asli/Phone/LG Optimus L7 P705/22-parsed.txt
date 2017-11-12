@@ -1,0 +1,30 @@
+=========
+
+amod(phone-2, Outstanding-1)
+nsubj(crystal-8, phone-2)
+amod(phone-2, easy-4)
+aux(use-6, to-5)
+xcomp(easy-4, use-6)
+root(ROOT-0, crystal-8)
+amod(screen-10, clear-9)
+dobj(crystal-8, screen-10)
+
+=========
+
+root(ROOT-0, Gave-1)
+num(stars-3, 4-2)
+dobj(Gave-1, stars-3)
+advmod(phone-11, only-4)
+dep(phone-11, because-5)
+nsubj(phone-11, it-6)
+cop(phone-11, is-7)
+neg(phone-11, not-8)
+det(phone-11, a-9)
+amod(phone-11, T-Mobile-10)
+dep(Gave-1, phone-11)
+conj_and(Gave-1, unable-13)
+aux(use-15, to-14)
+xcomp(unable-13, use-15)
+amod(calling-17, wi-fi-16)
+dobj(use-15, calling-17)
+

@@ -1,0 +1,4 @@
+The_DT best_JJS deal_NN on_IN the_DT market_NN ._.
+The_DT phone_NN updated_VBD itself_PRP to_TO 2.3.4_CD automatically_RB ._.
+Everything_NNP works_VBZ great_JJ ._.
+I_PRP wished_VBD the_DT screen_NN were_VBD AMOLED_VBN but_CC it_PRP is_VBZ Super_NNP LCD_NNP ._.

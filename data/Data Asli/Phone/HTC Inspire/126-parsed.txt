@@ -1,0 +1,33 @@
+=========
+
+advmod(phone-4, generally-1)
+dep(phone-4, is-2)
+amod(phone-4, good-3)
+root(ROOT-0, phone-4)
+det(battery-8, the-7)
+nsubj(poor-10, battery-8)
+cop(poor-10, is-9)
+conj_but(phone-4, poor-10)
+
+=========
+
+det(phone-2, This-1)
+nsubj(fast-5, phone-2)
+nsubj(internet-8, phone-2)
+cop(fast-5, is-3)
+advmod(fast-5, very-4)
+root(ROOT-0, fast-5)
+amod(internet-8, browse-7)
+conj_and(fast-5, internet-8)
+
+=========
+
+det(screen-2, The-1)
+nsubj(have-3, screen-2)
+root(ROOT-0, have-3)
+amod(resolution-5, much-4)
+dobj(have-3, resolution-5)
+amod(reading-8, good-7)
+dobj(have-3, reading-8)
+conj_and(resolution-5, reading-8)
+

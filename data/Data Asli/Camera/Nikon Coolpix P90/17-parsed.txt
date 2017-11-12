@@ -1,0 +1,117 @@
+=========
+
+amod(camera-3, Purchased-1)
+det(camera-3, this-2)
+nsubj(horrible-9, camera-3)
+det(quality-7, the-5)
+nn(quality-7, picture-6)
+conj_and(camera-3, quality-7)
+nsubj(horrible-9, quality-7)
+cop(horrible-9, is-8)
+root(ROOT-0, horrible-9)
+
+=========
+
+det(pictures-2, The-1)
+nsubj(look-3, pictures-2)
+root(ROOT-0, look-3)
+acomp(look-3, pixelated-4)
+acomp(look-3, unclear-6)
+conj_and(pixelated-4, unclear-6)
+
+=========
+
+nsubj(sent-2, I-1)
+root(ROOT-0, sent-2)
+det(camera-4, the-3)
+dobj(sent-2, camera-4)
+aux(Nikon-7, to-6)
+dep(pictures-19, Nikon-7)
+aux(have-9, to-8)
+dep(Nikon-7, have-9)
+nsubj(fixed-11, it-10)
+ccomp(have-9, fixed-11)
+advmod(came-15, when-13)
+nsubj(came-15, it-14)
+dep(Nikon-7, came-15)
+conj_and(have-9, came-15)
+advmod(came-15, back-16)
+det(pictures-19, the-18)
+prep_in(camera-4, pictures-19)
+advmod(blurry-22, where-20)
+advmod(blurry-22, still-21)
+rcmod(pictures-19, blurry-22)
+rcmod(pictures-19, pixelated-24)
+conj_or(blurry-22, pixelated-24)
+
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+advmod(camera-6, absolutely-3)
+det(camera-6, the-4)
+amod(camera-6, worst-5)
+root(ROOT-0, camera-6)
+dobj(used-11, camera-6)
+complm(used-11, that-7)
+nsubj(used-11, I-8)
+aux(used-11, have-9)
+advmod(used-11, ever-10)
+dep(camera-6, used-11)
+
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, it-4)
+
+=========
+
+aux(think-4, Do-1)
+neg(think-4, not-2)
+advmod(think-4, even-3)
+root(ROOT-0, think-4)
+prepc_about(think-4, buying-6)
+dobj(buying-6, it-7)
+
+=========
+
+nsubj(teach-2, I-1)
+nsubj(have-7, I-1)
+nsubj(had-15, I-1)
+root(ROOT-0, teach-2)
+det(class-5, a-3)
+nn(class-5, yearbook-4)
+dobj(teach-2, class-5)
+conj_and(teach-2, have-7)
+amod(cameras-10, many-8)
+nn(cameras-10, Nikon-9)
+dobj(have-7, cameras-10)
+aux(had-15, have-13)
+advmod(had-15, always-14)
+conj_and(teach-2, had-15)
+amod(luck-17, good-16)
+dobj(had-15, luck-17)
+prep_with(had-15, Nikon-19)
+
+=========
+
+det(camera-2, This-1)
+nsubj(works-8, camera-2)
+det(hand-7, the-5)
+amod(hand-7, other-6)
+prep_on(camera-2, hand-7)
+root(ROOT-0, works-8)
+advmod(good-11, about-9)
+advmod(good-11, as-10)
+dobj(works-8, good-11)
+det(camera-16, a-13)
+amod(camera-16, $-14)
+number($-14, 29-15)
+prep_as(works-8, camera-16)
+
+=========
+
+root(ROOT-0, h-1)
+

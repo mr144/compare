@@ -1,0 +1,4 @@
+I_PRP received_VBD my_PRP$ product_NN so_RB quickly_RB ._.
+I_PRP have_VBP been_VBN using_VBG this_DT for_IN more_JJR than_IN a_DT month_NN a_DT there_EX is_VBZ no_DT problem_NN with_IN the_DT cell_NN ._.
+Still_RB need_VBP to_TO determine_VB if_IN it_PRP is_VBZ refurbished_VBN or_CC what_WP ,_, but_CC looks_VBZ pretty_RB cool_JJ ._.
+I_PRP 'll_MD tell_VB you_PRP later_RB if_IN I_PRP face_VBP any_DT problem_NN ._.

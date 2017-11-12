@@ -1,0 +1,32 @@
+=========
+
+ccomp(ne-8, nothing-1)
+aux(say-3, to-2)
+xcomp(nothing-1, say-3)
+amod(product-6, good-5)
+nsubj(ne-8, product-6)
+advmod(ne-8, but-7)
+root(ROOT-0, ne-8)
+
+=========
+
+num(time-3, ed-1)
+amod(time-3, more-2)
+root(ROOT-0, time-3)
+aux(learn-5, to-4)
+dep(time-3, learn-5)
+predet(function-8, all-6)
+det(function-8, the-7)
+dobj(learn-5, function-8)
+aux(figure-13, did-11)
+neg(figure-13, not-12)
+dep(time-3, figure-13)
+conj_but(learn-5, figure-13)
+prt(figure-13, out-14)
+advmod(connect-17, how-15)
+aux(connect-17, to-16)
+ccomp(figure-13, connect-17)
+xcomp(figure-13, connect-17)
+dobj(connect-17, wifi-18)
+advmod(connect-17, yet-19)
+

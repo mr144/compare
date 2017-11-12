@@ -1,0 +1,51 @@
+=========
+
+det(TV-2, This-1)
+nsubj(is-3, TV-2)
+root(ROOT-0, is-3)
+advmod(best-7, far-5)
+det(best-7, the-6)
+prep_by(is-3, best-7)
+dobj(purchased-11, best-7)
+nsubj(purchased-11, I-8)
+aux(purchased-11, have-9)
+advmod(purchased-11, ever-10)
+rcmod(best-7, purchased-11)
+
+=========
+
+det(picture-2, The-1)
+nsubj(great-6, picture-2)
+conj_and(picture-2, sound-4)
+nsubj(great-6, sound-4)
+cop(great-6, are-5)
+root(ROOT-0, great-6)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, strongly-2)
+root(ROOT-0, recommend-3)
+det(TV-5, this-4)
+dobj(recommend-3, TV-5)
+prep_for(TV-5, anyone-7)
+partmod(anyone-7, looking-8)
+prep_for(looking-8, quality-10)
+predet(way-13, all-11)
+det(way-13, the-12)
+npadvmod(around-14, way-13)
+advmod(anyone-7, around-14)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(set-3, to-2)
+dep(Easy-1, set-3)
+prt(set-3, up-4)
+dep(Easy-1, connect-6)
+conj_and(set-3, connect-6)
+predet(gadgets-9, all-7)
+det(gadgets-9, the-8)
+dobj(connect-6, gadgets-9)
+prep(connect-6, to-10)
+

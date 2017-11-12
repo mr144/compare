@@ -1,0 +1,7 @@
+I_PRP bought_VBD a_DT Vizio_NNP 42in_CD 3D_NNP LED_NNP TV_NNP -LRB-_-LRB- XVT3D424SV_NNP -RRB-_-RRB- at_IN Sams_NNP Club_NNP in_IN Memphis_NNP ._.
+A_DT little_JJ over_IN a_DT year_NN ,_, right_RB after_IN the_DT warranty_NN expired_VBD ,_, I_PRP lost_VBD the_DT picture_NN on_IN this_DT TV_NN ._.
+I_PRP still_RB get_VBP sound_JJ but_CC no_DT picture_NN ._.
+I_PRP called_VBD Vizio_NNP support_NN ..._: not_RB sure_JJ why_WRB they_PRP received_VBD the_DT JD_NNP Power_NNP award_NN ,_, and_CC they_PRP would_MD not_RB help_VB ._.
+I_PRP took_VBD the_DT TV_NN to_TO a_DT local_JJ repair_NN shop_NN and_CC the_DT tech_NN told_VBD me_PRP it_PRP was_VBD a_DT faulty_JJ LCD_NNP panel_NN and_CC it_PRP would_MD cost_VB $_$ 1100_CD to_TO replace_VB ._.
+After_IN I_PRP called_VBD Vizio_NNP again_RB to_TO ask_VB for_IN help_NN ,_, they_PRP offered_VBD to_TO sell_VB me_PRP a_DT refurbished_VBN replacement_NN for_IN $_$ 600_CD ._.
+I_PRP would_MD never_RB consider_VB any_DT Vizio_NNP product_NN ,_, especially_RB their_PRP$ TVs_NNS ._.

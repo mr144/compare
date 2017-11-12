@@ -1,0 +1,2 @@
+it_PRP is_VBZ unlocked_VBN ,_, ready_JJ to_TO go_VB as_RB soon_RB as_IN u_NN get_VBP the_DT item_NN ,_, great_JJ deal_NN and_CC great_JJ price_NN ._.
+just_RB one_CD point_NN to_TO keep_VB in_IN mind_NN --_: battery_NN life_NN is_VBZ not_RB great_JJ ._.

@@ -1,0 +1,2 @@
+Anterior_NNP mente_FW compre_FW uno_FW de_FW estos_FW y_FW me_FW llego_FW de_FW manera_FW maravillosa_FW ,_, vino_FW en_FW su_FW caja_FW original_JJ ,_, con_JJ todos_NNS sus_FW accesorios_FW -LRB-_-LRB- Cargador_NNP ,_, aud&iacute;fonos_NNS ,_, estuche_FW adaptadores_FW universales_FW de_FW corriente_FW ,_, etc_FW -RRB-_-RRB- ._.
+En_FW vista_FW de_FW esta_FW experiencia_FW decid&iacute;_FW comprar_FW 7_CD equipos_JJ mas_NNS ._.

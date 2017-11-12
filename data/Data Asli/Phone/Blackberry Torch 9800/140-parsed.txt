@@ -1,0 +1,16 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+mark(wrote-6, because-1)
+det(information-4, the-3)
+prep_in(wrote-6, information-4)
+auxpass(wrote-6, is-5)
+root(ROOT-0, wrote-6)
+complm(are-9, that-7)
+expl(are-9, there-8)
+ccomp(wrote-6, are-9)
+quantmod(three-11, only-10)
+nsubj(are-9, three-11)
+prep_in(three-11, stock-13)
+

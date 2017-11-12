@@ -1,0 +1,52 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+
+=========
+
+nsubj(professional-5, I-1)
+cop(professional-5, am-2)
+neg(professional-5, not-3)
+det(professional-5, a-4)
+root(ROOT-0, professional-5)
+prep(professional-5, but-6)
+det(picture-8, the-7)
+dep(but-6, picture-8)
+nsubj(shoot-10, I-9)
+rcmod(picture-8, shoot-10)
+mark(came-14, with-11)
+det(T3i-13, the-12)
+nsubj(came-14, T3i-13)
+advcl(shoot-10, came-14)
+prt(came-14, out-15)
+dep(came-14, amazing-16)
+
+=========
+
+nsubj(say-2, Can-1)
+root(ROOT-0, say-2)
+advmod(say-2, enough-3)
+det(camera-7, this-5)
+amod(camera-7, amazing-6)
+prep_about(enough-3, camera-7)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, kodak-6)
+prep_than(better-4, pentax-8)
+conj_or(kodak-6, pentax-8)
+prep_than(better-4, fujifilm-10)
+conj_or(kodak-6, fujifilm-10)
+prep_than(better-4, GE-12)
+conj_or(kodak-6, GE-12)
+prep_than(better-4, coolpix-14)
+conj_or(kodak-6, coolpix-14)
+

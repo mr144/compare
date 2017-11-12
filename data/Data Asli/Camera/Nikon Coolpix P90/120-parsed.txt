@@ -1,0 +1,101 @@
+=========
+
+advmod(thought-3, well-1)
+nsubj(thought-3, i-2)
+root(ROOT-0, thought-3)
+mark(got-6, before-4)
+nsubj(got-6, i-5)
+advcl(thought-3, got-6)
+dobj(got-6, it-7)
+complm(do-12, that-8)
+nsubj(do-12, it-9)
+aux(do-12, would-10)
+neg(do-12, never-11)
+ccomp(got-6, do-12)
+dobj(wanted-15, what-13)
+nsubj(wanted-15, i-14)
+ccomp(do-12, wanted-15)
+
+=========
+
+nsubj(wanted-2, i-1)
+xsubj(take-4, i-1)
+root(ROOT-0, wanted-2)
+aux(take-4, to-3)
+xcomp(wanted-2, take-4)
+dobj(take-4, pictures-5)
+prep_of(pictures-5, birds-7)
+advmod(take-4, then-9)
+dep(take-4, enlarge-10)
+dobj(enlarge-10, them-11)
+mark(identify-15, so-12)
+nsubj(identify-15, i-13)
+aux(identify-15, could-14)
+advcl(enlarge-10, identify-15)
+dobj(identify-15, them-16)
+poss(book-19, my-18)
+prep_in(identify-15, book-19)
+
+=========
+
+nsubj(watcher-6, i-1)
+cop(watcher-6, am-2)
+det(watcher-6, a-3)
+nn(watcher-6, beginning-4)
+nn(watcher-6, bird-5)
+root(ROOT-0, watcher-6)
+
+=========
+
+dep(wrong-4, Well-1)
+nsubj(wrong-4, i-2)
+cop(wrong-4, was-3)
+root(ROOT-0, wrong-4)
+nsubj(take-8, i-6)
+nsubj(enlarge-13, i-6)
+aux(take-8, can-7)
+parataxis(wrong-4, take-8)
+det(picture-10, the-9)
+dobj(take-8, picture-10)
+parataxis(wrong-4, then-12)
+advmod(take-8, then-12)
+conj_and(take-8, then-12)
+parataxis(wrong-4, enlarge-13)
+conj_and(take-8, enlarge-13)
+dobj(enlarge-13, them-14)
+advmod(enlarge-13, again-15)
+
+=========
+
+cc(change-4, and-1)
+nsubj(change-4, crop-2)
+root(ROOT-0, change-4)
+det(lighting-6, the-5)
+dobj(change-4, lighting-6)
+
+=========
+
+nsubj(pleased-4, i-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(camera-7, the-6)
+prep_with(pleased-4, camera-7)
+dep(pleased-4, If-9)
+det(yr-12, a-10)
+amod(yr-12, 56-11)
+dep(If-9, yr-12)
+
+=========
+
+amod(woman-2, old-1)
+nsubj(create-4, woman-2)
+aux(create-4, can-3)
+root(ROOT-0, create-4)
+amod(photos-6, great-5)
+dobj(create-4, photos-6)
+det(one-9, any-8)
+nsubj(!!!-11, one-9)
+aux(!!!-11, can-10)
+parataxis(create-4, !!!-11)
+

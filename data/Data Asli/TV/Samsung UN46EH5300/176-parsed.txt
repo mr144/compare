@@ -1,0 +1,39 @@
+=========
+
+number(&#34;-2, 40-1)
+num(TV-4, &#34;-2)
+amod(TV-4, Smart-3)
+nsubj(joy-7, TV-4)
+cop(joy-7, is-5)
+det(joy-7, a-6)
+root(ROOT-0, joy-7)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+det(price-7, a-5)
+amod(price-7, great-6)
+prep_at(bought-2, price-7)
+nsubj(love-10, I-9)
+conj_and(bought-2, love-10)
+dobj(love-10, it-11)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, now-2)
+root(ROOT-0, have-3)
+det(phone-6, a-4)
+nn(phone-6, Smart-5)
+dobj(have-3, phone-6)
+dobj(have-3, appliances-8)
+conj_and(phone-6, appliances-8)
+det(TV-12, a-10)
+nn(TV-12, Smart-11)
+dobj(have-3, TV-12)
+conj_and(phone-6, TV-12)
+dep(have-3, all-13)
+prep_by(have-3, Samsung-15)
+

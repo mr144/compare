@@ -1,0 +1,26 @@
+=========
+
+nsubj(like-2, i-1)
+root(ROOT-0, like-2)
+det(lighting-6, the-3)
+nn(lighting-6, flashing-4)
+nn(lighting-6, LED-5)
+dobj(like-2, lighting-6)
+nsubj(changes-8, lighting-6)
+rcmod(lighting-6, changes-8)
+prep(changes-8, with-9)
+pcomp(with-9, on-10)
+nn(display-12, screen-11)
+prep_on(with-9, display-12)
+
+=========
+
+poss(!!!-3, its-1)
+amod(!!!-3, awesome-2)
+root(ROOT-0, !!!-3)
+amod(!!!-3, happy-4)
+amod(!!!-3, satisfied-6)
+conj_and(happy-4, satisfied-6)
+dep(!!!-3, with-7)
+pobj(with-7, it-8)
+

@@ -1,0 +1,6 @@
+I_PRP wanted_VBD a_DT television_NN to_TO replace_VB my_PRP$ old_JJ -LRB-_-LRB- HEAVY_JJ !_. -RRB-_-RRB-
+31_CD '_POS tube_NN type_NN ._.
+I_PRP ordered_VBD this_DT 32_CD '_'' LG_NNP from_IN Amazon_NNP at_IN a_DT very_RB good_JJ price_NN ._.
+On_IN arrival_NN ,_, it_PRP was_VBD a_DT snap_NN to_TO hook_NN up_RP ._.
+Great_JJ picture_NN !_.
+AND_CC light_JJ enough_RB to_TO pick_VB up_RP with_IN one_CD hand_NN !_.

@@ -1,0 +1,29 @@
+=========
+
+num(%-2, 100-1)
+root(ROOT-0, %-2)
+amod(%-2, satisfied-3)
+poss(tv-6, my-5)
+prep_with(satisfied-3, tv-6)
+
+=========
+
+amod(price-2, Great-1)
+root(ROOT-0, price-2)
+nn(fast-5, Came-4)
+appos(price-2, fast-5)
+dep(price-2, easy-7)
+aux(set-9, to-8)
+xcomp(easy-7, set-9)
+prt(set-9, up-10)
+advmod(purchase-15, just-11)
+amod(purchase-15, overall-12)
+det(purchase-15, a-13)
+amod(purchase-15, great-14)
+dobj(set-9, purchase-15)
+
+=========
+
+root(ROOT-0, Thank-1)
+dobj(Thank-1, you-2)
+

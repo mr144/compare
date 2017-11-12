@@ -1,0 +1,165 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+det(year-6, a-5)
+npadvmod(ago-7, year-6)
+advmod(bought-2, ago-7)
+num(year-11, one-10)
+prep_for(worked-13, year-11)
+nsubj(worked-13, it-12)
+conj_and(bought-2, worked-13)
+advmod(worked-13, well-14)
+
+=========
+
+nsubj(have-8, Eats-1)
+prep_up(Eats-1, batteries-3)
+det(time-6, no-5)
+prep_in(batteries-3, time-6)
+advmod(have-8, so-7)
+root(ROOT-0, have-8)
+det(lot-10, a-9)
+nsubj(handy-11, lot-10)
+xcomp(have-8, handy-11)
+
+=========
+
+det(couple-2, A-1)
+npadvmod(ago-5, couple-2)
+prep_of(couple-2, days-4)
+advmod(download-9, ago-5)
+nsubj(download-9, I-6)
+aux(download-9, could-7)
+neg(download-9, not-8)
+root(ROOT-0, download-9)
+poss(pictures-11, my-10)
+dobj(download-9, pictures-11)
+nn(clips-14, movie-13)
+dobj(download-9, clips-14)
+conj_or(pictures-11, clips-14)
+
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+xcomp(tried-2, changing-3)
+det(cable-5, the-4)
+dobj(changing-3, cable-5)
+det(good-8, no-7)
+prep_to(changing-3, good-8)
+
+=========
+
+dep(camera-7, So-1)
+advmod(camera-7, now-2)
+dep(good-4, what-3)
+nsubj(camera-7, good-4)
+cop(camera-7, is-5)
+det(camera-7, a-6)
+root(ROOT-0, camera-7)
+nsubj(download-11, camera-7)
+aux(download-11, can-9)
+neg(download-11, not-10)
+rcmod(camera-7, download-11)
+
+=========
+
+poss(Kodak-3, My-1)
+amod(Kodak-3, little-2)
+nsubj(served-4, Kodak-3)
+root(ROOT-0, served-4)
+dobj(served-4, me-5)
+advmod(served-4, well-6)
+num(years-9, 5-8)
+prep_for(served-4, years-9)
+mark(started-12, before-10)
+nsubj(started-12, it-11)
+advcl(served-4, started-12)
+prep(started-12, to-13)
+det(thing-17, the-15)
+amod(thing-17, same-16)
+prep_to(started-12, thing-17)
+
+=========
+
+advmod(look-3, When-1)
+nsubj(look-3, you-2)
+advcl(wonder-15, look-3)
+det(ports-7, the-5)
+amod(ports-7, mini-6)
+prep_at(look-3, ports-7)
+nsubjpass(used-10, ports-7)
+auxpass(used-10, are-9)
+rcmod(ports-7, used-10)
+nsubj(wonder-15, it-12)
+cop(wonder-15, is-13)
+det(wonder-15, no-14)
+root(ROOT-0, wonder-15)
+advmod(like-18, why-16)
+nsubj(like-18, things-17)
+rcmod(wonder-15, like-18)
+nsubj(happen-20, this-19)
+ccomp(like-18, happen-20)
+
+=========
+
+advmod(is-3, Anyway-1)
+nsubj(is-3, it-2)
+xsubj(pick-8, it-2)
+root(ROOT-0, is-3)
+advmod(is-3, back-4)
+prep_to(back-4, Walmart-6)
+aux(pick-8, to-7)
+xcomp(is-3, pick-8)
+prt(pick-8, up-9)
+det(camera-13, another-10)
+num(camera-13, $-11)
+number($-11, 100.00-12)
+dobj(pick-8, camera-13)
+
+=========
+
+nsubj(wonder-2, I-1)
+root(ROOT-0, wonder-2)
+advmod(long-4, how-3)
+advmod(last-8, long-4)
+det(one-6, this-5)
+nsubj(last-8, one-6)
+aux(last-8, will-7)
+ccomp(wonder-2, last-8)
+
+=========
+
+predet(stuff-4, All-1)
+det(stuff-4, this-2)
+amod(stuff-4, digital-3)
+nsubj(nice-6, stuff-4)
+nsubj(fancy-8, stuff-4)
+cop(nice-6, is-5)
+root(ROOT-0, nice-6)
+conj_and(nice-6, fancy-8)
+mark(pay-12, unless-10)
+nsubj(pay-12, you-11)
+advcl(getting-18, pay-12)
+amod(dollar-14, top-13)
+dobj(pay-12, dollar-14)
+nsubj(getting-18, you-15)
+aux(getting-18, are-16)
+advmod(getting-18, basically-17)
+conj_but(nice-6, getting-18)
+dobj(getting-18, junk-19)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+poss(Leica-6, my-3)
+amod(Leica-6, old-4)
+nn(Leica-6, fashioned-5)
+dobj(had-2, Leica-6)
+num(years-9, twenty-8)
+prep_for(Leica-6, years-9)
+

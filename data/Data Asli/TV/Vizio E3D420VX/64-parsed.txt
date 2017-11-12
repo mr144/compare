@@ -1,0 +1,149 @@
+=========
+
+dep(let-2, Well-1)
+root(ROOT-0, let-2)
+nsubj(start-4, me-3)
+ccomp(let-2, start-4)
+prepc_by(start-4, saying-6)
+nsubj(surprised-9, i-7)
+cop(surprised-9, was-8)
+ccomp(saying-6, surprised-9)
+aux(see-11, to-10)
+xcomp(surprised-9, see-11)
+advmod(reviews-16, so-12)
+amod(reviews-16, many-13)
+num(reviews-16, 1-14)
+nn(reviews-16, star-15)
+dobj(see-11, reviews-16)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(have-4, companies-3)
+ccomp(think-2, have-4)
+amod(duds-7, many-6)
+prep_to(have-4, duds-7)
+prep_in(have-4, circulation-9)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+poss(tv-5, my-4)
+dobj(had-3, tv-5)
+quantmod(three-8, almost-7)
+num(years-9, three-8)
+prep_for(had-3, years-9)
+advmod(had-3, now-10)
+nsubj(LOVE-13, I-12)
+conj_and(had-3, LOVE-13)
+dobj(LOVE-13, it-14)
+
+=========
+
+poss(picture-5, its-1)
+amod(picture-5, sleek-2)
+amod(picture-5, great-4)
+nsubj(wows-6, picture-5)
+root(ROOT-0, wows-6)
+dobj(wows-6, me-7)
+det(movie-11, every-9)
+amod(movie-11, new-10)
+prep_with(wows-6, movie-11)
+dobj(see-13, movie-11)
+nsubj(see-13, I-12)
+rcmod(movie-11, see-13)
+
+=========
+
+nsubj(lasted-3, It-1)
+nsubj(great-6, It-1)
+aux(lasted-3, has-2)
+root(ROOT-0, lasted-3)
+cop(great-6, been-5)
+conj_and(lasted-3, great-6)
+det(time-9, the-7)
+amod(time-9, whole-8)
+attr(great-6, time-9)
+
+=========
+
+nsubj(get-2, I-1)
+root(ROOT-0, get-2)
+iobj(get-2, compliments-3)
+prep_on(compliments-3, it-5)
+predet(time-8, all-6)
+det(time-8, the-7)
+dobj(get-2, time-8)
+det(3D-11, the-10)
+nsubjpass(superd-13, 3D-11)
+auxpass(superd-13, is-12)
+conj_and(get-2, superd-13)
+prep_to(superd-13, competitors-15)
+
+=========
+
+nsubj(own-2, I-1)
+nsubj(let-11, I-1)
+root(ROOT-0, own-2)
+amod(products-5, many-3)
+nn(products-5, Vizio-4)
+dobj(own-2, products-5)
+det(TV-9, this-8)
+prep_because_of(products-5, TV-9)
+conj_and(own-2, let-11)
+det(haters-13, the-12)
+nsubj(hate-14, haters-13)
+ccomp(let-11, hate-14)
+
+=========
+
+nn(Vizio-2, My-1)
+nsubj(tv-6, Vizio-2)
+cop(tv-6, is-3)
+det(tv-6, the-4)
+amod(tv-6, best-5)
+root(ROOT-0, tv-6)
+dobj(know-8, tv-6)
+nsubj(know-8, I-7)
+rcmod(tv-6, know-8)
+nsubj(buying-13, I-10)
+aux(buying-13, will-11)
+aux(buying-13, be-12)
+conj_and(tv-6, buying-13)
+dobj(know-8, buying-13)
+det(inch-16, a-14)
+num(inch-16, 55-15)
+dobj(buying-13, inch-16)
+advmod(buying-13, soon-17)
+
+=========
+
+det(tv-2, This-1)
+nsubj(awesome-4, tv-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+
+=========
+
+nsubj(preformes-3, It-1)
+advmod(preformes-3, out-2)
+root(ROOT-0, preformes-3)
+det(tvs-5, any-4)
+dobj(preformes-3, tvs-5)
+nsubj(enthusiest-12, I-7)
+cop(enthusiest-12, am-8)
+advmod(enthusiest-12, now-9)
+det(enthusiest-12, a-10)
+nn(enthusiest-12, Vizio-11)
+conj_and(preformes-3, enthusiest-12)
+det(tv-16, this-15)
+prep_due_to(enthusiest-12, tv-16)
+
+=========
+
+nn(IT-2, BUY-1)
+root(ROOT-0, IT-2)
+

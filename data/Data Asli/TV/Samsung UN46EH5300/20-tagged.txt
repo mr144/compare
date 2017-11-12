@@ -1,0 +1,5 @@
+This_DT TV_NN is_VBZ great_JJ and_CC worth_JJ the_DT price_NN ._.
+The_DT HD_NNP quality_NN is_VBZ awesome_JJ ._.
+The_DT sound_NN is_VBZ okay_JJ ._.
+Some_DT apps_NNS like_IN you_PRP tube_NN hangs_VBZ at_IN times_NNS ,_, however_RB this_DT might_MD be_VB due_JJ to_TO the_DT app_NN and_CC not_RB because_IN of_IN the_DT TV_NN ._.
+The_DT setting_NN are_VBP easy_JJ to_TO install_VB ._.

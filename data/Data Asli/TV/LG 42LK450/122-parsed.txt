@@ -1,0 +1,50 @@
+=========
+
+nsubj(Tv-5, This-1)
+cop(Tv-5, is-2)
+det(Tv-5, a-3)
+amod(Tv-5, great-4)
+root(ROOT-0, Tv-5)
+
+=========
+
+nsubj(ordered-2, We-1)
+root(ROOT-0, ordered-2)
+dobj(ordered-2, it-3)
+mark(fit-6, because-4)
+nsubj(fit-6, it-5)
+advcl(ordered-2, fit-6)
+poss(space-8, our-7)
+dobj(fit-6, space-8)
+nsubj(delighted-13, we-10)
+aux(delighted-13, have-11)
+cop(delighted-13, been-12)
+conj_but(ordered-2, delighted-13)
+prep_with(delighted-13, it-15)
+advmod(far-17, thus-16)
+advmod(delighted-13, far-17)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+amod(features-4, good-3)
+dobj(has-2, features-4)
+det(Tv-8, a-6)
+nn(Tv-8, bedroom-7)
+prep_for(features-4, Tv-8)
+det(timer-13, an-11)
+nn(timer-13, on\/off-12)
+prep_such_as(Tv-8, timer-13)
+
+=========
+
+nsubj(pleased-2, Quite-1)
+root(ROOT-0, pleased-2)
+prep_with(pleased-2, it-4)
+nsubj(value-10, it-6)
+cop(value-10, was-7)
+det(value-10, a-8)
+amod(value-10, good-9)
+conj_and(pleased-2, value-10)
+

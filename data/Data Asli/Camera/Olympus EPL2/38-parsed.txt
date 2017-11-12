@@ -1,0 +1,35 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(EPL2-4, an-3)
+dobj(bought-2, EPL2-4)
+poss(trip-7, my-6)
+prep_for(bought-2, trip-7)
+prep_to(bought-2, Nepal-9)
+det(summer-11, this-10)
+tmod(bought-2, summer-11)
+
+=========
+
+root(ROOT-0, Pros-1)
+amod(pictures-7, Small-3)
+conj_and(Small-3, lightweightDetachable-5)
+amod(pictures-7, lightweightDetachable-5)
+nn(pictures-7, lensesOk-6)
+dep(Pros-1, pictures-7)
+parataxis(expensive-25, jpeg-9)
+aux(tried-13, have-11)
+neg(tried-13, not-12)
+dep(jpeg-9, tried-13)
+acomp(tried-13, raw-14)
+nn(\/-19, ConsToo-16)
+amod(\/-19, many-17)
+nn(\/-19, menus-18)
+nsubj(expensive-25, \/-19)
+amod(\/-19, hard-20)
+nn(viewfinderLenses-23, navigateNo-22)
+prep_to(hard-20, viewfinderLenses-23)
+cop(expensive-25, are-24)
+rcmod(pictures-7, expensive-25)
+

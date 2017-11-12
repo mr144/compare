@@ -1,0 +1,61 @@
+=========
+
+root(ROOT-0, Comfortable-1)
+aux(hold-3, to-2)
+xcomp(Comfortable-1, hold-3)
+amod(resolution-9, elegant-5)
+dobj(hold-3, good-7)
+amod(resolution-9, good-7)
+conj_and(resolution-9, good-7)
+nn(resolution-9, screen-8)
+dobj(hold-3, resolution-9)
+dobj(hold-3, speed-11)
+conj_and(resolution-9, speed-11)
+amod(colors-14, nice-13)
+dobj(hold-3, colors-14)
+
+=========
+
+advmod(good-2, Very-1)
+amod(mid-3, good-2)
+nsubj(range-4, mid-3)
+root(ROOT-0, range-4)
+dobj(range-4, telephone-5)
+amod(price-8, affordable-7)
+prep_at(range-4, price-8)
+
+=========
+
+root(ROOT-0, Recommended-1)
+
+=========
+
+nsubj(prior-4, Contact-1)
+xsubj(purchase-6, Contact-1)
+det(seller-3, the-2)
+npadvmod(prior-4, seller-3)
+root(ROOT-0, prior-4)
+aux(purchase-6, to-5)
+xcomp(prior-4, purchase-6)
+mark(need-9, if-7)
+nsubj(need-9, you-8)
+advcl(purchase-6, need-9)
+amod(language-11, Spanish-10)
+dobj(need-9, language-11)
+mark(came-14, as-12)
+nsubj(came-14, mine-13)
+advcl(need-9, came-14)
+prep_with(came-14, lot-16)
+amod(languages-19, Eastern-18)
+prep_of(lot-16, languages-19)
+prep_with(came-14, Spanish-22)
+conj_negcc(lot-16, Spanish-22)
+
+=========
+
+root(ROOT-0, Used-1)
+prep_in(Used-1, Venezuela-3)
+prep_with(Used-1, Movilnet-5)
+det(problems-8, no-7)
+prep_with(Used-1, problems-8)
+

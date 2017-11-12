@@ -1,0 +1,48 @@
+=========
+
+dep(product-3, Very-1)
+amod(product-3, good-2)
+root(ROOT-0, product-3)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, only-2)
+nsubj(is-4, problem-3)
+root(ROOT-0, is-4)
+complm(comes-7, that-5)
+nsubj(comes-7, it-6)
+ccomp(is-4, comes-7)
+dep(comes-7, configured-8)
+prep_in(configured-8, korean-10)
+prep_in(configured-8, something-12)
+conj_or(korean-10, something-12)
+prep_like(configured-8, that-14)
+
+=========
+
+cc(change-4, But-1)
+nsubj(change-4, you-2)
+aux(change-4, can-3)
+root(ROOT-0, change-4)
+det(language-6, the-5)
+dobj(change-4, language-6)
+mark(apprehensive-12, although-8)
+nsubj(apprehensive-12, you-9)
+cop(apprehensive-12, be-10)
+advmod(apprehensive-12, little-11)
+advcl(change-4, apprehensive-12)
+mark(doind-16, while-13)
+nsubjpass(doind-16, you-14)
+auxpass(doind-16, are-15)
+ccomp(apprehensive-12, doind-16)
+dobj(doind-16, that-17)
+
+=========
+
+nsubj(fine-5, Everything-1)
+advmod(Everything-1, else-2)
+cop(fine-5, was-3)
+advmod(fine-5, just-4)
+root(ROOT-0, fine-5)
+

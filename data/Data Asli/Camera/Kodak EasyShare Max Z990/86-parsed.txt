@@ -1,0 +1,136 @@
+=========
+
+nsubj(bought-2, I-1)
+nsubj(had-10, I-1)
+root(ROOT-0, bought-2)
+det(camera-6, the-3)
+nn(camera-6, Kodak-4)
+amod(camera-6, z990-5)
+dobj(bought-2, camera-6)
+amod(year-8, last-7)
+tmod(bought-2, year-8)
+conj_and(bought-2, had-10)
+dobj(had-10, nothing-11)
+prep(nothing-11, but-12)
+nn(sence-14, trouble-13)
+dep(but-12, sence-14)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(manual-5, no-3)
+amod(manual-5, printed-4)
+nsubj(is-2, manual-5)
+advmod(maunal-10, only-7)
+det(maunal-10, the-8)
+amod(maunal-10, online-9)
+appos(manual-5, maunal-10)
+nsubj(help-15, maunal-10)
+cop(help-15, is-12)
+neg(help-15, not-13)
+amod(help-15, much-14)
+rcmod(maunal-10, help-15)
+
+=========
+
+prep_for(RED-7, example-2)
+nsubj(RED-7, What-4)
+cop(RED-7, is-5)
+det(RED-7, the-6)
+root(ROOT-0, RED-7)
+partmod(RED-7, led-8)
+det(front-11, the-10)
+prep_on(led-8, front-11)
+det(camera-14, the-13)
+prep_of(front-11, camera-14)
+
+=========
+
+advmod(goes-3, Sometimes-1)
+nsubj(goes-3, it-2)
+root(ROOT-0, goes-3)
+prt(goes-3, on-4)
+
+=========
+
+aux(look-3, Do-1)
+neg(look-3, not-2)
+root(ROOT-0, look-3)
+det(maunal-7, the-5)
+amod(maunal-7, online-6)
+prep_in(look-3, maunal-7)
+mark(is-10, because-8)
+expl(is-10, there-9)
+advcl(look-3, is-10)
+nsubj(is-10, nothing-11)
+advmod(led-16, there-12)
+nn(RED-15, ANY-14)
+prep_about(there-12, RED-15)
+partmod(nothing-11, led-16)
+det(front-19, the-18)
+prep_on(led-16, front-19)
+det(camera-22, the-21)
+prep_of(front-19, camera-22)
+
+=========
+
+advmod(transfer-6, Also-1)
+nsubj(transfer-6, I-2)
+aux(transfer-6, can-3)
+advmod(longer-5, no-4)
+advmod(transfer-6, longer-5)
+root(ROOT-0, transfer-6)
+det(pictures-8, the-7)
+dobj(transfer-6, pictures-8)
+partmod(pictures-8, taked-9)
+poss(computer-12, my-11)
+prep_to(taked-9, computer-12)
+
+=========
+
+nsubj(used-2, It-1)
+xsubj(work-4, It-1)
+root(ROOT-0, used-2)
+aux(work-4, to-3)
+xcomp(used-2, work-4)
+acomp(work-4, automatic-5)
+advmod(connected-10, when-6)
+det(camera-8, the-7)
+nsubjpass(connected-10, camera-8)
+auxpass(connected-10, was-9)
+advcl(work-4, connected-10)
+
+=========
+
+det(camera-2, The-1)
+nsubj(has-3, camera-2)
+root(ROOT-0, has-3)
+det(features-7, some-4)
+advmod(good-6, very-5)
+amod(features-7, good-6)
+dobj(has-3, features-7)
+det(zoom-11, the-9)
+num(zoom-11, 30X-10)
+prep_like(features-7, zoom-11)
+mark(had-18, after-13)
+predet(troubleI-16, all-14)
+det(troubleI-16, the-15)
+nsubj(had-18, troubleI-16)
+aux(had-18, have-17)
+advcl(purchased-22, had-18)
+nsubj(purchased-22, I-19)
+aux(purchased-22, would-20)
+aux(purchased-22, have-21)
+conj_but(has-3, purchased-22)
+det(camera-25, a-23)
+amod(camera-25, better-24)
+dobj(purchased-22, camera-25)
+
+=========
+
+root(ROOT-0, One-2)
+det(manual-6, a-4)
+amod(manual-6, printed-5)
+prep_with(One-2, manual-6)
+

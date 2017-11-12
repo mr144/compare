@@ -1,0 +1,4 @@
+I_PRP am_VBP trying_VBG to_TO register_VB the_DT phone_NN but_CC there_EX is_VBZ NO_RB model_JJ number_NN on_IN the_DT inside_NN of_IN the_DT phone_NN ._.
+The_DT phone_NN was_VBD supposed_VBN to_TO be_VB blue_JJ but_CC it_PRP is_VBZ far_RB from_IN that_DT ,_, the_DT is_VBZ black_JJ ,_, and_CC I_PRP can_MD not_RB upload_VB music_NN or_CC ringtones_NNS to_TO the_DT phone_NN ._.
+I_PRP have_VBP downloaded_VBN the_DT manual_NN but_CC it_PRP is_VBZ not_RB much_JJ help_NN ._.
+How_WRB is_VBZ it_PRP that_IN a_DT phone_NN has_VBZ no_DT model_NN number_NN ??_NN

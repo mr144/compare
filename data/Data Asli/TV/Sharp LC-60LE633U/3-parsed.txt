@@ -1,0 +1,94 @@
+=========
+
+root(ROOT-0, Wow-1)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+poss(TV-5, my-3)
+amod(TV-5, Sharp-4)
+nsubj(!!!!!!-6, TV-5)
+ccomp(love-2, !!!!!!-6)
+number(&#34;-8, 60-7)
+dobj(!!!!!!-6, &#34;-8)
+nn(HZ-11, 240-10)
+appos(&#34;-8, HZ-11)
+appos(HZ-11, 1080p-13)
+appos(HZ-11, 3D-15)
+appos(HZ-11, LED-17)
+appos(HZ-11, HDTV-19)
+
+=========
+
+nsubj(paid-2, I-1)
+root(ROOT-0, paid-2)
+dobj(paid-2, $-3)
+num($-3, 1400.00-4)
+det(used-7, a-6)
+prep_for(paid-2, used-7)
+amod(condition-10, new-9)
+prep_in(paid-2, condition-10)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, it-4)
+advmod(had-3, now-5)
+num(year-8, 1-7)
+prep_for(had-3, year-8)
+
+=========
+
+nsubj(picture-6, It-1)
+cop(picture-6, is-2)
+advmod(picture-6, still-3)
+det(picture-6, the-4)
+amod(picture-6, best-5)
+root(ROOT-0, picture-6)
+dobj(see-8, picture-6)
+nsubj(see-8, I-7)
+rcmod(picture-6, see-8)
+det(TV-11, any-10)
+prep_on(see-8, TV-11)
+
+=========
+
+poss(friends-2, My-1)
+nsubj(paid-4, friends-2)
+aux(paid-4, have-3)
+root(ROOT-0, paid-4)
+ccomp(paid-4, double-5)
+cc(more-7, and-6)
+dobj(double-5, more-7)
+nn(TVs-12, LG-9)
+conj_and(LG-9, Sony-11)
+nn(TVs-12, Sony-11)
+prep_for(more-7, TVs-12)
+det(stats-16, the-14)
+amod(stats-16, same-15)
+prep_with(double-5, stats-16)
+poss(TV-20, my-19)
+nsubj(has-21, TV-20)
+conj_and(paid-4, has-21)
+det(picture-24, a-22)
+amod(picture-24, better-23)
+dobj(has-21, picture-24)
+dobj(buy-32, picture-24)
+nn(Great-26, !!!!!!-25)
+nsubj(buy-32, Great-26)
+amod(great-30, great-28)
+amod(Great-26, great-30)
+rcmod(picture-24, buy-32)
+xcomp(buy-32, !!!!!!!!!!-33)
+nsubj(got-36, I-34)
+aux(got-36, have-35)
+ccomp(!!!!!!!!!!-33, got-36)
+poss(eye-38, my-37)
+dobj(got-36, eye-38)
+det(&#34;-42, the-40)
+num(&#34;-42, 80-41)
+prep_on(got-36, &#34;-42)
+

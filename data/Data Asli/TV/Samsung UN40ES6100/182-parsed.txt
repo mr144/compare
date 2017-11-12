@@ -1,0 +1,117 @@
+=========
+
+nsubj(owned-3, I-1)
+aux(owned-3, have-2)
+root(ROOT-0, owned-3)
+det(TV-5, this-4)
+dobj(owned-3, TV-5)
+advmod(month-9, about-7)
+det(month-9, a-8)
+prep_for(TV-5, month-9)
+advmod(owned-3, now-10)
+
+=========
+
+det(TV-2, The-1)
+nsubj(great-4, TV-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+det(HUB-3, The-1)
+nn(HUB-3, Smart-2)
+nsubj(awful-5, HUB-3)
+cop(awful-5, is-4)
+root(ROOT-0, awful-5)
+
+=========
+
+det(browser-3, The-1)
+nn(browser-3, web-2)
+nsubj(poor-5, browser-3)
+cop(poor-5, is-4)
+root(ROOT-0, poor-5)
+prep_beyond(poor-5, description-7)
+
+=========
+
+nsubj(load-7, Links-1)
+det(site-4, a-3)
+prep_within(Links-1, site-4)
+aux(load-7, will-5)
+neg(load-7, not-6)
+ccomp(decided-13, load-7)
+det(Hub-12, the-9)
+amod(Hub-12, entire-10)
+nn(Hub-12, Smart-11)
+nsubj(decided-13, Hub-12)
+xsubj(crash-15, Hub-12)
+nsubj(came-20, Hub-12)
+root(ROOT-0, decided-13)
+aux(crash-15, to-14)
+xcomp(decided-13, crash-15)
+num(day-17, one-16)
+tmod(crash-15, day-17)
+advmod(came-20, then-19)
+conj_and(decided-13, came-20)
+prt(came-20, back-21)
+num(days-23, 2-22)
+tmod(came-20, days-23)
+advmod(days-23, later-24)
+
+=========
+
+nsubj(crashes-2, Netflix-1)
+nsubj(makes-4, Netflix-1)
+root(ROOT-0, crashes-2)
+conj_and(crashes-2, makes-4)
+nsubj(sign-6, me-5)
+ccomp(makes-4, sign-6)
+advmod(again-8, on-7)
+advmod(sign-6, again-8)
+det(remote-11, the-10)
+prep_with(sign-6, remote-11)
+nsubj(sucks-14, remote-11)
+advmod(sucks-14, really-13)
+rcmod(remote-11, sucks-14)
+
+=========
+
+nsubj(use-4, I-1)
+advmod(longer-3, no-2)
+advmod(use-4, longer-3)
+root(ROOT-0, use-4)
+det(Hub-7, the-5)
+nn(Hub-7, Smart-6)
+dobj(use-4, Hub-7)
+prep_for(Hub-7, anything-9)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+poss(player-5, my-3)
+nn(player-5, Roku-4)
+dobj(use-2, player-5)
+prep_for(use-2, Netflix-7)
+
+=========
+
+root(ROOT-0, Save-1)
+poss(money-3, your-2)
+dobj(Save-1, money-3)
+conj_and(Save-1, buy-5)
+det(w\/o-9, a-6)
+nn(w\/o-9, Samsung-7)
+nn(w\/o-9, TV-8)
+dobj(buy-5, w\/o-9)
+det(Hub-12, the-10)
+nn(Hub-12, Smart-11)
+dobj(Save-1, Hub-12)
+
+=========
+
+nsubj(picture-2, Nice-1)
+root(ROOT-0, picture-2)
+

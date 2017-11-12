@@ -1,0 +1,114 @@
+=========
+
+det(time-3, The-1)
+nn(time-3, response-2)
+nsubj(5-12, time-3)
+det(inch-7, the-5)
+num(inch-7, 47-6)
+prep_for(time-3, inch-7)
+cop(5-12, is-8)
+num(ms-10, 8-10-9)
+npadvmod(not-11, ms-10)
+neg(5-12, not-11)
+root(ROOT-0, 5-12)
+
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+root(ROOT-0, TV-5)
+det(price-8, the-7)
+prep_for(TV-5, price-8)
+det(description-11, the-10)
+nsubj(accurate-14, description-11)
+cop(accurate-14, is-12)
+neg(accurate-14, not-13)
+conj_but(TV-5, accurate-14)
+
+=========
+
+nsubj(take-3, It-1)
+aux(take-3, will-2)
+root(ROOT-0, take-3)
+dobj(take-3, ALOT-4)
+prep_of(ALOT-4, adjustment-6)
+aux(get-8, to-7)
+xcomp(take-3, get-8)
+det(right-11, the-9)
+nn(right-11, picture-10)
+dobj(get-8, right-11)
+
+=========
+
+nsubj(awesome-3, 3d-1)
+cop(awesome-3, is-2)
+root(ROOT-0, awesome-3)
+
+=========
+
+root(ROOT-0, UPDATE-1)
+nn(Direct-4, Tiger-3)
+nsubj(company-8, Direct-4)
+cop(company-8, is-5)
+det(company-8, a-6)
+amod(company-8, horrible-7)
+dep(UPDATE-1, company-8)
+nsubj(uses-10, company-8)
+rcmod(company-8, uses-10)
+det(bait-12, the-11)
+dobj(uses-10, bait-12)
+dobj(uses-10, switch-14)
+conj_and(bait-12, switch-14)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(model-5, a-3)
+amod(model-5, lesser-4)
+dobj(got-2, model-5)
+det(one-8, the-7)
+prep_than(got-2, one-8)
+dobj(purchased-10, one-8)
+nsubj(purchased-10, I-9)
+rcmod(one-8, purchased-10)
+
+=========
+
+advmod(goes-5, Also-1)
+det(sound-4, The-3)
+nsubj(goes-5, sound-4)
+root(ROOT-0, goes-5)
+advmod(goes-5, up-6)
+advmod(goes-5, down-8)
+conj_and(up-6, down-8)
+det(reason-11, no-10)
+prep_for(goes-5, reason-11)
+
+=========
+
+mark(purchase-3, If-1)
+nsubj(purchase-3, you-2)
+csubj(buy-8, purchase-3)
+det(piece-5, this-4)
+dobj(purchase-3, piece-5)
+prep_of(piece-5, crap-7)
+root(ROOT-0, buy-8)
+det(warranty-10, the-9)
+nsubj(buy-14, warranty-10)
+nn(NOT-13, DO-12)
+conj_and(warranty-10, NOT-13)
+nsubj(buy-14, NOT-13)
+ccomp(buy-8, buy-14)
+nn(Direct-17, Tiger-16)
+prep_from(buy-14, Direct-17)
+
+=========
+
+nsubj(regret-3, You-1)
+aux(regret-3, WILL-2)
+root(ROOT-0, regret-3)
+dobj(regret-3, it-4)
+

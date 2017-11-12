@@ -1,0 +1,89 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(D7100-5, the-4)
+dobj(had-3, D7100-5)
+advmod(week-9, about-7)
+det(week-9, a-8)
+prep_for(D7100-5, week-9)
+advmod(week-9, now-10)
+nsubj(pleased-17, I-13)
+aux(pleased-17, have-14)
+cop(pleased-17, been-15)
+advmod(pleased-17, very-16)
+conj_and(had-3, pleased-17)
+det(images-20, the-19)
+prep_with(pleased-17, images-20)
+
+=========
+
+nsubj(excellent-3, Sharpness-1)
+cop(excellent-3, is-2)
+root(ROOT-0, excellent-3)
+advmod(using-5, when-4)
+advcl(excellent-3, using-5)
+det(Nikon-7, the-6)
+dobj(using-5, Nikon-7)
+num(Nikon-7, 16-85-8)
+det(F-13, the-10)
+nn(F-13, Micro-11)
+nn(F-13, 40mm-12)
+dobj(using-5, F-13)
+conj_and(Nikon-7, F-13)
+num(F-13, 2.8-14)
+
+=========
+
+nsubj(owned-2, I-1)
+root(ROOT-0, owned-2)
+num(D7000-4, 2-3)
+nsubj('s-5, D7000-4)
+nsubj(sold-7, D7000-4)
+nsubj(bought-10, D7000-4)
+ccomp(owned-2, 's-5)
+ccomp(owned-2, sold-7)
+conj_and('s-5, sold-7)
+dobj(sold-7, them-8)
+ccomp(owned-2, bought-10)
+conj_and('s-5, bought-10)
+det(D600-12, a-11)
+dobj(bought-10, D600-12)
+det(D7100-15, this-14)
+dobj(bought-10, D7100-15)
+conj_and(D600-12, D7100-15)
+
+=========
+
+nsubj(set-up-6, It-1)
+cop(set-up-6, 's-2)
+det(set-up-6, a-3)
+amod(set-up-6, nice-4)
+nn(set-up-6, DX\/FX-5)
+root(ROOT-0, set-up-6)
+nsubj(suits-8, set-up-6)
+rcmod(set-up-6, suits-8)
+poss(style-11, my-9)
+amod(style-11, shooting-10)
+dobj(suits-8, style-11)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(D7100-5, this-4)
+dobj(recommend-3, D7100-5)
+advmod(when-8, especially-7)
+advmod(paired-9, when-8)
+dep(D7100-5, paired-9)
+det(zoom-13, the-11)
+num(zoom-13, 16-85-12)
+prep_with(paired-9, zoom-13)
+
+=========
+
+root(ROOT-0, Thanks-1)
+prep_for(Thanks-1, reading-3)
+

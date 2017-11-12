@@ -1,0 +1,31 @@
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+det(product-4, this-3)
+dobj(recommend-2, product-4)
+
+=========
+
+nsubj(excellent-3, It-1)
+cop(excellent-3, is-2)
+root(ROOT-0, excellent-3)
+
+=========
+
+root(ROOT-0, Thanks-1)
+det(sale-4, the-3)
+prep_for(Thanks-1, sale-4)
+
+=========
+
+dep(a-6, a-1)
+dep(a-6, a-2)
+dep(a-6, a-3)
+det(a-6, a-4)
+nn(a-6, a-5)
+dep(a-9, a-6)
+det(a-9, a-7)
+nn(a-9, a-8)
+root(ROOT-0, a-9)
+

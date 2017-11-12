@@ -1,0 +1,38 @@
+=========
+
+amod(screen-4, Super-1)
+amod(screen-4, sensitive-2)
+nn(screen-4, touch-3)
+root(ROOT-0, screen-4)
+amod(sound-14, slim-6)
+dep(sound-14, libiano-8)
+amod(sound-14, Super-10)
+amod(sound-14, fast-11)
+amod(sound-14, good-13)
+appos(screen-4, sound-14)
+
+=========
+
+amod(product-2, Recommended-1)
+root(ROOT-0, product-2)
+
+=========
+
+nsubj(arrive-2, I-1)
+root(ROOT-0, arrive-2)
+det(packaging-6, all-4)
+amod(packaging-6, original-5)
+prep_with(arrive-2, packaging-6)
+
+=========
+
+aux(hesitate-3, Do-1)
+neg(hesitate-3, not-2)
+root(ROOT-0, hesitate-3)
+mark(want-6, if-4)
+nsubj(want-6, you-5)
+xsubj(buy-8, you-5)
+advcl(hesitate-3, want-6)
+aux(buy-8, to-7)
+xcomp(want-6, buy-8)
+

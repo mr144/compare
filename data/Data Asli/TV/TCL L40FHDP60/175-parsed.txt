@@ -1,0 +1,28 @@
+=========
+
+amod(day-2, second-1)
+nsubjpass(covered-11, day-2)
+prepc_of(day-2, using-4)
+det(product-6, this-5)
+dobj(using-4, product-6)
+det(screen-9, the-8)
+appos(product-6, screen-9)
+auxpass(covered-11, got-10)
+root(ROOT-0, covered-11)
+det(kind-14, all-13)
+prep_with(covered-11, kind-14)
+amod(colors-17, different-16)
+prep_of(kind-14, colors-17)
+
+=========
+
+amod(product-2, defected-1)
+nsubj(recommend-6, product-2)
+advmod(recommend-6, defenitly-3)
+aux(recommend-6, do-4)
+neg(recommend-6, not-5)
+root(ROOT-0, recommend-6)
+xcomp(recommend-6, buying-7)
+det(product-9, this-8)
+dobj(buying-7, product-9)
+

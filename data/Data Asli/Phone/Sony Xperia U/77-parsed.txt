@@ -1,0 +1,84 @@
+=========
+
+nsubj(smarphone-5, This-1)
+cop(smarphone-5, is-2)
+poss(smarphone-5, my-3)
+amod(smarphone-5, first-4)
+root(ROOT-0, smarphone-5)
+
+=========
+
+cc(like-4, And-1)
+nsubj(like-4, I-2)
+advmod(like-4, really-3)
+root(ROOT-0, like-4)
+dobj(like-4, it-5)
+
+=========
+
+nn(responsiveness-2, Screen-1)
+nsubj(great-4, responsiveness-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+amod(quality-2, Perceived-1)
+nsubj(good-5, quality-2)
+cop(good-5, is-3)
+advmod(good-5, very-4)
+root(ROOT-0, good-5)
+
+=========
+
+nsubj(lasts-2, Battery-1)
+root(ROOT-0, lasts-2)
+nn(days-7, 2-4)
+conj_or(2-4, 3-6)
+nn(days-7, 3-6)
+prep_for(lasts-2, days-7)
+dobj(use-13, days-7)
+mark(use-13, if-9)
+nsubj(use-13, I-10)
+aux(use-13, do-11)
+neg(use-13, not-12)
+dep(days-7, use-13)
+advmod(internet-16, too-14)
+advmod(internet-16, much-15)
+acomp(use-13, internet-16)
+
+=========
+
+nsubj(comes-2, It-1)
+root(ROOT-0, comes-2)
+det(recharger-8, the-4)
+nn(recharger-8, usb-5)
+nn(recharger-8, conector-6)
+nn(recharger-8, \/-7)
+prep_with(comes-2, recharger-8)
+det(screen-12, a-10)
+amod(screen-12, protective-11)
+appos(recharger-8, screen-12)
+nsubj(supply-17, Sony-14)
+aux(supply-17, should-15)
+advmod(supply-17, also-16)
+dep(screen-12, supply-17)
+poss(tablets-19, their-18)
+dobj(supply-17, tablets-19)
+prep_with(supply-17, those-21)
+nsubj(great-25, they-23)
+cop(great-25, are-24)
+dep(supply-17, great-25)
+
+=========
+
+det(bar-3, The-1)
+amod(bar-3, light-2)
+nsubj(useless-8, bar-3)
+det(bottom-6, the-5)
+prep_at(bar-3, bottom-6)
+cop(useless-8, is-7)
+root(ROOT-0, useless-8)
+poss(opinion-11, my-10)
+prep_in(useless-8, opinion-11)
+

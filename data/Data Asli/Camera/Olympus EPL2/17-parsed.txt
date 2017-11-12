@@ -1,0 +1,52 @@
+=========
+
+nn(I-2, Everything-1)
+nsubj(expected-3, I-2)
+root(ROOT-0, expected-3)
+
+=========
+
+root(ROOT-0, Shipped-1)
+det(manner-6, a-3)
+advmod(timely-5, very-4)
+amod(manner-6, timely-5)
+prep_in(Shipped-1, manner-6)
+
+=========
+
+root(ROOT-0, Works-1)
+advmod(Works-1, great-2)
+
+=========
+
+amod(low-2, New-1)
+amod(price-3, low-2)
+nsubj(wonderful-5, price-3)
+cop(wonderful-5, was-4)
+root(ROOT-0, wonderful-5)
+
+=========
+
+root(ROOT-0, Purchased-1)
+num(card-6, $-3)
+number($-3, 100-4)
+number($-3, gift-5)
+prep_with(Purchased-1, card-6)
+
+=========
+
+quantmod(ninety-2, Only-1)
+num(bucks-3, ninety-2)
+root(ROOT-0, bucks-3)
+prep_out_of(bucks-3, pocket-6)
+
+=========
+
+root(ROOT-0, Using-1)
+dobj(Using-1, it-2)
+nn(lens-8, 50mm-4)
+num(lens-8, 1.8-5)
+nn(lens-8, canon-6)
+nn(lens-8, fd-7)
+prep_with(Using-1, lens-8)
+

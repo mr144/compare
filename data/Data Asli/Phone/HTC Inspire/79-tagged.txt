@@ -1,0 +1,4 @@
+great_JJ phone_NN !_.
+nice_JJ size_NN ,_, nice_JJ picture_NN quality_NN ._. ._.
+gave_VBD it_PRP 4_CD stars_NNS because_IN it_PRP freezes_VBZ sometimes_RB and_CC i_FW have_VBP to_TO take_VB out_RP the_DT battery_NN and_CC reinsert_VB it_PRP to_TO work_VB ._.
+I_PRP love_VBP my_PRP$ phone_NN !_.

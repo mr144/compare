@@ -1,0 +1,35 @@
+=========
+
+det(zoom-2, The-1)
+nsubj(is-6, zoom-2)
+det(camera-5, this-4)
+prep_on(zoom-2, camera-5)
+root(ROOT-0, is-6)
+advmod(is-6, far-7)
+dobj(had-12, what-9)
+nsubj(had-12, I-10)
+aux(had-12, have-11)
+prepc_beyond(far-7, had-12)
+amod(cameras-15, other-14)
+prep_on(had-12, cameras-15)
+amod(lens-18, changing-17)
+prep_without(cameras-15, lens-18)
+
+=========
+
+nsubj(taking-3, It-1)
+aux(taking-3, is-2)
+root(ROOT-0, taking-3)
+iobj(taking-3, me-4)
+det(time-7, a-5)
+amod(time-7, little-6)
+dobj(taking-3, time-7)
+aux(learn-9, to-8)
+xcomp(taking-3, learn-9)
+advmod(use-13, how-10)
+aux(use-13, to-11)
+advmod(use-13, properly-12)
+ccomp(learn-9, use-13)
+xcomp(learn-9, use-13)
+dobj(use-13, it-14)
+

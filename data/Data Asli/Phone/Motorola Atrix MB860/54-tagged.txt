@@ -1,0 +1,3 @@
+Phone_NN box_NN did_VBD not_RB look_VB new_JJ ._.
+Definitely_RB not_RB sealed_VBN ._.
+Battery_NNP was_VBD not_RB sealed_VBN as_RB well_RB !!!_IN The_DT phone_NN itself_PRP is_VBZ OK_JJ ,_, and_CC that_DT 's_VBZ the_DT reason_NN I_PRP did_VBD not_RB give_VB it_PRP a_DT 1-star_JJ rating_NN ._.

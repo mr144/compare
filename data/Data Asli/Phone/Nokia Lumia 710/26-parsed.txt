@@ -1,0 +1,145 @@
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, simply-2)
+root(ROOT-0, love-3)
+dobj(love-3, Windows-4)
+num(Windows-4, 7-5)
+
+=========
+
+dep(sense-4, What-1)
+det(sense-4, an-2)
+amod(sense-4, aesthetic-3)
+dep(have-9, sense-4)
+nn(engineers-8, Nokia-5)
+conj_and(Nokia-5, Microsoft-7)
+nn(engineers-8, Microsoft-7)
+nsubj(have-9, engineers-8)
+root(ROOT-0, have-9)
+nsubj(get-13, I-11)
+advmod(get-13, just-12)
+parataxis(have-9, get-13)
+det(feel-15, the-14)
+nsubj(feeling-17, feel-15)
+dep(feeling-17, good-16)
+xcomp(get-13, feeling-17)
+advmod(soon-19, as-18)
+advmod(feeling-17, soon-19)
+mark(browse-22, as-20)
+nsubj(browse-22, I-21)
+advcl(feeling-17, browse-22)
+poss(phone-25, my-24)
+prep_through(browse-22, phone-25)
+
+=========
+
+nsubj(Juvenile-4, Android-1)
+cop(Juvenile-4, was-2)
+advmod(Juvenile-4, so-3)
+root(ROOT-0, Juvenile-4)
+
+=========
+
+nsubj(used-3, I-1)
+aux(used-3, have-2)
+root(ROOT-0, used-3)
+nn(Optimus-5, LG-4)
+nsubj(android-6, Optimus-5)
+ccomp(used-3, android-6)
+dobj(android-6, phone-7)
+advmod(loving-12, now-9)
+nsubj(loving-12, I-10)
+aux(loving-12, am-11)
+conj_and(used-3, loving-12)
+dobj(loving-12, Lumia-13)
+
+=========
+
+amod(screen-2, Touch-1)
+nsubj(amazing-5, screen-2)
+cop(amazing-5, is-3)
+advmod(amazing-5, just-4)
+root(ROOT-0, amazing-5)
+
+=========
+
+root(ROOT-0, Cons-1)
+
+=========
+
+nsubj(say-3, I-1)
+aux(say-3, would-2)
+root(ROOT-0, say-3)
+nsubj(have-7, this-4)
+aux(have-7, do-5)
+neg(have-7, not-6)
+ccomp(say-3, have-7)
+amod(kind-10, sony-8)
+nn(kind-10, walkman-9)
+dobj(have-7, kind-10)
+prep_of(kind-10, music-12)
+
+=========
+
+cc(great-5, But-1)
+advmod(great-5, still-2)
+nsubj(great-5, it-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+dep(great-5, no-7)
+dep(no-7, complains-8)
+
+=========
+
+nn(life-2, Battery-1)
+nsubj(sucks-3, life-2)
+root(ROOT-0, sucks-3)
+dep(time-7, yes-5)
+amod(time-7, big-6)
+dobj(sucks-3, time-7)
+
+=========
+
+det(file-2, Every-1)
+nsubj(needs-3, file-2)
+xsubj(transferred-6, file-2)
+ccomp(drag-14, needs-3)
+aux(transferred-6, to-4)
+auxpass(transferred-6, be-5)
+xcomp(needs-3, transferred-6)
+prep_through(transferred-6, Skydrive-8)
+prep_through(transferred-6, Zune-10)
+conj_or(Skydrive-8, Zune-10)
+nsubj(drag-14, cant-12)
+nsubj(drop-16, cant-12)
+advmod(drag-14, just-13)
+root(ROOT-0, drag-14)
+conj_and(drag-14, drop-16)
+
+=========
+
+root(ROOT-0, Limited-1)
+num(space-3, 8GB-2)
+dep(Limited-1, space-3)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, highly-3)
+root(ROOT-0, recommend-4)
+det(product-6, this-5)
+dobj(recommend-4, product-6)
+advmod(183-10, just-9)
+prep_for(give-14, 183-10)
+nsubj(give-14, $-11)
+num($-11, I-12)
+aux(give-14, would-13)
+conj_and(recommend-4, give-14)
+iobj(give-14, it-15)
+det(STAR-18, a-16)
+num(STAR-18, 4.2-17)
+dobj(give-14, STAR-18)
+prep_out_of(STAR-18, 5-21)
+

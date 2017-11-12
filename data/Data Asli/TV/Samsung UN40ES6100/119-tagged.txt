@@ -1,0 +1,5 @@
+great_JJ quality_NN ._.
+The_DT price_NN went_VBD down_RB a_DT month_NN after_IN we_PRP bought_VBD it_PRP --_: just_RB a_DT week_NN after_IN Amazon_NNP 's_POS price_NN match_NN guarantee_NN but_CC that_DT happens_VBZ with_IN electronics_NNS most_JJS times_NNS ._.
+The_DT wireless_NN in_IN the_DT TV_NN is_VBZ amazing_JJ ._.
+I_PRP use_VBP it_PRP all_PDT the_DT time_NN to_TO stream_NN movies_NNS and_CC music_NN from_IN my_PRP$ DLNA_NNP server_NN to_TO the_DT TV_NN wirelessly_RB ._.
+Works_NNP quite_RB well_RB ._.

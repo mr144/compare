@@ -1,0 +1,48 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(cellphone-4, the-3)
+dobj(like-2, cellphone-4)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(lot-4, a-3)
+dobj(has-2, lot-4)
+amod(features-7, great-6)
+prep_of(lot-4, features-7)
+
+=========
+
+cc(get-3, But-1)
+nsubj(get-3, it-2)
+root(ROOT-0, get-3)
+ccomp(get-3, slow-4)
+advmod(slow-4, sometimes-5)
+dep(thought-9, which-7)
+dobj(get-14, which-7)
+nsubj(thought-9, i-8)
+ccomp(slow-4, thought-9)
+complm(get-14, that-10)
+nsubj(get-14, it-11)
+aux(get-14, will-12)
+neg(get-14, never-13)
+ccomp(thought-9, get-14)
+det(Core-19, the-17)
+amod(Core-19, Dual-18)
+prep_because_of(get-14, Core-19)
+
+=========
+
+advmod(taking-6, Perhaps-1)
+aux(taking-6, is-2)
+det(phone-5, a-3)
+amod(phone-5, great-4)
+nsubj(taking-6, phone-5)
+root(ROOT-0, taking-6)
+prep_into(taking-6, account-8)
+det(price-10, the-9)
+dep(account-8, price-10)
+

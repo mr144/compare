@@ -1,0 +1,40 @@
+=========
+
+nsubj(smooth-3, Everything-1)
+cop(smooth-3, was-2)
+root(ROOT-0, smooth-3)
+
+=========
+
+amod(picture-2, Great-1)
+nsubj(etc-11, picture-2)
+appos(picture-2, motion-4)
+appos(picture-2, 3D-6)
+nn(tones-9, skin-8)
+appos(picture-2, tones-9)
+root(ROOT-0, etc-11)
+advmod(wonderful-13, all-12)
+acomp(etc-11, wonderful-13)
+
+=========
+
+det(negatives-2, No-1)
+root(ROOT-0, negatives-2)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(TV-7, this-6)
+prep_with(happy-4, TV-7)
+
+=========
+
+nsubj(TV-5, It-1)
+cop(TV-5, is-2)
+det(TV-5, the-3)
+amod(TV-5, best-4)
+root(ROOT-0, TV-5)
+

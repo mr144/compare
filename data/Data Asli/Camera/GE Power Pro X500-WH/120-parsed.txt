@@ -1,0 +1,103 @@
+=========
+
+nsubj(adore-3, I-1)
+advmod(adore-3, absolutely-2)
+root(ROOT-0, adore-3)
+det(camera-5, this-4)
+dobj(adore-3, camera-5)
+
+=========
+
+nsubj(gives-2, It-1)
+nsubj(simple-17, It-1)
+root(ROOT-0, gives-2)
+iobj(gives-2, you-3)
+det(effects-5, the-4)
+dobj(gives-2, effects-5)
+dobj(gives-2, style-7)
+conj_and(effects-5, style-7)
+dobj(gives-2, settings-9)
+conj_and(effects-5, settings-9)
+det(camera-13, a-11)
+amod(camera-13, DSLR-12)
+prep_of(effects-5, camera-13)
+cop(simple-17, is-15)
+advmod(simple-17, as-16)
+conj_but(gives-2, simple-17)
+aux(figure-19, to-18)
+xcomp(simple-17, figure-19)
+prt(figure-19, out-20)
+det(point-23, a-22)
+prep_as(figure-19, point-23)
+xcomp(simple-17, shoot-25)
+conj_and(figure-19, shoot-25)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(aswell-5, quality-2)
+cop(aswell-5, is-3)
+amod(aswell-5, great-4)
+root(ROOT-0, aswell-5)
+
+=========
+
+amod(part-2, Best-1)
+nsubj(is-3, part-2)
+root(ROOT-0, is-3)
+nsubj(is-5, it-4)
+ccomp(is-3, is-5)
+advmod(is-5, only-6)
+det(size-9, the-8)
+prep_about(is-5, size-9)
+det(point-12, a-11)
+prep_of(size-9, point-12)
+prep_of(size-9, shoot-14)
+conj_and(point-12, shoot-14)
+
+=========
+
+advmod(body-4, Just-1)
+det(body-4, a-2)
+amod(body-4, thicker-3)
+root(ROOT-0, body-4)
+prep_to(body-4, it-6)
+
+=========
+
+nsubj(recommened-2, Highly-1)
+root(ROOT-0, recommened-2)
+xcomp(recommened-2, buying-3)
+det(camera-5, this-4)
+dobj(buying-3, camera-5)
+
+=========
+
+nsubj(price-5, It-1)
+cop(price-5, 's-2)
+det(price-5, a-3)
+amod(price-5, small-4)
+root(ROOT-0, price-5)
+det(camera-9, a-7)
+amod(camera-9, good-8)
+prep_for(price-5, camera-9)
+
+=========
+
+advmod(thing-3, Only-1)
+amod(thing-3, bad-2)
+nsubj(manual-6, thing-3)
+cop(manual-6, is-4)
+det(manual-6, the-5)
+root(ROOT-0, manual-6)
+rcmod(manual-6, is-7)
+det(CD-10, a-9)
+prep_on(is-7, CD-10)
+
+=========
+
+nsubj(love-5, Other-1)
+prep_than(Other-1, that-3)
+root(ROOT-0, love-5)
+dobj(love-5, it-6)
+

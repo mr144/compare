@@ -1,0 +1,33 @@
+=========
+
+det(phone-2, This-1)
+nsubj(beautiful-5, phone-2)
+nsubj(easy-12, phone-2)
+xsubj(learn-14, phone-2)
+cop(beautiful-5, is-3)
+advmod(beautiful-5, so-4)
+root(ROOT-0, beautiful-5)
+amod(icons-9, intuitive-8)
+prep_with(beautiful-5, icons-9)
+advmod(easy-12, very-11)
+conj_and(beautiful-5, easy-12)
+aux(learn-14, to-13)
+xcomp(beautiful-5, learn-14)
+aux(use-16, to-15)
+xcomp(learn-14, use-16)
+
+=========
+
+cop(fast-3, Is-1)
+advmod(fast-3, so-2)
+root(ROOT-0, fast-3)
+
+=========
+
+nsubj(reference-4, Nokia-1)
+cop(reference-4, is-2)
+det(reference-4, a-3)
+root(ROOT-0, reference-4)
+nn(phones-7, cell-6)
+prep_in(reference-4, phones-7)
+

@@ -1,0 +1,56 @@
+=========
+
+det(review-4, No-1)
+amod(review-4, long-2)
+amod(review-4, technical-3)
+root(ROOT-0, review-4)
+dep(review-4, here-5)
+
+=========
+
+nsubj(compose-2, I-1)
+nsubj(shoot-4, I-1)
+root(ROOT-0, compose-2)
+conj_and(compose-2, shoot-4)
+
+=========
+
+nsubj(look-6, Pictures-1)
+nsubj(took-3, I-2)
+rcmod(Pictures-1, took-3)
+amod(weekend-5, last-4)
+dobj(took-3, weekend-5)
+root(ROOT-0, look-6)
+advmod(look-6, better-7)
+poss(samples-11, Nikon-9)
+prep_than(look-6, samples-11)
+
+=========
+
+det(camera-2, The-1)
+nsubj(performs-3, camera-2)
+nsubj(makes-6, camera-2)
+root(ROOT-0, performs-3)
+advmod(performs-3, well-4)
+conj_and(performs-3, makes-6)
+amod(pictures-8, terrific-7)
+dobj(makes-6, pictures-8)
+
+=========
+
+det(absence-2, The-1)
+nsubj(add-11, absence-2)
+det(filter-7, the-4)
+amod(filter-7, low-5)
+nn(filter-7, pass-6)
+prep_of(absence-2, filter-7)
+amod(resolution-10, enhanced-9)
+prep_of(absence-2, resolution-10)
+conj_and(filter-7, resolution-10)
+root(ROOT-0, add-11)
+prt(add-11, up-12)
+det(images-17, some-14)
+advmod(beautiful-16, stunningly-15)
+amod(images-17, beautiful-16)
+prep_to(add-11, images-17)
+

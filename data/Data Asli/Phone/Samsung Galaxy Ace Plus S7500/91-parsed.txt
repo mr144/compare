@@ -1,0 +1,80 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+poss(husband-6, my-5)
+prep_for(bought-2, husband-6)
+
+=========
+
+nsubj(phone-5, It-1)
+nsubjpass(unlocked-11, It-1)
+cop(phone-5, 's-2)
+det(phone-5, a-3)
+amod(phone-5, great-4)
+root(ROOT-0, phone-5)
+abbrev(phone-5, GT-I8160L-7)
+auxpass(unlocked-11, is-10)
+conj_and(phone-5, unlocked-11)
+prep_for(unlocked-11, Digitel-13)
+prep_for(unlocked-11, Movilnet-15)
+conj_and(Digitel-13, Movilnet-15)
+prep_for(unlocked-11, Movistar-17)
+conj_and(Digitel-13, Movistar-17)
+
+=========
+
+nsubjpass(satisfied-4, I-1)
+auxpass(satisfied-4, am-2)
+advmod(satisfied-4, very-3)
+root(ROOT-0, satisfied-4)
+det(Wireless-9, the-6)
+nn(Wireless-9, seller-7)
+nn(Wireless-9, Mango-8)
+prep_with(satisfied-4, Wireless-9)
+poss(care-13, their-11)
+amod(care-13, excellent-12)
+prep_for(Wireless-9, care-13)
+
+=========
+
+nn(para-3, Lo-1)
+nn(para-3, compr&eacute;-2)
+nsubj(mi-4, para-3)
+root(ROOT-0, mi-4)
+dobj(mi-4, esposo-5)
+
+=========
+
+nn(celular-4, Es-1)
+nn(celular-4, un-2)
+nn(celular-4, excelente-3)
+nsubj(y-8, celular-4)
+abbrev(celular-4, GT-I8160L-6)
+root(ROOT-0, y-8)
+nn(Digitel-12, est&aacute;-9)
+nn(Digitel-12, desbloqueado-10)
+nn(Digitel-12, para-11)
+dobj(y-8, Digitel-12)
+nn(Venezuela-18, Movilnet-14)
+nn(Venezuela-18, y-15)
+nn(Venezuela-18, Movistar-16)
+nn(Venezuela-18, en-17)
+appos(Digitel-12, Venezuela-18)
+
+=========
+
+advmod(muy-2, Estoy-1)
+amod(Wireless-8, muy-2)
+nn(Wireless-8, satisfecha-3)
+nn(Wireless-8, con-4)
+nn(Wireless-8, el-5)
+nn(Wireless-8, vendedor-6)
+nn(Wireless-8, Mango-7)
+nsubj(por-9, Wireless-8)
+root(ROOT-0, por-9)
+amod(atenci&oacute;n-12, su-10)
+nn(atenci&oacute;n-12, excelente-11)
+dobj(por-9, atenci&oacute;n-12)
+

@@ -1,0 +1,25 @@
+=========
+
+advmod(match-7, First-1)
+prep_of(First-1, all-3)
+nsubj(match-7, it-4)
+aux(match-7, was-5)
+neg(match-7, not-6)
+root(ROOT-0, match-7)
+dobj(says-10, what-8)
+nsubj(says-10, its-9)
+ccomp(match-7, says-10)
+prep_on(says-10, website-12)
+
+=========
+
+nsubjpass(broken-4, It-1)
+auxpass(broken-4, was-2)
+advmod(broken-4, internally-3)
+root(ROOT-0, broken-4)
+dobj(broken-4, phone-5)
+nsubj(unlock-10, it-7)
+cop(unlock-10, was-8)
+neg(unlock-10, not-9)
+conj_and(broken-4, unlock-10)
+

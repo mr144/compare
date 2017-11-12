@@ -1,0 +1,38 @@
+=========
+
+root(ROOT-0, Great-1)
+dep(Great-1, item-2)
+dep(Great-1, price-4)
+conj_and(item-2, price-4)
+
+=========
+
+root(ROOT-0, Love-1)
+det(zoom-4, the-2)
+amod(zoom-4, powerful-3)
+dobj(Love-1, zoom-4)
+
+=========
+
+nsubj(zoomed-7, Camera-1)
+aux(zoomed-7, had-2)
+det(past-5, the-4)
+prep_in(zoomed-7, past-5)
+advmod(zoomed-7, only-6)
+root(ROOT-0, zoomed-7)
+prep(zoomed-7, in-8)
+pcomp(in-8, to-9)
+dep(4-11, a-10)
+prep_to(in-8, 4-11)
+prep_to(in-8, 5X-13)
+conj_or(4-11, 5X-13)
+
+=========
+
+det(one-3, This-1)
+amod(one-3, new-2)
+nsubj(!!-6, one-3)
+cop(!!-6, is-4)
+num(!!-6, 15-5)
+root(ROOT-0, !!-6)
+

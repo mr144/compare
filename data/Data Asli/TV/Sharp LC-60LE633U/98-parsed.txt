@@ -1,0 +1,69 @@
+=========
+
+root(ROOT-0, AWESOME-1)
+
+=========
+
+det(tv-2, this-1)
+nsubj(has-3, tv-2)
+root(ROOT-0, has-3)
+nsubj(all-5, it-4)
+xcomp(has-3, all-5)
+det(picture-8, the-7)
+nsubj(unbelievable-10, picture-8)
+cop(unbelievable-10, is-9)
+conj_and(has-3, unbelievable-10)
+
+=========
+
+advmod(looks-6, Even-1)
+num(mode-4, 2D-3)
+prep_in(looks-6, mode-4)
+nsubj(looks-6, it-5)
+root(ROOT-0, looks-6)
+quantmod(3D-8, almost-7)
+dobj(looks-6, 3D-8)
+advmod(clear-11, so-10)
+amod(3D-8, clear-11)
+amod(3D-8, bright-13)
+conj_and(clear-11, bright-13)
+
+=========
+
+nsubj(read-2, I-1)
+root(ROOT-0, read-2)
+amod(reviews-4, many-3)
+dobj(read-2, reviews-4)
+amod(sources-7, several-6)
+prep_from(read-2, sources-7)
+prepc_before(read-2, ordering-9)
+det(tv-11, this-10)
+dobj(ordering-9, tv-11)
+nsubj(see-15, I-14)
+conj_but(read-2, see-15)
+advmod(see-15, now-16)
+complm(waste-20, that-17)
+cop(waste-20, was-18)
+det(waste-20, a-19)
+ccomp(see-15, waste-20)
+prep_of(waste-20, time-22)
+mark(investment-28, as-23)
+nsubj(investment-28, it-24)
+cop(investment-28, was-25)
+det(investment-28, a-26)
+amod(investment-28, great-27)
+advcl(waste-20, investment-28)
+
+=========
+
+nsubjpass(disappointed-5, You-1)
+aux(disappointed-5, will-2)
+neg(disappointed-5, not-3)
+auxpass(disappointed-5, be-4)
+root(ROOT-0, disappointed-5)
+mark(buy-8, if-6)
+nsubj(buy-8, you-7)
+advcl(disappointed-5, buy-8)
+det(tv-10, this-9)
+dobj(buy-8, tv-10)
+

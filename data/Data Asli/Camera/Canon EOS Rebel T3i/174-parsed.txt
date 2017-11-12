@@ -1,0 +1,43 @@
+=========
+
+nsubj(seems-2, It-1)
+xsubj(camera-8, It-1)
+root(ROOT-0, seems-2)
+aux(camera-8, to-3)
+cop(camera-8, be-4)
+det(camera-8, a-5)
+advmod(fine-7, very-6)
+amod(camera-8, fine-7)
+xcomp(seems-2, camera-8)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(curve-6, a-3)
+amod(curve-6, steep-4)
+nn(curve-6, learning-5)
+dobj(has-2, curve-6)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+prep_to(recommend-3, anyone-6)
+partmod(anyone-6, interested-7)
+det(camera-13, a-9)
+amod(camera-13, good-10)
+nn(camera-13, entry-11)
+nn(camera-13, level-12)
+prep_in(interested-7, camera-13)
+xsubj(put-16, camera-13)
+partmod(camera-13, prepared-14)
+aux(put-16, to-15)
+xcomp(prepared-14, put-16)
+det(time-19, some-18)
+prep_in(put-16, time-19)
+partmod(time-19, learning-20)
+dobj(learning-20, it-21)
+

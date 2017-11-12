@@ -1,0 +1,54 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+aux(used-7, to-5)
+auxpass(used-7, be-6)
+infmod(phone-4, used-7)
+prep_in(used-7, Peru-9)
+
+=========
+
+nsubj(able-3, I-1)
+cop(able-3, was-2)
+root(ROOT-0, able-3)
+aux(install-5, to-4)
+xcomp(able-3, install-5)
+det(card-9, a-6)
+amod(card-9, local-7)
+nn(card-9, sim-8)
+dobj(install-5, card-9)
+aux(make-11, to-10)
+xcomp(install-5, make-11)
+nn(calls-13, phone-12)
+dobj(make-11, calls-13)
+det(case-18, any-17)
+prep_in(worked-20, case-18)
+nsubj(worked-20, wifi-19)
+conj_and(able-3, worked-20)
+advmod(fine-22, perfectly-21)
+acomp(worked-20, fine-22)
+nn(card-25, SIM-24)
+prep_without(worked-20, card-25)
+
+=========
+
+nsubjpass(unlock-3, It-1)
+nsubjpass(arrived-5, It-1)
+auxpass(unlock-3, was-2)
+cop(unlock-3, was-2)
+root(ROOT-0, unlock-3)
+conj_and(unlock-3, arrived-5)
+amod(box-8, original-7)
+prep_in(arrived-5, box-8)
+dep(new-11, brand-10)
+acomp(unlock-3, new-11)
+
+=========
+
+advmod(happy-2, Very-1)
+root(ROOT-0, happy-2)
+prep_with(happy-2, phone-4)
+

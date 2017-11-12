@@ -1,0 +1,5 @@
+TV_NNP Works_NNP great_JJ ._.
+The_DT color_NN is_VBZ great_JJ ._.
+The_DT picture_NN is_VBZ so_RB clear_JJ it_PRP looks_VBZ sorta_JJ 3D_NNP ._.
+Easy_NNP to_TO install_VB and_CC use_VB too_RB !_.
+If_IN definitely_RB recommend_VB it_PRP !_.

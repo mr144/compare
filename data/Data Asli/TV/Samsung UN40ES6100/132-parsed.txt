@@ -1,0 +1,39 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(fact-4, the-3)
+dobj(like-2, fact-4)
+nsubj(tv\/computer-8, fact-4)
+cop(tv\/computer-8, is-6)
+det(tv\/computer-8, a-7)
+rcmod(fact-4, tv\/computer-8)
+
+=========
+
+nsubj(amazing-3, apps-1)
+cop(amazing-3, are-2)
+root(ROOT-0, amazing-3)
+det(quality-7, the-5)
+amod(quality-7, video-6)
+nsubj(great-9, quality-7)
+cop(great-9, is-8)
+conj_and(amazing-3, great-9)
+
+=========
+
+nsubj(hate-2, I-1)
+dep(does-9, hate-2)
+det(control-4, the-3)
+dobj(hate-2, control-4)
+det(sound-7, the-6)
+dobj(hate-2, sound-7)
+conj_and(control-4, sound-7)
+nsubj(does-9, it-8)
+root(ROOT-0, does-9)
+det(time-11, every-10)
+dobj(does-9, time-11)
+nsubj(press-13, you-12)
+rcmod(time-11, press-13)
+dobj(press-13, it-14)
+

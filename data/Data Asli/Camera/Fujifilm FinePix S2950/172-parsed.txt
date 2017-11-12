@@ -1,0 +1,163 @@
+=========
+
+advmod(given-6, first-1)
+dep(first-1, off-2)
+nsubj(given-6, I-3)
+aux(given-6, would-4)
+aux(given-6, have-5)
+root(ROOT-0, given-6)
+iobj(given-6, this-7)
+det(star-10, a-8)
+num(star-10, 5-9)
+dobj(given-6, star-10)
+mark(secure-17, except-11)
+det(cap-14, the-12)
+nn(cap-14, lens-13)
+nsubj(secure-17, cap-14)
+cop(secure-17, is-15)
+neg(secure-17, not-16)
+dep(star-10, secure-17)
+
+=========
+
+advmod(toss-9, When-1)
+prepc_out(toss-9, traveling-3)
+det(kids-7, the-6)
+prep_with(toss-9', kids-7)
+nsubj(toss-9, I-8)
+nsubj(toss-9', I-8)
+conj_or(toss-9, toss-9')
+advcl(go-18, toss-9)
+advcl(go-18, toss-9')
+det(camera-11, the-10)
+dobj(toss-9, camera-11)
+det(bag-14, the-13)
+prep_in(camera-11, bag-14)
+prep_in(camera-11, off-16)
+advmod(bag-14, off-16)
+conj_and(bag-14, off-16)
+nsubj(go-18, we-17)
+root(ROOT-0, go-18)
+
+=========
+
+nsubj(hunted-4, I-1)
+aux(hunted-4, have-2)
+neg(hunted-4, not-3)
+root(ROOT-0, hunted-4)
+prt(hunted-4, down-5)
+det(solution-8, a-6)
+amod(solution-8, possible-7)
+dobj(hunted-4, solution-8)
+prep_for(solution-8, this-10)
+dep(happening-12, annoying-11)
+amod(this-10, happening-12)
+
+=========
+
+nsubj(know-2, I-1)
+root(ROOT-0, know-2)
+nsubj(complained-8, some-3)
+det(reviews-7, the-5)
+amod(reviews-7, other-6)
+prep_of(some-3, reviews-7)
+ccomp(know-2, complained-8)
+prep_about(complained-8, this-10)
+advmod(complained-8, too-11)
+
+=========
+
+nsubj(correct-3, they-1)
+cop(correct-3, were-2)
+root(ROOT-0, correct-3)
+
+=========
+
+advmod(great-9, Otherwise-1)
+det(camera-5, a-3)
+nn(camera-5, family-4)
+prep_as(great-9, camera-5)
+nsubj(great-9, it-7)
+cop(great-9, is-8)
+root(ROOT-0, great-9)
+
+=========
+
+nsubj(great-6, videos-1)
+nn(quality-4, picture-3)
+conj_and(videos-1, quality-4)
+nsubj(great-6, quality-4)
+cop(great-6, are-5)
+root(ROOT-0, great-6)
+amod(use-9, everyday-8)
+prep_for(great-6, use-9)
+
+=========
+
+det(camera-2, the-1)
+nsubj(bulkier-5, camera-2)
+cop(bulkier-5, is-3)
+amod(bulkier-5, slight-4)
+root(ROOT-0, bulkier-5)
+advmod(bulkier-5, then-6)
+det(point-10, the-7)
+amod(point-10, other-8)
+amod(point-10, slim-9)
+attr(bulkier-5, point-10)
+attr(bulkier-5, shoots-12)
+conj_and(point-10, shoots-12)
+det(quality-15, the-14)
+nsubj(worth-17, quality-15)
+cop(worth-17, is-16)
+conj_but(bulkier-5, worth-17)
+dep(worth-17, it-18)
+
+=========
+
+nsubj(afford-4, I-1)
+nsubj(wanted-8, I-1)
+aux(afford-4, can-2)
+neg(afford-4, not-3)
+root(ROOT-0, afford-4)
+det(SLR-6, an-5)
+dobj(afford-4, SLR-6)
+conj_and(afford-4, wanted-8)
+dobj(wanted-8, something-9)
+prep(wanted-8, better-10)
+advmod(better-10, then-11)
+det(camera-15, a-12)
+nn(camera-15, pocket-13)
+nn(camera-15, size-14)
+pobj(better-10, camera-15)
+
+=========
+
+nsubj(ground-5, This-1)
+cop(ground-5, is-2)
+amod(ground-5, wonderful-3)
+amod(ground-5, middle-4)
+root(ROOT-0, ground-5)
+det(photographer-9, a-7)
+nn(photographer-9, novice-8)
+prep_for(ground-5, photographer-9)
+
+=========
+
+det(options-3, the-1)
+amod(options-3, manual-2)
+nsubj(more-5, options-3)
+cop(more-5, are-4)
+root(ROOT-0, more-5)
+advmod(use-10, then-6)
+nsubj(use-10, I-7)
+aux(use-10, will-8)
+advmod(use-10, ever-9)
+dep(more-5, use-10)
+det(setting-14, the-12)
+nn(setting-14, auto-13)
+nsubj(right-16, setting-14)
+cop(right-16, are-15)
+dep(more-5, right-16)
+conj_and(use-10, right-16)
+prep(more-5, on-17)
+

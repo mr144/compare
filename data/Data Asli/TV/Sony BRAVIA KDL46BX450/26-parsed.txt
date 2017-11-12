@@ -1,0 +1,66 @@
+=========
+
+nn(TV-2, Great-1)
+root(ROOT-0, TV-2)
+det(colors-5, the-4)
+nsubj(brilliant-8, colors-5)
+cop(brilliant-8, are-6)
+advmod(brilliant-8, all-7)
+dep(TV-2, brilliant-8)
+det(setup-11, the-10)
+nsubj(easy-14, setup-11)
+xsubj(do-16, setup-11)
+cop(easy-14, is-12)
+advmod(easy-14, so-13)
+dep(TV-2, easy-14)
+conj_and(brilliant-8, easy-14)
+aux(do-16, to-15)
+xcomp(easy-14, do-16)
+
+=========
+
+nsubj(Bravia-6, This-1)
+nsubj(buy-16, This-1)
+cop(Bravia-6, is-2)
+poss(Bravia-6, my-3)
+num(Bravia-6, 3-4)
+amod(Bravia-6, third-5)
+root(ROOT-0, Bravia-6)
+dep(Bravia-6, bought-8)
+predet(rooms-12, all-10)
+det(rooms-12, the-11)
+prep_for(bought-8, rooms-12)
+aux(buy-16, would-15)
+conj_and(Bravia-6, buy-16)
+advmod(buy-16, again-17)
+
+=========
+
+nsubj(does-7, Watch-1)
+nsubj(worth-14, Watch-1)
+prep_for(Watch-1, sales-3)
+det(Bravia-6, the-5)
+prep_as(sales-3, Bravia-6)
+root(ROOT-0, does-7)
+dobj(does-7, cost-8)
+det(little-10, a-9)
+npadvmod(more-11, little-10)
+amod(cost-8, more-11)
+cop(worth-14, is-13)
+conj_but(does-7, worth-14)
+dep(worth-14, it-15)
+
+=========
+
+aux(had-2, Have-1)
+root(ROOT-0, had-2)
+dobj(had-2, one-3)
+det(TVs-6, the-5)
+prep_of(one-3, TVs-6)
+num(years-9, 5-8)
+prep_for(TVs-6, years-9)
+advmod(years-9, now-10)
+advmod(going-13, still-12)
+conj_and(had-2, going-13)
+acomp(going-13, strong-14)
+

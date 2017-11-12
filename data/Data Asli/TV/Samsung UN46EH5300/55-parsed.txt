@@ -1,0 +1,59 @@
+=========
+
+root(ROOT-0, Love-1)
+det(set-3, the-2)
+dobj(Love-1, set-3)
+
+=========
+
+nsubj(right-3, Price-1)
+nsubj(easy-5, Price-1)
+cop(right-3, was-2)
+root(ROOT-0, right-3)
+conj_and(right-3, easy-5)
+prep_to(right-3, setup-7)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+dobj(picture-2, quality-3)
+
+=========
+
+nsubj(said-4, Specs-1)
+prep_on(Specs-1, Amazon-3)
+root(ROOT-0, said-4)
+dobj(said-4, 60mhz-5)
+det(set-8, the-7)
+nsubj(120mhz-11, set-8)
+cop(120mhz-11, was-9)
+advmod(120mhz-11, actually-10)
+conj_but(said-4, 120mhz-11)
+nsubj(better-15, 120mhz-11)
+cop(better-15, is-13)
+advmod(better-15, even-14)
+rcmod(120mhz-11, better-15)
+prep_than(better-15, sony-17)
+prep_than(better-15, sharp-19)
+conj_or(sony-17, sharp-19)
+
+=========
+
+mark(have-3, If-1)
+nsubj(have-3, you-2)
+advcl(go-14, have-3)
+det(need\/space-5, a-4)
+dobj(have-3, need\/space-5)
+det(set-10, a-7)
+number(&#34;-9, 32-8)
+num(set-10, &#34;-9)
+prep_for(need\/space-5, set-10)
+nsubj(go-14, you-11)
+aux(go-14, can-12)
+neg(go-14, not-13)
+root(ROOT-0, go-14)
+acomp(go-14, wrong-15)
+det(one-18, this-17)
+prep_with(go-14, one-18)
+

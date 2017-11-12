@@ -1,0 +1,65 @@
+=========
+
+nsubj(works-2, Tv-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+
+=========
+
+nsubj(had-4, I-1)
+aux(had-4, have-2)
+advmod(had-4, only-3)
+root(ROOT-0, had-4)
+dobj(had-4, it-5)
+det(weeks-9, a-7)
+nn(weeks-9, couple-8)
+prep_for(had-4, weeks-9)
+det(setup-12, the-11)
+nsubj(easy-15, setup-12)
+cop(easy-15, was-13)
+advmod(easy-15, real-14)
+conj_but(had-4, easy-15)
+
+=========
+
+det(player-3, The-1)
+nn(player-3, dvd-2)
+nsubj(simple-6, player-3)
+xsubj(use-8, player-3)
+cop(simple-6, is-4)
+advmod(simple-6, real-5)
+root(ROOT-0, simple-6)
+aux(use-8, to-7)
+xcomp(simple-6, use-8)
+det(color-11, the-10)
+nsubj(right-16, color-11)
+conj_and(color-11, sound-13)
+nsubj(right-16, sound-13)
+cop(right-16, are-14)
+advmod(right-16, just-15)
+conj_and(simple-6, right-16)
+
+=========
+
+det(tv-2, This-1)
+nsubj(is-3, tv-2)
+root(ROOT-0, is-3)
+det(bedroom-7, a-5)
+amod(bedroom-7, spare-6)
+prep_for(is-3, bedroom-7)
+nsubj(works-10, it-9)
+conj_and(is-3, works-10)
+advmod(fine-12, perfectly-11)
+acomp(works-10, fine-12)
+
+=========
+
+det(complaints-2, No-1)
+dep(far-4, complaints-2)
+advmod(far-4, so-3)
+root(ROOT-0, far-4)
+advmod(happy-7, pretty-6)
+conj_and(far-4, happy-7)
+poss(purchase-10, my-9)
+prep_with(happy-7, purchase-10)
+

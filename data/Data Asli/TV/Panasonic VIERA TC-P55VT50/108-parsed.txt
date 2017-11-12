@@ -1,0 +1,134 @@
+=========
+
+nsubj(time-5, This-1)
+cop(time-5, is-2)
+det(time-5, the-3)
+amod(time-5, first-4)
+root(ROOT-0, time-5)
+poss(years-9, my-7)
+num(years-9, 35-8)
+prep_in(time-5, years-9)
+complm(guessed-15, that-10)
+nsubj(guessed-15, I-11)
+aux(guessed-15, have-12)
+neg(guessed-15, not-13)
+dobj(guessed-15, second-14)
+ccomp(time-5, guessed-15)
+det(money-17, the-16)
+nsubj(spent-18, money-17)
+dep(guessed-15, spent-18)
+det(purchase-22, a-20)
+amod(purchase-22, significant-21)
+prep_on(spent-18, purchase-22)
+
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, the-3)
+amod(TV-5, best-4)
+root(ROOT-0, TV-5)
+dobj(owned-9, TV-5)
+nsubj(owned-9, I-6)
+aux(owned-9, have-7)
+advmod(owned-9, ever-8)
+rcmod(TV-5, owned-9)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(fantastic-9, quality-3)
+det(box-7, the-6)
+prep_out_of(quality-3, box-7)
+cop(fantastic-9, is-8)
+root(ROOT-0, fantastic-9)
+
+=========
+
+mark(calibrated-3, Once-1)
+nsubj(calibrated-3, I-2)
+advcl(better-9, calibrated-3)
+dobj(calibrated-3, it-4)
+nsubj(better-9, it-6)
+cop(better-9, is-7)
+advmod(better-9, even-8)
+root(ROOT-0, better-9)
+
+=========
+
+nn(cables-2, HDMI-1)
+nsubj(a-4, cables-2)
+cop(a-4, are-3)
+root(ROOT-0, a-4)
+dep(a-4, must-5)
+
+=========
+
+amod(picture-2, BluRay-1)
+nsubj(clear-5, picture-2)
+cop(clear-5, is-3)
+advmod(clear-5, crystal-4)
+root(ROOT-0, clear-5)
+
+=========
+
+nsubj(chose-2, I-1)
+root(ROOT-0, chose-2)
+det(plasma-4, a-3)
+dobj(chose-2, plasma-4)
+mark(gamer-9, because-5)
+nsubj(gamer-9, I-6)
+cop(gamer-9, am-7)
+det(gamer-9, a-8)
+advcl(chose-2, gamer-9)
+advmod(disappointed-16, again-12)
+nsubj(disappointed-16, I-13)
+cop(disappointed-16, am-14)
+neg(disappointed-16, not-15)
+conj_and(chose-2, disappointed-16)
+
+=========
+
+dep(scrolling-2, No-1)
+root(ROOT-0, scrolling-2)
+dobj(scrolling-2, issues-3)
+dobj(scrolling-2, slowdown-5)
+conj_or(issues-3, slowdown-5)
+
+=========
+
+nsubj(annoying-5, Advertisements-1)
+partmod(Advertisements-1, built-2)
+prep(built-2, in-3)
+cop(annoying-5, are-4)
+root(ROOT-0, annoying-5)
+prep(annoying-5, at-6)
+pcomp(at-6, first-7)
+nsubjpass(disabled-12, they-9)
+aux(disabled-12, can-10)
+auxpass(disabled-12, be-11)
+conj_but(annoying-5, disabled-12)
+nsubj(have-17, you-14)
+xsubj(deal-19, you-14)
+aux(have-17, 'll-15)
+neg(have-17, never-16)
+conj_and(annoying-5, have-17)
+aux(deal-19, to-18)
+xcomp(have-17, deal-19)
+prep_with(deal-19, them-21)
+advmod(deal-19, again-22)
+
+=========
+
+root(ROOT-0, Netflix-1)
+acomp(Netflix-1, ready-2)
+nsubj(works-6, it-5)
+conj_and(Netflix-1, works-6)
+det(dream-9, a-8)
+prep_like(works-6, dream-9)
+
+=========
+
+root(ROOT-0, Enjoy-1)
+

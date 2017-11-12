@@ -1,0 +1,4 @@
+Worked_VBD as_IN expected_VBN !_.
+Set_NNP up_RB was_VBD easy_JJ and_CC running_VBG in_IN less_JJR that_IN one_CD half_NN hour_NN ._.
+Great_JJ !_.
+Samsung_NNP products_NNS meet_VBP expectations_NNS ._.

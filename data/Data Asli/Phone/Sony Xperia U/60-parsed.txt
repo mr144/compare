@@ -1,0 +1,70 @@
+=========
+
+num(months-3, 2-2)
+prep_after(starts-8, months-3)
+det(phone-7, this-5)
+nn(phone-7, cell-6)
+nsubj(starts-8, phone-7)
+xsubj(go-10, phone-7)
+root(ROOT-0, starts-8)
+aux(go-10, to-9)
+xcomp(starts-8, go-10)
+acomp(go-10, crazy-11)
+
+=========
+
+mark(not-3, If-1)
+nsubj(not-3, your-2)
+advcl(calls-27, not-3)
+xcomp(not-3, using-4)
+dobj(using-4, it-5)
+nn(hour-8, aan-7)
+prep_in(using-4, hour-8)
+prep_in(using-4, two-10)
+conj_or(hour-8, two-10)
+det(signal-13, no-12)
+nsubj(calls-27, signal-13)
+dep(calls-27, meaning-15)
+nsubj(receive-19, you-16)
+aux(receive-19, can-17)
+neg(receive-19, not-18)
+ccomp(meaning-15, receive-19)
+dobj(receive-19, calls-20)
+dobj(receive-19, text-22)
+conj_or(calls-20, text-22)
+dep(out-25, no-24)
+advmod(going-26, out-25)
+conj_and(meaning-15, going-26)
+dep(calls-27, going-26)
+root(ROOT-0, calls-27)
+
+=========
+
+advmod(to-5, So-1)
+nsubj(to-5, you-3)
+aux(to-5, have-4)
+root(ROOT-0, to-5)
+dep(to-5, off-6)
+conj_and(to-5, on-8)
+det(phone-11, the-9)
+nn(phone-11, godamn-10)
+pobj(on-8, phone-11)
+
+=========
+
+dep(waste-3, What-1)
+det(waste-3, a-2)
+root(ROOT-0, waste-3)
+
+=========
+
+advmod(switch-4, Now-1)
+nsubj(switch-4, i-3)
+root(ROOT-0, switch-4)
+advmod(switch-4, again-5)
+poss(phone-11, my-7)
+num(yrs-9, 3-8)
+npadvmod(old-10, yrs-9)
+amod(phone-11, old-10)
+prep_to(switch-4, phone-11)
+

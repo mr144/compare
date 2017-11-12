@@ -1,0 +1,78 @@
+=========
+
+det(equipment-2, The-1)
+nsubj(arrived-3, equipment-2)
+nsubj(arrived-3', equipment-2)
+root(ROOT-0, arrived-3)
+conj_and(arrived-3, arrived-3')
+prep_on(arrived-3, time-5)
+amod(condition-9, good-8)
+prep_in(arrived-3', condition-9)
+
+=========
+
+nsubj(present-6, All-1)
+det(parts-4, the-3)
+prep_of(All-1, parts-4)
+cop(present-6, were-5)
+root(ROOT-0, present-6)
+
+=========
+
+det(set-2, The-1)
+nsubj(performing-4, set-2)
+aux(performing-4, is-3)
+root(ROOT-0, performing-4)
+advmod(well-6, very-5)
+advmod(performing-4, well-6)
+det(show-14, the-9)
+nn(show-14, Super-10)
+nn(show-14, Bowl-11)
+nn(show-14, Half-12)
+nn(show-14, time-13)
+prep_despite(performing-4, show-14)
+
+=========
+
+aux(had-3, Have-1)
+neg(had-3, not-2)
+root(ROOT-0, had-3)
+det(oppertuninty-5, an-4)
+dobj(had-3, oppertuninty-5)
+aux(use-7, to-6)
+xcomp(had-3, use-7)
+det(feature-10, the-8)
+num(feature-10, 3D-9)
+dobj(use-7, feature-10)
+advmod(yet-12, as-11)
+advmod(use-7, yet-12)
+
+=========
+
+nsubj(expect-2, BUt-1)
+root(ROOT-0, expect-2)
+nsubj(do-5, it-3)
+aux(do-5, to-4)
+xcomp(expect-2, do-5)
+advmod(do-5, well-6)
+
+=========
+
+det(apps-3, The-1)
+nn(apps-3, internet-2)
+nsubj(run-4, apps-3)
+ccomp(running-9, run-4)
+advmod(run-4, well-5)
+nsubj(running-9, I-7)
+nsubj(used-15, I-7)
+aux(running-9, am-8)
+root(ROOT-0, running-9)
+amod(wire-11, hard-10)
+dobj(running-9, wire-11)
+aux(used-15, have-13)
+neg(used-15, not-14)
+conj_and(running-9, used-15)
+det(function-18, the-16)
+amod(function-18, wireless-17)
+dobj(used-15, function-18)
+

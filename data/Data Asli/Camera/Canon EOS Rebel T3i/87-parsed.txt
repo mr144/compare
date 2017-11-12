@@ -1,0 +1,48 @@
+=========
+
+nsubj(camera-5, It-1)
+cop(camera-5, 's-2)
+det(camera-5, a-3)
+amod(camera-5, good-4)
+root(ROOT-0, camera-5)
+prep_for(camera-5, begginers-7)
+
+=========
+
+det(problem-2, The-1)
+nsubj(is-3, problem-2)
+root(ROOT-0, is-3)
+complm(have-7, that-4)
+det(camera-6, the-5)
+nsubj(have-7, camera-6)
+ccomp(is-3, have-7)
+det(pixel-10, a-8)
+amod(pixel-10, dead-9)
+dobj(have-7, pixel-10)
+
+=========
+
+cc(ok-7, But-1)
+predet(others-4, all-2)
+det(others-4, the-3)
+nsubj(ok-7, others-4)
+dep(others-4, things-5)
+cop(ok-7, are-6)
+root(ROOT-0, ok-7)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, kodak-6)
+prep_than(better-4, pentax-8)
+conj_or(kodak-6, pentax-8)
+prep_than(better-4, fujifilm-10)
+conj_or(kodak-6, fujifilm-10)
+prep_than(better-4, GE-12)
+conj_or(kodak-6, GE-12)
+prep_than(better-4, coolpix-14)
+conj_or(kodak-6, coolpix-14)
+

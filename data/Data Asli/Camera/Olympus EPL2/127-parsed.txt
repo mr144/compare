@@ -1,0 +1,237 @@
+=========
+
+det(thing-4, The-1)
+advmod(thing-4, very-2)
+amod(thing-4, first-3)
+dobj(want-7, thing-4)
+nsubj(throw-16, thing-4)
+nsubj(want-7, you-5)
+xsubj(do-9, you-5)
+aux(want-7, will-6)
+rcmod(thing-4, want-7)
+aux(do-9, to-8)
+xcomp(want-7, do-9)
+prepc_upon(do-9, setting-11)
+prt(setting-11, up-12)
+det(camera-14, the-13)
+dobj(setting-11, camera-14)
+aux(throw-16, is-15)
+root(ROOT-0, throw-16)
+prt(throw-16, away-17)
+det(strap-20, the-18)
+amod(strap-20, included-19)
+dobj(throw-16, strap-20)
+
+=========
+
+nsubj(going-4, You-1)
+xsubj(get-6, You-1)
+aux(going-4, are-2)
+neg(going-4, never-3)
+root(ROOT-0, going-4)
+aux(get-6, to-5)
+xcomp(going-4, get-6)
+nsubj(attached-8, it-7)
+dep(get-6, attached-8)
+det(camera-11, the-10)
+prep_to(attached-8, camera-11)
+
+=========
+
+mark(have-3, If-1)
+nsubj(have-3, you-2)
+advcl(deadly-12, have-3)
+amod(pressure-6, high-4)
+nn(pressure-6, blood-5)
+dobj(have-3, pressure-6)
+det(attempt-9, the-8)
+nsubj(deadly-12, attempt-9)
+aux(deadly-12, could-10)
+cop(deadly-12, be-11)
+root(ROOT-0, deadly-12)
+
+=========
+
+nsubj(got-3, I-1)
+advmod(got-3, just-2)
+root(ROOT-0, got-3)
+prt(got-3, back-4)
+det(safari-7, a-6)
+prep_from(got-3, safari-7)
+prep_in(safari-7, Africa-9)
+det(epl2-12, the-11)
+prep_with(got-3, epl2-12)
+
+=========
+
+poss(results-2, My-1)
+nsubj(spotty-4, results-2)
+cop(spotty-4, were-3)
+root(ROOT-0, spotty-4)
+det(lack-8, the-7)
+prep_owing_to(spotty-4, lack-8)
+det(viewfinder-11, a-10)
+prep_of(lack-8, viewfinder-11)
+
+=========
+
+det(camera-2, The-1)
+nsubj(useless-5, camera-2)
+cop(useless-5, is-3)
+advmod(useless-5, largely-4)
+root(ROOT-0, useless-5)
+prep_without(useless-5, one-7)
+
+=========
+
+advmod(sunlight-4, even-2)
+amod(sunlight-4, moderate-3)
+prep_in(see-8, sunlight-4)
+nsubj(see-8, you-5)
+aux(see-8, can-6)
+neg(see-8, not-7)
+root(ROOT-0, see-8)
+det(screen-10, the-9)
+dobj(see-8, screen-10)
+
+=========
+
+nn(glassesyou-2, Without-1)
+nsubj(out-5, glassesyou-2)
+cop(out-5, are-3)
+advmod(out-5, completely-4)
+root(ROOT-0, out-5)
+prep_of(out-5, luck-7)
+
+=========
+
+expl(hint-8, There-1)
+aux(hint-8, will-2)
+cop(hint-8, be-3)
+det(hint-8, no-4)
+amod(hint-8, composing-5)
+conj_and(composing-5, little-7)
+amod(hint-8, little-7)
+root(ROOT-0, hint-8)
+det(shot-12, the-10)
+amod(shot-12, final-11)
+prep_of(hint-8, shot-12)
+mark(get-15, until-13)
+nsubj(get-15, you-14)
+advcl(hint-8, get-15)
+amod(shade-17, intothe-16)
+dobj(get-15, shade-17)
+poss(glasses-20, your-19)
+prep_with(shade-17, glasses-20)
+prt(get-15, on-21)
+
+=========
+
+dobj(do-4, All-1)
+nsubj(camera-8, All-1)
+nsubj(do-4, you-2)
+aux(do-4, can-3)
+rcmod(All-1, do-4)
+cop(camera-8, is-5)
+advmod(camera-8, point-6)
+det(camera-8, the-7)
+root(ROOT-0, camera-8)
+det(direction-12, the-10)
+amod(direction-12, general-11)
+prep_in(camera-8, direction-12)
+prep_in(camera-8, hope-14)
+conj_and(direction-12, hope-14)
+det(best-17, the-16)
+prep_for(direction-12, best-17)
+
+=========
+
+det(viewfinder-2, The-1)
+nsubj($-4, viewfinder-2)
+cop($-4, is-3)
+root(ROOT-0, $-4)
+number($-4, 240-5)
+number($-4, bucks-6)
+
+=========
+
+root(ROOT-0, Put-1)
+dobj(Put-1, that-2)
+det(decision-6, the-4)
+nn(decision-6, purchase-5)
+prep_into(Put-1, decision-6)
+
+=========
+
+nsubj(convinced-5, I-1)
+aux(convinced-5, am-2)
+advmod(convinced-5, also-3)
+neg(convinced-5, not-4)
+root(ROOT-0, convinced-5)
+dep(use-10, that-6)
+nsubj(use-10, I-7)
+aux(use-10, would-8)
+advmod(use-10, ever-9)
+ccomp(convinced-5, use-10)
+dobj(use-10, any-11)
+det(settings-18, the-13)
+amod(settings-18, various-14)
+nn(settings-18, art-16)
+prep_of(any-11, settings-18)
+mark(do-21, as-19)
+nsubj(do-21, I-20)
+dep(settings-18, do-21)
+nsubj(quickerand-28, all-22)
+det(sort-25, that-24)
+prep_of(all-22, sort-25)
+prep_of(sort-25, thing-27)
+ccomp(do-21, quickerand-28)
+advmod(quickerand-28, better-29)
+poss(computer-32, my-31)
+prep_on(quickerand-28, computer-32)
+
+=========
+
+nsubj(trade-3, I-1)
+aux(trade-3, would-2)
+root(ROOT-0, trade-3)
+dep(bells-6, all-4)
+det(bells-6, the-5)
+dobj(trade-3, bells-6)
+dobj(trade-3, whistles-8)
+conj_and(bells-6, whistles-8)
+det(viewfinder-12, a-10)
+amod(viewfinder-12, proper-11)
+prep_for(bells-6, viewfinder-12)
+
+=========
+
+mark(user-6, If-1)
+nsubj(user-6, you-2)
+cop(user-6, are-3)
+det(user-6, a-4)
+nn(user-6, Mac-5)
+advcl(compatible-11, user-6)
+det(offeredPenPal-8, the-7)
+nsubj(compatible-11, offeredPenPal-8)
+cop(compatible-11, is-9)
+neg(compatible-11, not-10)
+root(ROOT-0, compatible-11)
+
+=========
+
+nsubj(advertise-4, Olympus-1)
+aux(advertise-4, does-2)
+neg(advertise-4, not-3)
+root(ROOT-0, advertise-4)
+det(fact-6, this-5)
+dobj(advertise-4, fact-6)
+
+=========
+
+nsubj(shopping-3, I-1)
+aux(shopping-3, am-2)
+root(ROOT-0, shopping-3)
+det(camera-6, another-5)
+prep_for(shopping-3, camera-6)
+

@@ -1,0 +1,101 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(TV-9, this-3)
+nn(TV-9, Sony-4)
+nn(TV-9, Bravia-5)
+nn(TV-9, KDL40BX450-6)
+num(TV-9, 40-7)
+nn(TV-9, inch-8)
+dobj(love-2, TV-9)
+
+=========
+
+nsubj(replaced-2, This-1)
+root(ROOT-0, replaced-2)
+det(Sony-6, a-3)
+amod(Sony-6, 116-4)
+nn(Sony-6, pound-5)
+dobj(replaced-2, Sony-6)
+nsubj(had-8, we-7)
+dep(replaced-2, had-8)
+quantmod(18-10, about-9)
+num(years-11, 18-10)
+tmod(had-8, years-11)
+
+=========
+
+nsubj(play-4, We-1)
+aux(play-4, do-2)
+neg(play-4, not-3)
+root(ROOT-0, play-4)
+dobj(play-4, games-5)
+mark(good-9, so-6)
+nsubj(good-9, this-7)
+cop(good-9, was-8)
+advcl(play-4, good-9)
+advmod(good-9, enough-10)
+prep_for(good-9, us-12)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+dobj(have-2, one-3)
+advmod(one-3, just-4)
+prep_like(one-3, it-6)
+det(wreckroom\/bar-9, the-8)
+prep_in(one-3, wreckroom\/bar-9)
+
+=========
+
+nsubj(have-4, I-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+nn(service-6, HD-5)
+dobj(have-4, service-6)
+nsubj(have-9, I-8)
+conj_but(have-4, have-9)
+dobj(have-9, Directv-10)
+nsubj(great-14, picture-12)
+cop(great-14, is-13)
+conj_and(have-4, great-14)
+
+=========
+
+det(complaint-3, The-1)
+amod(complaint-3, only-2)
+nsubj(fell-10, complaint-3)
+nsubj(had-17, complaint-3)
+xsubj(get-19, complaint-3)
+nsubj(end-9, I-4)
+aux(end-9, had-5)
+cop(end-9, is-6)
+det(end-9, the-7)
+nn(end-9, cord-8)
+rcmod(complaint-3, end-9)
+root(ROOT-0, fell-10)
+prt(fell-10, apart-11)
+prepc_while(fell-10, setting-13)
+dobj(setting-13, it-14)
+prt(setting-13, up-15)
+conj_and(fell-10, had-17)
+aux(get-19, to-18)
+xcomp(had-17, get-19)
+det(one-22, a-20)
+amod(one-22, new-21)
+dobj(get-19, one-22)
+
+=========
+
+poss('s-4, My-1)
+amod('s-4, old-2)
+dep('s-4, DVD-3)
+nsubj(looks-5, 's-4)
+root(ROOT-0, looks-5)
+acomp(looks-5, good-6)
+prep_on(good-6, it-8)
+advmod(looks-5, too-9)
+

@@ -1,0 +1,3 @@
+I_PRP had_VBD any_DT problem_NN with_IN this_DT order_NN ..._: Phone_NNP works_VBZ as_IN it_PRP should_MD be_VB !_.
+I_PRP recommend_VBP this_DT order_NN !_.
+I_PRP was_VBD afraid_JJ but_CC now_RB I_PRP can_MD say_VB go_VB ahead_RB and_CC buy_VB it_PRP

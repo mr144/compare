@@ -1,0 +1,53 @@
+=========
+
+det(description-4, the-2)
+nn(description-4, manufacturer-3)
+prep_from(has-10, description-4)
+dep(description-4, says-5)
+det(HDTV-9, This-7)
+nn(HDTV-9, LCD-8)
+nsubj(has-10, HDTV-9)
+root(ROOT-0, has-10)
+nn(options-12, output-11)
+dobj(has-10, options-12)
+prep_for(options-12, headphones-14)
+amod(output-18, analog-16)
+amod(output-18, audio-17)
+prep_for(options-12, output-18)
+conj_and(headphones-14, output-18)
+amod(output-24, coaxial-21)
+amod(output-24, digital-22)
+amod(output-24, audio-23)
+prep_for(options-12, output-24)
+conj_and(headphones-14, output-24)
+
+=========
+
+cc(is-7, but-1)
+det(output-4, the-2)
+amod(output-4, only-3)
+nsubj(is-7, output-4)
+expl(is-6, there-5)
+rcmod(output-4, is-6)
+root(ROOT-0, is-7)
+prep_for(is-7, headphones-9)
+
+=========
+
+nsubj(seems-2, Picture-1)
+root(ROOT-0, seems-2)
+acomp(seems-2, decent-3)
+advmod(decent-3, enough-4)
+det(tv-10, a-6)
+amod(tv-10, $-7)
+number($-7, 300-8)
+nn(tv-10, dollar-9)
+prep_for(decent-3, tv-10)
+advmod(tv-10, now-12)
+aux(see-14, to-13)
+xcomp(decent-3, see-14)
+advmod(long-16, how-15)
+advmod(lasts-18, long-16)
+nsubj(lasts-18, it-17)
+ccomp(see-14, lasts-18)
+

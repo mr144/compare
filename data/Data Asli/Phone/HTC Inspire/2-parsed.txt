@@ -1,0 +1,35 @@
+=========
+
+mark(unlocked-5, Although-1)
+det(Wasnt-4, The-2)
+nn(Wasnt-4, Phone-3)
+nsubj(unlocked-5, Wasnt-4)
+advcl(was-10, unlocked-5)
+amod(ut-8, claimed-7)
+prep_as(unlocked-5, ut-8)
+nsubj(was-10, it-9)
+root(ROOT-0, was-10)
+amod(condition-13, perfect-12)
+prep_in(was-10, condition-13)
+
+=========
+
+nsubj(love-2, i-1)
+root(ROOT-0, love-2)
+det(i-5, the-3)
+nn(i-5, phone-4)
+nsubj(unlocked-12, i-5)
+partmod(i-5, contacted-6)
+prep_at(contacted-6, t-9)
+prep_at(contacted-6, they-11)
+conj_and(t-9, they-11)
+ccomp(love-2, unlocked-12)
+dobj(unlocked-12, it-13)
+prep_for(unlocked-12, me-15)
+
+=========
+
+dep(phone-3, but-1)
+amod(phone-3, perfect-2)
+root(ROOT-0, phone-3)
+

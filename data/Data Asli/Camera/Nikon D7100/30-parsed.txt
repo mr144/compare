@@ -1,0 +1,120 @@
+=========
+
+poss(camera-3, My-1)
+amod(camera-3, last-2)
+nsubj(D80-6, camera-3)
+cop(D80-6, was-4)
+det(D80-6, a-5)
+root(ROOT-0, D80-6)
+
+=========
+
+nsubj(tried-3, I-1)
+aux(tried-3, have-2)
+root(ROOT-0, tried-3)
+dobj(tried-3, D3100-4)
+dobj(tried-3, 5200-6)
+conj_and(D3100-4, 5200-6)
+
+=========
+
+dep(feel-11, Good-1)
+dep(Good-1, cameras-2)
+amod(images-5, good-4)
+conj_but(feel-11, images-5)
+nsubj(feel-11, images-5)
+dep(has-21, images-5)
+conj_but(feel-11, they-8)
+nsubj(feel-11, they-8)
+dep(has-21, they-8)
+aux(feel-11, do-9)
+neg(feel-11, not-10)
+dep(has-21, feel-11)
+det(camera-15, a-13)
+amod(camera-15, real-14)
+prep_like(feel-11, camera-15)
+prep_for(camera-15, people-17)
+prep_like(people-17, me-19)
+nsubj(has-21, that-20)
+root(ROOT-0, has-21)
+auxpass(shooting-23, being-22)
+xcomp(has-21, shooting-23)
+amod(cameras-27, manual-25)
+nn(cameras-27, film-26)
+prep_since(shooting-23, cameras-27)
+
+=========
+
+nsubj(love-2, I-1)
+nsubj(interface-9, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, images-3)
+dobj(produces-5, images-3)
+nsubj(produces-5, 7100-4)
+nsubj(responsiveness-7, 7100-4)
+rcmod(images-3, produces-5)
+rcmod(images-3, responsiveness-7)
+conj_and(produces-5, responsiveness-7)
+conj_and(love-2, interface-9)
+
+=========
+
+amod(options-2, Good-1)
+nsubj(adjust-4, options-2)
+aux(adjust-4, to-3)
+root(ROOT-0, adjust-4)
+det(camera-6, the-5)
+dobj(adjust-4, camera-6)
+poss(preferences-10, your-8)
+amod(preferences-10, own-9)
+prep_to(adjust-4, preferences-10)
+partmod(adjust-4, allowing-12)
+xcomp(adjust-4, allowing-12)
+amod(access-14, fast-13)
+dobj(allowing-12, access-14)
+amod(functions-19, main-16)
+conj_and(main-16, common-18)
+amod(functions-19, common-18)
+prep_to(allowing-12, functions-19)
+
+=========
+
+det(manual-2, The-1)
+nsubj(good-4, manual-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+dep(good-4, read-6)
+dep(read-6, it-7)
+
+=========
+
+cc(use-4, and-1)
+nsubj(use-4, I-2)
+advmod(use-4, also-3)
+root(ROOT-0, use-4)
+det(version-7, the-5)
+amod(version-7, iphone-6)
+dobj(use-4, version-7)
+
+=========
+
+prep(miss-5, Until-1)
+pobj(Until-1, now-2)
+det(just-4, a-3)
+nsubj(miss-5, just-4)
+root(ROOT-0, miss-5)
+det(way-8, a-6)
+amod(way-8, easy-7)
+dobj(miss-5, way-8)
+aux(interface-10, to-9)
+infmod(way-8, interface-10)
+nn(info-15, IPhone-12)
+conj_and(IPhone-12, sync-14)
+nn(info-15, sync-14)
+prep_with(interface-10, info-15)
+nn(geo-18, GPS-17)
+prep_like(interface-10, geo-18)
+nn(data-21, time-20)
+prep_like(interface-10, data-21)
+conj_and(geo-18, data-21)
+

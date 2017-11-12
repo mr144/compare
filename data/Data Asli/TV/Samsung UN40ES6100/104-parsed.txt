@@ -1,0 +1,43 @@
+=========
+
+advmod(done-6, So-1)
+advmod(So-1, far-2)
+det(product-4, this-3)
+nsubj(done-6, product-4)
+aux(done-6, has-5)
+root(ROOT-0, done-6)
+dobj(done-6, everything-7)
+nsubjpass(advertised-10, everything-7)
+auxpass(advertised-10, was-9)
+rcmod(everything-7, advertised-10)
+prep_for(advertised-10, it-12)
+aux(do-14, to-13)
+xcomp(advertised-10, do-14)
+
+=========
+
+advmod(enjoyable-2, Very-1)
+dep(wish-6, enjoyable-2)
+nsubj(wish-6, I-4)
+advmod(wish-6, only-5)
+root(ROOT-0, wish-6)
+complm(gotten-10, that-7)
+nsubj(gotten-10, I-8)
+aux(gotten-10, had-9)
+ccomp(wish-6, gotten-10)
+det(version-13, the-11)
+amod(version-13, larger-12)
+dobj(gotten-10, version-13)
+advmod(well-16, oh-15)
+advmod(wish-6, well-16)
+
+=========
+
+csubj(ridiculous-7, Having-1)
+aux(write-3, to-2)
+xcomp(Having-1, write-3)
+num(words-5, 17-4)
+dobj(write-3, words-5)
+cop(ridiculous-7, is-6)
+root(ROOT-0, ridiculous-7)
+

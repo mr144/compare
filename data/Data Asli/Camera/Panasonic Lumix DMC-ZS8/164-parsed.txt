@@ -1,0 +1,52 @@
+=========
+
+det(pictures-2, All-1)
+nsubj(comes-7, pictures-2)
+partmod(pictures-2, taken-3)
+amod(daylight-6, broad-5)
+prep_in(taken-3, daylight-6)
+root(ROOT-0, comes-7)
+acomp(comes-7, perfect-8)
+
+=========
+
+nsubj(looses-6, Pictures-1)
+partmod(Pictures-1, taken-2)
+nn(light-5, dim-4)
+prep_in(taken-2, light-5)
+root(ROOT-0, looses-6)
+poss(sharpness-8, its-7)
+dobj(looses-6, sharpness-8)
+mark(shake-12, if-9)
+poss(hands-11, your-10)
+nsubj(shake-12, hands-11)
+advcl(looses-6, shake-12)
+det(bit-14, a-13)
+dobj(shake-12, bit-14)
+det(way-18, that-17)
+prep_in(sure-23, way-18)
+nsubj(sure-23, I-20)
+cop(sure-23, am-21)
+neg(sure-23, not-22)
+parataxis(looses-6, sure-23)
+complm(doing-29, whether-24)
+det(stabilization-27, the-25)
+nn(stabilization-27, image-26)
+nsubj(doing-29, stabilization-27)
+aux(doing-29, is-28)
+ccomp(sure-23, doing-29)
+poss(best-31, its-30)
+dobj(doing-29, best-31)
+ccomp(sure-23, not-33)
+conj_or(doing-29, not-33)
+
+=========
+
+advmod(happy-6, Anyways-1)
+nsubj(happy-6, I-3)
+cop(happy-6, am-4)
+advmod(happy-6, very-5)
+root(ROOT-0, happy-6)
+det(camera-9, this-8)
+prep_with(happy-6, camera-9)
+

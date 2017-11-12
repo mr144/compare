@@ -1,0 +1,4 @@
+It_PRP is_VBZ not_RB a_DT US_NNP version_NN phone_NN ._.
+I_PRP think_VBP it_PRP may_MD come_VB from_IN UK_NNP ._.
+But_CC I_PRP like_VBP it_PRP ._.
+It_PRP has_VBZ a_DT few_JJ hardware_NN upgrades_NNS comparing_VBG with_IN Samsung_NNP Galaxy_NNP Ace_NNP ._.

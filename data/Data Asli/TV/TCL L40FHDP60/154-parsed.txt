@@ -1,0 +1,58 @@
+=========
+
+nsubj(esp-6, this-1)
+cop(esp-6, is-2)
+det(esp-6, an-3)
+amod(esp-6, amazing-4)
+nn(esp-6, tv-5)
+root(ROOT-0, esp-6)
+poss(price-9, its-8)
+prep_for(esp-6, price-9)
+
+=========
+
+nsubjpass(worried-4, i-1)
+auxpass(worried-4, was-2)
+advmod(worried-4, initially-3)
+root(ROOT-0, worried-4)
+det(control-8, the-6)
+nn(control-8, quality-7)
+prep_about(worried-4, control-8)
+complm(complaining-16, that-9)
+det(people-13, a-10)
+amod(people-13, few-11)
+amod(people-13, other-12)
+nsubj(complaining-16, people-13)
+aux(complaining-16, have-14)
+aux(complaining-16, been-15)
+ccomp(worried-4, complaining-16)
+dep(complaining-16, about-17)
+nsubj(think-21, i-20)
+conj_but(worried-4, think-21)
+nsubj(version-26, this-22)
+cop(version-26, is-23)
+det(version-26, a-24)
+amod(version-26, newer-25)
+dep(think-21, version-26)
+advmod(far-29, so-28)
+advmod(great-33, far-29)
+poss(tv-31, my-30)
+nsubj(great-33, tv-31)
+cop(great-33, is-32)
+dep(think-21, great-33)
+conj_and(version-26, great-33)
+
+=========
+
+amod(sound-4, great-1)
+nn(sound-4, definition-2)
+amod(sound-4, good-3)
+root(ROOT-0, sound-4)
+appos(sound-4, light-6)
+
+=========
+
+amod(product-3, overall-1)
+amod(product-3, great-2)
+root(ROOT-0, product-3)
+

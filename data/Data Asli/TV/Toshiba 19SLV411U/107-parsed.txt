@@ -1,0 +1,46 @@
+=========
+
+amod(picture-2, Good-1)
+nsubj(poor-15, picture-2)
+amod(value-5, good-4)
+conj_and(picture-2, value-5)
+nsubj(poor-15, value-5)
+det(money-8, the-7)
+prep_for(picture-2, money-8)
+prep(money-8, but-9)
+det(quality-12, the-10)
+amod(quality-12, sound-11)
+dep(but-9, quality-12)
+cop(poor-15, is-13)
+advmod(poor-15, unbearably-14)
+root(ROOT-0, poor-15)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(analog-4, no-3)
+npadvmod(out-5, analog-4)
+advmod(is-2, out-5)
+prep_for(is-2, sound-7)
+expl(is-10, there-9)
+conj_but(is-2, is-10)
+det(out-13, a-11)
+amod(out-13, digital-12)
+nsubj(is-10, out-13)
+
+=========
+
+root(ROOT-0, Though-1)
+prepc_about(Though-1, adding-3)
+dobj(adding-3, speakers-4)
+conj_but(Though-1, decided-6)
+aux(return-8, to-7)
+xcomp(decided-6, return-8)
+xcomp(decided-6, buy-10)
+conj_and(return-8, buy-10)
+dobj(return-8, LG-11)
+npadvmod(more-15, $-13)
+num($-13, 50-14)
+prepc_for(return-8, more-15)
+

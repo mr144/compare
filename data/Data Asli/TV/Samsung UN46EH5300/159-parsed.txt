@@ -1,0 +1,27 @@
+=========
+
+root(ROOT-0, what-1)
+det(TV-4, a-2)
+amod(TV-4, great-3)
+dep(what-1, TV-4)
+
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, did-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+advmod(bought-7, why-5)
+nsubj(bought-7, i-6)
+nsubj(im-12, i-6)
+advcl(know-4, bought-7)
+det(TV-10, a-8)
+amod(TV-10, smart-9)
+dobj(bought-7, TV-10)
+advcl(know-4, im-12)
+conj_but(bought-7, im-12)
+acomp(im-12, sure-13)
+acomp(bought-7, glad-14)
+nsubj(did-16, i-15)
+ccomp(glad-14, did-16)
+

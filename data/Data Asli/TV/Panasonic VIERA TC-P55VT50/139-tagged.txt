@@ -1,0 +1,9 @@
+I_PRP give_VBP it_PRP 5_CD stars_NNS for_IN picture_NN quality_NN alone_RB ._.
+I_PRP use_VBP it_PRP solely_RB as_IN a_DT monitor_NN for_IN watching_VBG movies_NNS and_CC televised_JJ sports_NNS ._.
+The_DT internet_NN options_NNS are_VBP interesting_JJ ,_, but_CC I_PRP use_VBP AppleTV_NNP ,_, and_CC it_PRP has_VBZ enough_JJ of_IN this_DT functionality_NN already_RB ._.
+The_DT blacks_NNS are_VBP really_RB quite_RB phenomenal_JJ ._.
+This_DT TV_NN is_VBZ better_JJR than_IN Samsung_NNP ,_, sharp_JJ ,_, LG_NNP ,_, sony_NNP ,_, TCL_NNP ,_, Toshiba_NNP or_CC vizio_NN ._.
+Colors_NNS are_VBP natural_JJ ._.
+Lots_NNS of_IN control_NN over_IN noise_NN reduction_NN modes_NNS as_RB well_RB ._.
+Screen_NNP has_VBZ a_DT great_JJ deal_NN of_IN glare_NN ._.
+I_PRP rarely_RB have_VBP it_PRP on_RP during_IN the_DT day_NN ,_, so_IN it_PRP is_VBZ not_RB a_DT problem_NN for_IN me_PRP ,_, but_CC YMMV_NNP ._.

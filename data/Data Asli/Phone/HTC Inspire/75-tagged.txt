@@ -1,0 +1,6 @@
+Does_NNP not_RB work_VB on_IN T-mobile_JJ network_NN as_IN advertised_JJ ._.
+This_DT is_VBZ not_RB an_DT unlocked_VBN phone_NN ,_, it_PRP is_VBZ an_DT AT&T_NNP branded_JJ phone_NN ._.
+I_PRP am_VBP so_RB pissed_VBN ._.
+I_PRP just_RB activated_VBD a_DT new_JJ T-mobile_NNP account_NN only_RB to_TO find_VB out_RP that_IN this_DT is_VBZ an_DT AT&T_NNP phone_NN ._.
+It_PRP has_VBZ AT&T_NNP right_RB on_IN the_DT phone_NN as_RB well_RB as_IN loaded_VBN with_IN their_PRP$ apps_NNS ._.
+T-mobile_NNP uses_VBZ different_JJ frequency_NN 's_POS than_IN AT&T_NNP ._.

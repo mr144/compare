@@ -1,0 +1,45 @@
+=========
+
+amod(tv-2, Great-1)
+root(ROOT-0, tv-2)
+det(price-6, a-4)
+amod(price-6, great-5)
+prep_for(tv-2, price-6)
+
+=========
+
+conj_and(Put-1, Put-1')
+ccomp(loud-16, Put-1)
+ccomp(loud-16, Put-1')
+dobj(Put-1, it-2)
+det(bedroom-5, the-4)
+prep_in(Put-1, bedroom-5)
+dobj(say-10, what-8)
+nsubj(say-10, others-9)
+prepc_despite(Put-1', say-10)
+det(volume-13, the-12)
+nsubj(loud-16, volume-13)
+cop(loud-16, is-14)
+advmod(loud-16, rather-15)
+root(ROOT-0, loud-16)
+advmod(loud-16, even-17)
+prep_at(loud-16, one-19)
+
+=========
+
+amod(quality-2, Sound-1)
+nsubj(is-3, quality-2)
+root(ROOT-0, is-3)
+dobj(be-7, what-4)
+nsubj(be-7, it-5)
+aux(be-7, should-6)
+ccomp(is-3, be-7)
+det(tv-10, a-9)
+prep_for(be-7, tv-10)
+det(size-12, this-11)
+nsubj(great-16, size-12)
+conj_and(size-12, picture-14)
+nsubj(great-16, picture-14)
+cop(great-16, is-15)
+rcmod(tv-10, great-16)
+

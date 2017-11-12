@@ -1,0 +1,3 @@
+Do_VBP not_RB buy_VB it_PRP ._.
+Waste_NNP time_NN and_CC money_NN ._.
+This_DT smartphone_NN is_VBZ the_DT worst_JJS ._.

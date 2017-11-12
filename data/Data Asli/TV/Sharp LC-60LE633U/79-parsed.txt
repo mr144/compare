@@ -1,0 +1,50 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+det(TV-2, The-1)
+nsubj(come-5, TV-2)
+aux(come-5, did-3)
+neg(come-5, not-4)
+root(ROOT-0, come-5)
+amod(glasses-8, 3-D-7)
+prep_with(come-5, glasses-8)
+
+=========
+
+cc(quality-6, But-1)
+nsubj(quality-6, this-2)
+cop(quality-6, is-3)
+det(quality-6, the-4)
+amod(quality-6, best-5)
+root(ROOT-0, quality-6)
+poss(TV-9, 60-7)
+nsubj(happ-26, TV-9)
+prep_from(TV-9, Sharp-11)
+prep_in(Sharp-11, Sept.-13)
+num(Sept.-13, 2011-14)
+nn(Ratio-19, Dynamic-17)
+nn(Ratio-19, Contrast-18)
+prep_with(happ-26, Ratio-19)
+dep(Ratio-19, 8,000,000:1-21)
+nsubj(happ-26, I-23)
+cop(happ-26, am-24)
+advmod(happ-26, very-25)
+rcmod(quality-6, happ-26)
+prep_with(happ-26, it-28)
+
+=========
+
+det(TV-4, The-1)
+amod(TV-4, newest-2)
+amod(TV-4, 4-Color-3)
+nsubj(comes-13, TV-4)
+prepc_from(TV-4, Sharp-6)
+det(LE920-8, the-7)
+nsubj(available-9, LE920-8)
+xcomp(Sharp-6, available-9)
+prep_in(available-9, 2012-11)
+root(ROOT-0, comes-13)
+quantmod(6,000,000:1-15, only-14)
+dobj(comes-13, 6,000,000:1-15)
+

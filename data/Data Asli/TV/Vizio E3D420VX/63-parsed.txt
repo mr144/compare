@@ -1,0 +1,37 @@
+=========
+
+det(TV-2, The-1)
+nsubj(works-3, TV-2)
+root(ROOT-0, works-3)
+acomp(works-3, great-4)
+
+=========
+
+aux(had-3, Have-1)
+neg(had-3, not-2)
+root(ROOT-0, had-3)
+det(content-6, any-4)
+num(content-6, 3D-5)
+dobj(had-3, content-6)
+advmod(had-3, yet-7)
+dep(had-3, so-9)
+nsubj(know-13, I-10)
+aux(know-13, do-11)
+neg(know-13, not-12)
+ccomp(had-3, know-13)
+advmod(stacks-16, how-14)
+nsubj(stacks-16, it-15)
+ccomp(know-13, stacks-16)
+prt(stacks-16, up-17)
+
+=========
+
+nsubj(use-4, I-1)
+advmod(use-4, really-2)
+advmod(use-4, just-3)
+root(ROOT-0, use-4)
+dobj(use-4, it-5)
+det(monitor-9, a-7)
+nn(monitor-9, PC-8)
+prep_as(use-4, monitor-9)
+

@@ -1,0 +1,95 @@
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+xcomp(recommend-3, staying-4)
+det(phone-8, this-7)
+prep_away_from(staying-4, phone-8)
+
+=========
+
+det(reason-3, The-1)
+amod(reason-3, biggest-2)
+nsubj(is-4, reason-3)
+root(ROOT-0, is-4)
+complm(made-9, that-5)
+det(phone-7, this-6)
+nsubjpass(made-9, phone-7)
+auxpass(made-9, was-8)
+ccomp(is-4, made-9)
+advmod(made-9, solely-10)
+prep_for(made-9, ATT-12)
+nsubj(managed-16, somebody-14)
+xsubj(unlock-18, somebody-14)
+aux(managed-16, has-15)
+conj_and(is-4, managed-16)
+aux(unlock-18, to-17)
+xcomp(managed-16, unlock-18)
+dobj(unlock-18, it-19)
+
+=========
+
+det(process-3, the-2)
+prep_in(messed-9, process-3)
+prep_of(process-3, unlocking-5)
+det(software-7, the-6)
+nsubjpass(messed-9, software-7)
+auxpass(messed-9, is-8)
+root(ROOT-0, messed-9)
+prt(messed-9, up-10)
+det(phone-13, the-12)
+nsubj(Android-14, phone-13)
+conj_and(messed-9, Android-14)
+nn(cannon-16, system-15)
+nsubjpass(updated-18, cannon-16)
+auxpass(updated-18, be-17)
+ccomp(Android-14, updated-18)
+
+=========
+
+nsubjpass(stuck-3, I-1)
+auxpass(stuck-3, am-2)
+root(ROOT-0, stuck-3)
+det(version-7, some-5)
+num(version-7, 2.2-6)
+prep_with(stuck-3, version-7)
+advmod(moved-13, where-8)
+advmod(world-11, as-9)
+det(world-11, the-10)
+nsubj(moved-13, world-11)
+aux(moved-13, has-12)
+advcl(stuck-3, moved-13)
+prep(moved-13, on-14)
+pcomp(on-14, to-15)
+prep_to(on-14, 4.3-16)
+
+=========
+
+det(screen-3, The-1)
+nn(screen-3, touch-2)
+nsubj(great-7, screen-3)
+cop(great-7, is-4)
+neg(great-7, not-5)
+advmod(great-7, that-6)
+root(ROOT-0, great-7)
+advmod(great-7, either-8)
+num(months-12, 6-11)
+prep_within(become-15, months-12)
+nsubj(become-15, it-13)
+aux(become-15, has-14)
+conj_and(great-7, become-15)
+advmod(unresponsive-17, very-16)
+acomp(become-15, unresponsive-17)
+
+=========
+
+cc(believe-2, And-1)
+root(ROOT-0, believe-2)
+dobj(believe-2, me-3)
+det(phone-5, the-4)
+nsubj(heavy-8, phone-5)
+cop(heavy-8, is-6)
+advmod(heavy-8, very-7)
+dep(believe-2, heavy-8)
+

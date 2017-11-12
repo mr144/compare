@@ -1,0 +1,25 @@
+=========
+
+nsubj(paid-2, i-1)
+nsubj(get-9, i-1)
+root(ROOT-0, paid-2)
+det(phone-7, a-4)
+amod(phone-7, new-5)
+nn(phone-7, cell-6)
+prep_for(paid-2, phone-7)
+conj_and(paid-2, get-9)
+det(one-12, a-10)
+amod(one-12, refurbished-11)
+dobj(get-9, one-12)
+det(lot-15, a-14)
+prep_with(get-9, lot-15)
+prep_of(lot-15, problems-17)
+
+=========
+
+nsubj(experience-5, it-1)
+cop(experience-5, was-2)
+det(experience-5, a-3)
+nn(experience-5, disappointment-4)
+root(ROOT-0, experience-5)
+

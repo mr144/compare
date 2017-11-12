@@ -1,0 +1,69 @@
+=========
+
+poss(camera-3, My-1)
+amod(camera-3, other-2)
+nsubj(4mp-7, camera-3)
+cop(4mp-7, was-4)
+det(4mp-7, an-5)
+nn(4mp-7, Olympus-6)
+ccomp(bought-14, 4mp-7)
+det(I-12, the-9)
+amod(I-12, first-10)
+amod(I-12, digital-11)
+nsubj(bought-14, I-12)
+advmod(bought-14, ever-13)
+root(ROOT-0, bought-14)
+
+=========
+
+det(camera-2, This-1)
+nsubj(is-3, camera-2)
+root(ROOT-0, is-3)
+prepc_like(is-3, comparing-5)
+det(knife-9, a-6)
+amod(knife-9, Swiss-7)
+nn(knife-9, Army-8)
+dobj(comparing-5, knife-9)
+det(knife-13, a-11)
+nn(knife-13, butter-12)
+prep_to(comparing-5, knife-13)
+
+=========
+
+nsubj(made-3, Very-1)
+nsubj(works-11, Very-1)
+advmod(made-3, well-2)
+root(ROOT-0, made-3)
+det(lot-6, a-5)
+conj_and(made-3, lot-6)
+dobj(made-3, lot-6)
+prep_of(lot-6, features-8)
+conj_and(made-3, works-11)
+acomp(works-11, great-12)
+
+=========
+
+nsubj(do-2, I-1)
+root(ROOT-0, do-2)
+det(lot-4, a-3)
+dobj(do-2, lot-4)
+nn(stuff-7, EBay-6)
+prep_of(lot-4, stuff-7)
+det(camera-11, a-9)
+amod(camera-11, digital-10)
+nsubj(a-13, camera-11)
+cop(a-13, is-12)
+conj_and(do-2, a-13)
+dep(a-13, must-14)
+
+=========
+
+nsubj(made-2, I-1)
+root(ROOT-0, made-2)
+dep(made-2, do-3)
+det(Olympus-6, the-5)
+prep_with(do-3, Olympus-6)
+advmod(long-9, far-7)
+advmod(long-9, too-8)
+advmod(do-3, long-9)
+

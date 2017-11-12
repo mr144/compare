@@ -1,0 +1,62 @@
+=========
+
+root(ROOT-0, Love-1)
+det(camera-3, this-2)
+dobj(Love-1, camera-3)
+
+=========
+
+root(ROOT-0, Its-1)
+poss(SLR-5, my-2)
+amod(SLR-5, first-3)
+amod(SLR-5, digital-4)
+dobj(Its-1, SLR-5)
+
+=========
+
+nsubj(numerous-3, I-1)
+aux(numerous-3, have-2)
+root(ROOT-0, numerous-3)
+amod(lenses-6, older-4)
+nn(lenses-6, Pentax-5)
+dobj(numerous-3, lenses-6)
+complm(used-9, that-7)
+nsubj(used-9, I-8)
+ccomp(numerous-3, used-9)
+mark('s-13, in-10)
+det(80-12, the-11)
+nsubj('s-13, 80-12)
+advcl(used-9, 's-13)
+complm(use-17, that-14)
+nsubj(use-17, I-15)
+advmod(use-17, occasionally-16)
+ccomp('s-13, use-17)
+det(body-20, this-19)
+prep_on(use-17, body-20)
+
+=========
+
+nsubj(buy-3, I-1)
+aux(buy-3, did-2)
+root(ROOT-0, buy-3)
+num(lens-6, two-4)
+amod(lens-6, new-5)
+dobj(buy-3, lens-6)
+det(SLR-10, the-8)
+nn(SLR-10, D-9)
+prep_for(lens-6, SLR-10)
+
+=========
+
+advmod(happy-2, Very-1)
+root(ROOT-0, happy-2)
+det(performance-5, the-4)
+prep_with(happy-2, performance-5)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(complaints-4, no-3)
+dobj(have-2, complaints-4)
+

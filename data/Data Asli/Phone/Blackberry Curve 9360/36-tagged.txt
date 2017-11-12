@@ -1,0 +1,5 @@
+The_DT worse_JJR blackberry_NN phone_NN ._.
+It_PRP is_VBZ worse_JJR than_IN BB_NNP torch_NN ._.
+no_DT front_JJ camera_NN ._.
+no_DT LED_NNP ._.
+poor_JJ performance_NN ._.

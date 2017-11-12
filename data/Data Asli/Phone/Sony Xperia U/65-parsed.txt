@@ -1,0 +1,33 @@
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+dobj(has-2, all-3)
+dobj(need-5, all-3)
+nsubj(need-5, you-4)
+rcmod(all-3, need-5)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+prep_with(happy-4, it-6)
+
+=========
+
+nsubj(recommend-2, i-1)
+root(ROOT-0, recommend-2)
+nsubj(much-5, it-3)
+advmod(much-5, so-4)
+xcomp(recommend-2, much-5)
+
+=========
+
+nn(network-2, Social-1)
+nsubj(developed-5, network-2)
+cop(developed-5, is-3)
+advmod(developed-5, so-4)
+root(ROOT-0, developed-5)
+

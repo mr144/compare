@@ -1,0 +1,51 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(Nikon-4, a-3)
+dobj(had-2, Nikon-4)
+dobj(bought-7, Nikon-4)
+rel(bought-7, which-5)
+nsubj(bought-7, I-6)
+rcmod(Nikon-4, bought-7)
+prep_from(bought-7, Bestbuy-9)
+prepc_after(bought-7, reading-11)
+predet(reviews-14, all-12)
+det(reviews-14, the-13)
+dobj(reading-11, reviews-14)
+nsubj(returned-16, I-15)
+nsubj(bought-19, I-15)
+rcmod(reviews-14, returned-16)
+dobj(returned-16, it-17)
+rcmod(reviews-14, bought-19)
+conj_and(returned-16, bought-19)
+det(Canon-21, this-20)
+dobj(bought-19, Canon-21)
+advmod(bought-19, instead-22)
+
+=========
+
+nsubj(choice-5, That-1)
+cop(choice-5, was-2)
+det(choice-5, the-3)
+amod(choice-5, best-4)
+root(ROOT-0, choice-5)
+nsubj(made-7, I-6)
+rcmod(choice-5, made-7)
+mark(Nikon-16, because-8)
+det(thing-10, this-9)
+nsubj(Nikon-16, thing-10)
+cop(Nikon-16, is-11)
+advmod(then-14, much-12)
+advmod(then-14, better-13)
+advmod(Nikon-16, then-14)
+det(Nikon-16, the-15)
+advcl(made-7, Nikon-16)
+det(way-19, every-18)
+prep_in(Nikon-16, way-19)
+
+=========
+
+root(ROOT-0, Love-1)
+nsubj(Love-1, it-2)
+

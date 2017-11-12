@@ -1,0 +1,40 @@
+=========
+
+nn(camera-2, Perfect-1)
+root(ROOT-0, camera-2)
+poss(photos-6, my-4)
+amod(photos-6, amateur-5)
+prep_for(camera-2, photos-6)
+
+=========
+
+amod(good-2, Many-1)
+nsubj(features-3, good-2)
+xsubj(explore-5, good-2)
+root(ROOT-0, features-3)
+aux(explore-5, to-4)
+xcomp(features-3, explore-5)
+xcomp(features-3, test-7)
+conj_and(explore-5, test-7)
+prt(test-7, out-8)
+
+=========
+
+aux(blown-3, Have-1)
+neg(blown-3, not-2)
+csubj(good-19, blown-3)
+prt(blown-3, up-4)
+det(photos-6, any-5)
+dobj(blown-3, photos-6)
+amod(sizes-17, 16x20-8)
+conj_or(16x20-8, greater-10)
+amod(sizes-17, greater-10)
+advmod(all-15, so-13)
+advmod(all-15, far-14)
+conj_but(16x20-8, all-15)
+amod(sizes-17, all-15)
+amod(sizes-17, standard-16)
+prep_into(blown-3, sizes-17)
+cop(good-19, are-18)
+root(ROOT-0, good-19)
+

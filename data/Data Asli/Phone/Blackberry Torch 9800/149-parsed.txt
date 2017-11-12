@@ -1,0 +1,23 @@
+=========
+
+nsubjpass(ok-3, Everything-1)
+nsubj(send-14, Everything-1)
+auxpass(ok-3, was-2)
+root(ROOT-0, ok-3)
+det(phone-6, the-5)
+nsubj(new-9, phone-6)
+cop(new-9, was-7)
+dep(new-9, brand-8)
+parataxis(ok-3, new-9)
+aux(send-14, do-12)
+neg(send-14, not-13)
+conj_but(ok-3, send-14)
+prep_via(send-14, UPS-16)
+nsubj(have-20, they-17)
+aux(have-20, do-18)
+neg(have-20, not-19)
+rcmod(UPS-16, have-20)
+det(receipt-23, a-21)
+amod(receipt-23, signed-22)
+dobj(have-20, receipt-23)
+

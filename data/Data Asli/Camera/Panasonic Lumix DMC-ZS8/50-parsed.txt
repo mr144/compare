@@ -1,0 +1,37 @@
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+poss(camera-7, my-6)
+prep_with(happy-4, camera-7)
+
+=========
+
+nsubj(value-6, It-1)
+cop(value-6, was-2)
+det(value-6, a-3)
+advmod(good-5, very-4)
+amod(value-6, good-5)
+root(ROOT-0, value-6)
+
+=========
+
+advmod(got-4, When-1)
+nsubj(got-4, I-2)
+advmod(got-4, first-3)
+advcl(took-7, got-4)
+dobj(got-4, it-5)
+nsubj(took-7, I-6)
+root(ROOT-0, took-7)
+dobj(took-7, it-8)
+det(cruise-11, a-10)
+prep_on(took-7, cruise-11)
+det(pictures-14, the-13)
+nsubj(turned-15, pictures-14)
+conj_and(took-7, turned-15)
+prt(turned-15, out-16)
+advmod(well-18, very-17)
+advmod(turned-15, well-18)
+

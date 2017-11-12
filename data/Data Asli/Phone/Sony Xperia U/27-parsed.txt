@@ -1,0 +1,96 @@
+=========
+
+advmod(choice-10, Simply-1)
+conj_and(Simply-1, fast-3)
+advmod(choice-10, fast-3)
+det(product-6, this-5)
+nsubj(choice-10, product-6)
+cop(choice-10, is-7)
+det(choice-10, a-8)
+amod(choice-10, good-9)
+root(ROOT-0, choice-10)
+amod(people-13, young-12)
+prep_for(choice-10, people-13)
+
+=========
+
+nsubj(best-5, It-1)
+cop(best-5, is-2)
+neg(best-5, not-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+mark(choice-12, for-6)
+nsubj(choice-12, games-7)
+advmod(choice-12, yet-8)
+cop(choice-12, is-9)
+det(choice-12, a-10)
+amod(choice-12, great-11)
+advcl(best-5, choice-12)
+amod(tasks-15, common-14)
+prep_for(choice-12, tasks-15)
+nn(browsing-18, web-17)
+prep_as(tasks-15, browsing-18)
+prep_as(tasks-15, email-20)
+conj_and(browsing-18, email-20)
+amod(networking-23, social-22)
+prep_as(tasks-15, networking-23)
+conj_and(browsing-18, networking-23)
+amod(music-26, playing-25)
+prep_as(tasks-15, music-26)
+conj_and(browsing-18, music-26)
+
+=========
+
+det(camera-3, The-1)
+num(camera-3, 5MP-2)
+nsubj(feature-4, camera-3)
+root(ROOT-0, feature-4)
+advmod(decent-6, pretty-5)
+amod(photos-7, decent-6)
+dobj(feature-4, photos-7)
+det(outdoors-10, the-9)
+prep_in(photos-7, outdoors-10)
+
+=========
+
+amod(conditions-4, low-2)
+nn(conditions-4, light-3)
+prep_for(history-8, conditions-4)
+nsubj(history-8, that-5)
+cop(history-8, 's-6)
+det(history-8, another-7)
+root(ROOT-0, history-8)
+
+=========
+
+det(battery-2, The-1)
+nsubj(wont-3, battery-2)
+root(ROOT-0, wont-3)
+amod(day-6, last-4)
+det(day-6, a-5)
+tmod(wont-3, day-6)
+mark(use-9, if-7)
+nsubj(use-9, you-8)
+advcl(wont-3, use-9)
+det(phone-11, the-10)
+dobj(use-9, phone-11)
+prep(use-9, to-12)
+pobj(to-12, much-13)
+
+=========
+
+prep_at(presented-4, first-2)
+nsubj(presented-4, it-3)
+root(ROOT-0, presented-4)
+xcomp(presented-4, lagging-5)
+advmod(updated-8, when-6)
+nsubj(updated-8, I-7)
+advcl(lagging-5, updated-8)
+prep_to(updated-8, ICS-10)
+prep_in(updated-8, case-13)
+nsubj(happens-15, this-14)
+rcmod(case-13, happens-15)
+xcomp(happens-15, reinstall-16)
+det(update-18, the-17)
+dobj(reinstall-16, update-18)
+

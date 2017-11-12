@@ -1,0 +1,130 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(TV-4, this-3)
+dobj(got-2, TV-4)
+prep_for(got-2, christmas-6)
+poss(list-10, my-8)
+nn(list-10, wish-9)
+prep_from(got-2, list-10)
+nsubj(awesome-15, it-13)
+cop(awesome-15, is-14)
+conj_and(got-2, awesome-15)
+
+=========
+
+nsubj(gonna-4, You-1)
+cop(gonna-4, are-2)
+neg(gonna-4, not-3)
+root(ROOT-0, gonna-4)
+ccomp(gonna-4, find-5)
+det(tv-8, a-6)
+amod(tv-8, 3d-7)
+dobj(find-5, tv-8)
+det(size-10, this-9)
+npadvmod(anywhere-11, size-10)
+advmod(find-5, anywhere-11)
+det(price-14, this-13)
+prep_near(find-5, price-14)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(notice-4, I-1)
+aux(notice-4, do-2)
+neg(notice-4, not-3)
+root(ROOT-0, notice-4)
+dobj(notice-4, lines-5)
+nsubjpass(supposed-9, what-7)
+auxpass(supposed-9, is-8)
+prepc_like(notice-4, supposed-9)
+aux(happen-11, to-10)
+xcomp(supposed-9, happen-11)
+amod(3d-14, passive-13)
+prep_with(happen-11, 3d-14)
+
+=========
+
+det(games-2, Some-1)
+nsubj(look-3, games-2)
+root(ROOT-0, look-3)
+advmod(look-3, better-4)
+prep_than(look-3, others-6)
+amod(resolution-10, 3d-9)
+nsubj(lower-12, resolution-10)
+cop(lower-12, is-11)
+conj_and(look-3, lower-12)
+prep_than(lower-12, hd-14)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nn(Edit-2, \*\*\*-1)
+root(ROOT-0, Edit-2)
+nsubj(forgot-5, I-4)
+xsubj(mention-7, I-4)
+dep(Edit-2, forgot-5)
+aux(mention-7, to-6)
+xcomp(forgot-5, mention-7)
+dobj(mention-7, sound-8)
+
+=========
+
+nsubj(sounds-2, It-1)
+root(ROOT-0, sounds-2)
+acomp(sounds-2, clear-3)
+acomp(sounds-2, full-5)
+conj_and(clear-3, full-5)
+advmod(watching-7, when-6)
+advcl(sounds-2, watching-7)
+nn(shows-9, TV-8)
+dobj(watching-7, shows-9)
+dobj(watching-7, movies-11)
+conj_and(shows-9, movies-11)
+
+=========
+
+nsubj(think-4, I-1)
+aux(think-4, do-2)
+neg(think-4, not-3)
+root(ROOT-0, think-4)
+det(TVs-6, any-5)
+dobj(think-4, TVs-6)
+amod(good-8, sound-7)
+amod(TVs-6, good-8)
+nsubj(one-13, this-11)
+cop(one-13, is-12)
+conj_and(think-4, one-13)
+det(TVs-18, the-15)
+amod(TVs-18, better-16)
+amod(TVs-18, sounding-17)
+prep_of(one-13, TVs-18)
+dobj(heard-21, TVs-18)
+nsubj(heard-21, I-19)
+aux(heard-21, have-20)
+rcmod(TVs-18, heard-21)
+
+=========
+
+mark(playing-2, Although-1)
+csubj(sound-10, playing-2)
+dobj(playing-2, music-3)
+nn(band-7, rock-6)
+dobj(playing-2, band-7)
+conj_or(music-3, band-7)
+aux(sound-10, do-8)
+neg(sound-10, not-9)
+root(ROOT-0, sound-10)
+advmod(great-12, so-11)
+acomp(sound-10, great-12)
+mark(is-15, because-13)
+expl(is-15, there-14)
+advcl(sound-10, is-15)
+neg(is-15, not-16)
+det(lot-18, a-17)
+nsubj(is-15, lot-18)
+prep_of(lot-18, bass-20)
+

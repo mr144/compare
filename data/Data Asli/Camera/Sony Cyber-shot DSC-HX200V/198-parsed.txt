@@ -1,0 +1,32 @@
+=========
+
+nn(camera-2, Perfect-1)
+nsubj(like-5, camera-2)
+prep_for(camera-2, someone-4)
+root(ROOT-0, like-5)
+dobj(like-5, me-6)
+nsubj(upgrading-10, me-6)
+aux(upgrading-10, is-9)
+rcmod(me-6, upgrading-10)
+det(point-and-shoot-14, a-12)
+amod(point-and-shoot-14, simple-13)
+prep_from(upgrading-10, point-and-shoot-14)
+
+=========
+
+aux(modes-4, Has-1)
+amod(auto-3, wonderful-2)
+nsubj(modes-4, auto-3)
+root(ROOT-0, modes-4)
+det(possibility-8, the-7)
+prep_with(modes-4, possibility-8)
+prepc_of(possibility-8, learning-10)
+prepc_of(possibility-8, opperating-12)
+conj_and(learning-10, opperating-12)
+det(modes-15, the-13)
+amod(modes-15, manual-14)
+dobj(learning-10, modes-15)
+advmod(well-17, as-16)
+mwe(well-17, as-16)
+advmod(modes-4, well-17)
+

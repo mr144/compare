@@ -1,0 +1,57 @@
+=========
+
+nsubj(upgraded-2, Recently-1)
+root(ROOT-0, upgraded-2)
+poss(blackberry-5, my-3)
+amod(blackberry-5, old-4)
+dobj(upgraded-2, blackberry-5)
+det(9360-8, this-7)
+prep_to(upgraded-2, 9360-8)
+
+=========
+
+det(decision-2, The-1)
+nsubj(came-3, decision-2)
+root(ROOT-0, came-3)
+advmod(came-3, down-4)
+prepc_to(down-4, comparing-6)
+det(9360-8, the-7)
+dobj(comparing-6, 9360-8)
+det(series-12, the-10)
+amod(series-12, Bold-11)
+prep_to(comparing-6, series-12)
+
+=========
+
+det(end-3, the-2)
+prep_in(made-9, end-3)
+det(keyboard-6, the-5)
+nsubj(made-9, keyboard-6)
+conj_and(keyboard-6, features-8)
+nsubj(made-9, features-8)
+root(ROOT-0, made-9)
+det(difference-11, the-10)
+dobj(made-9, difference-11)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+prep_from(purchased-2, BLUTEKUSA-4)
+nsubj(eligible-13, BLUTEKUSA-4)
+det(time-9, the-8)
+prep_at(eligible-13, time-9)
+cop(eligible-13, was-10)
+amod(eligible-13, prime-11)
+nn(eligible-13, shipping-12)
+rcmod(BLUTEKUSA-4, eligible-13)
+
+=========
+
+nsubjpass(delivered-3, Product-1)
+auxpass(delivered-3, was-2)
+root(ROOT-0, delivered-3)
+prep_on(delivered-3, time-5)
+mark(described-7, as-6)
+advcl(delivered-3, described-7)
+

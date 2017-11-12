@@ -1,0 +1,37 @@
+=========
+
+amod(camera-2, great-1)
+root(ROOT-0, camera-2)
+
+=========
+
+dep(expected-4, does-1)
+dobj(does-1, everything-2)
+nsubj(expected-4, I-3)
+root(ROOT-0, expected-4)
+
+=========
+
+advmod(good-2, very-1)
+root(ROOT-0, good-2)
+dep(good-2, quality-3)
+
+=========
+
+aux(recommend-2, would-1)
+root(ROOT-0, recommend-2)
+det(product-4, this-3)
+dobj(recommend-2, product-4)
+prep_to(recommend-2, anyone-6)
+
+=========
+
+nsubj(know-2, I-1)
+root(ROOT-0, know-2)
+amod(people-4, several-3)
+dobj(know-2, people-4)
+nsubj(have-6, people-4)
+rcmod(people-4, have-6)
+dobj(have-6, it-7)
+advmod(know-2, also-8)
+

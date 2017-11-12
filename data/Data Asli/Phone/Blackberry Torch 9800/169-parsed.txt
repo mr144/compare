@@ -1,0 +1,68 @@
+=========
+
+det(phone-2, This-1)
+nsubj(support-5, phone-2)
+aux(support-5, does-3)
+neg(support-5, not-4)
+root(ROOT-0, support-5)
+dobj(support-5, 3G-6)
+dobj(support-5, 4G-8)
+conj_or(3G-6, 4G-8)
+nn(network-11, Tmobiles-10)
+prep_on(3G-6, network-11)
+
+=========
+
+nsubj(contacted-2, I-1)
+nsubjpass(told-6, I-1)
+root(ROOT-0, contacted-2)
+dobj(contacted-2, Tmobile-3)
+auxpass(told-6, was-5)
+conj_and(contacted-2, told-6)
+mark(set-11, because-7)
+det(smartphone-9, the-8)
+nsubjpass(set-11, smartphone-9)
+auxpass(set-11, is-10)
+advcl(told-6, set-11)
+det(frequency-15, a-13)
+amod(frequency-15, different-14)
+prep_at(set-11, frequency-15)
+nsubjpass(supported-20, it-16)
+aux(supported-20, can-17)
+neg(supported-20, not-18)
+auxpass(supported-20, be-19)
+rcmod(frequency-15, supported-20)
+
+=========
+
+nsubj(get-4, You-1)
+aux(get-4, can-2)
+advmod(get-4, only-3)
+root(ROOT-0, get-4)
+amod(speeds-6, EDGE-5)
+dobj(get-4, speeds-6)
+dobj(get-4, Wifi-8)
+conj_or(speeds-6, Wifi-8)
+
+=========
+
+nsubjpass(mentioned-4, This-1)
+nsubj(work-17, This-1)
+auxpass(mentioned-4, is-2)
+neg(mentioned-4, not-3)
+root(ROOT-0, mentioned-4)
+advmod(mentioned-4, at-5)
+pobj(at-5, all-6)
+det(description-9, the-8)
+prep_in(mentioned-4, description-9)
+advmod(unlocked-14, only-10)
+dep(unlocked-14, that-11)
+nsubj(unlocked-14, it-12)
+cop(unlocked-14, is-13)
+ccomp(mentioned-4, unlocked-14)
+aux(work-17, will-16)
+conj_and(mentioned-4, work-17)
+det(GSM-21, any-20)
+poss(network-23, GSM-21)
+prep_on(work-17, network-23)
+

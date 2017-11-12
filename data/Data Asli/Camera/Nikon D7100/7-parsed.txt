@@ -1,0 +1,35 @@
+=========
+
+advmod(upgrade-2, Worthwile-1)
+root(ROOT-0, upgrade-2)
+det(D7000-5, the-4)
+prep_from(upgrade-2, D7000-5)
+
+=========
+
+nsubj(photographer-6, I-1)
+cop(photographer-6, am-2)
+advmod(photographer-6, mostly-3)
+det(photographer-6, an-4)
+amod(photographer-6, outdoor-5)
+root(ROOT-0, photographer-6)
+det(focus-10, the-9)
+nsubj(great-12, focus-10)
+cop(great-12, is-11)
+conj_and(photographer-6, great-12)
+
+=========
+
+aux(use-3, Do-1)
+neg(use-3, not-2)
+root(ROOT-0, use-3)
+advmod(high-5, much-4)
+acomp(use-3, high-5)
+nsubj(use-3, ISO-6)
+det(noise-10, the-9)
+nsubj(acceptable-14, noise-10)
+cop(acceptable-14, is-11)
+advmod(than-13, more-12)
+advmod(acceptable-14, than-13)
+conj_but(use-3, acceptable-14)
+

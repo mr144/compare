@@ -1,0 +1,4 @@
+Very_RB nice_JJ ._.
+Set_NNP up_RB was_VBD easy_JJ ._.
+Plug_NN and_CC play_NN ._.
+I_PRP could_MD set_VB up_RP an_DT HDMI_NNP connection_NN from_IN my_PRP$ laptop_NN easily_RB ._.

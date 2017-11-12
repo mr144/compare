@@ -1,0 +1,106 @@
+=========
+
+nsubj(upgraded-2, I-1)
+nsubj(shoot-11, I-1)
+root(ROOT-0, upgraded-2)
+prep_to(upgraded-2, this-4)
+det(point-9, a-6)
+amod(point-9, little-7)
+nn(point-9, kodak-8)
+prep_from(upgraded-2, point-9)
+conj_and(upgraded-2, shoot-11)
+amod(camera-13, digital-12)
+dobj(shoot-11, camera-13)
+
+=========
+
+nsubj(wanted-2, I-1)
+xsubj(step-4, I-1)
+root(ROOT-0, wanted-2)
+aux(step-4, to-3)
+xcomp(wanted-2, step-4)
+det(world-7, the-6)
+prep_into(step-4, world-7)
+amod(SLR-10, digital-9)
+prep_of(world-7, SLR-10)
+possessive(SLR-10, 's-11)
+nsubj(have-17, I-14)
+aux(have-17, did-15)
+neg(have-17, not-16)
+conj_but(wanted-2, have-17)
+det(funding-19, the-18)
+dobj(have-17, funding-19)
+prep_for(funding-19, that-21)
+advmod(have-17, yet-22)
+
+=========
+
+advmod(looked-4, So-1)
+nsubj(looked-4, I-3)
+root(ROOT-0, looked-4)
+prep_into(looked-4, one-6)
+prep_of(one-6, these-8)
+
+=========
+
+nsubj(everything-3, It-1)
+cop(everything-3, 's-2)
+root(ROOT-0, everything-3)
+prep_for(looking-6, everything-3)
+nsubj(looking-6, I-4)
+aux(looking-6, was-5)
+rcmod(everything-3, looking-6)
+det(price-14, a-10)
+dep(expected-13, better-11)
+dep(expected-13, than-12)
+amod(price-14, expected-13)
+prep_at(looking-6, price-14)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+det(shots-6, some-3)
+advmod(nice-5, really-4)
+amod(shots-6, nice-5)
+dobj(takes-2, shots-6)
+advmod(get-11, especially-8)
+dep(get-11, if-9)
+nsubj(get-11, you-10)
+xsubj(learn-13, you-10)
+dep(takes-2, get-11)
+aux(learn-13, to-12)
+xcomp(get-11, learn-13)
+det(settings-15, the-14)
+dobj(learn-13, settings-15)
+iobj(learn-13, settings-15)
+det(bit-17, a-16)
+dobj(learn-13, bit-17)
+dep(settings-15, bit-17)
+
+=========
+
+nsubj(discovered-4, I-1)
+aux(discovered-4, have-2)
+neg(discovered-4, not-3)
+root(ROOT-0, discovered-4)
+det(downsides-6, any-5)
+dobj(discovered-4, downsides-6)
+det(camera-9, this-8)
+prep_to(discovered-4, camera-9)
+advmod(discovered-4, yet-10)
+
+=========
+
+nsubj(wait-4, I-1)
+xsubj(take-6, I-1)
+aux(wait-4, can-2)
+neg(wait-4, not-3)
+root(ROOT-0, wait-4)
+aux(take-6, to-5)
+xcomp(wait-4, take-6)
+dobj(take-6, this-7)
+prep_on(this-7, one-9)
+poss(hikes-12, my-11)
+prep_of(this-7, hikes-12)
+

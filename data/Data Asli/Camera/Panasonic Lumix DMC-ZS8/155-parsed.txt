@@ -1,0 +1,72 @@
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+det(camera-5, the-4)
+dobj(like-3, camera-5)
+
+=========
+
+nsubj(needed-2, I-1)
+root(ROOT-0, needed-2)
+det(camera-4, a-3)
+dobj(needed-2, camera-4)
+nsubj(easy-7, camera-4)
+cop(easy-7, was-6)
+rcmod(camera-4, easy-7)
+aux(use-9, to-8)
+xcomp(easy-7, use-9)
+det(one-12, this-11)
+nsubj(fits-13, one-12)
+conj_and(needed-2, fits-13)
+det(bill-15, the-14)
+dobj(fits-13, bill-15)
+
+=========
+
+nsubjpass(disappointed-5, I-1)
+auxpass(disappointed-5, was-2)
+det(little-4, a-3)
+dep(disappointed-5, little-4)
+root(ROOT-0, disappointed-5)
+num(things-8, two-7)
+prep_in(disappointed-5, things-8)
+nsubj(have-13, It-10)
+aux(have-13, did-11)
+neg(have-13, not-12)
+parataxis(disappointed-5, have-13)
+det(manual-15, a-14)
+dobj(have-13, manual-15)
+nsubj(had-18, I-17)
+xsubj(print-20, I-17)
+parataxis(disappointed-5, had-18)
+aux(print-20, to-19)
+xcomp(had-18, print-20)
+xcomp(had-18, print-20')
+conj_and(print-20, print-20')
+dobj(print-20, it-21)
+prep_on(print-20, line-23)
+det(zoom-27, the-26)
+prep_in(print-20', zoom-27)
+
+=========
+
+det(disappointment-3, The-1)
+amod(disappointment-3, zoom-2)
+nsubj(tho-8, disappointment-3)
+aux(tho-8, might-4)
+cop(tho-8, be-5)
+nn(tho-8, user-6)
+nn(tho-8, error-7)
+root(ROOT-0, tho-8)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(camera-5, the-4)
+dobj(recommend-3, camera-5)
+prep_for(recommend-3, sure-8)
+

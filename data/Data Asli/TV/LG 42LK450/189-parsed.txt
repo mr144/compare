@@ -1,0 +1,117 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(tv-4, this-3)
+dobj(bought-2, tv-4)
+poss(room-10, my-6)
+num(room-10, 6-7)
+nn(room-10, year-8)
+nn(room-10, olds-9)
+prep_for(tv-4, room-10)
+det(idea-13, the-12)
+prep_with(bought-2, idea-13)
+nsubj(watch-16, I-14)
+aux(watch-16, may-15)
+rcmod(idea-13, watch-16)
+dobj(watch-16, it-17)
+prep_on(watch-16, occasion-19)
+
+=========
+
+nsubj(bought-2, I-1)
+nsubj(saw-12, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+prepc_after(bought-2, reading-5)
+predet(reviews-9, all-6)
+det(reviews-9, the-7)
+amod(reviews-9, great-8)
+dobj(reading-5, reviews-9)
+neg(saw-12, never-11)
+conj_but(bought-2, saw-12)
+dobj(saw-12, it-13)
+prep_in(saw-12, person-15)
+
+=========
+
+nsubj(intuitive-5, Set-1)
+advmod(intuitive-5, up-2)
+cop(intuitive-5, was-3)
+advmod(intuitive-5, extremely-4)
+root(ROOT-0, intuitive-5)
+nsubj(open-11, I-7)
+aux(open-11, did-8)
+neg(open-11, not-9)
+advmod(open-11, even-10)
+conj_and(intuitive-5, open-11)
+det(manual-13, the-12)
+dobj(open-11, manual-13)
+
+=========
+
+det(process-5, the-2)
+amod(process-5, brief-3)
+nn(process-5, calibration-4)
+prep_after(beats-11, process-5)
+det(picture-10, the-7)
+amod(picture-10, streamed-8)
+nn(picture-10, netflix-9)
+nsubj(beats-11, picture-10)
+root(ROOT-0, beats-11)
+poss(55-13, my-12)
+poss(hands-18, 55-13)
+amod(hands-18, high-15)
+nn(hands-18, def-16)
+nn(hands-18, signal-17)
+dobj(beats-11, hands-18)
+advmod(beats-11, down-19)
+
+=========
+
+root(ROOT-0, Colors-1)
+appos(Colors-1, contrast-3)
+nn(etc.-6, resolution-5)
+appos(contrast-3, etc.-6)
+
+=========
+
+cop(stunning-2, are-1)
+root(ROOT-0, stunning-2)
+
+=========
+
+advmod(looks-2, almost-1)
+root(ROOT-0, looks-2)
+num(dimensional-4, 3-3)
+nsubj(looks-2, dimensional-4)
+
+=========
+
+advmod(want-3, Now-1)
+nsubj(want-3, I-2)
+xsubj(watch-5, I-2)
+root(ROOT-0, want-3)
+aux(watch-5, to-4)
+xcomp(want-3, watch-5)
+det(tv-7, this-6)
+iobj(watch-5, tv-7)
+predet(time-10, all-8)
+det(time-10, the-9)
+dobj(watch-5, time-10)
+
+=========
+
+root(ROOT-0, Unbelieveable-1)
+dobj(Unbelieveable-1, bang-2)
+det(buck-5, the-4)
+prep_for(Unbelieveable-1, buck-5)
+
+=========
+
+nsubj(buying-4, I-1)
+aux(buying-4, will-2)
+aux(buying-4, be-3)
+root(ROOT-0, buying-4)
+dobj(buying-4, another-5)
+

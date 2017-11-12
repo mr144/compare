@@ -1,0 +1,27 @@
+=========
+
+det(phone-2, This-1)
+nsubj(excellent-4, phone-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+det(present-6, a-5)
+prep_as(bought-2, present-6)
+poss(wife-9, my-8)
+prep_for(bought-2, wife-9)
+nsubj(loves-12, she-11)
+conj_and(bought-2, loves-12)
+dobj(loves-12, it-13)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, definitely-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+

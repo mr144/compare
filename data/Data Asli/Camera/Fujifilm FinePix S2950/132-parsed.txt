@@ -1,0 +1,237 @@
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+det(camera-4, a-3)
+dobj(wanted-2, camera-4)
+advmod(photography-7, still-6)
+prep_for(wanted-2, photography-7)
+amod(performance-10, superior-9)
+prep_with(photography-7, performance-10)
+poss(C-470-18, my-12)
+amod(C-470-18, obsolete-13)
+dep(obsolete-13, 3.5-14)
+nn(C-470-18, Mp-15)
+nn(C-470-18, x10-16)
+nn(C-470-18, Olympus-17)
+prep_to(wanted-2, C-470-18)
+
+=========
+
+nsubj(had-2, It-1)
+xsubj(run-4, It-1)
+ccomp(have-13, had-2)
+aux(run-4, to-3)
+xcomp(had-2, run-4)
+prep_on(run-4, AAs-6)
+prep_for(run-4, use-8)
+det(field-11, the-10)
+prep_in(use-8, field-11)
+root(ROOT-0, have-13)
+det(x10-15, a-14)
+dobj(have-13, x10-15)
+prep_to(x10-15, x20-17)
+nsubj(have-13, zoom-18)
+amod(res-21, higher-20)
+appos(zoom-18, res-21)
+amod(range-25, better-23)
+amod(range-25, dynamic-24)
+appos(res-21, range-25)
+
+=========
+
+nsubj(did-2, You-1)
+root(ROOT-0, did-2)
+ccomp(did-2, think-3)
+nsubj(beat-9, ANYTHING-4)
+det(market-7, the-6)
+prep_on(ANYTHING-4, market-7)
+aux(beat-9, could-8)
+ccomp(think-3, beat-9)
+det(unit-13, a-10)
+amod(unit-13, seven-year-old-11)
+amod(unit-13, midrange-12)
+dobj(beat-9, unit-13)
+
+=========
+
+root(ROOT-0, Not-1)
+dep(Not-1, true-2)
+
+=========
+
+nsubj(hoped-2, I-1)
+root(ROOT-0, hoped-2)
+det(S2950-6, the-3)
+nn(S2950-6, Fujifilm-4)
+nn(S2950-6, Finepix-5)
+nsubj(fit-8, S2950-6)
+aux(fit-8, would-7)
+ccomp(hoped-2, fit-8)
+det(bill-10, the-9)
+dobj(fit-8, bill-10)
+
+=========
+
+nsubj(came-2, It-1)
+root(ROOT-0, came-2)
+advmod(rated-4, highly-3)
+acomp(came-2, rated-4)
+
+=========
+
+nsubj(looked-2, It-1)
+root(ROOT-0, looked-2)
+det(fit-6, the-4)
+amod(fit-6, perfect-5)
+prep_like(looked-2, fit-6)
+
+=========
+
+nsubj(found-3, I-1)
+advmod(found-3, quickly-2)
+root(ROOT-0, found-3)
+prt(found-3, out-4)
+nsubj(is-6, it-5)
+ccomp(found-3, is-6)
+neg(is-6, not-7)
+
+=========
+
+advmod(know-4, At-1)
+pobj(At-1, least-2)
+nsubj(know-4, I-3)
+root(ROOT-0, know-4)
+dobj(stands-9, what-5)
+det('S-7, the-6)
+nsubj(stands-9, 'S-7)
+ccomp(know-4, stands-9)
+prep(stands-9, for-10)
+pcomp(for-10, in-11)
+det(line-14, the-12)
+nn(line-14, model-13)
+prep_in(for-10, line-14)
+advmod(stands-9, as-16)
+prep_in(as-16, piece-18)
+prep(piece-18, of-19)
+poss(defense-23, its-22)
+prep_in(has-25, defense-23)
+nsubj(has-25, it-24)
+parataxis(know-4, has-25)
+det(CCD-28, a-26)
+nn(CCD-28, superb-27)
+dobj(has-25, CCD-28)
+amod(noise-31, low-30)
+dep(CCD-28, noise-31)
+amod(resolution-34, high-33)
+dep(CCD-28, resolution-34)
+conj_and(noise-31, resolution-34)
+
+=========
+
+poss(software-3, It-1)
+nsubj(sophisticated-6, software-3)
+nsubj(easy-9, software-3)
+xsubj(use-11, software-3)
+cop(sophisticated-6, is-4)
+advmod(sophisticated-6, quite-5)
+root(ROOT-0, sophisticated-6)
+conj_yet(sophisticated-6, easy-9)
+aux(use-11, to-10)
+xcomp(sophisticated-6, use-11)
+
+=========
+
+cc(HORRIBLE-5, But-1)
+poss(optics-3, its-2)
+nsubj(HORRIBLE-5, optics-3)
+cop(HORRIBLE-5, are-4)
+root(ROOT-0, HORRIBLE-5)
+
+=========
+
+poss(images-2, Its-1)
+nsubj(cloudy-4, images-2)
+cop(cloudy-4, are-3)
+root(ROOT-0, cloudy-4)
+advmod(in-7, even-6)
+dep(cloudy-4, in-7)
+det(3-9, the-8)
+poss(LCD-11, 3-9)
+pobj(in-7, LCD-11)
+nsubj(shows-14, LCD-11)
+rcmod(LCD-11, shows-14)
+advmod(bad-16, how-15)
+dep(look-19, bad-16)
+det(images-18, the-17)
+nsubj(look-19, images-18)
+ccomp(shows-14, look-19)
+det(screen-23, a-21)
+amod(screen-23, big-22)
+prep_on(look-19, screen-23)
+dep(cloudy-4, printed-25)
+conj_or(in-7, printed-25)
+prt(printed-25, out-26)
+
+=========
+
+nsubj(fault-5, It-1)
+cop(fault-5, is-2)
+neg(fault-5, not-3)
+det(fault-5, the-4)
+root(ROOT-0, fault-5)
+det(autofocus-8, the-7)
+prep_of(fault-5, autofocus-8)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+amod(abberations-4, serious-3)
+nsubj(are-2, abberations-4)
+det(components-8, the-6)
+nn(components-8, lens-7)
+prep_in(abberations-4, components-8)
+complm(get-16, that-9)
+det(setting-11, no-10)
+nsubj(get-16, setting-11)
+amod(tricks-14, common-13)
+conj_or(setting-11, tricks-14)
+nsubj(get-16, tricks-14)
+aux(get-16, could-15)
+ccomp(are-2, get-16)
+prt(get-16, around-17)
+
+=========
+
+det(images-2, The-1)
+nsubjpass(rescued-6, images-2)
+aux(rescued-6, could-3)
+neg(rescued-6, not-4)
+auxpass(rescued-6, be-5)
+root(ROOT-0, rescued-6)
+nn(processing-9, post-8)
+prep_in(rescued-6, processing-9)
+
+=========
+
+poss(Olympus-3, My-1)
+amod(Olympus-3, ancient-2)
+nsubj(runs-4, Olympus-3)
+root(ROOT-0, runs-4)
+dobj(runs-4, rings-5)
+det(S2950-9, the-7)
+nn(S2950-9, Fuji-8)
+prep_around(rings-5, S2950-9)
+
+=========
+
+advmod(good-5, Luckily-1)
+det(store-3, the-2)
+nsubj(good-5, store-3)
+cop(good-5, was-4)
+root(ROOT-0, good-5)
+prepc_about(good-5, taking-7)
+dobj(taking-7, it-8)
+advmod(taking-7, back-9)
+

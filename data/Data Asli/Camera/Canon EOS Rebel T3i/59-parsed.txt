@@ -1,0 +1,26 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(camera-4, this-3)
+dobj(got-2, camera-4)
+det(cousin-7, a-6)
+prep_for(got-2, cousin-7)
+prep_of(cousin-7, mine-9)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, amazing-3)
+dobj(takes-2, pictures-4)
+
+=========
+
+nsubj(using-3, He-1)
+aux(using-3, is-2)
+root(ROOT-0, using-3)
+dobj(using-3, it-4)
+amod(etc.-7, photoshoots-6)
+prep_for(using-3, etc.-7)
+

@@ -1,0 +1,35 @@
+=========
+
+cop(phone-4, is-1)
+det(phone-4, a-2)
+amod(phone-4, good-3)
+root(ROOT-0, phone-4)
+amod(price-7, low-6)
+prep_for(phone-4, price-7)
+
+=========
+
+nsubj(good-4, I-1)
+nsubj(functional-6, I-1)
+dep(good-4, get-2)
+advmod(good-4, very-3)
+root(ROOT-0, good-4)
+conj_and(good-4, functional-6)
+
+=========
+
+cop(responsible-2, was-1)
+csubj(good-6, responsible-2)
+dep(responsible-2, purchasingLG-3)
+dobj(purchasingLG-3, brand-4)
+cop(good-6, is-5)
+root(ROOT-0, good-6)
+nsubj(software-12, they-9)
+cop(software-12, are-10)
+neg(software-12, not-11)
+conj_but(good-6, software-12)
+conj_but(good-6, not-14)
+conj_and(software-12, not-14)
+neg(software-12, not-14)
+dep(software-12, updated-15)
+

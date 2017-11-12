@@ -1,0 +1,37 @@
+=========
+
+amod(camera-3, Wonderful-1)
+amod(camera-3, starter-2)
+nsubj(loves-13, camera-3)
+partmod(camera-3, bought-5)
+dobj(bought-5, it-6)
+det(wife-9, the-8)
+prep_for(bought-5, wife-9)
+prep_for(bought-5, she-11)
+conj_and(wife-9, she-11)
+advmod(loves-13, absolutely-12)
+root(ROOT-0, loves-13)
+dobj(loves-13, it-14)
+
+=========
+
+amod(features-3, Has-1)
+amod(features-3, many-2)
+nsubj(plentiful-23, features-3)
+mark(take-8, though-5)
+nsubj(take-8, it-6)
+aux(take-8, will-7)
+dep(features-3, take-8)
+det(time-10, some-9)
+dobj(take-8, time-10)
+det(wife-13, the-12)
+prep_for(take-8, wife-13)
+aux(familiarize-15, to-14)
+infmod(wife-13, familiarize-15)
+dobj(familiarize-15, herself-16)
+det(amount-19, the-18)
+prep_as(familiarize-15, amount-19)
+prep_of(amount-19, options-21)
+cop(plentiful-23, is-22)
+root(ROOT-0, plentiful-23)
+

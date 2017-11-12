@@ -1,0 +1,158 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(camera-4, this-3)
+dobj(got-2, camera-4)
+prep_in(camera-4, Sep.-6)
+num(Sep.-6, 2007-7)
+det(trade-in-11, a-10)
+prep_as(got-2, trade-in-11)
+dobj(had-21, trade-in-11)
+poss(8mp-17, my-13)
+nn(8mp-17, Canon-14)
+nn(8mp-17, Digital-15)
+nn(8mp-17, Rebel-16)
+prep_for(trade-in-11, 8mp-17)
+rel(had-21, which-19)
+nsubj(had-21, I-20)
+rcmod(trade-in-11, had-21)
+num(years-24, two-23)
+prep_for(had-21, years-24)
+
+=========
+
+nsubj(happy-5, I-1)
+cop(happy-5, was-2)
+neg(happy-5, not-3)
+advmod(happy-5, very-4)
+root(ROOT-0, happy-5)
+prep_with(happy-5, Canon-7)
+mark(have-11, although-9)
+nsubj(have-11, I-10)
+advcl(happy-5, have-11)
+num(powershots-13, two-12)
+dobj(have-11, powershots-13)
+nsubj(excellent-17, powershots-13)
+cop(excellent-17, are-16)
+rcmod(powershots-13, excellent-17)
+number(,95-20, A80-19)
+dep(excellent-17, ,95-20)
+nsubj(was-24, Rebel-23)
+conj_but(happy-5, was-24)
+neg(was-24, not-25)
+
+=========
+
+nsubj(explored-2, I-1)
+root(ROOT-0, explored-2)
+quantmod(10-5, at-3)
+mwe(at-3, least-4)
+pobj(at-3, least-4)
+num(reviews-6, 10-5)
+dobj(explored-2, reviews-6)
+prep_on(explored-2, K20D-8)
+nsubj(outstanding-15, all-11)
+prep_without(all-11, exception-13)
+cop(outstanding-15, were-14)
+conj_and(explored-2, outstanding-15)
+
+=========
+
+advmod(best-7, Indeed-1)
+det(camera-4, the-3)
+nsubj(best-7, camera-4)
+cop(best-7, is-5)
+det(best-7, the-6)
+root(ROOT-0, best-7)
+dobj(had-9, best-7)
+nsubj(had-9, I-8)
+rcmod(best-7, had-9)
+nn(F90X-12, Nikon-11)
+prep_since(had-9, F90X-12)
+dobj(purchased-15, which-13)
+rel(purchased-15, which-13)
+nsubj(purchased-15, I-14)
+rcmod(best-7, purchased-15)
+prep_in(purchased-15, 1996-17)
+advmod(purchased-15, just-19)
+det(beginning-22, the-21)
+prep_at(purchased-15, beginning-22)
+det(revolution-26, the-24)
+amod(revolution-26, digital-25)
+prep_of(beginning-22, revolution-26)
+
+=========
+
+amod(people-2, Most-1)
+nsubj(brainwashed-5, people-2)
+cop(brainwashed-5, are-3)
+advmod(brainwashed-5, absolutely-4)
+root(ROOT-0, brainwashed-5)
+det(media-8, the-7)
+prep_by(brainwashed-5, media-8)
+partmod(media-8, biased-9)
+prep_towards(biased-9, Pentax-11)
+
+=========
+
+nsubj(invest-4, Nikon-1)
+conj_and(Nikon-1, Canon-3)
+nsubj(invest-4, Canon-3)
+root(ROOT-0, invest-4)
+amod(amounts-6, astronomical-5)
+nsubj(advertise-10, amounts-6)
+nsubj(buy-12, amounts-6)
+prep_of(amounts-6, money-8)
+aux(advertise-10, to-9)
+xcomp(invest-4, advertise-10)
+xcomp(invest-4, buy-12)
+conj_and(advertise-10, buy-12)
+det(media-14, the-13)
+dobj(advertise-10, media-14)
+
+=========
+
+nsubj(brainwashing-4, It-1)
+aux(brainwashing-4, 's-2)
+advmod(brainwashing-4, simply-3)
+root(ROOT-0, brainwashing-4)
+
+=========
+
+nsubj(camera-5, Pentax-1)
+cop(camera-5, is-2)
+det(camera-5, THE-3)
+amod(camera-5, BEST-4)
+root(ROOT-0, camera-5)
+det(money-8, the-7)
+prep_for(camera-5, money-8)
+dobj(buy-11, money-8)
+nsubj(buy-11, you-9)
+aux(buy-11, can-10)
+rcmod(money-8, buy-11)
+
+=========
+
+nsubj(camera-6, Pentax-1)
+cop(camera-6, is-2)
+advmod(camera-6, also-3)
+nn(camera-6, feature-4)
+amod(camera-6, rich-5)
+root(ROOT-0, camera-6)
+rcmod(camera-6, produces-8)
+amod(images-10, stunning-9)
+dobj(produces-8, images-10)
+det(need-13, the-12)
+prep_without(produces-8, need-13)
+aux(photoshop-15, to-14)
+infmod(need-13, photoshop-15)
+advmod(photoshop-15, at-16)
+pobj(at-16, all-17)
+
+=========
+
+root(ROOT-0, Highly-1)
+advmod(reccomend-3, highly-2)
+acomp(Highly-1, reccomend-3)
+

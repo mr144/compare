@@ -1,0 +1,40 @@
+=========
+
+root(ROOT-0, Ship-1)
+dep(Ship-1, fast-2)
+
+=========
+
+cc(work-4, And-1)
+nsubj(work-4, they-2)
+aux(work-4, will-3)
+root(ROOT-0, work-4)
+dobj(ordered-8, what-6)
+nsubj(ordered-8, your-7)
+prepc_with(work-4, ordered-8)
+
+=========
+
+nsubj(stars-2, 5-1)
+root(ROOT-0, stars-2)
+prep_for(stars-2, sure-4)
+
+=========
+
+root(ROOT-0, Keep-1)
+det(service-4, the-2)
+amod(service-4, good-3)
+dobj(Keep-1, service-4)
+
+=========
+
+nsubj(make-3, They-1)
+aux(make-3, will-2)
+root(ROOT-0, make-3)
+acomp(make-3, sure-4)
+nsubj(get-6, you-5)
+ccomp(sure-4, get-6)
+dobj(want-9, what-7)
+nsubj(want-9, you-8)
+ccomp(get-6, want-9)
+

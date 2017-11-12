@@ -1,0 +1,35 @@
+=========
+
+nsubjpass(known-4, Toshiba-1)
+possessive(Toshiba-1, 's-2)
+auxpass(known-4, are-3)
+root(ROOT-0, known-4)
+nsubjpass(called-8, what-6)
+auxpass(called-8, 's-7)
+prepc_for(known-4, called-8)
+amod(banding-10, vertical-9)
+dobj(called-8, banding-10)
+mark(expect-14, so-11)
+nsubj(expect-14, you-12)
+xsubj(begin-16, you-12)
+aux(expect-14, can-13)
+advcl(called-8, expect-14)
+aux(begin-16, to-15)
+xcomp(expect-14, begin-16)
+xcomp(begin-16, seeing-17)
+dobj(seeing-17, them-18)
+num(months-21, 18-24-20)
+prep_in(seeing-17, months-21)
+
+=========
+
+amod(luck-2, Good-1)
+nsubj(support-6, luck-2)
+prep_with(luck-2, Toshiba-4)
+possessive(Toshiba-4, 's-5)
+root(ROOT-0, support-6)
+mark(non-existent-10, because-7)
+nsubj(non-existent-10, it-8)
+cop(non-existent-10, is-9)
+advcl(support-6, non-existent-10)
+

@@ -1,0 +1,4 @@
+Smartphone_NNP ?_.
+do_VB not_RB ridiculus_JJ ._.
+with_IN the_DT prize_NN ,_, this_DT phone_NN is_VBZ not_RB good_JJ enough_RB ._.
+It_PRP is_VBZ even_RB worse_JJR than_IN my_PRP$ old_JJ blackberry_NN curve_NN

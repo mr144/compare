@@ -1,0 +1,21 @@
+=========
+
+root(ROOT-0, Canon-1)
+nn(Canon-3, quality-2)
+iobj(Canon-1, Canon-3)
+nn(value-6, engineering-4)
+nn(value-6, Canon-5)
+dobj(Canon-1, value-6)
+advmod(value-6, all-7)
+prep_in(all-7, one-9)
+advmod(neat-11, very-10)
+amod(one-9, neat-11)
+dep(Canon-1, package-12)
+advmod(versatile-14, very-13)
+amod(lots-15, versatile-14)
+nsubj(available-18, lots-15)
+prep_of(lots-15, accessories-17)
+xcomp(package-12, available-18)
+nn(BUY-20, BUY-19)
+nsubj(Canon-1, BUY-20)
+

@@ -1,0 +1,4 @@
+Not_RB had_VBD time_NN to_TO test_VB it_PRP much_RB yet_RB ,_, but_CC it_PRP is_VBZ okay_JJ so_RB far_RB and_CC responds_VBZ well_RB -_: the_DT main_JJ reason_NN why_WRB I_PRP am_VBP upgrading_VBG from_IN my_PRP$ Olympus_NNP which_WDT responds_VBZ slowly_RB ._.
+Also_RB ,_, the_DT battery_NN life_NN seems_VBZ long_RB enough_RB ._.
+The_DT only_JJ problem_NN I_PRP have_VBP with_IN it_PRP is_VBZ that_IN the_DT letters_NNS on_IN the_DT dial_NN on_IN top_NN are_VBP not_RB intuitive_JJ unlike_IN my_PRP$ Olympus_NNP which_WDT used_VBD symbols_NNS all_DT through_IN ._.
+You_PRP 'll_MD really_RB need_VB to_TO read_VB the_DT manual_NN ..._:

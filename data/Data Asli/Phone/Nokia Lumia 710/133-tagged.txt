@@ -1,0 +1,4 @@
+Love_NNP the_DT os_NNS ._.
+Connect_VB to_TO Facebook_NNP and_CC Twitter_NNP and_CC Hotmail_NNP and_CC Yahoo_NNP Mail_NNP and_CC LinkedIn_NNP perfectly_RB ._.
+Great_JJ performance_NN ._.
+Battery_NNP life_NN is_VBZ not_RB long_RB enough_RB ,_, though_RB ._.

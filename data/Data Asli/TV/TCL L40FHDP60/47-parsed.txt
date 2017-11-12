@@ -1,0 +1,42 @@
+=========
+
+nn(picture-2, Great-1)
+nsubj(has-6, picture-2)
+conj_and(picture-2, sound-4)
+nsubj(has-6, sound-4)
+advmod(has-6, but-5)
+root(ROOT-0, has-6)
+det(time-10, a-7)
+advmod(hard-9, very-8)
+amod(time-10, hard-9)
+dobj(has-6, time-10)
+det(screws-13, the-12)
+prep_with(time-10, screws-13)
+det(stand-17, the-15)
+nn(stand-17, tv-16)
+prep_in(screws-13, stand-17)
+
+=========
+
+root(ROOT-0, Idk-1)
+mark(faulty-6, if-2)
+det(screws-4, the-3)
+nsubj(faulty-6, screws-4)
+aux(faulty-6, are-5)
+advcl(Idk-1, faulty-6)
+cc(spent-9, but-7)
+nsubj(spent-9, I-8)
+ccomp(faulty-6, spent-9)
+dobj(spent-9, hours-10)
+xsubj(get-13, hours-10)
+partmod(hours-10, trying-11)
+aux(get-13, to-12)
+xcomp(trying-11, get-13)
+dobj(get-13, them-14)
+prep(get-13, in-15)
+
+=========
+
+nn(Frustrating-2, Very-1)
+root(ROOT-0, Frustrating-2)
+

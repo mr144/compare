@@ -1,0 +1,141 @@
+=========
+
+nsubj(wanting-4, I-1)
+nsubj(decided-12, I-1)
+xsubj(buy-15, I-1)
+aux(wanting-4, have-2)
+aux(wanting-4, been-3)
+root(ROOT-0, wanting-4)
+dobj(wanting-4, this-5)
+prep(wanting-4, for-6)
+pcomp(for-6, over-7)
+det(year-9, a-8)
+prep_over(for-6, year-9)
+advmod(wanting-4, now-10)
+conj_and(wanting-4, decided-12)
+aux(buy-15, to-13)
+advmod(buy-15, finally-14)
+xcomp(decided-12, buy-15)
+dobj(buy-15, one-16)
+
+=========
+
+prepc_after(say-9, watching-2)
+conj_and(watching-2, reading-4)
+prepc_after(say-9, reading-4)
+amod(reviews-6, countless-5)
+dobj(watching-2, reviews-6)
+nsubj(say-9, i-7)
+aux(say-9, can-8)
+root(ROOT-0, say-9)
+complm(went-13, that-10)
+det(phone-12, this-11)
+nsubj(went-13, phone-12)
+ccomp(say-9, went-13)
+advmod(went-13, far-14)
+poss(expectations-17, my-16)
+prep_beyond(far-14, expectations-17)
+
+=========
+
+mark(isnt-8, Although-1)
+det(reason-4, some-3)
+prep_for(isnt-8, reason-4)
+poss(light-7, my-5)
+nn(light-7, indicator-6)
+nsubj(isnt-8, light-7)
+root(ROOT-0, isnt-8)
+xcomp(isnt-8, working-9)
+
+=========
+
+nsubj(like-4, I-1)
+aux(like-4, did-2)
+neg(like-4, not-3)
+root(ROOT-0, like-4)
+det(fat-6, the-5)
+dobj(like-4, fat-6)
+complm(needed-9, that-7)
+nsubj(needed-9, i-8)
+xsubj(connected-12, i-8)
+ccomp(like-4, needed-9)
+aux(connected-12, to-10)
+auxpass(connected-12, be-11)
+xcomp(needed-9, connected-12)
+det(internet-15, the-14)
+prep_to(connected-12, internet-15)
+prep_in(internet-15, order-17)
+aux(set-19, to-18)
+xcomp(connected-12, set-19)
+prt(set-19, up-20)
+poss(phone-22, my-21)
+dobj(set-19, phone-22)
+advmod(set-19, either-23)
+
+=========
+
+nsubj(wish-3, I-1)
+advmod(wish-3, also-2)
+root(ROOT-0, wish-3)
+complm(upgrade-8, that-4)
+det(phone-6, this-5)
+nsubj(upgrade-8, phone-6)
+xsubj(do-16, phone-6)
+aux(upgrade-8, could-7)
+ccomp(wish-3, upgrade-8)
+prep_to(upgrade-8, ICS-10)
+prep(ICS-10, but-11)
+det(way-14, the-12)
+amod(way-14, only-13)
+dep(but-11, way-14)
+aux(do-16, to-15)
+xcomp(upgrade-8, do-16)
+complm(is-18, that-17)
+ccomp(do-16, is-18)
+prepc_by(is-18, flashing-20)
+det(ROM-23, a-21)
+nn(ROM-23, custom-22)
+dobj(flashing-20, ROM-23)
+
+=========
+
+nsubj(nice-8, All-1)
+nsubj(beautiful-10, All-1)
+predet(phone-5, all-3)
+det(phone-5, the-4)
+prep_in(All-1, phone-5)
+cop(nice-8, is-6)
+advmod(nice-8, really-7)
+root(ROOT-0, nice-8)
+conj_and(nice-8, beautiful-10)
+
+=========
+
+nsubj(came-2, It-1)
+root(ROOT-0, came-2)
+dobj(came-2, brand-3)
+amod(brand-3, new-4)
+det(box-8, the-6)
+nn(box-8, factory-7)
+prep_in(came-2, box-8)
+det(tun-11, a-10)
+prep_with(came-2, tun-11)
+prep_of(tun-11, accessories-13)
+det(doc-17, the-15)
+nn(doc-17, media-16)
+prep_including(accessories-13, doc-17)
+prep_including(accessories-13, headphones-19)
+conj_and(doc-17, headphones-19)
+
+=========
+
+nsubj(regret-4, I-1)
+aux(regret-4, do-2)
+neg(regret-4, not-3)
+root(ROOT-0, regret-4)
+poss(purchase-6, my-5)
+dobj(regret-4, purchase-6)
+
+=========
+
+

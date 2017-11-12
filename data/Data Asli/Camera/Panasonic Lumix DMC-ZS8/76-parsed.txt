@@ -1,0 +1,153 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+prep_in(purchased-6, fact-2)
+nsubj(purchased-6, I-4)
+aux(purchased-6, have-5)
+root(ROOT-0, purchased-6)
+dobj(purchased-6, two-7)
+advmod(far-9, so-8)
+advmod(purchased-6, far-9)
+
+=========
+
+cc(is-4, But-1)
+poss(review-3, my-2)
+nsubj(is-4, review-3)
+xsubj(call-6, review-3)
+root(ROOT-0, is-4)
+aux(call-6, to-5)
+xcomp(is-4, call-6)
+dobj(call-6, attention-7)
+det(fact-10, the-9)
+prep_to(call-6, fact-10)
+complm(bought-13, that-11)
+nsubj(bought-13, I-12)
+ccomp(call-6, bought-13)
+dobj(bought-13, one-14)
+prep_in(bought-13, March-16)
+prep_for(bought-13, 179.99-18)
+
+=========
+
+num(days-2, 5-1)
+npadvmod(ago-3, days-2)
+advmod(wanted-5, ago-3)
+nsubj(wanted-5, I-4)
+root(ROOT-0, wanted-5)
+det(one-7, another-6)
+nsubj(194.99-12, one-7)
+det(price-10, the-9)
+conj_and(one-7, price-10)
+nsubj(194.99-12, price-10)
+cop(194.99-12, was-11)
+ccomp(wanted-5, 194.99-12)
+
+=========
+
+amod(prices-5, Seemd-1)
+amod(prices-5, strange-2)
+prep_since(strange-2, electronics-4)
+nsubj(go-7, prices-5)
+advmod(go-7, usually-6)
+root(ROOT-0, go-7)
+advmod(go-7, down-8)
+dep(up-11, not-10)
+advmod(go-7, up-11)
+
+=========
+
+cc(best-5, But-1)
+nsubj(best-5, that-2)
+cop(best-5, was-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+dobj(find-8, best-5)
+nsubj(find-8, I-6)
+aux(find-8, could-7)
+rcmod(best-5, find-8)
+prep_on(find-8, Amazon-10)
+
+=========
+
+dep(bought-3, So-1)
+nsubj(bought-3, I-2)
+nsubj(found-9, I-2)
+root(ROOT-0, bought-3)
+dobj(bought-3, it-4)
+num(days-7, 3-6)
+tmod(found-9, days-7)
+advmod(days-7, later-8)
+conj_and(bought-3, found-9)
+det(price-11, the-10)
+nsubj(dropped-13, price-11)
+aux(dropped-13, had-12)
+dep(found-9, dropped-13)
+prep_to(dropped-13, 179.99-15)
+
+=========
+
+nsubj(contacted-2, I-1)
+root(ROOT-0, contacted-2)
+dobj(contacted-2, Amazon-3)
+poss(credit-7, their-6)
+prep_to(refunded-10, credit-7)
+nsubj(refunded-10, they-9)
+conj_and(contacted-2, refunded-10)
+prep_to(refunded-10, me-12)
+det(difference-15, the-13)
+num(difference-15, 15.00-14)
+dobj(refunded-10, difference-15)
+
+=========
+
+num(days-2, Two-1)
+npadvmod(later-3, days-2)
+advmod(saw-8, later-3)
+tmod(saw-8, today-5)
+nsubj(saw-8, I-7)
+root(ROOT-0, saw-8)
+det(ad-10, an-9)
+dobj(saw-8, ad-10)
+det(camera-13, the-12)
+prep_for(saw-8, camera-13)
+det(site-17, a-15)
+nn(site-17, news-16)
+prep_on(saw-8, site-17)
+nsubj(149.99-22, it-19)
+cop(149.99-22, is-20)
+advmod(149.99-22, now-21)
+conj_and(saw-8, 149.99-22)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(ship-7, Amazon-3)
+nsubj(ship-7, they-5)
+advmod(ship-7, often-6)
+ccomp(love-2, ship-7)
+prep_to(ship-7, Alaska-9)
+prep_for(ship-7, free-11)
+dobj(do-15, free-11)
+rel(do-15, which-12)
+nsubj(do-15, others-13)
+advmod(do-15, rarely-14)
+rcmod(free-11, do-15)
+nsubj(understand-21, I-18)
+aux(understand-21, can-19)
+neg(understand-21, not-20)
+conj_but(love-2, understand-21)
+advmod(keeps-25, why-22)
+det(price-24, the-23)
+nsubj(keeps-25, price-24)
+advcl(understand-21, keeps-25)
+xcomp(keeps-25, changing-26)
+prt(changing-26, around-27)
+

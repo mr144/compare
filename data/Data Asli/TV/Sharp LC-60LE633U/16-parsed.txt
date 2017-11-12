@@ -1,0 +1,175 @@
+=========
+
+dep(Shoppers-2, Hello-1)
+root(ROOT-0, Shoppers-2)
+
+=========
+
+nsubj(let-2, Ok-1)
+root(ROOT-0, let-2)
+nsubj(start-4, me-3)
+ccomp(let-2, start-4)
+prt(start-4, off-5)
+nsubj(have-10, I-7)
+aux(have-10, do-8)
+neg(have-10, not-9)
+dep(let-2, have-10)
+dobj(have-10, it-11)
+nsubj(watched-16, I-14)
+nsubj(shows-23, I-14)
+aux(watched-16, have-15)
+conj_but(let-2, watched-16)
+det(movies-21, the-18)
+nn(movies-21, TV-19)
+nn(movies-21, multiple-20)
+prep_on(watched-16, movies-21)
+conj_but(let-2, shows-23)
+conj_and(watched-16, shows-23)
+
+=========
+
+nsubj(say-3, I-1)
+aux(say-3, will-2)
+root(ROOT-0, say-3)
+nsubj(TV-9, it-4)
+cop(TV-9, is-5)
+det(TV-9, a-6)
+advmod(good-8, very-7)
+amod(TV-9, good-8)
+ccomp(say-3, TV-9)
+
+=========
+
+advmod(smooth-2, Very-1)
+root(ROOT-0, smooth-2)
+dobj(smooth-2, motion-3)
+advmod(clear-6, very-5)
+amod(picture-9, clear-6)
+conj_and(clear-6, great-8)
+amod(picture-9, great-8)
+dobj(smooth-2, picture-9)
+
+=========
+
+nsubj(true-3, It-1)
+cop(true-3, 's-2)
+root(ROOT-0, true-3)
+dep(specs-7, to-4)
+nsubj(specs-7, it-5)
+cop(specs-7, is-6)
+ccomp(true-3, specs-7)
+
+=========
+
+advmod(felt-16, Now-1)
+prep_to(felt-16, me-4)
+mark(is-9, if-6)
+nsubj(is-9, anyone-7)
+advmod(anyone-7, else-8)
+advcl(felt-16, is-9)
+prep_like(is-9, this-11)
+nsubj(felt-16, it-13)
+dep(of-15, kind-14)
+advmod(felt-16, of-15)
+root(ROOT-0, felt-16)
+prep(felt-16, like-17)
+dep(like-17, watching-18)
+dobj(watching-18, the-19)
+det(Scenes-22, the-21)
+prep_behind(the-19, Scenes-22)
+cc(watching-18, or-23)
+nsubj(know-28, I-25)
+aux(know-28, do-26)
+neg(know-28, not-27)
+parataxis(felt-16, know-28)
+advmod(explain-31, how-29)
+aux(explain-31, to-30)
+ccomp(know-28, explain-31)
+xcomp(know-28, explain-31)
+dobj(explain-31, it-32)
+
+=========
+
+nsubj(made-2, It-1)
+root(ROOT-0, made-2)
+nsubj(look-4, it-3)
+ccomp(made-2, look-4)
+neg(look-4, not-5)
+dep(made-2, movie-like-7)
+
+=========
+
+nsubj(know-2, You-1)
+root(ROOT-0, know-2)
+det(movie-feel-5, the-4)
+dobj(know-2, movie-feel-5)
+det(lighting-8, the-7)
+prep_from(know-2, lighting-8)
+prep_from(know-2, motion-11)
+conj_and(lighting-8, motion-11)
+
+=========
+
+nsubjpass(supposed-3, It-1)
+xsubj(smooth-6, It-1)
+auxpass(supposed-3, 's-2)
+root(ROOT-0, supposed-3)
+aux(smooth-6, to-4)
+cop(smooth-6, be-5)
+xcomp(supposed-3, smooth-6)
+xcomp(supposed-3, 60FPS-8)
+conj_and(smooth-6, 60FPS-8)
+prep_to(hard-17, me-12)
+nsubj(hard-17, it-13)
+cop(hard-17, was-14)
+advmod(hard-17, just-15)
+advmod(hard-17, very-16)
+conj_but(supposed-3, hard-17)
+aux(used-20, to-18)
+auxpass(used-20, get-19)
+xcomp(hard-17, used-20)
+xcomp(used-20, to-21)
+
+=========
+
+csubj(changed-7, Watching-1)
+det(Dead-4, The-2)
+amod(Dead-4, Walking-3)
+dobj(Watching-1, Dead-4)
+prep_on(Dead-4, it-6)
+root(ROOT-0, changed-7)
+det(experience-9, the-8)
+dobj(changed-7, experience-9)
+
+=========
+
+nsubj(made-2, It-1)
+root(ROOT-0, made-2)
+nsubj(bright-4, it-3)
+nsubj(smooth-7, it-3)
+xcomp(made-2, bright-4)
+advmod(smooth-7, too-6)
+xcomp(made-2, smooth-7)
+conj_and(bright-4, smooth-7)
+xcomp(made-2, detailing-9)
+det(camera-11, the-10)
+dobj(detailing-9, camera-11)
+partmod(camera-11, shaking-12)
+
+=========
+
+nsubj(me-4, That-1)
+aux(me-4, 's-2)
+advmod(me-4, just-3)
+root(ROOT-0, me-4)
+advmod(me-4, though-5)
+
+=========
+
+mark(are-3, If-1)
+nsubj(are-3, you-2)
+advcl(go-7, are-3)
+prep_like(are-3, this-5)
+root(ROOT-0, go-7)
+dobj(go-7, in-store-8)
+

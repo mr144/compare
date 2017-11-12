@@ -1,0 +1,33 @@
+=========
+
+nsubj(smartphone-5, this-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, best-4)
+root(ROOT-0, smartphone-5)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+nsubj(works-4, it-3)
+ccomp(like-2, works-4)
+dobj(works-4, fine-5)
+det(expansion-10, no-7)
+nn(expansion-10, sd-8)
+nn(expansion-10, card-9)
+appos(fine-5, expansion-10)
+
+=========
+
+det(battery-2, The-1)
+nsubj(lasts-3, battery-2)
+root(ROOT-0, lasts-3)
+advmod(lasts-3, long-4)
+nsubj(product-10, it-6)
+cop(product-10, is-7)
+det(product-10, a-8)
+amod(product-10, good-9)
+conj_and(lasts-3, product-10)
+advmod(product-10, overall-11)
+

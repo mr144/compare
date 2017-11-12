@@ -1,0 +1,118 @@
+=========
+
+det(speed-3, The-1)
+nn(speed-3, shipping-2)
+nsubj(slow-7, speed-3)
+cop(slow-7, is-4)
+advmod(slow-7, very-5)
+advmod(slow-7, very-6)
+root(ROOT-0, slow-7)
+
+=========
+
+advmod(month-3, Nearly-1)
+det(month-3, half-2)
+root(ROOT-0, month-3)
+
+=========
+
+nsubj(gave-2, I-1)
+root(ROOT-0, gave-2)
+amod(calls-4, many-3)
+dobj(gave-2, calls-4)
+aux(ask-6, to-5)
+xcomp(gave-2, ask-6)
+dobj(ask-6, them-7)
+advmod(order-11, where-8)
+cop(order-11, is-9)
+poss(order-11, my-10)
+advcl(ask-6, order-11)
+
+=========
+
+num(tomorrow-2, &#34;-1)
+tmod(tell-7, tomorrow-2)
+tmod(tell-7, tomorrow-3)
+nsubj(tell-7, &#34;-4)
+det(result-6, the-5)
+dep(&#34;-4, result-6)
+root(ROOT-0, tell-7)
+dobj(tell-7, me-8)
+complm(believe-13, that-9)
+nsubj(believe-13, I-10)
+aux(believe-13, can-11)
+neg(believe-13, not-12)
+ccomp(tell-7, believe-13)
+dobj(believe-13, them-14)
+advmod(believe-13, again-15)
+pobj(again-15, .2-16)
+
+=========
+
+nsubj(said-2, It-1)
+root(ROOT-0, said-2)
+det(phone-5, a-3)
+num(phone-5, 4GB-4)
+dobj(said-2, phone-5)
+dobj(said-2, actually-8)
+advmod(phone-5, actually-8)
+conj_but(phone-5, actually-8)
+det(system-10, the-9)
+dobj(said-2, system-10)
+conj_but(phone-5, system-10)
+advmod(available-12, just-11)
+amod(space-16, available-12)
+num(Mb-14, 800-13)
+npadvmod(free-15, Mb-14)
+amod(space-16, free-15)
+dep(system-10, space-16)
+
+=========
+
+cc(have-6, And-1)
+det(space-4, the-2)
+nn(space-4, usb-3)
+nsubj(have-6, space-4)
+advmod(have-6, just-5)
+root(ROOT-0, have-6)
+num(GB-8, 1-7)
+dobj(have-6, GB-8)
+
+=========
+
+nsubj(sent-2, I-1)
+ccomp(told-9, sent-2)
+dep(sent-2, e-mail-3)
+det(seller-6, the-5)
+prep_to(e-mail-3, seller-6)
+nsubj(told-9, he-8)
+root(ROOT-0, told-9)
+dobj(told-9, me-10)
+complm(takes-16, that-11)
+det(system-14, the-12)
+amod(system-14, operate-13)
+nsubj(takes-16, system-14)
+advmod(system-14, itself-15)
+ccomp(told-9, takes-16)
+prt(takes-16, up-17)
+amod(space-19, much-18)
+dobj(takes-16, space-19)
+
+=========
+
+dep(joke-10, Take-1)
+mwe(than-3, more-2)
+quantmod(3GB-4, than-3)
+num(?!-6, 3GB-4)
+nn(?!-6, space-5)
+dobj(Take-1, ?!-6)
+nsubj(joke-10, It-7)
+cop(joke-10, 's-8)
+det(joke-10, a-9)
+root(ROOT-0, joke-10)
+
+=========
+
+root(ROOT-0, Not-1)
+dep(Not-1, honesty-2)
+

@@ -1,0 +1,49 @@
+=========
+
+nsubj(plugged-12, Took-1)
+det(tv-3, the-2)
+npadvmod(Took-1, tv-3)
+det(box-7, the-6)
+prep_out_of(Took-1, box-7)
+partmod(Took-1, attached-9)
+dobj(attached-9, stand-10)
+root(ROOT-0, plugged-12)
+dobj(plugged-12, it-13)
+prep(plugged-12, in-14)
+pcomp(in-14, to-15)
+nn(outlet-17, wall-16)
+prep_to(in-14, outlet-17)
+nn(box-20, cable-19)
+prep_to(in-14, box-20)
+conj_and(outlet-17, box-20)
+
+=========
+
+nsubj(is-2, TV-1)
+root(ROOT-0, is-2)
+prep_in(is-2, room-4)
+amod(sunlight-7, abundant-6)
+prep_with(room-4, sunlight-7)
+prep_in(sunlight-7, morning-9)
+nsubj(have-12, we-11)
+conj_and(is-2, have-12)
+det(problem-14, no-13)
+dobj(have-12, problem-14)
+nn(quality-17, picture-16)
+prep_with(have-12, quality-17)
+det(time-20, any-19)
+prep_at(quality-17, time-20)
+
+=========
+
+amod(quality-2, Sound-1)
+nsubj(good-4, quality-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+advmod(good-4, too-6)
+
+=========
+
+det(complaints-2, No-1)
+root(ROOT-0, complaints-2)
+

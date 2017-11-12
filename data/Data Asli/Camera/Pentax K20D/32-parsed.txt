@@ -1,0 +1,30 @@
+=========
+
+root(ROOT-0, Ditto-1)
+predet(reviews-4, all-2)
+det(reviews-4, the-3)
+dep(Ditto-1, reviews-4)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+dobj(change-6, thing-3)
+nsubj(weight-9, thing-3)
+nsubj(change-6, I-4)
+aux(change-6, would-5)
+rcmod(thing-3, change-6)
+cop(weight-9, is-7)
+det(weight-9, the-8)
+root(ROOT-0, weight-9)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+nsubj(lighter-7, it-3)
+cop(lighter-7, were-4)
+det(bit-6, a-5)
+npadvmod(lighter-7, bit-6)
+ccomp(wish-2, lighter-7)
+

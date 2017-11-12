@@ -1,0 +1,98 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+amod(hands-4, big-3)
+dobj(have-2, hands-4)
+nsubj(shake-7, I-6)
+conj_and(have-2, shake-7)
+acomp(shake-7, alittle-8)
+advmod(holding-10, when-9)
+advcl(shake-7, holding-10)
+dobj(holding-10, something-11)
+advmod(long-14, very-13)
+prep_for(holding-10, long-14)
+
+=========
+
+poss(P90-3, My-1)
+nn(P90-3, Coolpix-2)
+nsubj(is-4, P90-3)
+root(ROOT-0, is-4)
+dep(looking-10, just-5)
+dep(just-5, what-6)
+nsubj(looking-10, I-7)
+aux(looking-10, had-8)
+aux(looking-10, been-9)
+ccomp(is-4, looking-10)
+prep(looking-10, for-11)
+
+=========
+
+advmod(take-4, Now-1)
+nsubj(take-4, I-2)
+nsubj(secure-10, I-2)
+aux(take-4, can-3)
+root(ROOT-0, take-4)
+dobj(take-4, pictures-5)
+poss(Grandbabies-8, my-7)
+prep_of(pictures-5, Grandbabies-8)
+conj_and(take-4, secure-10)
+poss(stuff-12, my-11)
+dobj(secure-10, stuff-12)
+nn(purposes-15, insurance-14)
+prep_for(secure-10, purposes-15)
+
+=========
+
+det(camera-3, The-1)
+amod(camera-3, reconditioned-2)
+nsubj(was-4, camera-3)
+root(ROOT-0, was-4)
+poss(range-8, my-6)
+nn(range-8, price-7)
+prep_in(was-4, range-8)
+nsubj(pleased-15, I-10)
+aux(pleased-15, could-11)
+neg(pleased-15, not-12)
+cop(pleased-15, be-13)
+advmod(pleased-15, more-14)
+conj_and(was-4, pleased-15)
+
+=========
+
+poss(Garnddaughter-2, My-1)
+nsubj(purchased-5, Garnddaughter-2)
+aux(purchased-5, had-3)
+advmod(purchased-5, just-4)
+root(ROOT-0, purchased-5)
+det(one-8, the-6)
+amod(one-8, same-7)
+dobj(purchased-5, one-8)
+amod(weeks-10, several-9)
+npadvmod(ago-11, weeks-10)
+advmod(purchased-5, ago-11)
+nsubj(saw-14, I-13)
+conj_and(purchased-5, saw-14)
+det(results-16, the-15)
+dobj(saw-14, results-16)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, great-3)
+dobj(takes-2, pictures-4)
+nsubj(easy-8, it-6)
+cop(easy-8, is-7)
+conj_and(takes-2, easy-8)
+aux(use-10, to-9)
+xcomp(easy-8, use-10)
+
+=========
+
+nn(McGuire-4, Thanks-1)
+nn(McGuire-4, Amazon.com-2)
+nn(McGuire-4, Johnny-3)
+root(ROOT-0, McGuire-4)
+

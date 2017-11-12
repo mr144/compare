@@ -1,0 +1,194 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(taking-3, I-1)
+aux(taking-3, am-2)
+root(ROOT-0, taking-3)
+amod(photos-7, more-4)
+conj_and(more-4, better-6)
+amod(photos-7, better-6)
+dobj(taking-3, photos-7)
+mark(have-11, than-8)
+nsubj(have-11, I-9)
+advmod(have-11, ever-10)
+advcl(taking-3, have-11)
+advmod(have-11, before-12)
+
+=========
+
+nsubj(found-4, I-1)
+aux(found-4, have-2)
+neg(found-4, not-3)
+root(ROOT-0, found-4)
+dobj(found-4, anything-5)
+amod(anything-5, negative-6)
+aux(say-8, to-7)
+xcomp(found-4, say-8)
+det(camera-11, this-10)
+prep_about(say-8, camera-11)
+advmod(say-8, yet-12)
+
+=========
+
+det(way-3, The-1)
+amod(way-3, only-2)
+nsubj(be-11, way-3)
+aux(make-5, to-4)
+infmod(way-3, make-5)
+dobj(make-5, it-6)
+dep(better-8, any-7)
+advmod(make-5, better-8)
+prep(make-5, for-9)
+aux(be-11, would-10)
+root(ROOT-0, be-11)
+aux(sell-13, to-12)
+xcomp(be-11, sell-13)
+nsubj(cheaper-15, it-14)
+xcomp(sell-13, cheaper-15)
+
+=========
+
+det(video-3, The-1)
+nn(video-3, HD-2)
+nsubj(good-6, video-3)
+xsubj(use-10, video-3)
+cop(good-6, is-4)
+advmod(good-6, stunningly-5)
+root(ROOT-0, good-6)
+dep(good-6, easy-8)
+aux(use-10, to-9)
+xcomp(good-6, use-10)
+det(zoom-13, the-12)
+nsubj(operates-14, zoom-13)
+conj_and(good-6, operates-14)
+nn(mode-18, HD-16)
+nn(mode-18, movie-17)
+prep_in(operates-14, mode-18)
+
+=========
+
+det(zoom-3, The-1)
+amod(zoom-3, big-2)
+nsubj(allows-4, zoom-3)
+root(ROOT-0, allows-4)
+nsubj(get-7, me-5)
+aux(get-7, to-6)
+xcomp(allows-4, get-7)
+dobj(get-7, close-8)
+det(resolution-13, the-11)
+amod(resolution-13, high-12)
+nsubj(allows-14, resolution-13)
+conj_and(allows-4, allows-14)
+nsubj(use-16, me-15)
+ccomp(allows-14, use-16)
+det(software-19, the-17)
+nn(software-19, editing-18)
+nsubj(zoom-21, software-19)
+aux(zoom-21, to-20)
+xcomp(use-16, zoom-21)
+advmod(more-24, even-23)
+prep_in(zoom-21, more-24)
+advmod(good-27, amazingly-26)
+amod(results-28, good-27)
+prep_with(more-24, results-28)
+
+=========
+
+advmod(photographer-4, Only-1)
+det(photographer-4, a-2)
+amod(photographer-4, professional-3)
+nsubj(find-6, photographer-4)
+aux(find-6, could-5)
+root(ROOT-0, find-6)
+det(camera-8, this-7)
+dobj(find-6, camera-8)
+partmod(camera-8, lacking-9)
+
+=========
+
+det(life-3, The-1)
+nn(life-3, battery-2)
+nsubj(good-6, life-3)
+cop(good-6, is-4)
+advmod(good-6, very-5)
+ccomp(come-11, good-6)
+nsubj(come-11, I-8)
+aux(come-11, have-9)
+neg(come-11, never-10)
+root(ROOT-0, come-11)
+prepc_close_to(come-11, running-14)
+det(battery-16, the-15)
+dobj(running-14, battery-16)
+prt(running-14, down-17)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+advcl(set-15, want-3)
+det(camera-5, a-4)
+dobj(want-3, camera-5)
+complm(power-10, that-6)
+nsubj(power-10, you-7)
+nsubj(shoot-13, you-7)
+aux(power-10, can-8)
+advmod(power-10, just-9)
+ccomp(want-3, power-10)
+advmod(power-10, up-11)
+ccomp(want-3, shoot-13)
+conj_and(power-10, shoot-13)
+root(ROOT-0, set-15)
+det(one-17, this-16)
+dobj(set-15, one-17)
+nn(Auto-20, Intelligent-19)
+prep_to(set-15, Auto-20)
+conj_and(set-15, start-22)
+dobj(start-22, shooting-23)
+
+=========
+
+advmod(timer-4, Even-1)
+det(timer-4, the-2)
+nn(timer-4, auto-3)
+nsubj(works-5, timer-4)
+root(ROOT-0, works-5)
+advmod(works-5, well-6)
+
+=========
+
+det(system-3, The-1)
+nn(system-3, menu-2)
+nsubj(easy-5, system-3)
+cop(easy-5, is-4)
+root(ROOT-0, easy-5)
+aux(use-7, to-6)
+xcomp(easy-5, use-7)
+
+=========
+
+det(quality-3, The-1)
+amod(quality-3, video-2)
+nsubj(better-5, quality-3)
+cop(better-5, is-4)
+root(ROOT-0, better-5)
+det(camcorder-8, any-7)
+prep_than(better-5, camcorder-8)
+nsubj(owned-12, I-9)
+aux(owned-12, have-10)
+advmod(owned-12, ever-11)
+ccomp(better-5, owned-12)
+
+=========
+
+det(camera-2, This-1)
+nsubj(winner-5, camera-2)
+cop(winner-5, is-3)
+det(winner-5, a-4)
+root(ROOT-0, winner-5)
+

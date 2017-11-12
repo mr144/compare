@@ -1,0 +1,33 @@
+=========
+
+dep(quality-6, Well-1)
+dep(Well-1, constructed-2)
+amod(quality-6, solid-4)
+nn(quality-6, picture-5)
+root(ROOT-0, quality-6)
+
+=========
+
+nsubjpass(impressed-4, I-1)
+auxpass(impressed-4, am-2)
+neg(impressed-4, not-3)
+root(ROOT-0, impressed-4)
+det(speakers-7, the-6)
+agent(impressed-4, speakers-7)
+det(number-11, the-9)
+amod(number-11, limited-10)
+agent(impressed-4, number-11)
+conj_and(speakers-7, number-11)
+prep_of(number-11, apps-13)
+
+=========
+
+advmod(theater-9, Otherwise-1)
+det(addition-5, a-2)
+advmod(nice-4, very-3)
+amod(addition-5, nice-4)
+nsubj(theater-9, addition-5)
+poss(home-8, my-7)
+prep_to(addition-5, home-8)
+root(ROOT-0, theater-9)
+

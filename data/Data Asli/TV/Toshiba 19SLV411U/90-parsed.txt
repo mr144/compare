@@ -1,0 +1,67 @@
+=========
+
+nsubj(HDTV-5, This-1)
+cop(HDTV-5, is-2)
+poss(HDTV-5, my-3)
+amod(HDTV-5, first-4)
+root(ROOT-0, HDTV-5)
+advmod(pleased-12, overall-8)
+nsubj(pleased-12, I-9)
+cop(pleased-12, am-10)
+advmod(pleased-12, very-11)
+conj_and(HDTV-5, pleased-12)
+
+=========
+
+det(setup-2, The-1)
+nsubj(quick-4, setup-2)
+nsubj(easy-6, setup-2)
+cop(quick-4, was-3)
+root(ROOT-0, quick-4)
+conj_and(quick-4, easy-6)
+det(quality-11, the-9)
+nn(quality-11, picture-10)
+nsubj(exceptional-13, quality-11)
+cop(exceptional-13, is-12)
+conj_and(quick-4, exceptional-13)
+
+=========
+
+advmod(shallow-8, However-1)
+det(sound-4, the-3)
+nsubj(shallow-8, sound-4)
+nsubj(tinny-10, sound-4)
+cop(shallow-8, is-5)
+advmod(shallow-8, even-6)
+advmod(shallow-8, more-7)
+root(ROOT-0, shallow-8)
+conj_and(shallow-8, tinny-10)
+mark(indicated-15, than-11)
+amod(reviewers-13, previous-12)
+nsubj(indicated-15, reviewers-13)
+aux(indicated-15, have-14)
+advcl(shallow-8, indicated-15)
+
+=========
+
+csubj(desirable-11, Hooking-1)
+prt(Hooking-1, up-2)
+det(TV-4, the-3)
+dobj(Hooking-1, TV-4)
+amod(speakers-7, amplified-6)
+prep_to(Hooking-1, speakers-7)
+cop(desirable-11, is-8)
+neg(desirable-11, not-9)
+advmod(desirable-11, only-10)
+ccomp(essential-16, desirable-11)
+nsubj(essential-16, it-13)
+cop(essential-16, is-14)
+advmod(essential-16, absolutely-15)
+root(ROOT-0, essential-16)
+mark(enjoy-20, in-17)
+dep(enjoy-20, order-18)
+aux(enjoy-20, to-19)
+purpcl(essential-16, enjoy-20)
+det(TV-22, this-21)
+dobj(enjoy-20, TV-22)
+

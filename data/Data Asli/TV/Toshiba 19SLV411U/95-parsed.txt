@@ -1,0 +1,86 @@
+=========
+
+advmod(nice-2, Very-1)
+amod(picture-3, nice-2)
+root(ROOT-0, picture-3)
+advmod(good-6, very-5)
+amod(value-7, good-6)
+conj_and(picture-3, value-7)
+det(money-10, the-9)
+prep_for(value-7, money-10)
+
+=========
+
+amod(quality-2, Sound-1)
+nsubj(lacking-4, quality-2)
+aux(lacking-4, is-3)
+root(ROOT-0, lacking-4)
+
+=========
+
+poss(laptop-3, My-1)
+nn(laptop-3, Lenovo-2)
+nsubj(has-4, laptop-3)
+root(ROOT-0, has-4)
+advmod(sound-6, better-5)
+amod(quality-7, sound-6)
+dobj(has-4, quality-7)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+det(bedroom-6, the-5)
+prep_for(this-3, bedroom-6)
+nsubj(big-11, it-8)
+cop(big-11, is-9)
+advmod(big-11, pretty-10)
+conj_but(bought-2, big-11)
+prep_for(big-11, bedroom-13)
+
+=========
+
+nsubj(have-3, I-1)
+xsubj(buy-5, I-1)
+aux(have-3, will-2)
+root(ROOT-0, have-3)
+aux(buy-5, to-4)
+xcomp(have-3, buy-5)
+det(arm-9, a-6)
+amod(arm-9, big-7)
+nn(arm-9, articulating-8)
+dobj(buy-5, arm-9)
+aux(move-11, to-10)
+xcomp(buy-5, move-11)
+dobj(move-11, it-12)
+det(way-16, the-15)
+prep_out_of(move-11, way-16)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+complm(has-5, that-3)
+nsubj(has-5, it-4)
+ccomp(like-2, has-5)
+det(connections-7, all-6)
+dobj(has-5, connections-7)
+dobj(has-5, controls-9)
+conj_and(connections-7, controls-9)
+prep_on(connections-7, side-11)
+prep_of(side-11, TV-13)
+
+=========
+
+det(lot-2, A-1)
+nsubj(have-8, lot-2)
+prep_of(lot-2, tv-4)
+possessive(tv-4, 's-5)
+advmod(have-8, now-6)
+advmod(have-8, only-7)
+root(ROOT-0, have-8)
+dobj(have-8, controls-9)
+det(remote-12, the-11)
+prep_on(controls-9, remote-12)
+

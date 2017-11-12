@@ -1,0 +1,68 @@
+=========
+
+nn(set-up-2, Easy-1)
+nsubj(fantastic-8, set-up-2)
+det(quality-6, the-4)
+nn(quality-6, picture-5)
+conj_and(set-up-2, quality-6)
+nsubj(fantastic-8, quality-6)
+cop(fantastic-8, is-7)
+root(ROOT-0, fantastic-8)
+
+=========
+
+det(issue-3, The-1)
+amod(issue-3, only-2)
+dobj(have-5, issue-3)
+nsubj(is-6, issue-3)
+nsubj(have-5, I-4)
+rcmod(issue-3, have-5)
+root(ROOT-0, is-6)
+det(remote-10, the-8)
+amod(remote-10, universal-9)
+prep_with(is-6, remote-10)
+
+=========
+
+nn(feature-3, Channel-1)
+nn(feature-3, list-2)
+nsubj(seem-6, feature-3)
+xsubj(function-8, feature-3)
+aux(seem-6, does-4)
+neg(seem-6, not-5)
+root(ROOT-0, seem-6)
+aux(function-8, to-7)
+xcomp(seem-6, function-8)
+dep(seem-6, so-10)
+nsubj(have-12, I-11)
+xsubj(use-14, I-11)
+ccomp(seem-6, have-12)
+aux(use-14, to-13)
+xcomp(have-12, use-14)
+det(remote-16, the-15)
+dobj(use-14, remote-16)
+nsubjpass(provided-19, remote-16)
+auxpass(provided-19, is-18)
+rcmod(remote-16, provided-19)
+poss(provider-23, my-21)
+nn(provider-23, cable-22)
+agent(provided-19, provider-23)
+aux(get-25, to-24)
+xcomp(provided-19, get-25)
+det(listing-28, the-26)
+nn(listing-28, channel-27)
+dobj(get-25, listing-28)
+prt(get-25, up-29)
+
+=========
+
+ccomp(feel-6, Other-1)
+prep_than(Other-1, that-3)
+nsubj(feel-6, I-5)
+root(ROOT-0, feel-6)
+nsubj(made-8, I-7)
+ccomp(feel-6, made-8)
+det(purchase-11, a-9)
+amod(purchase-11, good-10)
+dobj(made-8, purchase-11)
+

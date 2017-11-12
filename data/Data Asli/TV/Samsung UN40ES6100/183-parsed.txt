@@ -1,0 +1,44 @@
+=========
+
+root(ROOT-0, Easy-1)
+aux(set-3, to-2)
+dep(Easy-1, set-3)
+prt(set-3, up-4)
+
+=========
+
+root(ROOT-0, Great-1)
+nn(quality-5, picture-2)
+conj_and(picture-2, color-4)
+nn(quality-5, color-4)
+dep(Great-1, quality-5)
+
+=========
+
+advmod(problem-2, Only-1)
+nsubj(screen-5, problem-2)
+cop(screen-5, is-3)
+det(screen-5, the-4)
+root(ROOT-0, screen-5)
+rcmod(screen-5, has-6)
+det(pattern-10, a-7)
+amod(pattern-10, random-8)
+amod(pattern-10, dark-9)
+dobj(has-6, pattern-10)
+det(side-16, the-12)
+amod(side-16, top-13)
+conj_and(top-13, right-15)
+amod(side-16, right-15)
+prep_along(pattern-10, side-16)
+mark(pulled-20, like-18)
+nsubj(pulled-20, it-19)
+advcl(has-6, pulled-20)
+advmod(pulled-20, apart-21)
+
+=========
+
+nsubj(exchanging-3, Will-1)
+aux(exchanging-3, be-2)
+root(ROOT-0, exchanging-3)
+prep_for(exchanging-3, another-5)
+

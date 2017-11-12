@@ -1,0 +1,123 @@
+=========
+
+det(camera-2, This-1)
+nsubj(amazing-5, camera-2)
+aux(amazing-5, has-3)
+cop(amazing-5, been-4)
+root(ROOT-0, amazing-5)
+
+=========
+
+det(angle-3, The-1)
+amod(angle-3, wide-2)
+nsubj(exceptional-5, angle-3)
+cop(exceptional-5, is-4)
+root(ROOT-0, exceptional-5)
+
+=========
+
+nsubj(photographers-5, People-1)
+nsubjpass(impressed-10, People-1)
+cop(photographers-5, are-3)
+amod(photographers-5, professional-4)
+rcmod(People-1, photographers-5)
+aux(impressed-10, have-6)
+advmod(impressed-10, even-7)
+auxpass(impressed-10, been-8)
+advmod(impressed-10, grudgingly-9)
+root(ROOT-0, impressed-10)
+det(capability-15, the-12)
+amod(capability-15, wide-13)
+nn(capability-15, angle-14)
+prep_with(impressed-10, capability-15)
+det(camera-18, this-17)
+prep_of(capability-15, camera-18)
+
+=========
+
+det(video-2, The-1)
+nsubj(quality-5, video-2)
+cop(quality-5, is-3)
+amod(quality-5, nice-4)
+root(ROOT-0, quality-5)
+advmod(well-7, as-6)
+mwe(well-7, as-6)
+advmod(quality-5, well-7)
+
+=========
+
+nsubj(used-3, I-1)
+nsubj(love-11, I-1)
+aux(used-3, have-2)
+root(ROOT-0, used-3)
+det(camera-5, this-4)
+dobj(used-3, camera-5)
+num(years-8, two-7)
+prep_for(camera-5, years-8)
+conj_and(used-3, love-11)
+dobj(love-11, it-12)
+
+=========
+
+nsubj(settings-4, Lots-1)
+xsubj(experiment-6, Lots-1)
+prep_of(Lots-1, manual-3)
+root(ROOT-0, settings-4)
+aux(experiment-6, to-5)
+xcomp(settings-4, experiment-6)
+prep(experiment-6, with-7)
+amod(settings-12, good-10)
+amod(settings-12, automatic-11)
+conj_and(settings-4, settings-12)
+advmod(well-14, as-13)
+mwe(well-14, as-13)
+advmod(settings-12, well-14)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(nice-5, zoom-2)
+cop(nice-5, is-3)
+advmod(nice-5, very-4)
+root(ROOT-0, nice-5)
+prep(nice-5, as-6)
+pcomp(as-6, well-7)
+det(button-13, the-10)
+amod(button-13, quick-11)
+nn(button-13, zoom-12)
+nsubj(feature-17, button-13)
+cop(feature-17, is-14)
+det(feature-17, a-15)
+amod(feature-17, cool-16)
+conj_and(nice-5, feature-17)
+
+=========
+
+amod(performance-2, Decent-1)
+root(ROOT-0, performance-2)
+amod(light-5, low-4)
+prep_in(performance-2, light-5)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+det(point-5, a-4)
+prep_for(recommend-2, point-5)
+prep_for(recommend-2, shoot-7)
+conj_and(point-5, shoot-7)
+prep_for(recommend-2, someone-11)
+conj_or(point-5, someone-11)
+nsubj(wants-13, someone-11)
+rcmod(someone-11, wants-13)
+aux(use-15, to-14)
+xcomp(wants-13, use-15)
+advmod(manual-17, more-16)
+amod(settings-18, manual-17)
+dobj(use-15, settings-18)
+
+=========
+
+amod(camera-2, Great-1)
+root(ROOT-0, camera-2)
+

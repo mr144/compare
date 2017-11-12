@@ -1,0 +1,49 @@
+=========
+
+det(ZOOM-2, The-1)
+root(ROOT-0, ZOOM-2)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(amazing-5, zoom-2)
+cop(amazing-5, is-3)
+advmod(amazing-5, simply-4)
+root(ROOT-0, amazing-5)
+
+=========
+
+nsubj(camera-7, This-1)
+cop(camera-7, is-2)
+det(camera-7, the-3)
+amod(camera-7, best-4)
+nn(camera-7, point-5)
+nn(camera-7, shoot-6)
+root(ROOT-0, camera-7)
+dobj(owned-11, camera-7)
+nsubj(owned-11, I-8)
+aux(owned-11, have-9)
+advmod(owned-11, ever-10)
+rcmod(camera-7, owned-11)
+
+=========
+
+mark(have-4, If-1)
+nsubj(have-4, it-2)
+aux(have-4, could-3)
+advcl(propose-9, have-4)
+dobj(have-4, babies-5)
+advmod(have-4, then-6)
+nsubj(propose-9, I-7)
+aux(propose-9, would-8)
+root(ROOT-0, propose-9)
+prep_to(propose-9, it-11)
+
+=========
+
+nn(price-2, Best-1)
+root(ROOT-0, price-2)
+cop(here-4, is-3)
+dep(price-2, here-4)
+dep(here-4, http:\/\/www.amazon.com\/gp\/product\/B004KKZ0HE\/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004KKZ0HE&linkCode=as2&tag=cts07-20-6)
+

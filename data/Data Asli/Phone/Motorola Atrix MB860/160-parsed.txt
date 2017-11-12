@@ -1,0 +1,32 @@
+=========
+
+root(ROOT-0, Let-1)
+nsubj(say-4, me-2)
+advmod(say-4, just-3)
+ccomp(Let-1, say-4)
+complm(one-8, that-5)
+nsubj(one-8, this-6)
+cop(one-8, is-7)
+ccomp(say-4, one-8)
+det(phones-12, the-10)
+amod(phones-12, best-11)
+prep_of(one-8, phones-12)
+dobj(had-16, phones-12)
+nsubj(had-16, i-13)
+aux(had-16, have-14)
+advmod(had-16, ever-15)
+rcmod(phones-12, had-16)
+
+=========
+
+root(ROOT-0, Fast-1)
+conj_and(Fast-1, reliable-3)
+
+=========
+
+dep(ordered-5, Just-1)
+dep(Just-1, what-2)
+det(doc-4, the-3)
+nsubj(ordered-5, doc-4)
+root(ROOT-0, ordered-5)
+

@@ -1,0 +1,53 @@
+=========
+
+nn(unit-6, Great-1)
+nn(unit-6, TV-2)
+amod(unit-6, second-3)
+nn(unit-6, Samsung-4)
+nn(unit-6, TV-5)
+nsubj(purchased-7, unit-6)
+root(ROOT-0, purchased-7)
+
+=========
+
+nn(Samsung-2, Love-1)
+nsubj(productsRepeat-3, Samsung-2)
+root(ROOT-0, productsRepeat-3)
+nn(customer-6, Beach-4)
+nn(customer-6, Camera-5)
+dobj(productsRepeat-3, customer-6)
+
+=========
+
+dep(say-3, Need-1)
+nsubj(say-3, I-2)
+root(ROOT-0, say-3)
+dep(more-5, any-4)
+advmod(say-3, more-5)
+
+=========
+
+nsubj(best-4, They-1)
+cop(best-4, are-2)
+det(best-4, the-3)
+root(ROOT-0, best-4)
+aux(deal-6, to-5)
+dep(best-4, deal-6)
+prep(deal-6, with-7)
+
+=========
+
+nsubj(better-3, It-1)
+cop(better-3, is-2)
+root(ROOT-0, better-3)
+prep_than(better-3, Samsung-5)
+prep_than(better-3, sony-7)
+conj_or(Samsung-5, sony-7)
+prep_than(better-3, sharp-9)
+conj_or(Samsung-5, sharp-9)
+prep_than(better-3, even-11)
+advmod(Samsung-5, even-11)
+conj_or(Samsung-5, even-11)
+nn(tv-13, LG-12)
+dep(Samsung-5, tv-13)
+

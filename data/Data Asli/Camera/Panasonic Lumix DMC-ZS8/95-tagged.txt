@@ -1,0 +1,2 @@
+it_PRP takes_VBZ multiple_JJ button_NN pushes_VBZ to_TO toggle_VB through_IN the_DT available_JJ apertures_NNS or_CC shutter_NN speeds_VBZ one_CD at_IN a_DT time_NN ._.
+It_PRP would_MD be_VB better_JJR to_TO list_VB all_DT available_JJ settings_NNS onscreen_JJ ,_, and_CC then_RB just_RB hold_VBP an_DT arrow-button_NN to_TO scroll_VB through_IN them_PRP ._.

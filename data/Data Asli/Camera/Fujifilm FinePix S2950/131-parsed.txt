@@ -1,0 +1,28 @@
+=========
+
+amod(item-2, good-1)
+root(ROOT-0, item-2)
+partmod(item-2, worked-4)
+advmod(worked-4, well-5)
+det(user-10, a-7)
+amod(user-10, first-8)
+nn(user-10, time-9)
+prep_for(worked-4, user-10)
+
+=========
+
+nn(USE-3, EASY-1)
+nn(USE-3, TO-2)
+root(ROOT-0, USE-3)
+nn(NEEDED-9, WILL-5)
+nn(NEEDED-9, BUY-6)
+nn(NEEDED-9, AGAIN-7)
+nn(NEEDED-9, IF-8)
+appos(USE-3, NEEDED-9)
+
+=========
+
+nsubj(last-2, Battery-1)
+root(ROOT-0, last-2)
+advmod(last-2, long-3)
+

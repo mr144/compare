@@ -1,0 +1,125 @@
+=========
+
+root(ROOT-0, Took-1)
+det(risk-3, a-2)
+dobj(Took-1, risk-3)
+xsubj(get-6, risk-3)
+partmod(risk-3, hoping-4)
+aux(get-6, to-5)
+xcomp(hoping-4, get-6)
+det(camera-9, a-7)
+amod(camera-9, good-8)
+dobj(get-6, camera-9)
+prep_for(camera-9, $-11)
+num($-11, 100-12)
+
+=========
+
+nsubj(get-2, You-1)
+root(ROOT-0, get-2)
+dep(pay-5, what-3)
+nsubj(pay-5, you-4)
+ccomp(get-2, pay-5)
+prep(pay-5, for-6)
+
+=========
+
+nsubj(camera-7, This-1)
+aux(camera-7, will-2)
+cop(camera-7, be-3)
+poss(camera-7, my-4)
+amod(camera-7, kids-5)
+nn(camera-7, toy-6)
+root(ROOT-0, camera-7)
+advmod(camera-7, soon-8)
+
+=========
+
+root(ROOT-0, Just-1)
+det(iPad-4, an-3)
+prep_by(Just-1, iPad-4)
+det(iPhone-7, an-6)
+prep_by(Just-1, iPhone-7)
+conj_or(iPad-4, iPhone-7)
+nsubj(need-12, you-9)
+aux(need-12, 'll-10)
+neg(need-12, never-11)
+conj_and(Just-1, need-12)
+det(camera-14, another-13)
+dobj(need-12, camera-14)
+
+=========
+
+root(ROOT-0, Oh-1)
+advmod(Oh-1, well-2)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(OK-5, quality-3)
+cop(OK-5, is-4)
+root(ROOT-0, OK-5)
+csubj(lame-16, using-8)
+nsubj(double-12, 4-10)
+ccomp(using-8, double-12)
+det(batteries-14, A-13)
+dobj(double-12, batteries-14)
+cop(lame-16, is-15)
+conj_but(OK-5, lame-16)
+
+=========
+
+advmod(SLOW-8, Also-1)
+det(speed-5, the-3)
+nn(speed-5, shutter-4)
+nsubj(SLOW-8, speed-5)
+cop(SLOW-8, is-6)
+nn(SLOW-8, SO-7)
+root(ROOT-0, SLOW-8)
+dobj(get-11, SLOW-8)
+complm(get-11, that-9)
+nsubj(get-11, you-10)
+dep(SLOW-8, get-11)
+quantmod(1-13, about-12)
+num(picture-15, 1-13)
+amod(picture-15, good-14)
+nsubj(4-17, picture-15)
+quantmod(4-17, every-16)
+xcomp(get-11, 4-17)
+xcomp(get-11, 5-19)
+conj_or(4-17, 5-19)
+dep(4-17, tries-20)
+
+=========
+
+det(movement-2, Any-1)
+nsubj(pics-8, movement-2)
+det(results-5, all-4)
+prep_at(movement-2, results-5)
+prep_in(results-5, blurry-7)
+root(ROOT-0, pics-8)
+
+=========
+
+nn(pix-2, Indoor-1)
+nsubj(look-3, pix-2)
+root(ROOT-0, look-3)
+acomp(look-3, bad-4)
+
+=========
+
+nsubj(try-2, Will-1)
+nsubj(honest-12, Will-1)
+root(ROOT-0, try-2)
+xcomp(try-2, selling-3)
+dobj(selling-3, it-4)
+prep_on(selling-3, ebay-6)
+prep_on(selling-3, Craigslist-8)
+conj_or(ebay-6, Craigslist-8)
+aux(honest-12, will-10)
+cop(honest-12, be-11)
+conj_but(try-2, honest-12)
+poss(limitations-15, its-14)
+prep_about(honest-12, limitations-15)
+

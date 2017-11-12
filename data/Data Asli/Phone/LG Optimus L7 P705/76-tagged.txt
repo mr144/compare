@@ -1,0 +1,5 @@
+This_DT phone_NN is_VBZ amazing_JJ ._.
+it_PRP is_VBZ like_IN a_DT mini_JJ laptop_NN ._.
+The_DT multitude_NN of_IN aplications_NNS downloaded_VBN on_IN the_DT phone_NN keep_VB me_PRP in_IN touch_NN with_IN the_DT world_NN -_: weather_NN ,_, news_NN ,_, email_NN ,_, facebook_NN ..._: Its_PRP$ internal_JJ memory_NN it_PRP is_VBZ so_RB big_JJ that_IN i_FW can_MD download_VB movies_NNS ,_, i_FW can_MD record_VB videos_NNS and_CC still_RB have_VB enough_JJ memory_NN for_IN games_NNS or_CC applications_NNS ._.
+It_PRP has_VBZ lots_NNS of_IN themes_NNS ,_, lockers_NNS ,_, widgets_NNS ._. ._.
+I_PRP just_RB love_VBP it_PRP ,_, i_FW would_MD not_RB trade_VB it_PRP for_IN an_DT iphone_NN ._.

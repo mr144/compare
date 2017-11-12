@@ -1,0 +1,66 @@
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(camera-4, this-3)
+dobj(got-2, camera-4)
+det(while-6, a-5)
+npadvmod(ago-7, while-6)
+advmod(got-2, ago-7)
+nsubj(disappointed-12, I-9)
+aux(disappointed-12, has-10)
+neg(disappointed-12, not-11)
+conj_and(got-2, disappointed-12)
+dobj(disappointed-12, me-13)
+
+=========
+
+nsubj(takes-2, It-1)
+ccomp(affects-8, takes-2)
+amod(photos-4, amazing-3)
+dobj(takes-2, photos-4)
+aux(affects-8, has-6)
+advmod(affects-8, great-7)
+root(ROOT-0, affects-8)
+det(use-12, the-10)
+nn(use-12, battery-11)
+nsubj(great-14, use-12)
+cop(great-14, is-13)
+conj_and(affects-8, great-14)
+
+=========
+
+det(video-2, The-1)
+nsubj(good-5, video-2)
+cop(good-5, is-3)
+advmod(good-5, pretty-4)
+root(ROOT-0, good-5)
+
+=========
+
+nsubj(hear-3, You-1)
+aux(hear-3, can-2)
+root(ROOT-0, hear-3)
+det(noise-6, a-4)
+amod(noise-6, buzzing-5)
+dobj(hear-3, noise-6)
+det(background-9, the-8)
+prep_in(hear-3, background-9)
+det(video-12, the-11)
+prep_of(background-9, video-12)
+nsubj(bad-19, it-15)
+cop(bad-19, is-16)
+neg(bad-19, not-17)
+advmod(bad-19, too-18)
+conj_but(hear-3, bad-19)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, definitely-3)
+root(ROOT-0, recommend-4)
+det(camera-6, this-5)
+dobj(recommend-4, camera-6)
+prep_to(recommend-4, anyone-8)
+

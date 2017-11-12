@@ -1,0 +1,3 @@
+I_PRP have_VBP 3_CD other_JJ flat_JJ screen_NN TV_NN 's_POS in_IN our_PRP$ home_NN ._.
+I_PRP needed_VBD another_DT one_CD for_IN my_PRP$ summer_NN home_NN ._.
+The_DT previous_JJ one_CD that_IN I_PRP bought_VBD last_JJ year_NN was_VBD a_DT 40_CD &#34;_CD Samsung_NNP wich_NN works_VBZ as_IN expected_VBN so_IN I_PRP decided_VBD to_TO buy_VB the_DT same_JJ brand_NN as_IN it_PRP work_VBP good_JJ

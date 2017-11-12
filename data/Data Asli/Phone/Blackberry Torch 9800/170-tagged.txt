@@ -1,0 +1,2 @@
+No_DT battery_NN ,_, how_WRB can_MD I_PRP solve_VB this_DT problem_NN ?_.
+..._: that_DT was_VBD an_DT international_JJ purchase_NN and_CC I_PRP got_VBD the_DT cellphone_NN yesterday_NN ,_, and_CC I_PRP realize_VBP that_IN one_CD of_IN it_PRP did_VBD '_POS t_NN have_VBP the_DT cellphone_NN battery_NN help_VBP me_PRP asap_VB

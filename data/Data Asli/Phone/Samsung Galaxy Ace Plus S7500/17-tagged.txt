@@ -1,0 +1,4 @@
+This_DT phone_NN was_VBD apparently_RB manufactured_VBN for_IN Telstra_NNP in_IN Australia_NNP ,_, and_CC they_PRP must_MD have_VB locked_VBN down_RP a_DT bunch_NN of_IN functionality_NN ._.
+I_PRP tried_VBD to_TO set_VB this_DT phone_NN up_RP for_IN use_NN in_IN Israel_NNP ,_, and_CC there_EX was_VBD no_DT way_NN to_TO update_VB for_IN Hebrew_NNP support_NN ._.
+Also_RB ,_, was_VBD absolutely_RB unable_JJ to_TO upgrade_VB from_IN Gingerbread_NNP to_TO Jellybean_NNP OS_NNP ._.
+Do_VBP not_RB buy_VB if_IN you_PRP want_VBP to_TO use_VB this_DT with_IN another_DT language_NN outside_IN of_IN the_DT US_NNP ._.

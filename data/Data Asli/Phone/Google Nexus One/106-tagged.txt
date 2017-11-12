@@ -1,0 +1,5 @@
+Nexus_NN one_CD is_VBZ still_RB a_DT very_RB good_JJ smartphone_NN after_IN a_DT year_NN and_CC a_DT half_NN since_IN it_PRP was_VBD released_VBN ._.
+After_IN seeing_VBG the_DT Nexus_NNP S_NNP I_PRP have_VBP decided_VBN to_TO save_VB some_DT money_NN and_CC get_VB the_DT Nexus_NNP one_CD ._.
+One_CD caveat_NN :_: I_PRP bought_VBD the_DT phone_NN from_IN The_DT OEM_NNP Planet_NNP and_CC I_PRP was_VBD not_RB able_JJ to_TO get_VB Google_NNP 's_POS OTA_NNP update_VBP -LRB-_-LRB- the_DT version_NN I_PRP got_VBD with_IN the_DT phone_NN was_VBD 2.2_CD when_WRB there_EX 2.3.4_CD was_VBD already_RB out_RP -RRB-_-RRB- ._.
+After_IN searching_VBG a_DT bit_NN in_IN forums_NNS and_CC blogs_NNS I_PRP found_VBD out_RP that_IN the_DT version_NN installed_VBN on_IN the_DT phone_NN I_PRP got_VBD was_VBD a_DT Vodafone_NNP tailored_VBD one_CD ._.
+I_PRP used_VBD the_DT instructions_NNS on_IN -LRB-_-LRB- ..._: -RRB-_-RRB- to_TO manually_RB update_VB to_TO the_DT Google_NNP official_NN version_NN and_CC from_IN there_EX I_PRP got_VBD the_DT OTA_NNP update_VB ._.

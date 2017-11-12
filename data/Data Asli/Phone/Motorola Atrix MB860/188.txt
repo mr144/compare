@@ -1,0 +1,1 @@
+A great cellphone unlocked for any GSM carrier.Fast response, lightweight, great resolution, huge space. Came with Gingerbread.The downside: tethering is locked by AT&T, so you will need to root it to unlock tether. The best way to do it in my opinion is throught SQLite Editor, so after that you can undo root.

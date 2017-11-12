@@ -1,0 +1,4 @@
+Dialogue_NN volume_NN goes_VBZ low_JJ at_IN times_NNS and_CC becomes_VBZ difficult_JJ to_TO hear_VB ._.
+Picture_NNP quality_NN is_VBZ awesome_JJ ._.
+Useful_JJ Internet_NNP apps_NNS ._.
+But_CC painful_JJ searching_VBG videos_NNS in_IN the_DT app_NN ,_, keyboard_NN support_NN to_TO be_VB improved_VBN ._.

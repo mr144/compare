@@ -1,0 +1,62 @@
+=========
+
+nsubj(had-2, I-1)
+nsubj(expecting-10, I-1)
+root(ROOT-0, had-2)
+det(shot-6, a-3)
+nn(shot-6, Sony-4)
+nn(shot-6, cyber-5)
+dobj(had-2, shot-6)
+advmod(had-2, before-7)
+aux(expecting-10, was-9)
+conj_and(had-2, expecting-10)
+amod(things-12, great-11)
+dobj(expecting-10, things-12)
+det(one-15, this-14)
+prep_from(expecting-10, one-15)
+nsubj(let-20, it-17)
+aux(let-20, has-18)
+neg(let-20, not-19)
+conj_and(had-2, let-20)
+dobj(let-20, me-21)
+prt(let-20, down-22)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(awesome-4, zoom-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+nsubj(tasks-9, you-6)
+aux(tasks-9, can-7)
+advmod(tasks-9, also-8)
+conj_and(awesome-4, tasks-9)
+dobj(tasks-9, photos-10)
+prepc_while(tasks-9, filming-12)
+
+=========
+
+nsubj(need-3, I-1)
+xsubj(test-5, I-1)
+nsubj(update-12, I-1)
+advmod(need-3, still-2)
+root(ROOT-0, need-3)
+aux(test-5, to-4)
+xcomp(need-3, test-5)
+amod(situations-9, low-7)
+nn(situations-9, light-8)
+prep_in(test-5, situations-9)
+aux(update-12, will-11)
+conj_and(need-3, update-12)
+advmod(do-15, when-13)
+nsubj(do-15, I-14)
+advcl(update-12, do-15)
+
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, just-2)
+root(ROOT-0, love-3)
+det(camera-5, this-4)
+dobj(love-3, camera-5)
+

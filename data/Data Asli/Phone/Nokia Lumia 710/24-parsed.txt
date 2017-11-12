@@ -1,0 +1,35 @@
+=========
+
+nsubj(heard-2, I-1)
+ccomp(has-21, heard-2)
+det(people-4, some-3)
+dobj(heard-2, people-4)
+xcomp(heard-2, saying-5)
+complm(have-11, that-6)
+nn(Phone-8, Windows-7)
+nsubj(have-11, Phone-8)
+aux(have-11, did-9)
+neg(have-11, not-10)
+ccomp(saying-5, have-11)
+amod(applications-13, enough-12)
+dobj(have-11, applications-13)
+advmod(applications-13, at-15)
+pobj(at-15, least-16)
+prep_for(applications-13, us-18)
+nsubj(has-21, it-20)
+root(ROOT-0, has-21)
+predet(applications-24, all-22)
+det(applications-24, the-23)
+dobj(has-21, applications-24)
+dobj(require-26, applications-24)
+nsubj(require-26, we-25)
+rcmod(applications-24, require-26)
+
+=========
+
+det(duration-3, The-1)
+nn(duration-3, battery-2)
+nsubj(great-5, duration-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+

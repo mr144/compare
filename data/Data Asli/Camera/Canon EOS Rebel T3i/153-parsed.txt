@@ -1,0 +1,37 @@
+=========
+
+advmod(clear-2, Amazingly-1)
+ccomp(produces-6, clear-2)
+det(Canon-5, this-4)
+nsubj(produces-6, Canon-5)
+root(ROOT-0, produces-6)
+det(clearest-8, the-7)
+nsubj(pictures-9, clearest-8)
+ccomp(produces-6, pictures-9)
+nsubj(seen-13, I-10)
+aux(seen-13, have-11)
+advmod(seen-13, ever-12)
+ccomp(pictures-9, seen-13)
+
+=========
+
+nsubj(photographer-6, I-1)
+cop(photographer-6, am-2)
+neg(photographer-6, not-3)
+det(photographer-6, a-4)
+amod(photographer-6, professional-5)
+root(ROOT-0, photographer-6)
+nsubj(found-10, I-9)
+conj_but(photographer-6, found-10)
+det(settings-12, the-11)
+nsubj(easy-13, settings-12)
+nsubj(adjusted-18, settings-12)
+xcomp(found-10, easy-13)
+aux(control-15, to-14)
+xcomp(easy-13, control-15)
+advmod(adjusted-18, easily-17)
+xcomp(found-10, adjusted-18)
+conj_and(easy-13, adjusted-18)
+det(scene-21, any-20)
+prep_for(adjusted-18, scene-21)
+

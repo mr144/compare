@@ -1,0 +1,24 @@
+=========
+
+neg(Spanish-2, Not-1)
+root(ROOT-0, Spanish-2)
+amod(languages-5, French-4)
+conj_or(Spanish-2, languages-5)
+amod(apps-8, many-7)
+appos(Spanish-2, apps-8)
+prep_in(apps-8, chinese-10)
+prep_for(chinese-10, use-12)
+amod(networks-15, taiwanese-14)
+prep_in(use-12, networks-15)
+
+=========
+
+dep(recommed-2, Not-1)
+root(ROOT-0, recommed-2)
+det(model-4, this-3)
+nsubj(recommed-2, model-4)
+partmod(model-4, P705-5)
+prep_for(P705-5, use-7)
+det(continent-10, this-9)
+prep_in(use-7, continent-10)
+

@@ -1,0 +1,3 @@
+i_FW am_VBP wording_NN why_WRB this_DT package_NN did_VBD not_RB go_VB with_IN a_DT headphone_NN ._.
+need_VB any_DT extra_JJ charge_NN to_TO get_VB it_PRP ?_.
+others_NNS are_VBP find_VB =_SYM -RRB-_-RRB-

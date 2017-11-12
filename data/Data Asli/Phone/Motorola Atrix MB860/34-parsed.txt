@@ -1,0 +1,29 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, two-3)
+mark(presented-9, after-5)
+det(problem-8, a-6)
+nn(problem-8, year-7)
+nsubj(presented-9, problem-8)
+conj_and(bought-2, presented-9)
+
+=========
+
+det(screen-3, The-1)
+nn(screen-3, touch-2)
+nsubj(failed-5, screen-3)
+aux(failed-5, has-4)
+root(ROOT-0, failed-5)
+det(phones-8, both-7)
+prep_on(failed-5, phones-8)
+
+=========
+
+det(phones-2, Both-1)
+nsubj(concert-5, phones-2)
+cop(concert-5, were-3)
+det(concert-5, no-4)
+root(ROOT-0, concert-5)
+

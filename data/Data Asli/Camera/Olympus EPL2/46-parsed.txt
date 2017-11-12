@@ -1,0 +1,47 @@
+=========
+
+root(ROOT-0, Got-1)
+dobj(Got-1, this-2)
+prep_for(Got-1, someone-4)
+det(Office-7, the-6)
+prep_at(Got-1, Office-7)
+
+=========
+
+nsubj(ecstatic-3, She-1)
+cop(ecstatic-3, was-2)
+root(ROOT-0, ecstatic-3)
+advmod(got-6, when-4)
+nsubj(got-6, she-5)
+advcl(ecstatic-3, got-6)
+dobj(got-6, it-7)
+
+=========
+
+cc(served-5, And-1)
+advmod(once-3, well-2)
+advmod(served-5, once-3)
+nsubj(served-5, it-4)
+root(ROOT-0, served-5)
+nsubj(purpose-8, it-6)
+cop(purpose-8, is-7)
+ccomp(served-5, purpose-8)
+
+=========
+
+dobj(want-5, what-1)
+advmod(what-1, else-2)
+aux(want-5, could-3)
+nsubj(want-5, you-4)
+root(ROOT-0, want-5)
+
+=========
+
+nn(Gift-2, Great-1)
+root(ROOT-0, Gift-2)
+
+=========
+
+nn(Price-2, Great-1)
+root(ROOT-0, Price-2)
+

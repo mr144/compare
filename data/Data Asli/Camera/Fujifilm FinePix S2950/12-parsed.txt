@@ -1,0 +1,67 @@
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+dobj(like-2, it-3)
+
+=========
+
+nsubj(get-3, You-1)
+aux(get-3, can-2)
+root(ROOT-0, get-3)
+poss(hands-5, your-4)
+dobj(get-3, hands-5)
+det(camera-8, this-7)
+prep_on(get-3, camera-8)
+
+=========
+
+nsubj(like-2, I-1)
+xsubj(use-4, I-1)
+root(ROOT-0, like-2)
+aux(use-4, to-3)
+xcomp(like-2, use-4)
+det(camera-6, this-5)
+dobj(use-4, camera-6)
+advmod(taking-8, when-7)
+advcl(use-4, taking-8)
+amod(shots-11, family-9)
+advmod(family-9, still-10)
+dobj(taking-8, shots-11)
+
+=========
+
+nsubj(carry-2, I-1)
+root(ROOT-0, carry-2)
+det(nikon-5, a-3)
+amod(nikon-5, little-4)
+dobj(carry-2, nikon-5)
+poss(belt-8, my-7)
+prep_on(carry-2, belt-8)
+advmod(as-10, so-9)
+advmod(carry-2, as-10)
+aux(sneak-12, to-11)
+dep(as-10, sneak-12)
+det(photo-14, a-13)
+dobj(sneak-12, photo-14)
+advmod(sneak-12, now-15)
+advmod(sneak-12, then-17)
+conj_and(now-15, then-17)
+
+=========
+
+num(stars-2, Five-1)
+nsubj(says-3, stars-2)
+root(ROOT-0, says-3)
+nsubj(love-5, I-4)
+ccomp(says-3, love-5)
+dobj(love-5, it-6)
+
+=========
+
+nsubj(love-3, I-1)
+neg(love-3, not-2)
+root(ROOT-0, love-3)
+det(camera-5, no-4)
+dobj(love-3, camera-5)
+

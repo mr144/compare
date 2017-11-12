@@ -1,0 +1,71 @@
+=========
+
+nsubj(easy-3, Awesome-1)
+cop(easy-3, was-2)
+root(ROOT-0, easy-3)
+aux(hook-5, to-4)
+xcomp(easy-3, hook-5)
+prt(hook-5, up-6)
+
+=========
+
+dobj(screen-5, What-1)
+det(viewing-4, a-2)
+amod(viewing-4, beautiful-3)
+nsubj(screen-5, viewing-4)
+root(ROOT-0, screen-5)
+amod(definition-8, high-7)
+prep_with(screen-5, definition-8)
+poss(clearest-11, its-10)
+prep_at(screen-5, clearest-11)
+
+=========
+
+nsubj(size-2, Perfect-1)
+root(ROOT-0, size-2)
+
+=========
+
+root(ROOT-0, Great-1)
+conj_and(Great-1, timely-3)
+dep(Great-1, shipping-4)
+
+=========
+
+mark(received-5, Although-1)
+nsubj(received-5, I-2)
+aux(received-5, have-3)
+neg(received-5, not-4)
+advcl(had-20, received-5)
+det(cables-7, the-6)
+nsubj(suggested-8, cables-7)
+ccomp(received-5, suggested-8)
+advmod(buying-10, when-9)
+advcl(suggested-8, buying-10)
+dobj(buying-10, item-11)
+det(package-15, a-13)
+num(package-15, 2-14)
+prep_as(buying-10, package-15)
+poss(guy-18, my-16)
+nn(guy-18, cable-17)
+nsubj(had-20, guy-18)
+advmod(had-20, thankfully-19)
+root(ROOT-0, had-20)
+dobj(had-20, them-21)
+
+=========
+
+aux(bother-3, Do-1)
+neg(bother-3, not-2)
+root(ROOT-0, bother-3)
+aux(order-5, to-4)
+xcomp(bother-3, order-5)
+det(cables-7, those-6)
+dobj(order-5, cables-7)
+dobj(come-12, cables-7)
+nsubj(come-12, it-8)
+advmod(come-12, still-9)
+aux(come-12, has-10)
+neg(come-12, not-11)
+rcmod(cables-7, come-12)
+

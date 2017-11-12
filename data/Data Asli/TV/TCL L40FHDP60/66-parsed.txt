@@ -1,0 +1,44 @@
+=========
+
+det(price-3, the-2)
+prep_for(better-14, price-3)
+poss(TV-7, its-4)
+dep(great-6, a-5)
+amod(TV-7, great-6)
+nsubj(better-14, TV-7)
+conj_and(TV-7, delivery-9)
+nsubj(better-14, delivery-9)
+aux(better-14, could-10)
+neg(better-14, not-11)
+aux(better-14, have-12)
+cop(better-14, been-13)
+root(ROOT-0, better-14)
+
+=========
+
+nsubj(arrived-2, i-1)
+root(ROOT-0, arrived-2)
+num(days-5, two-4)
+prep_in(arrived-2, days-5)
+
+=========
+
+root(ROOT-0, Set-1)
+prt(Set-1, up-2)
+cop(difficult-6, was-3)
+det(little-5, a-4)
+npadvmod(difficult-6, little-5)
+dep(Set-1, difficult-6)
+mark(get-10, as-8)
+nsubj(get-10, I-9)
+dep(Set-1, get-10)
+conj_but(difficult-6, get-10)
+amod(technology-12, older-11)
+nsubj(continues-13, technology-12)
+xsubj(pass-15, technology-12)
+ccomp(get-10, continues-13)
+aux(pass-15, to-14)
+xcomp(continues-13, pass-15)
+dobj(pass-15, me-16)
+prep(pass-15, by-17)
+

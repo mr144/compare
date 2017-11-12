@@ -1,0 +1,23 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(lightweight-3, It-1)
+nsubj(easy-5, It-1)
+cop(lightweight-3, is-2)
+root(ROOT-0, lightweight-3)
+conj_and(lightweight-3, easy-5)
+aux(use-7, to-6)
+xcomp(lightweight-3, use-7)
+
+=========
+
+nsubj(great-3, Pictures-1)
+cop(great-3, are-2)
+root(ROOT-0, great-3)
+

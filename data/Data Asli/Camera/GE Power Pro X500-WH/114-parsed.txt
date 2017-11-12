@@ -1,0 +1,77 @@
+=========
+
+nsubj(turn-4, I-1)
+aux(turn-4, can-2)
+neg(turn-4, not-3)
+root(ROOT-0, turn-4)
+det(camera-6, the-5)
+dobj(turn-4, camera-6)
+prt(turn-4, on-7)
+
+=========
+
+nsubj(work-6, The-1)
+prep_on(The-1, button-3)
+aux(work-6, does-4)
+neg(work-6, not-5)
+root(ROOT-0, work-6)
+
+=========
+
+advmod(late-6, Unfortunately-1)
+nsubj(late-6, it-3)
+xsubj(return-8, it-3)
+cop(late-6, is-4)
+advmod(late-6, too-5)
+root(ROOT-0, late-6)
+aux(return-8, to-7)
+xcomp(late-6, return-8)
+dobj(return-8, it-9)
+
+=========
+
+amod(issues-5, severe-3)
+amod(issues-5, medical-4)
+nsubj(occurred-7, issues-5)
+prep_due_to(get-18, issues-5)
+rcmod(issues-5, occurred-7)
+det(day-10, the-8)
+amod(day-10, same-9)
+dobj(occurred-7, day-10)
+dobj(arrived-13, day-10)
+det(camera-12, the-11)
+nsubj(arrived-13, camera-12)
+rcmod(day-10, arrived-13)
+nsubj(get-18, I-15)
+aux(get-18, did-16)
+neg(get-18, not-17)
+root(ROOT-0, get-18)
+det(chance-20, a-19)
+dobj(get-18, chance-20)
+aux(try-22, to-21)
+infmod(chance-20, try-22)
+dobj(try-22, it-23)
+prt(try-22, out-24)
+
+=========
+
+advmod(stuck-5, Now-1)
+nsubjpass(stuck-5, I-2)
+auxpass(stuck-5, am-3)
+advmod(stuck-5, just-4)
+root(ROOT-0, stuck-5)
+prep_with(stuck-5, it-7)
+
+=========
+
+advmod(piece-12, So-1)
+poss(point-4, my-3)
+prep_from(So-1, point-4)
+prep_of(point-4, view-6)
+nsubj(piece-12, it-8)
+cop(piece-12, is-9)
+det(piece-12, a-10)
+amod(piece-12, useless-11)
+root(ROOT-0, piece-12)
+prep_of(piece-12, junk-14)
+

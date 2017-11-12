@@ -1,0 +1,32 @@
+=========
+
+dep(phone-3, Very-1)
+amod(phone-3, great-2)
+root(ROOT-0, phone-3)
+
+=========
+
+amod(camera-2, nice-1)
+root(ROOT-0, camera-2)
+amod(memory-5, large-4)
+appos(camera-2, memory-5)
+amod(processor-8, great-7)
+appos(memory-5, processor-8)
+
+=========
+
+det(performance-2, The-1)
+nsubj(iphone-17, performance-2)
+det(phone-5, the-4)
+prep_of(performance-2, phone-5)
+advmod(phone-5, also-6)
+advmod(phone-5, better-7)
+det(phone-11, any-9)
+amod(phone-11, other-10)
+prep_than(phone-5, phone-11)
+advmod(phone-5, especially-13)
+poss(old-16, my-15)
+prep_to(phone-5, old-16)
+root(ROOT-0, iphone-17)
+dobj(iphone-17, 3GS-18)
+

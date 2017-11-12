@@ -1,0 +1,53 @@
+=========
+
+root(ROOT-0, Purchased-1)
+det(tv-3, this-2)
+dobj(Purchased-1, tv-3)
+det(replacement-6, a-5)
+prep_as(Purchased-1, replacement-6)
+amod(one-9, older-8)
+prep_for(Purchased-1, one-9)
+poss(kitchen-12, my-11)
+prep_in(one-9, kitchen-12)
+
+=========
+
+advmod(bargain-11, So-1)
+pobj(So-1, happy-2)
+poss(purchased-5, my-4)
+prep_with(happy-2, purchased-5)
+det(price-7, the-6)
+nsubj(bargain-11, price-7)
+cop(bargain-11, was-8)
+det(bargain-11, a-9)
+amod(bargain-11, real-10)
+root(ROOT-0, bargain-11)
+
+=========
+
+det(!!!!-9, The-1)
+amod(!!!!-9, color-2)
+dep(!!!!-9, sound-4)
+dep(!!!!-9, dvd-6)
+nn(!!!!-9, player-7)
+amod(!!!!-9, excellent-8)
+nsubj(Glad-10, !!!!-9)
+root(ROOT-0, Glad-10)
+nsubj(purchased-12, I-11)
+ccomp(Glad-10, purchased-12)
+nsubj(!!!-14, it-13)
+ccomp(purchased-12, !!!-14)
+nsubj(recommend-16, Highly-15)
+ccomp(!!!-14, recommend-16)
+
+=========
+
+ccomp(want-6, Get-1)
+poss(today-3, yours-2)
+tmod(Get-1, today-3)
+nsubj(want-6, you-5)
+root(ROOT-0, want-6)
+auxpass(dissapointed-8, be-7)
+dep(want-6, dissapointed-8)
+acomp(dissapointed-8, !!!-9)
+

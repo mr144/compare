@@ -1,0 +1,6 @@
+In_IN December_NNP I_PRP buy_VBP my_PRP$ new_JJ Nokia_NNP Lumia_NNP 710_CD ._.
+In_IN the_DT title_NN of_IN the_DT product_NN they_PRP put_VBD that_IN this_DT smartphone_NN come_VB unlocked_VBN ._.
+But_CC when_WRB I_PRP get_VBP it_PRP I_PRP saw_VBD that_IN the_DT smartphone_NN came_VBD in_IN a_DT T-Mobile_JJ box_NN and_CC it_PRP was_VBD not_RB unlocked_VBN ._.
+It_PRP must_MD be_VB full_JJ white_JJ it_PRP is_VBZ not_RB ._.
+The_DT back_JJ cover_NN is_VBZ black_JJ color_NN ._.
+This_DT is_VBZ really_RB disappointment_NN ._.

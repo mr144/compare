@@ -1,0 +1,2 @@
+Interesting_JJ upgrade_NN ,_, had_VBD a_DT D90_NNP for_IN the_DT past_JJ 4_CD years_NNS ,_, this_DT is_VBZ a_DT much_RB better_JJR camera_NN with_IN almost_RB infinite_JJ capability_NN ._.
+I_PRP miss_VBP the_DT clarity_NN and_CC ease_NN of_IN use_NN on_IN the_DT D90_NNP

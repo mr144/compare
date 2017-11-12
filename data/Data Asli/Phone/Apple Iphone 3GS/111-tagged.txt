@@ -1,0 +1,1 @@
+The_DT speaker_NN on_IN the_DT phone_NN does_VBZ not_RB work_VB have_VBP to_TO use_VB it_PRP with_IN head_NN phones_NNS also_RB can_MD not_RB be_VB updated_VBN can_MD get_VB Facebook_NNP on_IN it_PRP

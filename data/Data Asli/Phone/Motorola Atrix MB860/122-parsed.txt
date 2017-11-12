@@ -1,0 +1,110 @@
+=========
+
+nsubj(bought-2, I-1)
+nsubj(loved-9, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+prep_in(bought-2, October-6)
+advmod(loved-9, really-8)
+conj_and(bought-2, loved-9)
+dobj(loved-9, it-10)
+prep(loved-9, until-11)
+pcomp(until-11, recently-12)
+
+=========
+
+mark(playing-2, While-1)
+advcl(works-23, playing-2)
+nsubj(videos-5, you-3)
+nn(videos-5, tube-4)
+xcomp(playing-2, videos-5)
+advmod(playing-2, sometimes-6)
+nsubj(observed-9, it-7)
+cop(observed-9, is-8)
+parataxis(works-23, observed-9)
+complm(freezes-13, that-10)
+det(phone-12, the-11)
+nsubj(freezes-13, phone-12)
+ccomp(observed-9, freezes-13)
+advmod(restartby-18, only-15)
+det(restartby-18, a-16)
+amod(restartby-18, hard-17)
+nsubj(works-23, restartby-18)
+partmod(restartby-18, taking-19)
+prt(taking-19, out-20)
+det(battery-22, the-21)
+dobj(taking-19, battery-22)
+root(ROOT-0, works-23)
+
+=========
+
+advmod(hasfaced-11, Well-1)
+prepc_on(hasfaced-11, searching-4)
+det(internet-6, the-5)
+dobj(searching-4, internet-6)
+amod(users-10, many-8)
+amod(users-10, other-9)
+nsubj(hasfaced-11, users-10)
+root(ROOT-0, hasfaced-11)
+det(type-14, a-12)
+amod(type-14, similar-13)
+dobj(hasfaced-11, type-14)
+prep_of(type-14, problem-16)
+
+=========
+
+nsubj(happened-3, This-1)
+aux(happened-3, has-2)
+root(ROOT-0, happened-3)
+advmod(happened-3, twice-4)
+num(months-7, two-6)
+prep_in(happened-3, months-7)
+
+=========
+
+det(phone-2, The-1)
+nsubj(games-19, phone-2)
+det(issue-5, this-4)
+prep_excluding(phone-2, issue-5)
+amod(videos-9, YouTube-8)
+prep_of(issue-5, videos-9)
+cop(games-19, is-11)
+advmod(good-13, pretty-12)
+amod(games-19, good-13)
+dep(good-13, navigation-15)
+dep(good-13, browser-17)
+root(ROOT-0, games-19)
+dep(games-19, etc.-20)
+
+=========
+
+mark(faced-8, If-1)
+det(issue-3, the-2)
+nsubjpass(faced-8, issue-3)
+nn(tube-6, you-5)
+prep_of(issue-3, tube-6)
+auxpass(faced-8, is-7)
+advcl(have-15, faced-8)
+advmod(often-10, too-9)
+advmod(faced-8, often-10)
+advmod(have-15, then-12)
+nsubj(have-15, I-13)
+xsubj(get-17, I-13)
+aux(have-15, will-14)
+root(ROOT-0, have-15)
+aux(get-17, to-16)
+xcomp(have-15, get-17)
+dobj(get-17, thephone-18)
+partmod(thephone-18, replaced-19)
+
+=========
+
+nsubj(let-2, Will-1)
+root(ROOT-0, let-2)
+nsubj(know-5, you-3)
+advmod(know-5, all-4)
+ccomp(let-2, know-5)
+poss(findings-7, my-6)
+dobj(know-5, findings-7)
+

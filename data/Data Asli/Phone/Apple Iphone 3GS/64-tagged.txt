@@ -1,0 +1,2 @@
+This_DT phone_NN is_VBZ locked_VBN ,_, and_CC thats_VBZ really_RB a_DT bad_JJ way_NN to_TO do_VB business_NN by_IN displaying_VBG another_DT label_NN ._.
+I_PRP can_MD not_RB afford_VB to_TO come_VB back_RB to_TO US_NNP to_TO send_VB it_PRP back_RB but_CC I_PRP think_VBP this_DT would_MD serve_VB as_IN a_DT reminder_NN

@@ -1,0 +1,27 @@
+=========
+
+advmod(one-2, Just-1)
+nsubj('s-8, one-2)
+poss(TV-7, our-4)
+num(TV-7, 4-5)
+nn(TV-7, LG-6)
+prep_of(one-2, TV-7)
+root(ROOT-0, 's-8)
+
+=========
+
+neg(had-2, Never-1)
+partmod(led-12, had-2)
+det(problem-4, a-3)
+dobj(had-2, problem-4)
+det(one-8, a-6)
+amod(one-8, single-7)
+prep_with(problem-4, one-8)
+nsubj(led-12, we-10)
+aux(led-12, have-11)
+root(ROOT-0, led-12)
+nn(versions-15, lcd-14)
+conj_and(led-12, versions-15)
+num(issues-18, zero-17)
+prep_with(versions-15, issues-18)
+

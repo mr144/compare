@@ -1,0 +1,41 @@
+=========
+
+amod(volume-2, Dialogue-1)
+nsubj(goes-3, volume-2)
+nsubj(difficult-9, volume-2)
+root(ROOT-0, goes-3)
+acomp(goes-3, low-4)
+prep_at(goes-3, times-6)
+cop(difficult-9, becomes-8)
+conj_and(goes-3, difficult-9)
+aux(hear-11, to-10)
+xcomp(difficult-9, hear-11)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(awesome-4, quality-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+
+=========
+
+nn(Internet-2, Useful-1)
+nsubj(apps-3, Internet-2)
+root(ROOT-0, apps-3)
+
+=========
+
+cc(support-10, But-1)
+acomp(searching-3, painful-2)
+dep(support-10, searching-3)
+dobj(searching-3, videos-4)
+det(app-7, the-6)
+prep_in(searching-3, app-7)
+nsubj(support-10, keyboard-9)
+xsubj(improved-13, keyboard-9)
+root(ROOT-0, support-10)
+aux(improved-13, to-11)
+auxpass(improved-13, be-12)
+xcomp(support-10, improved-13)
+

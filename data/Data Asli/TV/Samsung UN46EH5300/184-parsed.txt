@@ -1,0 +1,59 @@
+=========
+
+det(HDTV-5, This-1)
+nn(HDTV-5, Samsung-2)
+num(HDTV-5, 32-3)
+amod(HDTV-5, Inch-4)
+nsubj(everything-7, HDTV-5)
+cop(everything-7, is-6)
+root(ROOT-0, everything-7)
+dobj(asked-11, everything-7)
+nsubj(asked-11, we-8)
+aux(asked-11, could-9)
+aux(asked-11, have-10)
+rcmod(everything-7, asked-11)
+prep(asked-11, for-12)
+pcomp(for-12, in-13)
+det(TV-16, a-14)
+nn(TV-16, bedroom-15)
+prep_in(for-12, TV-16)
+
+=========
+
+nsubj(light-3, It-1)
+cop(light-3, is-2)
+root(ROOT-0, light-3)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+dep(quality-4, high-3)
+amod(resolution-6, quality-4)
+nn(resolution-6, picture-5)
+dobj(has-2, resolution-6)
+
+=========
+
+det(Apps-2, The-1)
+nsubj(allow-3, Apps-2)
+root(ROOT-0, allow-3)
+nsubj(use-6, us-4)
+aux(use-6, to-5)
+xcomp(allow-3, use-6)
+dobj(use-6, Netflix-7)
+dobj(use-6, Hulu-9)
+conj_and(Netflix-7, Hulu-9)
+dobj(use-6, HBOGO-11)
+conj_and(Netflix-7, HBOGO-11)
+prep_with(use-6, ease-13)
+
+=========
+
+nsubj(purchase-6, This-1)
+aux(purchase-6, has-2)
+cop(purchase-6, been-3)
+det(purchase-6, the-4)
+amod(purchase-6, perfect-5)
+root(ROOT-0, purchase-6)
+

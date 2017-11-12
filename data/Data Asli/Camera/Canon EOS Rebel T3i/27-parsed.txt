@@ -1,0 +1,40 @@
+=========
+
+nsubj(camera-7, This-1)
+cop(camera-7, is-2)
+poss(camera-7, my-3)
+amod(camera-7, first-4)
+amod(camera-7, semi-5)
+amod(camera-7, pro-6)
+root(ROOT-0, camera-7)
+nsubj(have-10, i-9)
+xsubj(say-12, i-9)
+conj_and(camera-7, have-10)
+aux(say-12, to-11)
+xcomp(have-10, say-12)
+nsubj(take-14, it-13)
+ccomp(say-12, take-14)
+poss(pictures-16, my-15)
+dobj(take-14, pictures-16)
+det(level-19, another-18)
+prep_to(take-14, level-19)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(resolution-4, the-3)
+dobj(love-2, resolution-4)
+det(display-7, the-6)
+dobj(love-2, display-7)
+conj_and(resolution-4, display-7)
+
+=========
+
+root(ROOT-0, Im-1)
+advmod(Im-1, still-2)
+xcomp(Im-1, learning-3)
+prep_about(learning-3, it-5)
+det(day-7, every-6)
+tmod(learning-3, day-7)
+

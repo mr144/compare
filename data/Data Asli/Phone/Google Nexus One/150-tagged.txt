@@ -1,0 +1,5 @@
+Fast_RB ,_, great_JJ connection_NN ,_, excellent_JJ call_NN quality_NN ,_, super_JJ fast_RB ,_, Google_NNP -_: Gmail_NNP flawless_JJ integration_NN ,_, customizable_JJ settings_NNS ,_, touch_NN screen_NN works_VBZ perfectly_RB ,_, great_JJ variety_NN of_IN apps_NNS -LRB-_-LRB- must_MD of_IN them_PRP free_JJ -RRB-_-RRB- ,_, and_CC finally_RB ,_, nice_JJ size_NN and_CC shape_NN ._.
+As_IN a_DT former_JJ Iphone_NNP user_NN I_PRP can_MD say_VB that_IN this_DT is_VBZ a_DT much_RB more_RBR reliable_JJ phone_NN ._.
+It_PRP 's_VBZ a_DT shame_NN that_IN Google_NNP failed_VBD with_IN its_PRP$ marketing_NN campaign_NN and_CC sales_NNS model_NN for_IN such_JJ a_DT wonderful_JJ product_NN ._.
+This_DT is_VBZ where_WRB Apple_NNP has_VBZ the_DT advantage_NN ._.
+JH_NNP

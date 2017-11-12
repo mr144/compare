@@ -1,0 +1,68 @@
+=========
+
+nsubj(is-2, Clarity-1)
+root(ROOT-0, is-2)
+prep_above(is-2, expectation-4)
+
+=========
+
+nsubj(jump-2, Visions-1)
+root(ROOT-0, jump-2)
+prt(jump-2, off-3)
+det(screen-5, the-4)
+dobj(jump-2, screen-5)
+
+=========
+
+nsubj(flinched-4, I-1)
+aux(flinched-4, have-2)
+advmod(flinched-4, actually-3)
+root(ROOT-0, flinched-4)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(mount-3, to-2)
+dep(Easy-1, mount-3)
+advmod(well-5, as-4)
+mwe(well-5, as-4)
+advmod(mount-3, well-5)
+
+=========
+
+nsubjpass(satisfied-4, I-1)
+auxpass(satisfied-4, am-2)
+advmod(satisfied-4, quite-3)
+root(ROOT-0, satisfied-4)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+advmod(criticism-5, only-3)
+num(criticism-5, one-4)
+dobj(have-2, criticism-5)
+
+=========
+
+nsubj(own-2, I-1)
+root(ROOT-0, own-2)
+num(TV-5, two-3)
+nn(TV-5, Vizio-4)
+nsubj('s-6, TV-5)
+ccomp(own-2, 's-6)
+det(remote-10, neither-9)
+nsubj(responsive-13, remote-10)
+cop(responsive-13, is-11)
+advmod(responsive-13, very-12)
+conj_and(own-2, responsive-13)
+
+=========
+
+prep_in(frustrating-7, fact-2)
+nsubj(frustrating-7, It-4)
+cop(frustrating-7, 's-5)
+advmod(frustrating-7, somewhat-6)
+root(ROOT-0, frustrating-7)
+prep_at(frustrating-7, times-9)
+

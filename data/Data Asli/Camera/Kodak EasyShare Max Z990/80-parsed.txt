@@ -1,0 +1,90 @@
+=========
+
+root(ROOT-0, Loved-1)
+dobj(Loved-1, it-2)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+dep(Easy-1, use-3)
+
+=========
+
+root(ROOT-0, Worth-1)
+det(cent-3, every-2)
+dep(Worth-1, cent-3)
+
+=========
+
+nsubj(photographer-6, I-1)
+cop(photographer-6, am-2)
+advmod(not-4, so-3)
+neg(photographer-6, not-4)
+det(photographer-6, a-5)
+root(ROOT-0, photographer-6)
+nsubj(needed-9, I-8)
+conj_but(photographer-6, needed-9)
+det(camera-11, a-10)
+dobj(needed-9, camera-11)
+det(lot-14, a-13)
+prep_with(needed-9, lot-14)
+prep_of(lot-14, zoom-16)
+det(concert-19, a-18)
+prep_for(needed-9, concert-19)
+dobj(going-22, concert-19)
+nsubj(going-22, I-20)
+aux(going-22, was-21)
+rcmod(concert-19, going-22)
+advmod(going-22, too-23)
+
+=========
+
+cc(picked-3, And-1)
+nsubj(picked-3, I-2)
+root(ROOT-0, picked-3)
+det(one-5, this-4)
+dobj(picked-3, one-5)
+advmod(lot-10, quite-8)
+det(lot-10, a-9)
+prep_out_of(picked-3, lot-10)
+prep_of(lot-10, others-12)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(amazing-4, zoom-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+num(feet-8, 150-7)
+prep_from(enough-12, feet-8)
+nsubj(enough-12, I-9)
+dep(enough-12, got-10)
+advmod(enough-12, close-11)
+parataxis(amazing-4, enough-12)
+aux(get-14, to-13)
+xcomp(enough-12, get-14)
+poss(tattoos-16, their-15)
+dobj(get-14, tattoos-16)
+prep_with(get-14, detail-18)
+
+=========
+
+nsubj(wait-4, I-1)
+xsubj(figure-6, I-1)
+aux(wait-4, can-2)
+neg(wait-4, not-3)
+root(ROOT-0, wait-4)
+aux(figure-6, to-5)
+xcomp(wait-4, figure-6)
+prt(figure-6, out-7)
+det(stuff-11, the-8)
+amod(stuff-11, other-9)
+amod(stuff-11, cool-10)
+dobj(figure-6, stuff-11)
+complm(do-15, that-12)
+nsubj(do-15, you-13)
+aux(do-15, can-14)
+ccomp(wait-4, do-15)
+prep_with(do-15, it-17)
+

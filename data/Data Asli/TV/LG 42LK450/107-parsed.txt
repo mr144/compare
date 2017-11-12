@@ -1,0 +1,45 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(TV-4, this-3)
+dobj(love-2, TV-4)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(great-5, quality-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+det(controls-8, the-7)
+nsubj(easy-10, controls-8)
+cop(easy-10, are-9)
+conj_and(great-5, easy-10)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, hardest-2)
+nsubj(was-4, thing-3)
+xsubj(attach-6, thing-3)
+root(ROOT-0, was-4)
+aux(attach-6, to-5)
+xcomp(was-4, attach-6)
+det(screen-8, the-7)
+dobj(attach-6, screen-8)
+det(base-11, the-10)
+prep_to(attach-6, base-11)
+mark(clear-18, because-12)
+det(instructions-14, the-13)
+nsubj(clear-18, instructions-14)
+cop(clear-18, were-15)
+neg(clear-18, not-16)
+advmod(clear-18, as-17)
+advcl(attach-6, clear-18)
+mark(liked-23, as-19)
+nsubj(liked-23, I-20)
+aux(liked-23, would-21)
+aux(liked-23, have-22)
+advcl(clear-18, liked-23)
+

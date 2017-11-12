@@ -1,0 +1,27 @@
+=========
+
+advmod(phone-5, Its-1)
+advmod(phone-5, just-2)
+det(phone-5, an-3)
+amod(phone-5, unlocked-4)
+root(ROOT-0, phone-5)
+
+=========
+
+predet(system-5, All-1)
+det(system-5, the-2)
+amod(system-5, needed-3)
+nn(system-5, operating-4)
+nsubj(have-6, system-5)
+xsubj(downloaded-9, system-5)
+root(ROOT-0, have-6)
+aux(downloaded-9, to-7)
+auxpass(downloaded-9, be-8)
+xcomp(have-6, downloaded-9)
+det(phone-12, the-11)
+prep_of(downloaded-9, phone-12)
+aux(work-15, will-13)
+neg(work-15, not-14)
+rcmod(phone-12, work-15)
+advmod(work-15, properly-16)
+

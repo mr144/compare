@@ -1,0 +1,94 @@
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(Eternity-5, a-3)
+nn(Eternity-5, Samsung-4)
+dobj(had-2, Eternity-5)
+complm(liked-8, that-6)
+nsubj(liked-8, I-7)
+ccomp(had-2, liked-8)
+nsubj(fan-16, I-11)
+cop(fan-16, am-12)
+neg(fan-16, not-13)
+det(fan-16, a-14)
+amod(fan-16, big-15)
+conj_but(had-2, fan-16)
+advmod(screen-21, just-18)
+det(screen-21, a-19)
+nn(screen-21, touch-20)
+prep_of(fan-16, screen-21)
+
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+det(phone-4, a-3)
+dobj(wanted-2, phone-4)
+nsubj(had-6, phone-4)
+rcmod(phone-4, had-6)
+dobj(had-6, both-7)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+poss(Torch-5, my-4)
+dobj(like-3, Torch-5)
+
+=========
+
+nsubj(heavier-5, It-1)
+cop(heavier-5, 's-2)
+det(bit-4, a-3)
+npadvmod(heavier-5, bit-4)
+root(ROOT-0, heavier-5)
+nsubj(bother-11, that-8)
+aux(bother-11, does-9)
+neg(bother-11, not-10)
+conj_but(heavier-5, bother-11)
+dobj(bother-11, me-12)
+
+=========
+
+det(complaint-3, The-1)
+amod(complaint-3, only-2)
+dobj(screens-9, complaint-3)
+nsubj(are-10, complaint-3)
+nsubj(screens-9, I-4)
+aux(screens-9, have-5)
+det(touch-8, the-7)
+prep_with(screens-9, touch-8)
+rcmod(complaint-3, screens-9)
+root(ROOT-0, are-10)
+mark(lock-15, if-11)
+nsubj(lock-15, you-12)
+aux(lock-15, do-13)
+neg(lock-15, not-14)
+advcl(are-10, lock-15)
+dobj(lock-15, it-16)
+nsubj(end-19, you-18)
+dep(are-10, end-19)
+prt(end-19, up-20)
+xcomp(end-19, dialing-21)
+prt(dialing-21, out-22)
+mark(disconnect-31, while-24)
+det(phone-27, the-26)
+prep_on(disconnect-31, phone-27)
+poss(face-29, your-28)
+nsubj(disconnect-31, face-29)
+aux(disconnect-31, can-30)
+dep(are-10, disconnect-31)
+conj_or(end-19, disconnect-31)
+dobj(disconnect-31, someone-32)
+
+=========
+
+advmod(recommend-6, Otherwise-1)
+nsubj(recommend-6, I-3)
+aux(recommend-6, would-4)
+advmod(recommend-6, definetly-5)
+root(ROOT-0, recommend-6)
+dobj(recommend-6, it-7)
+

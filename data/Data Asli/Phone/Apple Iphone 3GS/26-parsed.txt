@@ -1,0 +1,41 @@
+=========
+
+mark(came-4, Though-1)
+det(phone-3, the-2)
+nsubj(came-4, phone-3)
+advcl(worn-19, came-4)
+dep(came-4, packaged-5)
+det(wrapping-11, a-7)
+nn(wrapping-11, box-8)
+conj_and(box-8, bubble-10)
+nn(wrapping-11, bubble-10)
+prep_in(packaged-5, wrapping-11)
+det(upkeep-14, the-13)
+nsubjpass(worn-19, upkeep-14)
+nsubjpass(scratched-21, upkeep-14)
+det(phone-17, the-16)
+prep_of(upkeep-14, phone-17)
+auxpass(worn-19, was-18)
+cop(worn-19, was-18)
+root(ROOT-0, worn-19)
+conj_and(worn-19, scratched-21)
+dep(scratched-21, up-22)
+
+=========
+
+nsubj(had-6, All-1)
+det(sockets-5, the-3)
+amod(sockets-5, open-4)
+prep_of(All-1, sockets-5)
+root(ROOT-0, had-6)
+dobj(had-6, dirt-7)
+prep_in(dirt-7, them-9)
+
+=========
+
+nsubjpass(disappointed-3, I-1)
+auxpass(disappointed-3, was-2)
+root(ROOT-0, disappointed-3)
+det(purchase-6, the-5)
+prep_with(disappointed-3, purchase-6)
+

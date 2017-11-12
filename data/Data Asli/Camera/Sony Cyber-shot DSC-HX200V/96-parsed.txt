@@ -1,0 +1,46 @@
+=========
+
+det(camera-2, This-1)
+nsubj(has-3, camera-2)
+root(ROOT-0, has-3)
+det(zoom-7, a-4)
+advmod(nice-6, really-5)
+amod(zoom-7, nice-6)
+dobj(has-3, zoom-7)
+
+=========
+
+nsubj(ranchers-3, We-1)
+cop(ranchers-3, are-2)
+root(ROOT-0, ranchers-3)
+csubj(hard-18, shooting-5)
+det(distance-9, a-7)
+amod(distance-9, fair-8)
+prep_from(shooting-5, distance-9)
+cop(important-11, is-10)
+rcmod(distance-9, important-11)
+conj_but(shooting-5, having-13)
+csubj(hard-18, having-13)
+det(camera-16, a-14)
+amod(camera-16, huge-15)
+dobj(having-13, camera-16)
+cop(hard-18, is-17)
+conj_and(ranchers-3, hard-18)
+aux(pack-20, to-19)
+xcomp(hard-18, pack-20)
+poss(horse-23, your-22)
+prep_on(pack-20, horse-23)
+
+=========
+
+nsubj(size-5, This-1)
+cop(size-5, is-2)
+det(size-5, a-3)
+amod(size-5, good-4)
+root(ROOT-0, size-5)
+amod(pictures-8, clear-7)
+conj_and(size-5, pictures-8)
+conj_and(size-5, worth-11)
+det(money-13, the-12)
+dep(worth-11, money-13)
+

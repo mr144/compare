@@ -1,0 +1,31 @@
+=========
+
+advmod(love-4, So-1)
+advmod(So-1, far-2)
+nsubj(love-4, I-3)
+root(ROOT-0, love-4)
+det(camera-6, this-5)
+dobj(love-4, camera-6)
+
+=========
+
+amod(features-2, Many-1)
+nsubj(make-10, features-2)
+prep(features-2, combined-3)
+pcomp(combined-3, with-4)
+det(ease-7, an-5)
+amod(ease-7, overall-6)
+prep_with(combined-3, ease-7)
+prep_of(ease-7, use-9)
+root(ROOT-0, make-10)
+nsubj(camera-14, this-11)
+det(camera-14, a-12)
+amod(camera-14, great-13)
+xcomp(make-10, camera-14)
+prep_for(camera-14, those-16)
+nsubj(professionals-22, those-16)
+prep_of(those-16, us-18)
+cop(professionals-22, are-20)
+neg(professionals-22, not-21)
+rcmod(those-16, professionals-22)
+

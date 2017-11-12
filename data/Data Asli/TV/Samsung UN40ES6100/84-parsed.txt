@@ -1,0 +1,30 @@
+=========
+
+det(reason-3, The-1)
+amod(reason-3, only-2)
+nsubj(Functions-19, reason-3)
+advmod(give-6, why-4)
+nsubj(give-6, I-5)
+rcmod(reason-3, give-6)
+iobj(give-6, 4-7)
+prep_instead_of(4-7, 5-10)
+dobj(give-6, its-11)
+det(Slowness-15, the-14)
+prep_because_of(reason-3, Slowness-15)
+det(SMART-18, the-17)
+prep_in(reason-3, SMART-18)
+root(ROOT-0, Functions-19)
+
+=========
+
+cc(works-11, But-1)
+mark(are-4, once-2)
+nsubj(are-4, you-3)
+advcl(works-11, are-4)
+prep_into(are-4, Netflix-6)
+prep_into(are-4, Youtube-8)
+conj_or(Netflix-6, Youtube-8)
+nsubj(works-11, that-10)
+root(ROOT-0, works-11)
+dobj(works-11, Perfect-12)
+

@@ -1,0 +1,52 @@
+=========
+
+advmod(satisfied-6, Overall-1)
+nsubj(satisfied-6, I-3)
+cop(satisfied-6, am-4)
+advmod(satisfied-6, very-5)
+root(ROOT-0, satisfied-6)
+det(screen-10, this-8)
+amod(screen-10, flat-9)
+prep_with(satisfied-6, screen-10)
+partmod(screen-10, considering-11)
+poss(price-14, its-12)
+amod(price-14, reasonable-13)
+dobj(considering-11, price-14)
+
+=========
+
+amod(picture-2, Great-1)
+nsubj(able-14, picture-2)
+ccomp(able-14, teamed-4)
+det(Xbox-7, a-6)
+prep_with(teamed-4, Xbox-7)
+num(Xbox-7, 360-8)
+prep_with(teamed-4, PC-10)
+conj_and(Xbox-7, PC-10)
+nsubj(able-14, I-12)
+cop(able-14, am-13)
+root(ROOT-0, able-14)
+aux(view-16, to-15)
+xcomp(able-14, view-16)
+dobj(view-16, plenty-17)
+prep_of(plenty-17, content-19)
+det(picture-23, a-21)
+amod(picture-23, great-22)
+prep_with(view-16, picture-23)
+
+=========
+
+advmod(else-2, Where-1)
+dep(get-5, else-2)
+aux(get-5, can-3)
+nsubj(get-5, you-4)
+root(ROOT-0, get-5)
+det(set-9, a-6)
+amod(set-9, quality-7)
+amod(set-9, 1080p-8)
+dobj(get-5, set-9)
+predet(price-14, such-11)
+det(price-14, a-12)
+amod(price-14, good-13)
+prep_at(get-5, price-14)
+

@@ -1,0 +1,61 @@
+=========
+
+det(TV-2, This-1)
+nsubj(one-6, TV-2)
+cop(one-6, is-3)
+det(one-6, the-4)
+amod(one-6, best-5)
+root(ROOT-0, one-6)
+dobj(owned-10, one-6)
+nsubj(owned-10, I-7)
+aux(owned-10, have-8)
+advmod(owned-10, ever-9)
+rcmod(one-6, owned-10)
+
+=========
+
+nsubj(easy-3, It-1)
+nsubj(worked-8, It-1)
+cop(easy-3, was-2)
+root(ROOT-0, easy-3)
+aux(set-5, to-4)
+xcomp(easy-3, set-5)
+prt(set-5, up-6)
+conj_and(easy-3, worked-8)
+amod(rit-10, great-9)
+dobj(worked-8, rit-10)
+det(box-14, the-13)
+prep_out_of(worked-8, box-14)
+
+=========
+
+amod(adjustments-3, slight-2)
+prep_after(delivered-19, adjustments-3)
+det(contrast-6, the-5)
+prep_to(adjustments-3, contrast-6)
+prep_to(adjustments-3, brightness-8)
+conj_and(contrast-6, brightness-8)
+prep_to(adjustments-3, color-11)
+conj_and(contrast-6, color-11)
+aux(fit-13, to-12)
+infmod(adjustments-3, fit-13)
+poss(needs-16, my-14)
+amod(needs-16, own-15)
+dobj(fit-13, needs-16)
+nsubj(delivered-19, It-18)
+root(ROOT-0, delivered-19)
+det(picture-22, a-20)
+amod(picture-22, great-21)
+dobj(delivered-19, picture-22)
+
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(TV-9, this-6)
+num(TV-9, 32-7)
+nn(TV-9, inch-8)
+prep_with(pleased-4, TV-9)
+

@@ -1,0 +1,47 @@
+=========
+
+amod(phone-2, excellent-1)
+root(ROOT-0, phone-2)
+
+=========
+
+advmod(good-2, very-1)
+ccomp(recommend-24, good-2)
+prep_in(good-2, terms-4)
+poss(construction-7, its-6)
+prep_of(terms-4, construction-7)
+partmod(terms-4, arrived-9)
+advmod(good-12, very-11)
+amod(condition-13, good-12)
+prep_in(arrived-9, condition-13)
+mark(slow-18, although-15)
+det(bit-17, a-16)
+nsubj(slow-18, bit-17)
+advcl(arrived-9, slow-18)
+prep_in(slow-18, coming-20)
+nsubj(recommend-24, I-22)
+advmod(recommend-24, highly-23)
+root(ROOT-0, recommend-24)
+det(seller-26, this-25)
+dobj(recommend-24, seller-26)
+
+=========
+
+det(I-2, no-1)
+nsubj(loving-4, I-2)
+aux(loving-4, am-3)
+root(ROOT-0, loving-4)
+advmod(android-6, blackberry-5)
+amod(user-7, android-6)
+dobj(loving-4, user-7)
+
+=========
+
+root(ROOT-0, hadware-1)
+conj_but(hadware-1, as-3)
+det(team-5, this-4)
+pobj(as-3, team-5)
+cop(beautiful-8, is-6)
+advmod(beautiful-8, very-7)
+rcmod(team-5, beautiful-8)
+

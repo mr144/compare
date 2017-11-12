@@ -1,0 +1,96 @@
+=========
+
+det(tv-2, This-1)
+nsubj(perfect-4, tv-2)
+cop(perfect-4, is-3)
+root(ROOT-0, perfect-4)
+mark(want-7, if-5)
+nsubj(want-7, you-6)
+advcl(perfect-4, want-7)
+det(television-11, a-8)
+amod(television-11, smaller-9)
+amod(television-11, 3d-10)
+dobj(want-7, television-11)
+
+=========
+
+advmod(expect-4, Just-1)
+aux(expect-4, do-2)
+neg(expect-4, not-3)
+dep(sit-23, expect-4)
+aux(sit-6, to-5)
+xcomp(expect-4, sit-6)
+dobj(sit-6, it-7)
+det(desk-10, a-9)
+prep_on(sit-6, desk-10)
+xcomp(expect-4, use-12)
+conj_and(sit-6, use-12)
+dobj(use-12, it-13)
+det(monitor-18, a-15)
+amod(monitor-18, 3d-16)
+nn(monitor-18, gaming-17)
+prep_as(use-12, monitor-18)
+nsubj(sit-23, you-20)
+aux(sit-23, can-21)
+neg(sit-23, not-22)
+root(ROOT-0, sit-23)
+advmod(away-26, far-24)
+advmod(away-26, enough-25)
+advmod(sit-23, away-26)
+det(desk-29, a-28)
+prep_at(sit-23, desk-29)
+advmod(uncross-35, where-31)
+poss(eyes-33, your-32)
+nsubj(uncross-35, eyes-33)
+aux(uncross-35, will-34)
+prepc_to(desk-29, uncross-35)
+
+=========
+
+cc(AMAZING-8, But-1)
+num(feet-4, 6-3)
+prep_at(AMAZING-8, feet-4)
+det(picture-6, the-5)
+nsubj(AMAZING-8, picture-6)
+aux(AMAZING-8, is-7)
+root(ROOT-0, AMAZING-8)
+
+=========
+
+nsubj(works-2, Tuner-1)
+ccomp(are-6, works-2)
+acomp(works-2, great-3)
+expl(are-6, there-5)
+root(ROOT-0, are-6)
+acomp(are-6, more-7)
+amod(hookups-10, enough-9)
+prep_than(more-7, hookups-10)
+advmod(audio-15, even-12)
+det(audio-15, a-13)
+amod(audio-15, good-14)
+prep_than(more-7, audio-15)
+conj_and(hookups-10, audio-15)
+prep_out(more-7, option-17)
+nsubj(toslink-21, option-17)
+cop(toslink-21, is-19)
+neg(toslink-21, not-20)
+rcmod(option-17, toslink-21)
+
+=========
+
+nsubj(tv-5, This-1)
+cop(tv-5, is-2)
+det(tv-5, an-3)
+amod(tv-5, exceptional-4)
+root(ROOT-0, tv-5)
+
+=========
+
+nsubj(buy-3, I-1)
+aux(buy-3, did-2)
+root(ROOT-0, buy-3)
+det(one-5, another-4)
+dobj(buy-3, one-5)
+det(heartbeat-8, a-7)
+prep_in(one-5, heartbeat-8)
+

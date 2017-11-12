@@ -1,0 +1,83 @@
+=========
+
+root(ROOT-0, Ordered-1)
+num(days-3, 2-2)
+npadvmod(ago-4, days-3)
+advmod(Ordered-1, ago-4)
+conj_and(Ordered-1, received-6)
+num(days-9, two-8)
+prep_in(received-6, days-9)
+partmod(days-9, shipping-10)
+xcomp(shipping-10, using-11)
+dobj(using-11, amazon-12)
+amod(amazon-12, prime-13)
+
+=========
+
+root(ROOT-0, satisfied-1)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, 's-2)
+root(ROOT-0, easy-3)
+advmod(easy-3, enough-4)
+aux(put-6, to-5)
+xcomp(easy-3, put-6)
+dobj(put-6, it-7)
+advmod(put-6, together-8)
+
+=========
+
+advmod(need-2, Just-1)
+root(ROOT-0, need-2)
+det(screwdriver-4, a-3)
+dobj(need-2, screwdriver-4)
+num(screws-7, 4-6)
+prep_for(need-2, screws-7)
+prep_on(screws-7, bottom-9)
+
+=========
+
+amod(thing-2, first-1)
+nsubj(better-30, thing-2)
+nsubj(noticed-4, I-3)
+rcmod(thing-2, noticed-4)
+det(TV-7, the-6)
+prep_about(noticed-4, TV-7)
+det(sound-11, the-9)
+nn(sound-11, default-10)
+nsubj(okay-16, sound-11)
+det(tv-14, the-13)
+prep_of(sound-11, tv-14)
+cop(okay-16, is-15)
+parataxis(noticed-4, okay-16)
+parataxis(turn-18, okay-16)
+dep(noticed-4, turn-18)
+dobj(turn-18, it-19)
+prt(turn-18, up-20)
+prep_to(turn-18, max-22)
+nsubj(fine-26, it-24)
+nsubj(sound-28, it-24)
+cop(fine-26, is-25)
+rcmod(thing-2, fine-26)
+conj_and(noticed-4, fine-26)
+conj_and(noticed-4, sound-28)
+conj_but(fine-26, sound-28)
+cop(better-30, is-29)
+root(ROOT-0, better-30)
+mark(use-33, if-31)
+nsubj(use-33, you-32)
+advcl(better-30, use-33)
+poss(speakers-36, your-34)
+amod(speakers-36, own-35)
+dobj(use-33, speakers-36)
+
+=========
+
+aux(update-2, will-1)
+root(ROOT-0, update-2)
+det(month-6, a-4)
+amod(month-6, few-5)
+prep_in(update-2, month-6)
+

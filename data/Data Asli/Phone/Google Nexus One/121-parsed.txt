@@ -1,0 +1,57 @@
+=========
+
+nsubj(one-4, Nexus-1)
+num(Nexus-1, one-2)
+cop(one-4, is-3)
+root(ROOT-0, one-4)
+det(phone-9, the-6)
+dep(smart-8, best-7)
+amod(phone-9, smart-8)
+prep_of(one-4, phone-9)
+det(today-13, the-11)
+nn(today-13, market-12)
+prep_in(phone-9, today-13)
+
+=========
+
+nsubj(used-2, I-1)
+xsubj(hav-4, I-1)
+root(ROOT-0, used-2)
+aux(hav-4, to-3)
+xcomp(used-2, hav-4)
+dobj(hav-4, iphone-5)
+num(iphone-5, 3GS-6)
+dobj(hav-4, iphone-8)
+conj_and(iphone-5, iphone-8)
+dep(iphone-8, 4-9)
+nsubj(sold-12, I-11)
+nsubj(bought-15, I-11)
+conj_and(used-2, sold-12)
+dobj(sold-12, them-13)
+conj_and(used-2, bought-15)
+conj_and(sold-12, bought-15)
+det(one-18, the-16)
+nn(one-18, nexus-17)
+dobj(bought-15, one-18)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(much-5, it-3)
+advmod(much-5, so-4)
+xcomp(love-2, much-5)
+nsubj(phone-12, it-7)
+cop(phone-12, is-8)
+det(phone-12, the-9)
+dep(smart-11, best-10)
+amod(phone-12, smart-11)
+conj_and(love-2, phone-12)
+advmod(far-14, so-13)
+advmod(phone-12, far-14)
+
+=========
+
+root(ROOT-0, Regards-1)
+appos(Regards-1, Nidal-3)
+

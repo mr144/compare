@@ -1,0 +1,21 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+advmod(get-2, so-1)
+root(ROOT-0, get-2)
+prt(get-2, off-3)
+det(couch-5, the-4)
+dobj(get-2, couch-5)
+advmod(get-8, just-7)
+conj_and(get-2, get-8)
+det(DVD-11, a-9)
+amod(DVD-11, regular-10)
+dobj(get-8, DVD-11)
+prep_at(get-8, walmart-13)
+
+=========
+
+root(ROOT-0, target-1)
+conj_or(target-1, whatever-3)
+

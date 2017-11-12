@@ -1,0 +1,13 @@
+=========
+
+amod(product-2, excellent-1)
+ccomp(liked-6, product-2)
+nsubj(liked-6, I-4)
+advmod(liked-6, really-5)
+root(ROOT-0, liked-6)
+cop(pleased-9, am-7)
+advmod(pleased-9, very-8)
+ccomp(liked-6, pleased-9)
+det(purchase-12, the-11)
+prep_with(pleased-9, purchase-12)
+

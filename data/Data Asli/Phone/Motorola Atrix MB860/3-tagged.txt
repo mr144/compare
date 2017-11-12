@@ -1,0 +1,3 @@
+I_PRP am_VBP from_IN Venezuela_NNP and_CC it_PRP works_VBZ great_JJ with_IN Digitel_NNP !_.
+Camera_NN ,_, touch_NN response_NN ,_, graphics_NNS ,_, it_PRP is_VBZ just_RB great_JJ !_.
+:_: D_NNP C&oacute;mpralo_NNP sin_NN dudar_NN :_: P_SYM

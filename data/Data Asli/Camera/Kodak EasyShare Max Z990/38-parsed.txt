@@ -1,0 +1,14 @@
+=========
+
+amod(product-2, excellent-1)
+dep(good-4, product-2)
+advmod(good-4, very-3)
+root(ROOT-0, good-4)
+
+=========
+
+amod(product-2, excellent-1)
+dep(good-4, product-2)
+advmod(good-4, very-3)
+root(ROOT-0, good-4)
+

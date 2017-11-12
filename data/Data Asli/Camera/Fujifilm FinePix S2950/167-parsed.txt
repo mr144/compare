@@ -1,0 +1,63 @@
+=========
+
+nsubj(getting-4, I-1)
+xsubj(know-6, I-1)
+aux(getting-4, am-2)
+advmod(getting-4, still-3)
+root(ROOT-0, getting-4)
+aux(know-6, to-5)
+xcomp(getting-4, know-6)
+det(product-8, the-7)
+dobj(know-6, product-8)
+
+=========
+
+cc(did-3, But-1)
+nsubj(did-3, I-2)
+root(ROOT-0, did-3)
+ccomp(did-3, say-4)
+nsubj(is-6, it-5)
+ccomp(say-4, is-6)
+prep_on(is-6, par-8)
+amod(point-11, other-10)
+prep_with(par-8, point-11)
+nn(cameras-14, shoot-13)
+prep_with(par-8, cameras-14)
+conj_and(point-11, cameras-14)
+advmod(is-6, even-16)
+det(settings-21, the-18)
+advmod(advanced-20, more-19)
+amod(settings-21, advanced-20)
+prep_in(is-6, settings-21)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(thrill-6, quality-3)
+aux(thrill-6, does-4)
+neg(thrill-6, not-5)
+root(ROOT-0, thrill-6)
+dobj(thrill-6, me-7)
+
+=========
+
+nsubj(average-4, It-1)
+cop(average-4, 's-2)
+advmod(average-4, just-3)
+root(ROOT-0, average-4)
+
+=========
+
+dep(and-3, Oh-1)
+root(ROOT-0, and-3)
+nsubj(saw-5, I-4)
+ccomp(and-3, saw-5)
+dobj(saw-5, it-6)
+prep_for(saw-5, cheaper-8)
+prep_at(cheaper-8, Wal-Mart-10)
+mark(bought-13, after-11)
+nsubj(bought-13, I-12)
+advcl(saw-5, bought-13)
+dobj(bought-13, it-14)
+

@@ -1,0 +1,36 @@
+=========
+
+nsubj(easy-4, TV-1)
+nsubj(has-9, TV-1)
+cop(easy-4, was-2)
+advmod(easy-4, extremely-3)
+root(ROOT-0, easy-4)
+aux(set-6, to-5)
+xcomp(easy-4, set-6)
+prt(set-6, up-7)
+conj_and(easy-4, has-9)
+amod(features-12, many-10)
+amod(features-12, cool-11)
+dobj(has-9, features-12)
+nsubj(costs-15, +-13)
+advmod(costs-15, only-14)
+rcmod(features-12, costs-15)
+dobj(costs-15, $-16)
+num($-16, 16-17)
+det(year-19, a-18)
+tmod(costs-15, year-19)
+aux(run-21, to-20)
+infmod(year-19, run-21)
+nn(settings-25, energy-23)
+nn(settings-25, saver-24)
+prep_with(run-21, settings-25)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(product-7, this-6)
+prep_with(happy-4, product-7)
+

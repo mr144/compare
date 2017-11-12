@@ -1,0 +1,27 @@
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, do-2)
+neg(know-4, not-3)
+ccomp(looks-8, know-4)
+nsubj(happen-6, what-5)
+ccomp(know-4, happen-6)
+root(ROOT-0, looks-8)
+prep_like(looks-8, new-10)
+det(headset-14, the-13)
+nsubj(works-16, headset-14)
+advmod(works-16, sometimes-15)
+conj_but(looks-8, works-16)
+npadvmod(not-19, others-18)
+neg(works-16, not-19)
+
+=========
+
+cc(have-3, So-1)
+nsubj(have-3, I-2)
+xsubj(repair-5, I-2)
+root(ROOT-0, have-3)
+aux(repair-5, to-4)
+xcomp(have-3, repair-5)
+dobj(repair-5, it-6)
+

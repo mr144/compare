@@ -1,0 +1,38 @@
+=========
+
+nsubj(ordered-2, I-1)
+root(ROOT-0, ordered-2)
+predet(phone-5, a-3)
+det(phone-5, the-4)
+dobj(ordered-2, phone-5)
+nsubj(stated-7, phone-5)
+rcmod(phone-5, stated-7)
+nsubjpass(refurbished-10, it-8)
+auxpass(refurbished-10, was-9)
+ccomp(stated-7, refurbished-10)
+
+=========
+
+nsubjpass(surpassed-3, It-1)
+auxpass(surpassed-3, was-2)
+root(ROOT-0, surpassed-3)
+poss(expectations-5, my-4)
+dobj(surpassed-3, expectations-5)
+det(phone-7, the-6)
+nsubj(looked-8, phone-7)
+nsubj(came-12, phone-7)
+rcmod(expectations-5, looked-8)
+dobj(looked-8, brand-9)
+amod(brand-9, new-10)
+rcmod(expectations-5, came-12)
+conj_and(looked-8, came-12)
+nn(neede-15, everything-14)
+prep_with(came-12, neede-15)
+nsubj(had-18, I-16)
+aux(had-18, have-17)
+rcmod(neede-15, had-18)
+det(problems-20, no-19)
+dobj(had-18, problems-20)
+prep_with(had-18, phone-22)
+prep_since(had-18, purchase-24)
+

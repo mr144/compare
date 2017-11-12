@@ -1,0 +1,51 @@
+=========
+
+nsubj(met-2, It-1)
+root(ROOT-0, met-2)
+poss(needs-4, our-3)
+dobj(met-2, needs-4)
+
+=========
+
+advmod(finish-10, Has-1)
+det(picture-4, a-2)
+amod(picture-4, nice-3)
+nsubj(finish-10, picture-4)
+det(bezel-7, the-6)
+conj_and(picture-4, bezel-7)
+nsubj(finish-10, bezel-7)
+cop(finish-10, is-8)
+amod(finish-10, dull-9)
+root(ROOT-0, finish-10)
+dobj(like-13, finish-10)
+rel(like-13, which-11)
+nsubj(like-13, I-12)
+rcmod(finish-10, like-13)
+
+=========
+
+nsubj(tell-3, Time-1)
+aux(tell-3, will-2)
+root(ROOT-0, tell-3)
+mark(was-7, if-4)
+det(LCD-6, this-5)
+nsubj(was-7, LCD-6)
+advcl(tell-3, was-7)
+det(cost-10, the-9)
+prep_worth(was-7, cost-10)
+
+=========
+
+nsubj(has-2, it-1)
+root(ROOT-0, has-2)
+det(warranty-7, a-3)
+num(warranty-7, 2-4)
+nn(warranty-7, year-5)
+nn(warranty-7, manufacturers-6)
+tmod(has-2, warranty-7)
+dep(has-2, so-8)
+nsubj(good-12, that-9)
+cop(good-12, is-10)
+advmod(good-12, also-11)
+ccomp(has-2, good-12)
+

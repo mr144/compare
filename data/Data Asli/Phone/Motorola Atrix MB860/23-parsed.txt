@@ -1,0 +1,94 @@
+=========
+
+nsubj(bought-3, I-1)
+aux(bought-3, have-2)
+root(ROOT-0, bought-3)
+amod(ATRIX-5, several-4)
+dobj(bought-3, ATRIX-5)
+num('s-7, 4G-6)
+npadvmod(ATRIX-5, 's-7)
+prep_off_of(ATRIX-5, ebay-10)
+prep_off_of(ATRIX-5, amazon-12)
+conj_and(ebay-10, amazon-12)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+det(issues-4, some-3)
+nsubj(are-2, issues-4)
+det(device-7, the-6)
+prep_with(issues-4, device-7)
+nsubj(are-2, there-11)
+conj_and(issues-4, there-11)
+aux(been-13, has-12)
+rcmod(there-11, been-13)
+advmod(been-13, somewhat-14)
+det(factor-19, a-16)
+amod(factor-19, bad-17)
+nn(factor-19, luck-18)
+prep_of(been-13, factor-19)
+
+=========
+
+nsubj(device-5, This-1)
+cop(device-5, is-2)
+det(device-5, an-3)
+amod(device-5, excellent-4)
+root(ROOT-0, device-5)
+nsubj(had-9, I-7)
+aux(had-9, have-8)
+conj_but(device-5, had-9)
+det(luck-12, some-10)
+amod(luck-12, bad-11)
+dobj(had-9, luck-12)
+prep_with(luck-12, it-14)
+
+=========
+
+expl(issues-7, There-1)
+aux(issues-7, have-2)
+cop(issues-7, been-3)
+det(issues-7, some-4)
+nn(issues-7, battery-5)
+nn(issues-7, life-6)
+root(ROOT-0, issues-7)
+advmod(well-9, as-8)
+mwe(well-9, as-8)
+advmod(issues-7, well-9)
+
+=========
+
+advmod(pleasure-9, other-1)
+prep_than(other-1, that-3)
+det(phone-6, this-5)
+nsubj(pleasure-9, phone-6)
+cop(pleasure-9, is-7)
+det(pleasure-9, a-8)
+root(ROOT-0, pleasure-9)
+aux(use-11, to-10)
+infmod(pleasure-9, use-11)
+advmod(use-11, specially-12)
+det(roms-18, the-14)
+amod(roms-18, new-15)
+amod(roms-18, jelly-16)
+nn(roms-18, bean-17)
+prep_with(use-11, roms-18)
+
+=========
+
+det(display-2, The-1)
+nsubj(beautiful-5, display-2)
+nsubj(looks-7, display-2)
+cop(beautiful-5, is-3)
+advmod(beautiful-5, just-4)
+root(ROOT-0, beautiful-5)
+conj_and(beautiful-5, looks-7)
+advmod(good-9, really-8)
+acomp(looks-7, good-9)
+acomp(looks-7, vibrant-11)
+conj_and(good-9, vibrant-11)
+advmod(vibrant-11, even-12)
+prep_in(vibrant-11, comparison-14)
+prep_with(looks-7, iphone4s-16)
+

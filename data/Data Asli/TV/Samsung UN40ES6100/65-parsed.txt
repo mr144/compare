@@ -1,0 +1,40 @@
+=========
+
+nsubj(one-3, This-1)
+cop(one-3, is-2)
+root(ROOT-0, one-3)
+det(TV-7, the-5)
+amod(TV-7, best-6)
+prep_of(one-3, TV-7)
+dobj(owned-12, TV-7)
+possessive(TV-7, 's-8)
+nsubj(owned-12, I-9)
+aux(owned-12, have-10)
+advmod(owned-12, ever-11)
+rcmod(TV-7, owned-12)
+
+=========
+
+mark(going-3, If-1)
+poss(going-3, your-2)
+advcl(need-11, going-3)
+dep(going-3, with-4)
+det(TV-7, a-5)
+amod(TV-7, smart-6)
+pobj(with-4, TV-7)
+nsubj(need-11, you-9)
+aux(need-11, will-10)
+root(ROOT-0, need-11)
+det(router-14, an-12)
+amod(router-14, internet-13)
+dobj(need-11, router-14)
+nsubj(great-19, router-14)
+cop(great-19, is-16)
+advmod(great-19, equally-17)
+advmod(great-19, as-18)
+rcmod(router-14, great-19)
+
+=========
+
+root(ROOT-0, http:\/\/www.amazon.com\/gp\/product\/B008I21EA2\/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008I21EA2&linkCode=as2&tag=wwwworkoutwei-20-1)
+

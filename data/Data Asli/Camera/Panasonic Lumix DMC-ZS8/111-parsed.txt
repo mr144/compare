@@ -1,0 +1,120 @@
+=========
+
+prep(camera-27, Coupled-1)
+pcomp(Coupled-1, with-2)
+det(ASIN-5, the-3)
+prep_with(Coupled-1, ASIN-5)
+nn(Case-12, B004TLK8GM-7)
+nn(Case-12, Panasonic-8)
+nn(Case-12, DMW-MCTZ20-9)
+nn(Case-12, Underwater-10)
+nn(Case-12, Marine-11)
+dep(ASIN-5, Case-12)
+nn(Camera-18, Lumix-14)
+nn(Camera-18, DMC-15)
+nn(Camera-18, TZ20-16)
+nn(Camera-18, Digital-17)
+prep_for(Case-12, Camera-18)
+det(ZS8-23, the-22)
+nsubj(camera-27, ZS8-23)
+cop(camera-27, is-24)
+amod(camera-27, great-25)
+nn(camera-27, dive-26)
+root(ROOT-0, camera-27)
+quantmod($-31, less-29)
+quantmod($-31, than-30)
+prep_for(camera-27, $-31)
+number($-31, 500-32)
+number($-31, complete-33)
+
+=========
+
+nsubj(crazy-3, That-1)
+cop(crazy-3, 's-2)
+root(ROOT-0, crazy-3)
+
+=========
+
+nsubj(taken-3, I-1)
+aux(taken-3, have-2)
+root(ROOT-0, taken-3)
+quantmod(thousand-5, several-4)
+num(exposures-6, thousand-5)
+dobj(taken-3, exposures-6)
+det(camera-9, this-8)
+prep_with(taken-3, camera-9)
+amod(camera-9, underwater-10)
+
+=========
+
+det(results-2, The-1)
+nsubj(stunning-4, results-2)
+cop(stunning-4, are-3)
+root(ROOT-0, stunning-4)
+
+=========
+
+root(ROOT-0, See-2)
+det(images-4, the-3)
+dobj(See-2, images-4)
+
+=========
+
+det(flash-3, The-1)
+amod(flash-3, built-in-2)
+nsubj(ready-5, flash-3)
+cop(ready-5, is-4)
+root(ROOT-0, ready-5)
+aux(used-8, to-6)
+auxpass(used-8, be-7)
+xcomp(ready-5, used-8)
+aux(trigger-10, to-9)
+xcomp(used-8, trigger-10)
+det(strobe-13, an-11)
+amod(strobe-13, external-12)
+dobj(trigger-10, strobe-13)
+
+=========
+
+nsubj(get-2, You-1)
+root(ROOT-0, get-2)
+amod(control-5, through-the-lens-3)
+nn(control-5, exposure-4)
+dobj(get-2, control-5)
+det(fuss-8, no-7)
+prep_with(get-2, fuss-8)
+
+=========
+
+advmod(over-5, When-1)
+det(dive-3, the-2)
+nsubj(over-5, dive-3)
+cop(over-5, is-4)
+advcl(comes-9, over-5)
+det(ZS8-8, the-7)
+nsubj(comes-9, ZS8-8)
+xsubj(camera-20, ZS8-8)
+root(ROOT-0, comes-9)
+det(housing-14, the-12)
+nn(housing-14, u\/w-13)
+prep_out_of(comes-9, housing-14)
+aux(camera-20, to-15)
+cop(camera-20, become-16)
+det(camera-20, a-17)
+amod(camera-20, great-18)
+nn(camera-20, pocket-19)
+xcomp(comes-9, camera-20)
+advmod(camera-20, again-21)
+
+=========
+
+advmod(versatility-3, So-1)
+amod(versatility-3, much-2)
+root(ROOT-0, versatility-3)
+conj_and(versatility-3, portability-5)
+nn(quality-9, image-8)
+conj_and(versatility-3, quality-9)
+advmod(little-12, so-11)
+amod(expense-13, little-12)
+prep_for(quality-9, expense-13)
+

@@ -1,0 +1,30 @@
+=========
+
+det(product-2, The-1)
+nsubj(says-3, product-2)
+root(ROOT-0, says-3)
+amod(phone-5, unlcoked-4)
+dobj(says-3, phone-5)
+nsubj(locked-9, its-8)
+nsubj(able-16, its-8)
+conj_but(says-3, locked-9)
+nn(mobile-12, T-11)
+prep_with(locked-9, mobile-12)
+cop(able-16, am-14)
+neg(able-16, not-15)
+conj_but(says-3, able-16)
+conj_and(locked-9, able-16)
+aux(use-18, to-17)
+xcomp(able-16, use-18)
+dobj(use-18, it-19)
+amod(carrier-22, other-21)
+prep_with(use-18, carrier-22)
+
+=========
+
+nsubjpass(upset-4, I-1)
+auxpass(upset-4, am-2)
+advmod(upset-4, really-3)
+root(ROOT-0, upset-4)
+prep_with(upset-4, this-6)
+

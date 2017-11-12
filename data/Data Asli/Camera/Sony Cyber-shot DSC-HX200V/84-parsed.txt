@@ -1,0 +1,139 @@
+=========
+
+nsubj(have-2, I-1)
+nsubj(loved-9, I-1)
+root(ROOT-0, have-2)
+det(shot-7, an-3)
+amod(shot-7, old-4)
+amod(shot-7, sony-5)
+nn(shot-7, cyber-6)
+dobj(have-2, shot-7)
+conj_and(have-2, loved-9)
+dobj(loved-9, it-10)
+mark(dropped-14, until-11)
+poss(son-13, my-12)
+nsubj(dropped-14, son-13)
+advcl(loved-9, dropped-14)
+dobj(dropped-14, it-15)
+
+=========
+
+det(one-2, This-1)
+nsubj(takes-3, one-2)
+root(ROOT-0, takes-3)
+npadvmod(better-5, way-4)
+amod(photos-6, better-5)
+dobj(takes-3, photos-6)
+
+=========
+
+poss(one-3, My-1)
+amod(one-3, old-2)
+nsubj(took-5, one-3)
+advmod(took-5, always-4)
+root(ROOT-0, took-5)
+amod(pics-7, blurry-6)
+dobj(took-5, pics-7)
+prep(took-5, with-8)
+pcomp(with-8, out-9)
+prep_out(with-8, flash-10)
+det(one-13, this-12)
+nsubj(has-16, one-13)
+advmod(far-15, so-14)
+advmod(has-16, far-15)
+conj_and(took-5, has-16)
+neg(has-16, not-17)
+
+=========
+
+nsubj(had-4, I-1)
+aux(had-4, have-2)
+advmod(had-4, only-3)
+root(ROOT-0, had-4)
+dobj(had-4, it-5)
+det(week-7, a-6)
+dep(it-5, week-7)
+dobj(had-4, two-9)
+conj_or(it-5, two-9)
+
+=========
+
+advmod(testing-2, Still-1)
+csubj(great-9, testing-2)
+dobj(testing-2, it-3)
+prt(testing-2, out-4)
+advmod(far-7, but-5)
+advmod(far-7, so-6)
+advmod(testing-2, far-7)
+cop(great-9, seems-8)
+root(ROOT-0, great-9)
+
+=========
+
+num(thing-2, One-1)
+nsubj(press-22, thing-2)
+nsubj(do-4, I-3)
+rcmod(thing-2, do-4)
+advmod(do-4, really-5)
+mark(is-7, like-6)
+advcl(do-4, is-7)
+complm(has-10, that-8)
+nsubj(has-10, it-9)
+ccomp(is-7, has-10)
+dobj(has-10, directions-11)
+dobj(have-18, directions-11)
+advmod(directions-11, right-12)
+det(camera-15, the-14)
+prep_in(right-12, camera-15)
+advmod(right-12, all-16)
+nsubj(have-18, you-17)
+xsubj(do-20, you-17)
+rcmod(directions-11, have-18)
+aux(do-20, to-19)
+xcomp(have-18, do-20)
+cop(press-22, is-21)
+root(ROOT-0, press-22)
+dep(press-22, the-23)
+
+=========
+
+root(ROOT-0, button-1)
+
+=========
+
+det(shooting-3, The-1)
+nn(shooting-3, continous-2)
+nsubj(different-5, shooting-3)
+nsubj(harder-11, shooting-3)
+cop(different-5, is-4)
+root(ROOT-0, different-5)
+prep(different-5, then-6)
+poss(one-9, my-7)
+amod(one-9, old-8)
+pobj(then-6, one-9)
+conj_and(different-5, harder-11)
+prep_to(harder-11, use-13)
+
+=========
+
+det(one-3, The-1)
+amod(one-3, old-2)
+nsubj(better-5, one-3)
+cop(better-5, is-4)
+root(ROOT-0, better-5)
+prep_for(better-5, that-7)
+
+=========
+
+cc(great-12, but-1)
+advmod(great-12, so-2)
+advmod(happy-5, far-3)
+advmod(happy-5, really-4)
+pobj(so-2, happy-5)
+prep_with(great-12, it-7)
+det(price-10, the-9)
+conj_and(it-7, price-10)
+prep_with(great-12, price-10)
+cop(great-12, was-11)
+root(ROOT-0, great-12)
+

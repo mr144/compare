@@ -1,0 +1,138 @@
+=========
+
+advmod(one-19, Well-1)
+det(cellphone-4, this-3)
+xsubj(powerful-10, cellphone-4)
+nsubj(one-19, cellphone-4)
+partmod(cellphone-4, used-5)
+aux(powerful-10, to-6)
+cop(powerful-10, be-7)
+det(powerful-10, the-8)
+advmod(powerful-10, most-9)
+xcomp(used-5, powerful-10)
+det(while-13, a-12)
+prep_for(powerful-10, while-13)
+advmod(powerful-10, nowadays-15)
+cop(one-19, is-16)
+advmod(one-19, just-17)
+det(one-19, another-18)
+root(ROOT-0, one-19)
+det(shelves-22, the-21)
+prep_in(one-19, shelves-22)
+
+=========
+
+det(product-2, The-1)
+dobj(got-4, product-2)
+nsubj(defective-6, product-2)
+nsubj(got-4, I-3)
+rcmod(product-2, got-4)
+cop(defective-6, was-5)
+root(ROOT-0, defective-6)
+det(seller-10, the-9)
+nsubj(kind-12, seller-10)
+cop(kind-12, was-11)
+conj_but(defective-6, kind-12)
+advmod(kind-12, enough-13)
+aux(replace-15, to-14)
+xcomp(kind-12, replace-15)
+dobj(replace-15, it-16)
+
+=========
+
+det(one-3, The-1)
+amod(one-3, new-2)
+nsubj(worked-4, one-3)
+root(ROOT-0, worked-4)
+advmod(worked-4, correctly-5)
+num(months-10, 2-9)
+prep_after(giving-15, months-10)
+nsubj(giving-15, it-12)
+aux(giving-15, is-13)
+advmod(giving-15, now-14)
+conj_but(worked-4, giving-15)
+iobj(giving-15, me-16)
+amod(trouble-18, more-17)
+dobj(giving-15, trouble-18)
+det(device-22, the-20)
+amod(device-22, previous-21)
+prep_than(trouble-18, device-22)
+
+=========
+
+nsubj(have-2, I-1)
+ccomp(are-9, have-2)
+dobj(have-2, problems-3)
+det(screen-6, the-5)
+prep_with(problems-3, screen-6)
+expl(are-9, there-8)
+root(ROOT-0, are-9)
+amod(zones-11, dead-10)
+nsubj(are-9, zones-11)
+
+=========
+
+mark(turn-3, If-1)
+nsubj(turn-3, I-2)
+advcl(reboot-9, turn-3)
+dobj(turn-3, wifi-4)
+dobj(turn-3, bluetooth-6)
+conj_or(wifi-4, bluetooth-6)
+nsubj(reboot-9, it-7)
+aux(reboot-9, will-8)
+root(ROOT-0, reboot-9)
+num(minutes-12, 2-3-11)
+prep_after(reboot-9, minutes-12)
+
+=========
+
+nsubj(overheats-3, It-1)
+advmod(overheats-3, also-2)
+root(ROOT-0, overheats-3)
+advmod(easily-5, quite-4)
+advmod(overheats-3, easily-5)
+
+=========
+
+nsubj(know-3, I-1)
+advmod(know-3, now-2)
+root(ROOT-0, know-3)
+nsubj(issue-8, this-4)
+cop(issue-8, is-5)
+det(issue-8, a-6)
+amod(issue-8, common-7)
+ccomp(know-3, issue-8)
+det(Atrix-11, the-10)
+prep_in(issue-8, Atrix-11)
+num(Atrix-11, 4G-12)
+
+=========
+
+mark(can-3, If-1)
+nsubj(can-3, you-2)
+advcl(try-5, can-3)
+root(ROOT-0, try-5)
+amod(device-8, other-6)
+amod(device-8, newer-7)
+dobj(try-5, device-8)
+
+=========
+
+nsubj(sure-3, I-1)
+cop(sure-3, am-2)
+root(ROOT-0, sure-3)
+det(problems-5, the-4)
+dobj(facing-8, problems-5)
+nsubj(are-9, problems-5)
+nsubj(facing-8, I-6)
+aux(facing-8, am-7)
+rcmod(problems-5, facing-8)
+ccomp(sure-3, are-9)
+mark(old-15, because-10)
+det(device-12, the-11)
+nsubj(old-15, device-12)
+cop(old-15, is-13)
+advmod(old-15, quite-14)
+advcl(are-9, old-15)
+advmod(old-15, now-16)
+

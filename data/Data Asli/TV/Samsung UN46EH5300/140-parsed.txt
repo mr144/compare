@@ -1,0 +1,37 @@
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+det(TV-5, the-4)
+dobj(like-3, TV-5)
+amod(TV-5, easy-7)
+aux(set-9, to-8)
+xcomp(easy-7, set-9)
+prt(set-9, up-10)
+xcomp(easy-7, operate-12)
+conj_and(set-9, operate-12)
+amod(picture-15, good-14)
+dobj(operate-12, picture-15)
+
+=========
+
+nsubj(streams-2, Internet-1)
+root(ROOT-0, streams-2)
+acomp(streams-2, fine-3)
+
+=========
+
+nsubj(nervous-5, I-1)
+cop(nervous-5, was-2)
+det(little-4, a-3)
+npadvmod(nervous-5, little-4)
+root(ROOT-0, nervous-5)
+aux(shipped-10, having-7)
+det(TV-9, a-8)
+dobj(shipped-10, TV-9)
+prepc_about(nervous-5, shipped-10)
+det(issues-14, no-13)
+conj_but(nervous-5, issues-14)
+advmod(issues-14, there-15)
+

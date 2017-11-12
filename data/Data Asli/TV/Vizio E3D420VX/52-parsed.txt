@@ -1,0 +1,123 @@
+=========
+
+nsubj(was-2, I-1)
+root(ROOT-0, was-2)
+advmod(was-2, just-3)
+det(market-6, the-5)
+prep_in(was-2, market-6)
+det(HDTV-9, an-8)
+prep_for(market-6, HDTV-9)
+
+=========
+
+nsubj(something-4, 3D-1)
+cop(something-4, was-2)
+neg(something-4, not-3)
+root(ROOT-0, something-4)
+nsubj(looking-8, I-5)
+aux(looking-8, was-6)
+advmod(looking-8, actively-7)
+rcmod(something-4, looking-8)
+prep(looking-8, for-9)
+
+=========
+
+advmod(found-3, When-1)
+nsubj(found-3, I-2)
+advcl(thrilled-11, found-3)
+det(deal-5, the-4)
+dobj(found-3, deal-5)
+det(model-8, this-7)
+prep_for(found-3, model-8)
+nsubjpass(thrilled-11, I-9)
+nsubjpass(expecting-17, I-9)
+auxpass(thrilled-11, was-10)
+root(ROOT-0, thrilled-11)
+det(price-14, the-13)
+prep_with(thrilled-11, price-14)
+conj_negcc(thrilled-11, expecting-17)
+advmod(much-19, too-18)
+advmod(expecting-17, much-19)
+det(3D-22, the-21)
+prep_from(expecting-17, 3D-22)
+
+=========
+
+nsubj(afterthought-4, It-1)
+cop(afterthought-4, was-2)
+det(afterthought-4, an-3)
+root(ROOT-0, afterthought-4)
+
+=========
+
+nsubj(put-2, I-1)
+nsubjpass(blown-9, I-1)
+root(ROOT-0, put-2)
+poss(3D\/Blu-6, my-4)
+nn(3D\/Blu-6, Avengers-5)
+prep_in(put-2, 3D\/Blu-6)
+auxpass(blown-9, was-8)
+conj_and(put-2, blown-9)
+prt(blown-9, away-10)
+
+=========
+
+nsubj(expected-3, I-1)
+neg(expected-3, NEVER-2)
+root(ROOT-0, expected-3)
+det(quality-5, the-4)
+dobj(expected-3, quality-5)
+dobj(produces-8, quality-5)
+det(Vizio-7, this-6)
+nsubj(produces-8, Vizio-7)
+rcmod(quality-5, produces-8)
+
+=========
+
+det(3D-2, The-1)
+nsubj(clear-4, 3D-2)
+cop(clear-4, is-3)
+root(ROOT-0, clear-4)
+amod(ghosting-11, little-6)
+dep(ghosting-11, if-8)
+dep(if-8, any-9)
+prep_with(clear-4, ghosting-11)
+advmod(ghosting-11, at-12)
+pobj(at-12, all-13)
+
+=========
+
+nsubj(wait-4, I-1)
+xsubj(get-6, I-1)
+aux(wait-4, can-2)
+neg(wait-4, not-3)
+root(ROOT-0, wait-4)
+aux(get-6, to-5)
+xcomp(wait-4, get-6)
+det(Blus-10, some-7)
+amod(Blus-10, more-8)
+num(Blus-10, 3D-9)
+dobj(get-6, Blus-10)
+
+=========
+
+cc(Doctor-5, And-2)
+advmod(Doctor-5, now-3)
+nsubj(Doctor-5, that-4)
+root(ROOT-0, Doctor-5)
+nsubj(broadcasting-8, Who-6)
+aux(broadcasting-8, is-7)
+ccomp(Doctor-5, broadcasting-8)
+prep_in(broadcasting-8, 3D-10)
+advmod(year-13, later-11)
+det(year-13, this-12)
+tmod(broadcasting-8, year-13)
+nsubjpass(elated-17, I-15)
+auxpass(elated-17, am-16)
+parataxis(Doctor-5, elated-17)
+poss(afterthought-22, my-19)
+amod(afterthought-22, new-20)
+num(afterthought-22, &#34;-21)
+prep_with(elated-17, afterthought-22)
+num(afterthought-22, &#34;-23)
+

@@ -1,0 +1,4 @@
+TV_NN picture_NN is_VBZ great_JJ and_CC the_DT SMARTHub_NNP works_VBZ as_RB anticipated_VBN ._.
+I_PRP do_VBP not_RB use_VB it_PRP to_TO search_VB the_DT Web_NNP ._.
+I_PRP use_VBP it_PRP only_RB for_IN Netflix_NNP ,_, Hulu_NNP Plus_NNP ,_, and_CC Amazon_NNP streaming_VBG ._.
+It_PRP works_VBZ perfectly_RB for_IN me_PRP ._.

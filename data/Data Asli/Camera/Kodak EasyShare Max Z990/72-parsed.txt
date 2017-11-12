@@ -1,0 +1,36 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+dep(camera-10, this-6)
+poss(camera-10, my-7)
+amod(camera-10, second-8)
+nn(camera-10, Kodak-9)
+parataxis(love-2, camera-10)
+
+=========
+
+root(ROOT-0, Love-1)
+partmod(Love-1, filming-2)
+det(mode-6, the-4)
+amod(mode-6, black\/white-5)
+prep_in(filming-2, mode-6)
+
+=========
+
+dep(enough-2, Small-1)
+root(ROOT-0, enough-2)
+aux(throw-4, to-3)
+xcomp(enough-2, throw-4)
+poss(purse-7, my-6)
+prep_in(throw-4, purse-7)
+nsubj(zoom-10, enough-9)
+xsubj(catch-12, enough-9)
+parataxis(enough-2, zoom-10)
+aux(catch-12, to-11)
+xcomp(zoom-10, catch-12)
+det(surfers-14, the-13)
+dobj(catch-12, surfers-14)
+

@@ -1,0 +1,71 @@
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+advcl(go-16, want-3)
+csubj(go-16, want-3)
+det(phone-5, a-4)
+dobj(want-3, phone-5)
+nsubj(has-7, phone-5)
+rcmod(phone-5, has-7)
+nn(4.0-9, Android-8)
+dobj(has-7, 4.0-9)
+amod(display-12, great-11)
+dobj(has-7, display-12)
+conj_and(4.0-9, display-12)
+conj_and(4.0-9, sound-14)
+conj_and(display-12, sound-14)
+advmod(go-16, then-15)
+root(ROOT-0, go-16)
+prep_for(go-16, this-18)
+
+=========
+
+nsubj(optimus-4, Sound-1)
+advmod(than-3, better-2)
+advmod(optimus-4, than-3)
+root(ROOT-0, optimus-4)
+nn(etc.-7, galaxy-6)
+dobj(optimus-4, etc.-7)
+iobj(optimus-4, etc.-7)
+dobj(optimus-4, 2-8)
+dep(etc.-7, 2-8)
+
+=========
+
+nsubj(has-2, Sony-1)
+root(ROOT-0, has-2)
+det(amount-5, the-3)
+amod(amount-5, least-4)
+dobj(has-2, amount-5)
+prep_of(amount-5, bloatware-7)
+det(device-11, an-9)
+nn(device-11, Android-10)
+prep_for(bloatware-7, device-11)
+
+=========
+
+root(ROOT-0, ICS-1)
+dobj(ICS-1, 4-2)
+
+=========
+
+amod(battery-2, Removable-1)
+root(ROOT-0, battery-2)
+amod(battery-2, useful-3)
+aux(sell-5, to-4)
+xcomp(useful-3, sell-5)
+det(phone-7, the-6)
+dobj(sell-5, phone-7)
+
+=========
+
+nsubj(small-3, Screen-1)
+cop(small-3, is-2)
+root(ROOT-0, small-3)
+
+=========
+
+amod(memory-2, Limited-1)
+root(ROOT-0, memory-2)
+

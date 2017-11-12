@@ -1,0 +1,46 @@
+=========
+
+root(ROOT-0, This-1)
+prep(This-1, a-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+pobj(a-2, camera-5)
+advmod(This-1, overall-6)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(features-5, some-3)
+amod(features-5, good-4)
+dobj(has-2, features-5)
+det(Panorama-8, the-7)
+prep_like(features-5, Panorama-8)
+
+=========
+
+nsubj(slow-5, It-1)
+cop(slow-5, is-2)
+det(little-4, a-3)
+npadvmod(slow-5, little-4)
+root(ROOT-0, slow-5)
+prepc_between(slow-5, taking-7)
+dobj(taking-7, pictures-8)
+
+=========
+
+amod(camera-2, Great-1)
+root(ROOT-0, camera-2)
+det(price-5, the-4)
+prep_for(camera-2, price-5)
+
+=========
+
+nsubj(came-3, It-1)
+advmod(came-3, also-2)
+root(ROOT-0, came-3)
+amod(batteries-6, rechargeable-5)
+prep_with(came-3, batteries-6)
+prep_with(came-3, charger-8)
+conj_and(batteries-6, charger-8)
+

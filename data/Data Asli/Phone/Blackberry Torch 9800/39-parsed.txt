@@ -1,0 +1,36 @@
+=========
+
+nsubj(purchased-2, I-1)
+nsubj(got-8, I-1)
+root(ROOT-0, purchased-2)
+det(torch-6, a-3)
+amod(torch-6, new-4)
+nn(torch-6, blackberry-5)
+dobj(purchased-2, torch-6)
+conj_and(purchased-2, got-8)
+det(battery-11, a-9)
+amod(battery-11, bad-10)
+dobj(got-8, battery-11)
+complm(use-15, that-12)
+nn(cant-14, i-13)
+nsubj(use-15, cant-14)
+ccomp(got-8, use-15)
+
+=========
+
+root(ROOT-0, and-1)
+advmod(live-4, where-2)
+nsubj(live-4, i-3)
+advcl(and-1, live-4)
+det(battery-6, the-5)
+nsubj(going-9, battery-6)
+xsubj(cost-11, battery-6)
+advmod(going-9, only-7)
+aux(going-9, is-8)
+ccomp(live-4, going-9)
+aux(cost-11, to-10)
+xcomp(going-9, cost-11)
+iobj(cost-11, me-12)
+number($-14, 50-13)
+dobj(cost-11, $-14)
+

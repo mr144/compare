@@ -1,0 +1,14 @@
+=========
+
+nsubj(ok-2, all-1)
+root(ROOT-0, ok-2)
+
+=========
+
+nsubj(problems-6, It-1)
+cop(problems-6, is-2)
+amod(problems-6, excellent-3)
+conj_and(excellent-3, no-5)
+amod(problems-6, no-5)
+root(ROOT-0, problems-6)
+

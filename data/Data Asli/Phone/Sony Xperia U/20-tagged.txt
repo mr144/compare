@@ -1,0 +1,4 @@
+I_PRP really_RB recomend_VBD this_DT cellphone_NN ._.
+I_PRP works_VBZ great_JJ ,_, is_VBZ friendly_JJ ,_, good_JJ resolution_NN camera_NN ,_, fast_JJ wifi_NN conection_NN ._.
+The_DT touch_NN screem_NN is_VBZ soft_JJ ,_, ad_NN even_RB whe_VBP it_PRP has_VBZ a_DT small_JJ screem_NN and_CC my_PRP$ hands_NNS are_VBP big_JJ ,_, i_FW have_VBP no_DT problems_NNS with_IN it_PRP ._.
+All_PDT the_DT apps_NNS runs_VBZ fast_RB ,_, do_VBP not_RB get_VB stok_JJ ._.

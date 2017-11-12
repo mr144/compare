@@ -1,0 +1,118 @@
+=========
+
+dep(not-3, Well-1)
+root(ROOT-0, not-3)
+poss(first-5, my-4)
+dep(not-3, first-5)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(iPhone-4, an-3)
+dobj(had-2, iPhone-4)
+prep_at(iPhone-4, work-6)
+complm(glad-10, that-7)
+nsubj(glad-10, I-8)
+cop(glad-10, was-9)
+ccomp(had-2, glad-10)
+aux(rid-13, to-11)
+cop(rid-13, be-12)
+xcomp(glad-10, rid-13)
+advmod(left-17, when-15)
+nsubj(left-17, I-16)
+prepc_of(rid-13, left-17)
+det(job-19, that-18)
+dobj(left-17, job-19)
+
+=========
+
+nsubj(phone-8, this-2)
+cop(phone-8, is-3)
+poss(phone-8, my-4)
+amod(phone-8, first-5)
+amod(phone-8, personal-6)
+amod(phone-8, smart-7)
+root(ROOT-0, phone-8)
+nsubj(great-12, it-10)
+cop(great-12, is-11)
+conj_and(phone-8, great-12)
+
+=========
+
+root(ROOT-0, Simple-1)
+aux(use-3, to-2)
+xcomp(Simple-1, use-3)
+dep(use-3, not-5)
+advmod(big-7, too-6)
+dep(not-5, big-7)
+mark(feel-10, so-8)
+nsubj(feel-10, I-9)
+advcl(Simple-1, feel-10)
+mark(am-13, like-11)
+nsubj(am-13, I-12)
+advcl(feel-10, am-13)
+dep(am-13, putting-14)
+det(tablet-16, a-15)
+dobj(putting-14, tablet-16)
+poss(face-19, my-18)
+prep_to(putting-14, face-19)
+dep(face-19, when-20)
+det(phone-23, the-22)
+prep_on(putting-14, phone-23)
+advmod(responsive-27, very-26)
+dep(am-13, responsive-27)
+conj_and(putting-14, responsive-27)
+det(cores-31, the-29)
+amod(cores-31, dual-30)
+prep_with(responsive-27, cores-31)
+
+=========
+
+advmod(sensor-9, By-1)
+advmod(By-1, far-2)
+det(feature-5, the-3)
+nn(feature-5, neatest-4)
+nsubj(sensor-9, feature-5)
+cop(sensor-9, is-6)
+det(sensor-9, the-7)
+nn(sensor-9, fingerprint-8)
+root(ROOT-0, sensor-9)
+det(back-12, the-11)
+prep_on(sensor-9, back-12)
+
+=========
+
+advmod(convenient-2, So-1)
+root(ROOT-0, convenient-2)
+aux(unlock-4, to-3)
+dep(convenient-2, unlock-4)
+det(phone-6, the-5)
+dobj(unlock-4, phone-6)
+advmod(swipe-10, just-8)
+det(swipe-10, a-9)
+prep_with(phone-6, swipe-10)
+advmod(putting-14, always-13)
+prepc_instead_of(unlock-4, putting-14)
+det(password-17, a-16)
+prep_in(putting-14, password-17)
+
+=========
+
+nn(!!!!!!-2, NICE-1)
+nsubj(right-9, !!!!!!-2)
+det(size-4, The-3)
+dep(!!!!!!-2, size-4)
+dep(!!!!!!-2, weight-6)
+conj_and(size-4, weight-6)
+cop(right-9, are-7)
+advmod(right-9, just-8)
+root(ROOT-0, right-9)
+
+=========
+
+det(phone-3, Another-1)
+amod(phone-3, great-2)
+root(ROOT-0, phone-3)
+prep_from(phone-3, Motorola-5)
+

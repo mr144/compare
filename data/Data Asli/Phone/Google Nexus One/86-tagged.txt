@@ -1,0 +1,13 @@
+Echo_NNP all_PDT the_DT comments_NNS on_IN the_DT awesomeness_NN of_IN this_DT phone_NN ._.
+The_DT device_NN `_`` gets_VBZ out_IN of_IN the_DT way_NN '_'' of_IN your_PRP$ use_NN of_IN it_PRP ,_, everything_NN from_IN apps_NNS to_TO bluetooth_VB to_TO messaging_NN to_TO calling_NN ,_, it_PRP is_VBZ all_DT easy_JJ and_CC intuitive_JJ ._.
+Graphics_NNS are_VBP great_JJ with_IN minimum_JJ lag_NN ._.
+It_PRP updated_VBD itself_PRP to_TO Gingerbread_NNP -LRB-_-LRB- 2.3.4_CD -RRB-_-RRB- within_IN an_DT hour_NN over_IN WiFi_NNP ._.
+How_WRB I_PRP wish_VBP it_PRP all_DT worked_VBD out_RP ._.
+After_IN a_DT few_JJ hours_NNS ,_, a_DT serious_JJ touch_NN screen_NN issue_NN developed_VBD ._.
+Touching_VBG anywhere_RB in_IN the_DT lower_JJR half_NN of_IN the_DT screen_NN -LRB-_-LRB- around_IN the_DT virtual_JJ keyboard_NN area_NN -RRB-_-RRB- would_MD register_VB the_DT touch_NN a_DT few_JJ centimeters_NNS below_IN it_PRP ._.
+For_IN example_NN ,_, pressing_VBG the_DT 's_NNS '_POS key_NN would_MD bring_VB up_RP the_DT voice_NN input_NN or_CC even_RB the_DT menu_NN soft_JJ key_NN ._.
+Even_RB after_IN pulling_VBG the_DT battery_NN and_CC factory_NN resets_NNS ,_, the_DT problem_NN would_MD always_RB recur_VB ,_, making_VBG the_DT phone_NN almost_RB impossible_JJ to_TO use_VB ._.
+This_DT is_VBZ the_DT second_JJ Nexus_NNP One_CD I_PRP have_VBP owned_VBN that_WDT had_VBD this_DT problem_NN ._.
+I_PRP was_VBD hoping_VBG the_DT first_JJ one_CD was_VBD a_DT dud_NN ,_, especially_RB with_IN all_PDT the_DT praise_NN from_IN long-time_JJ owners_NNS ,_, but_CC it_PRP started_VBD right_RB away_RB with_IN the_DT second_JJ ._.
+Just_RB do_VB a_DT web_NN search_NN on_IN `_`` nexus_NN one_CD touchscreen_NN problem_NN '_'' and_CC you_PRP 'll_MD see_VB discussions_NNS and_CC video_NN of_IN it_PRP ,_, unfortunately_RB without_IN a_DT resolution_NN I_PRP could_MD find_VB ._.
+If_IN you_PRP buy_VBP this_DT otherwise_RB great_JJ phone_NN ,_, hope_NN you_PRP get_VBP a_DT good_JJ one_CD ._.

@@ -1,0 +1,70 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(TV-4, this-3)
+dobj(bought-2, TV-4)
+poss(husband-7, my-6)
+prep_for(bought-2, husband-7)
+prep_for(bought-2, I-9)
+conj_and(husband-7, I-9)
+det(gift-12, a-11)
+prep_as(bought-2, gift-12)
+
+=========
+
+nsubj(able-3, I-1)
+cop(able-3, was-2)
+root(ROOT-0, able-3)
+aux(install-5, to-4)
+xcomp(able-3, install-5)
+xcomp(able-3, hook-7)
+conj_and(install-5, hook-7)
+prt(hook-7, up-8)
+dobj(hook-7, all-9)
+poss(devices-12, our-11)
+prep_of(all-9, devices-12)
+poss(self-15, my-14)
+prep_by(hook-7, self-15)
+
+=========
+
+nsubj(found-2, We-1)
+root(ROOT-0, found-2)
+dobj(know-9, features-3)
+nsubj(available-11, features-3)
+complm(know-9, that-4)
+nsubj(know-9, we-5)
+aux(know-9, did-6)
+neg(know-9, not-7)
+advmod(know-9, even-8)
+dep(features-3, know-9)
+cop(available-11, were-10)
+ccomp(found-2, available-11)
+
+=========
+
+nsubj(beautiful-3, Picture-1)
+cop(beautiful-3, is-2)
+root(ROOT-0, beautiful-3)
+amod(features-6, extra-5)
+nsubj(wonderful-8, features-6)
+cop(wonderful-8, are-7)
+conj_and(beautiful-3, wonderful-8)
+
+=========
+
+nsubj(helped-3, I-1)
+advmod(helped-3, just-2)
+root(ROOT-0, helped-3)
+det(friend-5, a-4)
+nsubj(buy-6, friend-5)
+dep(helped-3, buy-6)
+det(TV-9, the-7)
+amod(TV-9, same-8)
+dobj(buy-6, TV-9)
+nsubj(loves-12, she-11)
+dep(helped-3, loves-12)
+conj_and(buy-6, loves-12)
+dobj(loves-12, it-13)
+

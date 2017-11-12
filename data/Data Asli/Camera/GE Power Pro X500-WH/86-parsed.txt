@@ -1,0 +1,33 @@
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, was-2)
+neg(camera-6, not-3)
+advmod(camera-6, quite-4)
+det(camera-6, the-5)
+root(ROOT-0, camera-6)
+nsubj(wanted-8, I-7)
+rcmod(camera-6, wanted-8)
+mark(returned-11, so-9)
+nsubj(returned-11, I-10)
+advcl(wanted-8, returned-11)
+dobj(returned-11, it-12)
+
+=========
+
+dep(go-4, So-1)
+advmod(go-4, here-2)
+nsubj(go-4, we-3)
+root(ROOT-0, go-4)
+advmod(have-7, again-5)
+nsubj(have-7, I-6)
+xsubj(add-9, I-6)
+ccomp(go-4, have-7)
+aux(add-9, to-8)
+xcomp(have-7, add-9)
+amod(words-11, more-10)
+dobj(add-9, words-11)
+predet(pain-15, such-13)
+det(pain-15, a-14)
+dep(words-11, pain-15)
+

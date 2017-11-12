@@ -1,0 +1,37 @@
+=========
+
+nsubj(phone-6, This-1)
+cop(phone-6, is-2)
+poss(phone-6, my-3)
+amod(phone-6, best-4)
+nn(phone-6, cell-5)
+root(ROOT-0, phone-6)
+complm(bought-9, that-7)
+nsubj(bought-9, a-8)
+ccomp(phone-6, bought-9)
+nsubj(love-12, I-11)
+conj_and(phone-6, love-12)
+dobj(love-12, it-13)
+
+=========
+
+advmod(have-2, Also-1)
+root(ROOT-0, have-2)
+det(accesories-6, a-3)
+amod(accesories-6, very-4)
+amod(accesories-6, good-5)
+dobj(have-2, accesories-6)
+
+=========
+
+root(ROOT-0, Buy-1)
+dobj(Buy-1, it-2)
+
+=========
+
+nsubj(product-5, It-1)
+cop(product-5, is-2)
+det(product-5, the-3)
+amod(product-5, best-4)
+root(ROOT-0, product-5)
+

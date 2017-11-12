@@ -1,0 +1,100 @@
+=========
+
+nsubj(owned-3, I-1)
+aux(owned-3, have-2)
+root(ROOT-0, owned-3)
+det(TV-5, the-4)
+dobj(owned-3, TV-5)
+quantmod(months-9, about-7)
+number(months-9, 6-8)
+num(picture-11, months-9)
+amod(picture-11, now-Great-10)
+prep_for(TV-5, picture-11)
+amod(picture-11, quality-12)
+amod(picture-11, reliability-14)
+conj_and(quality-12, reliability-14)
+
+=========
+
+amod(sound-2, Good-1)
+amod(speakers-6, sound-2)
+conj_but(sound-2, external-5)
+amod(speakers-6, external-5)
+nsubj(help-8, speakers-6)
+aux(help-8, will-7)
+root(ROOT-0, help-8)
+advmod(help-8, quite-9)
+det(bit-11, a-10)
+pobj(quite-9, bit-11)
+
+=========
+
+amod(value-2, GREAT-1)
+root(ROOT-0, value-2)
+det(quality-6, the-4)
+nn(quality-6, picture-5)
+prep_for(value-2, quality-6)
+prep_for(value-2, brand-name-8)
+conj_and(quality-6, brand-name-8)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+prep_to(recommend-3, anyone-5)
+xcomp(recommend-3, buying-6)
+det(TV-8, a-7)
+nsubj(ALTHOUGH-13, TV-8)
+det(range-12, this-10)
+nn(range-12, size-11)
+prep_in(TV-8, range-12)
+ccomp(buying-6, ALTHOUGH-13)
+nsubj(suggest-16, I-14)
+aux(suggest-16, would-15)
+ccomp(ALTHOUGH-13, suggest-16)
+xcomp(suggest-16, getting-17)
+dobj(getting-17, 720p-18)
+mark(movies-30, because-19)
+det(today-23, the-20)
+amod(today-23, only-21)
+nn(today-23, media-22)
+nsubj(is-25, today-23)
+nsubj(movies-30, today-23)
+rcmod(today-23, is-25)
+prep_in(is-25, 1080p-27)
+cop(movies-30, is-28)
+amod(movies-30, blu-ray-29)
+advcl(suggest-16, movies-30)
+
+=========
+
+root(ROOT-0, Not-1)
+amod(games-3, video-2)
+dep(Not-1, games-3)
+neg(TV-7, not-5)
+amod(TV-7, live-6)
+appos(games-3, TV-7)
+neg(TV-11, not-9)
+nn(TV-11, streaming-10)
+appos(games-3, TV-11)
+det(kind-14, any-13)
+prep_of(TV-11, kind-14)
+
+=========
+
+advmod(blu-rays-2, Just-1)
+root(ROOT-0, blu-rays-2)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+nsubj(bought-5, I-3)
+aux(bought-5, had-4)
+ccomp(wish-2, bought-5)
+det(version-8, the-6)
+amod(version-8, 720p-7)
+dobj(bought-5, version-8)
+advmod(bought-5, now-9)
+

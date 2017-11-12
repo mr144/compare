@@ -1,0 +1,3 @@
+He_PRP likes_VBZ it_PRP okay_JJ ..._: but_CC really_RB wanted_VBD a_DT Nexus_NNP 4_CD Android_NNP phone_NN ._.
+He_PRP has_VBZ not_RB had_VBN any_DT problems_NNS with_IN it_PRP ..._: screen_NN is_VBZ smaller_JJR than_IN what_WP he_PRP wanted_VBD ,_, but_CC he_PRP likes_VBZ the_DT color_NN show_NN ._.
+The_DT best_JJS smartphone_NN ._.

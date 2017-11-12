@@ -1,0 +1,49 @@
+=========
+
+neg(new-2, Not-1)
+root(ROOT-0, new-2)
+dep(new-2, as-3)
+pobj(as-3, advertised-4)
+pobj(as-3, falling-6)
+conj_and(advertised-4, falling-6)
+prt(falling-6, apart-7)
+advmod(falling-6, already-8)
+
+=========
+
+advmod(got-3, When-1)
+nsubj(got-3, I-2)
+advcl(came-6, got-3)
+dobj(got-3, it-4)
+nsubj(came-6, it-5)
+nsubj(had-12, it-5)
+xsubj(buy-14, it-5)
+root(ROOT-0, came-6)
+det(battery-10, a-8)
+amod(battery-10, dead-9)
+prep_with(came-6, battery-10)
+conj_and(came-6, had-12)
+aux(buy-14, to-13)
+xcomp(had-12, buy-14)
+dobj(buy-14, another-15)
+
+=========
+
+advmod(has-3, now-1)
+nsubj(has-3, it-2)
+nsubj(comeing-16, it-2)
+root(ROOT-0, has-3)
+det(history-6, a-4)
+amod(history-6, logged-5)
+dobj(has-3, history-6)
+mark(new-11, so-7)
+nsubj(new-11, it-8)
+cop(new-11, was-9)
+neg(new-11, not-10)
+advcl(has-3, new-11)
+dep(new-11, as-12)
+amod(as-12, advertised-13)
+aux(comeing-16, is-15)
+conj_and(has-3, comeing-16)
+advmod(comeing-16, apart-17)
+

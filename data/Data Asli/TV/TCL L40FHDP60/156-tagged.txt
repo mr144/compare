@@ -1,0 +1,3 @@
+The_DT sound_NN is_VBZ pretty_RB good_JJ but_CC buying_VBG speakers_NNS helps_VBZ a_DT lot_NN ._.
+The_DT picture_NN is_VBZ not_RB the_DT best_JJS ._.
+It_PRP has_VBZ a_DT 1080p_JJ resolution_NN which_WDT is_VBZ good_JJ but_CC it_PRP only_RB has_VBZ a_DT 60hz_JJ refresh_NN rate_NN which_WDT makes_VBZ the_DT picture_NN a_DT lot_NN less_RBR clear_JJ in_IN action_NN scenes_NNS ._.

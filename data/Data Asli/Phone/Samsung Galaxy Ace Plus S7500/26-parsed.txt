@@ -1,0 +1,30 @@
+=========
+
+det(smartphone-2, this-1)
+nsubj(has-3, smartphone-2)
+root(ROOT-0, has-3)
+det(camera-15, a-4)
+amod(connection-6, better-5)
+nn(camera-15, connection-6)
+amod(desain-9, greater-8)
+conj_and(connection-6, desain-9)
+nn(camera-15, desain-9)
+amod(weight-12, lighter-11)
+conj_and(connection-6, weight-12)
+nn(camera-15, weight-12)
+conj_and(connection-6, better-14)
+nn(camera-15, better-14)
+dobj(has-3, camera-15)
+poss(9360-20, my-17)
+nn(9360-20, BB-18)
+nn(9360-20, Curve-19)
+prep_than(camera-15, 9360-20)
+
+=========
+
+advmod(buy-5, So-1)
+nsubj(buy-5, you-3)
+aux(buy-5, must-4)
+root(ROOT-0, buy-5)
+dobj(buy-5, it-6)
+

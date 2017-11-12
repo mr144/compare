@@ -1,0 +1,35 @@
+=========
+
+nsubj(ipods-3, Received-1)
+dep(ipods-3, both-2)
+root(ROOT-0, ipods-3)
+advmod(quickly-5, very-4)
+advmod(ipods-3, quickly-5)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, only-2)
+nsubj(was-4, problem-3)
+root(ROOT-0, was-4)
+complm(work-10, that-5)
+num(iphone-7, one-6)
+nsubj(work-10, iphone-7)
+aux(work-10, did-8)
+neg(work-10, not-9)
+ccomp(was-4, work-10)
+det(months-14, a-12)
+nn(months-14, couple-13)
+prep_after(work-10, months-14)
+prep_of(months-14, use-16)
+
+=========
+
+advcl(worked-8, from-2)
+prepc_aside_from(worked-8, having-3)
+nsubj(fixed-5, it-4)
+ccomp(having-3, fixed-5)
+nsubj(worked-8, it-7)
+root(ROOT-0, worked-8)
+advmod(worked-8, well-9)
+

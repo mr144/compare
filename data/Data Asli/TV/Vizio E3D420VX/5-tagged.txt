@@ -1,0 +1,4 @@
+I_PRP replaced_VBD a_DT 10_CD year_NN old_JJ CRT_NNP type_NN TV_NN with_IN this_DT and_CC I_PRP am_VBP very_RB pleased_JJ ._.
+It_PRP has_VBZ a_DT very_RB nice_JJ picture_NN and_CC the_DT sound_NN is_VBZ pretty_RB good_JJ too_RB -LRB-_-LRB- have_VBP considered_VBN a_DT sound_JJ bar_NN -RRB-_-RRB- ._.
+We_PRP have_VBP not_RB had_VBN a_DT 3D_NNP DVD_NNP to_TO play_VB yet_RB but_CC I_PRP am_VBP sure_JJ that_IN will_NN work_NN fine_NN as_RB well_RB ._.
+As_IN Consumer_NNP Reports_NNP says_VBZ -_: if_IN there_EX 's_VBZ a_DT TV_NN in_IN your_PRP$ size_NN class_NN offered_VBN in_IN 3D_NNP but_CC it_PRP because_IN the_DT picture_NN is_VBZ the_DT best_JJS that_IN there_EX is_VBZ to_TO offer_VB ,_, even_RB in_IN 2D_NNP ._.

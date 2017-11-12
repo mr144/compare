@@ -1,0 +1,474 @@
+=========
+
+nsubj(remove-5, samples-1)
+root(ROOT-0, remove-5)
+det(starsLet-7, the-6)
+dobj(remove-5, starsLet-7)
+dobj(start-9, starsLet-7)
+nsubj(start-9, me-8)
+rcmod(starsLet-7, start-9)
+prepc_by(start-9, saying-11)
+complm(trade-16, that-12)
+nsubj(trade-16, I-13)
+aux(trade-16, would-14)
+neg(trade-16, not-15)
+ccomp(saying-11, trade-16)
+poss(P2-18, my-17)
+dobj(trade-16, P2-18)
+det(camera-24, any-20)
+num(camera-24, Panasonic-21)
+amod(camera-24, micro-22)
+num(camera-24, 4\/3-23)
+prep_for(trade-16, camera-24)
+det(GH2-28, the-26)
+amod(GH2-28, new-27)
+prep_including(camera-24, GH2-28)
+dobj(tried-32, which-30)
+rel(tried-32, which-30)
+nsubj(tried-32, I-31)
+rcmod(GH2-28, tried-32)
+partmod(GH2-28, hopping-34)
+det(camera-40, a-36)
+amod(camera-40, better-37)
+advmod(around-39, all-38)
+advmod(better-37, around-39)
+prep_for(hopping-34, camera-40)
+poss(P2-43, my-42)
+prep_than(camera-40, P2-43)
+
+=========
+
+nsubj(failed-2, It-1)
+root(ROOT-0, failed-2)
+advmod(failed-2, miserably-3)
+det(area-7, the-5)
+amod(area-7, stills-6)
+prep_in(miserably-3, area-7)
+
+=========
+
+root(ROOT-0, Pluses-1)
+num(Pluses-1, :1-2)
+
+=========
+
+nn(grip2-2, Good-1)
+root(ROOT-0, grip2-2)
+
+=========
+
+nsubj(finish-2, Nice-1)
+root(ROOT-0, finish-2)
+amod(quality-7, GF1-6)
+prep_close_to(finish-2, quality-7)
+
+=========
+
+neg(bad-2, Not-1)
+dep(not-4, bad-2)
+root(ROOT-0, not-4)
+amod(.3-6, great-5)
+dep(not-4, .3-6)
+
+=========
+
+det(flash4-2, The-1)
+root(ROOT-0, flash4-2)
+
+=========
+
+det(wheel-3, The-1)
+amod(wheel-3, back-2)
+root(ROOT-0, wheel-3)
+mark(have-7, though-5)
+nsubj(have-7, I-6)
+dep(wheel-3, have-7)
+det(P2-9, the-8)
+dobj(have-7, P2-9)
+num(wheels-12, two-11)
+prep_with(P2-9, wheels-12)
+
+=========
+
+nsubj(improvement-6, It-1)
+aux(improvement-6, might-2)
+cop(improvement-6, be-3)
+det(improvement-6, a-4)
+advmod(improvement-6, really-5)
+root(ROOT-0, improvement-6)
+prep_for(improvement-6, people-8)
+partmod(people-8, coming-9)
+prep_for(coming-9, PL15-11)
+
+=========
+
+root(ROOT-0, IBIS6-1)
+
+=========
+
+nsubj(LCDMinuses-2, Nice-1)
+root(ROOT-0, LCDMinuses-2)
+dobj(LCDMinuses-2, :1-3)
+
+=========
+
+nsubj(speed-2, Autofocus-1)
+root(ROOT-0, speed-2)
+
+=========
+
+nsubjpass(fooled-3, I-1)
+auxpass(fooled-3, got-2)
+root(ROOT-0, fooled-3)
+det(reviews-6, all-5)
+nsubj(saying-7, reviews-6)
+agent(fooled-3, saying-7)
+complm(has-10, that-8)
+nsubj(has-10, EPL2-9)
+ccomp(saying-7, has-10)
+det(AF-13, a-11)
+amod(AF-13, faster-12)
+dobj(has-10, AF-13)
+det(pens-17, the-15)
+amod(pens-17, previous-16)
+prep_than(AF-13, pens-17)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, it-4)
+num(days-7, 4-6)
+npadvmod(now-8, days-7)
+pcomp(had-3, now-8)
+det(life-12, the-11)
+prep_for(had-3, life-12)
+conj_and(make-18, life-12)
+prep_of(life-12, me-14)
+nsubj(make-18, I-15)
+aux(make-18, can-16)
+neg(make-18, not-17)
+prep_for(had-3, make-18)
+det(difference-20, a-19)
+dobj(make-18, difference-20)
+prep_in(difference-20, AF-22)
+prep_between(had-3, pl2-24)
+prep_between(had-3, p2-26)
+conj_and(pl2-24, p2-26)
+
+=========
+
+advmod(gives-9, Maybe-1)
+det(fact-3, the-2)
+nsubj(gives-9, fact-3)
+complm(silent-8, that-4)
+det(lens-6, the-5)
+nsubj(silent-8, lens-6)
+cop(silent-8, is-7)
+dep(fact-3, silent-8)
+root(ROOT-0, gives-9)
+det(feeling-11, the-10)
+dobj(gives-9, feeling-11)
+nsubj(faster-14, feeling-11)
+cop(faster-14, is-13)
+rcmod(feeling-11, faster-14)
+advmod(see-22, honestly-17)
+nsubj(see-22, I-19)
+aux(see-22, can-20)
+neg(see-22, not-21)
+ccomp(gives-9, see-22)
+conj_but(gives-9, see-22)
+dobj(see-22, it-23)
+advmod(see-22, .2-24)
+
+=========
+
+det(lens-3, The-1)
+amod(lens-3, kit-2)
+root(ROOT-0, lens-3)
+
+=========
+
+nsubj(believe-5, I-1)
+advmod(believe-5, still-2)
+aux(believe-5, can-3)
+neg(believe-5, not-4)
+root(ROOT-0, believe-5)
+nsubj(builds-7, Olympus-6)
+ccomp(believe-5, builds-7)
+det(kind-9, this-8)
+dobj(builds-7, kind-9)
+prep_of(kind-9, garbage-11)
+dep(nice-16, and-13)
+nsubj(nice-16, I-14)
+cop(nice-16, am-15)
+dep(garbage-11, nice-16)
+
+=========
+
+det(pictures-2, The-1)
+nsubj(look-3, pictures-2)
+ccomp(look-15, look-3)
+dep(look-3, washed-4)
+prt(washed-4, out-5)
+nsubj(look-15, kinda-7)
+amod(kinda-7, cheap-8)
+amod(kinda-7, flat-10)
+conj_and(cheap-8, flat-10)
+amod(kinda-7, point-12)
+conj_and(cheap-8, point-12)
+amod(kinda-7, shoot-14)
+conj_and(cheap-8, shoot-14)
+root(ROOT-0, look-15)
+
+=========
+
+det(lens-2, This-1)
+nsubj(reminds-3, lens-2)
+root(ROOT-0, reminds-3)
+nsubj(lens-7, me-4)
+det(lens-7, the-5)
+nn(lens-7, kit-6)
+xcomp(reminds-3, lens-7)
+partmod(lens-7, sold-8)
+det(back-12, all-10)
+nn(back-12, Canons-11)
+prep_with(sold-8, back-12)
+det(day-15, the-14)
+prep_in(sold-8, day-15)
+
+=========
+
+root(ROOT-0, Pure-1)
+num(Pure-1, garbage-2)
+num(Pure-1, .3-3)
+
+=========
+
+nsubj(base-2, ISO-1)
+root(ROOT-0, base-2)
+amod(200-5, stills-4)
+prep_for(base-2, 200-5)
+
+=========
+
+dep(knew-4, Yes-1)
+nsubj(knew-4, I-3)
+root(ROOT-0, knew-4)
+mark(bought-7, before-5)
+nsubj(bought-7, I-6)
+advcl(knew-4, bought-7)
+dobj(bought-7, it-8)
+nsubj(realized-12, I-10)
+advmod(realized-12, only-11)
+conj_but(knew-4, realized-12)
+advmod(ISO-16, how-13)
+nsubj(ISO-16, mandatory-14)
+cop(ISO-16, is-15)
+ccomp(realized-12, ISO-16)
+tmod(started-20, ISO-16)
+num(ISO-16, 100-17)
+advmod(started-20, when-18)
+nsubj(started-20, I-19)
+dep(ISO-16, started-20)
+xcomp(started-20, using-21)
+det(PL2-23, the-22)
+dobj(using-21, PL2-23)
+num(PL2-23, .4-24)
+
+=========
+
+nsubj(base-2, ISO-1)
+root(ROOT-0, base-2)
+amod(400-5, video-4)
+prep_for(base-2, 400-5)
+
+=========
+
+nsubj(joke-6, This-1)
+aux(joke-6, must-2)
+cop(joke-6, be-3)
+det(joke-6, an-4)
+nn(joke-6, Olympus-5)
+root(ROOT-0, joke-6)
+
+=========
+
+advmod(stretch-9, Even-1)
+nsubj(stretch-9, ISO-2)
+num(ISO-2, 200-3)
+det(P2-6, a-5)
+prep_on(ISO-2, P2-6)
+cop(stretch-9, is-7)
+det(stretch-9, a-8)
+root(ROOT-0, stretch-9)
+conj_but(stretch-9, 400-12)
+
+=========
+
+num(needs-2, One-1)
+nsubj('s-7, needs-2)
+xsubj(get-9, needs-2)
+det(ton-4, a-3)
+dep(needs-2, ton-4)
+prep_of(needs-2, ND-6)
+root(ROOT-0, 's-7)
+aux(get-9, to-8)
+xcomp('s-7, get-9)
+det(speed-11, the-10)
+dobj(get-9, speed-11)
+advmod(get-9, down-12)
+prep_to(down-12, 1\/30-14)
+prep_outside(get-9, .5-16)
+
+=========
+
+root(ROOT-0, Noise-1)
+amod(ISO-4, base-3)
+prep_at(Noise-1, ISO-4)
+
+=========
+
+det(level-2, The-1)
+nsubj(unreal-12, level-2)
+prep_of(level-2, noise-4)
+amod(areas-7, dark-6)
+prep_in(noise-4, areas-7)
+nn(iso-10, base-9)
+prep_at(areas-7, iso-10)
+cop(unreal-12, is-11)
+root(ROOT-0, unreal-12)
+
+=========
+
+root(ROOT-0, Blotches-1)
+conj_and(Blotches-1, spots-3)
+
+=========
+
+root(ROOT-0, Horrible-1)
+
+=========
+
+cc(lens-7, And-1)
+nsubj(lens-7, it-2)
+cop(lens-7, is-3)
+neg(lens-7, not-4)
+det(lens-7, the-5)
+nn(lens-7, kit-6)
+ccomp(tried-10, lens-7)
+nsubj(tried-10, I-9)
+root(ROOT-0, tried-10)
+det(cameras-12, both-11)
+dobj(tried-10, cameras-12)
+dep(cameras-12, p2-14)
+dep(cameras-12, pl2-16)
+conj_and(p2-14, pl2-16)
+det(20mm-21, the-19)
+nn(20mm-21, Panasonic-20)
+prep_with(tried-10, 20mm-21)
+
+=========
+
+prepc_before(try-8, jumping-2)
+advmod(jumping-2, up-3)
+advmod(jumping-2, down-5)
+conj_and(up-3, down-5)
+nsubj(try-8, people-6)
+aux(try-8, should-7)
+root(ROOT-0, try-8)
+amod(objects-10, shooting-9)
+dobj(try-8, objects-10)
+nsubj(have-13, that-12)
+prepc_inside(try-8, have-13)
+amod(surfaces-15, dark-14)
+dobj(have-13, surfaces-15)
+prep_like(have-13, furniture-18)
+
+=========
+
+mark(did-3, If-1)
+nsubj(did-3, I-2)
+advcl(rate-14, did-3)
+iobj(did-3, rate-4)
+det(stars-9, the-5)
+nn(stars-9, Olympus-6)
+nn(stars-9, P2-7)
+num(stars-9, 4-8)
+dobj(did-3, stars-9)
+nsubj(rate-14, I-11)
+aux(rate-14, could-12)
+neg(rate-14, not-13)
+root(ROOT-0, rate-14)
+det(stars-20, the-15)
+amod(stars-20, PL2-16)
+mwe(than-18, more-17)
+quantmod(2-19, than-18)
+num(stars-20, 2-19)
+dobj(rate-14, stars-20)
+
+=========
+
+advmod(comes-5, Maybe-1)
+pobj(Maybe-1, 3-2)
+dep(comes-5, if-3)
+nsubj(comes-5, it-4)
+advcl(feeling-27, comes-5)
+prt(comes-5, down-6)
+prep_around(comes-5, $-8)
+num($-8, 300-9)
+mark(make-17, though-11)
+det(price-14, the-12)
+amod(price-14, lower-13)
+nsubj(make-17, price-14)
+aux(make-17, does-15)
+neg(make-17, not-16)
+advcl(comes-5, make-17)
+nsubj(camera-21, it-18)
+det(camera-21, a-19)
+amod(camera-21, better-20)
+xcomp(make-17, camera-21)
+nsubj(feeling-27, it-23)
+cop(feeling-27, is-24)
+advmod(feeling-27, only-25)
+det(feeling-27, the-26)
+root(ROOT-0, feeling-27)
+complm(spend-32, that-28)
+nsubj(spend-32, I-29)
+aux(spend-32, did-30)
+neg(spend-32, not-31)
+ccomp(feeling-27, spend-32)
+advmod(much-34, that-33)
+advmod(spend-32, much-34)
+det(device-38, a-36)
+amod(device-38, mediocre-37)
+prep_for(spend-32, device-38)
+
+=========
+
+advmod(call-5, Again-1)
+nsubj(call-5, you-3)
+aux(call-5, can-4)
+root(ROOT-0, call-5)
+dobj(call-5, me-6)
+advmod(call-5, anytime-7)
+det(Olympus-9, an-8)
+pobj(anytime-7, Olympus-9)
+advmod(call-5, fanboy-10)
+nsubj(mind-16, I-13)
+aux(mind-16, would-14)
+neg(mind-16, not-15)
+conj_and(call-5, mind-16)
+det(PL2-20, the-19)
+nsubj(keeper-24, PL2-20)
+cop(keeper-24, is-21)
+neg(keeper-24, not-22)
+det(keeper-24, a-23)
+conj_but(call-5, keeper-24)
+
+=========
+
+root(ROOT-0, Take-1)
+dobj(Take-1, care-2)
+

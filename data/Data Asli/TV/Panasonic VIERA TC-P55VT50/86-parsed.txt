@@ -1,0 +1,51 @@
+=========
+
+nsubj(dead-3, Product-1)
+cop(dead-3, was-2)
+root(ROOT-0, dead-3)
+prep_on(dead-3, arrival-5)
+
+=========
+
+nsubj(considered-2, I-1)
+root(ROOT-0, considered-2)
+amod(mine-4, exchanging-3)
+dobj(considered-2, mine-4)
+det(one-8, a-6)
+amod(one-8, new-7)
+prep_for(mine-4, one-8)
+prepc_after(decided-31, dealing-12)
+poss(service-18, Panasonic-14)
+amod(service-18, poor-16)
+nn(service-18, customer-17)
+prep_with(dealing-12, service-18)
+conj_and(dealing-12, learning-20)
+prepc_after(decided-31, learning-20)
+complm(common-25, that-21)
+nn(failures-23, panel-22)
+nsubj(common-25, failures-23)
+cop(common-25, are-24)
+ccomp(learning-20, common-25)
+nn(Vieras-28, Panasonic-27)
+prep_in(common-25, Vieras-28)
+nsubj(decided-31, I-30)
+xsubj(return-34, I-30)
+conj_but(considered-2, decided-31)
+advmod(decided-31, just-32)
+aux(return-34, to-33)
+xcomp(decided-31, return-34)
+dobj(return-34, it-35)
+prep_to(return-34, Amazon-37)
+det(refund-40, a-39)
+prep_for(Amazon-37, refund-40)
+
+=========
+
+poss(service-4, Amazon-1)
+nn(service-4, customer-3)
+nsubj(excellent-6, service-4)
+cop(excellent-6, was-5)
+root(ROOT-0, excellent-6)
+det(ordeal-9, the-8)
+prep_through(excellent-6, ordeal-9)
+

@@ -1,0 +1,27 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+poss(father-6, my-5)
+prep_for(bought-2, father-6)
+
+=========
+
+nsubj(likes-2, He-1)
+root(ROOT-0, likes-2)
+nsubj(much-5, it-3)
+advmod(much-5, very-4)
+xcomp(likes-2, much-5)
+
+=========
+
+det(phone-2, The-1)
+nsubj(functioning-4, phone-2)
+aux(functioning-4, is-3)
+root(ROOT-0, functioning-4)
+advmod(well-6, perfectly-5)
+advmod(functioning-4, well-6)
+det(glitches-9, any-8)
+prep_without(functioning-4, glitches-9)
+

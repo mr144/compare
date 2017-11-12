@@ -1,0 +1,28 @@
+=========
+
+nsubj(delighted-3, We-1)
+cop(delighted-3, are-2)
+root(ROOT-0, delighted-3)
+det(set-6, the-5)
+prep_with(delighted-3, set-6)
+
+=========
+
+nsubj(better-5, Picture-1)
+aux(better-5, could-2)
+neg(better-5, not-3)
+cop(better-5, be-4)
+root(ROOT-0, better-5)
+nsubj(is-8, quality-7)
+parataxis(better-5, is-8)
+prep_on(is-8, par-10)
+prep_with(is-8, any-12)
+dobj(seen-15, any-12)
+nsubj(seen-15, I-13)
+nsubj(better-18, I-13)
+aux(seen-15, have-14)
+rcmod(any-12, seen-15)
+rcmod(any-12, better-18)
+conj_and(seen-15, better-18)
+prep_than(better-18, some-20)
+

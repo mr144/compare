@@ -1,0 +1,3 @@
+I_PRP use_VBP this_DT as_IN a_DT general_JJ computer_NN monitor_NN ,_, using_VBG the_DT HDMI_NNP input_NN ._.
+This_DT includes_VBZ using_VBG it_PRP for_IN editing_NN 3D_CD video_NN ._.
+Very_NNP pleased_VBD with_IN it_PRP ._.

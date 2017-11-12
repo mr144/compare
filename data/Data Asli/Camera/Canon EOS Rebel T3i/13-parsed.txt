@@ -1,0 +1,37 @@
+=========
+
+root(ROOT-0, Love-1)
+det(camera-3, this-2)
+dobj(Love-1, camera-3)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, great-3)
+dobj(takes-2, pictures-4)
+
+=========
+
+nsubj(fast-3, It-1)
+cop(fast-3, is-2)
+root(ROOT-0, fast-3)
+
+=========
+
+advmod(learn-8, Now-1)
+dobj(need-4, all-2)
+nsubj(learn-8, all-2)
+nsubj(need-4, I-3)
+xsubj(do-6, I-3)
+rcmod(all-2, need-4)
+aux(do-6, to-5)
+xcomp(need-4, do-6)
+aux(learn-8, is-7)
+root(ROOT-0, learn-8)
+advmod(work-11, how-9)
+aux(work-11, to-10)
+ccomp(learn-8, work-11)
+xcomp(learn-8, work-11)
+dobj(work-11, Photoshop-12)
+

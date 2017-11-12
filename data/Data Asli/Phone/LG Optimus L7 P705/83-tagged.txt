@@ -1,0 +1,2 @@
+The_DT phone_NN itself_PRP is_VBZ nice_JJ and_CC works_VBZ great_JJ but_CC with_IN one_CD exception_NN :_: Mobile_NNP data_NNS does_VBZ not_RB work_VB on_IN AT&T_NNP -LRB-_-LRB- goPhone_NNP -RRB-_-RRB- network_NN ._.
+WiFi_NNP works_VBZ fine_JJ by_IN the_DT way_NN ._.

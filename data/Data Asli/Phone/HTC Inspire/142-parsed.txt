@@ -1,0 +1,78 @@
+=========
+
+det(smartphone-2, this-1)
+nsubj(has-3, smartphone-2)
+root(ROOT-0, has-3)
+det(condition-6, a-4)
+amod(condition-6, better-5)
+dobj(has-3, condition-6)
+prep_than(condition-6, iphone-8)
+
+=========
+
+det(smartphone-2, this-1)
+nsubj(device-6, smartphone-2)
+cop(device-6, is-3)
+det(device-6, a-4)
+amod(device-6, better-5)
+root(ROOT-0, device-6)
+prep_than(device-6, iphone-8)
+
+=========
+
+nsubj(has-2, HTC-1)
+root(ROOT-0, has-2)
+det(quality-5, a-3)
+amod(quality-5, better-4)
+dobj(has-2, quality-5)
+prep_than(quality-5, iphone-7)
+
+=========
+
+nsubj(has-2, HTC-1)
+root(ROOT-0, has-2)
+det(life-6, a-3)
+dep(battery-5, better-4)
+amod(life-6, battery-5)
+dobj(has-2, life-6)
+prep_than(life-6, iphone-8)
+
+=========
+
+det(smartphone-2, this-1)
+nsubj(has-3, smartphone-2)
+root(ROOT-0, has-3)
+det(condition-6, a-4)
+amod(condition-6, better-5)
+dobj(has-3, condition-6)
+prep_than(condition-6, iphone-8)
+
+=========
+
+det(smartphone-2, this-1)
+nsubj(device-6, smartphone-2)
+cop(device-6, is-3)
+det(device-6, a-4)
+amod(device-6, better-5)
+root(ROOT-0, device-6)
+prep_than(device-6, iphone-8)
+
+=========
+
+nsubj(has-2, HTC-1)
+root(ROOT-0, has-2)
+det(quality-5, a-3)
+amod(quality-5, better-4)
+dobj(has-2, quality-5)
+prep_than(quality-5, iphone-7)
+
+=========
+
+nsubj(has-2, HTC-1)
+root(ROOT-0, has-2)
+det(life-6, a-3)
+dep(battery-5, better-4)
+amod(life-6, battery-5)
+dobj(has-2, life-6)
+prep_than(life-6, iphone-8)
+

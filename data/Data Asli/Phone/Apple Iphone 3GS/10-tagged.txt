@@ -1,0 +1,5 @@
+the_DT iphone_NN 3gs_NNS is_VBZ okay_JJ ._.
+the_DT battery_NN does_VBZ not_RB last_VB long_RB ._.
+i_FW have_VBP to_TO constancely_RB keep_VB it_PRP charged_VBD ._.
+i_FW did_VBD receive_VB the_DT phone_NN in_IN a_DT timely_JJ manner_NN and_CC the_DT condition_NN was_VBD good_JJ ._.
+I_PRP think_VBP this_DT smartphone_NN is_VBZ better_JJR than_IN LG_NNP ,_, Samsung_NNP ,_, blackberry_NN or_CC sony_NN ._.

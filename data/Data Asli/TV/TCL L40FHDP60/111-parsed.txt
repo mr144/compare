@@ -1,0 +1,68 @@
+=========
+
+dep(fantastic-17, For-1)
+dep(needed-4, what-2)
+nsubj(needed-4, I-3)
+pcomp(For-1, needed-4)
+det(tv-6, this-5)
+dobj(needed-4, tv-6)
+prep(needed-4, for-7)
+nsubj(watching-12, which-9)
+aux(watching-12, is-10)
+advmod(watching-12, essentially-11)
+dep(needed-4, watching-12)
+dobj(watching-12, tv-13)
+nsubj(fantastic-17, it-15)
+cop(fantastic-17, is-16)
+root(ROOT-0, fantastic-17)
+
+=========
+
+nsubj(person-7, I-1)
+nsubj(care-12, I-1)
+cop(person-7, am-2)
+neg(person-7, not-3)
+det(person-7, a-4)
+amod(person-7, huge-5)
+nn(person-7, gadget-6)
+root(ROOT-0, person-7)
+aux(care-12, do-9)
+neg(care-12, not-10)
+advmod(care-12, really-11)
+conj_and(person-7, care-12)
+amod(sound-15, surround-14)
+prep_about(care-12, sound-15)
+prep_about(care-12, anything-17)
+conj_or(sound-15, anything-17)
+prep_like(care-12, that-19)
+
+=========
+
+nsubj(live-2, I-1)
+root(ROOT-0, live-2)
+det(apartment-6, a-4)
+amod(apartment-6, smaller-5)
+prep_in(live-2, apartment-6)
+nsubj(size-12, this-8)
+cop(size-12, is-9)
+det(size-12, the-10)
+amod(size-12, perfect-11)
+conj_and(live-2, size-12)
+poss(room-16, my-14)
+amod(room-16, living-15)
+prep_for(size-12, room-16)
+
+=========
+
+advmod(tv-9, Essentially-1)
+nsubj(tv-9, this-3)
+cop(tv-9, is-4)
+det(tv-9, a-5)
+amod(tv-9, great-6)
+amod(tv-9, basic-8)
+root(ROOT-0, tv-9)
+nsubj(recommend-12, I-11)
+conj_and(tv-9, recommend-12)
+dobj(recommend-12, it-13)
+prep_to(recommend-12, everyone-15)
+

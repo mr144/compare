@@ -1,0 +1,3 @@
+Picture_NNP quality_NN and_CC the_DT smart_JJ features_NNS are_VBP good_JJ ._.
+Setup_NN is_VBZ pretty_RB straightforward_JJ and_CC easy_JJ to_TO use_VB ._.
+The_DT interface_NN is_VBZ slow_JJ and_CC any_DT kind_NN of_IN mouse\/text_NN input_NN is_VBZ absolutely_RB awful_JJ ._.

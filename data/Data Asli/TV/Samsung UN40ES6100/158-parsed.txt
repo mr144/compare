@@ -1,0 +1,37 @@
+=========
+
+nn(quality-2, Picture-1)
+nsubj(good-8, quality-2)
+det(features-6, the-4)
+amod(features-6, smart-5)
+conj_and(quality-2, features-6)
+nsubj(good-8, features-6)
+cop(good-8, are-7)
+root(ROOT-0, good-8)
+
+=========
+
+nsubj(straightforward-4, Setup-1)
+nsubj(easy-6, Setup-1)
+xsubj(use-8, Setup-1)
+cop(straightforward-4, is-2)
+advmod(straightforward-4, pretty-3)
+root(ROOT-0, straightforward-4)
+conj_and(straightforward-4, easy-6)
+aux(use-8, to-7)
+xcomp(straightforward-4, use-8)
+
+=========
+
+det(interface-2, The-1)
+nsubj(slow-4, interface-2)
+cop(slow-4, is-3)
+root(ROOT-0, slow-4)
+det(kind-7, any-6)
+nsubj(awful-13, kind-7)
+amod(input-10, mouse\/text-9)
+prep_of(kind-7, input-10)
+cop(awful-13, is-11)
+advmod(awful-13, absolutely-12)
+conj_and(slow-4, awful-13)
+

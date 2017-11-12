@@ -1,0 +1,172 @@
+=========
+
+det(camera-2, The-1)
+nsubj(great-4, camera-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+amod(photos-9, macro-6)
+conj_and(macro-6, panoramic-8)
+amod(photos-9, panoramic-8)
+prep_for(great-4, photos-9)
+
+=========
+
+nsubj('s-2, It-1)
+root(ROOT-0, 's-2)
+advmod(take-5, when-3)
+nsubj(take-5, you-4)
+advcl('s-2, take-5)
+advmod(up-7, close-6)
+advmod(take-5, up-7)
+dep(take-5, zoom-8)
+dobj(zoom-8, photos-9)
+amod(subjects-12, small-11)
+prep_of(photos-9, subjects-12)
+prep_like(zoom-8, snails-14)
+prep_like(zoom-8, flowers-16)
+conj_and(snails-14, flowers-16)
+complm(arise-23, that-17)
+det(issues-22, the-18)
+nn(issues-22, zoom-19)
+conj_and(zoom-19, focus-21)
+nn(issues-22, focus-21)
+nsubj(arise-23, issues-22)
+ccomp(zoom-8, arise-23)
+
+=========
+
+det(equidistance-3, A-1)
+amod(equidistance-3, right-2)
+nsubjpass(required-8, equidistance-3)
+xsubj(work-14, equidistance-3)
+det(subjects-6, the-5)
+prep_from(equidistance-3, subjects-6)
+auxpass(required-8, is-7)
+root(ROOT-0, required-8)
+prep_for(required-8, zoom-10)
+prep_for(required-8, focus-12)
+conj_and(zoom-10, focus-12)
+aux(work-14, to-13)
+xcomp(required-8, work-14)
+advmod(work-14, properly-15)
+
+=========
+
+advmod(do-3, Otherwise-1)
+advmod(do-3, just-2)
+root(ROOT-0, do-3)
+det(photo-7, a-4)
+amod(photo-7, close-5)
+dep(close-5, up-6)
+dobj(do-3, photo-7)
+det(zoom-10, the-9)
+prep_without(photo-7, zoom-10)
+
+=========
+
+poss(software-3, It-1)
+nsubj(excellent-5, software-3)
+cop(excellent-5, is-4)
+root(ROOT-0, excellent-5)
+nsubj(do-8, you-6)
+aux(do-8, can-7)
+ccomp(excellent-5, do-8)
+det(lot-10, a-9)
+dobj(do-8, lot-10)
+prep_of(lot-10, enhancements-12)
+prep_of(lot-10, manipulations-14)
+conj_and(enhancements-12, manipulations-14)
+poss(photos-17, your-16)
+prep_to(do-8, photos-17)
+
+=========
+
+cc(capable-10, And-1)
+csubj(capable-10, sketching-2)
+conj_and(sketching-2, drawing-4)
+csubj(capable-10, drawing-4)
+dobj(sketching-2, photo-5)
+prep(sketching-2, only-6)
+det(camera-8, this-7)
+pobj(only-6, camera-8)
+cop(capable-10, is-9)
+root(ROOT-0, capable-10)
+prep_of(capable-10, such-12)
+mark(setting-16, with-13)
+nsubj(setting-16, it-14)
+aux(setting-16, is-15)
+advcl(capable-10, setting-16)
+
+=========
+
+root(ROOT-0, On-1)
+pcomp(On-1, taking-2)
+dobj(taking-2, photos-3)
+det(moon-6, the-5)
+prep_of(photos-3, moon-6)
+
+=========
+
+mark(got-3, Once-1)
+nsubj(got-3, I-2)
+advcl(came-14, got-3)
+det(photo-6, the-4)
+amod(photo-6, right-5)
+dobj(got-3, photo-6)
+prep_with(got-3, focus-8)
+amod(balance-11, white-10)
+prep_with(got-3, balance-11)
+conj_and(focus-8, balance-11)
+det(moon-13, the-12)
+nsubj(came-14, moon-13)
+root(ROOT-0, came-14)
+prt(came-14, out-15)
+prep_in(came-14, detail-17)
+det(glare-22, no-19)
+advmod(glare-22, over-20)
+amod(glare-22, light-21)
+prep_with(came-14, glare-22)
+
+=========
+
+cc(seem-5, But-1)
+nsubj(seem-5, I-2)
+xsubj(repeat-7, I-2)
+aux(seem-5, can-3)
+neg(seem-5, not-4)
+root(ROOT-0, seem-5)
+aux(repeat-7, to-6)
+xcomp(seem-5, repeat-7)
+dobj(repeat-7, it-8)
+advmod(repeat-7, again-9)
+
+=========
+
+nsubj(all-3, That-1)
+cop(all-3, 's-2)
+root(ROOT-0, all-3)
+dobj(say-6, all-3)
+nsubj(say-6, I-4)
+aux(say-6, can-5)
+rcmod(all-3, say-6)
+
+=========
+
+amod(time-2, Next-1)
+nsubj(get-5, time-2)
+nsubj(get-5, I-3)
+aux(get-5, might-4)
+root(ROOT-0, get-5)
+det(X600-8, a-6)
+nn(X600-8, GE-7)
+dobj(get-5, X600-8)
+amod(zoom-11, 26x-10)
+prep_with(get-5, zoom-11)
+det(S4200-16, a-13)
+nn(S4200-16, Fuji-14)
+nn(S4200-16, finepix-15)
+prep_with(get-5, S4200-16)
+conj_or(zoom-11, S4200-16)
+num(zoom-19, 24X-18)
+prep_with(get-5, zoom-19)
+

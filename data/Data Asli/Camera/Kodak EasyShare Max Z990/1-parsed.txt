@@ -1,0 +1,52 @@
+=========
+
+nsubj(Easyshare-6, This-1)
+cop(Easyshare-6, is-2)
+poss(Easyshare-6, my-3)
+amod(Easyshare-6, second-4)
+nn(Easyshare-6, Kodak-5)
+root(ROOT-0, Easyshare-6)
+nsubj(love-10, I-8)
+advmod(love-10, absolutely-9)
+conj_and(Easyshare-6, love-10)
+nsubj(!!-12, it-11)
+ccomp(love-10, !!-12)
+nsubj(ordered-14, I-13)
+nsubjpass(satisfied-20, I-13)
+ccomp(!!-12, ordered-14)
+det(pack-16, the-15)
+dobj(ordered-14, pack-16)
+auxpass(satisfied-20, am-18)
+advmod(satisfied-20, very-19)
+ccomp(!!-12, satisfied-20)
+conj_and(ordered-14, satisfied-20)
+
+=========
+
+nsubj(reccomend-3, I-1)
+advmod(reccomend-3, highly-2)
+root(ROOT-0, reccomend-3)
+det(camera-5, this-4)
+nsubj(prompt-11, camera-5)
+det(seller-8, the-7)
+conj_and(camera-5, seller-8)
+nsubj(prompt-11, seller-8)
+cop(prompt-11, was-9)
+advmod(prompt-11, very-10)
+ccomp(reccomend-3, prompt-11)
+prepc_in(prompt-11, getting-13)
+poss(package-15, my-14)
+dobj(getting-13, package-15)
+det(mail-18, the-17)
+prep_in(getting-13, mail-18)
+
+=========
+
+nsubj(purchase-5, It-1)
+cop(purchase-5, is-2)
+det(purchase-5, an-3)
+amod(purchase-5, excellent-4)
+root(ROOT-0, purchase-5)
+det(price-8, the-7)
+prep_for(purchase-5, price-8)
+

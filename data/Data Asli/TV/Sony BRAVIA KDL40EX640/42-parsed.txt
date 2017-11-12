@@ -1,0 +1,30 @@
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, this-4)
+prep_to(recommend-3, any-6)
+poss(friends-9, my-8)
+prep_of(any-6, friends-9)
+
+=========
+
+det(picture-2, The-1)
+nsubj(clear-4, picture-2)
+cop(clear-4, is-3)
+root(ROOT-0, clear-4)
+det(sound-7, the-6)
+nsubj(great-9, sound-7)
+cop(great-9, is-8)
+conj_and(clear-4, great-9)
+
+=========
+
+nsubj(would-2, I-1)
+root(ROOT-0, would-2)
+prep(would-2, but-3)
+det(one-6, an-4)
+amod(one-6, other-5)
+dep(but-3, one-6)
+

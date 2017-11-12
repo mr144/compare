@@ -1,0 +1,81 @@
+=========
+
+nsubj(quit-2, It-1)
+root(ROOT-0, quit-2)
+xcomp(quit-2, working-3)
+det(month-6, a-5)
+prep_within(working-3, month-6)
+prep_of(month-6, use-8)
+
+=========
+
+partmod(wanted-16, Called-1)
+dobj(Called-1, Toshiba-2)
+dobj(Called-1, after-4)
+conj_and(Toshiba-2, after-4)
+prepc_after(Toshiba-2, staying-5)
+det(phone-8, the-7)
+prep_on(staying-5, phone-8)
+advmod(phone-8, forever-9)
+prep_for(phone-8, someone-11)
+aux(respond-13, to-12)
+xcomp(staying-5, respond-13)
+nsubj(wanted-16, they-15)
+root(ROOT-0, wanted-16)
+nsubj(send-19, us-17)
+aux(send-19, to-18)
+xcomp(wanted-16, send-19)
+dobj(send-19, it-20)
+prt(send-19, back-21)
+prep_to(send-19, them-23)
+nsubj(have-26, we-25)
+xsubj(pay-28, we-25)
+conj_but(wanted-16, have-26)
+aux(pay-28, to-27)
+xcomp(have-26, pay-28)
+det(shipping-30, the-29)
+dobj(pay-28, shipping-30)
+
+=========
+
+nsubj(indicated-2, They-1)
+root(ROOT-0, indicated-2)
+det(one-4, no-3)
+nsubj(service-8, one-4)
+prep_in(one-4, Omaha-6)
+aux(service-8, will-7)
+ccomp(indicated-2, service-8)
+det(TV-10, this-9)
+dobj(service-8, TV-10)
+
+=========
+
+nsubjpass(returned-3, This-1)
+auxpass(returned-3, got-2)
+root(ROOT-0, returned-3)
+prep_to(returned-3, Amazon-5)
+prep_for(returned-3, replacement-7)
+dep(returned-3, so-8)
+advmod(do-12, hopefully-9)
+nsubj(do-12, I-10)
+aux(do-12, can-11)
+ccomp(returned-3, do-12)
+det(review-15, a-13)
+amod(review-15, better-14)
+dobj(do-12, review-15)
+prep_upon(do-12, receipt-17)
+prep_of(receipt-17, replacement-19)
+
+=========
+
+advmod(sure-2, No-1)
+root(ROOT-0, sure-2)
+mark(buy-7, if-3)
+nsubj(buy-7, I-4)
+aux(buy-7, will-5)
+advmod(buy-7, ever-6)
+dep(sure-2, buy-7)
+det(Toshiba-9, a-8)
+dobj(buy-7, Toshiba-9)
+advmod(buy-7, again-10)
+

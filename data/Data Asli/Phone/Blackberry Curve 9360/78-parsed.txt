@@ -1,0 +1,27 @@
+=========
+
+nsubj(arrived-2, Item-1)
+root(ROOT-0, arrived-2)
+det(time-6, the-4)
+amod(time-6, estimated-5)
+prep_before(arrived-2, time-6)
+
+=========
+
+det(pacage-2, The-1)
+nsubjpass(wrapped-4, pacage-2)
+auxpass(wrapped-4, was-3)
+root(ROOT-0, wrapped-4)
+det(way-8, a-6)
+amod(way-8, good-7)
+prep_in(wrapped-4, way-8)
+det(phone-11, the-10)
+nsubj(great-13, phone-11)
+cop(great-13, is-12)
+conj_and(wrapped-4, great-13)
+
+=========
+
+root(ROOT-0, Loved-1)
+dobj(Loved-1, it-2)
+

@@ -1,0 +1,36 @@
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+
+=========
+
+nsubj(watching-3, We-1)
+aux(watching-3, are-2)
+root(ROOT-0, watching-3)
+predet(DVDs-6, all-4)
+poss(DVDs-6, our-5)
+dobj(watching-3, DVDs-6)
+advmod(watching-3, again-7)
+
+=========
+
+amod(quality-2, Wonderful-1)
+root(ROOT-0, quality-2)
+
+=========
+
+nsubj(look-2, Blu-rays-1)
+root(ROOT-0, look-2)
+acomp(look-2, amazing-3)
+
+=========
+
+aux(wait-3, Ca-1)
+neg(wait-3, not-2)
+root(ROOT-0, wait-3)
+aux(try-5, to-4)
+xcomp(wait-3, try-5)
+det(3D-7, the-6)
+nsubj(wait-3, 3D-7)
+

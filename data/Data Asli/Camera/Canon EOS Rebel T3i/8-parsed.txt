@@ -1,0 +1,29 @@
+=========
+
+poss(dad-2, My-1)
+nsubj(purchased-3, dad-2)
+root(ROOT-0, purchased-3)
+dobj(purchased-3, this-4)
+prep_for(this-4, himself-6)
+
+=========
+
+nsubj(loves-2, He-1)
+nsubj(uses-6, He-1)
+root(ROOT-0, loves-2)
+det(camera-4, this-3)
+dobj(loves-2, camera-4)
+conj_and(loves-2, uses-6)
+dobj(uses-6, it-7)
+prt(uses-6, in-8)
+advmod(uses-6, constantly-9)
+
+=========
+
+nn(SLRs-2, Canon-1)
+nsubj(product-6, SLRs-2)
+cop(product-6, are-3)
+det(product-6, a-4)
+amod(product-6, superior-5)
+root(ROOT-0, product-6)
+

@@ -1,0 +1,32 @@
+=========
+
+root(ROOT-0, Hi-1)
+
+=========
+
+nsubj(need-2, I-1)
+xsubj(work-11, I-1)
+root(ROOT-0, need-2)
+det(phone-4, a-3)
+dobj(need-2, phone-4)
+num(frequences-7, 3G-6)
+prep_with(need-2, frequences-7)
+prep_in(frequences-7, 850\/1900-9)
+aux(work-11, to-10)
+xcomp(need-2, work-11)
+prep_in(work-11, Venezuela-13)
+amod(operator-16, MOVILNET-15)
+prep_with(work-11, operator-16)
+
+=========
+
+cop(available-4, Is-1)
+det(version-3, this-2)
+nsubj(available-4, version-3)
+root(ROOT-0, available-4)
+
+=========
+
+root(ROOT-0, Thak-2)
+dobj(Thak-2, you-3)
+

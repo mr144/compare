@@ -1,0 +1,56 @@
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+root(ROOT-0, TV-5)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(regrets-4, no-3)
+dobj(have-2, regrets-4)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+nsubj(checked-5, I-3)
+aux(checked-5, had-4)
+ccomp(wish-2, checked-5)
+det(forum-8, the-6)
+nn(forum-8, AVS-7)
+dobj(checked-5, forum-8)
+nsubj(reflection-27, forum-8)
+mark(bought-11, before-9)
+nsubj(bought-11, I-10)
+rcmod(forum-8, bought-11)
+prep_from(bought-11, amazon-13)
+mark(gotten-18, because-14)
+nsubj(gotten-18, I-15)
+aux(gotten-18, could-16)
+aux(gotten-18, have-17)
+advcl(bought-11, gotten-18)
+det(deal-21, a-19)
+amod(deal-21, better-20)
+dobj(gotten-18, deal-21)
+cop(reflection-27, is-24)
+neg(reflection-27, not-25)
+det(reflection-27, a-26)
+rcmod(forum-8, reflection-27)
+conj_but(bought-11, reflection-27)
+det(TV-30, the-29)
+prep_on(reflection-27, TV-30)
+
+=========
+
+nsubj(great-3, Colors-1)
+cop(great-3, are-2)
+root(ROOT-0, great-3)
+det(size-6, the-5)
+nsubj(works-7, size-6)
+conj_and(great-3, works-7)
+prep_for(works-7, me-9)
+

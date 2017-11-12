@@ -1,0 +1,5 @@
+I_PRP thought_VBD my_PRP$ 5_CD yr_NN ._.
+old_JJ Fuji_NNP Finepix_NNP 3800_CD digital_JJ camera_NN was_VBD good_JJ ,_, but_CC this_DT S2950_NN is_VBZ so_RB much_RB better_JJR ,_, and_CC cost_VBD me_PRP about_IN 50_CD %_NN less_JJR than_IN the_DT old_JJ one_CD ._.
+Wide_JJ angle_NN lens_NN alone_RB makes_VBZ a_DT huge_JJ difference_NN when_WRB shooting_NN cars_NNS ._.
+This_DT camera_NN also_RB has_VBZ both_DT a_DT thru_NN the_DT lens_NN and_CC 3_CD inch_NN LCD_NNP view_NN finder_NN ._.
+Panorama_NNP feature_NN is_VBZ so_RB easy_JJ to_TO use_VB and_CC fun_NN ,_, too_RB !_.

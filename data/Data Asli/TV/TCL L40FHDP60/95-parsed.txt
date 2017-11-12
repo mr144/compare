@@ -1,0 +1,69 @@
+=========
+
+det(LCD-4, The-1)
+nn(LCD-4, TCL-2)
+nn(LCD-4, 1080p-3)
+nsubj(TV-9, LCD-4)
+cop(TV-9, is-5)
+det(TV-9, a-6)
+amod(TV-9, great-7)
+amod(TV-9, second-8)
+root(ROOT-0, TV-9)
+
+=========
+
+nsubj(giving-3, I-1)
+aux(giving-3, am-2)
+root(ROOT-0, giving-3)
+iobj(giving-3, it-4)
+num(stars-6, 4-5)
+dep(mostly-7, stars-6)
+amod(rating-8, mostly-7)
+dobj(giving-3, rating-8)
+dobj(complain-19, rating-8)
+nsubj(complain-19, it-9)
+num(bang-12, &#34;-11)
+prep_on(it-9, bang-12)
+det(buck-15, the-14)
+prep_for(bang-12, buck-15)
+num(buck-15, &#34;-16)
+aux(complain-19, Ca-17)
+neg(complain-19, not-18)
+rcmod(rating-8, complain-19)
+
+=========
+
+poss(viewing-4, your-2)
+amod(viewing-4, primary-3)
+prep_for(rates-8, viewing-4)
+nsubj(rates-8, it-6)
+advmod(rates-8, only-7)
+root(ROOT-0, rates-8)
+number(3-11, 2.5-9)
+dep(3-11, to-10)
+num(stars-12, 3-11)
+dobj(rates-8, stars-12)
+
+=========
+
+neg(sharp-3, Not-1)
+advmod(sharp-3, as-2)
+nsubj(dull-8, sharp-3)
+det(colors-6, some-5)
+conj_and(sharp-3, colors-6)
+nsubj(dull-8, colors-6)
+cop(dull-8, seem-7)
+root(ROOT-0, dull-8)
+
+=========
+
+prep_considering(complain-11, I-2)
+partmod(I-2, replaced-3)
+det(TV-6, a-4)
+amod(TV-6, prehistoric-5)
+dobj(replaced-3, TV-6)
+advmod(complain-11, again-8)
+aux(complain-11, can-9)
+neg(complain-11, not-10)
+root(ROOT-0, complain-11)
+

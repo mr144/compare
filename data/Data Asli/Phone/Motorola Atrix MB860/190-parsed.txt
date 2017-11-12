@@ -1,0 +1,157 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+advmod(bought-2, back-5)
+prep_in(bought-2, July-7)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+det(research-4, some-3)
+dobj(did-2, research-4)
+nsubj(sold-7, what-6)
+dobj(did-2, sold-7)
+conj_and(research-4, sold-7)
+rcmod(research-4, sold-7)
+nsubj(was-9, me-8)
+ccomp(sold-7, was-9)
+complm(had-12, that-10)
+nsubj(had-12, it-11)
+ccomp(was-9, had-12)
+det(cpu-16, a-13)
+nn(cpu-16, duel-14)
+nn(cpu-16, core-15)
+dobj(had-12, cpu-16)
+det(screen-21, a-18)
+advmod(large-20, very-19)
+amod(screen-21, large-20)
+dobj(had-12, screen-21)
+conj_and(cpu-16, screen-21)
+
+=========
+
+advmod(wanted-3, Also-1)
+nsubj(wanted-3, I-2)
+xsubj(able-6, I-2)
+root(ROOT-0, wanted-3)
+aux(able-6, to-4)
+cop(able-6, be-5)
+xcomp(wanted-3, able-6)
+aux(use-8, to-7)
+xcomp(able-6, use-8)
+det(lapdock-10, the-9)
+dobj(use-8, lapdock-10)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+det(phone-4, this-3)
+dobj(use-2, phone-4)
+det(computer-7, a-6)
+prep_as(use-2, computer-7)
+advmod(use-2, more-8)
+mark(use-11, than-9)
+nsubj(use-11, I-10)
+dep(more-8, use-11)
+det(computer-13, a-12)
+dobj(use-11, computer-13)
+det(point-16, this-15)
+prep_at(computer-13, point-16)
+
+=========
+
+nsubj(fast-3, It-1)
+cop(fast-3, is-2)
+ccomp(had-8, fast-3)
+nsubj(had-8, I-5)
+aux(had-8, have-6)
+neg(had-8, never-7)
+root(ROOT-0, had-8)
+det(lock-10, a-9)
+dobj(had-8, lock-10)
+advmod(had-8, up-11)
+
+=========
+
+det(upgrade-4, The-1)
+nn(upgrade-4, Android-2)
+num(upgrade-4, 2.3-3)
+nsubj(awesome-6, upgrade-4)
+cop(awesome-6, is-5)
+root(ROOT-0, awesome-6)
+nsubj(one-10, it-8)
+cop(one-10, was-9)
+conj_and(awesome-6, one-10)
+det(devices-15, the-12)
+amod(devices-15, first-13)
+amod(devices-15, android-14)
+prep_of(one-10, devices-15)
+aux(get-17, to-16)
+infmod(one-10, get-17)
+dobj(get-17, Netflix-18)
+
+=========
+
+mark(tweak-3, If-1)
+nsubj(tweak-3, you-2)
+advcl(go-20, tweak-3)
+det(settings-5, the-4)
+nsubj(shut-7, settings-5)
+aux(shut-7, to-6)
+xcomp(tweak-3, shut-7)
+prt(shut-7, down-8)
+nn(things-11, un-9)
+amod(things-11, needed-10)
+dobj(shut-7, things-11)
+advmod(used-16, when-12)
+neg(used-16, not-13)
+auxpass(used-16, being-14)
+advmod(used-16, actively-15)
+dep(things-11, used-16)
+nsubj(go-20, I-18)
+aux(go-20, can-19)
+root(ROOT-0, go-20)
+det(day-22, all-21)
+tmod(go-20, day-22)
+prepc_without(go-20, charging-24)
+dobj(charging-24, it-25)
+
+=========
+
+nsubj(has-3, It-1)
+advmod(has-3, also-2)
+root(ROOT-0, has-3)
+det(life-7, a-4)
+advmod(long-6, very-5)
+amod(life-7, long-6)
+dobj(has-3, life-7)
+prepc_while(life-7, watching-9)
+dobj(watching-9, videos-10)
+
+=========
+
+nsubj(impressed-4, I-1)
+cop(impressed-4, was-2)
+advmod(impressed-4, very-3)
+root(ROOT-0, impressed-4)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+root(ROOT-0, want-3)
+det(droid-5, a-4)
+dobj(want-3, droid-5)
+iobj(want-3, droid-5)
+dobj(want-3, device-6)
+dep(droid-5, device-6)
+appos(device-6, this-8)
+cop(phone-11, is-9)
+poss(phone-11, your-10)
+rcmod(this-8, phone-11)
+

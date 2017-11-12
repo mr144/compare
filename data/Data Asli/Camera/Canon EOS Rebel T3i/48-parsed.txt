@@ -1,0 +1,112 @@
+=========
+
+det(camera-2, This-1)
+nsubj(replaced-3, camera-2)
+root(ROOT-0, replaced-3)
+det(Rebel-6, a-4)
+nn(Rebel-6, Canon-5)
+dobj(replaced-3, Rebel-6)
+num(Rebel-6, 35mm-7)
+
+=========
+
+nsubj(surprising-3, It-1)
+cop(surprising-3, is-2)
+root(ROOT-0, surprising-3)
+advmod(similiar-5, how-4)
+dep(are-7, similiar-5)
+nsubj(are-7, they-6)
+ccomp(surprising-3, are-7)
+
+=========
+
+advmod(works-4, So-1)
+advmod(So-1, far-2)
+nsubj(works-4, it-3)
+root(ROOT-0, works-4)
+dobj(works-4, GREAT-5)
+
+=========
+
+advmod(had-2, Only-1)
+root(ROOT-0, had-2)
+det(camera-4, the-3)
+dobj(had-2, camera-4)
+det(days-8, a-6)
+amod(days-8, few-7)
+prep_for(camera-4, days-8)
+mark(review-15, so-9)
+nsubj(review-15, this-10)
+cop(review-15, is-11)
+neg(review-15, not-12)
+det(review-15, a-13)
+amod(review-15, far-14)
+dep(had-2, review-15)
+
+=========
+
+det(weight-2, The-1)
+nsubj(right-6, weight-2)
+conj_and(weight-2, balance-4)
+nsubj(right-6, balance-4)
+cop(right-6, is-5)
+root(ROOT-0, right-6)
+prep(right-6, on-7)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(features-4, the-3)
+dobj(like-2, features-4)
+
+=========
+
+nsubj(believe-4, I-1)
+aux(believe-4, can-2)
+neg(believe-4, not-3)
+ccomp(come-16, believe-4)
+det(price-8, the-6)
+nn(price-8, sale-7)
+prep_for(believe-4, price-8)
+det(item-11, the-10)
+prep_of(price-8, item-11)
+nsubj(come-16, It-13)
+aux(come-16, does-14)
+neg(come-16, not-15)
+root(ROOT-0, come-16)
+det(card-20, a-18)
+nn(card-20, memory-19)
+prep_with(come-16, card-20)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+poss(lenses-7, my-5)
+amod(lenses-7, old-6)
+prep_with(great-3, lenses-7)
+
+=========
+
+det(service-3, The-1)
+nn(service-3, shipping-2)
+nsubj(excellent-7, service-3)
+prep_from(service-3, Amazon-5)
+cop(excellent-7, was-6)
+ccomp(get-12, excellent-7)
+nn(day-11, order-9)
+nn(day-11, one-10)
+nsubj(get-12, day-11)
+root(ROOT-0, get-12)
+nsubj(next-15, it-13)
+det(next-15, the-14)
+xcomp(get-12, next-15)
+prep_for(next-15, free-17)
+
+=========
+
+root(ROOT-0, Nice-1)
+dobj(Nice-1, camera-2)
+

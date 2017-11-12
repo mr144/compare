@@ -1,0 +1,28 @@
+=========
+
+dobj(say-4, What-1)
+aux(say-4, can-2)
+nsubj(say-4, I-3)
+root(ROOT-0, say-4)
+
+=========
+
+amod(camera-2, Great-1)
+nsubj(awesome-8, camera-2)
+amod(camera-2, easy-4)
+aux(use-6, to-5)
+xcomp(easy-4, use-6)
+root(ROOT-0, awesome-8)
+dobj(awesome-8, pictures-9)
+
+=========
+
+det(price-2, The-1)
+nsubj(amazing-4, price-2)
+cop(amazing-4, was-3)
+root(ROOT-0, amazing-4)
+advmod(cheaper-7, much-6)
+dep(amazing-4, cheaper-7)
+amod(Buy-10, Best-9)
+prep_than(amazing-4, Buy-10)
+

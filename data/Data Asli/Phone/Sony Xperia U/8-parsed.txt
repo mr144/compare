@@ -1,0 +1,48 @@
+=========
+
+nsubj(liked-3, I-1)
+advmod(liked-3, really-2)
+root(ROOT-0, liked-3)
+det(look-6, the-4)
+amod(look-6, slim-5)
+dobj(liked-3, look-6)
+
+=========
+
+nsubj(liked-2, I-1)
+root(ROOT-0, liked-2)
+advmod(small-6, how-3)
+nsubj(small-6, it-4)
+nsubj(powerful-8, it-4)
+cop(small-6, was-5)
+ccomp(liked-2, small-6)
+ccomp(liked-2, powerful-8)
+conj_but(small-6, powerful-8)
+
+=========
+
+det(camera-2, The-1)
+nsubj(nice-4, camera-2)
+cop(nice-4, was-3)
+root(ROOT-0, nice-4)
+advmod(nice-4, also-5)
+
+=========
+
+advmod(had-3, Unfortunately-1)
+nsubj(had-3, I-2)
+xsubj(return-5, I-2)
+root(ROOT-0, had-3)
+aux(return-5, to-4)
+xcomp(had-3, return-5)
+dobj(return-5, it-6)
+mark(work-11, because-7)
+nsubj(work-11, it-8)
+aux(work-11, did-9)
+neg(work-11, not-10)
+advcl(return-5, work-11)
+poss(card-16, my-13)
+nn(card-16, Verizon-14)
+nn(card-16, sim-15)
+prep_with(work-11, card-16)
+

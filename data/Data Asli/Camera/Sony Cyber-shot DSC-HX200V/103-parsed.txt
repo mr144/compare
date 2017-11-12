@@ -1,0 +1,41 @@
+=========
+
+det(camera-2, This-1)
+nsubj(easy-4, camera-2)
+nsubj(takes-8, camera-2)
+cop(easy-4, is-3)
+root(ROOT-0, easy-4)
+aux(use-6, to-5)
+xcomp(easy-4, use-6)
+conj_and(easy-4, takes-8)
+amod(video-13, great-9)
+amod(video-13, high-11)
+nn(video-13, quality-12)
+dobj(takes-8, video-13)
+
+=========
+
+poss(daughter-2, My-1)
+nsubj(used-4, daughter-2)
+aux(used-4, has-3)
+root(ROOT-0, used-4)
+det(camera-6, this-5)
+dobj(used-4, camera-6)
+dep(used-4, for-7)
+det(year-10, a-9)
+prep_over(used-4, year-10)
+amod(results-13, great-12)
+prep_with(year-10, results-13)
+
+=========
+
+nsubj(impressed-4, I-1)
+cop(impressed-4, was-2)
+advmod(impressed-4, so-3)
+root(ROOT-0, impressed-4)
+complm(bought-7, that-5)
+nsubj(bought-7, I-6)
+ccomp(impressed-4, bought-7)
+dobj(bought-7, one-8)
+prep_for(bought-7, myself-10)
+

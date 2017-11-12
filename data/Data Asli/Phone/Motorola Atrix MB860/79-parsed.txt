@@ -1,0 +1,14 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+root(ROOT-0, Bought-1)
+nsubj(unlcoked-3, it-2)
+nsubj(usinng-5, it-2)
+ccomp(Bought-1, unlcoked-3)
+ccomp(Bought-1, usinng-5)
+conj_and(unlcoked-3, usinng-5)
+dobj(usinng-5, it-6)
+advmod(usinng-5, currently-7)
+prep_in(usinng-5, Colombia-9)
+

@@ -1,0 +1,24 @@
+=========
+
+cop(product-4, was-1)
+neg(product-4, not-2)
+det(product-4, the-3)
+csubj(imitation-8, product-4)
+partmod(product-4, offered-5)
+cop(imitation-8, is-6)
+det(imitation-8, an-7)
+root(ROOT-0, imitation-8)
+nsubj(connect-12, imitation-8)
+aux(connect-12, does-10)
+neg(connect-12, not-11)
+rcmod(imitation-8, connect-12)
+det(internet-15, the-14)
+prep_to(connect-12, internet-15)
+
+=========
+
+advmod(serves-2, only-1)
+root(ROOT-0, serves-2)
+det(paperweight-5, a-4)
+prep_as(serves-2, paperweight-5)
+

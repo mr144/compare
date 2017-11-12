@@ -1,0 +1,4 @@
+I_PRP had_VBD iphone_NN 3gs_NNS and_CC HTC_NNP smartphone_NN before_RB ._.
+I_PRP buy_VBP this_DT smartphone_NN last_JJ week_NN ._.
+Better_NNP performance_NN ,_, better_JJR processor_NN ,_, better_JJR camera_NN than_IN my_PRP$ old_JJ iphone_NN and_CC HTC_NNP ._.
+The_DT greatest_JJS phone_NN for_IN me_PRP ._.

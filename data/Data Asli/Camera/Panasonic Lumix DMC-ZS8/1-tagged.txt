@@ -1,0 +1,3 @@
+This_DT Panasonic_NNP Lumix_NNP camera_NN works_VBZ great_JJ ._.
+Easy_NNP to_TO use_VB with_IN lots_NNS of_IN features_NNS ._.
+Zoom_NNP works_VBZ great_JJ and_CC the_DT camera_NN takes_VBZ great_JJ pictures_NNS ._.

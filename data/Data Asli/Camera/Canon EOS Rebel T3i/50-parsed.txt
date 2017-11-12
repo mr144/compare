@@ -1,0 +1,42 @@
+=========
+
+nsubj(upgraded-2, I-1)
+root(ROOT-0, upgraded-2)
+det(camera-8, a-4)
+nn(camera-8, point-5)
+conj_and(point-5, shoot-7)
+nn(camera-8, shoot-7)
+prep_from(upgraded-2, camera-8)
+
+=========
+
+nsubj(loving-3, I-1)
+aux(loving-3, am-2)
+root(ROOT-0, loving-3)
+poss(T3i-5, my-4)
+dobj(loving-3, T3i-5)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(photos-4, awesome-3)
+dobj(takes-2, photos-4)
+
+=========
+
+root(ROOT-0, Im-1)
+xsubj(customize-4, Im-1)
+partmod(Im-1, learning-2)
+aux(customize-4, to-3)
+xcomp(learning-2, customize-4)
+dobj(customize-4, it-5)
+prep_with(customize-4, accesories-7)
+prep_such_as(accesories-7, speedlite-10)
+nn(grip-13, battery-12)
+prep_such_as(accesories-7, grip-13)
+conj_and(speedlite-10, grip-13)
+nn(lens-17, telephoto-16)
+prep_such_as(accesories-7, lens-17)
+conj_and(speedlite-10, lens-17)
+

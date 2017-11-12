@@ -1,0 +1,35 @@
+=========
+
+nsubj(had-3, I-1)
+nsubj(had-14, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(TV-5, this-4)
+dobj(had-3, TV-5)
+amod(months-8, several-7)
+prep_for(TV-5, months-8)
+advmod(far-12, thus-11)
+advmod(had-14, far-12)
+aux(had-14, have-13)
+conj_and(had-3, had-14)
+advmod(no-16, absolutely-15)
+amod(problems-17, no-16)
+dobj(had-14, problems-17)
+prep_with(problems-17, it-19)
+
+=========
+
+nsubj(looks-2, It-1)
+nsubj(works-5, It-1)
+root(ROOT-0, looks-2)
+acomp(looks-2, great-3)
+conj_and(looks-2, works-5)
+advmod(works-5, well-6)
+prep_for(works-5, everything-8)
+appos(everything-8, gaming-10)
+appos(everything-8, HDMI-12)
+nn(movies-15, watching-14)
+appos(everything-8, movies-15)
+appos(everything-8, TV-17)
+appos(everything-8, etc.-19)
+

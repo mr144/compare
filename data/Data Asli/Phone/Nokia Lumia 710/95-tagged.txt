@@ -1,0 +1,1 @@
+I_PRP like_VBP the_DT cell_NN phone_NN ,_, but_CC I_PRP did_VBD not_RB recevie_VB the_DT guide_NN -LRB-_-LRB- manual_JJ -RRB-_-RRB- but_CC the_DT rest_NN it_PRP is_VBZ ok_JJ ._.

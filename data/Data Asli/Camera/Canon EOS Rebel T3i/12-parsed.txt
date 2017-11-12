@@ -1,0 +1,47 @@
+=========
+
+nsubj(saving-4, I-1)
+aux(saving-4, have-2)
+aux(saving-4, been-3)
+root(ROOT-0, saving-4)
+det(time-7, some-6)
+prep_for(saving-4, time-7)
+det(camera-11, an-9)
+nn(camera-11, EOS-10)
+prep_for(time-7, camera-11)
+
+=========
+
+advmod(came-3, When-1)
+nsubj(came-3, it-2)
+advcl(undecided-11, came-3)
+advmod(down-5, right-4)
+advmod(came-3, down-5)
+prep_to(came-3, it-7)
+nsubj(undecided-11, I-9)
+cop(undecided-11, was-10)
+root(ROOT-0, undecided-11)
+det(Nikon-14, the-13)
+prep_between(undecided-11, Nikon-14)
+det(Canon-17, the-16)
+prep_between(undecided-11, Canon-17)
+conj_and(Nikon-14, Canon-17)
+
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+det(camera-6, a-3)
+amod(camera-6, great-4)
+amod(camera-6, little-5)
+root(ROOT-0, camera-6)
+det(price-10, a-8)
+amod(price-10, reasonable-9)
+prep_for(camera-6, price-10)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+

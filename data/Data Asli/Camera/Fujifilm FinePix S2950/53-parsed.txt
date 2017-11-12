@@ -1,0 +1,78 @@
+=========
+
+nsubj(pix-6, i-1)
+det(fine-5, the-3)
+nn(fine-5, fuifilm-4)
+prep_like(i-1, fine-5)
+root(ROOT-0, pix-6)
+dobj(pix-6, camera-7)
+advmod(far-9, so-8)
+advmod(pix-6, far-9)
+
+=========
+
+det(pictures-2, the-1)
+nsubj(clear-4, pictures-2)
+nsubj(good-8, pictures-2)
+cop(clear-4, are-3)
+root(ROOT-0, clear-4)
+det(color-7, the-6)
+dep(good-8, color-7)
+conj_and(clear-4, good-8)
+
+=========
+
+nsubj(found-2, i-1)
+root(ROOT-0, found-2)
+complm(sometimes-4, that-3)
+dep(found-2, sometimes-4)
+advmod(am-7, when-5)
+nsubj(am-7, i-6)
+dep(sometimes-4, am-7)
+prep_at(am-7, 16x-9)
+dobj(work-15, 16x-9)
+det(camera-11, the-10)
+nsubj(work-15, camera-11)
+nsubj(fuzzy-19, camera-11)
+advmod(work-15, just-12)
+aux(work-15, does-13)
+neg(work-15, not-14)
+rcmod(16x-9, work-15)
+cop(fuzzy-19, is-17)
+advmod(fuzzy-19, very-18)
+rcmod(16x-9, fuzzy-19)
+conj_or(work-15, fuzzy-19)
+
+=========
+
+nsubj(wish-2, i-1)
+root(ROOT-0, wish-2)
+nsubj(known-5, i-3)
+aux(known-5, had-4)
+ccomp(wish-2, known-5)
+complm(was-8, that-6)
+expl(was-8, there-7)
+ccomp(known-5, was-8)
+neg(was-8, not-9)
+det(booklet-11, a-10)
+nsubj(was-8, booklet-11)
+det(camera-14, the-13)
+prep_with(booklet-11, camera-14)
+
+=========
+
+det(disc-2, the-1)
+nsubj(fine-4, disc-2)
+cop(fine-4, is-3)
+root(ROOT-0, fine-4)
+nsubj(have-7, i-6)
+conj_but(fine-4, have-7)
+det(reference-9, no-8)
+dobj(have-7, reference-9)
+advmod(am-12, when-10)
+nsubj(am-12, i-11)
+dep(reference-9, am-12)
+neg(am-12, not-13)
+det(computer-16, the-15)
+prep_near(am-12, computer-16)
+

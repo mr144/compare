@@ -1,0 +1,30 @@
+=========
+
+advmod(nice-2, Very-1)
+root(ROOT-0, nice-2)
+
+=========
+
+nsubj(easy-4, Set-1)
+advmod(easy-4, up-2)
+cop(easy-4, was-3)
+root(ROOT-0, easy-4)
+
+=========
+
+root(ROOT-0, Plug-1)
+conj_and(Plug-1, play-3)
+
+=========
+
+nsubj(set-3, I-1)
+aux(set-3, could-2)
+root(ROOT-0, set-3)
+prt(set-3, up-4)
+det(connection-7, an-5)
+nn(connection-7, HDMI-6)
+dobj(set-3, connection-7)
+poss(laptop-10, my-9)
+prep_from(set-3, laptop-10)
+advmod(set-3, easily-11)
+

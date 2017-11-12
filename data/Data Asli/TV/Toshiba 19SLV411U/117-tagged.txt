@@ -1,0 +1,4 @@
+Great_JJ image_NN quality_NN ,_, low_JJ power_NN usage_NN ,_, great_JJ price_NN !_.
+What_WP else_RB do_VBP you_PRP need_VB ._.
+Just_RB buy_VB it_PRP ._.
+You_PRP will_MD not_RB be_VB sorry_JJ ._.

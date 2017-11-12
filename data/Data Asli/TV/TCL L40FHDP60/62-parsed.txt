@@ -1,0 +1,29 @@
+=========
+
+nsubj(way-7, This-1)
+cop(way-7, was-2)
+det(way-7, the-3)
+amod(way-7, most-4)
+nn(way-7, cost-5)
+amod(way-7, effective-6)
+root(ROOT-0, way-7)
+mark(get-11, for-8)
+nsubj(get-11, us-9)
+aux(get-11, to-10)
+advcl(way-7, get-11)
+xcomp(way-7, get-11)
+det(TV-14, a-12)
+amod(TV-14, new-13)
+dobj(get-11, TV-14)
+
+=========
+
+nsubj(wonderful-4, It-1)
+aux(wonderful-4, has-2)
+cop(wonderful-4, been-3)
+root(ROOT-0, wonderful-4)
+nsubj(enjoying-8, we-6)
+aux(enjoying-8, are-7)
+conj_and(wonderful-4, enjoying-8)
+dobj(enjoying-8, it-9)
+

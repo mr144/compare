@@ -1,0 +1,3 @@
+A_DT really_RB good_JJ cellphone_NN ._. ._.
+You_PRP can_MD do_VB whatever_WDT you_PRP want_VBP with_IN this_DT kind_NN of_IN cellphone_NN ._. ._.
+Android_NNP is_VBZ the_DT best_JJS OS_NNP but_CC Samsung_NNP the_DT worst_JJS brand_NN

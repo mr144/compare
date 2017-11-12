@@ -1,0 +1,49 @@
+=========
+
+amod(works-2, Phone-1)
+nsubj(quality-15, works-2)
+advmod(goodIt-4, amazingly-3)
+amod(works-2, goodIt-4)
+cop(quality-15, is-5)
+amod(have-12, fast-6)
+amod(have-12, stable-8)
+amod(have-12, reliable-10)
+amod(quality-15, have-12)
+amod(quality-15, good-13)
+nn(quality-15, video-14)
+root(ROOT-0, quality-15)
+
+=========
+
+det(phone-4, a-2)
+amod(phone-4, cheap-3)
+prep_for(has-6, phone-4)
+nsubj(has-6, it-5)
+root(ROOT-0, has-6)
+det(lot-8, a-7)
+dobj(has-6, lot-8)
+prep_of(lot-8, features-10)
+det(specs-13, an-11)
+amod(specs-13, good-12)
+dep(features-10, specs-13)
+
+=========
+
+nsubj(sad-3, It-1)
+cop(sad-3, is-2)
+root(ROOT-0, sad-3)
+complm(have-8, that-4)
+nsubj(have-8, it-5)
+aux(have-8, does-6)
+neg(have-8, not-7)
+ccomp(sad-3, have-8)
+nn(slot-10, SD-9)
+dobj(have-8, slot-10)
+nsubj(is-14, 4GB-13)
+conj_but(sad-3, is-14)
+advmod(than-16, more-15)
+advmod(is-14, than-16)
+advmod(than-16, enough-17)
+amod(usage-20, regular-19)
+prep_for(is-14, usage-20)
+

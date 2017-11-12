@@ -1,0 +1,54 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+poss(daughter-7, my-6)
+prep_for(bought-2, daughter-7)
+prep_for(bought-2, Christmas-9)
+
+=========
+
+nsubj(satisfied-6, We-1)
+cop(satisfied-6, were-2)
+dep(satisfied-6, both-3)
+advmod(satisfied-6, very-4)
+advmod(satisfied-6, very-5)
+root(ROOT-0, satisfied-6)
+det(look-9, the-8)
+prep_with(satisfied-6, look-9)
+det(product-12, the-11)
+prep_of(look-9, product-12)
+det(performance-15, the-14)
+prep_of(look-9, performance-15)
+conj_and(product-12, performance-15)
+
+=========
+
+nsubj(takes-2, It-1)
+ccomp(surprised-9, takes-2)
+amod(pictures-4, wonderful-3)
+dobj(takes-2, pictures-4)
+nsubj(surprised-9, I-6)
+xsubj(do-16, I-6)
+cop(surprised-9, was-7)
+advmod(surprised-9, quite-8)
+root(ROOT-0, surprised-9)
+predet(camera-14, such-11)
+det(camera-14, a-12)
+amod(camera-14, cheap-13)
+prep_for(surprised-9, camera-14)
+aux(do-16, to-15)
+xcomp(surprised-9, do-16)
+predet(job-20, such-17)
+det(job-20, a-18)
+amod(job-20, great-19)
+dobj(do-16, job-20)
+
+=========
+
+advmod(satisfied-3, Very-1)
+advmod(satisfied-3, very-2)
+root(ROOT-0, satisfied-3)
+

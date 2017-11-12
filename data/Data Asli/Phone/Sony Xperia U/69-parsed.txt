@@ -1,0 +1,115 @@
+=========
+
+det(OS-2, The-1)
+nsubj(zips-5, OS-2)
+prep_on(OS-2, it-4)
+root(ROOT-0, zips-5)
+advmod(when-7, especially-6)
+advmod(updated-8, when-7)
+advcl(zips-5, updated-8)
+nn(Bean-11, Jelly-10)
+prep_to(updated-8, Bean-11)
+
+=========
+
+advmod(hindered-6, However-1)
+det(experience-4, the-3)
+nsubjpass(hindered-6, experience-4)
+auxpass(hindered-6, was-5)
+root(ROOT-0, hindered-6)
+det(screen-10, the-8)
+amod(screen-10, small-9)
+prep_with(hindered-6, screen-10)
+
+=========
+
+det(keyboard-2, The-1)
+nsubj(narrow-5, keyboard-2)
+nsubj(uncomfortable-7, keyboard-2)
+cop(narrow-5, was-3)
+advmod(narrow-5, too-4)
+root(ROOT-0, narrow-5)
+conj_and(narrow-5, uncomfortable-7)
+aux(use-9, to-8)
+xcomp(narrow-5, use-9)
+dep(use-9, installed-11)
+amod(party-13, 3rd-12)
+dobj(installed-11, party-13)
+dobj(worked-17, party-13)
+nsubj(worked-17, one-14)
+conj_and(one-14, it-16)
+nsubj(worked-17, it-16)
+rcmod(party-13, worked-17)
+advmod(worked-17, better-18)
+det(buttons-21, The-20)
+nsubj(annoyance-31, buttons-21)
+nn(menu-25, home-23)
+nn(menu-25, \/-24)
+dep(buttons-21, menu-25)
+partmod(menu-25, \/-26)
+advmod(\/-26, back-27)
+cop(annoyance-31, were-29)
+det(annoyance-31, an-30)
+ccomp(use-9, annoyance-31)
+aux(get-33, to-32)
+infmod(annoyance-31, get-33)
+aux(work-35, to-34)
+xcomp(get-33, work-35)
+prt(work-35, over-36)
+det(bar-39, the-37)
+amod(bar-39, translucent-38)
+dobj(work-35, bar-39)
+
+=========
+
+nsubj(worked-3, Everything-1)
+advmod(Everything-1, else-2)
+root(ROOT-0, worked-3)
+acomp(worked-3, fine-4)
+
+=========
+
+nsubj(fun-3, Themes-1)
+cop(fun-3, were-2)
+root(ROOT-0, fun-3)
+nsubj(went-5, fun-3)
+rcmod(fun-3, went-5)
+prepc_along_with(went-5, customizing-8)
+det(phone-10, the-9)
+dobj(customizing-8, phone-10)
+poss(personality-13, your-12)
+prep_to(customizing-8, personality-13)
+
+=========
+
+det(OS-2, The-1)
+nsubj(worked-3, OS-2)
+root(ROOT-0, worked-3)
+amod(complaints-8, expected-5)
+advmod(no-7, so-6)
+amod(complaints-8, no-7)
+prep_as(worked-3, complaints-8)
+dobj(worked-3, their-9)
+
+=========
+
+det(camera-2, The-1)
+nsubj(better-6, camera-2)
+aux(better-6, could-3)
+aux(better-6, have-4)
+cop(better-6, been-5)
+root(ROOT-0, better-6)
+det(model-9, this-8)
+prep_for(better-6, model-9)
+prep_in(model-9, comparison-11)
+amod(models-14, previous-13)
+prep_to(better-6, models-14)
+
+=========
+
+advmod(OK-5, Hence-1)
+nsubj(OK-5, it-3)
+cop(OK-5, was-4)
+root(ROOT-0, OK-5)
+advmod(OK-5, overall-6)
+

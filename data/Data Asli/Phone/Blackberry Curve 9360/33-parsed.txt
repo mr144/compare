@@ -1,0 +1,27 @@
+=========
+
+amod(night-2, Good-1)
+tmod(have-6, night-2)
+nsubj(have-6, you-4)
+aux(have-6, will-5)
+root(ROOT-0, have-6)
+num(phones-8, 2-7)
+npadvmod(available-9, phones-8)
+amod(work-15, available-9)
+nn(work-15, Blackberry-10)
+nn(work-15, Curve-11)
+nn(work-15, 9360-12)
+nn(work-15, Unlocked-13)
+amod(work-15, new-14)
+dobj(have-6, work-15)
+prep_with(have-6, AT-17)
+prep_with(have-6, T-19)
+conj_and(AT-17, T-19)
+
+=========
+
+
+=========
+
+root(ROOT-0, Gracias-1)
+

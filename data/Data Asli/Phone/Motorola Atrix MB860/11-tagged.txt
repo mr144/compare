@@ -1,0 +1,4 @@
+I_PRP confuse_VBP to_TO buy_VB this_DT smartphone_NN or_CC Nokia_NNP Lumia_NNP 710_CD ._.
+Lumia_NNP 710_NNP has_VBZ a_DT lower_JJR prize_NN ,_, bigger_JJR screen_NN and_CC nicer_JJR design_NN ._.
+But_CC Atrix_NNP has_VBZ a_DT greater_JJR processor_NN ,_, better_JJR camera_NN and_CC longer_JJR battery_NN life_NN than_IN Lumia_NNP ._.
+Anyone_NN ,_, please_VB help_NN me_PRP ..._:

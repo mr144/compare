@@ -1,0 +1,83 @@
+=========
+
+advmod(smaller-2, Little-1)
+root(ROOT-0, smaller-2)
+mark(expected-5, than-3)
+nsubj(expected-5, I-4)
+nsubj(takes-8, I-4)
+dep(smaller-2, expected-5)
+dep(smaller-2, takes-8)
+conj_and(expected-5, takes-8)
+amod(pictures-10, good-9)
+dobj(takes-8, pictures-10)
+dobj(takes-8, videos-12)
+conj_and(pictures-10, videos-12)
+
+=========
+
+nsubj(pain-11, Looks-1)
+nsubj(adds-13, Looks-1)
+amod(Looks-1, good-2)
+prep_in(good-2, white-4)
+partmod(pain-11, replacing-6)
+det(batteries-8, the-7)
+dobj(replacing-6, batteries-8)
+cop(pain-11, is-9)
+det(pain-11, a-10)
+root(ROOT-0, pain-11)
+conj_and(pain-11, adds-13)
+det(weight-15, some-14)
+dobj(adds-13, weight-15)
+det(thing-18, this-17)
+prep_to(adds-13, thing-18)
+
+=========
+
+nsubj(hate-2, I-1)
+root(ROOT-0, hate-2)
+det(software-4, the-3)
+dobj(hate-2, software-4)
+nsubj(came-6, software-4)
+rcmod(software-4, came-6)
+prep_with(came-6, this-8)
+nsubj(use-12, I-11)
+conj_but(hate-2, use-12)
+acomp(use-12, adobe-13)
+mark(biased-18, so-14)
+nsubjpass(biased-18, I-15)
+aux(biased-18, might-16)
+auxpass(biased-18, be-17)
+ccomp(adobe-13, biased-18)
+
+=========
+
+root(ROOT-0, Worth-1)
+det(price-3, the-2)
+dobj(Worth-1, price-3)
+mark(plan-6, if-4)
+nsubj(plan-6, you-5)
+advcl(Worth-1, plan-6)
+amod(memories-9, recording-8)
+prep_on(plan-6, memories-9)
+conj_and(Worth-1, want-11)
+amod(shots-13, good-12)
+dobj(want-11, shots-13)
+
+=========
+
+aux(suggest-2, Would-1)
+root(ROOT-0, suggest-2)
+dobj(suggest-2, this-3)
+nn(photographers-6, novice-5)
+prep_to(suggest-2, photographers-6)
+nsubj(wants-10, photographers-6)
+prep_to(suggest-2, someone-8)
+conj_and(photographers-6, someone-8)
+nsubj(wants-10, someone-8)
+rcmod(photographers-6, wants-10)
+det(camera-13, a-11)
+amod(camera-13, decent-12)
+dobj(wants-10, camera-13)
+amod(money-16, short-15)
+prep_for(camera-13, money-16)
+

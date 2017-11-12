@@ -1,0 +1,89 @@
+=========
+
+nsubj(purchased-2, I-1)
+xsubj(have-7, I-1)
+root(ROOT-0, purchased-2)
+det(camera-4, this-3)
+dobj(purchased-2, camera-4)
+advmod(purchased-2, just-5)
+aux(have-7, to-6)
+xcomp(purchased-2, have-7)
+det(camera-10, an-8)
+amod(camera-10, extra-9)
+dobj(have-7, camera-10)
+aux(shoot-12, to-11)
+infmod(camera-10, shoot-12)
+advmod(do-15, when-13)
+nsubj(do-15, I-14)
+advcl(shoot-12, do-15)
+dobj(do-15, photoshoots-16)
+
+=========
+
+det(quality-2, The-1)
+nsubj(bad-9, quality-2)
+nsubj(work-13, quality-2)
+det(camera-5, the-4)
+prep_of(quality-2, camera-5)
+cop(bad-9, was-6)
+neg(bad-9, not-7)
+advmod(bad-9, so-8)
+root(ROOT-0, bad-9)
+aux(work-13, did-11)
+neg(work-13, not-12)
+conj_but(bad-9, work-13)
+prt(work-13, out-14)
+det(box-16, the-15)
+dobj(work-13, box-16)
+
+=========
+
+det(battery-2, The-1)
+nsubj(kept-3, battery-2)
+root(ROOT-0, kept-3)
+acomp(kept-3, dying-4)
+det(camera-7, the-6)
+nsubj(shut-9, camera-7)
+aux(shut-9, would-8)
+conj_and(kept-3, shut-9)
+prt(shut-9, off-10)
+
+=========
+
+nsubj(changed-2, I-1)
+root(ROOT-0, changed-2)
+amod(thing-5, batteries-3)
+amod(thing-5, same-4)
+dep(changed-2, thing-5)
+dep(thing-5, again-6)
+
+=========
+
+dep(sent-3, so-1)
+nsubj(sent-3, I-2)
+nsubj(purchasing-12, I-2)
+root(ROOT-0, sent-3)
+dobj(sent-3, It-4)
+prt(sent-3, back-5)
+prep_for(sent-3, refund-7)
+aux(purchasing-12, will-9)
+advmod(purchasing-12, just-10)
+aux(purchasing-12, be-11)
+conj_and(sent-3, purchasing-12)
+det(hs30exr-15, the-13)
+nn(hs30exr-15, Fujifilm-14)
+dobj(purchasing-12, hs30exr-15)
+advmod(purchasing-12, instead-16)
+
+=========
+
+nsubj(spend-4, I-1)
+aux(spend-4, did-2)
+advmod(spend-4, rather-3)
+root(ROOT-0, spend-4)
+det(little-6, a-5)
+npadvmod(more-7, little-6)
+acomp(spend-4, more-7)
+amod(quality-10, better-9)
+prep_for(more-7, quality-10)
+

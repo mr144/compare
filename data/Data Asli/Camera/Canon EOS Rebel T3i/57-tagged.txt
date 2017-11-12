@@ -1,0 +1,4 @@
+I_PRP bought_VBD the_DT Canon_NNP 600D_NNP -LRB-_-LRB- T3i_NNP -RRB-_-RRB- for_IN film_NN making_VBG so_IN I_PRP rarely_RB ever_RB use_VB it_PRP to_TO take_VB picture_NN ._.
+The_DT T3i_NNP is_VBZ a_DT great_JJ HDSLR_NNP camera_NN for_IN beginers_NNS ._.
+The_DT plus_JJ side_NN of_IN this_DT camera_NN is_VBZ that_IN you_PRP can_MD install_VB the_DT &#34;_CD Magic_NNP Lantern_NNP &#34;_CD custom_NN firmware_NN to_TO get_VB more_JJR functionality_NN out_IN of_IN the_DT camera_NN -LRB-_-LRB- follow_VB focus_NN ,_, timelapse_NN ,_, HDR_NNP recording_NN ,_, rack_NN focus_NN ,_, etc._FW ._. ._. -RRB-_-RRB- ._.
+The_DT only_JJ downside_NN of_IN this_DT camera_NN is_VBZ no_DT 60fps_NNS recording_VBG at_IN 1080p_CD but_CC if_IN you_PRP need_VBP that_IN then_RB you_PRP could_MD buy_VB the_DT newer_JJR version_NN T4i_NNP or_CC the_DT T5i_NNP ._.

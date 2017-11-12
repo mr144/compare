@@ -1,0 +1,47 @@
+=========
+
+amod(size-2, Awesome-1)
+root(ROOT-0, size-2)
+amod(assembly-5, easy-4)
+appos(size-2, assembly-5)
+amod(quality-9, great-7)
+nn(quality-9, picture-8)
+appos(assembly-5, quality-9)
+
+=========
+
+nsubj(brand-5, LG-1)
+cop(brand-5, is-2)
+det(brand-5, an-3)
+amod(brand-5, amazing-4)
+root(ROOT-0, brand-5)
+tmod(comes-8, brand-5)
+advmod(comes-8, when-6)
+nsubj(comes-8, it-7)
+dep(brand-5, comes-8)
+prep_to(comes-8, TV-10)
+possessive(TV-10, 's-11)
+nsubj(exception-16, this-13)
+cop(exception-16, is-14)
+det(exception-16, no-15)
+conj_and(brand-5, exception-16)
+tmod(comes-8, exception-16)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(looks-3, quality-2)
+root(ROOT-0, looks-3)
+acomp(looks-3, incredible-4)
+det(settings-9, the-6)
+amod(settings-9, different-7)
+nn(settings-9, color-8)
+nsubj(make-10, settings-9)
+conj_and(looks-3, make-10)
+det(gaming-14, a-12)
+amod(gaming-14, great-13)
+prep_for(make-10, gaming-14)
+nn(experience-17, movie-16)
+prep_for(make-10, experience-17)
+conj_or(gaming-14, experience-17)
+

@@ -1,0 +1,71 @@
+=========
+
+det(phone-2, The-1)
+nsubj(worked-3, phone-2)
+root(ROOT-0, worked-3)
+acomp(worked-3, fine-4)
+det(couple-7, a-6)
+prep_for(worked-3, couple-7)
+prep_of(couple-7, months-9)
+
+=========
+
+advmod(turn-6, Then-1)
+nsubj(turn-6, it-2)
+nsubj(take-9, it-2)
+advmod(turn-6, sporatically-3)
+aux(turn-6, would-4)
+neg(turn-6, not-5)
+root(ROOT-0, turn-6)
+prt(turn-6, on-7)
+conj_or(turn-6, take-9)
+det(charge-11, a-10)
+dobj(take-9, charge-11)
+
+=========
+
+prep_of(happened-4, course-2)
+nsubj(happened-4, this-3)
+root(ROOT-0, happened-4)
+det(weeks-7, a-5)
+amod(weeks-7, few-6)
+tmod(happened-4, weeks-7)
+det(period-11, the-9)
+nn(period-11, warranty-10)
+prep_outside(happened-4, period-11)
+
+=========
+
+det(problem-2, No-1)
+nsubj(took-5, problem-2)
+nsubj(took-5, I-4)
+root(ROOT-0, took-5)
+det(phone-7, the-6)
+dobj(took-5, phone-7)
+det(store-11, an-9)
+nn(store-11, apple-10)
+prep_to(took-5, store-11)
+det(diagnosis-14, a-13)
+prep_for(took-5, diagnosis-14)
+prep_for(took-5, repair-16)
+conj_and(diagnosis-14, repair-16)
+
+=========
+
+poss(report-3, Apple-1)
+nsubj(contains-16, report-3)
+prepc_after(report-3, opening-5)
+det(phone-7, the-6)
+dobj(opening-5, phone-7)
+nsubj(has-10, It-9)
+dep(phone-7, has-10)
+det(face-13, a-11)
+amod(face-13, nice-12)
+dobj(has-10, face-13)
+advmod(has-10, but-14)
+root(ROOT-0, contains-16)
+amod(parts-20, multiple-17)
+nn(parts-20, non-18)
+nn(parts-20, apple-19)
+dobj(contains-16, parts-20)
+

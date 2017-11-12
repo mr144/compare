@@ -1,0 +1,55 @@
+=========
+
+det(Phone-2, This-1)
+nsubj(works-3, Phone-2)
+root(ROOT-0, works-3)
+advmod(great-5, just-4)
+acomp(works-3, great-5)
+
+=========
+
+nsubj(works-2, it-1)
+root(ROOT-0, works-2)
+advmod(fast-4, super-3)
+advmod(works-2, fast-4)
+det(integration-9, the-6)
+amod(integration-9, social-7)
+nn(integration-9, media-8)
+nsubj(greater-11, integration-9)
+cop(greater-11, is-10)
+conj_and(works-2, greater-11)
+amod(phone-15, other-13)
+amod(phone-15, smart-14)
+prep_than(greater-11, phone-15)
+
+=========
+
+advmod(have-4, Perhaps-1)
+nsubj(have-4, WP7-2)
+xsubj(improve-6, WP7-2)
+num(WP7-2, .5-3)
+root(ROOT-0, have-4)
+aux(improve-6, to-5)
+xcomp(have-4, improve-6)
+amod(things-8, many-7)
+dobj(improve-6, things-8)
+
+=========
+
+nsubjpass(satisfied-4, I-1)
+auxpass(satisfied-4, am-2)
+advmod(satisfied-4, very-3)
+ccomp(have-10, satisfied-4)
+poss(Phone-7, my-6)
+prep_with(satisfied-4, Phone-7)
+nsubj(have-10, I-9)
+xsubj(say-12, I-9)
+root(ROOT-0, have-10)
+aux(say-12, to-11)
+xcomp(have-10, say-12)
+prep_for(say-12, shure-14)
+complm(BACK-18, that-15)
+nsubj(BACK-18, NOKIA-16)
+cop(BACK-18, IS-17)
+ccomp(say-12, BACK-18)
+

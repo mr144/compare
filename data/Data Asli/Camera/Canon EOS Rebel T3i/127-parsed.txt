@@ -1,0 +1,64 @@
+=========
+
+det(product-2, The-1)
+nsubj(has-3, product-2)
+root(ROOT-0, has-3)
+det(quality-6, a-4)
+amod(quality-6, great-5)
+dobj(has-3, quality-6)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, really-2)
+root(ROOT-0, recommend-3)
+det(card-8, a-4)
+nn(card-8, Class-5)
+num(card-8, 10-6)
+nn(card-8, SD-7)
+dobj(recommend-3, card-8)
+aux(able-11, to-9)
+cop(able-11, be-10)
+xcomp(recommend-3, able-11)
+aux(record-13, to-12)
+xcomp(able-11, record-13)
+dobj(record-13, video-14)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+det(camera-4, the-3)
+dobj(use-2, camera-4)
+prep_for(camera-4, plane-spotting-6)
+dep(use-2, so-8)
+nsubj(use-10, I-9)
+ccomp(use-2, use-10)
+dobj(use-10, it-11)
+det(lens-15, the-13)
+amod(lens-15, 75-300mm-14)
+prep_with(use-10, lens-15)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(decision-7, it-3)
+cop(decision-7, was-4)
+det(decision-7, a-5)
+amod(decision-7, great-6)
+ccomp(think-2, decision-7)
+aux(buy-9, to-8)
+infmod(decision-7, buy-9)
+dobj(buy-9, it-10)
+
+=========
+
+root(ROOT-0, Here-1)
+nsubj(see-4, you-2)
+aux(see-4, can-3)
+rcmod(Here-1, see-4)
+dobj(see-4, some-5)
+det(pictures-8, the-7)
+prep_of(some-5, pictures-8)
+

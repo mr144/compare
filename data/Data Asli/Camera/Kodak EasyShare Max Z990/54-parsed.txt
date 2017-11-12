@@ -1,0 +1,65 @@
+=========
+
+nsubj(camera-7, This-1)
+cop(camera-7, is-2)
+det(camera-7, the-3)
+amod(camera-7, third-4)
+nn(camera-7, Kodak-5)
+amod(camera-7, digital-6)
+root(ROOT-0, camera-7)
+dobj(owned-10, camera-7)
+nsubj(owned-10, we-8)
+aux(owned-10, have-9)
+rcmod(camera-7, owned-10)
+
+=========
+
+nsubj(durable-5, All-1)
+aux(durable-5, have-2)
+cop(durable-5, been-3)
+advmod(durable-5, very-4)
+root(ROOT-0, durable-5)
+dep(durable-5, easy-7)
+aux(use-9, to-8)
+xcomp(easy-7, use-9)
+xcomp(easy-7, take-12)
+conj_and(use-9, take-12)
+amod(pictures-14, great-13)
+dobj(take-12, pictures-14)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+nsubj(art-12, camera-4)
+poss(son-7, my-6)
+prep_for(camera-4, son-7)
+cop(art-12, is-9)
+det(art-12, a-10)
+nn(art-12, college-11)
+rcmod(camera-4, art-12)
+amod(art-12, major-13)
+
+=========
+
+nsubj(had-4, We-1)
+nsubj(have-11, We-1)
+aux(had-4, have-2)
+advmod(had-4, only-3)
+root(ROOT-0, had-4)
+dobj(had-4, it-5)
+iobj(had-4, it-5)
+det(while-8, a-6)
+amod(while-8, short-7)
+dobj(had-4, while-8)
+dep(it-5, while-8)
+conj_but(had-4, have-11)
+det(complaints-13, no-12)
+dobj(have-11, complaints-13)
+prep(have-11, at-14)
+dep(far-17, all-15)
+advmod(far-17, so-16)
+pcomp(at-14, far-17)
+

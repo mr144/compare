@@ -1,0 +1,111 @@
+=========
+
+nsubj(needed-2, I-1)
+root(ROOT-0, needed-2)
+det(combo-6, a-3)
+amod(combo-6, small-4)
+amod(combo-6, TV\/DVD-5)
+dobj(needed-2, combo-6)
+poss(bedroom-10, our-8)
+nn(bedroom-10, guest-9)
+prep_for(needed-2, bedroom-10)
+advmod(needed-2, already-12)
+dep(needed-2, have-13)
+det(Toshiba-16, a-14)
+amod(Toshiba-16, larger-15)
+dobj(have-13, Toshiba-16)
+prep_in(Toshiba-16, MBR-18)
+dep(needed-2, so-20)
+det(19-22, this-21)
+nsubj(seemed-24, 19-22)
+xsubj(choice-29, 19-22)
+ccomp(needed-2, seemed-24)
+aux(choice-29, to-25)
+cop(choice-29, be-26)
+det(choice-29, the-27)
+amod(choice-29, best-28)
+xcomp(seemed-24, choice-29)
+
+=========
+
+nsubj(easy-11, Shipped-1)
+nsubj(pleased-18, Shipped-1)
+advmod(easy-11, quickly-2)
+prep_from(easy-11, Amazon-4)
+cop(easy-11, was-6)
+amod(shape-9, great-8)
+prep_in(easy-11, shape-9)
+root(ROOT-0, easy-11)
+aux(set-13, to-12)
+xcomp(easy-11, set-13)
+prt(set-13, up-14)
+cop(pleased-18, were-16)
+advmod(pleased-18, extremely-17)
+conj_and(easy-11, pleased-18)
+prep_with(pleased-18, it-20)
+
+=========
+
+partmod(fits-20, Mind-1)
+dep(say-5, what-2)
+dobj(greatest-12, what-2)
+det(folks-4, some-3)
+nsubj(say-5, folks-4)
+ccomp(Mind-1, say-5)
+complm(greatest-12, that-6)
+det(sound-8, the-7)
+nsubj(greatest-12, sound-8)
+cop(greatest-12, is-9)
+neg(greatest-12, not-10)
+det(greatest-12, the-11)
+ccomp(say-5, greatest-12)
+cc(greatest-12, but-13)
+det(room-17, a-15)
+amod(room-17, small-16)
+prep_for(greatest-12, room-17)
+nsubj(fits-20, it-19)
+root(ROOT-0, fits-20)
+det(bill-22, the-21)
+dobj(fits-20, bill-22)
+
+=========
+
+nsubj(HD-3, It-1)
+cop(HD-3, is-2)
+root(ROOT-0, HD-3)
+prep_with(HD-3, 720p-5)
+nsubj(good-10, picture-7)
+cop(good-10, is-8)
+advmod(good-10, still-9)
+conj_but(HD-3, good-10)
+nsubj(look-14, DVD-12)
+possessive(DVD-12, 's-13)
+conj_and(HD-3, look-14)
+acomp(look-14, great-15)
+
+=========
+
+nsubj(great-8, Price-1)
+prep_from(Price-1, Amazon-3)
+prep(Amazon-3, plus-4)
+amod(shipping-6, free-5)
+dep(plus-4, shipping-6)
+cop(great-8, was-7)
+root(ROOT-0, great-8)
+
+=========
+
+advmod(resist-4, Just-1)
+aux(resist-4, could-2)
+neg(resist-4, not-3)
+csubj(button-9, resist-4)
+det(order-7, the-5)
+dobj(resist-4, order-7)
+advmod(resist-4, now-8)
+root(ROOT-0, button-9)
+
+=========
+
+advmod(satisfied-2, Very-1)
+root(ROOT-0, satisfied-2)
+

@@ -1,0 +1,72 @@
+=========
+
+nsubj(purchased-4, I-1)
+aux(purchased-4, had-2)
+advmod(purchased-4, already-3)
+root(ROOT-0, purchased-4)
+det(HDTV-7, a-5)
+nn(HDTV-7, Toshiba-6)
+dobj(purchased-4, HDTV-7)
+prep_with(purchased-4, DVD-9)
+det(years-12, a-10)
+amod(years-12, few-11)
+npadvmod(earlier-13, years-12)
+advmod(purchased-4, earlier-13)
+poss(kitchen-16, my-15)
+prep_for(purchased-4, kitchen-16)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(one-4, this-3)
+dobj(bought-2, one-4)
+aux(have-6, to-5)
+infmod(one-4, have-6)
+poss(office-9, my-8)
+prep_in(have-6, office-9)
+nsubj(nice-14, it-11)
+xsubj(able-17, it-11)
+cop(nice-14, is-12)
+advmod(nice-14, so-13)
+conj_and(bought-2, nice-14)
+aux(able-17, to-15)
+cop(able-17, be-16)
+xcomp(nice-14, able-17)
+aux(watch-19, to-18)
+xcomp(able-17, watch-19)
+dobj(watch-19, movies-20)
+advmod(watch-19, again-21)
+
+=========
+
+nsubj(product-5, It-1)
+cop(product-5, was-2)
+det(product-5, a-3)
+amod(product-5, nice-4)
+root(ROOT-0, product-5)
+det(price-8, the-7)
+prep_for(product-5, price-8)
+
+=========
+
+aux(buy-2, Would-1)
+root(ROOT-0, buy-2)
+dobj(buy-2, it-3)
+advmod(buy-2, again-4)
+
+=========
+
+nsubj(wish-4, I-1)
+dep(of-3, kind-2)
+advmod(wish-4, of-3)
+root(ROOT-0, wish-4)
+nsubj(bought-8, I-5)
+aux(bought-8, would-6)
+aux(bought-8, have-7)
+ccomp(wish-4, bought-8)
+det(size-11, the-9)
+amod(size-11, next-10)
+dobj(bought-8, size-11)
+prt(bought-8, up-12)
+

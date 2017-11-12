@@ -1,0 +1,122 @@
+=========
+
+nsubj(give-5, Sorry-1)
+aux(give-5, can-3)
+neg(give-5, not-4)
+root(ROOT-0, give-5)
+iobj(give-5, you-6)
+det(review-10, a-7)
+advmod(technical-9, highly-8)
+amod(review-10, technical-9)
+dobj(give-5, review-10)
+
+=========
+
+csubj(INCREDIBLE-9, Suffice-1)
+nsubj(say-4, it-2)
+aux(say-4, to-3)
+xcomp(Suffice-1, say-4)
+det(quality-7, the-5)
+nn(quality-7, picture-6)
+dobj(say-4, quality-7)
+cop(INCREDIBLE-9, is-8)
+root(ROOT-0, INCREDIBLE-9)
+
+=========
+
+advmod(shows-6, Even-1)
+det(shows-6, those-2)
+amod(shows-6, old-3)
+num(shows-6, 60s-4)
+nn(shows-6, batman-5)
+nsubj(look-10, shows-6)
+nn(West-9, Adam-8)
+prep_with(shows-6, West-9)
+root(ROOT-0, look-10)
+acomp(look-10, hi-def-12)
+
+=========
+
+nsubj(struggled-2, I-1)
+root(ROOT-0, struggled-2)
+det(couple-5, a-4)
+prep_for(struggled-2, couple-5)
+prep_of(couple-5, weeks-7)
+det(function-12, the-9)
+nn(function-12, Smart-10)
+nn(function-12, TV-11)
+prep_with(struggled-2, function-12)
+
+=========
+
+prepc_after(figured-8, reviewing-2)
+amod(reviews-5, other-3)
+nn(reviews-5, Amazon-4)
+dobj(reviewing-2, reviews-5)
+nsubj(figured-8, I-7)
+root(ROOT-0, figured-8)
+nsubj(service-14, it-9)
+cop(service-14, was-10)
+neg(service-14, not-11)
+poss(service-14, my-12)
+amod(service-14, internet-13)
+ccomp(figured-8, service-14)
+nn(connection-17, wireless-16)
+ccomp(figured-8, connection-17)
+conj_or(service-14, connection-17)
+det(function-23, the-20)
+nn(function-23, Smart-21)
+nn(function-23, TV-22)
+ccomp(figured-8, function-23)
+conj_negcc(service-14, function-23)
+rcmod(function-23, was-24)
+neg(was-24, not-25)
+advmod(up-27, quite-26)
+advmod(was-24, up-27)
+prep_to(up-27, par-29)
+
+=========
+
+nsubj(purchased-2, I-1)
+ccomp(plugged-8, purchased-2)
+det(BluRay-4, a-3)
+dobj(purchased-2, BluRay-4)
+prep_with(purchased-2, WiFi-6)
+root(ROOT-0, plugged-8)
+dep(plugged-8, it-9)
+dep(it-9, in-10)
+pcomp(in-10, with-11)
+det(cable-14, an-12)
+nn(cable-14, HDMI-13)
+prep_with(in-10, cable-14)
+nsubj(streaming-18, I-16)
+aux(streaming-18, was-17)
+dep(plugged-8, streaming-18)
+conj_and(it-9, streaming-18)
+dobj(streaming-18, video-19)
+prep_within(streaming-18, 1\/2-21)
+det(hour-23, an-22)
+nsubj(plugged-8, hour-23)
+nn(Prime-26, Amazon-25)
+prep_via(hour-23, Prime-26)
+
+=========
+
+root(ROOT-0, Incredible-1)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+nn(quality-5, picture-4)
+prep_for(recommended-2, quality-5)
+
+=========
+
+nn(function-2, Smart-1)
+nsubj(smart-6, function-2)
+cop(smart-6, is-3)
+neg(smart-6, not-4)
+advmod(smart-6, so-5)
+root(ROOT-0, smart-6)
+

@@ -1,0 +1,47 @@
+=========
+
+nsubj(great-3, Picture-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+nsubj(great-7, remote-5)
+cop(great-7, is-6)
+conj_and(great-3, great-7)
+nsubj(easy-12, it-9)
+cop(easy-12, was-10)
+advmod(easy-12, super-11)
+conj_and(great-3, easy-12)
+aux(set-14, to-13)
+xcomp(easy-12, set-14)
+prt(set-14, up-15)
+
+=========
+
+det(features-3, The-1)
+nn(features-3, network-2)
+nsubj(laggy-5, features-3)
+cop(laggy-5, are-4)
+root(ROOT-0, laggy-5)
+nsubj(mind-10, I-7)
+aux(mind-10, do-8)
+neg(mind-10, not-9)
+conj_but(laggy-5, mind-10)
+mark(use-13, because-11)
+nsubj(use-13, I-12)
+advcl(mind-10, use-13)
+poss(XBox360-15, my-14)
+dobj(use-13, XBox360-15)
+prep_for(use-13, all-17)
+poss(viewing-20, my-19)
+prep_of(all-17, viewing-20)
+det(way-22, any-21)
+dep(viewing-20, way-22)
+
+=========
+
+aux(happier-4, Could-1)
+neg(happier-4, not-2)
+cop(happier-4, be-3)
+root(ROOT-0, happier-4)
+poss(tv-7, my-6)
+prep_with(happier-4, tv-7)
+

@@ -1,0 +1,21 @@
+=========
+
+advmod(happy-2, Very-1)
+dep(shows-9, happy-2)
+poss(screen-7, my-4)
+amod(screen-7, first-5)
+amod(screen-7, flat-6)
+prep_with(happy-2, screen-7)
+root(ROOT-0, shows-9)
+det(picture-13, a-10)
+advmod(beutiful-12, very-11)
+amod(picture-13, beutiful-12)
+dobj(shows-9, picture-13)
+dep(picture-13, has-15)
+amod(sound-17, good-16)
+nsubj(shows-9, sound-17)
+advmod(happy-20, very-19)
+amod(sound-17, happy-20)
+det(product-23, the-22)
+prep_with(happy-20, product-23)
+

@@ -1,0 +1,84 @@
+=========
+
+root(ROOT-0, Takes-1)
+amod(pictures-3, good-2)
+dobj(Takes-1, pictures-3)
+
+=========
+
+root(ROOT-0, Has-1)
+det(zoom-4, a-2)
+amod(zoom-4, nice-3)
+dobj(Has-1, zoom-4)
+
+=========
+
+amod(camera-2, Old-1)
+nsubj(broke-3, camera-2)
+root(ROOT-0, broke-3)
+tmod(broke-3, day-4)
+prep_before(broke-3, vacation-6)
+nsubj(ordered-9, I-8)
+ccomp(broke-3, ordered-9)
+conj_and(broke-3, ordered-9)
+predet(day-12, this-10)
+det(day-12, the-11)
+dep(left-15, day-12)
+dep(left-15, before-13)
+nsubj(left-15, i-14)
+nsubj(had-17, i-14)
+ccomp(ordered-9, left-15)
+ccomp(ordered-9, had-17)
+conj_and(left-15, had-17)
+nsubj(shipped-19, it-18)
+ccomp(had-17, shipped-19)
+poss(niece-22, my-21)
+prep_to(shipped-19, niece-22)
+det(day-25, the-23)
+amod(day-25, next-24)
+tmod(shipped-19, day-25)
+nn(beach-28, Myrtle-27)
+prep_in(shipped-19, beach-28)
+poss(destination-31, our-30)
+dobj(shipped-19, destination-31)
+nsubj(arrived-34, It-33)
+conj_and(broke-3, arrived-34)
+advmod(day-37, early-35)
+det(day-37, that-36)
+tmod(arrived-34, day-37)
+nsubj(used-40, i-39)
+conj_and(broke-3, used-40)
+nsubj(trip-44, it-41)
+det(trip-44, the-42)
+amod(trip-44, entire-43)
+xcomp(used-40, trip-44)
+
+=========
+
+nn(a-2, Bought-1)
+nsubj(tripod-3, a-2)
+nsubj(took-5, a-2)
+root(ROOT-0, tripod-3)
+conj_and(tripod-3, took-5)
+dobj(tripod-3, pictures-6)
+prep_including(pictures-6, myself-8)
+
+=========
+
+root(ROOT-0, Worked-1)
+acomp(Worked-1, great-2)
+
+=========
+
+nsubj(features-2, nice-1)
+root(ROOT-0, features-2)
+
+=========
+
+poss(daughter-2, my-1)
+nsubj(wants-3, daughter-2)
+root(ROOT-0, wants-3)
+dobj(wants-3, one-4)
+advmod(wants-3, now-5)
+prep_for(wants-3, christmas-7)
+

@@ -1,0 +1,173 @@
+=========
+
+partmod(set-9, Received-1)
+prep_on(Received-1, time-3)
+det(company-7, the-5)
+nn(company-7, delivery-6)
+nsubj(set-9, company-7)
+aux(set-9, has-8)
+root(ROOT-0, set-9)
+dobj(set-9, it-10)
+advmod(well-13, up-11)
+advmod(well-13, as-12)
+mwe(well-13, as-12)
+advmod(set-9, well-13)
+
+=========
+
+nsubj(has-2, TV-1)
+root(ROOT-0, has-2)
+amod(picture-4, beautiful-3)
+dobj(has-2, picture-4)
+
+=========
+
+nsubj(need-2, You-1)
+xsubj(plAy-4, You-1)
+root(ROOT-0, need-2)
+aux(plAy-4, to-3)
+xcomp(need-2, plAy-4)
+prt(plAy-4, around-5)
+nn(settings-8, picture-7)
+prep_with(plAy-4, settings-8)
+aux(dims-10, to-9)
+xcomp(plAy-4, dims-10)
+prt(dims-10, out-11)
+nsubj(best-14, what-12)
+cop(best-14, is-13)
+ccomp(dims-10, best-14)
+poss(viewing-17, your-16)
+prep_for(best-14, viewing-17)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+nsubj(warmer-5, it-3)
+nsubj(sharper-7, it-3)
+advmod(warmer-5, little-4)
+xcomp(like-2, warmer-5)
+xcomp(like-2, sharper-7)
+conj_and(warmer-5, sharper-7)
+dep(like-2, So-9)
+det(picture-15, the-10)
+amod(picture-15, original-11)
+amod(picture-15, normal-13)
+nsubj(do-18, picture-15)
+aux(do-18, did-16)
+neg(do-18, not-17)
+dep(like-2, do-18)
+prep_for(do-18, me-20)
+nsubj(had-23, I-22)
+xsubj(make-25, I-22)
+conj_and(like-2, had-23)
+aux(make-25, to-24)
+xcomp(had-23, make-25)
+det(changes-27, some-26)
+dobj(make-25, changes-27)
+
+=========
+
+nsubj(know-3, You-1)
+nsubj(look-9, You-1)
+nsubj(see-15, You-1)
+aux(know-3, should-2)
+root(ROOT-0, know-3)
+dobj(know-3, whAt-4)
+dobj(doing-7, whAt-4)
+nsubj(doing-7, you-5)
+aux(doing-7, are-6)
+rcmod(whAt-4, doing-7)
+conj_and(know-3, look-9)
+det(categories-13, the-11)
+amod(categories-13, other-12)
+prep_at(look-9, categories-13)
+conj_and(know-3, see-15)
+dobj(like-18, what-16)
+nsubj(like-18, you-17)
+nsubj(customize-20, you-17)
+ccomp(see-15, like-18)
+ccomp(see-15, customize-20)
+conj_and(like-18, customize-20)
+
+=========
+
+dep(figured-3, Not-1)
+advmod(figured-3, quite-2)
+root(ROOT-0, figured-3)
+prt(figured-3, out-4)
+det(remote-7, the-5)
+nn(remote-7, round-6)
+nsubj(figured-3, remote-7)
+
+=========
+
+nsubj(update-2, Will-1)
+root(ROOT-0, update-2)
+advmod(do-5, when-3)
+nsubj(do-5, I-4)
+advcl(update-2, do-5)
+
+=========
+
+advmod(TV-6, Overall-1)
+nsubj(TV-6, it-2)
+cop(TV-6, is-3)
+det(TV-6, a-4)
+amod(TV-6, great-5)
+root(ROOT-0, TV-6)
+det(money-9, the-8)
+prep_for(TV-6, money-9)
+prep_for(paid-11, money-9)
+nsubj(paid-11, I-10)
+rcmod(money-9, paid-11)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+nsubj(bought-6, I-3)
+aux(bought-6, would-4)
+aux(bought-6, have-5)
+ccomp(wish-2, bought-6)
+num(size-8, one-7)
+npadvmod(bigger-9, size-8)
+acomp(bought-6, bigger-9)
+
+=========
+
+nsubj(fault-4, That-1)
+cop(fault-4, is-2)
+poss(fault-4, my-3)
+root(ROOT-0, fault-4)
+
+=========
+
+root(ROOT-0, Look-1)
+det(guides-4, the-3)
+prep_at(Look-1, guides-4)
+mark(decide-7, before-5)
+nsubj(decide-7, you-6)
+nsubj(believe-11, you-6)
+advcl(Look-1, decide-7)
+aux(believe-11, do-9)
+neg(believe-11, not-10)
+advcl(Look-1, believe-11)
+conj_but(decide-7, believe-11)
+nsubj(blindly-13, them-12)
+xcomp(believe-11, blindly-13)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+cc(see-5, but-3)
+nsubj(see-5, I-4)
+ccomp(did-2, see-5)
+advmod(conservative-11, now-6)
+nn(guidelines-8, thAt-7)
+nsubj(conservative-11, guidelines-8)
+cop(conservative-11, are-9)
+advmod(conservative-11, too-10)
+ccomp(see-5, conservative-11)
+

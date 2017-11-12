@@ -1,0 +1,28 @@
+=========
+
+dep(phone-3, Really-1)
+amod(phone-3, good-2)
+root(ROOT-0, phone-3)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+mark(!!!-12, if-5)
+poss(phone-11, your-6)
+amod(phone-11, looking-7)
+det(blackberry-10, a-9)
+prep_for(looking-7, blackberry-10)
+nsubj(!!!-12, phone-11)
+nsubj(cheap-19, phone-11)
+advcl(recommend-3, !!!-12)
+nsubj(camera-15, It-13)
+cop(camera-15, 's-14)
+ccomp(!!!-12, camera-15)
+dep(cheap-19, its-17)
+advmod(cheap-19, really-18)
+advcl(recommend-3, cheap-19)
+conj_and(!!!-12, cheap-19)
+

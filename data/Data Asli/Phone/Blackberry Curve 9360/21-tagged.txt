@@ -1,0 +1,4 @@
+I_PRP received_VBD the_DT product_NN without_IN problem_NN and_CC as_IN expected_VBN ._.
+All_DT in_IN good_JJ condition_NN and_CC fast_JJ delivery_NN ._.
+I_PRP recommend_VBP the_DT product_NN to_TO the_DT entire_JJ community_NN ._.
+Greetings_NNS ._.

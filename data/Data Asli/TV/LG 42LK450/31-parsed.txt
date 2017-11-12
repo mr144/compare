@@ -1,0 +1,112 @@
+=========
+
+nsubj(had-3, We-1)
+nsubj(pleased-16, We-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(TV-5, the-4)
+dobj(had-3, TV-5)
+det(couple-8, a-7)
+prep_for(TV-5, couple-8)
+prep_of(couple-8, months-10)
+advmod(months-10, now-11)
+cop(pleased-16, are-13)
+advmod(pleased-16, very-14)
+advmod(pleased-16, very-15)
+conj_and(had-3, pleased-16)
+
+=========
+
+det(feature-2, The-1)
+nsubj(sensor-19, feature-2)
+complm(value-5, that-3)
+nsubj(value-5, I-4)
+dep(feature-2, value-5)
+advmod(other-7, most-6)
+dobj(value-5, other-7)
+det(obvious-10, the-9)
+prep_than(value-5, obvious-10)
+dep(feature-2, picture-12)
+dep(feature-2, sound-14)
+conj_and(picture-12, sound-14)
+cop(sensor-19, is-16)
+det(sensor-19, the-17)
+amod(sensor-19, light-18)
+root(ROOT-0, sensor-19)
+
+=========
+
+nsubj(use-2, We-1)
+root(ROOT-0, use-2)
+det(TV-4, this-3)
+dobj(use-2, TV-4)
+poss(bedroom-7, our-6)
+prep_in(use-2, bedroom-7)
+mark(is-10, so-8)
+nsubj(is-10, it-9)
+advcl(use-2, is-10)
+advmod(is-10, frequently-11)
+advmod(off-17, when-13)
+det(lights-15, the-14)
+nsubj(off-17, lights-15)
+cop(off-17, are-16)
+prepc_on(is-10, off-17)
+
+=========
+
+det(fact-2, The-1)
+nsubj(is-20, fact-2)
+dep(dims-5, that-3)
+nsubj(dims-5, it-4)
+dep(fact-2, dims-5)
+dobj(dims-5, itself-6)
+advmod(dims-5, accordingly-7)
+dep(is-11, that-9)
+expl(is-11, there-10)
+dep(fact-2, is-11)
+conj_so(dims-5, is-11)
+neg(is-11, not-12)
+det(light-15, a-13)
+amod(light-15, bright-14)
+nsubj(is-11, light-15)
+poss(room-19, our-17)
+amod(room-19, dark-18)
+prep_in(light-15, room-19)
+root(ROOT-0, is-20)
+acomp(is-20, fantastic-21)
+
+=========
+
+advmod(turn-4, Then-1)
+advmod(turn-4, when-2)
+nsubj(turn-4, you-3)
+dep(wait-9, turn-4)
+det(lights-6, the-5)
+dobj(turn-4, lights-6)
+prt(turn-4, on-7)
+root(ROOT-0, wait-9)
+det(seconds-12, a-10)
+amod(seconds-12, few-11)
+dobj(wait-9, seconds-12)
+conj_and(wait-9, get-14)
+dobj(get-14, brightens-15)
+advmod(get-14, accordingly-16)
+
+=========
+
+nsubj(easy-4, Menus\/remote-1)
+cop(easy-4, are-2)
+advmod(easy-4, very-3)
+root(ROOT-0, easy-4)
+aux(navigate-6, to-5)
+xcomp(easy-4, navigate-6)
+
+=========
+
+nsubjpass(satisfied-4, We-1)
+auxpass(satisfied-4, are-2)
+advmod(satisfied-4, very-3)
+root(ROOT-0, satisfied-4)
+det(unit-7, this-6)
+prep_with(satisfied-4, unit-7)
+

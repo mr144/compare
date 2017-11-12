@@ -1,0 +1,48 @@
+=========
+
+nsubj(showed-2, Tv-1)
+root(ROOT-0, showed-2)
+prt(showed-2, up-3)
+prep_on(showed-2, time-5)
+nsubj(was-8, box-7)
+ccomp(showed-2, was-8)
+amod(shape-11, great-10)
+prep_in(was-8, shape-11)
+nsubj(was-14, tv-13)
+ccomp(showed-2, was-14)
+amod(shape-17, great-16)
+prep_in(was-14, shape-17)
+det(item-20, the-19)
+nsubj(included-22, item-20)
+advmod(included-22, also-21)
+ccomp(showed-2, included-22)
+num(glasses-26, 2-23)
+amod(glasses-26, free-24)
+num(glasses-26, 3D-25)
+dobj(included-22, glasses-26)
+det(cable-30, a-28)
+nn(cable-30, HDMI-29)
+dobj(included-22, cable-30)
+conj_and(glasses-26, cable-30)
+complm(promised-35, that-32)
+nsubjpass(promised-35, we-33)
+auxpass(promised-35, were-34)
+ccomp(included-22, promised-35)
+
+=========
+
+nn(TV-2, Great-1)
+root(ROOT-0, TV-2)
+
+=========
+
+root(ROOT-0, make-1)
+acomp(make-1, sure-2)
+conj_and(make-1, watch-4)
+dobj(watch-4, 3D-5)
+prep_in(3D-5, Mode-7)
+num(Mode-7, 1-8)
+nn(tv-11, Sharp-10)
+prep_on(watch-4, tv-11)
+possessive(tv-11, 's-12)
+

@@ -1,0 +1,1 @@
+You should display that the phone is jail broken, it should not be displayed that it is unlocked by Apple

@@ -1,0 +1,48 @@
+=========
+
+nsubj(recomend-3, I-1)
+advmod(recomend-3, highly-2)
+root(ROOT-0, recomend-3)
+det(phone-6, this-4)
+nn(phone-6, cel-5)
+dobj(recomend-3, phone-6)
+
+=========
+
+nsubj(light-3, It-1)
+nsubj(flat-5, It-1)
+cop(light-3, 's-2)
+root(ROOT-0, light-3)
+conj_and(light-3, flat-5)
+mark(easy-10, so-6)
+nsubj(easy-10, it-7)
+xsubj(carry-12, it-7)
+cop(easy-10, is-8)
+advmod(easy-10, very-9)
+advcl(light-3, easy-10)
+aux(carry-12, to-11)
+xcomp(easy-10, carry-12)
+poss(pockets-15, your-14)
+prep_on(carry-12, pockets-15)
+
+=========
+
+det(connection-3, The-1)
+num(connection-3, 3G-2)
+nsubj(makes-5, connection-3)
+advmod(makes-5, really-4)
+root(ROOT-0, makes-5)
+det(difference-7, a-6)
+dobj(makes-5, difference-7)
+
+=========
+
+nsubj(pleased-6, I-1)
+aux(pleased-6, could-2)
+neg(pleased-6, not-3)
+cop(pleased-6, be-4)
+advmod(pleased-6, more-5)
+root(ROOT-0, pleased-6)
+poss(purchase-9, my-8)
+prep_with(pleased-6, purchase-9)
+

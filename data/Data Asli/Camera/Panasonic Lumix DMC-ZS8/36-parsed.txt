@@ -1,0 +1,47 @@
+=========
+
+nsubj(glad-4, I-1)
+cop(glad-4, am-2)
+advmod(glad-4, sooo-3)
+root(ROOT-0, glad-4)
+nsubj(got-6, I-5)
+ccomp(glad-4, got-6)
+det(camera-8, this-7)
+dobj(got-6, camera-8)
+dep(it-11, Loved-10)
+parataxis(glad-4, it-11)
+
+=========
+
+nsubj(take-3, You-1)
+aux(take-3, can-2)
+root(ROOT-0, take-3)
+det(pic-5, a-4)
+dobj(take-3, pic-5)
+advmod(person-9, just-7)
+num(person-9, one-8)
+prep_of(pic-5, person-9)
+prep_of(person-9, course-11)
+amod(course-11, nice-13)
+amod(course-11, clear-15)
+conj_and(nice-13, clear-15)
+
+=========
+
+dep(pic-4, For-1)
+det(group-3, a-2)
+nsubj(pic-4, group-3)
+root(ROOT-0, pic-4)
+poss(awesome-6, its-5)
+dobj(pic-4, awesome-6)
+
+=========
+
+nsubj(fits-2, Everybody-1)
+root(ROOT-0, fits-2)
+det(pic-5, the-4)
+prep_in(fits-2, pic-5)
+
+=========
+
+

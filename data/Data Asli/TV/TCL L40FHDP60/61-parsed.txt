@@ -1,0 +1,47 @@
+=========
+
+nsubj(is-7, Dollar-1)
+prep_for(Dollar-1, dollar-3)
+det(tv-6, this-5)
+appos(dollar-3, tv-6)
+root(ROOT-0, is-7)
+advmod(is-7, definitely-8)
+prep_worth(is-7, it-10)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(look-7, a-3)
+amod(clean-6, nice-4)
+amod(look-7, clean-6)
+dobj(has-2, look-7)
+
+=========
+
+poss(complaint-3, My-1)
+amod(complaint-3, only-2)
+nsubj(time-10, complaint-3)
+cop(time-10, is-4)
+det(time-10, a-5)
+advmod(slow-7, particularly-6)
+amod(time-10, slow-7)
+amod(time-10, warm-8)
+dep(warm-8, up-9)
+root(ROOT-0, time-10)
+advmod(powered-13, when-11)
+advmod(powered-13, first-12)
+dep(time-10, powered-13)
+prep(powered-13, on-14)
+
+=========
+
+nsubj(great-3, It-1)
+cop(great-3, 's-2)
+root(ROOT-0, great-3)
+det(tv-7, a-5)
+amod(tv-7, secondary-6)
+prep_as(great-3, tv-7)
+poss(home-10, your-9)
+prep_for(tv-7, home-10)
+

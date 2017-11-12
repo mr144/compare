@@ -1,0 +1,40 @@
+=========
+
+nsubj(owned-3, I-1)
+aux(owned-3, have-2)
+root(ROOT-0, owned-3)
+det(EasyShare-6, a-4)
+nn(EasyShare-6, Kodak-5)
+dobj(owned-3, EasyShare-6)
+amod(years-9, several-8)
+prep_for(EasyShare-6, years-9)
+mark(knocked-14, until-11)
+nsubjpass(knocked-14, it-12)
+nsubjpass(broke-20, it-12)
+auxpass(knocked-14, was-13)
+advcl(owned-3, knocked-14)
+prt(knocked-14, off-15)
+det(kitchen-17, the-16)
+npadvmod(counter-18, kitchen-17)
+advmod(knocked-14, counter-18)
+advcl(owned-3, broke-20)
+conj_and(knocked-14, broke-20)
+
+=========
+
+nsubj(LOVE-2, I-1)
+root(ROOT-0, LOVE-2)
+det(Zoom-5, the-3)
+num(Zoom-5, 30X-4)
+dobj(LOVE-2, Zoom-5)
+
+=========
+
+nsubj(is-2, That-1)
+root(ROOT-0, is-2)
+advmod(buy-6, why-3)
+nsubj(buy-6, I-4)
+advmod(buy-6, always-5)
+advcl(is-2, buy-6)
+dobj(buy-6, Kodak-7)
+

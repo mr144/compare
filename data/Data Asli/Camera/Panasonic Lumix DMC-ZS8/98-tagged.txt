@@ -1,0 +1,3 @@
+The_DT camera_NN 's_POS photos_NNS are_VBP just_RB ok_JJ ._.
+The_DT video_NN images_NNS and_CC sound_NN are_VBP poor_JJ ._.
+There_EX is_VBZ not_RB a_DT video_JJ button_NN on_IN the_DT outside_NN of_IN the_DT camera_NN ,_, which_WDT makes_VBZ it_PRP difficult_JJ to_TO take_VB a_DT `_`` quick_JJ '_'' movie_NN ._.

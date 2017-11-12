@@ -1,0 +1,39 @@
+=========
+
+nsubj(want-2, i-1)
+dep(want-13, want-2)
+nsubj(know-4, to-3)
+parataxis(want-2, know-4)
+advmod(know-4, if-5)
+det(phone-7, this-6)
+nsubj(AT&T-9, phone-7)
+cop(AT&T-9, is-8)
+parataxis(know-4, AT&T-9)
+dobj(want-2, i-12)
+root(ROOT-0, want-13)
+prep_to(want-13, bay-15)
+nsubj(want-13, it-16)
+
+=========
+
+dep(understand-2, please-1)
+root(ROOT-0, understand-2)
+
+=========
+
+nsubj(think-2, I-1)
+ccomp(smartphone-8, think-2)
+nsubj(smartphone-8, it-4)
+cop(smartphone-8, is-5)
+det(smartphone-8, the-6)
+amod(smartphone-8, best-7)
+root(ROOT-0, smartphone-8)
+
+=========
+
+root(ROOT-0, thnx-1)
+nn(thnx-5, thnx-2)
+nn(thnx-5, thnx-3)
+nn(thnx-5, thnx-4)
+dep(thnx-1, thnx-5)
+

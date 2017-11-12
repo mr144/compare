@@ -1,0 +1,193 @@
+=========
+
+root(ROOT-0, Ok-1)
+advmod(date-6, just-2)
+det(date-6, a-3)
+amod(date-6, quick-4)
+dep(quick-4, up-5)
+dobj(Ok-1, date-6)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(tv-4, this-3)
+dobj(love-2, tv-4)
+
+=========
+
+advmod(love-7, So-1)
+advmod(So-1, far-2)
+det(problems-4, no-3)
+nsubj(love-7, problems-4)
+conj_and(problems-4, I-6)
+nsubj(love-7, I-6)
+root(ROOT-0, love-7)
+det(3D-9, the-8)
+dobj(love-7, 3D-9)
+
+=========
+
+root(ROOT-0, Awsome-1)
+dobj(Awsome-1, way-2)
+aux(watch-4, to-3)
+xcomp(Awsome-1, watch-4)
+det(movie-6, a-5)
+dobj(watch-4, movie-6)
+
+=========
+
+nsubj(wait-3, I-1)
+advmod(wait-3, cant-2)
+root(ROOT-0, wait-3)
+mark(comes-8, until-4)
+det(Oz-7, the-5)
+amod(Oz-7, new-6)
+nsubj(comes-8, Oz-7)
+advcl(wait-3, comes-8)
+prt(comes-8, out-9)
+
+=========
+
+nsubj(have-3, I-1)
+aux(have-3, will-2)
+root(ROOT-0, have-3)
+det(house-5, a-4)
+nsubj(full-6, house-5)
+xcomp(have-3, full-6)
+
+=========
+
+nsubj(had-2, I-1)
+xsubj(order-4, I-1)
+root(ROOT-0, had-2)
+aux(order-4, to-3)
+xcomp(had-2, order-4)
+advmod(order-4, more-5)
+num(glasses-7, 3D-6)
+pobj(more-5, glasses-7)
+
+=========
+
+aux(afraid-4, Do-1)
+neg(afraid-4, not-2)
+cop(afraid-4, be-3)
+root(ROOT-0, afraid-4)
+aux(buy-6, to-5)
+xcomp(afraid-4, buy-6)
+det(tv-9, a-7)
+num(tv-9, 3D-8)
+dobj(buy-6, tv-9)
+
+=========
+
+nsubj(fun-3, Its-1)
+advmod(fun-3, really-2)
+root(ROOT-0, fun-3)
+
+=========
+
+nsubj(wonderful-4, Everything-1)
+advmod(Everything-1, else-2)
+cop(wonderful-4, is-3)
+root(ROOT-0, wonderful-4)
+
+=========
+
+nsubj(take-3, It-1)
+aux(take-3, does-2)
+root(ROOT-0, take-3)
+det(days-6, a-4)
+amod(days-6, few-5)
+nsubjpass(used-9, days-6)
+aux(used-9, to-7)
+auxpass(used-9, get-8)
+xcomp(take-3, used-9)
+det(option-13, the-11)
+nn(option-13, motion-12)
+prep_to(used-9, option-13)
+dobj(has-16, option-13)
+det(tv-15, this-14)
+nsubj(has-16, tv-15)
+rcmod(option-13, has-16)
+nsubj(turn-21, you-19)
+aux(turn-21, can-20)
+conj_but(take-3, turn-21)
+dobj(turn-21, it-22)
+prt(turn-21, off-23)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+complm(looks-5, that-3)
+nsubj(looks-5, it-4)
+ccomp(like-2, looks-5)
+acomp(looks-5, live-6)
+
+=========
+
+root(ROOT-0, Anyway-1)
+advmod(problems-4, no-3)
+npadvmod(so-5, problems-4)
+dep(Anyway-1, so-5)
+advmod(so-5, far-6)
+
+=========
+
+dep(pain-6, Yes-1)
+det(remote-3, the-2)
+nsubj(pain-6, remote-3)
+cop(pain-6, is-4)
+det(pain-6, a-5)
+root(ROOT-0, pain-6)
+det(butt-9, the-8)
+prep_in(pain-6, butt-9)
+nsubj(takes-12, it-11)
+conj_and(pain-6, takes-12)
+det(seconds-15, a-13)
+amod(seconds-15, few-14)
+dobj(takes-12, seconds-15)
+det(tv-18, the-17)
+prep_for(seconds-15, tv-18)
+dobj(turn-21, tv-18)
+nsubj(turn-21, itself-19)
+aux(turn-21, to-20)
+infmod(tv-18, turn-21)
+rcmod(tv-18, turn-21)
+prt(turn-21, on-22)
+mark(hit-25, after-23)
+nsubj(hit-25, you-24)
+advcl(turn-21, hit-25)
+det(power-27, the-26)
+dobj(hit-25, power-27)
+nsubj(care-31, I-29)
+aux(care-31, could-30)
+conj_but(pain-6, care-31)
+dobj(care-31, less-32)
+
+=========
+
+root(ROOT-0, LOVE-1)
+dobj(LOVE-1, IT-2)
+
+=========
+
+nsubj(buying-4, I-1)
+nsubj(keep-14, I-1)
+aux(buying-4, will-2)
+aux(buying-4, be-3)
+root(ROOT-0, buying-4)
+det(Vizio-6, another-5)
+dobj(buying-4, Vizio-6)
+poss(office-10, my-8)
+nn(office-10, home-9)
+prep_for(Vizio-6, office-10)
+advmod(buying-4, soon-11)
+aux(keep-14, will-13)
+conj_and(buying-4, keep-14)
+det(update-16, an-15)
+dobj(keep-14, update-16)
+det(aswell-19, that-18)
+prep_on(keep-14, aswell-19)
+

@@ -1,0 +1,192 @@
+=========
+
+nsubj(read-2, I-1)
+root(ROOT-0, read-2)
+det(reviews-4, the-3)
+dobj(read-2, reviews-4)
+advmod(much-6, so-5)
+dep(read-2, much-6)
+
+=========
+
+nsubj(figured-2, i-1)
+root(ROOT-0, figured-2)
+nsubj(wanted-4, i-3)
+ccomp(figured-2, wanted-4)
+det(camera-8, a-5)
+advmod(good-7, really-6)
+amod(camera-8, good-7)
+dobj(wanted-4, camera-8)
+aux(start-10, to-9)
+xcomp(wanted-4, start-10)
+xcomp(start-10, taking-11)
+dobj(taking-11, photo-12)
+possessive(photo-12, 's-13)
+poss(family-16, my-15)
+prep_of(photo-12, family-16)
+
+=========
+
+advmod(does-3, however-1)
+nsubj(does-3, this-2)
+root(ROOT-0, does-3)
+det(job-6, a-4)
+amod(job-6, good-5)
+dobj(does-3, job-6)
+advmod(better-12, BUT-8)
+poss(better-12, its-9)
+neg(any-11, not-10)
+amod(better-12, any-11)
+rcmod(job-6, better-12)
+poss(point-16, my-14)
+amod(point-16, other-15)
+prep_than(does-3, point-16)
+prep_than(does-3, shoot-18)
+conj_and(point-16, shoot-18)
+
+=========
+
+nsubj(have-2, i-1)
+xsubj(learn-5, i-1)
+root(ROOT-0, have-2)
+advmod(have-2, yet-3)
+aux(learn-5, to-4)
+xcomp(have-2, learn-5)
+dobj(learn-5, everything-6)
+
+=========
+
+nsubj(had-4, i-1)
+aux(had-4, have-2)
+advmod(had-4, only-3)
+root(ROOT-0, had-4)
+det(camera-6, this-5)
+dobj(had-4, camera-6)
+num(hrs-9, 24-8)
+prep_for(camera-6, hrs-9)
+advmod(hrs-9, now-10)
+
+=========
+
+nsubj(does-2, It-1)
+root(ROOT-0, does-2)
+det(job-4, the-3)
+dobj(does-2, job-4)
+
+=========
+
+nsubj(like-4, i-1)
+aux(like-4, do-2)
+neg(like-4, not-3)
+root(ROOT-0, like-4)
+det(fact-6, the-5)
+dobj(like-4, fact-6)
+det(flash-8, the-7)
+nsubj(is-9, flash-8)
+rcmod(fact-6, is-9)
+dep(there-12, not-10)
+advmod(there-12, right-11)
+advmod(is-9, there-12)
+advmod(need-15, when-13)
+nsubj(need-15, i-14)
+dep(there-12, need-15)
+dobj(need-15, it-16)
+
+=========
+
+nsubj(have-2, i-1)
+xsubj(push-4, i-1)
+root(ROOT-0, have-2)
+aux(push-4, to-3)
+xcomp(have-2, push-4)
+det(button-6, a-5)
+dobj(push-4, button-6)
+xcomp(have-2, pop-8)
+conj_and(push-4, pop-8)
+dobj(pop-8, it-9)
+prt(pop-8, out-10)
+
+=========
+
+det(directions-3, the-1)
+nn(directions-3, battery-2)
+nsubj(complicated-6, directions-3)
+cop(complicated-6, are-4)
+advmod(complicated-6, honestly-5)
+root(ROOT-0, complicated-6)
+
+=========
+
+dobj(complicated-9, who-1)
+nsubj(complicated-9, new-2)
+partmod(new-2, putting-3)
+dobj(putting-3, batteries-4)
+poss(camera-7, your-6)
+prep_in(batteries-4, camera-7)
+cop(complicated-9, was-8)
+root(ROOT-0, complicated-9)
+
+=========
+
+nsubj(anyways-2, hmmm-1)
+ccomp(guess-5, anyways-2)
+nsubj(guess-5, i-4)
+root(ROOT-0, guess-5)
+mark(ok-11, over-6)
+predet(this-8, all-7)
+nsubjpass(ok-11, this-8)
+aux(ok-11, will-9)
+auxpass(ok-11, be-10)
+dep(guess-5, ok-11)
+dobj(expected-17, what-15)
+nsubj(expected-17, i-16)
+dep(guess-5, expected-17)
+conj_negcc(ok-11, expected-17)
+prepc_for(expected-17, getting-19)
+predet(rateing-24, such-20)
+det(rateing-24, a-21)
+amod(rateing-24, high-22)
+nn(rateing-24, star-23)
+dobj(getting-19, rateing-24)
+
+=========
+
+det(CAMERA-2, THE-1)
+nsubj(LIGHT-4, CAMERA-2)
+cop(LIGHT-4, IS-3)
+ccomp(need-7, LIGHT-4)
+nsubj(need-7, you-6)
+root(ROOT-0, need-7)
+advmod(settings-12, just-8)
+det(settings-12, the-9)
+amod(settings-12, right-10)
+amod(settings-12, light-11)
+dobj(need-7, settings-12)
+poss(picture-15, your-14)
+prep_for(settings-12, picture-15)
+aux(turn-17, to-16)
+infmod(picture-15, turn-17)
+prt(turn-17, out-18)
+acomp(turn-17, correct-19)
+
+=========
+
+nsubj(fuzzy-11, most-1)
+det(pictures-4, the-3)
+prep_of(most-1, pictures-4)
+dobj(taken-7, pictures-4)
+nsubj(taken-7, i-5)
+aux(taken-7, have-6)
+rcmod(pictures-4, taken-7)
+cop(fuzzy-11, are-8)
+det(little-10, a-9)
+npadvmod(fuzzy-11, little-10)
+root(ROOT-0, fuzzy-11)
+prep(fuzzy-11, as-12)
+pcomp(as-12, well-13)
+
+=========
+
+amod(luck-2, good-1)
+root(ROOT-0, luck-2)
+

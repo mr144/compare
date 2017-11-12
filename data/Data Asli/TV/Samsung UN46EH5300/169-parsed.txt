@@ -1,0 +1,37 @@
+=========
+
+det(tv-2, This-1)
+nsubj(brilliant-4, tv-2)
+cop(brilliant-4, is-3)
+root(ROOT-0, brilliant-4)
+
+=========
+
+det(picture-2, The-1)
+nsubj(amazing-4, picture-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+nsubj(light-10, it-7)
+nsubj(easy-12, it-7)
+xsubj(move-14, it-7)
+cop(light-10, is-8)
+advmod(light-10, very-9)
+conj_and(amazing-4, light-10)
+conj_and(amazing-4, easy-12)
+conj_and(light-10, easy-12)
+aux(move-14, to-13)
+xcomp(light-10, move-14)
+prt(move-14, around-15)
+
+=========
+
+det(apps-2, The-1)
+nsubj(come-4, apps-2)
+nsubj(amazing-9, apps-2)
+nsubj(enjoyable-11, apps-2)
+rcmod(apps-2, come-4)
+prep_along_with(come-4, it-7)
+cop(amazing-9, are-8)
+root(ROOT-0, amazing-9)
+conj_and(amazing-9, enjoyable-11)
+

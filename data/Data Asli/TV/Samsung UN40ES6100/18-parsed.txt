@@ -1,0 +1,50 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(TV-4, this-3)
+dobj(love-2, TV-4)
+
+=========
+
+nsubj(comes-2, It-1)
+root(ROOT-0, comes-2)
+det(standards-6, the-4)
+amod(standards-6, latest-5)
+prep_with(comes-2, standards-6)
+amod(network-9, wireles-8)
+prep_for(standards-6, network-9)
+nsubj(connect-13, I-11)
+aux(connect-13, can-12)
+conj_and(comes-2, connect-13)
+prep_with(connect-13, NetFlix-15)
+det(work-19, a-17)
+amod(work-19, hard-18)
+prep_without(connect-13, work-19)
+
+=========
+
+advmod(like-3, Also-1)
+nsubj(like-3, I-2)
+root(ROOT-0, like-3)
+det(way-6, the-4)
+amod(way-6, easy-5)
+dobj(like-3, way-6)
+aux(pass-8, to-7)
+infmod(way-6, pass-8)
+poss(stuff-13, my-9)
+nn(stuff-13, Samsung-10)
+nn(stuff-13, Galaxy-11)
+nn(stuff-13, SIII-12)
+dobj(pass-8, stuff-13)
+poss(TV-16, my-15)
+prep_to(pass-8, TV-16)
+
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, simply-2)
+root(ROOT-0, love-3)
+dobj(love-3, this-4)
+rcmod(this-4, stuff-5)
+

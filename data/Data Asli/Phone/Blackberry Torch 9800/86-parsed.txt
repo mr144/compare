@@ -1,0 +1,27 @@
+=========
+
+advmod(good-2, very-1)
+amod(item-3, good-2)
+ccomp(is-6, item-3)
+nsubj(is-6, it-5)
+root(ROOT-0, is-6)
+advmod(is-6, exactly-7)
+mark(expected-10, as-8)
+nsubj(expected-10, I-9)
+advcl(is-6, expected-10)
+det(price-14, the-12)
+amod(price-14, good-13)
+prep_within(expected-10, price-14)
+
+=========
+
+nsubj(works-2, it-1)
+nsubj(met-7, it-1)
+root(ROOT-0, works-2)
+advmod(good-4, very-3)
+acomp(works-2, good-4)
+conj_and(works-2, met-7)
+predet(standards-10, all-8)
+poss(standards-10, its-9)
+dobj(met-7, standards-10)
+

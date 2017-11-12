@@ -1,0 +1,39 @@
+=========
+
+auxpass(expected-4, Was-1)
+advmod(than-3, better-2)
+advmod(expected-4, than-3)
+csubj(surpriced-7, expected-4)
+det(product-6, the-5)
+dobj(expected-4, product-6)
+root(ROOT-0, surpriced-7)
+dobj(surpriced-7, me-8)
+poss(quality-11, its-10)
+prep_with(surpriced-7, quality-11)
+prep_with(surpriced-7, presentation-13)
+conj_and(quality-11, presentation-13)
+
+=========
+
+nsubj(accesories-2, Great-1)
+root(ROOT-0, accesories-2)
+
+=========
+
+root(ROOT-0, So-1)
+amod(quality-3, Much-2)
+dep(So-1, quality-3)
+
+=========
+
+nsubj(recomend-2, I-1)
+root(ROOT-0, recomend-2)
+det(product-4, this-3)
+dobj(recomend-2, product-4)
+prep_to(recomend-2, anyone-6)
+nsubj(waits-8, anyone-6)
+rcmod(anyone-6, waits-8)
+det(product-12, a-10)
+amod(product-12, excelent-11)
+prep_for(waits-8, product-12)
+

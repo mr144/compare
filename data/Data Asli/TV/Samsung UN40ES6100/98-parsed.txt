@@ -1,0 +1,25 @@
+=========
+
+det(product-3, Another-1)
+amod(product-3, excellent-2)
+root(ROOT-0, product-3)
+prep_from(product-3, Samsung-5)
+nn(setup-9, consumer-7)
+amod(setup-9, friendly-8)
+appos(Samsung-5, setup-9)
+
+=========
+
+nn(HD-2, Spectacular-1)
+nsubj(picture-3, HD-2)
+root(ROOT-0, picture-3)
+nsubj(see-7, you-5)
+aux(see-7, can-6)
+parataxis(picture-3, see-7)
+det(line-9, every-8)
+dobj(see-7, line-9)
+dobj(see-7, wrinke-11)
+conj_and(line-9, wrinke-11)
+prep_on(see-7, peoples-13)
+dep(peoples-13, faces-14)
+

@@ -1,0 +1,41 @@
+=========
+
+nsubj(works-18, Im-1)
+partmod(Im-1, using-2)
+det(phone-4, this-3)
+dobj(using-2, phone-4)
+amod(plan-10, verizons-6)
+amod(plan-10, new-7)
+amod(plan-10, unlimited-8)
+nn(plan-10, everything-9)
+prep_for(phone-4, plan-10)
+advmod(using-2, exclusively-11)
+det(contract-14, no-13)
+prep_with(using-2, contract-14)
+amod(internet-17, unlimited-16)
+prep_with(using-2, internet-17)
+conj_and(contract-14, internet-17)
+root(ROOT-0, works-18)
+mark(Verizon-22, for-19)
+nsubj(Verizon-22, me-20)
+advmod(Verizon-22, thanks-21)
+advcl(works-18, Verizon-22)
+
+=========
+
+root(ROOT-0, As-1)
+pcomp(As-1, of-2)
+prep_of(As-1, 5-7-2013-3)
+
+=========
+
+nn(customers-3, P.S-1)
+amod(customers-3, loyal-2)
+nsubj(program-4, customers-3)
+root(ROOT-0, program-4)
+xcomp(program-4, earn-5)
+amod(service-8, free-6)
+nn(service-8, month-7)
+tmod(earn-5, service-8)
+dep(earn-5, now-9)
+

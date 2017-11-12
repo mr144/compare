@@ -1,0 +1,5 @@
+This_DT TV_NN is_VBZ everything_NN I_PRP expected_VBD ._.
+Amazon_NNP delivered_VBD it_PRP 3_CD days_NNS after_IN I_PRP bought_VBD it_PRP at_IN no_DT charge_NN ._.
+I_PRP could_MD not_RB have_VB asked_VBN for_IN a_DT better_JJR experience_NN ._.
+Best_JJS Plasma_NN on_IN the_DT market_NN in_IN this_DT price_NN range_NN ._.
+It_PRP is_VBZ the_DT best_JJS TV_NN ._.

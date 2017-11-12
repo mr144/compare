@@ -1,0 +1,64 @@
+=========
+
+nsubj(leader-6, sony-1)
+aux(leader-6, has-2)
+advmod(leader-6, always-3)
+cop(leader-6, been-4)
+det(leader-6, the-5)
+root(ROOT-0, leader-6)
+amod(cameras-11, high-8)
+nn(cameras-11, quality-9)
+nn(cameras-11, video-10)
+prep_in(leader-6, cameras-11)
+
+=========
+
+poss(family-2, my-1)
+nsubj(used-4, family-2)
+nsubj(were-13, family-2)
+aux(used-4, has-3)
+root(ROOT-0, used-4)
+dobj(used-4, them-5)
+det(years-10, the-7)
+amod(years-10, past-8)
+num(years-10, 25-9)
+prep_for(used-4, years-10)
+conj_and(used-4, never-12)
+neg(used-4, never-12)
+conj_and(used-4, were-13)
+nsubj(let-15, we-14)
+ccomp(were-13, let-15)
+prt(let-15, down-16)
+
+=========
+
+nsubj(pick-3, i-1)
+advmod(pick-3, usually-2)
+root(ROOT-0, pick-3)
+prt(pick-3, up-4)
+det(gen-7, the-5)
+amod(gen-7, latest-6)
+dobj(pick-3, gen-7)
+advmod(am-10, when-8)
+nsubj(am-10, i-9)
+advcl(pick-3, am-10)
+prep_on(am-10, business-12)
+prep_in(business-12, japan-14)
+
+=========
+
+nsubj(is-2, this-1)
+root(ROOT-0, is-2)
+advmod(best-6, far-4)
+det(best-6, the-5)
+prep_by(is-2, best-6)
+dobj(seen-9, best-6)
+nsubj(seen-9, i-7)
+aux(seen-9, have-8)
+rcmod(best-6, seen-9)
+
+=========
+
+amod(value-2, excellent-1)
+root(ROOT-0, value-2)
+

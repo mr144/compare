@@ -1,0 +1,62 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(handle-5, to-4)
+xcomp(easy-3, handle-5)
+nsubj(able-9, I-7)
+cop(able-9, was-8)
+conj_and(easy-3, able-9)
+aux(take-11, to-10)
+xcomp(able-9, take-11)
+amod(picture-13, amazing-12)
+dobj(take-11, picture-13)
+advmod(take-11, immediately-14)
+
+=========
+
+poss(features-3, My-1)
+amod(features-3, favorite-2)
+nsubj(black-5, features-3)
+nsubj(white-7, features-3)
+cop(black-5, are-4)
+root(ROOT-0, black-5)
+conj_and(black-5, white-7)
+amod(shooting-10, continuous-9)
+dobj(black-5, shooting-10)
+nn(adjustment-13, shutter-12)
+dobj(black-5, adjustment-13)
+conj_and(shooting-10, adjustment-13)
+prep_for(shooting-10, pictures-15)
+partmod(pictures-15, taken-16)
+prep_during(taken-16, motion-18)
+
+=========
+
+nsubj(wait-4, I-1)
+xsubj(learn-7, I-1)
+aux(wait-4, can-2)
+neg(wait-4, not-3)
+root(ROOT-0, wait-4)
+aux(learn-7, to-5)
+advmod(learn-7, really-6)
+xcomp(wait-4, learn-7)
+det(features-10, the-8)
+amod(features-10, special-9)
+dobj(learn-7, features-10)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+

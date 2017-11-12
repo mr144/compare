@@ -1,0 +1,35 @@
+=========
+
+amod(device-2, Great-1)
+dep(need-5, device-2)
+mark(need-5, IF-3)
+nsubj(need-5, you-4)
+xsubj(have-7, you-4)
+root(ROOT-0, need-5)
+aux(have-7, to-6)
+xcomp(need-5, have-7)
+det(blackberry-9, a-8)
+dobj(have-7, blackberry-9)
+
+=========
+
+nsubj(needed-2, I-1)
+root(ROOT-0, needed-2)
+dobj(needed-2, BBM-3)
+
+=========
+
+advmod(great-2, Works-1)
+root(ROOT-0, great-2)
+mark(is-9, though-4)
+det(app-8, every-5)
+amod(app-8, single-6)
+amod(app-8, other-7)
+nsubj(is-9, app-8)
+dep(great-2, is-9)
+advmod(better-11, way-10)
+advmod(is-9, better-11)
+prep_on(is-9, iOS-13)
+prep_on(is-9, Android-15)
+conj_or(iOS-13, Android-15)
+

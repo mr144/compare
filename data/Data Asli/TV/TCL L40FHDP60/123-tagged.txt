@@ -1,0 +1,6 @@
+This_DT TV_NN is_VBZ good_JJ -_: bright_JJ ,_, ok_JJ color_NN clarity_NN and_CC range_NN ,_, decent_JJ features_NNS ._.
+It_PRP really_RB struggles_VBZ with_IN sports_NNS and_CC action_NN video_NN games_NNS due_JJ to_TO its_PRP$ slow_JJ refresh_NN rate_NN ,_, and_CC sometimes_RB the_DT colors_NNS just_RB seem_VBP too_RB forced_VBN ._.
+I_PRP guess_VBP it_PRP seems_VBZ like_IN there_EX are_VBP not_RB enough_RB middle_JJ colors_NNS ._.
+The_DT TV_NN is_VBZ not_RB very_RB esthetic_JJ either_CC -_: just_RB a_DT big_JJ black_JJ rectangle_NN with_IN a_DT silver_NN trip_NN ._.
+I_PRP can_MD not_RB say_VB much_JJ about_IN the_DT sound_NN since_IN my_PRP$ sound_NN is_VBZ routed_VBN through_IN a_DT home_NN theater_NN system_NN ._.
+All_DT in_IN all_PDT a_DT good_JJ ,_, cheap_JJ ,_, entry_NN level_NN TV_NN ._.

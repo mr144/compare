@@ -1,0 +1,64 @@
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+poss(camera-4, my-3)
+dobj(use-2, camera-4)
+advmod(use-2, daily-5)
+prep_for(use-2, work-7)
+advmod(work-7, also-9)
+dep(work-7, lots-10)
+nn(photography-15, travel-12)
+conj_and(travel-12, family-14)
+nn(photography-15, family-14)
+prep_of(lots-10, photography-15)
+
+=========
+
+det(camera-2, This-1)
+nsubj(exceeded-4, camera-2)
+aux(exceeded-4, has-3)
+root(ROOT-0, exceeded-4)
+det(need-6, the-5)
+dobj(exceeded-4, need-6)
+det(margin-10, a-8)
+amod(margin-10, wide-9)
+prep_by(exceeded-4, margin-10)
+
+=========
+
+det(feature-7, The-1)
+det(stitch-4, no-3)
+poss(feature-7, stitch-4)
+nn(feature-7, panorama-6)
+nsubj(put-35, feature-7)
+partmod(feature-7, AMAZING-9)
+nn(lens-11, Schneider-10)
+dobj(AMAZING-9, lens-11)
+num(videos-14, 1080P-13)
+appos(lens-11, videos-14)
+nn(rendition-17, color-16)
+appos(lens-11, rendition-17)
+amod(weight-20, light-19)
+appos(lens-11, weight-20)
+amod(batteries-23, common-22)
+appos(lens-11, batteries-23)
+abbrev(batteries-23, AAs-25)
+amod(system-30, intuitive-28)
+nn(system-30, menu-29)
+appos(lens-11, system-30)
+appos(lens-11, etc.-32)
+advmod(put-35, really-34)
+root(ROOT-0, put-35)
+dobj(put-35, this-36)
+det(top-39, the-38)
+prep_over(this-36, top-39)
+
+=========
+
+root(ROOT-0, Get-1)
+dobj(Get-1, one-2)
+mark(can-5, while-3)
+nsubj(can-5, you-4)
+advcl(Get-1, can-5)
+

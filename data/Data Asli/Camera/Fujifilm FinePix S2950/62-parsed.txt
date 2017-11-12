@@ -1,0 +1,28 @@
+=========
+
+root(ROOT-0, Love-1)
+det(camera-3, this-2)
+dobj(Love-1, camera-3)
+
+=========
+
+advmod(fabulous-12, Still-1)
+ccomp(fabulous-12, reading-2)
+conj_and(reading-2, learning-4)
+ccomp(fabulous-12, learning-4)
+dobj(reading-2, all-5)
+prep_about(all-5, it-7)
+dep(far-10, but-8)
+advmod(far-10, so-9)
+dep(reading-2, far-10)
+root(ROOT-0, fabulous-12)
+
+=========
+
+root(ROOT-0, Got-1)
+dobj(Got-1, it-2)
+det(trip-5, a-4)
+prep_for(Got-1, trip-5)
+prep_to(Got-1, Hawaii-7)
+prep_in(Hawaii-7, Sept.-9)
+

@@ -1,0 +1,75 @@
+=========
+
+nsubj(point-5, This-1)
+cop(point-5, is-2)
+det(point-5, the-3)
+amod(point-5, second-4)
+root(ROOT-0, point-5)
+dobj(had-11, point-5)
+nn(camera-8, shoot-7)
+conj_and(point-5, camera-8)
+dobj(had-11, camera-8)
+nsubj(had-11, I-9)
+aux(had-11, have-10)
+rcmod(point-5, had-11)
+
+=========
+
+nsubj(had-2, I-1)
+nsubj(dropped-6, I-1)
+nsubj(damaged-8, I-1)
+root(ROOT-0, had-2)
+det(Canon-4, a-3)
+dobj(had-2, Canon-4)
+conj_but(had-2, dropped-6)
+conj_and(had-2, damaged-8)
+
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+det(GE-4, the-3)
+nsubj(return-9, GE-4)
+advmod(return-9, unfortunately-6)
+aux(return-9, must-8)
+ccomp(tried-2, return-9)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(awful-5, quality-3)
+cop(awful-5, is-4)
+root(ROOT-0, awful-5)
+
+=========
+
+nsubj(difficult-3, It-1)
+cop(difficult-3, is-2)
+root(ROOT-0, difficult-3)
+aux(handle-5, to-4)
+xcomp(difficult-3, handle-5)
+nsubj(take-9, it-7)
+aux(take-9, would-8)
+conj_and(difficult-3, take-9)
+amod(tries-11, several-10)
+dobj(take-9, tries-11)
+aux(put-13, to-12)
+xcomp(take-9, put-13)
+det(flash-15, the-14)
+dobj(put-13, flash-15)
+prep_on(put-13, auto-17)
+
+=========
+
+advmod(find-5, Hopefully-1)
+nsubj(find-5, I-3)
+aux(find-5, will-4)
+root(ROOT-0, find-5)
+dobj(find-5, something-6)
+det(range-10, this-8)
+nn(range-10, price-9)
+prep_in(find-5, range-10)
+amod(quality-13, better-12)
+prep_of(range-10, quality-13)
+

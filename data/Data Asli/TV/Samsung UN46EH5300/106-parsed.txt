@@ -1,0 +1,21 @@
+=========
+
+nn(TV-2, Great-1)
+nsubj(works-11, TV-2)
+amod(size-5, perfect-4)
+conj_and(TV-2, size-5)
+nsubj(works-11, size-5)
+conj_and(TV-2, quality-7)
+conj_and(size-5, quality-7)
+nn(hub-10, Smart-9)
+appos(size-5, hub-10)
+root(ROOT-0, works-11)
+acomp(works-11, great-12)
+det(browser-16, the-14)
+nn(browser-16, internet-15)
+nsubj(works-17, browser-16)
+conj_and(works-11, works-17)
+advmod(works-17, seamlessly-18)
+poss(keyboard-21, my-20)
+prep_with(works-17, keyboard-21)
+

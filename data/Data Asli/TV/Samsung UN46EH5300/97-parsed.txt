@@ -1,0 +1,252 @@
+=========
+
+advmod(disappointed-2, Really-1)
+root(ROOT-0, disappointed-2)
+prep_with(disappointed-2, this-4)
+
+=========
+
+cc(WANTED-3, and-1)
+nsubj(WANTED-3, I-2)
+root(ROOT-0, WANTED-3)
+det(TV-5, this-4)
+dobj(WANTED-3, TV-5)
+dep(love-9, and-7)
+advmod(love-9, usually-8)
+dep(WANTED-3, love-9)
+dobj(love-9, Amazon-10)
+
+=========
+
+cc(awful-5, But-1)
+det(experience-3, this-2)
+nsubj(awful-5, experience-3)
+cop(awful-5, was-4)
+root(ROOT-0, awful-5)
+
+=========
+
+dep(knew-12, Bought-1)
+det(TV-3, the-2)
+dobj(Bought-1, TV-3)
+partmod(TV-3, paid-5)
+dobj(paid-5, extra-6)
+amod(b\/c-10, expedited-8)
+nn(b\/c-10, delivery-9)
+prep_for(extra-6, b\/c-10)
+nsubj(knew-12, I-11)
+root(ROOT-0, knew-12)
+nsubj(home-16, I-13)
+aux(home-16, did-14)
+cop(home-16, be-15)
+ccomp(knew-12, home-16)
+det(Friday-19, a-18)
+prep_on(home-16, Friday-19)
+
+=========
+
+nsubj(arrived-2, Television-1)
+root(ROOT-0, arrived-2)
+
+=========
+
+cc(had-13, and-1)
+advmod(pulled-4, when-2)
+nsubj(pulled-4, I-3)
+advcl(had-13, pulled-4)
+dobj(pulled-4, it-5)
+det(box-9, the-8)
+prep_out_of(pulled-4, box-9)
+det(screen-12, the-11)
+nsubj(had-13, screen-12)
+root(ROOT-0, had-13)
+det(crack-16, a-14)
+amod(crack-16, huge-15)
+dobj(had-13, crack-16)
+det(front-19, the-18)
+prep_across(crack-16, front-19)
+
+=========
+
+nsubj(processed-3, Amazon-1)
+advmod(processed-3, quickly-2)
+root(ROOT-0, processed-3)
+det(exchange-5, an-4)
+dobj(processed-3, exchange-5)
+nsubj(had-9, I-8)
+xsubj(make-11, I-8)
+xsubj(take-15, I-8)
+conj_but(processed-3, had-9)
+aux(make-11, to-10)
+xcomp(had-9, make-11)
+amod(arrangements-13, special-12)
+dobj(make-11, arrangements-13)
+aux(take-15, to-14)
+xcomp(had-9, take-15)
+prt(take-15, off-16)
+dobj(take-15, work-17)
+advmod(picked-23, when-19)
+det(guy-22, the-20)
+nn(guy-22, UPS-21)
+nsubj(picked-23, guy-22)
+nsubj(delivered-29, guy-22)
+prepc_for(work-17, picked-23)
+prt(picked-23, up-24)
+det(package-26, the-25)
+dobj(picked-23, package-26)
+prepc_for(work-17, delivered-29)
+conj_and(picked-23, delivered-29)
+det(exchange-31, the-30)
+dobj(delivered-29, exchange-31)
+
+=========
+
+advmod(got-2, Finally-1)
+root(ROOT-0, got-2)
+dobj(got-2, it-3)
+det(box-7, the-6)
+prep_out_of(got-2, box-7)
+dep(got-2, looked-9)
+acomp(looked-9, fine-10)
+dep(got-2, set-12)
+dobj(set-12, it-13)
+prt(set-12, up-14)
+dep(got-2, turned-16)
+dobj(turned-16, it-17)
+prep(turned-16, on-18)
+det(screen-21, the-20)
+nsubj(flawed-23, screen-21)
+cop(flawed-23, was-22)
+parataxis(got-2, flawed-23)
+
+=========
+
+det(space-4, A-1)
+amod(space-4, large-2)
+amod(space-4, circular-3)
+nsubj(WHITE-23, space-4)
+det(screen-7, the-6)
+prep_of(space-4, screen-7)
+amod(left-10, top-9)
+appos(screen-7, left-10)
+prep_of(space-4, corner-13)
+conj_and(screen-7, corner-13)
+det(screen-16, the-15)
+prep_of(corner-13, screen-16)
+amod(right-19, top-18)
+appos(screen-16, right-19)
+cop(WHITE-23, was-21)
+advmod(WHITE-23, totally-22)
+root(ROOT-0, WHITE-23)
+
+=========
+
+root(ROOT-0, Had-1)
+aux(take-3, to-2)
+xcomp(Had-1, take-3)
+dobj(take-3, it-4)
+advmod(take-3, apart-5)
+dep(Had-1, pack-7)
+dobj(pack-7, it-8)
+prt(pack-7, up-9)
+dep(Had-1, send-11)
+dobj(send-11, it-12)
+advmod(send-11, back-13)
+
+=========
+
+nsubj(had-3, AGAIN-1)
+xsubj(make-5, AGAIN-1)
+xsubj(be-9, AGAIN-1)
+root(ROOT-0, had-3)
+aux(make-5, to-4)
+xcomp(had-3, make-5)
+amod(arrangements-7, special-6)
+dobj(make-5, arrangements-7)
+aux(be-9, to-8)
+xcomp(had-3, be-9)
+advmod(be-9, home-10)
+prep(home-10, for-11)
+det(pick-13, the-12)
+npadvmod(up-14, pick-13)
+pcomp(for-11, up-14)
+
+=========
+
+root(ROOT-0, Not-1)
+det(experience-4, a-2)
+amod(experience-4, good-3)
+dep(Not-1, experience-4)
+prep_at(experience-4, all-6)
+
+=========
+
+nsubj(thought-2, I-1)
+root(ROOT-0, thought-2)
+nsubj(wanted-4, I-3)
+ccomp(thought-2, wanted-4)
+det(b\/c-7, this-5)
+nn(b\/c-7, TV-6)
+dobj(wanted-4, b\/c-7)
+nsubjpass(rated-10, it-8)
+auxpass(rated-10, was-9)
+rcmod(b\/c-7, rated-10)
+advmod(rated-10, well-11)
+agent(rated-10, c.net-13)
+nn(Reports-17, Consumer-16)
+agent(rated-10, Reports-17)
+conj_and(c.net-13, Reports-17)
+
+=========
+
+nsubj(recommend-13, BUT-1)
+mark(get-6, if-2)
+nsubj(get-6, I-3)
+aux(get-6, can-4)
+neg(get-6, not-5)
+dep(BUT-1, get-6)
+det(one-9, an-7)
+amod(one-9, undamaged-8)
+dobj(get-6, one-9)
+aux(recommend-13, Do-11)
+neg(recommend-13, not-12)
+root(ROOT-0, recommend-13)
+xcomp(recommend-13, ordering-14)
+dobj(ordering-14, items-15)
+prep_like(ordering-14, this-17)
+prep_from(this-17, Amazon-19)
+
+=========
+
+root(ROOT-0, UPDATE-1)
+nsubj(do-4, I-3)
+dep(UPDATE-1, do-4)
+ccomp(do-4, want-5)
+aux(note-7, to-6)
+xcomp(want-5, note-7)
+complm(provide-11, that-8)
+nsubj(provide-11, Amazon-9)
+aux(provide-11, did-10)
+ccomp(note-7, provide-11)
+det(refund-14, a-12)
+amod(refund-14, full-13)
+dobj(provide-11, refund-14)
+
+=========
+
+cc(processed-4, And-1)
+nsubjpass(processed-4, it-2)
+auxpass(processed-4, was-3)
+root(ROOT-0, processed-4)
+advmod(processed-4, quickly-5)
+
+=========
+
+cc(have-5, But-1)
+nsubj(have-5, still-2)
+aux(have-5, do-3)
+neg(have-5, not-4)
+root(ROOT-0, have-5)
+det(TV-7, a-6)
+dobj(have-5, TV-7)
+

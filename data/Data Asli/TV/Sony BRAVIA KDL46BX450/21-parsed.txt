@@ -1,0 +1,45 @@
+=========
+
+amod(colors-2, Vivid-1)
+root(ROOT-0, colors-2)
+advmod(clear-5, extremely-4)
+amod(colors-2, clear-5)
+
+=========
+
+nn(Tv-2, Best-1)
+nsubj(have-4, Tv-2)
+dep(Tv-2, I-3)
+root(ROOT-0, have-4)
+det(ownedEasy-6, every-5)
+dobj(have-4, ownedEasy-6)
+partmod(ownedEasy-6, set-7)
+prt(set-7, up-8)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+amod(LCD-5, other-4)
+dobj(had-3, LCD-5)
+possessive(LCD-5, 's-6)
+prep(LCD-5, but-7)
+dep(but-7, none-8)
+rcmod(none-8, compare-9)
+nsubj(view-11, tothe-10)
+ccomp(compare-9, view-11)
+nsubj(get-13, you-12)
+ccomp(view-11, get-13)
+det(Sony-16, this-15)
+prep_with(get-13, Sony-16)
+
+=========
+
+root(ROOT-0, Get-1)
+dobj(Get-1, it-2)
+nsubj(regretit-7, you-4)
+aux(regretit-7, will-5)
+neg(regretit-7, not-6)
+conj_and(Get-1, regretit-7)
+

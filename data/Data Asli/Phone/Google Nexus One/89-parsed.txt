@@ -1,0 +1,84 @@
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nn(version-4, Android-3)
+nsubj(public-11, version-4)
+num(version-4, 2.3.4-5)
+dep(version-4, Gingerbread-7)
+cop(public-11, is-9)
+advmod(public-11, now-10)
+ccomp(think-2, public-11)
+prep_for(public-11, Nexus-13)
+num(Nexus-13, One-14)
+
+=========
+
+cc(is-4, And-1)
+expl(is-4, there-3)
+root(ROOT-0, is-4)
+det(need-6, no-5)
+nsubj(is-4, need-6)
+aux(follow-8, to-7)
+infmod(need-6, follow-8)
+predet(websites-12, all-9)
+det(websites-12, these-10)
+amod(websites-12, how-to-upgrade-11)
+dobj(follow-8, websites-12)
+prt(follow-8, out-13)
+advmod(follow-8, there-14)
+
+=========
+
+poss(system-2, My-1)
+nsubj(progressed-4, system-2)
+advmod(progressed-4, just-3)
+root(ROOT-0, progressed-4)
+prep_to(progressed-4, 2.3.4-6)
+poss(own-9, its-8)
+prep_on(progressed-4, own-9)
+
+=========
+
+advmod(see-6, Anyway-1)
+nsubj(see-6, I-3)
+aux(see-6, did-4)
+neg(see-6, not-5)
+root(ROOT-0, see-6)
+amod(differences-9, real-7)
+amod(differences-9, big-8)
+dobj(see-6, differences-9)
+
+=========
+
+advmod(looked-7, Even-1)
+det(keypad-6, the-3)
+amod(keypad-6, numeric-4)
+nn(keypad-6, telephone-5)
+nsubj(looked-7, keypad-6)
+root(ROOT-0, looked-7)
+acomp(looked-7, nicer-8)
+det(version-13, the-10)
+amod(version-13, old-11)
+nn(version-13, software-12)
+prep_with(looked-7, version-13)
+dep(version-13, froyo-15)
+
+=========
+
+nsubj(hype-4, It-1)
+cop(hype-4, was-2)
+advmod(hype-4, just-3)
+root(ROOT-0, hype-4)
+
+=========
+
+root(ROOT-0, Let-1)
+nsubj(tell-3, me-2)
+ccomp(Let-1, tell-3)
+dobj(tell-3, you-4)
+nsubj(love-6, I-5)
+dep(tell-3, love-6)
+det(phone-8, this-7)
+dobj(love-6, phone-8)
+

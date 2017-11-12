@@ -1,0 +1,35 @@
+=========
+
+det(TV-2, The-1)
+nsubj(came-3, TV-2)
+root(ROOT-0, came-3)
+det(crack-7, a-5)
+amod(crack-7, large-6)
+prep_with(came-3, crack-7)
+det(edge-11, the-9)
+amod(edge-11, front-10)
+prep_along(came-3, edge-11)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(ordered-2, I-1)
+root(ROOT-0, ordered-2)
+amod(bc-4, online-3)
+dobj(ordered-2, bc-4)
+poss(constraints-7, my-6)
+prep_of(bc-4, constraints-7)
+
+=========
+
+nsubj(let-3, Amazon-1)
+advmod(let-3, really-2)
+root(ROOT-0, let-3)
+prt(let-3, down-4)
+det(customer-8, a-5)
+amod(customer-8, long-6)
+nn(customer-8, time-7)
+dobj(let-3, customer-8)
+advmod(let-3, here-9)
+

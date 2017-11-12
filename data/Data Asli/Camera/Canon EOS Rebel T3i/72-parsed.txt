@@ -1,0 +1,88 @@
+=========
+
+nsubj(try-5, This-1)
+cop(try-5, was-2)
+poss(try-5, my-3)
+amod(try-5, first-4)
+root(ROOT-0, try-5)
+det(camera-9, any-7)
+amod(camera-9, DSLR-8)
+prep_on(try-5, camera-9)
+
+=========
+
+root(ROOT-0, Had-1)
+det(T2i-3, the-2)
+dobj(Had-1, T2i-3)
+poss(brother-6, my-5)
+prep_for(T2i-3, brother-6)
+amod(year-8, last-7)
+tmod(Had-1, year-8)
+conj_and(Had-1, used-10)
+dobj(used-10, it-11)
+det(bit-14, a-13)
+prep_for(used-10, bit-14)
+
+=========
+
+dep(not-2, But-1)
+root(ROOT-0, not-2)
+det(go-5, a-3)
+amod(go-5, complete-4)
+dep(not-2, go-5)
+dep(not-2, through-6)
+
+=========
+
+det(research-4, a-2)
+amod(research-4, thorough-3)
+prep_after(compared-31, research-4)
+det(cameras-8, all-6)
+nn(cameras-8, Canon-7)
+prep_on(research-4, cameras-8)
+prep(cameras-8, out-9)
+pobj(out-9, there-10)
+aux(try-14, did-12)
+neg(try-14, not-13)
+dep(research-4, try-14)
+dobj(try-14, nikon-15)
+advmod(nikon-15, as-16)
+prep_out_of(nikon-15, budget-19)
+amod(prices-30, preferred-22)
+nn(prices-30, this-23)
+det(ends-27, some-25)
+amod(ends-27, higher-26)
+prep_over(this-23, ends-27)
+conj_and(this-23, better-29)
+nn(prices-30, better-29)
+nsubj(compared-31, prices-30)
+root(ROOT-0, compared-31)
+det(ones-36, the-33)
+amod(ones-36, lower-34)
+nn(ones-36, end-35)
+prep_to(compared-31, ones-36)
+
+=========
+
+root(ROOT-0, Pros-1)
+amod(quality-5, Good-3)
+nn(quality-5, picture-4)
+dep(Pros-1, quality-5)
+amod(lenses-8, great-7)
+appos(quality-5, lenses-8)
+amod(lenses-8, available-9)
+dep(available-9, using-11)
+dobj(using-11, 18-55-12)
+amod(II-16, 55-250mm-14)
+nn(II-16, IS-15)
+dobj(using-11, II-16)
+conj_and(18-55-12, II-16)
+amod(functions-21, Good-19)
+nn(functions-21, screen-20)
+appos(lenses-8, functions-21)
+amod(functionality-25, Great-23)
+amod(functionality-25, manual-24)
+appos(functions-21, functionality-25)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

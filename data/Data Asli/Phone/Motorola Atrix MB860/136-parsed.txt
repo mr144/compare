@@ -1,0 +1,52 @@
+=========
+
+det(product-2, The-1)
+nsubj(late-4, product-2)
+cop(late-4, was-3)
+root(ROOT-0, late-4)
+nsubj(managed-8, dealer-7)
+xsubj(send-10, dealer-7)
+conj_but(late-4, managed-8)
+aux(send-10, to-9)
+xcomp(managed-8, send-10)
+dobj(send-10, it-11)
+det(address-15, a-13)
+amod(address-15, new-14)
+prep_to(send-10, address-15)
+
+=========
+
+det(telephone-2, The-1)
+nsubj(came-3, telephone-2)
+root(ROOT-0, came-3)
+det(problem-7, a-5)
+nn(problem-7, battery-6)
+prep_with(came-3, problem-7)
+
+=========
+
+det(wares-3, The-1)
+nn(wares-3, battery-2)
+nsubj(turs-24, wares-3)
+advmod(turs-24, off-4)
+mwe(than-7, less-6)
+quantmod(a-8, than-7)
+prep_in(off-4, a-8)
+tmod(off-4, day-9)
+nsubjpass(charged-18, it-11)
+aux(charged-18, is-12)
+advmod(charged-18, always-13)
+det(plug-16, the-15)
+prep_on(always-13, plug-16)
+auxpass(charged-18, being-17)
+parataxis(turs-24, charged-18)
+xcomp(charged-18, !!!-19)
+advmod(!!!-19, Besides-20)
+det(telephone-23, the-22)
+nsubj(turs-24, telephone-23)
+root(ROOT-0, turs-24)
+prt(turs-24, off-25)
+prep_by(turs-24, itself-27)
+det(command-31, no-30)
+prep_with(turs-24, command-31)
+

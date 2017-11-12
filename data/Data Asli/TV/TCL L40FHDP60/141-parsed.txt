@@ -1,0 +1,52 @@
+=========
+
+advmod(bright-2, very-1)
+amod(picture-3, bright-2)
+nsubj(set-6, picture-3)
+advmod(set-6, easy-5)
+root(ROOT-0, set-6)
+prt(set-6, up-7)
+
+=========
+
+aux(bought-2, Have-1)
+csubj(worked-12, bought-2)
+prep(bought-2, quite-3)
+det(tv-7, a-4)
+amod(tv-7, few-5)
+nn(tv-7, tcl-6)
+pobj(quite-3, tv-7)
+possessive(tv-7, 's-8)
+pobj(quite-3, all-10)
+conj_and(tv-7, all-10)
+aux(worked-12, have-11)
+root(ROOT-0, worked-12)
+advmod(worked-12, beatufuly-13)
+det(problems-16, no-15)
+prep_with(worked-12, problems-16)
+
+=========
+
+det(warranty-4, The-1)
+num(warranty-4, 2-2)
+nn(warranty-4, year-3)
+nsubj(bonus-7, warranty-4)
+cop(bonus-7, is-5)
+det(bonus-7, a-6)
+root(ROOT-0, bonus-7)
+
+=========
+
+dep(thiner-6, Noticed-1)
+det(ones-4, the-2)
+amod(ones-4, new-3)
+nsubj(thiner-6, ones-4)
+nsubj(have-9, ones-4)
+cop(thiner-6, are-5)
+root(ROOT-0, thiner-6)
+conj_but(thiner-6, have-9)
+det(buttons-11, no-10)
+dobj(have-9, buttons-11)
+det(chasis-14, the-13)
+prep_on(buttons-11, chasis-14)
+

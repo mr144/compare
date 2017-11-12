@@ -1,0 +1,36 @@
+=========
+
+amod(clarity-2, Great-1)
+root(ROOT-0, clarity-2)
+amod(picture-6, beautifully-4)
+amod(picture-6, colored-5)
+conj_and(clarity-2, picture-6)
+
+=========
+
+nsubj(have-2, We-1)
+root(ROOT-0, have-2)
+det(room-7, a-3)
+amod(room-7, new-4)
+num(room-7, &#34;-5)
+amod(room-7, great-6)
+dobj(have-2, room-7)
+nsubj(sized-12, &#34;-8)
+det(larger-11, this-10)
+conj_and(&#34;-8, larger-11)
+nsubj(sized-12, larger-11)
+rcmod(room-7, sized-12)
+nn(mount-16, TV-13)
+conj_and(TV-13, wall-15)
+nn(mount-16, wall-15)
+nsubj(are-17, mount-16)
+ccomp(sized-12, are-17)
+advmod(what-19, exactly-18)
+nsubjpass(needed-21, what-19)
+auxpass(needed-21, was-20)
+ccomp(are-17, needed-21)
+aux(accomodate-23, to-22)
+xcomp(needed-21, accomodate-23)
+det(space-25, the-24)
+dobj(accomodate-23, space-25)
+

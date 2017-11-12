@@ -1,0 +1,7 @@
+Hi_NNP All_NNP ,_, I_PRP have_VBP had_VBN my_PRP$ -LRB-_-LRB- second_JJ -RRB-_-RRB- tv_NN for_IN a_DT little_JJ over_IN a_DT week_NN now_RB ._.
+I_PRP have_VBP not_RB turned_VBN it_PRP off_RP as_IN I_PRP am_VBP trying_VBG to_TO put_VB it_PRP through_IN its_PRP$ paces_NNS and_CC make_VB sure_JJ that_IN it_PRP is_VBZ without_IN defect_NN ._.
+The_DT first_JJ set_NN had_VBD a_DT row_NN of_IN dead_JJ pixels_NNS ._.
+But_CC that_DT does_VBZ not_RB bother_VB me_PRP for_IN two_CD reasons_NNS :_: 1_LS -RRB-_-RRB- Amazon_NNP has_VBZ an_DT amazing_JJ exchange_NN policy_NN ,_, and_CC 2_CD -RRB-_-RRB- TCL_NNP has_VBZ a_DT 2_CD year_NN guarantee_NN ._.
+I_PRP guess_VBP the_DT third_JJ reason_NN would_MD be_VB that_IN the_DT thing_NN was_VBD SO_NNP CHEAP_NNP !_.
+Seriously_RB ,_, a_DT good_JJ tv_NN for_IN our_PRP$ kitchen_NN at_IN such_PDT a_DT low_JJ price_NN ..._: Thanks_NNS China_NNP !_.
+And_CC thank_VB you_PRP Amazon_NNP !!!_NN

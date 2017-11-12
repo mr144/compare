@@ -1,0 +1,150 @@
+=========
+
+nsubj(guy-9, I-1)
+aux(guy-9, have-2)
+cop(guy-9, been-3)
+det(guy-9, an-4)
+poss(guy-9, SLR-6)
+nn(guy-9, film-8)
+root(ROOT-0, guy-9)
+prep_since(guy-9, 1972-11)
+
+=========
+
+nsubj(shopping-4, I-1)
+aux(shopping-4, had-2)
+aux(shopping-4, been-3)
+root(ROOT-0, shopping-4)
+det(SLR-8, a-6)
+amod(SLR-8, digital-7)
+prep_for(shopping-4, SLR-8)
+
+=========
+
+advmod(noticed-4, However-1)
+nsubj(noticed-4, I-3)
+root(ROOT-0, noticed-4)
+det(P90-7, the-5)
+nn(P90-7, Nikon-6)
+nsubj(had-8, P90-7)
+ccomp(noticed-4, had-8)
+amod(features-10, many-9)
+dobj(had-8, features-10)
+num(camera-13, one-12)
+prep_in(features-10, camera-13)
+complm(did-16, that-14)
+nsubj(did-16, SLRs-15)
+ccomp(had-8, did-16)
+neg(did-16, not-17)
+
+=========
+
+mark(smaller-3, Although-1)
+advmod(smaller-3, much-2)
+advcl(gave-12, smaller-3)
+conj_and(smaller-3, lighter-5)
+advcl(gave-12, lighter-5)
+det(lens-11, the-7)
+num(lens-11, 26-624-8)
+nn(lens-11, MM-9)
+nn(lens-11, zoom-10)
+nsubj(gave-12, lens-11)
+root(ROOT-0, gave-12)
+iobj(gave-12, me-13)
+amod(range-15, great-14)
+dobj(gave-12, range-15)
+amod(lenses-18, changing-17)
+prep_without(gave-12, lenses-18)
+
+=========
+
+prep_at(gave-4, 12mp-2)
+nsubj(gave-4, it-3)
+root(ROOT-0, gave-4)
+iobj(gave-4, me-5)
+amod(equivalent-7, sharpness\/detail-6)
+dobj(gave-4, equivalent-7)
+nsubj(important-12, equivalent-7)
+prep_to(equivalent-7, film-9)
+cop(important-12, is-11)
+rcmod(equivalent-7, important-12)
+prep_to(important-12, me-14)
+
+=========
+
+nsubj(took-3, I-1)
+advmod(took-3, just-2)
+root(ROOT-0, took-3)
+det(camera-5, this-4)
+dobj(took-3, camera-5)
+det(tour-10, a-7)
+num(tour-10, 3-8)
+nn(tour-10, week-9)
+prep_on(took-3, tour-10)
+prep_of(tour-10, Turkey-12)
+
+=========
+
+nsubj(shot-2, I-1)
+root(ROOT-0, shot-2)
+num(pics-4, 650-3)
+npadvmod(@-5, pics-4)
+amod(def-7, @-5)
+amod(def-7, high-6)
+dobj(shot-2, def-7)
+num(card-10, 8G-9)
+prep_on(shot-2, card-10)
+prep_with(shot-2, room-13)
+prep_for(room-13, 720-15)
+quantmod(720-15, more-16)
+
+=========
+
+nsubj(had-2, I-1)
+xsubj(re-charge-4, I-1)
+root(ROOT-0, had-2)
+aux(re-charge-4, to-3)
+xcomp(had-2, re-charge-4)
+advmod(re-charge-4, battey-5)
+quantmod(times-8, only-6)
+number(times-8, 3-7)
+dobj(re-charge-4, times-8)
+det(trip-11, the-10)
+prep_during(times-8, trip-11)
+
+=========
+
+det(viewfinder-3, The-1)
+amod(viewfinder-3, electronic-2)
+nsubj(shows-4, viewfinder-3)
+root(ROOT-0, shows-4)
+dobj(sees-8, what-5)
+det(lens-7, the-6)
+nsubj(sees-8, lens-7)
+ccomp(shows-4, sees-8)
+advmod(sees-8, just-10)
+det(SLR-13, an-12)
+prep_like(sees-8, SLR-13)
+
+=========
+
+det(camera-3, A-1)
+amod(camera-3, great-2)
+nsubj(@-4, camera-3)
+root(ROOT-0, @-4)
+iobj(@-4, 1\/3-5)
+det(price-9, the-6)
+nn(price-9, D90-7)
+nn(price-9, SLR-8)
+dobj(@-4, price-9)
+amod(features-12, more-11)
+dobj(@-4, features-12)
+conj_and(price-9, features-12)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+

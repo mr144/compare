@@ -1,0 +1,33 @@
+=========
+
+nsubj(reommend-3, I-1)
+aux(reommend-3, could-2)
+root(ROOT-0, reommend-3)
+det(item-5, this-4)
+dobj(reommend-3, item-5)
+prep_to(reommend-3, people-7)
+dep(reommend-3, all-8)
+det(world-11, the-10)
+prep_over(reommend-3, world-11)
+
+=========
+
+nsubj(am-2, I-1)
+root(ROOT-0, am-2)
+prep_from(am-2, Venezuela-4)
+nsubj(using-9, I-7)
+aux(using-9, am-8)
+conj_and(am-2, using-9)
+dobj(using-9, it-10)
+advmod(now-12, right-11)
+advmod(using-9, now-12)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+quantmod(3G-6, almost-4)
+quantmod(3G-6, all-5)
+num(companies-7, 3G-6)
+prep_with(works-2, companies-7)
+

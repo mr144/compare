@@ -1,0 +1,134 @@
+=========
+
+root(ROOT-0, Purchased-1)
+det(inch-4, this-2)
+num(inch-4, 19-3)
+nsubj(use-6, inch-4)
+aux(use-6, to-5)
+xcomp(Purchased-1, use-6)
+poss(camper-9, our-8)
+prep_in(use-6, camper-9)
+
+=========
+
+prepc_after(went-9, using-2)
+dobj(using-2, it-3)
+advmod(using-2, just-4)
+det(volume-8, a-5)
+amod(volume-8, few-6)
+nn(volume-8, times-7)
+nsubj(went-9, volume-8)
+root(ROOT-0, went-9)
+prt(went-9, out-10)
+
+=========
+
+nn(service-2, Customer-1)
+nsubj(contacted-5, service-2)
+prep_at(service-2, Toshiba-4)
+root(ROOT-0, contacted-5)
+nsubj(tried-8, we-7)
+conj_and(contacted-5, tried-8)
+det(reset-10, a-9)
+dobj(tried-8, reset-10)
+det(improvement-13, no-12)
+prep_with(tried-8, improvement-13)
+
+=========
+
+det(hours-3, A-1)
+amod(hours-3, few-2)
+npadvmod(later-4, hours-3)
+advmod(quit-6, later-4)
+nsubj(quit-6, TV\/DVD-5)
+root(ROOT-0, quit-6)
+xcomp(quit-6, working-7)
+advmod(working-7, altogether-8)
+poss(DVD-11, my-10)
+prep_with(working-7, DVD-11)
+partmod(DVD-11, stuck-12)
+prep_in(stuck-12, it-14)
+
+=========
+
+nsubjpass(returned-4, It-1)
+aux(returned-4, has-2)
+auxpass(returned-4, been-3)
+root(ROOT-0, returned-4)
+prep_for(returned-4, repair-6)
+prep_for(returned-4, replacement-8)
+conj_or(repair-6, replacement-8)
+
+=========
+
+nn(update-2, Will-1)
+nsubj(review-3, update-2)
+root(ROOT-0, review-3)
+advmod(returned-7, when-4)
+nsubjpass(returned-7, unit-5)
+auxpass(returned-7, is-6)
+advcl(review-3, returned-7)
+prep_to(returned-7, me-9)
+
+=========
+
+root(ROOT-0, Update-1)
+dep(Update-1, TV-3)
+partmod(TV-3, returned-4)
+num(weeks-7, 3-6)
+prep_after(returned-4, weeks-7)
+amod(motherboard-10, new-9)
+prep_with(returned-4, motherboard-10)
+partmod(motherboard-10, installed-11)
+
+=========
+
+advmod(issues-4, So-1)
+advmod(no-3, far-2)
+advmod(issues-4, no-3)
+root(ROOT-0, issues-4)
+prep(issues-4, with-5)
+det(volume-7, the-6)
+nsubj(issues-4, volume-7)
+
+=========
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+advmod(is-2, still-3)
+dep(loud-6, not-4)
+aux(loud-6, has-5)
+ccomp(is-2, loud-6)
+mark(like-10, as-7)
+nsubj(like-10, I-8)
+aux(like-10, would-9)
+advcl(loud-6, like-10)
+advmod(works-15, at-12)
+pobj(at-12, least-13)
+nsubj(works-15, it-14)
+dep(like-10, works-15)
+nsubj(hear-19, you-17)
+aux(hear-19, can-18)
+dep(like-10, hear-19)
+conj_and(works-15, hear-19)
+dobj(hear-19, it-20)
+det(rainstorm-24, a-22)
+amod(rainstorm-24, loud-23)
+prep_in(hear-19, rainstorm-24)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+det(one-4, this-3)
+dobj(hope-2, one-4)
+advmod(longer-6, last-5)
+prep(hope-2, longer-6)
+advmod(longer-6, then-7)
+det(months-10, the-8)
+num(months-10, 6-9)
+pobj(longer-6, months-10)
+det(one-14, the-12)
+amod(one-14, first-13)
+prep_for(hope-2, one-14)
+

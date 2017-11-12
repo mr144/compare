@@ -1,0 +1,34 @@
+=========
+
+amod(condition-2, Great-1)
+root(ROOT-0, condition-2)
+
+=========
+
+root(ROOT-0, Like-1)
+pobj(Like-1, new-2)
+
+=========
+
+nsubj(rate-2, I-1)
+root(ROOT-0, rate-2)
+dobj(rate-2, it-3)
+det(buy-7, a-5)
+amod(buy-7, great-6)
+prep_as(rate-2, buy-7)
+
+=========
+
+det(Accessories-2, All-1)
+nsubj(advertised-3, Accessories-2)
+root(ROOT-0, advertised-3)
+ccomp(advertised-3, came-4)
+det(unit-7, the-6)
+prep_with(came-4, unit-7)
+
+=========
+
+nsubj(works-2, Phone-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+

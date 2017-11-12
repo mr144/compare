@@ -1,0 +1,80 @@
+=========
+
+nsubj(happy-3, I-1)
+cop(happy-3, am-2)
+root(ROOT-0, happy-3)
+det(purchase-6, this-5)
+prep_with(happy-3, purchase-6)
+
+=========
+
+nsubjpass(delivered-3, It-1)
+auxpass(delivered-3, was-2)
+root(ROOT-0, delivered-3)
+prep_on(delivered-3, time-5)
+
+=========
+
+mark(phone-6, Though-1)
+nsubj(phone-6, it-2)
+cop(phone-6, was-3)
+det(phone-6, a-4)
+amod(phone-6, used-5)
+advcl(looked-9, phone-6)
+nsubj(looked-9, it-8)
+nsubj(wrapped-14, it-8)
+root(ROOT-0, looked-9)
+prep_like(looked-9, brand-11)
+amod(brand-11, new-12)
+conj_and(looked-9, wrapped-14)
+det(plastic-17, a-16)
+prep_in(wrapped-14, plastic-17)
+conj_and(looked-9, screen-19)
+nn(condition-22, mint-21)
+prep_in(screen-19, condition-22)
+advmod(scratches-26, hardly-24)
+det(scratches-26, any-25)
+conj_and(looked-9, scratches-26)
+det(cover-30, the-28)
+amod(cover-30, back-29)
+prep_on(scratches-26, cover-30)
+
+=========
+
+root(ROOT-0, Included-1)
+auxpass(Included-1, were-2)
+det(charger-6, a-3)
+amod(charger-6, new-4)
+nn(charger-6, wall-5)
+nsubjpass(Included-1, charger-6)
+amod(cable-10, new-8)
+nn(cable-10, usb-9)
+appos(charger-6, cable-10)
+amod(headphone-13, new-12)
+appos(charger-6, headphone-13)
+conj_and(cable-10, headphone-13)
+
+=========
+
+nsubj(network-7, It-1)
+cop(network-7, is-2)
+advmod(perfect-4, functionally-3)
+amod(network-7, perfect-4)
+amod(network-7, good-6)
+ccomp(holds-9, network-7)
+root(ROOT-0, holds-9)
+nsubj(holds-9, battery-10)
+advmod(day-15, just-12)
+amod(day-15, over-13)
+det(day-15, a-14)
+prep_for(battery-10, day-15)
+
+=========
+
+advmod(buy-5, Overall-1)
+det(nice-4, a-3)
+nsubj(buy-5, nice-4)
+root(ROOT-0, buy-5)
+det(price-8, the-7)
+prep_for(buy-5, price-8)
+

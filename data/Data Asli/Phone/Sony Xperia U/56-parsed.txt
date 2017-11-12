@@ -1,0 +1,23 @@
+=========
+
+amod(product-2, excelent-1)
+root(ROOT-0, product-2)
+det(price-5, this-4)
+prep_for(product-2, price-5)
+
+=========
+
+mark(look-5, if-1)
+nsubj(look-5, you-2)
+aux(look-5, do-3)
+neg(look-5, not-4)
+advcl(phone-15, look-5)
+det(top-8, a-7)
+prep_for(look-5, top-8)
+prep_of(top-8, technology-10)
+nsubj(phone-15, this-12)
+cop(phone-15, is-13)
+poss(phone-15, your-14)
+root(ROOT-0, phone-15)
+prep_for(phone-15, girls-18)
+

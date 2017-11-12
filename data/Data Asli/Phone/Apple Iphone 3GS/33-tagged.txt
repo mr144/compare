@@ -1,0 +1,3 @@
+it_PRP is_VBZ exactly_RB what_WP we_PRP expected_VBD ._.
+Works_NNP great_JJ and_CC was_VBD in_IN the_DT condition_NN it_PRP was_VBD supposed_VBN to_TO be_VB in_IN according_VBG to_TO the_DT ad_NN ._.
+This_DT item_NN was_VBD part_NN of_IN a_DT customer_NN service_NN adjustment_NN from_IN Amazon_NNP due_JJ to_TO an_DT earlier_JJR order_NN problem_NN ._.

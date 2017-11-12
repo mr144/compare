@@ -1,0 +1,27 @@
+=========
+
+root(ROOT-0, Defective-1)
+det(factory-4, the-3)
+prep_from(Defective-1, factory-4)
+appos(factory-4, flash-6)
+nn(defective-12, camera-8)
+conj_and(camera-8, flashlight-10)
+nn(defective-12, flashlight-10)
+nn(defective-12, feature-11)
+prep_on(flash-6, defective-12)
+
+=========
+
+root(ROOT-0, returned-1)
+prep_for(returned-1, refund-3)
+conj_and(returned-1, waiting-5)
+nn(X1-8, HTC-7)
+prep_for(waiting-5, X1-8)
+nn(III-12, Samsung-10)
+nn(III-12, S-11)
+prep_for(waiting-5, III-12)
+conj_or(X1-8, III-12)
+aux(affordable-15, to-13)
+cop(affordable-15, become-14)
+xcomp(waiting-5, affordable-15)
+

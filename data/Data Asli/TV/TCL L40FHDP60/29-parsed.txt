@@ -1,0 +1,50 @@
+=========
+
+nn(TV-2, Great-1)
+root(ROOT-0, TV-2)
+prep_for(TV-2, price-4)
+
+=========
+
+nsubj(own-2, I-1)
+root(ROOT-0, own-2)
+dobj(own-2, 6-3)
+poss(6-3, TCL-4)
+dep(6-3, 32-7)
+num(inch-10, 40-9)
+dep(6-3, inch-10)
+conj_and(32-7, inch-10)
+dobj(own-2, they-13)
+conj_and(6-3, they-13)
+dep(own-2, work-14)
+acomp(work-14, great-15)
+nsubj(sturdy-18, &-16)
+cop(sturdy-18, are-17)
+ccomp(great-15, sturdy-18)
+
+=========
+
+nsubj(have-4, They-1)
+nsubj(look-12, They-1)
+aux(have-4, do-2)
+neg(have-4, not-3)
+dep(monitors-21, have-4)
+det(bells-n-whistles-6, the-5)
+dobj(have-4, bells-n-whistles-6)
+nn(TV-9, pricier-8)
+prep_of(bells-n-whistles-6, TV-9)
+possessive(TV-9, 's-10)
+conj_but(have-4, look-12)
+dep(monitors-21, look-12)
+advmod(use-17, just-13)
+dep(use-17, as-14)
+amod(IMOI-16, good-15)
+nsubj(use-17, IMOI-16)
+ccomp(look-12, use-17)
+dobj(use-17, 2-18)
+prep_as(use-17, Computer-20)
+root(ROOT-0, monitors-21)
+cc(love-23, &-22)
+dobj(monitors-21, love-23)
+nsubj(monitors-21, it-24)
+

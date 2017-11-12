@@ -1,0 +1,5 @@
+C_NNP amon_NN ._.
+This_DT is_VBZ a_DT Canon_NNP Rebel_NN ._.
+You_PRP just_RB can_MD not_RB go_VB wrong_JJ with_IN this_DT model_NN ,_, this_DT manufacturer_NN ,_, or_CC the_DT name_NN ._.
+I_PRP bought_VBD this_DT for_IN my_PRP$ daughter_NN as_IN a_DT step-up_NN from_IN a_DT film_NN camera_NN ._.
+She_PRP could_MD not_RB be_VB happier_JJR ._.

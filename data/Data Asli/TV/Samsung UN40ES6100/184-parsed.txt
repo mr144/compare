@@ -1,0 +1,31 @@
+=========
+
+csubj(happier-15, Got-1)
+dobj(Got-1, it-2)
+det(little-5, a-4)
+prep_for(Got-1, little-5)
+det(tv-11, a-7)
+amod(tv-11, grand-8)
+amod(tv-11, awesome-10)
+prep_over(Got-1, tv-11)
+aux(happier-15, could-12)
+neg(happier-15, not-13)
+cop(happier-15, be-14)
+root(ROOT-0, happier-15)
+
+=========
+
+root(ROOT-0, Really-1)
+dep(Really-1, dig-2)
+det(sleekness-4, the-3)
+dobj(dig-2, sleekness-4)
+conj_and(Really-1, for-6)
+det(part-9, the-7)
+amod(part-9, most-8)
+pobj(for-6, part-9)
+det(features-11, the-10)
+nsubj(interesting-14, features-11)
+cop(interesting-14, are-12)
+advmod(interesting-14, pretty-13)
+rcmod(part-9, interesting-14)
+

@@ -1,0 +1,44 @@
+=========
+
+nsubj(is-2, it-1)
+root(ROOT-0, is-2)
+dep(expected-6, exactly-3)
+dep(exactly-3, what-4)
+nsubj(expected-6, we-5)
+ccomp(is-2, expected-6)
+
+=========
+
+dep(supposed-10, Works-1)
+acomp(Works-1, great-2)
+conj_and(Works-1, was-4)
+dep(supposed-10, was-4)
+det(condition-7, the-6)
+prep_in(was-4, condition-7)
+nsubjpass(supposed-10, it-8)
+xsubj(be-12, it-8)
+auxpass(supposed-10, was-9)
+root(ROOT-0, supposed-10)
+aux(be-12, to-11)
+xcomp(supposed-10, be-12)
+prep(be-12, in-13)
+prepc_according_to(be-12, to-15)
+det(ad-17, the-16)
+pobj(be-12, ad-17)
+
+=========
+
+det(item-2, This-1)
+nsubj(part-4, item-2)
+cop(part-4, was-3)
+root(ROOT-0, part-4)
+det(adjustment-9, a-6)
+nn(adjustment-9, customer-7)
+nn(adjustment-9, service-8)
+prep_of(part-4, adjustment-9)
+prep_from(part-4, Amazon-11)
+det(problem-17, an-14)
+amod(problem-17, earlier-15)
+nn(problem-17, order-16)
+prep_due_to(Amazon-11, problem-17)
+

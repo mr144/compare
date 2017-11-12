@@ -1,0 +1,12 @@
+I_PRP bought_VBD this_DT item_NN from_IN MobileCityOnline_NNP ._.
+Before_IN buying_VBG ,_, i_FW contacted_VBD them_PRP to_TO be_VB sure_JJ that_IN the_DT model_NN offered_VBD -LRB-_-LRB- GT-I8160L_NNP -RRB-_-RRB- was_VBD compatible_JJ with_IN my_PRP$ operator_NN 's_POS 3G_CD data_NNS service_NN and_CC it_PRP was_VBD !_. ._.
+Please_VB beware_NN that_IN there_EX are_VBP two_CD models_NNS for_IN the_DT Ace_NNP 2_CD where_WRB the_DT only_JJ difference_NN is_VBZ the_DT 3G_NNP band_NN compatibility_NN ._.
+Model_NNP -------_NNP 3G_NNP Bands_NNPS supportGT-I8160_NNP --_: 900\/2100_CD MHz_NNP -LRB-_-LRB- Digitel_NNP in_IN Venezuela_NNP for_IN example_NN ._.
+Most_JJS operators_NNS in_IN Europe_NNP use_VBP these_DT bands_NNS -RRB-_-RRB- ._.
+GT-I8160L_NN --_: 850\/1900_CD MHz_NNP -LRB-_-LRB- AT&T_NNP in_IN USA_NNP ,_, Movilnet\/Movistar_NNP in_IN Venezuela_NNP for_IN example_NN ._.
+Most_JJS operators_NNS in_IN the_DT american_JJ continent_NN use_NN these_DT bands_NNS -RRB-_-RRB- ._.
+At_IN first_JJ blush_NN the_DT phone_NN seems_VBZ to_TO perform_VB great_JJ ._.
+Nice_JJ screen_NN and_CC resolution_NN ,_, android_NN gingerbread_NN -LRB-_-LRB- ICS_NNP comming_VBG soon_RB -RRB-_-RRB- and_CC vga_VB front_JJ camera_NN ._.
+Worth_JJ spending_NN US$_$ 20-30_CD more_JJR in_IN comparison_NN to_TO the_DT ace_NN and_CC ace_NN plus_NN ._.
+Despite_IN the_DT price_NN difference_NN ,_, the_DT phone_NN is_VBZ still_RB at_IN a_DT good_JJ price_NN considering_VBG the_DT specs_NNS provided_VBD ._.
+You_PRP can_MD not_RB go_VB wrong_JJ with_IN this_DT phone_NN ._.

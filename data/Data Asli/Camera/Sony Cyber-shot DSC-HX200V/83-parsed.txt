@@ -1,0 +1,47 @@
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(Sony-8, the-6)
+amod(Sony-8, new-7)
+prep_with(pleased-4, Sony-8)
+
+=========
+
+det(pictures-2, The-1)
+nsubj(sharp-4, pictures-2)
+nsubj(clear-6, pictures-2)
+cop(sharp-4, are-3)
+root(ROOT-0, sharp-4)
+conj_and(sharp-4, clear-6)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(view-3, to-2)
+dep(Easy-1, view-3)
+det(back-6, the-5)
+prep_from(view-3, back-6)
+dobj(taking-11, what-8)
+nsubj(taking-11, I-9)
+aux(taking-11, am-10)
+prepc_of(back-6, taking-11)
+
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(step-8, an-6)
+amod(step-8, easy-7)
+dobj(pleased-4, step-8)
+advmod(step-8, up-9)
+det(Shot-14, a-11)
+num(Shot-14, &#34;-12)
+nn(Shot-14, Sure-13)
+prep_from(up-9, Shot-14)
+num(Shot-14, &#34;-15)
+

@@ -1,0 +1,3 @@
+Label_NN on_IN the_DT box_NN included_VBD the_DT correct_JJ description_NN ,_, Iphone_NNP 3gs_VBZ 16_CD gb_NN black_JJ ,_, however_RB the_DT phone_NN included_VBD was_VBD a_DT 3g_JJ 8gb_JJ black_NN in_IN good_JJ conditions_NNS ._.
+Price_NN was_VBD good_JJ an_DT item_NN was_VBD in_IN good_JJ condition_NN ,_, included_VBD usb_NN cable_NN ,_, wall_NN charger_NN and_CC earphones_NNS ._.
+Phone_NN was_VBD not_RB unlocked_VBN ._.

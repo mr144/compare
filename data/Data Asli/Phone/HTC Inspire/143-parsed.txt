@@ -1,0 +1,28 @@
+=========
+
+nn(service-2, Customer-1)
+nsubj(responding-5, service-2)
+cop(responding-5, is-3)
+advmod(responding-5, very-4)
+root(ROOT-0, responding-5)
+
+=========
+
+nsubj(missed-3, Found-1)
+num(Found-1, two-2)
+root(ROOT-0, missed-3)
+dobj(missed-3, accessories-4)
+
+=========
+
+nsubj(corrected-2, They-1)
+nsubj(received-7, They-1)
+root(ROOT-0, corrected-2)
+det(error-4, the-3)
+dobj(corrected-2, error-4)
+advmod(corrected-2, immediately-5)
+conj_and(corrected-2, received-7)
+dobj(received-7, them-8)
+num(days-11, 3-10)
+prep_in(received-7, days-11)
+

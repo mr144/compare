@@ -1,0 +1,64 @@
+=========
+
+nsubj(come-2, Pictures-1)
+root(ROOT-0, come-2)
+dep(amazing-4, out-3)
+acomp(come-2, amazing-4)
+
+=========
+
+nsubj(knew-3, I-1)
+neg(knew-3, never-2)
+root(ROOT-0, knew-3)
+dobj(missing-7, what-4)
+nsubj(missing-7, I-5)
+aux(missing-7, was-6)
+ccomp(knew-3, missing-7)
+mark(bought-10, until-8)
+nsubj(bought-10, I-9)
+advcl(missing-7, bought-10)
+det(camera-12, this-11)
+dobj(bought-10, camera-12)
+
+=========
+
+det(feature-3, The-1)
+amod(feature-3, only-2)
+nsubj(auto-focus-11, feature-3)
+complm(missing-7, that-4)
+nsubj(missing-7, it-5)
+cop(missing-7, is-6)
+dep(feature-3, missing-7)
+cop(auto-focus-11, is-8)
+det(auto-focus-11, the-9)
+amod(auto-focus-11, continuous-10)
+root(ROOT-0, auto-focus-11)
+amod(mode-14, video-13)
+prep_during(auto-focus-11, mode-14)
+
+=========
+
+nsubj(believe-2, I-1)
+root(ROOT-0, believe-2)
+det(T4i-5, the-3)
+amod(T4i-5, new-4)
+nsubj(adds-6, T4i-5)
+ccomp(believe-2, adds-6)
+det(functionality-8, this-7)
+dobj(adds-6, functionality-8)
+
+=========
+
+nsubj(professional-4, I-1)
+cop(professional-4, am-2)
+det(professional-4, no-3)
+root(ROOT-0, professional-4)
+nsubj(taken-9, I-7)
+aux(taken-9, have-8)
+conj_but(professional-4, taken-9)
+det(photos-11, some-10)
+dobj(taken-9, photos-11)
+nsubj(come-13, photos-11)
+rcmod(photos-11, come-13)
+prep_out(come-13, amazing-15)
+

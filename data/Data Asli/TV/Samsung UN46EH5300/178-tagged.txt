@@ -1,0 +1,6 @@
+Smart_NNP hub_NN ceases_VBZ to_TO work_VB for_IN long_JJ periods_NNS of_IN time_NN ._.
+Most_JJS of_IN the_DT time_NN when_WRB I_PRP try_VBP to_TO open_VB the_DT smart_JJ hub_NN and_CC connect_VB to_TO the_DT internet_NN ,_, it_PRP never_RB does_VBZ and_CC then_RB the_DT TV_NN turns_VBZ off_RP and_CC after_IN a_DT few_JJ seconds_NNS turns_VBZ back_RB on_RB ._.
+To_TO make_VB things_NNS worse_JJR it_PRP keeps_VBZ turning_VBG off_RP and_CC on_IN several_JJ times_NNS ._.
+Occasionally_RB the_DT smart_JJ hub_NN opens_VBZ but_CC it_PRP does_VBZ not_RB recognize_VB the_DT wi-fi_JJ signal_NN ._.
+I_PRP managed_VBD to_TO go_VB back_RB to_TO the_DT original_JJ setting_NN and_CC it_PRP worked_VBD well_RB fot_VB a_DT few_JJ hours_NNS then_RB it_PRP went_VBD back_RB to_TO doing_VBG the_DT same_JJ thing_NN ._.
+I_PRP am_VBP very_RB dissapointed_JJ ._.

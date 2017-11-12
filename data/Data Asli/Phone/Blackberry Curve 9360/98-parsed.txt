@@ -1,0 +1,15 @@
+=========
+
+det(phone-2, The-1)
+nsubjpass(branded-4, phone-2)
+auxpass(branded-4, is-3)
+root(ROOT-0, branded-4)
+nsubj(product-10, t-mobile-5)
+cop(product-10, is-6)
+neg(product-10, not-7)
+det(product-10, an-8)
+nn(product-10, oem-9)
+ccomp(branded-4, product-10)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

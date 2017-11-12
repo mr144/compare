@@ -1,0 +1,122 @@
+=========
+
+nsubj(one-3, This-1)
+cop(one-3, is-2)
+root(ROOT-0, one-3)
+det(phone-7, the-5)
+amod(phone-7, best-6)
+prep_of(one-3, phone-7)
+dobj(used-11, phone-7)
+nsubj(used-11, I-8)
+aux(used-11, have-9)
+advmod(used-11, ever-10)
+rcmod(phone-7, used-11)
+
+=========
+
+nsubj(fast-3, It-1)
+nsubj(stable-5, It-1)
+nsubj(customizable-9, It-1)
+cop(fast-3, 's-2)
+root(ROOT-0, fast-3)
+conj_and(fast-3, stable-5)
+advmod(customizable-9, fully-8)
+conj_and(fast-3, customizable-9)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+amod(plan-9, wonderfully-3)
+amod(data-8, T-mobile-5)
+amod(data-8, 3g-6)
+amod(data-8, web2go-7)
+prep_with(wonderfully-3, data-8)
+dobj(works-2, plan-9)
+prep_for(plan-9, $-11)
+num($-11, 10-12)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(!!-4, Amazon-3)
+ccomp(love-2, !!-4)
+nsubj(give-6, They-5)
+ccomp(!!-4, give-6)
+prt(give-6, away-7)
+det(app-10, a-8)
+amod(app-10, free-9)
+dobj(give-6, app-10)
+det(day-12, a-11)
+dep(app-10, day-12)
+
+=========
+
+det(year-3, a-2)
+prep_after(begin-9, year-3)
+prep_of(year-3, usage-5)
+det(phone-8, the-7)
+nsubj(begin-9, phone-8)
+xsubj(have-11, phone-8)
+root(ROOT-0, begin-9)
+aux(have-11, to-10)
+xcomp(begin-9, have-11)
+dobj(have-11, issues-12)
+
+=========
+
+poss(wife-2, My-1)
+nsubj(have-7, wife-2)
+num(friends-6, two-4)
+amod(friends-6, other-5)
+conj_and(wife-2, friends-6)
+nsubj(have-7, friends-6)
+root(ROOT-0, have-7)
+det(phone-9, this-8)
+dobj(have-7, phone-9)
+nsubj(have-14, all-11)
+prep_of(all-11, us-13)
+conj_and(have-7, have-14)
+det(problem-17, the-15)
+amod(problem-17, same-16)
+dobj(have-14, problem-17)
+det(screen-20, the-19)
+prep_with(problem-17, screen-20)
+
+=========
+
+advmod(register-7, Sometimes-1)
+det(screen-4, the-3)
+nsubj(register-7, screen-4)
+nsubj(register-19, screen-4)
+aux(register-7, does-5)
+neg(register-7, not-6)
+root(ROOT-0, register-7)
+poss(touch-9, your-8)
+dobj(register-7, touch-9)
+advmod(when-12, especially-11)
+advmod(hot-16, when-12)
+det(phone-14, the-13)
+nsubj(hot-16, phone-14)
+dep(hot-16, gets-15)
+parataxis(register-7, hot-16)
+parataxis(register-19, hot-16)
+conj_or(register-7, register-19)
+det(button-22, the-20)
+amod(button-22, wrong-21)
+dobj(register-19, button-22)
+
+=========
+
+det(reboot-2, A-1)
+nsubj(solves-4, reboot-2)
+advmod(solves-4, usually-3)
+root(ROOT-0, solves-4)
+det(problem-6, the-5)
+dobj(solves-4, problem-6)
+nsubj(come-11, it-9)
+advmod(come-11, always-10)
+conj_but(solves-4, come-11)
+advmod(come-11, back-12)
+

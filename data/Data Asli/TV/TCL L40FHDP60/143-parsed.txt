@@ -1,0 +1,50 @@
+=========
+
+det(TV-3, A-1)
+amod(TV-3, great-2)
+nsubj(pay-8, TV-3)
+det(price-6, the-5)
+prep_for(TV-3, price-6)
+dep(price-6, you-7)
+root(ROOT-0, pay-8)
+
+=========
+
+det(sound-2, The-1)
+nsubj(ok-7, sound-2)
+det(tv-5, this-4)
+prep_on(sound-2, tv-5)
+cop(ok-7, is-6)
+root(ROOT-0, ok-7)
+dep(ok-7, better-9)
+mark(put-12, if-10)
+nsubj(put-12, you-11)
+advcl(ok-7, put-12)
+det(system-15, a-13)
+amod(system-15, sound-14)
+dobj(put-12, system-15)
+det(tv-18, the-17)
+prep_on(put-12, tv-18)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(good-4, quality-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+
+=========
+
+det(tv-3, A-1)
+amod(tv-3, great-2)
+root(ROOT-0, tv-3)
+advmod(for-6, all-4)
+dep(for-6, around-5)
+dep(tv-3, for-6)
+det(money-8, the-7)
+pobj(for-6, money-8)
+complm(spend-11, that-9)
+nsubj(spend-11, you-10)
+dep(money-8, spend-11)
+dobj(spend-11, !!!!!!!!!!!-12)
+

@@ -1,0 +1,25 @@
+=========
+
+nsubj(have-2, i-1)
+root(ROOT-0, have-2)
+det(40inch-4, a-3)
+npadvmod(so-5, 40inch-4)
+advmod(have-2, so-5)
+xcomp(have-2, getting-6)
+det(32inch-8, the-7)
+dobj(getting-6, 32inch-8)
+det(problem-12, no-11)
+prep_for(32inch-8, problem-12)
+
+=========
+
+nsubj(need-2, i-1)
+xsubj(get-4, i-1)
+root(ROOT-0, need-2)
+aux(get-4, to-3)
+xcomp(need-2, get-4)
+dobj(get-4, one-5)
+poss(son-8, my-7)
+prep_for(get-4, son-8)
+advmod(get-4, also-9)
+

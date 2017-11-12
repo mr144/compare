@@ -1,0 +1,6 @@
+card,sdcard,memory,storage,bit,byte,hd,gb,mb,ram=memory
+camera,slr,dslr,product=camera
+connection,network,internet,3g=network
+cost,price,money,buy,purchase,deal=price
+app,application,apps,aplication=application
+work,performance,quality=performance

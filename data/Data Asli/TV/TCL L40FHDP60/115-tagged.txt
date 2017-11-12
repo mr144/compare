@@ -1,0 +1,1 @@
+3_NNP Star_NNP only_RB because_IN ,_, unlike_IN the_DT ad_NN here_RB ,_, per_IN TCL_NNP Customer_NN Service_NN ,_, I_PRP am_VBP sad_JJ to_TO say_VB there_EX is_VBZ not_RB a_DT digital_JJ audio_JJ output_NN ._.

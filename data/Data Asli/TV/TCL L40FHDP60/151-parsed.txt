@@ -1,0 +1,79 @@
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, was-2)
+advmod(pleased-4, really-3)
+root(ROOT-0, pleased-4)
+aux(get-6, to-5)
+xcomp(pleased-4, get-6)
+det(TV-8, this-7)
+dobj(get-6, TV-8)
+quantmod(300-11, under-10)
+prep_for(get-6, 300-11)
+
+=========
+
+root(ROOT-0, bucks-1)
+
+=========
+
+det(picture-2, The-1)
+nsubj(excellent-4, picture-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+advmod(watching-6, when-5)
+advcl(excellent-4, watching-6)
+dobj(watching-6, DVD-7)
+nn(Ray-10, Blue-9)
+dobj(watching-6, Ray-10)
+conj_or(DVD-7, Ray-10)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(system-6, a-3)
+amod(system-6, surround-4)
+amod(system-6, sound-5)
+dobj(have-2, system-6)
+dobj(vouch-11, system-6)
+mark(vouch-11, so-7)
+nsubj(vouch-11, I-8)
+aux(vouch-11, can-9)
+neg(vouch-11, not-10)
+dep(system-6, vouch-11)
+det(quality-15, the-13)
+amod(quality-15, sound-14)
+prep_for(vouch-11, quality-15)
+
+=========
+
+nsubj(tricky-6, It-1)
+cop(tricky-6, was-2)
+dep(tricky-6, a-3)
+advmod(tricky-6, little-4)
+dep(tricky-6, bit-5)
+root(ROOT-0, tricky-6)
+xcomp(tricky-6, attaching-7)
+det(pedestal-9, the-8)
+dobj(attaching-7, pedestal-9)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(problem-4, no-3)
+dobj(had-2, problem-4)
+det(rest-7, the-6)
+prep_with(problem-4, rest-7)
+det(set-up-10, the-9)
+prep_of(rest-7, set-up-10)
+
+=========
+
+nsubj(buy-4, I-1)
+aux(buy-4, would-2)
+advmod(buy-4, definitely-3)
+root(ROOT-0, buy-4)
+advmod(buy-4, again-5)
+

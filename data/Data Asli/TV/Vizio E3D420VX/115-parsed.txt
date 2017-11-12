@@ -1,0 +1,94 @@
+=========
+
+root(ROOT-0, So-1)
+advmod(good-4, far-2)
+advmod(good-4, so-3)
+dep(So-1, good-4)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, it-4)
+det(week-7, a-6)
+prep_for(had-3, week-7)
+
+=========
+
+nsubj(works-2, Everything-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(player-7, a-3)
+amod(player-7, blue-4)
+nn(player-7, ray-5)
+amod(player-7, 3d-6)
+dobj(bought-2, player-7)
+amod(connection-11, 3d-9)
+nn(connection-11, hdmi-10)
+dobj(bought-2, connection-11)
+conj_and(player-7, connection-11)
+aux(try-13, to-12)
+xcomp(bought-2, try-13)
+det(movies-16, some-14)
+amod(movies-16, 3d-15)
+dobj(try-13, movies-16)
+
+=========
+
+nsubj(work-4, It-1)
+aux(work-4, did-2)
+neg(work-4, not-3)
+root(ROOT-0, work-4)
+nn(movies-7, streaming-5)
+amod(movies-7, 3d-6)
+dobj(work-4, movies-7)
+advmod(work-4, though-8)
+nsubj(played-11, I-10)
+conj_and(work-4, played-11)
+predet(settings-15, all-13)
+det(settings-15, the-14)
+prep_with(played-11, settings-15)
+mark(update-19, so-16)
+nsubj(update-19, I-17)
+aux(update-19, 'll-18)
+advcl(played-11, update-19)
+poss(review-21, my-20)
+dobj(update-19, review-21)
+advmod(get-24, when-22)
+nsubj(get-24, I-23)
+advcl(update-19, get-24)
+det(player-26, the-25)
+dobj(get-24, player-26)
+amod(cable-30, new-28)
+nn(cable-30, hdmi-29)
+dobj(get-24, cable-30)
+conj_and(player-26, cable-30)
+
+=========
+
+nsubj(lower-3, I-1)
+aux(lower-3, 'll-2)
+root(ROOT-0, lower-3)
+poss(review-5, my-4)
+dobj(lower-3, review-5)
+mark(work-10, if-6)
+nsubj(work-10, 3d-7)
+aux(work-10, does-8)
+neg(work-10, not-9)
+advcl(lower-3, work-10)
+predet(upgrades-14, all-12)
+poss(upgrades-14, my-13)
+prep_upon(work-10, upgrades-14)
+
+=========
+
+nsubj(see-3, We-1)
+aux(see-3, 'll-2)
+root(ROOT-0, see-3)
+

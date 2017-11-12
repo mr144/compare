@@ -1,0 +1,3 @@
+Love_NNP this_DT tv_NN !_.
+Its_PRP$ great_JJ and_CC I_PRP can_MD connect_VB it_PRP to_TO my_PRP$ Ipad_NN !_.
+And_CC I_PRP love_VBP having_VBG the_DT internet_NN on_IN my_PRP$ tv_NN !_.

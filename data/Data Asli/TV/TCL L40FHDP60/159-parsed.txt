@@ -1,0 +1,32 @@
+=========
+
+nsubj(arrived-2, TV-1)
+nsubj(set-8, TV-1)
+root(ROOT-0, arrived-2)
+amod(shape-5, great-4)
+prep_in(arrived-2, shape-5)
+conj_and(arrived-2, set-8)
+dobj(set-8, it-9)
+advmod(quickly-11, up-10)
+advmod(set-8, quickly-11)
+poss(friend-17, my-13)
+number(old-16, 85-14)
+dep(old-16, year-15)
+amod(friend-17, old-16)
+nsubj(loves-18, friend-17)
+parataxis(arrived-2, loves-18)
+dobj(loves-18, it-19)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+det(TV-4, this-3)
+dobj(recommend-2, TV-4)
+nsubj(beat-9, you-6)
+aux(beat-9, can-7)
+neg(beat-9, not-8)
+conj_and(recommend-2, beat-9)
+det(price-11, the-10)
+dobj(beat-9, price-11)
+

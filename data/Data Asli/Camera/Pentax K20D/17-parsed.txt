@@ -1,0 +1,215 @@
+=========
+
+nsubj(taking-4, I-1)
+aux(taking-4, have-2)
+aux(taking-4, been-3)
+root(ROOT-0, taking-4)
+dobj(taking-4, pictures-5)
+prep_since(taking-4, 1978-7)
+
+=========
+
+nsubj(used-3, I-1)
+aux(used-3, have-2)
+root(ROOT-0, used-3)
+amod(brands-7, many-4)
+amod(brands-7, different-5)
+nn(brands-7, camera-6)
+dobj(used-3, brands-7)
+dobj(used-3, types-9)
+conj_and(brands-7, types-9)
+det(film-12, both-11)
+dobj(used-3, film-12)
+conj_and(brands-7, film-12)
+dobj(used-3, digital-14)
+conj_and(brands-7, digital-14)
+
+=========
+
+nsubj(favorite-4, This-1)
+cop(favorite-4, is-2)
+poss(favorite-4, my-3)
+root(ROOT-0, favorite-4)
+
+=========
+
+nsubj(did-2, Pentax-1)
+root(ROOT-0, did-2)
+det(job-6, a-3)
+advmod(good-5, very-4)
+amod(job-6, good-5)
+dobj(did-2, job-6)
+xcomp(did-2, making-7)
+det(user-10, the-8)
+nn(user-10, controls-9)
+nsubj(friendly-11, user-10)
+xcomp(making-7, friendly-11)
+
+=========
+
+nsubj(able-3, I-1)
+cop(able-3, was-2)
+root(ROOT-0, able-3)
+aux(figure-5, to-4)
+xcomp(able-3, figure-5)
+prt(figure-5, out-6)
+num(%-8, 85-7)
+dobj(figure-5, %-8)
+det(functions-11, the-10)
+prep_of(%-8, functions-11)
+advmod(opening-14, ever-13)
+prepc_without(figure-5, opening-14)
+det(manual-18, the-15)
+advmod(written-17, well-16)
+amod(manual-18, written-17)
+dobj(opening-14, manual-18)
+
+=========
+
+nsubj(plus-5, That-1)
+cop(plus-5, is-2)
+advmod(plus-5, always-3)
+det(plus-5, a-4)
+root(ROOT-0, plus-5)
+poss(opinion-8, my-7)
+prep_in(plus-5, opinion-8)
+
+=========
+
+det(size-3, The-1)
+nn(size-3, file-2)
+nsubj(huge-5, size-3)
+cop(huge-5, is-4)
+root(ROOT-0, huge-5)
+
+=========
+
+nsubj(allows-2, It-1)
+root(ROOT-0, allows-2)
+amod(cropping-5, major-4)
+prep_for(allows-2, cropping-5)
+
+=========
+
+nsubj(work-3, It-1)
+aux(work-3, will-2)
+root(ROOT-0, work-3)
+prep_with(work-3, all-5)
+det(lenses-11, the-7)
+amod(lenses-11, old-8)
+amod(lenses-11, manual-9)
+nn(lenses-11, Pentax-10)
+prep_of(all-5, lenses-11)
+det(models-18, the-15)
+amod(models-18, new-16)
+amod(models-18, auto-focus-17)
+prep_of(all-5, models-18)
+conj_and(lenses-11, models-18)
+
+=========
+
+nsubj(has-6, someone-2)
+prep_for(save-12, someone-2)
+prep_like(someone-2, me-4)
+rcmod(someone-2, has-6)
+amod(glass-8, old-7)
+dobj(has-6, glass-8)
+nsubj(save-12, it-10)
+aux(save-12, will-11)
+root(ROOT-0, save-12)
+iobj(save-12, you-13)
+det(lot-15, a-14)
+dobj(save-12, lot-15)
+prep_of(lot-15, money-17)
+
+=========
+
+det(plus-3, The-1)
+amod(plus-3, other-2)
+nsubj(is-4, plus-3)
+root(ROOT-0, is-4)
+complm(is-7, that-5)
+expl(is-7, there-6)
+ccomp(is-4, is-7)
+det(lot-9, a-8)
+nsubj(is-7, lot-9)
+amod(glass-13, high-11)
+nn(glass-13, quality-12)
+prep_of(lot-9, glass-13)
+amod(glass-13, available-14)
+prep_on(available-14, EBay-16)
+nsubj(work-19, EBay-16)
+aux(work-19, will-18)
+rcmod(EBay-16, work-19)
+det(camera-22, this-21)
+prep_with(work-19, camera-22)
+mark(mind-28, if-24)
+nsubj(mind-28, you-25)
+aux(mind-28, do-26)
+neg(mind-28, not-27)
+advcl(work-19, mind-28)
+xcomp(mind-28, using-29)
+amod(exposure-31, manual-30)
+dobj(using-29, exposure-31)
+
+=========
+
+nsubj(taken-3, I-1)
+aux(taken-3, have-2)
+root(ROOT-0, taken-3)
+amod(pictures-5, beautiful-4)
+dobj(taken-3, pictures-5)
+xcomp(taken-3, using-6)
+dobj(using-6, lenses-7)
+det('s-12, the-9)
+amod('s-12, late-10)
+num('s-12, 70-11)
+prep_from(using-6, 's-12)
+
+=========
+
+advmod(looking-5, Overall-1)
+dep(looking-5, if-2)
+nsubj(looking-5, you-3)
+xsubj(step-7, you-3)
+aux(looking-5, are-4)
+advcl(think-13, looking-5)
+aux(step-7, to-6)
+xcomp(looking-5, step-7)
+prt(step-7, up-8)
+det(DSLR-11, a-10)
+prep_to(step-7, DSLR-11)
+nsubj(think-13, I-12)
+root(ROOT-0, think-13)
+nsubj(hard-17, it-14)
+aux(hard-17, would-15)
+cop(hard-17, be-16)
+ccomp(think-13, hard-17)
+aux(beat-19, to-18)
+xcomp(hard-17, beat-19)
+det(K20D-21, the-20)
+dobj(beat-19, K20D-21)
+
+=========
+
+nsubj(enjoy-2, I-1)
+root(ROOT-0, enjoy-2)
+xcomp(enjoy-2, using-3)
+iobj(using-3, it-4)
+dobj(using-3, everyday-5)
+
+=========
+
+root(ROOT-0, Do-1)
+poss(part-3, your-2)
+dobj(Do-1, part-3)
+prepc_in(Do-1, stimulating-5)
+det(economy-7, the-6)
+dobj(stimulating-5, economy-7)
+
+=========
+
+root(ROOT-0, Buy-1)
+det(camera-3, this-2)
+dobj(Buy-1, camera-3)
+

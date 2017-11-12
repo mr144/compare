@@ -1,0 +1,3 @@
+For_IN Informastional_NNP Purposes_NNPS if_IN you_PRP are_VBP buying_VBG this_DT product_NN .1_CD ._.
+The_DT phone_NN I_PRP recieved_VBD was_VBD a_DT T-Mobile_JJ branded_JJ phone_NN ,_, it_PRP was_VBD hlocked_VBN .2_CD ._.
+The_DT package_NN did_VBD not_RB contain_VB the_DT microSD_NNP card_NN as_IN marked_VBN on_IN the_DT box_NN ._.

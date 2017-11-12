@@ -1,0 +1,6 @@
+I_PRP booked_VBD a_DT week_NN long_JJ safari_NN to_TO coincide_VB with_IN a_DT business_NN trip_NN ._.
+I_PRP had_VBD a_DT weight_NN limit_NN which_WDT included_VBD work_NN computer_NN and_CC clothes_NNS in_IN addition_NN to_TO the_DT binoculars_NNS ,_, camera_NN and_CC safari_NN outfits_NNS ._.
+This_DT camera_NN was_VBD just_RB right_JJ ._.
+The_DT wide_JJ angle_NN lens_NN and_CC 16x_JJ optical_JJ zoom_NN produced_VBD beautiful_JJ photos_NNS ._.
+I_PRP did_VBD not_RB even_RB use_VB a_DT tripod_NN or_CC bean_NN bag_NN and_CC the_DT pictures_NNS were_VBD just_RB as_RB steady_JJ ._.
+I_PRP highly_RB recommend_VBP this_DT camera_NN ._.

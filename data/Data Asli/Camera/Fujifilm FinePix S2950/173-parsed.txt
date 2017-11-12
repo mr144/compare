@@ -1,0 +1,38 @@
+=========
+
+amod(camera-2, nice-1)
+root(ROOT-0, camera-2)
+
+=========
+
+nsubj(love-5, im-1)
+num(im-1, 13-2)
+conj_and(im-1, i-4)
+nsubj(love-5, i-4)
+root(ROOT-0, love-5)
+dobj(love-5, it-6)
+det(thing-10, the-8)
+amod(thing-10, only-9)
+nsubj(wish-15, thing-10)
+nsubj(say-13, i-11)
+aux(say-13, would-12)
+rcmod(thing-10, say-13)
+dobj(say-13, i-14)
+parataxis(love-5, wish-15)
+nsubj(take-18, it-16)
+nsubj(wise-25, it-16)
+aux(take-18, could-17)
+ccomp(wish-15, take-18)
+amod(pictures-22, better-19)
+amod(pictures-22, indoor-20)
+nn(pictures-22, sport-21)
+dobj(take-18, pictures-22)
+advmod(wise-25, other-24)
+ccomp(wish-15, wise-25)
+conj_but(take-18, wise-25)
+poss(camera-30, its-26)
+dep(great-28, a-27)
+amod(camera-30, great-28)
+nn(camera-30, bridge-29)
+dobj(wise-25, camera-30)
+

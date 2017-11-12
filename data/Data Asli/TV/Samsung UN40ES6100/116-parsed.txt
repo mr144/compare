@@ -1,0 +1,26 @@
+=========
+
+det(TV-4, A-1)
+amod(TV-4, real-2)
+amod(TV-4, nice-3)
+nsubj(!!-5, TV-4)
+root(ROOT-0, !!-5)
+det(buy-8, A-6)
+amod(buy-8, good-7)
+dobj(!!-5, buy-8)
+dobj(has-16, buy-8)
+det(bells-12, all-10)
+det(bells-12, the-11)
+prep_for(buy-8, bells-12)
+prep_for(buy-8, whistles-14)
+conj_and(bells-12, whistles-14)
+nsubj(has-16, it-15)
+rcmod(buy-8, has-16)
+
+=========
+
+det(picture-2, The-1)
+nsubj(great-4, picture-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+

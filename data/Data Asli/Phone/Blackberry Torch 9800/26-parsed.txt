@@ -1,0 +1,28 @@
+=========
+
+advmod(bless-12, Just-1)
+ccomp(bless-12, want-2)
+aux(thank-4, to-3)
+xcomp(want-2, thank-4)
+dobj(thank-4, you-5)
+amod(faithful-8, been-7)
+prep_for(thank-4, faithful-8)
+aux(bless-12, may-10)
+advmod(bless-12, God-11)
+root(ROOT-0, bless-12)
+dobj(bless-12, you-13)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(u-5, the-3)
+nn(u-5, service-4)
+dobj(love-2, u-5)
+prep(love-2, provided-6)
+pcomp(provided-6, to-7)
+prep_to(provided-6, me-8)
+advmod(me-8, also-10)
+nn(product-12, ur-11)
+dep(me-8, product-12)
+

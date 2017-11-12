@@ -1,0 +1,20 @@
+=========
+
+advmod(alot-2, Still-1)
+root(ROOT-0, alot-2)
+aux(learn-4, to-3)
+xcomp(alot-2, learn-4)
+det(features-7, the-6)
+prep_about(learn-4, features-7)
+det(camera-10, this-9)
+prep_of(features-7, camera-10)
+conj_but(alot-2, loving-12)
+det(quality-15, the-13)
+nn(quality-15, pic-14)
+dobj(loving-12, quality-15)
+conj_but(alot-2, zoom-17)
+conj_and(loving-12, zoom-17)
+dobj(zoom-17, performance-18)
+advmod(far-20, so-19)
+advmod(zoom-17, far-20)
+

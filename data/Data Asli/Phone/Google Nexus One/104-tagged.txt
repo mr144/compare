@@ -1,0 +1,4 @@
+This_DT is_VBZ my_PRP$ first_JJ smart_JJ phone_NN and_CC I_PRP love_VBP it_PRP ._.
+Updated_VBN OS_NNP to_TO 2.3.4_CD No_NNP issues_NNS with_IN WIFI_NNP connectionCalls_NNPS are_VBP clear_JJ ._.
+Burned_VBN my_PRP$ first_JJ android_NN program_NN today_NN using_VBG eclipse_VB IDE_NNP ._.
+No_DT issues_NNS there_RB ._.

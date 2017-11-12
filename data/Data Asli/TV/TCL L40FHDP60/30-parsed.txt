@@ -1,0 +1,43 @@
+=========
+
+nsubj(clear-2, Pretty-1)
+root(ROOT-0, clear-2)
+dobj(clear-2, color-3)
+
+=========
+
+amod(value-2, Good-1)
+root(ROOT-0, value-2)
+
+=========
+
+nsubj(clear-6, either-1)
+prep_on(either-1, cable-3)
+prep_on(either-1, antenna-5)
+conj_or(cable-3, antenna-5)
+root(ROOT-0, clear-6)
+dobj(clear-6, picture-7)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(set-3, to-2)
+dep(Easy-1, set-3)
+prt(set-3, up-4)
+dep(Easy-1, operate-6)
+conj_and(set-3, operate-6)
+
+=========
+
+amod(ship-2, fast-1)
+nsubj(new-7, ship-2)
+nn(TCL-5, deliveryModel-4)
+conj_and(ship-2, TCL-5)
+nsubj(new-7, TCL-5)
+cop(new-7, was-6)
+root(ROOT-0, new-7)
+prep_to(new-7, me-9)
+prep(me-9, but-10)
+amod(purchase-12, good-11)
+dep(but-10, purchase-12)
+

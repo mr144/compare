@@ -1,0 +1,4 @@
+Hi_NNS !_.
+I_PRP need_VBP a_DT phone_NN with_IN 3G_CD frequences_NNS in_IN 850\/1900_CD to_TO work_VB in_IN Venezuela_NNP with_IN MOVILNET_NNP operator_NN ._.
+Is_VBZ this_DT version_NN available_JJ ?_.
+-_: Thak_VB you_PRP !_.

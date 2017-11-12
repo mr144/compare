@@ -1,0 +1,39 @@
+=========
+
+det(camera-2, This-1)
+nsubj(amazing-4, camera-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+advmod(far-7, as-6)
+conj_and(amazing-4, far-7)
+mark(concerned-11, as-8)
+nsubjpass(concerned-11, I-9)
+auxpass(concerned-11, am-10)
+advcl(amazing-4, concerned-11)
+cop(new-13, was-12)
+ccomp(concerned-11, new-13)
+
+=========
+
+poss(boyfriend-2, My-1)
+nsubj(love-6, boyfriend-2)
+nsubj(use-9, boyfriend-2)
+conj_and(boyfriend-2, I-4)
+nsubj(love-6, I-4)
+advmod(love-6, just-5)
+root(ROOT-0, love-6)
+dobj(love-6, it-7)
+conj_and(love-6, use-9)
+dobj(use-9, it-10)
+det(events-16, all-12)
+nn(events-16, family-13)
+conj_and(family-13, sports-15)
+nn(events-16, sports-15)
+prep_at(use-9, events-16)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+

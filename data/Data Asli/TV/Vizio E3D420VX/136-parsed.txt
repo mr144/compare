@@ -1,0 +1,30 @@
+=========
+
+poss(son-2, My-1)
+nsubj(enjoyed-5, son-2)
+aux(enjoyed-5, has-3)
+advmod(enjoyed-5, totally-4)
+root(ROOT-0, enjoyed-5)
+poss(movies-8, his-6)
+num(movies-8, 3D-7)
+xcomp(enjoyed-5, movies-8)
+amod(picture-11, great-10)
+xcomp(enjoyed-5, picture-11)
+conj_and(movies-8, picture-11)
+advmod(in-14, when-12)
+neg(in-14, not-13)
+advcl(enjoyed-5, in-14)
+num(mode-16, 3D-15)
+pobj(in-14, mode-16)
+
+=========
+
+nsubj(tell-3, I-1)
+aux(tell-3, would-2)
+root(ROOT-0, tell-3)
+dobj(tell-3, anyone-4)
+aux(buy-6, to-5)
+xcomp(tell-3, buy-6)
+det(product-8, this-7)
+dobj(buy-6, product-8)
+

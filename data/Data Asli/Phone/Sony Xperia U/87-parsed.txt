@@ -1,0 +1,50 @@
+=========
+
+advmod(great-2, Really-1)
+amod(phone-3, great-2)
+nsubj(range-7, phone-3)
+det(price-6, the-5)
+prep_for(phone-3, price-6)
+root(ROOT-0, range-7)
+
+=========
+
+nsubj(support-11, Best-1)
+prep_in(Best-1, class-3)
+amod(size-6, Screen-5)
+prep_for(class-3, size-6)
+prep_for(class-3, Speed-8)
+conj_and(size-6, Speed-8)
+prep_for(class-3, app-10)
+conj_and(size-6, app-10)
+root(ROOT-0, support-11)
+
+=========
+
+dep(no-2, But-1)
+root(ROOT-0, no-2)
+pobj(no-2, 4G-3)
+
+=========
+
+nsubj(slow-5, Will-1)
+cop(slow-5, be-2)
+advmod(slow-5, little-3)
+dep(slow-5, bit-4)
+root(ROOT-0, slow-5)
+mark(upgrade-7, if-6)
+dep(slow-5, upgrade-7)
+nn(4.0-10, Android-9)
+prep_to(upgrade-7, 4.0-10)
+
+=========
+
+amod(life-3, Average-1)
+nn(life-3, battery-2)
+root(ROOT-0, life-3)
+dep(life-3, Need-5)
+prep_to(Need-5, charge-7)
+det(day-10, every-8)
+amod(day-10, other-9)
+dep(charge-7, day-10)
+

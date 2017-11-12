@@ -1,0 +1,40 @@
+=========
+
+amod(item-2, Great-1)
+root(ROOT-0, item-2)
+
+=========
+
+det(price-3, the-2)
+prep_for(is-6, price-3)
+det(item-5, this-4)
+nsubj(is-6, item-5)
+root(ROOT-0, is-6)
+advmod(is-6, well-7)
+prep_worth(is-6, it-9)
+
+=========
+
+nsubj(been-2, Its-1)
+partmod(has-19, been-2)
+det(year-5, a-4)
+prep_over(been-2, year-5)
+det(travels-8, this-7)
+prep_over(been-2, travels-8)
+conj_and(year-5, travels-8)
+prep_with(travels-8, me-10)
+advmod(been-2, everywhere-11)
+nn(bag-14, diaper-13)
+nsubj(has-19, bag-14)
+xsubj(break-22, bag-14)
+conj_and(bag-14, purse-16)
+nsubj(has-19, purse-16)
+xsubj(break-22, purse-16)
+conj_and(bag-14, it-18)
+nsubj(has-19, it-18)
+xsubj(break-22, it-18)
+root(ROOT-0, has-19)
+advmod(has-19, yet-20)
+aux(break-22, to-21)
+xcomp(has-19, break-22)
+

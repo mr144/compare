@@ -1,0 +1,2 @@
+good_JJ Size_NN ,_, good_JJ Price_NN ,_, good_JJ Camera_NN ._.
+bad_JJ Battery_NNP -LRB-_-LRB- Somethimes_NNPS with_IN normal_JJ use_NN does_VBZ not_RB last_VB one_CD day_NN -RRB-_-RRB- -_: It_PRP became_VBD slow_JJ when_WRB you_PRP upgrade_VBP it_PRP to_TO Android_NNP 4.0.4_CD -LRB-_-LRB- Waiting_VBG to_TO be_VB resolved_VBN in_IN next_JJ upgrade_NN -RRB-_-RRB- -_: Too_RB much_JJ bloatware_NN with_IN Stock_NNP Firmware_NNP

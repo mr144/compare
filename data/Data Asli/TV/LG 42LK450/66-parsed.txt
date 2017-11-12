@@ -1,0 +1,32 @@
+=========
+
+advmod(nice-2, Very-1)
+amod(TV-3, nice-2)
+nsubj(looks-11, TV-3)
+det(price-6, the-5)
+prep_for(TV-3, price-6)
+appos(TV-3, works-8)
+advmod(TV-3, well-9)
+root(ROOT-0, looks-11)
+acomp(looks-11, nice-12)
+dep(wanted-17, exactly-14)
+dep(exactly-14, what-15)
+nsubj(wanted-17, we-16)
+ccomp(looks-11, wanted-17)
+
+=========
+
+advmod(using-2, Currently-1)
+root(ROOT-0, using-2)
+dobj(using-2, it-3)
+det(Blu-Ray-7, a-5)
+nn(Blu-Ray-7, Sony-6)
+prep_with(using-2, Blu-Ray-7)
+prep_for(Blu-Ray-7, discs-9)
+prep_for(Blu-Ray-7, streaming-11)
+conj_and(discs-9, streaming-11)
+advmod(happy-14, very-13)
+amod(Blu-Ray-7, happy-14)
+det(performance-17, the-16)
+prep_with(using-2, performance-17)
+

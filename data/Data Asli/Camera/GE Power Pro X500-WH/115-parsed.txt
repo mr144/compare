@@ -1,0 +1,41 @@
+=========
+
+det(camera-2, The-1)
+nsubj(takes-3, camera-2)
+root(ROOT-0, takes-3)
+amod(pictures-5, great-4)
+dobj(takes-3, pictures-5)
+
+=========
+
+advmod(wish-2, Just-1)
+csubj('s-13, wish-2)
+nsubj(had-4, it-3)
+ccomp(wish-2, had-4)
+det(battery-7, a-5)
+amod(battery-7, rechargeable-6)
+dobj(had-4, battery-7)
+det(A-12, the-10)
+amod(A-12, double-11)
+prep_instead_of(battery-7, A-12)
+root(ROOT-0, 's-13)
+
+=========
+
+nsubj(easy-3, It-1)
+cop(easy-3, 's-2)
+root(ROOT-0, easy-3)
+aux(download-5, to-4)
+xcomp(easy-3, download-5)
+poss(computer-8, your-7)
+prep_to(download-5, computer-8)
+xcomp(easy-3, take-10)
+conj_or(download-5, take-10)
+det(stick-12, the-11)
+dobj(take-10, stick-12)
+det(booth-15, a-14)
+prep_to(take-10, booth-15)
+dep(booth-15, like-16)
+prep_at(booth-15, Walgreen-18)
+possessive(Walgreen-18, 's-19)
+

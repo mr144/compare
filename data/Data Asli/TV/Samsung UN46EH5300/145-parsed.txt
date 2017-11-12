@@ -1,0 +1,33 @@
+=========
+
+det(TV-2, This-1)
+nsubj(great-4, TV-2)
+nsubj(has-6, TV-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+conj_and(great-4, has-6)
+amod(quality-8, fantastic-7)
+dobj(has-6, quality-8)
+
+=========
+
+nsubj(love-2, We-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+det(hub-3, The-1)
+amod(hub-3, smart-2)
+nsubj(easy-8, hub-3)
+nsubj(easy-12, hub-3)
+det(controls-6, the-5)
+conj_and(hub-3, controls-6)
+nsubj(easy-8, controls-6)
+cop(easy-8, are-7)
+root(ROOT-0, easy-8)
+prep_to(easy-8, setup-10)
+conj_and(easy-8, easy-12)
+aux(use-14, to-13)
+xcomp(easy-12, use-14)
+

@@ -1,0 +1,31 @@
+=========
+
+root(ROOT-0, Gives-1)
+nsubj(close-4, you-2)
+advmod(close-4, pretty-3)
+xcomp(Gives-1, close-4)
+det(DSLR-7, a-6)
+prep_to(close-4, DSLR-7)
+prepc_without(DSLR-7, having-9)
+aux(carry-11, to-10)
+xcomp(having-9, carry-11)
+amod(lenses-14, multiple-12)
+amod(lenses-14, huge-13)
+dobj(carry-11, lenses-14)
+aux(achieve-16, to-15)
+xcomp(carry-11, achieve-16)
+det(level-18, this-17)
+dobj(achieve-16, level-18)
+prep_of(level-18, zoom-20)
+
+=========
+
+det(challenge-3, A-1)
+amod(challenge-3, small-2)
+nsubj(filters\/hood-8, challenge-3)
+advmod(put-7, how-5)
+aux(put-7, to-6)
+prepc_about(challenge-3, put-7)
+root(ROOT-0, filters\/hood-8)
+prep_on(filters\/hood-8, it-10)
+

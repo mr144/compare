@@ -1,0 +1,114 @@
+=========
+
+prep_in(phone-6, general-2)
+neg(general-2, not-3)
+det(bad-5, a-4)
+nsubj(phone-6, bad-5)
+root(ROOT-0, phone-6)
+
+=========
+
+nsubj(screen-2, Nice-1)
+root(ROOT-0, screen-2)
+dobj(screen-2, size-3)
+dobj(screen-2, quality-5)
+conj_and(size-3, quality-5)
+
+=========
+
+dep(heavy-4, Perhaps-1)
+det(heavy-4, a-2)
+nn(heavy-4, tad-3)
+root(ROOT-0, heavy-4)
+
+=========
+
+amod(juice-2, Enough-1)
+nsubj(use-9, juice-2)
+det(battery-5, the-4)
+prep_in(juice-2, battery-5)
+num(day-8, one-7)
+prep_for(battery-5, day-8)
+root(ROOT-0, use-9)
+
+=========
+
+aux(forget-3, Do-1)
+neg(forget-3, not-2)
+root(ROOT-0, forget-3)
+aux(charge-5, to-4)
+xcomp(forget-3, charge-5)
+advmod(charge-5, regularly-6)
+
+=========
+
+nn(controls-2, Volume-1)
+nsubj(responsive-6, controls-2)
+cop(responsive-6, are-3)
+neg(responsive-6, not-4)
+advmod(responsive-6, very-5)
+root(ROOT-0, responsive-6)
+partmod(nuisance-23, opening-8)
+conj_and(opening-8, closing-10)
+partmod(nuisance-23, closing-10)
+det(phone-12, the-11)
+dobj(opening-8, phone-12)
+nn(SIM-15, replace\/insert-14)
+prep_to(opening-8, SIM-15)
+appos(SIM-15, MicroSD-17)
+amod(battery-20, and\/or-19)
+nsubj(nuisance-23, battery-20)
+cop(nuisance-23, is-21)
+det(nuisance-23, a-22)
+conj_and(responsive-6, nuisance-23)
+mark(difficult-29, as-24)
+det(covers-27, the-25)
+amod(covers-27, plastic-26)
+nsubj(difficult-29, covers-27)
+cop(difficult-29, are-28)
+advcl(nuisance-23, difficult-29)
+aux(use-31, to-30)
+xcomp(difficult-29, use-31)
+
+=========
+
+csubjpass(complicated-7, Rooting\/unlocking-1)
+det(phone-3, the-2)
+dobj(Rooting\/unlocking-1, phone-3)
+auxpass(complicated-7, is-4)
+neg(complicated-7, not-5)
+advmod(complicated-7, too-6)
+root(ROOT-0, complicated-7)
+det(challenge-11, the-10)
+prep_apart_from(complicated-7, challenge-11)
+aux(enter-13, to-12)
+infmod(challenge-11, enter-13)
+amod(mode-15, HBOOT-14)
+dobj(enter-13, mode-15)
+partmod(mode-15, requiring-16)
+xcomp(requiring-16, powering-17)
+prt(powering-17, on-18)
+prepc_while(powering-17, holding-20)
+det(button-23, the-21)
+amod(button-23, volume-down-22)
+dobj(holding-20, button-23)
+
+=========
+
+det(button-3, The-1)
+nn(button-3, volume-2)
+nsubj(unresponsive-6, button-3)
+cop(unresponsive-6, is-4)
+advmod(unresponsive-6, extremely-5)
+root(ROOT-0, unresponsive-6)
+nsubj(had-10, I-8)
+xsubj(boot-12, I-8)
+advmod(had-10, probably-9)
+conj_and(unresponsive-6, had-10)
+aux(boot-12, to-11)
+xcomp(had-10, boot-12)
+num(times-14, 25-13)
+npadvmod(boot-12, times-14)
+cop(successful-17, being-16)
+prepc_before(boot-12, successful-17)
+

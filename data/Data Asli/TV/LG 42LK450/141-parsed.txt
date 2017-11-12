@@ -1,0 +1,54 @@
+=========
+
+root(ROOT-0, Bought-1)
+det(brand-3, another-2)
+dobj(Bought-1, brand-3)
+prep_of(brand-3, TV-5)
+cop(happy-9, was-7)
+neg(happy-9, not-8)
+conj_and(Bought-1, happy-9)
+det(picture-12, the-11)
+prep_with(happy-9, picture-12)
+
+=========
+
+csubj(store-4, Returned-1)
+prep_to(Returned-1, warehouse-3)
+root(ROOT-0, store-4)
+advmod(purchased-6, where-5)
+advcl(store-4, purchased-6)
+advcl(store-4, ordered-8)
+conj_and(purchased-6, ordered-8)
+det(TV-11, this-9)
+nn(TV-11, LG-10)
+dobj(ordered-8, TV-11)
+
+=========
+
+root(ROOT-0, Like-1)
+pobj(Like-1, night-2)
+pobj(Like-1, day-4)
+conj_and(night-2, day-4)
+
+=========
+
+nsubj(has-2, This-1)
+root(ROOT-0, has-2)
+det(picture-5, a-3)
+amod(picture-5, great-4)
+dobj(has-2, picture-5)
+
+=========
+
+nsubj(great-3, Service-1)
+nsubj(received-5, Service-1)
+nsubj(love-10, Service-1)
+cop(great-3, was-2)
+root(ROOT-0, great-3)
+conj_and(great-3, received-5)
+det(week-8, a-7)
+prep_within(received-5, week-8)
+conj_and(great-3, love-10)
+det(set-12, the-11)
+dobj(love-10, set-12)
+

@@ -1,0 +1,22 @@
+=========
+
+root(ROOT-0, but-1)
+npadvmod(sometime-3, problems-2)
+advmod(with-4, sometime-3)
+dep(but-1, with-4)
+det(conection-7, the-5)
+amod(conection-7, internet-6)
+pobj(with-4, conection-7)
+poss(father-10, my-9)
+nsubj(use-11, father-10)
+rcmod(conection-7, use-11)
+det(phone-13, the-12)
+dobj(use-11, phone-13)
+nsubj(don-16, he-15)
+rcmod(conection-7, don-16)
+conj_and(use-11, don-16)
+dobj(don-16, need-17)
+nsubj(lol-20, need-17)
+advmod(lol-20, really-19)
+rcmod(need-17, lol-20)
+

@@ -1,0 +1,148 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(TV-5, this-4)
+dobj(had-3, TV-5)
+advmod(month-8, almost-6)
+det(month-8, a-7)
+npadvmod(now-9, month-8)
+advmod(had-3, now-9)
+
+=========
+
+nsubj(went-4, Delivery-1)
+prep_via(Delivery-1, Pilot-3)
+root(ROOT-0, went-4)
+mark(scheduled-6, as-5)
+advcl(went-4, scheduled-6)
+nn(window-11, date-8)
+conj_and(date-8, time-10)
+nn(window-11, time-10)
+prep_on(scheduled-6, window-11)
+
+=========
+
+det(TV-2, This-1)
+nsubj(has-3, TV-2)
+root(ROOT-0, has-3)
+advmod(many-5, so-4)
+amod(features-6, many-5)
+dobj(has-3, features-6)
+parataxis(has-3, built-8)
+nn(Bluetooth-12, Wi-Fi-10)
+prep_in(built-8, Bluetooth-12)
+amod(adjustments-15, many-14)
+appos(Bluetooth-12, adjustments-15)
+nn(quality-18, picture-17)
+prep_for(adjustments-15, quality-18)
+
+=========
+
+det(tweaks-4, a-2)
+amod(tweaks-4, few-3)
+prep_after(amazing-9, tweaks-4)
+det(quality-7, the-5)
+nn(quality-7, picture-6)
+nsubj(amazing-9, quality-7)
+cop(amazing-9, is-8)
+root(ROOT-0, amazing-9)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, even-2)
+root(ROOT-0, have-3)
+det(app-7, the-4)
+nn(app-7, Viera-5)
+amod(app-7, remote-6)
+dobj(have-3, app-7)
+poss(HD-12, my-9)
+nn(HD-12, Kindle-10)
+nn(HD-12, Fire-11)
+prep_on(app-7, HD-12)
+
+=========
+
+nsubj(TV-5, It-1)
+cop(TV-5, is-2)
+det(TV-5, the-3)
+amod(TV-5, best-4)
+root(ROOT-0, TV-5)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+
+=========
+
+det(app-3, this-2)
+prep_on(has-5, app-3)
+nsubj(has-5, it-4)
+root(ROOT-0, has-5)
+det(browser-7, a-6)
+dobj(has-5, browser-7)
+nsubj(allows-9, browser-7)
+rcmod(browser-7, allows-9)
+nsubj(flick-13, you-10)
+aux(flick-13, to-11)
+advmod(flick-13, simply-12)
+xcomp(allows-9, flick-13)
+prep_to(flick-13, TV-15)
+dobj(viewing-19, what-16)
+nsubj(viewing-19, you-17)
+aux(viewing-19, are-18)
+ccomp(flick-13, viewing-19)
+poss(Kindle-22, your-21)
+prep_on(viewing-19, Kindle-22)
+
+=========
+
+root(ROOT-0, Great-1)
+nn(videos-4, sharing-3)
+prep_for(Great-1, videos-4)
+amod(members-8, other-6)
+nn(members-8, family-7)
+prep_with(Great-1, members-8)
+
+=========
+
+mark(is-4, Since-1)
+det(TV-3, this-2)
+nsubj(is-4, TV-3)
+advcl(view-12, is-4)
+poss(network-8, my-6)
+nn(network-8, home-7)
+prep_on(is-4, network-8)
+nsubj(view-12, I-9)
+nsubj(play-15, I-9)
+aux(view-12, can-10)
+advmod(view-12, even-11)
+root(ROOT-0, view-12)
+dobj(view-12, pictures-13)
+conj_and(view-12, play-15)
+dobj(play-15, videos-16)
+nsubjpass(stored-19, videos-16)
+auxpass(stored-19, are-18)
+rcmod(videos-16, stored-19)
+poss(computer-22, my-21)
+prep_on(stored-19, computer-22)
+
+=========
+
+det(doubt-3, a-2)
+prep_without(TV-8, doubt-3)
+nsubj(TV-8, this-4)
+cop(TV-8, is-5)
+det(TV-8, the-6)
+amod(TV-8, best-7)
+root(ROOT-0, TV-8)
+dobj(owned-12, TV-8)
+nsubj(owned-12, I-9)
+aux(owned-12, have-10)
+advmod(owned-12, ever-11)
+rcmod(TV-8, owned-12)
+

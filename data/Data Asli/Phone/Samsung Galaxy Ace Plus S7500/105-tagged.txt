@@ -1,0 +1,3 @@
+The_DT Cellphone_NNP was_VBD sold_VBN as_IN compatible_JJ with_IN a_DT band_NN i_FW could_MD use_VB with_IN my_PRP$ mobile_JJ operator_NN but_CC it_PRP did_VBD not_RB ._.
+The_DT seller_NN had_VBD the_DT description_NN wrong_JJ ._.
+The_DT cellphone_NN is_VBZ pretty_RB good_JJ but_CC I_PRP can_MD not_RB use_VB it_PRP where_WRB I_PRP live_VBP ._.

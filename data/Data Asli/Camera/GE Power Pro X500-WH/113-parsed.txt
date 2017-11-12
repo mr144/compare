@@ -1,0 +1,40 @@
+=========
+
+root(ROOT-0, This-1)
+det(step-4, a-2)
+amod(step-4, great-3)
+dep(This-1, step-4)
+prep_up(step-4, camera-6)
+
+=========
+
+nsubj(enjoying-3, I-1)
+aux(enjoying-3, am-2)
+root(ROOT-0, enjoying-3)
+predet(the-5, all-4)
+nsubj(easy-6, the-5)
+xcomp(enjoying-3, easy-6)
+aux(use-8, to-7)
+xcomp(easy-6, use-8)
+dobj(use-8, features-9)
+
+=========
+
+nn(indoor-2, Great-1)
+nsubj(pictures-5, indoor-2)
+conj_and(indoor-2, outdoor-4)
+nsubj(pictures-5, outdoor-4)
+root(ROOT-0, pictures-5)
+
+=========
+
+cc(makes-6, And-1)
+det(color-5, the-2)
+amod(color-5, optional-3)
+amod(color-5, white-4)
+nsubj(makes-6, color-5)
+root(ROOT-0, makes-6)
+nsubj(stand-8, you-7)
+ccomp(makes-6, stand-8)
+prt(stand-8, out-9)
+

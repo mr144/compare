@@ -1,0 +1,33 @@
+=========
+
+amod(choice-2, Excelent-1)
+root(ROOT-0, choice-2)
+
+=========
+
+nsubj(recommended-2, Totaly-1)
+root(ROOT-0, recommended-2)
+
+=========
+
+nsubj(camera-6, It-1)
+cop(camera-6, is-2)
+det(camera-6, a-3)
+advmod(good-5, very-4)
+amod(camera-6, good-5)
+root(ROOT-0, camera-6)
+amod(zoom-9, grate-8)
+conj_and(camera-6, zoom-9)
+conj_and(camera-6, pixeles-11)
+
+=========
+
+root(ROOT-0, Practice-1)
+aux(carry-3, to-2)
+xcomp(Practice-1, carry-3)
+nsubj(take-6, it-5)
+conj_and(Practice-1, take-6)
+det(pictures-8, the-7)
+dobj(take-6, pictures-8)
+advmod(take-6, fast-9)
+

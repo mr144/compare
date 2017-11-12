@@ -1,0 +1,16 @@
+After_IN a_DT month_NN ,_, about_IN 1,500_CD photos_NNS and_CC 2_CD hours_NNS of_IN video_NN ,_, I_PRP can_MD say_VB my_PRP$ new_JJ Nikon_NNP D7100_NNP overall_NN is_VBZ a_DT nice_JJ step_NN up_RB from_IN my_PRP$ old_JJ D300_NNP -LRB-_-LRB- purchased_VBN in_IN Dec2007_NNP -RRB-_-RRB- ._.
+The_DT D7100_NNP is_VBZ smaller_JJR and_CC lighter_JJR than_IN the_DT D300_NNP plus_CC the_DT D7100_NNP shoots_VBZ video_NN ._.
+While_IN it_PRP is_VBZ video_JJ capabilities_NNS can_MD not_RB touch_VB my_PRP$ wife_NN 's_POS Sony_NNP HDR-CX550V_NNP digital_JJ video_NN camera_NN ,_, the_DT D7100_NNP is_VBZ far_RB more_RBR convenient_JJ to_TO use_VB versus_CC lugging_VBG around_IN both_DT the_DT D300_NNP and_CC HDR-CX550V_NNP ._.
+The_DT D7100_NNP will_MD AF_VB in_IN live_JJ view_NN video_NN mode_NN ,_, something_NN that_IN I_PRP do_VBP not_RB believe_VB Canon_NNP digital_JJ SLR_NNP cameras_NNS will_MD do_VB ._.
+D7100_CD vs._IN D300_NNP :_: D7100_NNP has_VBZ the_DT same_JJ to_TO faster_JJR autofocus_NN speed_NN and_CC sensitivity_NN ,_, better_JJR image_NN quality_NN ,_, the_DT same_JJ to_TO better_JJR color_NN ,_, and_CC metering_VBG accuracy_NN is_VBZ about_IN the_DT same_JJ or_CC slightly_RB better_JJR than_IN the_DT D300_NNP ._.
+Both_DT the_DT D7100_NNP and_CC D300_NNP suffer_VBP from_IN a_DT small_JJ memory_NN buffer_NN -_: in_IN high_JJ speed_NN frame_NN advance_NN -LRB-_-LRB- 6_CD fps_NNS -RRB-_-RRB- the_DT buffer_NN fills_VBZ and_CC slow_VB down_RP about_RB 2-3_CD fps_NNS after_IN 7_CD or_CC 8_CD consecutive_JJ shoots_NNS ._.
+At_IN 4_CD fps_NNS or_CC slower_JJR ,_, I_PRP can_MD shoot_VB to_TO my_PRP$ hearts_NNS content_JJ with_IN the_DT D7100_NNP ._.
+I_PRP do_VBP not_RB really_RB care_VB for_IN the_DT D7100_NNP 's_POS user_NN customizable_JJ banks_NNS ,_, as_IN they_PRP are_VBP limited_VBN to_TO only_RB two_CD ._.
+The_DT D300_NNP has_VBZ several_JJ user_NN customizable_JJ banks_NNS ,_, but_CC they_PRP are_VBP accessible_JJ only_RB through_IN the_DT camera_NN 's_POS menu_NN system_NN -LRB-_-LRB- call_VB this_DT a_DT stalemate_NN -RRB-_-RRB- ._.
+The_DT D300_NNP is_VBZ more_RBR ruggedly_RB constructed_VBN than_IN the_DT D7100_NNP ,_, and_CC several_JJ key_JJ camera_NN functions_NNS are_VBP quicker_JJR and_CC easier_JJR to_TO set_VB than_IN on_IN the_DT D7100_NNP -LRB-_-LRB- i.e._FW ,_, AF_NNP mode_NN ,_, metering_NN ,_, ISO_NNP ,_, white_JJ balance_NN -RRB-_-RRB- ._.
+I_PRP love_VBP the_DT dual_JJ SDXC_NNP card_NN slots_NNS of_IN the_DT D7100_NNP and_CC hate_VB the_DT CF_NNP cards_NNS for_IN the_DT D300_NNP ._.
+The_DT D7100_NNP has_VBZ better_JJR battery_NN life_NN than_IN the_DT D300_NNP -LRB-_-LRB- but_CC the_DT D7000_NNP battery_NN life_NN beats_VBZ both_DT -RRB-_-RRB- ._.
+I_PRP am_VBP concerned_JJ that_IN the_DT D7100_NNP lacks_VBZ the_DT rear_JJ LCD_NNP screen_NN protector_NN that_IN the_DT D300_NNP -LRB-_-LRB- and_CC D7000_NNP -RRB-_-RRB- have_VBP ._.
+I_PRP can_MD see_VB Nikon_NNP eliminating_VBG the_DT screen_NN protector_NN on_IN a_DT tilt_NN \/_FW swivel_FW LCD_NNP screen_NN ,_, and_CC \/_CD or_CC a_DT touch_NN screen_NN ,_, but_CC the_DT D7100_NNP has_VBZ neither_DT of_IN these_DT ._.
+What_WP gives_VBZ here_RB ?_.
+Overall_RB ,_, so_RB far_RB so_RB good_JJ ._.

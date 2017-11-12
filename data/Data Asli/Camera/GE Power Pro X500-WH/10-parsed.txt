@@ -1,0 +1,120 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, perfect-3)
+dobj(takes-2, pictures-4)
+
+=========
+
+advmod(shakey-8, Even-1)
+dep(shakey-8, if-2)
+poss(hand-4, your-3)
+nsubj(shakey-8, hand-4)
+cop(shakey-8, is-5)
+det(bit-7, a-6)
+npadvmod(shakey-8, bit-7)
+advcl(sharp-14, shakey-8)
+det(picture-11, the-10)
+nsubj(sharp-14, picture-11)
+cop(sharp-14, is-12)
+advmod(sharp-14, perfectly-13)
+root(ROOT-0, sharp-14)
+
+=========
+
+nsubj(used-2, I-1)
+root(ROOT-0, used-2)
+nn(batteries-4, Energizer-3)
+dobj(used-2, batteries-4)
+det(camera-7, the-6)
+prep_in(used-2, camera-7)
+nsubj(lasted-10, they-9)
+conj_and(used-2, lasted-10)
+advmod(lasted-10, well-11)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, only-2)
+dobj(encountered-6, problem-3)
+nsubj(is-7, problem-3)
+nsubj(encountered-6, I-4)
+aux(encountered-6, have-5)
+rcmod(problem-3, encountered-6)
+root(ROOT-0, is-7)
+complm(hard-16, that-8)
+det(door-12, the-9)
+nn(door-12, battery-10)
+nn(door-12, compartment-11)
+nsubj(hard-16, door-12)
+xsubj(open-18, door-12)
+cop(hard-16, is-13)
+det(bit-15, a-14)
+npadvmod(hard-16, bit-15)
+ccomp(is-7, hard-16)
+aux(open-18, to-17)
+xcomp(hard-16, open-18)
+xcomp(hard-16, close-20)
+conj_and(open-18, close-20)
+
+=========
+
+det(uses-4, a-2)
+amod(uses-4, few-3)
+prep_after(broke-10, uses-4)
+det(hinge-7, the-6)
+nsubj(broke-10, hinge-7)
+prep_on(hinge-7, mine-9)
+root(ROOT-0, broke-10)
+
+=========
+
+advmod(careful-5, Maybe-1)
+nsubj(careful-5, I-2)
+cop(careful-5, was-3)
+neg(careful-5, not-4)
+root(ROOT-0, careful-5)
+advmod(careful-5, enough-6)
+prep_with(careful-5, it-8)
+
+=========
+
+aux(get-2, To-1)
+purpcl(mailed-10, get-2)
+nsubj(replaced-4, it-3)
+dep(get-2, replaced-4)
+det(camera-7, the-6)
+nsubjpass(mailed-10, camera-7)
+aux(mailed-10, must-8)
+auxpass(mailed-10, be-9)
+root(ROOT-0, mailed-10)
+prep_to(mailed-10, GE-12)
+prep_in(mailed-10, California-14)
+prep_for(California-14, replacement-16)
+
+=========
+
+det(charge-2, The-1)
+nsubj($-4, charge-2)
+cop($-4, is-3)
+root(ROOT-0, $-4)
+num($-4, 30-5)
+
+=========
+
+advmod(camera-7, Otherwise-1)
+nsubj(camera-7, this-3)
+cop(camera-7, is-4)
+det(camera-7, a-5)
+amod(camera-7, great-6)
+root(ROOT-0, camera-7)
+

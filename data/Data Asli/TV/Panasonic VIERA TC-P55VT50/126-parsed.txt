@@ -1,0 +1,230 @@
+=========
+
+root(ROOT-0, Let-1)
+nsubj(say-4, me-2)
+advmod(say-4, first-3)
+ccomp(Let-1, say-4)
+complm(think-7, that-5)
+nsubj(think-7, I-6)
+ccomp(say-4, think-7)
+complm(TV-13, that-8)
+nsubj(TV-13, this-9)
+cop(TV-13, is-10)
+det(TV-13, an-11)
+amod(TV-13, incredible-12)
+ccomp(think-7, TV-13)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(amazing-9, quality-3)
+det(night-6, the-5)
+prep_during(quality-3, night-6)
+cop(amazing-9, is-7)
+advmod(amazing-9, so-8)
+root(ROOT-0, amazing-9)
+
+=========
+
+nsubj(mean-2, I-1)
+root(ROOT-0, mean-2)
+nsubj(stop-6, I-3)
+aux(stop-6, can-4)
+neg(stop-6, not-5)
+ccomp(mean-2, stop-6)
+xcomp(stop-6, watching-7)
+dobj(watching-7, TV-8)
+prep_at(watching-7, night-10)
+advmod(asleep-15, when-11)
+det(kids-13, the-12)
+nsubj(asleep-15, kids-13)
+cop(asleep-15, are-14)
+advcl(stop-6, asleep-15)
+
+=========
+
+cc(wonder-8, But-1)
+mark(said-5, with-3)
+nsubj(said-5, that-4)
+advcl(wonder-8, said-5)
+nsubj(wonder-8, I-7)
+root(ROOT-0, wonder-8)
+complm(made-11, whether-9)
+nsubj(made-11, I-10)
+ccomp(wonder-8, made-11)
+det(choice-14, the-12)
+amod(choice-14, right-13)
+dobj(made-11, choice-14)
+
+=========
+
+nsubj(things-4, Below-1)
+cop(things-4, are-2)
+det(things-4, the-3)
+root(ROOT-0, things-4)
+det(annoy-6, that-5)
+npadvmod(things-4, annoy-6)
+det(hell-8, the-7)
+dep(annoy-6, hell-8)
+prep_out_of(things-4, me-11)
+
+=========
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+nsubj(knew-4, I-3)
+ccomp(wish-2, knew-4)
+dobj(knew-4, these-5)
+mark(made-8, before-6)
+nsubj(made-8, I-7)
+advcl(knew-4, made-8)
+poss(purchase-10, my-9)
+dep(made-8, purchase-10)
+dobj(made-8, .1-11)
+
+=========
+
+det(TV-2, The-1)
+nsubj(gets-3, TV-2)
+root(ROOT-0, gets-3)
+advmod(got-6, really-4)
+nsubj(got-6, hotI-5)
+dep(gets-3, got-6)
+det(inch-9, the-7)
+num(inch-9, 65-8)
+dobj(got-6, inch-9)
+det(output-13, the-11)
+nn(output-13, heat-12)
+nsubj(high-19, output-13)
+det(unit-16, this-15)
+prep_on(output-13, unit-16)
+cop(high-19, is-17)
+advmod(high-19, extremely-18)
+dep(gets-3, high-19)
+conj_and(got-6, high-19)
+
+=========
+
+det(room-2, The-1)
+nsubj(big-12, room-2)
+rel(located-8, which-4)
+det(TV-6, the-5)
+nsubjpass(located-8, TV-6)
+auxpass(located-8, is-7)
+rcmod(room-2, located-8)
+cop(big-12, is-9)
+neg(big-12, not-10)
+advmod(big-12, that-11)
+root(ROOT-0, big-12)
+mark(hot-19, so-13)
+det(room-16, the-14)
+amod(room-16, entire-15)
+nsubj(hot-19, room-16)
+dep(hot-19, get-17)
+advmod(hot-19, really-18)
+advcl(big-12, hot-19)
+quantmod(10-22, about-21)
+num(minutes-23, 10-22)
+prep_after(hot-19, minutes-23)
+
+=========
+
+advmod(hot-2, So-1)
+root(ROOT-0, hot-2)
+dep(open-6, that-3)
+nsubj(open-6, you-4)
+nsubj(turn-10, you-4)
+aux(open-6, must-5)
+dep(hot-2, open-6)
+det(windows-8, the-7)
+dobj(open-6, windows-8)
+dep(hot-2, turn-10)
+conj_or(open-6, turn-10)
+det(A\/C-13, the-12)
+prep_on(turn-10, A\/C-13)
+
+=========
+
+nsubj(realize-4, I-1)
+aux(realize-4, did-2)
+neg(realize-4, not-3)
+root(ROOT-0, realize-4)
+complm(factor-13, that-5)
+det(heat-7, the-6)
+nsubj(factor-13, heat-7)
+aux(factor-13, would-8)
+cop(factor-13, be-9)
+predet(factor-13, such-10)
+det(factor-13, a-11)
+amod(factor-13, huge-12)
+ccomp(realize-4, factor-13)
+num(factor-13, .2-14)
+
+=========
+
+nsubj(annoyingDuring-3, Reflections-1)
+aux(annoyingDuring-3, are-2)
+ccomp(see-9, annoyingDuring-3)
+det(day-5, the-4)
+tmod(annoyingDuring-3, day-5)
+nsubj(see-9, you-7)
+aux(see-9, can-8)
+root(ROOT-0, see-9)
+det(lot-11, a-10)
+dobj(see-9, lot-11)
+prep_of(lot-11, reflections-13)
+prep_such_as(reflections-13, windows-16)
+
+=========
+
+nsubj(annoying-3, It-1)
+dep(annoying-3, gets-2)
+root(ROOT-0, annoying-3)
+
+=========
+
+advmod(love-5, Overall-1)
+nsubj(love-5, I-3)
+advmod(love-5, absolutely-4)
+root(ROOT-0, love-5)
+det(TV-7, the-6)
+dobj(love-5, TV-7)
+mark(kept-10, so-8)
+nsubj(kept-10, I-9)
+advcl(love-5, kept-10)
+dobj(kept-10, it-11)
+num(stars-14, 5-13)
+prep_at(kept-10, stars-14)
+
+=========
+
+det(heat-2, The-1)
+nsubj(bring-6, heat-2)
+conj_and(heat-2, reflection-4)
+nsubj(bring-6, reflection-4)
+aux(bring-6, would-5)
+root(ROOT-0, bring-6)
+dobj(bring-6, it-7)
+prt(bring-6, down-8)
+quantmod(4.5-11, a-10)
+prep_to(bring-6, 4.5-11)
+
+=========
+
+advmod(kept-14, So-1)
+nsubj(justify-6, it-3)
+aux(justify-6, does-4)
+neg(justify-6, not-5)
+parataxis(kept-14, justify-6)
+det(deduction-10, a-7)
+amod(deduction-10, full-8)
+nn(deduction-10, star-9)
+dobj(justify-6, deduction-10)
+advmod(justify-6, so-11)
+nsubj(kept-14, I-13)
+root(ROOT-0, kept-14)
+dobj(kept-14, it-15)
+num(stars-18, 5-17)
+prep_at(kept-14, stars-18)
+

@@ -1,0 +1,182 @@
+=========
+
+aux(G1-2, Have-1)
+root(ROOT-0, G1-2)
+conj_and(G1-2, happy-4)
+prep_with(happy-4, it-6)
+
+=========
+
+nsubj(Nexus-2, Purchased-1)
+nsubj(had-6, Purchased-1)
+root(ROOT-0, Nexus-2)
+dobj(Nexus-2, One-3)
+advmod(Nexus-2, only-5)
+conj_and(Nexus-2, only-5)
+conj_and(Nexus-2, had-6)
+dobj(had-6, problems-7)
+
+=========
+
+advmod(disappointing-2, Very-1)
+root(ROOT-0, disappointing-2)
+
+=========
+
+det(days-4, a-2)
+amod(days-4, few-3)
+prep_after(started-6, days-4)
+nsubj(started-6, phone-5)
+xsubj(reboot-8, phone-5)
+root(ROOT-0, started-6)
+aux(reboot-8, to-7)
+xcomp(started-6, reboot-8)
+advmod(reboot-8, sporadically-9)
+
+=========
+
+prep_at(charged-6, first-2)
+nn(being-5, while-4)
+nsubj(charged-6, being-5)
+root(ROOT-0, charged-6)
+
+=========
+
+nsubj(shut-3, It-1)
+nsubj(come-6, It-1)
+aux(shut-3, would-2)
+root(ROOT-0, shut-3)
+prt(shut-3, down-4)
+conj_and(shut-3, come-6)
+advmod(up-8, back-7)
+advmod(come-6, up-8)
+
+=========
+
+advmod(shuts-4, Now-1)
+nsubj(shuts-4, it-2)
+nsubj(gets-8, it-2)
+advmod(shuts-4, just-3)
+root(ROOT-0, shuts-4)
+advmod(shuts-4, down-5)
+advmod(shuts-4, then-7)
+conj_and(shuts-4, then-7)
+conj_and(shuts-4, gets-8)
+dep(gets-8, stuck-9)
+prt(stuck-9, on-10)
+amod(sequence-13, initial-12)
+prep_during(stuck-9, sequence-13)
+xcomp(stuck-9, showing-15)
+det(X-logo-17, the-16)
+dobj(showing-15, X-logo-17)
+
+=========
+
+amod(reboot-2, Soft-1)
+nsubj(help-12, reboot-2)
+nsubj(have-14, reboot-2)
+nn(volume-6, power-4)
+nn(volume-6, +-5)
+dep(reboot-2, volume-6)
+partmod(volume-6, +-7)
+acomp(+-7, trackball-8)
+aux(help-12, does-10)
+neg(help-12, not-11)
+root(ROOT-0, help-12)
+conj_and(help-12, have-14)
+amod(boot-17, hard-16)
+prep_to(have-14, boot-17)
+dobj(help-12, it-18)
+dep(help-12, by-20)
+pcomp(by-20, removing-21)
+dobj(removing-21, battery-22)
+quantmod(times-25, few-24)
+dobj(help-12, times-25)
+det(day-27, a-26)
+dep(times-25, day-27)
+
+=========
+
+aux(return-3, Can-1)
+neg(return-3, not-2)
+ccomp(passed-10, return-3)
+dobj(return-3, it-4)
+advmod(weeks-8, since-6)
+num(weeks-8, two-7)
+nsubj(passed-10, weeks-8)
+aux(passed-10, had-9)
+root(ROOT-0, passed-10)
+
+=========
+
+nsubj(has-2, HTC-1)
+nsubj(replace-7, HTC-1)
+root(ROOT-0, has-2)
+det(warranty-4, a-3)
+dobj(has-2, warranty-4)
+aux(replace-7, will-6)
+conj_and(has-2, replace-7)
+dobj(replace-7, it-8)
+nn(rep.-13, customer-11)
+nn(rep.-13, service-12)
+nsubj(said-14, rep.-13)
+conj_but(has-2, said-14)
+nsubj(get-16, they-15)
+ccomp(said-14, get-16)
+det(LOT-18, A-17)
+dobj(get-16, LOT-18)
+prep_of(LOT-18, calls-20)
+prep_like(calls-20, that-22)
+det(problem-26, the-24)
+amod(problem-26, same-25)
+prep_with(that-22, problem-26)
+
+=========
+
+nsubj(sound-3, It-1)
+dep(sound-3, did-2)
+root(ROOT-0, sound-3)
+mark(has-6, like-4)
+nsubj(has-6, HTC-5)
+advcl(sound-3, has-6)
+det(issue-9, a-7)
+nn(issue-9, hardware-8)
+dobj(has-6, issue-9)
+det(phone-12, this-11)
+prep_with(issue-9, phone-12)
+
+=========
+
+nsubj(beware-2, Buyers-1)
+root(ROOT-0, beware-2)
+
+=========
+
+mark(drop-5, After-1)
+det(experience-3, that-2)
+nsubj(drop-5, experience-3)
+aux(drop-5, would-4)
+csubj(pulled-15, drop-5)
+dobj(drop-5, Tmobile\/Nexus-6)
+num(Tmobile\/Nexus-6, one-7)
+det(heartbeat-10, a-9)
+prep_in(Tmobile\/Nexus-6, heartbeat-10)
+prep_for(heartbeat-10, iPhone-12)
+prep_for(heartbeat-10, ATT-14)
+conj_but(iPhone-12, ATT-14)
+root(ROOT-0, pulled-15)
+det(plug-17, a-16)
+dobj(pulled-15, plug-17)
+amod(plan-21, unlimited-19)
+nn(plan-21, data-20)
+prep_on(pulled-15, plan-21)
+appos(plan-21, sigh-23)
+
+=========
+
+det(phone-2, This-1)
+nsubj(best-5, phone-2)
+cop(best-5, is-3)
+det(best-5, the-4)
+root(ROOT-0, best-5)
+

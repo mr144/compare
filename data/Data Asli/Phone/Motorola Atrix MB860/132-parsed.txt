@@ -1,0 +1,44 @@
+=========
+
+det(phone-2, This-1)
+nsubj(works-3, phone-2)
+root(ROOT-0, works-3)
+advmod(expected-5, as-4)
+acomp(works-3, expected-5)
+
+=========
+
+nsubj(arrived-2, It-1)
+ccomp(unlocked-8, arrived-2)
+prep_in(arrived-2, time-4)
+nsubjpass(unlocked-8, it-6)
+auxpass(unlocked-8, was-7)
+root(ROOT-0, unlocked-8)
+mark(use-11, so-9)
+nsubj(use-11, I-10)
+advcl(unlocked-8, use-11)
+dobj(use-11, it-12)
+det(problems-15, no-14)
+prep_with(use-11, problems-15)
+nn(Europe-18, East-17)
+prep_in(problems-15, Europe-18)
+
+=========
+
+nsubj(seems-2, Motoblur-1)
+root(ROOT-0, seems-2)
+det(pain-5, a-4)
+prep_like(seems-2, pain-5)
+det(beginning-8, the-7)
+prep_in(pain-5, beginning-8)
+advmod(just-10, so-9)
+advmod(seems-2, just-10)
+advmod(just-10, carefully-11)
+prep_with(seems-2, it-13)
+
+=========
+
+dep(display-3, Very-1)
+amod(display-3, nice-2)
+root(ROOT-0, display-3)
+

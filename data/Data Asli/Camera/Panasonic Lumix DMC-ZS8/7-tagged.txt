@@ -1,0 +1,2 @@
+Works_NNP well_RB for_IN the_DT point_NN and_CC shoot_NN person_NN ._.
+Does_VBZ nicely_RB in_IN low_JJ light_NN and_CC is_VBZ light_JJ weight_NN ,_, small_JJ and_CC quiet_JJ ._.

@@ -1,0 +1,33 @@
+=========
+
+nsubj(went-2, Everything-1)
+root(ROOT-0, went-2)
+mark(expected-4, as-3)
+advcl(went-2, expected-4)
+
+=========
+
+det(phone-2, The-1)
+nsubj(working-4, phone-2)
+aux(working-4, is-3)
+ccomp(came-9, working-4)
+advmod(good-6, very-5)
+acomp(working-4, good-6)
+nsubj(came-9, it-8)
+root(ROOT-0, came-9)
+predet(pieces-13, all-11)
+det(pieces-13, the-12)
+prep_with(came-9, pieces-13)
+mark(said-17, as-14)
+det(shop-16, the-15)
+nsubj(said-17, shop-16)
+advcl(came-9, said-17)
+
+=========
+
+nsubj(product-5, this-1)
+cop(product-5, is-2)
+det(product-5, the-3)
+amod(product-5, best-4)
+root(ROOT-0, product-5)
+

@@ -1,0 +1,113 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(type-4, this-3)
+dobj(bought-2, type-4)
+prep_of(type-4, phone-6)
+det(time-10, the-8)
+amod(time-10, first-9)
+prep_for(bought-2, time-10)
+
+=========
+
+nsubj(am-2, I-1)
+root(ROOT-0, am-2)
+prep_over(am-2, fifty-4)
+mark(concern-10, so-5)
+nsubj(concern-10, I-6)
+cop(concern-10, was-7)
+det(concern-10, a-8)
+amod(concern-10, little-9)
+advcl(am-2, concern-10)
+mark(going-14, if-11)
+nsubj(going-14, I-12)
+xsubj(see-16, I-12)
+aux(going-14, am-13)
+advcl(concern-10, going-14)
+aux(see-16, to-15)
+xcomp(going-14, see-16)
+det(letters-19, the-17)
+amod(letters-19, tiny-18)
+dobj(see-16, letters-19)
+
+=========
+
+nsubj(found-2, I-1)
+root(ROOT-0, found-2)
+prt(found-2, out-3)
+nsubj(enlage-6, I-4)
+aux(enlage-6, can-5)
+ccomp(found-2, enlage-6)
+dobj(enlage-6, them-7)
+
+=========
+
+nsubj(made-2, It-1)
+root(ROOT-0, made-2)
+nsubj(happy-5, me-3)
+advmod(happy-5, really-4)
+xcomp(made-2, happy-5)
+
+=========
+
+poss(phone-2, My-1)
+nsubj(came-3, phone-2)
+root(ROOT-0, came-3)
+det(instruction-7, a-5)
+amod(instruction-7, French-6)
+prep_with(came-3, instruction-7)
+nsubj(made-9, instruction-7)
+rcmod(instruction-7, made-9)
+nsubj(unable-13, me-10)
+aux(unable-13, to-11)
+cop(unable-13, be-12)
+xcomp(made-9, unable-13)
+aux(enjoy-15, to-14)
+xcomp(unable-13, enjoy-15)
+det(phone-17, this-16)
+dobj(enjoy-15, phone-17)
+advmod(away-19, right-18)
+advmod(enjoy-15, away-19)
+
+=========
+
+advmod(printed-3, Later-1)
+nsubj(printed-3, I-2)
+root(ROOT-0, printed-3)
+amod(instructin-5, English-4)
+dobj(printed-3, instructin-5)
+det(internet-8, the-7)
+prep_from(printed-3, internet-8)
+
+=========
+
+nsubj(helped-2, It-1)
+root(ROOT-0, helped-2)
+nsubj(using-7, I-5)
+aux(using-7, am-6)
+parataxis(helped-2, using-7)
+poss(phone-10, my-8)
+nn(phone-10, Nokkia-9)
+dobj(using-7, phone-10)
+mwe(than-13, more-12)
+quantmod(three-14, than-13)
+num(weeks-15, three-14)
+prep_for(using-7, weeks-15)
+advmod(far-18, so-17)
+advmod(enjoy-20, far-18)
+nsubj(enjoy-20, I-19)
+parataxis(helped-2, enjoy-20)
+conj_and(using-7, enjoy-20)
+dobj(enjoy-20, it-21)
+nsubj(know-25, I-24)
+conj_but(helped-2, know-25)
+nsubj(use-28, I-26)
+aux(use-28, could-27)
+ccomp(know-25, use-28)
+nsubj(i-30, it-29)
+dep(use-28, i-30)
+amod(ways-33, many-31)
+amod(ways-33, more-32)
+dobj(i-30, ways-33)
+

@@ -1,0 +1,41 @@
+=========
+
+nn(Works-2, TV-1)
+dep(great-3, Works-2)
+root(ROOT-0, great-3)
+
+=========
+
+det(color-2, The-1)
+nsubj(great-4, color-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+det(picture-2, The-1)
+nsubj(clear-5, picture-2)
+cop(clear-5, is-3)
+advmod(clear-5, so-4)
+root(ROOT-0, clear-5)
+nsubj(looks-7, it-6)
+ccomp(clear-5, looks-7)
+dobj(looks-7, sorta-8)
+num(sorta-8, 3D-9)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(install-3, to-2)
+xcomp(Easy-1, install-3)
+xcomp(Easy-1, use-5)
+conj_and(install-3, use-5)
+advmod(install-3, too-6)
+
+=========
+
+mark(recommend-3, If-1)
+advmod(recommend-3, definitely-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+

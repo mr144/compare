@@ -1,0 +1,82 @@
+=========
+
+nsubj(chosen-3, I-1)
+aux(chosen-3, have-2)
+root(ROOT-0, chosen-3)
+det(camera-5, this-4)
+dobj(chosen-3, camera-5)
+mark(had-10, because-7)
+nsubj(had-10, I-8)
+advmod(had-10, already-9)
+advcl(chosen-3, had-10)
+det(DMC-ZR1-13, a-11)
+nn(DMC-ZR1-13, Panasonic-12)
+dobj(had-10, DMC-ZR1-13)
+nsubj(made-16, DMC-ZR1-13)
+nsubj(got-22, DMC-ZR1-13)
+rcmod(DMC-ZR1-13, made-16)
+advmod(good-18, very-17)
+amod(pictures-19, good-18)
+dobj(made-16, pictures-19)
+rcmod(DMC-ZR1-13, got-22)
+conj_but(made-16, got-22)
+det(dust\/dirt-24, some-23)
+dobj(got-22, dust\/dirt-24)
+det(lens-27, the-26)
+prep_into(got-22, lens-27)
+
+=========
+
+det(shutter-3, The-1)
+nn(shutter-3, lens-2)
+nsubj(stopped-8, shutter-3)
+det(ZS8-7, the-5)
+amod(ZS8-7, new-6)
+prep_of(shutter-3, ZS8-7)
+root(ROOT-0, stopped-8)
+xcomp(stopped-8, opening\/closing-9)
+advmod(opening\/closing-9, properly-10)
+advmod(opening\/closing-9, just-11)
+num(weeks-14, 2-13)
+prep_after(opening\/closing-9, weeks-14)
+
+=========
+
+csubj(reimbursed-8, Returned-1)
+dobj(Returned-1, it-2)
+det(seller-5, the-4)
+prep_to(Returned-1, seller-5)
+conj_and(Returned-1, got-7)
+csubj(reimbursed-8, got-7)
+root(ROOT-0, reimbursed-8)
+advmod(reimbursed-8, promptly-9)
+
+=========
+
+nsubj(give-3, I-1)
+aux(give-3, will-2)
+root(ROOT-0, give-3)
+dep(another-5, an-4)
+nsubj(try-6, another-5)
+ccomp(give-3, try-6)
+det(ZS19-10, the-8)
+nn(ZS19-10, Panasonic-9)
+prep_with(try-6, ZS19-10)
+
+=========
+
+det(plus-3, The-1)
+amod(plus-3, big-2)
+nsubj(is-4, plus-3)
+root(ROOT-0, is-4)
+predet(models-8, all-6)
+det(models-8, this-7)
+nsubj(have-9, models-8)
+ccomp(is-4, have-9)
+det(battery-12, the-10)
+amod(battery-12, same-11)
+dobj(have-9, battery-12)
+nn(socket-15, loading-14)
+dobj(have-9, socket-15)
+conj_and(battery-12, socket-15)
+

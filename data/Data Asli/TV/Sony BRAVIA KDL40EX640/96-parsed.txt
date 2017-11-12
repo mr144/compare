@@ -1,0 +1,40 @@
+=========
+
+root(ROOT-0, Contant-2)
+dobj(Contant-2, error-3)
+amod(problem-8, netflix-6)
+amod(problem-8, big-7)
+prep_with(Contant-2, problem-8)
+conj_and(Contant-2, Google-10)
+amod(error-13, contant-12)
+poss(!!!-17, error-13)
+amod(!!!-17, sony-15)
+nn(!!!-17, bravia-16)
+dobj(Google-10, !!!-17)
+conj_and(Contant-2, see-19)
+prep_for(see-19, yourself-21)
+
+=========
+
+nsubj(worked-3, Called-1)
+advmod(worked-3, sony-2)
+root(ROOT-0, worked-3)
+prep(worked-3, on-4)
+nn(3hrs-6, problem-5)
+dep(on-4, 3hrs-6)
+det(help-8, no-7)
+dep(3hrs-6, help-8)
+
+=========
+
+nsubj(buying-5, I-1)
+aux(buying-5, Will-2)
+neg(buying-5, not-3)
+aux(buying-5, be-4)
+root(ROOT-0, buying-5)
+amod(tv-7, sony-6)
+dobj(buying-5, tv-7)
+rcmod(tv-7, 's-8)
+dep(more-10, any-9)
+advmod('s-8, more-10)
+

@@ -1,0 +1,39 @@
+=========
+
+det(TV-2, This-1)
+nsubj(has-3, TV-2)
+root(ROOT-0, has-3)
+det(picture-9, a-4)
+amod(picture-9, big-5)
+amod(picture-9, bright-6)
+conj_and(bright-6, sharp-8)
+amod(picture-9, sharp-8)
+dobj(has-3, picture-9)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+nsubj(quality-7, it-3)
+cop(quality-7, is-4)
+advmod(quality-7, very-5)
+dep(quality-7, good-6)
+ccomp(think-2, quality-7)
+det(money-10, the-9)
+prep_for(quality-7, money-10)
+
+=========
+
+root(ROOT-0, Shipped-1)
+conj_and(Shipped-1, arrived-3)
+advmod(quickly-5, very-4)
+advmod(arrived-3, quickly-5)
+
+=========
+
+nsubj(better-3, KDL40EX640-1)
+cop(better-3, is-2)
+root(ROOT-0, better-3)
+det(TV-6, this-5)
+prep_than(better-3, TV-6)
+

@@ -1,0 +1,5 @@
+I_PRP got_VBD the_DT cellphone_NN in_IN excellent_JJ conditions_NNS ._.
+I_PRP have_VBP not_RB regrets_NNS about_IN it_PRP ._. ._.
+Only_RB the_DT details_NNS about_IN the_DT phone_NN should_MD be_VB change_NN ,_, because_IN it_PRP says_VBZ that_IN the_DT phone_NN was_VBD from_IN german_JJ but_CC is_VBZ made_VBN in_IN china_NN ._.
+Beside_IN that_IN the_DT cellphone_NN is_VBZ working_VBG great_JJ ._. ._.
+excellent_JJ bought_VBD

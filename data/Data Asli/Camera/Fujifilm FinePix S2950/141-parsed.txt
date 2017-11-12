@@ -1,0 +1,42 @@
+=========
+
+det(product-2, The-1)
+nsubj(came-3, product-2)
+root(ROOT-0, came-3)
+advmod(good-6, very-5)
+amod(condition-8, good-6)
+amod(condition-8, working-7)
+prep_in(came-3, condition-8)
+cop(as-12, is-10)
+advmod(as-12, exactly-11)
+conj_and(came-3, as-12)
+auxpass(described-14, is-13)
+dep(as-12, described-14)
+
+=========
+
+root(ROOT-0, Maybe-1)
+det(little-3, a-2)
+dep(Maybe-1, little-3)
+advmod(exact-5, too-4)
+amod(little-3, exact-5)
+det(matter-8, a-7)
+prep_as(little-3, matter-8)
+prep_of(matter-8, fact-10)
+
+=========
+
+poss(beef-3, My-1)
+amod(beef-3, only-2)
+nsubj(is-4, beef-3)
+root(ROOT-0, is-4)
+nsubj(came-6, it-5)
+ccomp(is-4, came-6)
+det(cover-10, a-8)
+nn(cover-10, lens-9)
+prep_without(came-6, cover-10)
+cop(camera-14, being-11)
+det(camera-14, a-12)
+amod(camera-14, refurbished-13)
+xcomp(came-6, camera-14)
+

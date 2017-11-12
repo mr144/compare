@@ -1,0 +1,7 @@
+This_DT has_VBZ given_VBN me_PRP mixed_JJ results_NNS ._.
+On_IN Auto_NN mode_NN ,_, sometimes_RB very_RB good_JJ -LRB-_-LRB- bright_JJ -RRB-_-RRB- quality_NN pictures_NNS &_CC sometimes_RB shaky_JJ images_NNS ._.
+Looks_NNS like_VBP ,_, the_DT image_NN stabilization_NN is_VBZ still_RB not_RB that_IN perfect_JJ ._.
+It_PRP gives_VBZ blur_NN even_RB if_IN the_DT object_NN moves_VBZ little_JJ ._.
+Another_DT bad_JJ thing_NN I_PRP observed_VBD is_VBZ ,_, the_DT photos_NNS show_VBP distortion_NN when_WRB I_PRP upload_VBP the_DT photos_NNS to_TO facebook_NN ._.
+Probably_RB I_PRP have_VBP to_TO compress_VB the_DT file_NN size_NN ._.
+I_PRP have_VBP to_TO try_VB that_DT ._.

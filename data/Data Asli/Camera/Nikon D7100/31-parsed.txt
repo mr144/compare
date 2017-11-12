@@ -1,0 +1,86 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, fantastic-4)
+root(ROOT-0, camera-5)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(quality-4, the-3)
+dobj(love-2, quality-4)
+det(images-7, the-6)
+prep_of(quality-4, images-7)
+det(video-11, the-10)
+prep_of(quality-4, video-11)
+conj_and(images-7, video-11)
+
+=========
+
+nsubj(done-2, Well-1)
+root(ROOT-0, done-2)
+dobj(done-2, Nikon-3)
+
+=========
+
+num(issues-2, One-1)
+root(ROOT-0, issues-2)
+nn(processing-5, image-4)
+prep_with(issues-2, processing-5)
+advmod(issues-2, however-6)
+
+=========
+
+det(packages-5, the-2)
+num(packages-5, two-3)
+nn(packages-5, software-4)
+prep_of(use-7, packages-5)
+nsubj(use-7, I-6)
+xsubj(manage-9, I-6)
+root(ROOT-0, use-7)
+aux(manage-9, to-8)
+xcomp(use-7, manage-9)
+xcomp(use-7, edit-11)
+conj_and(manage-9, edit-11)
+poss(images-13, my-12)
+dobj(manage-9, images-13)
+nn(Lightroom-16, Adobe-15)
+dobj(manage-9, Lightroom-16)
+conj_and(images-13, Lightroom-16)
+poss(Aperture-20, Apple-18)
+dobj(manage-9, Aperture-20)
+conj_and(images-13, Aperture-20)
+prep_to(use-7, date-23)
+advmod(date-23, only-24)
+nsubj(process-27, Lightroom-25)
+aux(process-27, can-26)
+rcmod(date-23, process-27)
+det(images-30, the-28)
+nn(images-30, RAW-29)
+dobj(process-27, images-30)
+
+=========
+
+nsubj(sure-4, I-1)
+cop(sure-4, am-2)
+neg(sure-4, not-3)
+root(ROOT-0, sure-4)
+advmod(take-7, why-5)
+nsubj(take-7, it-6)
+advcl(sure-4, take-7)
+det(companies-9, these-8)
+dobj(take-7, companies-9)
+advmod(long-11, so-10)
+advmod(take-7, long-11)
+aux(update-13, to-12)
+dep(long-11, update-13)
+poss(software-15, their-14)
+dobj(update-13, software-15)
+aux(accommodate-17, to-16)
+infmod(software-15, accommodate-17)
+amod(cameras-19, new-18)
+dobj(accommodate-17, cameras-19)
+

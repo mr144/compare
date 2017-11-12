@@ -1,0 +1,3 @@
+This_DT camera_NN has_VBZ many_JJ features_NNS than_IN one_CD would_MD expect_VB in_IN a_DT more_RBR expensive_JJ camera_NN ._.
+The_DT drawback_NN I_PRP perceive_VBP is_VBZ that_IN if_IN one_CD wishes_VBZ to_TO use_VB these_DT features_NNS the_DT menus_NNS are_VBP relatively_RB complicated_VBN and_CC the_DT printed_VBN out_RP owners_NNS manual_NN is_VBZ very_RB large_JJ to_TO wade_VB through_IN ._.
+Automatic_NNP takes_VBZ fine_JJ photos_NNS and_CC is_VBZ easy_JJ to_TO use_VB in_IN automatic_JJ ._.

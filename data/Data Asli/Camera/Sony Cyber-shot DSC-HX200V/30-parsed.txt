@@ -1,0 +1,78 @@
+=========
+
+mark(unable-4, Since-1)
+nsubj(unable-4, I-2)
+cop(unable-4, was-3)
+advcl(decided-13, unable-4)
+aux(attend-6, to-5)
+xcomp(unable-4, attend-6)
+poss(sister-8, my-7)
+poss(graduation-11, sister-8)
+nn(graduation-11, college-10)
+dobj(attend-6, graduation-11)
+nsubj(decided-13, I-12)
+xsubj(send-15, I-12)
+root(ROOT-0, decided-13)
+aux(send-15, to-14)
+xcomp(decided-13, send-15)
+iobj(send-15, her-16)
+det(camera-18, this-17)
+dobj(send-15, camera-18)
+det(gift-21, a-20)
+prep_as(camera-18, gift-21)
+
+=========
+
+nsubj(loved-2, She-1)
+root(ROOT-0, loved-2)
+dobj(loved-2, it-3)
+
+=========
+
+advmod(receive-5, Unfortunately-1)
+nsubj(receive-5, I-2)
+aux(receive-5, did-3)
+neg(receive-5, not-4)
+root(ROOT-0, receive-5)
+det(package-7, the-6)
+dobj(receive-5, package-7)
+mark(shipped-10, as-8)
+nsubj(shipped-10, I-9)
+advcl(receive-5, shipped-10)
+dobj(shipped-10, it-11)
+advmod(shipped-10, directly-12)
+prep_to(shipped-10, her-14)
+
+=========
+
+advmod(did-4, However-1)
+nsubj(did-4, she-3)
+root(ROOT-0, did-4)
+ccomp(did-4, say-5)
+complm(arrived-8, that-6)
+nsubj(arrived-8, it-7)
+ccomp(say-5, arrived-8)
+det(day-10, a-9)
+tmod(nice-16, day-10)
+advmod(day-10, early-11)
+det(packaging-14, the-13)
+nsubj(nice-16, packaging-14)
+nsubj(tight-18, packaging-14)
+cop(nice-16, was-15)
+dep(arrived-8, nice-16)
+dep(arrived-8, tight-18)
+conj_and(nice-16, tight-18)
+det(contents-22, all-21)
+nsubjpass(included-24, contents-22)
+auxpass(included-24, were-23)
+dep(arrived-8, included-24)
+conj_and(nice-16, included-24)
+
+=========
+
+nsubj(is-2, She-1)
+root(ROOT-0, is-2)
+prep_in(is-2, love-4)
+poss(camera-7, her-6)
+prep_with(love-4, camera-7)
+

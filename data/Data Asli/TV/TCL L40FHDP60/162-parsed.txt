@@ -1,0 +1,43 @@
+=========
+
+nsubj(purchased-2, i-1)
+root(ROOT-0, purchased-2)
+det(TV-4, this-3)
+dobj(purchased-2, TV-4)
+poss(room-8, my-6)
+amod(room-8, living-7)
+prep_for(TV-4, room-8)
+aux(replace-10, to-9)
+infmod(room-8, replace-10)
+det(Toshiba-12, a-11)
+dobj(replace-10, Toshiba-12)
+nsubj(say-17, i-15)
+aux(say-17, must-16)
+conj_and(purchased-2, say-17)
+det(picture-20, the-19)
+nsubj(better-23, picture-20)
+cop(better-23, is-21)
+advmod(better-23, much-22)
+parataxis(purchased-2, better-23)
+det(TV-26, this-25)
+prep_on(better-23, TV-26)
+
+=========
+
+nsubj(happy-4, i-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+prep_with(happy-4, it-6)
+
+=========
+
+nsubj(buy-3, i-1)
+aux(buy-3, will-2)
+root(ROOT-0, buy-3)
+det(TV-6, a-4)
+amod(TV-6, second-5)
+dobj(buy-3, TV-6)
+poss(room-9, my-8)
+prep_for(TV-6, room-9)
+

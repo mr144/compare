@@ -1,0 +1,42 @@
+=========
+
+det(TV-2, The-1)
+nsubjpass(delivered-4, TV-2)
+auxpass(delivered-4, was-3)
+root(ROOT-0, delivered-4)
+det(day-7, the-6)
+prep_on(delivered-4, day-7)
+nsubjpass(promised-10, it-8)
+nsubjpass(worked-15, it-8)
+auxpass(promised-10, was-9)
+rcmod(day-7, promised-10)
+aux(worked-15, has-13)
+neg(worked-15, not-14)
+rcmod(day-7, worked-15)
+conj_but(promised-10, worked-15)
+
+=========
+
+nsubjpass(turned-4, It-1)
+aux(turned-4, can-2)
+auxpass(turned-4, be-3)
+root(ROOT-0, turned-4)
+prt(turned-4, on-5)
+det(seconds-9, a-7)
+amod(seconds-9, few-8)
+prep_for(turned-4, seconds-9)
+advmod(shuts-14, then-12)
+nsubj(shuts-14, it-13)
+conj_but(turned-4, shuts-14)
+dobj(shuts-14, itself-15)
+prt(shuts-14, off-16)
+
+=========
+
+neg(present-6, Not-1)
+det(Christmas-5, a-2)
+amod(Christmas-5, very-3)
+nn(Christmas-5, Merry-4)
+nsubj(present-6, Christmas-5)
+root(ROOT-0, present-6)
+

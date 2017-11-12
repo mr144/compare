@@ -1,0 +1,26 @@
+=========
+
+aux(taken-2, Have-1)
+root(ROOT-0, taken-2)
+num(pics-5, 1000-4)
+prep_over(taken-2, pics-5)
+prep_on(pics-5, it-7)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(work-3, to-2)
+dep(Easy-1, work-3)
+amod(quality-6, good-5)
+dobj(work-3, quality-6)
+det(price-9, the-8)
+prep_for(quality-6, price-9)
+
+=========
+
+amod(shots-2, Panoramic-1)
+nsubj(bigger-5, shots-2)
+aux(bigger-5, could-3)
+cop(bigger-5, be-4)
+root(ROOT-0, bigger-5)
+

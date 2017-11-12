@@ -1,0 +1,200 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, the-3)
+dobj(bought-2, phone-4)
+aux(used-7, to-5)
+auxpass(used-7, be-6)
+infmod(phone-4, used-7)
+prep_in(used-7, India-9)
+advmod(far-12, so-11)
+advmod(phone-18, far-12)
+nsubj(phone-18, it-13)
+aux(phone-18, has-14)
+cop(phone-18, been-15)
+det(phone-18, a-16)
+amod(phone-18, good-17)
+conj_and(bought-2, phone-18)
+conj_and(bought-2, works-20)
+conj_and(phone-18, works-20)
+advmod(expected-22, as-21)
+amod(phone-18, expected-22)
+
+=========
+
+nsubj(pros-3, Below-1)
+cop(pros-3, are-2)
+root(ROOT-0, pros-3)
+conj_and(pros-3, cons-5)
+poss(opinionPros1-8, my-7)
+prep_in(pros-3, opinionPros1-8)
+
+=========
+
+nsubj(feel-5, Good-1)
+partmod(Good-1, looking-2)
+partmod(Good-1, sturdy-4)
+conj_and(looking-2, sturdy-4)
+root(ROOT-0, feel-5)
+dobj(feel-5, .2-6)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(blackberry-6, the-3)
+advmod(recent-5, most-4)
+amod(blackberry-6, recent-5)
+dobj(has-2, blackberry-6)
+iobj(has-2, blackberry-6)
+dobj(has-2, OS-7)
+dep(blackberry-6, OS-7)
+nsubj(user-13, OS-7)
+cop(user-13, is-9)
+det(bit-11, a-10)
+npadvmod(more-12, bit-11)
+amod(user-13, more-12)
+rcmod(blackberry-6, user-13)
+rcmod(OS-7, user-13)
+amod(user-13, friendly-14)
+amod(user-13, intuitive-16)
+conj_and(friendly-14, intuitive-16)
+det(version3-20, the-18)
+amod(version3-20, previous-19)
+prep_than(user-13, version3-20)
+
+=========
+
+det(interface-3, The-1)
+nn(interface-3, touchscreen-2)
+nsubj(similar-5, interface-3)
+nsubj(better-10, interface-3)
+cop(similar-5, is-4)
+root(ROOT-0, similar-5)
+prep_to(similar-5, iPhone-7)
+advmod(better-10, much-9)
+conj_and(similar-5, better-10)
+det(stormCons1-14, the-12)
+nn(stormCons1-14, BB-13)
+prep_than(better-10, stormCons1-14)
+
+=========
+
+det(keyboard-3, The-1)
+nn(keyboard-3, touch-2)
+nsubj(reponsive-7, keyboard-3)
+cop(reponsive-7, is-4)
+neg(reponsive-7, not-5)
+advmod(reponsive-7, as-6)
+root(ROOT-0, reponsive-7)
+det(iPhone-10, the-9)
+prep_as(reponsive-7, iPhone-10)
+
+=========
+
+nsubj(get-3, It-1)
+nsubj(atleast-9, It-1)
+aux(get-3, may-2)
+dep(feels-12, get-3)
+advmod(get-3, better-4)
+amod(practice-7, more-6)
+prep_with(get-3, practice-7)
+conj_but(get-3, atleast-9)
+dep(feels-12, atleast-9)
+advmod(atleast-9, initially-10)
+nsubj(feels-12, it-11)
+root(ROOT-0, feels-12)
+det(clumsier-15, a-13)
+nn(clumsier-15, bit-14)
+nsubj(sensitive-19, clumsier-15)
+conj_and(clumsier-15, tad-17)
+nsubj(sensitive-19, tad-17)
+advmod(sensitive-19, too-18)
+xcomp(feels-12, sensitive-19)
+
+=========
+
+det(keyboard-3, The-1)
+amod(keyboard-3, physical-2)
+nsubj(good-5, keyboard-3)
+cop(good-5, is-4)
+root(ROOT-0, good-5)
+dep(good-5, .2-6)
+
+=========
+
+det(OS-2, The-1)
+nsubj(is-3, OS-2)
+root(ROOT-0, is-3)
+advmod(is-3, still-4)
+neg(is-3, not-5)
+prep_as(is-3, user-7)
+amod(user-7, friendly-8)
+amod(user-7, as-9)
+det(iPhone-11, the-10)
+poss(iOS-13, iPhone-11)
+dep(user-7, iOS-13)
+num(iOS-13, .3-14)
+
+=========
+
+det(appworld-3, The-1)
+nn(appworld-3, BB-2)
+nsubj(joke-6, appworld-3)
+cop(joke-6, is-4)
+det(joke-6, a-5)
+root(ROOT-0, joke-6)
+prepc_compared_to(joke-6, to-8)
+pobj(joke-6, Apple-9)
+
+=========
+
+advmod(takes-12, Also-1)
+det(fact-3, the-2)
+nsubj(takes-12, fact-3)
+expl(are-5, there-4)
+rcmod(fact-3, are-5)
+amod(sources-7, multiple-6)
+nsubj(are-5, sources-7)
+prepc_for(sources-7, downloading-9)
+det(apps-11, the-10)
+dobj(downloading-9, apps-11)
+root(ROOT-0, takes-12)
+nsubjpass(used-15, some-13)
+xsubj(to-16, some-13)
+auxpass(used-15, getting-14)
+dep(takes-12, used-15)
+xcomp(used-15, to-16)
+
+=========
+
+nsubj(available-12, Some-1)
+det(apps-4, the-3)
+prep_of(Some-1, apps-4)
+prep_such_as(apps-4, Vonage-7)
+prep_such_as(apps-4, Skype-9)
+conj_and(Vonage-7, Skype-9)
+cop(available-12, are-10)
+neg(available-12, not-11)
+root(ROOT-0, available-12)
+amod(torch-15, blackberry-14)
+prep_for(available-12, torch-15)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+nsubjpass(resolved-5, this-3)
+auxpass(resolved-5, gets-4)
+ccomp(hope-2, resolved-5)
+advmod(resolved-5, soon-6)
+
+=========
+
+dep(not-3, Overall-1)
+root(ROOT-0, not-3)
+det(phone-6, a-4)
+amod(phone-6, bad-5)
+dep(not-3, phone-6)
+

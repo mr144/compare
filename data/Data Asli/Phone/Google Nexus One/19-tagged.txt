@@ -1,0 +1,7 @@
+This_DT phone_NN 's_POS power_NN button_NN is_VBZ connected_VBN to_TO its_PRP$ main_JJ board_NN using_VBG a_DT flexible_JJ connector_NN ._.
+Throughout_IN your_PRP$ use_NN of_IN the_DT power_NN button_NN ,_, this_DT flexible_JJ connector_NN gets_VBZ bent_JJ ,_, and_CC progressively_RB the_DT contacts_NNS of_IN the_DT power_NN button_NN begin_VB to_TO deteriorate_VB ._.
+In_IN a_DT short_JJ while_NN ,_, the_DT power_NN button_NN will_MD stop_VB working_VBG ._.
+There_EX are_VBP several_JJ workarounds_NNS for_IN this_DT problem_NN :_: apps_NNS that_WDT replace_VBP the_DT power_NN button_NN 's_POS function_NN using_VBG other_JJ buttons_NNS ,_, screen_NN lock_NN apps_NNS ,_, reboot_NN ,_, and_CC so_RB on_RB ._.
+There_EX is_VBZ even_RB a_DT routine_NN that_IN you_PRP have_VBP to_TO use_VB to_TO power_NN on_IN the_DT phone_NN using_VBG the_DT charger_NN and_CC removing\/inserting_VBG the_DT battery_NN quickly_RB ._.
+Google_NNP `_`` Nexus_NNP one_CD fix_NN broken_JJ power_NN button_NN `_`` and_CC you_PRP 'll_MD see_VB more_JJR about_IN the_DT problem_NN and_CC the_DT workarounds_NNS ,_, including_VBG video_JJ instructions_NNS ._.
+Many_JJ thanks_NNS for_IN the_DT guys_NNS out_RB there_RB that_WDT created_VBD those_DT workarounds_NNS ,_, but_CC HTC_NNP deserves_VBZ a_DT thumbs_NNS down_RB :_: this_DT design_NN flaw_NN really_RB kills_VBZ the_DT phone_NN ._.

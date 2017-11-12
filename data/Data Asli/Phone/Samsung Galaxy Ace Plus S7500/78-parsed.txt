@@ -1,0 +1,42 @@
+=========
+
+root(ROOT-0, is-1)
+det(phone-4, the-2)
+amod(phone-4, best-3)
+nsubj(is-1, phone-4)
+advmod(is-1, ever-5)
+
+=========
+
+advmod(very-2, very-1)
+dep(good-4, very-2)
+advmod(good-4, very-3)
+root(ROOT-0, good-4)
+
+=========
+
+dep(screen-4, fast-1)
+amod(screen-4, great-3)
+root(ROOT-0, screen-4)
+conj_and(screen-4, camera-6)
+
+=========
+
+det(relation-4, the-1)
+amod(relation-4, best-2)
+amod(relation-4, cost-benefics-3)
+root(ROOT-0, relation-4)
+det(market-7, the-6)
+prep_in(relation-4, market-7)
+
+=========
+
+nsubj(recomended-2, i-1)
+root(ROOT-0, recomended-2)
+
+=========
+
+root(ROOT-0, sorry-1)
+poss(english-3, my-2)
+dep(sorry-1, english-3)
+

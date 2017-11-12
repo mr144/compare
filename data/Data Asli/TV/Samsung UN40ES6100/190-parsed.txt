@@ -1,0 +1,44 @@
+=========
+
+root(ROOT-0, Love-1)
+det(TV-4, the-2)
+nn(TV-4, Smart-3)
+dobj(Love-1, TV-4)
+
+=========
+
+amod(smaller-2, Looked-1)
+nsubj(look-12, smaller-2)
+poss(model-7, my-4)
+amod(model-7, previous-5)
+nn(model-7, Samsung-6)
+prep_than(smaller-2, model-7)
+det(sleeker-11, the-10)
+prep_because_of(model-7, sleeker-11)
+root(ROOT-0, look-12)
+
+=========
+
+advmod(downside-2, Only-1)
+nsubj(stand-6, downside-2)
+cop(stand-6, is-3)
+det(stand-6, the-4)
+amod(stand-6, shaky-5)
+root(ROOT-0, stand-6)
+
+=========
+
+nsubj(could-2, You-1)
+xsubj(tie-8, You-1)
+root(ROOT-0, could-2)
+det(kit-6, a-4)
+amod(kit-6, separate-5)
+prep_by(tie-8, kit-6)
+aux(tie-8, to-7)
+xcomp(could-2, tie-8)
+det(tv-10, the-9)
+dobj(tie-8, tv-10)
+prt(tie-8, down-11)
+det(stand-14, the-13)
+prep_to(tie-8, stand-14)
+

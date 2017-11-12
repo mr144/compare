@@ -1,0 +1,5 @@
+Dear_NNP Seller_NNP ,_, the_DT BlackBerry_NNP phone_NN is_VBZ to_TO be_VB used_VBN in_IN Latin_NNP America_NNP ._.
+Please_VB double_JJ check_NN before_IN shipping_VBG that_IN the_DT phone_NN supports_VBZ 3G_NNP bands_NNS 1,2,5,6_CD ._.
+You_PRP can_MD do_VB that_DT by_IN turning_VBG on_IN the_DT phone_NN and_CC going_VBG to_TO All_DT -RRB-_-RRB- Options_NNS -RRB-_-RRB- Device_NNP -RRB-_-RRB- About_IN Devices_NNP Versions_NNPS -RRB-_-RRB- need_VBP to_TO say_VB '_'' 3G_NNP Bands_NNPS 1,2,5,6_CD '_'' on_IN the_DT 3rd_JJ line_NN ._.
+Or_CC alternately_RB you_PRP can_MD ship_VB a_DT BlackBerry_NN with_IN the_DT AT&T_NNP Logo_NNP ._.
+Please_VB DO_NNP NOT_NNP SEND_VB a_DT phone_NN with_IN any_DT other_JJ logo_NN ._.

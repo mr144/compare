@@ -1,0 +1,32 @@
+=========
+
+advmod(happy-2, Very-1)
+root(ROOT-0, happy-2)
+det(TV-5, the-4)
+prep_with(happy-2, TV-5)
+
+=========
+
+nsubj(LCD-6, This-1)
+cop(LCD-6, is-2)
+poss(LCD-6, my-3)
+amod(LCD-6, second-4)
+nn(LCD-6, Sony-5)
+root(ROOT-0, LCD-6)
+
+=========
+
+det(one-3, The-1)
+amod(one-3, first-2)
+nsubj(old-8, one-3)
+nsubj(working-12, one-3)
+cop(old-8, is-4)
+advmod(old-8, over-5)
+num(years-7, ten-6)
+pobj(over-5, years-7)
+root(ROOT-0, old-8)
+aux(working-12, is-10)
+advmod(working-12, still-11)
+conj_and(old-8, working-12)
+advmod(working-12, flawlessly-13)
+

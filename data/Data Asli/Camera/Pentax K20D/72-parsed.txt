@@ -1,0 +1,21 @@
+=========
+
+advmod(nice-2, Very-1)
+root(ROOT-0, nice-2)
+dep(nice-2, upgrade-3)
+prep_to(upgrade-3, K10d-5)
+
+=========
+
+nsubj(detail-2, Better-1)
+root(ROOT-0, detail-2)
+nn(areas-5, shadow-4)
+prep_in(detail-2, areas-5)
+
+=========
+
+amod(sharpness-2, Great-1)
+root(ROOT-0, sharpness-2)
+conj_and(sharpness-2, texture-4)
+prep_to(sharpness-2, objects-6)
+

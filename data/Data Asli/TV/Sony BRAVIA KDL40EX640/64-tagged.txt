@@ -1,0 +1,5 @@
+Purchased_VBN this_DT TV_NN because_IN it_PRP was_VBD one_CD of_IN a_DT few_JJ TVs_NNS which_WDT perfectly_RB mount_VBP into_IN my_PRP$ built-in_NN ,_, but_CC it_PRP was_VBD the_DT only_JJ TV_NN with_IN variable_JJ volume_NN output_NN to_TO speaker_NN system_NN ._.
+This_DT means_VBZ the_DT volume_NN on_IN the_DT TV_NN remote_JJ can_MD control_VB the_DT volume_NN of_IN external_JJ speakers_NNS ._.
+I_PRP am_VBP very_RB pleased_JJ with_IN the_DT picture_NN ,_, features_NNS ,_, and_CC user_NN interface_NN for_IN internet_NN applications_NNS ._.
+I_PRP would_MD recommend_VB for_IN most_JJS applications_NNS ._.
+The_DT only_JJ negative_NN is_VBZ the_DT power-on_JJ startup_NN is_VBZ very_RB slow_JJ -LRB-_-LRB- 20-30_CD seconds_NNS -RRB-_-RRB- ._.

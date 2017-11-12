@@ -1,0 +1,18 @@
+=========
+
+nn(u-2, Thank-1)
+nsubj(prone-6, u-2)
+cop(prone-6, is-3)
+dep(prone-6, a-4)
+amod(prone-6, great-5)
+root(ROOT-0, prone-6)
+prep_without(prone-6, problems-8)
+
+=========
+
+nsubj(smartphone-5, it-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, best-4)
+root(ROOT-0, smartphone-5)
+

@@ -1,0 +1,51 @@
+=========
+
+advmod(light-2, Very-1)
+root(ROOT-0, light-2)
+conj_and(light-2, as-4)
+det(name-6, the-5)
+prep_as(light-2, name-6)
+dep(name-6, implies-7)
+advmod(slim-10, very-9)
+dep(implies-7, slim-10)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+dobj(picture-2, quality-3)
+
+=========
+
+aux(comment-4, Ca-1)
+neg(comment-4, not-2)
+advmod(comment-4, really-3)
+root(ROOT-0, comment-4)
+det(quality-8, the-6)
+amod(quality-8, sound-7)
+prep_on(comment-4, quality-8)
+mark(have-11, as-9)
+nsubj(have-11, I-10)
+advcl(comment-4, have-11)
+nsubj(set-13, it-12)
+ccomp(have-11, set-13)
+prt(set-13, up-14)
+det(AVR-19, a-16)
+nn(AVR-19, Harman-17)
+nn(AVR-19, Kardon-18)
+prep_on(set-13, AVR-19)
+
+=========
+
+root(ROOT-0, Easy-1)
+prep_to(Easy-1, unbox-3)
+prep_to(Easy-1, set-up-5)
+conj_and(unbox-3, set-up-5)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+det(product-4, this-3)
+dobj(recommend-2, product-4)
+

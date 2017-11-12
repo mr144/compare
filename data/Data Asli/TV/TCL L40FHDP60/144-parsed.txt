@@ -1,0 +1,77 @@
+=========
+
+nsubj(impressed-4, I-1)
+cop(impressed-4, was-2)
+advmod(impressed-4, very-3)
+root(ROOT-0, impressed-4)
+det(time-8, the-6)
+nn(time-8, delivery-7)
+prep_with(impressed-4, time-8)
+
+=========
+
+nsubj(got-2, It-1)
+root(ROOT-0, got-2)
+prep_to(got-2, me-4)
+prep(got-2, in-5)
+pcomp(in-5, like-6)
+num(days-8, two-7)
+prep_like(in-5, days-8)
+
+=========
+
+det(tv-2, The-1)
+nsubj(money-9, tv-2)
+cop(money-9, is-3)
+advmod(nice-5, very-4)
+amod(money-9, nice-5)
+conj_and(nice-5, worth-7)
+amod(money-9, worth-7)
+det(money-9, the-8)
+root(ROOT-0, money-9)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+iobj(use-2, it-3)
+dep(it-3, a-4)
+predet(time-7, all-5)
+det(time-7, the-6)
+dobj(use-2, time-7)
+complm(watching-12, whether-9)
+nsubj(watching-12, it-10)
+nsubj(hooking-16, it-10)
+xsubj(utilize-23, it-10)
+aux(watching-12, is-11)
+ccomp(use-2, watching-12)
+det(movie-14, a-13)
+dobj(watching-12, movie-14)
+ccomp(use-2, hooking-16)
+conj_or(watching-12, hooking-16)
+dobj(hooking-16, it-17)
+prt(hooking-16, up-18)
+poss(computer-21, my-20)
+prep_to(hooking-16, computer-21)
+aux(utilize-23, to-22)
+xcomp(hooking-16, utilize-23)
+det(screen-26, the-24)
+amod(screen-26, large-25)
+dobj(utilize-23, screen-26)
+prep_for(screen-26, gaming-28)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, definitely-3)
+root(ROOT-0, recommend-4)
+det(tv-6, this-5)
+dobj(recommend-4, tv-6)
+prep_to(recommend-4, anyone-8)
+xsubj(buy-11, anyone-8)
+partmod(anyone-8, looking-9)
+aux(buy-11, to-10)
+xcomp(looking-9, buy-11)
+dobj(buy-11, one-12)
+

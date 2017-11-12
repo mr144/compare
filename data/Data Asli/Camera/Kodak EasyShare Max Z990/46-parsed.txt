@@ -1,0 +1,22 @@
+=========
+
+poss(girlfriend-2, My-1)
+nsubj(wanted-3, girlfriend-2)
+ccomp(loves-18, wanted-3)
+det(camera-5, a-4)
+dobj(wanted-3, camera-5)
+prep_for(wanted-3, Christmas-7)
+mark(bought-10, so-8)
+nsubj(bought-10, I-9)
+advcl(wanted-3, bought-10)
+dobj(bought-10, this-11)
+det(price-15, the-13)
+amod(price-15, cheap-14)
+prep_for(this-11, price-15)
+nsubj(loves-18, she-17)
+root(ROOT-0, loves-18)
+nsubj(get-21, it-19)
+advmod(get-21, so-20)
+ccomp(loves-18, get-21)
+dobj(get-21, it-22)
+

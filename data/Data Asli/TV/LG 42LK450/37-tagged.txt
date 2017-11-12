@@ -1,0 +1,2 @@
+I_PRP ,_, m_VBP really_RB happy_JJ with_IN this_DT TV_NN ,_, it_PRP has_VBZ a_DT great_JJ picture_NN ,_, and_CC it_PRP was_VBD worth_JJ what_WP I_PRP paid_VBD for_IN it_PRP ._.
+Great_JJ deal_NN !_.

@@ -1,0 +1,156 @@
+=========
+
+nsubj(TV-7, This-1)
+cop(TV-7, is-2)
+det(TV-7, a-3)
+advmod(excellent-5, really-4)
+amod(TV-7, excellent-5)
+nn(TV-7, LED-6)
+root(ROOT-0, TV-7)
+conj_and(TV-7, Excellent-9)
+num(Excellent-9, 3D-10)
+num(Pictures-13, 2D-12)
+conj_and(TV-7, Pictures-13)
+
+=========
+
+amod(colors-2, Brilliant-1)
+root(ROOT-0, colors-2)
+advmod(added-7, probably-4)
+dep(added-7, since-5)
+nsubj(added-7, they-6)
+dep(colors-2, added-7)
+acomp(added-7, yellow-8)
+det(Green-12, the-10)
+amod(Green-12, existing-11)
+prep_to(yellow-8, Green-12)
+prep_to(yellow-8, Blue-14)
+conj_and(Green-12, Blue-14)
+prep_to(yellow-8, Red-16)
+conj_and(Green-12, Red-16)
+
+=========
+
+det(TV-2, The-1)
+nsubj(detects-4, TV-2)
+nsubj(switches-8, TV-2)
+advmod(detects-4, automatically-3)
+root(ROOT-0, detects-4)
+num(picture-6, 3D-5)
+dobj(detects-4, picture-6)
+conj_and(detects-4, switches-8)
+num(mode-11, 3D-10)
+prep_to(switches-8, mode-11)
+prep_to(switches-8, back-13)
+conj_and(mode-11, back-13)
+
+=========
+
+det(glasses-3, The-1)
+amod(glasses-3, Sharp-2)
+nsubj(excellent-6, glasses-3)
+cop(excellent-6, are-4)
+advmod(excellent-6, also-5)
+root(ROOT-0, excellent-6)
+
+=========
+
+nsubj(mounted-3, I-1)
+aux(mounted-3, have-2)
+root(ROOT-0, mounted-3)
+det(tv-5, this-4)
+dobj(mounted-3, tv-5)
+det(wall-8, the-7)
+prep_on(tv-5, wall-8)
+mark(thin-13, as-9)
+nsubj(thin-13, they-10)
+nsubj(light-16, they-10)
+cop(thin-13, are-11)
+amod(thin-13, ultra-12)
+advcl(mounted-3, thin-13)
+advmod(light-16, very-15)
+advcl(mounted-3, light-16)
+conj_and(thin-13, light-16)
+
+=========
+
+nsubj(advertise-4, Sharp-1)
+aux(advertise-4, does-2)
+neg(advertise-4, not-3)
+root(ROOT-0, advertise-4)
+advmod(effectively-6, as-5)
+advmod(advertise-4, effectively-6)
+mark(competitors-10, as-7)
+nsubj(competitors-10, it-8)
+cop(competitors-10, is-9)
+ccomp(effectively-6, competitors-10)
+nsubj(is-13, competitors-10)
+rcmod(competitors-10, is-13)
+advmod(lose-16, why-14)
+nsubj(lose-16, people-15)
+advcl(is-13, lose-16)
+dobj(lose-16, money-17)
+prepc_by(lose-16, paying-19)
+amod(prices-21, higher-20)
+dobj(paying-19, prices-21)
+nn(Soni-25, Samsung-23)
+prep_for(prices-21, Soni-25)
+dep(prices-21, etc.-26)
+
+=========
+
+advmod(pay-2, Why-1)
+root(ROOT-0, pay-2)
+dobj(pay-2, more-3)
+
+=========
+
+nsubj(tv-6, This-1)
+cop(tv-6, is-2)
+det(tv-6, the-3)
+amod(tv-6, best-4)
+num(tv-6, 3D-5)
+root(ROOT-0, tv-6)
+nsubj(got-9, you-8)
+xsubj(try-11, you-8)
+parataxis(tv-6, got-9)
+aux(try-11, to-10)
+xcomp(got-9, try-11)
+dobj(try-11, it-12)
+
+=========
+
+nsubj(tested-3, It-1)
+aux(tested-3, have-2)
+root(ROOT-0, tested-3)
+dobj(tested-3, others-4)
+advmod(tested-3, too-5)
+
+=========
+
+nsubj(have-3, I-2)
+root(ROOT-0, have-3)
+det(tv-8, another-4)
+amod(tv-8, sharp-5)
+num(tv-8, 42-6)
+nn(tv-8, inch-7)
+dobj(have-3, tv-8)
+complm(bought-11, that-9)
+nsubj(bought-11, I-10)
+dep(tv-8, bought-11)
+prep_in(bought-11, 2007-13)
+nsubj(had-17, I-15)
+neg(had-17, never-16)
+parataxis(bought-11, had-17)
+det(issues-19, any-18)
+dobj(had-17, issues-19)
+advmod(had-17, whatsoever-20)
+nsubj(going-25, it-22)
+aux(going-25, is-23)
+advmod(going-25, still-24)
+parataxis(bought-11, going-25)
+acomp(going-25, strong-26)
+det(year-30, the-28)
+amod(year-30, 5th-29)
+prep_on(strong-26, year-30)
+

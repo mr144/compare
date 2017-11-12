@@ -1,0 +1,33 @@
+=========
+
+nsubj(value-4, This-1)
+cop(value-4, is-2)
+advmod(value-4, best-3)
+root(ROOT-0, value-4)
+nn(phone-7, money-6)
+prep_for(value-4, phone-7)
+prep_for(phone-7, $-9)
+num($-9, 210-10)
+
+=========
+
+advmod(disadvantage-2, Only-1)
+dobj(found-4, disadvantage-2)
+nsubj(memory-10, disadvantage-2)
+nsubj(found-4, I-3)
+rcmod(disadvantage-2, found-4)
+det(phone-7, this-6)
+prep_with(found-4, phone-7)
+cop(memory-10, is-8)
+amod(memory-10, expandable-9)
+root(ROOT-0, memory-10)
+
+=========
+
+prep_apart_from(phone-9, that-3)
+nsubj(phone-9, it-5)
+cop(phone-9, is-6)
+det(phone-9, a-7)
+amod(phone-9, neat-8)
+root(ROOT-0, phone-9)
+

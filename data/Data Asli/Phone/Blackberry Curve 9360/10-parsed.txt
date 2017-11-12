@@ -1,0 +1,45 @@
+=========
+
+det(phone-2, The-1)
+nsubj(new-5, phone-2)
+cop(new-5, was-3)
+neg(new-5, not-4)
+root(ROOT-0, new-5)
+
+=========
+
+nsubjpass(used-3, it-1)
+auxpass(used-3, was-2)
+root(ROOT-0, used-3)
+det(lot-6, a-5)
+nsubj(trying-10, lot-6)
+xsubj(add-12, lot-6)
+prep_of(lot-6, people-8)
+aux(trying-10, were-9)
+conj_and(used-3, trying-10)
+aux(add-12, to-11)
+xcomp(trying-10, add-12)
+dobj(add-12, me-13)
+amod(messenger-16, blackberry-15)
+prep_on(add-12, messenger-16)
+partmod(messenger-16, looking-17)
+det(arabian-20, some-19)
+prep_for(looking-17, arabian-20)
+
+=========
+
+poss(celphone-5, its-1)
+neg(a-3, not-2)
+amod(celphone-5, a-3)
+amod(celphone-5, good-4)
+nsubj(fake-14, celphone-5)
+nsubj(get-9, it-6)
+aux(get-9, does-7)
+neg(get-9, not-8)
+rcmod(celphone-5, get-9)
+num(everything-11, 3G-10)
+dobj(get-9, everything-11)
+advmod(get-9, here-12)
+cop(fake-14, is-13)
+root(ROOT-0, fake-14)
+

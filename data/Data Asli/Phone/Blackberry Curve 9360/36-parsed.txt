@@ -1,0 +1,31 @@
+=========
+
+det(blackberry-3, The-1)
+amod(blackberry-3, worse-2)
+nsubj(phone-4, blackberry-3)
+root(ROOT-0, phone-4)
+
+=========
+
+nsubj(worse-3, It-1)
+cop(worse-3, is-2)
+root(ROOT-0, worse-3)
+nn(torch-6, BB-5)
+prep_than(worse-3, torch-6)
+
+=========
+
+det(camera-3, no-1)
+amod(camera-3, front-2)
+root(ROOT-0, camera-3)
+
+=========
+
+det(LED-2, no-1)
+root(ROOT-0, LED-2)
+
+=========
+
+amod(performance-2, poor-1)
+root(ROOT-0, performance-2)
+

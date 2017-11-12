@@ -1,0 +1,29 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+dobj(purchased-2, two-3)
+prep_of(two-3, these-5)
+prep_as(purchased-2, gifts-7)
+nn(members-10, family-9)
+prep_for(gifts-7, members-10)
+
+=========
+
+nsubj(pleased-4, They-1)
+cop(pleased-4, are-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+nsubj(recommend-8, I-6)
+aux(recommend-8, would-7)
+conj_and(pleased-4, recommend-8)
+dobj(recommend-8, them-9)
+prep_to(recommend-8, anyone-11)
+partmod(anyone-11, looking-12)
+det(value-16, a-14)
+amod(value-16, fair-15)
+prep_for(looking-12, value-16)
+nn(tele-20, feature-18)
+amod(tele-20, rich-19)
+appos(value-16, tele-20)
+

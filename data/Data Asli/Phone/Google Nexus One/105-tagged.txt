@@ -1,0 +1,6 @@
+Phone_NN works_VBZ well_RB --_: purchased_VBN from_IN blu_FW tek_FW ,_, and_CC arrived_VBD with_IN froyo_NN 2.2_CD ,_, with_IN no_DT available_JJ updates_NNS ._.
+As_IN did_VBD others_NNS who_WP have_VBP written_VBN detailed_JJ reviews_NNS -LRB-_-LRB- ie_NN ,_, Syed_NNP M_NNP Fahad_NNP -RRB-_-RRB- ,_, I_PRP had_VBD to_TO manually_RB install_VB a_DT different_JJ version_NN ._.
+It_PRP arrived_VBD with_IN `_`` Build_NNP Number_NNP :_: 2.16.405.1_CD CL223106_NNP release-keys_NNS '_POS ,_, but_CC in_IN order_NN to_TO get_VB over_IN the_DT air_NN updates_NNS ,_, I_PRP had_VBD to_TO get_VB it_PRP to_TO `_`` Build_VB Number_NNP :_: FRG33_NNP '_POS ._.
+Once_RB that_DT was_VBD successful_JJ ,_, the_DT OTA_NNP update_VBP for_IN 2.3.4_CD arrived_VBD ._.
+To_TO get_VB detailed_JJ instructions_NNS ,_, search_NN for_IN `_`` goodbye_FW vodafone_FW uk_FW nexus_NN one_CD rom_NN '_'' ._.
+I_PRP used_VBD Upgrade_NNP Process_NNP steps_NNS 1-5_CD ,_, and_CC then_RB the_DT OTA_NNP came_VBD automatically_RB ._.

@@ -1,0 +1,168 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, that-3)
+dobj(bought-2, phone-4)
+dobj(looks-6, phone-4)
+nsubj(looks-6, it-5)
+rcmod(phone-4, looks-6)
+advmod(good-8, real-7)
+acomp(looks-6, good-8)
+
+=========
+
+nsubj(went-2, I-1)
+nsubj(found-8, I-1)
+root(ROOT-0, went-2)
+det(store-6, a-4)
+nn(store-6, thrift-5)
+prep_to(went-2, store-6)
+conj_and(went-2, found-8)
+det(case-10, a-9)
+dobj(found-8, case-10)
+aux(carry-12, to-11)
+xcomp(found-8, carry-12)
+dobj(carry-12, it-13)
+prep(carry-12, in-14)
+
+=========
+
+nsubj(new-4, It-1)
+cop(new-4, was-2)
+dep(new-4, brand-3)
+root(ROOT-0, new-4)
+advmod(new-4, too-5)
+
+=========
+
+det(battery-2, The-1)
+nsubj(hold-5, battery-2)
+aux(hold-5, does-3)
+neg(hold-5, not-4)
+root(ROOT-0, hold-5)
+det(charge-7, a-6)
+dobj(hold-5, charge-7)
+advmod(long-10, very-9)
+prep_for(hold-5, long-10)
+
+=========
+
+advmod(long-2, How-1)
+dep(suppose-5, long-2)
+aux(suppose-5, are-3)
+nsubj(suppose-5, they-4)
+xsubj(hold-7, they-4)
+root(ROOT-0, suppose-5)
+aux(hold-7, to-6)
+xcomp(suppose-5, hold-7)
+det(charge-9, a-8)
+dobj(hold-7, charge-9)
+
+=========
+
+nsubj(used-4, I-1)
+nsubj(have-8, I-1)
+aux(used-4, have-2)
+neg(used-4, not-3)
+root(ROOT-0, used-4)
+dep(used-4, it-5)
+advmod(it-5, yet-6)
+conj_nor(used-4, have-8)
+nsubj(went-10, I-9)
+xsubj(see-12, I-9)
+ccomp(have-8, went-10)
+aux(see-12, to-11)
+xcomp(went-10, see-12)
+mark(unlocked-16, if-13)
+nsubj(unlocked-16, it-14)
+cop(unlocked-16, was-15)
+advcl(see-12, unlocked-16)
+advcl(see-12, not-18)
+conj_or(unlocked-16, not-18)
+
+=========
+
+dep(wondering-4, So-1)
+nsubj(wondering-4, I-2)
+aux(wondering-4, am-3)
+root(ROOT-0, wondering-4)
+mark(good-9, if-5)
+det(battery-7, the-6)
+nsubj(good-9, battery-7)
+nsubj(has-11, battery-7)
+xsubj(replaced-14, battery-7)
+cop(good-9, is-8)
+advcl(wondering-4, good-9)
+advcl(wondering-4, has-11)
+conj_or(good-9, has-11)
+aux(replaced-14, to-12)
+auxpass(replaced-14, be-13)
+xcomp(has-11, replaced-14)
+
+=========
+
+nsubj(phone-6, This-1)
+cop(phone-6, is-2)
+poss(phone-6, my-3)
+amod(phone-6, first-4)
+amod(phone-6, smart-5)
+root(ROOT-0, phone-6)
+mark(DUH-11, so-7)
+nsubj(DUH-11, I-8)
+cop(DUH-11, am-9)
+advcl(phone-6, DUH-11)
+det(usage-15, the-14)
+prep_on(DUH-11, usage-15)
+
+=========
+
+root(ROOT-0, Oh-1)
+dep(Oh-1, on-2)
+det(issue-5, the-3)
+amod(issue-5, PayPal-4)
+pobj(on-2, issue-5)
+nsubj(waiting-9, I-6)
+aux(waiting-9, have-7)
+aux(waiting-9, been-8)
+rcmod(issue-5, waiting-9)
+advmod(year-12, almost-10)
+det(year-12, a-11)
+tmod(waiting-9, year-12)
+aux(get-14, to-13)
+ccomp(waiting-9, get-14)
+dobj(get-14, money-15)
+prt(get-14, back-16)
+prep_from(get-14, them-18)
+complm(came-22, that-20)
+nsubj(came-22, money-21)
+ccomp(waiting-9, came-22)
+conj_and(get-14, came-22)
+poss(account-26, my-24)
+nn(account-26, bank-25)
+prep_from(came-22, account-26)
+
+=========
+
+nsubj(use-4, I-1)
+aux(use-4, did-2)
+neg(use-4, not-3)
+root(ROOT-0, use-4)
+dobj(use-4, PayPal-5)
+prep_for(PayPal-5, payment-7)
+
+=========
+
+dep(LUCK-3, So-1)
+nsubj(LUCK-3, GOOD-2)
+root(ROOT-0, LUCK-3)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+xcomp(love-2, Amazon-3)
+nsubj(!!!!-6, they-4)
+nn(!!!!-6, ROCK-5)
+xcomp(Amazon-3, !!!!-6)
+

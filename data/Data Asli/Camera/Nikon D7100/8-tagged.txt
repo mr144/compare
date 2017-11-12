@@ -1,0 +1,2 @@
+I_PRP am_VBP upgraded_VBN from_IN the_DT d3100_NN to_TO the_DT d7100_CD ,_, the_DT d3100_NN is_VBZ a_DT great_JJ starter_JJ DSLR_NNP camera_NN ._.
+So_RB ,_, I_PRP am_VBP still_RB learning_VBG all_PDT the_DT function_NN and_CC features_NNS on_IN the_DT d7100_CD and_CC I_PRP am_VBP really_RB looking_VBG forward_RB to_TO this_DT journey_NN ._.

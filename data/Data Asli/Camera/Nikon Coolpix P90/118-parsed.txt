@@ -1,0 +1,103 @@
+=========
+
+det(price-2, The-1)
+nsubj(ridiculous-4, price-2)
+cop(ridiculous-4, is-3)
+root(ROOT-0, ridiculous-4)
+det(camera-7, this-6)
+prep_for(ridiculous-4, camera-7)
+
+=========
+
+poss(point-5, My-1)
+amod(point-5, old-2)
+num(point-5, $-3)
+number($-3, 150-4)
+nsubj(better-10, point-5)
+conj_and(point-5, shoot-7)
+nsubj(better-10, shoot-7)
+cop(better-10, was-8)
+advmod(better-10, far-9)
+root(ROOT-0, better-10)
+det(camera-13, this-12)
+prep_than(better-10, camera-13)
+
+=========
+
+det(noise-2, The-1)
+nsubj(horrible-5, noise-2)
+cop(horrible-5, is-3)
+advmod(horrible-5, absolutely-4)
+root(ROOT-0, horrible-5)
+det(camera-8, this-7)
+prep_with(horrible-5, camera-8)
+
+=========
+
+nsubj(get-3, You-1)
+advmod(get-3, even-2)
+root(ROOT-0, get-3)
+dobj(get-3, noise-4)
+poss(videos-7, your-6)
+prep_in(noise-4, videos-7)
+
+=========
+
+dep(zooms-4, Sure-1)
+nsubj(zooms-4, it-3)
+root(ROOT-0, zooms-4)
+det(lot-6, a-5)
+dobj(zooms-4, lot-6)
+
+=========
+
+cc(reduces-5, But-1)
+predet(zooming-4, all-2)
+det(zooming-4, that-3)
+nsubj(reduces-5, zooming-4)
+root(ROOT-0, reduces-5)
+det(quality-7, the-6)
+nsubj(SO-8, quality-7)
+ccomp(reduces-5, SO-8)
+advmod(turns-13, much-9)
+dep(turns-13, that-10)
+nsubj(turns-13, it-11)
+advmod(turns-13, just-12)
+ccomp(SO-8, turns-13)
+prt(turns-13, out-14)
+cop(photo-18, being-15)
+det(photo-18, a-16)
+amod(photo-18, horrible-17)
+xcomp(turns-13, photo-18)
+
+=========
+
+nsubj(recommended-2, NOT-1)
+root(ROOT-0, recommended-2)
+
+=========
+
+nsubj(buy-2, Go-1)
+root(ROOT-0, buy-2)
+dobj(buy-2, $-3)
+number($-3, 200-4)
+number($-3, camera-5)
+advmod(buy-2, instead-6)
+
+=========
+
+det(price-4, the-2)
+amod(price-4, same-3)
+prep_for(get-8, price-4)
+nsubj(get-8, you-6)
+aux(get-8, can-7)
+root(ROOT-0, get-8)
+det(SX10-11, a-9)
+nn(SX10-11, Canon-10)
+dobj(get-8, SX10-11)
+nsubj(better-14, SX10-11)
+cop(better-14, is-13)
+rcmod(SX10-11, better-14)
+prep(better-14, by-15)
+pcomp(by-15, far-16)
+

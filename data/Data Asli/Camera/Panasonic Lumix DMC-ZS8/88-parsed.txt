@@ -1,0 +1,45 @@
+=========
+
+nsubjpass(impressed-5, I-1)
+aux(impressed-5, have-2)
+auxpass(impressed-5, been-3)
+advmod(impressed-5, really-4)
+root(ROOT-0, impressed-5)
+det(quality-8, the-7)
+prep_with(impressed-5, quality-8)
+det(photos-11, the-10)
+prep_of(quality-8, photos-11)
+det(camera-14, this-13)
+prep_from(impressed-5, camera-14)
+advmod(impressed-5, especially-16)
+nn(mode-19, macro-18)
+prep_in(impressed-5, mode-19)
+
+=========
+
+advmod(useless-7, However-1)
+det(camera-4, the-3)
+nsubj(useless-7, camera-4)
+aux(useless-7, has-5)
+cop(useless-7, become-6)
+root(ROOT-0, useless-7)
+quantmod(5-10, about-9)
+num(months-11, 5-10)
+prep_in(useless-7, months-11)
+prep_because_of(months-11, dust-14)
+det(camera-17, the-16)
+prep_inside(useless-7, camera-17)
+
+=========
+
+advmod(blurry-4, Now-1)
+expl(blurry-4, there-2)
+aux(blurry-4, are-3)
+root(ROOT-0, blurry-4)
+nn(spots-6, dust-5)
+dobj(blurry-4, spots-6)
+nsubj(blurry-4, spots-6)
+prep_on(blurry-4, all-8)
+det(photos-11, the-10)
+prep_of(all-8, photos-11)
+

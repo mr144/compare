@@ -1,0 +1,166 @@
+=========
+
+nn(Camera-2, Great-1)
+nsubj(takes-4, Camera-2)
+root(ROOT-0, takes-4)
+amod(photos-6, good-5)
+dobj(takes-4, photos-6)
+
+=========
+
+dep(good-2, Feels-1)
+root(ROOT-0, good-2)
+det(hand-5, the-4)
+prep_in(good-2, hand-5)
+
+=========
+
+dep(battery-2, Removable-1)
+ccomp(buy-6, battery-2)
+nsubj(buy-6, you-4)
+aux(buy-6, can-5)
+root(ROOT-0, buy-6)
+det(spare-8, a-7)
+dobj(buy-6, spare-8)
+quantmod($-11, around-10)
+prep_for(buy-6, $-11)
+number($-11, 5-12)
+parataxis(buy-6, comes-14)
+prep_in(comes-14, handy-16)
+advmod(traveling-20, when-17)
+nsubj(traveling-20, you-18)
+aux(traveling-20, are-19)
+advcl(comes-14, traveling-20)
+nsubj(have-25, you-23)
+aux(have-25, can-24)
+advcl(comes-14, have-25)
+conj_and(traveling-20, have-25)
+det(battery-30, a-26)
+advmod(charged-28, fully-27)
+amod(battery-30, charged-28)
+amod(battery-30, spare-29)
+dobj(have-25, battery-30)
+poss(pocket-33, your-32)
+prep_in(battery-30, pocket-33)
+
+=========
+
+nsubj(Quality-2, Tough-1)
+root(ROOT-0, Quality-2)
+dep(Quality-2, dropped-5)
+iobj(dropped-5, it-6)
+dobj(dropped-5, couple-7)
+prep_of(couple-7, times-9)
+det(cracks-12, no-11)
+dobj(dropped-5, cracks-12)
+conj_and(couple-7, cracks-12)
+det(screen-15, the-14)
+prep_on(cracks-12, screen-15)
+
+=========
+
+det(camera-3, No-1)
+amod(camera-3, front-2)
+root(ROOT-0, camera-3)
+
+=========
+
+root(ROOT-0, Slows-1)
+prt(Slows-1, up-2)
+prep_from(Slows-1, time-4)
+prep_to(Slows-1, time-6)
+
+=========
+
+amod(Things-2, Other-1)
+nsubj(Consider-4, Things-2)
+aux(Consider-4, to-3)
+root(ROOT-0, Consider-4)
+
+=========
+
+det(phone-2, The-1)
+nsubj(did-3, phone-2)
+root(ROOT-0, did-3)
+dobj(did-3, freeze-4)
+prep_from(did-3, time-6)
+prep_to(did-3, time-8)
+nsubj(had-11, I-10)
+xsubj(remove-13, I-10)
+xsubj(unfreeze-19, I-10)
+conj_and(did-3, had-11)
+aux(remove-13, to-12)
+xcomp(had-11, remove-13)
+det(battery-15, the-14)
+dobj(remove-13, battery-15)
+prep_in(battery-15, order-17)
+aux(unfreeze-19, to-18)
+xcomp(had-11, unfreeze-19)
+dobj(unfreeze-19, it-20)
+nsubj(stopped-24, this-23)
+conj_but(did-3, stopped-24)
+prepc_after(stopped-24, upgrading-26)
+prep_from(upgrading-26, Android-28)
+num(Android-28, 2.2-29)
+prep_to(upgrading-26, 2.3-31)
+
+=========
+
+advmod(runs-2, Currently-1)
+root(ROOT-0, runs-2)
+nn(Gingerbread-6, Android-4)
+nn(Gingerbread-6, 2.3-5)
+prep_on(runs-2, Gingerbread-6)
+nsubj(are-11, Successors-8)
+prep_to(Successors-8, 2.3-10)
+rcmod(Gingerbread-6, are-11)
+amod(order-14, following-13)
+prep_in(are-11, order-14)
+nn(4.0-19, Ice-16)
+nn(4.0-19, Cram-17)
+nn(4.0-19, Sandwich-18)
+nsubj(runs-2, 4.0-19)
+nn(4.1-23, Jelly-21)
+nn(4.1-23, Bean-22)
+appos(4.0-19, 4.1-23)
+nn(4.2-27, Jelly-25)
+nn(4.2-27, Bean-26)
+appos(4.1-23, 4.2-27)
+
+=========
+
+dep(works-5, Yes-1)
+det(phone-4, the-3)
+nsubj(works-5, phone-4)
+root(ROOT-0, works-5)
+prep_with(works-5, Tmobile-7)
+nsubj(get-13, you-10)
+aux(get-13, will-11)
+neg(get-13, not-12)
+conj_but(works-5, get-13)
+amod(speed-15, 4g-14)
+dobj(get-13, speed-15)
+
+=========
+
+neg(problem-3, Not-1)
+det(problem-3, a-2)
+root(ROOT-0, problem-3)
+mark(want-7, if-4)
+nsubj(want-7, you-5)
+advmod(want-7, only-6)
+ccomp(problem-3, want-7)
+dobj(want-7, data-8)
+prep_for(data-8, email-10)
+prep_for(data-8, twitter-12)
+conj_and(email-10, twitter-12)
+mark(plan-17, if-14)
+nsubj(plan-17, you-15)
+xsubj(use-19, you-15)
+advmod(plan-17, only-16)
+ccomp(problem-3, plan-17)
+conj_or(want-7, plan-17)
+aux(use-19, to-18)
+xcomp(plan-17, use-19)
+dobj(use-19, wifi-20)
+

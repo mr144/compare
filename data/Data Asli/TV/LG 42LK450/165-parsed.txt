@@ -1,0 +1,27 @@
+=========
+
+det(TV-6, This-1)
+nn(TV-6, 37-2)
+amod(TV-6, flat-4)
+nn(TV-6, panel-5)
+nsubj(product-10, TV-6)
+cop(product-10, is-7)
+det(product-10, a-8)
+amod(product-10, fine-9)
+root(ROOT-0, product-10)
+det(money-13, the-12)
+prep_for(product-10, money-13)
+
+=========
+
+csubj(breeze-6, Setting-1)
+dobj(Setting-1, it-2)
+prt(Setting-1, up-3)
+cop(breeze-6, was-4)
+det(breeze-6, a-5)
+root(ROOT-0, breeze-6)
+det(manual-11, a-8)
+advmod(clear-10, very-9)
+amod(manual-11, clear-10)
+prep_with(breeze-6, manual-11)
+

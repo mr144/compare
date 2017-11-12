@@ -1,0 +1,55 @@
+=========
+
+det(TV-2, This-1)
+nsubj(price-8, TV-2)
+cop(price-8, is-3)
+amod(price-8, great-4)
+conj_and(great-4, worth-6)
+amod(price-8, worth-6)
+det(price-8, the-7)
+root(ROOT-0, price-8)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, HD-2)
+nsubj(awesome-5, quality-3)
+cop(awesome-5, is-4)
+root(ROOT-0, awesome-5)
+
+=========
+
+det(sound-2, The-1)
+nsubj(okay-4, sound-2)
+cop(okay-4, is-3)
+root(ROOT-0, okay-4)
+
+=========
+
+det(tube-5, Some-1)
+amod(tube-5, apps-2)
+prep_like(apps-2, you-4)
+nsubj(hangs-6, tube-5)
+root(ROOT-0, hangs-6)
+prep_at(hangs-6, times-8)
+advmod(times-8, however-10)
+nsubj(times-8, this-11)
+aux(times-8, might-12)
+cop(times-8, be-13)
+det(app-17, the-16)
+prep_due_to(times-8, app-17)
+prep_at(hangs-6, not-19)
+conj_and(times-8, not-19)
+neg(times-8, not-19)
+det(TV-23, the-22)
+prep_because_of(times-8, TV-23)
+
+=========
+
+det(setting-2, The-1)
+nsubj(easy-4, setting-2)
+cop(easy-4, are-3)
+root(ROOT-0, easy-4)
+aux(install-6, to-5)
+xcomp(easy-4, install-6)
+

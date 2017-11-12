@@ -1,0 +1,104 @@
+=========
+
+nsubj(bought-2, We-1)
+root(ROOT-0, bought-2)
+det(Bravia-4, a-3)
+dobj(bought-2, Bravia-4)
+num(mths-6, 18-5)
+npadvmod(ago-7, mths-6)
+advmod(bought-2, ago-7)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(great-5, quality-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+
+=========
+
+mark(watched-9, although-2)
+det(times-6, the-4)
+num(times-6, 3-5)
+prep_for(watched-9, times-6)
+nsubj(watched-9, we-7)
+aux(watched-9, have-8)
+advcl(worth-18, watched-9)
+det(video-12, a-10)
+num(video-12, 3D-11)
+dobj(watched-9, video-12)
+nsubj(worth-18, it-14)
+cop(worth-18, is-15)
+advmod(worth-18, probably-16)
+neg(worth-18, not-17)
+root(ROOT-0, worth-18)
+nsubj(pay-21, it-19)
+aux(pay-21, to-20)
+dep(worth-18, pay-21)
+dobj(pay-21, extra-22)
+prep_for(extra-22, 3D-24)
+advmod(impressive-39, also-26)
+det(experience-28, the-27)
+nsubj(impressive-39, experience-28)
+mark(see-33, while-30)
+nsubj(see-33, you-31)
+aux(see-33, can-32)
+dep(experience-28, see-33)
+det(difference-35, the-34)
+dobj(see-33, difference-35)
+cop(impressive-39, is-37)
+neg(impressive-39, not-38)
+parataxis(pay-21, impressive-39)
+
+=========
+
+det(things-3, the-1)
+amod(things-3, frustrating-2)
+nsubj(:1-8, things-3)
+det(TV-6, the-5)
+prep_about(things-3, TV-6)
+cop(:1-8, are-7)
+root(ROOT-0, :1-8)
+
+=========
+
+nn(switching-2, channel-1)
+nsubj(slow-4, switching-2)
+cop(slow-4, is-3)
+root(ROOT-0, slow-4)
+dep(slow-4, .2-5)
+
+=========
+
+nsubj(enabled-2, web-1)
+root(ROOT-0, enabled-2)
+nsubj(slow-6, functions-3)
+cop(slow-6, are-4)
+advmod(slow-6, very-5)
+ccomp(enabled-2, slow-6)
+
+=========
+
+nn(netflix-2, e.g.-1)
+nsubj(runs-3, netflix-2)
+nsubj(freezes-6, netflix-2)
+root(ROOT-0, runs-3)
+acomp(runs-3, slower-4)
+conj_and(runs-3, freezes-6)
+advmod(more-8, far-7)
+advmod(freezes-6, more-8)
+advmod(freezes-6, often-9)
+det(Sony-12, the-11)
+prep_on(freezes-6, Sony-12)
+advmod(freezes-6, than-13)
+det(computer-17, a-15)
+amod(computer-17, desktop-16)
+prep_on(than-13, computer-17)
+amod(network-21, same-19)
+nn(network-21, wi-fi-20)
+appos(computer-17, network-21)
+dep(than-13, .3-23)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

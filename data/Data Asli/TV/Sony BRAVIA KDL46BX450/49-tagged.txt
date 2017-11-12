@@ -1,0 +1,4 @@
+This_DT is_VBZ a_DT great_JJ TV_NN !_.
+It_PRP arrived_VBD on_IN time_NN as_IN promised_VBN ,_, packaged_VBN for_IN protection_NN ._.
+This_DT TV_NN has_VBZ a_DT great_JJ picture_NN and_CC great_JJ sound_NN ._.
+It_PRP is_VBZ important_JJ to_TO note_VB that_IN this_DT set_NN only_RB has_VBZ 2_CD HDMI_NNP ports_NNS ,_, which_WDT is_VBZ a_DT problem_NN if_IN you_PRP plan_VBP to_TO use_VB a_DT gaming_NN system_NN ,_, DVD_NNP player_NN ,_, cable_NN box_NN ,_, etc._FW

@@ -1,0 +1,70 @@
+=========
+
+nsubj(found-2, I-1)
+root(ROOT-0, found-2)
+det(TV-4, this-3)
+nsubj(disappointing-5, TV-4)
+xcomp(found-2, disappointing-5)
+
+=========
+
+partmod(extreme-23, Connected-1)
+det(equipment-5, any-3)
+nn(equipment-5, HD-4)
+prep_to(Connected-1, equipment-5)
+nn(Cable-10, HD-9)
+prep_such_as(equipment-5, Cable-10)
+nn(Roku-13, HD-12)
+appos(Cable-10, Roku-13)
+nn(Ray-16, Blue-15)
+appos(Cable-10, Ray-16)
+appos(Cable-10, ETC-18)
+det(noise-21, the-20)
+nsubj(extreme-23, noise-21)
+cop(extreme-23, is-22)
+root(ROOT-0, extreme-23)
+det(setting-26, any-25)
+prep_at(extreme-23, setting-26)
+
+=========
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(way-4, no-3)
+nsubj(is-2, way-4)
+aux(customize-6, to-5)
+infmod(way-4, customize-6)
+dobj(customize-6, sound-7)
+
+=========
+
+det(sharpness-2, The-1)
+nsubj(mediocre-4, sharpness-2)
+cop(mediocre-4, is-3)
+root(ROOT-0, mediocre-4)
+prep_at(mediocre-4, best-6)
+
+=========
+
+det(side-3, a-2)
+prep_in(inferior-12, side-3)
+nn(comparison-6, side-5)
+prep_by(side-3, comparison-6)
+amod(visual-8, overall-7)
+nsubj(inferior-12, visual-8)
+cop(inferior-12, is-9)
+advmod(inferior-12, by-10)
+advmod(by-10, far-11)
+root(ROOT-0, inferior-12)
+amod(60-15, my-14)
+poss(Sony-17, 60-15)
+prep_to(inferior-12, Sony-17)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+neg(recommend-4, not-3)
+root(ROOT-0, recommend-4)
+dobj(recommend-4, it-5)
+

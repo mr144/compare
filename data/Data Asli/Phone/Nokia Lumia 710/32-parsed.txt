@@ -1,0 +1,55 @@
+=========
+
+nn(710-3, Nokia-1)
+nn(710-3, Lumia-2)
+nsubjpass(delivered-5, 710-3)
+auxpass(delivered-5, was-4)
+root(ROOT-0, delivered-5)
+amod(time-8, promised-7)
+prep_before(delivered-5, time-8)
+amod(condition-12, great-11)
+prep_in(time-8, condition-12)
+
+=========
+
+nsubj(new-3, Phone-1)
+cop(new-3, is-2)
+root(ROOT-0, new-3)
+conj_and(new-3, unlocked-5)
+
+=========
+
+nsubj(excellent-3, Packaging-1)
+cop(excellent-3, is-2)
+root(ROOT-0, excellent-3)
+
+=========
+
+det(need-2, No-1)
+root(ROOT-0, need-2)
+aux(mention-4, to-3)
+infmod(need-2, mention-4)
+det(phone-7, the-6)
+prep_about(mention-4, phone-7)
+dep(did-12, itself-8)
+nsubj(did-12, i-11)
+nsubj(has-22, i-11)
+dep(need-2, did-12)
+advmod(say-14, just-13)
+ccomp(did-12, say-14)
+poss(excellent-16, its-15)
+dobj(say-14, excellent-16)
+amod(usability-20, great-19)
+prep_with(say-14, usability-20)
+dep(need-2, has-22)
+conj_and(did-12, has-22)
+quantmod(2-24, about-23)
+num(days-25, 2-24)
+dobj(has-22, days-25)
+nn(life-28, battery-27)
+prep_of(days-25, life-28)
+amod(usage-31, light-30)
+dep(life-28, usage-31)
+prep_including(usage-31, hours-33)
+prep_of(hours-33, stand-by-35)
+

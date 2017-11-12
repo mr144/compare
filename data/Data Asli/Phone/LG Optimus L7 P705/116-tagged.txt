@@ -1,0 +1,3 @@
+I_PRP liked_VBD the_DT look_NN ,_, but_CC the_DT operating_NN system_NN is_VBZ slow_JJ at_IN times_NNS ,_, and_CC does_VBZ not_RB come_VB installed_VBN with_IN the_DT Spanish_JJ language_NN ._.
+Most_JJS of_IN the_DT time_NN there_EX are_VBP only_RB average_JJ free_JJ memory_NN 120Mb_NNP RAM_NNP ._.
+The_DT battery_NN is_VBZ good_JJ and_CC the_DT camera_NN too_RB ._.

@@ -1,0 +1,71 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(count-5, a-3)
+amod(count-5, photo-4)
+dobj(have-2, count-5)
+mwe(than-8, less-7)
+quantmod(1000-9, than-8)
+prep_of(count-5, 1000-9)
+det(camera-12, this-11)
+prep_on(1000-9, camera-12)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(camera-5, another-3)
+nn(camera-5, Panasonic-4)
+dobj(have-2, camera-5)
+appos(camera-5, DMC-F3-7)
+
+=========
+
+poss(sensor-2, Its-1)
+nsubj(deteriorated-5, sensor-2)
+conj_and(sensor-2, autofocus-4)
+nsubj(deteriorated-5, autofocus-4)
+root(ROOT-0, deteriorated-5)
+prepc_after(deteriorated-5, reaching-7)
+det(count-10, a-8)
+amod(count-10, photo-9)
+dobj(reaching-7, count-10)
+prep_of(count-10, ~-12)
+num(~-12, 4000-13)
+
+=========
+
+nn(service-3, Panasonic-1)
+nn(service-3, customer-2)
+nsubj(impossible-5, service-3)
+cop(impossible-5, is-4)
+root(ROOT-0, impossible-5)
+
+=========
+
+nsubj(refused-2, It-1)
+xsubj(repair-4, It-1)
+root(ROOT-0, refused-2)
+aux(repair-4, to-3)
+xcomp(refused-2, repair-4)
+advmod(old-12, even-5)
+dep(old-12, though-6)
+det(camera-8, the-7)
+nsubj(old-12, camera-8)
+cop(old-12, is-9)
+num(month-11, 6-10)
+npadvmod(old-12, month-11)
+ccomp(repair-4, old-12)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+det(model-4, this-3)
+nsubj(last-6, model-4)
+aux(last-6, will-5)
+ccomp(hope-2, last-6)
+advmod(last-6, longer-7)
+prep_than(longer-7, 4000-9)
+

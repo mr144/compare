@@ -1,0 +1,58 @@
+=========
+
+nsubj(wanted-2, I-1)
+root(ROOT-0, wanted-2)
+det(television-4, a-3)
+dobj(wanted-2, television-4)
+aux(replace-6, to-5)
+infmod(television-4, replace-6)
+poss(old-8, my-7)
+dobj(replace-6, old-8)
+abbrev(old-8, HEAVY-10)
+
+=========
+
+poss(tube-3, 31-1)
+nsubj(type-4, tube-3)
+root(ROOT-0, type-4)
+
+=========
+
+nsubj(ordered-2, I-1)
+root(ROOT-0, ordered-2)
+det(32-4, this-3)
+poss(LG-6, 32-4)
+dobj(ordered-2, LG-6)
+prep_from(ordered-2, Amazon-8)
+det(price-13, a-10)
+advmod(good-12, very-11)
+amod(price-13, good-12)
+prep_at(ordered-2, price-13)
+
+=========
+
+prep_on(snap-7, arrival-2)
+nsubj(snap-7, it-4)
+cop(snap-7, was-5)
+det(snap-7, a-6)
+root(ROOT-0, snap-7)
+aux(hook-9, to-8)
+infmod(snap-7, hook-9)
+prt(hook-9, up-10)
+
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+
+=========
+
+root(ROOT-0, AND-1)
+amod(AND-1, light-2)
+advmod(light-2, enough-3)
+aux(pick-5, to-4)
+xcomp(light-2, pick-5)
+prt(pick-5, up-6)
+num(hand-9, one-8)
+prep_with(pick-5, hand-9)
+

@@ -1,0 +1,39 @@
+=========
+
+det(TV-2, This-1)
+nsubj(amazing-4, TV-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+nsubj(light-4, It-1)
+cop(light-4, 's-2)
+advmod(light-4, so-3)
+root(ROOT-0, light-4)
+det(quality-7, the-6)
+nsubj(top-notch-9, quality-7)
+cop(top-notch-9, is-8)
+conj_and(light-4, top-notch-9)
+
+=========
+
+nsubj(pleased-4, I-1)
+nsubj(love-7, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+conj_and(pleased-4, love-7)
+nsubj(features-13, all-8)
+det(features-13, the-9)
+num(features-13, &#34;-10)
+amod(features-13, smart-11)
+num(features-13, &#34;-12)
+xcomp(love-7, features-13)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+dobj(recommend-2, it-3)
+

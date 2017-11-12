@@ -1,0 +1,25 @@
+=========
+
+root(ROOT-0, cheapest-1)
+poss(class-4, its-3)
+prep_on(cheapest-1, class-4)
+advmod(worse-7, also-6)
+conj_and(cheapest-1, worse-7)
+
+=========
+
+nsubj(get-2, Id-1)
+root(ROOT-0, get-2)
+amod(mint-7, better-3)
+amod(mint-7, other-4)
+num(mint-7, one-5)
+amod(mint-7, used-6)
+dobj(get-2, mint-7)
+prep_on(get-2, ebay-9)
+det(price-12, that-11)
+prep_for(ebay-9, price-12)
+
+=========
+
+root(ROOT-0, awright-1)
+

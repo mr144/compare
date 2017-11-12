@@ -1,0 +1,29 @@
+=========
+
+nsubj(starting-14, Am-1)
+amod(Am-1, happy-2)
+det(items-5, this-4)
+prep_with(happy-2, items-5)
+det(technology-9, the-7)
+amod(technology-9, high-8)
+prep_with(happy-2, technology-9)
+conj_and(items-5, technology-9)
+nsubj(has-11, it-10)
+parataxis(starting-14, has-11)
+aux(starting-14, am-13)
+root(ROOT-0, starting-14)
+mark(camera-24, as-15)
+nn(pictures-18, fan-16)
+nn(pictures-18, taking-17)
+nsubj(camera-24, pictures-18)
+conj_and(pictures-18, this-20)
+nsubj(camera-24, this-20)
+cop(camera-24, is-21)
+det(camera-24, an-22)
+amod(camera-24, exelent-23)
+advcl(starting-14, camera-24)
+
+=========
+
+root(ROOT-0, Thanks-1)
+

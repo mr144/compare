@@ -1,0 +1,26 @@
+=========
+
+nsubj(has-11, I-1)
+ccomp(has-11, m-3)
+advmod(happy-5, really-4)
+acomp(m-3, happy-5)
+det(TV-8, this-7)
+prep_with(happy-5, TV-8)
+nsubj(has-11, it-10)
+root(ROOT-0, has-11)
+det(picture-14, a-12)
+amod(picture-14, great-13)
+dobj(has-11, picture-14)
+nsubj(worth-19, it-17)
+cop(worth-19, was-18)
+conj_and(has-11, worth-19)
+dobj(paid-22, what-20)
+nsubj(paid-22, I-21)
+ccomp(worth-19, paid-22)
+prep_for(paid-22, it-24)
+
+=========
+
+nsubj(deal-2, Great-1)
+root(ROOT-0, deal-2)
+

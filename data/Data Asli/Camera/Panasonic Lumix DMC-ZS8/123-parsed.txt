@@ -1,0 +1,128 @@
+=========
+
+nsubj(was-2, I-1)
+nsubj(saw-11, I-1)
+root(ROOT-0, was-2)
+det(trip-5, a-4)
+prep_on(was-2, trip-5)
+prep_with(trip-5, friends-7)
+prep_in(friends-7, June-9)
+conj_and(was-2, saw-11)
+amod(hand-13, first-12)
+nsubj(capability-15, hand-13)
+det(capability-15, the-14)
+xcomp(saw-11, capability-15)
+det(camera-18, this-17)
+prep_of(capability-15, camera-18)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(enables-3, zoom-2)
+root(ROOT-0, enables-3)
+amod(ops-6, many-4)
+nn(ops-6, photo-5)
+dobj(enables-3, ops-6)
+complm(offer-15, that-7)
+amod(cameras-12, other-8)
+amod(cameras-12, hand-held-10)
+nsubj(offer-15, cameras-12)
+aux(offer-15, did-13)
+neg(offer-15, not-14)
+ccomp(enables-3, offer-15)
+prep_to(offer-15, me-17)
+advmod(offer-15, before-18)
+
+=========
+
+nsubj(able-3, I-1)
+cop(able-3, was-2)
+root(ROOT-0, able-3)
+aux(get-5, to-4)
+xcomp(able-3, get-5)
+dobj(get-5, pics-6)
+prep_in(get-5, situations-8)
+complm(considered-14, that-9)
+nsubj(considered-14, I-10)
+aux(considered-14, would-11)
+neg(considered-14, not-12)
+aux(considered-14, have-13)
+ccomp(get-5, considered-14)
+xcomp(considered-14, getting-15)
+poss(cameras-19, my-17)
+amod(cameras-19, other-18)
+prep_with(getting-15, cameras-19)
+
+=========
+
+det(camera-2, The-1)
+nsubj(weight-5, camera-2)
+cop(weight-5, is-3)
+amod(weight-5, light-4)
+root(ROOT-0, weight-5)
+conj_and(weight-5, fits-7)
+det(pocket-11, the-9)
+nn(pocket-11, shirt-10)
+prep_in(weight-5, pocket-11)
+advmod(weight-5, easily-12)
+nsubj(feels-16, it-15)
+conj_but(weight-5, feels-16)
+amod(cheap-20, substantial-17)
+neg(cheap-20, not-19)
+acomp(feels-16, cheap-20)
+
+=========
+
+amod(directions-2, Good-1)
+nsubjpass(provided-4, directions-2)
+auxpass(provided-4, are-3)
+root(ROOT-0, provided-4)
+
+=========
+
+nsubj(needed-2, I-1)
+root(ROOT-0, needed-2)
+nsubj(help-5, them-3)
+aux(help-5, to-4)
+xcomp(needed-2, help-5)
+dep(help-5, locate-6)
+advmod(use-9, how-7)
+aux(use-9, to-8)
+ccomp(locate-6, use-9)
+xcomp(locate-6, use-9)
+det(features-12, the-10)
+amod(features-12, MANY-11)
+dobj(use-9, features-12)
+nsubj(available-15, features-12)
+cop(available-15, are-14)
+rcmod(features-12, available-15)
+
+=========
+
+det(time-5, the-3)
+amod(time-5, first-4)
+prep_for(took-9, time-5)
+nsubj(took-9, I-7)
+advmod(took-9, successfully-8)
+root(ROOT-0, took-9)
+dobj(took-9, pictures-10)
+amod(4th-13, last-12)
+prep_of(pictures-10, 4th-13)
+nn(fireworks-16, July-15)
+prep_of(4th-13, fireworks-16)
+
+=========
+
+nsubj(believer-5, I-1)
+cop(believer-5, am-2)
+advmod(believer-5, now-3)
+det(believer-5, a-4)
+root(ROOT-0, believer-5)
+nn(products-8, Panasonic-7)
+prep_in(believer-5, products-8)
+cop(user-13, being-10)
+det(user-13, a-11)
+nn(user-13, Canon-12)
+prepc_after(believer-5, user-13)
+prep_for(user-13, years-15)
+

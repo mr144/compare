@@ -1,0 +1,45 @@
+=========
+
+det(TV-2, This-1)
+nsubj(awesome-4, TV-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(refreshing-9, quality-3)
+conj_and(quality-3, ease-5)
+nsubj(refreshing-9, ease-5)
+prep_of(quality-3, use-7)
+cop(refreshing-9, are-8)
+root(ROOT-0, refreshing-9)
+
+=========
+
+mark(are-3, While-1)
+expl(are-3, there-2)
+advcl(was-15, are-3)
+det(disconnects-6, a-4)
+nn(disconnects-6, couple-5)
+nsubj(are-3, disconnects-6)
+det(instructions-9, the-8)
+prep_in(disconnects-6, instructions-9)
+poss(service-14, Sharp-11)
+nn(service-14, customer-13)
+nsubj(was-15, service-14)
+root(ROOT-0, was-15)
+acomp(was-15, courteous-16)
+acomp(was-15, fast-18)
+conj_and(courteous-16, fast-18)
+acomp(was-15, efficient-20)
+conj_and(courteous-16, efficient-20)
+
+=========
+
+nsubj(recommended-2, Highly-1)
+root(ROOT-0, recommended-2)
+det(user-5, this-4)
+prep_by(recommended-2, user-5)
+

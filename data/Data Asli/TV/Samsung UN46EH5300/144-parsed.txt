@@ -1,0 +1,64 @@
+=========
+
+det(product-2, This-1)
+nsubj(good-4, product-2)
+nsubj(works-6, product-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+conj_and(good-4, works-6)
+acomp(works-6, great-7)
+
+=========
+
+nsubj(preferred-2, We-1)
+root(ROOT-0, preferred-2)
+dobj(preferred-2, Samsung-3)
+prep_over(Samsung-3, others-5)
+mark(Samsung-12, because-6)
+poss(Television-9, our-7)
+amod(Television-9, previous-8)
+nsubjpass(Samsung-12, Television-9)
+nsubjpass(lasted-14, Television-9)
+auxpass(Samsung-12, was-10)
+advmod(Samsung-12, also-11)
+advcl(preferred-2, Samsung-12)
+advcl(preferred-2, lasted-14)
+conj_and(Samsung-12, lasted-14)
+advmod(Samsung-12, longer-15)
+
+=========
+
+advmod(average-6, However-1)
+det(shipping-3, the-2)
+nsubj(average-6, shipping-3)
+cop(average-6, is-4)
+advmod(average-6, very-5)
+root(ROOT-0, average-6)
+prep_from(average-6, Amazon-8)
+
+=========
+
+nsubj(expecting-3, I-1)
+aux(expecting-3, was-2)
+root(ROOT-0, expecting-3)
+dobj(expecting-3, manual-4)
+partmod(manual-4, set-5)
+prt(set-5, up-6)
+prep_as(set-5, part-8)
+prep_of(part-8, shipping-10)
+nsubj(case-15, which-12)
+cop(case-15, was-13)
+det(case-15, the-14)
+dep(expecting-3, case-15)
+poss(purchase-20, my-17)
+amod(purchase-20, previous-18)
+nn(purchase-20, Television-19)
+prep_with(case-15, purchase-20)
+det(shipping-24, the-23)
+nsubjpass(dropped-26, shipping-24)
+auxpass(dropped-26, was-25)
+conj_but(expecting-3, dropped-26)
+det(step-30, the-28)
+nn(step-30, door-29)
+prep_at(dropped-26, step-30)
+

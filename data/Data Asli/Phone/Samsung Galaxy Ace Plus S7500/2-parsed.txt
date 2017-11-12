@@ -1,0 +1,35 @@
+=========
+
+det(description-2, The-1)
+nsubj(scam-22, description-2)
+rcmod(description-2, says-3)
+nsubj(is-6, HSDPA-4)
+num(HSDPA-4, 850\/1900-5)
+ccomp(says-3, is-6)
+neg(is-6, not-7)
+advmod(is-6, so-8)
+prep_in(so-8, reality-10)
+nsubj(850\/2100-13, it-11)
+cop(850\/2100-13, is-12)
+ccomp(is-6, 850\/2100-13)
+poss(country-16, my-15)
+prep_in(850\/2100-13, country-16)
+appos(description-2, Venezuela-18)
+dep(scam-22, Is-20)
+det(scam-22, a-21)
+root(ROOT-0, scam-22)
+
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+dobj(buy-3, it-4)
+
+=========
+
+root(ROOT-0, Waste-1)
+dep(Waste-1, time-2)
+dep(Waste-1, money-4)
+conj_and(time-2, money-4)
+

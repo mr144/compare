@@ -1,0 +1,53 @@
+=========
+
+root(ROOT-0, Easy-1)
+aux(set-3, to-2)
+xcomp(Easy-1, set-3)
+prt(set-3, up-4)
+acomp(set-3, easy-6)
+aux(use-8, to-7)
+xcomp(easy-6, use-8)
+
+=========
+
+det(wifi-2, The-1)
+nsubj(easy-4, wifi-2)
+nsubj(reliable-8, wifi-2)
+cop(easy-4, is-3)
+root(ROOT-0, easy-4)
+aux(reliable-8, has-6)
+cop(reliable-8, been-7)
+conj_and(easy-4, reliable-8)
+xcomp(reliable-8, making-10)
+xcomp(making-10, watching-11)
+nn(TV-13, Internet-12)
+dobj(watching-11, TV-13)
+dobj(watching-11, movies-15)
+conj_and(TV-13, movies-15)
+det(snap-17, a-16)
+dep(movies-15, snap-17)
+
+=========
+
+aux(say-3, Ca-1)
+neg(say-3, not-2)
+root(ROOT-0, say-3)
+advmod(say-3, enough-4)
+det(versatility-7, the-6)
+prep_about(enough-4, versatility-7)
+complm(gives-14, that-8)
+csubj(gives-14, having-9)
+dobj(having-9, Internet-10)
+det(wires-13, the-12)
+prep_without(having-9, wires-13)
+ccomp(say-3, gives-14)
+det(TV-17, this-16)
+prep_to(gives-14, TV-17)
+
+=========
+
+nsubj(amazing-3, Display-1)
+cop(amazing-3, is-2)
+root(ROOT-0, amazing-3)
+advmod(amazing-3, also-5)
+

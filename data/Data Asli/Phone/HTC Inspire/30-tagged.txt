@@ -1,0 +1,6 @@
+I_PRP bought_VBD it_PRP as_IN a_DT unlocked_VBN phone_NN ._.
+Meaning_VBG it_PRP should_MD work_VB on_IN any_DT GSM_NNP carrier_NN as_RB long_RB as_IN frequency_NN matches_NNS ._.
+NUT_RB this_DT phone_NN works_VBZ only_RB with_IN AT&T_NNP ._.
+When_WRB I_PRP switched_VBD the_DT carrier_NN to_TO T-mobile_JJ only_JJ voice_NN works_VBZ Data_NNP DOES_NNP NOT_NNP work_NN ._.
+This_DT is_VBZ fruad_JJ seller_NN ._.
+Be_VB aware_JJ ..._:

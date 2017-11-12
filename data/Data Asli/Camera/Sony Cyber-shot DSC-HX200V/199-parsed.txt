@@ -1,0 +1,38 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+det(photos-2, The-1)
+nsubj(clear-5, photos-2)
+cop(clear-5, are-3)
+advmod(clear-5, so-4)
+root(ROOT-0, clear-5)
+
+=========
+
+advmod(easy-2, Very-1)
+root(ROOT-0, easy-2)
+aux(use-4, to-3)
+dep(easy-2, use-4)
+
+=========
+
+nsubj(zoom-2, Amazing-1)
+root(ROOT-0, zoom-2)
+
+=========
+
+advmod(purchased-8, Clearly-1)
+det(I-5, the-2)
+amod(I-5, best-3)
+nn(I-5, camera-4)
+nsubj(purchased-8, I-5)
+aux(purchased-8, have-6)
+advmod(purchased-8, ever-7)
+root(ROOT-0, purchased-8)
+

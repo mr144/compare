@@ -1,0 +1,32 @@
+=========
+
+root(ROOT-0, New-1)
+amod(delivery-8, advertised-3)
+advmod(prompt-7, very-6)
+conj_and(advertised-3, prompt-7)
+amod(delivery-8, prompt-7)
+prep_as(New-1, delivery-8)
+
+=========
+
+det(phone-2, The-1)
+nsubj(works-3, phone-2)
+ccomp(fact-12, works-3)
+advmod(well-5, perfectly-4)
+advmod(works-3, well-5)
+det(downside-9, the-7)
+amod(downside-9, only-8)
+nsubj(fact-12, downside-9)
+cop(fact-12, was-10)
+det(fact-12, the-11)
+root(ROOT-0, fact-12)
+complm(was-16, that-13)
+det(manual-15, the-14)
+nsubj(was-16, manual-15)
+ccomp(fact-12, was-16)
+dep(was-16, in-17)
+pobj(in-17, Spanish-18)
+dep(was-16, not-20)
+conj_and(in-17, not-20)
+dep(in-17, English-21)
+

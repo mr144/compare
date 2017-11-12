@@ -1,0 +1,81 @@
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+advmod(highly-4, very-3)
+acomp(think-2, highly-4)
+det(camera-7, this-6)
+prep_of(highly-4, camera-7)
+
+=========
+
+det(photos-2, The-1)
+dobj(taken-5, photos-2)
+nsubj(turned-7, photos-2)
+nsubj(taken-5, I-3)
+aux(taken-5, have-4)
+rcmod(photos-2, taken-5)
+aux(turned-7, have-6)
+root(ROOT-0, turned-7)
+dep(very-9, out-8)
+dep(turned-7, very-9)
+advmod(nice-12, very-11)
+acomp(turned-7, nice-12)
+
+=========
+
+nsubj(looking-3, I-1)
+aux(looking-3, am-2)
+root(ROOT-0, looking-3)
+advmod(looking-3, forward-4)
+prepc_to(looking-3, using-6)
+dobj(using-6, this-7)
+det(concerts-11, a-9)
+nn(concerts-11, couple-10)
+prep_at(using-6, concerts-11)
+det(months-16, the-13)
+amod(months-16, next-14)
+amod(months-16, few-15)
+prep_in(concerts-11, months-16)
+det(hiking-19, the-18)
+prep_in(concerts-11, hiking-19)
+conj_and(months-16, hiking-19)
+prepc_to(looking-3, backpacking-21)
+conj_and(using-6, backpacking-21)
+prepc_to(looking-3, camping-23)
+conj_and(using-6, camping-23)
+nsubj(do-26, I-24)
+aux(do-26, 'll-25)
+ccomp(camping-23, do-26)
+det(summer-28, this-27)
+tmod(do-26, summer-28)
+poss(dog-31, my-30)
+prep_with(do-26, dog-31)
+
+=========
+
+det(manual-3, The-1)
+nn(manual-3, instruction-2)
+nsubj(easy-5, manual-3)
+cop(easy-5, is-4)
+root(ROOT-0, easy-5)
+aux(understand-7, to-6)
+xcomp(easy-5, understand-7)
+
+=========
+
+nsubj(wanted-3, I-1)
+aux(wanted-3, have-2)
+root(ROOT-0, wanted-3)
+det(Nikon-5, a-4)
+dobj(wanted-3, Nikon-5)
+amod(years-8, many-7)
+prep_for(Nikon-5, years-8)
+nsubj(glad-12, I-10)
+cop(glad-12, am-11)
+conj_and(wanted-3, glad-12)
+nsubj(bought-14, I-13)
+ccomp(glad-12, bought-14)
+det(one-16, this-15)
+dobj(bought-14, one-16)
+

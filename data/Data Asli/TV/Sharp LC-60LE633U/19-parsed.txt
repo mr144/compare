@@ -1,0 +1,91 @@
+=========
+
+det(TV-2, This-1)
+nsubj(amazing-4, TV-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+xcomp(amazing-4, !!-5)
+nsubj(had-8, I-6)
+aux(had-8, have-7)
+ccomp(!!-5, had-8)
+dobj(had-8, it-9)
+det(months-15, a-11)
+amod(months-15, little-12)
+quantmod(7-14, over-13)
+num(months-15, 7-14)
+prep_for(had-8, months-15)
+advmod(had-8, now-16)
+nsubj(get-21, I-18)
+aux(get-21, can-19)
+neg(get-21, not-20)
+conj_and(amazing-4, get-21)
+dobj(get-21, enough-22)
+
+=========
+
+det(connections-4, the-2)
+amod(connections-4, proper-3)
+prep_with(find-11, connections-4)
+conj_and(connections-4, media-6)
+prep_with(find-11, media-6)
+nsubj(find-11, you-8)
+aux(find-11, will-9)
+neg(find-11, not-10)
+root(ROOT-0, find-11)
+det(TV-14, a-12)
+amod(TV-14, better-13)
+dobj(find-11, TV-14)
+det(price-17, the-16)
+prep_for(find-11, price-17)
+
+=========
+
+nsubj(considering-3, I-1)
+nsubj(decided-8, I-1)
+aux(considering-3, was-2)
+root(ROOT-0, considering-3)
+det(XBR-6, the-4)
+nn(XBR-6, Sony-5)
+dobj(considering-3, XBR-6)
+conj_and(considering-3, decided-8)
+det(835-14, the-10)
+nn(835-14, Sharp-11)
+num(835-14, 60-12)
+prep_on(decided-8, 835-14)
+
+=========
+
+nsubj(deliver-2, Amazon-1)
+root(ROOT-0, deliver-2)
+det(house-5, the-4)
+prep_to(deliver-2, house-5)
+det(issues-8, no-7)
+prep_with(house-5, issues-8)
+
+=========
+
+poss(wife-2, My-1)
+nsubj(surprised-6, wife-2)
+aux(surprised-6, have-3)
+cop(surprised-6, been-4)
+advmod(surprised-6, pleasantly-5)
+root(ROOT-0, surprised-6)
+det(TV-9, the-8)
+prep_by(surprised-6, TV-9)
+
+=========
+
+nsubj(found-3, We-1)
+aux(found-3, have-2)
+root(ROOT-0, found-3)
+complm(weaning-7, that-4)
+nsubj(weaning-7, we-5)
+aux(weaning-7, are-6)
+ccomp(found-3, weaning-7)
+dobj(weaning-7, ourselves-8)
+det(cinema-11, the-10)
+prep_off(weaning-7, cinema-11)
+
+=========
+
+

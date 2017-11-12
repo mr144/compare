@@ -1,0 +1,39 @@
+=========
+
+amod(product-2, Good-1)
+root(ROOT-0, product-2)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+xcomp(Easy-1, use-3)
+advmod(far-6, so-5)
+advmod(good-11, far-6)
+det(results-8, the-7)
+nsubj(good-11, results-8)
+aux(good-11, have-9)
+cop(good-11, been-10)
+conj_and(Easy-1, good-11)
+
+=========
+
+aux(recommend-2, Would-1)
+root(ROOT-0, recommend-2)
+det(camera-4, this-3)
+dobj(recommend-2, camera-4)
+
+=========
+
+csubj(see-8, Waiting-1)
+aux(go-3, to-2)
+xcomp(Waiting-1, go-3)
+prep_on(go-3, trip-5)
+aux(reall-7, to-6)
+xcomp(go-3, reall-7)
+root(ROOT-0, see-8)
+advmod(well-10, how-9)
+advmod(performs-12, well-10)
+nsubj(performs-12, it-11)
+ccomp(see-8, performs-12)
+

@@ -1,0 +1,94 @@
+=========
+
+nsubj(gonna-3, I-1)
+cop(gonna-3, was-2)
+root(ROOT-0, gonna-3)
+ccomp(gonna-3, give-4)
+iobj(give-4, 1-5)
+dobj(give-4, star-6)
+advmod(defective-13, maybe-9)
+poss(unit-11, my-10)
+nsubj(defective-13, unit-11)
+cop(defective-13, was-12)
+conj_but(gonna-3, defective-13)
+
+=========
+
+det(lcd-2, The-1)
+nsubj(grainy-5, lcd-2)
+cop(grainy-5, is-3)
+amod(grainy-5, super-4)
+root(ROOT-0, grainy-5)
+
+=========
+
+det(recording-3, The-1)
+amod(recording-3, audio-2)
+nsubj(noisy-8, recording-3)
+conj_and(recording-3, playback-5)
+nsubj(noisy-8, playback-5)
+cop(noisy-8, is-6)
+advmod(noisy-8, terribly-7)
+root(ROOT-0, noisy-8)
+
+=========
+
+nsubj(found-2, I-1)
+root(ROOT-0, found-2)
+det(review-4, a-3)
+dobj(found-2, review-4)
+mark(purchased-8, after-5)
+nsubj(purchased-8, I-6)
+aux(purchased-8, had-7)
+advcl(found-2, purchased-8)
+dobj(purchased-8, it-9)
+complm(summed-11, that-10)
+ccomp(purchased-8, summed-11)
+dobj(summed-11, it-12)
+prt(summed-11, up-13)
+det(point-17, a-15)
+amod(point-17, cheapy-16)
+prep_as(summed-11, point-17)
+ccomp(purchased-8, shoot-19)
+conj_and(summed-11, shoot-19)
+mark(slapped-24, with-20)
+det(lens-23, a-21)
+amod(lens-23, huge-22)
+nsubj(slapped-24, lens-23)
+advcl(shoot-19, slapped-24)
+prep_on(slapped-24, it-26)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+neg(recommend-4, not-3)
+root(ROOT-0, recommend-4)
+det(camera-6, this-5)
+dobj(recommend-4, camera-6)
+prep_to(recommend-4, anyone-8)
+
+=========
+
+nsubj(skeptical-4, I-1)
+cop(skeptical-4, am-2)
+advmod(skeptical-4, typically-3)
+root(ROOT-0, skeptical-4)
+prep_of(skeptical-4, reviews-6)
+nsubj(mention-8, reviews-6)
+rcmod(reviews-6, mention-8)
+amod(products-10, other-9)
+dobj(mention-8, products-10)
+det(f40-14, the-12)
+nn(f40-14, Lumix-13)
+nsubj(bomb-17, f40-14)
+cop(bomb-17, is-15)
+det(bomb-17, the-16)
+conj_but(skeptical-4, bomb-17)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+

@@ -1,0 +1,76 @@
+=========
+
+root(ROOT-0, Hi-1)
+
+=========
+
+det(camera-2, This-1)
+nsubj(good-6, camera-2)
+cop(good-6, is-3)
+dep(good-6, a-4)
+advmod(good-6, very-5)
+root(ROOT-0, good-6)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(excelent-4, zoom-2)
+cop(excelent-4, is-3)
+root(ROOT-0, excelent-4)
+conj_and(excelent-4, with-6)
+prepc_with(excelent-4, 12.1-7)
+dobj(12.1-7, mp-8)
+
+=========
+
+nn(!!-2, wow-1)
+nsubj(good-6, !!-2)
+cop(good-6, is-3)
+advmod(good-6, very-4)
+advmod(good-6, very-5)
+root(ROOT-0, good-6)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(good-5, quality-3)
+cop(good-5, is-4)
+root(ROOT-0, good-5)
+
+=========
+
+det(ligth-2, The-1)
+nsubj(import-7, ligth-2)
+cop(import-7, is-3)
+det(factor-5, a-4)
+npadvmod(very-6, factor-5)
+advmod(import-7, very-6)
+root(ROOT-0, import-7)
+aux(have-9, to-8)
+infmod(import-7, have-9)
+amod(images-11, good-10)
+dobj(have-9, images-11)
+
+=========
+
+det(camera-2, This-1)
+nsubj(camera-7, camera-2)
+cop(camera-7, is-3)
+neg(camera-7, not-4)
+det(camera-7, a-5)
+nn(camera-7, SLR-6)
+root(ROOT-0, camera-7)
+
+=========
+
+cop(versatile-4, is-2)
+advmod(versatile-4, very-3)
+root(ROOT-0, versatile-4)
+conj_and(versatile-4, convenient-6)
+amod(sites-9, out-8)
+prep_to(versatile-4, sites-9)
+nn(party-15, montain-11)
+dep(party-15, beach-13)
+dep(sites-9, party-15)
+

@@ -1,0 +1,55 @@
+=========
+
+advmod(good-2, Very-1)
+amod(team-4, good-2)
+det(team-4, this-3)
+nsubj(cell-5, team-4)
+root(ROOT-0, cell-5)
+
+=========
+
+advmod(good-2, Very-1)
+root(ROOT-0, good-2)
+
+=========
+
+det(problems-2, no-1)
+root(ROOT-0, problems-2)
+partmod(problems-2, sending-3)
+
+=========
+
+nsubj(keep-2, I-1)
+nsubj(excellent-6, I-1)
+root(ROOT-0, keep-2)
+advmod(keep-2, still-3)
+cop(excellent-6, is-5)
+conj_and(keep-2, excellent-6)
+
+=========
+
+root(ROOT-0, recommend-1)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(complaints-4, no-3)
+dobj(have-2, complaints-4)
+det(product-7, this-6)
+prep_about(complaints-4, product-7)
+tmod(connected-13, product-7)
+advmod(when-10, only-9)
+advmod(connected-13, when-10)
+nsubjpass(connected-13, I-11)
+auxpass(connected-13, am-12)
+dep(product-7, connected-13)
+det(internet-16, the-15)
+prep_to(connected-13, internet-16)
+rcmod(internet-16, tends-17)
+aux(warm-19, to-18)
+xcomp(tends-17, warm-19)
+prt(warm-19, up-20)
+det(bit-22, a-21)
+dobj(warm-19, bit-22)
+

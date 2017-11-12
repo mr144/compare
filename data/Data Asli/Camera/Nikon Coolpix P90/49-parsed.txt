@@ -1,0 +1,94 @@
+=========
+
+advmod(disappointed-2, Very-1)
+root(ROOT-0, disappointed-2)
+det(camera-5, this-4)
+prep_with(disappointed-2, camera-5)
+
+=========
+
+nsubj(had-7, Tried-1)
+num(Tried-1, two-2)
+prep_of(Tried-1, them-4)
+prep_of(Tried-1, both-6)
+conj_and(them-4, both-6)
+det(them-4, both-6)
+root(ROOT-0, had-7)
+amod(quality-10, poor-8)
+nn(quality-10, picture-9)
+dobj(had-7, quality-10)
+
+=========
+
+poss(camera-4, My-1)
+amod(camera-4, old-2)
+nn(camera-4, Panasonic-3)
+nsubj(superior-7, camera-4)
+cop(superior-7, was-5)
+advmod(superior-7, far-6)
+root(ROOT-0, superior-7)
+det(Nikon-10, this-9)
+prep_to(superior-7, Nikon-10)
+
+=========
+
+nsubj(equipment-9, I-1)
+cop(equipment-9, was-2)
+advmod(equipment-9, once-3)
+det(equipment-9, a-4)
+amod(equipment-9, photographer-5)
+conj_and(photographer-5, used-7)
+amod(equipment-9, used-7)
+nn(equipment-9, Nikon-8)
+root(ROOT-0, equipment-9)
+
+=========
+
+nsubj(had-2, They-1)
+root(ROOT-0, had-2)
+dobj(had-2, some-3)
+det(stuff-8, the-5)
+amod(stuff-8, best-6)
+amod(stuff-8, 35mm-7)
+prep_of(some-3, stuff-8)
+
+=========
+
+cc(impressed-5, But-1)
+nsubjpass(impressed-5, I-2)
+auxpass(impressed-5, am-3)
+neg(impressed-5, not-4)
+root(ROOT-0, impressed-5)
+poss(stuff-9, their-7)
+amod(stuff-9, digital-8)
+prep_with(impressed-5, stuff-9)
+
+=========
+
+advmod(happy-2, Very-1)
+root(ROOT-0, happy-2)
+nn(service-6, Amazon-4)
+nn(service-6, customer-5)
+prep_with(happy-2, service-6)
+
+=========
+
+nsubjpass(best-4, It-1)
+nsubjpass(saved-6, It-1)
+auxpass(best-4, is-2)
+cop(best-4, is-2)
+dep(best-4, the-3)
+root(ROOT-0, best-4)
+conj_and(best-4, saved-6)
+iobj(saved-6, me-7)
+det(lot-9, a-8)
+dobj(saved-6, lot-9)
+prep_of(lot-9, hassle-11)
+
+=========
+
+aux(buy-2, Would-1)
+root(ROOT-0, buy-2)
+prep_from(buy-2, Amazon-4)
+advmod(buy-2, again-5)
+

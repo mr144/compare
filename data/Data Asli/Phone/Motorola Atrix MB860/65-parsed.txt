@@ -1,0 +1,27 @@
+=========
+
+root(ROOT-0, Not-1)
+advmod(unlocked-3, totally-2)
+dep(Not-1, unlocked-3)
+
+=========
+
+nsubj(work-4, 3G\/4G-1)
+aux(work-4, does-2)
+neg(work-4, not-3)
+root(ROOT-0, work-4)
+det(companies-9, the-6)
+amod(companies-9, Colombian-7)
+nn(companies-9, phone-8)
+prep_with(work-4, companies-9)
+
+=========
+
+root(ROOT-0, Ony-1)
+acomp(Ony-1, able-2)
+aux(use-4, to-3)
+xcomp(able-2, use-4)
+dobj(use-4, it-5)
+amod(techconlogy-8, EDGE-7)
+prep_with(use-4, techconlogy-8)
+

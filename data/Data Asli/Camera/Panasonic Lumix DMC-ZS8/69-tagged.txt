@@ -1,0 +1,3 @@
+This_DT is_VBZ my_PRP$ second_JJ Lumix_NNP camera_NN ,_, and_CC will_MD be_VB my_PRP$ last_JJ ._.
+These_DT cameras_NNS have_VBP great_JJ lenses_NNS ,_, a_DT nice_JJ user_NN interface_NN ,_, excellent_JJ features_NNS ,_, but_CC for_IN me_PRP the_DT reliability_NN has_VBZ been_VBN awful_JJ ,_, and_CC it_PRP is_VBZ a_DT hassle_NN to_TO ship_VB them_PRP to_TO the_DT repair_NN center_NN ._.
+The_DT built-in_JJ lens_NN cover_NN failed_VBD the_DT third_JJ time_NN I_PRP turned_VBD the_DT camera_NN on_IN ._.

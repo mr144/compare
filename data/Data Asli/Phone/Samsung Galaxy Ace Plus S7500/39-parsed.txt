@@ -1,0 +1,107 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(thinking-8, this-3)
+amod(thinking-8, unlocked-4)
+nn(thinking-8, phone-5)
+amod(thinking-8, international-7)
+dobj(bought-2, thinking-8)
+complm(use-12, that-9)
+nsubj(use-12, I-10)
+aux(use-12, can-11)
+ccomp(bought-2, use-12)
+dobj(use-12, it-13)
+poss(Peru-17, my-15)
+nn(Peru-17, country-16)
+prep_in(use-12, Peru-17)
+
+=========
+
+nsubj(wrong-3, I-1)
+cop(wrong-3, was-2)
+root(ROOT-0, wrong-3)
+
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, did-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+complm(needed-8, that-5)
+amod(phones-7, 3g-6)
+nsubj(needed-8, phones-7)
+ccomp(know-4, needed-8)
+amod(width-11, certain-9)
+nn(width-11, band-10)
+dobj(needed-8, width-11)
+aux(work-13, to-12)
+xcomp(needed-8, work-13)
+
+=========
+
+dep(fault-6, OK-1)
+nsubj(fault-6, it-3)
+cop(fault-6, is-4)
+poss(fault-6, my-5)
+root(ROOT-0, fault-6)
+neg(cheking-9, not-8)
+prepc_for(fault-6, cheking-9)
+det(specs-11, the-10)
+dobj(cheking-9, specs-11)
+
+=========
+
+cc(know-10, But-1)
+det(user-5, an-3)
+amod(user-5, average-4)
+prep_as(know-10, user-5)
+nsubj(know-10, I-7)
+aux(know-10, did-8)
+neg(know-10, not-9)
+root(ROOT-0, know-10)
+complm(compatible-18, that-11)
+amod(band-15, 3g-12)
+nn(band-15, hdsm-13)
+num(band-15, 900\/2100-14)
+nsubj(compatible-18, band-15)
+cop(compatible-18, is-16)
+neg(compatible-18, not-17)
+ccomp(know-10, compatible-18)
+num(band-21, 850\/1900-20)
+prep_with(compatible-18, band-21)
+prep_in(band-21, Peru-23)
+
+=========
+
+nsubj(know-2, Now-1)
+root(ROOT-0, know-2)
+dobj(know-2, it-3)
+advmod(late-6, too-5)
+advmod(know-2, late-6)
+nsubj(spent-11, I-9)
+aux(spent-11, have-10)
+parataxis(know-2, spent-11)
+dobj(spent-11, $-12)
+num($-12, 220-13)
+det(phone-16, a-15)
+prep_for($-12, phone-16)
+nsubjpass(used-20, phone-16)
+aux(used-20, can-18)
+auxpass(used-20, be-19)
+rcmod(phone-16, used-20)
+prep_with(used-20, voice-22)
+prep_with(used-20, 2g-24)
+conj_and(voice-22, 2g-24)
+
+=========
+
+root(ROOT-0, not-1)
+dep(not-1, 3g-2)
+
+=========
+
+det(waste-2, A-1)
+root(ROOT-0, waste-2)
+prep_of(waste-2, money-4)
+

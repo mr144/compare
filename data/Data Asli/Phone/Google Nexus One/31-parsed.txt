@@ -1,0 +1,89 @@
+=========
+
+det(one-4, The-1)
+nn(one-4, HTC-2)
+nn(one-4, Nexus-3)
+nsubj(one-6, one-4)
+cop(one-6, is-5)
+root(ROOT-0, one-6)
+det(phones-11, the-8)
+amod(phones-11, best-9)
+nn(phones-11, Android-10)
+prep_of(one-6, phones-11)
+
+=========
+
+advmod(buy-4, However-1)
+neg(buy-4, never-3)
+root(ROOT-0, buy-4)
+det(items-6, any-5)
+dobj(buy-4, items-6)
+prep_from(buy-4, Firemall-8)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(item-4, this-3)
+dobj(purchased-2, item-4)
+prep_from(purchased-2, Firemall-7)
+nsubj(vendor-17, Firemall-7)
+cop(vendor-17, is-10)
+neg(vendor-17, not-11)
+det(vendor-17, a-12)
+amod(vendor-17, reliable-13)
+npadvmod(worthy-16, trust-15)
+amod(vendor-17, worthy-16)
+rcmod(Firemall-7, vendor-17)
+
+=========
+
+mark(have-3, If-1)
+nsubj(have-3, you-2)
+advcl(ask-9, have-3)
+det(issues-5, any-4)
+dobj(have-3, issues-5)
+nsubj(ask-9, they-7)
+xsubj(return-11, they-7)
+aux(ask-9, will-8)
+root(ROOT-0, ask-9)
+aux(return-11, to-10)
+xcomp(ask-9, return-11)
+det(item-13, the-12)
+dobj(return-11, item-13)
+prep_for(item-13, exchange-15)
+prepc_after(return-11, receiving-18)
+det(item-20, the-19)
+dobj(receiving-18, item-20)
+dobj(stop-23, item-20)
+nsubj(stop-23, they-21)
+aux(stop-23, will-22)
+rcmod(item-20, stop-23)
+xcomp(stop-23, responding-24)
+
+=========
+
+det(number-3, No-1)
+nn(number-3, phone-2)
+nsubjpass(provided-6, number-3)
+aux(provided-6, will-4)
+auxpass(provided-6, be-5)
+root(ROOT-0, provided-6)
+advmod(provided-6, either-7)
+
+=========
+
+nsubj(cheated-4, You-1)
+aux(cheated-4, will-2)
+cop(cheated-4, be-3)
+root(ROOT-0, cheated-4)
+advmod(cheated-4, just-5)
+prep_like(cheated-4, that-7)
+
+=========
+
+amod(advice-2, Sincere-1)
+nsubj(stay-4, advice-2)
+root(ROOT-0, stay-4)
+prep_away_from(stay-4, Firemall-7)
+

@@ -1,0 +1,4 @@
+It_PRP came_VBD as_RB advertised_JJ ,_, brand_NN new_JJ in_IN the_DT box_NN ._.
+It_PRP is_VBZ a_DT great_JJ phone_NN ._.
+Service_NNP was_VBD fast_RB ._.
+Very_NNP pleased_VBD with_IN the_DT vendor_NN ._.

@@ -1,0 +1,106 @@
+=========
+
+aux(using-3, Have-1)
+aux(using-3, been-2)
+root(ROOT-0, using-3)
+det(TV-5, this-4)
+dobj(using-3, TV-5)
+amod(months-9, last-7)
+num(months-9, 6-8)
+prep_since(using-3, months-9)
+
+=========
+
+nsubj(read-2, I-1)
+root(ROOT-0, read-2)
+amod(review-4, extensive-3)
+dobj(read-2, review-4)
+det(item-7, the-6)
+prep_of(review-4, item-7)
+prepc_before(read-2, purchasing-9)
+dobj(purchasing-9, it-10)
+
+=========
+
+advmod(perfect-6, So-1)
+advmod(So-1, far-2)
+nsubj(perfect-6, it-3)
+aux(perfect-6, has-4)
+cop(perfect-6, been-5)
+root(ROOT-0, perfect-6)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+nsubj(UI-12, thing-3)
+complm(wish-6, that-4)
+nsubj(wish-6, I-5)
+dep(thing-3, wish-6)
+aux(improved-9, could-7)
+auxpass(improved-9, be-8)
+ccomp(wish-6, improved-9)
+cop(UI-12, was-10)
+det(UI-12, the-11)
+root(ROOT-0, UI-12)
+nsubj(esp-18, UI-12)
+cop(esp-18, is-14)
+det(bit-16, a-15)
+npadvmod(clunky-17, bit-16)
+amod(esp-18, clunky-17)
+rcmod(UI-12, esp-18)
+
+=========
+
+advmod(want-3, when-1)
+nsubj(want-3, you-2)
+root(ROOT-0, want-3)
+nn(something-6, type-5)
+prep_to(want-3, something-6)
+poss(browser-9, your-8)
+prep_in(something-6, browser-9)
+
+=========
+
+cc(useful-18, But-1)
+mark(have-4, since-2)
+nsubj(have-4, I-3)
+advcl(useful-18, have-4)
+det(S3-8, the-5)
+nn(S3-8, Samsung-6)
+nn(S3-8, Galaxy-7)
+dobj(have-4, S3-8)
+det(app-14, the-10)
+nn(app-14, All-11)
+nn(app-14, Play-12)
+nn(app-14, Android-13)
+nsubj(useful-18, app-14)
+aux(useful-18, has-15)
+cop(useful-18, been-16)
+advmod(useful-18, extremely-17)
+root(ROOT-0, useful-18)
+aux(input-20, to-19)
+xcomp(useful-18, input-20)
+det(text-22, the-21)
+dobj(input-20, text-22)
+det(URL-26, the-24)
+nn(URL-26, browser-25)
+prep_in(text-22, URL-26)
+
+=========
+
+cc(knew-5, But-1)
+prep_before(knew-5, purchasing-3)
+nsubj(knew-5, I-4)
+root(ROOT-0, knew-5)
+det(drawback-7, this-6)
+dobj(knew-5, drawback-7)
+advmod(still-10, hence-9)
+dobj(knew-5, still-10)
+conj_and(drawback-7, still-10)
+xcomp(knew-5, giving-11)
+iobj(giving-11, it-12)
+det(star-15, a-13)
+num(star-15, 5-14)
+dobj(giving-11, star-15)
+

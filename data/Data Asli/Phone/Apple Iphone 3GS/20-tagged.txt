@@ -1,0 +1,3 @@
+good_JJ service_NN ,_, fast_JJ delivery_NN ._.
+I_PRP did_VBD not_RB arrange_VB appearance_NN of_IN iphone_NN 3gs_NNS received_VBN by_IN me_PRP ,_, namely_RB attritions_NNS ,_, scratches_NNS ,_, chips_NNS and_CC cracks_NNS ._.
+In_IN the_DT description_NN them_PRP it_PRP was_VBD not_RB mentioned_VBN

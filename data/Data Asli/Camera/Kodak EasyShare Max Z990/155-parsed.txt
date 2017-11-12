@@ -1,0 +1,40 @@
+=========
+
+det(camera-2, This-1)
+nsubj(more-5, camera-2)
+cop(more-5, is-3)
+advmod(more-5, probably-4)
+root(ROOT-0, more-5)
+mark(needed-8, than-6)
+nsubj(needed-8, I-7)
+advcl(more-5, needed-8)
+nsubj(love-12, I-11)
+conj_but(more-5, love-12)
+dobj(love-12, it-13)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(awesome-4, zoom-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+
+=========
+
+nsubj(takes-2, It-1)
+nsubj(better-10, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, great-3)
+dobj(takes-2, pictures-4)
+aux(better-10, will-6)
+advmod(better-10, probably-7)
+dep(better-10, do-8)
+advmod(better-10, much-9)
+conj_and(takes-2, better-10)
+mark(learn-13, once-11)
+nsubj(learn-13, I-12)
+advcl(better-10, learn-13)
+predet(features-16, all-14)
+det(features-16, the-15)
+dobj(learn-13, features-16)
+

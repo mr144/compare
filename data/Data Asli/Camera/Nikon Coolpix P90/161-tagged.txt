@@ -1,0 +1,3 @@
+I_PRP have_VBP had_VBN -LRB-_-LRB- 2_CD -RRB-_-RRB- previous_JJ Coolpix_NNP models_NNS and_CC been_VBN very_RB happy_JJ with_IN their_PRP$ performance_NN ._.
+I_PRP have_VBP owned_VBN other_JJ Nikon_NNP models_NNS ,_, but_CC I_PRP was_VBD very_RB disappointed_JJ with_IN the_DT color_NN quality_NN of_IN the_DT P90_NNP ._.
+I_PRP returned_VBD it_PRP and_CC got_VBD a_DT Pentax_NNP X70_NNP and_CC it_PRP is_VBZ everything_NN I_PRP expected_VBD the_DT P90_NNP to_TO be_VB ._.

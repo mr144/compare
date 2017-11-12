@@ -1,0 +1,30 @@
+=========
+
+cop(phone-4, is-1)
+det(phone-4, a-2)
+amod(phone-4, good-3)
+csubj(hope-9, phone-4)
+aux(working-6, is-5)
+rcmod(phone-4, working-6)
+advmod(working-6, well-7)
+dobj(working-6, l-8)
+root(ROOT-0, hope-9)
+dobj(hope-9, it-10)
+advmod(hope-9, last-11)
+
+=========
+
+nsubj(work-2, it-1)
+root(ROOT-0, work-2)
+advmod(away-4, right-3)
+advmod(work-2, away-4)
+advmod(put-7, when-5)
+nsubj(put-7, l-6)
+dep(away-4, put-7)
+poss(card-10, my-8)
+nn(card-10, sim-9)
+dobj(put-7, card-10)
+advmod(put-7, there-11)
+det(problem-13, no-12)
+pobj(there-11, problem-13)
+

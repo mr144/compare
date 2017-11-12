@@ -1,0 +1,39 @@
+=========
+
+amod(quality-2, Great-1)
+root(ROOT-0, quality-2)
+
+=========
+
+nsubj(set-2, Easy-1)
+root(ROOT-0, set-2)
+prt(set-2, up-3)
+
+=========
+
+nsubj(apps-2, Good-1)
+root(ROOT-0, apps-2)
+
+=========
+
+root(ROOT-0, Nice-1)
+dobj(Nice-1, design-2)
+
+=========
+
+poss(tv-5, My-1)
+amod(tv-5, second-2)
+nn(tv-5, Samsung-3)
+amod(tv-5, smart-4)
+nsubj(fan-11, tv-5)
+conj_and(tv-5, I-7)
+nsubj(fan-11, I-7)
+cop(fan-11, am-8)
+advmod(fan-11, still-9)
+det(fan-11, a-10)
+root(ROOT-0, fan-11)
+
+=========
+
+root(ROOT-0, Recommended-1)
+

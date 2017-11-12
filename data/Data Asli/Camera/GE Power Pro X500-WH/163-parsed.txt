@@ -1,0 +1,51 @@
+=========
+
+nsubj(bought-2, I-1)
+nsubjpass(disapointed-13, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+aux(take-6, to-5)
+xcomp(bought-2, take-6)
+prep_on(take-6, vacation-8)
+prep_in(vacation-8, Europe-10)
+auxpass(disapointed-13, was-12)
+conj_and(bought-2, disapointed-13)
+complm(function-20, that-14)
+det(feature-17, the-15)
+amod(feature-17, panoramic-16)
+nsubj(function-20, feature-17)
+aux(function-20, would-18)
+neg(function-20, not-19)
+ccomp(disapointed-13, function-20)
+det(use-24, the-22)
+amod(use-24, first-23)
+prep_after(function-20, use-24)
+
+=========
+
+root(ROOT-0, Missed-1)
+det(lot-3, a-2)
+dobj(Missed-1, lot-3)
+amod(opportunities-6, great-5)
+prep_of(lot-3, opportunities-6)
+amod(shots-11, awesome-8)
+dep(awesome-8, 360-9)
+nn(shots-11, degree-10)
+prep_for(opportunities-6, shots-11)
+prep_in(shots-11, Rome-13)
+
+=========
+
+nsubj(more-5, It-1)
+cop(more-5, 's-2)
+neg(more-5, not-3)
+advmod(more-5, much-4)
+root(ROOT-0, more-5)
+mark(quality-wise.-11, than-6)
+det(quality-wise.-11, a-7)
+nn(quality-wise.-11, point-8)
+conj_and(point-8, shoot-10)
+nn(quality-wise.-11, shoot-10)
+dep(more-5, quality-wise.-11)
+

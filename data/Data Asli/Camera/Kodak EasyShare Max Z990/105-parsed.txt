@@ -1,0 +1,45 @@
+=========
+
+nsubj(watching-4, I-1)
+aux(watching-4, have-2)
+aux(watching-4, been-3)
+root(ROOT-0, watching-4)
+det(product-6, this-5)
+dobj(watching-4, product-6)
+det(time-10, a-8)
+amod(time-10, long-9)
+prep_for(product-6, time-10)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(deal-5, a-3)
+amod(deal-5, great-4)
+dobj(got-2, deal-5)
+advmod(got-2, here-6)
+advmod(decided-9, when-7)
+nsubj(decided-9, I-8)
+xsubj(buy-11, I-8)
+advcl(got-2, decided-9)
+aux(buy-11, to-10)
+xcomp(decided-9, buy-11)
+
+=========
+
+nsubj(quick-3, Shipping-1)
+cop(quick-3, was-2)
+root(ROOT-0, quick-3)
+det(product-6, the-5)
+nsubj(arived-7, product-6)
+conj_and(quick-3, arived-7)
+amod(condition-10, perfect-9)
+prep_in(arived-7, condition-10)
+
+=========
+
+root(ROOT-0, Worked-1)
+advmod(Worked-1, right-2)
+det(box-6, the-5)
+prep_out_of(Worked-1, box-6)
+

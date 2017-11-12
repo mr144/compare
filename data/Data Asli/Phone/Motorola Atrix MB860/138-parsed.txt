@@ -1,0 +1,71 @@
+=========
+
+prep_before(searched-5, purchasing-2)
+nsubj(searched-5, i-4)
+nsubj(finalized-14, i-4)
+root(ROOT-0, searched-5)
+advmod(searched-5, extensively-6)
+prep_about(searched-5, smartphones-8)
+advmod(finalized-14, finally-10)
+amod(thought-13, much-12)
+prep_after(finally-10, thought-13)
+conj_and(searched-5, finalized-14)
+nn(Atrix-16, Motorola-15)
+dobj(finalized-14, Atrix-16)
+num(Atrix-16, 4G-17)
+
+=========
+
+nsubjpass(mentioned-5, It-1)
+nsubjpass(came-7, It-1)
+auxpass(mentioned-5, was-2)
+advmod(as-4, unlocked-3)
+advmod(mentioned-5, as-4)
+root(ROOT-0, mentioned-5)
+conj_and(mentioned-5, came-7)
+amod(box-10, ordinary-9)
+prep_in(came-7, box-10)
+nsubjpass(written-16, Motorola-13)
+auxpass(written-16, was-15)
+dep(box-10, written-16)
+det(box-19, the-18)
+prep_on(written-16, box-19)
+
+=========
+
+det(delivery-2, The-1)
+nsubj(fast-4, delivery-2)
+cop(fast-4, was-3)
+root(ROOT-0, fast-4)
+
+=========
+
+advmod(working-5, So-1)
+advmod(So-1, far-2)
+nsubj(working-5, phone-3)
+aux(working-5, is-4)
+root(ROOT-0, working-5)
+acomp(working-5, great-6)
+nsubj(loving-10, i-8)
+aux(loving-10, am-9)
+conj_and(working-5, loving-10)
+dobj(loving-10, it-11)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+nsubj(is-4, thing-3)
+root(ROOT-0, is-4)
+complm(better-9, that-5)
+nsubj(better-9, it-6)
+aux(better-9, will-7)
+cop(better-9, be-8)
+ccomp(is-4, better-9)
+mark(provide-12, if-10)
+nsubj(provide-12, they-11)
+ccomp(better-9, provide-12)
+dobj(provide-12, HEADPHONES-13)
+det(box-16, the-15)
+prep_with(provide-12, box-16)
+

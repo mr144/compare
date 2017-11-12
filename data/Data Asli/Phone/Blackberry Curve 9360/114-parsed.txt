@@ -1,0 +1,50 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+prepc_after(bought-2, seeing-6)
+dobj(seeing-6, it-7)
+prep_by(seeing-6, accident-9)
+
+=========
+
+nsubj(skeptical-5, I-1)
+cop(skeptical-5, was-2)
+det(bit-4, a-3)
+npadvmod(skeptical-5, bit-4)
+root(ROOT-0, skeptical-5)
+poss(performance-8, its-7)
+prep_about(skeptical-5, performance-8)
+prep_at(skeptical-5, first-10)
+advmod(far-13, so-12)
+advmod(skeptical-5, far-13)
+conj_but(skeptical-5, far-13)
+det(performance-15, the-14)
+nsubj(unbelievable-21, performance-15)
+det(phone-18, the-17)
+prep_of(performance-15, phone-18)
+aux(unbelievable-21, has-19)
+cop(unbelievable-21, been-20)
+ccomp(skeptical-5, unbelievable-21)
+conj_but(skeptical-5, unbelievable-21)
+
+=========
+
+nsubj(shoots-2, Its-1)
+nsubj(freeze-8, Its-1)
+root(ROOT-0, shoots-2)
+amod(photos-4, great-3)
+dobj(shoots-2, photos-4)
+aux(freeze-8, does-6)
+neg(freeze-8, not-7)
+conj_and(shoots-2, freeze-8)
+prt(freeze-8, up-9)
+det(model-13, the-11)
+amod(model-13, previous-12)
+prep_like(freeze-8, model-13)
+nn(Curves-17, Black-15)
+nn(Curves-17, Berry-16)
+prep_of(model-13, Curves-17)
+

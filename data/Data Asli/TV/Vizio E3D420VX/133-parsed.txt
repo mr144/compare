@@ -1,0 +1,27 @@
+=========
+
+nsubj(happy-4, We-1)
+cop(happy-4, are-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+poss(TV-8, our-6)
+amod(TV-8, new-7)
+prep_with(happy-4, TV-8)
+
+=========
+
+nsubj(fits-2, It-1)
+root(ROOT-0, fits-2)
+advmod(fits-2, perfectly-3)
+poss(space-6, our-5)
+prep_in(fits-2, space-6)
+det(screen-10, the-8)
+amod(screen-10, non-glare-9)
+nsubj(view-able-12, screen-10)
+cop(view-able-12, is-11)
+conj_and(fits-2, view-able-12)
+prep(view-able-12, from-13)
+pobj(from-13, anywhere-14)
+det(room-17, the-16)
+prep_in(anywhere-14, room-17)
+

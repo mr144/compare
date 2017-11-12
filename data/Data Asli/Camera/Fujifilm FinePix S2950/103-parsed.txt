@@ -1,0 +1,73 @@
+=========
+
+nsubj(step-2, Excellent-1)
+root(ROOT-0, step-2)
+prep_from(step-2, point-4)
+prep_from(step-2, click-6)
+conj_and(point-4, click-6)
+prep_to(step-2, DSLR-8)
+
+=========
+
+nsubj(having-4, I-1)
+aux(having-4, have-2)
+aux(having-4, been-3)
+root(ROOT-0, having-4)
+dobj(having-4, fun-5)
+dobj(having-4, fun-5')
+conj_and(fun-5, fun-5')
+prep_with(fun-5, it-7)
+prep_on(it-7, vacations-9)
+nn(functions-13, family-12)
+prep_at(fun-5', functions-13)
+det(months-18, the-15)
+amod(months-18, last-16)
+amod(months-18, few-17)
+prep_over(functions-13, months-18)
+
+=========
+
+nsubj(say-4, those-2)
+prep_for(using-17, those-2)
+rcmod(those-2, say-4)
+det(camera-6, the-5)
+nsubj(take-9, camera-6)
+aux(take-9, does-7)
+neg(take-9, not-8)
+ccomp(say-4, take-9)
+amod(pictures-11, good-10)
+dobj(take-9, pictures-11)
+advmod(take-9, inside-12)
+nsubj(using-17, they-14)
+aux(using-17, are-15)
+advmod(using-17, probably-16)
+root(ROOT-0, using-17)
+det(settings-20, the-18)
+amod(settings-20, incorrect-19)
+dobj(using-17, settings-20)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(problems-5, no-4)
+dobj(had-3, problems-5)
+advmod(far-7, thus-6)
+advmod(had-3, far-7)
+
+=========
+
+advmod(play-2, Just-1)
+root(ROOT-0, play-2)
+prep_with(play-2, it-4)
+mark(got-8, until-5)
+nsubj(got-8, you-6)
+aux(got-8, have-7)
+advcl(play-2, got-8)
+det(feel-11, a-9)
+amod(feel-11, good-10)
+dobj(got-8, feel-11)
+nsubj(works-14, what-13)
+prepc_for(got-8, works-14)
+

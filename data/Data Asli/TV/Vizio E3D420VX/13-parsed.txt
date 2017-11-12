@@ -1,0 +1,111 @@
+=========
+
+nsubj(decided-2, I-1)
+xsubj(upgrade-4, I-1)
+root(ROOT-0, decided-2)
+aux(upgrade-4, to-3)
+xcomp(decided-2, upgrade-4)
+det(CRT-9, a-6)
+num(CRT-9, 32-7)
+nn(CRT-9, inch-8)
+prep_from(upgrade-4, CRT-9)
+det(LCD-13, a-11)
+amod(LCD-13, larger-12)
+prep_to(upgrade-4, LCD-13)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+nsubj(itself-7, everything-3)
+det(TV-6, the-5)
+prep_about(everything-3, TV-6)
+xcomp(like-2, itself-7)
+
+=========
+
+det(picture-2, The-1)
+nsubj(good-7, picture-2)
+conj_and(picture-2, sound-4)
+nsubj(good-7, sound-4)
+cop(good-7, are-5)
+advmod(good-7, very-6)
+root(ROOT-0, good-7)
+
+=========
+
+det(software-3, The-1)
+nn(software-3, navigation-2)
+nsubj(good-6, software-3)
+cop(good-6, is-4)
+advmod(good-6, very-5)
+root(ROOT-0, good-6)
+advmod(good-6, also-7)
+
+=========
+
+det(money-3, the-2)
+prep_for(find-8, money-3)
+nsubj(find-8, you-5)
+aux(find-8, can-6)
+neg(find-8, not-7)
+root(ROOT-0, find-8)
+det(equal-10, an-9)
+dobj(find-8, equal-10)
+poss(opinion-14, my-13)
+prep_in(find-8, opinion-14)
+
+=========
+
+det(service-3, The-1)
+nn(service-3, customer-2)
+nsubj(excellent-5, service-3)
+cop(excellent-5, is-4)
+root(ROOT-0, excellent-5)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+det(problem-4, a-3)
+dobj(had-2, problem-4)
+poss(remote-7, my-6)
+prep_with(problem-4, remote-7)
+advmod(got-11, when-8)
+nsubj(got-11, I-9)
+advmod(got-11, first-10)
+dep(problem-4, got-11)
+dobj(got-11, it-12)
+advmod(got-11, home-13)
+det(rep-18, the-16)
+nn(rep-18, cs-17)
+nsubj(spent-19, rep-18)
+conj_and(had-2, spent-19)
+det(hour-21, an-20)
+dobj(spent-19, hour-21)
+nsubj(trying-24, me-23)
+xsubj(get-26, me-23)
+prepc_with(spent-19, trying-24)
+aux(get-26, to-25)
+xcomp(trying-24, get-26)
+det(remote-28, the-27)
+dobj(get-26, remote-28)
+aux(work-30, to-29)
+xcomp(get-26, work-30)
+
+=========
+
+nsubj(turned-2, It-1)
+root(ROOT-0, turned-2)
+prt(turned-2, out-3)
+det(remote-5, the-4)
+dobj(turned-2, remote-5)
+cop(bad-7, was-6)
+rcmod(remote-5, bad-7)
+det(everything-13, a-9)
+amod(everything-13, new-10)
+dep(new-10, one-11)
+amod(everything-13, fixed-12)
+dobj(turned-2, everything-13)
+conj_and(remote-5, everything-13)
+

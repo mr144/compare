@@ -1,0 +1,33 @@
+=========
+
+nsubj(came-2, Package-1)
+nsubj(undamaged-5, Package-1)
+nsubj(working-8, Package-1)
+root(ROOT-0, came-2)
+advmod(came-2, quickly-3)
+conj_and(came-2, undamaged-5)
+aux(working-8, was-7)
+conj_and(came-2, working-8)
+advmod(working-8, perfectly-9)
+
+=========
+
+nsubj(unlocked-3, Product-1)
+cop(unlocked-3, was-2)
+root(ROOT-0, unlocked-3)
+nsubj(was-5, unlocked-3)
+rcmod(unlocked-3, was-5)
+dep(needed-8, what-6)
+nsubj(unlocked-16, what-6)
+nsubj(needed-8, I-7)
+ccomp(was-5, needed-8)
+mark(unlocked-16, because-10)
+advmod(am-13, where-11)
+nsubj(am-13, I-12)
+advcl(unlocked-16, am-13)
+advmod(unlocked-16, only-15)
+advcl(needed-8, unlocked-16)
+nsubj(working-19, phones-17)
+aux(working-19, are-18)
+ccomp(unlocked-16, working-19)
+

@@ -1,0 +1,97 @@
+=========
+
+det(guy-3, The-1)
+nn(guy-3, delivery-2)
+nsubj(brought-4, guy-3)
+nsubj(set-9, guy-3)
+root(ROOT-0, brought-4)
+det(unit-6, the-5)
+dobj(brought-4, unit-6)
+prep(brought-4, in-7)
+conj_and(brought-4, set-9)
+dobj(set-9, it-10)
+prt(set-9, up-11)
+
+=========
+
+nsubj(kept-2, I-1)
+root(ROOT-0, kept-2)
+ccomp(kept-2, walking-3)
+prt(walking-3, around-4)
+dobj(walking-3, it-5)
+ccomp(kept-2, saying-7)
+conj_and(walking-3, saying-7)
+nsubj(COOL-13, This-9)
+cop(COOL-13, is-10)
+advmod(COOL-13, just-11)
+nn(COOL-13, CRAZY-12)
+ccomp(saying-7, COOL-13)
+
+=========
+
+nsubj(replaced-2, It-1)
+root(ROOT-0, replaced-2)
+det(TV-7, a-3)
+amod(TV-7, large-4)
+amod(TV-7, rear-5)
+nn(TV-7, projection-6)
+dobj(replaced-2, TV-7)
+nsubj(even-12, they-9)
+cop(even-12, are-10)
+neg(even-12, not-11)
+conj_and(replaced-2, even-12)
+det(ballpark-16, the-14)
+amod(ballpark-16, same-15)
+prep_in(even-12, ballpark-16)
+
+=========
+
+advmod(working-2, Still-1)
+root(ROOT-0, working-2)
+prt(working-2, out-3)
+det(etc.-6, the-4)
+amod(etc.-6, settings-5)
+dobj(working-2, etc.-6)
+
+=========
+
+root(ROOT-0, Rented-1)
+det(Island-7, The-3)
+num(Island-7, Journey-4)
+num(Island-7, 2-5)
+nn(Island-7, Mysterious-6)
+dobj(Rented-1, Island-7)
+nn(stream-12, Amazon-10)
+amod(stream-12, video-11)
+prep_through(Island-7, stream-12)
+aux(take-14, to-13)
+xcomp(Rented-1, take-14)
+dobj(take-14, her-15)
+det(drive-19, a-17)
+nn(drive-19, test-18)
+prep_for(take-14, drive-19)
+
+=========
+
+det(colors-2, The-1)
+nsubj(stunning-7, colors-2)
+nn(clarity-5, picture-4)
+conj_and(colors-2, clarity-5)
+nsubj(stunning-7, clarity-5)
+cop(stunning-7, are-6)
+root(ROOT-0, stunning-7)
+
+=========
+
+nsubj(seems-3, It-1)
+xsubj(do-5, It-1)
+advmod(seems-3, also-2)
+root(ROOT-0, seems-3)
+aux(do-5, to-4)
+xcomp(seems-3, do-5)
+advmod(well-7, very-6)
+advmod(do-5, well-7)
+prep_with(do-5, light-9)
+nn(windows-12, side-11)
+prep_from(do-5, windows-12)
+

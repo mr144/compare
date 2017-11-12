@@ -1,0 +1,406 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(tv-4, this-3)
+dobj(bought-2, tv-4)
+det(store-7, a-6)
+prep_from(bought-2, store-7)
+nsubj(sells-9, store-7)
+rcmod(store-7, sells-9)
+nn(returns-11, coustomer-10)
+dobj(sells-9, returns-11)
+
+=========
+
+det(return-5, The-1)
+amod(return-5, main-2)
+nn(return-5, reason-3)
+nn(return-5, people-4)
+nsubj(lcd-6, return-5)
+nsubj(led-8, return-5)
+root(ROOT-0, lcd-6)
+conj_and(lcd-6, led-8)
+nsubj(is-11, tv-9)
+possessive(tv-9, 's-10)
+ccomp(led-8, is-11)
+mark(know-16, because-12)
+nsubj(know-16, they-13)
+aux(know-16, do-14)
+neg(know-16, not-15)
+advcl(is-11, know-16)
+advmod(adjust-20, how-17)
+aux(adjust-20, to-18)
+advmod(adjust-20, properly-19)
+ccomp(know-16, adjust-20)
+xcomp(know-16, adjust-20)
+det(settings-22, all-21)
+nsubj(make-24, settings-22)
+aux(make-24, to-23)
+xcomp(adjust-20, make-24)
+det(awsum-29, a-25)
+amod(awsum-29, lously-26)
+nn(awsum-29, picture-27)
+nn(awsum-29, look-28)
+dobj(make-24, awsum-29)
+
+=========
+
+advmod(got-3, When-1)
+nsubj(got-3, i-2)
+nsubj(set-8, i-2)
+advcl(looked-15, got-3)
+det(home-6, the-4)
+nn(home-6, tv-5)
+dobj(got-3, home-6)
+conj_and(got-3, set-8)
+advcl(looked-15, set-8)
+prt(set-8, up-9)
+det(player-12, a-10)
+nn(player-12, dvd-11)
+dobj(set-8, player-12)
+det(picture-14, the-13)
+nsubj(looked-15, picture-14)
+root(ROOT-0, looked-15)
+prep_like(looked-15, crap-17)
+
+=========
+
+nsubj(went-2, I-1)
+nsubj(turned-7, I-1)
+root(ROOT-0, went-2)
+det(settings-5, the-4)
+prep_into(went-2, settings-5)
+conj_and(went-2, turned-7)
+prt(turned-7, off-8)
+nn(reduction-10, noise-9)
+dobj(turned-7, reduction-10)
+nn(enhancer-13, color-12)
+appos(reduction-10, enhancer-13)
+amod(luma-17, advanced-15)
+nn(luma-17, adaptive-16)
+appos(reduction-10, luma-17)
+amod(ratio-21, enhanced-19)
+nn(ratio-21, contrast-20)
+appos(reduction-10, ratio-21)
+amod(cinema-24, real-23)
+appos(reduction-10, cinema-24)
+advmod(reduction-10, also-25)
+prep(turned-7, off-26)
+
+=========
+
+root(ROOT-0, Smooth-1)
+dobj(Smooth-1, motion-2)
+prep_on(Smooth-1, low-4)
+
+=========
+
+root(ROOT-0, Film-1)
+nn(auto-3, mode-2)
+dep(Film-1, auto-3)
+
+=========
+
+advmod(go-3, Then-1)
+nsubj(go-3, i-2)
+root(ROOT-0, go-3)
+det(settings-7, the-5)
+nn(settings-7, picture-6)
+prep_into(go-3, settings-7)
+nn(mode-11, set-9)
+nn(mode-11, picture-10)
+prep_into(go-3, mode-11)
+conj_and(settings-7, mode-11)
+prep_to(go-3, vivid-13)
+
+=========
+
+root(ROOT-0, backlight-1)
+dobj(backlight-1, :42-2)
+
+=========
+
+root(ROOT-0, Brightness-1)
+num(Brightness-1, :52-2)
+
+=========
+
+root(ROOT-0, Contrast-1)
+dobj(Contrast-1, :75-2)
+
+=========
+
+root(ROOT-0, Color-1)
+num(Color-1, :83-2)
+dep(Color-1, Tint-3)
+num(Tint-3, :0-4)
+
+=========
+
+nsubj(comes-4, Sharpness-1)
+num(Sharpness-1, :0-2)
+advmod(comes-4, Then-3)
+root(ROOT-0, comes-4)
+dobj(comes-4, temp-5)
+
+=========
+
+nsubj(menue-2, sub-1)
+root(ROOT-0, menue-2)
+
+=========
+
+root(ROOT-0, Temp-1)
+
+=========
+
+root(ROOT-0, normal-1)
+
+=========
+
+nn(grain-2, Red-1)
+nsubj(117-3, grain-2)
+root(ROOT-0, 117-3)
+
+=========
+
+nn(grain153-2, Green-1)
+root(ROOT-0, grain153-2)
+
+=========
+
+amod(grain-2, blue-1)
+root(ROOT-0, grain-2)
+dep(grain-2, 147-3)
+
+=========
+
+nsubj(offset-2, Red-1)
+root(ROOT-0, offset-2)
+dobj(offset-2, 124-3)
+
+=========
+
+amod(offset126-2, green-1)
+root(ROOT-0, offset126-2)
+
+=========
+
+nsubj(offset-2, blue-1)
+root(ROOT-0, offset-2)
+dobj(offset-2, 123-3)
+
+=========
+
+nsubj(leave-3, You-1)
+aux(leave-3, must-2)
+root(ROOT-0, leave-3)
+det(mode-6, the-4)
+nn(mode-6, picture-5)
+dobj(leave-3, mode-6)
+prep_on(leave-3, vivid-8)
+
+=========
+
+mark(put-3, If-1)
+nsubj(put-3, you-2)
+advcl(have-13, put-3)
+det(mode-5, the-4)
+dobj(put-3, mode-5)
+nn(mode-8, movie-7)
+prep_to(put-3, mode-8)
+det(mode-11, another-10)
+prep_to(put-3, mode-11)
+conj_or(mode-8, mode-11)
+nsubj(have-13, you-12)
+xsubj(adjust-15, you-12)
+root(ROOT-0, have-13)
+aux(adjust-15, to-14)
+xcomp(have-13, adjust-15)
+det(settings-17, the-16)
+dobj(adjust-15, settings-17)
+dep(over-19, all-18)
+advmod(adjust-15, over-19)
+advmod(over-19, again-20)
+
+=========
+
+det(mode-3, Each-1)
+nn(mode-3, picture-2)
+nsubj(has-4, mode-3)
+root(ROOT-0, has-4)
+nn(settings-6, default-5)
+dobj(has-4, settings-6)
+nsubjpass(changed-10, settings-6)
+nsubjpass(set-12, settings-6)
+aux(changed-10, must-8)
+auxpass(changed-10, be-9)
+rcmod(settings-6, changed-10)
+rcmod(settings-6, set-12)
+conj_and(changed-10, set-12)
+agent(changed-10, you-14)
+
+=========
+
+nsubj(put-3, I-1)
+advmod(put-3, now-2)
+root(ROOT-0, put-3)
+det(movie-7, a-5)
+amod(movie-7, bluray-6)
+prep_in(put-3, movie-7)
+partmod(movie-7, called-8)
+nn(racer-10, speed-9)
+dobj(called-8, racer-10)
+nsubj(put-21, racer-10)
+aux(put-21, has-12)
+det(picture-16, the-13)
+advmod(amazing-15, most-14)
+amod(picture-16, amazing-15)
+dobj(put-21, picture-16)
+det(movie-19, any-18)
+prep_of(picture-16, movie-19)
+advmod(put-21, ever-20)
+rcmod(racer-10, put-21)
+prep_on(put-21, dvd-23)
+
+=========
+
+nsubj(started-2, I-1)
+nsubj(broke-6, I-1)
+root(ROOT-0, started-2)
+det(movie-4, the-3)
+dobj(started-2, movie-4)
+conj_and(started-2, broke-6)
+prt(broke-6, down-7)
+conj_and(started-2, cried-9)
+conj_and(broke-6, cried-9)
+mark(had-12, because-10)
+nsubj(had-12, i-11)
+advcl(cried-9, had-12)
+det(picture-14, a-13)
+dobj(had-12, picture-14)
+nsubj(looked-16, picture-14)
+rcmod(picture-14, looked-16)
+nsubj(came-18, it-17)
+ccomp(looked-16, came-18)
+det(heavens-21, the-20)
+prep_from(came-18, heavens-21)
+det(defects-24, no-23)
+prep_with(came-18, defects-24)
+nn(ect-27, artifects-26)
+prep_with(came-18, ect-27)
+conj_or(defects-24, ect-27)
+
+=========
+
+amod(thing-2, sad-1)
+nsubj(is-3, thing-2)
+root(ROOT-0, is-3)
+complm(take-9, that-4)
+det(majority-6, the-5)
+nsubj(take-9, majority-6)
+prep_of(majority-6, people-8)
+ccomp(is-3, take-9)
+det(tv-11, the-10)
+nsubj(turn-16, tv-11)
+nsubj(return-20, tv-11)
+det(box-15, the-14)
+prep_out_of(tv-11, box-15)
+ccomp(take-9, turn-16)
+dobj(turn-16, it-17)
+prt(turn-16, on-18)
+ccomp(take-9, return-20)
+conj_and(turn-16, return-20)
+dobj(return-20, it-21)
+det(refund-24, a-23)
+prep_for(return-20, refund-24)
+
+=========
+
+nsubj(go-2, I-1)
+root(ROOT-0, go-2)
+advmod(go-2, all-3)
+advmod(go-2, around-4)
+dep(go-2, san-5)
+dobj(san-5, diego-6)
+advmod(set-9, professionally-8)
+dep(go-2, set-9)
+conj_and(san-5, set-9)
+prt(set-9, up-10)
+dobj(set-9, tv-11)
+rcmod(tv-11, 's-12)
+complm(going-16, that-13)
+nsubj(going-16, someone-14)
+xsubj(send-18, someone-14)
+aux(going-16, was-15)
+ccomp('s-12, going-16)
+aux(send-18, to-17)
+xcomp(going-16, send-18)
+prt(send-18, back-19)
+det(refund-22, a-21)
+prep_for(send-18, refund-22)
+dep(go-2, never-24)
+conj_and(san-5, never-24)
+neg(san-5, never-24)
+dep(go-2, buy-25)
+conj_and(san-5, buy-25)
+det(brand-27, that-26)
+dobj(buy-25, brand-27)
+advmod(buy-25, again-28)
+
+=========
+
+advmod(finished-4, When-1)
+nsubjpass(finished-4, i-2)
+auxpass(finished-4, am-3)
+advcl(amazed-8, finished-4)
+det(people-6, The-5)
+nsubjpass(amazed-8, people-6)
+auxpass(amazed-8, are-7)
+root(ROOT-0, amazed-8)
+dobj(did-12, what-10)
+nsubj(did-12, i-11)
+prepc_at(amazed-8, did-12)
+
+=========
+
+dep(keep-2, Please-1)
+root(ROOT-0, keep-2)
+dobj(keep-2, this-3)
+prep_in(this-3, mind-5)
+mark(give-8, before-6)
+nsubj(give-8, you-7)
+advcl(keep-2, give-8)
+det(tv-10, a-9)
+iobj(give-8, tv-10)
+det(review-13, a-11)
+amod(review-13, bad-12)
+dobj(give-8, review-13)
+conj_and(keep-2, send-15)
+dobj(send-15, it-16)
+advmod(send-15, back-17)
+
+=========
+
+root(ROOT-0, Do-1)
+poss(home-work-3, your-2)
+dobj(Do-1, home-work-3)
+
+=========
+
+nsubj(tv-6, This-1)
+cop(tv-6, is-2)
+det(tv-6, the-3)
+amod(tv-6, most-4)
+nn(tv-6, awsum-5)
+root(ROOT-0, tv-6)
+det(market-9, the-8)
+prep_on(tv-6, market-9)
+
+=========
+
+nsubj(awsum-3, Vizio-1)
+cop(awsum-3, is-2)
+root(ROOT-0, awsum-3)
+

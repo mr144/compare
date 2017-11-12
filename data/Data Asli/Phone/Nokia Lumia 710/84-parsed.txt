@@ -1,0 +1,36 @@
+=========
+
+advmod(words-3, Only-1)
+num(words-3, two-2)
+nsubj(smarthphoge-9, words-3)
+det(product-6, this-5)
+prep_for(words-3, product-6)
+appos(product-6, excelent-8)
+root(ROOT-0, smarthphoge-9)
+
+=========
+
+nsubj(fits-2, It-1)
+root(ROOT-0, fits-2)
+predet(requeriments-6, all-4)
+poss(requeriments-6, my-5)
+prep_with(fits-2, requeriments-6)
+
+=========
+
+det(SO-4, The-1)
+nn(SO-4, Windows-2)
+nn(SO-4, Phone-3)
+nsubj(beatiful-6, SO-4)
+cop(beatiful-6, is-5)
+ccomp(love-9, beatiful-6)
+nsubj(love-9, I-8)
+root(ROOT-0, love-9)
+dobj(love-9, it-10)
+poss(interface-13, its-12)
+appos(it-10, interface-13)
+poss(effects-16, its-15)
+appos(it-10, effects-16)
+poss(colors-19, its-18)
+appos(it-10, colors-19)
+

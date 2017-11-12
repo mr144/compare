@@ -1,0 +1,21 @@
+=========
+
+det(!!!-4, this-2)
+nn(!!!-4, phone-3)
+prep_love(glad-12, !!!-4)
+det(fan-7, a-6)
+prep_as(glad-12, fan-7)
+prep_of(fan-7, Blackberry-9)
+nsubj(glad-12, I-10)
+cop(glad-12, am-11)
+root(ROOT-0, glad-12)
+nsubj(has-14, it-13)
+ccomp(glad-12, has-14)
+det(screen-17, the-15)
+nn(screen-17, touch-16)
+dobj(has-14, screen-17)
+det(slide-20, the-19)
+dobj(has-14, slide-20)
+conj_and(screen-17, slide-20)
+prep_out(has-14, keyboard-22)
+

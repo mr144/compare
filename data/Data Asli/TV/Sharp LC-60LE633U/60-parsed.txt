@@ -1,0 +1,182 @@
+=========
+
+nn(TV-2, Great-1)
+root(ROOT-0, TV-2)
+
+=========
+
+det(price-2, The-1)
+dobj(paid-4, price-2)
+nsubj(amazing-6, price-2)
+nsubj(paid-4, I-3)
+rcmod(price-2, paid-4)
+cop(amazing-6, was-5)
+root(ROOT-0, amazing-6)
+
+=========
+
+nsubj(think-2, Friends-1)
+root(ROOT-0, think-2)
+nsubj(spent-6, I-3)
+aux(spent-6, must-4)
+aux(spent-6, have-5)
+ccomp(think-2, spent-6)
+det($-8, a-7)
+dobj(spent-6, $-8)
+num($-8, 1000-1500-9)
+advmod(spent-6, more-10)
+mark(did-13, than-11)
+nsubj(did-13, I-12)
+dep(more-10, did-13)
+advmod(purchased-18, even-15)
+dep(purchased-18, after-16)
+nsubj(purchased-18, I-17)
+advcl(selling-24, purchased-18)
+det(unit-20, the-19)
+dobj(purchased-18, unit-20)
+nsubj(selling-24, Amazon-22)
+aux(selling-24, was-23)
+conj_and(think-2, selling-24)
+dobj(selling-24, it-25)
+npadvmod(more-29, $-27)
+num($-27, 400-28)
+prepc_for(selling-24, more-29)
+mark(paid-32, than-30)
+nsubj(paid-32, I-31)
+advcl(selling-24, paid-32)
+
+=========
+
+det(shipping-2, No-1)
+nsubj(tax-6, shipping-2)
+det(sales-5, no-4)
+conj_and(shipping-2, sales-5)
+nsubj(tax-6, sales-5)
+root(ROOT-0, tax-6)
+advmod(well-8, as-7)
+mwe(well-8, as-7)
+advmod(tax-6, well-8)
+
+=========
+
+advmod(far-2, As-1)
+advmod(clear-12, far-2)
+mark(concerned-7, as-3)
+det(quality-5, the-4)
+nsubj(concerned-7, quality-5)
+cop(concerned-7, is-6)
+ccomp(far-2, concerned-7)
+det(picture-10, the-9)
+nsubj(clear-12, picture-10)
+nsubj(full-14, picture-10)
+nsubj(vivid-18, picture-10)
+cop(clear-12, is-11)
+root(ROOT-0, clear-12)
+conj_and(clear-12, full-14)
+prep_of(full-14, color-16)
+conj_and(clear-12, vivid-18)
+
+=========
+
+det(size-2, The-1)
+nsubj(perfect-4, size-2)
+cop(perfect-4, is-3)
+root(ROOT-0, perfect-4)
+det(room-7, the-6)
+prep_for(perfect-4, room-7)
+
+=========
+
+det(set-2, The-1)
+nsubj(easy-5, set-2)
+advmod(easy-5, up-3)
+cop(easy-5, was-4)
+ccomp(had-12, easy-5)
+mark(admit-9, although-6)
+nsubj(admit-9, I-7)
+aux(admit-9, must-8)
+advcl(easy-5, admit-9)
+nsubj(had-12, I-11)
+root(ROOT-0, had-12)
+poss(son-14, my-13)
+dobj(had-12, son-14)
+dep(son-14, do-15)
+det(set-17, the-16)
+dobj(do-15, set-17)
+prt(do-15, up-18)
+
+=========
+
+nsubj(use-4, I-1)
+aux(use-4, do-2)
+neg(use-4, not-3)
+root(ROOT-0, use-4)
+det(volume-6, the-5)
+dobj(use-4, volume-6)
+mark(comment-11, so-7)
+nsubj(comment-11, I-8)
+aux(comment-11, can-9)
+neg(comment-11, not-10)
+advcl(use-4, comment-11)
+prep_on(comment-11, that-13)
+
+=========
+
+advmod(bought-4, Instead-1)
+nsubj(bought-4, I-3)
+root(ROOT-0, bought-4)
+det(system-8, the-5)
+number(580-7, ZVOX-6)
+num(system-8, 580-7)
+dobj(bought-4, system-8)
+aux(provide-10, to-9)
+infmod(system-8, provide-10)
+det(sound-12, the-11)
+dobj(provide-10, sound-12)
+nsubj(excellent-16, sound-12)
+aux(excellent-16, has-14)
+cop(excellent-16, been-15)
+rcmod(sound-12, excellent-16)
+
+=========
+
+advcl(went-6, to-2)
+prep_prior_to(went-6, purchase-3)
+nsubj(went-6, I-5)
+xsubj(talk-14, I-5)
+root(ROOT-0, went-6)
+poss(TV-12, Paul-8)
+nn(TV-12, Big-10)
+nn(TV-12, Screen-11)
+prep_to(went-6, TV-12)
+aux(talk-14, to-13)
+xcomp(went-6, talk-14)
+det(guy-18, the-16)
+nn(guy-18, sales-17)
+prep_to(talk-14, guy-18)
+advmod(talk-14, there-19)
+
+=========
+
+nsubj(recommended-3, He-1)
+advmod(recommended-3, too-2)
+root(ROOT-0, recommended-3)
+det(Sharp-5, the-4)
+dobj(recommended-3, Sharp-5)
+poss(competitors-8, their-7)
+prep_over(recommended-3, competitors-8)
+mark(unmatched-15, because-9)
+det(quality-11, the-10)
+nsubj(unmatched-15, quality-11)
+conj_and(quality-11, price-13)
+nsubj(unmatched-15, price-13)
+cop(unmatched-15, were-14)
+advcl(recommended-3, unmatched-15)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+det(tv-4, this-3)
+dobj(recommend-2, tv-4)
+

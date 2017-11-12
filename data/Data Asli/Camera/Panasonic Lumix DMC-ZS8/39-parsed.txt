@@ -1,0 +1,38 @@
+=========
+
+nsubj(zoom-2, Great-1)
+root(ROOT-0, zoom-2)
+dobj(zoom-2, lens-3)
+
+=========
+
+root(ROOT-0, Ease-1)
+prep_of(Ease-1, use-3)
+
+=========
+
+amod(quality-2, Good-1)
+root(ROOT-0, quality-2)
+prep_of(quality-2, photos-4)
+
+=========
+
+det(manual-4, A-1)
+amod(manual-4, clearer-2)
+nn(manual-4, instruction-3)
+nsubj(nice-7, manual-4)
+aux(nice-7, would-5)
+cop(nice-7, be-6)
+root(ROOT-0, nice-7)
+dep(seems-10, but-8)
+nsubj(seems-10, that-9)
+dep(nice-7, seems-10)
+aux(way-14, to-11)
+cop(way-14, be-12)
+det(way-14, the-13)
+xcomp(nice-7, way-14)
+nsubj(days-18, it-15)
+cop(days-18, is-16)
+advmod(days-18, now-17)
+rcmod(way-14, days-18)
+

@@ -1,0 +1,34 @@
+=========
+
+nsubj(satisfied-4, I-1)
+cop(satisfied-4, am-2)
+advmod(satisfied-4, fully-3)
+root(ROOT-0, satisfied-4)
+det(size-7, the-6)
+prep_with(satisfied-4, size-7)
+det(phone-10, the-9)
+prep_of(size-7, phone-10)
+det(quality-13, the-12)
+appos(phone-10, quality-13)
+det(product-16, the-15)
+prep_of(quality-13, product-16)
+det(life-20, the-18)
+nn(life-20, battery-19)
+prep_with(satisfied-4, life-20)
+conj_and(size-7, life-20)
+dep(life-20, lasts-22)
+dobj(lasts-22, me-23)
+quantmod(2-25, about-24)
+num(days-26, 2-25)
+npadvmod(lasts-22, days-26)
+prep_between(lasts-22, charges-28)
+prep_with(satisfied-4, reception-32)
+conj_and(size-7, reception-32)
+
+=========
+
+nsubj(recommend-2, I-1)
+root(ROOT-0, recommend-2)
+nsubj(!!!-4, it-3)
+xcomp(recommend-2, !!!-4)
+

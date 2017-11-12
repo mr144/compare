@@ -1,0 +1,53 @@
+=========
+
+poss(tvs-4, Samsung-1)
+nn(tvs-4, LED-3)
+nsubj(scored-7, tvs-4)
+aux(scored-7, have-5)
+advmod(scored-7, always-6)
+root(ROOT-0, scored-7)
+acomp(scored-7, big-8)
+poss(book-11, my-10)
+prep_in(big-8, book-11)
+prep_with(scored-7, quality-13)
+prep_with(scored-7, reliability-15)
+conj_and(quality-13, reliability-15)
+
+=========
+
+det(one-2, This-1)
+nsubj(impressed-3, one-2)
+root(ROOT-0, impressed-3)
+advmod(well-5, as-4)
+mwe(well-5, as-4)
+advmod(impressed-3, well-5)
+advmod(impressed-3, especially-7)
+det(capability-11, the-9)
+amod(capability-11, online-10)
+prep_with(impressed-3, capability-11)
+nn(Netflix-14, stream-13)
+prep_to(capability-11, Netflix-14)
+prep_to(capability-11, Amazon-16)
+conj_or(Netflix-14, Amazon-16)
+det(unit-21, a-18)
+amod(unit-21, seperate-19)
+nn(unit-21, dvd-20)
+prep_without(impressed-3, unit-21)
+
+=========
+
+det(picture-2, The-1)
+nsubj(vivid-6, picture-2)
+nsubj(require-10, picture-2)
+conj_and(picture-2, sound-4)
+nsubj(vivid-6, sound-4)
+cop(vivid-6, are-5)
+root(ROOT-0, vivid-6)
+aux(require-10, did-8)
+neg(require-10, not-9)
+conj_and(vivid-6, require-10)
+det(adjusments-13, any-11)
+amod(adjusments-13, special-12)
+dobj(require-10, adjusments-13)
+prep_after(require-10, purchase-15)
+

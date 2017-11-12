@@ -1,0 +1,48 @@
+=========
+
+nsubj(given-4, I-1)
+aux(given-4, would-2)
+aux(given-4, have-3)
+root(ROOT-0, given-4)
+iobj(given-4, it-5)
+det(rating-8, a-6)
+amod(rating-8, higher-7)
+dobj(given-4, rating-8)
+nsubj(had-12, I-11)
+xsubj(get-14, I-11)
+conj_but(given-4, had-12)
+aux(get-14, to-13)
+xcomp(had-12, get-14)
+det(Holder-18, a-15)
+nn(Holder-18, SIM-16)
+nn(Holder-18, card-17)
+dobj(get-14, Holder-18)
+partmod(Holder-18, installed-19)
+det(Phone-22, the-21)
+prep_on(installed-19, Phone-22)
+
+=========
+
+root(ROOT-0, Other-1)
+complm(seems-6, that-3)
+det(phone-5, the-4)
+nsubj(seems-6, phone-5)
+xsubj(working-9, phone-5)
+prepc_than(Other-1, seems-6)
+aux(working-9, to-7)
+aux(working-9, be-8)
+xcomp(seems-6, working-9)
+acomp(working-9, fine-10)
+
+=========
+
+nsubj(is-2, Phone-1)
+nsubjpass(packaged-10, Phone-1)
+root(ROOT-0, is-2)
+advmod(good-5, very-4)
+amod(condition-6, good-5)
+prep_in(is-2, condition-6)
+auxpass(packaged-10, was-8)
+advmod(packaged-10, well-9)
+conj_and(is-2, packaged-10)
+

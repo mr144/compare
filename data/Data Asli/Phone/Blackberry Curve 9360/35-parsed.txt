@@ -1,0 +1,25 @@
+=========
+
+dep(had-7, Not-1)
+det(phone-4, a-2)
+amod(phone-4, good-3)
+dep(Not-1, phone-4)
+nsubj(had-7, I-5)
+aux(had-7, have-6)
+root(ROOT-0, had-7)
+dobj(had-7, it-8)
+det(month-12, a-11)
+prep_than(had-7, month-12)
+nsubj(sticks-15, it-14)
+conj_and(had-7, sticks-15)
+predet(time-18, all-16)
+det(time-18, the-17)
+dobj(sticks-15, time-18)
+
+=========
+
+nsubj(weak-4, Battery-1)
+cop(weak-4, is-2)
+advmod(weak-4, very-3)
+root(ROOT-0, weak-4)
+

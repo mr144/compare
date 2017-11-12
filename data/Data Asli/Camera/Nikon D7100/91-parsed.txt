@@ -1,0 +1,194 @@
+=========
+
+amod(camera-2, Great-1)
+root(ROOT-0, camera-2)
+
+=========
+
+num(copy-3, 1st-1)
+amod(copy-3, purchased-2)
+nsubj(had-6, copy-3)
+prep_of(copy-3, D7001-5)
+root(ROOT-0, had-6)
+num(spot-9, 5-7)
+nn(spot-9, oil-8)
+dobj(had-6, spot-9)
+neg(dust-12, not-11)
+appos(spot-9, dust-12)
+amod(spot-9, visible-14)
+prep_at(visible-14, f\/16-16)
+appos(f\/16-16, f\/22-18)
+
+=========
+
+root(ROOT-0, Unable-1)
+aux(clear-3, to-2)
+xcomp(Unable-1, clear-3)
+nn(blower-6, rocket-5)
+prep_with(clear-3, blower-6)
+conj_and(Unable-1, built-8)
+amod(option-11, cleaner-10)
+prep_in(built-8, option-11)
+
+=========
+
+root(ROOT-0, Returned-1)
+
+=========
+
+root(ROOT-0, Amazon-1)
+amod(Amazon-1, kind-2)
+advmod(kind-2, enough-3)
+aux(send-5, to-4)
+xcomp(kind-2, send-5)
+iobj(send-5, me-6)
+det(replacement-8, a-7)
+dobj(send-5, replacement-8)
+
+=========
+
+nsubj(left-4, Replacement-1)
+advmod(left-4, now-2)
+aux(left-4, has-3)
+root(ROOT-0, left-4)
+nn(issue-6, focus-5)
+dobj(left-4, issue-6)
+prep_like(left-4, D800-8)
+
+=========
+
+neg(focus-17, Not-1)
+advcl(focus-17, as-2)
+prepc_as(focus-17, tack-3)
+amod(enlargement-8, sharp-4)
+num(%-7, 100-6)
+prep_at(sharp-4, %-7)
+dobj(tack-3, enlargement-8)
+prep_as(tack-3, center-10)
+nsubj(focus-17, upper-12)
+appos(upper-12, lower-14)
+advmod(focus-17, right-16)
+root(ROOT-0, focus-17)
+dobj(focus-17, points-18)
+
+=========
+
+nsubj(reported-3, Others-1)
+aux(reported-3, have-2)
+root(ROOT-0, reported-3)
+amod(issue-5, similar-4)
+dobj(reported-3, issue-5)
+
+=========
+
+amod(news-2, Good-1)
+nsubj(is-3, news-2)
+root(ROOT-0, is-3)
+complm(exist-7, that-4)
+amod(copies-6, good-5)
+nsubj(exist-7, copies-6)
+ccomp(is-3, exist-7)
+det(problems-10, these-9)
+prep_without(exist-7, problems-10)
+
+=========
+
+nsubj(used-2, I-1)
+root(ROOT-0, used-2)
+poss(lens-10, my-3)
+num(lens-10, 24-70-4)
+num(lens-10, mm-5)
+nn(lens-10, Nikon-6)
+amod(lens-10, f\/2-8)
+num(lens-10, .8-9)
+nsubj(using-11, lens-10)
+dep(used-2, using-11)
+amod(chart-15, high-12)
+nn(chart-15, contract-13)
+nn(chart-15, focus-14)
+dobj(using-11, chart-15)
+amod(open-19, tripod-17)
+amod(open-19, wide-18)
+prep_on(chart-15, open-19)
+aux(test-21, to-20)
+xcomp(using-11, test-21)
+xcomp(test-21, focusing-22)
+
+=========
+
+nsubj(great-3, Amazon-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+amod(quality-7, poor-6)
+nsubj(control-8, quality-7)
+conj_but(great-3, control-8)
+prep_from(control-8, Nikon-10)
+
+=========
+
+nsubj(hoping-3, I-1)
+aux(hoping-3, was-2)
+root(ROOT-0, hoping-3)
+det(camera-5, this-4)
+nsubj(different-8, camera-5)
+aux(different-8, would-6)
+cop(different-8, be-7)
+ccomp(hoping-3, different-8)
+amod(oil-11, known-10)
+prep_from(different-8, oil-11)
+nn(problem-14, sensor-13)
+prep_on(oil-11, problem-14)
+prep_of(problem-14, D600-16)
+
+=========
+
+advmod(images-4, Furthermore-1)
+nsubj(images-4, JPEG-3)
+root(ROOT-0, images-4)
+amod(grainy-6, more-5)
+dobj(images-4, grainy-6)
+prep_than(images-4, D7000-8)
+
+=========
+
+cc(improved-4, But-1)
+nn(system-3, focus-2)
+nsubj(improved-4, system-3)
+root(ROOT-0, improved-4)
+
+=========
+
+neg(issue-4, Not-1)
+det(issue-4, a-2)
+amod(issue-4, real-3)
+nsubjpass(improved-10, issue-4)
+nn(images-7, RAW-6)
+prep_since(issue-4, images-7)
+aux(improved-10, can-8)
+auxpass(improved-10, be-9)
+root(ROOT-0, improved-10)
+prep_with(improved-10, PP-12)
+prep_with(improved-10, Lightroom-14)
+num(Lightroom-14, 4.4-15)
+
+=========
+
+partmod(focus-12, Hoping-1)
+amod(copy-4, next-2)
+nn(copy-4, replacement-3)
+nsubj(have-6, copy-4)
+aux(have-6, will-5)
+ccomp(Hoping-1, have-6)
+det(spots-9, no-7)
+nn(spots-9, oil-8)
+dobj(have-6, spots-9)
+nsubj(focus-12, L-11)
+root(ROOT-0, focus-12)
+dobj(focus-12, problems-13)
+
+=========
+
+root(ROOT-0, Crossing-1)
+poss(fingers-3, my-2)
+dobj(Crossing-1, fingers-3)
+

@@ -1,0 +1,4 @@
+I_PRP am_VBP satisfied_VBN with_IN this_DT ._.
+excellent_JJ condition_NN ,_, applications_NNS ,_, all_DT in_IN perfect_JJ working_NN order_NN ,_, I_PRP highly_RB recommend_VBP it_PRP ._.
+is_VBZ a_DT sensitive_JJ phone_NN ._.
+works_NNS with_IN 190Mhz_NNP Movistar_NNP Venezuela_NNP

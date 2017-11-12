@@ -1,0 +1,5 @@
+Modest_JJ price_NN ._.
+Easy_NNP to_TO use_VB ._.
+Great_JJ quality_NN ._.
+Perfect_NNP for_IN me_PRP ._.
+--_: 10_CD more_JJR words_NNS required_VBN --_: 10_CD more_JJR words_NNS required_VBN ._.

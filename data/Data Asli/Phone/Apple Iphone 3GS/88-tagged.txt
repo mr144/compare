@@ -1,0 +1,3 @@
+This_DT phone_NN broke_VBD after_IN 2_CD days_NNS of_IN use_NN ._.
+The_DT home_NN button_NN stopped_VBD working_VBG sound_NN cut_VBD off_RP and_CC the_DT speakers_NNS stopped_VBD working_VBG ._.
+Terrible_JJ buy_NN ._.

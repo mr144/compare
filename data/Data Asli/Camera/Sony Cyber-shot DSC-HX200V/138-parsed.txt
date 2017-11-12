@@ -1,0 +1,81 @@
+=========
+
+det(camera-2, This-1)
+nsubj(amazing-4, camera-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+det(sensor-3, The-1)
+nn(sensor-3, Exmor-2)
+nsubj(system-7, sensor-3)
+cop(system-7, is-4)
+det(system-7, the-5)
+amod(system-7, best-6)
+root(ROOT-0, system-7)
+advmod(system-7, ever-8)
+advmod(problem-13, when-9)
+nsubj(problem-13, light-10)
+cop(problem-13, is-11)
+det(problem-13, a-12)
+advcl(system-7, problem-13)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(partner-8, zoom-2)
+conj_and(zoom-2, stabilization-4)
+nsubj(partner-8, stabilization-4)
+cop(partner-8, are-5)
+det(partner-8, the-6)
+amod(partner-8, best-7)
+root(ROOT-0, partner-8)
+mark(zoom-18, because-9)
+det(matter-11, no-10)
+dobj(want-14, matter-11)
+nsubj(zoom-18, matter-11)
+mark(want-14, if-12)
+nsubj(want-14, you-13)
+xsubj(use-16, you-13)
+dep(matter-11, want-14)
+aux(use-16, to-15)
+xcomp(want-14, use-16)
+acomp(use-16, full-17)
+dep(partner-8, zoom-18)
+det(camera-20, this-19)
+dobj(zoom-18, camera-20)
+advmod(zoom-18, always-21)
+dep(zoom-18, take-22)
+dobj(take-22, pictures-23)
+prep_without(take-22, blur-25)
+
+=========
+
+nsubj(focus-2, Great-1)
+root(ROOT-0, focus-2)
+
+=========
+
+det(bad-3, The-1)
+advmod(bad-3, only-2)
+nsubj(is-4, bad-3)
+root(ROOT-0, is-4)
+complm(liked-9, that-5)
+nsubj(liked-9, I-6)
+aux(liked-9, would-7)
+aux(liked-9, have-8)
+ccomp(is-4, liked-9)
+det(camera-11, this-10)
+nsubj(had-12, camera-11)
+ccomp(liked-9, had-12)
+det(system-15, a-13)
+amod(system-15, compatible-14)
+dobj(had-12, system-15)
+aux(change-17, to-16)
+infmod(system-15, change-17)
+dobj(change-17, lenses-18)
+nsubj(is-22, it-21)
+conj_but(is-4, is-22)
+neg(is-22, not-23)
+

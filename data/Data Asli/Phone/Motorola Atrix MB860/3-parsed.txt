@@ -1,0 +1,29 @@
+=========
+
+nsubj(am-2, I-1)
+root(ROOT-0, am-2)
+prep_from(am-2, Venezuela-4)
+nsubj(works-7, it-6)
+conj_and(am-2, works-7)
+acomp(works-7, great-8)
+prep_with(great-8, Digitel-10)
+
+=========
+
+root(ROOT-0, Camera-1)
+nn(response-4, touch-3)
+appos(Camera-1, response-4)
+appos(Camera-1, graphics-6)
+nsubj(great-11, it-8)
+cop(great-11, is-9)
+advmod(great-11, just-10)
+dep(Camera-1, great-11)
+
+=========
+
+dep(dudar-5, D-2)
+nn(dudar-5, C&oacute;mpralo-3)
+nn(dudar-5, sin-4)
+root(ROOT-0, dudar-5)
+dep(dudar-5, P-7)
+

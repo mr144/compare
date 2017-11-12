@@ -1,0 +1,68 @@
+=========
+
+nsubj(wanted-2, I-1)
+nsubj(want-10, I-1)
+xsubj(spend-12, I-1)
+root(ROOT-0, wanted-2)
+det(smartphone-5, a-3)
+amod(smartphone-5, good-4)
+dobj(wanted-2, smartphone-5)
+aux(want-10, did-8)
+neg(want-10, not-9)
+conj_but(wanted-2, want-10)
+aux(spend-12, to-11)
+xcomp(want-10, spend-12)
+nsubj(much-14, that-13)
+xcomp(spend-12, much-14)
+
+=========
+
+det(Atrix-3, This-1)
+nn(Atrix-3, Motorola-2)
+nsubj(is-4, Atrix-3)
+root(ROOT-0, is-4)
+dep(wanted-8, exactly-5)
+dep(exactly-5, what-6)
+nsubj(wanted-8, I-7)
+ccomp(is-4, wanted-8)
+
+=========
+
+nn(OS-3, Fast-1)
+nn(OS-3, Android-2)
+root(ROOT-0, OS-3)
+
+=========
+
+mark(good-7, Although-1)
+det(screen-3, the-2)
+nsubj(good-7, screen-3)
+cop(good-7, is-4)
+neg(good-7, not-5)
+advmod(good-7, as-6)
+advcl(phone-20, good-7)
+det(S3-13, the-9)
+nn(S3-13, Galaxy-10)
+nn(S3-13, S2-11)
+nn(S3-13, o-12)
+prep_as(good-7, S3-13)
+nsubj(phone-20, it-15)
+nsubj(cheaper-25, it-15)
+cop(phone-20, is-16)
+det(phone-20, a-17)
+advmod(good-19, very-18)
+amod(phone-20, good-19)
+root(ROOT-0, phone-20)
+det(lot-24, a-23)
+dep(cheaper-25, lot-24)
+conj_and(phone-20, cheaper-25)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(purchase-7, this-6)
+prep_with(happy-4, purchase-7)
+

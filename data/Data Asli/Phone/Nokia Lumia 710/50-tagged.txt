@@ -1,0 +1,3 @@
+NOkia_NNP Lumia_NNP 710_CD is_VBZ amazing_JJ Product_NNP ,_, now_RB I_PRP am_VBP feeling_VBG bad_JJ of_IN using_VBG IPHONE_NNP for_IN past_JJ years_NNS ,_, I_PRP like_VBP this_DT product_NN very_RB much_RB ,_, it_PRP has_VBZ good_JJ touch_NN screen_NN and_CC very_RB good_JJ apps_NNS and_CC word_NN ,_, excel_VB ,_, one_CD point_NN pad_NN is_VBZ excellent_JJ ._.
+The_DT only_JJ problem_NN is_VBZ GPS_NNP navigation_NN when_WRB I_PRP downloaded_VBD maps_NNS and_CC using_VBG them_PRP the_DT destinations_NNS are_VBP pointing_VBG correctly_RB ,_, It_PRP takes_VBZ to_TO the_DT nearest_JJS point_NN but_CC not_RB to_TO the_DT actual_JJ destinations_NNS ._.
+Thanks_NNS ,_, Bobba_NNP

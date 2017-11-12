@@ -1,0 +1,40 @@
+=========
+
+nsubj(beat-4, You-1)
+aux(beat-4, can-2)
+neg(beat-4, not-3)
+root(ROOT-0, beat-4)
+dobj(beat-4, it-5)
+det(price-8, the-7)
+prep_for(beat-4, price-8)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+nn(pictures-4, quality-3)
+dobj(takes-2, pictures-4)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+det(friend-7, a-6)
+prep_to(recommend-3, friend-7)
+
+=========
+
+prep_in(bought-5, addition-2)
+nsubj(bought-5, I-4)
+root(ROOT-0, bought-5)
+det(card-10, a-6)
+num(card-10, 16-7)
+nn(card-10, GB-8)
+nn(card-10, memory-9)
+nsubj(go-12, card-10)
+aux(go-12, to-11)
+xcomp(bought-5, go-12)
+prep_with(go-12, it-14)
+

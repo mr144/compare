@@ -1,0 +1,54 @@
+=========
+
+amod(camera-2, Great-1)
+root(ROOT-0, camera-2)
+advmod(far-4, so-3)
+dep(camera-2, far-4)
+
+=========
+
+dep(great-2, Works-1)
+root(ROOT-0, great-2)
+nn(settings-5, auto-4)
+prep_with(great-2, settings-5)
+
+=========
+
+mark(start-3, Once-1)
+nsubj(start-3, I-2)
+advcl(sure-9, start-3)
+xcomp(start-3, learning-4)
+amod(functions-6, more-5)
+dobj(learning-4, functions-6)
+nsubj(sure-9, I-7)
+cop(sure-9, am-8)
+root(ROOT-0, sure-9)
+nsubj(everything-13, it-10)
+aux(everything-13, will-11)
+cop(everything-13, be-12)
+ccomp(sure-9, everything-13)
+dobj(expected-15, everything-13)
+nsubj(expected-15, I-14)
+rcmod(everything-13, expected-15)
+
+=========
+
+nsubj(coming-3, pictures-1)
+aux(coming-3, are-2)
+root(ROOT-0, coming-3)
+prt(coming-3, out-4)
+amod(detail-7, greater-6)
+prep_with(coming-3, detail-7)
+mark(thought-10, than-8)
+nsubj(thought-10, I-9)
+advcl(coming-3, thought-10)
+nsubj(would-12, they-11)
+ccomp(thought-10, would-12)
+advmod(zooming-15, even-13)
+advmod(zooming-15, when-14)
+ccomp(would-12, zooming-15)
+det(picture-18, a-17)
+prep_in(zooming-15, picture-18)
+det(PC-21, the-20)
+prep_from(picture-18, PC-21)
+

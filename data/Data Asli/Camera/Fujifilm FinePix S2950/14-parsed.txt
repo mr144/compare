@@ -1,0 +1,44 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+prepc_for(bought-2, taking-5)
+det(pictures-7, some-6)
+dobj(taking-5, pictures-7)
+
+=========
+
+nsubj(looks-2, It-1)
+root(ROOT-0, looks-2)
+acomp(looks-2, good-3)
+poss(price-6, its-5)
+prep_for(good-3, price-6)
+
+=========
+
+det(picture-2, The-1)
+nsubj(nice-4, picture-2)
+cop(nice-4, are-3)
+root(ROOT-0, nice-4)
+prep_from(nice-4, it-6)
+advmod(camera-12, even-7)
+dep(camera-12, though-8)
+nsubj(camera-12, it-9)
+cop(camera-12, is-10)
+amod(camera-12, cheap-11)
+ccomp(nice-4, camera-12)
+
+=========
+
+nsubj(gave-2, I-1)
+root(ROOT-0, gave-2)
+dobj(gave-2, it-3)
+poss(parents-6, my-5)
+prep_to(gave-2, parents-6)
+mark(taking-10, so-7)
+nsubj(taking-10, they-8)
+aux(taking-10, are-9)
+advcl(gave-2, taking-10)
+dobj(taking-10, pictures-11)
+

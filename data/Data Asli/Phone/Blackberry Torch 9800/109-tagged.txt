@@ -1,0 +1,2 @@
+Does_NNP anyone_NN know_VBP if_IN this_DT phone_NN also_RB carries_VBZ a_DT GPS_NNP ?_.
+I_PRP like_VBP it_PRP based_VBN on_IN everyone_NN 's_POS positive_JJ feedback_NN but_CC would_MD like_VB to_TO know_VB if_IN it_PRP carries_VBZ a_DT GPS_NNP accessibility_NN !_.

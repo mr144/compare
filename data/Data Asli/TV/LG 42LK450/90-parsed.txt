@@ -1,0 +1,66 @@
+=========
+
+nsubj(tv-5, this-1)
+cop(tv-5, is-2)
+det(tv-5, a-3)
+amod(tv-5, great-4)
+root(ROOT-0, tv-5)
+
+=========
+
+det(quality-3, the-1)
+nn(quality-3, picture-2)
+nsubj(amazing-5, quality-3)
+cop(amazing-5, is-4)
+root(ROOT-0, amazing-5)
+advmod(breaks-11, even-7)
+dep(breaks-11, though-8)
+det(sound-10, the-9)
+nsubj(breaks-11, sound-10)
+advcl(has-15, breaks-11)
+advmod(breaks-11, sometimes-12)
+nsubj(has-15, it-14)
+conj_and(amazing-5, has-15)
+det(quality-19, a-16)
+amod(quality-19, tremendous-17)
+nn(quality-19, sound-18)
+dobj(has-15, quality-19)
+
+=========
+
+nsubj(connected-3, i-1)
+aux(connected-3, have-2)
+root(ROOT-0, connected-3)
+det(tv-5, this-4)
+dobj(connected-3, tv-5)
+poss(ps3-8, my-7)
+prep_to(connected-3, ps3-8)
+poss(working-11, its-10)
+prep_to(connected-3, working-11)
+conj_and(ps3-8, working-11)
+prep_to(connected-3, perfection-13)
+
+=========
+
+det(buttons-2, the-1)
+nsubj(touchscreen-7, buttons-2)
+det(tv-5, the-4)
+prep_on(buttons-2, tv-5)
+cop(touchscreen-7, are-6)
+root(ROOT-0, touchscreen-7)
+
+=========
+
+nsubj(amazing-4, it-1)
+cop(amazing-4, is-2)
+advmod(amazing-4, just-3)
+root(ROOT-0, amazing-4)
+dobj(discover-8, what-5)
+nsubj(discover-8, you-6)
+aux(discover-8, will-7)
+ccomp(amazing-4, discover-8)
+det(tv-10, this-9)
+nsubj(do-12, tv-10)
+aux(do-12, can-11)
+ccomp(discover-8, do-12)
+

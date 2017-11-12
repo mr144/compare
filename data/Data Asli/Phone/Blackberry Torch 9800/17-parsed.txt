@@ -1,0 +1,29 @@
+=========
+
+nsubj(happy-3, I-1)
+cop(happy-3, am-2)
+root(ROOT-0, happy-3)
+det(product-6, the-5)
+prep_with(happy-3, product-6)
+prep_with(happy-3, shipping-8)
+conj_and(product-6, shipping-8)
+parataxis(happy-3, thank-10)
+nsubj(much-13, you-11)
+advmod(much-13, very-12)
+xcomp(thank-10, much-13)
+mark(was-18, because-16)
+nsubj(was-18, it-17)
+parataxis(happy-3, was-18)
+conj_and(thank-10, was-18)
+prep_on(was-18, sale-20)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+nsubj(say-6, nothing-3)
+advmod(nothing-3, more-4)
+aux(say-6, to-5)
+ccomp(have-2, say-6)
+xcomp(have-2, say-6)
+

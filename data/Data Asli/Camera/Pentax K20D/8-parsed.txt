@@ -1,0 +1,32 @@
+=========
+
+nn(Harris-2, Annette-1)
+nsubj(helpful-5, Harris-2)
+cop(helpful-5, was-3)
+advmod(helpful-5, very-4)
+root(ROOT-0, helpful-5)
+ccomp(helpful-5, shipping-6)
+det(camera-8, the-7)
+dobj(shipping-6, camera-8)
+prep_on(camera-8, time-10)
+ccomp(helpful-5, writing-12)
+conj_and(shipping-6, writing-12)
+xcomp(writing-12, giving-13)
+poss(recommendations-16, her-14)
+amod(recommendations-16, personal-15)
+dobj(giving-13, recommendations-16)
+det(camera-19, the-18)
+prep_about(giving-13, camera-19)
+
+=========
+
+det(camera-2, This-1)
+nsubj(better-4, camera-2)
+cop(better-4, is-3)
+root(ROOT-0, better-4)
+prep_than(better-4, fujifilm-6)
+prep_than(better-4, GE-8)
+conj_or(fujifilm-6, GE-8)
+prep_than(better-4, coolpix-10)
+conj_or(fujifilm-6, coolpix-10)
+

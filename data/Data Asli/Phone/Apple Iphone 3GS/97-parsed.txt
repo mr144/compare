@@ -1,0 +1,46 @@
+=========
+
+advmod(able-7, Seriously-1)
+nsubj(able-7, you-3)
+aux(able-7, will-4)
+neg(able-7, not-5)
+cop(able-7, be-6)
+root(ROOT-0, able-7)
+aux(download-9, to-8)
+xcomp(able-7, download-9)
+det(apps-11, any-10)
+dobj(download-9, apps-11)
+
+=========
+
+nsubj(supports-4, ITunes-1)
+advmod(longer-3, no-2)
+advmod(supports-4, longer-3)
+root(ROOT-0, supports-4)
+det(phone-6, this-5)
+dobj(supports-4, phone-6)
+
+=========
+
+advmod(cracked-9, Also-1)
+quantmod(two-4, about-3)
+num(weeks-5, two-4)
+nsubj(cracked-9, weeks-5)
+det(screen-8, the-7)
+prep_in(weeks-5, screen-8)
+root(ROOT-0, cracked-9)
+
+=========
+
+amod(piece-2, Biggest-1)
+nsubj(had-7, piece-2)
+nn(I-5, crap-4)
+prep_of(piece-2, I-5)
+advmod(had-7, ever-6)
+root(ROOT-0, had-7)
+det(misfortune-9, the-8)
+dobj(had-7, misfortune-9)
+nn(money-12, spending-11)
+prep_of(misfortune-9, money-12)
+prep(had-7, on-13)
+

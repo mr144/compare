@@ -1,0 +1,172 @@
+=========
+
+nsubj(replaced-2, This-1)
+root(ROOT-0, replaced-2)
+poss(Lumix-5, our-3)
+amod(Lumix-5, old-4)
+dobj(replaced-2, Lumix-5)
+nsubj(buy-10, we-8)
+aux(buy-10, would-9)
+conj_and(replaced-2, buy-10)
+dobj(buy-10, another-11)
+
+=========
+
+det(one-2, This-1)
+nsubj(feel-4, one-2)
+nsubj(survived-21, one-2)
+aux(feel-4, does-3)
+root(ROOT-0, feel-4)
+det(bit-6, a-5)
+dep(lighter-7, bit-6)
+dobj(feel-4, lighter-7)
+nn(shelled-10, thinner-9)
+appos(lighter-7, shelled-10)
+prep_than(feel-4, one-13)
+prep_from(feel-4, ~-15)
+num(~-15, 2007-16)
+aux(survived-21, has-19)
+advmod(survived-21, thankfully-20)
+conj_but(feel-4, survived-21)
+det(falls-25, a-22)
+amod(falls-25, few-23)
+amod(falls-25, clumsy-24)
+dobj(survived-21, falls-25)
+
+=========
+
+nn(life-2, Battery-1)
+nsubj(excellent-4, life-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+nsubj(fit-12, loads-6)
+prep_of(loads-6, pictures-8)
+prep_of(loads-6, videos-10)
+conj_and(pictures-8, videos-10)
+aux(fit-12, will-11)
+conj_and(excellent-4, fit-12)
+num(card-15, 8GB-14)
+prep_on(fit-12, card-15)
+
+=========
+
+root(ROOT-0, Capable-1)
+amod(pictures-4, good-3)
+prep_of(Capable-1, pictures-4)
+det(hand-8, a-6)
+amod(hand-8, steady-7)
+prep_with(Capable-1, hand-8)
+amod(lighting-11, proper-10)
+prep_with(Capable-1, lighting-11)
+conj_and(hand-8, lighting-11)
+
+=========
+
+nsubj(quick-2, Pretty-1)
+nsubj(shoot-6, Pretty-1)
+root(ROOT-0, quick-2)
+prep_for(quick-2, point-4)
+conj_and(quick-2, shoot-6)
+nsubj(delay-11, flash-9)
+aux(delay-11, can-10)
+conj_but(quick-2, delay-11)
+dobj(delay-11, shots-12)
+partmod(delay-11, causing-14)
+xcomp(delay-11, causing-14)
+nsubj(miss-17, you-15)
+aux(miss-17, to-16)
+xcomp(causing-14, miss-17)
+amod(action-21, smiles-18)
+conj_or(smiles-18, other-20)
+amod(action-21, other-20)
+dobj(miss-17, action-21)
+
+=========
+
+amod(zoom-2, Incredible-1)
+nsubj(use-8, zoom-2)
+amod(modes-5, more-4)
+conj_and(zoom-2, modes-5)
+nsubj(use-8, modes-5)
+prep_than(modes-5, we-7)
+root(ROOT-0, use-8)
+
+=========
+
+advmod(like-9, Obviously-1)
+neg(capable-3, not-2)
+nsubj(like-9, capable-3)
+amod(shots-8, instant-5)
+conj_or(instant-5, rapid-7)
+amod(shots-8, rapid-7)
+prep_of(capable-3, shots-8)
+root(ROOT-0, like-9)
+det(SLR-11, an-10)
+dobj(like-9, SLR-11)
+
+=========
+
+amod(feature-2, Best-1)
+nsubj(sound-5, feature-2)
+cop(sound-5, is-3)
+amod(sound-5, excellent-4)
+root(ROOT-0, sound-5)
+nn(recording-8, video-7)
+conj_and(sound-5, recording-8)
+
+=========
+
+amod(capacity-2, Great-1)
+nsubj(slice-17, capacity-2)
+nsubj(dice-19, capacity-2)
+amod(high-5, clear-4)
+amod(videos-7, high-5)
+nn(videos-7, definition-6)
+prep_for(capacity-2, videos-7)
+number(10-9, &#60;-8)
+num(minutes-10, 10-9)
+dep(long-11, minutes-10)
+amod(videos-7, long-11)
+dobj(can-15, which-13)
+rel(can-15, which-13)
+nsubj(can-15, we-14)
+rcmod(videos-7, can-15)
+advmod(can-15, then-16)
+root(ROOT-0, slice-17)
+conj_and(slice-17, dice-19)
+prep_on(slice-17, computer-21)
+
+=========
+
+nsubj(have-2, We-1)
+nsubj(need-7, We-1)
+root(ROOT-0, have-2)
+dobj(have-2, toddlers-3)
+aux(need-7, do-5)
+neg(need-7, not-6)
+conj_and(have-2, need-7)
+det(camera-11, a-8)
+amod(camera-11, separate-9)
+nn(camera-11, video-10)
+dobj(need-7, camera-11)
+aux(capture-13, to-12)
+xcomp(need-7, capture-13)
+det(times-15, the-14)
+dobj(capture-13, times-15)
+
+=========
+
+advmod(recorded-2, Also-1)
+root(ROOT-0, recorded-2)
+det(music-5, some-3)
+nn(music-5, family-4)
+nsubj(recorded-2, music-5)
+prep_for(music-5, grandparents-7)
+amod(surpasses-11, sound-9)
+nn(surpasses-11, quality-10)
+nsubj(recorded-2, surpasses-11)
+conj_and(music-5, surpasses-11)
+nn(recorder-14, computer-12)
+nn(recorder-14, sound-13)
+dep(surpasses-11, recorder-14)
+

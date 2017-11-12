@@ -1,0 +1,50 @@
+=========
+
+root(ROOT-0, Espectacular-1)
+
+=========
+
+nn(Product-3, Very-1)
+nn(Product-3, Good-2)
+root(ROOT-0, Product-3)
+
+=========
+
+advmod(have-7, Enjoy-1)
+det(day-5, the-3)
+amod(day-5, first-4)
+prep_from(have-7, day-5)
+nsubj(have-7, i-6)
+root(ROOT-0, have-7)
+dobj(have-7, it-8)
+
+=========
+
+nsubj(gift-4, This-1)
+cop(gift-4, is-2)
+det(gift-4, a-3)
+root(ROOT-0, gift-4)
+poss(son-7, my-6)
+prep_to(gift-4, son-7)
+
+=========
+
+nsubj(happy-4, He-1)
+cop(happy-4, is-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+prep_with(happy-4, it-6)
+
+=========
+
+nsubj(came-2, It-1)
+root(ROOT-0, came-2)
+number(%-5, 100-4)
+amod(aspect-6, %-5)
+prep_in(came-2, aspect-6)
+
+=========
+
+root(ROOT-0, Look-1)
+prep_like(Look-1, new-3)
+

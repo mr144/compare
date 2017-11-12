@@ -1,0 +1,114 @@
+=========
+
+root(ROOT-0, Seemed-1)
+det(phone-5, a-3)
+amod(phone-5, decent-4)
+prep_like(Seemed-1, phone-5)
+
+=========
+
+cc(had-3, But-1)
+nsubj(had-3, I-2)
+xsubj(return-5, I-2)
+root(ROOT-0, had-3)
+aux(return-5, to-4)
+xcomp(had-3, return-5)
+dobj(return-5, it-6)
+
+=========
+
+det(reason-2, The-1)
+nsubj(was-8, reason-2)
+xsubj(avoid-10, reason-2)
+nsubj(bought-4, we-3)
+rcmod(reason-2, bought-4)
+det(phone-7, this-5)
+amod(phone-7, unlocked-6)
+dobj(bought-4, phone-7)
+root(ROOT-0, was-8)
+aux(avoid-10, to-9)
+xcomp(was-8, avoid-10)
+xcomp(avoid-10, paying-11)
+det(plan-15, a-13)
+nn(plan-15, data-14)
+prep_for(paying-11, plan-15)
+prep_from(paying-11, AT&T-17)
+
+=========
+
+cc(turns-3, But-1)
+nsubj(turns-3, it-2)
+root(ROOT-0, turns-3)
+prt(turns-3, out-4)
+complm(feasible-8, that-5)
+cop(feasible-8, is-6)
+neg(feasible-8, not-7)
+ccomp(turns-3, feasible-8)
+
+=========
+
+advmod(long-2, As-1)
+advmod(charge-11, long-2)
+mark(have-5, as-3)
+nsubj(have-5, you-4)
+ccomp(long-2, have-5)
+det(phone-8, a-6)
+amod(phone-8, smart-7)
+dobj(have-5, phone-8)
+nsubj(charge-11, they-10)
+root(ROOT-0, charge-11)
+dobj(charge-11, you-12)
+nn(plan-15, data-14)
+prep_for(charge-11, plan-15)
+
+=========
+
+nsubj(hoping-3, I-1)
+xsubj(use-5, I-1)
+aux(hoping-3, was-2)
+root(ROOT-0, hoping-3)
+aux(use-5, to-4)
+xcomp(hoping-3, use-5)
+det(features-8, the-6)
+amod(features-8, other-7)
+dobj(use-5, features-8)
+prep_like(features-8, WiFi-10)
+amod(applications-14, other-12)
+nn(applications-14, Android-13)
+appos(WiFi-10, applications-14)
+dep(WiFi-10, etc-16)
+det(phone-19, this-18)
+prep_on(use-5, phone-19)
+
+=========
+
+cc(defeated-24, But-1)
+mark(have-4, if-2)
+nsubj(have-4, I-3)
+xsubj(pay-7, I-3)
+advcl(defeated-24, have-4)
+aux(pay-7, to-5)
+advmod(pay-7, still-6)
+xcomp(have-4, pay-7)
+dobj(pay-7, $-8)
+num($-8, $-9)
+prep_to(pay-7, AT&T-11)
+nn(plan-14, data-13)
+prep_for(pay-7, plan-14)
+det(purpose-17, the-16)
+nsubjpass(defeated-24, purpose-17)
+prepc_of(purpose-17, buying-19)
+det(phone-22, an-20)
+amod(phone-22, unlocked-21)
+dobj(buying-19, phone-22)
+auxpass(defeated-24, is-23)
+root(ROOT-0, defeated-24)
+
+=========
+
+advmod(returned-5, Hence-1)
+det(phone-3, the-2)
+nsubjpass(returned-5, phone-3)
+auxpass(returned-5, was-4)
+root(ROOT-0, returned-5)
+

@@ -1,0 +1,88 @@
+=========
+
+nsubj(using-4, I-1)
+aux(using-4, have-2)
+aux(using-4, been-3)
+root(ROOT-0, using-4)
+det(camera-9, an-5)
+amod(camera-9, olympus-6)
+nn(camera-9, Optio-7)
+nn(camera-9, waterproof-8)
+dobj(using-4, camera-9)
+num(years-12, 10-11)
+prep_for(using-4, years-12)
+dep(around-15, all-14)
+advmod(years-12, around-15)
+dep(years-12, reliability-16)
+
+=========
+
+nsubj(wanted-2, I-1)
+xsubj(try-4, I-1)
+nsubj(got-8, I-1)
+root(ROOT-0, wanted-2)
+aux(try-4, to-3)
+xcomp(wanted-2, try-4)
+det(digital-6, another-5)
+dobj(try-4, digital-6)
+conj_and(wanted-2, got-8)
+det(Lumix-10, this-9)
+dobj(got-8, Lumix-10)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+det(quality-9, a-3)
+amod(quality-9, better-4)
+amod(quality-9, zoom-5)
+conj_and(zoom-5, better-7)
+amod(quality-9, better-7)
+nn(quality-9, image-8)
+dobj(has-2, quality-9)
+
+=========
+
+nsubj(camera-6, It-1)
+cop(camera-6, 's-2)
+neg(camera-6, not-3)
+det(camera-6, a-4)
+amod(camera-6, professional-5)
+root(ROOT-0, camera-6)
+nsubj(use-11, I-9)
+advmod(use-11, just-10)
+conj_but(camera-6, use-11)
+dobj(use-11, this-12)
+nn(photos-17, family-14)
+conj_and(family-14, travel-16)
+nn(photos-17, travel-16)
+prep_for(this-12, photos-17)
+
+=========
+
+nsubj(shared-2, I-1)
+root(ROOT-0, shared-2)
+dobj(shared-2, it-3)
+poss(nephew-6, my-5)
+prep_with(shared-2, nephew-6)
+nsubj(enjoyed-10, he-8)
+advmod(enjoyed-10, really-9)
+conj_and(shared-2, enjoyed-10)
+ccomp(enjoyed-10, taking-11)
+dobj(taking-11, photos-12)
+ccomp(enjoyed-10, piecing-14)
+conj_and(taking-11, piecing-14)
+prt(piecing-14, together-15)
+amod(shots-18, great-16)
+nn(shots-18, panorama-17)
+dobj(piecing-14, shots-18)
+prep_of(shots-18, Yosemite-20)
+det(Sierras-23, the-22)
+prep_of(shots-18, Sierras-23)
+conj_and(Yosemite-20, Sierras-23)
+
+=========
+
+root(ROOT-0, Good-1)
+dep(Good-1, camera-2)
+

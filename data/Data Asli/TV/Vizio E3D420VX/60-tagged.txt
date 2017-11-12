@@ -1,0 +1,1 @@
+This_DT 3D_JJ monitor_NN had_VBD a_DT bad_JJ internal_JJ lighting_NN element_NN and_CC the_DT screen_NN had_VBD a_DT black_JJ horizontal_JJ smudge_NN that_WDT could_MD easily_RB be_VB seen_VBN against_IN a_DT light_JJ background_NN scene_NN ._.

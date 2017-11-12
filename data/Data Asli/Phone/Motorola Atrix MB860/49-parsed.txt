@@ -1,0 +1,68 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+poss(way-6, my-5)
+prep_as(bought-2, way-6)
+aux(get-8, to-7)
+infmod(way-6, get-8)
+prep_into(get-8, Smart-phones-10)
+
+=========
+
+nsubj(simple-3, It-1)
+cop(simple-3, is-2)
+root(ROOT-0, simple-3)
+aux(use-5, to-4)
+xcomp(simple-3, use-5)
+dobj(use-5, other-6)
+mark(fan-13, than-7)
+nsubj(fan-13, I-8)
+cop(fan-13, am-9)
+neg(fan-13, not-10)
+det(fan-13, a-11)
+amod(fan-13, huge-12)
+advcl(use-5, fan-13)
+prep_of(fan-13, Moto-blur-15)
+det(screen-19, the-17)
+nn(screen-19, home-18)
+nsubjpass(overtaken-22, screen-19)
+auxpass(overtaken-22, is-20)
+advmod(overtaken-22, rather-21)
+conj_and(simple-3, overtaken-22)
+amod(screens-26, moto-blur-24)
+nn(screens-26, message-25)
+prep_with(overtaken-22, screens-26)
+
+=========
+
+nsubj(is-10, Other-1)
+complm(works-6, that-3)
+det(phone-5, the-4)
+nsubj(works-6, phone-5)
+prepc_than(Other-1, works-6)
+amod(issue-9, fine-7)
+dep(fine-7, one-8)
+dobj(works-6, issue-9)
+root(ROOT-0, is-10)
+complm(tends-14, that-11)
+det(Wi-Fi-13, the-12)
+nsubj(tends-14, Wi-Fi-13)
+xsubj(cut-16, Wi-Fi-13)
+ccomp(is-10, tends-14)
+aux(cut-16, to-15)
+xcomp(tends-14, cut-16)
+prt(cut-16, out-17)
+advmod(odd-20, rather-19)
+amod(times-21, odd-20)
+prep_at(cut-16, times-21)
+
+=========
+
+amod(signal-2, Phone-1)
+nsubj(strong-5, signal-2)
+cop(strong-5, is-3)
+advmod(strong-5, usually-4)
+root(ROOT-0, strong-5)
+

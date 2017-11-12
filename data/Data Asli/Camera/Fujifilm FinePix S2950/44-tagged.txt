@@ -1,0 +1,4 @@
+East_NNP to_TO use_VB ._.
+Have_NNP not_RB used_VBD the_DT more_RBR manually_RB driven_VBN features_NNS ,_, but_CC the_DT built-in_JJ automatic_JJ features_NNS are_VBP straight-forward_JJ and_CC produce_VB lovely_JJ results_NNS ._.
+I_PRP had_VBD to_TO download_VB the_DT operating_NN manual_NN from_IN the_DT FujiPhoto_NNP site_NN ,_, however_RB ,_, as_IN my_PRP$ netbook_NN does_VBZ not_RB have_VB a_DT drive_NN for_IN the_DT CD_NNP roduct_NN package_NN ._.
+A_DT slight_JJ hassle_NN ,_, but_CC one_CD becoming_VBG more_RBR common_JJ with_IN the_DT popularity_NN of_IN netbooks_NNS and_CC tablets_NNS ._.

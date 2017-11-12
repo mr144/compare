@@ -1,0 +1,38 @@
+=========
+
+aux(debating-2, Was-1)
+root(ROOT-0, debating-2)
+det(one-5, this-4)
+prep_between(debating-2, one-5)
+det(kodak-8, a-7)
+prep_between(debating-2, kodak-8)
+conj_and(one-5, kodak-8)
+det(Sanyo-11, a-10)
+prep_between(debating-2, Sanyo-11)
+conj_and(one-5, Sanyo-11)
+amod(type-14, similar-13)
+prep_of(Sanyo-11, type-14)
+
+=========
+
+advmod(decided-2, Finally-1)
+root(ROOT-0, decided-2)
+det(Fuji-5, the-4)
+prep_on(decided-2, Fuji-5)
+
+=========
+
+poss(wife-2, My-1)
+nsubj(loves-3, wife-2)
+nsubj(easy-6, wife-2)
+nsubj(takes-15, wife-2)
+root(ROOT-0, loves-3)
+dobj(loves-3, it-4)
+conj_and(loves-3, easy-6)
+prep_to(easy-6, use-8)
+appos(use-8, lots-10)
+prep_of(lots-10, functions-12)
+conj_and(loves-3, takes-15)
+amod(pictures-17, great-16)
+dobj(takes-15, pictures-17)
+

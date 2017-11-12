@@ -1,0 +1,4 @@
+Very_RB good_JJ camera_NN ._.
+It_PRP has_VBZ all_PDT the_DT features_NNS I_PRP wanted_VBD ._.
+The_DT construction_NN of_IN the_DT body_NN it_PRP is_VBZ not_RB very_RB good_JJ ._.
+And_CC this_DT camera_NN is_VBZ worse_JJR than_IN d7100_CD or_CC olympus_JJ product_NN ._.

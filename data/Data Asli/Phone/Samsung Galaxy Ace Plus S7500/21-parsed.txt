@@ -1,0 +1,27 @@
+=========
+
+advmod(Good-2, very-1)
+dep(Product-3, Good-2)
+root(ROOT-0, Product-3)
+nsubj(love-6, I-5)
+ccomp(Product-3, love-6)
+parataxis(Product-3, love-6)
+poss(cellphone-9, my-7)
+amod(cellphone-9, new-8)
+dobj(love-6, cellphone-9)
+nsubj(Product-3, its-10)
+advmod(amazing-12, so-11)
+amod(its-10, amazing-12)
+advmod(usefull-15, very-14)
+amod(its-10, usefull-15)
+conj_and(amazing-12, usefull-15)
+
+=========
+
+root(ROOT-0, met-1)
+poss(expectations-3, my-2)
+dobj(met-1, expectations-3)
+prep(met-1, by-4)
+pobj(by-4, now-5)
+nsubj(met-1, p-6)
+

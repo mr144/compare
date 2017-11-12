@@ -1,0 +1,48 @@
+=========
+
+nsubj(camera-5, THis-1)
+cop(camera-5, is-2)
+poss(camera-5, my-3)
+amod(camera-5, first-4)
+root(ROOT-0, camera-5)
+advmod(far-8, so-7)
+advmod(camera-5, far-8)
+conj_and(camera-5, far-8)
+nsubj(love-10, I-9)
+ccomp(camera-5, love-10)
+conj_and(camera-5, love-10)
+dobj(love-10, it-11)
+
+=========
+
+nsubj(challenge-4, It-1)
+cop(challenge-4, is-2)
+det(challenge-4, a-3)
+root(ROOT-0, challenge-4)
+nsubj(love-7, i-6)
+xsubj(work-9, i-6)
+conj_but(challenge-4, love-7)
+aux(work-9, to-8)
+xcomp(love-7, work-9)
+prep_with(work-9, cameras-11)
+xcomp(love-7, get-13)
+conj_and(work-9, get-13)
+aux(know-15, to-14)
+xcomp(get-13, know-15)
+dobj(know-15, them-16)
+
+=========
+
+nsubj(love-2, I-1)
+nsubj(learning-6, I-1)
+root(ROOT-0, love-2)
+det(features-4, the-3)
+dobj(love-2, features-4)
+conj_but(love-2, learning-6)
+advmod(learning-6, more-7)
+advmod(learning-6, more-9)
+conj_and(more-7, more-9)
+prep_about(learning-6, it-11)
+det(day-13, every-12)
+dep(it-11, day-13)
+

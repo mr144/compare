@@ -1,0 +1,45 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(DSLR-7, It-1)
+cop(DSLR-7, is-2)
+det(DSLR-7, the-3)
+amod(DSLR-7, best-4)
+nn(DSLR-7, dx-5)
+nn(DSLR-7, format-6)
+root(ROOT-0, DSLR-7)
+advmod(DSLR-7, around-8)
+
+=========
+
+nsubjpass(filled-3, It-1)
+auxpass(filled-3, is-2)
+root(ROOT-0, filled-3)
+amod(features-6, many-5)
+prep_with(filled-3, features-6)
+det(pictures-9, the-8)
+nsubj(great-11, pictures-9)
+cop(great-11, are-10)
+conj_and(filled-3, great-11)
+
+=========
+
+nsubj(hit-8, i-1)
+partmod(i-1, upgraded-2)
+det(D80-5, the-4)
+prep_from(upgraded-2, D80-5)
+prep_from(upgraded-2, Nikon-7)
+conj_and(D80-5, Nikon-7)
+root(ROOT-0, hit-8)
+dobj(hit-8, it-9)
+det(park-13, the-12)
+prep_out_of(hit-8, park-13)
+det(D7100-16, the-15)
+prep_with(park-13, D7100-16)
+

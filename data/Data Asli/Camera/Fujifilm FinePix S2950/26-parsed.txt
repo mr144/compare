@@ -1,0 +1,43 @@
+=========
+
+advmod(far-2, So-1)
+dep(camera-3, far-2)
+root(ROOT-0, camera-3)
+rcmod(camera-3, working-4)
+dobj(working-4, fine-5)
+
+=========
+
+advmod(wish-2, Just-1)
+csubj(come-7, wish-2)
+det(book-5, an-3)
+amod(book-5, instructional-4)
+dobj(wish-2, book-5)
+aux(come-7, had-6)
+root(ROOT-0, come-7)
+det(camera-10, the-9)
+prep_with(come-7, camera-10)
+nsubj(having-13, us-12)
+xsubj(buy-15, us-12)
+prepc_without(come-7, having-13)
+aux(buy-15, to-14)
+xcomp(having-13, buy-15)
+dobj(buy-15, one-16)
+
+=========
+
+advmod(told-11, Also-1)
+aux(nice-5, would-2)
+aux(nice-5, have-3)
+cop(nice-5, been-4)
+csubjpass(told-11, nice-5)
+prep_at(nice-5, time-7)
+prep_of(time-7, purchase-9)
+auxpass(told-11, was-10)
+root(ROOT-0, told-11)
+nsubj(did-13, booklet-12)
+ccomp(told-11, did-13)
+nsubj(come-15, NOT-14)
+ccomp(did-13, come-15)
+prep_with(come-15, purchase-17)
+

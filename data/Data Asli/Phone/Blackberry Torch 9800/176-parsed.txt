@@ -1,0 +1,31 @@
+=========
+
+nsubj(wording-3, i-1)
+cop(wording-3, am-2)
+root(ROOT-0, wording-3)
+advmod(go-9, why-4)
+det(package-6, this-5)
+nsubj(go-9, package-6)
+aux(go-9, did-7)
+neg(go-9, not-8)
+rcmod(wording-3, go-9)
+det(headphone-12, a-11)
+prep_with(go-9, headphone-12)
+
+=========
+
+root(ROOT-0, need-1)
+det(charge-4, any-2)
+amod(charge-4, extra-3)
+dobj(need-1, charge-4)
+aux(get-6, to-5)
+xcomp(need-1, get-6)
+dobj(get-6, it-7)
+
+=========
+
+nsubj(are-2, others-1)
+root(ROOT-0, are-2)
+ccomp(are-2, find-3)
+dobj(find-3, =-4)
+

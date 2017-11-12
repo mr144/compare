@@ -1,0 +1,31 @@
+=========
+
+nsubj(factory-4, This-1)
+cop(factory-4, is-2)
+det(factory-4, a-3)
+root(ROOT-0, factory-4)
+partmod(factory-4, locked-5)
+dobj(locked-5, phone-6)
+prep_for(phone-6, AT&T-8)
+
+=========
+
+advmod(is-4, Now-1)
+det(phone-3, the-2)
+nsubj(is-4, phone-3)
+root(ROOT-0, is-4)
+det(country-7, another-6)
+prep_in(is-4, country-7)
+nn(useless-10, COMPLETELY-9)
+prep_in(is-4, useless-10)
+conj_and(country-7, useless-10)
+mark(pay-13, unless-11)
+nsubj(pay-13, I-12)
+advcl(is-4, pay-13)
+det(fee-16, some-14)
+amod(fee-16, outrageous-15)
+dobj(pay-13, fee-16)
+aux(unlock-18, to-17)
+infmod(fee-16, unlock-18)
+dobj(unlock-18, it-19)
+

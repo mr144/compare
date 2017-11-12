@@ -1,0 +1,59 @@
+=========
+
+det(phone-2, The-1)
+nsubj(is-3, phone-2)
+ccomp(works-8, is-3)
+amod(condition-6, perfect-5)
+prep_in(is-3, condition-6)
+root(ROOT-0, works-8)
+advmod(well-10, very-9)
+advmod(works-8, well-10)
+det(company-13, the-12)
+prep_for(works-8, company-13)
+nn(Venezuela-15, Movistar-14)
+nsubj(works-8, Venezuela-15)
+
+=========
+
+det(functions-2, All-1)
+nsubj(working-4, functions-2)
+aux(working-4, are-3)
+root(ROOT-0, working-4)
+advmod(working-4, well-5)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, only-2)
+dobj(seen-6, problem-3)
+nsubj(battery-9, problem-3)
+nsubj(seen-6, I-4)
+aux(seen-6, have-5)
+rcmod(problem-3, seen-6)
+cop(battery-9, is-7)
+det(battery-9, the-8)
+root(ROOT-0, battery-9)
+mark(discharges-12, as-10)
+nsubj(discharges-12, it-11)
+advcl(battery-9, discharges-12)
+advmod(fast-14, very-13)
+advmod(discharges-12, fast-14)
+prep(discharges-12, even-15)
+dep(even-15, when-16)
+neg(in-18, not-17)
+dep(when-16, in-18)
+pobj(in-18, use-19)
+det(application-22, any-21)
+prep_by(discharges-12, application-22)
+
+=========
+
+det(rest-3, the-2)
+prep_for(fascinated-8, rest-3)
+nsubj(fascinated-8, I-5)
+cop(fascinated-8, am-6)
+advmod(fascinated-8, very-7)
+root(ROOT-0, fascinated-8)
+det(cell-11, the-10)
+prep_with(fascinated-8, cell-11)
+

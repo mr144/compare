@@ -1,0 +1,31 @@
+=========
+
+nsubj(simple-4, It-1)
+cop(simple-4, 's-2)
+det(simple-4, a-3)
+root(ROOT-0, simple-4)
+aux(operate-6, to-5)
+infmod(simple-4, operate-6)
+det(pictures-8, the-7)
+nsubj(standing-11, pictures-8)
+aux(standing-11, are-9)
+advmod(standing-11, out-10)
+ccomp(operate-6, standing-11)
+ccomp(standing-11, buy-12)
+dobj(buy-12, one-13)
+
+=========
+
+nsubj(need-4, You-1)
+aux(need-4, do-2)
+neg(need-4, not-3)
+root(ROOT-0, need-4)
+det(lot-6, a-5)
+dobj(need-4, lot-6)
+prep_of(lot-6, money-8)
+nsubj(invetment-13, it-9)
+cop(invetment-13, is-10)
+det(invetment-13, a-11)
+amod(invetment-13, good-12)
+rcmod(lot-6, invetment-13)
+

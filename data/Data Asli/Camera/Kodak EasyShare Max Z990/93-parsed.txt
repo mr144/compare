@@ -1,0 +1,125 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+det(camera-4, this-3)
+dobj(purchased-2, camera-4)
+amod(bundle-7, w\/the-6)
+appos(camera-4, bundle-7)
+prep_from(purchased-2, Amazon-10)
+det(months-13, a-11)
+amod(months-13, few-12)
+npadvmod(ago-14, months-13)
+advmod(purchased-2, ago-14)
+nsubj(pleased-20, I-17)
+cop(pleased-20, am-18)
+advmod(pleased-20, quite-19)
+conj_and(purchased-2, pleased-20)
+prep_with(pleased-20, it-22)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+amod(features-5, many-3)
+amod(features-5, great-4)
+dobj(has-2, features-5)
+amod(recognition-8, facial-7)
+prep_like(features-5, recognition-8)
+appos(recognition-8, Easyshare-10)
+det(feature-14, the-13)
+nsubj(effects-21, feature-14)
+nsubj(love-16, I-15)
+rcmod(feature-14, love-16)
+det(most-18, the-17)
+dobj(love-16, most-18)
+cop(effects-21, is-19)
+det(effects-21, the-20)
+conj_but(has-2, effects-21)
+dobj(provides-24, effects-21)
+det(camera-23, the-22)
+nsubj(provides-24, camera-23)
+rcmod(effects-21, provides-24)
+nn(enthusiasts-27, film-26)
+prep_for(provides-24, enthusiasts-27)
+
+=========
+
+nsubj(offers-2, It-1)
+nsubj(Kodachrome-27, It-1)
+root(ROOT-0, offers-2)
+nn(effects-4, photo-3)
+dobj(offers-2, effects-4)
+nsubj(mimic-6, effects-4)
+rcmod(effects-4, mimic-6)
+amod(films-9, popular-7)
+nn(films-9, Kodak-8)
+dobj(mimic-6, films-9)
+nn(Ektachrome-18, T-Max-12)
+appos(Ektachrome-18, Tri-X-14)
+appos(Ektachrome-18, Kodacolor-16)
+prep_such_as(films-9, Ektachrome-18)
+dep(least-25, last-22)
+conj_but(least-25, not-24)
+advmod(Kodachrome-27, not-24)
+advmod(Kodachrome-27, least-25)
+ccomp(offers-2, Kodachrome-27)
+conj_and(offers-2, Kodachrome-27)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+iobj(use-2, these-3)
+predet(time-6, all-4)
+det(time-6, the-5)
+dobj(use-2, time-6)
+
+=========
+
+det(camera-2, The-1)
+nsubj(sophisticated-5, camera-2)
+cop(sophisticated-5, is-3)
+advmod(sophisticated-5, very-4)
+root(ROOT-0, sophisticated-5)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+advmod(pops-6, how-3)
+det(flash-5, the-4)
+nsubj(pops-6, flash-5)
+ccomp(like-2, pops-6)
+prt(pops-6, out-7)
+mark(is-10, if-8)
+expl(is-10, there-9)
+advcl(pops-6, is-10)
+neg(is-10, not-11)
+advmod(light-13, enough-12)
+acomp(is-10, light-13)
+det(situation-17, the-15)
+amod(situation-17, given-16)
+prep_in(light-13, situation-17)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, really-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+
+=========
+
+advmod(one-9, Especially-1)
+advmod(one-9, since-3)
+nsubj(one-9, it-4)
+cop(one-9, is-5)
+poss(one-9, Kodak-6)
+amod(one-9, last-8)
+root(ROOT-0, one-9)
+
+=========
+
+

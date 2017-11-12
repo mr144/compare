@@ -1,0 +1,45 @@
+=========
+
+nsubj(compared-2, I-1)
+root(ROOT-0, compared-2)
+det(Inch-7, this-3)
+nn(Inch-7, Sony-4)
+nn(Inch-7, BRAVIA-5)
+num(Inch-7, 40-6)
+dobj(compared-2, Inch-7)
+det(brands-11, all-9)
+amod(brands-11, other-10)
+prep_with(compared-2, brands-11)
+amod(features-14, comparable-13)
+prep_with(compared-2, features-14)
+
+=========
+
+nsubj(has-2, Sony-1)
+root(ROOT-0, has-2)
+det(picture-5, the-3)
+amod(picture-5, best-4)
+dobj(has-2, picture-5)
+nsubj(love-8, I-7)
+conj_and(has-2, love-8)
+det(Sync-11, the-9)
+nn(Sync-11, BRAVIA-10)
+dobj(love-8, Sync-11)
+nsubj(recognizes-13, Sync-11)
+rcmod(Sync-11, recognizes-13)
+poss(receiver-16, my-14)
+nn(receiver-16, Sony-15)
+dobj(recognizes-13, receiver-16)
+nn(player-20, Sony-18)
+nn(player-20, Blu-Ray-19)
+dobj(recognizes-13, player-20)
+conj_and(receiver-16, player-20)
+
+=========
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+advmod(is-2, well-3)
+det(price-6, the-5)
+prep_worth(is-2, price-6)
+

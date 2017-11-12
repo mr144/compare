@@ -1,0 +1,31 @@
+=========
+
+amod(television-2, Great-1)
+root(ROOT-0, television-2)
+cop(bigger-5, seems-4)
+dep(television-2, bigger-5)
+det(inch-9, a-7)
+num(inch-9, 32-8)
+prep_than(bigger-5, inch-9)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(set-3, to-2)
+dep(Easy-1, set-3)
+prt(set-3, up-4)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+det(TV-5, this-4)
+dobj(recommend-3, TV-5)
+nsubj(think-9, I-8)
+conj_and(recommend-3, think-9)
+nsubjpass(priced-13, it-10)
+auxpass(priced-13, was-11)
+advmod(priced-13, fairly-12)
+ccomp(think-9, priced-13)
+

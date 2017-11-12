@@ -1,0 +1,24 @@
+I_PRP switched_VBD from_IN AT&T_NNP to_TO T-Mobile_NNP ,_, and_CC without_IN doing_VBG too_RB much_JJ research_NN ,_, ended_VBD up_RP with_IN the_DT Lumia_NNP 710_CD ._.
+I_PRP was_VBD impressed_VBN immediately_RB by_IN how_WRB smoothly_RB the_DT phone_NN operated_VBD ._.
+Opening_NN apps_NNS or_CC exploring_VBG the_DT phone_NN is_VBZ quick_JJ and_CC easy_JJ ,_, and_CC the_DT tiles_NNS interface_NN is_VBZ visually_RB useful_JJ and_CC easy_JJ to_TO learn_VB ._.
+This_DT phone_NN integrated_VBD completely_RB with_IN my_PRP$ facebook_NN &_CC twitter_NN accounts_NNS and_CC was_VBD remarkably_RB efficient_JJ ._.
+When_WRB a_DT contact_NN was_VBD duplicated_VBN it_PRP was_VBD easy_JJ to_TO merge_VB the_DT data_NNS so_IN the_DT same_JJ person_NN 's_POS name_NN did_VBD not_RB come_VB up_RP multiple_JJ times_NNS ._.
+The_DT phone_NN also_RB used_VBD wireless_NN well_RB ,_, and_CC seemed_VBD fast_RB on_IN 4g_NN ._.
+The_DT camera_NN was_VBD fine_JJ ,_, it_PRP seemed_VBD a_DT little_RB blurry_JJ at_IN times_NNS but_CC I_PRP did_VBD not_RB test_VB it_PRP much_JJ ._.
+It_PRP was_VBD also_RB easy_JJ for_IN me_PRP to_TO find_VB a_DT flashlight_NN app_NN which_WDT is_VBZ essential_JJ for_IN me_PRP ._.
+With_IN all_PDT those_DT positives_NNS ,_, I_PRP eventually_RB discovered_VBD that_IN the_DT negatives_NNS were_VBD dideal-breakers_NNS '_POS for_IN me_PRP ,_, and_CC so_RB I_PRP returned_VBD the_DT phone_NN and_CC got_VBD an_DT android_JJ 2.3_CD phone_NN instead_RB ._.
+Here_RB are_VBP the_DT negatives_NNS for_IN the_DT Lumia_NNP 710_CD :_: The_DT bluetooth_NN is_VBZ barely_RB functional_JJ ._.
+It_PRP apparently_RB pairs_NNS with_IN devices_NNS like_IN earpieces_NNS without_IN a_DT problem_NN ,_, but_CC I_PRP do_VBP not_RB use_VB those_DT ._.
+I_PRP use_VBP bluetooth_JJ to_TO make_VB quick_JJ file_NN transfers_NNS between_IN phones_NNS and_CC laptops_NNS ,_, and_CC Windows_NNP phone_NN does_VBZ not_RB support_VB this_DT action_NN at_IN this_DT time_NN ._.
+My_PRP$ old_JJ Nokia_NNP E63_NNP could_MD do_VB this_DT just_RB fine_JJ -LRB-_-LRB- Symbian_NNP OS_NNP -RRB-_-RRB- so_IN I_PRP was_VBD kind_NN of_IN baffled_VBN that_IN Microsoft_NNP dropped_VBD the_DT ball_NN here_RB ._.
+The_DT Lumia_NNP 710_CD has_VBZ no_DT expandable_JJ storage_NN so_IN I_PRP had_VBD nowhere_RB to_TO use_VB my_PRP$ little_JJ 8gb_JJ mini-sd_JJ card_NN ._.
+While_IN I_PRP should_MD have_VB done_VBN more_RBR careful_JJ research_NN ,_, the_DT sales_NNS tech_NN at_IN T-Mobile_NNP told_VBD me_PRP it_PRP would_MD take_VB my_PRP$ mini-sd_JJ card_NN ._.
+What_WP he_PRP MEANT_NNP was_VBD that_IN the_DT Lumia_NNP 710_CD used_VBD a_DT mini_JJ SIM_NNP card_NN ._.
+I_PRP had_VBD not_RB bought_VBN any_DT of_IN my_PRP$ mp3s_NNS through_IN the_DT Zune_NNP ecosystem_NN so_IN I_PRP could_MD not_RB get_VB the_DT phone_NN to_TO play_VB my_PRP$ mp3s_NNS ._.
+While_IN this_DT might_MD have_VB been_VBN user_NN error_NN ,_, it_PRP certainly_RB was_VBD not_RB functional_JJ enough_RB for_IN me_PRP !_.
+I_PRP managed_VBD to_TO get_VB a_DT mp3_NN on_IN the_DT phone_NN but_CC then_RB could_MD not_RB use_VB it_PRP as_IN a_DT ring-tone_NN either_RB ,_, which_WDT was_VBD mildly_RB annoying_JJ ._.
+So_RB ,_, in_IN conclusion_NN ,_, the_DT Lumia_NNP 710_CD did_VBD lots_NNS of_IN stuff_NN well_RB ,_, and_CC my_PRP$ wife_NN ended_VBD up_RP getting_VBG one_CD ._.
+For_IN me_PRP though_IN ,_, with_IN it_PRP not_RB doing_VBG mp3s_NNS well_RB and_CC not_RB doing_VBG bluetooth_NN well_RB and_CC not_RB having_VBG expandable_JJ memory_NN meant_VBD it_PRP just_RB did_VBD not_RB do_VB the_DT stuff_NN I_PRP need_VBP my_PRP$ cell_NN phone_NN to_TO do_VB ._.
+What_WP 's_VBZ worse_JJR is_VBZ that_IN ,_, after_IN seeing_VBG how_WRB smooth_JJ everything_NN runs_NNS on_IN Windows_NNP phone_NN ,_, my_PRP$ android_NN phone_NN is_VBZ just_RB clunky_JJ ._.
+it_PRP is_VBZ a_DT mytouch_JJ Q_NNP -LRB-_-LRB- LG_NNP ,_, android_NN 2.3_CD -RRB-_-RRB- and_CC it_PRP has_VBZ crashed_VBN a_DT couple_NN of_IN times_NNS ,_, and_CC opens_VBZ some_DT apps_NNS slowly_RB ._.
+I_PRP would_MD pick_VB Windows_NNP phone_NN every_DT time_NN over_IN android_NN if_IN it_PRP would_MD just_RB do_VB everything_NN that_IN people_NNS need_VBP phones_NNS to_TO do_VB !_.

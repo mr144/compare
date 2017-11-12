@@ -1,0 +1,4 @@
+Good_JJ buy_NN !_.
+I_PRP bought_VBD this_DT for_IN one_CD person_NN who_WP is_VBZ very_RB satisfied_JJ ._.
+The_DT phone_NN does_VBZ everything_NN it_PRP is_VBZ supposed_VBN to_TO do_VB ._.
+The_DT only_JJ bad_JJ thing_NN is_VBZ the_DT battery_NN drains_VBZ very_RB fast_RB ._.

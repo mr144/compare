@@ -1,0 +1,34 @@
+=========
+
+nsubj(happy-7, Gift-1)
+prep_for(Gift-1, husband-3)
+nsubj(happy-7, he-4)
+cop(happy-7, seems-5)
+advmod(happy-7, real-6)
+root(ROOT-0, happy-7)
+prep_with(happy-7, it-9)
+
+=========
+
+advmod(usage-7, However-1)
+expl(usage-7, there-2)
+aux(usage-7, has-3)
+neg(usage-7, not-4)
+cop(usage-7, been-5)
+amod(usage-7, enough-6)
+root(ROOT-0, usage-7)
+amod(review-10, approriate-9)
+prep_for(usage-7, review-10)
+
+=========
+
+prep_for(had-6, example-2)
+nsubj(had-6, we-3)
+aux(had-6, have-4)
+neg(had-6, not-5)
+root(ROOT-0, had-6)
+det(photos-8, any-7)
+dobj(had-6, photos-8)
+partmod(photos-8, printed-9)
+prepc_as_of(printed-9, yet-12)
+

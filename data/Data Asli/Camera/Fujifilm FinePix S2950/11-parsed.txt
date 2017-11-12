@@ -1,0 +1,49 @@
+=========
+
+advmod(like-2, Really-1)
+root(ROOT-0, like-2)
+dobj(like-2, it-3)
+
+=========
+
+nsubj(AA-2, Uses-1)
+root(ROOT-0, AA-2)
+dobj(AA-2, batteries-3)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(photos-3, good-2)
+dobj(Takes-1, photos-3)
+
+=========
+
+root(ROOT-0, Small-1)
+conj_and(Small-1, easy-3)
+aux(carry-5, to-4)
+dep(Small-1, carry-5)
+
+=========
+
+aux(pull-3, Does-1)
+neg(pull-3, not-2)
+ccomp(did-13, pull-3)
+poss(neck-6, my-5)
+prep_on(pull-3, neck-6)
+poss(previous-9, my-8)
+prep_as(pull-3, previous-9)
+amod(cameras-12, heavier-11)
+nsubj(did-13, cameras-12)
+root(ROOT-0, did-13)
+
+=========
+
+nsubj(taken-3, I-1)
+aux(taken-3, have-2)
+root(ROOT-0, taken-3)
+amod(photos-5, many-4)
+dobj(taken-3, photos-5)
+xcomp(taken-3, indoors-6)
+nn(flash-8, w\/o-7)
+dobj(indoors-6, flash-8)
+

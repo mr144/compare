@@ -1,0 +1,101 @@
+=========
+
+nsubj(received-2, i-1)
+root(ROOT-0, received-2)
+det(D7100-4, the-3)
+dobj(received-2, D7100-4)
+mwe(than-6, less-5)
+quantmod(a-7, than-6)
+num(week-8, a-7)
+npadvmod(ago-9, week-8)
+advmod(received-2, ago-9)
+nsubj(perfect-13, everything-11)
+cop(perfect-13, is-12)
+conj_and(received-2, perfect-13)
+
+=========
+
+det(upgrade-3, A-1)
+amod(upgrade-3, great-2)
+root(ROOT-0, upgrade-3)
+det(D3X00-6, a-5)
+prep_to(upgrade-3, D3X00-6)
+prep_to(upgrade-3, D5X00-8)
+conj_or(D3X00-6, D5X00-8)
+
+=========
+
+root(ROOT-0, sharp-1)
+det(needle-4, a-3)
+prep_as(sharp-1, needle-4)
+
+=========
+
+amod(focus-3, quick-1)
+nn(focus-3, aufo-2)
+root(ROOT-0, focus-3)
+conj_and(focus-3, overall-5)
+amod(focus-3, amazing-6)
+
+=========
+
+nsubj(put-5, i-1)
+aux(put-5, can-2)
+neg(put-5, not-3)
+advmod(put-5, even-4)
+root(ROOT-0, put-5)
+prt(put-5, down-6)
+prep_in(put-5, words-8)
+advmod(great-10, how-9)
+dobj(is-15, great-10)
+rel(is-15, great-10)
+det(camera-13, a-12)
+prep_of(great-10, camera-13)
+nsubj(is-15, this-14)
+rcmod(words-8, is-15)
+
+=========
+
+dep(performance-3, absolutely-1)
+nn(performance-3, suberb-2)
+root(ROOT-0, performance-3)
+
+=========
+
+poss(lightweight-2, its-1)
+nsubj(has-6, lightweight-2)
+appos(lightweight-2, sturdy-4)
+root(ROOT-0, has-6)
+det(innovations-9, the-7)
+amod(innovations-9, latest-8)
+dobj(has-6, innovations-9)
+prep_in(innovations-9, technology-11)
+
+=========
+
+nsubj(recommend-3, i-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+prep_to(recommend-3, anyone-5)
+prep_to(recommend-3, everyone-7)
+conj_and(anyone-5, everyone-7)
+xcomp(recommend-3, wanting-8)
+det(nikon-14, a-9)
+dep(professional-11, more-10)
+amod(nikon-14, professional-11)
+nn(nikon-14, DX-12)
+nn(nikon-14, body-13)
+dobj(wanting-8, nikon-14)
+
+=========
+
+amod(line-2, bottom-1)
+root(ROOT-0, line-2)
+
+=========
+
+nsubj(outdone-3, nikon-1)
+aux(outdone-3, has-2)
+root(ROOT-0, outdone-3)
+dobj(outdone-3, themselves-4)
+

@@ -1,0 +1,43 @@
+=========
+
+nsubj(perfect-3, this-1)
+cop(perfect-3, is-2)
+root(ROOT-0, perfect-3)
+poss(needs-6, my-5)
+prep_for(perfect-3, needs-6)
+
+=========
+
+advmod(nice-2, very-1)
+amod(fit-3, nice-2)
+root(ROOT-0, fit-3)
+amod(options-6, great-5)
+conj_and(fit-3, options-6)
+
+=========
+
+nsubj(did-2, i-1)
+root(ROOT-0, did-2)
+det(lot-4, a-3)
+dobj(did-2, lot-4)
+prep_of(lot-4, reaserch-6)
+amod(phones-9, smart-8)
+prep_on(reaserch-6, phones-9)
+rel(needed-13, what-11)
+dobj(needed-23, what-11)
+nsubj(needed-13, i-12)
+prep_of(lot-4, needed-13)
+conj_and(reaserch-6, needed-13)
+rcmod(reaserch-6, needed-13)
+poss(applications-16, my-15)
+prep_for(needed-13, applications-16)
+det(everything-20, this-18)
+nn(everything-20, fit-19)
+prep_for(needed-13, everything-20)
+conj_and(applications-16, everything-20)
+complm(needed-23, that-21)
+nsubj(needed-23, i-22)
+ccomp(needed-13, needed-23)
+dobj(needed-23, it-24)
+prep(needed-23, for-25)
+

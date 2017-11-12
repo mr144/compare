@@ -1,0 +1,3 @@
+I_PRP love_VBP my_PRP$ phone_NN !_.
+it_PRP has_VBZ both_DT touch_NN screen_NN and_CC the_DT keypad_NN ._.
+its_PRP$ sleek_JJ and_CC not_RB a_DT hassle_NN to_TO use_VB at_IN all_DT !_.

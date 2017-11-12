@@ -1,0 +1,28 @@
+=========
+
+advmod(had-3, Wish-1)
+nsubj(had-3, it-2)
+root(ROOT-0, had-3)
+det(connection-7, a-4)
+nn(connection-7, HDMI-5)
+nn(connection-7, ARC-6)
+dobj(had-3, connection-7)
+prep(connection-7, but-8)
+advmod(great-10, otherwise-9)
+amod(quality-12, great-10)
+nn(quality-12, image-11)
+dep(but-8, quality-12)
+
+=========
+
+nsubj(easy-4, It-1)
+xsubj(set-6, It-1)
+cop(easy-4, is-2)
+advmod(easy-4, quite-3)
+root(ROOT-0, easy-4)
+aux(set-6, to-5)
+xcomp(easy-4, set-6)
+prt(set-6, up-7)
+xcomp(easy-4, use-9)
+conj_and(set-6, use-9)
+

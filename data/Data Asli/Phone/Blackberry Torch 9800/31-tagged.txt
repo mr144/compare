@@ -1,0 +1,3 @@
+I_PRP am_VBP from_IN argentina_NN and_CC since_IN I_PRP have_VBP received_VBN the_DT product_NN it_PRP works_VBZ fantastic_JJ ._.
+It_PRP is_VBZ just_RB what_WP I_PRP have_VBP imagined_VBN and_CC expected_VBN ._.
+The_DT only_JJ thing_NN that_WDT did_VBD not_RB work_NN was_VBD the_DT charger_NN but_CC as_IN I_PRP had_VBD one_CD I_PRP did_VBD not_RB care_VB much_RB about_IN it_PRP ._.

@@ -1,0 +1,28 @@
+=========
+
+root(ROOT-0, thank-1)
+nn(people-3, U-2)
+dobj(thank-1, people-3)
+nsubj(is-5, it-4)
+dep(thank-1, is-5)
+dep(is-5, was-6)
+dep(Im-8, what-7)
+nsubj(was-6, Im-8)
+dep(Im-8, looking-9)
+dep(In-12, for-10)
+dep(looking-9, In-12)
+amod(conditions-14, excelent-13)
+pobj(In-12, conditions-14)
+
+=========
+
+nsubj(delivere-2, Perfect-1)
+root(ROOT-0, delivere-2)
+nsubj(love-8, brand-4)
+amod(brand-4, new-5)
+nsubj(love-8, I-7)
+parataxis(delivere-2, love-8)
+dobj(love-8, it-9)
+amod(product-12, nice-11)
+dobj(delivere-2, product-12)
+

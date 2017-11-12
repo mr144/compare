@@ -1,0 +1,24 @@
+=========
+
+nsubj(m-3, I-1)
+root(ROOT-0, m-3)
+acomp(m-3, glad-4)
+poss(camera-9, my-6)
+amod(camera-9, new-7)
+nn(camera-9, Nikon-8)
+prep_with(glad-4, camera-9)
+partmod(camera-9, purchased-10)
+prep_at(purchased-10, amazon-12)
+
+=========
+
+nsubj(is-2, it-1)
+root(ROOT-0, is-2)
+dep(expected-5, what-3)
+nsubj(expected-5, I-4)
+ccomp(is-2, expected-5)
+advmod(bought-8, when-6)
+nsubj(bought-8, I-7)
+advcl(expected-5, bought-8)
+dobj(bought-8, it-9)
+

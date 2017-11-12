@@ -1,0 +1,6 @@
+The_DT phone_NN arrived_VBD promptly_RB and_CC in_IN good_JJ condition_NN ._.
+Initially_RB it_PRP worked_VBD great_JJ until_IN I_PRP tried_VBD to_TO upload_VB apps_NNS ,_, pics_NNS ,_, and_CC contacts_NNS ._.
+It_PRP then_RB became_VBD frozen_JJ ._.
+I_PRP have_VBP taken_VBN it_PRP to_TO both_DT an_DT AT&T_NNP store_NN and_CC the_DT Apple_NNP store_NN ._.
+Neither_DT store_NN was_VBD able_JJ to_TO restore_VB it_PRP ._.
+I_PRP have_VBP an_DT appointment_NN this_DT weekend_NN for_IN additional_JJ repairs_NNS to_TO try_VB and_CC restore_VB the_DT phone_NN ._.

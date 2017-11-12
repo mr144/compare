@@ -1,0 +1,28 @@
+=========
+
+nsubj(camara-5, This-1)
+cop(camara-5, is-2)
+det(camara-5, a-3)
+amod(camara-5, small-4)
+root(ROOT-0, camara-5)
+nsubj(has-7, camara-5)
+nsubj(take-12, camara-5)
+rcmod(camara-5, has-7)
+amod(functions-9, great-8)
+dobj(has-7, functions-9)
+rcmod(camara-5, take-12)
+conj_and(has-7, take-12)
+amod(pictures-14, beautiful-13)
+dobj(take-12, pictures-14)
+
+=========
+
+poss(price-3, its-2)
+prep_for(incredible-6, price-3)
+nsubj(incredible-6, its-5)
+root(ROOT-0, incredible-6)
+dobj(do-10, what-7)
+nsubj(do-10, it-8)
+aux(do-10, can-9)
+ccomp(incredible-6, do-10)
+

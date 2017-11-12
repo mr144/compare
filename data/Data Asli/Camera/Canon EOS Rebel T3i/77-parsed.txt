@@ -1,0 +1,39 @@
+=========
+
+det(camera-2, This-1)
+nsubj(easy-5, camera-2)
+nsubj(has-9, camera-2)
+cop(easy-5, is-3)
+advmod(easy-5, so-4)
+root(ROOT-0, easy-5)
+aux(use-7, to-6)
+xcomp(easy-5, use-7)
+conj_and(easy-5, has-9)
+det(results-12, the-10)
+amod(results-12, best-11)
+dobj(has-9, results-12)
+
+=========
+
+advmod(than-2, More-1)
+advmod(expected-4, than-2)
+nsubj(expected-4, I-3)
+root(ROOT-0, expected-4)
+
+=========
+
+nsubj(bought-4, I-1)
+aux(bought-4, should-2)
+aux(bought-4, have-3)
+root(ROOT-0, bought-4)
+iobj(bought-4, this-5)
+det(time-8, a-6)
+amod(time-8, long-7)
+dobj(bought-4, time-8)
+advmod(time-8, ago-9)
+prepc_instead_of(time-8, thinking-12)
+prt(thinking-12, about-13)
+dobj(thinking-12, it-14)
+advmod(long-16, so-15)
+advmod(thinking-12, long-16)
+

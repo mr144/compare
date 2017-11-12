@@ -1,0 +1,128 @@
+=========
+
+nsubj(shopping-3, I-1)
+aux(shopping-3, was-2)
+root(ROOT-0, shopping-3)
+det(camera-9, a-5)
+amod(camera-9, decent-6)
+amod(camera-9, micro-7)
+num(camera-9, 4\/3-8)
+prep_around(shopping-3, camera-9)
+
+=========
+
+root(ROOT-0, Read-1)
+det(lot-3, a-2)
+dobj(Read-1, lot-3)
+prep_of(lot-3, reviews-5)
+advmod(tried-8, even-7)
+conj_and(Read-1, tried-8)
+dobj(tried-8, several-9)
+det(arrivals-13, the-11)
+amod(arrivals-13, new-12)
+prep_of(several-9, arrivals-13)
+
+=========
+
+aux(used-2, Having-1)
+dep(knew-10, used-2)
+det(PL1-5, an-3)
+nn(PL1-5, E-4)
+dobj(used-2, PL1-5)
+det(past-8, the-7)
+prep_in(PL1-5, past-8)
+nsubj(knew-10, I-9)
+root(ROOT-0, knew-10)
+det(quality-13, the-12)
+prep_about(knew-10, quality-13)
+nn(cameras-17, Olympus-15)
+nn(cameras-17, M43s-16)
+prep_of(quality-13, cameras-17)
+
+=========
+
+mark(looks-5, Although-1)
+det(version-4, the-2)
+amod(version-4, white-3)
+nsubj(looks-5, version-4)
+advcl(feels-15, looks-5)
+det(bit-7, a-6)
+npadvmod(flimsy-8, bit-7)
+acomp(looks-5, flimsy-8)
+acomp(looks-5, plasticky-10)
+conj_and(flimsy-8, plasticky-10)
+prep_at(plasticky-10, times-12)
+nsubj(feels-15, it-14)
+root(ROOT-0, feels-15)
+prep_about(feels-15, right-17)
+poss(hands-20, your-19)
+prep_in(right-17, hands-20)
+nn(quality-23, image-22)
+nsubj(good-26, quality-23)
+cop(good-26, is-24)
+advmod(good-26, really-25)
+conj_and(feels-15, good-26)
+
+=========
+
+advmod(filters-4, Love-1)
+det(art-3, the-2)
+nsubj(filters-4, art-3)
+root(ROOT-0, filters-4)
+complm(loaded-8, that-5)
+nsubj(loaded-8, it-6)
+aux(loaded-8, has-7)
+ccomp(filters-4, loaded-8)
+prt(loaded-8, up-9)
+
+=========
+
+det(lens-5, The-1)
+amod(lens-5, new-2)
+nn(lens-5, Mark-3)
+num(lens-5, 2-4)
+prep_with(comes-7, lens-5)
+nsubj(silent-11, lens-5)
+nsubj(useful-13, lens-5)
+nsubj(comes-7, it-6)
+rcmod(lens-5, comes-7)
+cop(silent-11, is-9)
+advmod(silent-11, really-10)
+root(ROOT-0, silent-11)
+conj_and(silent-11, useful-13)
+dep(throw-20, for-14)
+pobj(for-14, most-15)
+det(jobs-18, the-17)
+prep_of(most-15, jobs-18)
+nsubj(throw-20, you-19)
+ccomp(silent-11, throw-20)
+dobj(throw-20, it-21)
+
+=========
+
+nn(engine-2, JPEG-1)
+nsubj(superb-4, engine-2)
+cop(superb-4, is-3)
+root(ROOT-0, superb-4)
+mark(in-7, as-6)
+advcl(superb-4, in-7)
+amod(Olympuses-9, other-8)
+pobj(in-7, Olympuses-9)
+
+=========
+
+det(quality-5, the-2)
+amod(quality-5, good-3)
+nn(quality-5, image-4)
+prep_for(hard-11, quality-5)
+amod(price-8, discounted-7)
+conj_and(quality-5, price-8)
+prep_for(hard-11, price-8)
+cop(hard-11, is-10)
+root(ROOT-0, hard-11)
+aux(wrong-14, to-12)
+cop(wrong-14, be-13)
+xcomp(hard-11, wrong-14)
+det(Olympus-17, this-16)
+prep_with(wrong-14, Olympus-17)
+

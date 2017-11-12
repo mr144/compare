@@ -1,0 +1,46 @@
+=========
+
+poss(iPhone-2, My-1)
+nsubj(works-3, iPhone-2)
+root(ROOT-0, works-3)
+prep_like(works-3, new-5)
+
+=========
+
+nsubj(looks-2, It-1)
+root(ROOT-0, looks-2)
+advmod(looks-2, better-3)
+det(description-6, the-5)
+prep_than(looks-2, description-6)
+
+=========
+
+nsubj(unlocked-3, Phone-1)
+nsubj(ready-6, Phone-1)
+xsubj(use-8, Phone-1)
+cop(unlocked-3, was-2)
+root(ROOT-0, unlocked-3)
+conj_and(unlocked-3, ready-6)
+aux(use-8, to-7)
+xcomp(unlocked-3, use-8)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+
+=========
+
+nsubj(!!!-9, &-1)
+nsubj(got-3, I-2)
+rcmod(&-1, got-3)
+dobj(got-3, it-4)
+det(price-8, a-6)
+amod(price-8, great-7)
+prep_for(got-3, price-8)
+root(ROOT-0, !!!-9)
+nsubj(recommend-11, I-10)
+ccomp(!!!-9, recommend-11)
+dobj(recommend-11, it-12)
+

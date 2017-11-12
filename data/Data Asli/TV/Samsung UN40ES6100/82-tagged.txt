@@ -1,0 +1,4 @@
+Picture_NNP quality_NN is_VBZ superb_JJ ,_, but_CC the_DT Smart_NNP TV_NN part_NN of_IN it_PRP leaves_VBZ a_DT lot_NN to_TO be_VB desired_VBN ._.
+To_TO stream_NN Netflix_NNP ,_, Hulu_NNP ,_, etc._FW ._.
+a_DT $_$ 99_CD Apple_NNP TV_NNP or_CC Roku_NNP HD_NNP is_VBZ infinitely_RB better_JJR than_IN using_VBG Smart_NNP TV_NNP ._.
+The_DT premium_NN for_IN Smart_NNP TV_NNP is_VBZ just_RB not_RB worth_JJ the_DT extra_JJ $_$ 200_CD -_: $_$ 300_CD

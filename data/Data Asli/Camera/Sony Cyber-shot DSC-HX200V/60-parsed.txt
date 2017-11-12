@@ -1,0 +1,49 @@
+=========
+
+nsubj(love-2, We-1)
+nsubj(recommend-7, We-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+aux(recommend-7, would-6)
+conj_and(love-2, recommend-7)
+dobj(recommend-7, it-8)
+prep_to(recommend-7, all-10)
+nsubj(share-12, all-10)
+rcmod(all-10, share-12)
+det(interest-14, an-13)
+dobj(share-12, interest-14)
+prep_in(interest-14, photography-16)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(use-3, to-2)
+dep(Easy-1, use-3)
+amod(options-8, easy-5)
+aux(understand-7, to-6)
+xcomp(easy-5, understand-7)
+prep_with(use-3, options-8)
+
+=========
+
+det(zoom-3, the-2)
+prep_love(have-9, zoom-3)
+conj_and(zoom-3, that-5)
+prep_love(have-9, that-5)
+nsubj(have-9, we-6)
+xsubj(be-11, we-6)
+xsubj(get-17, we-6)
+aux(have-9, do-7)
+neg(have-9, not-8)
+root(ROOT-0, have-9)
+aux(be-11, to-10)
+xcomp(have-9, be-11)
+prep_on_top_of(be-11, someone-15)
+aux(get-17, to-16)
+xcomp(have-9, get-17)
+det(picture-21, a-18)
+amod(picture-21, good-19)
+nn(picture-21, quality-20)
+dobj(get-17, picture-21)
+

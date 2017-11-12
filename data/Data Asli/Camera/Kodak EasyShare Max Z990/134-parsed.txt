@@ -1,0 +1,155 @@
+=========
+
+root(ROOT-0, Got-1)
+dobj(Got-1, this-2)
+prepc_for(this-2, chaperoning-4)
+det(trip-8, a-5)
+nn(trip-8, jr.-6)
+nn(trip-8, hi-7)
+dobj(chaperoning-4, trip-8)
+prep_to(chaperoning-4, NY-10)
+
+=========
+
+poss(camera-3, My-1)
+amod(camera-3, old-2)
+nsubj(6mp-8, camera-3)
+cop(6mp-8, is-4)
+det(6mp-8, a-5)
+nn(6mp-8, Panasonic-6)
+nn(6mp-8, Lumix-7)
+root(ROOT-0, 6mp-8)
+amod(zoom-13, only-10)
+amod(zoom-13, 6x-11)
+amod(zoom-13, optical-12)
+prep_with(6mp-8, zoom-13)
+
+=========
+
+nsubj(took-2, It-1)
+root(ROOT-0, took-2)
+det(shots-6, some-3)
+advmod(nice-5, very-4)
+amod(shots-6, nice-5)
+dobj(took-2, shots-6)
+nsubj(wanted-10, I-9)
+conj_but(took-2, wanted-10)
+advmod(zoom-12, more-11)
+acomp(wanted-10, zoom-12)
+
+=========
+
+advmod(easy-2, Very-1)
+root(ROOT-0, easy-2)
+aux(set-4, to-3)
+dep(easy-2, set-4)
+prt(set-4, up-5)
+
+=========
+
+root(ROOT-0, Lots-1)
+prepc_of(Lots-1, settings-3)
+aux(play-5, to-4)
+xcomp(settings-3, play-5)
+prt(play-5, around-6)
+prep(play-5, with-7)
+advmod(settings-3, still-9)
+dep(settings-3, playing-10)
+prep_with(playing-10, it-12)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(great-4, zoom-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+mark(say-9, as-7)
+nsubj(say-9, others-8)
+advcl(best-20, say-9)
+mark(using-14, if-11)
+nsubj(using-14, you-12)
+aux(using-14, are-13)
+advcl(best-20, using-14)
+amod(zoom-16, maximum-15)
+dobj(using-14, zoom-16)
+nsubj(best-20, it-18)
+xsubj(using-23, it-18)
+cop(best-20, is-19)
+conj_but(great-4, best-20)
+aux(using-23, to-21)
+aux(using-23, be-22)
+xcomp(best-20, using-23)
+det(tripod-25, a-24)
+dobj(using-23, tripod-25)
+det(shot-29, a-27)
+amod(shot-29, steady-28)
+prep_for(tripod-25, shot-29)
+
+=========
+
+advmod(shot-2, Also-1)
+root(ROOT-0, shot-2)
+det(video-5, some-3)
+nn(video-5, HD-4)
+nsubj(shot-2, video-5)
+prep_with(video-5, it-7)
+
+=========
+
+advmod(nice-2, Very-1)
+amod(quality-6, nice-2)
+conj_and(nice-2, okay-4)
+amod(quality-6, okay-4)
+amod(quality-6, audio-5)
+root(ROOT-0, quality-6)
+
+=========
+
+nsubj(like-2, I-1)
+ccomp(get-15, like-2)
+nsubj(using-4, it-3)
+dep(like-2, using-4)
+nn(batteries-6, AA-5)
+dobj(using-4, batteries-6)
+mark(dies-11, if-8)
+det(set-10, a-9)
+nsubj(dies-11, set-10)
+advcl(like-2, dies-11)
+nsubj(get-15, you-13)
+aux(get-15, can-14)
+root(ROOT-0, get-15)
+advmod(anywhere-17, more-16)
+advmod(get-15, anywhere-17)
+advmod(get-15, no-19)
+dep(no-19, waiting-20)
+det(recharge-23, a-22)
+prep_for(waiting-20, recharge-23)
+
+=========
+
+advmod(picked-5, Also-1)
+nsubj(picked-5, I-3)
+advmod(picked-5, recently-4)
+root(ROOT-0, picked-5)
+prt(picked-5, up-6)
+det(remote-8, the-7)
+dobj(picked-5, remote-8)
+prep_for(picked-5, clearance-10)
+prep_at(picked-5, $-12)
+num($-12, 4-13)
+det(name-17, a-15)
+amod(name-17, big-16)
+prep_at($-12, name-17)
+nn(store-20, electronics-19)
+appos(name-17, store-20)
+
+=========
+
+advmod(happy-6, Overall-1)
+nsubj(happy-6, I-3)
+cop(happy-6, am-4)
+advmod(happy-6, very-5)
+root(ROOT-0, happy-6)
+det(purchase-9, this-8)
+prep_with(happy-6, purchase-9)
+

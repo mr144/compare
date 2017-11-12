@@ -1,0 +1,102 @@
+=========
+
+nn(time-2, Battery-1)
+nsubj(hours-7, time-2)
+cop(hours-7, is-3)
+quantmod(few-6, only-4)
+quantmod(few-6, a-5)
+num(hours-7, few-6)
+root(ROOT-0, hours-7)
+
+=========
+
+nsubj(sort-4, I-1)
+cop(sort-4, am-2)
+det(sort-4, the-3)
+root(ROOT-0, sort-4)
+nsubj(use-10, sort-4)
+nsubj(listen-15, sort-4)
+prep_of(sort-4, person-6)
+aux(use-10, does-8)
+neg(use-10, not-9)
+rcmod(sort-4, use-10)
+dobj(use-10, phone-11)
+advmod(frequqntly-13, very-12)
+amod(phone-11, frequqntly-13)
+rcmod(sort-4, listen-15)
+conj_or(use-10, listen-15)
+nn(videos-20, music-17)
+dep(videos-20, watch-19)
+prep_to(listen-15, videos-20)
+nn(internet-23, surf-22)
+prep_to(listen-15, internet-23)
+conj_or(videos-20, internet-23)
+det(phone-26, the-25)
+prep_over(listen-15, phone-26)
+
+=========
+
+advmod(return-6, Still-1)
+det(team-4, the-3)
+prep_by(return-6, team-4)
+nsubj(return-6, I-5)
+ccomp(dead-15, return-6)
+dobj(return-6, home-7)
+prep_from(return-6, work-9)
+det(battery-12, the-11)
+nsubj(dead-15, battery-12)
+cop(dead-15, is-13)
+advmod(dead-15, already-14)
+root(ROOT-0, dead-15)
+
+=========
+
+det(processor-2, The-1)
+nsubj(slow-6, processor-2)
+cop(slow-6, is-3)
+advmod(slow-6, also-4)
+advmod(slow-6, really-5)
+root(ROOT-0, slow-6)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+det(promotion-6, a-5)
+prep_during(bought-2, promotion-6)
+nsubj(sat-9, it-8)
+conj_and(bought-2, sat-9)
+prt(sat-9, around-10)
+det(months-14, a-12)
+amod(months-14, few-13)
+prep_for(sat-9, months-14)
+mark(started-17, before-15)
+nsubj(started-17, I-16)
+advcl(sat-9, started-17)
+xcomp(started-17, using-18)
+dobj(using-18, it-19)
+
+=========
+
+advmod(am-3, Now-1)
+nsubj(am-3, I-2)
+root(ROOT-0, am-3)
+advmod(am-3, just-4)
+det(date-7, the-6)
+prep_past(am-3, date-7)
+complm(returned-12, that-8)
+nsubj(returned-12, I-9)
+aux(returned-12, could-10)
+aux(returned-12, have-11)
+ccomp(am-3, returned-12)
+dobj(returned-12, it-13)
+
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+det(phone-5, this-4)
+dobj(buy-3, phone-5)
+

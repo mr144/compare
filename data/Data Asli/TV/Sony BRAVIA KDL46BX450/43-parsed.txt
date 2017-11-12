@@ -1,0 +1,35 @@
+=========
+
+amod(television-2, Great-1)
+root(ROOT-0, television-2)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+advmod(sync-6, how-3)
+nn(products-5, Sony-4)
+nsubj(sync-6, products-5)
+ccomp(love-2, sync-6)
+det(other-9, each-8)
+prep_with(sync-6, other-9)
+
+=========
+
+amod(addition-2, Terrific-1)
+root(ROOT-0, addition-2)
+poss(room-6, our-4)
+nn(room-6, TV-5)
+prep_to(addition-2, room-6)
+
+=========
+
+aux(purchase-3, Would-1)
+nsubj(purchase-3, definitely-2)
+root(ROOT-0, purchase-3)
+amod(products-6, more-4)
+nn(products-6, Sony-5)
+dobj(purchase-3, products-6)
+det(future-9, the-8)
+prep_in(purchase-3, future-9)
+

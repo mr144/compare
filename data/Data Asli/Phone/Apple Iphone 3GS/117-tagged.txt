@@ -1,0 +1,10 @@
+The_DT iPhone_NNP 3G_NNP is_VBZ the_DT second_JJ generation_NN of_IN iPhone_NNP ,_, and_CC was_VBD introduced_VBN on_IN June_NNP 9_CD ,_, 2008_CD ._.
+So_RB as_IN of_IN May_NNP 2013_CD ,_, it_PRP is_VBZ a_DT 5_CD year_NN old_JJ device_NN !_.
+It_PRP was_VBD stte_JJ of_IN the_DT art_NN in_IN 2008_CD ,_, not_RB anymore_RB ._.
+It_PRP is_VBZ amazing_JJ it_PRP is_VBZ still_RB in_IN top_JJ 10_CD ._.
+Granted_VBN this_DT is_VBZ unlocked_VBN ,_, but_CC it_PRP will_MD perform_VB really_RB slow_JJ with_IN modern_JJ apps_NNS ._.
+And_CC the_DT battery_NN !_.
+Beware_VB of_IN that_DT also_RB ._.
+If_IN you_PRP are_VBP going_VBG to_TO browse\/email_NN ,_, and_CC yes_RB phone_NN using_VBG this_DT device_NN it_PRP is_VBZ a_DT good_JJ buy_NN after_IN all_DT ._.
+do_VBP not_RB expect_VB to_TO play_VB the_DT high_JJ adrenaline_NN car_NN racing_VBG games_NNS with_IN this_DT phone_NN ._.
+\*_SYM Weight_NNP 133_CD g_NN -LRB-_-LRB- 4.7_CD oz_NN -RRB-_-RRB- \*_NN Operating_NN system_NN iOS_NNP 4.2.1_CD -LRB-_-LRB- build_VB 8C148_NNP -RRB-_-RRB- Released_VBN November_NNP 22_CD ,_, 2010_CD ;_: 2_CD years_NNS ago_IN No_NNP longer_RB supported_VBD ;_: \*_NN CPU_NNP Samsung_NNP 32-bit_JJ RISC_NNP ARM_NNP 620_CD MHz_NNP \*_NN Memory_NN 128_CD MB_NNP eDRAM_NNP \*_NN Battery_NNP 1150_CD mAh_NNP ,_, 3.7_CD V_NNP \*_NN Display_NNP 3.5-inch_JJ screen_NN 320-by-480-pixel_JJ resolution_NN at_IN 163_CD ppi_NN \*_NN Rear_JJ camera_NN 2.0_CD MP_NNP

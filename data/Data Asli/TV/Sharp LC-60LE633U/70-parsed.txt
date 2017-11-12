@@ -1,0 +1,110 @@
+=========
+
+nsubj(purchased-2, I-1)
+nsubj(wanted-10, I-1)
+xsubj(wait-12, I-1)
+root(ROOT-0, purchased-2)
+det(TV-4, this-3)
+dobj(purchased-2, TV-4)
+quantmod(6-6, about-5)
+num(months-7, 6-6)
+npadvmod(ago-8, months-7)
+advmod(purchased-2, ago-8)
+conj_and(purchased-2, wanted-10)
+aux(wait-12, to-11)
+xcomp(wanted-10, wait-12)
+prepc_before(wait-12, writing-14)
+det(review-16, a-15)
+dobj(writing-14, review-16)
+mark(sure-21, so-17)
+nsubj(sure-21, I-18)
+aux(sure-21, could-19)
+cop(sure-21, be-20)
+advcl(writing-14, sure-21)
+prep_of(sure-21, it-23)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(REGRETS-4, NO-3)
+dobj(have-2, REGRETS-4)
+prepc_of(REGRETS-4, purchasing-6)
+det(TV-11, this-7)
+nn(TV-11, Sharp-8)
+nn(TV-11, Aquos-9)
+nn(TV-11, Quattron-10)
+dobj(purchasing-6, TV-11)
+
+=========
+
+advmod(bright-2, Its-1)
+dep(Everyone-12, bright-2)
+conj_and(bright-2, vivid-4)
+dep(Everyone-12, vivid-4)
+det(quality-8, The-6)
+nn(quality-8, picture-7)
+nsubj(Everyone-12, quality-8)
+cop(Everyone-12, is-9)
+amod(Everyone-12, stunning-10)
+amod(Everyone-12, !!-11)
+root(ROOT-0, Everyone-12)
+nsubj(comes-14, Everyone-12)
+rcmod(Everyone-12, comes-14)
+aux(see-16, to-15)
+xcomp(comes-14, see-16)
+det(TV-18, this-17)
+nsubj(is-19, TV-18)
+ccomp(see-16, is-19)
+prep_in(is-19, awe-21)
+poss(picture-25, its-23)
+amod(picture-25, beautiful-24)
+prep_of(awe-21, picture-25)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+advmod(recommend-4, HIGHLY-3)
+root(ROOT-0, recommend-4)
+det(TV-6, this-5)
+dobj(recommend-4, TV-6)
+
+=========
+
+nsubj(spent-2, I-1)
+root(ROOT-0, spent-2)
+quantmod(2-4, about-3)
+num(months-5, 2-4)
+tmod(spent-2, months-5)
+xcomp(spent-2, researching-6)
+det(purchase-8, this-7)
+dobj(researching-6, purchase-8)
+det(day-13, this-12)
+prep_to(feel-15, day-13)
+nsubj(feel-15, I-14)
+conj_and(spent-2, feel-15)
+nsubj(made-17, I-16)
+ccomp(feel-15, made-17)
+det(choice-21, the-18)
+dep(possible-20, best-19)
+amod(choice-21, possible-20)
+dobj(made-17, choice-21)
+
+=========
+
+nsubj(have-2, You-1)
+xsubj(see-4, You-1)
+root(ROOT-0, have-2)
+aux(see-4, to-3)
+xcomp(have-2, see-4)
+nsubj(believe-7, it-5)
+aux(believe-7, to-6)
+xcomp(see-4, believe-7)
+dobj(believe-7, it-8)
+
+=========
+
+dep(Amazing-2, Simply-1)
+root(ROOT-0, Amazing-2)
+

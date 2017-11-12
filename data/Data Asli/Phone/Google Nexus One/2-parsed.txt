@@ -1,0 +1,79 @@
+=========
+
+nsubj(returning-3, I-1)
+aux(returning-3, am-2)
+root(ROOT-0, returning-3)
+det(item-5, this-4)
+dobj(returning-3, item-5)
+
+=========
+
+prepc_out_of(charged-7, of-2)
+det(box-4, the-3)
+pobj(charged-7, box-4)
+advmod(charged-7, fully-6)
+root(ROOT-0, charged-7)
+nn(powers-9, unit-8)
+dobj(charged-7, powers-9)
+dep(abruptly-11, down-10)
+advmod(charged-7, abruptly-11)
+advmod(charged-7, frequently-13)
+conj_and(abruptly-11, frequently-13)
+aux(restart-17, will-15)
+neg(restart-17, not-16)
+conj_and(charged-7, restart-17)
+
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+num(resets-5, two-3)
+nn(resets-5, factory-4)
+dobj(tried-2, resets-5)
+det(avail-8, no-7)
+prep_to(tried-2, avail-8)
+
+=========
+
+nsubj(like-2, Seems-1)
+root(ROOT-0, like-2)
+det(phone-5, a-3)
+amod(phone-5, nice-4)
+dobj(like-2, phone-5)
+nsubj(defective-11, it-8)
+cop(defective-11, is-9)
+advmod(defective-11, clearly-10)
+conj_but(like-2, defective-11)
+
+=========
+
+advmod(missing-6, Additionally-1)
+det(box-4, the-3)
+nsubj(missing-6, box-4)
+aux(missing-6, was-5)
+root(ROOT-0, missing-6)
+amod(headset-9, advertised-7)
+amod(headset-9, wired-8)
+dobj(missing-6, headset-9)
+amod(cable-12, USB-11)
+dobj(missing-6, cable-12)
+conj_and(headset-9, cable-12)
+dobj(missing-6, pouch-15)
+conj_and(headset-9, pouch-15)
+
+=========
+
+nsubj(returned-4, I-1)
+aux(returned-4, have-2)
+neg(returned-4, never-3)
+root(ROOT-0, returned-4)
+dobj(returned-4, anything-5)
+advmod(returned-4, before-6)
+nsubj(rip-off-15, this-9)
+cop(rip-off-15, is-10)
+advmod(rip-off-15, just-11)
+advmod(big-13, too-12)
+amod(rip-off-15, big-13)
+det(rip-off-15, a-14)
+conj_but(returned-4, rip-off-15)
+

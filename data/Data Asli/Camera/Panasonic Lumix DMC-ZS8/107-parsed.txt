@@ -1,0 +1,38 @@
+=========
+
+root(ROOT-0, Excelente-1)
+dobj(Excelente-1, c&aacute;mara-2)
+
+=========
+
+nsubj(marcas-4, He-1)
+nn(otras-3, tenido-2)
+nsubj(marcas-4, otras-3)
+root(ROOT-0, marcas-4)
+nn(Sony-6, como-5)
+nsubj(y-10, Sony-6)
+appos(Sony-6, Canon-8)
+ccomp(marcas-4, y-10)
+dep(suerte-14, no-11)
+nsubj(suerte-14, he-12)
+advmod(suerte-14, tenido-13)
+ccomp(y-10, suerte-14)
+amod(ellas-16, con-15)
+dobj(suerte-14, ellas-16)
+
+=========
+
+nn(estoy-4, Con-1)
+nn(estoy-4, esta-2)
+nn(estoy-4, c&aacute;mara-3)
+dep(muy-5, estoy-4)
+root(ROOT-0, muy-5)
+nn(zoom-9, satisfecha-6)
+dep(zoom-9, buen-8)
+dobj(muy-5, zoom-9)
+num(imagen-14, y-10)
+amod(imagen-14, estabilizaci&oacute;n-11)
+nn(imagen-14, de-12)
+nn(imagen-14, la-13)
+nsubj(muy-5, imagen-14)
+

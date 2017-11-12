@@ -1,0 +1,60 @@
+=========
+
+nsubj(takes-2, Camera-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, great-3)
+dobj(takes-2, pictures-4)
+
+=========
+
+cop(difficult-2, Was-1)
+ccomp(had-8, difficult-2)
+aux(use-4, to-3)
+xcomp(difficult-2, use-4)
+prep_at(use-4, first-6)
+root(ROOT-0, had-8)
+aux(refer-10, to-9)
+xcomp(had-8, refer-10)
+prep_to(refer-10, the-12)
+prep_on(the-12, line-14)
+nsubj(had-8, manuel-15)
+amod(settings-18, proper-17)
+prep_for(manuel-15, settings-18)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+nsubj(postion-10, thing-3)
+nsubj(found-5, I-4)
+rcmod(thing-3, found-5)
+dobj(found-5, fault-6)
+prep(found-5, with-7)
+cop(postion-10, is-8)
+det(postion-10, the-9)
+root(ROOT-0, postion-10)
+det(button-14, the-12)
+amod(button-14, video-13)
+prep_of(postion-10, button-14)
+
+=========
+
+nsubj(recommend-3, I-1)
+nsubj(shoot-20, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(camera-5, this-4)
+dobj(recommend-3, camera-5)
+det(person-8, a-7)
+prep_to(recommend-3, person-8)
+det(exsperience-11, some-10)
+prep_with(person-8, exsperience-11)
+prepc_in(recommend-3, using-13)
+advmod(then-15, more-14)
+advmod(using-13, then-15)
+det(point-18, a-16)
+amod(point-18, straight-17)
+dobj(using-13, point-18)
+conj_and(recommend-3, shoot-20)
+dobj(shoot-20, camera-21)
+

@@ -1,0 +1,112 @@
+=========
+
+nsubj(purchased-3, I-1)
+advmod(purchased-3, just-2)
+root(ROOT-0, purchased-3)
+det(camera-5, this-4)
+dobj(purchased-3, camera-5)
+det(DMC-ZS8-10, a-7)
+nn(DMC-ZS8-10, Panasonic-8)
+nn(DMC-ZS8-10, Lumix-9)
+appos(camera-5, DMC-ZS8-10)
+prepc_after(think-21, shooting-14)
+quantmod(few-17, just-15)
+quantmod(few-17, a-16)
+num(pictures-18, few-17)
+dobj(shooting-14, pictures-18)
+nsubj(think-21, I-20)
+conj_and(purchased-3, think-21)
+complm(winner-26, that-22)
+nsubj(winner-26, it-23)
+cop(winner-26, is-24)
+det(winner-26, a-25)
+ccomp(think-21, winner-26)
+
+=========
+
+det(problem-3, The-1)
+amod(problem-3, only-2)
+dobj(found-6, problem-3)
+nsubj(has-9, problem-3)
+xsubj(do-11, problem-3)
+nsubj(found-6, I-4)
+aux(found-6, have-5)
+rcmod(problem-3, found-6)
+prep_to(found-6, date-8)
+root(ROOT-0, has-9)
+aux(do-11, to-10)
+xcomp(has-9, do-11)
+det(screen-15, the-13)
+nn(screen-15, LCD-14)
+prep_with(do-11, screen-15)
+
+=========
+
+nsubj(reflective-4, It-1)
+cop(reflective-4, is-2)
+advmod(reflective-4, too-3)
+root(ROOT-0, reflective-4)
+
+=========
+
+det(beach-3, the-2)
+prep_at(refelection-21, beach-3)
+det(day-7, a-5)
+amod(day-7, sunny-6)
+prep_on(beach-3, day-7)
+partmod(beach-3, facing-9)
+det(sun-12, the-11)
+prep_toward(facing-9, sun-12)
+dobj(see-17, all-14)
+nsubj(refelection-21, all-14)
+nsubj(see-17, I-15)
+aux(see-17, could-16)
+rcmod(all-14, see-17)
+cop(refelection-21, was-18)
+poss(refelection-21, my-19)
+amod(refelection-21, own-20)
+root(ROOT-0, refelection-21)
+det(LCD-24, the-23)
+prep_in(refelection-21, LCD-24)
+
+=========
+
+csubj(help-9, Shading-1)
+det(screen-3, the-2)
+dobj(Shading-1, screen-3)
+poss(hand-6, my-5)
+prep_with(Shading-1, hand-6)
+aux(help-9, did-7)
+neg(help-9, not-8)
+root(ROOT-0, help-9)
+
+=========
+
+det(camera-2, The-1)
+nsubj(needs-3, camera-2)
+root(ROOT-0, needs-3)
+det(non-refective-5, a-4)
+nsubj(add-6, non-refective-5)
+ccomp(needs-3, add-6)
+nn(cover-9, screen-8)
+prep_on(add-6, cover-9)
+det(type-12, some-11)
+prep_on(add-6, type-12)
+conj_or(cover-9, type-12)
+prep_of(type-12, hood-14)
+
+=========
+
+mark(has-3, If-1)
+nsubj(has-3, anyone-2)
+advcl(like-9, has-3)
+det(suggestions-5, any-4)
+dobj(has-3, suggestions-5)
+nsubj(like-9, I-7)
+xsubj(hear-11, I-7)
+aux(like-9, would-8)
+root(ROOT-0, like-9)
+aux(hear-11, to-10)
+xcomp(like-9, hear-11)
+prep_about(hear-11, them-13)
+

@@ -1,0 +1,4 @@
+I_PRP bought_VBD around_IN 15_CD TCL_NNP TV_NNP 's_POS ,_, Do_VBP not_RB buy_VB this_DT tv_NN ._.
+The_DT remote_JJ control_NN really_RB bad_JJ and_CC tv_NN also_RB really_RB lower_JJR quality_NN ._.
+I_PRP am_VBP not_RB gonna_RB buy_VB again_RB ._.
+Very_RB poor_JJ quality_NN tv_NN ._.

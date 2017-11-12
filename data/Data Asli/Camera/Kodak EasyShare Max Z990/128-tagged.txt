@@ -1,0 +1,69 @@
+As_IN with_IN most_JJS powerful_JJ cameras_NNS there_EX are_VBP 3things_NNS to_TO get_VB right_JJ -_: batteriesz_NN ,_, batteries_NNS ,_, batteries_NNS ._.
+Once_RB I_PRP tossed_VBD the_DT 1800_CD maH_NNP -LRB-_-LRB- like_IN cold_JJ cranking_NN amps_NNS for_IN car_NN batteries_NNS -RRB-_-RRB- and_CC bought_VBD some_DT 3000_CD mah_FW online_FW ,_, The_DT camera_NN has_VBZ never_RB `_`` hung_VBD up_RP '_'' or_CC slowed_VBD down_RB ._.
+Update_NNP -_: when_WRB on_IN day_NN long_JJ shooting_NN events_NNS ,_, I_PRP now_RB have_VBP bought_VBN an_DT external_JJ 5000_CD mAh_NNP Battery_NNP ._.
+It_PRP powers_NNS or_CC recharges_VBZ the_DT camera_NN all_DT day_NN worn_JJ on_IN a_DT strap_NN arund_IN my_PRP$ neck_NN ,_, but_CC will_MD also_RB recharge_VB or_CC extend_VB the_DT life_NN of_IN my_PRP$ Ipad_NN and_CC cell_NN phone_NN or_CC any_DT Usb_JJ port_JJ chargeable_JJ device_NN on_IN long_JJ trips_NNS ._.
+It_PRP is_VBZ not_RB much_RB bigger_JJR than_IN a_DT cell_NN phone_NN itself_PRP but_CC is_VBZ 90_CD %_NN battery_NN inside_NN ._.
+Also_RB ,_, Do_VBP Not_RB use_VB micro_NN sd_NN cards_NNS -_: get_VB a_DT class_NN 10_CD -LRB-_-LRB- fast_RB saves_VBZ -RRB-_-RRB- SD_NNP card_NN ._.
+If_IN you_PRP ever_RB get_VB a_DT corrupted_JJ memory_NN ,_, go_VB to_TO Radio_NNP shack_NN and_CC buy_VB a_DT tube_NN of_IN contact_NN enhancedment_NN liquid_NN ._.
+Put_VB a_DT thin_JJ film_NN on_IN the_DT Sd_NNP card_NN contacts_NNS and_CC transfer_VB it_PRP to_TO the_DT camera_NN by_IN inserting_VBG and_CC removing_VBG the_DT card_NN several_JJ times_NNS ._.
+Do_VBP the_DT same_JJ on_IN your_PRP$ batteries_NNS ,_, and_CC be_VB amazed_VBN at_IN the_DT performance_NN this_DT great_JJ Kodak_NNP swan_NN song_NN camera_NN consistently_RB delivers_VBZ !_.
+HOW2_NNP Create_NNP a_DT high_JJ quality_NN HD_NNP movie_NN from_IN slides_NNS and_CC movies_NNS ,_, and_CC post_VB the_DT resulting_VBG very_RB large_JJ file_NN on_IN the_DT internet_NN for_IN your_PRP$ family_NN and_CC freinds_NNS FOR_IN FREE_NNP using_VBG the_DT Z9901_NNP ._.
+set_NN pictures_NNS to_TO be_VB saved_VBN not_RB as_IN RAW_NNP ,_, but_CC to_TO `_`` fine_JJ '_'' jpeg_NN ._.
+While_IN JPEG_NNP can_MD be_VB `_`` losy_JJ '_'' the_DT fine_JJ setting_NN jpeg_NN is_VBZ the_DT full_JJ 3000x4000_CD -LRB-_-LRB- 12_CD megapixels_NNS -RRB-_-RRB- of_IN a_DT RAW_NNP ,_, and_CC as_IN a_DT bonus_NN ,_, can_MD be_VB used_VBN by_IN movie_NN maker_NN and_CC slide_NN viewing_NN software_NN without_IN problems_NNS .2_CD ._.
+Download_NNP ATube_NNP Catcher_NNP at_IN CNET_NNP or_CC other_JJ free_JJ software_NN distributor_NN who_WP makes_VBZ sure_JJ they_PRP are_VBP malware_NN and_CC virus_NN free_JJ ._.
+It_PRP has_VBZ a_DT `_`` video_NN converter_NN '_'' tab_NN that_WDT will_MD allow_VB you_PRP to_TO fix_VB whatever_WDT is_VBZ wrong_JJ with_IN the_DT Kodak_NNP mp4_CD movies_NNS ,_, and_CC combine_VB the_DT audio_NN and_CC video_NN into_IN a_DT single_JJ file_NN that_WDT is_VBZ fully_RB ._.
+mp4_FW compliant_FW .3_FW ._.
+Download_NNP Windows_NNP movie_NN maker_NN -LRB-_-LRB- it_PRP is_VBZ part_NN of_IN a_DT `_`` five_CD '_'' suite_NN ,_, but_CC you_PRP can_MD choose_VB it_PRP alone_RB if_IN you_PRP want_VBP .4_CD ._.
+Use_VB the_DT cable_NN that_WDT came_VBD with_IN the_DT camera_NN to_TO open_VB the_DT DCIM_NNP file_NN on_IN the_DT camera_NN and_CC download_VB the_DT pix_NN and_CC videos_NNS you_PRP want_VBP to_TO edit_VB into_IN a_DT movie_NN ._.
+YOu_NNP can_MD also_RB -LRB-_-LRB- with_IN camera_NN turned_VBD off_RP -RRB-_-RRB- extract_VB the_DT SDHC_NNP card_NN and_CC use_VB a_DT card_NN reader_NN adapter_NN to_TO open_VB and_CC copy_VB the_DT files_NNS to_TO a_DT folder_NN on_IN your_PRP$ PC_NN ._.
+DO_NNP NOT_NNP erase_VB them_PRP using_VBG the_DT PC_NN -_: use_VBP the_DT camera_NN review_NN and_CC trash_NN functions_NNS to_TO delete_VB the_DT date_NN folders_NNS involved_VBN -_: there_EX is_VBZ a_DT database_NN the_DT camera_NN uses_VBZ that_IN it_PRP needs_VBZ to_TO keep_VB straight_RB ._.
+Take_VB care_NN of_IN the_DT media_NNS and_CC it_PRP will_MD take_VB care_NN of_IN you_PRP .5_CD ._.
+All_DT of_IN the_DT jpg_NN slides_NNS are_VBP ok_JJ ,_, but_CC I_PRP like_VBP to_TO use_VB the_DT IFRAN_NNP free_JJ -LRB-_-LRB- try_VB CNET_NNP -RRB-_-RRB- photo_JJ software_NN to_TO look_VB at_IN them_PRP and_CC crop_NN ,_, adjust_VBP exposure_NN if_IN needed_VBN ,_, and_CC print_VB the_DT ones_NNS I_PRP want_VBP as_IN photos_NNS ,_, as_RB well_RB as_IN convert_VB some_DT into_IN cell_NN phone_NN and_CC ipad_NN `_`` PHOTO_NN '_'' slide_NN frame_NN shots_NNS -LRB-_-LRB- set_VBN it_PRP on_IN the_DT coffee_NN table_NN and_CC let_VB the_DT frame_NN rotate_VB the_DT pix_NN as_IN a_DT slideshow_NN ._.
+Use_VB the_DT instructions_NNS for_IN your_PRP$ phone_NN or_CC Ipad_NN ,_, pod_NN phone_NN ,_, etc_FW to_TO convert_VB and_CC load_VB them_PRP ._.
+Don_NNP ;_: t_NN replace_VB the_DT originals_NNS with_IN the_DT conversions_NNS ,_, make_VBP spare_JJ copies_NNS ._.
+The_DT same_JJ with_IN croping_NN ._.
+This_DT is_VBZ a_DT good_JJ time_NN to_TO get_VB rid_JJ of_IN the_DT duplicates_NNS with_IN eyes_NNS closed_VBD ,_, etc._FW 6_CD ._.
+Open_NNP Atube_NNP Cathcer_NNP and_CC select_VB the_DT video_NN convert_VB tab_NN ._.
+use_VB the_DT browser_NN that_WDT opens_VBZ to_TO find_VB and_CC load_VB the_DT videos_NNS that_IN Kodak_NNP says_VBZ are_VBP ._.
+mp4_CD -LRB-_-LRB- they_PRP bomb_VBP on_IN most_JJS devices_NNS -RRB-_-RRB- ._.
+No_DT need_NN to_TO include_VB the_DT ._.
+THM_NNP sound_JJ file_NN ,_, Atube_NNP takes_VBZ care_NN of_IN it_PRP automatically_RB ._.
+Save_NNP as_IN ._.
+mp4_CD to_TO a_DT tmeprary_JJ folder_NN ,_, then_RB replace_VB the_DT cameras_NNS ._.
+mp4_CD and_CC ._.
+thm_NN files_NNS with_IN the_DT good_JJ ones_NNS you_PRP made_VBD .7_CD ._.
+Open_NNP Windows_NNP movie_NN maker_NN software_NN and_CC select_VB all_PDT the_DT files_NNS now_RB in_IN the_DT folder_NN that_WDT will_MD be_VB used_VBN to_TO make_VB the_DT movie_NN ._.
+-LRB-_-LRB- click_VB on_IN the_DT first_JJ file_NN and_CC the_DT last_JJ file_NN while_IN olding_VBG donw_NN on_IN the_DT shift_NN key_NN ._. -RRB-_-RRB-
+Once_RB loaded_VBN ,_, they_PRP will_MD form_VB a_DT timeline_NN on_IN the_DT right_JJ side_NN of_IN the_DT screen_NN ._.
+select_VB all_DT using_VBG the_DT same_JJ shift_NN key_JJ click_JJ technique_NN and_CC go_VB to_TO the_DT edit_JJ tab_NN and_CC set_VB the_DT slide_NN time_NN from_IN the_DT default_NN 7_CD seconds_NNS to_TO a_DT more_RBR reasonable_JJ 3_CD seconds_NNS ._.
+While_IN you_PRP are_VBP at_IN it_PRP ,_, go_VB to_TO the_DT Project_NN tab_NN and_CC indicate_VBP that_IN the_DT movie_NN format_NN size_NN is_VBZ 16:9_CD ._.
+Now_RB save_VB the_DT project_NN settings_NNS to_TO date_NN by_IN creating_VBG a_DT project_NN file_NN -LRB-_-LRB- ._.
+wlpm_NN -RRB-_-RRB- in_IN the_DT workng_NN folder_NN ._.
+Save_NNP the_DT project_NN info_NN ever_RB few_JJ minutes_NNS -_: it_PRP is_VBZ like_IN using_VBG a_DT word_NN processor_NN -_: if_IN you_PRP get_VBP to_TO far_RB ahead_RB ,_, it_PRP tends_VBZ to_TO start_VB crashing_VBG ,_, and_CC you_PRP have_VBP to_TO dedo_VB everything_NN that_WDT was_VBD not_RB yet_RB saved_VBN ._.
+The_DT software_NN is_VBZ well_RB behaved_VBN if_IN you_PRP do_VBP these_DT regular_JJ saves_VBZ .8_CD ._.
+Edit_VB the_DT video_NN protions_NNS -LRB-_-LRB- trim_VB out_RP bad_JJ parts_NNS -RRB-_-RRB- by_IN manually_RB dragging_VBG the_DT cursor_NN along_IN the_DT ._.
+mp4_FW you_PRP are_VBP editing_NN ._.
+-LRB-_-LRB- the_DT play_NN function_NN requires_VBZ at_IN least_JJS a_DT fast_RB dual_JJ core_NN ,_, graphic_JJ card_NN ,_, and_CC lots_NNS of_IN memory_NN to_TO work_VB well_RB ,_, but_CC the_DT manual_JJ drag_NN is_VBZ great_JJ ,_, and_CC gives_VBZ better_JJR control_NN than_IN playing_NN does_VBZ .9_CD ._.
+Drag_VB pix_NN and_CC movie_NN clips_NNS to_TO new_JJ locations_NNS ,_, add_VB titles_NNS etc._FW ._.
+If_IN you_PRP want_VBP sound_JJ with_IN the_DT jpegs_NNS ,_, use_VBP the_DT atube_JJ catcher_NN mp3_FW download_FW button_NN to_TO open_VB mp3_JJ dwonloader_NN and_CC type_NN in_IN the_DT name_NN of_IN a_DT song_NN ,_, artist_NN or_CC topic_NN ._.
+You_PRP will_MD get_VB great_JJ stuff_NN to_TO preview_NN and_CC download_NN to_TO the_DT working_VBG folder_NN ._.
+Save_NNP it_PRP at_IN 320_CD bit_NN rate_NN for_IN high_JJ sound_JJ quallity_NN and_CC set_VB the_DT timeline_NN cursor_NN where_WRB you_PRP want_VBP the_DT music_NN to_TO start_VB and_CC add_VB the_DT music_NN at_IN the_DT `_`` current_JJ point_NN '_'' ._.
+Set_VB the_DT cursor_NN on_IN the_DT last_JJ frame_NN you_PRP want_VBP the_DT music_NN for_IN and_CC set_VBN audio_NN to_TO fast_RB fade_VB ._.
+You_PRP can_MD then_RB start_VB a_DT new_JJ song_NN at_IN that_DT point_NN by_IN adding_VBG at_IN current_JJ point_NN .10_CD ._.
+Play_NNP the_DT slide_NN portions_NNS manually_RB to_TO see_VB how_WRB the_DT random_JJ Ken_NNP burns_NNS effects_NNS look_VBP ._.
+Most_JJS will_MD be_VB fine_JJ ,_, but_CC stop_VB the_DT preview_NN and_CC change_VB the_DT type_NN of_IN animation_NN for_IN any_DT pix_NN that_WDT seems_VBZ to_TO have_VB people_NNS walking_VBG backword_NN or_CC is_VBZ reading_VBG the_DT sign_NN in_IN the_DT window_NN from_IN right_NN to_TO left_NN ,_, etc._FW 11_CD ,_, Under_IN File_NNP ,_, Make_VBP the_DT movie_NN as_IN an_DT 1080p_JJ HD_NNP .12_CD ._. ._.
+wmv_NN is_VBZ not_RB supported_VBN by_IN apple_NN ,_, and_CC some_DT of_IN your_PRP$ friends_NNS will_MD be_VB using_VBG apple_NN ,_, so_RB open_JJ atube_NN catcher_NN again_RB and_CC use_VB the_DT video_NN converter_NN tab_NN to_TO select_VB the_DT ._.
+wmv_NN as_IN the_DT input_NN and_CC output_NN it_PRP to_TO the_DT same_JJ filder_NN as_IN ._.
+mp4_CD ._.
+If_IN you_PRP made_VBD the_DT ._.
+wmv_NN movie_NN 16:9_CD ,_, the_DT frame_NN size_NN will_MD auto_NN correct_JJ for_IN different_JJ jpg_NN -LRB-_-LRB- 4:3_CD -RRB-_-RRB- and_CC ._.
+mp4_CD -LRB-_-LRB- 16:9_CD -RRB-_-RRB- players_NNS ,_, and_CC you_PRP will_MD not_RB get_VB lots_NNS of_IN fat_JJ people_NNS and_CC long_JJ cars_NNS ,_, in_IN the_DT slide_NN parts_NNS ,_, and_CC the_DT movies_NNS will_MD be_VB great_JJ too_RB .12_CD ._.
+Now_RB for_IN free_JJ distribution_NN to_TO your_PRP$ friends_NNS ._.
+You_PRP tube_NN will_MD let_VB you_PRP set_VB up_RP a_DT private_JJ video_NN ,_, and_CC Phanfare_NNP will_MD cover_VB you_PRP for_IN $_$ 100_CD per_IN year_NN ,_, but_CC most_JJS cloud_NN services_NNS limit_VBP file_NN size_NN ,_, and_CC these_DT movies_NNS are_VBP BIG_NNP ._.
+I_PRP like_IN CX_NNP -RRB-_-RRB- COm_NNP it_PRP is_VBZ easy_JJ to_TO sgn_VB up_RP and_CC use_VB the_DT 10_CD gig_NN free_JJ account_NN ,_, and_CC it_PRP will_MD keep_VB track_NN of_IN friends_NNS in_IN goups_NNS and_CC send_VB them_PRP a_DT link_NN when_WRB you_PRP post_VBP a_DT new_JJ file_NN or_CC folder_NN ._.
+Best_JJS of_IN all_DT ,_, individual_JJ file_NN sizes_NNS and_CC types_NNS are_VBP unlimited_JJ ,_, and_CC they_PRP have_VBP an_DT app_NN to_TO make_VB it_PRP easy_JJ for_IN friends_NNS with_IN ipads_NNS ,_, etc_FW to_TO view_VB the_DT files_NNS in_IN stunning_JJ sharpness_NN ._.
+If_IN you_PRP have_VBP more_JJR than_IN one_CD email_NN account_NN ,_, you_PRP can_MD open_VB more_JJR than_IN one_CD CX.COM_NNP ccount_NN ,_, and_CC use_VB each_DT one_CD you_PRP different_JJ things_NNS ._.
+-LRB-_-LRB- keep_VB that_DT set_NN of_IN girlfreind1_JJ pix_NN away_RB from_IN girlfreind2_CD -RRB-_-RRB- ._.
+The_DT email_NN invitatins_VBZ they_PRP get_VBP come_VBN from_IN the_DT specific_JJ account_NN set_VBN up_RP with_IN that_DT email_NN ._.
+That_DT is_VBZ enough_JJ to_TO get_VB you_PRP making_VBG and_CC sharing_VBG really_RB good_JJ videos_NNS ._.
+There_EX is_VBZ a_DT lot_NN more_JJR ,_, but_CC this_DT should_MD help_VB get_VB first_JJ time_NN success_NN without_IN any_DT major_JJ frustration_NN ._.

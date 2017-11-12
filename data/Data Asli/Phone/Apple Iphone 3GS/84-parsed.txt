@@ -1,0 +1,48 @@
+=========
+
+nsubj(received-2, i-1)
+root(ROOT-0, received-2)
+poss(phone-4, my-3)
+dobj(received-2, phone-4)
+quantmod(5-7, about-6)
+num(days-8, 5-7)
+prep_in(received-2, days-8)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, was-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+det(appearance-7, the-6)
+prep_with(happy-4, appearance-7)
+det(quality-10, the-9)
+prep_with(happy-4, quality-10)
+conj_and(appearance-7, quality-10)
+det(product-13, the-12)
+prep_of(quality-10, product-13)
+
+=========
+
+nsubj(admit-3, I-1)
+aux(admit-3, must-2)
+root(ROOT-0, admit-3)
+nsubj(leary-8, I-4)
+cop(leary-8, was-5)
+det(leary-8, a-6)
+amod(leary-8, little-7)
+ccomp(admit-3, leary-8)
+prepc_of(leary-8, ordering-10)
+det(phone-13, a-11)
+amod(phone-13, used-12)
+dobj(ordering-10, phone-13)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+xcomp(recommend-3, using-4)
+dobj(using-4, Amazon-5)
+prep_to(using-4, anyone-7)
+

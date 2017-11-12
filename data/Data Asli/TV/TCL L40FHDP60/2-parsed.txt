@@ -1,0 +1,23 @@
+=========
+
+poss(great-3, its-1)
+det(great-3, a-2)
+nsubj(looks-11, great-3)
+nsubj(works-13, great-3)
+partmod(great-3, working-4)
+partmod(great-3, looking-6)
+conj_and(working-4, looking-6)
+dobj(working-4, tv-7)
+advmod(cheap-9, very-8)
+amod(tv-7, cheap-9)
+root(ROOT-0, looks-11)
+conj_and(looks-11, works-13)
+advmod(has-20, just-14)
+dep(has-20, like-15)
+det(brands-18, the-16)
+amod(brands-18, other-17)
+nsubj(has-20, brands-18)
+advmod(has-20, also-19)
+ccomp(works-13, has-20)
+dobj(has-20, warrenty-21)
+

@@ -1,0 +1,66 @@
+=========
+
+advmod(charge-10, Only-1)
+num(month-4, one-3)
+prep_after(charge-10, month-4)
+det(IPhone-6, the-5)
+nsubj(charge-10, IPhone-6)
+aux(charge-10, would-7)
+advmod(longer-9, no-8)
+advmod(charge-10, longer-9)
+root(ROOT-0, charge-10)
+advmod(charge-10, properly-11)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(reset-4, I-1)
+root(ROOT-0, have-2)
+aux(reset-4, to-3)
+xcomp(have-2, reset-4)
+det(phone-6, the-5)
+iobj(reset-4, phone-6)
+det(time-8, every-7)
+dobj(reset-4, time-8)
+nsubj(need-10, I-9)
+xsubj(charge-12, I-9)
+dep(reset-4, need-10)
+aux(charge-12, to-11)
+xcomp(need-10, charge-12)
+dobj(charge-12, it-13)
+
+=========
+
+cc(lasted-5, And-1)
+det(cord-4, the-2)
+nn(cord-4, charge-3)
+nsubj(lasted-5, cord-4)
+root(ROOT-0, lasted-5)
+dep(long-8, half-6)
+advmod(long-8, as-7)
+advmod(lasted-5, long-8)
+mark(fell-11, before-9)
+nsubj(fell-11, it-10)
+dep(long-8, fell-11)
+advmod(fell-11, apart-12)
+
+=========
+
+prep_over(love-4, all-2)
+nsubj(love-4, I-3)
+root(ROOT-0, love-4)
+det(phone-6, the-5)
+dobj(love-4, phone-6)
+nsubj(was-9, it-8)
+conj_and(love-4, was-9)
+prep_like(was-9, new-11)
+advmod(came-14, when-12)
+nsubj(came-14, it-13)
+advcl(was-9, came-14)
+prt(came-14, in-15)
+
+=========
+
+nsubj(satisfied-2, Highly-1)
+root(ROOT-0, satisfied-2)
+

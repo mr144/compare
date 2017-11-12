@@ -1,0 +1,75 @@
+=========
+
+nsubj(beginner-4, I-1)
+cop(beginner-4, am-2)
+det(beginner-4, a-3)
+ccomp(it-20, beginner-4)
+prep_from(read-10, everything-8)
+nsubj(read-10, I-9)
+conj_and(beginner-4, read-10)
+ccomp(it-20, read-10)
+det(camera-15, a-12)
+amod(camera-15, great-13)
+amod(camera-15, starter-14)
+prep_on(read-10, camera-15)
+nsubj(it-20, this-17)
+nsubj(more-22, this-17)
+aux(it-20, has-18)
+cop(it-20, been-19)
+root(ROOT-0, it-20)
+conj_and(it-20, more-22)
+
+=========
+
+nsubj(started-2, I-1)
+root(ROOT-0, started-2)
+csubj(believe-11, taking-3)
+det(lot-5, a-4)
+dobj(taking-3, lot-5)
+prep_of(lot-5, Portraits-7)
+nn(cant-10, people-9)
+prep_of(lot-5, cant-10)
+conj_and(Portraits-7, cant-10)
+ccomp(started-2, believe-11)
+nsubj(professional-15, they-12)
+cop(professional-15, are-13)
+neg(professional-15, not-14)
+ccomp(believe-11, professional-15)
+partmod(professional-15, taken-16)
+
+=========
+
+det(quality-2, The-1)
+nsubj(amazing-4, quality-2)
+cop(amazing-4, is-3)
+root(ROOT-0, amazing-4)
+
+=========
+
+nsubj(ould-2, I-1)
+root(ROOT-0, ould-2)
+dep(ould-2, recommend-3)
+xcomp(recommend-3, getting-4)
+det(snap-7, a-5)
+amod(snap-7, better-6)
+dobj(getting-4, snap-7)
+prep_on(getting-4, lense-9)
+det(55mm-13, the-12)
+prep_such_as(lense-9, 55mm-13)
+prep_for(55mm-13, portraits-15)
+nsubj(camera-24, this-17)
+cop(camera-24, is-18)
+det(camera-24, a-19)
+advmod(easy-21, very-20)
+amod(camera-24, easy-21)
+nn(camera-24, user-22)
+amod(camera-24, friendly-23)
+conj_but(ould-2, camera-24)
+prep_for(camera-24, DSLR-26)
+
+=========
+
+aux(buy-2, Would-1)
+root(ROOT-0, buy-2)
+advmod(buy-2, again-3)
+

@@ -1,0 +1,40 @@
+=========
+
+advmod(good-2, very-1)
+amod(deal-3, good-2)
+nsubj(helping-11, deal-3)
+poss(problem-6, my-5)
+prep_with(deal-3, problem-6)
+prep_with(deal-3, I-8)
+conj_and(problem-6, I-8)
+aux(helping-11, was-9)
+advmod(helping-11, soon-10)
+root(ROOT-0, helping-11)
+dobj(helping-11, process-12)
+advmod(helping-11, thanks-14)
+
+=========
+
+advmod(good-2, very-1)
+amod(deal-3, good-2)
+nsubj(helping-11, deal-3)
+poss(problem-6, my-5)
+prep_with(deal-3, problem-6)
+prep_with(deal-3, I-8)
+conj_and(problem-6, I-8)
+aux(helping-11, was-9)
+advmod(helping-11, soon-10)
+root(ROOT-0, helping-11)
+dobj(helping-11, process-12)
+advmod(helping-11, thanks-14)
+
+=========
+
+root(ROOT-0, Aspecting-1)
+advmod(Aspecting-1, now-2)
+aux(have-4, to-3)
+xcomp(Aspecting-1, have-4)
+poss(phone-7, my-5)
+nn(phone-7, cell-6)
+dobj(have-4, phone-7)
+

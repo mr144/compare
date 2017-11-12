@@ -1,0 +1,60 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(love-4, love-3)
+ccomp(love-2, love-4)
+det(camera-6, this-5)
+dobj(love-4, camera-6)
+
+=========
+
+nsubj(clear-4, It-1)
+cop(clear-4, was-2)
+neg(clear-4, not-3)
+root(ROOT-0, clear-4)
+det(description-7, the-6)
+prep_in(clear-4, description-7)
+dep(pop-14, or-9)
+advmod(pop-14, at-10)
+pobj(at-10, least-11)
+aux(pop-14, did-12)
+neg(pop-14, not-13)
+dep(clear-4, pop-14)
+prt(pop-14, out-15)
+prep_to(pop-14, me-17)
+det(software-21, the-20)
+prep_with(comes-23, software-21)
+nsubj(has-25, software-21)
+nsubj(comes-23, this-22)
+rcmod(software-21, comes-23)
+conj_but(clear-4, has-25)
+det(app-30, an-26)
+amod(app-30, easyshare-28)
+dobj(has-25, app-30)
+prep_to(app-30, Facebook-32)
+
+=========
+
+amod(quality-4, GREAT-1)
+amod(quality-4, !!-2)
+amod(quality-4, High-3)
+nsubj(pics-5, quality-4)
+nsubj(friendly-10, quality-4)
+root(ROOT-0, pics-5)
+advmod(user-9, very-8)
+dep(friendly-10, user-9)
+conj_and(pics-5, friendly-10)
+
+=========
+
+advmod(learning-2, Still-1)
+dep(does-9, learning-2)
+predet(things-6, all-3)
+det(things-6, the-4)
+amod(things-6, amazing-5)
+dobj(learning-2, things-6)
+det(camera-8, this-7)
+nsubj(does-9, camera-8)
+root(ROOT-0, does-9)
+

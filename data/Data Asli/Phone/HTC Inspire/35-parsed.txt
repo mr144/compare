@@ -1,0 +1,33 @@
+=========
+
+nsubj(works-2, Phone-1)
+root(ROOT-0, works-2)
+acomp(works-2, great-3)
+nsubj(cost-7, it-6)
+conj_but(works-2, cost-7)
+iobj(cost-7, me-8)
+dobj(cost-7, $-9)
+iobj(cost-7, $-9)
+number($-9, 20-10)
+number($-9, @-11)
+dobj(cost-7, ATT-12)
+aux(activate-14, to-13)
+xcomp(cost-7, activate-14)
+dobj(activate-14, it-15)
+mark(missing-21, as-16)
+det(card-19, the-17)
+amod(card-19, 8gb-18)
+nsubj(missing-21, card-19)
+cop(missing-21, was-20)
+advcl(activate-14, missing-21)
+
+=========
+
+nsubj(was-2, It-1)
+xsubj(new-6, It-1)
+root(ROOT-0, was-2)
+aux(new-6, to-3)
+aux(new-6, have-4)
+cop(new-6, been-5)
+xcomp(was-2, new-6)
+

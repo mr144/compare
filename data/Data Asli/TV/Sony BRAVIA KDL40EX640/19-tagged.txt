@@ -1,0 +1,5 @@
+The_DT remot_NN is_VBZ cheap_JJ !_.
+The_DT sound_NN is_VBZ average_JJ at_IN best_JJS ._.
+Documentation_NN is_VBZ incomplete_JJ ._.
+The_DT glare_NN control_NN finish_NN on_IN the_DT screen_NN is_VBZ not_RB as_RB good_JJ as_IN I_PRP expected_VBD ._.
+My_PRP$ old_JJ Samsung_NNP was_VBD much_RB better_JJR over_IN all_DT ._.

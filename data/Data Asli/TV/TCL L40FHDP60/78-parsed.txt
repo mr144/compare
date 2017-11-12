@@ -1,0 +1,41 @@
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+dobj(purchased-2, Aug-3)
+num(Aug-3, 2012-4)
+advmod(far-7, so-6)
+advmod(love-9, far-7)
+nsubj(love-9, I-8)
+conj_and(purchased-2, love-9)
+dobj(love-9, it-10)
+
+=========
+
+det(picture-2, The-1)
+nsubj(clear-4, picture-2)
+cop(clear-4, is-3)
+root(ROOT-0, clear-4)
+dep(size-9, its-6)
+det(size-9, a-7)
+amod(size-9, great-8)
+ccomp(clear-4, size-9)
+det(price-13, the-11)
+amod(price-13, low-12)
+prep_for(size-9, price-13)
+
+=========
+
+nsubj(complaints-2, No-1)
+root(ROOT-0, complaints-2)
+advmod(complaints-2, yet-3)
+nsubj(update-9, I-6)
+aux(update-9, will-7)
+advmod(update-9, definitely-8)
+conj_but(complaints-2, update-9)
+det(review-11, the-10)
+dobj(update-9, review-11)
+mark(happens-14, if-12)
+nsubj(happens-14, anything-13)
+advcl(update-9, happens-14)
+

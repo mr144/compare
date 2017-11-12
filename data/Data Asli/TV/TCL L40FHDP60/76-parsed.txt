@@ -1,0 +1,41 @@
+=========
+
+det(tv-2, this-1)
+nsubj(great-5, tv-2)
+aux(great-5, has-3)
+cop(great-5, been-4)
+root(ROOT-0, great-5)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+prep(bought-2, for-4)
+pcomp(for-4, out-5)
+poss(lanai-8, my-7)
+prep_on(bought-2, lanai-8)
+nsubj(great-13, it-10)
+aux(great-13, has-11)
+cop(great-13, been-12)
+conj_and(bought-2, great-13)
+advmod(far-15, so-14)
+advmod(great-13, far-15)
+
+=========
+
+det(issues-2, No-1)
+nsubj(nice-12, issues-2)
+amod(issues-2, easy-4)
+prep_to(easy-4, setup-6)
+det(picture-9, the-8)
+prep_to(easy-4, picture-9)
+conj_and(setup-6, picture-9)
+cop(nice-12, is-10)
+advmod(nice-12, very-11)
+root(ROOT-0, nice-12)
+det(TV-17, a-14)
+amod(TV-17, $-15)
+number($-15, 300-16)
+prep_for(nice-12, TV-17)
+

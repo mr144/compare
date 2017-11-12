@@ -1,0 +1,152 @@
+=========
+
+nsubj(needed-2, We-1)
+root(ROOT-0, needed-2)
+det(screen-6, a-3)
+amod(screen-6, small-4)
+amod(screen-6, flat-5)
+dobj(needed-2, screen-6)
+poss(bedroom-9, our-8)
+prep_for(needed-2, bedroom-9)
+
+=========
+
+nsubj(live-2, We-1)
+root(ROOT-0, live-2)
+det(trailer-7, a-4)
+amod(trailer-7, 5th-5)
+nn(trailer-7, wheel-6)
+prep_in(live-2, trailer-7)
+nsubj(limited-11, space-9)
+cop(limited-11, is-10)
+conj_and(live-2, limited-11)
+
+=========
+
+prepc_after(chose-11, looking-2)
+amod(places-5, different-4)
+prep_at(looking-2, places-5)
+prep_at(looking-2, prices-7)
+conj_and(places-5, prices-7)
+prep_versus(places-5, product-9)
+nsubj(chose-11, I-10)
+root(ROOT-0, chose-11)
+det(one-13, this-12)
+dobj(chose-11, one-13)
+
+=========
+
+nsubj(read-2, I-1)
+root(ROOT-0, read-2)
+det(reviews-5, the-3)
+amod(reviews-5, previous-4)
+dobj(read-2, reviews-5)
+
+=========
+
+det(quality-3, The-1)
+amod(quality-3, sound-2)
+nsubj(good-6, quality-3)
+cop(good-6, is-4)
+advmod(good-6, pretty-5)
+root(ROOT-0, good-6)
+
+=========
+
+nsubj(sound-4, It-1)
+aux(sound-4, does-2)
+neg(sound-4, not-3)
+root(ROOT-0, sound-4)
+acomp(sound-4, tinny-6)
+acomp(sound-4, cheap-9)
+conj_or(tinny-6, cheap-9)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, also-2)
+root(ROOT-0, have-3)
+nsubj(mounted-5, it-4)
+ccomp(have-3, mounted-5)
+mark(free-10, so-6)
+det(sound-8, the-7)
+nsubj(free-10, sound-8)
+cop(free-10, is-9)
+advcl(mounted-5, free-10)
+aux(emanate-12, to-11)
+xcomp(free-10, emanate-12)
+auxpass(enclosed-16, being-15)
+xcomp(free-10, enclosed-16)
+conj_negcc(emanate-12, enclosed-16)
+
+=========
+
+nsubj(help-3, This-1)
+aux(help-3, may-2)
+root(ROOT-0, help-3)
+
+=========
+
+nsubj(have-4, It-1)
+aux(have-4, does-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+det(clock-6, a-5)
+dobj(have-4, clock-6)
+prep(clock-6, but-7)
+det(deal-10, no-8)
+amod(deal-10, big-9)
+dep(but-7, deal-10)
+
+=========
+
+predet(functions-3, All-1)
+det(functions-3, the-2)
+nsubj(work-4, functions-3)
+root(ROOT-0, work-4)
+acomp(work-4, good-5)
+det(tv-10, a-8)
+amod(tv-10, 720p-9)
+prep_for(has-12, tv-10)
+nsubj(has-12, it-11)
+conj_and(work-4, has-12)
+det(picture-15, a-13)
+amod(picture-15, good-14)
+dobj(has-12, picture-15)
+
+=========
+
+nsubj(have-2, We-1)
+root(ROOT-0, have-2)
+det(Viera-5, a-3)
+amod(Viera-5, 1080p-4)
+dobj(have-2, Viera-5)
+poss(room-9, our-7)
+amod(room-9, living-8)
+prep_in(Viera-5, room-9)
+prep_in(Viera-5, HD-11)
+conj_and(room-9, HD-11)
+partmod(HD-11, running-12)
+prep_to(running-12, it-14)
+
+=========
+
+dep(try-5, So-1)
+nsubj(try-5, I-2)
+xsubj(compare-7, I-2)
+aux(try-5, would-3)
+neg(try-5, not-4)
+root(ROOT-0, try-5)
+aux(compare-7, to-6)
+xcomp(try-5, compare-7)
+dobj(compare-7, them-8)
+advmod(compare-7, equally-9)
+
+=========
+
+amod(price-2, Great-1)
+root(ROOT-0, price-2)
+amod(tv-5, great-4)
+conj_and(price-2, tv-5)
+prep_for(price-2, us-7)
+

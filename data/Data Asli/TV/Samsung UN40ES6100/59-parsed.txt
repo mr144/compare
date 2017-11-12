@@ -1,0 +1,50 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(number-4, a-3)
+dobj(have-2, number-4)
+nn(TVs-7, Samsung-6)
+prep_of(number-4, TVs-7)
+det(one-10, this-9)
+nsubj(good-13, one-10)
+cop(good-13, is-11)
+advmod(good-13, as-12)
+conj_and(have-2, good-13)
+prep_as(good-13, any-15)
+
+=========
+
+root(ROOT-0, Used-1)
+conj_and(Used-1, Used-1')
+dobj(Used-1, it-2)
+det(show-6, a-4)
+nn(show-6, trade-5)
+prep_at(Used-1, show-6)
+partmod(show-6, showing-7)
+amod(images-9, medical-8)
+dobj(showing-7, images-9)
+det(bit-13, a-12)
+prep_after(Used-1', bit-13)
+mark(good-19, if-14)
+csubj(good-19, tuning-15)
+dobj(tuning-15, they-16)
+cop(good-19, were-17)
+advmod(good-19, as-18)
+dep(bit-13, good-19)
+mark(get-22, as-20)
+nsubj(get-22, you-21)
+advcl(good-19, get-22)
+
+=========
+
+advmod(use-2, Now-1)
+root(ROOT-0, use-2)
+dobj(use-2, it-3)
+det(monitor-7, an-5)
+amod(monitor-7, additional-6)
+prep_as(use-2, monitor-7)
+poss(room-11, our-9)
+nn(room-11, board-10)
+prep_in(monitor-7, room-11)
+

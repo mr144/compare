@@ -1,0 +1,78 @@
+=========
+
+nsubj(embarrassed-3, I-1)
+cop(embarrassed-3, was-2)
+root(ROOT-0, embarrassed-3)
+
+=========
+
+det(item-2, This-1)
+nsubj(include-5, item-2)
+aux(include-5, do-3)
+neg(include-5, not-4)
+root(ROOT-0, include-5)
+nn(card-7, memory-6)
+dobj(include-5, card-7)
+
+=========
+
+nsubj(find-4, I-1)
+aux(find-4, could-2)
+neg(find-4, not-3)
+root(ROOT-0, find-4)
+prt(find-4, out-5)
+det(point-7, that-6)
+dobj(find-4, point-7)
+tmod(checked-10, point-7)
+advmod(checked-10, when-8)
+nsubj(checked-10, I-9)
+dep(point-7, checked-10)
+det(details-13, this-11)
+nn(details-13, item-12)
+dobj(checked-10, details-13)
+
+=========
+
+advmod(had-5, So-1)
+tmod(had-5, today-2)
+xsubj(buy-7, today-2)
+nsubj(had-5, I-4)
+xsubj(buy-7, I-4)
+root(ROOT-0, had-5)
+aux(buy-7, to-6)
+xcomp(had-5, buy-7)
+nn(card-9, memory-8)
+dobj(buy-7, card-9)
+dobj(buy-13, card-9)
+rel(buy-13, which-10)
+nsubj(buy-13, I-11)
+aux(buy-13, could-12)
+rcmod(card-9, buy-13)
+acomp(buy-13, cheaper-14)
+prep_at(cheaper-14, amazon.com-16)
+prep_at(amazon.com-16, UTCmall-18)
+advmod(buy-13, separately-19)
+mark(need-23, because-21)
+nsubj(need-23, I-22)
+xsubj(take-25, I-22)
+advcl(buy-13, need-23)
+aux(take-25, to-24)
+xcomp(need-23, take-25)
+det(pic-27, a-26)
+dobj(take-25, pic-27)
+tmod(take-25, tomorrow-28)
+
+=========
+
+advmod(note-4, Anyway-1)
+nsubj(note-4, please-3)
+root(ROOT-0, note-4)
+det(point-6, this-5)
+dobj(note-4, point-6)
+tmod(ordeer-9, point-6)
+advmod(ordeer-9, when-7)
+nsubj(ordeer-9, you-8)
+dep(point-6, ordeer-9)
+det(item-11, this-10)
+dobj(ordeer-9, item-11)
+

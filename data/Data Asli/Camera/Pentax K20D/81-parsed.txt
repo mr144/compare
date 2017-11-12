@@ -1,0 +1,57 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+num(camera-5, one-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+nsubj(used-4, it-3)
+ccomp(bought-2, used-4)
+prep_from(used-4, Shutterblade-6)
+dep(used-4, through-8)
+pobj(through-8, Amazon-9)
+mark(been-16, if-13)
+nsubj(been-16, it-14)
+aux(been-16, had-15)
+advcl(thought-24, been-16)
+det(box-20, the-18)
+amod(box-20, original-19)
+prep_in(been-16, box-20)
+nsubj(thought-24, I-21)
+aux(thought-24, would-22)
+aux(thought-24, have-23)
+conj_and(bought-2, thought-24)
+nsubj(new-28, it-25)
+cop(new-28, was-26)
+dep(new-28, brand-27)
+ccomp(thought-24, new-28)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(pictures-3, great-2)
+dobj(Takes-1, pictures-3)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+xsubj(step-5, you-2)
+advcl(get-8, want-3)
+aux(step-5, to-4)
+xcomp(want-3, step-5)
+prt(step-5, up-6)
+root(ROOT-0, get-8)
+dobj(get-8, one-9)
+prep_of(one-9, these-11)
+nsubj(regret-16, you-13)
+aux(regret-16, will-14)
+neg(regret-16, not-15)
+parataxis(get-8, regret-16)
+dobj(regret-16, it-17)
+

@@ -1,0 +1,46 @@
+=========
+
+nsubj(liked-2, I-1)
+root(ROOT-0, liked-2)
+det(look-4, the-3)
+dobj(liked-2, look-4)
+det(system-9, the-7)
+amod(system-9, operating-8)
+nsubj(slow-11, system-9)
+nsubj(come-18, system-9)
+cop(slow-11, is-10)
+conj_but(liked-2, slow-11)
+prep_at(slow-11, times-13)
+aux(come-18, does-16)
+neg(come-18, not-17)
+conj_but(liked-2, come-18)
+conj_and(slow-11, come-18)
+dep(come-18, installed-19)
+det(language-23, the-21)
+amod(language-23, Spanish-22)
+prep_with(installed-19, language-23)
+
+=========
+
+nsubj(RAM-12, Most-1)
+det(time-4, the-3)
+prep_of(Most-1, time-4)
+advmod(RAM-12, there-5)
+cop(RAM-12, are-6)
+advmod(RAM-12, only-7)
+amod(RAM-12, average-8)
+amod(RAM-12, free-9)
+nn(RAM-12, memory-10)
+nn(RAM-12, 120Mb-11)
+root(ROOT-0, RAM-12)
+
+=========
+
+det(battery-2, The-1)
+nsubj(good-4, battery-2)
+cop(good-4, is-3)
+root(ROOT-0, good-4)
+det(camera-7, the-6)
+conj_and(good-4, camera-7)
+advmod(camera-7, too-8)
+

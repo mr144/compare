@@ -1,0 +1,6 @@
+Got_NNP this_DT TV_NN for_IN $_$ 320_CD ._.
+It_PRP 's_VBZ a_DT great_JJ TV_NN with_IN a_DT great_JJ price_NN tag_NN ._.
+The_DT only_JJ things_NNS that_IN bug_NN me_PRP is_VBZ that_IN it_PRP does_VBZ not_RB have_VB wifi_NNS -LRB-_-LRB- which_WDT is_VBZ OK_JJ for_IN the_DT price_NN -RRB-_-RRB- and_CC if_IN you_PRP are_VBP on_IN a_DT black_JJ screen_NN ,_, you_PRP can_MD see_VB white_JJ edges_NNS ,_, it_PRP is_VBZ not_RB 100_CD %_NN black_JJ ._.
+Also_RB ,_, it_PRP takes_VBZ like_IN 10_CD seconds_NNS to_TO turn_VB on_RP ._.
+No_DT big_JJ deal_NN though_RB ._.
+GREAT_JJ picture_NN quality_NN

@@ -1,0 +1,261 @@
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(model-5, the-3)
+amod(model-5, Z740-4)
+dobj(have-2, model-5)
+
+=========
+
+nsubj(camera-6, It-1)
+cop(camera-6, was-2)
+poss(camera-6, my-3)
+amod(camera-6, first-4)
+amod(camera-6, digital-5)
+root(ROOT-0, camera-6)
+
+=========
+
+mark(new-4, Since-1)
+nsubj(new-4, it-2)
+cop(new-4, was-3)
+advcl(realize-15, new-4)
+prep_to(new-4, me-6)
+det(time-10, that-9)
+prep_at(new-4, time-10)
+nsubj(realize-15, I-12)
+aux(realize-15, did-13)
+neg(realize-15, not-14)
+root(ROOT-0, realize-15)
+dobj(realize-15, problems-16)
+nsubj(existed-18, problems-16)
+rcmod(problems-16, existed-18)
+
+=========
+
+det(flash-2, The-1)
+nsubj(flashes-4, flash-2)
+advmod(flashes-4, always-3)
+root(ROOT-0, flashes-4)
+advmod(flashes-4, even-6)
+advmod(is-9, when-7)
+nsubj(is-9, it-8)
+advcl(flashes-4, is-9)
+det(mode-13, the-11)
+amod(mode-13, off-12)
+prep_in(is-9, mode-13)
+
+=========
+
+advmod(realized-3, When-1)
+nsubj(realized-3, I-2)
+advcl(called-11, realized-3)
+nsubj(way-9, it-4)
+aux(way-9, should-5)
+neg(way-9, not-6)
+cop(way-9, be-7)
+det(way-9, this-8)
+ccomp(realized-3, way-9)
+nsubj(called-11, I-10)
+root(ROOT-0, called-11)
+dobj(called-11, Kodak-12)
+
+=========
+
+det(man-2, The-1)
+nsubj(acknowledge-9, man-2)
+rel(spoke-5, who-3)
+nsubj(spoke-5, I-4)
+rcmod(man-2, spoke-5)
+prep(spoke-5, with-6)
+aux(acknowledge-9, would-7)
+neg(acknowledge-9, not-8)
+root(ROOT-0, acknowledge-9)
+dobj(acknowledge-9, this-10)
+det(problem-13, a-12)
+prep_as(this-10, problem-13)
+
+=========
+
+det(camera-2, The-1)
+nsubjpass(returned-6, camera-2)
+nsubjpass(replaced-8, camera-2)
+aux(returned-6, should-3)
+aux(returned-6, have-4)
+auxpass(returned-6, been-5)
+root(ROOT-0, returned-6)
+conj_and(returned-6, replaced-8)
+agent(returned-6, Kodak-10)
+mark(cost-13, since-11)
+nsubj(cost-13, it-12)
+advcl(returned-6, cost-13)
+prep_over(cost-13, $-15)
+num($-15, 350-16)
+
+=========
+
+det(batteries-2, The-1)
+nsubj(recharge-5, batteries-2)
+aux(recharge-5, would-3)
+neg(recharge-5, not-4)
+root(ROOT-0, recharge-5)
+nsubj(sent-8, he-7)
+conj_and(recharge-5, sent-8)
+iobj(sent-8, me-9)
+det(replacement-12, a-10)
+nn(replacement-12, recharger-11)
+dobj(sent-8, replacement-12)
+nsubj(came-15, he-14)
+conj_but(recharge-5, came-15)
+prt(came-15, across-16)
+mark(doing-20, like-17)
+nsubj(doing-20, he-18)
+aux(doing-20, was-19)
+advcl(came-15, doing-20)
+nsubj(favor-25, me-21)
+det(favor-25, a-22)
+amod(favor-25, great-23)
+amod(favor-25, big-24)
+xcomp(doing-20, favor-25)
+
+=========
+
+advmod(received-4, Recently-1)
+nsubj(received-4, I-3)
+root(ROOT-0, received-4)
+det(email-6, an-5)
+nsubj(remember-22, email-6)
+prep_from(email-6, Kodak-8)
+partmod(Kodak-8, stating-9)
+nsubj(taking-13, someone-10)
+advmod(someone-10, else-11)
+aux(taking-13, was-12)
+ccomp(stating-9, taking-13)
+poss(site-18, their-15)
+amod(site-18, photo-16)
+nn(site-18, web-17)
+prep_over(taking-13, site-18)
+aux(remember-22, can-20)
+neg(remember-22, not-21)
+ccomp(received-4, remember-22)
+dobj(remember-22, who-23)
+
+=========
+
+poss(attempt-4, My-1)
+amod(attempt-4, first-2)
+nn(attempt-4, video-3)
+nsubj(success-7, attempt-4)
+cop(success-7, was-5)
+det(success-7, a-6)
+root(ROOT-0, success-7)
+
+=========
+
+nsubj(followed-2, I-1)
+root(ROOT-0, followed-2)
+det(cat-4, the-3)
+npadvmod(around-5, cat-4)
+advmod(followed-2, around-5)
+det(minutes-9, a-7)
+nn(minutes-9, couple-8)
+prep_for(followed-2, minutes-9)
+advmod(followed-2, much-11)
+poss(dismay-14, her-13)
+prep_to(much-11, dismay-14)
+
+=========
+
+det(camera-2, The-1)
+nsubj(picked-3, camera-2)
+root(ROOT-0, picked-3)
+prt(picked-3, up-4)
+det(sound-6, every-5)
+dobj(picked-3, sound-6)
+amod(clarity-9, excellent-8)
+prep_with(sound-6, clarity-9)
+det(movie-12, the-11)
+nsubj(clear-15, movie-12)
+cop(clear-15, was-13)
+advmod(clear-15, perfecly-14)
+conj_and(picked-3, clear-15)
+
+=========
+
+poss(video-3, It-1)
+nsubj(feature-7, video-3)
+cop(feature-7, is-4)
+det(feature-7, a-5)
+amod(feature-7, great-6)
+root(ROOT-0, feature-7)
+
+=========
+
+nn(gatherings-3, family-2)
+prep_at(comes-5, gatherings-3)
+nsubj(comes-5, it-4)
+root(ROOT-0, comes-5)
+prep_in(comes-5, handy-7)
+
+=========
+
+poss(relatives-2, My-1)
+nsubj(complain-3, relatives-2)
+root(ROOT-0, complain-3)
+det(light-6, the-4)
+nn(light-6, camera-5)
+nsubj(bright-9, light-6)
+cop(bright-9, is-7)
+advmod(bright-9, too-8)
+ccomp(complain-3, bright-9)
+
+=========
+
+nsubj(nice-4, It-1)
+aux(nice-4, would-2)
+cop(nice-4, be-3)
+ccomp(supports-15, nice-4)
+mark(used-10, if-5)
+nn(software-7, Window-6)
+nsubjpass(used-10, software-7)
+aux(used-10, could-8)
+auxpass(used-10, be-9)
+advcl(nice-4, used-10)
+det(camera-13, the-12)
+nsubj(supports-15, camera-13)
+advmod(supports-15, only-14)
+root(ROOT-0, supports-15)
+dobj(supports-15, use-16)
+nn(Time-19, Quick-18)
+prep_of(use-16, Time-19)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(camera-4, the-3)
+dobj(like-2, camera-4)
+
+=========
+
+det(feature-4, The-1)
+amod(feature-4, numerous-2)
+nn(feature-4, zooms-3)
+nsubj(asset-8, feature-4)
+cop(asset-8, is-5)
+poss(asset-8, its-6)
+amod(asset-8, best-7)
+root(ROOT-0, asset-8)
+
+=========
+
+neg(sure-2, Not-1)
+root(ROOT-0, sure-2)
+mark(purchase-6, if-3)
+nsubj(purchase-6, I-4)
+aux(purchase-6, would-5)
+dep(sure-2, purchase-6)
+det(Kodak-8, another-7)
+dobj(purchase-6, Kodak-8)
+

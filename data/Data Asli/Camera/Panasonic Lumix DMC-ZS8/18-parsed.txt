@@ -1,0 +1,45 @@
+=========
+
+root(ROOT-0, Purchased-1)
+det(one-3, this-2)
+iobj(Purchased-1, one-3)
+poss(Husband-6, my-5)
+prep_for(one-3, Husband-6)
+amod(Christmas-8, last-7)
+dobj(Purchased-1, Christmas-8)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, already-2)
+root(ROOT-0, have-3)
+dobj(have-3, one-4)
+prep_like(sure-13, it-8)
+advmod(well-10, so-9)
+advmod(it-8, well-10)
+nsubj(sure-13, I-11)
+cop(sure-13, was-12)
+conj_and(have-3, sure-13)
+nsubj(would-15, he-14)
+ccomp(sure-13, would-15)
+advmod(would-15, also-16)
+
+=========
+
+nn(pic-2, Great-1)
+nsubj('s-3, pic-2)
+root(ROOT-0, 's-3)
+dep('s-3, love-5)
+det(lens-7, the-6)
+dobj(love-5, lens-7)
+
+=========
+
+root(ROOT-0, Zooms-1)
+prt(Zooms-1, out-2)
+aux(get-4, to-3)
+xcomp(Zooms-1, get-4)
+advmod(away-6, far-5)
+advmod(get-4, away-6)
+dobj(get-4, items-7)
+

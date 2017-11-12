@@ -1,0 +1,81 @@
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+det(HS30EXR-5, the-3)
+nn(HS30EXR-5, Fuji-4)
+dobj(tried-2, HS30EXR-5)
+nn(P510-8, Canon-7)
+dobj(tried-2, P510-8)
+conj_and(HS30EXR-5, P510-8)
+
+=========
+
+aux(like-3, Did-1)
+neg(like-3, not-2)
+root(ROOT-0, like-3)
+dobj(like-3, them-4)
+mark(returned-7, so-5)
+nsubj(returned-7, I-6)
+nsubj(bought-14, I-6)
+advcl(like-3, returned-7)
+dobj(returned-7, them-8)
+det(week-12, the-10)
+amod(week-12, first-11)
+prep_in(returned-7, week-12)
+advcl(like-3, bought-14)
+conj_and(returned-7, bought-14)
+det(Sony-16, this-15)
+dobj(bought-14, Sony-16)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(way-4, the-3)
+dobj(love-2, way-4)
+det(auto-7, the-5)
+amod(auto-7, smooth-6)
+nsubj(focus-8, auto-7)
+nsubj(zoom-10, auto-7)
+rcmod(way-4, focus-8)
+rcmod(way-4, zoom-10)
+conj_and(focus-8, zoom-10)
+dobj(focus-8, works-11)
+
+=========
+
+root(ROOT-0, Took-1)
+quantmod(100-3, about-2)
+num(photos-4, 100-3)
+dobj(Took-1, photos-4)
+det(week-8, the-6)
+amod(week-8, first-7)
+prep_in(photos-4, week-8)
+aux(have-12, do-10)
+neg(have-12, not-11)
+conj_and(Took-1, have-12)
+det(remarks-15, any-13)
+amod(remarks-15, negative-14)
+dobj(have-12, remarks-15)
+advmod(have-12, yet-16)
+
+=========
+
+nsubj(keeper-4, This-1)
+cop(keeper-4, is-2)
+det(keeper-4, a-3)
+root(ROOT-0, keeper-4)
+
+=========
+
+nsubj(replacing-3, I-1)
+aux(replacing-3, am-2)
+root(ROOT-0, replacing-3)
+poss(camera-9, my-4)
+amod(camera-9, old-5)
+nn(camera-9, Olympus-6)
+nn(camera-9, 12.1-7)
+amod(camera-9, 20x-8)
+dobj(replacing-3, camera-9)
+

@@ -1,0 +1,218 @@
+=========
+
+nsubj(BB-5, This-1)
+cop(BB-5, is-2)
+poss(BB-5, my-3)
+amod(BB-5, second-4)
+ccomp(Curve-13, BB-5)
+det(one-9, the-7)
+amod(one-9, first-8)
+nsubj(Curve-13, one-9)
+cop(Curve-13, was-10)
+det(Curve-13, a-11)
+num(Curve-13, 8320-12)
+root(ROOT-0, Curve-13)
+
+=========
+
+nsubj(smartphone-6, This-1)
+cop(smartphone-6, is-2)
+det(smartphone-6, the-3)
+amod(smartphone-6, best-4)
+nn(smartphone-6, BB-5)
+root(ROOT-0, smartphone-6)
+advmod(smartphone-6, ever-7)
+
+=========
+
+root(ROOT-0, Its-1)
+det(phone-5, a-2)
+nn(phone-5, work-3)
+nn(phone-5, horse-4)
+dobj(Its-1, phone-5)
+
+=========
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+csubj(buy-10, want-3)
+det(phone-6, a-4)
+nn(phone-6, pleasure-5)
+dobj(want-3, phone-6)
+prepc_for(want-3, messing-8)
+prt(messing-8, around-9)
+root(ROOT-0, buy-10)
+det(Iphone4-12, the-11)
+dobj(buy-10, Iphone4-12)
+
+=========
+
+dep(buy-3, For-1)
+nsubj(buy-3, work-2)
+root(ROOT-0, buy-3)
+det(torch-6, this-4)
+nn(torch-6, BB-5)
+dobj(buy-3, torch-6)
+num(torch-6, .1-7)
+
+=========
+
+amod(resolution-2, Great-1)
+nsubj(looks-9, resolution-2)
+nsubj(easy-13, resolution-2)
+det(screen-5, the-4)
+prep_of(resolution-2, screen-5)
+amod(videos-8, Youtube-7)
+appos(screen-5, videos-8)
+root(ROOT-0, looks-9)
+acomp(looks-9, great-10)
+cop(easy-13, is-12)
+conj_and(looks-9, easy-13)
+aux(read-15, to-14)
+xcomp(easy-13, read-15)
+dobj(read-15, .2-16)
+
+=========
+
+amod(idea-2, Great-1)
+root(ROOT-0, idea-2)
+partmod(idea-2, having-3)
+preconj(keyboard-7, both-4)
+det(keyboard-7, the-5)
+amod(keyboard-7, QWERTY-6)
+dobj(having-3, keyboard-7)
+dep(keyboard-7, for-9)
+amod(emails-11, long-10)
+pobj(for-9, emails-11)
+nn(keyboard-15, touch-14)
+dobj(having-3, keyboard-15)
+conj_and(keyboard-7, keyboard-15)
+dep(keyboard-15, for-17)
+amod(messages-20, quickess-18)
+amod(messages-20, short-19)
+pobj(for-17, messages-20)
+dep(keyboard-15, .3-22)
+
+=========
+
+nsubj(have-2, I-1)
+ccomp(see-9, have-2)
+num(accounts-5, four-3)
+nn(accounts-5, email-4)
+dobj(have-2, accounts-5)
+nsubj(see-9, I-7)
+aux(see-9, can-8)
+root(ROOT-0, see-9)
+dobj(see-9, all-10)
+prep_of(all-10, them-12)
+nn(screen-15, one-14)
+prep_on(see-9, screen-15)
+num(screen-15, .4-16)
+
+=========
+
+nn(phone-5, Unlocked-1)
+nn(phone-5, Quad-Band-2)
+nn(phone-5, GSM-3)
+nn(phone-5, cell-4)
+root(ROOT-0, phone-5)
+amod(capabilities-21, compatible-6)
+num(frequencies-11, 850\/900\/1800-8)
+amod(frequencies-11, \/-9)
+amod(frequencies-11, 1900MHz-10)
+prep_with(compatible-6, frequencies-11)
+num(800-17, 3G-13)
+num(800-17, HSDPA-14)
+num(800-17, 850\/1900\/2100-15)
+nn(800-17, \/-16)
+prep_with(compatible-6, 800-17)
+conj_and(frequencies-11, 800-17)
+conj_and(frequencies-11, GPRS\/EDGE-19)
+conj_plus(800-17, GPRS\/EDGE-19)
+nn(capabilities-21, data-20)
+dep(phone-5, capabilities-21)
+dep(capabilities-21, .5-22)
+
+=========
+
+nsubj(sensitive-4, Touchscreen-1)
+cop(sensitive-4, is-2)
+advmod(sensitive-4, as-3)
+root(ROOT-0, sensitive-4)
+det(.5-8, the-6)
+amod(.5-8, Iphone4-7)
+prep_as(sensitive-4, .5-8)
+
+=========
+
+root(ROOT-0, Excellent-1)
+dobj(Excellent-1, camera-2)
+nn(auto-focus-6, flash-4)
+prep_with(camera-2, auto-focus-6)
+nn(stabilization-9, image-8)
+prep_with(camera-2, stabilization-9)
+conj_and(auto-focus-6, stabilization-9)
+num(modes-14, 11-12)
+amod(modes-14, photo-13)
+dobj(Excellent-1, modes-14)
+conj_plus(camera-2, modes-14)
+dep(modes-14, .6-15)
+
+=========
+
+det(life-3, The-1)
+nn(life-3, battery-2)
+nsubj(get-5, life-3)
+nsubjpass(recharged-15, life-3)
+aux(get-5, should-4)
+root(ROOT-0, get-5)
+dobj(get-5, you-6)
+prep_through(get-5, 1day-8)
+det(half-11, a-10)
+prep_through(get-5, half-11)
+conj_and(1day-8, half-11)
+auxpass(recharged-15, is-13)
+advmod(recharged-15, fast-14)
+conj_but(get-5, recharged-15)
+dobj(recharged-15, .7-16)
+
+=========
+
+root(ROOT-0, Excellent-1)
+nn(volume-3, speaker-2)
+nsubj(hear-5, volume-3)
+aux(hear-5, to-4)
+xcomp(Excellent-1, hear-5)
+dobj(hear-5, music-6)
+
+=========
+
+det(aspect-3, The-1)
+amod(aspect-3, only-2)
+dobj(like-8, aspect-3)
+nsubj(lock-12, aspect-3)
+complm(like-8, that-4)
+nsubj(like-8, I-5)
+aux(like-8, do-6)
+neg(like-8, not-7)
+dep(aspect-3, like-8)
+cop(lock-12, is-9)
+det(lock-12, the-10)
+nn(lock-12, screen-11)
+root(ROOT-0, lock-12)
+partmod(lock-12, button-13)
+poss(contact-20, its-14)
+advmod(sensitive-16, extremely-15)
+amod(contact-20, sensitive-16)
+det(physical-19, any-18)
+prep_to(sensitive-16, physical-19)
+dobj(button-13, contact-20)
+
+=========
+
+nsubj(love-4, I-1)
+advmod(love-4, really-2)
+advmod(love-4, just-3)
+root(ROOT-0, love-4)
+dobj(love-4, it-5)
+

@@ -1,0 +1,83 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, this-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(small-3, It-1)
+cop(small-3, 's-2)
+root(ROOT-0, small-3)
+
+=========
+
+nsubj(amazing-3, It-1)
+cop(amazing-3, 's-2)
+root(ROOT-0, amazing-3)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(goes-3, zoom-2)
+root(ROOT-0, goes-3)
+advmod(far-6, very-4)
+advmod(far-6, very-5)
+advmod(goes-3, far-6)
+
+=========
+
+det(picture-2, The-1)
+nsubj(wether-6, picture-2)
+cop(wether-6, is-3)
+nn(wether-6, SO-4)
+nn(wether-6, CLEAR-5)
+root(ROOT-0, wether-6)
+partmod(wether-6, zoomed-7)
+prep(zoomed-7, in-8)
+cc(not-10, or-9)
+pobj(in-8, not-10)
+
+=========
+
+det(recording-2, The-1)
+nsubj(awesome-4, recording-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+
+=========
+
+det(thing-4, The-1)
+num(thing-4, one-2)
+amod(thing-4, bad-3)
+nsubj(batteries-7, thing-4)
+cop(batteries-7, is-5)
+det(batteries-7, the-6)
+root(ROOT-0, batteries-7)
+prep_over(batteries-7, heat-9)
+advmod(batteries-7, easily-10)
+prep_for(batteries-7, me-12)
+
+=========
+
+nsubj(leave-4, &-1)
+nsubj(leave-4, I-2)
+aux(leave-4, have-3)
+root(ROOT-0, leave-4)
+det(camera-6, the-5)
+dobj(leave-4, camera-6)
+advmod(leave-4, alone-7)
+dep(leave-4, for-8)
+num(minutes-11, 10-10)
+prep_like(leave-4, minutes-11)
+
+=========
+
+nsubj(amazing-8, Another-1)
+prep_than(Another-1, that-3)
+appos(that-3, everything-5)
+advmod(everything-5, else-6)
+cop(amazing-8, is-7)
+root(ROOT-0, amazing-8)
+

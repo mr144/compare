@@ -1,0 +1,61 @@
+=========
+
+det(device-2, this-1)
+nsubj(wonder-7, device-2)
+cop(wonder-7, is-3)
+advmod(wonder-7, really-4)
+det(wonder-7, a-5)
+amod(wonder-7, small-6)
+root(ROOT-0, wonder-7)
+num(wonder-7, :1-8)
+
+=========
+
+amod(screen-2, amazing-1)
+root(ROOT-0, screen-2)
+dep(screen-2, resolution-3)
+dep(screen-2, clear2-5)
+conj_and(resolution-3, clear2-5)
+
+=========
+
+amod(performance-2, great-1)
+nsubj(hated-8, performance-2)
+prep_in(performance-2, games-4)
+prep_in(performance-2, applications-6)
+conj_and(games-4, applications-6)
+dep(applications-6, that-7)
+root(ROOT-0, hated-8)
+poss(phone3-11, my-9)
+amod(phone3-11, old-10)
+dobj(hated-8, phone3-11)
+
+=========
+
+amod(life-2, Long-1)
+nsubj(battery4-3, life-2)
+root(ROOT-0, battery4-3)
+
+=========
+
+det(card-3, no-1)
+nn(card-3, sd-2)
+npadvmod(but-4, card-3)
+advmod(enough-10, but-4)
+num(store-8, 4GB-6)
+amod(store-8, internal-7)
+nsubj(enough-10, store-8)
+cop(enough-10, is-9)
+root(ROOT-0, enough-10)
+prep_for(enough-10, merecommended-12)
+prep_for(enough-10, iexcl-14)
+conj_and(merecommended-12, iexcl-14)
+cc(iexcl-17, &-16)
+dep(merecommended-12, iexcl-17)
+cc(iexcl-20, &-19)
+dep(merecommended-12, iexcl-20)
+cc(iexcl-23, &-22)
+dep(merecommended-12, iexcl-23)
+cc(iexcl-26, &-25)
+dep(merecommended-12, iexcl-26)
+

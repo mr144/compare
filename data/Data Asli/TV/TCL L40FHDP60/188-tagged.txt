@@ -1,0 +1,6 @@
+This_DT is_VBZ an_DT excellent_JJ TV_NN ._.
+The_DT picture_NN and_CC sound_NN are_VBP very_RB good_JJ ._.
+And_CC all_PDT the_DT inputs_NNS work_VBP well_RB ._.
+With_IN the_DT price_NN and_CC quality_NN ,_, this_DT is_VBZ absolutely_RB a_DT five-star_JJ product_NN ._.
+The_DT only_JJ kind_NN of_IN bad_JJ thing_NN is_VBZ there_EX is_VBZ no_DT code_NN to_TO program_VB the_DT remote_JJ ._.
+But_CC ,_, whatever_WDT ._.

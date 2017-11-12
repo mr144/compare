@@ -1,0 +1,82 @@
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+dobj(use-2, this-3)
+prepc_for(this-3, viewing-5)
+det(camera-8, a-6)
+nn(camera-8, surveillance-7)
+dobj(viewing-5, camera-8)
+
+=========
+
+det(purpose-3, that-2)
+prep_for(good-7, purpose-3)
+nsubj(good-7, it-4)
+cop(good-7, is-5)
+advmod(good-7, very-6)
+root(ROOT-0, good-7)
+
+=========
+
+nsubj(small-3, It-1)
+cop(small-3, is-2)
+root(ROOT-0, small-3)
+mark(take-8, so-4)
+nsubj(take-8, it-5)
+nsubj(has-13, it-5)
+aux(take-8, does-6)
+neg(take-8, not-7)
+advcl(small-3, take-8)
+prt(take-8, up-9)
+amod(room-11, much-10)
+dobj(take-8, room-11)
+advcl(small-3, has-13)
+conj_and(take-8, has-13)
+amod(quality-16, good-14)
+nn(quality-16, video-15)
+dobj(has-13, quality-16)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+nsubj(use-4, NOT-3)
+ccomp(have-2, use-4)
+dobj(use-4, this-5)
+det(TV-8, a-7)
+prep_as(use-4, TV-8)
+amod(content-13, viewing-10)
+amod(content-13, other-11)
+amod(content-13, video\/TV-12)
+prep_as(use-4, content-13)
+conj_or(TV-8, content-13)
+mark(comment-18, so-14)
+nsubj(comment-18, I-15)
+aux(comment-18, can-16)
+neg(comment-18, not-17)
+advcl(use-4, comment-18)
+det(quality-22, the-20)
+amod(quality-22, overall-21)
+prep_on(comment-18, quality-22)
+prep_of(quality-22, picture-24)
+prep_of(quality-22, sound-26)
+conj_and(picture-24, sound-26)
+
+=========
+
+cc(do-13, So-1)
+mark(need-4, if-2)
+nsubj(need-4, you-3)
+dep(do-13, need-4)
+nsubj(viewing-9, something-5)
+dep(viewing-9, small-6)
+prep_for(small-6, surveillance-8)
+xcomp(need-4, viewing-9)
+advmod(viewing-9, then-10)
+nsubj(do-13, this-11)
+aux(do-13, will-12)
+root(ROOT-0, do-13)
+det(job-15, the-14)
+dobj(do-13, job-15)
+

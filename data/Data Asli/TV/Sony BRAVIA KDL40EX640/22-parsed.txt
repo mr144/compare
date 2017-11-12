@@ -1,0 +1,37 @@
+=========
+
+nsubj(Sony-4, It-1)
+cop(Sony-4, is-2)
+det(Sony-4, a-3)
+root(ROOT-0, Sony-4)
+dobj(go-8, Sony-4)
+nsubj(go-8, you-5)
+aux(go-8, can-6)
+neg(go-8, not-7)
+rcmod(Sony-4, go-8)
+acomp(go-8, wrong-9)
+poss(tv-12, my-10)
+amod(tv-12, past-11)
+nsubj(Sony-15, tv-12)
+cop(Sony-15, was-13)
+det(Sony-15, a-14)
+ccomp(wrong-9, Sony-15)
+dobj(RIP-18, Sony-15)
+nsubj(RIP-18, it-16)
+advmod(RIP-18, just-17)
+rcmod(Sony-15, RIP-18)
+num(years-21, 29-20)
+prep_after(RIP-18, years-21)
+prep_of(years-21, service-23)
+
+=========
+
+nsubj(love-2, I-1)
+nsubj(enjoy-4, I-1)
+root(ROOT-0, love-2)
+conj_and(love-2, enjoy-4)
+poss(tv-8, my-5)
+amod(tv-8, new-6)
+nn(tv-8, SONY-7)
+dobj(love-2, tv-8)
+

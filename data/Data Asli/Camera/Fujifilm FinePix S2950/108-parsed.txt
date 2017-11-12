@@ -1,0 +1,35 @@
+=========
+
+det(price-2, The-1)
+nsubj(has-10, price-2)
+advmod(low-4, very-3)
+advmod(has-10, low-4)
+det(features-7, the-6)
+prep_with(low-4, features-7)
+det(camera-9, this-8)
+dep(low-4, camera-9)
+root(ROOT-0, has-10)
+
+=========
+
+det(acquisition-3, A-1)
+amod(acquisition-3, great-2)
+root(ROOT-0, acquisition-3)
+nsubj(sharp-8, Images-5)
+cop(sharp-8, are-6)
+advmod(sharp-8, very-7)
+dep(acquisition-3, sharp-8)
+det(flash-11, the-10)
+nsubj(one-of-a-kind-13, flash-11)
+cop(one-of-a-kind-13, is-12)
+dep(sharp-8, one-of-a-kind-13)
+cop(camera-18, is-15)
+det(camera-18, the-16)
+amod(camera-18, best-17)
+ccomp(sharp-8, camera-18)
+dobj(had-22, camera-18)
+nsubj(had-22, I-19)
+aux(had-22, have-20)
+advmod(had-22, ever-21)
+rcmod(camera-18, had-22)
+

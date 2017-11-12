@@ -1,0 +1,30 @@
+=========
+
+amod(camera-2, Great-1)
+nsubj(love-4, camera-2)
+root(ROOT-0, love-4)
+det(size-6, the-5)
+dobj(love-4, size-6)
+dobj(love-4, speed-8)
+conj_and(size-6, speed-8)
+
+=========
+
+nsubj(come-5, Pictures-1)
+det(camera-4, this-3)
+prep_with(Pictures-1, camera-4)
+root(ROOT-0, come-5)
+dep(clear-8, out-6)
+advmod(clear-8, very-7)
+acomp(come-5, clear-8)
+
+=========
+
+root(ROOT-0, Easy-1)
+aux(transfer-3, to-2)
+dep(Easy-1, transfer-3)
+det(pictures-5, the-4)
+dobj(transfer-3, pictures-5)
+poss(computer-8, my-7)
+prep_to(transfer-3, computer-8)
+

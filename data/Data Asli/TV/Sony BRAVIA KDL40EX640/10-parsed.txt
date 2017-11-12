@@ -1,0 +1,78 @@
+=========
+
+det(TV-2, The-1)
+nsubjpass(delivered-4, TV-2)
+auxpass(delivered-4, was-3)
+root(ROOT-0, delivered-4)
+prep_on(delivered-4, time-6)
+dep(time-6, packed-8)
+advmod(well-10, very-9)
+advmod(packed-8, well-10)
+dep(time-6, easy-12)
+conj_and(packed-8, easy-12)
+aux(install-14, to-13)
+xcomp(easy-12, install-14)
+
+=========
+
+nsubj(have-2, We-1)
+root(ROOT-0, have-2)
+amod(service-6, basic-3)
+amod(service-6, extended-4)
+nn(service-6, cable-5)
+dobj(have-2, service-6)
+prep(service-6, only-7)
+dep(only-7, giving-8)
+iobj(giving-8, us-9)
+amod(dpi-11, 780-10)
+dobj(giving-8, dpi-11)
+
+=========
+
+det(HD-2, The-1)
+nsubj(excellent-4, HD-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+det(picture-8, the-6)
+amod(picture-8, analog-7)
+nsubj(good-11, picture-8)
+cop(good-11, is-9)
+advmod(good-11, very-10)
+conj_and(excellent-4, good-11)
+
+=========
+
+nsubj(explored-4, We-1)
+nsubj(seems-12, We-1)
+xsubj(offer-14, We-1)
+aux(explored-4, have-2)
+neg(explored-4, not-3)
+root(ROOT-0, explored-4)
+det(Internet-6, the-5)
+dobj(explored-4, Internet-6)
+det(extent-9, any-8)
+prep_to(explored-4, extent-9)
+conj_but(explored-4, seems-12)
+aux(offer-14, to-13)
+xcomp(seems-12, offer-14)
+det(selection-17, a-15)
+amod(selection-17, large-16)
+dobj(offer-14, selection-17)
+
+=========
+
+det(access-5, The-1)
+num(access-5, one-2)
+nn(access-5, button-3)
+nn(access-5, Netflix-4)
+nsubj(makes-6, access-5)
+root(ROOT-0, makes-6)
+poss(wife-8, my-7)
+nsubj(visit-14, wife-8)
+advmod(happy-10, very-9)
+dep(visit-14, happy-10)
+advmod(visit-14, when-11)
+det(grandchildren-13, the-12)
+nsubj(visit-14, grandchildren-13)
+xcomp(makes-6, visit-14)
+

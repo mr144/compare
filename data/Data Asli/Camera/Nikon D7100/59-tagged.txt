@@ -1,0 +1,12 @@
+I_PRP am_VBP not_RB a_DT professional_NN ._.
+I_PRP moved_VBD up_RB from_IN D-70_CD to_TO D90_CD to_TO D-7100_CD ._.
+I_PRP like_VBP the_DT performance_NN of_IN the_DT 7100_CD ._.
+It_PRP produces_VBZ wonderful_JJ images_NNS beyond_IN my_PRP$ expectations_NNS in_IN low_JJ light_NN ._.
+BUT_NNP ,_, On_IN page_NN 75_CD of_IN the_DT user_NN manual_NN ,_, there_EX is_VBZ a_DT call-out_NN at_IN the_DT bottom_NN that_WDT contains_VBZ the_DT following_JJ sentence_NN :_: `_`` The_DT focus_NN point_NN for_IN AF_NNP is_VBZ selected_VBN automatically_RB ;_: manual_JJ focus_NN selection_NN is_VBZ NOT_RB available_JJ ._. '_''
+This_DT really_RB bugs_NNS me_PRP ._.
+I_PRP like_VBP being_VBG able_JJ to_TO manually_RB adjust_VB the_DT focus_NN point_NN to_TO get_VB a_DT light_JJ reading_NN on_IN the_DT highlights_VBZ to_TO keep_VB from_IN blowing_VBG them_PRP out_RP ._.
+The_DT auto_NN selection_NN of_IN focus_NN point_NN keeps_VBZ jumping_VBG all_DT around_IN with_IN each_DT half-way_JJ press_NN of_IN the_DT shutter_NN button_NN ._.
+So_RB I_PRP am_VBP left_VBN with_IN having_VBG to_TO move_VB to_TO the_DT manual_JJ switch_NN ,_, take_VB a_DT light_JJ reading_NN from_IN a_DT single_JJ point_NN ,_, set_VBN my_PRP$ exposure_NN and_CC then_RB switch_VB back_RB to_TO automatic_JJ and_CC compose_VB the_DT shot_NN ._.
+It_PRP 's_VBZ a_DT bit_NN of_IN a_DT drag_NN and_CC yesterday_NN ,_, I_PRP found_VBD myself_PRP taking_VBG my_PRP$ trusty_JJ D90_NN along_IN and_CC leaving_VBG the_DT 7100_CD behind_RB ._.
+Perhaps_RB there_EX is_VBZ a_DT better_JJR way_NN ,_, but_CC right_RB now_RB ,_, being_VBG new_JJ to_TO the_DT camera_NN ,_, I_PRP have_VBP not_RB discovered_VBN it_PRP and_CC find_VB it_PRP a_DT bit_NN frustrating_VBG -_: hence_RB the_DT 4_CD stars_NNS ._.
+Were_VBD it_PRP not_RB for_IN the_DT magnificent_JJ images_NNS it_PRP produces_VBZ at_IN 24mp_CD ,_, I_PRP would_MD have_VB given_VBN it_PRP a_DT 3_CD ._.

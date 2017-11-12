@@ -1,0 +1,24 @@
+The_DT Nexus_NNP One_NNP -LRB-_-LRB- NX1_NNP -RRB-_-RRB- is_VBZ an_DT AMAZING_JJ piece_NN of_IN hardware_NN !_.
+Great_NNP build_VB quality_NN ,_, responsive_JJ capacitive_JJ screen_NN ,_, perfect_JJ size_NN ,_, great_JJ camera_NN ,_, and_CC it_PRP is_VBZ as_RB fast_RB as_IN you_PRP can_MD expect_VB a_DT non-4G_JJ ,_, non-dual_JJ core_NN phone_NN to_TO be_VB ._.
+Perfect_NNP right_RB ?_.
+Almost_RB ._.
+Unfortunately_RB ,_, the_DT phone_NN comes_VBZ packaged_VBN with_IN Android_NNP 2.2_CD ,_, not_RB the_DT latest_JJS version_NN of_IN the_DT OS_NNP ._.
+You_PRP would_MD expect_VB that_IN since_IN this_DT is_VBZ the_DT original_JJ `_`` Google_NNP Phone_NNP '_'' that_IN it_PRP would_MD be_VB easy_JJ to_TO upgrade_VB to_TO the_DT latest_JJS version_NN ._.
+You_PRP would_MD be_VB wrong_JJ ._.
+Apparently_RB ,_, the_DT kernel_NN version_NN on_IN this_DT device_NN prevents_VBZ it_PRP from_IN doing_VBG an_DT over_IN the_DT air_NN -LRB-_-LRB- OTA_NNP -RRB-_-RRB- upgrade_NN -LRB-_-LRB- ever_RB !_. -RRB-_-RRB-
+and_CC HTC_NNP claimed_VBD that_IN the_DT only_JJ way_NN to_TO update_VB it_PRP ,_, would_MD be_VB to_TO send_VB it_PRP in_IN for_IN repairs_NNS !_.
+While_IN the_DT phone_NN is_VBZ fully_RB functional_JJ with_IN 2.2_CD ,_, part_NN of_IN the_DT draw_NN off_IN the_DT NX1_NNP and_CC its_PRP$ Android_NNP OS_NNP is_VBZ the_DT ability_NN to_TO quickly_RB receive_VB updates_NNS directly_RB from_IN Google_NNP ._.
+To_TO make_VB a_DT long_JJ story_NN short_JJ ,_, I_PRP spent_VBD all_DT day_NN trolling_VBG the_DT inter-webs_NNS ,_, calling_VBG HTC_NNP -LRB-_-LRB- and_CC being_VBG told_VBD that_IN updating_VBG software_NN on_IN my_PRP$ own_JJ would_MD void_VB the_DT warranty_NN -RRB-_-RRB- ,_, and_CC calling_VBG Amazon_NNP -LRB-_-LRB- who_WP offered_VBD a_DT refund_NN ,_, but_CC had_VBD no_DT information_NN on_IN whether_IN all_DT devices_NNS had_VBD the_DT same_JJ Kernel_NNP code_NN -RRB-_-RRB- ._.
+The_DT only_JJ thing_NN that_WDT worked_VBD was_VBD following_VBG the_DT steps_NNS that_IN EC_NNP provided_VBD in_IN his_PRP$ review_NN ._.
+It_PRP seems_VBZ that_IN the_DT only_JJ way_NN to_TO get_VB the_DT device_NN up-to-date_JJ ,_, is_VBZ to_TO roll_VB it_PRP back_RB to_TO a_DT stock_NN version_NN of_IN Android_NNP ,_, and_CC then_RB allow_VB the_DT OTA_NNP to_TO kick_VB in_RP ._.
+Search_NN ''_'' goodbye_FW vodafone_FW uk_FW nexus_NN one_CD rom_NN '_'' and_CC follow_VB steps_NNS 1-5_CD ,_, then_RB wait_VB for_IN the_DT OTA_NNP ._.
+OVERALL_NNP :_: Android_NNP Superphone_NNP at_IN feature_NN phone_NN price_NN ?_.
+YEP_RB !_.
+Is_VBZ there_RB a_DT catch_NN ?_.
+Unfortunately_RB ..._: Should_MD you_PRP buy_VB it_PRP ?_.
+\*_SYM Absolutely_RB !!!_JJ \*_NN unless_IN you_PRP do_VBP not_RB want_VB to_TO stick_VB with_IN Android_NNP 2.2_CD ,_, and_CC are_VBP not_RB willing\/able_JJ to_TO use_VB workarounds_NNS to_TO get_VB future_JJ updates_NNS ._.
+UPDATE_VB :_: After_IN 1_CD month_NN of_IN owner_NN ship_NN ,_, I_PRP still_RB love_VBP my_PRP$ phone_NN EXCEPT_IN the_DT touch_NN screen_NN is_VBZ inacurate_JJ and_CC glitch-prone_JJ ._.
+Previous_JJ reviews_NNS have_VBP indicated_VBN that_IN the_DT capacitive_JJ buttons_NNS above_IN the_DT track_NN ball_NN are_VBP finicky_JJ and_CC do_VBP not_RB register_VB touches_NNS accurately_RB ._.
+True_JJ ._.
+Also_RB ,_, my_PRP$ phone_NN screen_NN freaks_NNS out_RP after_IN some_DT use_NN and_CC at_IN least_JJS five_CD times_NNS a_DT day_NN the_DT phone_NN misregisters_NNS touches_NNS ,_, ie_NN :_: touch_VB the_DT status_NN bar_NN ,_, and_CC it_PRP thinks_VBZ you_PRP pressed_VBD an_DT App_NN below_IN it_PRP ,_, press_VBP an_DT app_NN ,_, and_CC it_PRP thinks_VBZ you_PRP pressed_VBD the_DT home_NN key_NN ._.
+This_DT is_VBZ a_DT very_RB ,_, very_RB annoying_JJ problem_NN that_WDT only_RB seems_VBZ to_TO clear_VB up_RP when_WRB i_FW lock_VBP the_DT screen_NN for_IN a_DT few_JJ seconds_NNS ,_, and_CC then_RB unlock_VB it_PRP ._.

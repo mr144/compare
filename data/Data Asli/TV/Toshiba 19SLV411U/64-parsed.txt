@@ -1,0 +1,47 @@
+=========
+
+det(television\/dvd-2, The-1)
+nsubj(arrived-3, television\/dvd-2)
+root(ROOT-0, arrived-3)
+advmod(arrived-3, promptly-4)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, really-2)
+root(ROOT-0, like-3)
+nsubj(adds-7, it-4)
+conj_and(it-4, it-6)
+nsubj(adds-7, it-6)
+ccomp(like-3, adds-7)
+poss(counter-11, my-9)
+nn(counter-11, kitchen-10)
+prep_to(adds-7, counter-11)
+det(appliances-16, the-13)
+amod(appliances-16, other-14)
+amod(appliances-16, black-15)
+prep_to(adds-7, appliances-16)
+conj_and(counter-11, appliances-16)
+complm(purchased-21, that-17)
+nsubj(purchased-21, I-18)
+aux(purchased-21, have-19)
+advmod(purchased-21, recently-20)
+ccomp(adds-7, purchased-21)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, this-4)
+prep_to(recommend-3, anyone-6)
+nsubj(like-9, anyone-6)
+aux(like-9, would-8)
+rcmod(anyone-6, like-9)
+det(combination-11, the-10)
+dobj(like-9, combination-11)
+
+=========
+
+root(ROOT-0, rb-1)
+

@@ -1,0 +1,32 @@
+=========
+
+nn(button-2, Power-1)
+nsubj(breaks-3, button-2)
+root(ROOT-0, breaks-3)
+num(months-6, 6-5)
+prep_after(breaks-3, months-6)
+
+=========
+
+nsubj(happened-2, Its-1)
+root(ROOT-0, happened-2)
+det(person-5, every-4)
+prep_to(happened-2, person-5)
+nsubj(know-7, I-6)
+ccomp(happened-2, know-7)
+complm(owned-9, that-8)
+ccomp(know-7, owned-9)
+det(phone-11, this-10)
+dobj(owned-9, phone-11)
+prep_including(phone-11, me-13)
+
+=========
+
+nn(GET-2, ONLY-1)
+nsubj(THIS-3, GET-2)
+root(ROOT-0, THIS-3)
+nn(ITS-6, PHONE-4)
+nn(ITS-6, IF-5)
+dobj(THIS-3, ITS-6)
+prep_for(ITS-6, FREE-8)
+

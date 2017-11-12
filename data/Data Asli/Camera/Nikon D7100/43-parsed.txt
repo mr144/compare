@@ -1,0 +1,51 @@
+=========
+
+nsubj(upgrade-5, This-1)
+cop(upgrade-5, was-2)
+det(upgrade-5, a-3)
+amod(upgrade-5, definite-4)
+root(ROOT-0, upgrade-5)
+det(D90-8, the-7)
+prep_from(upgrade-5, D90-8)
+number(MP-11, 12-10)
+dep(D90-8, MP-11)
+
+=========
+
+det(features-4, The-1)
+amod(features-4, built-in-2)
+amod(features-4, technological-3)
+nsubj(numerous-6, features-4)
+cop(numerous-6, are-5)
+root(ROOT-0, numerous-6)
+
+=========
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+amod(options-4, more-3)
+nsubj(are-2, options-4)
+mark(use-11, than-5)
+det(person-8, the-6)
+amod(person-8, average-7)
+nsubj(use-11, person-8)
+aux(use-11, will-9)
+advmod(use-11, ever-10)
+advcl(are-2, use-11)
+
+=========
+
+det(camera-2, This-1)
+nsubj(good-5, camera-2)
+aux(good-5, should-3)
+cop(good-5, be-4)
+root(ROOT-0, good-5)
+det(minimum-8, a-7)
+prep_for(good-5, minimum-8)
+nn(years-13, 5-10)
+conj_or(5-10, 6-12)
+nn(years-13, 6-12)
+prep_of(minimum-8, years-13)
+amod(use-16, regular-15)
+prep_of(years-13, use-16)
+

@@ -1,0 +1,68 @@
+=========
+
+nsubj(phone-5, overall-1)
+cop(phone-5, is-2)
+det(phone-5, a-3)
+amod(phone-5, great-4)
+root(ROOT-0, phone-5)
+
+=========
+
+ccomp(perfect-16, battery-1)
+amod(battery-1, last-2)
+advmod(battery-1, long-3)
+nsubj(perfect-16, its-5)
+advmod(perfect-16, fast-6)
+nsubj(feels-9, it-8)
+parataxis(perfect-16, feels-9)
+dobj(feels-9, sturdy-10)
+det(size-13, the-12)
+nsubj(perfect-16, size-13)
+cop(perfect-16, is-14)
+advmod(perfect-16, about-15)
+root(ROOT-0, perfect-16)
+
+=========
+
+root(ROOT-0, Im-1)
+det(user-4, a-2)
+nn(user-4, power-3)
+dobj(Im-1, user-4)
+nsubj(say-7, I-6)
+conj_and(Im-1, say-7)
+det(phone-9, this-8)
+nsubj(AMAZING-11, phone-9)
+aux(AMAZING-11, is-10)
+ccomp(say-7, AMAZING-11)
+cop(phone-18, is-14)
+neg(phone-18, not-15)
+det(phone-18, an-16)
+amod(phone-18, expensive-17)
+ccomp(say-7, phone-18)
+conj_and(AMAZING-11, phone-18)
+
+=========
+
+nsubj(beats-2, it-1)
+root(ROOT-0, beats-2)
+det(lot-4, a-3)
+dobj(beats-2, lot-4)
+prep_of(lot-4, phones-6)
+nsubj(are-8, phones-6)
+rcmod(phones-6, are-8)
+advmod(are-8, currently-9)
+prep(are-8, out-10)
+pobj(out-10, there-11)
+
+=========
+
+det(con-3, the-1)
+amod(con-3, only-2)
+nsubj(is-4, con-3)
+root(ROOT-0, is-4)
+complm(hot-8, that-5)
+nsubj(hot-8, it-6)
+dep(hot-8, gets-7)
+ccomp(is-4, hot-8)
+advmod(hot-8, sometimes-9)
+

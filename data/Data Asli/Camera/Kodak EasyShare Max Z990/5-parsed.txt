@@ -1,0 +1,85 @@
+=========
+
+root(ROOT-0, Firtst-1)
+nsubj(shouild-4, REQUIRED-3)
+dep(Firtst-1, shouild-4)
+nsubj(word-8, NOT-5)
+cop(word-8, be-6)
+det(word-8, a-7)
+ccomp(shouild-4, word-8)
+tmod(ASKED-12, word-8)
+advmod(ASKED-12, when-9)
+nsubjpass(ASKED-12, one-10)
+auxpass(ASKED-12, is-11)
+dep(word-8, ASKED-12)
+aux(write-14, to-13)
+xcomp(ASKED-12, write-14)
+det(review-16, a-15)
+dobj(write-14, review-16)
+
+=========
+
+det(camera-2, The-1)
+nsubj(inexpensive-8, camera-2)
+nn(Marketplace-5, Amazon-4)
+prep_at(camera-2, Marketplace-5)
+cop(inexpensive-8, was-6)
+advmod(inexpensive-8, EXTREMLY-7)
+root(ROOT-0, inexpensive-8)
+
+=========
+
+root(ROOT-0, Wasdelivered-1)
+det(time-5, a-3)
+amod(time-5, short-4)
+prep_in(Wasdelivered-1, time-5)
+cop(described-10, was-7)
+advmod(described-10, Exactly-8)
+advmod(described-10, as-9)
+dep(time-5, described-10)
+
+=========
+
+det(pictures-2, The-1)
+nsubj(good-6, pictures-2)
+partmod(pictures-2, taken-3)
+cop(good-6, are-4)
+advmod(good-6, quite-5)
+root(ROOT-0, good-6)
+
+=========
+
+root(ROOT-0, LOTS-1)
+amod(details-6, COLOR-3)
+conj_and(COLOR-3, great-5)
+amod(details-6, great-5)
+prep_of(LOTS-1, details-6)
+nsubj(would-9, I-8)
+dep(recomend-10, would-9)
+dep(LOTS-1, recomend-10)
+det(camera-12, this-11)
+nsubj(recomend-10, camera-12)
+prep_to(camera-12, anyone-14)
+
+=========
+
+advmod(had-4, JIMPs-1)
+nsubj(had-4, I-2)
+nsubj(used-6, I-2)
+aux(had-4, have-3)
+root(ROOT-0, had-4)
+conj_and(had-4, used-6)
+amod(cameras-9, Many-7)
+amod(cameras-9, digital-8)
+dobj(used-6, cameras-9)
+det(years-12, the-11)
+prep_over(cameras-9, years-12)
+
+=========
+
+nsubj(!!!-5, THis-1)
+cop(!!!-5, is-2)
+det(!!!-5, the-3)
+amod(!!!-5, Best-4)
+root(ROOT-0, !!!-5)
+

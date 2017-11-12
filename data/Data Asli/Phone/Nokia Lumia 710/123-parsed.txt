@@ -1,0 +1,77 @@
+=========
+
+advmod(cellphone-3, About-1)
+det(cellphone-3, the-2)
+root(ROOT-0, cellphone-3)
+nsubj(like-6, I-5)
+dep(cellphone-3, like-6)
+advmod(much-8, very-7)
+amod(lots-9, much-8)
+dobj(like-6, lots-9)
+amod(features-12, new-11)
+prep_of(lots-9, features-12)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+det(phone-2, The-1)
+nsubj(have-5, phone-2)
+nsubj(paste-11, phone-2)
+aux(have-5, does-3)
+neg(have-5, not-4)
+root(ROOT-0, have-5)
+det(option-7, the-6)
+dobj(have-5, option-7)
+prep_of(option-7, copy-9)
+conj_and(have-5, paste-11)
+det(numbers-13, the-12)
+dobj(paste-11, numbers-13)
+det(call-16, a-15)
+prep_of(numbers-13, call-16)
+nsubjpass(made-19, call-16)
+auxpass(made-19, was-18)
+rcmod(call-16, made-19)
+advmod(versa-22, vice-21)
+dobj(paste-11, versa-22)
+advmod(numbers-13, versa-22)
+conj_or(numbers-13, versa-22)
+det(phones-28, the-25)
+amod(phones-28, old-26)
+num(phones-28, Nokia-27)
+prep_in(edit-32, phones-28)
+nsubj(edit-32, you-29)
+aux(edit-32, can-30)
+parataxis(have-5, edit-32)
+dobj(edit-32, number-33)
+dep(34-36, #-35)
+dobj(edit-32, 34-36)
+conj_and(number-33, 34-36)
+
+=========
+
+prep_in(phone-9, general-2)
+nsubj(phone-9, it-4)
+cop(phone-9, is-5)
+det(phone-9, a-6)
+advmod(great-8, very-7)
+amod(phone-9, great-8)
+root(ROOT-0, phone-9)
+
+=========
+
+cop(nice-3, Is-1)
+advmod(nice-3, very-2)
+ccomp(simple-11, nice-3)
+ccomp(nice-3, looks-5)
+acomp(looks-5, great-6)
+nsubj(simple-11, it-8)
+cop(simple-11, is-9)
+advmod(simple-11, so-10)
+root(ROOT-0, simple-11)
+nsubj(look-16, people-13)
+aux(look-16, will-14)
+advmod(look-16, always-15)
+conj_and(simple-11, look-16)
+prep_at(look-16, you-18)
+

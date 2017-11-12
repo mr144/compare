@@ -1,0 +1,137 @@
+=========
+
+root(ROOT-0, Bought-1)
+det(camera-3, this-2)
+dobj(Bought-1, camera-3)
+prep_in(camera-3, December-5)
+num(December-5, 2011-6)
+
+=========
+
+det(months-4, a-2)
+amod(months-4, few-3)
+prep_within(were-6, months-4)
+expl(were-6, there-5)
+root(ROOT-0, were-6)
+amod(splotches-8, gray-7)
+nsubj(were-6, splotches-8)
+poss(photos-11, my-10)
+prep_on(splotches-8, photos-11)
+
+=========
+
+det(search-4, an-2)
+nn(search-4, Internet-3)
+prep_in(found-6, search-4)
+nsubj(found-6, I-5)
+root(ROOT-0, found-6)
+complm(had-10, that-7)
+nsubj(had-10, others-8)
+advmod(had-10, also-9)
+ccomp(found-6, had-10)
+det(problem-13, the-11)
+amod(problem-13, same-12)
+dobj(had-10, problem-13)
+det(camera-16, this-15)
+prep_with(problem-13, camera-16)
+
+=========
+
+nsubj(thought-2, I-1)
+root(ROOT-0, thought-2)
+advmod(dust-4, perhaps-3)
+nsubj(got-5, dust-4)
+ccomp(thought-2, got-5)
+prep_into(got-5, it-7)
+advmod(got-5, so-8)
+prep_in(bought-14, July-11)
+num(July-11, 2012-12)
+nsubj(bought-14, I-13)
+parataxis(thought-2, bought-14)
+det(one-19, another-15)
+nn(one-19, camera-16)
+amod(one-19, same-18)
+dobj(bought-14, one-19)
+mark(loved-27, because-20)
+advmod(took-23, when-21)
+nsubj(took-23, it-22)
+advcl(loved-27, took-23)
+amod(photos-25, clear-24)
+dobj(took-23, photos-25)
+nsubj(loved-27, I-26)
+advcl(bought-14, loved-27)
+det(camera-29, the-28)
+dobj(loved-27, camera-29)
+
+=========
+
+num(weeks-3, 4-2)
+prep_within(stopped-5, weeks-3)
+nsubj(stopped-5, it-4)
+root(ROOT-0, stopped-5)
+xcomp(stopped-5, working-6)
+
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+npadvmod(different-4, two-3)
+amod(batteries-7, different-4)
+advmod(charged-6, fully-5)
+amod(batteries-7, charged-6)
+dobj(tried-2, batteries-7)
+nsubj(worked-9, batteries-7)
+rcmod(batteries-7, worked-9)
+det(camera-13, the-11)
+amod(camera-13, first-12)
+prep_in(worked-9, camera-13)
+nsubj(unusable-17, that-15)
+cop(unusable-17, is-16)
+dep(tried-2, unusable-17)
+det(splotches-22, the-20)
+amod(splotches-22, gray-21)
+prep_because_of(unusable-17, splotches-22)
+dep(tried-2, so-24)
+nsubj(issue-30, it-25)
+cop(issue-30, was-26)
+neg(issue-30, not-27)
+det(issue-30, a-28)
+nn(issue-30, battery-29)
+ccomp(tried-2, issue-30)
+
+=========
+
+nsubj(died-3, It-1)
+advmod(died-3, just-2)
+root(ROOT-0, died-3)
+nsubj(babied-7, I-6)
+conj_and(died-3, babied-7)
+det(camera-9, this-8)
+dobj(babied-7, camera-9)
+
+=========
+
+dep(stuck-5, So-1)
+advmod(stuck-5, now-2)
+nsubjpass(stuck-5, I-3)
+auxpass(stuck-5, am-4)
+root(ROOT-0, stuck-5)
+prep_with(stuck-5, two-7)
+det(cameras-10, these-9)
+prep_of(two-7, cameras-10)
+num(dead-13, one-12)
+dep(unusable-16, dead-13)
+conj_and(dead-13, one-15)
+dep(unusable-16, one-15)
+parataxis(stuck-5, unusable-16)
+
+=========
+
+nsubj(buy-4, I-1)
+aux(buy-4, would-2)
+neg(buy-4, not-3)
+root(ROOT-0, buy-4)
+det(product-6, this-5)
+dobj(buy-4, product-6)
+advmod(buy-4, again-7)
+

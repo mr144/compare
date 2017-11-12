@@ -1,0 +1,37 @@
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+det(TV-7, this-4)
+nn(TV-7, TCL-5)
+nn(TV-7, LCD-6)
+prep_with(pleased-2, TV-7)
+
+=========
+
+nsubj(good-7, Picture-1)
+cop(great-3, is-2)
+rcmod(Picture-1, great-3)
+rcmod(Picture-1, sound-5)
+conj_and(great-3, sound-5)
+cop(good-7, is-6)
+root(ROOT-0, good-7)
+prep_for(good-7, us-9)
+
+=========
+
+det(buddy-2, A-1)
+nsubj(looked-8, buddy-2)
+nsubjpass(amazed-13, buddy-2)
+det(Sony-7, a-4)
+amod(Sony-7, high-5)
+nn(Sony-7, end-6)
+prep_with(buddy-2, Sony-7)
+root(ROOT-0, looked-8)
+prep_at(looked-8, it-10)
+auxpass(amazed-13, was-12)
+conj_and(looked-8, amazed-13)
+dobj(paid-17, what-15)
+nsubj(paid-17, we-16)
+prepc_with(amazed-13, paid-17)
+

@@ -1,0 +1,85 @@
+=========
+
+nsubj(use-2, We-1)
+root(ROOT-0, use-2)
+dobj(use-2, this-3)
+det(monitor-7, a-5)
+nn(monitor-7, display-6)
+prep_as(this-3, monitor-7)
+det(hallway-12, a-9)
+advmod(bright-11, fairly-10)
+amod(hallway-12, bright-11)
+prep_in(monitor-7, hallway-12)
+
+=========
+
+prep_such_as(underpowered-8, such-2)
+nsubj(underpowered-8, it-4)
+cop(underpowered-8, is-5)
+det(little-7, a-6)
+npadvmod(underpowered-8, little-7)
+root(ROOT-0, underpowered-8)
+dep(underpowered-8, seems-10)
+prep(seems-10, not-11)
+advmod(bright-13, quite-12)
+pobj(not-11, bright-13)
+advmod(bright-13, enough-14)
+
+=========
+
+nn(light-3, dimmer-2)
+prep_in(fine-10, light-3)
+advmod(light-3, at-5)
+conj_or(light-3, at-5)
+prep_in(fine-10, at-5)
+tmod(fine-10, night-6)
+nsubj(fine-10, it-8)
+cop(fine-10, seems-9)
+root(ROOT-0, fine-10)
+advmod(fine-10, however-12)
+
+=========
+
+nsubj(come-3, It-1)
+aux(come-3, does-2)
+root(ROOT-0, come-3)
+det(lot-6, a-5)
+prep_with(come-3, lot-6)
+amod(options-11, different-8)
+amod(options-11, mounting-9)
+nn(options-11, hardware-10)
+prep_of(lot-6, options-11)
+nsubj(helpful-17, options-11)
+rel(thought-15, which-13)
+nsubj(thought-15, I-14)
+rcmod(options-11, thought-15)
+cop(helpful-17, was-16)
+ccomp(thought-15, helpful-17)
+
+=========
+
+advmod(solid-5, Overall-1)
+cop(solid-5, seems-3)
+advmod(solid-5, totally-4)
+root(ROOT-0, solid-5)
+
+=========
+
+mark(is-3, Since-1)
+nsubj(is-3, it-2)
+advcl(look-12, is-3)
+advmod(time-8, virtually-5)
+predet(time-8, all-6)
+det(time-8, the-7)
+prep_on(is-3, time-8)
+nsubj(look-12, I-10)
+aux(look-12, 'll-11)
+root(ROOT-0, look-12)
+advmod(look-12, forward-13)
+prepc_to(look-12, seeing-15)
+advmod(holds-18, how-16)
+nsubj(holds-18, it-17)
+ccomp(seeing-15, holds-18)
+prt(holds-18, up-19)
+prep_in(holds-18, durability-21)
+

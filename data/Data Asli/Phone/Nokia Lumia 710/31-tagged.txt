@@ -1,0 +1,7 @@
+This_DT Windows_NNP phone_NN from_IN Nokia_NNP is_VBZ Great_JJ ._.
+Everything_NNP is_VBZ so_RB fast_JJ &_CC organized_JJ !_.
+Very_NNP User_NNP friendly_JJ for_IN beginners_NNS !_.
+Everything_NNP runs_VBZ smoothly_RB &_CC no_DT extra_JJ programs_NNS needed_VBN for_IN the_DT Computer_NN ._.
+Plug_NNP &_CC Play_NNP !_.
+Thanks_NNS Nokia_NNP &_CC Windows_NNP for_IN joining_VBG two_CD Great_JJ products_NNS together_RB !_.
+Jon_NNP

@@ -1,0 +1,59 @@
+=========
+
+amod(this-2, Bought-1)
+nsubjpass(Delivered-7, this-2)
+prep_on(this-2, Saturday-4)
+auxpass(Delivered-7, was-6)
+root(ROOT-0, Delivered-7)
+prep_on(Delivered-7, Tuesday-9)
+
+=========
+
+cop(surprised-3, Was-1)
+advmod(surprised-3, really-2)
+root(ROOT-0, surprised-3)
+advmod(fast-6, how-5)
+dep(got-8, fast-6)
+nsubj(got-8, it-7)
+prepc_at(surprised-3, got-8)
+advmod(got-8, here-9)
+
+=========
+
+nsubj(delivers-3, Samsung-1)
+advmod(delivers-3, always-2)
+root(ROOT-0, delivers-3)
+
+=========
+
+nsubj(simple-3, It-1)
+cop(simple-3, was-2)
+root(ROOT-0, simple-3)
+aux(set-5, to-4)
+xcomp(simple-3, set-5)
+prt(set-5, up-6)
+auxpass(connected-9, get-8)
+xcomp(simple-3, connected-9)
+conj_and(set-5, connected-9)
+poss(WI-FI-12, my-11)
+prep_to(connected-9, WI-FI-12)
+
+=========
+
+nn(Quality-2, Picture-1)
+nsubj(great-4, Quality-2)
+cop(great-4, is-3)
+ccomp(paired-7, great-4)
+nsubj(paired-7, I-6)
+root(ROOT-0, paired-7)
+dobj(paired-7, mine-8)
+det(system-15, the-10)
+nn(system-15, New-11)
+nn(system-15, BOSE-12)
+nn(system-15, Solo-13)
+nn(system-15, sound-14)
+prep_with(paired-7, system-15)
+poss(amazing-18, its-17)
+prep_with(paired-7, amazing-18)
+conj_and(system-15, amazing-18)
+

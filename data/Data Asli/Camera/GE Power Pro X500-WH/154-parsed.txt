@@ -1,0 +1,62 @@
+=========
+
+det(camera-2, This-1)
+nsubj(great-4, camera-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+det(price-7, the-6)
+nsubj(better-10, price-7)
+cop(better-10, is-8)
+advmod(better-10, even-9)
+conj_and(great-4, better-10)
+
+=========
+
+nsubj(happy-4, I-1)
+cop(happy-4, am-2)
+advmod(happy-4, extremely-3)
+root(ROOT-0, happy-4)
+poss(purchase-7, my-6)
+prep_with(happy-4, purchase-7)
+
+=========
+
+nsubj(was-2, I-1)
+nsubj(was-2', I-1)
+root(ROOT-0, was-2)
+conj_and(was-2, was-2')
+poss(way-5, my-4)
+prep_on(was-2, way-5)
+prepc_to(was-2, buying-7)
+det(Nokia-9, a-8)
+dobj(buying-7, Nokia-9)
+det(minute-14, the-12)
+amod(minute-14, last-13)
+prep_at(was-2', minute-14)
+nsubj(saw-16, I-15)
+rcmod(minute-14, saw-16)
+det(camera-18, this-17)
+dobj(saw-16, camera-18)
+
+=========
+
+det(price-2, The-1)
+root(ROOT-0, price-2)
+advmod(swayed-4, defiantly-3)
+partmod(price-2, swayed-4)
+dobj(swayed-4, me-5)
+cc(fell-16, but-6)
+advmod(received-9, when-7)
+nsubj(received-9, I-8)
+nsubj(started-12, I-8)
+advcl(fell-16, received-9)
+dobj(received-9, it-10)
+conj_and(received-9, started-12)
+advcl(fell-16, started-12)
+xcomp(started-12, taking-13)
+dobj(taking-13, pictures-14)
+nsubj(fell-16, I-15)
+dep(swayed-4, fell-16)
+prep_in(fell-16, love-18)
+prep_with(fell-16, it-20)
+

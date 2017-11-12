@@ -1,0 +1,24 @@
+=========
+
+nsubj(had-4, I-1)
+aux(had-4, have-2)
+advmod(had-4, always-3)
+root(ROOT-0, had-4)
+nn(cameras-6, Canon-5)
+dobj(had-4, cameras-6)
+det(one-9, this-8)
+nsubj(disappoint-12, one-9)
+aux(disappoint-12, does-10)
+neg(disappoint-12, not-11)
+conj_and(had-4, disappoint-12)
+
+=========
+
+root(ROOT-0, Takes-1)
+det(picture-4, a-2)
+amod(picture-4, great-3)
+dobj(Takes-1, picture-4)
+advmod(easy-7, fairly-6)
+conj_and(Takes-1, easy-7)
+prep_to(easy-7, use-9)
+

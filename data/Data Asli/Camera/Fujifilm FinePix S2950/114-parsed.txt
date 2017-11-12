@@ -1,0 +1,33 @@
+=========
+
+nsubj(meets-2, Product-1)
+nsubj(exceeds-4, Product-1)
+root(ROOT-0, meets-2)
+conj_and(meets-2, exceeds-4)
+dobj(meets-2, expectations-5)
+
+=========
+
+nn(Great-2, Takes-1)
+nsubj(pictures-3, Great-2)
+nsubj(easy-5, Great-2)
+nsubj(offers-9, Great-2)
+root(ROOT-0, pictures-3)
+conj_and(pictures-3, easy-5)
+prep_to(easy-5, use-7)
+conj_and(pictures-3, offers-9)
+advmod(options-12, so-10)
+amod(options-12, many-11)
+dobj(offers-9, options-12)
+prepc_for(offers-9, taking-14)
+dobj(taking-14, pictures-15)
+dobj(taking-14, videos-17)
+conj_and(pictures-15, videos-17)
+
+=========
+
+dep(right-2, Delivered-1)
+root(ROOT-0, right-2)
+dep(right-2, on-3)
+pobj(on-3, time-4)
+

@@ -1,0 +1,93 @@
+=========
+
+nsubj(purchased-3, I-1)
+advmod(purchased-3, recently-2)
+root(ROOT-0, purchased-3)
+det(phone-5, this-4)
+dobj(purchased-3, phone-5)
+det(buyer-8, a-7)
+prep_from(purchased-3, buyer-8)
+prep_off_of(buyer-8, Amazon-11)
+
+=========
+
+root(ROOT-0, Got-1)
+det(phone-3, the-2)
+dobj(Got-1, phone-3)
+dep(Got-1, loved-5)
+dobj(loved-5, it-6)
+advmod(Got-1, then-8)
+conj_but(Got-1, then-8)
+det(button-11, the-9)
+nn(button-11, power-10)
+nsubj(broke-12, button-11)
+ccomp(Got-1, broke-12)
+conj_but(Got-1, broke-12)
+num(weeks-14, 3-13)
+tmod(broke-12, weeks-14)
+advmod(weeks-14, later-15)
+
+=========
+
+nsubj(paid-2, I-1)
+root(ROOT-0, paid-2)
+quantmod(250-4, almost-3)
+num(dollars-5, 250-4)
+dobj(paid-2, dollars-5)
+prep_for(paid-2, it-7)
+nsubj(broke-10, it-9)
+conj_and(paid-2, broke-10)
+num(weeks-13, 3-12)
+prep_within(broke-10, weeks-13)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+neg(recommend-4, not-3)
+root(ROOT-0, recommend-4)
+xcomp(recommend-4, buying-5)
+det(phone-7, this-6)
+dobj(buying-5, phone-7)
+partmod(phone-7, used-8)
+mark(is-11, unless-9)
+nsubj(is-11, it-10)
+advcl(used-8, is-11)
+nn(condition-14, mint-13)
+prep_in(is-11, condition-14)
+
+=========
+
+det(phone-2, This-1)
+nsubjpass(known-10, phone-2)
+xsubj(break-12, phone-2)
+advmod(phone-2, especially-4)
+poss(button-7, its-5)
+nn(button-7, power-6)
+dep(phone-2, button-7)
+auxpass(known-10, are-9)
+root(ROOT-0, known-10)
+aux(break-12, to-11)
+xcomp(known-10, break-12)
+advmod(easily-14, very-13)
+advmod(break-12, easily-14)
+
+=========
+
+mark(have-6, If-1)
+det(phone-3, the-2)
+nsubj(have-6, phone-3)
+aux(have-6, did-4)
+neg(have-6, not-5)
+advcl(phone-17, have-6)
+predet(life-10, such-7)
+det(life-10, a-8)
+amod(life-10, short-9)
+dobj(have-6, life-10)
+nsubj(phone-17, it-12)
+aux(phone-17, would-13)
+cop(phone-17, be-14)
+det(phone-17, a-15)
+amod(phone-17, perfect-16)
+root(ROOT-0, phone-17)
+

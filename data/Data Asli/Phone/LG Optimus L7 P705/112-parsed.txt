@@ -1,0 +1,31 @@
+=========
+
+det(smartphone-2, The-1)
+nsubj(great-4, smartphone-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+cop(lightweight-7, is-6)
+dep(great-4, lightweight-7)
+det(screen-12, a-10)
+amod(screen-12, large-11)
+prep_with(great-4, screen-12)
+advmod(meets-14, briefly-13)
+dep(screen-12, meets-14)
+nn(specifications-16, product-15)
+dobj(meets-14, specifications-16)
+
+=========
+
+nsubj(lightweight-4, It-1)
+cop(lightweight-4, is-2)
+advmod(lightweight-4, quite-3)
+root(ROOT-0, lightweight-4)
+mark(requires-8, so-6)
+nsubj(requires-8, it-7)
+advcl(lightweight-4, requires-8)
+det(case-11, a-9)
+amod(case-11, good-10)
+dobj(requires-8, case-11)
+aux(protect-13, to-12)
+infmod(case-11, protect-13)
+

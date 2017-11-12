@@ -1,0 +1,52 @@
+=========
+
+nsubj(ordered-2, I-1)
+root(ROOT-0, ordered-2)
+det(size-5, the-3)
+amod(size-5, wrong-4)
+dobj(ordered-2, size-5)
+
+=========
+
+poss(television-3, My-1)
+amod(television-3, other-2)
+nsubj(bigger-5, television-3)
+cop(bigger-5, is-4)
+root(ROOT-0, bigger-5)
+
+=========
+
+amod(year-3, Hopefully-1)
+amod(year-3, next-2)
+tmod(purchase-6, year-3)
+nsubj(purchase-6, I-4)
+aux(purchase-6, can-5)
+root(ROOT-0, purchase-6)
+det(size-9, a-7)
+amod(size-9, bigger-8)
+dobj(purchase-6, size-9)
+
+=========
+
+advmod(love-5, All-1)
+conj_and(All-1, all-3)
+advmod(love-5, all-3)
+nsubj(love-5, I-4)
+root(ROOT-0, love-5)
+det(television-7, the-6)
+dobj(love-5, television-7)
+nsubj(is-9, it-8)
+rcmod(television-7, is-9)
+advmod(is-9, now-10)
+poss(bedroom-13, my-12)
+prep_in(is-9, bedroom-13)
+mark(relax-17, for-14)
+nsubj(relax-17, me-15)
+nsubj(enjoy-19, me-15)
+aux(relax-17, to-16)
+advcl(is-9, relax-17)
+xcomp(is-9, relax-17)
+advcl(is-9, enjoy-19)
+xcomp(is-9, enjoy-19)
+conj_and(relax-17, enjoy-19)
+

@@ -1,0 +1,5 @@
+Phone_NN is_VBZ fast_RB and_CC respond_VB well_RB to_TO touch_VB comands_NNS ._.
+Windows_NNP Phone_NNP is_VBZ very_RB easy_JJ to_TO use_VB ._.
+Still_RB missing_VBG more_JJR apps_NNS ,_, but_CC the_DT basics_NNS are_VBP available_JJ ._.
+One_CD of_IN the_DT cheapest_JJS phone_NN options_NNS with_IN most_JJS of_IN what_WP is_VBZ needed_VBN in_IN a_DT smartphone_NN ._.
+battery_NN life_NN is_VBZ regular_JJ ,_, one_CD day_NN of_IN intense_JJ usage_NN ._.

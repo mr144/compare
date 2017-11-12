@@ -1,0 +1,2 @@
+Hi_NNP ,_, I_PRP am_VBP from_IN Venezuela_NNP and_CC I_PRP wonder_VBP if_IN this_DT team_NN works_VBZ well_RB here_RB to_TO Movilnet_NNP and_CC Movistar_NNP ._.
+the_DT same_JJ way_NN that_IN bands_NNS like_VBP to_TO know_VB if_IN it_PRP really_RB works_VBZ and_CC would_MD arrive_VB on_IN February_NNP 19_CD ,_, 2013_CD at_IN Tampas_FW fl_FW ..._: sirve_FW para_FW movilnet_FW aqui_FW en_FW venezuela_FW ?_.

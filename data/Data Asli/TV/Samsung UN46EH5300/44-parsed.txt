@@ -1,0 +1,33 @@
+=========
+
+nn(TV-2, Great-1)
+dep(worked-4, TV-2)
+root(ROOT-0, worked-4)
+advmod(worked-4, straight-5)
+det(box-9, the-8)
+prep_out_of(worked-4, box-9)
+amod(players-12, various-11)
+prep_with(box-9, players-12)
+dep(box-9, etc.-13)
+
+=========
+
+amod(use-3, normal-2)
+prep_during(selects-6, use-3)
+nsubj(selects-6, it-4)
+advmod(selects-6, always-5)
+root(ROOT-0, selects-6)
+det(device-8, the-7)
+dobj(selects-6, device-8)
+dobj(want-10, device-8)
+nsubj(want-10, I-9)
+xsubj(use-12, I-9)
+rcmod(device-8, want-10)
+aux(use-12, to-11)
+xcomp(want-10, use-12)
+dobj(use-12, its-14)
+advmod(want-10, smarter-15)
+mark(!!-18, than-16)
+nsubj(!!-18, me-17)
+dep(smarter-15, !!-18)
+

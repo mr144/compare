@@ -1,0 +1,29 @@
+=========
+
+det(phone-2, The-1)
+nsubj(looks-3, phone-2)
+nsubj(works-6, phone-2)
+root(ROOT-0, looks-3)
+acomp(looks-3, great-4)
+conj_and(looks-3, works-6)
+advmod(better-8, even-7)
+acomp(works-6, better-8)
+
+=========
+
+nsubj(price-5, It-1)
+nsubj(done-14, It-1)
+cop(price-5, was-2)
+det(price-5, a-3)
+amod(price-5, great-4)
+root(ROOT-0, price-5)
+det(phone-9, a-7)
+amod(phone-9, smart-8)
+prep_for(price-5, phone-9)
+advmod(price-5, sony-11)
+conj_and(price-5, sony-11)
+aux(done-14, has-12)
+advmod(done-14, out-13)
+conj_and(price-5, done-14)
+dobj(done-14, themselves-15)
+

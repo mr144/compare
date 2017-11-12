@@ -1,0 +1,27 @@
+=========
+
+nsubjpass(disappointed-4, I-1)
+auxpass(disappointed-4, am-2)
+advmod(disappointed-4, really-3)
+root(ROOT-0, disappointed-4)
+prep_with(disappointed-4, RIM-6)
+
+=========
+
+det(smartphone-2, this-1)
+nsubj(suck-4, smartphone-2)
+cop(suck-4, is-3)
+root(ROOT-0, suck-4)
+
+=========
+
+nsubj(worse-3, It-1)
+cop(worse-3, is-2)
+root(ROOT-0, worse-3)
+poss(iphone-7, my-5)
+amod(iphone-7, old-6)
+prep_than(worse-3, iphone-7)
+advmod(worse-3, even-9)
+det(torch-12, the-11)
+prep_with(worse-3, torch-12)
+

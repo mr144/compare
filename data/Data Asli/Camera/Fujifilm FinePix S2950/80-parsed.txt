@@ -1,0 +1,34 @@
+=========
+
+det(camera-2, This-1)
+nsubj(easy-5, camera-2)
+nsubj(takes-9, camera-2)
+nsubj(love-14, camera-2)
+cop(easy-5, is-3)
+advmod(easy-5, very-4)
+root(ROOT-0, easy-5)
+aux(work-7, to-6)
+xcomp(easy-5, work-7)
+conj_and(easy-5, takes-9)
+amod(pictures-12, great-10)
+amod(pictures-12, clear-11)
+dobj(takes-9, pictures-12)
+conj_and(easy-5, love-14)
+dobj(love-14, it-15)
+nsubj(price-21, it-17)
+cop(price-21, was-18)
+det(price-21, a-19)
+amod(price-21, great-20)
+conj_and(easy-5, price-21)
+
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+nsubj(chance-5, it-3)
+det(chance-5, every-4)
+xcomp(use-2, chance-5)
+dobj(get-7, chance-5)
+nsubj(get-7, I-6)
+rcmod(chance-5, get-7)
+

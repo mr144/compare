@@ -1,0 +1,33 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+nsubj(wanted-8, this-3)
+poss(mother-6, my-5)
+prep_for(this-3, mother-6)
+rcmod(this-3, wanted-8)
+det(camera-13, a-9)
+nn(camera-13, point-10)
+conj_and(point-10, shoot-12)
+nn(camera-13, shoot-12)
+dobj(wanted-8, camera-13)
+amod(megapixles-16, many-15)
+prep_with(wanted-8, megapixles-16)
+
+=========
+
+nsubj(worked-2, This-1)
+root(ROOT-0, worked-2)
+acomp(worked-2, great-3)
+prep_for(worked-2, her-5)
+nsubj(durable-10, it-7)
+cop(durable-10, is-8)
+advmod(durable-10, very-9)
+conj_and(worked-2, durable-10)
+det(life-14, the-12)
+nn(life-14, battery-13)
+nsubj(awesome-16, life-14)
+cop(awesome-16, is-15)
+conj_and(worked-2, awesome-16)
+

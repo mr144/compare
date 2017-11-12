@@ -1,0 +1,29 @@
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+det(smartphone-4, this-3)
+nsubj(blackberry-12, smartphone-4)
+nsubj(sony-14, smartphone-4)
+cop(blackberry-12, is-5)
+advmod(blackberry-12, better-6)
+nn(Samsung-10, LG-8)
+prep_than(better-6, Samsung-10)
+ccomp(think-2, blackberry-12)
+ccomp(think-2, sony-14)
+conj_or(blackberry-12, sony-14)
+
+=========
+
+nsubj(has-2, It-1)
+root(ROOT-0, has-2)
+amod(design-4, better-3)
+dobj(has-2, design-4)
+amod(camera-7, better-6)
+appos(design-4, camera-7)
+amod(processor-10, better-9)
+appos(design-4, processor-10)
+det(phone-14, any-12)
+amod(phone-14, other-13)
+prep_than(processor-10, phone-14)
+

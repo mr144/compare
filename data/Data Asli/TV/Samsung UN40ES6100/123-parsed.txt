@@ -1,0 +1,30 @@
+=========
+
+det(picture-2, the-1)
+nsubj(clear-4, picture-2)
+nsubj(crisp-6, picture-2)
+cop(clear-4, is-3)
+root(ROOT-0, clear-4)
+conj_and(clear-4, crisp-6)
+
+=========
+
+nsubj(easy-3, it-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(navigate-5, to-4)
+xcomp(easy-3, navigate-5)
+det(features-8, the-6)
+amod(features-8, different-7)
+dobj(navigate-5, features-8)
+
+=========
+
+advmod(far-2, so-1)
+advmod(found-3, far-2)
+root(ROOT-0, found-3)
+dep(found-3, nothing-4)
+aux(dislike-6, to-5)
+infmod(nothing-4, dislike-6)
+prep_about(dislike-6, it-8)
+

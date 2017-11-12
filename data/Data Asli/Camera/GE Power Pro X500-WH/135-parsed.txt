@@ -1,0 +1,46 @@
+=========
+
+nsubj(camera-6, This-1)
+cop(camera-6, is-2)
+advmod(camera-6, just-3)
+det(camera-6, an-4)
+amod(camera-6, OK-5)
+root(ROOT-0, camera-6)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, it-3)
+det(wedding-6, a-5)
+prep_for(bought-2, wedding-6)
+
+=========
+
+det(picture-2, Some-1)
+nsubj(came-3, picture-2)
+root(ROOT-0, came-3)
+prt(came-3, out-4)
+dobj(came-3, great-5)
+dobj(came-3, others-7)
+conj_and(great-5, others-7)
+prep(came-3, not-8)
+advmod(great-10, so-9)
+pobj(not-8, great-10)
+
+=========
+
+advmod(goes-3, Also-1)
+nsubj(goes-3, it-2)
+root(ROOT-0, goes-3)
+amod(batteries-5, thru-4)
+dobj(goes-3, batteries-5)
+advmod(even-8, very-6)
+advmod(even-8, quickly-7)
+advmod(batteries-5, even-8)
+advmod(off-13, when-9)
+det(power-11, the-10)
+nsubj(off-13, power-11)
+cop(off-13, is-12)
+dep(even-8, off-13)
+

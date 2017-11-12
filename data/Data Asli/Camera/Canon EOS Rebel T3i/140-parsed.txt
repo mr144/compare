@@ -1,0 +1,43 @@
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+poss(research-5, my-3)
+amod(research-5, own-4)
+dobj(did-2, research-5)
+prep_of(research-5, course-7)
+nsubj(value-13, this-9)
+cop(value-13, is-10)
+det(value-13, a-11)
+amod(value-13, great-12)
+conj_and(did-2, value-13)
+det(type-16, the-15)
+prep_for(value-13, type-16)
+prep_of(type-16, camera-18)
+
+=========
+
+det(photos-2, The-1)
+nsubj(brilliant-4, photos-2)
+cop(brilliant-4, are-3)
+root(ROOT-0, brilliant-4)
+det(mode-8, the-6)
+amod(mode-8, smart-7)
+nsubj(makes-9, mode-8)
+conj_and(brilliant-4, makes-9)
+dobj(makes-9, picture-10)
+partmod(picture-10, taking-11)
+prep_for(taking-11, novices-13)
+advmod(easy-15, very-14)
+amod(novices-13, easy-15)
+
+=========
+
+nsubj(good-4, Videos-1)
+cop(good-4, are-2)
+advmod(good-4, pretty-3)
+root(ROOT-0, good-4)
+advmod(well-6, as-5)
+mwe(well-6, as-5)
+advmod(good-4, well-6)
+

@@ -1,0 +1,124 @@
+=========
+
+aux(buy-3, Do-1)
+neg(buy-3, not-2)
+root(ROOT-0, buy-3)
+det(phone-5, this-4)
+dobj(buy-3, phone-5)
+
+=========
+
+nsubj(had-4, I-1)
+aux(had-4, have-2)
+neg(had-4, never-3)
+root(ROOT-0, had-4)
+advmod(many-6, so-5)
+amod(problems-7, many-6)
+dobj(had-4, problems-7)
+det(phone-10, a-9)
+prep_with(problems-7, phone-10)
+
+=========
+
+dep(zoom-2, no-1)
+root(ROOT-0, zoom-2)
+det(camera-5, this-4)
+prep_in(zoom-2, camera-5)
+
+=========
+
+poss(OS-3, It-1)
+nsubj(slow-5, OS-3)
+nsubj(lame-7, OS-3)
+cop(slow-5, is-4)
+root(ROOT-0, slow-5)
+conj_and(slow-5, lame-7)
+
+=========
+
+det(apps-2, The-1)
+nsubj(are-6, apps-2)
+det(phone-5, this-4)
+prep_for(apps-2, phone-5)
+root(ROOT-0, are-6)
+neg(are-6, not-7)
+det(penny-10, a-9)
+prep_worth(are-6, penny-10)
+
+=========
+
+nsubj(buy-4, I-1)
+aux(buy-4, 'll-2)
+neg(buy-4, never-3)
+root(ROOT-0, buy-4)
+det(phone-7, a-5)
+amod(phone-7, blackberry-6)
+dobj(buy-4, phone-7)
+advmod(buy-4, again-8)
+
+=========
+
+det(life-3, The-1)
+nn(life-3, battery-2)
+nsubj(joke-6, life-3)
+cop(joke-6, is-4)
+det(joke-6, a-5)
+root(ROOT-0, joke-6)
+
+=========
+
+nsubj(make-5, I-1)
+aux(make-5, could-2)
+neg(make-5, not-3)
+advmod(make-5, even-4)
+root(ROOT-0, make-5)
+dobj(make-5, it-6)
+det(day-9, a-7)
+amod(day-9, full-8)
+npadvmod(make-5, day-9)
+prepc_before(make-5, recharging-11)
+nsubj(old-19, it-13)
+cop(old-19, was-14)
+quantmod(several-17, only-15)
+quantmod(several-17, a-16)
+num(days-18, several-17)
+npadvmod(old-19, days-18)
+parataxis(make-5, old-19)
+
+=========
+
+det(reason-3, The-1)
+amod(reason-3, main-2)
+nsubj(keyboard-12, reason-3)
+nsubj(brought-5, I-4)
+rcmod(reason-3, brought-5)
+det(phone-7, the-6)
+nsubj(was-8, phone-7)
+ccomp(brought-5, was-8)
+prep_for(was-8, it-10)
+cop(keyboard-12, is-11)
+root(ROOT-0, keyboard-12)
+
+=========
+
+nsubj(make-4, I-1)
+aux(make-4, will-2)
+neg(make-4, not-3)
+root(ROOT-0, make-4)
+det(mistake-6, that-5)
+dobj(make-4, mistake-6)
+advmod(make-4, again-7)
+
+=========
+
+advmod(excuse-7, Blackberry-1)
+nsubj(excuse-7, torch-2)
+num(torch-2, 9800-3)
+cop(excuse-7, is-4)
+det(excuse-7, a-5)
+amod(excuse-7, sorry-6)
+root(ROOT-0, excuse-7)
+det(phone-11, a-9)
+amod(phone-11, smart-10)
+prep_for(excuse-7, phone-11)
+

@@ -1,0 +1,289 @@
+=========
+
+nsubj(going-3, I-1)
+xsubj(start-5, I-1)
+aux(going-3, am-2)
+root(ROOT-0, going-3)
+aux(start-5, to-4)
+xcomp(going-3, start-5)
+det(review-7, this-6)
+dobj(start-5, review-7)
+prt(start-5, off-8)
+prepc_by(start-5, saying-10)
+nsubjpass(satisfied-13, I-11)
+auxpass(satisfied-13, am-12)
+ccomp(saying-10, satisfied-13)
+det(tv-16, this-15)
+prep_with(satisfied-13, tv-16)
+
+=========
+
+nsubj(stress-2, I-1)
+root(ROOT-0, stress-2)
+det(term-4, the-3)
+nsubj(satisfied-5, term-4)
+ccomp(stress-2, satisfied-5)
+mark(do-8, because-6)
+nsubj(do-8, I-7)
+advcl(satisfied-5, do-8)
+ccomp(do-8, believe-9)
+expl(is-11, there-10)
+ccomp(believe-9, is-11)
+nsubj(is-11, room-12)
+prep_for(room-12, improvement-14)
+
+=========
+
+nsubj(buy-4, I-1)
+nsubj(go-11, I-1)
+aux(buy-4, did-2)
+neg(buy-4, not-3)
+root(ROOT-0, buy-4)
+det(tv-6, the-5)
+dobj(buy-4, tv-6)
+prep_from(buy-4, amazon-8)
+aux(go-11, did-10)
+conj_but(buy-4, go-11)
+det(company-14, a-13)
+prep_with(go-11, company-14)
+det(little-16, a-15)
+npadvmod(cheaper-17, little-16)
+amod(company-14, cheaper-17)
+prep(go-11, online-18)
+
+=========
+
+nsubj(running-3, I-1)
+aux(running-3, am-2)
+root(ROOT-0, running-3)
+det(tv-5, the-4)
+dobj(running-3, tv-5)
+prep_along_with(running-3, directv-8)
+prep_along_with(running-3, ps3-10)
+conj_and(directv-8, ps3-10)
+
+=========
+
+det(tv-2, The-1)
+nsubj(works-15, tv-2)
+det(start-5, the-4)
+prep_from(tv-2, start-5)
+partmod(works-15, turning-7)
+dobj(turning-7, it-8)
+prep(turning-7, on-9)
+det(menus-12, the-11)
+nsubj(works-15, menus-12)
+appos(menus-12, everything-14)
+root(ROOT-0, works-15)
+acomp(works-15, fantastic-16)
+
+=========
+
+nsubj(put-2, I-1)
+nsubj(wow-8, I-1)
+root(ROOT-0, put-2)
+det(ray-5, a-3)
+nn(ray-5, blu-4)
+dobj(put-2, ray-5)
+prep(put-2, in-6)
+conj_and(put-2, wow-8)
+
+=========
+
+nsubj(waited-2, I-1)
+xsubj(watch-4, I-1)
+root(ROOT-0, waited-2)
+aux(watch-4, to-3)
+xcomp(waited-2, watch-4)
+det(Rises-8, the-5)
+amod(Rises-8, Dark-6)
+nn(Rises-8, Knight-7)
+dobj(watch-4, Rises-8)
+mark(got-11, till-9)
+nsubj(got-11, I-10)
+advcl(watch-4, got-11)
+det(tv-13, this-12)
+dobj(got-11, tv-13)
+nsubj(amazing-17, It-15)
+cop(amazing-17, was-16)
+conj_and(waited-2, amazing-17)
+
+=========
+
+det(blacks-2, The-1)
+nsubj(unbelievable-4, blacks-2)
+cop(unbelievable-4, are-3)
+root(ROOT-0, unbelievable-4)
+
+=========
+
+advmod(come-3, Now-1)
+nsubj(come-3, I-2)
+root(ROOT-0, come-3)
+det(history-7, a-5)
+amod(history-7, great-6)
+prep_from(come-3, history-7)
+prep_of(history-7, Tv-9)
+possessive(Tv-9, 's-10)
+
+=========
+
+nsubj(plasma-5, This-1)
+cop(plasma-5, being-2)
+poss(plasma-5, my-3)
+amod(plasma-5, first-4)
+root(ROOT-0, plasma-5)
+
+=========
+
+nsubj(have-3, I-1)
+advmod(have-3, currently-2)
+root(ROOT-0, have-3)
+det(XBR3-7, a-4)
+amod(XBR3-7, 40in-5)
+nn(XBR3-7, Sony-6)
+dobj(have-3, XBR3-7)
+det(HX829-12, a-9)
+amod(HX829-12, 55in-10)
+nn(HX829-12, Sony-11)
+dobj(have-3, HX829-12)
+conj_and(XBR3-7, HX829-12)
+dobj(have-3, now-14)
+advmod(XBR3-7, now-14)
+conj_and(XBR3-7, now-14)
+det(VT50-18, a-15)
+amod(VT50-18, 65in-16)
+nn(VT50-18, Panasonic-17)
+dobj(have-3, VT50-18)
+conj_and(XBR3-7, VT50-18)
+
+=========
+
+root(ROOT-0, Bedroom-1)
+amod(Room-4, Living-3)
+appos(Bedroom-1, Room-4)
+appos(Room-4, Basement-6)
+
+=========
+
+det(downfall-3, The-1)
+amod(downfall-3, only-2)
+root(ROOT-0, downfall-3)
+det(tv-6, this-5)
+prep_with(downfall-3, tv-6)
+advmod(giving-11, why-8)
+nsubj(giving-11, I-9)
+aux(giving-11, am-10)
+conj_and(downfall-3, giving-11)
+rcmod(downfall-3, giving-11)
+iobj(giving-11, it-12)
+det(4-14, a-13)
+dobj(giving-11, 4-14)
+
+=========
+
+dep(happy-9, Playing-1)
+det(Channel-5, a-2)
+nn(Channel-5, HD-3)
+nn(Channel-5, Directv-4)
+dobj(Playing-1, Channel-5)
+nsubj(happy-9, I-6)
+cop(happy-9, am-7)
+neg(happy-9, not-8)
+root(ROOT-0, happy-9)
+det(color-12, the-11)
+prep_with(happy-9, color-12)
+
+=========
+
+nsubj(tried-2, I-1)
+root(ROOT-0, tried-2)
+amod(settings-4, different-3)
+dobj(tried-2, settings-4)
+nn(looks-7, nothing-6)
+nsubj(color-14, looks-7)
+poss(tv-11, my-9)
+amod(tv-11, other-10)
+prep_like(looks-7, tv-11)
+cop(color-14, 's-12)
+det(color-14, the-13)
+conj_but(tried-2, color-14)
+cop(impressive-17, is-15)
+neg(impressive-17, not-16)
+rcmod(color-14, impressive-17)
+nsubj(getting-22, I-19)
+aux(getting-22, am-20)
+neg(getting-22, not-21)
+conj_and(tried-2, getting-22)
+det(wow-24, that-23)
+dobj(getting-22, wow-24)
+prepc_from(getting-22, watching-26)
+det(tv-28, the-27)
+dobj(watching-26, tv-28)
+
+=========
+
+root(ROOT-0, Is-1)
+expl(Is-1, there-2)
+nsubj(Is-1, something-3)
+dobj(missing-6, something-3)
+prep_with(help-14, something-3)
+nsubj(missing-6, I-4)
+aux(missing-6, am-5)
+rcmod(something-3, missing-6)
+advmod(help-14, here-7)
+advmod(help-14, maybe-9)
+det(someone-12, a-10)
+nn(someone-12, setting-11)
+nsubj(help-14, someone-12)
+aux(help-14, can-13)
+ccomp(missing-6, help-14)
+dobj(help-14, me-15)
+
+=========
+
+mark(watching-4, If-1)
+nsubj(watching-4, you-2)
+aux(watching-4, are-3)
+advcl(suggest-10, watching-4)
+det(movie-8, a-5)
+nn(movie-8, Blu-6)
+nn(movie-8, ray-7)
+dobj(watching-4, movie-8)
+nsubj(suggest-10, I-9)
+root(ROOT-0, suggest-10)
+xcomp(suggest-10, getting-11)
+det(system-15, a-12)
+amod(system-15, surround-13)
+nn(system-15, sound-14)
+dobj(getting-11, system-15)
+
+=========
+
+dep(let-2, Please-1)
+root(ROOT-0, let-2)
+nsubj(know-4, me-3)
+ccomp(let-2, know-4)
+mark(is-7, if-5)
+expl(is-7, there-6)
+advcl(know-4, is-7)
+nsubj(is-7, something-8)
+nsubj(missing-11, I-9)
+cop(missing-11, am-10)
+rcmod(something-8, missing-11)
+
+=========
+
+aux(appreciate-3, Would-1)
+advmod(appreciate-3, greatly-2)
+root(ROOT-0, appreciate-3)
+nsubj(appreciate-3, it-4)
+appos(it-4, then-6)
+nsubj(turn-9, I-7)
+aux(turn-9, can-8)
+rcmod(then-6, turn-9)
+poss(review-11, my-10)
+dobj(turn-9, review-11)
+quantmod(5-14, a-13)
+prep_to(turn-9, 5-14)
+

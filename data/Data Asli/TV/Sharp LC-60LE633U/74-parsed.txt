@@ -1,0 +1,76 @@
+=========
+
+amod(tv-2, Awesome-1)
+root(ROOT-0, tv-2)
+amod(experience-5, great-4)
+conj_and(tv-2, experience-5)
+prep_with(tv-2, Amazon-7)
+
+=========
+
+nsubj(polite-11, TV-1)
+nsubj(prompt-13, TV-1)
+partmod(TV-1, arrived-2)
+nn(company-7, time-4)
+prep_on(arrived-2, delivery-6)
+conj_and(company-7, delivery-6)
+prep_on(arrived-2, company-7)
+prep_on(arrived-2, personnel-9)
+conj_and(company-7, personnel-9)
+cop(polite-11, were-10)
+root(ROOT-0, polite-11)
+conj_and(polite-11, prompt-13)
+
+=========
+
+nn(delivery-2, Basic-1)
+nsubj(all-4, delivery-2)
+cop(all-4, was-3)
+root(ROOT-0, all-4)
+dobj(due-7, all-4)
+nsubj(due-7, I-5)
+aux(due-7, had-6)
+rcmod(all-4, due-7)
+det(project-11, a-9)
+amod(project-11, remodel-10)
+prep_to(due-7, project-11)
+
+=========
+
+nsubj(easy-5, TV-1)
+partmod(TV-1, set-2)
+prt(set-2, up-3)
+cop(easy-5, was-4)
+root(ROOT-0, easy-5)
+
+=========
+
+nsubj(awesome-3, Picture-1)
+cop(awesome-3, is-2)
+ccomp(fantastic-7, awesome-3)
+nsubj(fantastic-7, 3D-5)
+cop(fantastic-7, is-6)
+root(ROOT-0, fantastic-7)
+
+=========
+
+root(ROOT-0, Weak-1)
+amod(options-4, internet-3)
+prep_in(Weak-1, options-4)
+cc(is-7, but-5)
+nsubj(is-7, that-6)
+ccomp(Weak-1, is-7)
+neg(is-7, not-8)
+dep(bought-11, what-9)
+nsubj(bought-11, i-10)
+ccomp(is-7, bought-11)
+dobj(bought-11, it-12)
+prep(bought-11, for-13)
+
+=========
+
+nsubj(recommend-2, Highly-1)
+root(ROOT-0, recommend-2)
+det(tv-4, this-3)
+dobj(recommend-2, tv-4)
+

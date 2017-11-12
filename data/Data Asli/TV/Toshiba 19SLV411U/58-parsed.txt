@@ -1,0 +1,42 @@
+=========
+
+det(audio-2, The-1)
+nsubj(worthless-7, audio-2)
+det(set-5, this-4)
+prep_on(audio-2, set-5)
+cop(worthless-7, is-6)
+root(ROOT-0, worthless-7)
+
+=========
+
+advmod(turned-2, Even-1)
+dep(hear-10, turned-2)
+prt(turned-2, up-3)
+num(%-6, 100-5)
+prep_to(turned-2, %-6)
+nsubj(hear-10, you-7)
+aux(hear-10, can-8)
+neg(hear-10, not-9)
+root(ROOT-0, hear-10)
+det(acroos-12, this-11)
+nsubj(bedroom-15, acroos-12)
+det(bedroom-15, a-13)
+amod(bedroom-15, small-14)
+xcomp(hear-10, bedroom-15)
+
+=========
+
+det(speakers-3, The-1)
+amod(speakers-3, tiny-2)
+nsubj(are-4, speakers-3)
+root(ROOT-0, are-4)
+det(back-7, the-6)
+prep_on(are-4, back-7)
+det(set-10, the-9)
+prep_of(back-7, set-10)
+
+=========
+
+advmod(stupid-2, Incredibly-1)
+root(ROOT-0, stupid-2)
+

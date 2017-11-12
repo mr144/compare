@@ -1,0 +1,34 @@
+=========
+
+nsubj(feels-6, Much-1)
+dep(expected-4, better-2)
+dep(expected-4, than-3)
+amod(Much-1, expected-4)
+root(ROOT-0, feels-6)
+acomp(feels-6, fluid-7)
+acomp(feels-6, fast-9)
+conj_and(fluid-7, fast-9)
+
+=========
+
+cc(announced-4, And-1)
+tmod(announced-4, today-2)
+nsubj(announced-4, they-3)
+root(ROOT-0, announced-4)
+det(upgrade-7, the-5)
+nn(upgrade-7, OS-6)
+dobj(announced-4, upgrade-7)
+nsubj(bet-10, I-9)
+parataxis(announced-4, bet-10)
+nsubj(going-13, it-11)
+xsubj(experience-18, it-11)
+aux(going-13, is-12)
+ccomp(bet-10, going-13)
+aux(experience-18, to-14)
+cop(experience-18, be-15)
+det(experience-18, a-16)
+amod(experience-18, good-17)
+xcomp(going-13, experience-18)
+poss(nephew-21, my-20)
+prep_for(experience-18, nephew-21)
+

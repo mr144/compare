@@ -1,0 +1,37 @@
+=========
+
+det(complaints-2, No-1)
+root(ROOT-0, complaints-2)
+
+=========
+
+dobj(expected-3, What-1)
+nsubj(expected-3, I-2)
+root(ROOT-0, expected-3)
+dobj(wanted-7, what-5)
+nsubj(wanted-7, I-6)
+conj_and(expected-3, wanted-7)
+
+=========
+
+root(ROOT-0, Looks-1)
+dep(Looks-1, good-2)
+dep(Looks-1, performs-4)
+conj_and(good-2, performs-4)
+dep(Looks-1, well-5)
+
+=========
+
+det(glitches-2, No-1)
+nsubj(found-3, glitches-2)
+root(ROOT-0, found-3)
+advmod(found-3, yet-4)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, did-2)
+advmod(recommend-4, definetely-3)
+root(ROOT-0, recommend-4)
+dobj(recommend-4, it-5)
+

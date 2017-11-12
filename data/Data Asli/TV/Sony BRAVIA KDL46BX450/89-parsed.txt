@@ -1,0 +1,38 @@
+=========
+
+nn(NOT-2, Do-1)
+nsubj(buy-3, NOT-2)
+root(ROOT-0, buy-3)
+det(Television-10, the-4)
+nn(Television-10, Sony-5)
+nn(Television-10, Bravia-6)
+nn(Television-10, KDL-40BX450-7)
+nn(Television-10, !!!-8)
+nn(Television-10, This-9)
+nsubj(contain-14, Television-10)
+aux(contain-14, does-11)
+neg(contain-14, not-12)
+advmod(contain-14, even-13)
+ccomp(buy-3, contain-14)
+det(slot-18, a-15)
+amod(slot-18, simple-16)
+nn(slot-18, CableCard-17)
+dobj(contain-14, slot-18)
+nsubj(necessary-21, slot-18)
+cop(necessary-21, is-20)
+rcmod(slot-18, necessary-21)
+nn(subscribers-25, Cable-23)
+nn(subscribers-25, TV-24)
+prep_for(necessary-21, subscribers-25)
+
+=========
+
+root(ROOT-0, Shame-1)
+prep_on(Shame-1, Sony-3)
+neg(including-6, not-5)
+prepc_for(Shame-1, including-6)
+det(!!!!!!-10, this-7)
+amod(!!!!!!-10, basic-8)
+nn(!!!!!!-10, functionality-9)
+dobj(including-6, !!!!!!-10)
+

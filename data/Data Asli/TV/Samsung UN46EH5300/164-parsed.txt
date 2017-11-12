@@ -1,0 +1,38 @@
+=========
+
+nsubj(TV-6, This-1)
+cop(TV-6, is-2)
+det(TV-6, a-3)
+advmod(good-5, very-4)
+amod(TV-6, good-5)
+root(ROOT-0, TV-6)
+quantmod(all-9, almost-8)
+prep_with(TV-6, all-9)
+complm(wanted-12, that-10)
+nsubj(wanted-12, I-11)
+ccomp(TV-6, wanted-12)
+det(tv-16, a-14)
+amod(tv-16, smart-15)
+prep_from(wanted-12, tv-16)
+
+=========
+
+amod(critisism-2, Constructive-1)
+root(ROOT-0, critisism-2)
+nsubj(add-6, Samsung-4)
+aux(add-6, should-5)
+dep(critisism-2, add-6)
+det(board-9, a-7)
+amod(board-9, key-8)
+dobj(add-6, board-9)
+det(browsing-15, the-11)
+amod(browsing-15, remote-12)
+nn(browsing-15, internet-14)
+prep_on(add-6, browsing-15)
+mark(practical-21, with-16)
+advmod(remote-18, only-17)
+nsubj(practical-21, remote-18)
+cop(practical-21, is-19)
+neg(practical-21, not-20)
+advcl(add-6, practical-21)
+

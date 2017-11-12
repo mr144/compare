@@ -1,0 +1,31 @@
+=========
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+dobj(use-2, this-3)
+det(monitor-8, a-5)
+amod(monitor-8, general-6)
+nn(monitor-8, computer-7)
+prep_as(this-3, monitor-8)
+partmod(use-2, using-10)
+xcomp(use-2, using-10)
+det(input-13, the-11)
+nn(input-13, HDMI-12)
+dobj(using-10, input-13)
+
+=========
+
+nsubj(includes-2, This-1)
+root(ROOT-0, includes-2)
+xcomp(includes-2, using-3)
+dobj(using-3, it-4)
+nn(video-8, editing-6)
+num(video-8, 3D-7)
+prep_for(using-3, video-8)
+
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+prep_with(pleased-2, it-4)
+

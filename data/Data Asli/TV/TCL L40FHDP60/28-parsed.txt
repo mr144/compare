@@ -1,0 +1,31 @@
+=========
+
+dep(product-3, Really-1)
+amod(product-3, great-2)
+root(ROOT-0, product-3)
+
+=========
+
+nsubj(surpassed-2, Has-1)
+nsubj(given-8, Has-1)
+root(ROOT-0, surpassed-2)
+predet(expectations-5, all-3)
+poss(expectations-5, my-4)
+dobj(surpassed-2, expectations-5)
+aux(given-8, has-7)
+conj_and(surpassed-2, given-8)
+iobj(given-8, me-9)
+det(product-11, a-10)
+dobj(given-8, product-11)
+nsubj(last-14, product-11)
+aux(last-14, will-13)
+rcmod(product-11, last-14)
+det(time-17, a-15)
+amod(time-17, long-16)
+dobj(last-14, time-17)
+
+=========
+
+nn(!!!-2, Thanks-1)
+root(ROOT-0, !!!-2)
+

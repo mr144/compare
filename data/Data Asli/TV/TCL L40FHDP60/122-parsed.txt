@@ -1,0 +1,23 @@
+=========
+
+det(tv-2, this-1)
+nsubj(works-3, tv-2)
+dep(works-20, works-3)
+acomp(works-3, great-4)
+nsubj(bought-7, it-5)
+advmod(bought-7, i-6)
+ccomp(great-4, bought-7)
+nsubj(connect-10, it-8)
+aux(connect-10, to-9)
+xcomp(bought-7, connect-10)
+det(use-12, an-11)
+dobj(connect-10, use-12)
+det(monitor-15, a-14)
+prep_as(connect-10, monitor-15)
+prep_for(monitor-15, church-17)
+det(it-19, an-18)
+nsubj(works-20, it-19)
+root(ROOT-0, works-20)
+det(charm-23, a-22)
+prep_as(works-20, charm-23)
+

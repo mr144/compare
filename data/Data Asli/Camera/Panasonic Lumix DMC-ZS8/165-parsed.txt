@@ -1,0 +1,188 @@
+=========
+
+nsubj(purchased-3, I-1)
+aux(purchased-3, have-2)
+root(ROOT-0, purchased-3)
+amod(products-5, many-4)
+dobj(purchased-3, products-5)
+prep_from(purchased-3, Amazon-7)
+nsubj(review-13, this-9)
+cop(review-13, is-10)
+poss(review-13, my-11)
+amod(review-13, first-12)
+conj_but(purchased-3, review-13)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(camera-5, this-4)
+dobj(had-3, camera-5)
+quantmod(3-8, about-7)
+num(months-9, 3-8)
+prep_for(had-3, months-9)
+advmod(had-3, now-10)
+nsubj(disappointed-15, it-12)
+aux(disappointed-15, has-13)
+neg(disappointed-15, not-14)
+conj_and(had-3, disappointed-15)
+dobj(disappointed-15, me-16)
+det(level-19, any-18)
+prep_on(disappointed-15, level-19)
+
+=========
+
+nsubj(photographer-6, I-1)
+cop(photographer-6, am-2)
+neg(photographer-6, not-3)
+det(photographer-6, a-4)
+amod(photographer-6, professional-5)
+root(ROOT-0, photographer-6)
+nsubj(enjoy-10, I-8)
+aux(enjoy-10, do-9)
+conj_but(photographer-6, enjoy-10)
+xcomp(enjoy-10, taking-11)
+dobj(taking-11, pictures-12)
+
+=========
+
+nsubj(looking-3, I-1)
+aux(looking-3, was-2)
+root(ROOT-0, looking-3)
+det(camera-7, a-5)
+amod(camera-7, Point-and-Shoot-6)
+prep_for(looking-3, camera-7)
+det(zoom-11, a-9)
+amod(zoom-11, good-10)
+prep_with(camera-7, zoom-11)
+nn(capability-14, macro-13)
+prep_with(camera-7, capability-14)
+conj_and(zoom-11, capability-14)
+
+=========
+
+nsubj(spent-2, I-1)
+root(ROOT-0, spent-2)
+det(lot-4, a-3)
+dobj(spent-2, lot-4)
+prep_of(lot-4, time-6)
+partmod(time-6, looking-7)
+advmod(one-12, just-9)
+det(one-12, the-10)
+amod(one-12, right-11)
+prep_for(looking-7, one-12)
+
+=========
+
+cc(had-9, But-1)
+det(end-5, the-4)
+prep_in(had-9, end-5)
+det(review-8, every-6)
+nn(review-8, camera-7)
+nsubj(had-9, review-8)
+root(ROOT-0, had-9)
+det(comment-12, some-10)
+amod(comment-12, negative-11)
+dobj(had-9, comment-12)
+dobj(had-9, two-14)
+conj_or(comment-12, two-14)
+dobj(had-9, that-16)
+conj_and(comment-12, that-16)
+partmod(that-16, concerned-17)
+dobj(concerned-17, me-18)
+
+=========
+
+nsubj(found-2, I-1)
+xsubj(positive-12, I-1)
+root(ROOT-0, found-2)
+det(reviews-4, the-3)
+dobj(found-2, reviews-4)
+det(camera-7, this-6)
+prep_for(found-2, camera-7)
+aux(positive-12, to-8)
+cop(positive-12, be-9)
+dep(positive-12, all-10)
+advmod(positive-12, very-11)
+xcomp(found-2, positive-12)
+
+=========
+
+advmod(took-4, So-1)
+nsubj(took-4, I-3)
+root(ROOT-0, took-4)
+det(chance-6, a-5)
+dobj(took-4, chance-6)
+
+=========
+
+nsubj(glad-4, I-2)
+cop(glad-4, am-3)
+root(ROOT-0, glad-4)
+nsubj(did-6, I-5)
+ccomp(glad-4, did-6)
+
+=========
+
+det(camera-2, This-1)
+nsubj(built-7, camera-2)
+aux(built-7, has-3)
+advmod(built-7, so-4)
+amod(capability-6, much-5)
+pobj(so-4, capability-6)
+root(ROOT-0, built-7)
+prep_into(built-7, it-9)
+complm(amazing-13, that-10)
+nsubj(amazing-13, it-11)
+cop(amazing-13, is-12)
+ccomp(built-7, amazing-13)
+
+=========
+
+cc(gives-5, And-1)
+advmod(gives-5, yet-2)
+nsubj(gives-5, it-4)
+root(ROOT-0, gives-5)
+iobj(gives-5, you-6)
+det(flexibility-8, the-7)
+dobj(gives-5, flexibility-8)
+aux(creative-11, to-9)
+cop(creative-11, be-10)
+infmod(flexibility-8, creative-11)
+
+=========
+
+advmod(nifty-2, Very-1)
+root(ROOT-0, nifty-2)
+advmod(nifty-2, indeed-3)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubj(great-5, quality-3)
+cop(great-5, is-4)
+root(ROOT-0, great-5)
+det(zoom-8, the-7)
+nsubj(great-10, zoom-8)
+cop(great-10, is-9)
+parataxis(great-5, great-10)
+det(capabilities-14, the-12)
+nn(capabilities-14, macro-13)
+nsubj(great-16, capabilities-14)
+cop(great-16, are-15)
+parataxis(great-5, great-16)
+
+=========
+
+nsubj(recommend-4, I-2)
+advmod(recommend-4, highly-3)
+root(ROOT-0, recommend-4)
+det(product-6, this-5)
+dobj(recommend-4, product-6)
+nn(!!-11, Great-8)
+nn(!!-11, Job-9)
+nn(!!-11, Panasonic-10)
+dep(product-6, !!-11)
+

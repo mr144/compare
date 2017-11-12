@@ -1,0 +1,42 @@
+=========
+
+det(t3i-3, The-1)
+nn(t3i-3, canon-2)
+nsubj(amazing-5, t3i-3)
+cop(amazing-5, is-4)
+root(ROOT-0, amazing-5)
+nsubj(was-7, everything-6)
+ccomp(amazing-5, was-7)
+advmod(said-12, just-8)
+dep(said-12, as-9)
+det(seller-11, the-10)
+nsubj(said-12, seller-11)
+ccomp(was-7, said-12)
+
+=========
+
+nn(Sharpe-2, Perfect-1)
+root(ROOT-0, Sharpe-2)
+
+=========
+
+root(ROOT-0, Arrived-1)
+prep_on(Arrived-1, time-3)
+advmod(Arrived-1, soon-5)
+mark(took-8, as-6)
+nsubj(took-8, I-7)
+advcl(Arrived-1, took-8)
+dobj(took-8, I-9)
+det(box-12, the-11)
+prep_out(took-8, box-12)
+partmod(box-12, put-13)
+det(lens-15, the-14)
+dep(put-13, lens-15)
+dep(lens-15, on-16)
+nsubj(was-18, I-17)
+pcomp(on-16, was-18)
+prep_in(was-18, love-20)
+poss(shoot-24, my-22)
+amod(shoot-24, first-23)
+prep_after(was-18, shoot-24)
+

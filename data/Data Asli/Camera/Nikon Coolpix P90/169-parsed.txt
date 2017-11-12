@@ -1,0 +1,98 @@
+=========
+
+amod(quality-2, Image-1)
+nsubj(sucks-3, quality-2)
+root(ROOT-0, sucks-3)
+acomp(sucks-3, bad-4)
+
+=========
+
+root(ROOT-0, Lots-1)
+prep_of(Lots-1, noise-3)
+
+=========
+
+root(ROOT-0, Poor-1)
+dep(Poor-1, quality-2)
+
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, this-3)
+det(day-5, the-4)
+tmod(bought-2, day-5)
+nsubj(came-7, it-6)
+dep(bought-2, came-7)
+prt(came-7, out-8)
+det(gift-11, a-10)
+prep_as(came-7, gift-11)
+
+=========
+
+det(screen-4, The-1)
+nn(screen-4, view-2)
+nn(screen-4, finder-3)
+nsubj(pixilated-7, screen-4)
+cop(pixilated-7, is-5)
+advmod(pixilated-7, so-6)
+root(ROOT-0, pixilated-7)
+nsubj(seems-9, it-8)
+ccomp(pixilated-7, seems-9)
+mark(making-15, like-10)
+det('s-13, the-11)
+num('s-13, 80-12)
+nsubj(making-15, 's-13)
+aux(making-15, were-14)
+advcl(seems-9, making-15)
+det(comeback-17, a-16)
+dobj(making-15, comeback-17)
+
+=========
+
+det(images-2, The-1)
+nsubj(faired-5, images-2)
+advmod(transferred-4, when-3)
+dep(images-2, transferred-4)
+root(ROOT-0, faired-5)
+dep(better-7, no-6)
+advmod(faired-5, better-7)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(pictures-6, a-3)
+amod(okay-5, few-4)
+amod(pictures-6, okay-5)
+dobj(got-2, pictures-6)
+amod(conditions-10, great-8)
+nn(conditions-10, lighting-9)
+prep_under(got-2, conditions-10)
+
+=========
+
+nsubj(looked-8, Anything-1)
+amod(light-4, bad-3)
+prep_near(Anything-1, light-4)
+det(flash-7, a-6)
+prep_with(light-4, flash-7)
+root(ROOT-0, looked-8)
+mark(taken-12, like-9)
+nsubjpass(taken-12, it-10)
+auxpass(taken-12, was-11)
+advcl(looked-8, taken-12)
+det(camera-17, a-14)
+nn(camera-17, cell-15)
+nn(camera-17, phone-16)
+prep_with(taken-12, camera-17)
+
+=========
+
+nsubj(returned-2, I-1)
+root(ROOT-0, returned-2)
+det(camera-4, the-3)
+dobj(returned-2, camera-4)
+advmod(away-6, right-5)
+advmod(returned-2, away-6)
+

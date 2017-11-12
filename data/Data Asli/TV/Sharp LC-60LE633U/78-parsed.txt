@@ -1,0 +1,108 @@
+=========
+
+aux(get-3, Ca-1)
+nsubj(get-3, not-2)
+root(ROOT-0, get-3)
+dobj(get-3, enough-4)
+prepc_of(enough-4, watching-6)
+num(shows-8, 3D-7)
+dobj(watching-6, shows-8)
+det(TV-11, this-10)
+prep_on(watching-6, TV-11)
+
+=========
+
+nsubj(has-2, DirecTV-1)
+root(ROOT-0, has-2)
+det(lot-4, a-3)
+dobj(has-2, lot-4)
+amod(programming-8, terrific-6)
+num(programming-8, 3D-7)
+prep_of(lot-4, programming-8)
+advmod(has-2, now-9)
+det(way-12, the-11)
+prep_by(has-2, way-12)
+
+=========
+
+det(quality-3, The-1)
+nn(quality-3, picture-2)
+nsubjpass(seen-13, quality-3)
+xsubj(believed-16, quality-3)
+amod(60-6, my-5)
+poss(Quattron-9, 60-6)
+nn(Quattron-9, Aquos-8)
+prep_on(quality-3, Quattron-9)
+aux(seen-13, has-10)
+prep(seen-13, to-11)
+auxpass(seen-13, been-12)
+root(ROOT-0, seen-13)
+aux(believed-16, to-14)
+auxpass(believed-16, be-15)
+xcomp(seen-13, believed-16)
+
+=========
+
+num(Blurays-2, 3D-1)
+nsubj(spectacular-8, Blurays-2)
+prep_on(Blurays-2, it-4)
+cop(spectacular-8, are-5)
+advmod(spectacular-8, even-6)
+advmod(spectacular-8, more-7)
+root(ROOT-0, spectacular-8)
+
+=========
+
+nsubj(looked-3, I-1)
+aux(looked-3, have-2)
+root(ROOT-0, looked-3)
+predet(TVs-9, quite-5)
+det(TVs-9, a-6)
+amod(TVs-9, few-7)
+num(TVs-9, 3D-8)
+prep_at(looked-3, TVs-9)
+prep_in(TVs-9, stores-11)
+nsubj(compare-14, none-13)
+conj_and(looked-3, compare-14)
+det(TV-17, this-16)
+prep_to(compare-14, TV-17)
+
+=========
+
+nsubj(positive-5, It-1)
+dep(positive-5, has-2)
+advmod(positive-5, much-3)
+advmod(positive-5, more-4)
+root(ROOT-0, positive-5)
+poss(effect-9, Z-7)
+dobj(positive-5, effect-9)
+det(others-12, any-11)
+prep_than(effect-9, others-12)
+dobj(seen-15, others-12)
+nsubj(seen-15, I-13)
+aux(seen-15, have-14)
+rcmod(others-12, seen-15)
+dep(others-12, picture-17)
+dep(picture-17, coming-18)
+prt(coming-18, forth-19)
+det(screen-22, the-21)
+prep_from(coming-18, screen-22)
+partmod(screen-22, opposed-23)
+advmod(depth-26, just-25)
+prep_to(opposed-23, depth-26)
+
+=========
+
+nsubj(paying-5, I-1)
+aux(paying-5, will-2)
+neg(paying-5, not-3)
+aux(paying-5, be-4)
+root(ROOT-0, paying-5)
+advmod(overpriced-8, anymore-7)
+prepc_for(paying-5, overpriced-8)
+num(movies-10, 3D-9)
+dobj(overpriced-8, movies-10)
+det(theaters-13, the-12)
+prep_in(movies-10, theaters-13)
+advmod(overpriced-8, anymore-14)
+

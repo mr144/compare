@@ -1,0 +1,82 @@
+=========
+
+dep(performance-3, Overall-1)
+amod(performance-3, good-2)
+root(ROOT-0, performance-3)
+
+=========
+
+csubj(flash-3, Built-1)
+prep(Built-1, in-2)
+root(ROOT-0, flash-3)
+acomp(flash-3, disappointing-4)
+
+=========
+
+nn(focus-2, Auto-1)
+nsubj(performs-3, focus-2)
+root(ROOT-0, performs-3)
+advmod(performs-3, poorly-4)
+amod(situations-8, low-6)
+nn(situations-8, lighting-7)
+prep_in(performs-3, situations-8)
+
+=========
+
+nsubj(buying-3, Will-1)
+aux(buying-3, be-2)
+root(ROOT-0, buying-3)
+det(flash-6, a-4)
+amod(flash-6, real-5)
+dobj(buying-3, flash-6)
+nsubj(improve-10, flash-6)
+advmod(improve-10, hopefully-8)
+aux(improve-10, will-9)
+rcmod(flash-6, improve-10)
+dobj(improve-10, results-11)
+
+=========
+
+nsubj(camera-5, This-1)
+nsubj(take-8, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, complex-4)
+root(ROOT-0, camera-5)
+aux(take-8, will-7)
+conj_and(camera-5, take-8)
+det(curve-11, a-9)
+nn(curve-11, learning-10)
+dobj(take-8, curve-11)
+aux(determine-13, to-12)
+xcomp(take-8, determine-13)
+dobj(do-18, what-14)
+nsubj(do-18, it-15)
+aux(do-18, can-16)
+advmod(do-18, really-17)
+ccomp(determine-13, do-18)
+
+=========
+
+det(lens-4, the-2)
+num(lens-4, 18-135-3)
+prep_with(need-9, lens-4)
+nsubj(need-9, you-5)
+aux(need-9, do-6)
+neg(need-9, not-7)
+advmod(need-9, really-8)
+root(ROOT-0, need-9)
+det(telephoto-11, a-10)
+dobj(need-9, telephoto-11)
+mark(allows-16, because-12)
+det(MP-15, the-13)
+num(MP-15, 18-14)
+nsubj(allows-16, MP-15)
+advcl(need-9, allows-16)
+amod(cropping-18, severe-17)
+dobj(allows-16, cropping-18)
+amod(loss-21, little-20)
+prep_with(allows-16, loss-21)
+nn(quality-24, image-23)
+prep_of(loss-21, quality-24)
+

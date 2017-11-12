@@ -1,0 +1,28 @@
+=========
+
+nsubj(happened-2, I-1)
+root(ROOT-0, happened-2)
+ccomp(happened-2, found-3)
+det(phone-6, this-4)
+nn(phone-6, cell-5)
+dobj(found-3, phone-6)
+auxpass(wondered-9, was-8)
+ccomp(happened-2, wondered-9)
+conj_and(found-3, wondered-9)
+amod(price-12, small-11)
+prep_for(wondered-9, price-12)
+
+=========
+
+amod(phone-3, Very-1)
+amod(phone-3, good-2)
+root(ROOT-0, phone-3)
+amod(price-6, good-5)
+prep_for(phone-3, price-6)
+
+=========
+
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+dobj(like-2, it-3)
+

@@ -1,0 +1,39 @@
+=========
+
+det(price-3, this-2)
+prep_for(find-7, price-3)
+nsubj(find-7, you-4)
+aux(find-7, will-5)
+neg(find-7, not-6)
+root(ROOT-0, find-7)
+amod(product-9, better-8)
+dobj(find-7, product-9)
+prep_than(find-7, this-11)
+
+=========
+
+root(ROOT-0, Worth-1)
+det(penny-3, every-2)
+dep(Worth-1, penny-3)
+
+=========
+
+advmod(useful-2, So-1)
+root(ROOT-0, useful-2)
+conj_yet(useful-2, affordable-4)
+
+=========
+
+nsubj(get-2, Go-1)
+root(ROOT-0, get-2)
+dobj(get-2, it-3)
+
+=========
+
+nsubj(camera-5, D7100-1)
+cop(camera-5, is-2)
+det(camera-5, the-3)
+amod(camera-5, best-4)
+root(ROOT-0, camera-5)
+advmod(camera-5, ever-6)
+

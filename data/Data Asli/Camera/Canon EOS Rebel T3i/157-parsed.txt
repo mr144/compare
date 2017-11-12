@@ -1,0 +1,41 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+advmod(camera-5, really-3)
+amod(camera-5, more-4)
+root(ROOT-0, camera-5)
+mark(need-8, than-6)
+nsubj(need-8, we-7)
+advcl(camera-5, need-8)
+advmod(need-8, just-9)
+poss(toddler-12, our-11)
+prep_for(need-8, toddler-12)
+det(house-15, the-14)
+prep_around(toddler-12, house-15)
+nsubj(wonderful-20, it-18)
+cop(wonderful-20, is-19)
+conj_but(camera-5, wonderful-20)
+
+=========
+
+root(ROOT-0, Love-1)
+det(speed-5, the-2)
+amod(speed-5, quick-3)
+nn(speed-5, shutter-4)
+dep(Love-1, speed-5)
+amod(images-9, high-7)
+nn(images-9, quality-8)
+dep(Love-1, images-9)
+conj_and(speed-5, images-9)
+
+=========
+
+aux(know-3, Do-1)
+neg(know-3, not-2)
+root(ROOT-0, know-3)
+advmod(functioned-6, how-4)
+nsubj(functioned-6, we-5)
+ccomp(know-3, functioned-6)
+prep_before(functioned-6, this-8)
+

@@ -1,0 +1,16 @@
+PROS_NNS :_: \*_SYM Outstanding_JJ call_JJ quality_NN \*_NN Great_JJ looking_VBG screen_NN \*_NN Speedy_JJ performance_NN \*_NN Still_RB camera_NN is_VBZ above_JJ average_NN for_IN a_DT phone_NN \*_NN Included_VBD accessories_NNS are_VBP not_RB garbageCONS_NNP :_: \*_SYM Excessive_JJ heat_NN generated_VBN during_IN normal_JJ use_NN \*_NN Battery_NNP cover_NN can_MD be_VB difficult_JJ to_TO remove_VB \*_NN Phone_NN is_VBZ very_RB fragile_JJ ,_, especially_RB the_DT screen_NN \*_NN Very_RB quiet_JJ ringer_NN and_CC alarm_NN ,_, even_RB at_IN highest_JJS volumeCALL_NNP QUALITY_NNP :_: 10\/10Call_JJ quality_NN is_VBZ superlative_JJ ._.
+SCREEN_NN :_: 7\/10Brightness_NN ,_, color_NN reproduction_NN ,_, resolution_NN and_CC pixel_NN density_NN are_VBP all_DT good_JJ ._.
+The_DT screen_NN itself_PRP feels_VBZ extremely_RB fragile_JJ ,_, however_RB ,_, and_CC I_PRP would_MD not_RB feel_VB safe_JJ without_IN a_DT screen_NN protector_NN on_IN it_PRP ._.
+CPU\/GPU_NNP AND_NNP WIFI_NNP PERFORMANCE_NN :_: 8\/10The_NNP CPU_NNP and_CC GPU_NNP handle_VBP nearly_RB everything_NN with_IN aplomb_NN ._.
+Wifi_JJ reception_NN improves_VBZ with_IN Gingerbread_NNP ,_, but_CC range_NN is_VBZ still_RB limited_JJ ._.
+CAMERA_NN :_: 8\/10I_NNP was_VBD pleasantly_RB surprised_VBN by_IN the_DT high_JJ quality_NN of_IN the_DT images_NNS the_DT Nexus_NNP One_NN produces_VBZ ,_, particularly_RB outdoors_NNS without_IN a_DT flash_NN ._.
+EXTRAS_NNS :_: 10\/10The_JJ wired_VBN headset_NN included_VBN with_IN the_DT Nexus_NNP One_CD is_VBZ above_JJ average_NN when_WRB used_VBN for_IN voice_NN calls_NNS ._.
+BATTERY_NN :_: 5\/10Upgrading_VBG to_TO Gingerbread_NNP will_MD reduce_VB power_NN consumption_NN for_IN most_JJS tasks_NNS ,_, but_CC even_RB then_RB battery_NN life_NN is_VBZ only_RB average_JJ compared_VBN to_TO similar_JJ devices_NNS ._.
+Battery_NNP temperature_NN sometimes_RB exceeds_VBZ 45C_NNP -LRB-_-LRB- 113F_NNP -RRB-_-RRB- ._.
+BUILD_NNP QUALITY_NNP ,_, DURABILITY_NNP AND_NNP APPEARANCE_NNP :_: 2\/10It_NNP requires_VBZ a_DT LOT_NN of_IN pressure_NN to_TO release_VB the_DT battery_NN cover_NN ,_, and_CC I_PRP can_MD feel_VB the_DT screen_NN buckling_VBG under_IN my_PRP$ fingers_NNS every_DT time_NN ._.
+The_DT Nexus_NNP One_CD is_VBZ very_RB fragile_JJ but_CC overall_JJ looks_NNS good_JJ ._.
+The_DT silver_NN paint_NN started_VBD coming_VBG off_RP after_IN one_CD week_NN of_IN gentle_JJ use_NN ,_, and_CC it_PRP malfunctions_NNS with_IN high-heat_JJ activities_NNS -LRB-_-LRB- e.g._FW GPS_NNP and_CC 3G_NNP internet_NN -RRB-_-RRB- ._.
+Add_VB at_IN least_JJS $_$ 30_CD to_TO the_DT cost_NN to_TO buy_VB quality_NN screen_NN and_CC body_NN protectors_NNS ._.
+EXTERNAL_NNP SOUND_NNP AND_NNP AUDIO_NNP :_: 2\/10The_JJ external_JJ speaker_NN is_VBZ just_RB terrible_JJ ._.
+Even_RB at_IN full_JJ volume_NN ,_, it_PRP is_VBZ mostly_RB a_DT garbled_JJ mess_NN of_IN quiet_JJ sound_NN ._.
+CONCLUSION_NN :_: 6\/10The_NNP Nexus_NNP One_NN performs_VBZ most_JJS tasks_NNS well_RB but_CC will_MD not_RB last_VB long_RB if_IN you_PRP are_VBP not_RB especially_RB careful_JJ with_IN it_PRP ._.

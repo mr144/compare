@@ -1,0 +1,61 @@
+=========
+
+nsubj(used-3, I-1)
+nsubj(wanted-11, I-1)
+xsubj(upgrade-13, I-1)
+aux(used-3, have-2)
+root(ROOT-0, used-3)
+nn(TZ3-6, Panasonic-4)
+nn(TZ3-6, Lumix-5)
+dobj(used-3, TZ3-6)
+amod(years-9, several-8)
+prep_for(TZ3-6, years-9)
+conj_and(used-3, wanted-11)
+aux(upgrade-13, to-12)
+xcomp(wanted-11, upgrade-13)
+det(version-17, a-15)
+amod(version-17, newer-16)
+prep_to(upgrade-13, version-17)
+
+=========
+
+aux(want-3, Do-1)
+neg(want-3, not-2)
+root(ROOT-0, want-3)
+aux(write-5, to-4)
+xcomp(want-3, write-5)
+advmod(much-7, too-6)
+advmod(write-5, much-7)
+aux(make-11, will-9)
+advmod(make-11, just-10)
+dep(want-3, make-11)
+nsubj(clear-13, it-12)
+xcomp(make-11, clear-13)
+nsubj(camera-19, this-15)
+cop(camera-19, is-16)
+det(camera-19, a-17)
+amod(camera-19, nice-18)
+parataxis(want-3, camera-19)
+aux(have-21, to-20)
+infmod(camera-19, have-21)
+amod(use-24, daily-23)
+prep_for(have-21, use-24)
+
+=========
+
+nsubj(disappointed-5, You-1)
+aux(disappointed-5, will-2)
+neg(disappointed-5, not-3)
+cop(disappointed-5, be-4)
+root(ROOT-0, disappointed-5)
+
+=========
+
+advmod(go-2, Just-1)
+root(ROOT-0, go-2)
+conj_and(go-2, get-4)
+dobj(go-2, it-5)
+
+=========
+
+

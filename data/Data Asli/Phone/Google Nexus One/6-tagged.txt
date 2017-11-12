@@ -1,0 +1,2 @@
+Phone_NN itself_PRP is_VBZ very_RB good_JJ ,_, but_CC the_DT battery_NN life_NN is_VBZ awful_JJ ._.
+Even_RB on_IN standby_NN the_DT battery_NN dies_VBZ in_IN less_JJR than_IN a_DT day_NN

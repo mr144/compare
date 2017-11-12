@@ -1,0 +1,367 @@
+=========
+
+det(new-2, This-1)
+nsubj(purchased-3, new-2)
+root(ROOT-0, purchased-3)
+nn(Android-6, HTC-4)
+nn(Android-6, Inspire-5)
+nsubj(looks-7, Android-6)
+ccomp(purchased-3, looks-7)
+mark(seems-14, like-8)
+advmod(identical-10, near-9)
+amod(HD-13, identical-10)
+prep_to(identical-10, Desire-12)
+nsubj(seems-14, HD-13)
+advcl(looks-7, seems-14)
+prep(seems-14, like-15)
+pcomp(like-15, with-16)
+amod(software-19, similar-17)
+nn(software-19, driver-18)
+prep_with(like-15, software-19)
+cop(phone-25, is-21)
+det(phone-25, a-22)
+advmod(nice-24, very-23)
+amod(phone-25, nice-24)
+advcl(looks-7, phone-25)
+conj_and(seems-14, phone-25)
+
+=========
+
+nsubj(feeling-6, Housing-1)
+cop(feeling-6, is-2)
+amod(feeling-6, ridid-3)
+conj_and(ridid-3, solid-5)
+amod(feeling-6, solid-5)
+root(ROOT-0, feeling-6)
+
+=========
+
+advmod(correcly-2, Carefully-1)
+amod(slide-3, correcly-2)
+nsubj(cover-7, slide-3)
+amod(slide-3, battery-4)
+amod(slide-3, sims-6)
+conj_and(battery-4, sims-6)
+root(ROOT-0, cover-7)
+det(fit-12, a-9)
+amod(fit-12, good-10)
+nn(fit-12, feeling-11)
+prep_for(cover-7, fit-12)
+
+=========
+
+nn(crisp-2, Quick-1)
+nsubj(function-3, crisp-2)
+root(ROOT-0, function-3)
+amod(display-8, sharp-5)
+amod(display-8, attractive-6)
+nn(display-8, lcd-7)
+prep_with(function-3, display-8)
+
+=========
+
+number(720-2, HD-1)
+num(cam-4, 720-2)
+amod(cam-4, video-3)
+nsubj(turns-5, cam-4)
+root(ROOT-0, turns-5)
+prt(turns-5, out-6)
+amod(videos-8, astonishing-7)
+dobj(turns-5, videos-8)
+amod(movements-14, good-10)
+amod(movements-14, 30fps-11)
+nn(movements-14, style-12)
+nn(movements-14, shootee-13)
+prep_with(videos-8, movements-14)
+
+=========
+
+nsubj(bit-6, Better-1)
+amod(fair-5, previous-3)
+amod(fair-5, n95-4)
+prep_than(Better-1, fair-5)
+root(ROOT-0, bit-6)
+advmod(bit-6, so-7)
+
+=========
+
+root(ROOT-0, Smooth-1)
+amod(video-4, small-2)
+amod(video-4, pixel-3)
+dobj(Smooth-1, video-4)
+det(cam-8, a-6)
+nn(cam-8, phone-7)
+prep_for(video-4, cam-8)
+
+=========
+
+nn(camera-4, Multi-1)
+nn(camera-4, adjustment-2)
+amod(camera-4, 8mp-3)
+nsubj(shoots-6, camera-4)
+nsubj(dedicated-10, camera-4)
+rcmod(camera-4, shoots-6)
+amod(hd-9, good-8)
+prep_like(shoots-6, hd-9)
+root(ROOT-0, dedicated-10)
+nn(photos-12, camera-11)
+dobj(dedicated-10, photos-12)
+
+=========
+
+nsubj(spend-3, You-1)
+aux(spend-3, might-2)
+root(ROOT-0, spend-3)
+dobj(spend-3, time-4)
+prepc_on(spend-3, tethering-6)
+aux(download-8, to-7)
+xcomp(tethering-6, download-8)
+dobj(download-8, video-9)
+appos(video-9, etc.-11)
+prep_to(etc.-11, computer-13)
+
+=========
+
+advmod(way-2, Only-1)
+nsubj(is-5, way-2)
+xsubj(download-7, way-2)
+prep(way-2, for-3)
+pobj(for-3, now-4)
+root(ROOT-0, is-5)
+aux(download-7, to-6)
+xcomp(is-5, download-7)
+poss(software-11, HTC-8)
+nn(software-11, Sync-10)
+dobj(download-7, software-11)
+nsubj(has-13, software-11)
+rcmod(software-11, has-13)
+det(drivers-16, the-14)
+nn(drivers-16, phones-15)
+nsubj(show-18, drivers-16)
+aux(show-18, to-17)
+ccomp(has-13, show-18)
+xcomp(has-13, show-18)
+prt(show-18, up-19)
+nn(list-23, storage-21)
+nn(list-23, device-22)
+prep_on(show-18, list-23)
+poss(computer-26, my-25)
+prep_in(list-23, computer-26)
+poss(drive-31, your-28)
+nn(drive-31, C-29)
+prep_under(show-18, drive-31)
+
+=========
+
+nsubj(got-2, You-1)
+xsubj(have-4, You-1)
+root(ROOT-0, got-2)
+aux(have-4, to-3)
+xcomp(got-2, have-4)
+amod(drivers-7, correct-5)
+nn(drivers-7, phone-6)
+dobj(have-4, drivers-7)
+advmod(have-4, first-8)
+prep_as(have-4, stand-10)
+advmod(stand-10, alone-11)
+prep_as(have-4, part-13)
+conj_or(stand-10, part-13)
+det(software-16, a-15)
+prep_of(part-13, software-16)
+nn(Sync-19, HTC-18)
+prep_like(software-16, Sync-19)
+nsubj(free-22, Sync-19)
+cop(free-22, is-21)
+rcmod(Sync-19, free-22)
+
+=========
+
+nsubj(like-2, Looks-1)
+root(ROOT-0, like-2)
+neg(sure-4, not-3)
+acomp(like-2, sure-4)
+mark(went-6, because-5)
+ccomp(sure-4, went-6)
+amod(ways-10, many-8)
+nn(ways-10, try-9)
+prep_through(went-6, ways-10)
+ccomp(sure-4, forgot-12)
+conj_and(went-6, forgot-12)
+nn(drivers-17, HTC-14)
+nn(drivers-17, Desire-15)
+nn(drivers-17, HD-16)
+nsubj(compatable-21, drivers-17)
+conj_and(drivers-17, software-19)
+nsubj(compatable-21, software-19)
+cop(compatable-21, is-20)
+conj_but(like-2, compatable-21)
+
+=========
+
+nsubj(sad-3, it-1)
+cop(sad-3, is-2)
+root(ROOT-0, sad-3)
+advmod(sad-3, though-4)
+advmod(has-11, when-5)
+det(device-10, a-6)
+dep(tech-8, higher-7)
+amod(device-10, tech-8)
+amod(device-10, electronic-9)
+nsubj(has-11, device-10)
+nsubj(get-18, device-10)
+advcl(sad-3, has-11)
+dobj(has-11, everything-12)
+aux(work-14, to-13)
+infmod(everything-12, work-14)
+aux(get-18, can-16)
+neg(get-18, not-17)
+advcl(sad-3, get-18)
+conj_but(has-11, get-18)
+nsubj(work-21, it-19)
+aux(work-21, to-20)
+xcomp(get-18, work-21)
+advmod(can-24, when-22)
+nsubj(can-24, it-23)
+advcl(work-21, can-24)
+amod(procedures-27, correct-26)
+prep_with(can-24, procedures-27)
+
+=========
+
+advmod(hard-5, Sometimes-1)
+nsubj(hard-5, it-2)
+cop(hard-5, is-3)
+advmod(hard-5, technically-4)
+root(ROOT-0, hard-5)
+advmod(follow-10, even-6)
+advmod(follow-10, as-7)
+dep(follow-10, per-8)
+nsubj(follow-10, intruction-9)
+ccomp(hard-5, follow-10)
+dobj(follow-10, basis-11)
+
+=========
+
+nsubj(have-2, You-1)
+xsubj(have-4, You-1)
+root(ROOT-0, have-2)
+aux(have-4, to-3)
+xcomp(have-2, have-4)
+det(experience-7, some-5)
+amod(experience-7, pan-6)
+dobj(have-4, experience-7)
+det(understanding-12, some-9)
+nn(understanding-12, infrastructure-10)
+amod(understanding-12, fundamental-11)
+dobj(have-4, understanding-12)
+conj_or(experience-7, understanding-12)
+
+=========
+
+det(version-4, This-1)
+nn(version-4, Android-2)
+nn(version-4, OS-3)
+nsubj(appealing-6, version-4)
+cop(appealing-6, is-5)
+root(ROOT-0, appealing-6)
+det(difference-12, the-8)
+nn(difference-12, ROM-9)
+nn(difference-12, BIOS-10)
+nn(difference-12, company-11)
+nsubj(good-14, difference-12)
+nsubj(entertaining-16, difference-12)
+cop(good-14, is-13)
+conj_and(appealing-6, good-14)
+conj_and(appealing-6, entertaining-16)
+conj_and(good-14, entertaining-16)
+
+=========
+
+nsubj(works-2, GPS-1)
+root(ROOT-0, works-2)
+acomp(works-2, good-3)
+prep_with(good-3, offline-5)
+dep(good-3, maps-6)
+dep(good-3, POI-8)
+conj_and(maps-6, POI-8)
+
+=========
+
+aux(need-3, Do-1)
+neg(need-3, not-2)
+root(ROOT-0, need-3)
+nn(connection-5, data-4)
+dobj(need-3, connection-5)
+dobj(need-3, wifi-7)
+conj_nor(connection-5, wifi-7)
+aux(use-9, to-8)
+xcomp(need-3, use-9)
+advmod(use-9, just-10)
+nn(GPS-13, dedicate-12)
+prep_like(use-9, GPS-13)
+prep_for(GPS-13, cars-15)
+
+=========
+
+root(ROOT-0, Free-1)
+det(bucks-5, a-3)
+amod(bucks-5, few-4)
+conj_or(Free-1, bucks-5)
+nn(software-8, map-7)
+prep_for(Free-1, software-8)
+
+=========
+
+det(phone-2, This-1)
+nsubj(looks-3, phone-2)
+root(ROOT-0, looks-3)
+acomp(looks-3, big-4)
+amod(screen-9, big-6)
+nn(screen-9, lcd-7)
+nn(screen-9, touch-8)
+prep_with(big-4, screen-9)
+
+=========
+
+nsubj(heard-2, I-1)
+root(ROOT-0, heard-2)
+nsubj(had-4, it-3)
+ccomp(heard-2, had-4)
+det(chassis-9, an-5)
+nn(chassis-9, aluminum-6)
+nn(chassis-9, alloy-7)
+nn(chassis-9, back-8)
+dobj(had-4, chassis-9)
+
+=========
+
+root(ROOT-0, Looks-1)
+amod(sophisticated-3, corporate-2)
+amod(Looks-1, sophisticated-3)
+
+=========
+
+nsubj(quick-2, Charges-1)
+root(ROOT-0, quick-2)
+amod(battery-5, full-4)
+prep_with(quick-2, battery-5)
+advmod(information-8, when-6)
+dep(information-8, so-7)
+advcl(quick-2, information-8)
+advmod(charging-11, when-9)
+advmod(charging-11, off-10)
+dep(information-8, charging-11)
+
+=========
+
+det(cameras-2, The-1)
+nsubj(super-5, cameras-2)
+cop(super-5, are-3)
+advmod(super-5, very-4)
+root(ROOT-0, super-5)
+dep(in-7, and-6)
+dep(super-5, in-7)
+pobj(in-7, HD-8)
+nn(navigation-11, GPS-10)
+prep_with(super-5, navigation-11)
+

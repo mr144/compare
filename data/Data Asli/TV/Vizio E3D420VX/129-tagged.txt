@@ -1,0 +1,2 @@
+Works_NNP well_RB and_CC is_VBZ the_DT size_NN we_PRP needed_VBD ._.
+I_PRP like_VBP the_DT features_NNS and_CC it_PRP was_VBD very_RB easy_JJ to_TO connect_VB to_TO our_PRP$ WiFi_NNS ._.

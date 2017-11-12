@@ -1,0 +1,79 @@
+=========
+
+det(phone-2, The-1)
+nsubj(arrived-3, phone-2)
+root(ROOT-0, arrived-3)
+dep(arrived-3, promptly-4)
+dep(arrived-3, in-6)
+conj_and(promptly-4, in-6)
+amod(condition-8, good-7)
+pobj(in-6, condition-8)
+
+=========
+
+advmod(worked-3, Initially-1)
+nsubj(worked-3, it-2)
+root(ROOT-0, worked-3)
+acomp(worked-3, great-4)
+mark(tried-7, until-5)
+nsubj(tried-7, I-6)
+advcl(worked-3, tried-7)
+nn(apps-10, upload-9)
+prep_to(tried-7, apps-10)
+prep_to(tried-7, pics-12)
+conj_and(apps-10, pics-12)
+prep_to(tried-7, contacts-15)
+conj_and(apps-10, contacts-15)
+
+=========
+
+nsubj(frozen-4, It-1)
+advmod(frozen-4, then-2)
+cop(frozen-4, became-3)
+root(ROOT-0, frozen-4)
+
+=========
+
+nsubj(taken-3, I-1)
+aux(taken-3, have-2)
+root(ROOT-0, taken-3)
+dobj(taken-3, it-4)
+preconj(store-9, both-6)
+det(store-9, an-7)
+nn(store-9, AT&T-8)
+prep_to(taken-3, store-9)
+det(store-13, the-11)
+nn(store-13, Apple-12)
+prep_to(taken-3, store-13)
+conj_and(store-9, store-13)
+
+=========
+
+det(store-2, Neither-1)
+nsubj(able-4, store-2)
+cop(able-4, was-3)
+root(ROOT-0, able-4)
+aux(restore-6, to-5)
+xcomp(able-4, restore-6)
+dobj(restore-6, it-7)
+
+=========
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(appointment-4, an-3)
+dobj(have-2, appointment-4)
+det(weekend-6, this-5)
+nsubj(try-11, weekend-6)
+nsubj(restore-13, weekend-6)
+amod(repairs-9, additional-8)
+prep_for(weekend-6, repairs-9)
+aux(try-11, to-10)
+infmod(appointment-4, try-11)
+rcmod(appointment-4, try-11)
+infmod(appointment-4, restore-13)
+rcmod(appointment-4, restore-13)
+conj_and(try-11, restore-13)
+det(phone-15, the-14)
+dobj(try-11, phone-15)
+

@@ -1,0 +1,31 @@
+=========
+
+det(camera-2, The-1)
+nsubj(arrived-3, camera-2)
+root(ROOT-0, arrived-3)
+prep_on(arrived-3, time-5)
+
+=========
+
+nsubj(impressed-4, I-1)
+cop(impressed-4, was-2)
+advmod(impressed-4, extremely-3)
+root(ROOT-0, impressed-4)
+
+=========
+
+root(ROOT-0, Have-1)
+advmod(Have-1, yet-2)
+aux(use-4, to-3)
+xcomp(Have-1, use-4)
+det(product-6, the-5)
+dobj(use-4, product-6)
+aux(looking-10, am-9)
+xcomp(Have-1, looking-10)
+conj_but(use-4, looking-10)
+advmod(looking-10, forward-11)
+prepc_to(looking-10, using-13)
+poss(trip-16, my-15)
+prep_on(using-13, trip-16)
+prep_to(using-13, Portugal-18)
+

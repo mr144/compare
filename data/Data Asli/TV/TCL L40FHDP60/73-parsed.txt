@@ -1,0 +1,67 @@
+=========
+
+root(ROOT-0, Purchased-1)
+dobj(Purchased-1, this-2)
+det(gift-5, a-4)
+prep_as(Purchased-1, gift-5)
+poss(son-8, our-7)
+prep_for(gift-5, son-8)
+poss(wife-11, his-10)
+prep_for(gift-5, wife-11)
+conj_and(son-8, wife-11)
+advmod(Purchased-1, out-12)
+det(Northwest-15, the-14)
+prep_in(Purchased-1, Northwest-15)
+
+=========
+
+nsubj(rave-2, They-1)
+root(ROOT-0, rave-2)
+det(quality-5, the-4)
+prep_about(rave-2, quality-5)
+det(picture-8, the-7)
+prep_of(quality-5, picture-8)
+
+=========
+
+nsubj(bought-2, We-1)
+ccomp(did-10, bought-2)
+dobj(bought-2, this-3)
+prep_before(bought-2, Thanksgiving-5)
+prep_before(bought-2, quite-7)
+advmod(Thanksgiving-5, quite-7)
+conj_and(Thanksgiving-5, quite-7)
+advmod(bought-2, frankly-8)
+root(ROOT-0, did-10)
+advmod(did-10, better-11)
+det(price-14, the-13)
+prep_on(did-10, price-14)
+dep(waited-18, than-15)
+aux(waited-18, had-16)
+nsubj(waited-18, we-17)
+advcl(did-10, waited-18)
+det(weeks-21, another-19)
+num(weeks-21, 3-20)
+tmod(waited-18, weeks-21)
+nsubj(deal-28, it-23)
+cop(deal-28, was-24)
+advmod(deal-28, still-25)
+det(deal-28, a-26)
+amod(deal-28, great-27)
+parataxis(did-10, deal-28)
+prep_on(deal-28, BF-30)
+
+=========
+
+nsubjpass(delivered-3, It-1)
+auxpass(delivered-3, was-2)
+root(ROOT-0, delivered-3)
+prep_as(delivered-3, promised-5)
+nsubj(is-8, promised-5)
+rcmod(promised-5, is-8)
+advmod(love-11, why-9)
+nsubj(love-11, we-10)
+advcl(is-8, love-11)
+nn(Prime-13, Amazon-12)
+dobj(love-11, Prime-13)
+

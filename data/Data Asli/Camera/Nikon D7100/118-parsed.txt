@@ -1,0 +1,37 @@
+=========
+
+ccomp(had-18, Received-1)
+dobj(Received-1, it-2)
+tmod(Received-1, Monday-3)
+aux(tried-6, have-5)
+conj_and(Received-1, tried-6)
+ccomp(had-18, tried-6)
+dobj(tried-6, it-7)
+prt(tried-6, out-8)
+poss(18-200-11, my-10)
+prep_on(tried-6, 18-200-11)
+nsubj(had-18, 70-200-13)
+conj_and(70-200-13, sigma-15)
+nsubj(had-18, sigma-15)
+num(sigma-15, 150-500-16)
+aux(had-18, have-17)
+root(ROOT-0, had-18)
+det(issues-20, no-19)
+dobj(had-18, issues-20)
+prep_with(had-18, any-22)
+
+=========
+
+nsubj(blistering-3, Focus-1)
+aux(blistering-3, is-2)
+root(ROOT-0, blistering-3)
+advmod(blistering-3, fast-4)
+
+=========
+
+root(ROOT-0, More-1)
+aux(come-3, to-2)
+dep(More-1, come-3)
+det(weekend-6, the-5)
+prep_after(come-3, weekend-6)
+

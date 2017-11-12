@@ -1,0 +1,30 @@
+=========
+
+det(effects-3, The-1)
+num(effects-3, 3D-2)
+nsubj(fine-6, effects-3)
+cop(fine-6, are-4)
+advmod(fine-6, just-5)
+root(ROOT-0, fine-6)
+
+=========
+
+det(quality-4, The-1)
+amod(quality-4, normal-2)
+nn(quality-4, picture-3)
+nsubj(outstanding.Grand-kids-6, quality-4)
+nsubj(is-14, quality-4)
+cop(outstanding.Grand-kids-6, is-5)
+root(ROOT-0, outstanding.Grand-kids-6)
+rcmod(outstanding.Grand-kids-6, love-7)
+det(movies-10, the-8)
+num(movies-10, 3D-9)
+dobj(love-7, movies-10)
+expl(is-14, there-13)
+conj_but(outstanding.Grand-kids-6, is-14)
+neg(is-14, not-15)
+advmod(material-18, enough-16)
+num(material-18, 3D-17)
+pobj(not-15, material-18)
+acomp(is-14, available-19)
+

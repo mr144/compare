@@ -1,0 +1,30 @@
+=========
+
+root(ROOT-0, Is-1)
+prepc_like(Is-1, having-3)
+det(AppleTV-5, an-4)
+nsubj(included-6, AppleTV-5)
+nsubj(integrated-12, AppleTV-5)
+ccomp(having-3, included-6)
+poss(TV-9, your-8)
+prep_in(included-6, TV-9)
+advmod(integrated-12, fully-11)
+ccomp(having-3, integrated-12)
+conj_and(included-6, integrated-12)
+
+=========
+
+amod(connection-3, Direct-1)
+nn(connection-3, wifi-2)
+nsubj(plus-7, connection-3)
+cop(plus-7, is-4)
+det(plus-7, a-5)
+amod(plus-7, great-6)
+root(ROOT-0, plus-7)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, it-3)
+

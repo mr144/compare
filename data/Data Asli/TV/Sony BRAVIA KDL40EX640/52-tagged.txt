@@ -1,0 +1,3 @@
+I_PRP compared_VBD this_DT Sony_NNP BRAVIA_NNP 40_CD Inch_NN with_IN all_DT other_JJ brands_NNS with_IN comparable_JJ features_NNS ._.
+Sony_NNP has_VBZ the_DT best_JJS picture_NN and_CC I_PRP love_VBP the_DT BRAVIA_NNP Sync_NN that_WDT recognizes_VBZ my_PRP$ Sony_NNP receiver_NN and_CC Sony_NNP Blu-Ray_NNP player_NN ._.
+It_PRP is_VBZ well_RB worth_JJ the_DT price_NN ._.

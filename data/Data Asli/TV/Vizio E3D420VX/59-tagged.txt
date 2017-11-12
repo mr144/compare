@@ -1,0 +1,1 @@
+We_PRP replaced_VBD an_DT LG_NNP ,_, good_JJ color_NN ,_, good_JJ sound_NN ,_, good_JJ value_NN ,_, nice_JJ features_NNS ,_, we_PRP 'll_MD see_VB how_WRB long_JJ it_PRP lasts_VBZ compared_VBN to_TO the_DT old_JJ LG_NNP

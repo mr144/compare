@@ -1,0 +1,58 @@
+=========
+
+nsubj(searched-2, I-1)
+root(ROOT-0, searched-2)
+amod(weeks-4, several-3)
+nsubj(replacement-6, weeks-4)
+det(replacement-6, the-5)
+xcomp(searched-2, replacement-6)
+poss(phone-10, my-8)
+amod(phone-10, old-9)
+prep_of(replacement-6, phone-10)
+nsubj(chose-13, I-12)
+conj_and(searched-2, chose-13)
+dobj(chose-13, this-14)
+poss(features-18, its-16)
+amod(features-18, excellent-17)
+prep_for(this-14, features-18)
+prep_for(this-14, components-20)
+conj_and(features-18, components-20)
+
+=========
+
+poss(core-3, Its-1)
+amod(core-3, dual-2)
+nsubj(makes-4, core-3)
+root(ROOT-0, makes-4)
+det(move-9, the-5)
+nn(move-9, interface-6)
+conj_and(interface-6, applications-8)
+nn(move-9, applications-8)
+dobj(makes-4, move-9)
+advmod(well-11, very-10)
+advmod(makes-4, well-11)
+
+=========
+
+poss(camera-3, Its-1)
+amod(camera-3, 720p-2)
+nsubj(takes-4, camera-3)
+root(ROOT-0, takes-4)
+det(pictures-6, some-5)
+dobj(takes-4, pictures-6)
+advmod(good-9, very-8)
+amod(quality-10, good-9)
+prep_of(pictures-6, quality-10)
+
+=========
+
+det(thing-4, The-1)
+amod(thing-4, only-2)
+amod(thing-4, bad-3)
+nsubj(capacity-9, thing-4)
+cop(capacity-9, is-5)
+poss(capacity-9, its-6)
+amod(capacity-9, small-7)
+nn(capacity-9, storage-8)
+root(ROOT-0, capacity-9)
+

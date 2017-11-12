@@ -1,0 +1,58 @@
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+det(tv-5, this-4)
+dobj(had-3, tv-5)
+quantmod(2-8, about-7)
+num(months-9, 2-8)
+prep_for(had-3, months-9)
+advmod(had-3, now-10)
+advmod(roommates-14, all-12)
+poss(roommates-14, my-13)
+conj_and(had-3, roommates-14)
+nsubj(love-17, I-16)
+conj_and(had-3, love-17)
+dobj(love-17, it-18)
+
+=========
+
+advmod(fussy-8, Sometimes-1)
+det(software-3, the-2)
+nsubj(fussy-8, software-3)
+nsubj(tends-11, software-3)
+xsubj(run-13, software-3)
+aux(fussy-8, can-4)
+cop(fussy-8, be-5)
+det(bit-7, a-6)
+npadvmod(fussy-8, bit-7)
+root(ROOT-0, fussy-8)
+conj_but(fussy-8, tends-11)
+aux(run-13, to-12)
+xcomp(tends-11, run-13)
+advmod(run-13, smoothly-14)
+dobj(run-13, most-15)
+det(time-18, the-17)
+prep_of(most-15, time-18)
+
+=========
+
+det(display-2, The-1)
+nsubj(realistic-5, display-2)
+nsubj(nice-9, display-2)
+cop(realistic-5, is-3)
+advmod(realistic-5, very-4)
+root(ROOT-0, realistic-5)
+cop(nice-9, is-8)
+conj_and(realistic-5, nice-9)
+prep_for(nice-9, gaming-11)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+det(product-5, this-4)
+dobj(recommend-3, product-5)
+

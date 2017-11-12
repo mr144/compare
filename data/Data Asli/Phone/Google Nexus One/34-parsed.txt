@@ -1,0 +1,360 @@
+=========
+
+nsubj(owned-2, I-1)
+root(ROOT-0, owned-2)
+det(phone-4, this-3)
+dobj(owned-2, phone-4)
+num(months-7, nine-6)
+prep_for(owned-2, months-7)
+
+=========
+
+dep(display-13, Hardware-1)
+advmod(display-13, By-3)
+advmod(By-3, far-4)
+poss(feature-8, its-5)
+advmod(outstanding-7, most-6)
+amod(feature-8, outstanding-7)
+nsubj(display-13, feature-8)
+cop(display-13, is-9)
+det(display-13, the-10)
+amod(display-13, crisp-11)
+amod(display-13, 480x800-12)
+root(ROOT-0, display-13)
+
+=========
+
+root(ROOT-0, Everything-1)
+advmod(Everything-1, else-2)
+nsubj(adequate-12, wifi-4)
+appos(wifi-4, speakerphone-6)
+appos(speakerphone-6, camera-8)
+dep(speakerphone-6, etc.-10)
+cop(adequate-12, is-11)
+dep(Everything-1, adequate-12)
+
+=========
+
+det(phone-2, The-1)
+nsubj(sleek-4, phone-2)
+nsubj(comfortable-6, phone-2)
+cop(sleek-4, is-3)
+root(ROOT-0, sleek-4)
+conj_and(sleek-4, comfortable-6)
+aux(use-8, to-7)
+xcomp(sleek-4, use-8)
+
+=========
+
+nsubj(drains-6, Wifi-1)
+conj_and(Wifi-1, GPS-3)
+nsubj(drains-6, GPS-3)
+cop(drains-6, are-4)
+amod(drains-6, huge-5)
+root(ROOT-0, drains-6)
+prep_on(drains-6, battery-8)
+
+=========
+
+nsubj(best-3, It-1)
+xsubj(have-5, It-1)
+cop(best-3, is-2)
+root(ROOT-0, best-3)
+aux(have-5, to-4)
+xcomp(best-3, have-5)
+nsubj(turned-7, them-6)
+ccomp(have-5, turned-7)
+prt(turned-7, off-8)
+mark(needed-11, unless-9)
+advmod(needed-11, specifically-10)
+advcl(turned-7, needed-11)
+
+=========
+
+root(ROOT-0, Software-1)
+prep_on(missing-13, startup-4)
+nn(information-8, access-6)
+nn(information-8, point-7)
+nsubj(missing-13, information-8)
+amod(networking-11, mobile-10)
+prep_for(information-8, networking-11)
+aux(missing-13, was-12)
+dep(Software-1, missing-13)
+det(config-16, the-15)
+prep_from(missing-13, config-16)
+
+=========
+
+nsubj(had-2, I-1)
+xsubj(add-4, I-1)
+root(ROOT-0, had-2)
+aux(add-4, to-3)
+xcomp(had-2, add-4)
+dobj(add-4, it-5)
+poss(carrier-8, my-7)
+prep_for(add-4, carrier-8)
+dep(carrier-8, under-10)
+nn(Wireless-14, Settings-11)
+pobj(under-10, Wireless-14)
+nn(Networks-20, Networks-16)
+nn(Networks-20, Mobile-19)
+pobj(under-10, Networks-20)
+conj_and(Wireless-14, Networks-20)
+nn(Names-25, Access-23)
+nn(Names-25, Point-24)
+dep(carrier-8, Names-25)
+
+=========
+
+mark(buy-5, Since-1)
+nsubj(buy-5, I-2)
+aux(buy-5, did-3)
+neg(buy-5, not-4)
+advcl(was-12, buy-5)
+det(phone-7, the-6)
+dobj(buy-5, phone-7)
+poss(carrier-10, my-9)
+prep_from(buy-5, carrier-10)
+expl(was-12, there-11)
+root(ROOT-0, was-12)
+det(bloatware-15, no-13)
+amod(bloatware-15, extra-14)
+nsubj(was-12, bloatware-15)
+prep_on(bloatware-15, it-17)
+advmod(it-17, just-19)
+det(system-24, the-20)
+amod(system-24, basic-21)
+nn(system-24, Android-22)
+nn(system-24, operating-23)
+dep(it-17, system-24)
+
+=========
+
+det(upgrade-3, An-1)
+nn(upgrade-3, OTA-2)
+nsubj(broke-10, upgrade-3)
+nn(version-6, Android-5)
+prep_from(upgrade-3, version-6)
+number(2.3-9, 2.2-7)
+dep(2.3-9, to-8)
+num(version-6, 2.3-9)
+root(ROOT-0, broke-10)
+det(suggestions-13, the-11)
+nn(suggestions-13, dictionary-12)
+nsubj(feature-14, suggestions-13)
+ccomp(broke-10, feature-14)
+advmod(typing-16, when-15)
+advcl(feature-14, typing-16)
+
+=========
+
+dep(issue-3, see-2)
+nsubj(issue-9, issue-3)
+number(18716-5, #-4)
+npadvmod(issue-3, 18716-5)
+det(Android-8, the-7)
+prep_on(issue-3, Android-8)
+root(ROOT-0, issue-9)
+xcomp(issue-9, tracking-10)
+dobj(tracking-10, system-11)
+prep_at(tracking-10, code.google.com-13)
+
+=========
+
+nsubjpass(supposed-3, This-1)
+xsubj(fixed-7, This-1)
+auxpass(supposed-3, is-2)
+root(ROOT-0, supposed-3)
+aux(fixed-7, to-4)
+aux(fixed-7, have-5)
+auxpass(fixed-7, been-6)
+xcomp(supposed-3, fixed-7)
+prep_with(fixed-7, version-9)
+num(version-9, 2.3.6-10)
+
+=========
+
+nsubj(had-2, I-1)
+xsubj(install-4, I-1)
+xsubj(work-9, I-1)
+root(ROOT-0, had-2)
+aux(install-4, to-3)
+xcomp(had-2, install-4)
+det(keyboard-7, a-5)
+amod(keyboard-7, third-party-6)
+dobj(install-4, keyboard-7)
+aux(work-9, to-8)
+xcomp(had-2, work-9)
+prt(work-9, around-10)
+det(problem-12, the-11)
+dobj(work-9, problem-12)
+
+=========
+
+advmod(started-5, Reliability-1)
+det(phone-4, The-3)
+nsubj(started-5, phone-4)
+root(ROOT-0, started-5)
+xcomp(started-5, exhibiting-6)
+dobj(exhibiting-6, problems-7)
+num(months-10, nine-9)
+prep_after(exhibiting-6, months-10)
+
+=========
+
+advmod(stopped-5, First-1)
+det(camera-4, the-3)
+nsubj(stopped-5, camera-4)
+root(ROOT-0, stopped-5)
+xcomp(stopped-5, working-6)
+
+=========
+
+advmod(go-6, Next-1)
+det(screen-4, the-3)
+nsubj(go-6, screen-4)
+aux(go-6, would-5)
+root(ROOT-0, go-6)
+acomp(go-6, blank-7)
+mark(started-11, after-8)
+det(call-10, a-9)
+nsubj(started-11, call-10)
+nsubj(unresponsive-14, call-10)
+advcl(go-6, started-11)
+cop(unresponsive-14, remain-13)
+advcl(go-6, unresponsive-14)
+conj_and(started-11, unresponsive-14)
+
+=========
+
+aux(access-3, Could-1)
+neg(access-3, not-2)
+root(ROOT-0, access-3)
+dobj(access-3, any-4)
+det(controls-8, the-6)
+amod(controls-8, on-screen-7)
+prep_of(any-4, controls-8)
+prepc_for(access-3, ending-10)
+prepc_for(access-3, muting-12)
+conj_and(ending-10, muting-12)
+dobj(ending-10, calls-13)
+prepc_for(access-3, switching-15)
+conj_or(ending-10, switching-15)
+aux(speakerphone-17, to-16)
+xcomp(switching-15, speakerphone-17)
+
+=========
+
+nsubj(have-3, I-1)
+xsubj(press-5, I-1)
+xsubj(get-15, I-1)
+aux(have-3, did-2)
+root(ROOT-0, have-3)
+aux(press-5, to-4)
+xcomp(have-3, press-5)
+prt(press-5, down-6)
+det(bottom-9, the-8)
+prep_on(press-5, bottom-9)
+det(compartment-13, the-11)
+nn(compartment-13, battery-12)
+prep_of(bottom-9, compartment-13)
+aux(get-15, to-14)
+xcomp(have-3, get-15)
+det(screen-17, the-16)
+dobj(get-15, screen-17)
+aux(display-19, to-18)
+infmod(screen-17, display-19)
+infmod(screen-17, remove-22)
+conj_or(display-19, remove-22)
+det(battery-24, the-23)
+dobj(remove-22, battery-24)
+conj_or(display-19, do-26)
+conj_and(remove-22, do-26)
+det(reset-29, a-27)
+amod(reset-29, hard-28)
+dobj(do-26, reset-29)
+
+=========
+
+nsubj(seen-3, I-1)
+aux(seen-3, have-2)
+root(ROOT-0, seen-3)
+amod(people-5, many-4)
+nsubj(report-6, people-5)
+ccomp(seen-3, report-6)
+amod(problems-8, similar-7)
+dobj(report-6, problems-8)
+det(months-12, a-10)
+amod(months-12, few-11)
+prep_after(report-6, months-12)
+prep_of(months-12, usage-14)
+
+=========
+
+prep_like(received-5, others-2)
+nsubj(received-5, I-4)
+root(ROOT-0, received-5)
+det(response-9, a-6)
+advmod(poor-8, very-7)
+amod(response-9, poor-8)
+dobj(received-5, response-9)
+prep_from(received-5, HTC-11)
+det(refusal-14, a-13)
+prep_from(received-5, refusal-14)
+conj_and(HTC-11, refusal-14)
+nn(service-17, warranty-16)
+prep_for(received-5, service-17)
+
+=========
+
+nsubj(offered-8, Amazon-1)
+xsubj(refund-10, Amazon-1)
+det(hand-6, the-4)
+amod(hand-6, other-5)
+prep_on(Amazon-1, hand-6)
+root(ROOT-0, offered-8)
+aux(refund-10, to-9)
+xcomp(offered-8, refund-10)
+det(amount-13, the-11)
+amod(amount-13, original-12)
+dobj(refund-10, amount-13)
+
+=========
+
+root(ROOT-0, Kudos-1)
+prep_to(Kudos-1, them-3)
+prepc_for(them-3, doing-5)
+advmod(doing-5, so-6)
+
+=========
+
+amod(line-2, Bottom-1)
+root(ROOT-0, line-2)
+det(phone-5, This-4)
+nsubj(good-7, phone-5)
+cop(good-7, is-6)
+dep(line-2, good-7)
+advmod(functions-10, when-8)
+nsubj(functions-10, it-9)
+advcl(good-7, functions-10)
+
+=========
+
+advmod(had-8, Unfortunately-1)
+det(number-4, a-3)
+nsubj(had-8, number-4)
+prep_of(number-4, people-6)
+aux(had-8, have-7)
+root(ROOT-0, had-8)
+dobj(had-8, problems-9)
+prep_with(had-8, it-11)
+det(manufacturer-14, the-13)
+nsubj(unwilling-16, manufacturer-14)
+cop(unwilling-16, is-15)
+conj_and(had-8, unwilling-16)
+aux(fulfill-18, to-17)
+xcomp(unwilling-16, fulfill-18)
+poss(obligations-21, its-19)
+nn(obligations-21, warranty-20)
+dobj(fulfill-18, obligations-21)
+

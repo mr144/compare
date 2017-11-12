@@ -1,0 +1,41 @@
+=========
+
+nsubj(compare-14, Excellent-1)
+num(Excellent-1, one-2)
+det(price-5, the-4)
+prep_for(Excellent-1, price-5)
+advmod(piece-9, just-7)
+det(piece-9, a-8)
+dep(price-5, piece-9)
+prep_of(piece-9, advice-11)
+aux(compare-14, do-12)
+neg(compare-14, not-13)
+dep(help-20, compare-14)
+prep_with(compare-14, iPhone-4-16)
+nsubj(help-20, it-17)
+aux(help-20, would-18)
+neg(help-20, not-19)
+root(ROOT-0, help-20)
+nsubj(feel-22, u-21)
+ccomp(help-20, feel-22)
+dep(better-24, any-23)
+advmod(feel-22, better-24)
+
+=========
+
+root(ROOT-0, Think-1)
+dep($-4, the-3)
+prep_of(Think-1, $-4)
+quantmod(iPhone-6, of-5)
+num($-4, iPhone-6)
+det(Nexus-9, the-8)
+prep_of(Think-1, Nexus-9)
+conj_and($-4, Nexus-9)
+
+=========
+
+det(luxury-4, A-1)
+amod(luxury-4, common-2)
+amod(luxury-4, mans-3)
+root(ROOT-0, luxury-4)
+

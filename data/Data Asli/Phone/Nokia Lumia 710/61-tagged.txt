@@ -1,0 +1,7 @@
+I_PRP bought_VBD Nokia_NNP Lumia_NNP as_IN a_DT Nokia_NNP mobile_JJ phone_NN fan_NN ._.
+I_PRP was_VBD a_DT Symbian_NNP user_NN and_CC now_RB I_PRP tried_VBD Windows_NNP Phone_NNP ._.
+The_DT phone_NN is_VBZ a_DT great_JJ choise_NN for_IN middle_JJ cost_NN cellphones_NNS ._.
+The_DT cellphone_NN is_VBZ fast_RB and_CC has_VBZ good_JJ memory_NN ._.
+Some_DT considerations_NNS about_IN Windows_NNP Phone_NNP 7.5_CD Good_JJ things_NNS :_: -_: Too_RB fast_RB -_: Excelent_JJ integrations_NNS -LRB-_-LRB- FB_NNP ,_, Twitter_NNP ,_, Windows_NNP Live_NNP ,_, Google_NNP ,_, etc._FW -RRB-_-RRB- -_: Nokia_NNP Maps_NNPS -_: Good_JJ internet_NN browser_NN -LRB-_-LRB- Internet_NNP Explorer_NNP -RRB-_-RRB- -_: BAD_NNP :_: -_: Low_NNP quantity_NN apps_NNS in_IN marketplace_NN -_: Low_NNP battery_NN power_NN -LRB-_-LRB- max_NN 2_CD days_NNS -RRB-_-RRB- -_: Impossible_JJ to_TO create_VB a_DT new_JJ contact_NN on_IN phone_NN ._.
+You_PRP must_MD include_VB on_IN Windows_NNP Live_NNP or_CC others_NNS social_JJ networks_NNS ._.
+-_: No_DT support_NN to_TO 4G_NNP network_NN -_:

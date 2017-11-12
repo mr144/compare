@@ -1,0 +1,135 @@
+=========
+
+dep(see-4, Toshiba-1)
+nsubj(see-4, lets-3)
+root(ROOT-0, see-4)
+
+=========
+
+nsubj(takes-22, TV-1)
+prep_out_of(TV-1, service-4)
+det(time-8, the-6)
+amod(time-8, 4th-7)
+prep_for(service-4, time-8)
+num(months-11, 11-10)
+prep_in(time-8, months-11)
+amod(time-8, everytime-13)
+poss(issue-17, its-14)
+amod(issue-17, the-15)
+amod(issue-17, same-16)
+dep(time-8, issue-17)
+amod(board-20, main-19)
+dep(TV-1, board-20)
+root(ROOT-0, takes-22)
+num(weeks-24, 6-7-23)
+nsubj(send-28, weeks-24)
+prep_for(weeks-24, Toshiba-26)
+aux(send-28, to-27)
+xcomp(takes-22, send-28)
+det(one-30, some-29)
+dobj(send-28, one-30)
+aux(replace-32, to-31)
+infmod(one-30, replace-32)
+det(board-35, the-33)
+amod(board-35, main-34)
+dobj(replace-32, board-35)
+
+=========
+
+advmod(outsources-4, Also-1)
+nsubj(outsources-4, Toshiba-3)
+root(ROOT-0, outsources-4)
+det(job-6, the-5)
+dobj(outsources-4, job-6)
+det(company-10, some-8)
+amod(company-10, local-9)
+prep_to(outsources-4, company-10)
+nsubj(take-12, company-10)
+rcmod(company-10, take-12)
+poss(time-15, their-13)
+amod(time-15, sweet-14)
+dobj(take-12, time-15)
+aux(come-17, to-16)
+xcomp(take-12, come-17)
+poss(place-20, your-19)
+prep_to(come-17, place-20)
+
+=========
+
+poss(service-3, Their-1)
+nn(service-3, Customer-2)
+nsubj(short-6, service-3)
+cop(short-6, is-4)
+dep(short-6, nothing-5)
+root(ROOT-0, short-6)
+det(disaster-9, a-8)
+prep_of(short-6, disaster-9)
+
+=========
+
+nsubj(know-4, I-1)
+aux(know-4, do-2)
+neg(know-4, not-3)
+root(ROOT-0, know-4)
+advmod(are-7, how-5)
+nsubj(are-7, they-6)
+ccomp(know-4, are-7)
+advmod(are-7, still-8)
+prep_in(are-7, Business-10)
+
+=========
+
+root(ROOT-0, need-1)
+aux(reported-4, to-2)
+auxpass(reported-4, be-3)
+xcomp(need-1, reported-4)
+nn(Act-7, Consumer-6)
+prep_to(reported-4, Act-7)
+
+=========
+
+neg(buy-2, Never-1)
+root(ROOT-0, buy-2)
+det(product-5, a-3)
+nn(product-5, Toshiba-4)
+dobj(buy-2, product-5)
+advmod(buy-2, again-6)
+
+=========
+
+nsubj(wait-3, They-1)
+advmod(wait-3, only-2)
+root(ROOT-0, wait-3)
+poss(warranty-6, your-5)
+prep_for(wait-3, warranty-6)
+aux(get-8, to-7)
+infmod(warranty-6, get-8)
+prt(get-8, over-9)
+advmod(close-14, so-10)
+dep(close-14, that-11)
+nsubj(close-14, they-12)
+aux(close-14, can-13)
+advcl(get-8, close-14)
+ccomp(get-8, close-14)
+poss(case-16, your-15)
+dobj(close-14, case-16)
+
+=========
+
+det(company-2, This-1)
+nsubj(treats-3, company-2)
+root(ROOT-0, treats-3)
+poss(customers-5, their-4)
+dobj(treats-3, customers-5)
+advmod(shit-7, as-6)
+dep(treats-3, shit-7)
+
+=========
+
+nsubj(worse-5, they-1)
+cop(worse-5, are-2)
+num(times-4, 10-3)
+npadvmod(worse-5, times-4)
+root(ROOT-0, worse-5)
+prep_than(worse-5, Dell-7)
+

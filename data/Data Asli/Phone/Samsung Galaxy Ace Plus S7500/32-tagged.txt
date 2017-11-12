@@ -1,0 +1,1 @@
+Excelent_NNP Product_NNP it_PRP works_VBZ very_RB good_JJ in_IN Venezuela_NNP ,_, this_DT is_VBZ in_IN perfect_JJ conditions_NNS ,_, but_CC i_FW have_VBP a_DT Question_NN i_FW can_MD not_RB to_TO connect_VB wifi_NNS with_IN it_PRP can_MD you_PRP help_VB me_PRP about_IN this_DT ?_.

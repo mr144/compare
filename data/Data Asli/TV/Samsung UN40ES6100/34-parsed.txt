@@ -1,0 +1,44 @@
+=========
+
+nsubjpass(disappointed-5, You-1)
+aux(disappointed-5, will-2)
+neg(disappointed-5, not-3)
+auxpass(disappointed-5, be-4)
+root(ROOT-0, disappointed-5)
+advmod(disappointed-5, at-6)
+pobj(at-6, all-7)
+mark(purchase-10, if-8)
+nsubj(purchase-10, you-9)
+ccomp(disappointed-5, purchase-10)
+det(television-12, this-11)
+dobj(purchase-10, television-12)
+
+=========
+
+nsubj(amazing-5, Picture-1)
+conj_and(Picture-1, capabilities-3)
+nsubj(amazing-5, capabilities-3)
+cop(amazing-5, are-4)
+root(ROOT-0, amazing-5)
+advmod(amazing-5, !!-6)
+nsubj(love-8, I-7)
+ccomp(amazing-5, love-8)
+complm(do-12, that-9)
+nsubj(do-12, I-10)
+aux(do-12, can-11)
+ccomp(love-8, do-12)
+advmod(anything-14, almost-13)
+dobj(do-12, anything-14)
+prep_from(do-12, it-16)
+
+=========
+
+root(ROOT-0, Facebook-1)
+conj_and(Facebook-1, YouTube-3)
+conj_and(Facebook-1, Netflix-5)
+advmod(search-8, even-7)
+conj_and(Facebook-1, search-8)
+det(!!-11, the-9)
+nn(!!-11, web-10)
+dep(Facebook-1, !!-11)
+

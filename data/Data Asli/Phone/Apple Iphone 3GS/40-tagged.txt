@@ -1,0 +1,2 @@
+Exactly_RB as_IN I_PRP expected_VBD !_.
+No_DT surprises_NNS and_CC works\/functions_NNS like_IN an_DT excellent_JJ minimally_RB used_VBN mac-buttons_NNS cheaper_JJR than_IN a_DT new_JJ one_CD !_.

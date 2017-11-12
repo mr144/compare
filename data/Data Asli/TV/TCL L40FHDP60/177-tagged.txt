@@ -1,0 +1,16 @@
+This_DT is_VBZ a_DT great_JJ ,_, low_JJ priced_VBN LCD_NNP TV_NN ._.
+I_PRP was_VBD skeptical_JJ at_IN first_JJ because_IN I_PRP had_VBD never_RB heard_VBN of_IN the_DT brand_NN before_RB ,_, but_CC upon_IN further_JJ investigation_NN I_PRP found_VBD that_IN they_PRP had_VBD been_VBN producing_VBG several_JJ electronic_JJ brands_NNS under_IN the_DT RCA_NNP label_NN in_IN the_DT U.S._NNP ._.
+They_PRP are_VBP now_RB labeling_VBG all_DT TV_NN 's_POS under_IN their_PRP$ own_JJ label_NN ,_, The_DT Creative_NNP Life_NNP -LRB-_-LRB- TCL_NNP -RRB-_-RRB- ._.
+I_PRP have_VBP not_RB had_VBN the_DT same_JJ issues_NNS that_IN other_JJ reviewers_NNS did_VBD ._.
+I_PRP had_VBD no_DT problem_NN assembling_VBG the_DT stand_NN to_TO the_DT TV_NN ,_, it_PRP was_VBD quite_RB easy_JJ actually_RB ._.
+I_PRP also_RB have_VBP no_DT issues_NNS with_IN the_DT quality_NN of_IN the_DT speakers_NNS on_IN the_DT TV_NN ._.
+Unless_IN you_PRP are_VBP in_IN a_DT huge_JJ room_NN ,_, I_PRP have_VBP a_DT smaller_JJR apartment_NN ,_, they_PRP are_VBP more_RBR than_IN sufficient_JJ ._.
+The_DT only_JJ issues_NNS I_PRP have_VBP are_VBP with_IN the_DT connections_NNS ._.
+There_EX is_VBZ no_DT audio_NN out_IN connection_NN ,_, so_IN the_DT only_JJ way_NN to_TO hook_NN up_RP a_DT surround_VBP sound_NN system_NN is_VBZ to_TO use_VB the_DT headphone_NN output_NN ,_, which_WDT is_VBZ quite_RB unusual_JJ ._.
+There_EX is_VBZ a_DT usb_JJ port_NN on_IN the_DT side_NN of_IN the_DT TV_NN ,_, but_CC it_PRP only_RB reads_VBZ mp3_CD 's_POS and_CC jpeg_NN 's_POS ,_, so_RB no_RB playing_VBG movies_NNS off_IN thumb_NN drives_NNS ._.
+Another_DT issue_NN is_VBZ with_IN how_WRB slowly_RB it_PRP powers_NNS up_IN ._.
+There_EX is_VBZ a_DT period_NN of_IN at_IN least_JJS 10_CD seconds_NNS from_IN when_WRB you_PRP hit_VBD the_DT power_NN button_NN until_IN a_DT picture_NN actually_RB appears_VBZ ,_, which_WDT is_VBZ minor_JJ ,_, but_CC still_RB a_DT bit_RB annoying_JJ ._.
+Pros_NNS :_: high_JJ quality_NN picture_NN ,_, decent_JJ speakers_NNS ,_, easy_JJ to_TO set_VB up_RP ,_, light_JJ weight_NN ,_, good_JJ looking_VBG ,_, Energy_NNP Star_NNP rating_NN ,_, 2_CD year_NN limited_JJ warranty_NN ,_, PRICE_NNP !!!_NNP Cons_NNPS :_: limited_JJ connections_NNS ,_, power_NN up_RP speed_NN \*\*\*_NNP FYI_NNP ,_, you_PRP may_MD run_VB into_IN issues_NNS setting_VBG the_DT TV_NN up_RP with_IN a_DT universal_JJ remote_JJ since_IN it_PRP is_VBZ such_JJ a_DT new_JJ company_NN ._.
+I_PRP found_VBD that_IN the_DT RCA_NNP codes_NNS actually_RB work_VBP for_IN TCL_NNP brands_NNS ._.
+I_PRP have_VBP Comcast_NNP and_CC found_VBD the_DT code_NN 11447_CD worked_VBD !_.
+Good_JJ luck_NN ._.

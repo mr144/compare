@@ -1,0 +1,31 @@
+=========
+
+root(ROOT-0, Withe-1)
+advmod(darn-good-3, pretty-2)
+amod(resolution-5, darn-good-3)
+amod(resolution-5, hi-def-4)
+dobj(Withe-1, resolution-5)
+
+=========
+
+amod(job-2, Nice-1)
+root(ROOT-0, job-2)
+dep(job-2, Samsung-3)
+
+=========
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, wholeheartedly-2)
+root(ROOT-0, recommend-3)
+det(product-5, this-4)
+dobj(recommend-3, product-5)
+dep(product-5, wish-7)
+nsubj(have-10, I-8)
+aux(have-10, could-9)
+ccomp(wish-7, have-10)
+dobj(have-10, one-11)
+det(room-14, every-13)
+prep_in(one-11, room-14)
+det(house-17, the-16)
+prep_of(room-14, house-17)
+

@@ -1,0 +1,27 @@
+=========
+
+neg(able-2, Not-1)
+root(ROOT-0, able-2)
+aux(get-4, to-3)
+dep(able-2, get-4)
+amod(provider-6, local-5)
+dobj(get-4, provider-6)
+aux(provide-8, to-7)
+xcomp(get-4, provide-8)
+nsubj(foreign-14, service-9)
+prep_due_to(foreign-14, phone-12)
+cop(foreign-14, being-13)
+xcomp(provide-8, foreign-14)
+
+=========
+
+advmod(disappointed-2, Very-1)
+root(ROOT-0, disappointed-2)
+dep(able-5, that-3)
+neg(able-5, not-4)
+dep(disappointed-2, able-5)
+aux(use-7, to-6)
+xcomp(able-5, use-7)
+det(phone-9, this-8)
+dobj(use-7, phone-9)
+

@@ -1,0 +1,1 @@
+it_PRP is_VBZ not_RB work_NN as_IN iphone_NN ,_, its_PRP$ software_NN is_VBZ old_JJ and_CC can_MD not_RB update_VB ,_, it_PRP look_VBP like_IN locked_VBN phone_NN no_DT respone_NN for_IN update_VB or_CC down_VB load_NN

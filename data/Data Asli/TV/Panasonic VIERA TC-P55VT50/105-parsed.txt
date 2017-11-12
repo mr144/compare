@@ -1,0 +1,32 @@
+=========
+
+amod(picture-3, Top-1)
+amod(picture-3, notch-2)
+root(ROOT-0, picture-3)
+advmod(good-7, almost-5)
+advmod(good-7, as-6)
+appos(picture-3, good-7)
+poss(Elite-11, my-9)
+nn(Elite-11, Pioneer-10)
+prep_as(good-7, Elite-11)
+
+=========
+
+nsubj(marginal-3, Sound-1)
+cop(marginal-3, is-2)
+root(ROOT-0, marginal-3)
+nsubj(planned-7, I-6)
+xsubj(use-9, I-6)
+conj_but(marginal-3, planned-7)
+aux(use-9, to-8)
+xcomp(planned-7, use-9)
+amod(speakers-11, external-10)
+dobj(use-9, speakers-11)
+advmod(heard-15, even-12)
+dep(heard-15, before-13)
+nsubj(heard-15, I-14)
+dep(use-9, heard-15)
+det(sound-18, the-16)
+nn(sound-18, television-17)
+dobj(heard-15, sound-18)
+

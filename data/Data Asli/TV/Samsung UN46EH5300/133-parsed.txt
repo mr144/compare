@@ -1,0 +1,56 @@
+=========
+
+csubj(easy-17, Arrived-1)
+amod(packaging-4, substantial-3)
+prep_with(Arrived-1, packaging-4)
+amod(condition-9, expected-7)
+amod(condition-9, new-8)
+prep_in(Arrived-1, condition-9)
+det(time-13, the-12)
+prep_at(condition-9, time-13)
+prep_as(time-13, advertised.Set-up-15)
+cop(easy-17, was-16)
+root(ROOT-0, easy-17)
+
+=========
+
+nsubj(weight-5, TV-1)
+cop(weight-5, was-2)
+advmod(light-4, surprisingly-3)
+amod(weight-5, light-4)
+root(ROOT-0, weight-5)
+
+=========
+
+mark(set-5, Once-1)
+nn(settings-3, picture-2)
+nsubjpass(set-5, settings-3)
+auxpass(set-5, were-4)
+advcl(contrast-10, set-5)
+advmod(good-8, very-7)
+amod(color-9, good-8)
+nsubj(contrast-10, color-9)
+root(ROOT-0, contrast-10)
+
+=========
+
+nn(access-3, Wireless-1)
+nn(access-3, internet-2)
+nsubj(access-8, access-3)
+cop(access-8, was-4)
+advmod(access-8, also-5)
+advmod(easy-7, fairly-6)
+amod(access-8, easy-7)
+root(ROOT-0, access-8)
+det(TV-14, this-10)
+amod(TV-14, smart-12)
+prep_for(access-8, TV-14)
+
+=========
+
+amod(set-2, Prior-1)
+nsubj(Samsung-5, set-2)
+cop(Samsung-5, was-3)
+det(Samsung-5, a-4)
+root(ROOT-0, Samsung-5)
+

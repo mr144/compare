@@ -1,0 +1,44 @@
+=========
+
+nsubj(picture-2, Great-1)
+root(ROOT-0, picture-2)
+
+=========
+
+advmod(pleased-2, Extremely-1)
+root(ROOT-0, pleased-2)
+
+=========
+
+root(ROOT-0, Required-1)
+advmod(changes-4, very-2)
+amod(changes-4, few-3)
+dobj(Required-1, changes-4)
+nn(settings-7, factory-6)
+prep_to(Required-1, settings-7)
+
+=========
+
+aux(recommend-3, Would-1)
+advmod(recommend-3, definitely-2)
+root(ROOT-0, recommend-3)
+
+=========
+
+nsubj(looked-2, I-1)
+nsubj(believe-11, I-1)
+root(ROOT-0, looked-2)
+amod(60-5, many-4)
+poss('s-9, 60-5)
+nn('s-9, LED-7)
+nn('s-9, TV-8)
+prep_at(looked-2, 's-9)
+conj_and(looked-2, believe-11)
+nsubj(is-13, it-12)
+ccomp(believe-11, is-13)
+advmod(best-16, far-15)
+amod(buy-17, best-16)
+prep_by(is-13, buy-17)
+det(money-20, the-19)
+prep_for(buy-17, money-20)
+

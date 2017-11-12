@@ -1,0 +1,2 @@
+It_PRP is_VBZ as_RB described_VBN ,_, Unlocked_NNP Phone_NNP !!_VBD 1GHz_JJ Dual_JJ core_NN running_VBG great_JJ ..._: Camera_NNP is_VBZ amazing_JJ ._.
+I_PRP got_VBD it_PRP with_IN Android_NNP 2.2_CD Installed_VBN ,_, and_CC when_WRB I_PRP check_VBP update_VB ,_, Its_PRP$ updated_VBN with_IN Android_NNP 2.3.4_CD Gingerbread_NNP !!!!!_VBD Its_PRP$ simply_JJ Great_NNP !!_NNP WiFi_NNP Tethering_NNP is_VBZ nice_JJ option_NN and_CC USB_NNP tethering_VBG as-well_NN ..._: I_PRP also_RB used_VBD Windows_NNP Phone_NNP 7_CD ,_, and_CC I_PRP love_VBP this_DT Android_JJ phone_NN ._.

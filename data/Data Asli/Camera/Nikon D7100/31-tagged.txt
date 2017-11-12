@@ -1,0 +1,6 @@
+This_DT is_VBZ a_DT fantastic_JJ camera_NN ._.
+I_PRP love_VBP the_DT quality_NN of_IN the_DT images_NNS ,_, AND_CC the_DT video_NN ._.
+Well_RB done_VBN Nikon_NNP ._.
+One_CD issues_NNS with_IN image_NN processing_NN however_RB ._.
+Of_IN the_DT two_CD software_NN packages_NNS I_PRP use_VBP to_TO manage_VB and_CC edit_VB my_PRP$ images_NNS ,_, Adobe_NNP Lightroom_NNP and_CC Apple_NNP 's_POS Aperture_NNP ,_, to_TO date_VB only_RB Lightroom_NNP can_MD process_VB the_DT RAW_NNP images_NNS ._.
+I_PRP am_VBP not_RB sure_JJ why_WRB it_PRP take_VB these_DT companies_NNS so_RB long_RB to_TO update_VB their_PRP$ software_NN to_TO accommodate_VB new_JJ cameras_NNS ._.

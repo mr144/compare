@@ -1,0 +1,3 @@
+Love_NNP the_DT picture_NN quality_NN ._.
+Fantastic_JJ ._.
+But_CC the_DT dust_NN issue_NN requires_VBZ taking_VBG the_DT thing_NN apart_RB and_CC cleaning_VBG off_RP the_DT sensor_NN far_RB too_RB regularly_RB ._.

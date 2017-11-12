@@ -1,0 +1,68 @@
+=========
+
+nn(TV-2, Nice-1)
+nsubj(died-4, TV-2)
+advmod(died-4, but-3)
+root(ROOT-0, died-4)
+num(months-7, 4-6)
+prep_in(died-4, months-7)
+
+=========
+
+nsubj(had-2, Vizio-1)
+root(ROOT-0, had-2)
+nsubj(repaired-4, it-3)
+ccomp(had-2, repaired-4)
+det(week-7, a-6)
+prep_within(repaired-4, week-7)
+
+=========
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+det(TV-4, the-3)
+npadvmod(last-5, TV-4)
+advmod(hope-2, last-5)
+det(while-9, a-7)
+amod(while-9, long-8)
+prep_for(hope-2, while-9)
+mark(over-16, after-10)
+det(warranty-14, the-11)
+num(warranty-14, 1-12)
+nn(warranty-14, year-13)
+nsubj(over-16, warranty-14)
+cop(over-16, is-15)
+advcl(hope-2, over-16)
+
+=========
+
+aux(know-3, Do-1)
+neg(know-3, not-2)
+root(ROOT-0, know-3)
+complm(buy-7, that-4)
+nsubj(buy-7, I-5)
+aux(buy-7, did-6)
+ccomp(know-3, buy-7)
+advmod(buy-7, again-8)
+xcomp(buy-7, knowing-9)
+nsubj(die-12, it-10)
+aux(die-12, would-11)
+ccomp(knowing-9, die-12)
+advmod(soon-14, so-13)
+advmod(die-12, soon-14)
+
+=========
+
+nsubj(tv-6, This-1)
+cop(tv-6, is-2)
+poss(tv-6, my-3)
+amod(tv-6, 4th-4)
+nn(tv-6, vizio-5)
+root(ROOT-0, tv-6)
+nsubj(had-10, I-8)
+aux(had-10, have-9)
+conj_and(tv-6, had-10)
+amod(luck-12, great-11)
+dobj(had-10, luck-12)
+prep_with(had-10, them-14)
+

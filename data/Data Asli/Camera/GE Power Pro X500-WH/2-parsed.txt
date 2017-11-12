@@ -1,0 +1,323 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(camera-4, this-3)
+dobj(bought-2, camera-4)
+amod(days-6, few-5)
+npadvmod(ago-7, days-6)
+advmod(bought-2, ago-7)
+
+=========
+
+nsubjpass(experienced-3, I-1)
+auxpass(experienced-3, am-2)
+root(ROOT-0, experienced-3)
+dobj(experienced-3, user-4)
+amod(equipment-7, such-6)
+prep_of(user-4, equipment-7)
+nsubj(bought-10, I-9)
+conj_but(experienced-3, bought-10)
+nsubj(check-13, this-11)
+aux(check-13, to-12)
+xcomp(bought-10, check-13)
+prt(check-13, out-14)
+det(features-16, the-15)
+dobj(check-13, features-16)
+advmod(check-13, mainly-17)
+mark(of-19, because-18)
+advcl(check-13, of-19)
+det(price-21, the-20)
+pobj(of-19, price-21)
+
+=========
+
+root(ROOT-0, Let-1)
+nsubj(say-3, me-2)
+ccomp(Let-1, say-3)
+dobj(say-3, this-4)
+det(start-7, the-6)
+prep_at(this-4, start-7)
+
+=========
+
+mark(used-5, If-1)
+nsubj(used-5, you-2)
+aux(used-5, have-3)
+neg(used-5, never-4)
+advcl(product-16, used-5)
+det(equipment-8, any-6)
+amod(equipment-8, such-7)
+dobj(used-5, equipment-8)
+prep(used-5, before-9)
+pobj(before-9, then-10)
+nsubj(product-16, this-11)
+cop(product-16, is-12)
+det(product-16, a-13)
+advmod(nice-15, very-14)
+amod(product-16, nice-15)
+root(ROOT-0, product-16)
+
+=========
+
+nsubj(get-2, You-1)
+root(ROOT-0, get-2)
+det(lot-4, a-3)
+dobj(get-2, lot-4)
+prep_of(lot-4, features-6)
+det(price-10, a-8)
+amod(price-10, reasonable-9)
+prep_for(features-6, price-10)
+
+=========
+
+advmod(operating-6, So-1)
+advmod(So-1, far-2)
+det(camera-4, the-3)
+nsubj(operating-6, camera-4)
+aux(operating-6, is-5)
+root(ROOT-0, operating-6)
+advmod(operating-6, properly-7)
+
+=========
+
+nsubj(speak-4, I-1)
+aux(speak-4, can-2)
+neg(speak-4, not-3)
+root(ROOT-0, speak-4)
+det(longevity-7, the-6)
+prep_for(speak-4, longevity-7)
+det(product-10, the-9)
+prep_of(longevity-7, product-10)
+advmod(speak-4, yet-11)
+
+=========
+
+advmod(some-3, Here-1)
+dep(some-3, are-2)
+root(ROOT-0, some-3)
+det(pros-6, the-5)
+prep_of(some-3, pros-6)
+prep_of(some-3, cons-8)
+conj_and(pros-6, cons-8)
+dep(pros-6, PROS-10)
+
+=========
+
+root(ROOT-0, Lots-1)
+prep_of(Lots-1, features-3)
+det(price-7, a-5)
+amod(price-7, small-6)
+prep_for(features-3, price-7)
+
+=========
+
+nsubj(looks-2, Reasonable-1)
+root(ROOT-0, looks-2)
+
+=========
+
+root(ROOT-0, Good-1)
+amod(zoom-3, optical-2)
+dep(Good-1, zoom-3)
+
+=========
+
+nn(quality-2, Picture-1)
+nsubj(reasonable-4, quality-2)
+cop(reasonable-4, is-3)
+root(ROOT-0, reasonable-4)
+
+=========
+
+amod(settings-3, Many-1)
+nn(settings-3, picture-2)
+nsubj(available-5, settings-3)
+cop(available-5, are-4)
+root(ROOT-0, available-5)
+
+=========
+
+nn(panorama-2, Nice-1)
+nsubj(picture-3, panorama-2)
+root(ROOT-0, picture-3)
+xcomp(picture-3, taking-4)
+
+=========
+
+amod(software-2, Decent-1)
+nsubj(provided-3, software-2)
+root(ROOT-0, provided-3)
+det(camera-6, the-5)
+prep_with(provided-3, camera-6)
+
+=========
+
+det(use-2, The-1)
+nsubj(intuitive-10, use-2)
+nsubj(easy-12, use-2)
+det(camera-5, the-4)
+prep_of(use-2, camera-5)
+det(controls-8, the-7)
+prep_of(use-2, controls-8)
+conj_and(camera-5, controls-8)
+cop(intuitive-10, are-9)
+root(ROOT-0, intuitive-10)
+conj_and(intuitive-10, easy-12)
+
+=========
+
+amod(finder-3, Electronic-1)
+nn(finder-3, view-2)
+nsubj(nice-8, finder-3)
+det(eye-6, the-5)
+prep_for(finder-3, eye-6)
+cop(nice-8, is-7)
+root(ROOT-0, nice-8)
+
+=========
+
+nn(life-2, Battery-1)
+nsubj(decent-4, life-2)
+cop(decent-4, is-3)
+root(ROOT-0, decent-4)
+
+=========
+
+nsubj(:-2, CONS-1)
+
+=========
+
+nn(zoom-2, Optical-1)
+nsubj(smooth-4, zoom-2)
+cop(smooth-4, is-3)
+ccomp(jerky-9, smooth-4)
+amod(zoom-7, digital-6)
+nsubj(jerky-9, zoom-7)
+cop(jerky-9, is-8)
+root(ROOT-0, jerky-9)
+
+=========
+
+amod(zoom-3, extreme-2)
+prep_at(shows-8, zoom-3)
+det(finder-7, the-5)
+nn(finder-7, view-6)
+nsubj(shows-8, finder-7)
+root(ROOT-0, shows-8)
+amod(picture-10, mis-focused-9)
+dobj(shows-8, picture-10)
+dep(picture-14, but-11)
+det(picture-14, the-12)
+amod(picture-14, saved-13)
+dep(picture-10, picture-14)
+cop(OK-16, is-15)
+rcmod(picture-14, OK-16)
+
+=========
+
+det(quality-4, The-1)
+nn(quality-4, sound-2)
+amod(quality-4, recording-3)
+nsubj(good-7, quality-4)
+cop(good-7, is-5)
+neg(good-7, not-6)
+root(ROOT-0, good-7)
+
+=========
+
+det(sound-2, The-1)
+nsubj(pathetic-9, sound-2)
+partmod(sound-2, recorded-3)
+det(movies-6, the-5)
+prep_with(recorded-3, movies-6)
+cop(pathetic-9, is-7)
+advmod(pathetic-9, most-8)
+root(ROOT-0, pathetic-9)
+
+=========
+
+nsubj(OK-5, Movie-1)
+prep_without(Movie-1, sound-3)
+cop(OK-5, is-4)
+root(ROOT-0, OK-5)
+
+=========
+
+nn(playback-3, movie-2)
+prep_during(good-12, playback-3)
+det(camera-6, the-5)
+prep_on(playback-3, camera-6)
+det(sound-9, the-8)
+nsubj(good-12, sound-9)
+cop(good-12, is-10)
+neg(good-12, not-11)
+root(ROOT-0, good-12)
+
+=========
+
+det(camera-5, a-2)
+num(camera-5, 16-3)
+nn(camera-5, MP-4)
+prep_for(is-9, camera-5)
+det(quality-8, the-6)
+nn(quality-8, picture-7)
+nsubj(is-9, quality-8)
+root(ROOT-0, is-9)
+neg(is-9, not-10)
+prep_at(is-9, par-12)
+amod(manufacturers-15, other-14)
+prep_with(par-12, manufacturers-15)
+advmod(is-9, then-17)
+conj_but(is-9, then-17)
+nsubj(get-19, you-18)
+ccomp(is-9, get-19)
+conj_but(is-9, get-19)
+dep(paid-22, what-20)
+nsubj(paid-22, you-21)
+ccomp(get-19, paid-22)
+prep(paid-22, for-23)
+
+=========
+
+root(ROOT-0, Result-1)
+nsubj(say-5, I-3)
+aux(say-5, would-4)
+dep(Result-1, say-5)
+complm(product-29, that-6)
+mark(looking-10, if-7)
+nsubj(looking-10, you-8)
+aux(looking-10, are-9)
+advcl(product-29, looking-10)
+det(camera-13, a-12)
+prep_for(looking-10, camera-13)
+prep_with(looking-10, lots-15)
+prep_of(lots-15, features-17)
+det(price-22, a-19)
+advmod(reasonable-21, very-20)
+amod(price-22, reasonable-21)
+prep_at(features-17, price-22)
+advmod(looking-10, then-23)
+nsubj(product-29, this-24)
+cop(product-29, is-25)
+neg(product-29, not-26)
+det(product-29, a-27)
+amod(product-29, bad-28)
+ccomp(say-5, product-29)
+
+=========
+
+aux(try-3, Do-1)
+neg(try-3, not-2)
+root(ROOT-0, try-3)
+aux(compare-5, to-4)
+xcomp(try-3, compare-5)
+dep(priced-8, higher-7)
+amod(cameras-9, priced-8)
+prep_with(compare-5, cameras-9)
+
+=========
+
+root(ROOT-0, Good-1)
+dep(Good-1, luck-2)
+

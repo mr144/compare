@@ -1,0 +1,32 @@
+=========
+
+nsubj(picture-2, Great-1)
+xsubj(get-6, Great-1)
+root(ROOT-0, picture-2)
+advmod(hard-4, but-3)
+advmod(picture-2, hard-4)
+aux(get-6, to-5)
+xcomp(picture-2, get-6)
+dobj(get-6, colors-7)
+advmod(get-6, right-8)
+
+=========
+
+root(ROOT-0, Loses-1)
+dobj(Loses-1, color-2)
+dobj(Loses-1, intensity-4)
+conj_and(color-2, intensity-4)
+advmod(viewed-7, when-5)
+neg(viewed-7, not-6)
+advcl(Loses-1, viewed-7)
+amod(front-10, exact-9)
+prep_from(viewed-7, front-10)
+
+=========
+
+nsubj(do-4, Plasma-1)
+aux(do-4, does-2)
+neg(do-4, not-3)
+root(ROOT-0, do-4)
+dobj(do-4, this-5)
+

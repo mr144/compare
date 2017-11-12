@@ -1,0 +1,2 @@
+is_VBZ a_DT good_JJ phone_NN is_VBZ working_VBG well_RB l_NN hope_VBP it_PRP last_JJ ._.
+it_PRP work_VB right_RB away_RB when_WRB l_NN put_VBD my_PRP$ sim_NN card_NN there_RB no_DT problem_NN

@@ -1,0 +1,119 @@
+=========
+
+det(TV-2, The-1)
+nsubj(looks-3, TV-2)
+root(ROOT-0, looks-3)
+dobj(looks-3, sleek-4)
+poss(room-8, my-6)
+amod(room-8, living-7)
+prep_in(sleek-4, room-8)
+
+=========
+
+det(colors-2, The-1)
+nsubj(real-4, colors-2)
+cop(real-4, are-3)
+root(ROOT-0, real-4)
+det(level-8, the-6)
+amod(level-8, black-7)
+nsubj(looks-9, level-8)
+conj_and(real-4, looks-9)
+acomp(looks-9, good-10)
+
+=========
+
+nsubj(gave-2, I-1)
+root(ROOT-0, gave-2)
+det(4-4, a-3)
+dobj(gave-2, 4-4)
+mark(sure-10, because-5)
+nsubj(sure-10, I-6)
+advmod(sure-10, still-7)
+cop(sure-10, am-8)
+neg(sure-10, not-9)
+advcl(gave-2, sure-10)
+mark(best-21, if-11)
+det(quality-15, the-12)
+nn(quality-15, HD-13)
+nn(quality-15, picture-14)
+nsubj(best-21, quality-15)
+det(TV-18, this-17)
+prep_in(quality-15, TV-18)
+cop(best-21, is-19)
+det(best-21, the-20)
+advcl(sure-10, best-21)
+
+=========
+
+nn(pic-2, HD-1)
+nsubj(seems-7, pic-2)
+xsubj(have-9, pic-2)
+poss(KDL-W5100-6, my-4)
+amod(KDL-W5100-6, sony-5)
+prep_in(pic-2, KDL-W5100-6)
+root(ROOT-0, seems-7)
+aux(have-9, to-8)
+xcomp(seems-7, have-9)
+amod(clarity-11, better-10)
+dobj(have-9, clarity-11)
+
+=========
+
+nsubj(compare-4, I-1)
+aux(compare-4, did-2)
+neg(compare-4, not-3)
+root(ROOT-0, compare-4)
+det(setting-7, any-5)
+amod(setting-7, technical-6)
+dobj(compare-4, setting-7)
+det(two-10, the-9)
+prep_between(setting-7, two-10)
+det(Sony-13, the-12)
+nsubj(looked-14, Sony-13)
+conj_but(compare-4, looked-14)
+det(tad-16, a-15)
+npadvmod(better-17, tad-16)
+acomp(looked-14, better-17)
+poss(eyeballs-20, my-19)
+prep_to(better-17, eyeballs-20)
+nn(Plasma-24, LCD-22)
+nn(Plasma-24, vs-23)
+dep(better-17, Plasma-24)
+
+=========
+
+nsubj(expected-3, I-1)
+aux(expected-3, had-2)
+root(ROOT-0, expected-3)
+det($-5, this-4)
+dobj(expected-3, $-5)
+dobj(wonder-8, $-5)
+num($-5, 2500-6)
+nsubj(wonder-8, latest-7)
+xsubj(beat-10, latest-7)
+rcmod($-5, wonder-8)
+aux(beat-10, to-9)
+xcomp(wonder-8, beat-10)
+poss(TV-13, my-11)
+amod(TV-13, older-12)
+dobj(beat-10, TV-13)
+nn(quality-16, pic-15)
+prep_in(TV-13, quality-16)
+
+=========
+
+aux(tested-3, Have-1)
+neg(tested-3, not-2)
+root(ROOT-0, tested-3)
+det(pic-6, the-4)
+num(pic-6, 3D-5)
+dobj(tested-3, pic-6)
+advmod(tested-3, yet-7)
+
+=========
+
+advmod(satisfied-4, Overall-1)
+nsubj(satisfied-4, I-2)
+cop(satisfied-4, am-3)
+root(ROOT-0, satisfied-4)
+

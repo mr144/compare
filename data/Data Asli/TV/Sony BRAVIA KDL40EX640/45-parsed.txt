@@ -1,0 +1,41 @@
+=========
+
+nsubj(did-2, I-1)
+nsubj(found-10, I-1)
+root(ROOT-0, did-2)
+det(lot-4, a-3)
+dobj(did-2, lot-4)
+prep(lot-4, of-5)
+pcomp(of-5, on-6)
+nn(research-8, line-7)
+prep_on(of-5, research-8)
+conj_and(did-2, found-10)
+dobj(found-10, one-11)
+det(store-15, a-13)
+amod(store-15, local-14)
+prep_at(found-10, store-15)
+prepc_before(found-10, making-17)
+poss(purchase-19, my-18)
+dobj(making-17, purchase-19)
+
+=========
+
+amod(picture-2, Beautiful-1)
+nsubj(!!-3, picture-2)
+root(ROOT-0, !!-3)
+advmod(glad-5, So-4)
+acomp(!!-3, glad-5)
+nsubj(made-7, I-6)
+ccomp(glad-5, made-7)
+det(investment-9, the-8)
+dobj(made-7, investment-9)
+
+=========
+
+det(information-2, The-1)
+nsubj(was-6, information-2)
+partmod(information-2, provided-3)
+agent(provided-3, Sony-5)
+root(ROOT-0, was-6)
+prep_on(was-6, point-8)
+

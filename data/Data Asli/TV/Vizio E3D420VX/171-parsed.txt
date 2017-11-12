@@ -1,0 +1,32 @@
+=========
+
+det(item-2, This-1)
+nsubj(excellent-4, item-2)
+cop(excellent-4, is-3)
+root(ROOT-0, excellent-4)
+dobj(wanted-8, what-6)
+nsubj(wanted-8, I-7)
+prepc_for(excellent-4, wanted-8)
+
+=========
+
+nsubj(liked-2, We-1)
+root(ROOT-0, liked-2)
+dobj(liked-2, it-3)
+advmod(well-5, so-4)
+advmod(liked-2, well-5)
+nsubj(bought-7, we-6)
+dep(well-5, bought-7)
+det(one-9, another-8)
+dobj(bought-7, one-9)
+
+=========
+
+cc(TV-7, But-1)
+nsubj(TV-7, it-2)
+cop(TV-7, is-3)
+det(TV-7, a-4)
+num(TV-7, 55-5)
+nn(TV-7, inch-6)
+root(ROOT-0, TV-7)
+

@@ -1,0 +1,29 @@
+=========
+
+root(ROOT-0, So-1)
+advmod(good-4, far-2)
+advmod(good-4, so-3)
+dep(So-1, good-4)
+
+=========
+
+nsubj(good-4, Resolution-1)
+cop(good-4, is-2)
+advmod(good-4, very-3)
+root(ROOT-0, good-4)
+advmod(good-4, especially-5)
+det(price-8, the-7)
+prep_for(good-4, price-8)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(test-5, I-1)
+root(ROOT-0, have-2)
+advmod(have-2, yet-3)
+aux(test-5, to-4)
+xcomp(have-2, test-5)
+det(features-8, the-6)
+amod(features-8, various-7)
+dobj(test-5, features-8)
+

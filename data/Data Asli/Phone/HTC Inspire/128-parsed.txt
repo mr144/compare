@@ -1,0 +1,94 @@
+=========
+
+nsubj(bought-2, I-1)
+nsubj(got-9, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+num(days-6, two-5)
+npadvmod(ago-7, days-6)
+advmod(bought-2, ago-7)
+conj_and(bought-2, got-9)
+dobj(got-9, it-10)
+amod(day-12, following-11)
+tmod(got-9, day-12)
+
+=========
+
+det(shipping-2, The-1)
+nsubj(excellent-4, shipping-2)
+cop(excellent-4, was-3)
+root(ROOT-0, excellent-4)
+
+=========
+
+advmod(toying-5, So-1)
+advmod(So-1, far-2)
+nsubj(toying-5, I-3)
+aux(toying-5, am-4)
+root(ROOT-0, toying-5)
+det(phone-8, this-7)
+prep_with(toying-5, phone-8)
+nsubj(marvellous-12, it-10)
+cop(marvellous-12, is-11)
+conj_and(toying-5, marvellous-12)
+
+=========
+
+poss(challange-3, My-1)
+amod(challange-3, only-2)
+nsubj(is-6, challange-3)
+advmod(far-5, so-4)
+advmod(is-6, far-5)
+root(ROOT-0, is-6)
+advmod(use-9, how-7)
+aux(use-9, to-8)
+ccomp(is-6, use-9)
+xcomp(is-6, use-9)
+det(phone-11, the-10)
+dobj(use-9, phone-11)
+prep_as(use-9, wifi-hotspot-13)
+poss(electronics-17, my-15)
+amod(electronics-17, other-16)
+prep_for(wifi-hotspot-13, electronics-17)
+amod(network-20, T-mobile-19)
+prep_in(use-9, network-20)
+
+=========
+
+nsubj(works-2, It-1)
+nsubj(work-12, It-1)
+root(ROOT-0, works-2)
+dobj(works-2, will-3)
+prep_with(works-2, Etisalat-5)
+partmod(Etisalat-5, roaming-6)
+prep_with(roaming-6, AT&T-8)
+aux(work-12, could-10)
+neg(work-12, not-11)
+conj_but(works-2, work-12)
+amod(network-15, T-mobile-14)
+prep_in(work-12, network-15)
+
+=========
+
+root(ROOT-0, Please-1)
+det(idea-3, any-2)
+dobj(Please-1, idea-3)
+advmod(use-8, how-5)
+nsubj(use-8, I-6)
+aux(use-8, can-7)
+prepc_on(Please-1, use-8)
+det(function-11, this-9)
+amod(function-11, wonderful-10)
+dobj(use-8, function-11)
+amod(newwork-14, Family-Mobile-13)
+prep_on(use-8, newwork-14)
+nsubj(runs-16, newwork-14)
+rcmod(newwork-14, runs-16)
+amod(infrastructure-19, T-Mobile-18)
+prep_on(runs-16, infrastructure-19)
+
+=========
+
+root(ROOT-0, Thanks-1)
+

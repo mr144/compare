@@ -1,0 +1,11 @@
+Pictures_NNP from_IN Nikon_NNP D7100_NNP are_VBP ..._: beautiful_JJ ._.
+They_PRP are_VBP very_RB sharp_JJ in_IN details_NNS even_RB in_IN low_JJ light_NN ._.
+Anyway_RB ,_, there_EX may_MD be_VB enough_JJ posts_NNS of_IN positive_JJ things_NNS about_IN Nikon_NNP D7100_NNP ._.
+This_DT post_NN is_VBZ about_IN unusual_JJ something_NN seen_VBN in_IN Nikon_NNP D7100_NNP 's_POS RAW_NNP images_NNS ..._: 1_CD ._.
+RAW_JJ images_NNS were_VBD always_RB captured_VBN at_IN 12-bit_JJ -LRB-_-LRB- lossless_NN compressed_VBN RAW_NNP 12-bit_CD -RRB-_-RRB- even_RB though_IN the_DT camera_NN was_VBD set_VBN at_IN lossless_NN compressed_VBD 14-bit2_JJ ._.
+RAW_JJ image_NN 's_POS size_NN was_VBD always_RB at_IN 1620x1080_CD @_SYM 12-bit_JJ no_DT matter_NN which_WDT Image_NN Quality_NNP option_NN was_VBD chosen_VBN -LRB-_-LRB- NEF+JPEG_NNP fine_NN ,_, NEF+JPEG_NNP normal_JJ ,_, NEF+JPEG_JJ basic_NN ,_, NEF_NNP -RRB-_-RRB- 3_CD ._.
+JPEG_NN images_NNS were_VBD recorded_VBN at_IN 6000x4000_CD @_SYM 8-bit_JJ -LRB-_-LRB- Large_JJ -RRB-_-RRB- I_PRP used_VBD latest_JJS Nikon_NNP Capture_NNP NX2_NNP version_NN 2.4.1_CD and_CC Nikon_NNP View_NNP NX2_NNP version_NN 2.0.2_CD RAW_NNP images_NNS from_IN Nikon_NNP D7000_NNP were_VBD reported_VBN correctly_RB using_VBG these_DT same_JJ Nikon_NNP Capture\/View_NNP NX2_NNP software_NN ._.
+In_IN other_JJ words_NNS ,_, D7000_NNP 's_POS raw_JJ images_NNS were_VBD properly_RB recorded_VBN at_IN 4928x3264_CD -LRB-_-LRB- L_NNP -RRB-_-RRB- ,_, lossless_NN compressed_VBD RAW_NNP 14-bitHave_NNP anyone_NN seen\/had_VBD this_DT problem_NN with_IN Nikon_NNP D7100_NNP ?_.
+I_PRP wonder_VBP if_IN my_PRP$ D7100_CD were_VBD a_DT defected_VBD one_CD ._.
+I_PRP bought_VBD mine_JJ brand_NN new_JJ from_IN local_JJ Best_JJS Buy_JJ store_NN ._.
+Besides_IN these_DT weird_JJ issues_NNS -LRB-_-LRB- and_CC I_PRP hope_VBP I_PRP can_MD get_VB answers\/solution_NN soon_RB -RRB-_-RRB- ,_, I_PRP love_VBP this_DT new_JJ camera_NN ,_, and_CC I_PRP strongly_RB recommend_VBP it_PRP to_TO everyone_NN

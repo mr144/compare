@@ -1,0 +1,24 @@
+=========
+
+root(ROOT-0, Arrived-1)
+advmod(Arrived-1, promptly-2)
+advmod(easy-5, very-4)
+dep(Arrived-1, easy-5)
+aux(set-7, to-6)
+dep(easy-5, set-7)
+prt(set-7, up-8)
+
+=========
+
+nsubj(enjoyed-3, Have-1)
+advmod(enjoyed-3, thoroughly-2)
+root(ROOT-0, enjoyed-3)
+predet(the-5, all-4)
+nsubj(featuresfrom-6, the-5)
+ccomp(enjoyed-3, featuresfrom-6)
+det(3-D-8, the-7)
+dobj(featuresfrom-6, 3-D-8)
+det(connections-12, the-10)
+amod(connections-12, internet-11)
+prep_to(featuresfrom-6, connections-12)
+

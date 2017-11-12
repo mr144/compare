@@ -1,0 +1,25 @@
+=========
+
+predet(price-5, such-2)
+det(price-5, a-3)
+amod(price-5, low-4)
+prep_for(camera-11, price-5)
+nsubj(camera-11, this-6)
+cop(camera-11, is-7)
+det(camera-11, a-8)
+advmod(nice-10, very-9)
+amod(camera-11, nice-10)
+root(ROOT-0, camera-11)
+
+=========
+
+nsubj(easy-3, It-1)
+nsubj(takes-7, It-1)
+cop(easy-3, is-2)
+root(ROOT-0, easy-3)
+aux(use-5, to-4)
+xcomp(easy-3, use-5)
+conj_and(easy-3, takes-7)
+amod(photos-9, great-8)
+dobj(takes-7, photos-9)
+

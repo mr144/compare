@@ -1,0 +1,31 @@
+=========
+
+amod(tv-2, great-1)
+nsubj(met-3, tv-2)
+root(ROOT-0, met-3)
+predet(expectations-6, all-4)
+poss(expectations-6, my-5)
+nsubj(recommend-8, expectations-6)
+aux(recommend-8, will-7)
+ccomp(met-3, recommend-8)
+prep_to(recommend-8, friends-10)
+prep_to(recommend-8, family-12)
+conj_and(friends-10, family-12)
+
+=========
+
+dep(took-4, Not-1)
+dep(Not-1, sorry-2)
+nsubj(took-4, I-3)
+dep(heard-13, took-4)
+det(chance-6, the-5)
+dobj(took-4, chance-6)
+det(brand-9, a-8)
+prep_on(took-4, brand-9)
+nsubj(heard-13, I-10)
+aux(heard-13, had-11)
+neg(heard-13, not-12)
+root(ROOT-0, heard-13)
+prep(heard-13, of-14)
+pcomp(of-14, before-15)
+

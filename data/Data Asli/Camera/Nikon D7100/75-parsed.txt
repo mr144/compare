@@ -1,0 +1,75 @@
+=========
+
+cc(dslr-6, but-1)
+neg(dslr-6, not-2)
+poss(apsc-5, my-3)
+amod(apsc-5, favorite-4)
+nsubj(dslr-6, apsc-5)
+root(ROOT-0, dslr-6)
+
+=========
+
+nsubjpass(surprised-5, I-1)
+auxpass(surprised-5, was-2)
+det(little-4, a-3)
+dep(surprised-5, little-4)
+root(ROOT-0, surprised-5)
+det(noise-8, the-7)
+prep_at(surprised-5, noise-8)
+prep_on(noise-8, some-10)
+det(images-13, the-12)
+prep_of(some-10, images-13)
+advmod(images-13, even-14)
+prep_at(surprised-5, iso-16)
+num(iso-16, 1600-17)
+
+=========
+
+poss(K-5-3, My-1)
+amod(K-5-3, old-2)
+nsubj(better-14, K-5-3)
+dep(version-10, not-5)
+det(version-10, the-6)
+nn(version-10, II-7)
+conj_or(II-7, IIs-9)
+nn(version-10, IIs-9)
+appos(K-5-3, version-10)
+dep(better-14, did-12)
+advmod(better-14, much-13)
+root(ROOT-0, better-14)
+amod(conditions-18, similar-16)
+nn(conditions-18, lighting-17)
+prep_in(better-14, conditions-18)
+
+=========
+
+nsubj(said-2, That-1)
+root(ROOT-0, said-2)
+det(Nikon-4, the-3)
+nsubj(has-5, Nikon-4)
+ccomp(said-2, has-5)
+det(lot-7, a-6)
+dobj(has-5, lot-7)
+prep_of(lot-7, features-9)
+cop(value-14, is-11)
+det(value-14, a-12)
+amod(value-14, good-13)
+ccomp(said-2, value-14)
+conj_and(has-5, value-14)
+
+=========
+
+nsubj(expecting-3, I-1)
+aux(expecting-3, was-2)
+root(ROOT-0, expecting-3)
+det(version-6, a-4)
+amod(version-6, cheaper-5)
+dobj(expecting-3, version-6)
+poss(d600-9, my-8)
+prep_of(version-6, d600-9)
+det(camera-13, this-12)
+nsubj(that-16, camera-13)
+cop(that-16, is-14)
+neg(that-16, not-15)
+conj_but(expecting-3, that-16)
+

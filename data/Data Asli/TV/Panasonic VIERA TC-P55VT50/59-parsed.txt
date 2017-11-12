@@ -1,0 +1,82 @@
+=========
+
+nsubj(enjoy-2, I-1)
+root(ROOT-0, enjoy-2)
+det(set-5, the-3)
+nn(set-5, plasma-4)
+dobj(enjoy-2, set-5)
+poss(set-10, its-7)
+dep(great-9, a-8)
+amod(set-10, great-9)
+appos(set-5, set-10)
+advmod(enjoy-2, unfortunately-12)
+det(shipper-14, the-13)
+dobj(used-16, shipper-14)
+nsubj(awful-18, shipper-14)
+nsubj(used-16, they-15)
+rcmod(shipper-14, used-16)
+cop(awful-18, was-17)
+ccomp(enjoy-2, awful-18)
+
+=========
+
+nsubj(took-2, It-1)
+root(ROOT-0, took-2)
+dobj(took-2, me-3)
+amod(weeks-5, several-4)
+tmod(took-2, weeks-5)
+aux(get-7, to-6)
+xcomp(took-2, get-7)
+poss(set-9, my-8)
+dobj(get-7, set-9)
+
+=========
+
+mark(was-3, If-1)
+nsubj(was-3, it-2)
+advcl(gotten-17, was-3)
+neg(was-3, not-4)
+nn(superstore-7, Crawford-6)
+nsubj(having-8, superstore-7)
+xsubj(call-10, superstore-7)
+prepc_for(was-3, having-8)
+aux(call-10, to-9)
+xcomp(having-8, call-10)
+dobj(call-10, them-11)
+nsubj(gotten-17, I-12)
+advmod(gotten-17, probably-13)
+aux(gotten-17, would-14)
+neg(gotten-17, never-15)
+aux(gotten-17, have-16)
+root(ROOT-0, gotten-17)
+dobj(gotten-17, it-18)
+
+=========
+
+nsubj(offered-3, They-1)
+xsubj(give-5, They-1)
+advmod(offered-3, even-2)
+root(ROOT-0, offered-3)
+aux(give-5, to-4)
+xcomp(offered-3, give-5)
+iobj(give-5, me-6)
+dobj(give-5, 100-7)
+mark(refuse-12, if-8)
+nsubj(refuse-12, I-9)
+aux(refuse-12, do-10)
+neg(refuse-12, not-11)
+advcl(offered-3, refuse-12)
+dobj(refuse-12, it-13)
+dobj(got-17, which-14)
+nsubj(got-17, I-15)
+neg(got-17, never-16)
+dep(refuse-12, got-17)
+
+=========
+
+nn(FREIGHT-5, NEVER-1)
+nn(FREIGHT-5, EVER-2)
+nn(FREIGHT-5, USE-3)
+nn(FREIGHT-5, TRISTATE-4)
+root(ROOT-0, FREIGHT-5)
+

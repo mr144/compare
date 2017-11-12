@@ -1,0 +1,5 @@
+Great_JJ phone_NN ._.
+Good_JJ app_NN selection_NN ,_, assuming_VBG it_PRP will_MD only_RB get_VB better_JJR since_IN android_NN seems_VBZ to_TO be_VB the_DT new_JJ mobile_JJ device_NN standard_NN ._.
+I_PRP moved_VBD to_TO Nexus_NNP one_CD from_IN iPhone_NNP 3Gs_NNP ._.
+Have_NNP not_RB really_RB found_VBD any_DT thing_NN that_IN it_PRP does_VBZ not_RB have_VB compared_VBN to_TO it_PRP ,_, but_CC it_PRP does_VBZ have_VB lot_NN of_IN features_NNS -LRB-_-LRB- Navigation_NNP ,_, Voice_NNP apps_NNS ,_, Camera_NN with_IN zoom_NN and_CC flash_NN ,_, 5MP_NNP ,_, upgradable_JJ memory_NN ,_, removable_JJ battery_NN etc._NN -RRB-_-RRB- that_IN iPhone_NNP did_VBD not_RB have_VB ._.
+Voice_NNP quality_NN is_VBZ great_JJ as_IN well_RB ._.

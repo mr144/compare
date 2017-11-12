@@ -1,0 +1,120 @@
+=========
+
+nsubj(camera-5, This-1)
+nsubj(simple-10, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+cop(simple-10, is-8)
+advmod(simple-10, amazingly-9)
+conj_and(camera-5, simple-10)
+aux(use-12, to-11)
+xcomp(simple-10, use-12)
+
+=========
+
+nsubj(time-5, This-1)
+cop(time-5, was-2)
+poss(time-5, my-3)
+amod(time-5, first-4)
+root(ROOT-0, time-5)
+partmod(time-5, buying-6)
+det(DSLR-8, a-7)
+dobj(buying-6, DSLR-8)
+
+=========
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+poss(sister-5, my-4)
+prep_for(was-2, sister-5)
+nsubj(had-7, sister-5)
+rcmod(sister-5, had-7)
+det(experience-9, no-8)
+dobj(had-7, experience-9)
+partmod(experience-9, using-10)
+det(DSLR-12, a-11)
+dobj(using-10, DSLR-12)
+advmod(using-10, before-13)
+
+=========
+
+nsubj(used-2, We-1)
+nsubj(able-10, We-1)
+root(ROOT-0, used-2)
+dobj(used-2, it-3)
+amod(mode-6, manual-5)
+prep_in(used-2, mode-6)
+cop(able-10, were-9)
+conj_and(used-2, able-10)
+aux(use-12, to-11)
+xcomp(able-10, use-12)
+dobj(use-12, it-13)
+advmod(use-12, well-14)
+det(week-17, a-16)
+prep_after(use-12, week-17)
+prep_of(week-17, practice-19)
+
+=========
+
+nsubj(did-2, I-1)
+root(ROOT-0, did-2)
+advmod(did-2, definitely-3)
+xcomp(did-2, suggesting-4)
+xcomp(suggesting-4, getting-5)
+det(18-135-7, the-6)
+dobj(getting-5, 18-135-7)
+det(18-55-12, the-10)
+amod(18-55-12, standard-11)
+prep_instead_of(18-135-7, 18-55-12)
+advmod(get-17, even-14)
+dep(get-17, if-15)
+nsubj(get-17, you-16)
+ccomp(did-2, get-17)
+det(55-200-19, the-18)
+dobj(get-17, 55-200-19)
+det(lens-23, a-21)
+amod(lens-23, separate-22)
+prep_as(55-200-19, lens-23)
+
+=========
+
+nsubj(better-4, It-1)
+xsubj(have-6, It-1)
+cop(better-4, is-2)
+advmod(better-4, always-3)
+root(ROOT-0, better-4)
+aux(have-6, to-5)
+xcomp(better-4, have-6)
+num(lens-8, one-7)
+dobj(have-6, lens-8)
+xcomp(better-4, not-11)
+conj_and(have-6, not-11)
+neg(have-6, not-11)
+dep(have-6, have-12)
+aux(keep-14, to-13)
+xcomp(have-12, keep-14)
+amod(lenses-16, interchanging-15)
+dobj(keep-14, lenses-16)
+
+=========
+
+det(lens-4, A-1)
+amod(lens-4, great-2)
+amod(lens-4, starter-3)
+root(ROOT-0, lens-4)
+
+=========
+
+nsubj(got-3, I-1)
+advmod(got-3, also-2)
+root(ROOT-0, got-3)
+det(lens-6, a-4)
+amod(lens-6, 50mm-5)
+dobj(got-3, lens-6)
+det(18-135-10, the-9)
+prep_along_with(got-3, 18-135-10)
+prepc_for(got-3, taking-12)
+dobj(taking-12, portraits-13)
+

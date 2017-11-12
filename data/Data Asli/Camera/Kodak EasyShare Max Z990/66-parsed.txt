@@ -1,0 +1,48 @@
+=========
+
+det(camera-2, This-1)
+nsubj(step-6, camera-2)
+cop(step-6, is-3)
+det(step-6, a-4)
+amod(step-6, great-5)
+root(ROOT-0, step-6)
+dobj(used-14, step-6)
+advmod(step-6, up-7)
+det(cameras-12, the-9)
+amod(cameras-12, little-10)
+nn(cameras-12, pocket-11)
+prep_from(up-7, cameras-12)
+nsubj(used-14, we-13)
+xsubj(buy-16, we-13)
+rcmod(step-6, used-14)
+aux(buy-16, to-15)
+xcomp(used-14, buy-16)
+
+=========
+
+prep_does(expect-5, everything-2)
+nsubj(expect-5, you-3)
+aux(expect-5, would-4)
+root(ROOT-0, expect-5)
+
+=========
+
+nsubj(recommend-3, I-1)
+aux(recommend-3, would-2)
+root(ROOT-0, recommend-3)
+xcomp(recommend-3, purchasing-4)
+det(set-7, a-5)
+amod(set-7, 2nd-6)
+dobj(purchasing-4, set-7)
+amod(batteries-10, recharcheable-9)
+prep_of(set-7, batteries-10)
+advmod(ready-16, so-11)
+dep(ready-16, that-12)
+nsubj(ready-16, you-13)
+cop(ready-16, are-14)
+advmod(ready-16, always-15)
+advcl(recommend-3, ready-16)
+ccomp(recommend-3, ready-16)
+aux(shoot-18, to-17)
+xcomp(ready-16, shoot-18)
+

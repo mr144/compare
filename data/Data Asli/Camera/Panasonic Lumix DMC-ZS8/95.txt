@@ -1,0 +1,1 @@
+it takes multiple button pushes to toggle through the available apertures or shutter speeds one at a time. It would be better to list all available settings onscreen, and then just hold an arrow-button to scroll through them.

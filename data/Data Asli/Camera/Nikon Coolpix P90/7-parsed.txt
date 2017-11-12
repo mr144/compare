@@ -1,0 +1,80 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+prep_for(camera-5, beginners-7)
+
+=========
+
+nsubj(taken-3, I-1)
+aux(taken-3, have-2)
+root(ROOT-0, taken-3)
+det(shots-6, some-4)
+amod(shots-6, nice-5)
+dobj(taken-3, shots-6)
+complm(mistaken-10, that-7)
+nsubj(mistaken-10, people-8)
+aux(mistaken-10, have-9)
+ccomp(taken-3, mistaken-10)
+det(camera-14, a-12)
+nn(camera-14, DSRL-13)
+prep_for(mistaken-10, camera-14)
+
+=========
+
+mark(coolpix-4, Since-1)
+nsubj(coolpix-4, it-2)
+cop(coolpix-4, is-3)
+advcl(changed-10, coolpix-4)
+det(lense-6, the-5)
+nsubjpass(changed-10, lense-6)
+nsubj(has-21, lense-6)
+aux(changed-10, can-7)
+neg(changed-10, not-8)
+auxpass(changed-10, be-9)
+root(ROOT-0, changed-10)
+nsubj(sucks-12, which-11)
+ccomp(changed-10, sucks-12)
+cc(camera-19, but-13)
+nsubj(camera-19, it-14)
+cop(camera-19, is-15)
+advmod(camera-19, still-16)
+det(camera-19, a-17)
+amod(camera-19, great-18)
+ccomp(sucks-12, camera-19)
+conj_and(changed-10, has-21)
+dobj(has-21, lots-22)
+prep_of(lots-22, effects-24)
+
+=========
+
+nsubjpass(viewed-8, Some-1)
+poss(pictures-5, my-3)
+nn(pictures-5, sample-4)
+prep_of(Some-1, pictures-5)
+aux(viewed-8, can-6)
+auxpass(viewed-8, be-7)
+root(ROOT-0, viewed-8)
+prep_at(viewed-8, capturesouls.tumblr.com-10)
+
+=========
+
+advmod(want-4, Overall-1)
+dep(want-4, If-2)
+nsubj(want-4, you-3)
+advcl(it-17, want-4)
+det(camera-7, a-5)
+amod(camera-7, nice-6)
+dobj(want-4, camera-7)
+det(price-11, an-9)
+amod(price-11, affordable-10)
+prep_at(want-4, price-11)
+amod(megapixel-14, good-13)
+prep_with(price-11, megapixel-14)
+nsubj(it-17, this-15)
+cop(it-17, is-16)
+root(ROOT-0, it-17)
+

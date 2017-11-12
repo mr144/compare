@@ -1,0 +1,47 @@
+=========
+
+nsubj(phone-2, Bought-1)
+xsubj(use-4, Bought-1)
+root(ROOT-0, phone-2)
+aux(use-4, to-3)
+xcomp(phone-2, use-4)
+nn(network-8, Consumer-6)
+nn(network-8, Cellular-7)
+prep_on(use-4, network-8)
+
+=========
+
+nsubj(worked-2, Phone-1)
+root(ROOT-0, worked-2)
+advmod(worked-2, perfectly-3)
+det(box-7, the-6)
+prep_out_of(worked-2, box-7)
+nn(Cellular-10, Consumer-9)
+nsubj(sent-11, Cellular-10)
+conj_and(worked-2, sent-11)
+iobj(sent-11, me-12)
+det(card-15, a-13)
+nn(card-15, sim-14)
+dobj(sent-11, card-15)
+nn(software-18, downloaded-17)
+dobj(sent-11, software-18)
+conj_and(card-15, software-18)
+aux(make-20, to-19)
+xcomp(sent-11, make-20)
+nsubj(work-22, it-21)
+ccomp(make-20, work-22)
+poss(network-25, their-24)
+prep_on(work-22, network-25)
+
+=========
+
+advmod(pleased-2, Very-1)
+root(ROOT-0, pleased-2)
+prepc_with(pleased-2, ordering-4)
+dobj(ordering-4, process-5)
+amod(support-8, technical-7)
+dobj(ordering-4, support-8)
+conj_and(process-5, support-8)
+dobj(ordering-4, delivery-11)
+conj_and(process-5, delivery-11)
+

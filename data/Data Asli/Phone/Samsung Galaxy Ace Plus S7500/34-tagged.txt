@@ -1,0 +1,1 @@
+The_DT description_NN says_VBZ HSDPA_NNP 850\/1900_CD is_VBZ not_RB so_RB in_IN reality_NN it_PRP is_VBZ 850\/2100_CD in_IN my_PRP$ country_NN Venezuela_NNP no_DT operator_NN works_VBZ with_IN that_DT frequency_NN for_IN 3g_CD !_.

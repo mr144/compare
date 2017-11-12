@@ -1,0 +1,40 @@
+=========
+
+nsubj(loved-2, I-1)
+root(ROOT-0, loved-2)
+det(phone-4, this-3)
+dobj(loved-2, phone-4)
+
+=========
+
+nsubj(great-3, OS-1)
+nsubj(function-6, OS-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+conj_and(great-3, function-6)
+advmod(well-8, as-7)
+mwe(well-8, as-7)
+advmod(function-6, well-8)
+
+=========
+
+nsubj(tight-5, Charger-1)
+cop(tight-5, is-2)
+det(little-4, a-3)
+npadvmod(tight-5, little-4)
+root(ROOT-0, tight-5)
+nsubj(recommend-11, I-8)
+aux(recommend-11, would-9)
+advmod(recommend-11, totally-10)
+ccomp(tight-5, recommend-11)
+conj_but(tight-5, recommend-11)
+dobj(recommend-11, it-12)
+
+=========
+
+nsubj(smartphone-5, It-1)
+cop(smartphone-5, is-2)
+det(smartphone-5, the-3)
+amod(smartphone-5, best-4)
+root(ROOT-0, smartphone-5)
+

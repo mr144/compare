@@ -1,0 +1,38 @@
+=========
+
+root(ROOT-0, Tried-1)
+det(while-4, a-3)
+prep_for(Tried-1, while-4)
+advmod(like-7, really-6)
+conj_and(Tried-1, like-7)
+det(quality-10, the-8)
+nn(quality-10, image-9)
+dobj(like-7, quality-10)
+prep_of(quality-10, it-12)
+
+=========
+
+det(size-2, The-1)
+nsubj(larger-5, size-2)
+nsubj(heavier-9, size-2)
+cop(larger-5, is-3)
+advmod(larger-5, slightly-4)
+root(ROOT-0, larger-5)
+det(bit-8, a-7)
+npadvmod(heavier-9, bit-8)
+conj_and(larger-5, heavier-9)
+dobj(expected-14, what-11)
+nsubj(expected-14, I-12)
+aux(expected-14, had-13)
+prepc_than(larger-5, expected-14)
+
+=========
+
+cc(happy-6, But-1)
+advmod(happy-6, overall-2)
+nsubj(happy-6, I-3)
+cop(happy-6, am-4)
+advmod(happy-6, very-5)
+root(ROOT-0, happy-6)
+prep_with(happy-6, it-8)
+

@@ -1,0 +1,7 @@
+Firtst_NNP ..._: REQUIRED_NNP shouild_FW NOT_NNP be_VB a_DT word_NN when_WRB one_NN is_VBZ ASKED_VBN to_TO write_VB a_DT review_NN ._.
+The_DT camera_NN at_IN Amazon_NNP Marketplace_NNP was_VBD EXTREMLY_NNP inexpensive_JJ ._.
+Wasdelivered_VBN in_IN a_DT short_JJ time_NN --_: was_VBD Exactly_RB as_IN described_VBN ._. ._.
+The_DT pictures_NNS taken_VBN are_VBP quite_RB good_JJ ._.
+LOTS_NNS OF_IN COLOR_NNP and_CC great_JJ details_NNS ..._: I_PRP would_MD recomend_VB this_DT camera_NN to_TO anyone_NN ._. ._.
+JIMPs_NNS I_PRP have_VBP had_VBN and_CC used_VBN Many_JJ digital_JJ cameras_NNS over_IN the_DT years_NNS ._. ._.
+THis_NNP is_VBZ the_DT Best_JJS !!!_NN

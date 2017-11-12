@@ -1,0 +1,64 @@
+=========
+
+aux(having-2, Was-1)
+csubj(come-7, having-2)
+csubj(wanted-12, having-2)
+det(lot-4, a-3)
+dobj(having-2, lot-4)
+prep_of(lot-4, family-6)
+root(ROOT-0, come-7)
+prt(come-7, in-8)
+aux(visit-10, to-9)
+xcomp(come-7, visit-10)
+conj_and(come-7, wanted-12)
+det(TV-15, a-13)
+amod(TV-15, new-14)
+dobj(wanted-12, TV-15)
+det(room-20, the-17)
+num(room-20, 1-18)
+nn(room-20, guest-19)
+prep_for(wanted-12, room-20)
+
+=========
+
+partmod(TV-14, Ordered-1)
+det(TV-3, this-2)
+dobj(Ordered-1, TV-3)
+partmod(TV-3, received-5)
+num(days-7, 2-6)
+tmod(received-5, days-7)
+advmod(days-7, later-8)
+nsubj(TV-14, this-10)
+cop(TV-14, is-11)
+det(TV-14, a-12)
+amod(TV-14, great-13)
+root(ROOT-0, TV-14)
+
+=========
+
+poss(nephew-2, My-1)
+nsubj(asked-6, nephew-2)
+poss(wife-5, his-4)
+conj_and(nephew-2, wife-5)
+nsubj(asked-6, wife-5)
+root(ROOT-0, asked-6)
+advmod(got-9, where-7)
+nsubj(got-9, I-8)
+advcl(asked-6, got-9)
+dobj(got-9, it-10)
+mark(heard-15, since-11)
+nsubj(heard-15, they-12)
+aux(heard-15, had-13)
+neg(heard-15, never-14)
+advcl(got-9, heard-15)
+prep_of(heard-15, TCL-17)
+
+=========
+
+nsubj(ordered-2, They-1)
+root(ROOT-0, ordered-2)
+dobj(ordered-2, one-3)
+mark(left-6, before-4)
+nsubj(left-6, they-5)
+advcl(ordered-2, left-6)
+

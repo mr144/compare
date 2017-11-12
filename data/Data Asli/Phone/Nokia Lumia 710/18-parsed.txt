@@ -1,0 +1,65 @@
+=========
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+det(phone-4, this-3)
+dobj(bought-2, phone-4)
+poss(husband-7, my-6)
+prep_for(bought-2, husband-7)
+prep_for(bought-2, Christmas-9)
+
+=========
+
+nsubjpass(received-3, It-1)
+auxpass(received-3, was-2)
+root(ROOT-0, received-3)
+det(mail-6, the-5)
+prep_in(received-3, mail-6)
+advmod(quickly-8, very-7)
+advmod(received-3, quickly-8)
+
+=========
+
+det(date-2, The-1)
+nsubjpass(supposed-7, date-2)
+xsubj(be-9, date-2)
+prep_for(date-2, shipping-4)
+auxpass(supposed-7, was-5)
+neg(supposed-7, not-6)
+root(ROOT-0, supposed-7)
+aux(be-9, to-8)
+xcomp(supposed-7, be-9)
+prep_until(be-9, January-11)
+num(January-11, 12-12)
+nsubj(got-16, I-15)
+conj_but(supposed-7, got-16)
+det(phone-18, the-17)
+dobj(got-16, phone-18)
+det(week-20, a-19)
+tmod(got-16, week-20)
+prep_after(got-16, purchase-22)
+
+=========
+
+det(phone-2, The-1)
+nsubj(is-3, phone-2)
+root(ROOT-0, is-3)
+amod(condition-6, excellent-5)
+prep_in(is-3, condition-6)
+advmod(stated-11, just-7)
+dep(stated-11, like-8)
+det(description-10, the-9)
+nsubj(stated-11, description-10)
+ccomp(is-3, stated-11)
+
+=========
+
+nsubj(buy-4, I-1)
+aux(buy-4, will-2)
+advmod(buy-4, definately-3)
+root(ROOT-0, buy-4)
+dobj(buy-4, products-5)
+det(seller-8, the-7)
+prep_from(buy-4, seller-8)
+advmod(buy-4, again-9)
+

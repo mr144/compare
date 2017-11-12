@@ -1,0 +1,28 @@
+=========
+
+advmod(good-2, Very-1)
+amod(ratio-4, good-2)
+amod(ratio-4, cost\/bennefit-3)
+root(ROOT-0, ratio-4)
+
+=========
+
+nsubj(works-2, It-1)
+root(ROOT-0, works-2)
+advmod(well-4, very-3)
+advmod(works-2, well-4)
+amod(definition-8, good-6)
+nn(definition-8, camera-7)
+dobj(works-2, definition-8)
+advmod(useful-11, very-10)
+amod(apps-12, useful-11)
+dep(definition-8, apps-12)
+amod(design-15, nice-14)
+dep(definition-8, design-15)
+det(scream-19, the-17)
+nn(scream-19, touch-18)
+nsubj(works-20, scream-19)
+parataxis(works-2, works-20)
+advmod(well-22, very-21)
+advmod(works-20, well-22)
+

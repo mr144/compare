@@ -1,0 +1,38 @@
+=========
+
+dep(interesadoen-7, Good-1)
+dep(Good-1, morning-2)
+nsubj(interesadoen-7, I-4)
+cop(interesadoen-7, am-5)
+advmod(interesadoen-7, extremely-6)
+root(ROOT-0, interesadoen-7)
+det(team-9, this-8)
+nsubj(am-21, team-9)
+prep_in(am-21, fact-12)
+nsubj(bought-14, I-13)
+rcmod(fact-12, bought-14)
+dobj(bought-14, it-15)
+num(days-17, three-16)
+npadvmod(ago-18, days-17)
+advmod(bought-14, ago-18)
+nsubj(am-21, I-20)
+dep(interesadoen-7, am-21)
+prep_in(am-21, Venezuela-23)
+nsubj(wonder-26, I-25)
+dep(interesadoen-7, wonder-26)
+conj_and(am-21, wonder-26)
+mark(brings-30, if-27)
+det(phone-29, this-28)
+nsubj(brings-30, phone-29)
+advcl(wonder-26, brings-30)
+dobj(brings-30, SPANISH-31)
+
+=========
+
+root(ROOT-0, Thanks-1)
+prep_in(Thanks-1, advance-3)
+
+=========
+
+root(ROOT-0, Greetings-1)
+

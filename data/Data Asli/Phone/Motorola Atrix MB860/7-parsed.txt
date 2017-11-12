@@ -1,0 +1,31 @@
+=========
+
+nsubj(buy-2, I-1)
+root(ROOT-0, buy-2)
+det(phone-4, this-3)
+nsubj(fom-5, phone-4)
+ccomp(buy-2, fom-5)
+amod(wireless-8, open-6)
+nn(wireless-8, group-7)
+dobj(fom-5, wireless-8)
+nsubj(pleased-16, I-11)
+nsubj(work-24, I-11)
+aux(pleased-16, can-12)
+neg(pleased-16, not-13)
+cop(pleased-16, be-14)
+advmod(pleased-16, more-15)
+conj_and(buy-2, pleased-16)
+det(phone-19, the-18)
+nsubj(new-22, phone-19)
+cop(new-22, was-20)
+dep(new-22, brand-21)
+ccomp(pleased-16, new-22)
+conj_and(buy-2, work-24)
+conj_and(pleased-16, work-24)
+acomp(work-24, perfect-25)
+poss(country-28, my-27)
+prep_in(work-24, country-28)
+appos(country-28, Venezuela-30)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

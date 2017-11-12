@@ -1,0 +1,27 @@
+=========
+
+nsubj(wanted-2, I-1)
+xsubj(replace-4, I-1)
+root(ROOT-0, wanted-2)
+aux(replace-4, to-3)
+xcomp(wanted-2, replace-4)
+poss(blackberry-7, my-5)
+amod(blackberry-7, previous-6)
+dobj(replace-4, blackberry-7)
+
+=========
+
+nsubj(was-2, It-1)
+nsubj(has-8, It-1)
+root(ROOT-0, was-2)
+det(price-6, a-4)
+amod(price-6, reasonable-5)
+prep_at(was-2, price-6)
+conj_and(was-2, has-8)
+det(functions-10, the-9)
+dobj(has-8, functions-10)
+dobj(need-13, functions-10)
+nsubj(need-13, I-11)
+advmod(need-13, currently-12)
+rcmod(functions-10, need-13)
+

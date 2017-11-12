@@ -1,0 +1,45 @@
+=========
+
+nsubj(TV-5, This-1)
+cop(TV-5, is-2)
+det(TV-5, a-3)
+amod(TV-5, great-4)
+root(ROOT-0, TV-5)
+poss(settings-11, its-8)
+nn(settings-11, default-9)
+nn(settings-11, picture-10)
+nsubj(lacking-13, settings-11)
+aux(lacking-13, are-12)
+conj_but(TV-5, lacking-13)
+amod(settings-26, many-16)
+det(pages-20, the-18)
+nn(pages-20, web-19)
+prep_of(many-16, pages-20)
+partmod(pages-20, claiming-21)
+advmod(calibrated-24, professionally-23)
+acomp(claiming-21, calibrated-24)
+nsubj(work-29, settings-26)
+advmod(work-29, really-27)
+advmod(work-29, only-28)
+conj_but(TV-5, work-29)
+conj_and(lacking-13, work-29)
+amod(movies-33, low-31)
+nn(movies-33, light-32)
+prep_for(work-29, movies-33)
+
+=========
+
+prepc_after(are-11, fiddling-2)
+det(settings-5, the-4)
+prep_with(fiddling-2, settings-5)
+amod(hours-8, many-7)
+prep_for(settings-5, hours-8)
+nsubj(are-11, these-10)
+root(ROOT-0, are-11)
+dobj(recommend-15, what-12)
+nsubj(recommend-15, I-13)
+aux(recommend-15, would-14)
+ccomp(are-11, recommend-15)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

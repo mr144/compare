@@ -1,0 +1,52 @@
+=========
+
+mark(goes-5, As-1)
+advmod(usability-4, far-2)
+det(usability-4, the-3)
+nsubj(goes-5, usability-4)
+advcl(have-8, goes-5)
+nsubj(have-8, I-7)
+root(ROOT-0, have-8)
+advmod(good-10, very-9)
+amod(things-11, good-10)
+nsubj(good-19, things-11)
+nsubj(easy-21, things-11)
+aux(say-13, to-12)
+infmod(things-11, say-13)
+dobj(say-13, .1-14)
+advmod(say-13, Graphics-16)
+cop(good-19, are-17)
+advmod(good-19, pretty-18)
+ccomp(have-8, good-19)
+ccomp(have-8, easy-21)
+conj_and(good-19, easy-21)
+aux(understand-23, to-22)
+xcomp(good-19, understand-23)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(interface-5, This-1)
+cop(interface-5, is-2)
+det(interface-5, a-3)
+amod(interface-5, new-4)
+root(ROOT-0, interface-5)
+prepc_based_on(interface-5, on-7)
+det(ideas-10, some-8)
+amod(ideas-10, good-9)
+pobj(interface-5, ideas-10)
+dep(designed-15, but-12)
+advmod(designed-15, very-13)
+advmod(designed-15, poorly-14)
+dep(ideas-10, designed-15)
+
+=========
+
+nsubjpass(improved-4, Needs-1)
+aux(improved-4, to-2)
+auxpass(improved-4, be-3)
+root(ROOT-0, improved-4)
+det(lot-6, a-5)
+dobj(improved-4, lot-6)
+

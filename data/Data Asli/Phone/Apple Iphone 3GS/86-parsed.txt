@@ -1,0 +1,21 @@
+=========
+
+nsubj(work-4, It-1)
+aux(work-4, does-2)
+neg(work-4, not-3)
+root(ROOT-0, work-4)
+poss(networks-9, our-6)
+amod(networks-9, local-7)
+amod(networks-9, mobile-8)
+prep_on(work-4, networks-9)
+nsubj(updated-14, it-11)
+aux(updated-14, can-12)
+cop(updated-14, be-13)
+conj_nor(work-4, updated-14)
+dep(desperate-19, So-16)
+nsubj(desperate-19, I-17)
+cop(desperate-19, am-18)
+parataxis(work-4, desperate-19)
+det(purchase-22, this-21)
+prep_about(desperate-19, purchase-22)
+

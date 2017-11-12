@@ -1,0 +1,37 @@
+=========
+
+det(phone-2, This-1)
+nsubj(has-3, phone-2)
+root(ROOT-0, has-3)
+det(problem-6, a-4)
+nn(problem-6, battery-5)
+dobj(has-3, problem-6)
+
+=========
+
+nsubj(shuts-3, It-1)
+advmod(shuts-3, suddenly-2)
+root(ROOT-0, shuts-3)
+prt(shuts-3, down-4)
+
+=========
+
+nsubj(purchased-2, I-1)
+root(ROOT-0, purchased-2)
+dobj(purchased-2, it-3)
+quantmod(couple-6, only-4)
+quantmod(couple-6, a-5)
+npadvmod(ago-9, couple-6)
+prep_of(couple-6, weeks-8)
+advmod(purchased-2, ago-9)
+advmod(expand-15, also-11)
+nsubj(expand-15, you-12)
+aux(expand-15, can-13)
+neg(expand-15, not-14)
+conj_and(purchased-2, expand-15)
+det(memory-17, the-16)
+dobj(expand-15, memory-17)
+rel(is-21, what-19)
+nsubj(is-21, it-20)
+rcmod(memory-17, is-21)
+

@@ -1,0 +1,3 @@
+It_PRP seems_VBZ to_TO be_VB a_DT very_RB fine_JJ camera_NN ._.
+It_PRP has_VBZ a_DT steep_JJ learning_NN curve_NN ._.
+I_PRP would_MD recommend_VB it_PRP to_TO anyone_NN interested_JJ in_IN a_DT good_JJ entry_NN level_NN camera_NN prepared_VBN to_TO put_VB in_RP some_DT time_NN learning_VBG it_PRP ._.

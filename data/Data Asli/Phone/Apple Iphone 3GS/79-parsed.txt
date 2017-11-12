@@ -1,0 +1,32 @@
+=========
+
+nsubj(love-3, I-1)
+advmod(love-3, absolutely-2)
+root(ROOT-0, love-3)
+poss(3gs-5, my-4)
+dobj(love-3, 3gs-5)
+
+=========
+
+nsubj(opening-6, it-1)
+aux(opening-6, is-2)
+advmod(fast-5, twice-3)
+advmod(fast-5, as-4)
+advmod(opening-6, fast-5)
+root(ROOT-0, opening-6)
+dobj(opening-6, apps-7)
+nsubj(has-10, it-9)
+conj_and(opening-6, has-10)
+det(capablilties-14, a-11)
+amod(capablilties-14, video-12)
+nn(capablilties-14, recording-13)
+dobj(has-10, capablilties-14)
+
+=========
+
+det(upgrade-3, A-1)
+amod(upgrade-3, great-2)
+root(ROOT-0, upgrade-3)
+poss(3G-6, my-5)
+prep_from(upgrade-3, 3G-6)
+

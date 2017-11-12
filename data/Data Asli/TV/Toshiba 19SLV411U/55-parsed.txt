@@ -1,0 +1,197 @@
+=========
+
+root(ROOT-0, Ordered-1)
+prep_through(Ordered-1, Amazon-3)
+conj_and(Ordered-1, received-5)
+dobj(received-5, TV-6)
+det(week-9, the-7)
+amod(week-9, last-8)
+dep(TV-6, week-9)
+prep_of(TV-6, July-11)
+num(July-11, 2011-12)
+
+=========
+
+det(TV-2, This-1)
+nsubjpass(set-4, TV-2)
+nsubjpass(used-10, TV-2)
+auxpass(set-4, is-3)
+root(ROOT-0, set-4)
+prt(set-4, up-5)
+poss(kitchen-8, my-7)
+prep_in(set-4, kitchen-8)
+conj_and(set-4, used-10)
+advmod(used-10, infrequently-11)
+
+=========
+
+det(design-3, The-1)
+amod(design-3, sleek-2)
+nsubj(nice-5, design-3)
+cop(nice-5, is-4)
+root(ROOT-0, nice-5)
+
+=========
+
+det(picture-2, The-1)
+nsubj(great-4, picture-2)
+cop(great-4, is-3)
+root(ROOT-0, great-4)
+
+=========
+
+det(quality-3, The-1)
+amod(quality-3, sound-2)
+nsubj(okay-7, quality-3)
+cop(okay-7, is-4)
+advmod(okay-7, only-5)
+root(ROOT-0, okay-7)
+quantmod(little-11, a-10)
+dep(okay-7, little-11)
+det(side-15, the-13)
+amod(side-15, anemic-14)
+prep_on(little-11, side-15)
+
+=========
+
+advmod(problem-6, Now-1)
+advmod(problem-6, here-3)
+cop(problem-6, 's-4)
+poss(problem-6, my-5)
+root(ROOT-0, problem-6)
+tmod(tried-11, Yesterday-8)
+nsubj(tried-11, I-10)
+dep(problem-6, tried-11)
+det(player-14, the-12)
+nn(player-14, DVD-13)
+dobj(tried-11, player-14)
+det(TIME-18, the-16)
+nn(TIME-18, FIRST-17)
+prep_for(tried-11, TIME-18)
+
+=========
+
+nsubj(know-2, I-1)
+root(ROOT-0, know-2)
+nsubj(tested-7, I-4)
+aux(tested-7, should-5)
+aux(tested-7, have-6)
+dep(know-2, tested-7)
+dep(tested-7, it-8)
+advmod(it-8, earlier-9)
+nsubj(assumed-14, I-12)
+advmod(assumed-14, just-13)
+conj_but(know-2, assumed-14)
+complm(work-18, that-15)
+nsubj(work-18, it-16)
+aux(work-18, would-17)
+ccomp(assumed-14, work-18)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, plenty-4)
+nn(products-7, Toshiba-6)
+prep_of(plenty-4, products-7)
+det(past-10, the-9)
+prep_in(products-7, past-10)
+complm(satisfied-15, that-11)
+nsubjpass(satisfied-15, I-12)
+auxpass(satisfied-15, was-13)
+advmod(satisfied-15, really-14)
+ccomp(had-3, satisfied-15)
+prep(satisfied-15, with-16)
+
+=========
+
+det(player-3, The-1)
+nn(player-3, DVD-2)
+nsubj(work-6, player-3)
+aux(work-6, DOES-4)
+neg(work-6, N'T-5)
+root(ROOT-0, work-6)
+
+=========
+
+dep(loads-4, It-3)
+nsubj(ejects-13, loads-4)
+ccomp(ejects-13, processes-6)
+dep(processes-6, for-7)
+det(seconds-10, a-8)
+amod(seconds-10, few-9)
+pobj(for-7, seconds-10)
+advmod(ejects-13, then-12)
+root(ROOT-0, ejects-13)
+det(disc-15, the-14)
+dobj(ejects-13, disc-15)
+
+=========
+
+nsubj(tried-4, I-2)
+aux(tried-4, have-3)
+root(ROOT-0, tried-4)
+det(DVD-8, a-5)
+amod(DVD-8, few-6)
+amod(DVD-8, different-7)
+nsubj('s-9, DVD-8)
+ccomp(tried-4, 's-9)
+
+=========
+
+nsubj(had-3, I-1)
+aux(had-3, have-2)
+root(ROOT-0, had-3)
+dobj(had-3, it-4)
+num(days-7, 43-6)
+prep_for(had-3, days-7)
+det(limit-10, the-9)
+prep_for(had-3, limit-10)
+conj_and(days-7, limit-10)
+mark(days-15, for-11)
+nsubj(days-15, returns-12)
+cop(days-15, is-13)
+num(days-15, 30-14)
+advcl(had-3, days-15)
+
+=========
+
+advmod(seems-4, So-1)
+nsubj(seems-4, it-3)
+root(ROOT-0, seems-4)
+complm(stuck-8, that-5)
+nsubjpass(stuck-8, I-6)
+auxpass(stuck-8, am-7)
+ccomp(seems-4, stuck-8)
+det(TV-11, a-10)
+prep_with(stuck-8, TV-11)
+det(player-15, a-13)
+nn(player-15, DVD-14)
+prep_with(stuck-8, player-15)
+nsubj(worked-18, player-15)
+neg(worked-18, never-17)
+rcmod(player-15, worked-18)
+
+=========
+
+nsubj(paid-4, I-1)
+aux(paid-4, could-2)
+aux(paid-4, have-3)
+root(ROOT-0, paid-4)
+det(lot-6, a-5)
+npadvmod(less-7, lot-6)
+advmod(paid-4, less-7)
+det(set-11, a-9)
+amod(set-11, slimmer-10)
+prep_for(paid-4, set-11)
+det(player-15, the-13)
+nn(player-15, DVD-14)
+prep_without(set-11, player-15)
+mark(wanted-20, but-17)
+nsubj(wanted-20, I-18)
+advmod(wanted-20, really-19)
+dep(set-11, wanted-20)
+det(combo-22, the-21)
+dobj(wanted-20, combo-22)
+

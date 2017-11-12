@@ -1,0 +1,47 @@
+=========
+
+det(unit-2, The-1)
+nsubj(worked-3, unit-2)
+root(ROOT-0, worked-3)
+prep_at(worked-3, first-5)
+det(while-10, a-9)
+prep_after(started-12, while-10)
+nsubj(started-12, it-11)
+xsubj(turn-14, it-11)
+conj_but(worked-3, started-12)
+aux(turn-14, to-13)
+xcomp(started-12, turn-14)
+dobj(turn-14, itself-15)
+prt(turn-14, off-16)
+
+=========
+
+partmod(found-7, Looking-1)
+det(internet-4, the-3)
+prep_in(Looking-1, internet-4)
+nsubj(found-7, I-6)
+root(ROOT-0, found-7)
+det(problem-9, this-8)
+nsubj(happens-10, problem-9)
+ccomp(found-7, happens-10)
+amod(people-13, several-12)
+prep_to(happens-10, people-13)
+
+=========
+
+neg(fix-16, Not-1)
+csubj(fix-16, recommended-2)
+mark(are-5, if-3)
+nsubj(are-5, you-4)
+advcl(recommended-2, are-5)
+neg(are-5, not-6)
+det(USA-9, the-8)
+prep_in(are-5, USA-9)
+nn(centers-14, Motorola-12)
+nn(centers-14, service-13)
+prep_as(are-5, centers-14)
+aux(fix-16, may-15)
+root(ROOT-0, fix-16)
+det(problem-18, the-17)
+dobj(fix-16, problem-18)
+

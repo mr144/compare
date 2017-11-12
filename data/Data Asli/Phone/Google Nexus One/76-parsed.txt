@@ -1,0 +1,40 @@
+=========
+
+ccomp(got-5, Hi-1)
+advmod(Hi-1, There-2)
+nsubj(got-5, I-4)
+root(ROOT-0, got-5)
+det(phone-9, the-6)
+nn(phone-9, Nexus-7)
+num(phone-9, One-8)
+dobj(got-5, phone-9)
+cc(has-12, but-10)
+nsubj(has-12, it-11)
+dep(got-5, has-12)
+det(problem-14, the-13)
+dobj(has-12, problem-14)
+prep_with(problem-14, flash-16)
+advmod(has-22, when-18)
+det(phone-20, the-19)
+nsubj(has-22, phone-20)
+advmod(has-22, off-21)
+dep(flash-16, has-22)
+det(flash-24, the-23)
+dobj(has-22, flash-24)
+det(screen-27, the-26)
+prep_at(flash-24, screen-27)
+
+=========
+
+dobj(do-4, What-1)
+aux(do-4, should-2)
+nsubj(do-4, I-3)
+root(ROOT-0, do-4)
+advmod(do-4, now-5)
+
+=========
+
+root(ROOT-0, Thanks-1)
+det(lot-3, a-2)
+dep(Thanks-1, lot-3)
+

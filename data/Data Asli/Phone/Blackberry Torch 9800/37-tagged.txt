@@ -1,0 +1,7 @@
+Do_VBP not_RB do_VB it_PRP !_.
+Do_VBP not_RB get_VB this_DT phone_NN !_.
+No_DT flash_NN ._.
+Mine_NNP freezes_VBZ all_PDT the_DT time_NN ,_, especially_RB when_WRB I_PRP am_VBP texting_VBG ,_, the_DT browser_NN is_VBZ horrible_JJ ,_, it_PRP has_VBZ this_DT crazy_JJ glitch_NN with_IN the_DT time_NN ,_, the_DT camera_NN is_VBZ buggy_NN ..._: I_PRP could_MD go_VB on_IN and_CC on_IN with_IN all_PDT the_DT things_NNS that_WDT are_VBP wonky_JJ ,_, buggy_NN ,_, or_CC freeze_NN on_IN this_DT phone_NN ._.
+Resist_VB ._.
+Do_VBP not_RB buy_VB it_PRP -_: get_VB something_NN that_WDT actually_RB works_VBZ ._.
+Mine_NNP has_VBZ caused_VBN me_PRP more_JJR stress_NN that_IN a_DT phone_NN should_MD be_VB able_JJ to_TO create_VB ._.

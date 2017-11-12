@@ -1,0 +1,37 @@
+=========
+
+advmod(nothing-4, just-1)
+advmod(nothing-4, as-2)
+amod(nothing-4, expected-3)
+dep(more-5, nothing-4)
+root(ROOT-0, more-5)
+
+=========
+
+advmod(nice-2, very-1)
+root(ROOT-0, nice-2)
+dep(nice-2, product-3)
+
+=========
+
+root(ROOT-0, arrived-1)
+prep_on(arrived-1, time-3)
+advmod(expected-6, as-5)
+conj_and(arrived-1, expected-6)
+
+=========
+
+aux(recommend-3, would-1)
+advmod(recommend-3, highly-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+amod(shoppers-8, other-6)
+amod(shoppers-8, online-7)
+prep_to(recommend-3, shoppers-8)
+
+=========
+
+root(ROOT-0, and-1)
+amod(price-3, good-2)
+dobj(and-1, price-3)
+

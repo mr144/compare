@@ -1,0 +1,1 @@
+for_IN its_PRP$ technology_NN ,_, memory_NN ,_, capacity_NN your_PRP$ camera_NN ,_, take_VB me_PRP to_TO be_VB the_DT way_NN of_IN getting_VBG to_TO my_PRP$ work_NN until_IN now_RB that_IN i_FW need_NN ._.

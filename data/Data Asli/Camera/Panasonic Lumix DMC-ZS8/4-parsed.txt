@@ -1,0 +1,35 @@
+=========
+
+root(ROOT-0, Excellent-1)
+amod(angle-3, wide-2)
+dobj(Excellent-1, angle-3)
+amod(zoom-6, great-5)
+dobj(Excellent-1, zoom-6)
+conj_and(angle-3, zoom-6)
+
+=========
+
+root(ROOT-0, Excellent-1)
+dobj(Excellent-1, camera-2)
+aux(have-4, to-3)
+xcomp(Excellent-1, have-4)
+
+=========
+
+dep(complaints-2, No-1)
+root(ROOT-0, complaints-2)
+dep(complaints-2, what-3)
+advmod(ever-5, so-4)
+advmod(what-3, ever-5)
+
+=========
+
+root(ROOT-0, Gr-1)
+
+=========
+
+root(ROOT-0, eat-1)
+nn(range-3, product-2)
+dobj(eat-1, range-3)
+prep_from(eat-1, Panasonic-5)
+

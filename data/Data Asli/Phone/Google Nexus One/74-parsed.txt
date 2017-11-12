@@ -1,0 +1,86 @@
+=========
+
+det(One-4, The-1)
+nn(One-4, Google-2)
+nn(One-4, Nexus-3)
+nsubj(phone-11, One-4)
+partmod(One-4, made-5)
+agent(made-5, HTC-7)
+cop(phone-11, is-8)
+det(phone-11, an-9)
+amod(phone-11, excelent-10)
+root(ROOT-0, phone-11)
+advmod(powerful-14, very-13)
+amod(phone-11, powerful-14)
+nsubj(had-20, I-17)
+aux(had-20, have-18)
+neg(had-20, not-19)
+conj_and(phone-11, had-20)
+dobj(had-20, problems-21)
+advmod(far-23, so-22)
+advmod(had-20, far-23)
+
+=========
+
+nsubj(update-3, I-1)
+aux(update-3, could-2)
+root(ROOT-0, update-3)
+dobj(update-3, it-4)
+prep_to(update-3, Gingerbread-6)
+appos(Gingerbread-6, 2.3.4-8)
+prep_via(Gingerbread-6, OTA-11)
+det(problems-14, any-13)
+prep_without(update-3, problems-14)
+
+=========
+
+det(thing-3, The-1)
+amod(thing-3, only-2)
+dobj(consider-6, thing-3)
+nsubj(consumption-17, thing-3)
+nsubj(consider-6, you-4)
+aux(consider-6, should-5)
+rcmod(thing-3, consider-6)
+det(android-9, any-8)
+prep_in(consider-6, android-9)
+det(device-13, any-11)
+amod(device-13, smartphone-12)
+prep_in(consider-6, device-13)
+conj_and(android-9, device-13)
+cop(consumption-17, is-14)
+det(consumption-17, the-15)
+nn(consumption-17, battery-16)
+root(ROOT-0, consumption-17)
+nsubj(high-21, consumption-17)
+cop(high-21, is-19)
+advmod(high-21, very-20)
+rcmod(consumption-17, high-21)
+
+=========
+
+nsubj(live-2, I-1)
+root(ROOT-0, live-2)
+prep_in(live-2, Ecuador-4)
+nsubj(use-8, I-6)
+aux(use-8, can-7)
+conj_and(live-2, use-8)
+det(phone-10, the-9)
+dobj(use-8, phone-10)
+advmod(use-8, perfectly-11)
+
+=========
+
+det(phone-2, This-1)
+nsubj(awesome-4, phone-2)
+cop(awesome-4, is-3)
+root(ROOT-0, awesome-4)
+
+=========
+
+nsubj(pleased-4, I-1)
+cop(pleased-4, am-2)
+advmod(pleased-4, very-3)
+root(ROOT-0, pleased-4)
+det(purchase-7, this-6)
+prep_with(pleased-4, purchase-7)
+

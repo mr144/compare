@@ -1,0 +1,3 @@
+Great_NNP Camera_NNP ._.
+Amazing_JJ clarity_NN and_CC resolution_NN with_IN the_DT 35mm_CD 1.8_CD prime_JJ lens_NN ._.
+Probably_RB more_JJR camera_NN than_IN I_PRP need_VBP ,_, but_CC very_RB cool_JJ ._.

@@ -1,0 +1,33 @@
+=========
+
+nsubj(love-3, I-1)
+aux(love-3, do-2)
+root(ROOT-0, love-3)
+det(phone-5, this-4)
+dobj(love-3, phone-5)
+
+=========
+
+nsubj(described-3, same-1)
+prep(same-1, as-2)
+root(ROOT-0, described-3)
+
+=========
+
+nsubj(beautiful-15, All-1)
+nsubj(sony-17, All-1)
+nsubj(need-3, I-2)
+parataxis(beautiful-15, need-3)
+det(phone-8, a-5)
+amod(phone-8, small-6)
+amod(phone-8, perfect-7)
+prep_in(need-3, phone-8)
+prep_with(phone-8, personality-10)
+nsubj(beautiful-15, White-13)
+cop(beautiful-15, is-14)
+root(ROOT-0, beautiful-15)
+conj_and(beautiful-15, sony-17)
+det(choice-20, a-18)
+amod(choice-20, great-19)
+dobj(sony-17, choice-20)
+

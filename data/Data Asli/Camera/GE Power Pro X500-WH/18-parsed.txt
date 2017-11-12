@@ -1,0 +1,27 @@
+=========
+
+det(money-3, the-2)
+prep_for(camera-9, money-3)
+nsubj(camera-9, this-4)
+cop(camera-9, is-5)
+det(camera-9, a-6)
+amod(camera-9, great-7)
+amod(camera-9, little-8)
+root(ROOT-0, camera-9)
+nsubj(meets-12, it-11)
+conj_and(camera-9, meets-12)
+predet(requirements-15, all-13)
+poss(requirements-15, my-14)
+dobj(meets-12, requirements-15)
+
+=========
+
+nsubj(by-3, i-1)
+aux(by-3, would-2)
+root(ROOT-0, by-3)
+pobj(by-3, another-4)
+mark(needed-7, if-5)
+nsubj(needed-7, i-6)
+advcl(by-3, needed-7)
+prep(needed-7, to-8)
+

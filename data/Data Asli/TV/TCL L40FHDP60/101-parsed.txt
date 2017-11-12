@@ -1,0 +1,773 @@
+=========
+
+root(ROOT-0, Update-1)
+nsubj(November-5, It-3)
+cop(November-5, is-4)
+dep(Update-1, November-5)
+num(November-5, 7-6)
+num(November-5, 2012-8)
+poss(TV-11, Our-10)
+nsubj(shop-17, TV-11)
+aux(shop-17, has-12)
+aux(shop-17, been-13)
+advmod(shop-17, at-14)
+det(arepair-16, the-15)
+pobj(at-14, arepair-16)
+dep(November-5, shop-17)
+prep(shop-17, warehouse-20)
+
+=========
+
+nsubj(dump-2, Garbage-1)
+root(ROOT-0, dump-2)
+
+=========
+
+root(ROOT-0, now-1)
+det(first-4, the-3)
+prep_since(now-1, first-4)
+prep_of(now-1, August-6)
+num(August-6, 6-7)
+num(August-6, 2012-9)
+
+=========
+
+nsubj(makes-2, That-1)
+root(ROOT-0, makes-2)
+dobj(makes-2, it-3)
+num(months-5, 3-4)
+tmod(makes-2, months-5)
+
+=========
+
+prepc_in(said-9, talking-2)
+poss(husband-5, my-4)
+prep_to(talking-2, husband-5)
+amod(night-7, last-6)
+tmod(talking-2, night-7)
+nsubj(said-9, he-8)
+ccomp(assembled-34, said-9)
+nsubj(bet-12, I-11)
+ccomp(said-9, bet-12)
+det(reason-14, the-13)
+dobj(bet-12, reason-14)
+det(TV-16, these-15)
+nsubj(inexpensive-20, TV-16)
+possessive(TV-16, 's-17)
+cop(inexpensive-20, are-18)
+advmod(inexpensive-20, so-19)
+rcmod(reason-14, inexpensive-20)
+ccomp(inexpensive-20, is-21)
+nsubj(bought-23, they-22)
+ccomp(is-21, bought-23)
+prt(bought-23, up-24)
+predet(parts-28, all-25)
+det(parts-28, the-26)
+amod(parts-28, discontinued-27)
+dobj(bought-23, parts-28)
+partmod(parts-28, sitting-29)
+prt(sitting-29, around-30)
+prep_in(sitting-29, China-32)
+root(ROOT-0, assembled-34)
+det(TV-36, the-35)
+nsubj('s-37, TV-36)
+nsubj(sold-39, TV-36)
+ccomp(assembled-34, 's-37)
+ccomp(assembled-34, sold-39)
+conj_and('s-37, sold-39)
+dobj(sold-39, them-40)
+nsubj(assembled-34, dirt-41)
+amod(dirt-41, cheap-42)
+
+=========
+
+root(ROOT-0, So-1)
+dep(So-1, what-2)
+mark(break-5, if-3)
+nsubj(break-5, they-4)
+dep(So-1, break-5)
+
+=========
+
+nsubj(disposable-3, They-1)
+cop(disposable-3, are-2)
+root(ROOT-0, disposable-3)
+
+=========
+
+nsubj(is-2, Trouble-1)
+root(ROOT-0, is-2)
+nsubj(inform-6, they-3)
+aux(inform-6, do-4)
+neg(inform-6, not-5)
+ccomp(is-2, inform-6)
+det(customers-8, the-7)
+dobj(inform-6, customers-8)
+complm(throw-aways-12, that-9)
+nsubj(throw-aways-12, they-10)
+cop(throw-aways-12, are-11)
+ccomp(inform-6, throw-aways-12)
+
+=========
+
+advmod(talk-3, Instead-1)
+nsubj(talk-3, they-2)
+root(ROOT-0, talk-3)
+poss(warranty-6, their-5)
+prep_about(talk-3, warranty-6)
+
+=========
+
+cc(!!!-5, And-1)
+poss(Service-4, their-2)
+nn(Service-4, Customer-3)
+nsubj(!!!-5, Service-4)
+root(ROOT-0, !!!-5)
+
+=========
+
+det(theory-4, The-1)
+amod(theory-4, disposable-2)
+nn(theory-4, TV-3)
+nsubj(makes-5, theory-4)
+root(ROOT-0, makes-5)
+dobj(makes-5, sense-6)
+prep_to(makes-5, me-8)
+advmod(given-10, particularly-9)
+prep(makes-5, given-10)
+det(treatment-12, the-11)
+dep(given-10, treatment-12)
+dobj(gotten-15, treatment-12)
+nsubj(gotten-15, we-13)
+aux(gotten-15, have-14)
+rcmod(treatment-12, gotten-15)
+
+=========
+
+nsubj(putting-3, I-1)
+aux(putting-3, am-2)
+root(ROOT-0, putting-3)
+det(review-5, this-4)
+dobj(putting-3, review-5)
+nn(TV-9, EVERY-7)
+nn(TV-9, TCL-8)
+prep_on(review-5, TV-9)
+advmod(bought-14, even-10)
+dep(bought-14, though-11)
+nsubj(bought-14, we-12)
+advmod(bought-14, only-13)
+dep(putting-3, bought-14)
+det(version-18, the-15)
+num(version-18, 42-16)
+nn(version-18, inch-17)
+dobj(bought-14, version-18)
+
+=========
+
+prepc_in(has-14, looking-2)
+amod(reviews-5, other-4)
+prep_at(looking-2, reviews-5)
+dep(looking-2, and-7)
+dep(and-7, not-8)
+dep(not-8, just-9)
+prep_on(just-9, Amazon-11)
+nsubj(has-14, TCL-13)
+root(ROOT-0, has-14)
+det(attitude-18, this-15)
+amod(attitude-18, same-16)
+amod(attitude-18, ho-hum-17)
+dobj(has-14, attitude-18)
+nn(service-21, customer-20)
+prep_about(attitude-18, service-21)
+prep_for(service-21, ALL-23)
+poss(TV-26, their-25)
+prep_of(attitude-18, TV-26)
+dep(TV-26, 's-27)
+
+=========
+
+nsubj(promise-2, I-1)
+xsubj(eat-4, I-1)
+root(ROOT-0, promise-2)
+aux(eat-4, to-3)
+xcomp(promise-2, eat-4)
+dobj(eat-4, crow-5)
+mark(see-9, if-6)
+nsubj(see-9, we-7)
+advmod(see-9, ever-8)
+advcl(eat-4, see-9)
+det(TV-11, that-10)
+dobj(see-9, TV-11)
+advmod(see-9, again-12)
+nsubj(think-18, I-15)
+aux(think-18, do-16)
+neg(think-18, not-17)
+conj_but(promise-2, think-18)
+nsubj(burping-22, I-19)
+aux(burping-22, 'll-20)
+aux(burping-22, be-21)
+ccomp(think-18, burping-22)
+dobj(burping-22, feathers-23)
+det(time-25, any-24)
+npadvmod(soon-26, time-25)
+advmod(burping-22, soon-26)
+
+=========
+
+nsubj(bet-3, I-1)
+aux(bet-3, would-2)
+root(ROOT-0, bet-3)
+dobj(bet-3, money-4)
+nsubj(see-8, we-5)
+aux(see-8, will-6)
+neg(see-8, never-7)
+rcmod(money-4, see-8)
+det(TV-10, that-9)
+dobj(see-8, TV-10)
+advmod(see-8, again-11)
+
+=========
+
+nsubj(appreciate-3, I-1)
+aux(appreciate-3, did-2)
+root(ROOT-0, appreciate-3)
+det(comments-5, any-4)
+dobj(appreciate-3, comments-5)
+advmod(had-9, where-6)
+nsubj(had-9, people-7)
+aux(had-9, have-8)
+advcl(appreciate-3, had-9)
+amod(service-12, satisfactory-10)
+nn(service-12, customer-11)
+dobj(had-9, service-12)
+nsubj(restore-16, it-14)
+aux(restore-16, might-15)
+parataxis(had-9, restore-16)
+poss(faith-18, my-17)
+dobj(restore-16, faith-18)
+complm(see-22, that-19)
+nsubj(see-22, I-20)
+aux(see-22, will-21)
+ccomp(had-9, see-22)
+det(TV-24, that-23)
+dobj(see-22, TV-24)
+det(porch-28, the-26)
+amod(porch-28, front-27)
+prep_on(see-22, porch-28)
+det(couple-32, the-30)
+amod(couple-32, next-31)
+prep_in(porch-28, couple-32)
+prep_of(couple-32, years-34)
+
+=========
+
+advmod(stands-9, -----------------------------------1)
+poss(review-4, My-2)
+amod(review-4, original-3)
+nsubj(stands-9, review-4)
+partmod(review-4, written-5)
+prep_in(written-5, October-7)
+advmod(stands-9, still-8)
+root(ROOT-0, stands-9)
+advmod(set-13, When-11)
+nsubj(set-13, we-12)
+advcl(happy-20, set-13)
+dobj(set-13, it-14)
+prt(set-13, up-15)
+nsubj(happy-20, we-17)
+cop(happy-20, were-18)
+advmod(happy-20, very-19)
+parataxis(stands-9, happy-20)
+det(quality-24, the-22)
+nn(quality-24, picture-23)
+prep_with(happy-20, quality-24)
+expl(were-27, there-26)
+dep(happy-20, were-27)
+det(pixels-31, a-28)
+amod(pixels-31, few-29)
+amod(pixels-31, dead-30)
+nsubj(were-27, pixels-31)
+nsubj(show-37, that-34)
+aux(show-37, does-35)
+neg(show-37, not-36)
+dep(happy-20, show-37)
+conj_but(were-27, show-37)
+advmod(much-39, up-38)
+advmod(show-37, much-39)
+nsubj(concerned-44, we-41)
+cop(concerned-44, were-42)
+neg(concerned-44, not-43)
+parataxis(stands-9, concerned-44)
+conj_and(happy-20, concerned-44)
+
+=========
+
+cc(died-5, But-1)
+det(panel-4, the-2)
+amod(panel-4, whole-3)
+nsubj(died-5, panel-4)
+root(ROOT-0, died-5)
+quantmod(6-8, only-7)
+num(months-9, 6-8)
+prep_after(died-5, months-9)
+
+=========
+
+nsubj(watchers-6, We-1)
+cop(watchers-6, are-2)
+neg(watchers-6, not-3)
+amod(watchers-6, big-4)
+nn(watchers-6, TV-5)
+root(ROOT-0, watchers-6)
+advmod(watchers-6, either-7)
+
+=========
+
+det(thing-2, The-1)
+nsubj(week-10, thing-2)
+cop(week-10, was-3)
+mwe(than-6, less-5)
+quantmod(5-7, than-6)
+num(hours-8, 5-7)
+prep_on(week-10, hours-8)
+det(week-10, a-9)
+root(ROOT-0, week-10)
+
+=========
+
+dep(contacted-3, So-1)
+nsubj(contacted-3, we-2)
+root(ROOT-0, contacted-3)
+nsubj(gave-18, TCL-4)
+mark(tries-8, after-6)
+nsubj(tries-8, several-7)
+xsubj(get-10, several-7)
+dep(TCL-4, tries-8)
+aux(get-10, to-9)
+xcomp(tries-8, get-10)
+dobj(get-10, them-11)
+det(phone-14, the-13)
+prep_on(get-10, phone-14)
+nsubj(gave-18, they-17)
+ccomp(contacted-3, gave-18)
+iobj(gave-18, us-19)
+det(number-21, the-20)
+dobj(gave-18, number-21)
+det(shop-25, the-23)
+nn(shop-25, repair-24)
+prep_of(number-21, shop-25)
+nsubj(were-27, we-26)
+xsubj(send-29, we-26)
+rcmod(number-21, were-27)
+aux(send-29, to-28)
+xcomp(were-27, send-29)
+det(TV-31, this-30)
+dobj(send-29, TV-31)
+prep(send-29, to-32)
+
+=========
+
+amod(tries-3, several-2)
+prep_after(got-6, tries-3)
+nsubj(got-6, I-5)
+root(ROOT-0, got-6)
+dobj(got-6, them-7)
+det(phone-10, the-9)
+prep_on(got-6, phone-10)
+
+=========
+
+nsubj(agreed-2, They-1)
+root(ROOT-0, agreed-2)
+aux(send-4, to-3)
+dep(agreed-2, send-4)
+iobj(send-4, us-5)
+det(box-7, a-6)
+dobj(send-4, box-7)
+aux(ship-9, to-8)
+infmod(box-7, ship-9)
+dobj(ship-9, it-10)
+det(fiasco-16, a-13)
+amod(fiasco-16, whole-14)
+amod(fiasco-16, other-15)
+prep_in(ship-9, fiasco-16)
+nsubj('s-20, that-19)
+dep(agreed-2, 's-20)
+conj_but(send-4, 's-20)
+neg('s-20, not-21)
+aux(do-23, to-22)
+xcomp('s-20, do-23)
+det(TV-26, the-25)
+prep_with(do-23, TV-26)
+
+=========
+
+nsubj(received-2, We-1)
+root(ROOT-0, received-2)
+det(box-5, the-3)
+nn(box-5, packing-4)
+dobj(received-2, box-5)
+dep(received-2, after-7)
+det(couple-9, a-8)
+pobj(after-7, couple-9)
+prep_of(couple-9, weeks-11)
+
+=========
+
+nsubj(packed-2, We-1)
+nsubj(sent-5, We-1)
+root(ROOT-0, packed-2)
+dobj(packed-2, it-3)
+conj_and(packed-2, sent-5)
+dobj(sent-5, it-6)
+nsubj(Fed-Ex-9, them-8)
+prepc_to(sent-5, Fed-Ex-9)
+det(day-12, the-10)
+amod(day-12, same-11)
+tmod(Fed-Ex-9, day-12)
+
+=========
+
+advmod(begins-5, Now-1)
+det(Wait-4, the-2)
+nn(Wait-4, Big-3)
+nsubj(begins-5, Wait-4)
+root(ROOT-0, begins-5)
+
+=========
+
+num(weeks-3, 3-2)
+prep_after(called-5, weeks-3)
+nsubj(called-5, I-4)
+root(ROOT-0, called-5)
+dep(days-14, again-7)
+amod(times-10, several-9)
+dep(again-7, times-10)
+dep(again-7, for-12)
+amod(days-14, several-13)
+dep(called-5, days-14)
+det(answer-17, an-16)
+prep_before(days-14, answer-17)
+
+=========
+
+dep(is-7, Oh-1)
+nsubj(is-7, its-3)
+advmod(is-7, here-4)
+nsubj(is-7, it-6)
+root(ROOT-0, is-7)
+poss(shop-10, our-9)
+prep_in(is-7, shop-10)
+nsubj(working-14, they-12)
+aux(working-14, are-13)
+conj_and(is-7, working-14)
+prep_on(working-14, it-16)
+
+=========
+
+advmod(takes-3, Sometimes-1)
+nsubj(takes-3, it-2)
+root(ROOT-0, takes-3)
+det(couple-5, a-4)
+dobj(takes-3, couple-5)
+prep_of(couple-5, weeks-7)
+mark(OK-14, because-8)
+nsubj(OK-14, we-9)
+cop(OK-14, are-10)
+advmod(OK-14, So-11)
+num(!!-13, Busy-12)
+pobj(So-11, !!-13)
+advcl(takes-3, OK-14)
+
+=========
+
+root(ROOT-0, Fine-1)
+
+=========
+
+nsubj(wait-2, We-1)
+root(ROOT-0, wait-2)
+nsubj(more-4, some-3)
+xcomp(wait-2, more-4)
+
+=========
+
+root(ROOT-0, Three-1)
+amod(weeks-3, more-2)
+dep(Three-1, weeks-3)
+
+=========
+
+nsubj(call-2, I-1)
+root(ROOT-0, call-2)
+parataxis(call-2, yes-4)
+advmod(yes-4, again-6)
+amod(times-9, several-8)
+dobj(yes-4, times-9)
+det(period-12, a-11)
+prep_over(yes-4, period-12)
+prep_of(period-12, days-14)
+mark(get-17, before-15)
+nsubj(get-17, I-16)
+dep(days-14, get-17)
+det(answer-19, an-18)
+dobj(get-17, answer-19)
+
+=========
+
+advmod(is-3, NOW-1)
+expl(is-3, there-2)
+root(ROOT-0, is-3)
+det(problem-5, a-4)
+nsubj(is-3, problem-5)
+partmod(problem-5, getting-6)
+det(part-8, the-7)
+dobj(getting-6, part-8)
+
+=========
+
+cc(be-4, But-1)
+nsubj(be-4, it-2)
+aux(be-4, should-3)
+root(ROOT-0, be-4)
+det(time-8, any-7)
+prep_in(be-4, time-8)
+advmod(time-8, now-9)
+
+=========
+
+root(ROOT-0, Hmmm-1)
+
+=========
+
+dep(wait-3, So-1)
+nsubj(wait-3, I-2)
+root(ROOT-0, wait-3)
+nsubj(more-5, some-4)
+xcomp(wait-3, more-5)
+
+=========
+
+root(ROOT-0, Another-1)
+num(weeks-3, 3-2)
+dep(Another-1, weeks-3)
+
+=========
+
+nsubj(call-2, I-1)
+root(ROOT-0, call-2)
+advmod(we-5, here-4)
+nsubj(go-6, we-5)
+ccomp(call-2, go-6)
+advmod(go-6, again-7)
+
+=========
+
+quantmod(times-2, several-1)
+num(day-4, times-2)
+det(day-4, a-3)
+nsubj(FINALLY-10, day-4)
+amod(days-8, several-7)
+prep_for(day-4, days-8)
+root(ROOT-0, FINALLY-10)
+det(answer-12, an-11)
+dobj(FINALLY-10, answer-12)
+
+=========
+
+det(someone-3, This-1)
+nn(someone-3, time-2)
+nsubj(let-4, someone-3)
+nsubj(told-12, someone-3)
+root(ROOT-0, let-4)
+det(cat-6, the-5)
+dobj(let-4, cat-6)
+det(bag-10, the-9)
+prep_out_of(let-4, bag-10)
+conj_and(let-4, told-12)
+dobj(told-12, me-13)
+complm(is-23, that-14)
+det(panel-17, the-15)
+dobj(needs-22, panel-17)
+nsubj(is-23, panel-17)
+complm(needs-22, that-19)
+poss(TV-21, my-20)
+nsubj(needs-22, TV-21)
+dep(panel-17, needs-22)
+ccomp(told-12, is-23)
+amod(order-27, back-26)
+prep_on(is-23, order-27)
+
+=========
+
+nsubj(have-2, They-1)
+root(ROOT-0, have-2)
+det(warehouse-4, a-3)
+dobj(have-2, warehouse-4)
+dep(warehouse-4, full-5)
+nn(TV-8, TCL-7)
+poss(waiting-10, TV-8)
+prep_of(warehouse-4, waiting-10)
+det(part-13, this-12)
+prep_for(waiting-10, part-13)
+
+=========
+
+nsubj(honest-3, She-1)
+cop(honest-3, was-2)
+root(ROOT-0, honest-3)
+advmod(honest-3, enough-4)
+aux(say-6, to-5)
+xcomp(honest-3, say-6)
+complm(months-12, that-7)
+nsubj(months-12, it-8)
+aux(months-12, could-9)
+cop(months-12, be-10)
+num(months-12, 3-11)
+ccomp(say-6, months-12)
+num(years-15, 3-14)
+dep(received-19, years-15)
+advmod(received-19, before-16)
+nsubjpass(received-19, it-17)
+auxpass(received-19, is-18)
+ccomp(say-6, received-19)
+conj_or(months-12, received-19)
+
+=========
+
+nsubj(know-5, They-1)
+advmod(know-5, simply-2)
+aux(know-5, do-3)
+neg(know-5, not-4)
+root(ROOT-0, know-5)
+
+=========
+
+prep_of(fault-10, course-2)
+nsubj(fault-10, it-3)
+cop(fault-10, is-4)
+neg(fault-10, not-5)
+det(shop-8, the-6)
+nn(shop-8, repair-7)
+poss(fault-10, shop-8)
+root(ROOT-0, fault-10)
+
+=========
+
+nsubj(mad-3, I-1)
+cop(mad-3, am-2)
+root(ROOT-0, mad-3)
+prep_at(mad-3, them-5)
+neg(forthcoming-10, not-7)
+cop(forthcoming-10, being-8)
+advmod(forthcoming-10, more-9)
+prepc_for(mad-3, forthcoming-10)
+nsubj(fault-17, it-13)
+cop(fault-17, is-14)
+poss(fault-17, TCL-15)
+conj_but(mad-3, fault-17)
+neg(providing-20, not-19)
+prepc_for(fault-17, providing-20)
+amod(service-23, proper-21)
+nn(service-23, warranty-22)
+dobj(providing-20, service-23)
+nsubj(care-29, TCL-25)
+advmod(care-29, simply-26)
+aux(care-29, does-27)
+neg(care-29, not-28)
+parataxis(mad-3, care-29)
+nn(service-32, customer-31)
+prep_about(care-29, service-32)
+
+=========
+
+nsubj(update-3, I-1)
+aux(update-3, will-2)
+root(ROOT-0, update-3)
+det(review-5, this-4)
+dobj(update-3, review-5)
+nn(change-8, things-7)
+prep_as(update-3, change-8)
+nsubj(change-15, things-11)
+advmod(change-15, probably-12)
+aux(change-15, will-13)
+neg(change-15, not-14)
+conj_but(update-3, change-15)
+
+=========
+
+det(week-2, This-1)
+tmod(due-5, week-2)
+nsubj(due-5, I-3)
+cop(due-5, am-4)
+root(ROOT-0, due-5)
+aux(call-7, to-6)
+xcomp(due-5, call-7)
+advmod(call-7, again-8)
+
+=========
+
+nsubj(persistent-6, I-1)
+cop(persistent-6, am-2)
+dep(if-4, nothing-3)
+advmod(persistent-6, if-4)
+neg(persistent-6, not-5)
+root(ROOT-0, persistent-6)
+
+=========
+
+advmod(go-5, So-1)
+nsubj(go-5, you-3)
+nsubj(buy-8, you-3)
+aux(go-5, can-4)
+root(ROOT-0, go-5)
+advmod(go-5, ahead-6)
+conj_and(go-5, buy-8)
+det(TV-11, a-9)
+nn(TV-11, TCL-10)
+dobj(buy-8, TV-11)
+nsubj(lucky-17, you-14)
+nsubj(get-19, you-14)
+aux(lucky-17, might-15)
+dep(lucky-17, get-16)
+conj_and(go-5, lucky-17)
+conj_and(go-5, get-19)
+conj_and(lucky-17, get-19)
+dobj(get-19, one-20)
+nsubj(works-22, one-20)
+rcmod(one-20, works-22)
+det(while-25, a-24)
+prep_for(works-22, while-25)
+
+=========
+
+cc(send-5, But-1)
+advmod(send-5, then-2)
+nsubj(send-5, you-3)
+aux(send-5, can-4)
+root(ROOT-0, send-5)
+dobj(send-5, it-6)
+det(shop-10, the-8)
+nn(shop-10, repair-9)
+prep_to(send-5, shop-10)
+mark(keep-14, so-11)
+nsubj(keep-14, it-12)
+aux(keep-14, can-13)
+advcl(send-5, keep-14)
+nn(company-16, mine-15)
+dobj(keep-14, company-16)
+det(warehouse-21, the-19)
+prep_in(keep-14, warehouse-21)
+dep(warehouse-21, full-22)
+nn(TV-25, TCL-24)
+poss(repair-28, TV-25)
+amod(repair-28, needing-27)
+prep_of(warehouse-21, repair-28)
+
+=========
+
+nn(Winds-2, Fair-1)
+root(ROOT-0, Winds-2)
+nn(Jan-5, Cap'n-4)
+appos(Winds-2, Jan-5)
+

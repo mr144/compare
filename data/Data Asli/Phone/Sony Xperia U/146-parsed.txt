@@ -1,0 +1,80 @@
+=========
+
+root(ROOT-0, So-1)
+advmod(good-4, far-2)
+advmod(good-4, so-3)
+dep(So-1, good-4)
+
+=========
+
+nsubj(like-3, I-1)
+advmod(like-3, definitely-2)
+root(ROOT-0, like-3)
+det(phone-5, this-4)
+dobj(like-3, phone-5)
+
+=========
+
+nsubj(using-3, I-1)
+aux(using-3, am-2)
+root(ROOT-0, using-3)
+dobj(using-3, it-4)
+amod(Talk-7, Straight-6)
+prep_with(using-3, Talk-7)
+amod(capabilities-11, full-9)
+num(capabilities-11, 3G-10)
+prep_with(Talk-7, capabilities-11)
+
+=========
+
+advmod(came-16, ALSO-1)
+nsubj(need-6, you-3)
+xsubj(buy-8, you-3)
+aux(need-6, do-4)
+neg(need-6, not-5)
+parataxis(came-16, need-6)
+aux(buy-8, to-7)
+xcomp(need-6, buy-8)
+det(protector-12, a-9)
+amod(protector-12, separate-10)
+nn(protector-12, screen-11)
+dobj(buy-8, protector-12)
+nsubj(came-16, it-14)
+advmod(came-16, already-15)
+root(ROOT-0, came-16)
+prep_with(came-16, one-18)
+
+=========
+
+mark(knew-3, If-1)
+nsubj(knew-3, I-2)
+advcl(bought-9, knew-3)
+nsubj(bought-9, I-5)
+aux(bought-9, would-6)
+aux(bought-9, have-7)
+neg(bought-9, not-8)
+root(ROOT-0, bought-9)
+dobj(bought-9, one-10)
+advmod(bought-9, separately-11)
+
+=========
+
+poss(surprise-3, my-2)
+prep_to(came-7, surprise-3)
+det(unit-5, the-4)
+nsubj(came-7, unit-5)
+advmod(came-7, also-6)
+root(ROOT-0, came-7)
+det(adapter-11, a-9)
+amod(adapter-11, micro-SIM-10)
+prep_with(came-7, adapter-11)
+mark(uses-15, since-12)
+det(phone-14, the-13)
+nsubj(uses-15, phone-14)
+advcl(came-7, uses-15)
+det(card-20, the-16)
+amod(card-20, standard-17)
+nn(card-20, size-18)
+nn(card-20, SIM-19)
+dobj(uses-15, card-20)
+

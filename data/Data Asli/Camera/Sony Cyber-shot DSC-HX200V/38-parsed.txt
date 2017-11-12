@@ -1,0 +1,23 @@
+=========
+
+advmod(chamber-7, Simply-1)
+ccomp(chamber-7, brilliant-2)
+nsubj(chamber-7, It-4)
+cop(chamber-7, is-5)
+det(chamber-7, a-6)
+dep(marvellous-16, chamber-7)
+advmod(good-10, very-9)
+amod(characteristics-11, good-10)
+prep_with(chamber-7, characteristics-11)
+det(optics-14, the-13)
+nsubj(marvellous-16, optics-14)
+cop(marvellous-16, is-15)
+root(ROOT-0, marvellous-16)
+rcmod(marvellous-16, does-17)
+det(amateur-19, an-18)
+dobj(does-17, amateur-19)
+det(camera-25, a-21)
+amod(camera-25, professional-22)
+amod(camera-25, Excellent-24)
+prep_in(does-17, camera-25)
+

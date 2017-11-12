@@ -1,0 +1,8 @@
+We_PRP moved_VBD into_IN the_DT digital_JJ age_NN this_DT week_NN by_IN purchasing_VBG this_DT TV_NN and_CC by_IN upgrading_VBG to_TO DIRECTV_NNP HD_NNP -LRB-_-LRB- Genie_NNP DVR_NNP -RRB-_-RRB- ._.
+New_NNP Directv_NNP remote_JJ control_NN would_MD not_RB program_VB itself_PRP with_IN my_PRP$ new_JJ TV_NN ,_, but_CC I_PRP found_VBD an_DT easy_JJ solution_NN to_TO the_DT remote_JJ control_NN issue_NN ._.
+Since_IN the_DT new_JJ TV_NN model_NN number_NN -LRB-_-LRB- L40FHDP60_NNP -RRB-_-RRB- was_VBD not_RB in_IN the_DT list_NN of_IN TCL_NNP model_NN numbers_NNS in_IN the_DT Directv_NNP remote_JJ control_NN setup_NN utility_NN ,_, I_PRP chose_VBD a_DT TCL_NNP TV_NN model_NN number_NN for_IN a_DT similar_JJ TCL_NNP set_NN -LRB-_-LRB- L40FHDF12TA_NNP -RRB-_-RRB- that_IN WAS_NNP listed_VBD and_CC followed_VBD the_DT normal_JJ setup_NN procedure_NN -LRB-_-LRB- pointing_VBG the_DT remote_JJ at_IN the_DT Genie_NNP HD_NNP DVR_NNP during_IN setup_NN -RRB-_-RRB- ._.
+It_PRP worked_VBD ._.
+Now_RB I_PRP can_MD manage_VB everything_NN with_IN ONE_CD remote_JJ ._.
+Could_MD not_RB be_VB happier_JJR with_IN my_PRP$ TCL_NNP TV_NN ._.
+Great_JJ picture_NN ,_, great_JJ sound_JJ quality_NN ._.
+Now_RB if_IN it_PRP would_MD only_RB make_VB popcorn_NN ..._:

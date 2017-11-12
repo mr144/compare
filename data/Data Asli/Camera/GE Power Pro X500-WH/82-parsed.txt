@@ -1,0 +1,13 @@
+=========
+
+nsubj(product-5, This-1)
+nsubj(good-10, This-1)
+cop(product-5, is-2)
+det(product-5, a-3)
+amod(product-5, great-4)
+root(ROOT-0, product-5)
+amod(camera-7, basic-6)
+dep(product-5, camera-7)
+advmod(good-10, really-9)
+conj_but(product-5, good-10)
+

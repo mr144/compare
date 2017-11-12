@@ -1,0 +1,82 @@
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(camera-4, the-3)
+dobj(love-2, camera-4)
+
+=========
+
+nsubj(use-2, I-1)
+dep(mm-6, use-2)
+num(-85-5, f\/16-4)
+prep_with(use-2, -85-5)
+root(ROOT-0, mm-6)
+dobj(mm-6, Nikkor-7)
+amod(f\/1-10, 50mm-9)
+dobj(mm-6, f\/1-10)
+conj_and(Nikkor-7, f\/1-10)
+num(lens-13, .8-11)
+amod(lens-13, prime-12)
+nsubj(mm-6, lens-13)
+
+=========
+
+root(ROOT-0, Amazing-1)
+amod(pictures-3, sharp-2)
+dep(Amazing-1, pictures-3)
+
+=========
+
+root(ROOT-0, with-1)
+num(bokeh-5, 50mm-2)
+advmod(nice-4, very-3)
+amod(bokeh-5, nice-4)
+pobj(with-1, bokeh-5)
+advmod(sharp-8, very-7)
+amod(images-9, sharp-8)
+pobj(with-1, images-9)
+conj_and(bokeh-5, images-9)
+
+=========
+
+mark(need-3, If-1)
+nsubj(need-3, you-2)
+csubj(use-10, need-3)
+amod(images-5, sharp-4)
+dobj(need-3, images-5)
+dobj(need-3, colors-7)
+conj_and(images-5, colors-7)
+aux(use-10, do-8)
+neg(use-10, not-9)
+root(ROOT-0, use-10)
+nn(settings-12, auto-11)
+dobj(use-10, settings-12)
+
+=========
+
+aux(wast-3, Do-1)
+neg(wast-3, not-2)
+root(ROOT-0, wast-3)
+poss(time-5, your-4)
+dobj(wast-3, time-5)
+xcomp(wast-3, comparing-6)
+amod(manufactures-9, other-8)
+prep_with(comparing-6, manufactures-9)
+
+=========
+
+nn(Camera-2, Nikon-1)
+nsubj(expansive-9, Camera-2)
+nn(lens-5, Nikkor-4)
+conj_and(Camera-2, lens-5)
+nsubj(expansive-9, lens-5)
+aux(expansive-9, may-6)
+cop(expansive-9, be-7)
+advmod(expansive-9, little-8)
+root(ROOT-0, expansive-9)
+prep_than(expansive-9, competitors-11)
+nsubj(price-15, it-14)
+conj_but(expansive-9, price-15)
+prep_for(price-15, reason-17)
+

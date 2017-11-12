@@ -1,0 +1,4 @@
+excellent_JJ picture_NN quality_NN and_CC value_NN ._.
+Only_RB negative_JJ is_VBZ the_DT quality_NN of_IN the_DT audio_NN ._.
+Like_IN everyone_NN else_RB if_IN you_PRP are_VBP planning_VBG on_IN using_VBG this_DT tv_NN in_IN a_DT loud_JJ environment_NN there_EX could_MD be_VB an_DT issue_NN ._.
+In_IN our_PRP$ case_NN the_DT set_NN is_VBZ being_VBG used_VBN in_IN a_DT relatively_RB quiet_JJ area_NN and_CC this_DT unit_NN works_VBZ pefectly_RB for_IN us_PRP ._.

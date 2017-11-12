@@ -1,0 +1,67 @@
+=========
+
+root(ROOT-0, Purchased-1)
+det(camera-3, this-2)
+dobj(Purchased-1, camera-3)
+aux(hold-5, to-4)
+infmod(camera-3, hold-5)
+dobj(hold-5, us-6)
+prt(hold-5, over-7)
+mark(bought-10, until-8)
+nsubj(bought-10, we-9)
+advcl(Purchased-1, bought-10)
+det(DSLR-12, a-11)
+dobj(bought-10, DSLR-12)
+
+=========
+
+advmod(perfect-5, Basically-1)
+det(camera-3, this-2)
+nsubj(perfect-5, camera-3)
+cop(perfect-5, is-4)
+root(ROOT-0, perfect-5)
+poss(needs-8, our-7)
+prep_for(perfect-5, needs-8)
+
+=========
+
+nsubj(takes-2, It-1)
+ccomp(works-12, takes-2)
+amod(pictures-4, great-3)
+dobj(takes-2, pictures-4)
+advmod(pictures-4, right-5)
+det(box-9, the-8)
+prep_out_of(pictures-4, box-9)
+nsubj(works-12, everything-11)
+root(ROOT-0, works-12)
+advmod(well-14, very-13)
+acomp(works-12, well-14)
+advmod(intuitive-17, very-16)
+dep(well-14, intuitive-17)
+
+=========
+
+nsubj(dropped-3, We-1)
+advmod(dropped-3, even-2)
+root(ROOT-0, dropped-3)
+dobj(dropped-3, it-4)
+amod(tile-7, ceramic-6)
+prep_on(dropped-3, tile-7)
+nsubj(scratch-13, it-9)
+aux(scratch-13, did-10)
+neg(scratch-13, not-11)
+advmod(scratch-13, even-12)
+conj_and(dropped-3, scratch-13)
+dobj(scratch-13, it-14)
+dep(scratch-13, lucky-16)
+
+=========
+
+nsubj(recommending-3, I-1)
+aux(recommending-3, am-2)
+root(ROOT-0, recommending-3)
+dobj(recommending-3, it-4)
+predet(friends-8, all-6)
+poss(friends-8, my-7)
+prep_to(recommending-3, friends-8)
+

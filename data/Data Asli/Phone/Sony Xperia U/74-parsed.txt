@@ -1,0 +1,21 @@
+=========
+
+root(ROOT-0, sent-1)
+nsubj(showed-4, jamaica-3)
+prepc_to(sent-1, showed-4)
+dobj(showed-4, it-5)
+prep_to(showed-4, me-7)
+amod(plays-10, skype-9)
+prep_on(showed-4, plays-10)
+det(phone-13, the-12)
+prep_with(plays-10, phone-13)
+advmod(day-16, almost-14)
+det(day-16, every-15)
+tmod(showed-4, day-16)
+advmod(time-22, thanks-18)
+dep(time-22, me-19)
+predet(time-22, all-20)
+det(time-22, the-21)
+prepc_to(sent-1, time-22)
+conj_and(showed-4, time-22)
+

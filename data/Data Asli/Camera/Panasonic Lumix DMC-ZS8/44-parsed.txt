@@ -1,0 +1,358 @@
+=========
+
+det(camera-2, This-1)
+nsubj(does-3, camera-2)
+root(ROOT-0, does-3)
+dobj(does-3, everything-4)
+dobj(needs-7, everything-4)
+det(camera-6, a-5)
+nsubj(needs-7, camera-6)
+xsubj(do-9, camera-6)
+rcmod(everything-4, needs-7)
+aux(do-9, to-8)
+xcomp(needs-7, do-9)
+
+=========
+
+nsubj(takes-2, It-1)
+root(ROOT-0, takes-2)
+amod(pictures-4, good-3)
+dobj(takes-2, pictures-4)
+det(price-7, the-6)
+prep_for(pictures-4, price-7)
+
+=========
+
+mark(looking-4, If-1)
+nsubj(looking-4, you-2)
+aux(looking-4, are-3)
+root(ROOT-0, looking-4)
+det(camera-9, a-6)
+dep(quality-8, higher-7)
+amod(camera-9, quality-8)
+prep_for(looking-4, camera-9)
+dep(looking-4, Get-11)
+det(DSLR-13, a-12)
+dobj(Get-11, DSLR-13)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(perfect-7, zoom-2)
+det(camera-5, this-4)
+prep_on(zoom-2, camera-5)
+cop(perfect-7, is-6)
+root(ROOT-0, perfect-7)
+
+=========
+
+nsubj(mean-2, I-1)
+root(ROOT-0, mean-2)
+nsubj(zoom-6, it-3)
+aux(zoom-6, can-4)
+advmod(zoom-6, always-5)
+ccomp(mean-2, zoom-6)
+dobj(zoom-6, more-7)
+det(photographer-11, any-9)
+amod(photographer-11, real-10)
+nsubj(knows-12, photographer-11)
+conj_but(mean-2, knows-12)
+mark(get-16, if-13)
+nsubj(get-16, you-14)
+aux(get-16, can-15)
+advcl(knows-12, get-16)
+advmod(get-16, closer-17)
+dep(get-16, Do-19)
+dobj(Do-19, that-20)
+
+=========
+
+advmod(has-3, Also-1)
+nsubj(has-3, it-2)
+root(ROOT-0, has-3)
+amod(features-5, good-4)
+dobj(has-3, features-5)
+
+=========
+
+prep_like(change-4, I-2)
+aux(change-4, can-3)
+root(ROOT-0, change-4)
+det(ISO-6, the-5)
+dep(change-4, ISO-6)
+det(stop-10, the-8)
+nn(stop-10, F-9)
+dep(change-4, stop-10)
+conj_and(ISO-6, stop-10)
+
+=========
+
+advmod(use-7, Honestly-1)
+prep_for(use-7, me-3)
+nsubj(use-7, I-4)
+advmod(use-7, really-5)
+advmod(use-7, just-6)
+root(ROOT-0, use-7)
+dobj(use-7, auto-8)
+poss(girlfriend-11, my-10)
+nsubj(using-16, girlfriend-11)
+aux(using-16, is-12)
+det(photographer-14, a-13)
+npadvmod(so-15, photographer-14)
+advmod(using-16, so-15)
+conj_but(use-7, using-16)
+dobj(using-16, auto-17)
+cop(option-21, is-18)
+neg(option-21, not-19)
+det(option-21, an-20)
+rcmod(auto-17, option-21)
+
+=========
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(fact-4, the-3)
+dobj(love-2, fact-4)
+complm(hold-8, that-5)
+nsubj(hold-8, I-6)
+aux(hold-8, can-7)
+ccomp(love-2, hold-8)
+det(button-11, the-9)
+nn(button-11, shutter-10)
+dobj(hold-8, button-11)
+nsubj(shows-14, it-13)
+conj_and(love-2, shows-14)
+dep(look-19, what-15)
+det(image-17, the-16)
+nsubj(look-19, image-17)
+aux(look-19, will-18)
+ccomp(shows-14, look-19)
+prep(look-19, like-20)
+
+=========
+
+nsubj(too-4, Its-1)
+advmod(too-4, pretty-2)
+advmod(too-4, fast-3)
+root(ROOT-0, too-4)
+
+=========
+
+advmod(remember-2, Also-1)
+root(ROOT-0, remember-2)
+nsubj(comes-5, speed-3)
+advmod(comes-5, also-4)
+ccomp(remember-2, comes-5)
+advmod(fast-8, how-7)
+dep(is-12, fast-8)
+poss(card-11, your-9)
+nn(card-11, memory-10)
+nsubj(is-12, card-11)
+prepc_from(comes-5, is-12)
+
+=========
+
+mark(have-3, If-1)
+nsubj(have-3, you-2)
+advcl(slow-13, have-3)
+det(card-7, a-4)
+amod(card-7, slow-5)
+nn(card-7, memory-6)
+dobj(have-3, card-7)
+det(camera-10, the-9)
+nsubj(slow-13, camera-10)
+aux(slow-13, will-11)
+cop(slow-13, be-12)
+root(ROOT-0, slow-13)
+advmod(slow-13, too-14)
+
+=========
+
+det(plus-2, Another-1)
+nsubj(is-3, plus-2)
+root(ROOT-0, is-3)
+complm(use-7, that-4)
+nsubj(use-7, it-5)
+aux(use-7, can-6)
+ccomp(is-3, use-7)
+det(card-12, a-8)
+num(card-12, 64-9)
+nn(card-12, gig-10)
+nn(card-12, memory-11)
+dobj(use-7, card-12)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+cc(wet-15, And-1)
+mark(am-4, while-2)
+nsubj(am-4, I-3)
+dep(wet-15, am-4)
+det(topic-7, the-6)
+prep_on(am-4, topic-7)
+nn(Falls-10, Niagara-9)
+prep_of(topic-7, Falls-10)
+det(camera-13, This-12)
+nsubj(wet-15, camera-13)
+dep(wet-15, got-14)
+root(ROOT-0, wet-15)
+det(falls-18, the-17)
+prep_from(wet-15, falls-18)
+
+=========
+
+cc(talking-5, And-1)
+nsubj(talking-5, I-2)
+aux(talking-5, am-3)
+neg(talking-5, not-4)
+root(ROOT-0, talking-5)
+advmod(dunked-7, about-6)
+dobj(talking-5, dunked-7)
+prep_in(talking-5, water-9)
+num(drop-12, one-11)
+prep_in(talking-5, drop-12)
+conj_or(water-9, drop-12)
+
+=========
+
+nsubj(wet-4, It-1)
+dep(wet-4, got-2)
+advmod(wet-4, pretty-3)
+root(ROOT-0, wet-4)
+
+=========
+
+nsubjpass(worried-3, I-1)
+auxpass(worried-3, was-2)
+root(ROOT-0, worried-3)
+det(water-5, the-4)
+nsubj(get-7, water-5)
+aux(get-7, would-6)
+ccomp(worried-3, get-7)
+det(lenses-10, the-9)
+prep_into(get-7, lenses-10)
+nsubj(did-13, it-12)
+conj_but(worried-3, did-13)
+neg(did-13, not-14)
+
+=========
+
+nsubj(works-3, Everything-1)
+advmod(works-3, still-2)
+root(ROOT-0, works-3)
+
+=========
+
+nsubj(recommend-4, I-1)
+aux(recommend-4, would-2)
+neg(recommend-4, not-3)
+root(ROOT-0, recommend-4)
+xcomp(recommend-4, doing-5)
+complm(worth-17, that-6)
+advmod(much-8, too-7)
+nsubj(worth-17, much-8)
+prep(much-8, but-9)
+det(pictures-12, the-10)
+amod(pictures-12, great-11)
+dep(but-9, pictures-12)
+dobj(got-14, pictures-12)
+nsubj(got-14, I-13)
+rcmod(pictures-12, got-14)
+cop(worth-17, were-15)
+advmod(worth-17, totally-16)
+ccomp(doing-5, worth-17)
+xcomp(worth-17, risking-18)
+det(camera-20, the-19)
+dobj(risking-18, camera-20)
+
+=========
+
+nn(cards-3, SD-2)
+nsubj(wont-4, cards-3)
+root(ROOT-0, wont-4)
+auxpass(affected-6, be-5)
+dep(wont-4, affected-6)
+agent(affected-6, water-8)
+advmod(long-10, as-9)
+advmod(waterproof-30, long-10)
+mark(read-16, as-11)
+nsubjpass(read-16, they-12)
+nsubjpass(written-18, they-12)
+aux(read-16, are-13)
+neg(read-16, not-14)
+auxpass(read-16, being-15)
+ccomp(long-10, read-16)
+ccomp(long-10, written-18)
+conj_or(read-16, written-18)
+advmod(wet-23, when-20)
+nsubj(wet-23, it-21)
+dep(wet-23, gets-22)
+prepc_to(read-16, wet-23)
+det(cards-27, some-25)
+nn(cards-27, SD-26)
+nsubj(waterproof-30, cards-27)
+cop(waterproof-30, are-28)
+advmod(waterproof-30, even-29)
+parataxis(affected-6, waterproof-30)
+prepc_depending_on(affected-6, on-33)
+advmod(buy-36, where-34)
+nsubj(buy-36, you-35)
+pcomp(affected-6, buy-36)
+dobj(buy-36, it-37)
+det(camera-39, this-38)
+nsubj(deal-44, camera-39)
+aux(deal-44, can-40)
+cop(deal-44, be-41)
+det(deal-44, an-42)
+amod(deal-44, amazing-43)
+dep(buy-36, deal-44)
+
+=========
+
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+dobj(got-2, it-3)
+poss(club-7, Sam-5)
+prep_at(got-2, club-7)
+nsubj(came-10, it-9)
+conj_and(got-2, came-10)
+det(card-16, a-12)
+num(card-16, 4-13)
+nn(card-16, gig-14)
+nn(card-16, sd-15)
+prep_with(came-10, card-16)
+
+=========
+
+prep_for(bad-7, free-2)
+nsubj(bad-7, that-3)
+cop(bad-7, 's-4)
+neg(bad-7, not-5)
+advmod(bad-7, too-6)
+root(ROOT-0, bad-7)
+
+=========
+
+cc(has-5, And-1)
+poss(club-4, Sam-2)
+nsubj(has-5, club-4)
+root(ROOT-0, has-5)
+amod(service-8, better-6)
+nn(service-8, customer-7)
+dobj(has-5, service-8)
+mark(better-24, so-9)
+predet(issues-12, all-10)
+det(issues-12, the-11)
+nsubj(better-24, issues-12)
+dep(people-14, you-13)
+nsubj(having-16, people-14)
+aux(having-16, are-15)
+rcmod(issues-12, having-16)
+amod(returns-18, with-17)
+dobj(having-16, returns-18)
+poss(club-22, Sam-20)
+dep(returns-18, club-22)
+cop(better-24, is-23)
+dep(service-8, better-24)
+

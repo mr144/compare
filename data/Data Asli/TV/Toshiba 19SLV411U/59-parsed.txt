@@ -1,0 +1,37 @@
+=========
+
+root(ROOT-0, Arrived-1)
+advmod(quickly-3, very-2)
+advmod(Arrived-1, quickly-3)
+advmod(set-7, easy-5)
+aux(set-7, to-6)
+conj_and(Arrived-1, set-7)
+prt(set-7, up-8)
+
+=========
+
+nsubj(picture-2, Outstanding-1)
+nsubj(notice-6, Outstanding-1)
+root(ROOT-0, picture-2)
+aux(notice-6, did-4)
+neg(notice-6, not-5)
+conj_and(picture-2, notice-6)
+dobj(notice-6, any-7)
+det(volume-10, the-9)
+prep_of(any-7, volume-10)
+conj_and(picture-2, sound-12)
+conj_or(notice-6, sound-12)
+nn(issues-14, level-13)
+dobj(sound-12, issues-14)
+complm(mentioned-18, that-15)
+amod(reviewers-17, other-16)
+nsubj(mentioned-18, reviewers-17)
+ccomp(sound-12, mentioned-18)
+
+=========
+
+root(ROOT-0, Good-1)
+dep(Good-1, price-2)
+dep(Good-1, value-4)
+conj_and(price-2, value-4)
+

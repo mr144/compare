@@ -1,0 +1,32 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+=========
+
+nsubj(want-4, I-1)
+xsubj(return-6, I-1)
+aux(want-4, do-2)
+neg(want-4, not-3)
+root(ROOT-0, want-4)
+aux(return-6, to-5)
+xcomp(want-4, return-6)
+det(product-8, the-7)
+dobj(return-6, product-8)
+mark(takes-11, because-9)
+nsubj(takes-11, it-10)
+advcl(return-6, takes-11)
+det(lot-13, a-12)
+dobj(takes-11, lot-13)
+poss(time-16, my-15)
+prep_of(lot-13, time-16)
+amod(time-20, next-19)
+nsubj(purchase-25, time-20)
+nsubj(purchase-25, I-21)
+aux(purchase-25, will-22)
+neg(purchase-25, not-23)
+advmod(purchase-25, definitely-24)
+conj_but(want-4, purchase-25)
+advmod(purchase-25, again-26)
+det(Solutions-30, The-28)
+nn(Solutions-30, Go-29)
+prep_on(purchase-25, Solutions-30)
+

@@ -1,0 +1,117 @@
+=========
+
+det(iPhone-2, The-1)
+nsubj(generation-7, iPhone-2)
+nsubjpass(introduced-13, iPhone-2)
+num(iPhone-2, 3G-3)
+cop(generation-7, is-4)
+det(generation-7, the-5)
+amod(generation-7, second-6)
+root(ROOT-0, generation-7)
+prep_of(generation-7, iPhone-9)
+auxpass(introduced-13, was-12)
+conj_and(generation-7, introduced-13)
+prep_on(introduced-13, June-15)
+num(June-15, 9-16)
+num(June-15, 2008-18)
+
+=========
+
+advmod(device-13, So-1)
+prep_as_of(device-13, May-4)
+num(May-4, 2013-5)
+nsubj(device-13, it-7)
+cop(device-13, is-8)
+det(device-13, a-9)
+number(old-12, 5-10)
+dep(old-12, year-11)
+amod(device-13, old-12)
+root(ROOT-0, device-13)
+
+=========
+
+nsubj(stte-3, It-1)
+cop(stte-3, was-2)
+root(ROOT-0, stte-3)
+det(art-6, the-5)
+prep_of(stte-3, art-6)
+prep_in(art-6, 2008-8)
+dep(anymore-11, not-10)
+dep(stte-3, anymore-11)
+
+=========
+
+nsubj(amazing-3, It-1)
+cop(amazing-3, is-2)
+root(ROOT-0, amazing-3)
+nsubj(is-5, it-4)
+ccomp(amazing-3, is-5)
+advmod(is-5, still-6)
+amod(10-9, top-8)
+prep_in(is-5, 10-9)
+
+=========
+
+dep(unlocked-4, Granted-1)
+nsubj(unlocked-4, this-2)
+cop(unlocked-4, is-3)
+root(ROOT-0, unlocked-4)
+nsubj(perform-9, it-7)
+aux(perform-9, will-8)
+conj_but(unlocked-4, perform-9)
+advmod(slow-11, really-10)
+acomp(perform-9, slow-11)
+amod(apps-14, modern-13)
+prep_with(perform-9, apps-14)
+
+=========
+
+dep(battery-3, And-1)
+det(battery-3, the-2)
+root(ROOT-0, battery-3)
+
+=========
+
+root(ROOT-0, Beware-1)
+prep_of(Beware-1, that-3)
+advmod(Beware-1, also-4)
+
+=========
+
+mark(going-4, If-1)
+nsubj(going-4, you-2)
+aux(going-4, are-3)
+advcl(buy-18, going-4)
+prep_to(going-4, browse\/email-6)
+prep_to(going-4, yes-9)
+advmod(browse\/email-6, yes-9)
+conj_and(browse\/email-6, yes-9)
+dep(browse\/email-6, phone-10)
+xcomp(going-4, using-11)
+det(device-13, this-12)
+dobj(using-11, device-13)
+nsubj(buy-18, it-14)
+cop(buy-18, is-15)
+det(buy-18, a-16)
+amod(buy-18, good-17)
+root(ROOT-0, buy-18)
+prep_after(buy-18, all-20)
+
+=========
+
+aux(expect-3, do-1)
+neg(expect-3, not-2)
+root(ROOT-0, expect-3)
+aux(play-5, to-4)
+xcomp(expect-3, play-5)
+det(car-9, the-6)
+amod(car-9, high-7)
+nn(car-9, adrenaline-8)
+dobj(play-5, car-9)
+xcomp(play-5, racing-10)
+dobj(racing-10, games-11)
+det(phone-14, this-13)
+prep_with(racing-10, phone-14)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE

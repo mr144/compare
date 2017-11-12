@@ -1,0 +1,210 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+
+=========
+
+det(photos-2, The-1)
+nsubj(high-5, photos-2)
+cop(high-5, are-3)
+advmod(high-5, very-4)
+root(ROOT-0, high-5)
+nsubj(has-10, quality-6)
+det(camera-9, the-8)
+conj_and(quality-6, camera-9)
+nsubj(has-10, camera-9)
+ccomp(high-5, has-10)
+amod(features-13, many-11)
+amod(features-13, great-12)
+dobj(has-10, features-13)
+advmod(well-15, as-14)
+mwe(well-15, as-14)
+advmod(has-10, well-15)
+
+=========
+
+det(zoom-2, The-1)
+nsubj(useful-5, zoom-2)
+cop(useful-5, is-3)
+advmod(useful-5, especially-4)
+root(ROOT-0, useful-5)
+
+=========
+
+det(photos-2, The-1)
+nsubj(came-3, photos-2)
+root(ROOT-0, came-3)
+prt(came-3, out-4)
+advmod(clear-6, very-5)
+acomp(came-3, clear-6)
+advmod(came-3, even-7)
+det(setting-12, the-9)
+amod(setting-12, 18x-10)
+amod(setting-12, zoom-11)
+prep_on(even-7, setting-12)
+
+=========
+
+advmod(easy-2, Very-1)
+root(ROOT-0, easy-2)
+aux(operate-4, to-3)
+dep(easy-2, operate-4)
+dep(easy-2, fairly-6)
+conj_and(operate-4, fairly-6)
+amod(weight-8, light-7)
+dobj(operate-4, weight-8)
+
+=========
+
+mark(takes-3, Though-1)
+nsubj(takes-3, it-2)
+advcl(lasts-7, takes-3)
+num(batteries-5, four-4)
+dobj(takes-3, batteries-5)
+nsubj(lasts-7, it-6)
+root(ROOT-0, lasts-7)
+advmod(time-11, quite-8)
+det(time-11, a-9)
+amod(time-11, long-10)
+dobj(lasts-7, time-11)
+
+=========
+
+det(cons-2, The-1)
+nsubj(size-5, cons-2)
+cop(size-5, are-3)
+det(size-5, the-4)
+root(ROOT-0, size-5)
+nn(cord-9, studio-7)
+amod(cord-9, USB-8)
+appos(size-5, cord-9)
+
+=========
+
+prep(large-10, As-1)
+pcomp(As-1, far-2)
+det(size-5, the-4)
+prep_as(far-2, size-5)
+nsubj(large-10, it-7)
+cop(large-10, is-8)
+advmod(large-10, rather-9)
+root(ROOT-0, large-10)
+mark(have-13, so-11)
+nsubj(have-13, I-12)
+advcl(large-10, have-13)
+det(time-16, a-14)
+amod(time-16, hard-15)
+dobj(have-13, time-16)
+partmod(time-16, carrying-17)
+dobj(carrying-17, it-18)
+prt(carrying-17, around-19)
+poss(handbag-22, my-21)
+prep_in(carrying-17, handbag-22)
+prepc_without(carrying-17, leaving-24)
+xcomp(leaving-24, removing-25)
+det(items-27, some-26)
+dobj(removing-25, items-27)
+
+=========
+
+advmod(good-7, Where-1)
+det(studio-3, the-2)
+dobj(came-5, studio-3)
+nsubj(good-7, studio-3)
+nsubj(came-5, it-4)
+rcmod(studio-3, came-5)
+cop(good-7, is-6)
+advcl(had-10, good-7)
+nsubj(had-10, I-9)
+root(ROOT-0, had-10)
+dobj(had-10, troubles-11)
+partmod(troubles-11, installing-12)
+dobj(installing-12, it-13)
+prep_at(installing-12, first-15)
+
+=========
+
+nsubj(ended-2, I-1)
+root(ROOT-0, ended-2)
+prt(ended-2, up-3)
+xcomp(ended-2, having-4)
+aux(re-install-6, to-5)
+xcomp(having-4, re-install-6)
+nsubj(due-8, it-7)
+xcomp(re-install-6, due-8)
+prep_to(due-8, issues-10)
+prepc_with(issues-10, opening-12)
+det(studio-14, the-13)
+dobj(opening-12, studio-14)
+
+=========
+
+det(cord-3, The-1)
+amod(cord-3, USB-2)
+nsubj(short-6, cord-3)
+cop(short-6, is-4)
+advmod(short-6, pretty-5)
+root(ROOT-0, short-6)
+prep(short-6, as-7)
+pcomp(as-7, well-8)
+
+=========
+
+nsubj(length-5, It-1)
+nsubj(reaches-9, It-1)
+cop(length-5, 's-2)
+det(length-5, the-3)
+amod(length-5, right-4)
+root(ROOT-0, length-5)
+advmod(length-5, just-7)
+conj_but(length-5, just-7)
+advmod(reaches-9, barely-8)
+conj_but(length-5, reaches-9)
+advmod(reaches-9, out-10)
+poss(drive-14, my-12)
+amod(drive-14, hard-13)
+prep_beyond(reaches-9, drive-14)
+
+=========
+
+nsubj(have-2, I-1)
+xsubj(set-4, I-1)
+root(ROOT-0, have-2)
+aux(set-4, to-3)
+xcomp(have-2, set-4)
+det(camera-6, the-5)
+dobj(set-4, camera-6)
+poss(drive-10, my-8)
+amod(drive-10, hard-9)
+prep_on(set-4, drive-10)
+prep_on(set-4, floor-12)
+conj_or(drive-10, floor-12)
+poss(desk-17, my-16)
+prep_on(set-4, desk-17)
+conj_negcc(drive-10, desk-17)
+
+=========
+
+advmod(camera-6, overall-2)
+nsubj(camera-6, it-3)
+nsubj(easy-9, it-3)
+xsubj(use-11, it-3)
+cop(camera-6, is-4)
+amod(camera-6, handy-5)
+root(ROOT-0, camera-6)
+advmod(easy-9, very-8)
+conj_and(camera-6, easy-9)
+aux(use-11, to-10)
+xcomp(camera-6, use-11)
+
+=========
+
+root(ROOT-0, Great-1)
+prep_for(Great-1, amateurs\/beginners-3)
+prep_for(Great-1, hobby-photographers-5)
+conj_or(amateurs\/beginners-3, hobby-photographers-5)
+

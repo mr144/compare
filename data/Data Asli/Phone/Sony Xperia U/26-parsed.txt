@@ -1,0 +1,65 @@
+=========
+
+mark(looking-5, With-1)
+nsubj(looking-5, you-2)
+aux(looking-5, are-3)
+neg(looking-5, not-4)
+advcl(choice-19, looking-5)
+det(latest-8, the-7)
+prep_for(looking-5, latest-8)
+appos(latest-8, fastest-10)
+amod(cellphone-14, super-12)
+amod(cellphone-14, powerfull-13)
+appos(fastest-10, cellphone-14)
+nsubj(choice-19, this-16)
+cop(choice-19, is-17)
+poss(choice-19, your-18)
+root(ROOT-0, choice-19)
+
+=========
+
+nsubj(got-2, It-1)
+root(ROOT-0, got-2)
+amod(looks-4, great-3)
+nsubj(let-10, looks-4)
+amod(capacity-7, enough-6)
+conj_and(looks-4, capacity-7)
+nsubj(let-10, capacity-7)
+aux(let-10, to-8)
+neg(let-10, not-9)
+xcomp(got-2, let-10)
+dobj(let-10, anyone-11)
+prt(let-10, down-12)
+
+=========
+
+nsubj(stunned-8, Its-1)
+neg(expensive-3, not-2)
+amod(Its-1, expensive-3)
+poss(girlfriend-6, my-5)
+conj_and(Its-1, girlfriend-6)
+nsubj(stunned-8, girlfriend-6)
+cop(stunned-8, was-7)
+root(ROOT-0, stunned-8)
+aux(change-10, to-9)
+xcomp(stunned-8, change-10)
+poss(dumbphone-13, her-11)
+amod(dumbphone-13, previous-12)
+dobj(change-10, dumbphone-13)
+det(one-16, this-15)
+prep_for(change-10, one-16)
+
+=========
+
+mark(looking-4, If-1)
+nsubj(looking-4, you-2)
+aux(looking-4, are-3)
+advcl(choice-14, looking-4)
+prep_for(looking-4, something-6)
+prep_like(something-6, that-8)
+nsubj(choice-14, this-10)
+cop(choice-14, is-11)
+det(choice-14, a-12)
+amod(choice-14, great-13)
+root(ROOT-0, choice-14)
+

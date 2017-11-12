@@ -1,0 +1,51 @@
+=========
+
+det(cellphone-2, This-1)
+nsubj(purchase-6, cellphone-2)
+cop(purchase-6, is-3)
+det(purchase-6, an-4)
+amod(purchase-6, excellent-5)
+root(ROOT-0, purchase-6)
+
+=========
+
+nsubj(said-3, I-1)
+aux(said-3, must-2)
+root(ROOT-0, said-3)
+complm(satisfied-11, that-4)
+det(customer-7, a-6)
+prep_as(satisfied-11, customer-7)
+nsubj(satisfied-11, I-8)
+cop(satisfied-11, am-9)
+advmod(satisfied-11, really-10)
+ccomp(said-3, satisfied-11)
+det(cellphone-14, the-13)
+prep_with(satisfied-11, cellphone-14)
+ccomp(satisfied-11, has-16)
+ccomp(has-16, improve-17)
+det(way-19, the-18)
+dobj(improve-17, way-19)
+dobj(comunicate-21, way-19)
+nsubj(comunicate-21, I-20)
+rcmod(way-19, comunicate-21)
+poss(environment-24, my-23)
+prep_with(comunicate-21, environment-24)
+
+=========
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+num(month-4, 1-3)
+dobj(had-2, month-4)
+det(cellphone-7, this-6)
+prep_with(month-4, cellphone-7)
+det(kind-10, any-9)
+prep_without(had-2, kind-10)
+prep_of(kind-10, complaints-12)
+
+=========
+
+num(%-2, 100-1)
+nsubj(recommended-3, %-2)
+root(ROOT-0, recommended-3)
+

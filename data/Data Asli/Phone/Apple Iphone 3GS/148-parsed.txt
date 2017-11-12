@@ -1,0 +1,23 @@
+=========
+
+advmod(good-2, Very-1)
+ccomp(works-9, good-2)
+nsubj(works-9, arrive-4)
+prep_on(arrive-4, time-6)
+prep_on(arrive-4, everything-8)
+conj_and(time-6, everything-8)
+root(ROOT-0, works-9)
+dobj(works-9, ok-10)
+det(Phone-15, the-13)
+nn(Phone-15, I-14)
+nsubj(great-18, Phone-15)
+cop(great-18, is-16)
+advmod(great-18, just-17)
+conj_and(works-9, great-18)
+advmod(great-18, Partner-19)
+aux(live-21, to-20)
+xcomp(great-18, live-21)
+xcomp(great-18, work-23)
+conj_and(live-21, work-23)
+prep(live-21, with-24)
+

@@ -1,0 +1,23 @@
+=========
+
+nsubj(camera-5, This-1)
+cop(camera-5, is-2)
+det(camera-5, a-3)
+amod(camera-5, great-4)
+root(ROOT-0, camera-5)
+amod(photos-8, good-7)
+appos(camera-5, photos-8)
+amod(video-11, good-10)
+appos(camera-5, video-11)
+dep(camera-5, i-13)
+prep_like(camera-5, it-15)
+advmod(much-17, so-16)
+advmod(camera-5, much-17)
+nsubj(recomend-21, Very-20)
+parataxis(camera-5, recomend-21)
+mark(begin-23, for-22)
+advcl(recomend-21, begin-23)
+det(world-27, the-25)
+nn(world-27, photography-26)
+prep_in(begin-23, world-27)
+

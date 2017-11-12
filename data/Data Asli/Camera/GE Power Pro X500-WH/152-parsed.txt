@@ -1,0 +1,208 @@
+=========
+
+nsubj(starting-3, I-1)
+aux(starting-3, am-2)
+root(ROOT-0, starting-3)
+det(review-7, this-4)
+num(review-7, 1-5)
+nn(review-7, star-6)
+dobj(starting-3, review-7)
+advmod(starting-3, off-8)
+prepc_by(starting-3, saying-10)
+nsubj(loved-12, I-11)
+ccomp(saying-10, loved-12)
+det(camera-14, this-13)
+dobj(loved-12, camera-14)
+
+=========
+
+nsubj(brought-2, I-1)
+nsubj(began-8, I-1)
+root(ROOT-0, brought-2)
+dobj(brought-2, it-3)
+amod(5th-6, June-4)
+amod(it-3, 5th-6)
+conj_and(brought-2, began-8)
+xcomp(began-8, using-9)
+dobj(using-9, it-10)
+prep_in(using-9, mid-July-12)
+mark(got-15, after-13)
+nsubj(got-15, I-14)
+advcl(using-9, got-15)
+det(batteries-18, the-16)
+amod(batteries-18, rechargeable-17)
+dobj(got-15, batteries-18)
+det(card-22, a-20)
+nn(card-22, memory-21)
+dobj(got-15, card-22)
+conj_and(batteries-18, card-22)
+
+=========
+
+nsubj(took-2, I-1)
+root(ROOT-0, took-2)
+det(ton-4, a-3)
+dobj(took-2, ton-4)
+amod(pictures-7, beautiful-6)
+prep_of(ton-4, pictures-7)
+
+=========
+
+cc(broke-10, And-1)
+advmod(right-3, then-2)
+advmod(broke-10, right-3)
+det(mark-8, the-5)
+num(mark-8, 3-6)
+nn(mark-8, month-7)
+prep_at(broke-10, mark-8)
+nsubj(broke-10, it-9)
+root(ROOT-0, broke-10)
+
+=========
+
+det(software-2, The-1)
+nsubj(is-5, software-2)
+conj_or(software-2, whatever-4)
+nsubj(is-5, whatever-4)
+root(ROOT-0, is-5)
+mark(went-9, in-6)
+det(things-8, these-7)
+nsubj(went-9, things-8)
+advcl(is-5, went-9)
+acomp(went-9, crazy-10)
+
+=========
+
+nsubj(began-2, It-1)
+nsubj(stay-14, It-1)
+root(ROOT-0, began-2)
+xcomp(began-2, switching-3)
+advmod(switching-3, rapidly-4)
+num(program-7, one-6)
+prep_from(switching-3, program-7)
+det(next-10, the-9)
+prep_to(program-7, next-10)
+aux(stay-14, would-12)
+neg(stay-14, not-13)
+conj_and(began-2, stay-14)
+num(mode-17, one-16)
+prep_in(stay-14, mode-17)
+
+=========
+
+nsubj(stopped-2, I-1)
+root(ROOT-0, stopped-2)
+dobj(stopped-2, focus-3)
+advmod(did-7, when-5)
+nsubj(did-7, it-6)
+advcl(went-18, did-7)
+csubj(went-18, did-7)
+ccomp(did-7, focus-8)
+det(colors-10, the-9)
+nsubj(skewed-12, colors-10)
+advmod(skewed-12, severely-11)
+xcomp(focus-8, skewed-12)
+det(whole-15, the-14)
+nsubj(think-16, whole-15)
+conj_and(did-7, think-16)
+advcl(went-18, think-16)
+csubj(went-18, think-16)
+advmod(think-16, just-17)
+conj_and(stopped-2, went-18)
+acomp(went-18, crazy-19)
+prep(crazy-19, at-20)
+pcomp(at-20, once-21)
+
+=========
+
+nsubj(sent-3, I-1)
+aux(sent-3, have-2)
+root(ROOT-0, sent-3)
+dobj(sent-3, it-4)
+advmod(sent-3, back-5)
+prep_to(back-5, Amazon-7)
+det(refund-11, a-9)
+amod(refund-11, partial-10)
+prep_for(sent-3, refund-11)
+
+=========
+
+nsubj(stupid-4, I-1)
+cop(stupid-4, am-2)
+neg(stupid-4, not-3)
+root(ROOT-0, stupid-4)
+advmod(stupid-4, enough-5)
+aux(attempt-7, to-6)
+xcomp(stupid-4, attempt-7)
+det(warranty-10, a-8)
+nn(warranty-10, manufacturer-9)
+dobj(attempt-7, warranty-10)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+dobj(think-2, something-3)
+nsubj(make-7, that-5)
+aux(make-7, would-6)
+prepc_like(think-2, make-7)
+nsubj(crazy-9, me-8)
+xcomp(make-7, crazy-9)
+
+=========
+
+nsubj(liked-2, I-1)
+nsubj(hope-15, I-1)
+root(ROOT-0, liked-2)
+det(camera-4, the-3)
+dobj(liked-2, camera-4)
+advmod(much-6, so-5)
+advmod(liked-2, much-6)
+dep(purchase-11, that-7)
+nsubj(purchase-11, I-8)
+aux(purchase-11, might-9)
+advmod(purchase-11, just-10)
+ccomp(much-6, purchase-11)
+det(one-13, another-12)
+dobj(purchase-11, one-13)
+conj_and(liked-2, hope-15)
+nsubj(lasts-17, it-16)
+ccomp(hope-15, lasts-17)
+
+=========
+
+nsubj(think-2, I-1)
+dep(give-11, think-2)
+mark(purchase-5, if-3)
+nsubj(purchase-5, I-4)
+advcl(think-2, purchase-5)
+dobj(purchase-5, it-6)
+prep_at(purchase-5, Wal-mart-8)
+nsubj(give-11, they-9)
+aux(give-11, will-10)
+root(ROOT-0, give-11)
+iobj(give-11, me-12)
+det(refund-15, a-13)
+amod(refund-15, full-14)
+dobj(give-11, refund-15)
+prep(give-11, with-16)
+pcomp(with-16, in-17)
+det(year-19, a-18)
+prep_in(with-16, year-19)
+
+=========
+
+nsubj(think-2, I-1)
+root(ROOT-0, think-2)
+
+=========
+
+nsubj(camera-5, It-1)
+cop(camera-5, was-2)
+det(camera-5, a-3)
+amod(camera-5, nice-4)
+ccomp(miss-8, camera-5)
+nsubj(miss-8, I-7)
+root(ROOT-0, miss-8)
+dobj(miss-8, it-9)
+

@@ -1,0 +1,36 @@
+=========
+
+nsubj(has-2, Camera-1)
+root(ROOT-0, has-2)
+amod(features-4, great-3)
+dobj(has-2, features-4)
+det(screen-9, the-6)
+amod(screen-9, flip-7)
+nn(screen-9, out-8)
+nsubj(a-11, screen-9)
+cop(a-11, is-10)
+conj_and(has-2, a-11)
+aux(have-13, must-12)
+rcmod(a-11, have-13)
+
+=========
+
+aux(gave-3, Would-1)
+aux(gave-3, have-2)
+csubj(good-14, gave-3)
+iobj(gave-3, it-4)
+num(stars-6, 5-5)
+dobj(gave-3, stars-6)
+det(life-10, the-8)
+nn(life-10, battery-9)
+prep_except(stars-6, life-10)
+cop(good-14, is-11)
+neg(good-14, not-12)
+advmod(good-14, very-13)
+root(ROOT-0, good-14)
+mark(thing-19, if-15)
+nsubj(thing-19, video-16)
+cop(thing-19, is-17)
+poss(thing-19, your-18)
+advcl(good-14, thing-19)
+

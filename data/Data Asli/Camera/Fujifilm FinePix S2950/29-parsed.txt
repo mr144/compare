@@ -1,0 +1,65 @@
+=========
+
+nsubj(like-4, I-1)
+aux(like-4, do-2)
+neg(like-4, not-3)
+root(ROOT-0, like-4)
+det(camera-6, this-5)
+dobj(like-4, camera-6)
+
+=========
+
+root(ROOT-0, Takes-1)
+amod(pictures-3, dark-2)
+dobj(Takes-1, pictures-3)
+advmod(when-5, even-4)
+advmod(turn-8, when-5)
+nsubj(turn-8, you-6)
+advmod(turn-8, manually-7)
+dep(pictures-3, turn-8)
+det(flash-10, the-9)
+dobj(turn-8, flash-10)
+prt(turn-8, on-11)
+
+=========
+
+advmod(hard-2, Very-1)
+root(ROOT-0, hard-2)
+aux(get-4, to-3)
+dep(hard-2, get-4)
+det(picture-7, a-5)
+amod(picture-7, good-6)
+dobj(get-4, picture-7)
+
+=========
+
+nsubj(tried-2, I-1)
+xsubj(return-4, I-1)
+ccomp(tell-9, tried-2)
+aux(return-4, to-3)
+xcomp(tried-2, return-4)
+prep_to(return-4, Fuji-6)
+nsubj(tell-9, they-8)
+root(ROOT-0, tell-9)
+nsubj(wrong-13, me-10)
+advmod(wrong-13, nothing-11)
+cop(wrong-13, is-12)
+ccomp(tell-9, wrong-13)
+det(camera-16, the-15)
+prep_with(wrong-13, camera-16)
+mark(stuck-20, so-17)
+nsubjpass(stuck-20, I-18)
+auxpass(stuck-20, am-19)
+advcl(wrong-13, stuck-20)
+prep_with(stuck-20, it-22)
+
+=========
+
+nsubj(buy-4, I-1)
+aux(buy-4, will-2)
+neg(buy-4, never-3)
+root(ROOT-0, buy-4)
+det(product-7, another-5)
+nn(product-7, Fuji-6)
+dobj(buy-4, product-7)
+
