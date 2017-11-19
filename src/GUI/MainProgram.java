@@ -30,6 +30,7 @@ import java.util.Arrays;
 import jxl.*;
 import jxl.write.*;
 import similarity.Jaccard;
+import similarity.SynonimFeatures;
 
 public class MainProgram extends javax.swing.JFrame {
 
@@ -47,6 +48,7 @@ public class MainProgram extends javax.swing.JFrame {
     Map<String, Double> logFF = new HashMap<String, Double>();
     Map<String, Double> IDF = new HashMap<String, Double>();
     Map<String, Double> IDF_prob = new HashMap<String, Double>();
+    Map<String, String[]> sinonim_features = new HashMap<String, String[]>();
 
     public MainProgram() {
 
@@ -480,6 +482,21 @@ public class MainProgram extends javax.swing.JFrame {
             gsfcsf2 = proc.Bandingkan(gsf10, produk1);
             data_produk2 = gsf10;
         }
+        
+        //baca file synonim-features
+        if (domain.equalsIgnoreCase("camera")) {
+            sinonim_features = SynonimFeatures.getSynonim("camera");
+        }
+        else if (domain.equalsIgnoreCase("phone")) {
+            sinonim_features = SynonimFeatures.getSynonim("phone");
+        }
+        else if (domain.equalsIgnoreCase("tv")) {
+            sinonim_features = SynonimFeatures.getSynonim("tv");
+        }
+        
+        /*for (Map.Entry entry : sinonim_features.entrySet()) {
+            System.out.println(entry.getKey() + ", " + entry.getValue());
+        }*/
 
         //memasukkan fitur yang sama
         proc.crossCheck(gsfcsf1, gsfcsf2);
@@ -512,168 +529,374 @@ public class MainProgram extends javax.swing.JFrame {
             k++;
         }
         
-        //cari similarity dan hitung nilai GFSs
-        Map<String, nilai_gsf_csf> new_katgsfcsf1 = katgsfcsf1;
-        Map<String, nilai_gsf_csf> new_katgsfcsf2 = katgsfcsf2;
+        //update kategori berdasarkan sinonim
+        Map<String, nilai_gsf_csf> katgsfcsf1_versi2 = new HashMap<String, nilai_gsf_csf>();
+        Map<String, nilai_gsf_csf> katgsfcsf2_versi2 = new HashMap<String, nilai_gsf_csf>();
         
-        //produk 1
-        int j2 = 4;
-        List<String> list_fitur = new ArrayList<String>();;
-        for (Map.Entry<String, nilai_gsf_csf> sim_produk1 : new_katgsfcsf1.entrySet()) {
-            String fitur = sim_produk1.getKey();
-            nilai_gsf_csf value = sim_produk1.getValue();
+        for (Map.Entry<String, nilai_gsf_csf> entry : katgsfcsf1.entrySet()) {
+            String fitur = entry.getKey();
+            nilai_gsf_csf value = entry.getValue();
+            int ketemu = 0;
             
-            double gsfs = 0;
-            
-            for (Map.Entry<String, Double> entry : data_produk1.entrySet()) {
-                try {
-                    String fitur_global     = entry.getKey();
-                    Double value2    = entry.getValue();
-                    System.out.println("Produk 1 cek: "+fitur_global+" = "+value2);
-                    
-                    if(list_fitur != null){
-                        for (String s : list_fitur) {
-                            if(fitur_global == s){
-                                System.out.println("GK DICEK");
-                                break;
-                            }
+            for (Map.Entry<String, String[]> entry2 : sinonim_features.entrySet()) {
+                String fitur_utama   = entry2.getKey();
+                String[] arr_fitur     = entry2.getValue();
+//                System.out.println("cek fitur "+ fitur_utama);
+                //cek apakah penamaan fitur sama dengan di arr_fitur
+                for (int i = 0; i < arr_fitur.length; i++) {
+//                    System.out.println("isinya "+ arr_fitur[i]+ " ? "+fitur);
+                    if(fitur.equals(arr_fitur[i])){
+//                        System.out.println("fitur "+ fitur +" sama dengan "+arr_fitur[i] + " menjadi "+fitur_utama);
+                        if(katgsfcsf1_versi2.containsKey(fitur_utama)){
+                            double gsf_lama = value.gsf;
+                            double csf_lama = value.csf;
+                            double gsf_ada = katgsfcsf1_versi2.get(fitur_utama).gsf;
+                            double csf_ada = katgsfcsf1_versi2.get(fitur_utama).csf;
+                            double gsf_baru = gsf_lama + gsf_ada;
+                            double csf_baru = csf_lama + csf_ada;
+                            nilai_gsf_csf nilai_baru = new nilai_gsf_csf(gsf_baru, csf_baru);                            
+                            katgsfcsf1_versi2.put(fitur_utama, nilai_baru);
                         }
+                        else{
+                            katgsfcsf1_versi2.put(fitur_utama, value);
+                        }
+                        
+                        ketemu = 1;
+                        break;
                     }
-                    
-                    
-                    //cek string similarity dengan jaccard
-                    Jaccard ja = new Jaccard(3);
-                    System.out.println("CEK "+fitur + ", "+ fitur_global);
-                    double similarity_check = ja.similarity(fitur, fitur_global);
-                    if(similarity_check >= 0.3){
-                        gsfs = gsfs + (similarity_check * value2);
-                        System.out.println(fitur+" GSFS= "+gsfs);
-                        list_fitur.add(fitur_global); 
-                    }
-                } catch (Exception e) {
-                    System.out.println("error1"+e);
+                }
+                
+                if(ketemu==1){
+                    break;
                 }
             }
             
-            //update nilai gfs
-            nilai_gsf_csf new_value = new nilai_gsf_csf(gsfs, value.csf);
-            new_katgsfcsf1.put(fitur, new_value);
-            System.out.println("Produk 1 fitur:"+fitur+" = "+gsfs);
-            Label lblGSFs = new Label(2, j2, new_value.gsf.toString());
-            sheet.addCell(lblGSFs);
-            j2++;
+            if(ketemu == 0){ //tidak cocok
+                katgsfcsf1_versi2.put(fitur, value);
+            }
         }
         
-        //produk 2
-        int k2 = 4;
-        List<String> list_fitur2 = new ArrayList<String>();;
-        for (Map.Entry<String, nilai_gsf_csf> sim_produk2 : new_katgsfcsf2.entrySet()) {
-            String fitur = sim_produk2.getKey();
-            nilai_gsf_csf value = sim_produk2.getValue();
+        for (Map.Entry<String, nilai_gsf_csf> entry : katgsfcsf2.entrySet()) {
+            String fitur = entry.getKey();
+            nilai_gsf_csf value = entry.getValue();
+            int ketemu = 0;
             
-            double gsfs = 0;
-            
-            for (Map.Entry<String, Double> entry : data_produk2.entrySet()) {
-                try {
-                    String fitur_global     = entry.getKey();
-                    Double value2    = entry.getValue();
-                    System.out.println("Produk 2 cek: "+fitur_global+" = "+value2);
-                    
-                    if(list_fitur2 != null){
-                        for (String s : list_fitur2) {
-                            if(fitur_global == s){
-                                System.out.println("GK DICEK");
-                                break;
-                            }
+            for (Map.Entry<String, String[]> entry2 : sinonim_features.entrySet()) {
+                String fitur_utama   = entry2.getKey();
+                String[] arr_fitur     = entry2.getValue();
+//                System.out.println("cek fitur "+ fitur_utama);
+                //cek apakah penamaan fitur sama dengan di arr_fitur
+                for (int i = 0; i < arr_fitur.length; i++) {
+//                    System.out.println("isinya "+ arr_fitur[i]+ " ? "+fitur);
+                    if(fitur.equals(arr_fitur[i])){
+//                        System.out.println("fitur "+ fitur +" sama dengan "+arr_fitur[i] + " menjadi "+fitur_utama);
+                        if(katgsfcsf2_versi2.containsKey(fitur_utama)){
+                            double gsf_lama = value.gsf;
+                            double csf_lama = value.csf;
+                            double gsf_ada = katgsfcsf2_versi2.get(fitur_utama).gsf;
+                            double csf_ada = katgsfcsf2_versi2.get(fitur_utama).csf;
+                            double gsf_baru = gsf_lama + gsf_ada;
+                            double csf_baru = csf_lama + csf_ada;
+                            nilai_gsf_csf nilai_baru = new nilai_gsf_csf(gsf_baru, csf_baru);                            
+                            katgsfcsf2_versi2.put(fitur_utama, nilai_baru);
                         }
+                        else{
+                            katgsfcsf2_versi2.put(fitur_utama, value);
+                        }
+                        
+                        ketemu = 1;
+                        break;
                     }
-                    
-                    
-                    //cek string similarity dengan jaccard
-                    Jaccard ja = new Jaccard(3);
-                    System.out.println("CEK "+fitur + ", "+ fitur_global);
-                    double similarity_check = ja.similarity(fitur, fitur_global);
-                    if(similarity_check >= 0.3){
-                        gsfs = gsfs + (similarity_check * value2);
-                        System.out.println(fitur+" GSFS= "+gsfs);
-                        list_fitur2.add(fitur_global); 
-                    }
-                } catch (Exception e) {
-                    System.out.println("error2"+e);
+                }
+                
+                if(ketemu==1){
+                    break;
                 }
             }
             
-            //update nilai gfs
-            nilai_gsf_csf new_value = new nilai_gsf_csf(gsfs, value.csf);
-            new_katgsfcsf2.put(fitur, new_value);
-            System.out.println("Produk 2 fitur:"+fitur+" = "+gsfs);
-            Label lblGSFs = new Label(7, k2, new_value.gsf.toString());
-            sheet.addCell(lblGSFs);
-            k2++;
+            if(ketemu == 0){ //tidak cocok
+                katgsfcsf2_versi2.put(fitur, value);
+            }
         }
 
-//=== Proses Normalisasi Dan Penggabungan Skor Fitur Produk ====================
-//====== Normalisasi Skor GSF ==================================================
-        proc.hitungMaxMin(new_katgsfcsf1);
-        new_katgsfcsf1 = proc.normalisasiGSF(new_katgsfcsf1);
-        proc.hitungMaxMin(new_katgsfcsf2);
-        new_katgsfcsf2 = proc.normalisasiGSF(new_katgsfcsf2);
-//====== Normalisasi Skor CSF ==================================================
-        Map<String, Double> norm1 = proc.normalisasi(new_katgsfcsf1);
-        Map<String, Double> norm2 = proc.normalisasi(new_katgsfcsf2);
-//====== Proses Perbandingan Skor Kedua Fitur ==================================
-        List<hasil_compare> lhc = proc.BandingkanAkhir(norm1, norm2);
-//=============================== End ==========================================
-
+        //buat map fitur_sama, dan fitur_beda antara 2 produk
+        Map<String, nilai_gsf_csf> fitur_sama1 = new HashMap<String, nilai_gsf_csf>();
+        Map<String, nilai_gsf_csf> fitur_sama2 = new HashMap<String, nilai_gsf_csf>();
+        Map<String, nilai_gsf_csf> fitur_beda1 = new HashMap<String, nilai_gsf_csf>();
+        Map<String, nilai_gsf_csf> fitur_beda2 = new HashMap<String, nilai_gsf_csf>();
+        
+        for (Map.Entry<String, nilai_gsf_csf> entry : katgsfcsf1_versi2.entrySet()) {
+            String fitur_p1 = entry.getKey();
+            nilai_gsf_csf value_p1 = entry.getValue();
+            int ketemu = 0;
+            
+            for (Map.Entry<String, nilai_gsf_csf> entry2 : katgsfcsf2_versi2.entrySet()) {
+                String fitur_p2 = entry2.getKey();
+                nilai_gsf_csf value_p2 = entry2.getValue();
+                
+                //jika fitur sama maka masuk
+                if(fitur_p1.equals(fitur_p2)){
+                    fitur_sama1.put(fitur_p1, value_p1);
+                    fitur_sama2.put(fitur_p2, value_p2);
+                    ketemu = 1;
+                    break;
+                }
+            }
+            
+            //jika gk ada yang sama maka masuk fitur_beda1
+            if(ketemu == 0){
+                fitur_beda1.put(fitur_p1, value_p1);
+            }
+        }
+        
+        //cari fitur_beda2
+        for (Map.Entry<String, nilai_gsf_csf> entry : katgsfcsf2_versi2.entrySet()) {
+            String fitur_p2 = entry.getKey();
+            nilai_gsf_csf value_p2 = entry.getValue();
+            int ketemu = 0;
+            
+            for (Map.Entry<String, nilai_gsf_csf> entry2 : fitur_sama2.entrySet()) {
+                String fitur_s2 = entry2.getKey();
+                nilai_gsf_csf value_s2 = entry2.getValue();
+                
+                //jika fitur sama maka masuk
+                if(fitur_p2.equals(fitur_s2)){
+                    ketemu = 1;
+                    break;
+                }
+            }
+            
+            //jika gk ada yang sama maka masuk fitur_beda1
+            if(ketemu == 0){
+                fitur_beda2.put(fitur_p2, value_p2);
+            }
+        }
+        
+//        System.out.println("Print SAMA1");
+//        for (Map.Entry entry : fitur_sama1.entrySet()) {
+//            System.out.println(entry.getKey() + ", " + entry.getValue());
+//        }
+//        
+//        System.out.println("Print SAMA2");
+//        for (Map.Entry entry : fitur_sama2.entrySet()) {
+//            System.out.println(entry.getKey() + ", " + entry.getValue());
+//        }
+//        
+//        System.out.println("Print BEDA1");
+//        for (Map.Entry entry : fitur_beda1.entrySet()) {
+//            System.out.println(entry.getKey() + ", " + entry.getValue());
+//        }
+//        
+//        System.out.println("Print BEDA2");
+//        for (Map.Entry entry : fitur_beda2.entrySet()) {
+//            System.out.println(entry.getKey() + ", " + entry.getValue());
+//        }
+        
+        Map<String, nilai_gsf_csf> new_fitur_sama1 = fitur_sama1;
+        Map<String, nilai_gsf_csf> new_fitur_sama2 = fitur_sama2;
+        
+        //hitung kemiripan dari fitur_beda1 untuk membentuk new_fitur_sama1
+        for (Map.Entry<String, nilai_gsf_csf> entry : fitur_beda1.entrySet()) {
+            String fitur1           = entry.getKey();
+            nilai_gsf_csf value1    = entry.getValue();
+            
+            double max_bobot_similar    = 0.0;
+            int ketemu                  = 0;
+            String key_sama1            = "";
+            
+            for (Map.Entry<String, nilai_gsf_csf> entry2 : fitur_sama1.entrySet()) {
+                String fitur_s1         = entry2.getKey();
+                nilai_gsf_csf value_s1  = entry2.getValue();
+                //hitung bobot kemiripan dengan jaccard
+                Jaccard ja = new Jaccard(3);
+                //System.out.println("CEK "+fitur1 + ", "+ fitur_s1);
+                double similarity_check = ja.similarity(fitur1, fitur_s1);
+                //System.out.println("nilai : "+similarity_check);
+                if(similarity_check > max_bobot_similar){ //threshold sementara 0, jika perlu threshold maka masukkan disini
+                    max_bobot_similar   = similarity_check;
+                    key_sama1           = fitur_s1;
+                    ketemu              = 1;
+                    //System.out.println("ADA : "+key_sama1 + ", bobot : "+ max_bobot_similar);
+                }
+            }
+            
+            //System.out.println("key besar : "+key_sama1 + ", bobot : "+ max_bobot_similar + " KETEMU : "+ketemu);
+            //jika ada maka update nilai new_fitur_sama1
+            if(ketemu == 1 && new_fitur_sama1.containsKey(key_sama1)){ System.out.println("masuk update : "+key_sama1);
+                double gsf_lama = new_fitur_sama1.get(key_sama1).gsf;
+                double csf_lama = new_fitur_sama1.get(key_sama1).csf;
+                double gsf_baru = gsf_lama + (value1.gsf * max_bobot_similar);
+                double csf_baru = csf_lama + (value1.csf * max_bobot_similar);
+                nilai_gsf_csf nilai_baru = new nilai_gsf_csf(gsf_baru, csf_baru); 
+                new_fitur_sama1.put(key_sama1, nilai_baru);
+            }
+        }
+        
+        //hitung kemiripan dari fitur_beda1 untuk membentuk new_fitur_sama1
+        for (Map.Entry<String, nilai_gsf_csf> entry : fitur_beda2.entrySet()) {
+            String fitur2           = entry.getKey();
+            nilai_gsf_csf value2    = entry.getValue();
+            
+            double max_bobot_similar    = 0.0;
+            int ketemu                  = 0;
+            String key_sama2            = "";
+            
+            for (Map.Entry<String, nilai_gsf_csf> entry2 : fitur_sama2.entrySet()) {
+                String fitur_s2         = entry2.getKey();
+                nilai_gsf_csf value_s2  = entry2.getValue();
+                //hitung bobot kemiripan dengan jaccard
+                Jaccard ja = new Jaccard(3);
+                //System.out.println("CEK "+fitur2 + ", "+ fitur_s2);
+                double similarity_check = ja.similarity(fitur2, fitur_s2);
+                if(similarity_check > max_bobot_similar){ //threshold sementara 0, jika perlu threshold maka masukkan disini
+                    max_bobot_similar   = similarity_check;
+                    key_sama2           = fitur_s2;
+                    ketemu              = 1;
+                }
+            }
+            
+            //jika ada maka update nilai new_fitur_sama1
+            if(ketemu == 1 && new_fitur_sama2.containsKey(key_sama2)){
+                double gsf_lama = new_fitur_sama2.get(key_sama2).gsf;
+                double csf_lama = new_fitur_sama2.get(key_sama2).csf;
+                double gsf_baru = gsf_lama + (value2.gsf * max_bobot_similar);
+                double csf_baru = csf_lama + (value2.csf * max_bobot_similar);
+                nilai_gsf_csf nilai_baru = new nilai_gsf_csf(gsf_baru, csf_baru); 
+                new_fitur_sama2.put(key_sama2, nilai_baru);
+            }
+        }
+        
+//        System.out.println("Print NILAI1");
+//        for (Map.Entry entry : new_fitur_sama1.entrySet()) {
+//            System.out.println(entry.getKey() + ", " + entry.getValue());
+//        }
+//        
+//        System.out.println("Print NILAI2");
+//        for (Map.Entry entry : new_fitur_sama2.entrySet()) {
+//            System.out.println(entry.getKey() + ", " + entry.getValue());
+//        }
+        
+        
+        //hitung skor fitur produk 1
+        Map<String, Double> skor_fitur1 = new HashMap<String, Double>();
+        double my_alpha = proc.alpha;
+        double max_gfs1  = 0.0;
+        double min_gfs1  = 1000000.0;
+        double max_cfs1  = 0.0;
+        double min_cfs1  = 1000000.0;
+        
+        //cari max dan min gfs dan cfs produk 1
+        for (Map.Entry<String, nilai_gsf_csf> entry : fitur_sama1.entrySet()) {
+            String fitur1           = entry.getKey();
+            nilai_gsf_csf value1    = entry.getValue();
+            if(value1.gsf > max_gfs1){
+                max_gfs1 = value1.gsf;
+            }
+            if(value1.gsf < min_gfs1){
+                min_gfs1 = value1.gsf;
+            }
+            if(value1.csf > max_cfs1){
+                max_cfs1 = value1.csf;
+            }
+            if(value1.csf < min_cfs1){
+                min_cfs1 = value1.csf;
+            }
+        }
+        
+        for (Map.Entry<String, nilai_gsf_csf> entry : fitur_sama1.entrySet()) {
+            String fitur1           = entry.getKey();
+            nilai_gsf_csf value1    = entry.getValue();
+            
+            Double nilai = (my_alpha*((value1.gsf-min_gfs1)/(max_gfs1-min_gfs1)))+((1-my_alpha)*((value1.csf-min_cfs1)/(max_cfs1-min_cfs1)));
+            skor_fitur1.put(fitur1,nilai);
+        }
+        
+        //hitung skor fitur produk 2
+        Map<String, Double> skor_fitur2 = new HashMap<String, Double>();
+        double max_gfs2  = 0.0;
+        double min_gfs2  = 1000000.0;
+        double max_cfs2  = 0.0;
+        double min_cfs2  = 1000000.0;
+        
+        //cari max dan min gfs dan cfs produk 1
+        for (Map.Entry<String, nilai_gsf_csf> entry : fitur_sama2.entrySet()) {
+            String fitur2           = entry.getKey();
+            nilai_gsf_csf value2    = entry.getValue();
+            if(value2.gsf > max_gfs2){
+                max_gfs2 = value2.gsf;
+            }
+            if(value2.gsf < min_gfs2){
+                min_gfs2 = value2.gsf;
+            }
+            if(value2.csf > max_cfs2){
+                max_cfs2 = value2.csf;
+            }
+            if(value2.csf < min_cfs2){
+                min_cfs2 = value2.csf;
+            }
+        }
+        
+        for (Map.Entry<String, nilai_gsf_csf> entry : fitur_sama2.entrySet()) {
+            String fitur2           = entry.getKey();
+            nilai_gsf_csf value2    = entry.getValue();
+            
+            Double nilai = (my_alpha*((value2.gsf-min_gfs2)/(max_gfs2-min_gfs2)))+((1-my_alpha)*((value2.csf-min_cfs2)/(max_cfs2-min_cfs2)));
+            skor_fitur2.put(fitur2,nilai);
+        }
+        
+        System.out.println("Print FITUR 1");
+        for (Map.Entry entry : skor_fitur1.entrySet()) {
+            System.out.println(entry.getKey() + ", " + entry.getValue());
+        }
+        
+        System.out.println("Print FITUR 2");
+        for (Map.Entry entry : skor_fitur2.entrySet()) {
+            System.out.println(entry.getKey() + ", " + entry.getValue());
+        }
+        
+        //        System.exit(0);
+        //HITUNG SKOR AKHIR PAKE RUMUS BARU
+        
         int t = Math.max(j, k) + 3;
-        for (int v = 0; v < lhc.size(); v++) {
-            Label lblF = new Label(0, t, lhc.get(v).getKategory());
-            Label lblS1 = new Label(1, t, "" + lhc.get(v).getProduk1());
-            Label lblS2 = new Label(2, t, "" + lhc.get(v).getProduk2());
+        double total_bobot = 0.0;
+        double skor_akhir1 = 0.0;
+        double skor_akhir2 = 0.0;
+        for (Map.Entry<String, Double> entry : skor_fitur1.entrySet()) {
+            String get_label1 = entry.getKey();
+            Double get_nilai_label1 = entry.getValue();
+            
+            Label lblF = new Label(0, t, get_label1);
+            Label lblS1 = new Label(1, t, "" + get_nilai_label1);
             sheet.addCell(lblF);
             sheet.addCell(lblS1);
-            sheet.addCell(lblS2);
             t++;
-        }
-
-        workbook.write();
-        workbook.close();
-
-        
-        
-//        for (int x = 0; x < lhc.size(); x++) {
-//            double skor = 0.0;
-//            for (int y = 0; y < relevan.size(); y++) {
-//                if (lhc.get(x).getKategory().contains(relevan.get(y))) {
-//                    skor = sv.bobotRelevansi.get(lhc.get(x).getKategory());
-//                }
-//            }
-//            if (lhc.get(x).getProduk1() > lhc.get(x).getProduk2()) {
-//                skor1 = skor1 + skor;
-//            } else if (lhc.get(x).getProduk1() < lhc.get(x).getProduk2()){
-//                skor2 = skor2 + skor;
-//            }
-//        }
-        double skor1 = 0.0, skor2 = 0.0, bobot = 0.0;
-        //rumus baru
-        for (int x = 0; x < lhc.size(); x++) {
-           skor1 = skor1 + (sv.bobotRelevansi.get(lhc.get(x).getKategory()) * lhc.get(x).getProduk1());
-           skor2 = skor2 + (sv.bobotRelevansi.get(lhc.get(x).getKategory()) * lhc.get(x).getProduk2());
-           bobot = bobot + sv.bobotRelevansi.get(lhc.get(x).getKategory());
+            total_bobot = total_bobot + sv.bobotRelevansi.get(get_label1);
+            skor_akhir1 = skor_akhir1 + (sv.bobotRelevansi.get(get_label1) * get_nilai_label1);
         }
         
-        double skor_akhir1, skor_akhir2;
+        int t2 = Math.max(j, k) + 3;
+        for (Map.Entry<String, Double> entry : skor_fitur2.entrySet()) {
+            String get_label2 = entry.getKey();
+            Double get_nilai_label2 = entry.getValue();
+            
+            Label lblS2 = new Label(2, t2, "" + get_nilai_label2);
+            sheet.addCell(lblS2);
+            t2++;
+            skor_akhir2 = skor_akhir2 + (sv.bobotRelevansi.get(get_label2) * get_nilai_label2);
+        }
         
-        skor_akhir1 = skor1/bobot;
-        skor_akhir2 = skor2/bobot;
+        Double new_skor_akhir1, new_skor_akhir2;
+        
+        new_skor_akhir1 = skor_akhir1/total_bobot;
+        new_skor_akhir2 = skor_akhir2/total_bobot;
         
         String pp = "";
 
 ////======Tampilkan Hasil Perbandingan Skor Rekomendasi===========================
-        if (skor_akhir1 < skor_akhir2) {
+        if (new_skor_akhir1 < new_skor_akhir2) {
             System.out.println("2");
             pp = "2";
-        } else if (skor_akhir1 > skor_akhir2) {
+        } else if (new_skor_akhir1 > new_skor_akhir2) {
             System.out.println("1");
             pp = "1";
         } else {
@@ -682,18 +905,18 @@ public class MainProgram extends javax.swing.JFrame {
         }
         
         System.out.println("HASILNYA:");
-        System.out.println(skor_akhir1);
-        System.out.println(skor_akhir2);
+        System.out.println(new_skor_akhir1);
+        System.out.println(new_skor_akhir2);
 
-        jLabel13.setText("" + skor_akhir1);
-        jLabel14.setText("" + skor_akhir2);
-        jTable1.setModel(new ModelHasil(lhc));
+        jLabel13.setText("" + new_skor_akhir1);
+        jLabel14.setText("" + new_skor_akhir2);
+//        jTable1.setModel(new ModelHasil(lhc));
         
         Label lblakhir = new Label(10, 2, "HASIL AKHIR");
         Label lblakhir1 = new Label(10, 3, "Produk 1");
         Label lblakhir2 = new Label(11, 3, "Produk 2");
-        Label lblakhir11 = new Label(10, 4, String.valueOf(skor_akhir1));
-        Label lblakhir22 = new Label(11, 4, String.valueOf(skor_akhir2));
+        Label lblakhir11 = new Label(10, 4, String.valueOf(new_skor_akhir1));
+        Label lblakhir22 = new Label(11, 4, String.valueOf(new_skor_akhir2));
         Label lblakhir3 = new Label(10, 5, "Pemenangnya adalah produk "+pp);
         sheet.addCell(lblakhir);
         sheet.addCell(lblakhir1);
@@ -701,6 +924,11 @@ public class MainProgram extends javax.swing.JFrame {
         sheet.addCell(lblakhir11);
         sheet.addCell(lblakhir22);
         sheet.addCell(lblakhir3);
+
+
+        workbook.write();
+        workbook.close();
+
     }
 
     /** This method is called from within the constructor to

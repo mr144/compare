@@ -1,0 +1,6 @@
+memory,card,sdcard,storage,bit,byte,hd,gb,mb,ram
+phone,smarphone,smartphone,cellphone,cell,smart-phone,cellular,product,problem
+network,connection,internet,3g
+price,cost,price,money,buy,purchase,deal
+application,app,application,apps
+performance,work,quality
